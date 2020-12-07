@@ -1,9 +1,9 @@
 ﻿ Namo tassa bhagavato arahato sammāsambuddhassa
 Vinayapiṭake
 Parivārapāḷi
-
+1. Bhikkhuvibhaṅgo
 Soḷasamahāvāro
-
+1. Katthapaññattivāro
 1. Pārājikakaṇḍaṃ
 1 .     
 2 .     a. ni. 10.31 
@@ -442,7 +442,7 @@ Tesaṃ vaggānamuddānaṃ –
 
 
 Mahāvibhaṅge katthapaññattivāro niṭṭhito.
-
+2. Katāpattivāro
 1. Pārājikakaṇḍaṃ
 157 .   vivaṭakate (syā.)
 158 .
@@ -711,27 +711,27 @@ Surusuruvaggo chaṭṭho.
 Pādukavaggo sattamo.
 Sekhiyā niṭṭhitā.
 Katāpattivāro niṭṭhito dutiyo.
-
+3. Vipattivāro
 182 . 
  
 Vipattivāro niṭṭhito tatiyo.
-
+4. Saṅgahitavāro
 183 . 
 
 Saṅgahitavāro niṭṭhito catuttho.
-
+5. Samuṭṭhānavāro
 184 .  samuṭṭhahanti (sī. syā.)
  
 Samuṭṭhānavāro niṭṭhito pañcamo.
-
+6. Adhikaraṇavāro
 185 . 
 
 Adhikaraṇavāro niṭṭhito chaṭṭho.
-
+7. Samathavāro
 186 . 
 
 Samathavāro niṭṭhito sattamo.
-
+8. Samuccayavāro
 187 .   
 
 
@@ -741,7 +741,7 @@ Ime aṭṭha vārā sajjhāyamaggena likhitā.
 Tassuddānaṃ –
 
 
-
+1. Katthapaññattivāro
 1. Pārājikakaṇḍaṃ
 188 . 
   
@@ -774,7 +774,7 @@ Cattāro pārājikā niṭṭhitā.
  
 
 Katthapaññattivāro niṭṭhito paṭhamo.
-
+2. Katāpattivāro
 1. Pārājikakaṇḍaṃ
 193 .    
 
@@ -797,35 +797,35 @@ ekapiṇḍe (syā.)
 
  
 Katāpattivāro niṭṭhito dutiyo.
-
+3. Vipattivāro
 195 . 
 
 Vipattivāro niṭṭhito tatiyo.
-
+4. Saṅgahitavāro
 196 .  
 
 Saṅgahitavāro niṭṭhito catuttho.
-
+5. Samuṭṭhānavāro
 197 .  
 
 Samuṭṭhānavāro niṭṭhito pañcamo.
-
+6. Adhikaraṇavāro
 198 .  
 
 Adhikaraṇavāro niṭṭhito chaṭṭho.
-
+7. Samathavāro
 199 . 
 
 Samathavāro niṭṭhito sattamo.
-
+8. Samuccayavāro
 200 .   
   
 Samuccayavāro niṭṭhito aṭṭhamo.
 Aṭṭhapaccayavārā niṭṭhitā.
 Mahāvibhaṅge soḷasamahāvārā niṭṭhitā.
 Bhikkhuvibhaṅgamahāvāro niṭṭhito.
-
-
+Bhikkhunīvibhaṅgo
+1. Katthapaññattivāro
 1. Pārājikakaṇḍaṃ
 201 .    
 202 .     a. ni. 10.31 arahantā (ka.)
@@ -1064,7 +1064,7 @@ Tassuddānaṃ –
 Ye sikkhāpadā bhikkhuvibhaṅge vitthāritā te saṃkhittā
 
 Katthapaññattivāro niṭṭhito paṭhamo.
-
+2. Katāpattivāro
 1. Pārājikakaṇḍaṃ
 228 .    
 

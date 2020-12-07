@@ -1,5 +1,5 @@
 ﻿
-1-7 paṭiccavārādi
+
 
  akusalaṃ kilesaṃ dhammaṃ paṭicca akusalo kileso dhammo uppajjati hetupaccayā (saṃkhittaṃ)
 hetuyā  ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -13,8 +13,8 @@ akusalaṃ nokilesañca abyākataṃ nokilesañca dhammaṃ paṭicca abyākato 
  kusalo nokileso dhammo kusalassa nokilesassa dhammassa hetupaccayena paccayo tīṇi
 abyākato nokileso dhammo abyākatassa nokilesassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā cattāri ārammaṇe nava avigate terasa (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-76 kusalattika-saṃkilesikadukaṃ
-1-7 paṭiccavārādi
+
+
 
  kusalaṃ  saṃkilesikaṃ dhammaṃ paṭicca kusalo saṃkilesiko dhammo uppajjati hetupaccayā tīṇi
 akusalaṃ saṃkilesikaṃ dhammaṃ paṭicca akusalo saṃkilesiko dhammo uppajjati hetupaccayā tīṇi
@@ -33,8 +33,8 @@ abyākataṃ asaṃkilesikaṃ dhammaṃ paṭicca abyākato asaṃkilesiko dham
 abyākato asaṃkilesiko dhammo abyākatassa asaṃkilesikassa dhammassa hetupaccayena paccayo (1)
 abyākato  asaṃkilesiko dhammo abyākatassa asaṃkilesikassa dhammassa ārammaṇapaccayena paccayo abyākato asaṃkilesiko dhammo kusalassa asaṃkilesikassa dhammassa ārammaṇapaccayena paccayo (2) (saṃkhittaṃ)
  hetuyā dve ārammaṇe dve adhipatiyā tīṇi anantare dve upanissaye cattāri avigate dve (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-77 kusalattika-saṃkiliṭṭhadukaṃ
-1-7 paṭiccavārādi
+
+
 
  akusalaṃ  saṃkiliṭṭhaṃ dhammaṃ paṭicca akusalo saṃkiliṭṭho dhammo uppajjati hetupaccayā (saṃkhittaṃ)
 hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -49,12 +49,12 @@ abyākato asaṃkiliṭṭho dhammo abyākatassa asaṃkiliṭṭhassa dhammassa
 kusalo asaṃkiliṭṭho dhammo kusalassa asaṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo dve
 abyākato asaṃkiliṭṭho dhammo abyākatassa asaṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo dve (saṃkhittaṃ)
  hetuyā cattāri ārammaṇe cattāri adhipatiyā pañca anantare cattāri upanissaye cattāri avigate satta (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-78 kusalattika-kilesasampayuttadukaṃ
-1-7 paṭiccavārādi
+
+
 
  akusalaṃ kilesasampayuttaṃ dhammaṃ paṭicca akusalo kilesasampayutto dhammo uppajjati hetupaccayā (saṃkiliṭṭhadukasadisaṃ)
-1-79 kusalattika-kilesasaṃkilesikadukaṃ
-1-7 paṭiccavārādi
+
+
 
  akusalaṃ  kilesañceva saṃkilesikañca dhammaṃ paṭicca akusalo kileso ceva saṃkilesiko ca dhammo uppajjati hetupaccayā (saṃkhittaṃ)
 hetuyā  ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -68,8 +68,8 @@ akusalaṃ saṃkilesikañceva no ca kilesañca abyākataṃ saṃkilesikañceva
  kusalo saṃkilesiko ceva no ca kileso dhammo kusalassa saṃkilesikassa  ceva no ca kilesassa dhammassa hetupaccayena paccayo tīṇi
 abyākato saṃkilesiko ceva no ca kileso dhammo abyākatassa saṃkilesikassa ceva no ca kilesassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā  cattāri ārammaṇe nava adhipatiyā nava avigate terasa (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-80 kusalattika-kilesasaṃkiliṭṭhadukaṃ
-1-7 paṭiccavārādi
+
+
 
  akusalaṃ  kilesañceva saṃkiliṭṭhañca dhammaṃ paṭicca akusalo kileso ceva saṃkiliṭṭho ca dhammo uppajjati hetupaccayā (saṃkhittaṃ)
 hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -77,8 +77,8 @@ hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
  akusalaṃ saṃkiliṭṭhañceva no ca kilesaṃ dhammaṃ paṭicca akusalo saṃkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā
 hetuyā ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi pañhāvārepi sabbattha ekaṃ)
-1-81 kusalattika-kilesakilesasampayuttadukaṃ
-1-7 paṭiccavārādi
+
+
 
  akusalaṃ  kilesañceva kilesasampayuttañca dhammaṃ paṭicca akusalo kileso ceva kilesasampayutto ca dhammo uppajjati hetupaccayā
 hetuyā  ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -86,8 +86,8 @@ hetuyā  ekaṃ avigate ekaṃ (saṃkhittaṃ)
  akusalaṃ kilesasampayuttañceva no ca kilesaṃ dhammaṃ paṭicca akusalo kilesasampayutto ceva no ca kileso dhammo uppajjati hetupaccayā (saṃkhittaṃ)
 hetuyā ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi pañhāvārepi sabbattha ekaṃ)
-1-82 kusalattika-kilesavippayuttasaṃkilesikadukaṃ
-1-7 paṭiccavārādi
+
+
 
  kusalaṃ  kilesavippayuttaṃ saṃkilesikaṃ dhammaṃ paṭicca kusalo kilesavippayutto saṃkilesiko dhammo uppajjati hetupaccayā kusalaṃ kilesavippayuttaṃ saṃkilesikaṃ dhammaṃ paṭicca abyākato kilesavippayutto saṃkilesiko dhammo uppajjati hetupaccayā kusalaṃ kilesavippayuttaṃ saṃkilesikaṃ dhammaṃ paṭicca kusalo kilesavippayutto saṃkilesiko ca abyākato  kilesavippayutto saṃkilesiko ca dhammā uppajjanti hetupaccayā (3)
 abyākataṃ kilesavippayuttaṃ saṃkilesikaṃ dhammaṃ paṭicca abyākato kilesavippayutto saṃkilesiko dhammo uppajjati hetupaccayā (1)

@@ -1,5 +1,5 @@
 ﻿
-saññā
+
 
 akkharāpi  akārādayo ekacattālīsaṃ suttantopakārā taṃ yathā-a ā-i ī-u ū-e o ka kha ga gha ṅa ca cha ja jha ña ṭa ṭha ḍa ḍha ṇa ta tha da dha na pa pha ba bha ma ya ra la va sa ha ḷa aṃ-iti
 
@@ -20,7 +20,7 @@ bindu  cūḷāmaṇākāro niggahītanti vuccate
 kevalassā ppayogattā akāro sannidhīyate
  a kavagga hā kaṇḍajā i cavagga yā tālujā u pavaggā oṭṭhajā ṭavagga ra ḷā muddhajā tavagga la sā dantajā e kaṇṭhatālujo o kaṇṭhoṭṭhajo vo dantoṭṭhajo
 
-sarasandhi
+
  loka  aggoityasmiṃ  pubbamadhoṭhita massaraṃ sarena viyojayeti pubbabyañjanaṃ sarato puthakkātabbaṃ
 
 anantare sare pare sarā lopaṃ papponti
@@ -66,7 +66,7 @@ ettha sare kvacīti sarānaṃ pakati hoti sassarūpameva na vikārotyattho
  abhi  uggatotyatra 
 abbho abhīti abhissa abbho abbhuggato
 
-byañjanasandhi
+
  byañjanetyadhikāro kvacītveva so bhikkhu kacci nu tvaṃ jānema tantīha 
 
 byañjane pare sarānaṃ kvaci lopohoti tatra lutte ṭhāne akārāgamo cakārena okārukārāpi sabhikkhu kaccino tvaṃ jānemu taṃ
@@ -78,7 +78,7 @@ vagge ghosāghosānaṃ catutthadutiyānaṃ tabbagge tatiyapaṭhamā honti yat
  ava naddhātyatra  o avasseti kvaci avassa o onaddhā
 kvacīti kiṃ avasussatu
 
-niggahītasandhi
+
  niggahītantyadhikāro  kiṃ kato saṃ jāto saṃ ṭhito taṃ dhanaṃ taṃ mittantiha 
 
 vaggabyañjane pare bindussa tabbagganto vā hoti kiṅkato sañjāto saṇṭhito tandhanaṃ tammittaṃ
@@ -108,7 +108,7 @@ binduto paro saro vā lupyate bījaṃva
 
 binduto pare sare lutte saṃyogo byañjano vinaṭṭhasaṃyogo hotīti pubbasalopo evaṃsa
 
-vomissaka sandhī
+
 
 idhāniddiṭṭhā  sandhayo vuttānusārena ñe yyā yathā  yadi evaṃ bodhi aṅgātīha  yādese iminā suttena dayakārasaṃyogassa jo dhayakārasaṃyogassa jho dvitte  yajjevaṃ bojjhaṅgā
  asadisasaṃyoge  ekasarūpatā ca

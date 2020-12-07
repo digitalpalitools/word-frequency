@@ -12,8 +12,8 @@ Bodhisattaṅkuro bhāsaṃ, viroci vāca māsabhiṃ.
 167 .
 parā
 
-
-
+Vaṅkavutti atthālaṅkāra
+Uddesa
 168 .
 
 
@@ -29,7 +29,7 @@ parā
 172 .
 bhāvo jīvita
 sileso siriṃ
-
+Niddesa
 173 .
 tisayavutti
 dvidhā.
@@ -121,11 +121,11 @@ Dutiyo nanu natthe’va, pārijātassa pādapo.
 202 .
 
 vākyatthopamā dvidhā.
-
+Ivayuttā
 203 .
 Jino saṃklesatattānaṃ, āvibhūto janāna’yaṃ;
 Ghammasantāpatattānaṃ, ghammakāle’mbudo viya.
-
+Ivaviyuttā
 204 .
 Munindānana mābhāti, vilāsekamanoharaṃ;
 Uddhaṃ samuggatassā’pi, kiṃ te canda vijambhanā.
@@ -156,30 +156,30 @@ rūpaka
 213 .
 Asesa vatthu visayaṃ, ekadesa vivutti vivatti (ṭīkā)
 dvidhā tidhā.
-
+Asesavatthuvisayasamāsa
 214 .
 
 
-
+Asesavatthuvisayaasamāsa
 215 .
 
 
-
+Asesavatthuvisayamissaka
 216 .
 
 
 217 .
 Asesavatthuvisaye,
 Ekadesavivuttimhi,
-
+Ekadesavivuttisamāsa
 218 .
 
 
-
+Ekadesavivuttiasamāsa
 219 .
 
 
-
+Ekadesavivuttimissaka
 220 .
 
 
@@ -195,34 +195,34 @@ khaṇḍarūpakaṃ;
 224 .
 punappunuccāraṇaṃ yaṃ (sī. ka.)
 māvutti
-
+Atthāvutti
 225 .
 harati ādadāti
 Gaṇhāti
-
+Padāvutti
 226 .
 Vibhāsenti
 Vibhā senti
-
+Ubhayāvutti
 227 .
 viharati
 Viharatya’
 228 .
 
 Dīpakaṃ tidhā.
-
+Ādi dīpaka
 229 .
 Akāsi
 
-
+Majjhe dīpaka
 230 .
 jāyate’
 
-
+Antadīpaka
 231 .
 
 bhave.
-
+Mālādīpaka
 232 .
 
 
@@ -250,49 +250,49 @@ Anāgatakkhepo.
 239 .
 atthantaranyāso,
 Sabbabyāpī visesaṭṭho,
-
+Hi rahita sabbabyāpī
 240 .
 
 
-
+Hi sahita sabbabyāpī
 241 .
 
 hi
-
+Hi rahita visesaṭṭha
 242 .
  pāpesi (ka.)
 
-
+Hi sahita visesaṭṭha
 243 .
 
 
 244 .
 
 Byatireko’ catubbidho.
-
+Vāccaekabyatireka
 245 .
 
 
-
+Vācca ubhayabyatireka
 246 .
 
 
-
+Gamma ekabyatireka
 247 .
 
 
-
+Gammaubhayabyatireka
 248 .
 
 
 249 .
 
 vibhāvanā.
-
+Kāraṇantaravibhāvanā
 250 .
 Anañjitā’sitaṃ nettaṃ, adharo rañjitā’ruṇo;
 Samānatā bhamu cā’yaṃ, jinā’nāvañcitā tava.
-
+Sābhāvika vibhāvanā
 251 .
 
 
@@ -340,11 +340,11 @@ Samāsavutti
 264 .
  bhinnā’bhinnavisesanā;
 bhinnā’bhinnavisesanā.
-
+Abhinnavisesana
 265 .
 
 
-
+Bhinnābhinnavisesana
 266 .
 
 
@@ -357,22 +357,22 @@ parikappanā.
 269 .
 
 
-
+Upamābbhantaraparikappanā
 270 .
 
 
-
+Kriyāparikappanā
 271 .
 
 
-
+Guṇaparikappanā
 272 .
 
 
 273 .
 
 
-
+Gammaparikappanā
 274 .
 
 
@@ -441,37 +441,37 @@ Bhinnābhinnapadavākyasileso.
 293 .
 padajāti (ka.)
 
-
+Viruddhakammasilesa
 294 .
 
 
-
+Aviruddhakammasilesa
 295 .
 
 
-
+Abhinnakammasilesa
 296 .
 
 
-
+Niyamavantasilesa
 297 .
 
 
-
+Niyamakkhepasilesa
 298 .
 
 
-
+Avirodhisilesa
 299 .
 
 
 
-
+Virodhisilesa
 300 .
 
 
 
-
+Ocityasamposakapadasilesa
 301 .
 
 
@@ -484,33 +484,33 @@ Ubhohi raṃsimālī ca, bhagavā ca tamonudo.
 304 .
 
 nidassanaṃ.
-
+Asantaphalanidassana
 305 .
 
 
-
+Santaphalanidassana
 306 .
 
 
 307 .
 
 mahantatta
-
+Vibhūtimahantatta
 308 .
 
 
-
+Adhippāyamahantatta
 309 .
 
 
 310 .
 
 vañcanā
-
+Asamavañcanā
 311 .
 
 
-
+Samavañcanā
 312 .
 
 
@@ -523,11 +523,11 @@ Anāyāso palābhehi, jaladabbhaṅkurādibhi.
 315 .
 
 ekāvali
-
+Vidhiekāvali
 316 .
 
 
-
+Nisedhaekāvali
 317 .
 
 
@@ -541,11 +541,11 @@ Mahantiṃ vindatī kantiṃ, sopi teneva tādisiṃ.
 320 .
 
 ‘Sahavuttī’
-
+Kriyāsahavutti
 321 .
 
 
-
+Guṇasahavutti
 322 .
 
 
@@ -576,11 +576,11 @@ Manampi mariyādaṃ ye, saṃvaṭṭepi jahanti no.
 331 .
 
 ‘missa’
-
+Aṅgaṅgībhāvamissa
 332 .
 
 
-
+Sadisa bala bhāva missa
 333 .
 
 

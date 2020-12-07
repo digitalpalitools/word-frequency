@@ -189,7 +189,7 @@ Indriyaparopariyattañāṇa  Avariyānī Oparānī
 Imāni tesattati ñāṇānī Imesaṃ tesattatiyā ñāṇāna Sattasaṭṭhi ñāṇānī Sāvakasādhāraṇānī Cha ñāṇānī Asādhāraṇāni sāvakehī
 Saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
 Ñāṇakathāmātikuddesavāravaṇṇanā niṭṭhitā.
-
+1. Sutamayañāṇaniddesavaṇṇanā
 Vissajjanuddesavaṇṇanā
 1 .   kathaṃ sotāvadhāne paññā sutamaye ñāṇa 
 adiṭṭhajotanā
@@ -757,7 +757,7 @@ Saccapakiṇṇakavaṇṇanā niṭṭhitā.
   
 Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
 Sutamayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+2. Sīlamayañāṇaniddesavaṇṇanā
 37 .  pañcā Sīlānī Pariyantapārisuddhisīla apariyantā, paripūṇṇā aparāmaṭṭhā.  paṭippassaddhi. Anupasampannāna
 Pariyantasikkhāpadāna   
 Apariyantasikkhāpadāna
@@ -889,7 +889,7 @@ imā tisso sikkhāyo āvajjanto sikkhatī   pañca sīlānī Arahattamaggena sab
 42 .
 Saṃvarapārisuddhiṃ sammā passati, avikkhepapārisuddhiṃ sammā passatī Āvajjanto sikkhatī Saddhāya adhimuccanto sikkhatī
 Sīlamayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+3. Samādhibhāvanāmayañāṇaniddesavaṇṇanā
 43 .  eko samādhī cittassa ekaggatā lokiyo Lokuttaro savitakkasavicāro avitakkaavicāro avitakkavicāramatto  uddhānussati  avikkhepo dhammānussati saṅghānussati  sīlānussati cāgānussati devatānussati
 samādhikusalatā
 Samādhissa samāpattikusalatā
@@ -910,7 +910,7 @@ Ekattupaṭṭhānavasena  cittassa ṭhitattā
 samaṃ esatīti samādhī sama Iti Visamaṃ nesatī samaṃ esati, visamaṃ nesati samaṃ ādiyati, visamaṃ nādiyati samaṃ paṭipajjati, visamaṃ nappaṭipajjati Samaṃ jhāyatī Jhāyatī  Jhāpetī Samaṃ jhātattā
 Samo  ca hito ca sukho cāti samādhī samo Hito  Sukho
 Samādhibhāvanāmayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+4. Dhammaṭṭhitiñāṇaniddesavaṇṇanā
 45 .  avijjāsaṅkhārānaṃ uppādaṭṭhitī uppādaṭṭhiti pavattaṭṭhiti  Pavatta nimittaṭṭhitī āyūhanaṭṭhitī saññogaṭṭhiti palibodhaṭṭhitī samudayaṭṭhiti, hetuṭṭhiti paccayaṭṭhitī 
 Bhavo  jātiyā, jāti jarāmaraṇassā Avijjā paccayo ubhopete dhammā paccayasamuppannāti paccayapariggahe paññā Jāti paccayo, jarāmaraṇaṃ paccayasamuppanna Atītampi addhāna Anāgatampi addhāna
 46 . avijjā hetu, saṅkhārā hetusamuppannā  hetū paccayo avijjā paṭiccā Saṅkhārā paṭiccasamuppannā 
@@ -933,7 +933,7 @@ paṭiccasamuppādo Paṭiccasamuppannā dhammā
 
 Uppādā   vā anuppādā vā Ṭhitāva sā dhātū Dhammaṭṭhitatā dhammaniyāmatā idappaccayatā idappaccayatā. Ta Abhisambujjhatī Abhisametī Ācikkhatī Desetī Paññāpetī Paṭṭhapetī Vivaratī Vibhajatī Uttānīkarotī Iti kho Yā tatrā  tathatā avitathatā anaññathatā idappaccayatā
 Dhammaṭṭhitiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+5. Sammasanañāṇaniddesavaṇṇanā
 48 .  yaṃ kiñcī Rūpa addhāvasena  Santativasena  Samayavasena Khaṇavasena
 Ajjhatta  bahiddhā Oḷārika sukhumaṃ. Hīnaṃ vā paṇītaṃ vā Yaṃ dūre santike vā
 Sabbaṃ  rūpaṃ aniccato vavattheti ekaṃ sammasanaṃ, dukkhato vavattheti ekaṃ sammasanaṃ, anattato vavattheti ekaṃ sammasana  
@@ -957,7 +957,7 @@ rūpaṃ atītānāgatapaccuppannaṃ aniccaṃ saṅkhata  aniccaṃ, saṅkhat
 Jarāmaraṇaṃ anicca
 Jātipaccayā jarāmaraṇa Asati jātiyā Asati saṅkhāresū Bhavapaccayā jāti, asatī
 Sammasanañāṇaniddesavaṇṇanā niṭṭhitā.
-
+6. Udayabbayañāṇaniddesavaṇṇanā
 49 .   jātaṃ rūpa Tassa nibbattilakkhaṇaṃ udayo vipariṇāmalakkhaṇaṃ vayo anupassanā jātaṃ cakkhu…pe… jāto bhavo 
 50 . pañcannaṃ khandhānaṃ udayaṃ passanto kati lakkhaṇāni passatī pañcavīsati lakkhaṇāni passatī  rūpakkhandhassa udayaṃ passanto kati lakkhaṇāni passatī rūpakkhandhassa udayaṃ passanto pañca lakkhaṇāni passatī rūpakkhandhassa udayaṃ passanto katamāni pañca lakkhaṇāni passatī
 avijjāsamudayā rūpasamudayo Paccayasamudayaṭṭhenā  Āhārasamudayā Nibbattilakkhaṇa Pañca lakkhaṇānī 
@@ -971,7 +971,7 @@ Avijjānirodhā rūpanirodho Paccayanirodhaṭṭhenā Āhāranirodhā rūpaniro
 
 
 Udayabbayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+7. Bhaṅgānupassanāñāṇaniddesavaṇṇanā
 51 .   rūpārammaṇatā cittaṃ uppajjitvā bhijjatī Taṃ ārammaṇaṃ paṭisaṅkhā Tassa cittassa bhaṅgaṃ anupassatī Citta
 Anupassatī anupassatīti kathaṃ anupassati, aniccato anupassatī    paṭinissajjati, no ādiyatī
 52 . aniccato anupassanto niccasaññaṃ pajahatī nandi Rāga Samudaya Ādāna
@@ -988,7 +988,7 @@ Adhipaññā vipassanā Kusalo tīsu anupassanāsū Catasso ca vipassanāsū Tay
 
 
 Bhaṅgānupassanāñāṇaniddesavaṇṇanā niṭṭhitā.
-
+8. Ādīnavañāṇaniddesavaṇṇanā
 53 .   uppādo Pavatta Nimitta Āyūhanā Paṭisandhī Gatī Nibbattī Upapattī  Jātī Jarā Soko Paridevo Upāyāso
 
 
@@ -1034,12 +1034,12 @@ uppāda  gati
 58 . kati saṅkhārupekkhā kusalā pannarasa saṅkhārupekkhā
 paṭisaṅkhāsantiṭṭhanā paññā  Aṭṭha cittassa gocarā Puthujjanassa dve Tayo sekkhassā  Tayo ca vītarāgassā Yehi cittaṃ vivaṭṭatī  Aṭṭha samādhissa paccayā Dasa ñāṇassa gocarā Tiṇṇaṃ vimokkhāna paccayā Nānādiṭṭhīsu na kampatī
 Saṅkhārupekkhāñāṇaniddesavaṇṇanā niṭṭhitā.
-
+10. Gotrabhuñāṇaniddesavaṇṇanā
 59 .  abhibhuyyatī Bahiddhā saṅkhāranimitta Abhibhuyyatīti gotrabhū  Pakkhandatīti gotrabhū Abhibhuyyitvā pakkhandatīti gotrabhū Vuṭṭhātīti gotrabhū vivaṭṭatīti gotrabhū  
 Pannarasa gotrabhudhammā kusalā
 60 . Sāmisañcā Vaṭṭāmisa Lokāmisa Kilesāmisa Nirāmisa paṇihitaṃ appaṇihitaṃ  saññuttaṃ visaññuttaṃ. Vuṭṭhita avuṭṭhitaṃ   Tiṇṇaṃ vimokkhāna paccayā Paññā yassa pariccitā Kusalo vivaṭṭe vuṭṭhāne Nānādiṭṭhīsu na kampatī
 Gotrabhuñāṇaniddesavaṇṇanā niṭṭhitā.
-
+11. Maggañāṇaniddesavaṇṇanā
 61 .  micchādiṭṭhiyā vuṭṭhātī Tadanuvattakakilesehī sahajekaṭṭhavasena  pahānekaṭṭhavasena Khandhehī Bahiddhā ca sabbanimittehī Micchāsaṅkappā vuṭṭhātī
 Micchāvācāya vuṭṭhātī  Micchākammantā vuṭṭhātī Micchāājīvā  vuṭṭhātī Micchāsatī
  
@@ -1049,34 +1049,34 @@ Samādahitvā yathā ce vipassatī Vipassamāno tathā ce samādahe  Vipassanā 
 Dukkhā saṅkhārā sukho, nirodho iti dassanaṃ. Dubhato vuṭṭhitā  paññā, phasseti amataṃ pada 
 Vimokkhacariyaṃ jānātī Nānattekattakovido Dvinnaṃ ñāṇānaṃ kusalatā Dassana Bhāvanā  
 Maggañāṇaniddesavaṇṇanā niṭṭhitā.
-
+12. Phalañāṇaniddesavaṇṇanā
 63 .   taṃpayogappaṭippassaddhattā Uppajjatī Maggassetaṃ phala
 Phalañāṇaniddesavaṇṇanā niṭṭhitā.
-
+13. Vimuttiñāṇaniddesavaṇṇanā
 64 .  sakkāyadiṭṭhī Vicikicchā Sīlabbataparāmāso  diṭṭhānusayo vicikicchānusayo Upakkilesā Sammā samucchinnā hontī Sapariyuṭṭhānehī  Cittaṃ vimuttaṃ hotī suvimuttaṃ. Taṃvimuttiñātaṭṭhenā
 Vimuttiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+14. Paccavekkhaṇañāṇaniddesavaṇṇanā
 65 .  ādhipateyyaṭṭhenā upaṭṭhānaṭṭhena satipaṭṭhānā
 Tathaṭṭhena saccā   Samudayo  Avikkhepaṭṭhena samatho Saṃvaraṭṭhena sīlavisuddhī Avikkhepaṭṭhena cittavisuddhī Dassanaṭṭhena diṭṭhivisuddhī Vimuttaṭṭhenā Vimokkho Paṭivedhaṭṭhena vijjā Pariccāgaṭṭhena vimuttī Samucchedaṭṭhena khaye ñāṇa
 Vimuttī hetuṭṭhena maggo Sammappadhānā  Vimokkho Vimuttī Paṭippassaddhaṭṭhena anuppāde ñāṇaṃ Vuṭṭhahitvā Ime dhammā tadā samudāgatā 
 Paccavekkhaṇañāṇaniddesavaṇṇanā niṭṭhitā.
-
+15. Vatthunānattañāṇaniddesavaṇṇanā
 66 .   cakkhuṃ ajjhattaṃ vavatthetī kathaṃ cakkhuṃ ajjhattaṃ vavatthetī cakkhu avijjāsambhūtanti vavatthetī Catunnaṃ mahābhūtānaṃ upādāyā Uppanna Samudāgata Ahutvā sambhūta Antavantato Addhuva Asassata Vipariṇāmadhamma Cakkhu anicca cakkhuṃ aniccato Mano avijjāsambhūto Āhārasambhūto Uppanno
 Vatthunānattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+16. Gocaranānattañāṇaniddesavaṇṇanā
 67 .   rūpe bahiddhā vavatthetī Avijjāsambhūtā Dhammā 
 
 
 
 Gocaranānattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+17. Cariyānānattañāṇaniddesavaṇṇanā
 68 .  viññāṇacariyā viññāṇacariyā  aññāṇacariyā ñāṇacariyā. Dassanatthāyā Āvajjanakiriyābyākatā Dassanaṭṭho Cakkhuviññāṇa  Diṭṭhattā Abhiniropanā vipākamanodhātū Abhiniropitattā Vipākamanoviññāṇadhātū Vijānanatthāyā Āvajjanakiriyābyākatā Vijānanaṭṭho 
 69 . nīrāgā caratī  rāgo doso moho māno diṭṭhi uddhaccaṃ. Vicikicchā anusayā nānusayā rāgavippayuttā kusalehi kammehī anavajjāni sukkāni sukhudrayāni, Viññāte caratī viññāṇacariyā Viññāṇassa  evarūpā cariyā hotī Pakatiparisuddhamidaṃ cittaṃ nikkilesaṭṭhenā  viññāṇacariyā
 manāpiyesū Rāgassa javanatthāyā Āvajjanakiriyābyākatā Rāgassa javanā  Aññāṇacariyā Tadubhayena asamapekkhanasmiṃ vatthusmi Mohassa javanatthāyā Aññāṇacariyā Vinibandhassā vinibandhassā Parāmaṭṭhāyā Vikkhepagatassā Aniṭṭhaṅgatāyā Thāmagatassā Dhammesū
 70 . sarāgā caratī sarāgā caratī Sadosā caratī Samohā caratī Samānā caratī Sadiṭṭhi caratī Sauddhaccā carati savicikicchā caratī  Sānusayā caratī Rāgasampayuttā  rāgasampayuttānī kusalehi kammehī aññāte
 71 .  Phalasamāpattī Nīrāgā caratī Ñāte Aññā viññāṇacariyā
 Cariyānānattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+18. Bhūminānattañāṇaniddesavaṇṇanā
 72 .  bhūmiyo Kāmāvacarā   rūpāvacarā  arūpāvacarā apariyāpannā
 heṭṭhato Avīciniraya Pariyantaṃ karitvā Uparito Paranimmitavasavattī deve Anto karitvā Yaṃ etasmiṃ antare Ya Etthāvacarā  Ettha pariyāpannā 
 khandhadhātuāyatanā Brahmaloka Akaniṭṭhe Samāpannassā Upapannassā Diṭṭhadhammasukhavihārissā Cetasikā Ākāsānañcāyatanūpage Maggā  Maggaphalānī Asaṅkhatā ca dhātū
@@ -1086,7 +1086,7 @@ Cattāri saṅgahavatthūnī Dāna Peyyavajja Atthacariyā Samānattatā
 Cattāri cakkānī   patirūpadesavāso Sappurisāvassayo Attasammāpaṇidhī Pubbe ca katapuññatā
 Cattāri dhammapadānī Anabhijjhā dhammapadaṃ Abyāpādo dhammapadaṃ Sammāsati dhammapadaṃ Sammāsamādhi dhammapadaṃ  Imā catasso bhūmiyo
 Bhūminānattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+19. Dhammanānattañāṇaniddesavaṇṇanā
 73 .  kammapathe Dasa kusalakammapathā Dasa akusalakammapathā  Rūpa Vipāka Kiriya
 Idhaṭṭhassā   Tatrūpapannassā Sāmaññaphalānī Nibbāna
 Pāmojjamūlakā Aniccato manasikaroto pāmojjaṃ jāyatī
@@ -1096,32 +1096,32 @@ Pamuditassāti Pītī Pītimanassā  Kāyo Passambhatī Passaddhakāyo  Sukhaṃ
 74 . aniccato rūpaṃ aniccato manasi karotī Yonisomanasikāramūlakā Samāhitena cittenā Yathābhūtaṃ pajānātī Yonisomanasikāro
 Dhātunānattaṃ  paṭicca uppajjati phassanānatta Phassanānattaṃ paṭiccā Vedanānānatta  Saññānānatta Saṅkappanānatta Chandanānatta  Pariḷāhanānatta Pariyesanānānatta Lābhanānatta
 Dhammanānattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+20-24. Ñāṇapañcakaniddesavaṇṇanā
 75 .  Abhiññātā hontī Ñātā hontī Pariññātā hontī Tīritā hontī Pahīnā hontī Pariccattā hontī Bhāvitā hontī Ekarasā hontī Sacchikatā hontī Phassitā hontī
 Ñāṇapañcakaniddesavaṇṇanā niṭṭhitā.
-
+25-28. Paṭisambhidāñāṇaniddesavaṇṇanā
 76 .    Saddhindriyaṃ dhammo añño saddhindriyaṃ dhammo Paṭividitā Adhimokkhaṭṭho attho Sandassetu Byañjananiruttābhilāpā
 sāmaññanāmaṃ guṇanāmaṃ 
 
 
 kittimanāmaṃ opapātikanāmaṃ  
 Paṭisambhidāñāṇaniddesavaṇṇanā niṭṭhitā.
-
+29-31. Ñāṇattayaniddesavaṇṇanā
 78 .  nimitta Animitte Adhimuttattā Phussa phussa vayaṃ passatī Animitto vihāro Paṇidhi Appaṇihite Abhinivesa Suññate Suññato Pavattaṃ ajjhupekkhitvā Āvajjitvā Samāpajjatī Animittā samāpattī Animittavihārasamāpattī
 79 . rūpanimitta vihāraṭṭhe ñāṇaṃ  samāpattaṭṭhe ñāṇaṃ Vihārasamāpattaṭṭhe ñāṇaṃ  
 Ñāṇattayaniddesavaṇṇanā niṭṭhitā.
-
+32. Ānantarikasamādhiñāṇaniddesavaṇṇanā
 80 .  nekkhammavasenā Cittassa ekaggatā avikkhepo Samādhī Tassa samādhissa vasenā Uppajjati ñāṇa Khīyantī Itī Paṭhamaṃ samatho Pacchā ñāṇa
 Kāmāsavo Bhavāsavo Diṭṭhāsavo Avijjāsavo Anavaseso Apāyagamanīyo 
 Avikkhepavasenā  Pathavīkasiṇavasenā 
 buddhānussati dhammānussati saṅghānussati sīlānussati cāgānussati devatānussati ānāpānassati maraṇassati kāyagatāsati upasamānussati
 81 . Dīghaṃ  assāsavasenā Dīghaṃ assāsavasenā Sabbakāyapaṭisaṃvedī  Passambhayaṃ kāyasaṅkhāra Pītipaṭisaṃvedī Cittasaṅkhārapaṭisaṃvedī Abhippamodayaṃ citta Samādahaṃ citta  Vimocayaṃ citta Pītipaṭisaṃvedī sukhapaṭisaṃvedī cittasaṅkhārapaṭisaṃvedī passambhayaṃ cittasaṅkhāra cittapaṭisaṃvedī abhippamodayaṃ cittaṃ samādahaṃ cittaṃ vimocayaṃ citta Aniccānupassī Virāgānupassī Nirodhānupassī Paṭinissaggānupassī Assāsavasena passāsavasenā
 Ānantarikasamādhiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+33. Araṇavihārañāṇaniddesavaṇṇanā
 82 .  Suññato vihāro Animitto vihāro Appaṇihito  vihāro Suññate adhimuttatā Paṭhamaṃ jhāna
 Paṭhamena jhānena nīvaraṇe haratīti araṇavihāro  
 Araṇavihārañāṇaniddesavaṇṇanā niṭṭhitā.
-
+34. Nirodhasamāpattiñāṇaniddesavaṇṇanā
 83 .   samathabala Vipassanābala
 Nīvaraṇe Na kampatī Uddhacce cā Uddhacca  Uddhaccasahagatakilese cā Khandhe cā Na kampati na calati na vedhatī  Avijjāya cā Avijjāsahagatakilese cā
 Vacīsaṅkhārā  Kāyasaṅkhārā Saññāvedayitanirodha Cittasaṅkhārā
@@ -1148,28 +1148,28 @@ Nirodhasamāpatti kiṃ saṅkhatā
 
 
 Nirodhasamāpattiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+35. Parinibbānañāṇaniddesavaṇṇanā
 86 .  idhā Sampajāno Pavatta Pariyādiyatī Atha vā panā Anupādisesāya nibbānadhātuyā  Cakkhupavatta Pariyādiyatī
 Parinibbānañāṇaniddesavaṇṇanā niṭṭhitā.
-
+36. Samasīsaṭṭhañāṇaniddesavaṇṇanā
 87 .   pañcakkhandhā Sammā samucchindatī Nirodhetī Na upaṭṭhātī Sama
 Palibodhasīsa Sīsa   vinibandhana Parāmāso Vikkhepo Kileso Adhimokkho Paggaho Upaṭṭhāna Avikkhepo Dassana Pavatta Gocaro Vimokkho Saṅkhārasīsa 
 Samasīsaṭṭhañāṇaniddesavaṇṇanā niṭṭhitā.
-
+37. Sallekhaṭṭhañāṇaniddesavaṇṇanā
 88 .  rāgo puthū Rāgo Doso Moho kodho kodho upanāho, makkho, paḷāso, issā,  macchariyaṃ, māyā, sāṭheyyaṃ, thambho, sārambho māno atimāno mado pamādo
 sabbe kilesā duccaritā abhisaṅkhārā   bhavagāmikammā Nānattekatta Nānatta Ekatta
 Caraṇatejo Guṇatejo Paññātejo Puññatejo Dhammatejo Caraṇatejena tejitattā Dussīlyateja Pariyādiyatī Aguṇateja  Duppaññateja Apuññateja Adhammateja 
  sallekhaṭṭhe ñāṇa
 Sallekhaṭṭhañāṇaniddesavaṇṇanā niṭṭhitā.
-
+38. Vīriyārambhañāṇaniddesavaṇṇanā
 89 .  anuppannāna Pāpakāna Akusalānaṃ dhammāna Anuppādāyā Uppannāna Pahānāyā Anuppannānaṃ kusalānaṃ dhammāna  Uppādāyā Uppannāna Ṭhitiyā Asammosāyā Bhiyyobhāvāyā Vepullāyā Bhāvanāyā Pāripūriyā
 anuppannassa kāmacchandassā kāmacchando Nekkhamma
 anuppannānaṃ sabbakilesāna uppannassa arahattamaggassa ṭhitiyā
 Vīriyārambhañāṇaniddesavaṇṇanā niṭṭhitā.
-
+39. Atthasandassanañāṇaniddesavaṇṇanā
 90 .   pañcakkhandhā Pakāsetī Nānādhammā Pajahanto Sandassetī 
 Atthasandassanañāṇaniddesavaṇṇanā niṭṭhitā.
-
+40. Dassanavisuddhiñāṇaniddesavaṇṇanā
 91 .  sabbe dhammā ekasaṅgahitā Tathaṭṭhenā Anattaṭṭhenā Saccaṭṭhenā Paṭivedhaṭṭhenā Abhijānanaṭṭhenā Parijānanaṭṭhenā Dhammaṭṭhenā Dhātuṭṭhenā Ñātaṭṭhenā Sacchikiriyaṭṭhenā  Phusanaṭṭhenā Abhisamayaṭṭhenā
 
 
@@ -1178,10 +1178,10 @@ Kāmacchando nānatta Nekkhammaṃ ekatta
 Pariññā paṭivedhaṃ paṭivijjhatī
 Dassanaṃ  visujjhatī Dassanaṃ visuddha  
 Dassanavisuddhiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+41-42. Khantiñāṇapariyogāhaṇañāṇaniddesavaṇṇanā
 92-93 .  rūpaṃ aniccato vidita Rūpaṃ dukkhato vidita Rūpaṃ anattato vidita Yaṃ yaṃ viditaṃ, taṃ taṃ khamatī Phusatī Pariyogahatī
 Khantiñāṇapariyogāhaṇañāṇaniddesavaṇṇanā niṭṭhitā.
-
+43. Padesavihārañāṇaniddesavaṇṇanā
 94 .  micchādiṭṭhipaccayāpi vedayita micchādiṭṭhipaccayā  
 Micchādiṭṭhivūpasamapaccayā 
 Sammādiṭṭhipaccayāpi vedayita 
@@ -1189,7 +1189,7 @@ Sammādiṭṭhivūpasamapaccayāpi  vedayita Micchāsaṅkappapaccayā micchās
 Chandapaccayāpī Chandavūpasamapaccayā Vitakkapaccayā Vitakkavūpasamapaccayā Saññāpaccayā Saññāvūpasamapaccayā
 Chando ca avūpasanto hotī Tappaccayā Tappaccayā Tappaccayā Tappaccayā  Appattassa  pattiyā Atthi āyava Tasmimpi ṭhāne anuppatte  Tappaccayāpi vedayita
 Padesavihārañāṇaniddesavaṇṇanā niṭṭhitā.
-
+44-49. Vivaṭṭañāṇachakkaniddesavaṇṇanā
 95 .  nekkhammādhipatattā paññā Kāmacchandato saññāya vivaṭṭatī
 96 . Kāmacchando nānatta Nekkhammaṃ ekatta Nekkhammekattaṃ cetayato Kāmacchandato cittaṃ vivaṭṭatī
 97 . Kāmacchandaṃ pajahanto Nekkhammavasena cittaṃ adhiṭṭhātī 
@@ -1198,7 +1198,7 @@ Padesavihārañāṇaniddesavaṇṇanā niṭṭhitā.
 100 . Tathaṭṭhe  paññā saññāvivaṭṭo sañjānanto vivaṭṭatī sañjānanto vivaṭṭatīti saññāvivaṭṭo Cetayanto vivaṭṭatīti cetovivaṭṭo Vijānanto vivaṭṭatīti cittavivaṭṭo Ñāṇaṃ karonto vivaṭṭatīti ñāṇavivaṭṭo  Vosajjanto vivaṭṭatīti vimokkhavivaṭṭo Tathaṭṭhe vivaṭṭatīti saccavivaṭṭo
 Yattha  saññāvivaṭṭo  
 Vivaṭṭañāṇachakkaniddesavaṇṇanā niṭṭhitā.
-
+50. Iddhividhañāṇaniddesavaṇṇanā
 101 .  idha bhikkhū Chandasamādhipadhānasaṅkhārasamannāgata  Samannāgata Iddhipāda  
 Vīriyasamādhipadhānasaṅkhārasamannāgata
 Bhāvetī  
@@ -1212,17 +1212,17 @@ Udakepi abhijjamāne gacchatī
 Ākāsepi pallaṅkena kamatī Pakkhī sakuṇo
 Imepi candimasūriye evaṃmahiddhike evaṃmahānubhāve   Parāmasatī Parimajjatī  Yāva brahmalokāpi kāyena vasaṃ vattetī
 Iddhividhañāṇaniddesavaṇṇanā niṭṭhitā.
-
+51. Sotadhātuvisuddhiñāṇaniddesavaṇṇanā
 103 .  dūrepi saddāna dūrepi saddānaṃ saddanimitta Oḷārikāna Sukhumāna Saṇhasaṇhāna  
  
 So dibbāya sotadhātuyā  Visuddhāyā Atikkantamānusikāyā Ubho sadde suṇātī Dibbe ca mānuse ca, Ye dūre santike cā
 Sotadhātuvisuddhiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+52. Cetopariyañāṇaniddesavaṇṇanā
 104 .  so evaṃ pajānātī Idaṃ rūpaṃ somanassindriyasamuṭṭhita 
 
 Parasattāna  Parapuggalāna  Cetasā ceto paricca pajānātī Sarāgaṃ vā sarāgaṃ vītarāgaṃ sadosaṃ vītadosaṃ Samohaṃ vītamoha samohaṃ vītamohaṃ saṃkhittaṃ, vikkhittaṃ mahaggataṃ, amahaggataṃ sauttaraṃ,  anuttaraṃ samāhitaṃ, asamāhitaṃ vimuttaṃ, avimutta
 Cetopariyañāṇaniddesavaṇṇanā niṭṭhitā.
-
+53. Pubbenivāsānussatiñāṇaniddesavaṇṇanā
 105 .  evaṃ pajānātī  Imasmiṃ satī Idaṃ hotī Imassuppādā Idaṃ uppajjatī 
 Yadida  Avijjāpaccayā saṅkhārā Paṭiccā Etī soko paridevo dukkhaṃ domanassaṃ upāyāso. Sambhavantī Eva Etassā Kevalassā Dukkhakkhandhassā Samudayo Hotī
 
@@ -1307,7 +1307,7 @@ jātikkhettaṃ Āṇākkhettaṃ  Visayakkhettaṃ
  Saṃvaṭṭakappe vivaṭṭakappe Saṃvaṭṭavivaṭṭakappe Amutrāsi amutrāsi Evaṃnāmo Evaṃgotto evaṃvaṇṇo Evamāhāro Evaṃsukhadukkhappaṭisaṃvedī  Evamāyupariyanto
 So  tato cuto amutra udapādi Tatrāpāsi Evaṃnāmo amutrāsi so tato cuto idhūpapanno amutra udapādi Tatrāpāsi So tato cuto idhūpapanno Itī  Sākāraṃ sauddesa
 Pubbenivāsānussatiñāṇaniddesavaṇṇanā niṭṭhitā.
-
+54. Dibbacakkhuñāṇaniddesavaṇṇanā
 106 .  ālokasaññaṃ manasi karotī Divāsaññaṃ adhiṭṭhātī Yathā  divā tathā ratti Yathā rattiṃ tathā divā Iti vivaṭena cetasā Apariyonaddhenā Sappabhāsaṃ cittaṃ bhāvetī  
 
 Sattānaṃ cutūpapātañāṇāyā Dibbena cakkhunā Visuddhenā   atikkantamānusakaṃ,
@@ -1323,19 +1323,19 @@ Pañcañāṇapakiṇṇakaṃ
   iddhividhañāṇaṃ Sotadhātuvisuddhiñāṇaṃ Cetopariyañāṇaṃ Pubbenivāsānussatiñāṇaṃ 
 Dibbacakkhuñāṇaṃ Yathākammūpagañāṇaṃ Anāgataṃsañāṇaṃ
 Pañcañāṇapakiṇṇakaṃ niṭṭhitaṃ.
-
+55. Āsavakkhayañāṇaniddesavaṇṇanā
 107 .  anaññātaññassāmītindriyā Kati ṭhānāni gacchatī Ekaṃ ṭhānaṃ gacchatī Cha ṭhānānī saddhindriyaṃ adhimokkhaparivāraṃ hotī Parivāra Paññindriya Abhisandanaparivāra  Pavattasantatādhipateyyaparivāra 
 Sotāpattimaggakkhaṇe  jātā dhammā maggakkhaṇe jātā ṭhapetvā cittasamuṭṭhānaṃ rūpa kusalā anāsavā niyyānikā apacayagāmino, lokuttarā nibbānārammaṇā
 Imāni aṭṭhindriyānī aṭṭhindriyānī Sahajātaparivārā aññamaññaparivārā nissayaparivārā sampayuttaparivārā Sahagatā Sahajātā Saṃsaṭṭhā Sampayuttā Tevā Tassā Ākārā
 Phalakkhaṇe jātā dhammā sabbeva abyākatā hontī Itī aṭṭhaṭṭhakānī  Catusaṭṭhi hontī Āsavā  
 Āsavakkhayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+56-63. Saccañāṇacatukkadvayaniddesavaṇṇanā
 108-9 .  dukkhassa pīḷanaṭṭho Maggasamaṅgissa ñāṇaṃ dukkhepetaṃ ñāṇa Anubodhañāṇaṃ Paccavekkhaṇañāṇaṃ tattha katamaṃ dukkhe ñāṇa
 dukkhaṃ ārabbhā Paññā paññā, pajānanā vicayo. Pavicayo dhammavicayo  sallakkhaṇā upalakkhaṇā  paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā,  upaparikkhā. Bhūrī medhā, pariṇāyikā vipassanā sampajaññaṃ patodo
 paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto   paññāratanaṃ
 amoho. Dhammavicaya Sammādiṭṭhī 
 Saccañāṇacatukkadvayaniddesavaṇṇanā niṭṭhitā.
-
+64-67. Suddhikapaṭisambhidāñāṇaniddesavaṇṇanā
 110 .  atthesu ñāṇaṃ atthapaṭisambhidā atthanānatte paññā atthapaṭisambhide ñāṇa nānatte Vavatthāne Sallakkhaṇe Upalakkhaṇe Pabhede Pabhāvane Jotane Virocane Pakāsane 
 Suddhikapaṭisambhidāñāṇaniddesavaṇṇanā niṭṭhitā.
 Iti saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
@@ -1343,14 +1343,14 @@ Paṭhamo bhāgo niṭṭhito.
  Namo tassa bhagavato arahato sammāsambuddhassa
 Khuddakanikāye
 Paṭisambhidāmagga-aṭṭhakathā
-
+(Dutiyo bhāgo)
 68. Indriyaparopariyattañāṇaniddesavaṇṇanā
 111 .    tathāgatassā Satte passatī Apparajakkhe Mahārajakkhe Tikkhindriye mudindriye  Svākāre dvākāre Suviññāpaye duviññāpaye Appekacce  paralokavajjabhayadassāvino Appekacce na paralokavajjabhayadassāvino Loko Vajja
  apparajakkhe mahārajakkhe saddho apparajakkho assaddho mahārajakkho āraddhavīriyo kusīto upaṭṭhitassati muṭṭhassati samāhito, asamāhito paññavā duppañño Saddho puggalo tikkhindriyo Assaddho puggalo mudindriyo  Saddho puggalo svākāro Assaddho puggalo dvākāro  Suviññāpayo  Duviññāpayo Paralokavajjabhayadassāvī
 112 . loko khandhaloko Vipattibhavaloko Vipattisambhavaloko Sampattibhavaloko Sampattisambhavaloko Eko loko
 Vajja Kilesā Duccaritā Abhisaṅkhārā Bhavagāmikammā Itī Imasmiñca loke imasmiñca vajje  Tibbā bhayasaññā  Tibbā bhayasaññā Paccupaṭṭhitā hotī Seyyathāpi ukkhittāsike vadhake Imehi paññāsāya ākārehī Imāni pañcindriyānī  Jānātī Passatī Aññātī Paṭivijjhatī
 Indriyaparopariyattañāṇaniddesavaṇṇanā niṭṭhitā.
-
+69. Āsayānusayañāṇaniddesavaṇṇanā
 113 .  idha tathāgato āsayānusayā Carita Adhimutti Bhabbābhabbe
 Katamo sattānaṃ āsayo sassato Loko Asassato Antavā  Anantavā Taṃ jīvaṃ taṃ sarīra Jīvo Sarīra Aññaṃ jīvaṃ aññaṃ sarīra Hoti tathāgato paraṃ maraṇā Na hoti tathāgato paraṃ maraṇā  Hoti ca na ca hotī  Neva hoti na na hotī
 sassato loko Asassato Antavā Taṃ jīvaṃ taṃ sarīra  Hoti tathāgato
@@ -1366,12 +1366,12 @@ puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro parittabh
 115 . santī Hīnādhimuttikā Paṇītādhimuttikā Sevantī Bhajantī Payirupāsantī  atītampi addhāna atītampi addhāna 
  Kammāvaraṇenā Samannāgatā Kilesāvaraṇenā Vipākāvaraṇenā assaddhā Acchandikā Duppaññā Abhabbā niyāmaṃ okkamituṃ kusalesu dhammesu sammatta Na kammāvaraṇenā
 Āsayānusayañāṇaniddesavaṇṇanā niṭṭhitā.
-
+70. Yamakapāṭihīrañāṇaniddesavaṇṇanā
 116 .  asādhāraṇaṃ sāvakehī Uparimakāyato Aggikkhandho pavattatī  Heṭṭhimakāyato Udakadhārā pavattatī  Puratthimakāyato Pacchimakāyato Dakkhiṇaakkhito vāmaakkhito Aṃsakūṭato Aṅgulaṅgulehī Aṅgulantarikāhī Ekekalomato aggikkhandho pavattati, ekekalomato udakadhārā pavattatī  Lomakūpato lomakūpato aggikkhandho pavattati, lomakūpato lomakūpato udakadhārā pavattatī
 channaṃ vaṇṇāna  Nīlāna Pītakāna Lohitakāna Odātāna Mañjiṭṭhāna Pabhassarāna  
 Bhagavā caṅkamatī   bhagavā caṅkamatī Nimmito Tiṭṭhati vā Kappetī Bhagavā tiṭṭhatī
 Yamakapāṭihīrañāṇaniddesavaṇṇanā niṭṭhitā.
-
+71. Mahākaruṇāñāṇaniddesavaṇṇanā
 117 .   bahukehi ākārehī Passantāna Okkamatī Āditto āditto  Lokasannivāso Uyyutto Payāto Kummaggappaṭipanno 
 Upanīyatī Addhuvo Atāṇo Anabhissaro Assako Sabbaṃ pahāya gamanīya  Ūno Atitto  Taṇhādāso  Atāyano Aleṇo Asaraṇo Asaraṇībhūto
 Uddhato Avūpasanto Sasallo Viddho Puthusallehī Tassā Sallānaṃ uddhatā Aññatra mayā Avijjandhakārāvaraṇo Kilesapañjarapakkhitto  Ālokaṃ dassetā  Avijjāgato  Aṇḍabhūto Aṇḍabhūto Pariyonaddho
@@ -1442,7 +1442,7 @@ taṇhāvicaritānī Ajjhattikassa upādāyā  Papañcito
 Dvāsaṭṭhiyā diṭṭhigatehī 
 Ahañcamhi tiṇṇo Mutto Danto Santo Assattho Parinibbuto Pahomī Kho Pare ca parinibbāpetu
 Mahākaruṇāñāṇaniddesavaṇṇanā niṭṭhitā.
-
+72-73. Sabbaññutaññāṇaniddesavaṇṇanā
 119 .   katamaṃ tathāgatassa sabbaññutaññāṇa 
 Sabbaṃ saṅkhatamasaṅkhataṃ anavasesaṃ jānātī sabba Anavasesa Saṅkhatamasaṅkhata  sabba Anavasesa Tattha āvaraṇaṃ natthī
 120 .  atīta atītaṃ anāgataṃ paccuppanna cakkhu ceva rūpā cā Evaṃ taṃ sabba Yāvatā Aniccaṭṭha Aniccaṭṭha Rūpassā Cakkhussa…pe… jarāmaraṇassā Abhiññāyā Abhiññaṭṭha Khandhānaṃ khandhaṭṭha Kusale dhamme Kāmāvacare dhamme Dukkhassā Indriyaparopariyatte ñāṇa 

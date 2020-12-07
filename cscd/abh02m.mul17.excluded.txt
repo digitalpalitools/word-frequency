@@ -1,5 +1,5 @@
 ﻿18. Dhammahadayavibhaṅgo
-
+1. Sabbasaṅgāhikavāro
 978 .   
 
 979 .
@@ -17,7 +17,7 @@
 988 .
 989 . 
 990 . 
-
+2. Uppattānuppattivāro
 1. Kāmadhātu
 991 . 
 
@@ -74,7 +74,7 @@
 
 
  
-
+3. Pariyāpannāpariyāpannavāro
 1. Kāmadhātu
 999 .
 1000 .
@@ -120,7 +120,7 @@
 
 
 
-
+4. Dhammadassanavāro
 1. Kāmadhātu
 1007 .
    keci (syā.) 
@@ -180,7 +180,7 @@
 
 
 
-
+5. Bhūmantaradassanavāro
 1020 .  
 
 
@@ -190,7 +190,7 @@
 
 
 
-
+6. Uppādakakammaāyuppamāṇavāro
 1. Uppādakakammaṃ
 1021 .   sammatidevā (syā.)
 
@@ -237,7 +237,7 @@ bhavaggaṃ vāpi (syā.) puna gacchanti (syā.)
 
 
 
-
+7. Abhiññeyyādivāro
 1030 .
 1031 .
  
@@ -248,7 +248,7 @@ bhavaggaṃ vāpi (syā.) puna gacchanti (syā.)
  
 
 
-
+8. Sārammaṇānārammaṇavāro
 1032 .
 1033 .
 
@@ -262,14 +262,14 @@ bhavaggaṃ vāpi (syā.) puna gacchanti (syā.)
 
 
 
-
+9. Diṭṭhasutādidassanavāro
 1036 . 
 1037 .
 
 
 
  
-
+10. Tikādidassanavāro
 1. Kusalattikaṃ
 1038 .
 

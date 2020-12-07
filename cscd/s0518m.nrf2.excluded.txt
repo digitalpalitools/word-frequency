@@ -1,5 +1,5 @@
 ﻿4. Meṇḍakapañho
-
+1. Iddhibalavaggo
 1. Katādhikārasaphalapañho
 1 .   vañco bhavati aphalo (sī. pī. ka.)
 
@@ -140,7 +140,7 @@ Uttarikaraṇīyapañho navamo.
 Iddhibaladassanapañho dasamo.
 Iddhibalavaggo paṭhamo.
 Imasmiṃ vagge dasa pañhā.
-
+2. Abhejjavaggo
 1. Khuddānukhuddakapañho
 1 .   
 ukkaḍḍhissanti (sī.), ussakkissanti (syā.)
@@ -218,7 +218,7 @@ Bhikkhusaṅghapariharaṇapañho sattamo.
 Abhejjaparisapañho aṭṭhamo.
 Abhejjavaggo dutiyo.
 Imasmiṃ vagge aṭṭha pañhā.
-
+3. Paṇāmitavaggo
 1. Seṭṭhadhammapañho
 1 .   
 
@@ -347,7 +347,7 @@ Ahiṃsāniggahapañho ekādasamo.
 Bhikkhupaṇāmitapañho dvādasamo.
 Paṇāmitavaggo tatiyo.
 Imasmiṃ vagge dvādasa pañhā.
-
+4. Sabbaññutañāṇavaggo
 1. Iddhikammavipākapañho
 1 .   dhamanimajjaparikatto (sī. pī.), dhammanimiñjaparigatto (syā.)
 
@@ -447,7 +447,7 @@ Arahantaabhāyanapañho navamo.
 Buddhasabbaññubhāvapañho dasamo.
 Sabbaññutañāṇavaggo catuttho.
 Imasmiṃ vagge dasa pañhā.
-
+5. Santhavavaggo
 1. Santhavapañho
 1 .  
 

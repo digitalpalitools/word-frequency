@@ -1,5 +1,5 @@
 ﻿11. Sotāpattisaṃyuttaṃ
-
+1. Veḷudvāravaggo
 1. Cakkavattirājasuttavaṇṇanā
 997 .    kiñcāpī catunnaṃ dīpāna Issariyādhipacca Kāretvā Kiñcāpi, bhikkhave, ariyasāvako nantakānī
 Aveccappasādenā  Itipi so bhagavā
@@ -29,7 +29,7 @@ Dhammādāsa  Yenā Khīṇāpāyaduggativinipāto apāyo, Duggati, vinipāto
 10. Tatiyagiñjakāvasathasuttavaṇṇanā
 1006 .  paropaññāsā Sādhikanavutī Chātirekānī
 Veḷudvāravaggo paṭhamo.
-
+2. Rājakārāmavaggo
 1. Sahassabhikkhunisaṅghasuttavaṇṇanā
 1007 .  rājakārāme
  
@@ -51,7 +51,7 @@ Veḷudvāravaggo paṭhamo.
 7. Dutiyamittāmaccasuttavaṇṇanā
 1013 . aññathattaṃ  Tatridaṃ aññathatta
 Rājakārāmavaggo dutiyo.
-
+3. Saraṇānivaggo
 1-2. Paṭhamamahānāmasuttādivaṇṇanā
 1017-18 .   iddha Phīta Ākiṇṇamanussa Sambādhabyūha sambādhabyūhaṃ Bhantenā
 3. Godhasakkasuttavaṇṇanā
@@ -66,7 +66,7 @@ Kocideva dhammasamuppādo uppajjeyyā Ekato assa bhagavā, ekato bhikkhusaṅgho
 7. Dutiyaanāthapiṇḍikasuttavaṇṇanā
 1023 .  samparāyikaṃ maraṇabhaya gihisāmīcikānī
 Saraṇānivaggo tatiyo.
-
+4. Puññābhisandavaggo
 1. Paṭhamapuññābhisandasuttavaṇṇanā
 1027 . puññābhisandā kusalābhisandā Sukhassāhārā
 4. Paṭhamadevapadasuttavaṇṇanā
@@ -76,7 +76,7 @@ Saraṇānivaggo tatiyo.
 10. Nandiyasakkasuttavaṇṇanā
 1036 .  divā pavivekāya rattiṃ paṭisallānāyā  Dhammā na pātubhavantī
 Puññābhisandavaggo catuttho.
-
+5. Sagāthakapuññābhisandavaggo
 1. Paṭhamaabhiasandasuttavaṇṇanā
 1037 .  asaṅkhyeyyo Bahubherava Puthū Savantī Upayantī
 2. Dutiyaabhisandasuttavaṇṇanā
@@ -86,7 +86,7 @@ Puññābhisandavaggo catuttho.
 4. Paṭhamamahaddhanasuttavaṇṇanā
 1040 .   aḍḍho mahaddhano mahābhogo
 Sagāthakapuññābhisandavaggo pañcamo.
-
+6. Sappaññavaggo
 2. Vassaṃvuttasuttavaṇṇanā
 1048 .
 3. Dhammadinnasuttavaṇṇanā
@@ -97,7 +97,7 @@ Gambhīrā Gambhīratthā Lokuttarā Suññatappaṭisaṃyuttā Upasampajja vih
 9. Paññāpaṭilābhasuttavaṇṇanā
 1055 . paññāpaṭilābhāya saṃvattantī paññābuddhiyā
 Sappaññavaggo chaṭṭho.
-
+7. Mahāpaññavaggo
 1. Mahāpaññāsuttavaṇṇanā
 1058 .   mahāpaññatāya saṃvattantī
 Sotāpattisaṃyuttavaṇṇanā niṭṭhitā.

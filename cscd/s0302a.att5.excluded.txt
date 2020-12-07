@@ -1,5 +1,5 @@
 ﻿6. Lābhasakkārasaṃyuttaṃ
-
+1. Paṭhamavaggo
 1. Dāruṇasuttavaṇṇanā
 157 .    dāruṇo Lābhasakkārasiloko lābho Sakkāro Siloko Kaṭuko Pharuso Antarāyiko
 2. Baḷisasuttavaṇṇanā
@@ -19,13 +19,13 @@
 10. Sagāthakasuttavaṇṇanā
 166 . asakkārena cūbhaya Samādhī Appamāṇavihārino Sātatika Sukhumaṃdiṭṭhivipassaka Upādānakkhayārāma Āhu sappuriso itī
 Paṭhamo vaggo.
-
+2. Dutiyavaggo
 1-2. Suvaṇṇapātisuttādivaṇṇanā
 167-168 .   sampajānamusā bhāsanta
 3-10. Suvaṇṇanikkhasuttādivaṇṇanā
 169 .  suvaṇṇanikkhassā Siṅgīnikkhassā Pathaviyā Āmisakiñcikkhahetū Jīvitahetū Janapadakalyāṇiyā
 Dutiyo vaggo.
-
+3. Tatiyavaggo
 1-2. Mātugāmasuttādivaṇṇanā
 170-171 . na tassa, bhikkhave, mātugāmo 
 3-6. Ekaputtakasuttādivaṇṇanā
@@ -39,7 +39,7 @@ Dutiyo vaggo.
 10. Bhikkhusuttavaṇṇanā
 179 . diṭṭhadhammasukhavihārā Tesāhamassā 
 Tatiyo vaggo.
-
+4. Catutthavaggo
 1-4. Bhindisuttādivaṇṇanā
 180-183 . kusalamūla Sukko dhammo  samucchedamagamā
 5. Acirapakkantasuttavaṇṇanā

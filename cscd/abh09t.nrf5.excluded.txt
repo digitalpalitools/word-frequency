@@ -1,4 +1,6 @@
 ﻿6. Yamakamātikā
+Mūlayamakaṃ
+Kusalapadanayacatukkaṃ
 
 
 
@@ -11,6 +13,7 @@
 
 
 
+Akusalapadanayacatukkaṃ
 
 
 
@@ -23,6 +26,7 @@
 
 
 
+Abyākatapadanayacatukkaṃ
 
 
 
@@ -35,11 +39,7 @@
 
 
 
-
-
-
-
-
+Nāmapadanayacatukkaṃ
 
 
 
@@ -56,10 +56,10 @@
 
 
 Mūlayamakamātikā niṭṭhitā.
-
+Khandhayamakaṃ
 Paṇṇattivāro
 
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -72,7 +72,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -115,7 +115,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhakhandhavāro
 Anulomaṃ
 
 
@@ -128,7 +128,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhakhandhamūlacakkavāro
 Anulomaṃ
 
 
@@ -172,10 +172,10 @@ Paccanīkaṃ
 
 
 Khandhayamakamātikā niṭṭhitā.
-
+Āyatanayamakaṃ
 Paṇṇattivāro
 Dvādasāyatanāni 
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -202,7 +202,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -227,7 +227,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhāyatanavāro
 Anulomaṃ
  
 
@@ -254,7 +254,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhāyatanamūlacakkavāro
 Anulomaṃ
 
 
@@ -276,10 +276,10 @@ Paccanīkaṃ
 
 
 Āyatanayamakamātikā niṭṭhitā.
-
+Dhātuyamakaṃ
 Paṇṇattivāro
 Aṭṭhārasa  dhātuyo
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -294,7 +294,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -304,7 +304,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhadhātuvāro
 Anulomaṃ
 
 
@@ -315,7 +315,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhadhātumūlacakkavāro
 Anulomaṃ
 
 
@@ -330,7 +330,7 @@ Dhātuyamakamātikā niṭṭhitā.
 Saccayamakaṃ
 Paṇṇattivāro
 Cattāri saccāni
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -341,7 +341,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -368,7 +368,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhasaccavāro
 Anulomaṃ
 
 
@@ -379,7 +379,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhasaccamūlacakkavāro
 Anulomaṃ
 
 
@@ -399,10 +399,10 @@ Paccanīkaṃ
 
 
 Saccayamakamātikā niṭṭhitā.
-
+Saṅkhārayamakaṃ
 Paṇṇattivāro
 Tayo  saṅkhārā
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -411,7 +411,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -426,7 +426,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhasaṅkhāravāro
 Anulomaṃ
 
 
@@ -439,9 +439,9 @@ Saṅkhārayamakamātikā niṭṭhitā.
 Anusayayamakaṃ
 Sattānusayā 
 Anusayayamakamātikā niṭṭhitā.
-
-
-
+Cittayamakaṃ
+Suddhacittasāmaññaṃ
+Puggalavāro
 1. Uppādanirodhakālasambhedavāro
 
 
@@ -498,8 +498,8 @@ Anusayayamakamātikā niṭṭhitā.
 14. Atikkantakālavāro
 
 
-
-
+Suddhacittasāmaññaṃ
+Dhammavāro
 1. Uppādanirodhakālasambhedavāro
 
 
@@ -556,8 +556,8 @@ Anusayayamakamātikā niṭṭhitā.
 14. Atikkantakālavāro
 
 
-
-
+Suddhacittasāmaññaṃ
+Puggaladhammavāro
 1. Uppādanirodhakālasambhedavāro
 
 
@@ -621,9 +621,9 @@ Abhidhammacittamissakaviseso
 
 
 Cittayamakamātikā niṭṭhitā.
-
-
-
+Dhammayamakaṃ
+Paṇṇattivāro
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -632,7 +632,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -647,7 +647,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhadhammavāro
 Anulomaṃ
  
 
@@ -656,7 +656,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhadhammamūlacakkavāro
 Anulomaṃ
 
 
@@ -672,10 +672,10 @@ Paccanīkaṃ
 
 
 Dhammayamakamātikā niṭṭhitā.
-
+Indriyayamakaṃ
 Paṇṇattivāro
 Bāvīsatindriyāni 
-
+Padasodhanavāro
 Anulomaṃ
 
 
@@ -722,7 +722,7 @@ Paccanīkaṃ
 
 
 
-
+Padasodhanamūlacakkavāro
 Anulomaṃ
 
 
@@ -830,7 +830,7 @@ Paccanīkaṃ
 
  
 
-
+Suddhindriyavāro
 Anulomaṃ
 
 
@@ -877,7 +877,7 @@ Paccanīkaṃ
 
 
 
-
+Suddhindriyamūlacakkavāro
 Anulomaṃ
  
 

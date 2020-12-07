@@ -1,5 +1,5 @@
 ﻿100-2. Saraṇaduka-vedanāttikaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 1 .
 
@@ -11,8 +11,8 @@ Paccayacatukkaṃ
 
 6 .
 Saraṇadukavedanāttikaṃ niṭṭhitaṃ.
-
-
+100-3. Saraṇaduka-vipākattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 7 . 
 
@@ -21,8 +21,8 @@ Paccayacatukkaṃ
 9 . 
 
 10 .
-
-
+100-4. Saraṇaduka-upādinnattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 11 . 
 
@@ -32,8 +32,8 @@ Paccayacatukkaṃ
 13 .
 14 .
 
-
-
+100-5. Saraṇaduka-saṃkiliṭṭhattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 15 .  
 
@@ -41,8 +41,8 @@ Paccayacatukkaṃ
 
 17 .
 
-
-
+100-6. Saraṇaduka-vitakkattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 18 .  
 
@@ -51,8 +51,8 @@ Paccayacatukkaṃ
 
 21 .
 
-
-
+100-7. Saraṇaduka-pītittikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 22 . 
 
@@ -63,8 +63,8 @@ Paccayacatukkaṃ
 26 .
 
 27 .
-
-
+100-8. Saraṇaduka-dassanenapahātabbattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 28 .  
 
@@ -72,8 +72,8 @@ Paccayacatukkaṃ
 
 30 .
 
-
-
+100-9. Saraṇaduka-dassanenapahātabbahetukattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 31 . 
 
@@ -81,8 +81,8 @@ Paccayacatukkaṃ
 
 33 .  
 
-
-
+100-10. Saraṇaduka-ācayagāmittikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 34 . 
 
@@ -91,8 +91,8 @@ Paccayacatukkaṃ
 
 37 .
 
-
-
+100-11. Saraṇaduka-sekkhattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 38 .  
 
@@ -102,8 +102,8 @@ Paccayacatukkaṃ
 
 
 41 .
-
-
+100-12. Saraṇaduka-parittattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 42 .  
 
@@ -114,8 +114,8 @@ Paccayacatukkaṃ
 44 .
 
 
-
-
+100-13. Saraṇaduka-parittārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 45 . 
 
@@ -125,8 +125,8 @@ Paccayacatukkaṃ
 
 47 .
 
-
-
+100-14. Saraṇaduka-hīnattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 48 . 
 
@@ -134,7 +134,7 @@ Paccayacatukkaṃ
 
 50 . 
 
-
+100-15. Saraṇaduka-micchattattikaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 51 . 
@@ -147,8 +147,8 @@ Paccayacatukkaṃ
 
 54 .
 
-
-
+100-16. Saraṇaduka-maggārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 55 .  
 
@@ -156,21 +156,21 @@ Paccayacatukkaṃ
 
 57 . 
 
-
-
+100-17. Saraṇaduka-uppannattikaṃ
+7. Pañhāvāro
 Paccayacatukkaṃ
 58 .  
 
 
 59 .
-
-
+100-18. Saraṇaduka-atītattikaṃ
+7. Pañhāvāro
 Paccayacatukkaṃ
 60 .
 
 
-
-
+100-19. Saraṇaduka-atītārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 61 . 
 
@@ -181,8 +181,8 @@ Paccayacatukkaṃ
 63 .
 
 
-
-
+100-20. Saraṇaduka-ajjhattattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 64 .   
 
@@ -193,8 +193,8 @@ Paccayacatukkaṃ
 
 
 
-
-
+100-21. Saraṇaduka-ajjhattārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 67 . 
 
@@ -202,8 +202,8 @@ Paccayacatukkaṃ
 68 .
 
 
-
-
+100-22. Saraṇaduka-sanidassanattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 69 . 
 
@@ -219,4 +219,4 @@ Paccayacatukkaṃ
 
 
 Dhammānulome dukatikapaṭṭhānaṃ niṭṭhitaṃ.
-
+Dhammānulome tikadukapaṭṭhānaṃ

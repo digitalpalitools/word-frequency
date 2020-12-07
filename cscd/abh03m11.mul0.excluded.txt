@@ -3,9 +3,9 @@ Abhidhammapiṭake
 Paṭṭhānapāḷi
 (Pañcamo bhāgo)
 Dhammānulome tikatikapaṭṭhānaṃ
-
-
-
+1-1. Kusalattika-vedanāttikaṃ
+1. Sukhāyavedanāyasampayuttapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .   
@@ -18,8 +18,8 @@ Hetupaccayo
 
 4 .
 
-
-
+2. Dukkhāyavedanāyasampayuttapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 5 . 
@@ -30,8 +30,8 @@ Hetu-ārammaṇapaccayā
 
 
 8 .  
-
-
+3. Adukkhamasukhavedanāyasampayuttapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 9 . 
@@ -42,8 +42,8 @@ Hetupaccayo
 
 
 12 .
-
-
+1-2. Kusalattika-vipākattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 13 .   
 
@@ -60,8 +60,8 @@ Paccayacatukkaṃ
 17 . 
 
 
-
-
+1-3. Kusalattika-upādinnattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 18 .
 
@@ -83,8 +83,8 @@ Paccayacatukkaṃ
 24 . 
 
 
-
-
+1-4. Kusalattika-saṃkiliṭṭhattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 25 .
 
@@ -96,8 +96,8 @@ Paccayacatukkaṃ
 28 .
 
 
-
-
+1-5. Kusalattika-vitakkattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 29 . 
@@ -116,8 +116,8 @@ Hetupaccayo
 
 
 
-
-
+1-6. Kusalattika-pītittikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 34 . 
@@ -138,8 +138,8 @@ Hetupaccayo
 
 
 
-
-
+1-7. Kusalattika-dassanattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 38 . 
 
@@ -150,8 +150,8 @@ Paccayacatukkaṃ
 
 
 
-
-
+1-8. Kusalattika-dassanahetukattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 41 .
 
@@ -159,8 +159,8 @@ Paccayacatukkaṃ
 
 43 . 
 
-
-
+1-9. Kusalattika-ācayagāmittikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 44 . 
 
@@ -169,8 +169,8 @@ Paccayacatukkaṃ
 45 .
 46 .
 
-
-
+1-10. Kusalattika-sekkhattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 47 . 
 
@@ -184,8 +184,8 @@ Paccayacatukkaṃ
 
 50 .
 
-
-
+1-11. Kusalattika-parittattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 51 .
 
@@ -198,7 +198,7 @@ Paccayacatukkaṃ
 
 
 
-
+Mahaggatādipadāni
 Hetupaccayo
 53 .
 
@@ -206,8 +206,8 @@ Hetupaccayo
 54 .
 
 
-
-
+1-12. Kusalattika-parittārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 55 .  
 
@@ -223,8 +223,8 @@ Paccayacatukkaṃ
 
 
 
-
-
+1-13. Kusalattika-hīnattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 58 .  
 
@@ -240,13 +240,13 @@ Paccayacatukkaṃ
 
 61 .
 
-
+Paṇītapadaṃ
 Hetupaccayo
 62 .
 
 
-
-
+1-14. Kusalattika-micchattaniyatattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 63 .  
 
@@ -262,8 +262,8 @@ Paccayacatukkaṃ
 
 
 
-
-
+1-15. Kusalattika-maggārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 67 .
 
@@ -273,18 +273,18 @@ Paccayacatukkaṃ
 69 .
 
 
-
-
+1-16. Kusalattika-uppannattikaṃ
+7. Pañhāvāro
 Paccayacatukkaṃ
 70 . 
 
-
-
+1-17. Kusalattika-atītattikaṃ
+7. Pañhāvāro
 Paccayacatukkaṃ
 71 .
 
-
-
+1-18. Kusalattika-atītārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 72 .  
 
@@ -295,7 +295,7 @@ Paccayacatukkaṃ
 
 
 
-
+Anāgatārammaṇapadaṃ
 Hetupaccayo
 74 . 
 
@@ -309,8 +309,8 @@ Hetupaccayo
 
 
 
-
-
+1-19. Kusalattika-ajjhattattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 78 .
 
@@ -321,7 +321,7 @@ Paccayacatukkaṃ
 
 
 
-
+Bahiddhāpadaṃ
 Hetupaccayo
 80 .
 
@@ -334,15 +334,15 @@ Hetupaccayo
 
 
 
-
-
+1-20. Kusalattika-ajjhattārammaṇattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 82 .  
 
 83 .
 
-
-
+1-21. Kusalattika-sanidassanattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 84 .
 
@@ -354,8 +354,8 @@ Paccayacatukkaṃ
 
 
 Kusalattikasanidassanattikaṃ niṭṭhitaṃ.
-
-
+2-1. Vedanāttika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 86 .
 
@@ -370,8 +370,8 @@ Paccayacatukkaṃ
 89 .
 
 
-
-
+3-1. Vipākattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 90 . 
 
@@ -381,8 +381,8 @@ Hetupaccayo
 
 
 
-
-
+4-1. Upādinnattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 93 . 
 
@@ -394,16 +394,16 @@ Hetupaccayo
 
 
 
-
-
+5-1. Saṃkiliṭṭhattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 95 . 
 
 
 
 
-
-
+6-1. Vitakkattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 96 . 
 
@@ -417,8 +417,8 @@ Hetupaccayo
 
 98 .
 
-
-
+7-1. Pītittika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 99 .
   
@@ -432,38 +432,38 @@ Hetupaccayo
 
 
 
-
-
+8-1. Dassanattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 102 .  
 103 . 
 
 104 .
-
-
+9-1. Dassanahetuttika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 105 .
 106 .
 
 
 107 . 
-
-
+10-1. Ācayagāmittika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 108 . 
 
 
 
-
-
+11-1. Sekkhattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 109 . 
 
 
 
 
-
-
+12-1. Parittattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 110 . 
 
@@ -473,8 +473,8 @@ Hetupaccayo
 
 
 
-
-
+13-1. Parittārammaṇattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 112 . 
 
@@ -484,8 +484,8 @@ Hetupaccayo
 114 .
 
 
-
-
+14-1. Hīnattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 115 . 
 
@@ -494,16 +494,16 @@ Hetupaccayo
 
 
 
-
-
+15-1. Micchattattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 118 .
 
 119 . 
 
 
-
-
+16-1. Maggārammaṇattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 120 . 
 
@@ -514,22 +514,22 @@ Hetupaccayo
 121 .
 
 
-
-
+17-1. Uppannattika-kusalattikaṃ
+7. Pañhāvāro
 Hetupaccayo
 122 .  
 
 
 
-
-
+18-1. Atītattika-kusalattikaṃ
+7. Pañhāvāro
 Hetupaccayo
 123 .
 
 
 
-
-
+19-1. Atītārammaṇattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 124 .  
 
@@ -540,8 +540,8 @@ Hetupaccayo
 126 .
 
 
-
-
+20-1. Ajjhattattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 127 .   
 
@@ -549,14 +549,14 @@ Hetupaccayo
 
 129 .
 
-
-
+21-1. Ajjhattārammaṇattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 130 .
 
 
-
-
+22-1. Sanidassanattika-kusalattikaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 131 .
 

@@ -1,5 +1,5 @@
 ﻿50-1. Parāmāsaduka-kusalattikaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 . 
@@ -16,7 +16,7 @@ Hetupaccayo
 7 .
 8 .
 
-
+51-1. Parāmaṭṭhaduka-kusalattikaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
@@ -31,7 +31,7 @@ Hetupaccayo
 
 
 14 .
-
+52-1. Parāmāsasampayuttaduka-kusalattikaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
@@ -48,7 +48,7 @@ Hetupaccayo
 21 . 
 22 .
 
-
+53-1. Parāmāsaparāmaṭṭhaduka-kusalattikaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 23 . 
@@ -64,8 +64,8 @@ Paccayacatukkaṃ
 
 29 .
 30 .
-
-
+54-1. Parāmāsavippayuttaparāmaṭṭhaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 31 . 

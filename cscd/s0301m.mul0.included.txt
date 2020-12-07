@@ -2,7 +2,7 @@
 
 
 
-1 naḷavaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca  kathaṃ nu tvaṃ mārisa oghamatarīti appatiṭṭhaṃ khvāhaṃ āvuso anāyūhaṃ  oghamatarinti yathā kathaṃ pana tvaṃ mārisa appatiṭṭhaṃ anāyūhaṃ oghamatarīti yadākhvāhaṃ āvuso santiṭṭhāmi tadāssu saṃsīdāmi  yadākhvāhaṃ āvuso āyūhāmi tadāssu nibbuyhāmi  evaṃ khvāhaṃ āvuso appatiṭṭhaṃ anāyūhaṃ oghamatarinti
 cirassaṃ vata passāmi brāhmaṇaṃ parinibbutaṃ
@@ -82,7 +82,7 @@ tassuddānaṃ
 oghaṃ nimokkhaṃ upaneyyaṃ accenti katichindi ca
 jāgaraṃ appaṭividitā susammuṭṭhā mānakāminā
 araññe dasamo vutto vaggo tena pavuccati
-2 nandanavaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa  ārāme tatra kho bhagavā bhikkhū āmantesi  bhikkhavoti bhadanteti te bhikkhū bhagavato paccassosuṃ bhagavā etadavoca 
 bhūtapubbaṃ bhikkhave aññatarā tāvatiṃsakāyikā devatā nandane vane accharāsaṅghaparivutā dibbehi pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāriyamānā  tāyaṃ velāyaṃ imaṃ gāthaṃ abhāsi 
@@ -198,7 +198,7 @@ tassuddānaṃ
 nandanā  nandati ceva natthiputtasamena ca
 khattiyo saṇamāno ca niddātandī ca dukkaraṃ
 hirī kuṭikā navamo dasamo vutto samiddhināti
-3 sattivaggo
+
 
  sāvatthinidānaṃ  ekamantaṃ  ṭhitā kho sā devatā bhagavato santike imaṃ gāthaṃ abhāsi 
 sattiyā viya omaṭṭho ḍayhamānova  matthake
@@ -298,7 +298,7 @@ tassuddānaṃ
 sattiyā phusati ceva jaṭā manonivāraṇā
 arahantena pajjoto sarā mahaddhanena ca
 catucakkena navamaṃ eṇijaṅghena te dasāti
-4 satullapakāyikavaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkamiṃsu upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhaṃsu ekamantaṃ  ṭhitā kho ekā devatā bhagavato santike imaṃ gāthaṃ abhāsi 
 sabbhireva samāsetha sabbhi kubbetha  santhavaṃ
@@ -530,7 +530,7 @@ dukkhaṃ na sevetha anatthasaṃhitanti
 tassuddānaṃ 
 sabbhimaccharinā sādhu na santujjhānasaññino
 saddhā samayo sakalikaṃ ubho pajjunnadhītaroti
-5 ādittavaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme atha kho aññatarā devatā abhikkantāya  rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi ekamantaṃ ṭhitā kho sā devatā bhagavato santike imā gāthāyo abhāsi 
 ādittasmiṃ agārasmiṃ yaṃ nīharati bhājanaṃ
@@ -655,7 +655,7 @@ ubhinnaṃ bhāvitattānaṃ sarīrantimadhārinanti
 tassuddānaṃ 
 ādittaṃ kiṃdadaṃ annaṃ ekamūlaanomiyaṃ
 accharāvanaropajetaṃ maccharena ghaṭīkaroti
-6 jarāvaggo
+
 
 
  kiṃsu  yāva jarā sādhu kiṃsu sādhu patiṭṭhitaṃ
@@ -722,7 +722,7 @@ nāmasannissitā gāthā kavi gāthānamāsayoti
 tassuddānaṃ 
 jarā  ajarasā mittaṃ vatthu tīṇi janāni ca
 uppatho ca dutiyo ca kavinā pūrito vaggoti
-7 addhavaggo
+
 
 
  kiṃsu  sabbaṃ addhabhavi  kismā bhiyyo na vijjati
@@ -787,7 +787,7 @@ channameva upādāya chasu loko vihaññatīti
 tassuddānaṃ 
 nāmaṃ cittañca taṇhā ca saṃyojanañca bandhanā
 abbhāhatuḍḍito pihito icchā lokena te dasāti
-8 chetvāvaggo
+
 
  sāvatthinidānaṃ ekamantaṃ  ṭhitā kho sā devatā bhagavantaṃ gāthāya ajjhabhāsi 
 kiṃsu chetvā  sukhaṃ seti kiṃsu chetvā na socati

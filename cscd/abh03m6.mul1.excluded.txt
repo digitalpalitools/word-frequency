@@ -1,8 +1,8 @@
 ﻿10. Indriyayamakaṃ
-
+1. Paṇṇattivāro
 (Ka) uddeso
 1 .    viriyindiyaṃ (sī. syā.)
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 2 .
 
@@ -93,7 +93,7 @@
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 4 .
 
@@ -286,7 +286,7 @@
 
 47 .
 
-
+3. Suddhindriyavāro
 (Ka) anulomaṃ
 48 .
 
@@ -377,7 +377,7 @@
 
 
 
-
+4. Suddhindriyamūlacakkavāro
 (Ka) anulomaṃ
 50 .  
 
@@ -550,7 +550,7 @@
 
 Paṇṇattiuddesavāro.
 (Kha) niddeso
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 94 .  
 
@@ -653,7 +653,7 @@ avasesā kāyo (sī. syā. ka.)
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 96 . 
 
@@ -945,7 +945,7 @@ avasesā kāyo (sī. syā. ka.)
 
 
 
-
+3. Suddhindriyavāro
 (Ka) anulomaṃ
 140 . 
 
@@ -1081,7 +1081,7 @@ avasesā kāyo (sī. syā. ka.)
 
 
 
-
+4. Suddhindriyamūlacakkavāro
 (Ka) anulomaṃ
 142 .
 
@@ -1359,9 +1359,9 @@ avasesā kāyo (sī. syā. ka.)
 
 
 Paṇṇattiniddesavāro.
-
-
-
+2. Pavattivāro
+1. Uppādavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 186 .   
 
@@ -2136,7 +2136,7 @@ Paṇṇattiniddesavāro.
 239 .
 
 
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 240 .
 
@@ -2429,7 +2429,7 @@ Paṇṇattiniddesavāro.
 
 280 .
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 281 .  
 
@@ -2946,7 +2946,7 @@ Paṇṇattiniddesavāro.
 
 334 .
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 335 . 
 
@@ -3233,7 +3233,7 @@ Paṇṇattiniddesavāro.
 
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 366 .
 
@@ -3736,7 +3736,7 @@ Paṇṇattiniddesavāro.
 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 404 .
 
@@ -4075,8 +4075,8 @@ Paṇṇattiniddesavāro.
 
 
 Pavattivāro niṭṭhito.
-
-
+3. Pariññāvāro
+1. Paccuppannavāro
 (Ka) anulomaṃ
 435 .  
 
@@ -4141,7 +4141,7 @@ tayo puggalā (pī.) aṭṭhamakañca tayo maggasamaṅgino ca (pī.)
 
 
 
-
+2. Atītavāro
 (Ka) anulomaṃ
 443 .  
 
@@ -4202,7 +4202,7 @@ tayo puggalā (pī.) aṭṭhamakañca tayo maggasamaṅgino ca (pī.)
 450 . 
 
 
-
+3. Anāgatavāro
 (Ka) anulomaṃ
 451 .
 
@@ -4263,7 +4263,7 @@ tayo puggalā (pī.) aṭṭhamakañca tayo maggasamaṅgino ca (pī.)
 458 .
 
 
-
+4. Paccuppannātītavāro
 (Ka) anulomaṃ
 459 .
 
@@ -4326,7 +4326,7 @@ satta (sī. syā. ka.)
 pañca (sī. syā. ka.)
 
 pañca (sī. syā. ka.)
-
+5. Paccuppannānāgatavāro
 (Ka) anulomaṃ
 467 .
 
@@ -4389,7 +4389,7 @@ pañca (sī. syā. ka.)
 474 .
 
 
-
+6. Atītānāgatavāro
 (Ka) anulomaṃ
 475 .
 

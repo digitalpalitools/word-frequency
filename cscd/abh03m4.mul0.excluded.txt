@@ -33,7 +33,7 @@ Yamakapāḷi (paṭhamo bhāgo)
 
 12 .
 
-
+2. Akusalā dhammā (1) mūlanayo
 13 .
 
 14 .
@@ -61,7 +61,7 @@ Yamakapāḷi (paṭhamo bhāgo)
 
 24 .
 
-
+3. Abyākatā dhammā (1) mūlanayo
 25 .
 
 26 . 
@@ -89,7 +89,7 @@ Yamakapāḷi (paṭhamo bhāgo)
 
 36 .  
 
-
+4. Nāmā dhammā (1) mūlanayo
 37 . 
 
 38 .
@@ -118,14 +118,14 @@ Yamakapāḷi (paṭhamo bhāgo)
 48 . 
 
 Mūlavārauddeso.
-
+2-10. Hetuvārādi
 49 . 
 
 samuṭṭhānāhārārammaṇaṃ (ka.)
 Uddesavāro niṭṭhito.
 (Kha) niddeso
-
-
+1. Mūlavāro
+1. Kusalā dhammā (1) mūlanayo
 50 .
 
 51 .
@@ -163,7 +163,7 @@ Uddesavāro niṭṭhito.
 61 .
 
 
-
+2. Akusalā dhammā (1) mūlanayo
 62 .
 
 
@@ -209,7 +209,7 @@ Uddesavāro niṭṭhito.
 73 .
 
 
-
+3. Abyākatā dhammā (1) mūlanayo
 74 . 
 
 
@@ -249,7 +249,7 @@ Uddesavāro niṭṭhito.
 85 .
 
 
-
+4. Nāmā dhammā (1) mūlanayo
 86 . 
 
 
@@ -297,7 +297,7 @@ Uddesavāro niṭṭhito.
 
 
 Mūlavāraniddeso.
-
+2-10. Hetuvārādi
 98 . 
 
 99 .

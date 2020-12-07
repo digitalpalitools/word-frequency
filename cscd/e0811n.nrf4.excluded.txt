@@ -5,24 +5,24 @@
 339 .
 
 
-
+Bhāvaadhippāya
 340 .
 
 
-
+Ṭhāyībhāvaadhippāya
 341 .
 
 ‘ṭhāyībhāvo’
-
+Ṭhāyībhāvappabhedauddesa
 342 .
 
 
 ṭhāyino.
-
+Byabhicārībhāvaadhippāya
 343 .
 
 byabhicārino.
-
+Byabhicāribhāvapabheda
 344 .
 
 
@@ -32,11 +32,11 @@ bahiddhā (ka.)
 
 
 sacapalā (ka.) tettiṃsa
-
+Sattikabhāvaadhippāya
 345 .
 sattaṃ satvaṃ (ka.)
 Sattikā sātvikā (ka.) bhāvā
-
+Sattikabhāvappabheda
 346 .
 
 
@@ -56,11 +56,11 @@ Anubhāvo’
 351 .
 
 
-
+Rasaadhippāya
 352 .
 
 raso
-
+Rasappabheda
 353 .
 
 
@@ -71,19 +71,19 @@ raso
 
 Siyā sotūnamānando,
 Soko vessantarassa hi.
-
+Ṭhāyībhāva niddesa ratiṭṭhāyībhāva
 356 .
 
 rati
 357 .
 
 tidhā.
-
+Hassaṭṭhāyībhāva
 358 .
 
 
 
-
+Hassappabheda
 359 .
 
 hasitaṃ;
@@ -92,35 +92,35 @@ vihasitaṃ, mupahasitaṃ.
 Apahasitaṃ  tihasitaṃ;
 
 majjhe’dhameti ettha majjhe adhameti padacchedo
-
+Karuṇaṭṭhāyībhāva
 361 .
 karuṇo,
 nubhāvā
 byabhicārino.
-
+Ruddaṭṭhāyībhāva
 362 .
 
 ruddo
-
+Vīraṭṭhāyībhāva
 363 .
 ‘vīro’
 tividho
 nubhāvā byabhicārino.
-
+Bhayaṭṭhāyībhāva
 364 .
 bhayānako;
 nubhāve’ byabhicārino.
-
+Jigucchāṭṭhāyībhāva
 365 .
 
 Bībhaccho
 
-
+Vimhayaṭṭhāyībhāva
 366 .
 bbhuto;
 nubhāvā
 byabhicārino.
-
+Samaṭṭhāyībhāva
 367 .
 
 santo

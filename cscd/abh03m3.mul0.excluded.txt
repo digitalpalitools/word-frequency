@@ -2,7 +2,7 @@
 Abhidhammapiṭake
 Kathāvatthupāḷi
 1. Puggalakathā
-
+1. Suddhasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 1 . iminā lakkhaṇena sakavādīpucchā dassitā     saccikaṭṭhaparamaṭṭhenāti (syā. pī. ka. sī.)
 
@@ -24,7 +24,7 @@ Upanayanacatukkaṃ.
 
 Niggamanacatukkaṃ.
 Paṭhamo niggaho.
-
+1. Suddhasaccikaṭṭho
 2. Paccanīkānulomaṃ
 6 .
   
@@ -45,43 +45,43 @@ Upanayanacatukkaṃ.
 
 Niggamanacatukkaṃ.
 Dutiyo niggaho.
-
+2. (Ka) okāsasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 11 .  
 
 
 Tatiyo niggaho.
-
+3. (Ka) kālasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 12 .
 
   
 Catuttho niggaho.
-
+4. (Ka) avayavasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 13 .
 
 
 Pañcamo niggaho.
-
+2. (Kha) okāsasaccikaṭṭho
 2. Paccanīkānulomaṃ
 14 . 
 
 
 Chaṭṭho niggaho.
-
+3. (Kha) kālasaccikaṭṭho
 2. Paccanīkānulomaṃ
 15 . 
 
 
 Sattamo niggaho.
-
+4. (Kha) avayavasaccikaṭṭho
 2. Paccanīkānulomaṃ
 16 . 
 
  
 Aṭṭhakaniggaho.
-
+5. Suddhikasaṃsandanaṃ
 17 .
 
 
@@ -106,7 +106,7 @@ Aṭṭhakaniggaho.
 
 
 Suddhikasaṃsandanā.
-
+6. Opammasaṃsandanaṃ
 28 . 
 
  
@@ -138,7 +138,7 @@ Suddhikasaṃsandanā.
 
 
 Opammasaṃsandanaṃ.
-
+7. Catukkanayasaṃsandanaṃ
 46 . 
 
 
@@ -172,11 +172,11 @@ Opammasaṃsandanaṃ.
 
 
 Catukkanayasaṃsandanaṃ.
-
+8. Lakkhaṇayuttikathā
 53 .  
 54 . 
 Lakkhaṇayuttikathā.
-
+9. Vacanasodhanaṃ
 55 .
 56 . 
 57 .
@@ -184,7 +184,7 @@ Lakkhaṇayuttikathā.
 59 .
 60 .
 Vacanasodhanaṃ.
-
+10. Paññattānuyogo
 61 . 
 62 .
 63 . 
@@ -198,7 +198,7 @@ Vacanasodhanaṃ.
  
 
 Paññattānuyogo.
-
+11. Gatianuyogo
 69 .  
 70 .
 71 .
@@ -240,7 +240,7 @@ saṃ. ni. 2.133; itivu. 24 itivuttakepi
 
 
 Gatianuyogo.
-
+12. Upādāpaññattānuyogo
 95 .
 96 . 
 97 .   
@@ -277,7 +277,7 @@ Gatianuyogo.
 
  
 Upādāpaññattānuyogo.
-
+13. Purisakārānuyogo
 123 .
 124 . 
 125 .
@@ -351,19 +351,19 @@ Upādāpaññattānuyogo.
 192 .
 Purisakārānuyogo.
 Kalyāṇavaggo paṭhamo.
-
+14. Abhiññānuyogo
 193 . 
 194 . 
 195 .
 196 .  
 Abhiññānuyogo.
-
+15-18. Ñātakānuyogādi
 197 .
 198 .  
 199 . 
 200 . 
 
-
+19. Paṭivedhānuyogo
 201 . 
 202 . kāyasakkhī (syā.) 
 
@@ -372,12 +372,12 @@ Abhiññānuyogo.
 205 . 
 
 Paṭivedhānuyogo.
-
+20. Saṅghānuyogo
 206 . 
 207 . 
 
 Saṅghānuyogo.
-
+21. Saccikaṭṭhasabhāgānuyogo
 208 . 
 209 . 
 210 . ma. ni. 1.125, ālapanamattameva nānaṃ

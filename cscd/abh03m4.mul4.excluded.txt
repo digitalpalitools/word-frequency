@@ -1,8 +1,8 @@
 ﻿5. Saccayamakaṃ
-
+1. Paṇṇattivāro
 (Ka) uddeso
 1 .   
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 2 .
 
@@ -21,7 +21,7 @@
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 4 . 
 
@@ -72,7 +72,7 @@
 
 
 
-
+3. Suddhasaccavāro
 (Ka) anulomaṃ
 6 . 
 
@@ -91,7 +91,7 @@
 
 
 
-
+4. Suddhasaccamūlacakkavāro
 (Ka) anulomaṃ
 8 .
 
@@ -127,9 +127,9 @@
 
 
 Paṇṇattiuddesavāro.
-
+1. Paṇṇattivāra
 (Kha) niddeso
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 10 . 
 
@@ -156,7 +156,7 @@ avasesaṃ dukkhasaccaṃ na dukkhaṃ (sī. syā. ka.) evaṃ avasesesu tīsu s
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 12 .
 
@@ -192,7 +192,7 @@ avasesā saccā saccā (syā.)
 
 
 
-
+3. Suddhasaccavāro
 (Ka) anulomaṃ
 20 . 
 
@@ -211,7 +211,7 @@ avasesā saccā saccā (syā.)
 
 
 
-
+4. Suddhasaccamūlacakkavāro
 (Ka) anulomaṃ
 22 . 
 
@@ -244,8 +244,8 @@ avasesā saccā saccā (syā.)
 
 
 Paṇṇattiniddesavāro.
-
-
+2. Pavattivāro 1. uppādavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 27 . 
 
@@ -301,7 +301,7 @@ taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhav�
 
 
  
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 38 .
 
@@ -343,7 +343,7 @@ taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhav�
 47 .
 
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 48 .
 
@@ -392,7 +392,7 @@ taṇhāvippayuttamaggavippayuttacittassa (sī.) evaṃ puggalokāsepi nirodhav�
 
 
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 58 . 
 
@@ -446,7 +446,7 @@ uppatticittassa (syā.)
 
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 68 .
   
@@ -503,7 +503,7 @@ paṭilabhissanti tassa cittassa uppādakkhaṇe ye (sī. syā.) puggalokāsavā
 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 78 .
 
@@ -547,8 +547,8 @@ paṭilabhissanti tassa cittassa uppādakkhaṇe ye (sī. syā.) puggalokāsavā
 
 
 Uppādavāro.
-
-
+2. Pavatti 2. nirodhavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 88 .
 
@@ -583,11 +583,11 @@ Uppādavāro.
 (Ca) paccanīkapuggalokāsā
 95 . 
 yassakampi yatthakampi (sī. syā.)
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 96 .
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 97 .  
 paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana pāṭhantaraṃ natthi
@@ -629,7 +629,7 @@ paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana 
 
 
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 106 . 
 
@@ -683,7 +683,7 @@ paṭilabhissanti tassa cittassa uppādakkhaṇe (sī. syā.) uppādavāre pana 
 
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 116 .  
 
@@ -740,7 +740,7 @@ vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ (sī. syā.)
 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 126 . 
 
@@ -785,8 +785,8 @@ vattamāne, nirodhasamāpannānaṃ asaññasattānaṃ (sī. syā.)
 
 
 Nirodhavāro.
-
-
+2. Pavatti 3. uppādanirodhavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 136 .  
 
@@ -819,12 +819,12 @@ Nirodhavāro.
 (Ca) paccanīkapuggalokāsā
 143 .
 
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 144 .  
 
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 145 .
 
@@ -857,12 +857,12 @@ Nirodhavāro.
 (Ca) paccanīkapuggalokāsā
 152 .
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 153 .
 
 paccuppannenātītā (syā.)
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 154 .
 
@@ -919,43 +919,43 @@ apāyaṃ asaññasattaṃ (syā.)
 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 164 .
 atītenānāgatā (syā.)
 Uppādanirodhavāro.
 Pavattivāro niṭṭhito.
-
-
+3. Pariññāvāro
+1. Paccuppannavāro
 165 . 
 
 
 
-
+2. Atītavāro
 166 . 
 
 
 
-
+3. Anāgatavāro
 167 .
 
 
 
-
+4. Paccuppannātītavāro
 168 .
 
 
 
 
 
-
+5. Paccuppannānāgatavāro
 169 . 
 
 
 
 
 
-
+6. Atītānāgatavāro
 170 .
 
 

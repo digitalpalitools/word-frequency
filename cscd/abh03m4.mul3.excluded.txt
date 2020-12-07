@@ -1,8 +1,8 @@
 ﻿4. Dhātuyamakaṃ
-
+1. Paṇṇattivāro
 (Ka) uddeso
 1 .   
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 2 .
 
@@ -29,7 +29,7 @@
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 4 .  
 dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ
@@ -47,7 +47,7 @@ dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ
 
 
 
-
+3. Suddhadhātuvāro
 (Ka) anulomaṃ
 6 .  
 
@@ -82,7 +82,7 @@ dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ
 
 
 
-
+4. Suddhadhātumūlacakkavāro
 (Ka) anulomaṃ
 8 .
 
@@ -105,7 +105,7 @@ dhātu (sī. ka.) aññehi yamakehi saṃsanditabbaṃ
 
 Paṇṇattiuddesavāro.
 (Kha) niddeso
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 10 . 
 
@@ -171,7 +171,7 @@ avaseso kāyo (syā.)
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 12 . 
 
@@ -187,7 +187,7 @@ avasesā dhātū dhātū (syā.)
 
 
 
-
+3. Suddhadhātuvāro
 (Ka) anulomaṃ
 14 . 
 
@@ -218,7 +218,7 @@ avasesā dhātū dhātū (syā.)
 
 
 
-
+4. Suddhadhātumūlacakkavāro
 (Ka) anulomaṃ
 16 .
 
@@ -238,8 +238,8 @@ avasesā dhātū dhātū (syā.)
 
 
 Paṇṇattiniddesavāro.
-
-
+2. Pavattivāro 1. uppādavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 18 . 
 
@@ -259,7 +259,7 @@ Paṇṇattiniddesavāro.
 
 
 
-
+3. Pariññāvāro
 19 .
 Dhātuyamakaṃ niṭṭhitaṃ.
  Namo tassa bhagavato arahato sammāsambuddhassa

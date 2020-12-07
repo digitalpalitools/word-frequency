@@ -2,7 +2,7 @@
 Saṃyuttanikāyo
 Nidānavaggo
 1. Nidānasaṃyuttaṃ
-
+1. Buddhavaggo
 1. Paṭiccasamuppādasuttaṃ
 1 .    
  
@@ -78,7 +78,7 @@ Buddhavaggo paṭhamo.
 
 
 
-
+2. Āhāravaggo
 1. Āhārasuttaṃ
 11 .   kabaḷiṃkāro (sī. pī.), kavaḷīkāro (syā. kaṃ.)
   
@@ -141,7 +141,7 @@ nu khvāhaṃ (syā. kaṃ. pī. ka.)  apadhāvissati (ka.)
 
 
 
-
+3. Dasabalavaggo
 1. Dasabalasuttaṃ
 21 .    
 2. Dutiyadasabalasuttaṃ
@@ -221,7 +221,7 @@ Dasabalavaggo  tatiyo.
 
 
 
-
+4. Kaḷārakhattiyavaggo
 1. Bhūtasuttaṃ
 31 .  pārāyaṇe (sī.)
 
@@ -311,7 +311,7 @@ Kaḷārakhattiyavaggo catuttho.
 
 
 
-
+5. Gahapativaggo
 1. Pañcaverabhayasuttaṃ
 41 . 
 
@@ -386,7 +386,7 @@ Gahapativaggo pañcamo.
 
 
 
-
+6. Dukkhavaggo
 1. Parivīmaṃsanasuttaṃ
 51 . 
 
@@ -450,7 +450,7 @@ Dukkhavaggo chaṭṭho.
 
 
 
-
+7. Mahāvaggo
 1. Assutavāsuttaṃ
 61 .   cātummahābhūtikasmiṃ (sī. syā. kaṃ.) dissati hi bhikkhave (sī. syā. kaṃ.) 
 
@@ -565,7 +565,7 @@ Mahāvaggo sattamo.
 
 
 dasamo vutto susīmenāti (sī.)
-
+8. Samaṇabrāhmaṇavaggo
 1. Jarāmaraṇasuttaṃ
 71 .   
 
@@ -587,7 +587,7 @@ Samaṇabrāhmaṇavaggo aṭṭhamo.
 
 
 
-
+9. Antarapeyyālaṃ
 1. Satthusuttaṃ
 73 .   
 

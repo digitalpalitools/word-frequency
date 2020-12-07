@@ -12,7 +12,7 @@
  devatāsaṃyuttepi āvuso naḷavaggādayo aṭṭha vaggā oghataraṇasuttādīni ca ekāsīti suttāni tesu paṭhamaṃ kataraṃ vaggaṃ katarañca suttaṃ sagāyiṃsu
  aṭṭhasu bhante vaggesu paṭhamaṃ naḷavaggaṃ ekāsītiyā ca suttesu paṭhamaṃ oghataraṇasuttaṃ saṃgāyiṃsu
 sādhu  sādhu āvuso mayampi dāni tatoyeva paṭṭhāya saṃgītipubbaṅgamāni pucchanavissajjanakiccāni āvahituṃ samārabhāra
-devatāsaṃyutta
+
 
  tenāvuso bhagavatā jānatā passatā arahatā sammāsambuddhena oghataraṇasuttaṃ kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  sāvatthiyaṃ bhante aññataraṃ devataṃ ārabbha bhāsitaṃ aññatarā bhante devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi ekamantaṃ ṭhitā kho sā devatā bhagavantaṃ etadavoca kathaṃ nu tvaṃ mārisa oghamatarīti
@@ -88,7 +88,7 @@ kiṃ su yāva jarā sādhu
 kiṃ su sādhu patiṭṭhitaṃ
 kiṃ  su narānaṃ ratanaṃ
 kiṃ su corehi dūharaṃ
-devaputtasaṃyutta
+
 
  tenāvuso bhagavatā jānatā passatā arahatā sammāsambuddhena subrahmasuttaṃ kattha kaṃ ārabbha kismiṃ vatthusmiṃ katañca bhāsitaṃ kīdiso ca tattha dhammapaṭiggāhakassa dhammassavanānisaṃso adhigato
  rājagahe  bhante subrahmadevaputtaṃ ārabbha bhāsitaṃ subrahmā bhante devaputto maraṇabhayabhīto bhagavantaṃ upasaṅkamitvā etadavoca
@@ -107,7 +107,7 @@ nāññatra sabbanissaggā sotthiṃ passāmi pāṇinaṃ
 
  rohitassasuttaṃ  panāvuso bhagavatā kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  sāvatthiyaṃ bhante rohitassaṃ devaputtaṃ ārabbha bhāsitaṃ rohitasso bhante devaputto bhagavantaṃ etadavoca yattha nu kho bhante na jāyati na jīyati na mīyati na cavati na upapajjati sakkā nu kho so bhante gamanena lokassa anto ñātuṃ vā daṭṭhuṃ vā pāpuṇituṃ vāti tasmiṃ bhante vatthusmiṃ yattha kho āvuso na jāyati na jīyati na mīyati na cavati na upapajjati nāhaṃ taṃ gamanena lokassa antaṃ ñāteyyaṃ aṭṭheyyaṃ patteyyanti vadāmīti evamādinā bhante bhagavatā bhāsitaṃ
-kosalasaṃyutta
+
 
  daharasuttaṃ  panāvuso bhagavatā kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  sāvatthiyaṃ bhante rājānaṃ pasenadiṃ kosalaṃ ārabbha bhāsitaṃ rājā bhante pasenadi kosalo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ sammodi ekamantaṃ nisinno kho bhante rājā pasenadi kosalo bhagavantaṃ etadavoca bhavampi no gotamo anuttaraṃ sammāsambodhiṃ abhisambuddhoti paṭijānātīti tasmiṃ bhante vatthusmiṃ yañhi taṃ mahārāja sammā vadamānovadeyya anuttaraṃ sammāsambodhiṃ abhisambuddhoti  mameva taṃ sammā vadamāno vadeyyāti evamādinā bhante bhagavatā bhāsitaṃ
@@ -150,7 +150,7 @@ tañhi tassa sakaṃ hoti taṃva ādāya gacchati
 taṃvassa anugaṃ hoti chāyāva anapāyinī
 tasmā kareyya kalyāṇaṃ nicayaṃ samparāyikaṃ
 puññāni paralokasmiṃ patiṭṭhā honti pāṇinaṃ 
-mārasaṃyutta
+
 
  tapokammasuttaṃ  panāvuso bhagavatā jinena kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  uruvelāyaṃ bhante māraṃ pāpimantaṃ ārabbha bhāsitaṃ māro bhante pāpimā bhagavantaṃ upasaṅkamitvā gāthāya ajjhabhāsi
@@ -175,7 +175,7 @@ alaṃ te tena pāpima nihato tvamasi antakāti
 evaṃ kho bhante bhagavatā jinena bhāsitaṃ
 saṃsaraṃ  dīghamaddhānaṃ vaṇṇaṃ katvā subhāsubhaṃ
 alaṃ te tena pāpima nihato tvamasi antaka 
-bhikkhunīsaṃyutta
+
 
  idāni āvuso bhikkhunī saṃyuttaṃ pucchāmi yaṃ tassa bhagavato arahato sammāsambuddhassa sāvikāhi therīhi attano
 ca  buddhasāsanassa ca yathābhūtaṃ guṇaṃ pakāsetvā bhāsitaṃ tatthāvuso paṭhamaṃ porāṇakehi mahākassapādīhi dhammasaṃgāhakehi theravarehi saṃgītaṃ āḷavikāsuttaṃ kattha kaṃ ārabbha kismiṃ vatthusmiṃ kena kathañca bhāsitaṃ
@@ -291,7 +291,7 @@ kenāyaṃ pakato satto kuvaṃ sattassakārako
 kuvaṃ satto samuppanno kuvaṃ satto nirujjhati-hu
 kiṃ  nu sattoti paccesi māra diṭṭhigataṃ nu te
 suddhasaṅkhārapuñjoyaṃ nayidha sattupalabbhati
-brahmasaṃyutta
+
 
  brahmasaṃyutte  āvuso porāṇehi mahākassapatherādīhi dhammasaṃgāhakatheravarehi dutiyaṃ saṃgītaṃ gāravasuttaṃ kattha kathañca samuppannaṃ
  uruvelāyaṃ bhante samuppannaṃ bhagavā bhante uruvelāyaṃ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho atha kho bhagavato rahogatassa paṭisallīnassa evaṃ cetaso parivitakko udapādi dukkhaṃ kho agāravo viharati appatisso kaṃ nu khvāhaṃ samaṇaṃ vā brāhmaṇaṃ vā sakkatvā garuṃ katvā upanissāya vihareyyanti
@@ -327,7 +327,7 @@ khīṇāsavā arahanto bahū buddhassa sāvakā-hu
 dhunātha maccuno senaṃ naḷāgāraṃva kuñjaro
 yo imasmiṃ dhammavinaye appamatto vihassati
 pahāya jāti saṃsāraṃ dukkhassantaṃ karissati-hu
-brāhmaṇasaṃyutta
+
 
  brāhmaṇasaṃyutte  āvuso paṭhamaṃ saṃgītaṃ dhanañjānīsuttaṃ bhagavatā kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  rājagahe bhante bhāradvājagottaṃ brāhmaṇaṃ ārabbha bhāsitaṃ bhāradvājagotto bhante brāhmaṇo bhagavantaṃ upasaṅkamitvā gāthāya ajjhabhāsi
@@ -484,7 +484,7 @@ nesā  sabhā yattha nasanti santo
 santo na te ye na vadanti dhammaṃ
 rāgañca dosañca pahāya mohaṃ
 dhammaṃ vadantā ca bhavanti santo
-vaṅgīsasaṃyutta
+
 
  vaṅgīsasaṃyutte  panāvuso catutthaṃ saṃṅgītaṃ ānandasuttaṃ katthakaṃ ārabbha kismiṃ vatthusmiṃ kena kathañca bhāsitaṃ
  sāvatthiyaṃ bhante āyasmantaṃ vaṅgīsattheraṃ ārabbha āyasmatā ānandattherena dhammabhaṇḍāgārikena bhāsitaṃ āyasmatā bhante vaṅgīso āyasmantaṃ ānandaṃ gāthāya ajjhabhāsi
@@ -534,7 +534,7 @@ svāgataṃ vata me āsi mama buddhassa santike
 tasso vijjā anuppattā kataṃ buddhassa sāsanaṃ
 pubbenivāsaṃ  jānāmi dibbacakkhu visodhitaṃ
 tevijjo iddhipattomhi cetopariyāyakovido
-vanasaṃyutta
+
 
  vanasaṃyutte panāvuso pañcamaṃ saṃgītaṃ ānandasuttaṃ kadā kattha kaṃ ārabbha kismiṃ vatthusmiṃ kena kathañca bhāsitaṃ
  kosalesu bhante aññatarasmiṃ vanasaṇḍe aciraparinibbute bhagavati āyasmantaṃ ānandaṃ ārabbha tasmiṃ vanasaṇḍe adhivatthāya devatāya bhāsitaṃ āyasmā bhante ānando aciraparinibbute bhagavati ativelaṃ gihisaññattibahulo viharati tasmiṃ bhante vatthusmiṃ
@@ -545,7 +545,7 @@ kiṃ te biḷibiḷikā karissatīti
 evaṃ  kho bhante vanasaṇḍe adhivatthāya devatāya āyasmato ānandattherassa anukampikāya atthakāmāya bhāsitaṃ
 rukkhamūla  gahanaṃ pasakkiya nibbānaṃ hadayasmiṃ opiya
 jhāya gotama mā pamādo kiṃ te biḷibiḷikā karissati-hu
-yakkhasaṃyutta
+
 
  yakkhasaṃyutte  panāvuso paṭhamaṃ saṃgītaṃ indakasuttaṃ bhagavatā kattha kaṃ ārabbha kismiṃ vatthusmiṃ kathañca bhāsitaṃ
  rājagahe bhante indakūṭe pabbate indakassa yakkhassa bhavane indakaṃ yakkhaṃ ārabbha bhāsitaṃ indako bhante yakkho attavādo bhagavantaṃ upasaṅkamitvā gāthāya ajjhabhāsi
@@ -593,7 +593,7 @@ saccena  kittiṃ pappoti dadaṃ mittāni ganthati
 asmā lokā paraṃ lokaṃ evaṃ pecca na socati
 yassete caturo dhammā saddhassa gharamesino
 saccaṃ dhammo dhiti cāgo sa ve peccana socati
-sakkasaṃyutta
+
 
  sakkasaṃyutte  panāvuso vatapadasuttaṃ bhagavatā kattha kaṃ ārabbha kathañca bhāsitaṃ
  sāvatthiyaṃ bhante sambahule bhikkhū ārabbha sakkassa bhikkhave devānamindassa pubbe manussabhūtassa satta vatapadāni samattāni samādinnāni ahesuṃ yesaṃ samādinnattā sakko sakkattaṃ ajjhagāti evamādinā bhante bhagavatā bhāsitaṃ

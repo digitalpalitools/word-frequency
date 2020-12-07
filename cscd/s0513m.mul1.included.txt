@@ -1,5 +1,5 @@
 ﻿
-1 daḷhavaggo
+
 
  151 rājovādajātakaṃ (2-1-1)
 
@@ -103,7 +103,7 @@ gāmantakāni  sevassu etaṃ mātālayaṃ tavāti
 tassuddānaṃ 
 varaballika  daddara sūkarako uragūttama pañcamabhaggavaro
 mahatīcamu yāva siṅgālavaro suhanuttama mora vinīlaṃ dasāti
-2 santhavavaggo
+
 
  161 indasamānagottajātakaṃ (2-2-1)
 
@@ -198,7 +198,7 @@ atimaññati rājānaṃ vedehaṃ mithilaggahanti
 tassuddānaṃ 
 atha  indasamāna sapaṇṇakuṭi susimuttama gijjha jalābujako
 upasāḷaka bhikkhu salāpavaro atha mettavaro dasapuṇṇamatīti
-3 kalyāṇavaggo
+
 
  171 kalyāṇadhammajātakaṃ (2-3-1)
 
@@ -295,7 +295,7 @@ asanto  nirayaṃ yanti santo saggaparāyaṇāti
 tassuddānaṃ 
 susamaññamigādhibhū māṇavako vāripahūtarūpādiccupaṭṭhānā
 sakaḷāyasatindukapaṅka puna satadhamma sududdadakena dasāti
-4 asadisavaggo
+
 
  181 asadisajātakaṃ (2-4-1)
 
@@ -394,7 +394,7 @@ satañhi sannivāsena sotthiṃ gacchati nhāpitoti
 tassuddānaṃ 
 dhanuggaha  kuñjara apparaso giridattamanāvilacittavaraṃ
 dadhivāhana jambūka sīhanakho haritayava nāgavarena dasāti
-5 ruhakavaggo
+
 
  191 ruhakajātakaṃ (2-5-1)
 
@@ -490,7 +490,7 @@ attho atthi sujātasmiṃ sīlaṃ asmāka ruccatīti
 tassuddānaṃ 
 apiruhaka  rūpavatī musalo pavasanti sapañcamapokkharaṇī
 atha muttimavāṇija umhayate ciraāgata koṭṭha sarīra dasāti
-6 nataṃdaḷhavaggo
+
 
  201 bandhanāgārajātakaṃ (2-6-1)
 
@@ -595,7 +595,7 @@ athāsadā  khadiraṃ jātasāraṃ  yatthabbhidā garuḷo uttamaṅganti
 tassuddānaṃ 
 daḷhabandhana haṃsavaro ca puna virūpakkha saviṭṭhaka macchavaro
 sakuruṅga saassaka ambavaro puna kukkuṭako garuḷena dasāti
-7 bīraṇathambhavaggo
+
 
  211 somadattajātakaṃ (2-7-1)
 
@@ -692,7 +692,7 @@ sataṃ  dhammaṃ anussaraṃti
 tassuddānaṃ 
 atha  bīraṇathambhavaro ca naṭo bharurājavaruttamapuṇṇanadī
 bahubhāṇi aggipavane mūsikā sahalambatthano kapaṇena dasāti
-8 kāsāvavaggo
+
 
  221 kāsāvajātakaṃ (2-8-1)
 
@@ -790,7 +790,7 @@ girimivaanilena duppasayho  duppasaho ahamajjatādisena
 tassuddānaṃ 
 varavatthavaco  dumakhīṇaphalaṃ caturodhammavaraṃ purisuttama
 dhaṅkamagadhā ca tayogirināma gajaggavaro dhajavarena dasāti
-9 upāhanavaggo
+
 
  231 upāhanajātakaṃ (2-9-1)
 
@@ -890,7 +890,7 @@ parikkhatā  ca sā bhūmi mā bhāyi nāgamissatīti
 tassuddānaṃ 
 varupāhana khujja vikaṇṇakako asitābhuya pañcamavacchanakho
 dija pemavaruttamaekapadaṃ kumināmukha piṅgalakena dasāti
-10 siṅgālavaggo
+
 
  241 sabbadāṭhijātakaṃ (2-10-1)
 

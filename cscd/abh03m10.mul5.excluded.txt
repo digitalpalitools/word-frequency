@@ -1,5 +1,5 @@
 ﻿20-1. Saññojanaduka-kusalattikaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 . 
@@ -9,7 +9,7 @@ Hetupaccayo
 4 . 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 5 . 
@@ -18,13 +18,13 @@ Hetupaccayo
 
 
 
-
+Abyākatapadaṃ
 Hetupaccayo
 8 .
 9 .  
 
-
-
+21-1. Saññojaniyaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 10 . 
@@ -34,14 +34,14 @@ Hetupaccayo
 12 .
 13 .
 
-
+Abyākatapadaṃ
 Hetupaccayo
 14 . 
 
 
 15 . 
 
-
+7. Pañhāvāro
 Hetupaccayo
 16 .
 
@@ -52,8 +52,8 @@ Paccanīyuddhāro
 
 
 
-
-
+22-1. Saññojanasampayuttaduka-kusalattikaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 20 .
@@ -66,20 +66,20 @@ Paccanīyaṃ
 Nahetupaccayo
 23 .
 24 .
-
+7. Pañhāvāro
 Hetupaccayo
 25 .
 
 
 
 26 . 
-
+Abyākatapadaṃ
 Hetupaccayo
 27 . 
 
 
-
-
+23-1. Saññojanasaññojaniyaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 28 .
@@ -98,8 +98,8 @@ Hetupaccayo
 35 . 
 36 . 
 
-
-
+24-1. Saññojanasaññojanasampayuttaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 37 .
@@ -114,8 +114,8 @@ Hetupaccayo
 
 
 
-
-
+25-1. Saññojanavippayuttasaññojaniyaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 42 .

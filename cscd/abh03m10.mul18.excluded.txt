@@ -1,5 +1,5 @@
 ﻿1-75. Kusalattika-kilesadukaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 1 .
 
@@ -13,8 +13,8 @@ Paccayacatukkaṃ
 4 .
 
 5 .
-
-
+1-76. Kusalattika-saṃkilesikadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 6 . 
 
@@ -33,8 +33,8 @@ Paccayacatukkaṃ
 
 
 13 .
-
-
+1-77. Kusalattika-saṃkiliṭṭhadukaṃ
+1-7. Paṭiccavārādi
 Hetu-ārammaṇapaccayā
 14 .  
 
@@ -49,12 +49,12 @@ Hetu-ārammaṇapaccayā
 
 
 19 .
-
-
+1-78. Kusalattika-kilesasampayuttadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 20 .
-
-
+1-79. Kusalattika-kilesasaṃkilesikadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 21 . 
 
@@ -68,8 +68,8 @@ Hetupaccayo
 24 . 
 
 25 . 
-
-
+1-80. Kusalattika-kilesasaṃkiliṭṭhadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 26 . 
 
@@ -77,8 +77,8 @@ Hetupaccayo
 27 .
 
 
-
-
+1-81. Kusalattika-kilesakilesasampayuttadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 28 . 
 
@@ -86,8 +86,8 @@ Hetupaccayo
 29 .
 
 
-
-
+1-82. Kusalattika-kilesavippayuttasaṃkilesikadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 30 .  
 

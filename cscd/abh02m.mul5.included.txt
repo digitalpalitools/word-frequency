@@ -1,5 +1,5 @@
 ﻿
-1 suttantabhājanīyaṃ
+
  avijjāpaccayā  saṅkhārā saṅkhārapaccayā viññāṇaṃ viññāṇapaccayā nāmarūpaṃ nāmarūpapaccayā saḷāyatanaṃ saḷāyatanapaccayā phasso phassapaccayā vedanā vedanāpaccayā taṇhā taṇhāpaccayā upādānaṃ upādānapaccayā bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti evametassa kevalassa dukkhakkhandhassa samudayo hoti
  tattha katamā avijjā dukkhe aññāṇaṃ dukkhasamudaye aññāṇaṃ dukkhanirodhe aññāṇaṃ dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ  ayaṃ vuccati avijjā
 tattha katame avijjāpaccayā saṅkhārā puññābhisaṅkhāro apuññābhisaṅkhāro āneñjābhisaṅkhāro kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro
@@ -26,7 +26,7 @@ tattha katamaṃ maraṇaṃ yā tesaṃ tesaṃ sattānaṃ tamhā tamhā satta
  tattha katamo upāyāso ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṃ upāyāsitattaṃ  ayaṃ vuccati upāyāso
  evametassa kevalassa dukkhakkhandhassa samudayo hotīti evametassa kevalassa dukkhakkhandhassa saṅgati hoti samāgamo hoti samodhānaṃ hoti pātubhāvo hoti tena vuccati evametassa kevalassa dukkhakkhandhassa samudayo hotīti
 
-2 abhidhammabhājanīyaṃ
+
 
  avijjāpaccayā  saṅkhāro saṅkhārapaccayā viññāṇaṃ viññāṇapaccayā nāmaṃ nāmapaccayā chaṭṭhāyatanaṃ chaṭṭhāyatanapaccayā phasso phassapaccayā vedanā vedanāpaccayā taṇhā taṇhāpaccayā upādānaṃ upādānapaccayā bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ evametassa kevalassa dukkhakkhandhassa samudayo hoti
 avijjāpaccayā saṅkhāro saṅkhārapaccayā viññāṇaṃ viññāṇapaccayā nāmaṃ nāmapaccayā phasso phassapaccayā vedanā vedanāpaccayā taṇhā taṇhāpaccayā upādānaṃ upādānapaccayā  bhavo bhavapaccayā jāti jātipaccayā jarāmaraṇaṃ evametassa kevalassa dukkhakkhandhassa samudayo hoti

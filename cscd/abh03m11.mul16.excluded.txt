@@ -1,9 +1,9 @@
 ﻿Dhammapaccanīyānulome dukatikapaṭṭhānaṃ
-
+1-1. Hetuduka-kusalattikaṃ
 1 .  
 
 2 . 
-
+2-4-1. Sahetukādidukāni-kusalattikaṃ
 3 .
 
 4 .  
@@ -13,15 +13,15 @@
 
 7 .
 
-
+5-1. Hetuhetusampayuttaduka-kusalattikaṃ
 8 . 
 
 
-
+6-1. Nahetusahetukaduka-kusalattikaṃ
 9 .
 
 
-
+7-13-1. Cūḷantaradukāni-kusalattikaṃ
 10 .
 
  
@@ -41,34 +41,34 @@
 
 
 
-
+14-1. Āsavaduka-kusalattikaṃ
 17 . 
 
 
-
+15-1. Sāsavaduka-kusalattikaṃ
 18 .
 
-
+16-1. Āsavasampayuttaduka-kusalattikaṃ
 19 .
 
 
-
+17-1. Āsavasāsavaduka-kusalattikaṃ
 20 . 
 
 
 
-
+19-1. Āsavavippayuttasāsavaduka-kusalattikaṃ
 21 . 
 
 
-
+20-54-1. Saññojanādichagocchakāni-kusalattikaṃ
 22 . 
 23 . 
 24 .
 25 . 
 26 .
 27 .
-
+55-68-1. Mahantaradukāni-kusalattikaṃ
 28 .
 
 
@@ -85,11 +85,11 @@
 39 .
 40 .
 41 . 
-
+69-74-1. Upādānadukādi-kusalattikaṃ
 42 .  
-
+75-82-1. Kilesadukādi-kusalattikaṃ
 43 .
-
+83-100-1. Piṭṭhidukāni-kusalattikaṃ
 44 .
 
 
@@ -112,162 +112,162 @@
 61 .
 
 
-
+1-2. Hetuduka-vedanāttikaṃ
 62 . 
 
-
+1-3. Hetuduka-vipākattikaṃ
 63 .
 
 
-
+1-4. Hetuduka-upādinnattikaṃ
 64 .  
 
 
 
 
-
+1-5. Hetuduka-saṃkiliṭṭhattikaṃ
 65 . 
 
 
-
+1-6. Hetuduka-vitakkattikaṃ
 66 .  
 
 
-
+1-7. Hetuduka-pītittikaṃ
 67 .
 
 
-
+1-8. Hetuduka-dassanattikaṃ
 68 .
 
 69 . 
-
+1-9. Hetuduka-dassanahetuttikaṃ
 70 . 
 
 71 .
-
+1-10. Hetuduka-ācayagāmittikaṃ
 72 .
 
 
-
+1-11. Hetuduka-sekkhattikaṃ
 73 . 
 
 
-
+1-12. Hetuduka-parittattikaṃ
 74 . 
 
 
-
+1-13. Hetuduka-parittārammaṇattikaṃ
 75 .
 
 
-
+1-14. Hetuduka-hīnattikaṃ
 76 .
 
 
-
+1-15. Hetuduka-micchattaniyatattikaṃ
 77 .
 
 
-
+1-16. Hetuduka-maggārammaṇattikaṃ
 78 .
 
  
-
+1-17. Hetuduka-uppannattikaṃ
 79 .
-
+1-18. Hetuduka-atītattikaṃ
 80 .
-
+1-19. Hetuduka-atītārammaṇattikaṃ
 81 .
 
 
-
+1-20. Hetuduka-ajjhattattikaṃ
 82 . 
 
 
-
+1-21. Hetuduka-ajjhattārammaṇattikaṃ
 83 .
 
-
+1-22. Hetuduka-sanidassanattikaṃ
 84 .
 
 
 85 .
-
+2-5-22. Sahetukādidukāni-sanidassanattikaṃ
 86 . 
 
 
  
 
-
+6-22. Nahetusahetukaduka-sanidassanattikaṃ
 87 .
 
 
 
-
+7-8-22. Sappaccayadukādi-sanidassanattikaṃ
 88 .
 
 
 
-
+9-22. Sanidassanaduka-sanidassanattikaṃ
 89 . 
  
 
-
+10-22. Sappaṭighaduka-sanidassanattikaṃ
 90 .
 
 
 
 
-
+11-22. Rūpīduka-sanidassanattikaṃ
 91 .  
 
 
-
+12-22. Lokiyaduka-sanidassanattikaṃ
 92 .
 
 
 
 
-
+13-22. Kenaciviññeyyaduka-sanidassanattikaṃ
 93 .  
 
 
 
-
+14-22. Āsavaduka-sanidassanattikaṃ
 94 .
 
 
 
-
+15-22. Sāsavaduka-sanidassanattikaṃ
 95 .
 
 
 
-
+16-22. Āsavasampayuttaduka-sanidassanattikaṃ
 96 . 
 
 
 
-
+17-22. Āsavasāsavadukādi-sanidassanattikaṃ
 97 .
 
 
 
 
-
+19-22. Āsavavippayuttasāsavaduka-sanidassanattikaṃ
 98 .  
 
 
 
-
+20-54-22. Saññojanādichagocchakāni-sanidassanattikaṃ
 99 .
 100 .
 101 .  
 102 .
 103 .
 104 . 
-
+55-68-22. Mahantaradukādi-sanidassanattikaṃ
 105 . 
 
 
@@ -287,11 +287,11 @@
 
 117 .
 118 .  
-
+69-74-22. Upādānadukādi-sanidassanattikaṃ
 119 . 
-
+75-82-22. Kilesadukādi-sanidassanattikaṃ
 120 .
-
+83-100-22. Piṭṭhidukādi-sanidassanattikaṃ
 121 .
 122 .
 123 . 
@@ -313,13 +313,13 @@
 
 
 
-
+Paccanīyaṃ
 Nahetu-naārammaṇapaccayā
 139 . 
 
 
 
-
+7. Pañhāvāro
 Hetupaccayo
 140 .
 

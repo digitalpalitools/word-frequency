@@ -1,8 +1,8 @@
 ﻿3. Samāsakaṇḍa
-
+Samāsalakkhaṇādi
 202 .  Samāso Yuttattho
 
-
+Kammadhārayasamāsa
 203 .
 Dvipade tulyādhikaraṇe kammadhārayo
 
@@ -23,14 +23,14 @@ Taddhita samāsa kitakā nāmaṃvātavetunādīsu ca
 205 .
 206 .
 
-
+Ubhe tappurisa samāsa
 207 .
 
 208 . 
-
+Digusamāsa
 209 . 
 
-
+Suddhatappurisasamāsa
 210 . 
 Amādayo parapadehi
 
@@ -52,7 +52,7 @@ kiccā adhikatthavacanaṃ thuti nindā
 217 .
 
 
-
+Bahubbīhisamāsa
 218 . Aññapadatthesu bahubbīhi.
 
 
@@ -69,7 +69,7 @@ Tulyādhikaraṇo.
 226 . 
 Bhinnādhikaraṇo.
 
-
+Dvandasamāsa
 227 . Nāmānaṃ samuccayo dvando.
 
 
@@ -92,7 +92,7 @@ vividhaviruddhā visabhāgā
 
 
 
-
+Abyayībhāvasamāsa
 230 . 
 Upasagganipātapubbako abyayībhāvo
 

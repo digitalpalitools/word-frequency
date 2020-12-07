@@ -1,5 +1,5 @@
 ﻿1. Cittuppādakaṇḍaṃ
-
+Kāmāvacarakusalaṃ
 Padabhājanī
 1 .     viriyindriyaṃ (sī. syā.) viriyabalaṃ (sī. syā.) kāyappassaddhi (syā.) cittappassaddhi (syā.) kāyujjukatā (sī. ka.)  cittujjukatā (sī. ka.)
 2 .  
@@ -193,7 +193,7 @@ Sattamaṃ cittaṃ.
 Aṭṭhamaṃ cittaṃ.
 Aṭṭha kāmāvacaramahākusalacittāni.
 Dutiyabhāṇavāro.
-
+Rūpāvacarakusalaṃ
 Catukkanayo
 160 .    paṭhamajjhānaṃ (sī.)
 161 .  dutiyajjhānaṃ (sī.)
@@ -344,7 +344,7 @@ Asubhajhānaṃ soḷasakkhattukaṃ
 264 .  puḷuvakasaññāsahagataṃ (ka.)
 Asubhajhānaṃ asubhajjhānaṃ (sī. syā.) soḷasakkhattukaṃ.
 Rūpāvacarakusalaṃ.
-
+Arūpāvacarakusalaṃ
 Cattāri arūpajhānāni arūpajjhānāni (sī. syā.) soḷasakkhattukāni
 265 . 
 266 .  
@@ -352,7 +352,7 @@ Cattāri arūpajhānāni arūpajjhānāni (sī. syā.) soḷasakkhattukāni
 268 .
 Cattāri arūpajhānāni soḷasakkhattukāni.
 Arūpāvacarakusalaṃ.
-
+Tebhūmakakusalaṃ
 Kāmāvacarakusalaṃ
 269 .  
 270 .   
@@ -367,7 +367,7 @@ Arūpāvacarakusalaṃ
 275 . 
 276 .  
 Arūpāvacarakusalaṃ.
-
+Lokuttarakusalaṃ
 Suddhikapaṭipadā
 277 .   
 278 .
@@ -476,7 +476,7 @@ Tatiyo maggo.
 364 . 
 Catuttho maggo.
 Lokuttaraṃ cittaṃ.
-
+Dvādasa akusalāni
 365 .    
 366 .
 367 .
@@ -551,7 +551,7 @@ Lokuttaraṃ cittaṃ.
 
 430 . 
 Dvādasa akusalacittāni.
-
+Abyākatavipāko
 Kusalavipākapañcaviññāṇāni
 431 . 
 432 . 
@@ -645,7 +645,7 @@ Arūpāvacaravipākā
 503 .  
 504 .  
 Arūpāvacaravipākā.
-
+Lokuttaravipāka-paṭhamamaggavipākā
 Suddhikapaṭipadā
 505 . 
 506 .  
@@ -717,7 +717,7 @@ Dutiyādimaggavipāko
 555 . 
 Dutiyādimaggavipāko.
 Lokuttaravipāko.
-
+Akusalavipākaabyākataṃ
 Akusalavipākapañcaviññāṇāni
 556 .   
 557 .
@@ -738,7 +738,7 @@ Akusalavipākamanoviññāṇadhātu
 565 .   
 Akusalavipākā manoviññāṇadhātu.
 Vipākā abyākatā.
-
+Ahetukakiriyāabyākataṃ
 Kiriyāmanodhātu
 566 .
 

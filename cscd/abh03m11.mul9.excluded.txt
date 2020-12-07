@@ -1,7 +1,7 @@
 ﻿Dhammānulomapaccanīye dukapaṭṭhānaṃ
-
-
-
+1. Hetudukaṃ
+1-7. Paṭiccavārādi
+1. Paccayānulomaṃ
 Hetupaccayo
 1 .   
 
@@ -13,118 +13,118 @@ Hetu-ārammaṇapaccayā
 
 
 3 .
-
+2. Sahetukadukaṃ
 1-7. Paṭiccavārādi
 4 .
 
 
 
-
+3. Hetusampayuttadukaṃ
 1-7. Paṭiccavārādi
 5 .  
 
 
 
-
+4. Hetusahetukadukaṃ
 1-7. Paṭiccavārādi
 6 .  
 
 
 
-
+5. Hetuhetusampayuttadukaṃ
 1-7. Paṭiccavārādi
 7 .  
 
 
 
-
-
+6. Nahetusahetukadukaṃ
+1-7. Paṭiccavārādi
 8 . 
 
 Hetugocchakaṃ niṭṭhitaṃ.
-
+7-8. Sappaccayadukādi
 1-7. Paṭiccavārādi
 9 . 
 10 .
 
-
+9. Sanidassanadukaṃ
 1-7. Paṭiccavārādi
 11 .
 
-
+10. Sappaṭighadukaṃ
 1-7. Paṭiccavārādi
 12 . 
 
 
 
-
+11. Rūpīdukaṃ
 1-7. Paṭiccavārādi
 13 .
 
-
+12. Lokiyadukaṃ
 1-7. Paṭiccavārādi
 14 .
 ayaṃ saṅkhyā vicāretabbā, nalokiyanalokuttaradhammo nāma natthi
 
 
-
+13. Kenaciviññeyyadukaṃ
 1-7. Paṭiccavārādi
 15 . 
 
 
 Cūḷantaradukaṃ niṭṭhitaṃ.
-
+14. Āsavadukaṃ
 1-7. Paṭiccavārādi
 16 .
 
  
-
+15. Sāsavadukaṃ
 1-7. Paṭiccavārādi
 17 .
 
 
 
-
+16. Āsavasampayuttadukaṃ
 1-7. Paṭiccavārādi
 18 . 
  
 
 
-
+17. Āsavasāsavadukaṃ
 1-7. Paṭiccavārādi
 19 .
 
 
-
+18. Āsavaāsavasampayuttadukaṃ
 1-7. Paṭiccavārādi
 20 .   
 
 
-
+19. Āsavavippayuttasāsavadukaṃ
 1-7. Paṭiccavārādi
 21 .
 
 
 
 Āsavagocchakaṃ niṭṭhitaṃ.
-
+20-49. Saññojanadukādi
 1-7. Paṭiccavārādi
 22 .  
-
+50-54. Parāmāsadukāni
 1-7. Paṭiccavārādi
 23 .
-
+55. Sārammaṇadukaṃ
 1-7. Paṭiccavārādi
 24 . 
 
 
 
-
+56. Cittadukaṃ
 1-7. Paṭiccavārādi
 25 . 
 
 
-
+57-68. Cetasikadukādi
 1-7. Paṭiccavārādi
 26 .
 27 .
@@ -142,31 +142,31 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 
 
 Mahantaradukaṃ niṭṭhitaṃ.
-
+69-74. Upādānagocchakaṃ
 33 .
-
+75-82. Kilesagocchakaṃ
 34 . 
-
+83. Dassanenapahātabbadukaṃ
 35 .  
 
 
 
-
+84. Bhāvanāyapahātabbadukaṃ
 36 .
 
 
 
-
+85. Dassanenapahātabbahetukadukaṃ
 37 .  
 
-
+86. Bhāvanāyapahātabbahetukadukaṃ
 38 . 
-
+87-88. Savitakkadukādi
 39 .
 
 40 .
 
-
+89-92. Sappītikadukādi
 41 . 
 
 42 .
@@ -175,7 +175,7 @@ Mahantaradukaṃ niṭṭhitaṃ.
 
 44 .
 
-
+93-95. Kāmāvacarādidukāni
 45 . 
 
 46 .
@@ -183,34 +183,34 @@ Mahantaradukaṃ niṭṭhitaṃ.
 47 .
 
 
-
+96. Pariyāpannadukaṃ
 48 .  
 
 
-
+97. Niyyānikadukaṃ
 49 .
 
 
-
+98. Niyatadukaṃ
 50 .
 
 
-
+99. Sauttaradukaṃ
 51 .
 
   
-
+100. Saraṇadukaṃ
 1-6. Paṭiccavārādi
 52 .
 
 
-
+Paccanīyaṃ
 Nahetupaccayo
 53 .
 
 
 
-
+100. Saraṇadukaṃ
 7. Pañhāvāro
 54 . 
 

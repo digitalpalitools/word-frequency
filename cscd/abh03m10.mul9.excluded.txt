@@ -1,5 +1,5 @@
 ﻿55-1. Sārammaṇaduka-kusalattikaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .
@@ -15,8 +15,8 @@ Hetu-ārammaṇa-adhipatipaccayā
  
 7 .
 8 .
-
-
+56-1. Cittaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 9 .
@@ -43,8 +43,8 @@ Hetupaccayo
 
 17 .
 18 .  
-
-
+57-1. Cetasikaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 19 . 
@@ -65,8 +65,8 @@ Hetupaccayo
 
 27 . 
 28 . 
-
-
+58-1. Cittasampayuttaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 29 .
@@ -85,8 +85,8 @@ Hetu-ārammaṇapaccayā
 
 
 36 .
-
-
+59-1. Cittasaṃsaṭṭhaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 37 .  
@@ -98,8 +98,8 @@ Hetupaccayo
 
 42 .
 
-
-
+60-1. Cittasamuṭṭhānaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 43 .  
@@ -124,8 +124,8 @@ Hetupaccayo
  
 52 .
 
-
-
+61-1. Cittasahabhūduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 53 .  
@@ -141,8 +141,8 @@ Hetupaccayo
 
 
 58 .
-
-
+62-1. Cittānuparivattiduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 59 .  
@@ -157,8 +157,8 @@ Hetupaccayo
 
 63 .
 64 .
-
-
+63-1. Cittasaṃsaṭṭhasamuṭṭhānaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 65 .  
@@ -180,8 +180,8 @@ Hetupaccayo
 
 
 
-
-
+64-1. Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 73 .
@@ -196,8 +196,8 @@ Hetupaccayo
 
 77 . 
 78 .
-
-
+65-1. Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 79 . 
@@ -210,8 +210,8 @@ Hetupaccayo
 
 83 .
 
-
-
+66-1. Ajjhattikaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 84 .
@@ -230,8 +230,8 @@ Hetupaccayo
 90 . 
 
 91 . 
-
-
+67-1. Upādāduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 92 .
@@ -253,8 +253,8 @@ Hetuārammaṇapaccayādi
 
 
 97 . 
-
-
+68-1. Upādinnaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 98 . 

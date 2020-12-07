@@ -1,5 +1,5 @@
 ﻿Nidānavaggapāḷi
-
+Nidānasaṃyutta
 Paṭiccasamuppādasutta
 Pucchā – 
 Vissajjanā –
@@ -43,18 +43,18 @@ Vissajjanā –
 Pucchā – 
 Vissajjanā –
 
-
+Abhisamayasaṃyutta
 Nakhasikhāsutta
 Pucchā – 
 Vissajjanā –
-
+Dhātusaṃyutta
 Caṅkamasutta
 Pucchā – 
 Vissajjanā –
 Assaddhasaṃsandanasutta
 Pucchā – 
 Vissajjanā –
-
+Anamataggasaṃyutta
 Pathavīsutta
 Pucchā – 
 Vissajjanā –
@@ -84,7 +84,7 @@ Vissajjanā –
 Mātusutta
 Pucchā – 
 Vissajjanā – 
-
+Kassapasaṃyutta
 Candūpamasutta
 Pucchā – 
 Vissajjanā –
@@ -109,7 +109,7 @@ Vissajjanā –
 Saddhammappatirūpakasutta
 Pucchā – 
 Vissajjanā – 
-
+Lābhasakkārasaṃyutta
 Mīḷhakasutta
 Pucchā – 
 Vissajjanā –
@@ -128,10 +128,10 @@ Pucchā –
 Vissajjanā –
 
 
-
+Rāhulasaṃyutta
 Pucchā – 
 Vissajjanā –
-
+Lakkhaṇasaṃyutta
 Aṭṭhisutta
 Pucchā – 
 Vissajjanā – 
@@ -150,7 +150,7 @@ Vissajjanā –
 Pāpabhikkhusutta
 Pucchā – 
 Vissajjanā – 
-
+Opammasaṃyutta
 Nakhasikhasutta
 Pucchā – 
 Vissajjanā – 
@@ -159,7 +159,7 @@ Vissajjanā –
 Āṇisutta
 Pucchā –
 Vissajjanā – 
-
+Bhikkhusaṃyutta
 Navasutta
 Pucchā – 
 Vissajjanā –

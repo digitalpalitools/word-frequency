@@ -1,5 +1,5 @@
 ﻿17. Khuddakavatthuvibhaṅgo
-
+1. Ekakamātikā
 832 .     cetaso līnattaṃ (syā.)  nijigiṃsanatā (sī.), jigiṃsanatā (syā.) 
 Ekakaṃ.
 2. Dukamātikā
@@ -31,7 +31,7 @@ Navakaṃ.
 Dasakaṃ.
 842 . 
 Mātikā.
-
+1. Ekakaniddeso
 (1) Jātimado
 843 .   uṇṇati uṇṇāmo (syā. ka.) dha. sa. 1121
 (2-27) Gottamadādī
@@ -129,7 +129,7 @@ Mātikā.
 (73) Anavaññattipaṭisaṃyutto vitakko
 890 .  
 Ekakaṃ.
-
+2. Dukaniddeso
 (1) Kodho ca upanāho ca
 891 .
 
@@ -184,7 +184,7 @@ appaṭisandhāro (ka.)
 (18) Ajjhattasaṃyojanañca bahiddhāsaṃyojanañca
 908 . 
 Dukaṃ.
-
+3. Tikaniddeso
 (1) Tīṇi akusalamūlāni
 909 . 
 visadā (sī. ka.) dha. sa. 1141 āyūhinī (ka.) sandhavo (ka.) āsiṃsanā āsiṃsitattaṃ (sī. syā.)  
@@ -348,7 +348,7 @@ visadā (sī. ka.) dha. sa. 1141 āyūhinī (ka.) sandhavo (ka.) āsiṃsanā ā
 (Ga) cetaso ca līnattaṃ
 
 Tikaṃ.
-
+4. Catukkaniddeso
 (1) Cattāro āsavā
 937 . 
 (Ka) kāmāsavo
@@ -392,7 +392,7 @@ Tikaṃ.
 (15) Catasso diṭṭhiyo
  
 Catukkaṃ.
-
+5. Pañcakaniddeso
 (1) Pañcorambhāgiyāni saṃyojanāni
 940 .
 (2) Pañcuddhambhāgiyāni saṃyojanāni
@@ -429,7 +429,7 @@ evaṃdiṭṭhi (syā.)
   
 
 Pañcakaṃ.
-
+6. Chakkaniddeso
 (1) Cha vivādamūlāni
 944 . 
 (2) Cha chandarāgā
@@ -459,7 +459,7 @@ Pañcakaṃ.
 (14) Cha diṭṭhiyo
 948 . 
 Chakkaṃ.
-
+7. Sattakaniddeso
 (1) Sattānusayā
 949 . 
 (2) Satta saṃyojanāni
@@ -481,7 +481,7 @@ Chakkaṃ.
 
 
 Sattakaṃ.
-
+8. Aṭṭhakaniddeso
 (1) Aṭṭha kilesavatthūni
 952 . 
 (2) Aṭṭha kusītavatthūni
@@ -514,7 +514,7 @@ gilānavuṭṭhito (saddanībhi) a. ni. 6.16 pāḷiyā ṭīkā passitabbā
 (8) Aṭṭha nevasaññīnāsaññīvādā
 959 .  
 Aṭṭhakaṃ.
-
+9. Navakaniddeso
 (1) Nava āghātavatthūni
 960 .  
 (2) Nava purisamalāni
@@ -528,7 +528,7 @@ Aṭṭhakaṃ.
 (6-9) Nava maññitādīni
 965 .   
 Navakaṃ.
-
+10. Dasakaniddeso
 (1) Dasa kilesavatthūni
 966 .
 (2) Dasa āghātavatthūni
@@ -544,7 +544,7 @@ Navakaṃ.
 (7) Dasavatthukā antaggāhikā diṭṭhi
 972 .
 Dasakaṃ.
-
+11. Taṇhāvicaritaniddeso
 (1) Ajjhattikassa upādāya
 973 .  
 974 . anavakārī (sī. ka.) 

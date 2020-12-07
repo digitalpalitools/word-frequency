@@ -1,5 +1,5 @@
 ﻿
-1 suttantabhājanīyaṃ
+
  cattāro  iddhipādā  idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti
 
  kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti chandaṃ ce bhikkhu adhipatiṃ karitvā labhati samādhiṃ labhati cittassekaggataṃ   ayaṃ vuccati chandasamādhi so anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati ime vuccanti padhānasaṅkhārā iti ayañca chandasamādhi ime ca padhānasaṅkhārā tadekajjhaṃ abhisaññahitvā abhisaṅkhipitvā chandasamādhipadhānasaṅkhārotveva saṅkhyaṃ  gacchati
@@ -34,7 +34,7 @@ tattha katamo padhānasaṅkhāro yo cetasiko vīriyārambho   sammāvāyāmo  a
 iddhipādoti  tathābhūtassa vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakhandho
 iddhipādaṃ bhāvetīti te dhamme āsevati bhāveti bahulīkaroti tena vuccati iddhipādaṃ bhāvetīti
 
-2 abhidhammabhājanīyaṃ
+
  cattāro iddhipādā  idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīriyasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti cittasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti
 
  kathañca bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ tasmiṃ samaye chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ  bhāveti
@@ -74,7 +74,7 @@ iddhipādaṃ bhāvetīti te dhamme āsevati bhāveti bahulīkaroti tena vuccati
  tattha katamo cittiddhipādo idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ  apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi   paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ tajjāmanoviññāṇadhātu  ayaṃ vuccati cittiddhipādo avasesā dhammā cittiddhipādasampayuttā
  tattha katamo vīmaṃsiddhipādo idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja  viharati dukkhapaṭipadaṃ dandhābhiññaṃ yā tasmiṃ samaye paññā pajānanā amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ  ayaṃ vuccati vīmaṃsiddhipādo avasesā dhammā vīmaṃsiddhipādasampayuttā
 
-3 pañhāpucchakaṃ
+
  cattāro iddhipādā  idha bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīriyasamādhi cittasamādhi vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti
  catunnaṃ iddhipādānaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
 

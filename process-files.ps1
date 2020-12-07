@@ -5,7 +5,7 @@
   $dstDir
 )
 
-$rendBlackList = "centre", "nikaya", "book", "chapter", "subhead"
+$rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
 $nodeBackList = "hi", "pb", "note"
 
 $includeForWCPropName = "_includeForWC"
@@ -88,7 +88,7 @@ function RemovePunctuation {
   )
 
   Process {
-    $text.Replace("…pe…", "") -replace "[.,?‘;’–-…]"
+    $text.Replace("…pe…", "") -replace "[().,?‘;’–-…]"
   }
 }
 
@@ -123,12 +123,14 @@ function ProcessFile {
       | GetAllExcludedText
     $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8
 
-    Write-Host "[I: $($includedLines.Length) E: $($excludedLines.Length)]`t" -NoNewline
-
     if ($includedLines.Length -ne $excludedLines.Length) {
-      Write-Host "[Check failed!]" -ForegroundColor Red
+      Write-Host "[$($includedLines.Length)/$($excludedLines.Length) lines]`t" -NoNewline
+      Write-Host "[Check failed]" -ForegroundColor Red
+      $False
     } else {
+      Write-Host "[$($includedLines.Length) lines]`t" -NoNewline
       Write-Host "[Checked]" -ForegroundColor Green
+      $True
     }
   }
 }
@@ -139,9 +141,12 @@ function ProcessDirectory {
     $dstDir
   )
 
-  Get-ChildItem -Filter "*.xml" (Join-Path $srcDir "cscd") | Where-Object {
+  $now = [datetime]::Now
+  [array] $results = Get-ChildItem -Filter "*.xml" (Join-Path $srcDir "cscd") | Where-Object {
     -not $_.FullName.EndsWith(".toc.xml")
   } | ProcessFile $srcDir $dstDir
+  $failedCount = ($results | Where-Object { -not $_ }).Length
+  Write-Host ("Summary: Duration {0:mm\:ss\.fff} Complete {1}, Failed {2}." -f ([datetime]::Now - $now), $results.Length, $failedCount)
 }
 
 # dir "D:\src\dpt\cst\cscd\abh01a.att0.xml" | ProcessFile $srcDir $dstDir # Has 830 nodes

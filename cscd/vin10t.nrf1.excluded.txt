@@ -1,5 +1,5 @@
 ﻿Bhikkhuvibhaṅgo
-
+Pārājikakathā
 Paṭhamapārājikakathā
 6 .
  
@@ -1019,7 +1019,7 @@ Catutthapārājikakathā
 
 
 Iti vinayavinicchaye catutthapārājikakathā niṭṭhitā.
-
+Saṅghādisesakathā
 325 .
 
 
@@ -1692,7 +1692,7 @@ samuccayassaṭṭha-kathāpāḷi
 
 
 Iti vinayavinicchaye saṅghādisesakathā niṭṭhitā.
-
+Aniyatakathā
 542 .
 
 
@@ -1723,7 +1723,7 @@ Paṭhamāniyatakathā.
 
 Dutiyāniyatakathā.
 Iti vinayavinicchaye aniyatakathā niṭṭhitā.
-
+Nissaggiyakathā
 551 .
 
 
@@ -2785,7 +2785,7 @@ Pattavaggo tatiyo.
 
 
 Iti vinayavinicchaye nissaggiyakathā niṭṭhitā.
-
+Pācittiyakathā
 889 .
 
 
@@ -5727,7 +5727,7 @@ Vassikasāṭikakathā.
 Nandakathā.
 Rājavaggo navamo.
 Iti vinayavinicchaye pācittiyakathā niṭṭhitā.
-
+Pāṭidesanīyakathā
 1830 .
 
 
@@ -5853,7 +5853,7 @@ kurundiyaṃ
 
 Catutthapāṭidesanīyakathā.
 Iti vinayavinicchaye pāṭidesanīyakathā niṭṭhitā.
-
+Sekhiyakathā
 1870 .
 
 

@@ -1,5 +1,5 @@
 ﻿12. Saccasaṃyuttaṃ
-
+1. Samādhivaggo
 1. Samādhisuttavaṇṇanā
 1071 .    samādhiṃ, bhikkhave Tasmātiha, bhikkhave, ‘‘idaṃ dukkha’’nti yogo karaṇīyo
 2. Paṭisallānasuttavaṇṇanā
@@ -14,7 +14,7 @@
 Itthikathā   Sūrakathā Visikhākathā Kumbhaṭṭhānakathā
 Pubbapetakathā Nānattakathā Lokakkhāyikā Samuddakkhāyikā itibhavābhavakathā 
 Paṭhamo vaggo.
-
+2. Dhammacakkappavattanavaggo
 1. Dhammacakkappavattanasuttavaṇṇanā
 1081 .   bārāṇasiya Isipatane migadāye
 Āmantesī
@@ -29,7 +29,7 @@ bhummā Saddamanussāvesu Obhāso Aññāsi vata, bho, koṇḍañño
 10. Tathasuttavaṇṇanā
 1090 . tathaṃ avitathaṃ anaññathaṃ Samudayādīsu
 Dhammacakkappavattanavaggo dutiyo.
-
+3. Koṭigāmavaggo
 1. Koṭigāmasuttavaṇṇanā
 1091 .   ananubodhā Appaṭivedhā
 2. Dutiyakoṭigāmasuttavaṇṇanā
@@ -41,7 +41,7 @@ Dhammacakkappavattanavaggo dutiyo.
 10. Gavampatisuttavaṇṇanā
 1100 . sahañcanike Yo, bhikkhave, dukkhaṃ passati, dukkhasamudayampi  so passatī
 Koṭigāmavaggo tatiyo.
-
+4. Sīsapāvanavaggo
 1. Sīsapāvanasuttavaṇṇanā
 1101 . yadidaṃ uparī Sīsapāvane
 2. Khadirapattasuttavaṇṇanā
@@ -55,7 +55,7 @@ Koṭigāmavaggo tatiyo.
 10. Vādatthikasuttavaṇṇanā
 1110 . silāyūpo Soḷasakukkuko Heṭṭhā nemaṅgamā Aṭṭha kukku uparinemassā Bhusā
 Sīsapāvanavaggo catuttho.
-
+5. Papātavaggo
 1. Lokacintāsuttavaṇṇanā
 1111 . sumāgadhāya pokkharaṇiyā Lokacintaṃ cintento
 Viceto    Bhūtaṃyeva addasā Devānaṃyeva mohayamānā Tasmā
@@ -71,9 +71,9 @@ Viceto    Bhūtaṃyeva addasā Devānaṃyeva mohayamānā Tasmā
 1118 . mahāpathavī Adhiccamidaṃ, bhante
 Evaṃ adhiccamidaṃ, bhikkhave
 Papātavaggo pañcamo.
-
+6. Abhisamayavaggavaṇṇanā
 1121 .  
-
+7. Paṭhamaāmakadhaññapeyyālavaggo
 3. Paññāsuttavaṇṇanā
 1133 .  ariyena paññācakkhunā
 4. Surāmerayasuttavaṇṇanā
@@ -84,14 +84,14 @@ Papātavaggo pañcamo.
 1138-39 .  sāmaññā brahmaññā
 10. Pacāyikasuttavaṇṇanā
 1140 . Kule jeṭṭhāpacāyino
-
+8. Dutiyaāmakadhaññapeyyālavaggo
 8. Bījagāmasuttavaṇṇanā
 1148 . Bījagāmabhūtagāmasamārambhā 
 9. Vikālabhojanasuttavaṇṇanā
 1149 . Vikālabhojanā
 10. Gandhavilepanasuttavaṇṇanā
 1150 . mālā Gandha  Vilepana  Ṭhānaṃ
-
+9. Tatiyaāmakadhaññapeyyālavaggo
 1. Naccagītasuttavaṇṇanā
 1151 . visūkadassanaṃ naccagītavāditavisūkadassanā
 2. Uccāsayanasuttavaṇṇanā
@@ -106,7 +106,7 @@ Papātavaggo pañcamo.
 1156 . Itthikumārikapaṭiggahaṇā itthī kumārikā
 7. Dāsidāsasuttavaṇṇanā
 1157 . Dāsidāsapaṭiggahaṇā
-
+10. Catutthaāmakadhaññapeyyālavaggo
 1. Khettavatthusuttavaṇṇanā
 1161 . Ajeḷakā   khettavatthu 
 2-3. Kayavikkayasuttādivaṇṇanā

@@ -1,7 +1,7 @@
 ﻿8. Dassanenapahātabbattikaṃ
-
-
-
+1. Paṭiccavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 1 .   
 
@@ -40,13 +40,13 @@ Vipākapaccayo
 13 .   
 Āhārapaccayādi
 14 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 15 .
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 16 .  
 
@@ -91,29 +91,29 @@ Navippayuttapaccayo
  
 Nonatthi-novigatapaccayā
 31 .
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 32 .
 (Ñatvā gaṇetabbaṃ.)
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 33 .
 (Evaṃ anumajjantena gaṇetabbaṃ.)
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 34 .   
 (Evaṃ anumajjantena gaṇetabbaṃ.)
 Paccanīyānulomaṃ.
 Paṭiccavāro.
-
+2. Sahajātavāro
 1-4. Paccayānulomādi
 35 .
 (Sahajātavāro paṭiccavārasadiso.)
-
-
-
+3. Paccayavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 36 . 
 
@@ -145,12 +145,12 @@ Sahajātapaccayo
 
 Aññamaññapaccayādi
 44 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 45 . 
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 46 .  
 
@@ -187,22 +187,22 @@ Nakammapaccayo
 
 Navipākapaccayādi
 56 . 
-
+2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 57 . 
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 58 .  
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 59 .
 Paccanīyānulomaṃ.
 Paccayavāro.
-
+4. Nissayavāro
 (Nissayavāro  paccayasadiso kātabbo.)
-
-
-
+5. Saṃsaṭṭhavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 60 .
 
@@ -213,31 +213,31 @@ Hetupaccayo
 2. Saṅkhyāvāro
 62 . 
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 63 .
 
 
 Naadhipatipaccayādi
 64 .  
-
+2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 65 .
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 66 .
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 67 .  
 Paccanīyānulomaṃ.
 Saṃsaṭṭhavāro.
-
+6. Sampayuttavāro
 1. Paccayānulomādi
 68 . 
-
-
-
+7. Pañhāvāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 69 .
 
@@ -348,7 +348,7 @@ sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ
 
 Natthivigatāvigatapaccayā
 96 .  
-
+1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 97 .
 Anulomaṃ.
@@ -367,14 +367,14 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 102 .  
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 103 . 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 104 .
 Paccanīyānulomaṃ.
 Dassanenapahātabbattikaṃ niṭṭhitaṃ.

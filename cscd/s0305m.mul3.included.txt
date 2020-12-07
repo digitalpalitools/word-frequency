@@ -1,5 +1,5 @@
 ﻿
-1 suddhikavaggo
+
 
  sāvatthinidānaṃ  pañcimāni bhikkhave indriyāni katamāni pañca saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ  imāni kho bhikkhave pañcindriyānīti paṭhamaṃ
 
@@ -34,7 +34,7 @@ katamañca  bhikkhave paññindriyaṃ idha bhikkhave ariyasāvako paññavā ho
 tassuddānaṃ 
 suddhikañceva  dve sotā arahantā apare duve
 samaṇabrāhmaṇā daṭṭhabbaṃ vibhaṅgā apare duveti
-2 mudutaravaggo
+
 
  pañcimāni  bhikkhave indriyāni katamāni pañca saddhindriyaṃ paññindriyaṃ katamañca bhikkhave saddhindriyaṃ idha bhikkhave ariyasāvako saddho hoti saddahati tathāgatassa bodhiṃ  itipi so bhagavā arahaṃ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṃ buddho bhagavāti  idaṃ vuccati bhikkhave saddhindriyaṃ
 katamañca bhikkhave vīriyindriyaṃ yaṃ kho bhikkhave cattāro sammappadhāne ārabbha vīriyaṃ paṭilabhati  idaṃ vuccati bhikkhave vīriyindriyaṃ
@@ -64,7 +64,7 @@ indriyasampanno indriyasampannoti bhante vuccati kittāvatā nu kho bhante indri
 tassuddānaṃ 
 paṭilābho tayo saṃkhittā vitthārā apare tayo
 paṭipanno ca sampanno  dasamaṃ āsavakkhayanti
-3 chaḷindriyavaggo
+
 
  pañcimāni  bhikkhave indriyāni katamāni pañca saddhindriyaṃ paññindriyaṃ yāvakīvañcāhaṃ bhikkhave imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nābbhaññāsiṃ neva  tāvāhaṃ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ  yato ca khvāhaṃ bhikkhave imesaṃ pañcannaṃ indriyānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ abbhaññāsiṃ athāhaṃ bhikkhave sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya  anuttaraṃ sammāsambodhiṃ abhisambuddhoti paccaññāsiṃ ñāṇañca pana me dassanaṃ udapādi  akuppā me vimutti  ayamantimā jāti natthidāni punabbhavoti paṭhamaṃ
 
@@ -90,7 +90,7 @@ ye  ca kho keci bhikkhave samaṇā vā brāhmaṇā vā cakkhundriyaṃ pajāna
 tassuddānaṃ 
 punabbhavo jīvitaññāya ekabījī ca suddhakaṃ
 soto arahasambuddho dve ca samaṇabrāhmaṇāti
-4 sukhindriyavaggo
+
 
  pañcimāni  bhikkhave indriyāni katamāni pañca sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ  imāni kho bhikkhave pañcindriyānīti paṭhamaṃ
 
@@ -144,7 +144,7 @@ idha  pana bhikkhave bhikkhuno appamattassa ātāpino pahitattassa viharato uppa
 tassuddānaṃ 
 suddhikañca soto arahā duve samaṇabrāhmaṇā
 vibhaṅgena tayo vuttā kaṭṭho uppaṭipāṭikanti
-5 jarāvaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde tena kho pana samayena bhagavā sāyanhasamayaṃ paṭisallānā vuṭṭhito pacchātape nisinno hoti piṭṭhiṃ otāpayamāno
 atha kho āyasmā ānando yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṃ abhivādetvā bhagavato gattāni pāṇinā anomajjanto bhagavantaṃ etadavoca  acchariyaṃ bhante  abbhutaṃ bhante! na cevaṃ dāni bhante bhagavato tāva parisuddho chavivaṇṇo pariyodāto sithilāni ca gattāni sabbāni valiyajātāni purato pabbhāro  ca kāyo dissati ca indriyānaṃ aññathattaṃ  cakkhundriyassa sotindriyassa ghānindriyassa jivhindriyassa kāyindriyassāti
@@ -200,7 +200,7 @@ saddho so  sāriputta ariyasāvako evaṃ padahitvā padahitvā evaṃ saritvā 
 tassuddānaṃ 
 jarā uṇṇābho brāhmaṇo sāketo pubbakoṭṭhako
 pubbārāme ca cattāri piṇḍolo āpaṇena cāti 
-6 sūkarakhatavaggo
+
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā kosalesu viharati sālāya brāhmaṇagāme tatra kho bhagavā bhikkhū āmantesi  seyyathāpi bhikkhave ye keci tiracchānagatā pāṇā sīho migarājā tesaṃ aggamakkhāyati yadidaṃ  thāmena javena sūrena  evameva kho bhikkhave ye keci bodhipakkhiyā dhammā paññindriyaṃ tesaṃ aggamakkhāyati yadidaṃ  bodhāya
 katame ca bhikkhave bodhipakkhiyā dhammā saddhindriyaṃ bhikkhave bodhipakkhiyo dhammo taṃ bodhāya saṃvattati vīriyindriyaṃ bodhipakkhiyo dhammo taṃ bodhāya saṃvattati satindriyaṃ bodhipakkhiyo dhammo taṃ bodhāya saṃvattati samādhindriyaṃ bodhipakkhiyo dhammo taṃ bodhāya saṃvattati paññindriyaṃ bodhipakkhiyo dhammo taṃ bodhāya saṃvattati seyyathāpi  bhikkhave ye keci tiracchānagatā pāṇā sīho migarājā tesaṃ aggamakkhāyati yadidaṃ  thāmena javena sūrena evameva kho bhikkhave ye keci bodhipakkhiyā dhammā paññindriyaṃ tesaṃ aggamakkhāyati yadidaṃ  bodhāyāti paṭhamaṃ
@@ -238,7 +238,7 @@ katamo ca sāriputta paramanipaccakāro yaṃ khīṇāsavo bhikkhu tathāgate v
 tassuddānaṃ 
 sālaṃ mallikaṃ sekho ca padaṃ sāraṃ patiṭṭhitaṃ
 brahmasūkarakhatāyo uppādā apare duveti
-7 bodhipakkhiyavaggo
+
 
  sāvatthinidānaṃ  pañcimāni bhikkhave indriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya  saṃvattanti katamāni pañca saddhindriyaṃ paññindriyaṃ  imāni kho bhikkhave pañcindriyāni bhāvitāni bahulīkatāni saṃyojanappahānāya saṃvattantīti paṭhamaṃ
 
@@ -264,7 +264,7 @@ pañcimāni bhikkhave indriyāni bhāvitāni bahulīkatāni saṃyojanappahānā
 tassuddānaṃ 
 saṃyojanā  anusayā pariññā āsavakkhayā
 dve phalā caturo rukkhā vaggo tena pavuccatīti
-8 gaṅgāpeyyālavaggo
+
 
  seyyathāpi  bhikkhave gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā evameva kho bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro kathañca bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro idha bhikkhave bhikkhu saddhindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ evaṃ kho bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti dvādasamaṃ
 
@@ -283,14 +283,14 @@ balaṃ bījañca nāgo ca rukkho kumbhena sūkiyā
 tassuddānaṃ 
 esanā  vidhā āsavo bhavo ca dukkhatā tisso
 khilaṃ malañca nīgho ca vedanā taṇhā tasinā cāti
-12 oghavaggo
+
 
  pañcimāni  bhikkhave uddhambhāgiyāni saṃyojanāni katamāni pañca rūparāgo arūparāgo māno uddhaccaṃ avijjā  imāni kho bhikkhave pañcuddhambhāgiyāni saṃyojanāni imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañcindriyāni bhāvetabbāni katamāni pañca idha bhikkhave bhikkhu saddhindriyaṃ bhāveti  vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ paññindriyaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañcindriyāni bhāvetabbānīti dasamaṃ (yathā maggasaṃyuttaṃ tathā vitthāretabbaṃ)
 
 tassuddānaṃ 
 ogho yogo upādānaṃ ganthā anusayena ca
 kāmaguṇā nīvaraṇā khandhā oruddhambhāgiyāti
-13 gaṅgāpeyyālavaggo
+
 
  seyyathāpi  bhikkhave gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā evameva kho bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto  nibbānaninno hoti nibbānapoṇo nibbānapabbhāro kathañca bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro idha bhikkhave bhikkhu saddhindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ paññindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ evaṃ kho bhikkhave bhikkhu pañcindriyāni bhāvento pañcindriyāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti dvādasamaṃ
 
@@ -298,7 +298,7 @@ tassuddānaṃ
 cha  pācīnato ninnā cha ninnā ca samuddato
 dvete cha dvādasa honti vaggo tena pavuccatīti
 appamādavagga-balakaraṇīyavagga-esanāvaggā vitthāretabbā
-17 oghavaggo
+
 
  pañcimāni  bhikkhave uddhambhāgiyāni saṃyojanāni katamāni pañca rūparāgo arūparāgo māno uddhaccaṃ avijjā  imāni  kho bhikkhave pañcuddhambhāgiyāni saṃyojanāni imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya pañcindriyāni bhāvetabbāni katamāni pañca idha bhikkhave bhikkhu saddhindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ vīriyindriyaṃ   satindriyaṃ samādhindriyaṃ   paññindriyaṃ bhāveti rāgavinayapariyosānaṃ dosavinayapariyosānaṃ mohavinayapariyosānaṃ imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya imāni pañcindriyāni bhāvetabbānīti
 

@@ -1,5 +1,5 @@
 ﻿Cūḷavaggavaṇṇanā
-
+1. Kammakkhandhakavaṇṇanā
 Adhammakammadvādasakakathāvaṇṇanā
 4 . Asammukhā   kataṃ hotī ‘‘Appaṭiññāya kataṃ hotī’’ upatissatthero aṭṭhakathāyaṃ  porāṇagaṇṭhipade gaṇṭhipade porāṇagaṇṭhipade  aṭṭhakathāya gaṇṭhipade gaṇṭhipade
 tajjanīyakammaṃ niyasakammaṃ pabbājanīyakammaṃ paṭisāraṇīyakammaṃ ukkhepanīyakammaṃ
@@ -9,7 +9,7 @@ tajjanīyakammaṃ niyasakammaṃ pabbājanīyakammaṃ paṭisāraṇīyakamma�
 50 . Adassaneyeva ukkhepanīyaṃ kātabbaṃ, 
  Kiṃ tajjanīyakamma Tajjanīyakammassa kiṃ mūla Tajjanīyakammassa kiṃ vatthū Kiṃ pariyosāna Kasmā tajjanīyakammanti vuccatī Kathaṃ tajjanīyakammaṃ kataṃ hotī Kathaṃ akataṃ hotī Kinti ca kataṃ hotī Kinti ca akataṃ hotī Kena ca kataṃ hotī Kena ca akataṃ hotī Kattha ca kataṃ hotī Kattha ca akataṃ hotī Kāya velāya kataṃ hotī Kāya velāya akataṃ hotī
 Kammakkhandhakavaṇṇanā niṭṭhitā.
-
+2. Pārivāsikakkhandhakavaṇṇanā
 Pārivāsikavattakathāvaṇṇanā
 75 .   Oṇojanaṃ
 76 . Pakatiyāva nissayo Paṭibalassa vā bhikkhussā Tato vā pāpiṭṭhatarā Paccaya Senāsanaṃ na labhati
@@ -18,7 +18,7 @@ Pārivāsikavattakathāvaṇṇanā niṭṭhitā.
 Mūlāyapaṭikassanārahavattakathāvaṇṇanā
 86 . Attano   attano navakatara porāṇagaṇṭhipade
 Pārivāsikakkhandhakavaṇṇanā niṭṭhitā.
-
+3. Samuccayakkhandhakavaṇṇanā
 Sukkavissaṭṭhikathāvaṇṇanā
 97 . ‘‘Vedayāmī  pāḷiyaṃ ‘‘Atthibhāvaṃ sallakkhetvā Ciṇṇamānatto bhikkhu abbhetabbo
 Parivāsakathāvaṇṇanā
@@ -33,7 +33,7 @@ Paṭicchannaparivāsādikathāvaṇṇanā
 148 . Purimaṃ upādāya dve māsā parivasitabbā
 184 . Tasmiṃ bhūmiya Sambahulā saṅghādisesā āpattiyo āpajjati parimāṇampī
 Samuccayakkhandhakavaṇṇanā niṭṭhitā.
-
+4. Samathakkhandhakavaṇṇanā
 Sammukhāvinayakathāvaṇṇanā
 186-187 .   kammakkhandhake
 Sativinayakathāvaṇṇanā
@@ -58,7 +58,7 @@ aññatarameva aṅga ‘‘yaṃ kusalacitto’’  Idaṃ vuccati āpattādhik
 238 . 
 242 .
 Samathakkhandhakavaṇṇanā niṭṭhitā.
-
+5. Khuddakavatthukkhandhakavaṇṇanā
 Khuddakavatthukathāvaṇṇanā
 244 .  puthupāṇikaṃ
 245 .
@@ -78,7 +78,7 @@ Khuddakavatthukathāvaṇṇanā
 279 .
 280 .
 Khuddakavatthukkhandhakavaṇṇanā niṭṭhitā.
-
+6. Senāsanakkhandhakavaṇṇanā
 Vihārānujānanakathāvaṇṇanā
 294 .  leṇāni
 296-7 . Dīpinaṅguṭṭhenā Thambhakavātapānaṃ 
@@ -111,7 +111,7 @@ Na hi bahisīmāya saṅghalābho Vāragāma Phātikammamevā Sammukhībhūtass�
 Pakkhikabhattakathāvaṇṇanā
 ‘‘parisuddhasīlāna’’ ‘‘Āgantukabhattampi gamikabhattampī’’ Guḷapiṇḍaṃ
 Senāsanakkhandhakavaṇṇanā niṭṭhitā.
-
+7. Saṅghabhedakakkhandhakavaṇṇanā
 Chasakyapabbajjākathāvaṇṇanā
 330 . 
 332 . Pubbe
@@ -127,20 +127,20 @@ Chasakyapabbajjākathāvaṇṇanā
 350 . ‘‘Vosānaṃ Jātū Mā udapajjathā Anādaraṃ Udadhi mahā
 351 . Na kho, upāli, bhikkhunī saṅghaṃ bhindatī  Vinidhāyā
 Saṅghabhedakakkhandhakavaṇṇanā niṭṭhitā.
-
+8. Vattakkhandhakavaṇṇanā
 Āgantukavattakathāvaṇṇanā
 357 .   Pānīyaṃ pucchitabbaṃ, paribhojanīyaṃ pucchitabba
 Anumodanavattakathāvaṇṇanā
 362-4 . ‘‘Manussānaṃ parivisanaṭṭhāna cuddasa mahāvattāni asīti khandhakavattāni
 Vattakkhandhakavaṇṇanā niṭṭhitā.
-
+9. Pātimokkhaṭṭhapanakkhandhakavaṇṇanā
 Pātimokkhuddesayācanakathāvaṇṇanā
 383-4 .   Āyatakenevā Ya mahānadiyo Pattā
 Attādānaaṅgakathāvaṇṇanā
 398-9 . ‘‘Attādāna Vassāratto Sappaṭimāso
 401 . Upadahātabbo
 Pātimokkhaṭṭhapanakkhandhakavaṇṇanā niṭṭhitā.
-
+10. Bhikkhunikkhandhakavaṇṇanā
 Mahāpajāpatigotamīvatthukathāvaṇṇanā
 402-3 . Sūnehī  
 Bhikkhunīupasampadānujānanakathāvaṇṇanā
@@ -174,7 +174,7 @@ Bhikkhunīupasampadānujānanakathāvaṇṇanā
 
 
 Bhikkhunikkhandhakavaṇṇanā niṭṭhitā.
-
+11. Pañcasatikakkhandhakavaṇṇanā
 Saṅgītinidānakathāvaṇṇanā
 437 . Chinnapāta   Upaddutā ca mayaṃ homā
 Khuddānukhuddakakathāvaṇṇanā
@@ -183,7 +183,7 @@ Khuddānukhuddakakathāvaṇṇanā
 Brahmadaṇḍakathāvaṇṇanā
 445 . ‘‘channassā’’ Ujjavanikāyā āgamā nu khvidha ‘‘Bhisicchavī Sabbevime Kulavaṃ gamentī  ‘‘vinayasaṅgītiyā’’
 Pañcasatikakkhandhakavaṇṇanā niṭṭhitā.
-
+12. Sattasatikakkhandhakavaṇṇanā
 Dasavatthukathāvaṇṇanā
 446 . Nikkhittamaṇisuvaṇṇā  Bhikkhaggena
 447 . Mahikā Posā Sarajā Magā sanettikā

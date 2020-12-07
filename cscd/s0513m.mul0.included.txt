@@ -1,9 +1,9 @@
 ﻿
 
 
-(paṭhamo bhāgo)
 
-1 apaṇṇakavaggo
+
+
 
 
  apaṇṇakaṃ  ṭhānameke dutiyaṃ āhu takkikā
@@ -58,7 +58,7 @@ sa ve rāja sukhaṃ seti kāmesu anapekkhavāti
 tassuddānaṃ 
 varāpaṇṇaka vaṇṇupatha serivaro suvicakkhaṇa taṇḍulanāḷikassā
 hiri puttavaruttagāmaṇinā yo ca na rakkhati tena dasāti
-2 sīlavaggo
+
 
 
  hoti sīlavataṃ attho paṭisanthāra  vuttinaṃ
@@ -115,7 +115,7 @@ naḷena vāriṃ pissāma  neva  maṃ tvaṃ vadhissasīti
 tassuddānaṃ 
 atha  lakkhaṇa sākha dhiratthu puna na kiratthi rasehi kharādiyā
 atibhoti vara  māluta pāṇa muccena naḷaavhayanena bhavanti dasāti
-3 kuruṅgavaggo
+
 
 
  ñātametaṃ  kuruṅgassa yaṃ tvaṃ sepaṇṇi siyyasi 
@@ -171,7 +171,7 @@ appossukko bhusaṃ khāda etaṃ dīghāyulakkhaṇanti
 tassuddānaṃ 
 kuruṅgassa  kukkuragojavaro puna vāḷavassasirivhayano 
 mahiḷāmukhanāmanuññavaro vahate dhura munikena dasāti
-4 kulāvakavaggo
+
 
 
  kulāvakā  mātali simbalismiṃ īsāmukhena parivajjayassu
@@ -226,7 +226,7 @@ nānariyaṃ karissāmi handa piṇḍaṃ paṭiggahāti
 tassuddānaṃ 
 sirimātali dhītara pakkhivaro ratiyāgato mātāpitā ca puna
 jagatīruha vuḍḍha sukakkaṭako tathā nandakapiṇḍavarena dasāti
-5 atthakāmavaggo
+
 
 
  yo  atthakāmassa hitānukampino ovajjamāno na karoti sāsanaṃ
@@ -282,7 +282,7 @@ tassuddānaṃ
 atha mittaka mātu kapotavaro tathā veḷūka eḷamūgo rohiṇī
 kapi  vāruṇi cetacarā ca puna tathā tāraka yaññavarena dasāti
 
-6 āsīsavaggo
+
 
 
  āsīsetheva  puriso na nibbindeyya paṇḍito
@@ -339,7 +339,7 @@ dhantenādhigatā bhogā te tāto vidhamī dhamanti
 tassuddānaṃ 
 yathā  icchiṃ tathāhudakā thalā sura sāduphalo ca alīnamano
 sampahaṭṭhamano  caturo ca tayo sataladdhaka bhogadhanena dasāti
-7 itthivaggo
+
 
 
  asā lokitthiyo nāma velā tāsaṃ na vijjati
@@ -395,7 +395,7 @@ taṃ kho jitaṃ sādhu jitaṃ yaṃ jitaṃ nāvajīyatīti
 tassuddānaṃ 
 sikhīsabbaghasopi  ca vīṇavaro pisuṇā mittabhedikā nandī nadī
 mudulakkhaṇa sodariyā ca mano visa sādhujitena bhavanti dasāti
-8 varuṇavaggo
+
 
 
  yo  pubbe karaṇīyāni pacchā so kātumicchati
@@ -452,7 +452,7 @@ ubhayaṃ  na sameti bhīmasena yuddhakathā ca idañca te vihaññanti
 tassuddānaṃ 
 varuṇā akataññūvare tu saccavaraṃ savanappatinā ca abhitthanaya
 karuṇāya silāplava illisato puna ḍiṇḍimapūtisarena dasāti
-9 apāyimhavaggo
+
 
 
  apāyimha  anaccimha agāyimha rudimha ca
@@ -508,7 +508,7 @@ pacchā kicce samuppanne kattāraṃ nādhigacchatīti
 tassuddānaṃ 
 apāyimha ca dūbhakaṃ sattapadaṃ chaḷadvara ca āyatinā ca puna
 ahisīlava maṅgali pāpikassā sataṃnikkha katatthavarena dasāti
-10 littavaggo
+
 
 
  littaṃ  paramena tejasā gilamakkhaṃ  puriso na bujjhati
@@ -564,7 +564,7 @@ tassuddānaṃ
 gilamakkhakutūhala  mātukassā muninā ca aniccata pattavaraṃ
 dhanapālivaro atipaṇḍitako saparosahassaasātadasāti
 
-11 parosatavaggo
+
 
 
  parosataṃ  cepi samāgatānaṃ jhāyeyyuṃ te vassasataṃ apaññā
@@ -620,7 +620,7 @@ alikaṃ bhāyatiyaṃ dhuttī saccamāha mahallikāti
 tassuddānaṃ 
 saparosata tāyita verī  puna bhamacakkatha nāgasirivhayano
 sukhakañca vata sippaka bāhiyā kuṇḍapūva mahallikakā ca dasāti
-12 haṃcivaggo
+
 
 
  haṃci  tuvaṃ evamaññasi seyyo puttena pitāti rājaseṭṭha
@@ -676,7 +676,7 @@ baddhāpi tattha muccanti yattha dhīrā pabhāsareti
 tassuddānaṃ 
 atha gadrabha sattuva kaṃsasataṃ bahucinti sāsikāyātikara
 ativela visesamanācariyova dhīrāpabhāsaratena dasāti
-13 kusanāḷivaggo
+
 
 
  kare sarikkho atha vāpi seṭṭho nihīnako vāpi kareyya eko
@@ -731,7 +731,7 @@ ubhayaṃ te na sameti vācā bhuttañca kosiyeti
 tassuddānaṃ 
 kusanāḷisirivhayano ca yasaṃ dadhi mamba kaṭāhakapañcamako
 atha pāpaka khīra biḷāravataṃ sikhi kosiyasavhayanena dasāti
-14 asampadānavaggo
+
 
 
  asampadānenitarītarassa bālassa mittāni kalī bhavanti
@@ -786,7 +786,7 @@ tasmā nesaṃ vasā natthi kākānamhāka  ñātinanti
 tassuddānaṃ 
 itarītara  rakkhasi khemiyo ca parosatapañhena ābhassaro puna
 atha haṃsavaruttamababbujaṭaṃ paṭanaṭṭhaka kākavarena dasāti
-15 kakaṇṭakavaggo
+
 
 
  na  pāpajanasaṃsevī accantasukhamedhati

@@ -1,5 +1,5 @@
 ﻿3. Paññāvaggo
-
+1. Mahāpaññākathā
 1 .    
 assāmantapaññaṃ (syā.)
  
@@ -52,7 +52,7 @@ Nibbedhikapaññatāya saṃvattantī
 
 
 Mahāpaññākathā niṭṭhitā.
-
+2. Iddhikathā
 9 .    Kā iddhī Kati iddhiyo Iddhiyā kati bhūmiyo
 10 . dasa iddhiyo?  sammappayogapaccayā (syā. ka.)
 Iddhiyā katamā catasso bhūmiyo?
@@ -83,7 +83,7 @@ paṭikūle ca appaṭikūle ca tadubhayaṃ abhinivajjetvā  upekkhako viharati
 vijjāmayā iddhi?
 tattha tattha sammā payogapaccayā ijjhanaṭṭhena iddhi? 
 Iddhikathā niṭṭhitā.
-
+3. Abhisamayakathā
 19 . Abhisamayo  
 
   tena hi acittako (syā.)
@@ -105,7 +105,7 @@ syāyaṃ (syā. pī.)
  taṃsaṃkilesikā (syā. ka.)
  
 Abhisamayakathā niṭṭhitā.
-
+4. Vivekakathā
 22 .  saṃ ni. 3.5.149 passitabbā 
  
 23 . yepime (syā.) saṃ. ni. 5.150 passitabbā 
@@ -128,14 +128,14 @@ Sammāsamādhissa katame pañca vossaggā?
 Saddhindriyassa katame pañca vivekā? 
 
 Vivekakathā niṭṭhitā.
-
+5. Cariyākathā
 28 . Cariyā  
 Iriyāpathacariyā Āyatanacariyā Saticariyā Samādhicariyā Ñāṇacariyā Maggacariyā Patticariyā Lokatthacariyā padeso (syā.)
 
 29 .  
 
 Cariyākathā niṭṭhitā.
-
+6. Pāṭihāriyakathā
 30 .   a. ni. 3.61 passitabbā
 ‘‘Katamañca, bhikkhave, iddhipāṭihāriyaṃ? 
 ‘‘Katamañca  bhikkhave, ādesanāpāṭihāriyaṃ?   tathā imassa (syā.), yathā imassa (ka.) a. ni. 3.61 passitabbā  vitakkessatīti (syā.) a. ni. 3.61
@@ -151,7 +151,7 @@ Cariyākathā niṭṭhitā.
 
 32 . 
 Pāṭihāriyakathā niṭṭhitā.
-
+7. Samasīsakathā
 33 .   sabbesaṃ dhammānaṃ (ka.) paṭi. ma. 1.87 passitabbā
 Sabbadhammāna Sammā samucchede 
 Nirodhe 
@@ -159,7 +159,7 @@ Anupaṭṭhānatā
 Sama
 Sīsa 
 Samasīsakathā niṭṭhitā.
-
+8. Satipaṭṭhānakathā
 34 .   
 35 . kāye kāyānupassī viharati?  
 Bhāvanā
@@ -175,7 +175,7 @@ Bhāvanā
 dhammesu dhammānupassī viharati? 
 Bhāvanā   
 Satipaṭṭhānakathā niṭṭhitā.
-
+9. Vipassanākathā
 36 .  
 kiñci (ka.) a. ni. 6.99-100 passitabbā arahattaphalaṃ vā (syā. ka.) a. ni. 6.98 passitabbā
 
@@ -204,7 +204,7 @@ appabhaṅgaṃ (syā.)
 
 
 Vipassanākathā niṭṭhitā.
-
+10. Mātikākathā
 40 .   nicchāto muccatīti (syā.) suddhi (syā.)
 41 . Nicchāto 
 Mokkho vimokkho 

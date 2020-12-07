@@ -1,8 +1,8 @@
 ﻿
-1 paṇṇattivāro
+
 
  cattāri  saccāni  dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
-1 padasodhanavāro
+
 
  (ka) dukkhaṃ dukkhasaccaṃ
 (kha) dukkhasaccaṃ dukkhaṃ
@@ -21,7 +21,7 @@
 (kha) na nirodhasaccaṃ na nirodho
 (ka) na maggo na maggasaccaṃ
 (kha) na maggasaccaṃ na maggo
-2 padasodhanamūlacakkavāro
+
 
  (ka) dukkhaṃ  dukkhasaccaṃ
 (kha) saccā samudayasaccaṃ
@@ -72,7 +72,7 @@
 (kha) na saccā na samudayasaccaṃ
 (ka) na maggo na maggasaccaṃ
 (kha) na saccā na nirodhasaccaṃ
-3 suddhasaccavāro
+
 
  (ka) dukkhaṃ  saccaṃ
 (kha) saccā dukkhaṃ
@@ -91,7 +91,7 @@
 (kha) na saccā na nirodho
 (ka) na maggo na saccaṃ
 (kha) na saccā na maggo
-4 suddhasaccamūlacakkavāro
+
 
  (ka) dukkhaṃ saccaṃ
 (kha) saccā samudayo
@@ -127,9 +127,9 @@ na saccā na dukkhaṃ na saccā na maggo
 (ka) na maggo na saccaṃ
 (kha) na saccā na nirodho
 
-1 paṇṇattivāra
 
-1 padasodhanavāro
+
+
 
  (ka) dukkhaṃ  dukkhasaccanti āmantā
 (kha) dukkhasaccaṃ dukkhanti
@@ -156,7 +156,7 @@ nirodhasaccaṃ ṭhapetvā avaseso na nirodhasaccaṃ nirodho nirodhañca nirod
 (ka) na maggo na maggasaccanti āmantā
 (kha) na maggasaccaṃ na maggoti
 maggasaccaṃ ṭhapetvā avaseso na maggasaccaṃ maggo maggañca maggasaccañca ṭhapetvā avaseso na ceva maggo na ca maggasaccaṃ
-2 padasodhanamūlacakkavāro
+
 
  (ka) dukkhaṃ dukkhasaccanti āmantā
 (kha) saccā samudayasaccanti
@@ -192,7 +192,7 @@ na saccā na dukkhasaccanti na saccā na samudayasaccanti na saccā na maggasacc
 (kha) na saccā na dukkhasaccanti āmantā
 na maggo na maggasaccanti āmantā
 na saccā na samudayasaccanti na saccā na nirodhasaccanti āmantā
-3 suddhasaccavāro
+
 
  (ka) dukkhaṃ  saccanti āmantā
 (kha) saccā dukkhasaccanti
@@ -211,7 +211,7 @@ samudayaṃ ṭhapetvā nirodhaṃ ṭhapetvā
 (ka) na maggo na saccanti
 maggaṃ ṭhapetvā avasesā saccā na maggo saccā maggañca saccañca ṭhapetvā avasesā na ceva maggo na ca saccā
 (kha) na saccā na maggasaccanti āmantā
-4 suddhasaccamūlacakkavāro
+
 
  (ka) dukkhaṃ  saccanti āmantā
 (kha) saccā samudayasaccanti
@@ -244,8 +244,8 @@ maggaṃ ṭhapetvā avasesā saccā na maggo saccā maggañca saccañca ṭhape
 na saccā na samudayasaccanti āmantā
 na saccā na nirodhasaccanti āmantā
 
-2 pavattivāro 1 uppādavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa  dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjatīti
 sabbesaṃ upapajjantānaṃ pavatte taṇhāvippayuttacittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati no ca tesaṃ samudayasaccaṃ uppajjati taṇhāya uppādakkhaṇe tesaṃ  dukkhasaccañca uppajjati samudayasaccañca uppajjati
@@ -301,7 +301,7 @@ sabbesaṃ upapajjantānaṃ pavatte maggavippayuttacittassa uppādakkhaṇe tes
 maggassa uppādakkhaṇe tesaṃ tattha samudayasaccaṃ nuppajjati no ca tesaṃ tattha maggasaccaṃ nuppajjati sabbesaṃ cittassa bhaṅgakkhaṇe taṇhāvippayuttamaggavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjati
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjati tassa tattha samudayasaccaṃ nuppajjatīti
 taṇhāya uppādakkhaṇe tesaṃ  tattha maggasaccaṃ nuppajjati no ca tesaṃ tattha samudayasaccaṃ nuppajjati sabbesaṃ cittassa bhaṅgakkhaṇe maggavippayuttataṇhāvippayuttacittassa  uppādakkhaṇe asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjati samudayasaccañca nuppajjati
-(2) atītavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ uppajjitthāti āmantā
 (kha) yassa vā pana samudayasaccaṃ uppajjittha tassa dukkhasaccaṃ uppajjitthāti āmantā
@@ -343,7 +343,7 @@ suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ asaññasattān
  (ka) yassa yattha samudayasaccaṃ nuppajjittha tassa tattha maggasaccaṃ nuppajjitthāti āmantā
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne anabhisametāvīnaṃ tesaṃ tattha maggasaccaṃ nuppajjittha no ca tesaṃ tattha samudayasaccaṃ nuppajjittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjittha samudayasaccañca nuppajjittha
-(3) anāgatavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjissati tassa samudayasaccaṃ uppajjissatīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati no ca tesaṃ samudayasaccaṃ uppajjissati itaresaṃ tesaṃ dukkhasaccañca uppajjissati samudayasaccañca  uppajjissati
@@ -392,7 +392,7 @@ aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabh
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha samudayasaccaṃ nuppajjissati no ca tesaṃ tattha maggasaccaṃ nuppajjissati aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjissati maggasaccañca nuppajjissati
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjissatīti
 āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ tattha maggasaccaṃ nuppajjissati no ca tesaṃ tattha samudayasaccaṃ nuppajjissati aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjissati
-(4) paccuppannātītavāro
+
 
  (ka) yassa  dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjitthāti āmantā
 (kha) yassa vā pana samudayasaccaṃ uppajjittha tassa dukkhasaccaṃ uppajjatīti
@@ -446,7 +446,7 @@ suddhāvāsānaṃ upapatticittassa uppādakkhaṇe anabhisametāvīnaṃ upapaj
 abhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati no ca tesaṃ tattha maggasaccaṃ nuppajjittha suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjittha
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjittha tassa tattha samudayasaccaṃ nuppajjatīti
 anabhisametāvīnaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccaṃ nuppajjittha no ca tesaṃ tattha samudayasaccaṃ nuppajjati suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjittha samudayasaccañca nuppajjati
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ uppajjissatīti
 aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati no ca tesaṃ samudayasaccaṃ  uppajjissati  itaresaṃ upapajjantānaṃ  pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati samudayasaccañca uppajjissati
@@ -503,7 +503,7 @@ aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe āpāyikān
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati no ca tesaṃ tattha maggasaccaṃ nuppajjissati aggamaggasamaṅgīnaṃ arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca nuppajjissati
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjatīti
 āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ  tattha maggasaccaṃ nuppajjissati no ca tesaṃ tattha samudayasaccaṃ nuppajjati aggamaggasamaṅgīnaṃ arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjati
-(6) atītānāgatavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ uppajjissatīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjittha no ca tesaṃ samudayasaccaṃ uppajjissati itaresaṃ tesaṃ dukkhasaccañca uppajjittha samudayasaccañca uppajjissati
@@ -547,8 +547,8 @@ suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha samudayasaccaṃ nuppa
 (kha) yassa vā pana yattha maggasaccaṃ nuppajjissati tassa tattha samudayasaccaṃ nuppajjitthāti
 aggamaggasamaṅgīnaṃ arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha maggasaccaṃ nuppajjissati no ca tesaṃ tattha samudayasaccaṃ nuppajjittha asaññasattānaṃ tesaṃ tattha maggasaccañca nuppajjissati samudayasaccañca nuppajjittha
 
-2 pavatti 2 nirodhavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhatīti
 sabbesaṃ cavantānaṃ pavatte taṇhāvippayuttacittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ  nirujjhati no ca tesaṃ samudayasaccaṃ nirujjhati taṇhāya bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati samudayasaccañca nirujjhati
@@ -583,11 +583,11 @@ taṇhāya bhaṅgakkhaṇe tesaṃ maggasaccaṃ na nirujjhati no ca tesaṃ sa
 
  yassa  yattha dukkhasaccaṃ na nirujjhati
 (yassakampi  yassayatthakampi sadisaṃ yassayatthakepi nirodhasamāpannānanti cetaṃ na kātabbaṃ)
-(2) atītavāro
+
 
  yassa dukkhasaccaṃ nirujjhittha tassa samudayasaccaṃ nirujjhitthāti āmantā
 (yathā uppādavāre atītā pucchā anulomampi paccanīkampi vibhattā evaṃ nirodhepi vibhajitabbā natthi nānākaraṇaṃ)
-(3) anāgatavāro
+
 
  (ka) yassa  dukkhasaccaṃ nirujjhissati tassa samudayasaccaṃ nirujjhissatīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti  tesaṃ dukkhasaccaṃ nirujjhissati no ca tesaṃ samudayasaccaṃ nirujjhissati itaresaṃ tesaṃ dukkhasaccañca nirujjhissati samudayasaccañca nirujjhissati
@@ -629,7 +629,7 @@ aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭ
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha samudayasaccaṃ na nirujjhissati no ca tesaṃ tattha maggasaccaṃ na nirujjhissati aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhissati maggasaccañca na nirujjhissati
 (kha) yassa vā pana yattha maggasaccaṃ  na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhissatīti
 āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ tattha maggasaccaṃ na nirujjhissati no ca tesaṃ tattha samudayasaccaṃ na nirujjhissati aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca na nirujjhissati
-(4) paccuppannātītavāro
+
 
  (ka) yassa  dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhitthāti āmantā
 (kha) yassa vā pana samudayasaccaṃ nirujjhittha tassa dukkhasaccaṃ nirujjhatīti
@@ -683,7 +683,7 @@ suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe anabhisametāvīnaṃ cavan
 abhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ na nirujjhati no ca tesaṃ tattha maggasaccaṃ na nirujjhittha suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhati maggasaccañca na nirujjhittha
 (kha) yassa vā pana yattha maggasaccaṃ na nirujjhittha tassa tattha samudayasaccaṃ na nirujjhatīti
 anabhisametāvīnaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhittha no ca tesaṃ tattha samudayasaccaṃ na nirujjhati suddhāvāsānaṃ dutiye citte vattamāne anabhisametāvīnaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhittha samudayasaccañca na nirujjhati
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa  dukkhasaccaṃ nirujjhati tassa samudayasaccaṃ nirujjhissatīti
 aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccaṃ nirujjhati no ca tesaṃ samudayasaccaṃ nirujjhissati itaresaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ dukkhasaccañca nirujjhati samudayasaccañca nirujjhissati
@@ -740,7 +740,7 @@ aggamaggassa bhaṅgakkhaṇe arahantānaṃ cittassa bhaṅgakkhaṇe āpāyik�
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne tesaṃ tattha samudayasaccaṃ na nirujjhati no ca tesaṃ tattha maggasaccaṃ na nirujjhissati aggamaggassa  bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca na nirujjhati maggasaccañca na nirujjhissati
 (kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhatīti
 āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhissati no ca tesaṃ tattha samudayasaccaṃ na nirujjhati aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha  maggasaccañca na nirujjhissati samudayasaccañca na nirujjhiti
-(6) atītānāgatavāro
+
 
  (ka) yassa  dukkhasaccaṃ nirujjhittha tassa samudayasaccaṃ nirujjhissatīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ nirujjhittha no ca tesaṃ samudayasaccaṃ nirujjhissati itaresaṃ tesaṃ dukkhasaccañca nirujjhittha samudayasaccañca nirujjhissati
@@ -785,8 +785,8 @@ suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha samudayasaccaṃ na ni
 (kha) yassa vā pana yattha maggasaccaṃ na nirujjhissati tassa tattha samudayasaccaṃ na nirujjhitthāti
 aggamaggassa bhaṅgakkhaṇe arahantānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti āpāyikānaṃ tesaṃ tattha maggasaccaṃ na nirujjhissati no ca tesaṃ tattha samudayasaccaṃ  na nirujjhittha asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca na nirujjhittha
 
-2 pavatti 3 uppādanirodhavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa  dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhatīti no
 (kha) yassa vā pana samudayasaccaṃ nirujjhati tassa dukkhasaccaṃ uppajjatīti no
@@ -819,12 +819,12 @@ taṇhāya uppādakkhaṇe tesaṃ maggasaccaṃ na nirujjhati no ca tesaṃ sam
 
  yassa yattha dukkhasaccaṃ nuppajjati
 (yassakampi yassayatthakampi sadisaṃ yassayatthakepi nirodhasamāpannānanti na kātabbaṃ)
-(2) atītavāro
+
 
  (ka) yassa  dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ nirujjhitthāti āmantā
 (kha) yassa vā pana āmantā
 (atītā pucchā yathā uppādavāre vibhattā evaṃ uppādanirodhavārepi anulomampi paccanīkampi vibhajitabbaṃ)
-(3) anāgatavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjissati tassa samudayasaccaṃ nirujjhissatīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ dukkhasaccaṃ uppajjissati no ca tesaṃ samudayasaccaṃ nirujjhissati itaresaṃ tesaṃ dukkhasaccañca uppajjissati samudayasaccañca nirujjhissati
@@ -857,12 +857,12 @@ ye puthujjanā maggaṃ na paṭilabhissanti tesaṃ maggasaccaṃ na nirujjhiss
 
  yassa yattha dukkhasaccaṃ nuppajjissati
 (yassakampi yassayatthakampi sadisaṃ samudayasaccaṃ maggasaccaṃ nānākaraṇaṃ aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca nuppajjissati)
-(4) paccuppannātītavāro
+
 
  yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhitthāti āmantā
 yassa vā pana
 (paccuppannaatītā  pucchā uppādavārepi uppādanirodhavārepi yassakampi yatthakampi yassayatthakampi anulomampi paccanīkampi sadisaṃ asammohantena vibhajitabbā)
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa dukkhasaccaṃ uppajjati tassa samudayasaccaṃ nirujjhissatīti
 aggamaggassa uppādakkhaṇe arahantānaṃ cittassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ dukkhasaccaṃ uppajjati no ca tesaṃ samudayasaccaṃ  nirujjhissati itaresaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe tesaṃ dukkhasaccañca uppajjati samudayasaccañca nirujjhissati
@@ -919,43 +919,43 @@ arahantānaṃ cittassa uppādakkhaṇe āpāyikānaṃ ye ca puthujjanā magga�
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti ye caññe maggaṃ paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte  vattamāne tesaṃ tattha samudayasaccaṃ nuppajjati no ca tesaṃ tattha maggasaccaṃ na nirujjhissati aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha samudayasaccañca nuppajjati maggasaccañca na nirujjhissati
 (kha) yassa vā pana yattha maggasaccaṃ  na nirujjhissati tassa tattha samudayasaccaṃ nuppajjatīti
 āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya uppādakkhaṇe tesaṃ tattha maggasaccaṃ na nirujjhissati no ca tesaṃ tattha samudayasaccaṃ nuppajjati aggamaggassa bhaṅgakkhaṇe arahantānaṃ āpāyikānaṃ ye ca puthujjanā maggaṃ na paṭilabhissanti tesaṃ taṇhāya bhaṅgakkhaṇe taṇhāvippayuttacitte vattamāne asaññasattānaṃ tesaṃ tattha maggasaccañca na nirujjhissati samudayasaccañca nuppajjati
-(6) atītānāgatavāro
+
 
  yassa dukkhasaccaṃ uppajjittha tassa samudayasaccaṃ nirujjhissatīti
 (yathā nirodhavāre atītānāgatā  pucchā anulomampi paccanīkampi vibhattā evaṃ uppādanirodhavārepi asammohantena vibhajitabbaṃ)
 
 
-3 pariññāvāro
-1 paccuppannavāro
+
+
  (ka) yo  dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahatīti āmantā
 (kha) yo vā pana samudayasaccaṃ pajahati so dukkhasaccaṃ parijānātīti āmantā
 (ka) yo  dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahatīti āmantā
 (kha) yo vā pana āmantā
-2 atītavāro
+
  (ka) yo  dukkhasaccaṃ parijānittha so samudayasaccaṃ pajahitthāti āmantā
 (kha) yo vā pana āmantā
 (ka) yo dukkhasaccaṃ na parijānittha so samudayasaccaṃ nappajahitthāti āmantā
 (kha) yo vā pana āmantā
-3 anāgatavāro
+
  (ka) yo dukkhasaccaṃ parijānissati so samudayasaccaṃ pajahissatīti āmantā
 (kha) yo vā pana āmantā
 (ka) yo  dukkhasaccaṃ na parijānissati so samudayasaccaṃ nappajahissatīti āmantā
 (kha) yo vā pana āmantā
-4 paccuppannātītavāro
+
  (ka) yo dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahitthāti no
 (kha) yo vā pana samudayasaccaṃ pajahittha so dukkhasaccaṃ parijānātīti no
 (ka) yo dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahitthāti
 arahā dukkhasaccaṃ na parijānāti no ca samudayasaccaṃ nappajahittha aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā dukkhasaccañca na parijānanti samudayasaccañca nappajahittha
 (kha) yo vā pana samudayasaccaṃ nappajahittha so dukkhasaccaṃ na parijānātīti
 aggamaggasamaṅgī samudayasaccaṃ nappajahittha no ca dukkhasaccaṃ na parijānāti aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā samudayasaccañca nappajahittha dukkhasaccañca na parijānanti
-5 paccuppannānāgatavāro
+
  (ka) yo  dukkhasaccaṃ parijānāti so samudayasaccaṃ pajahissatīti no
 (kha) yo vā pana samudayasaccaṃ pajahissati so dukkhasaccaṃ parijānātīti no
 (ka) yo  dukkhasaccaṃ na parijānāti so samudayasaccaṃ nappajahissatīti
 ye maggaṃ paṭilabhissanti te dukkhasaccaṃ na parijānanti no ca samudayasaccaṃ nappajahissanti arahā ye ca puthujjanā maggaṃ na paṭilabhissanti  te dukkhasaccañca na parijānanti samudayasaccañca nappajahissanti
 (kha) yo vā pana samudayasaccaṃ nappajahissati so dukkhasaccaṃ na parijānātīti
 aggamaggasamaṅgī samudayasaccaṃ nappajahissati no ca dukkhasaccaṃ na parijānāti arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te samudayasaccañca nappajahissanti dukkhasaccañca na parijānanti
-6 atītānāgatavāro
+
  (ka) yo dukkhasaccaṃ parijānittha so samudayasaccaṃ pajahissatīti no
 (kha) yo vā pana samudayasaccaṃ pajahissati so dukkhasaccaṃ parijānitthāti no
 (ka) yo dukkhasaccaṃ na parijānittha so samudayasaccaṃ nappajahissatīti

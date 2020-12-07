@@ -2,7 +2,7 @@
 Abhidhammapiṭake
 Vibhaṅgapāḷi
 1. Khandhavibhaṅgo
-
+1. Suttantabhājanīyaṃ
 1 .    
 1. Rūpakkhandho
 2 . 
@@ -62,7 +62,7 @@ kabaḷiṃkāro (sī. syā.)
 31 .  
   
 Suttantabhājanīyaṃ.
-
+2. Abhidhammabhājanīyaṃ
 32 . 
 1. Rūpakkhandho
 33 . 
@@ -511,7 +511,7 @@ Ubhatovaḍḍhakaṃ.
 
 Ayaṃ vuccati viññāṇakkhandho.
 Abhidhammabhājanīyaṃ.
-
+3. Pañhāpucchakaṃ
 150 . 
 151 . 
 1. Tikaṃ

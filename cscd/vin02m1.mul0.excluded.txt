@@ -2,7 +2,7 @@
 Vinayapiṭake
 Pācittiyapāḷi
 5. Pācittiyakaṇḍaṃ
-
+1. Musāvādavaggo
 1. Musāvādasikkhāpadaṃ
 Ime  kho panāyasmanto dvenavuti pācittiyā
 Dhammā uddesaṃ āgacchanti.
@@ -343,7 +343,7 @@ Musāvādavaggo paṭhamo.
 Tassuddānaṃ –
 
 
-
+2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpadaṃ
 89 .    
 
@@ -492,7 +492,7 @@ Bhūtagāmavaggo dutiyo.
 Tassuddānaṃ –
 
 
-
+3. Ovādavaggo
 1. Ovādasikkhāpadaṃ
 144 .  
  
@@ -673,7 +673,7 @@ Ovādavaggo tatiyo.
 Tassuddānaṃ –
 
 
-
+4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpadaṃ
 203 .    
 
@@ -878,7 +878,7 @@ Bhojanavaggo catuttho.
 Tassuddānaṃ –
 
 
-
+5. Acelakavaggo
 1. Acelakasikkhāpadaṃ
 269 .     
 
@@ -1035,7 +1035,7 @@ Acelakavaggo pañcamo.
 Tassuddānaṃ –
 
 acelakaṃ uyyojañca, sabhojanaṃ duve raho; sabhattakañca bhesajjaṃ, uyyuttaṃ senuyyodhikaṃ
-
+6. Surāpānavaggo
 1. Surāpānasikkhāpadaṃ
 326 .   āsīviso (sī. syā.)
  ambatitthakassa (sī.), ambatitthaṃ (syā.)   dukkhī dummano (sī. syā.) padhūpāsi (syā. ka.) padhūpāsi (syā. ka.)
@@ -1193,7 +1193,7 @@ Surāpānavaggo chaṭṭho.
 Tassuddānaṃ –
 toyañca (itipi)
 
-
+7. Sappāṇakavaggo
 1. Sañciccasikkhāpadaṃ
 382 .  
 383 . ‘‘Yo  pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiya’’
@@ -1331,7 +1331,7 @@ Tassuddānaṃ –
 
 
 
-
+8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadaṃ
 433 .    
 434 . ‘‘Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya  – ‘na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī’ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ. Ayaṃ tattha sāmīcī’’
@@ -1481,7 +1481,7 @@ Tassuddānaṃ –
 
 
 
-
+9. Ratanavaggo
 1. Antepurasikkhāpadaṃ
 494 .     
 495 .  rathiyāya (itipi) yampāhaṃ (sī.)  

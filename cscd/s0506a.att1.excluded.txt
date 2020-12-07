@@ -1,5 +1,5 @@
 ﻿1. Itthivimānaṃ
-
+1. Pīṭhavaggo
 1. Paṭhamapīṭhavimānavaṇṇanā
  
 
@@ -727,7 +727,7 @@ Kesakārīvimānavaṇṇanā niṭṭhitā.
 Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
 Sattarasavatthupaṭimaṇḍitassa paṭhamassa pīṭhavaggassa
 
-
+2. Cittalatāvaggo
 1. Dāsivimānavaṇṇanā
  api sakkova devindo  
 
@@ -1107,7 +1107,7 @@ Dutiyabhikkhādāyikāvimānavaṇṇanā niṭṭhitā.
 Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
 Ekādasavatthupaṭimaṇḍitassa dutiyassa cittalatāvaggassa
 
-
+3. Pāricchattakavaggo
 1. Uḷāravimānavaṇṇanā
  uḷāro te yaso vaṇṇo
  
@@ -1738,7 +1738,7 @@ Pāricchattakavimānavaṇṇanā niṭṭhitā.
 Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
 Dasavatthupaṭimaṇḍitassa tatiyassa pāricchattakavaggassa
 
-
+4. Mañjiṭṭhakavaggo
 1. Mañjiṭṭhakavimānavaṇṇanā
  mañjiṭṭhake vimānasmi  
 689 .

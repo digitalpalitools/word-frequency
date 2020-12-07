@@ -113,7 +113,7 @@ aṭṭhakathāyaṃ pāḷiyā
 Abbhantaranidānakathā niṭṭhitā.
 Verañjakaṇḍavaṇṇanā niṭṭhitā.
 1. Pārājikakaṇḍo
-
+1. Paṭhamapārājikaṃ
 Sudinnabhāṇavāravaṇṇanā
  
 
@@ -266,7 +266,7 @@ Parivāsadānaṃ pana natthī   parivāre
 mahāpaccariyaṃ  Bandhitvā nipajjāpitova muccatī tassāpi avisayattā āpatti na dissatī Ācariyā pana evaṃ na kathayantī
 Mahāpadumattheravāde anugaṇṭhipade  ‘‘mahāpadumattherenā’’ Mahāpadumattheravāde  ‘‘idha ko muccati ko na muccatī’’ anugaṇṭhipade
 Paṭhamapārājikavaṇṇanā niṭṭhitā.
-
+2. Dutiyapārājikaṃ
 Dhaniyavatthuvaṇṇanā
 84 . parivāraṭṭhakathāyaṃ   Anugaṇṭhipade ‘‘mahāpavāraṇāya pavāritā’’
 85 .   Iṭṭhakāhi giñjakāvasathasaṅkhepena katā vaṭṭatī giñjakāvasatho ‘‘pattacīvaraguttatthāyā’’
@@ -341,7 +341,7 @@ Kusasaṅkāmanavatthukathāvaṇṇanā
 153 . ‘‘Matasūkaro’’ Maddanto gacchati, bhaṇḍadeyya Gumbe khipati, bhaṇḍadeyyamevā  Mūlavatthuccheda
 156 . Ārāmarakkhakā Adhippāyaṃ ñatvā  Ayameva bhikkhu issaro Savatthuka ‘‘Garubhaṇḍaṃ hotī’’ ‘‘tiṇamattaṃ pana na dātabba’’ Kappiyepi cā
 Dutiyapārājikavaṇṇanā niṭṭhitā.
-
+3. Tatiyapārājikaṃ
 Paṭhamapaññattinidānavaṇṇanā
 162 . Tīhi suddhenā tīhī tīhī Vibhāvita Saṃvaṇṇanā
  Sapariccheda ‘‘Haṃsavaṭṭakacchadanenā Kāyavicchindaniyakatha Asubhā ceva Asucino ca Paṭikūlā ca Asubhāya vaṇṇa  Asubha mañjūsaṃ
@@ -437,7 +437,7 @@ Coranāgassa  Varapotthakacittattharaṇa Piturājā rohaṇe  hambugallakavihā
 190 .  Gaṇṭhipade  Paritta ‘‘samantā bhūmitacchana’’
 191 . Tīhi mārite pana visaṅketa ‘‘paricchedabbhantare vā avisaṅketa’’ ‘‘Paricchedātikkame pana sabbattha visaṅketaṃ hotī’’ ‘‘Dve mārentū’’ti vutte ekena vā dvīhi vā mārite pārājika
 Tatiyapārājikavaṇṇanā niṭṭhitā.
-
+4. Catutthapārājikaṃ
 Vaggumudātīriyabhikkhuvatthuvaṇṇanā
 193 . vaggumudā Bhāsito
 194-5 .  ‘‘abhiniviṭṭhokāsassa paripuṇṇattā’’ pākatindriye Attano dahatī Santa Gotrabhuno
@@ -605,7 +605,7 @@ Pakiṇṇakavaṇṇanā
 Pakiṇṇakavaṇṇanā niṭṭhitā.
 Aniyatakaṇḍaṃ niṭṭhitaṃ.
 4. Nissaggiyakaṇḍo
-
+1. Cīvaravaggo
 1. Paṭhamakathinasikkhāpadavaṇṇanā
 459 . Samitāvinā  
 460-1 . kaṅkhāvitaraṇiyaṃ  parivāre  Anugaṇṭhipade pemaṃ, gāravo Dasamaṃ vā navamaṃ vā
@@ -708,7 +708,7 @@ Kappiyavohārepi ‘‘udakavasenā’’ Dubbinibbhogaṃ hotī navasassaṃ Kh
 
 Rājasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito cīvaravaggo paṭhamo.
-
+2. Kosiyavaggo
 1. Kosiyasikkhāpadavaṇṇanā
 542 . Kosiyakārako  kosiyaṃ 
 Kosiyasikkhāpadavaṇṇanā niṭṭhitā.
@@ -758,7 +758,7 @@ Rūpiyasaṃvohārasikkhāpadavaṇṇanā niṭṭhitā.
 593 . Paṭapilotikāna 
 Kayavikkayasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito kosiyavaggo dutiyo.
-
+3. Pattavaggo
 1. Pattasikkhāpadavaṇṇanā
 598 . Bahū  patte sannicaya sannicaya
 

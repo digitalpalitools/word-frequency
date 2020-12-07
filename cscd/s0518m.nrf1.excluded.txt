@@ -1,5 +1,5 @@
 ﻿2-3. Milindapañho
-
+1. Mahāvaggo
 1. Paññattipañho
 1 .    paṭisammodi, teneva (sī.)
   
@@ -102,7 +102,7 @@ Paññālakkhaṇapañho pannarasamo.
 Nānādhammānaṃ ekakiccaabhinipphādanapañho soḷasamo.
 Mahāvaggo paṭhamo.
 Imasmiṃ vagge soḷasa pañhā.
-
+2. Addhānavaggo
 1. Dhammasantatipañho
 1 .   
 
@@ -164,7 +164,7 @@ Nāmarūpapaṭisandahanapañho aṭṭhamo.
 Addhānapañho navamo.
 Addhānavaggo dutiyo.
 Imasmiṃ vagge nava pañhā.
-
+3. Vicāravaggo
 1. Addhānamūlapañho
 1 .   dukkhakkhandhassa addhānassa (sī.)
 
@@ -266,7 +266,7 @@ Vitakkalakkhaṇapañho terasamo.
 Vicāralakkhaṇapañho cuddasamo.
 Vicāravaggo tatiyo.
 Imasmiṃ vagge cuddasa pañhā.
-
+4. Nibbānavaggo
 1. Phassādivinibbhujanapañho
 1 .  
 yūsaṃ vā rasaṃ vā (sī. syā. pī.) 
@@ -325,7 +325,7 @@ Nibbānalabhanapañho navamo.
 Nibbānasukhajānanapañho dasamo.
 Nibbānavaggo catuttho.
 Imasmiṃ vagge dasa pañhā.
-
+5. Buddhavaggo
 1. Buddhassa atthinatthibhāvapañho
 1 .  
 
@@ -372,7 +372,7 @@ Uppajjatijānanapañho navamo.
 Buddhanidassanapañho dasamo.
 Buddhavaggo pañcamo.
 Imasmiṃ vagge dasa pañhā.
-
+6. Sativaggo
 1. Kāyapiyāyanapañho
 1 .   
 
@@ -423,7 +423,7 @@ Cirakatasaraṇapañho dasamo.
 Abhijānantasatipañho ekādasamo.
 Sativaggo chaṭṭho.
 Imasmiṃ vagge ekādasa pañhā.
-
+7. Arūpadhammavavattanavaggo
 1. Satiuppajjanapañho
 1 .  
 
@@ -517,7 +517,7 @@ Viññāṇanānatthapañho pannarasamo.
 Arūpadhammavavatthānadukkarapañho soḷasamo.
 Arūpadhammavavatthānavaggo sattamo.
 Imasmiṃ vagge soḷasa pañhā.
-
+Milindapañhapucchāvisajjanā
  
  parappavādo (ka.)
  
@@ -525,7 +525,7 @@ Imasmiṃ vagge soḷasa pañhā.
 
 
 Milindapañhapucchāvisajjanā niṭṭhitā.
-
+Meṇḍakapañhārambhakathā
 Aṭṭhamantaparivajjanīyaṭṭhānāni
    bhassappavedī (sī. pī.)
 

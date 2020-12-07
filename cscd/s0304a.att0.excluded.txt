@@ -2,7 +2,7 @@
 Saṃyuttanikāye
 Saḷāyatanavagga-aṭṭhakathā
 1. Saḷāyatanasaṃyuttaṃ
-
+1. Aniccavaggo
 1. Ajjhattāniccasuttavaṇṇanā
 1 .    cakkhu ñāṇacakkhu 
 Maṃsacakkhupi  
@@ -14,7 +14,7 @@ cakkhuṃ, bhikkhave, anicca Sotampi ghānajivhākāyā. Mano
 7-12. Ajjhattāniccātītānāgatasuttādivaṇṇanā
 7-12 . 
 Aniccavaggo paṭhamo.
-
+2. Yamakavaggo
 1-4. Paṭhamapubbesambodhasuttādivaṇṇanā
 13-16 .  ajjhattikāna 
 5-6. Paṭhamanoceassādasuttādivaṇṇanā
@@ -22,7 +22,7 @@ Aniccavaggo paṭhamo.
 7-10. Paṭhamābhinandasuttādivaṇṇanā
 19-22 .
 Yamakavaggo dutiyo.
-
+3. Sabbavaggo
 1. Sabbasuttavaṇṇanā
 23 . sabbaṃ vo, bhikkhave
 
@@ -60,17 +60,17 @@ Paccakkhāyā  Vācāvatthukamevassā Puṭṭho ca na sampāyeyyā Vighātaṃ 
 10. Dutiyasamugghātasappāyasuttavaṇṇanā
 32 . etaṃ mamā
 Sabbavaggo tatiyo.
-
+4. Jātidhammavaggavaṇṇanā
 33-42 .  jātidhamma Jarādhamma Byādhidhamma Maraṇadhamma  Sokadhamma Saṃkilesikadhamma Khayadhamma Vayadhammā
 Jātidhammavaggo catuttho.
-
+5. Sabbaaniccavaggavaṇṇanā
 43-52 .  abhiññeyya Pariññeyyapahātabba Sacchikātabba Abhiññāpariññeyya Upadduta Upassaṭṭha
 Sabbaaniccavaggo pañcamo.
 Paṭhamo paṇṇāsako.
-
+6. Avijjāvaggavaṇṇanā
 53-62 . avijjā Vijjā Aniccato jānato passato  saṃyojanā Āsavā Anusayā Sabbupādānapariññāyā Pariyādānāyā
 Avijjāvaggo chaṭṭho.
-
+7. Migajālavaggo
 1. Paṭhamamigajālasuttavaṇṇanā
 63 .  cakkhuviññeyyā Sotaviññeyyā Iṭṭhā  Kantā Manāpā Piyarūpā Kāmūpasaṃhitā rajanīyā Nandī Saṃyogo Nandisaṃyojanasaṃyutto Araññavanapatthānī Vanapattha
 
@@ -92,7 +92,7 @@ Pantānī Appasaddānī Appanigghosānī Vijanavātānī Manussarāhasseyyakān�
 11. Tatiyachaphassāyatanasuttavaṇṇanā
 73 .  anassasa panassasa
 Migajālavaggo sattamo.
-
+8. Gilānavaggo
 1-5. Paṭhamagilānasuttādivaṇṇanā
 74-78 .  amukasmi Appaññāto
 6. Paṭhamaavijjāpahānasuttavaṇṇanā
@@ -106,7 +106,7 @@ Migajālavaggo sattamo.
 10. Phaggunapañhāsuttavaṇṇanā
 83 . chinnapapañce Chinnavaṭume
 Gilānavaggo aṭṭhamo.
-
+9. Channavaggo
 1. Palokadhammasuttavaṇṇanā
 84 .   palokadhamma
 2. Suññatalokasuttavaṇṇanā
@@ -148,7 +148,7 @@ Parinibbāyī  Sambahulā bhikkhū
 92-93 . dvaya itthetaṃ dvaya Calañceva byathañcā Yopi hetu yopi paccayo Kuto niccaṃ bhavissatī Saṅgatī Sannipāto Samavāyo Ayaṃ vuccati cakkhusamphasso
 Sopi hetū Phuṭṭho  
 Channavaggo navamo.
-
+10. Saḷavaggo
 1. Adantaaguttavaṇṇanā
 94 .  adantā Aguttā Arakkhitā Asaṃvutā Dukkhādhivāhā hontī Sukhādhivāhā hontī
 Saḷevā Asaṃvuto yattha dukkhaṃ nigacchatī Tesañca ye saṃvaraṇaṃ avedisu Viharantānavassutā
@@ -183,13 +183,13 @@ Mātāpettikasambhavassā Odanakummāsūpacayassā Aniccucchādanaparimaddanabhe
 
 Saḷavaggo dasamo.
 Dutiyo paṇṇāsako.
-
+11. Yogakkhemivaggo
 1. Yogakkhemisuttavaṇṇanā
 104 . yogakkhemipariyāya Dhammapariyāya Akkhāsi yoga Tasmā
 2-10. Upādāyasuttādivaṇṇanā
 105-113 . dukkhassā lokassā
 Yogakkhemivaggo ekādasamo.
-
+12. Lokakāmaguṇavaggo
 1-2. Paṭhamamārapāsasuttādivaṇṇanā
 114-115 .    āvāsagato Mārassa vasaṃ gato Paṭimukka’ssa mārapāso
 3. Lokantagamanasuttavaṇṇanā
@@ -215,7 +215,7 @@ Anekāni devatāsahassānī Dhammacakkhu
 9-10. Saṃyojaniyadhammasuttādivaṇṇanā
 122-123 .
 Lokakāmaguṇavaggo dvādasamo.
-
+13. Gahapativaggo
 1-3. Vesālīsuttādivaṇṇanā
 124-126 .  uggo 
 4-5. Bhāradvājasuttādivaṇṇanā
@@ -245,7 +245,7 @@ cittañca susamāhita susamāhita Akhila So maggo brahmapattiyā
 10. Verahaccānisuttavaṇṇanā
 133 .  kāmaṇḍāya Yagghe
 Gahapativaggo terasamo.
-
+14. Devadahavaggo
 1. Devadahasuttavaṇṇanā
 134 .   devadaha Manoramā Amanoramā
 2. Khaṇasuttavaṇṇanā
@@ -262,7 +262,7 @@ Māradheyyānupannehī Ko  nu aññatra ariyebhī Sammadaññāya parinibbantī
 4-12. Dutiyarūpārāmasuttādivaṇṇanā
 137-145 .  
 Devadahavaggo cuddasamo.
-
+15. Navapurāṇavaggo
 1. Kammanirodhasuttavaṇṇanā
 146 . navapurāṇānī Cakkhu, bhikkhave, purāṇakamma Abhisaṅkhata Abhisañcetayita Vedaniyaṃ daṭṭhabba Nirodhā vimuttiṃ phusatī Ayaṃ vuccatī
 2-5. Aniccanibbānasappāyasuttādivaṇṇanā
@@ -275,7 +275,7 @@ Devadahavaggo cuddasamo.
 154-155 . indriyasampanno  cakkhundriye ce ettāvatā kho bhikkhu indriyasampanno hotī
 Navapurāṇavaggo pañcadasamo.
 Tatiyo paṇṇāsako.
-
+16. Nandikkhayavaggo
 1-4. Ajjhattanandikkhayasuttādivaṇṇanā
 156-159 .    nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo Suvimutta
 5-6. Jīvakambavanasamādhisuttādivaṇṇanā
@@ -285,11 +285,11 @@ Tatiyo paṇṇāsako.
 10-12. Micchādiṭṭhipahānasuttādivaṇṇanā
 165-167 .
 Nandikkhayavaggo solasamo.
-
+17. Saṭṭhipeyyālavaggo
 1-60. Ajjhattaaniccachandasuttādivaṇṇanā
 168-227 .  
 Saṭṭhipeyyālavaggo.
-
+18. Samuddavaggo
 1. Paṭhamasamuddasuttavaṇṇanā
 228 . cakkhu, bhikkhave, purisassa samuddo Tassa rūpamayo vego Yo taṃ rūpamayaṃ vegaṃ sahatī 
 Saūmi saūmiṃ sāvaṭṭaṃ sagāhaṃ  sarakkhasaṃ saūmiṃ sāvaṭṭaṃ sagāhaṃ sarakkhasaṃ  Sabhayaṃ duttaraṃ accatarī Lokantagū Pāragatoti vuccatī
@@ -307,7 +307,7 @@ sampalimaṭṭha sampalimaṭṭha  sampalimaṭṭha Sattiyā Sotta Yathārūp
 9-10. Paṭhamahatthapādopamasuttādivaṇṇanā
 236-237 .  hatthesu, bhikkhave, satī na hotī
 Samuddavaggo niṭṭhito.
-
+19. Āsīvisavaggo
 1. Āsīvisopamasuttavaṇṇanā
 238 . bhikkhū āmantesī   seyyathāpi, bhikkhave
 cattāro āsīvisā 

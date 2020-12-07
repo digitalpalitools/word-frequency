@@ -1,5 +1,5 @@
 ﻿1. Ekakanipāto
-
+1. Paṭhamavaggo
 1. Subhūtittheragāthāvaṇṇanā
  channā  me kuṭikā
 channā me kuṭikā
@@ -474,7 +474,7 @@ Vihari    apekkha puṇṇamāso apadāne
 Puṇṇamāsattheragāthāvaṇṇanā niṭṭhitā.
 Paramatthadīpaniyā theragāthāsaṃvaṇṇanāya
 Paṭhamavaggavaṇṇanā niṭṭhitā.
-
+2. Dutiyavaggo
 1. Cūḷavacchattheragāthāvaṇṇanā
 Pāmojjabahulo    Cūḷavaccho apadāne
 
@@ -667,7 +667,7 @@ Maraṇe me bhayaṃ natthī ajito  apadāne
 20 . maraṇe Me  Nikantī  sandehaṃ nikkhipissāmi sampajāno paṭissato
 Ajitattheragāthāvaṇṇanā niṭṭhitā.
 Dutiyavaggavaṇṇanā niṭṭhitā.
-
+3. Tatiyavaggo
 1. Nigrodhattheragāthāvaṇṇanā
 Nāhaṃ   bhayassa bhāyāmī  nigrodho apadāne
 
@@ -881,7 +881,7 @@ uttiyo apadāne
 30 . ābādhe me samuppanne Sati me udapajjathā  ‘‘ābodho me samuppanno, kālo me nappamajjitu’’
 Uttiyattheragāthāvaṇṇanā niṭṭhitā.
 Tatiyavaggavaṇṇanā niṭṭhitā.
-
+4. Catutthavaggo
 1. Gahvaratīriyattheragāthāvaṇṇanā
 Phuṭṭho   ḍaṃsehī gahvaratīrayo apadāne
 
@@ -1061,7 +1061,7 @@ Sattiyā   viya omaṭṭho vaḍḍhamāno  ‘‘sattiyā viya omaṭṭho’�
 40 . bhavarāgappahānāyā
 Vaḍḍhamānattheragāthāvaṇṇanā niṭṭhitā.
 Catutthavaggavaṇṇanā niṭṭhitā.
-
+5. Pañcamavaggo
 1. Sirivaḍḍhattheragāthāvaṇṇanā
 Vivaramanupatanti    vijjutā sirivaḍḍho apadāne
 
@@ -1249,7 +1249,7 @@ vimalo apadāne
 50 . dharaṇī Siñcatī  Vāti māluto Vijjutā carati nabhe Upasamanti vitakkā Cittaṃ susamāhitaṃ mamā
 Vimalattheragāthāvaṇṇanā niṭṭhitā.
 Pañcamavaggavaṇṇanā niṭṭhitā.
-
+6. Chaṭṭhavaggo
 1. Godhikādicatuttheragāthāvaṇṇanā
 Vassati   devo  godhiko, subāhu, valliyo, uttiyo apadāne
 
@@ -1463,7 +1463,7 @@ sīvalidārako
 60 . te me ijjhiṃsu saṅkappā, yadattho pāvisiṃ kuṭiṃ, vijjāvimuttiṃ paccesa  ‘‘mānānusayamujjaha’’
 Sīvalittheragāthāvaṇṇanā niṭṭhitā.
 Chaṭṭhavaggavaṇṇanā niṭṭhitā.
-
+7. Sattamavaggo
 1. Vappattheragāthāvaṇṇanā
 Passati  passo  vappo  apadāne
 
@@ -1731,7 +1731,7 @@ Sīlamevā    puṇṇo apadāne
 sīla aggaṃ Idhā Paññavā uttamo ‘‘manussesu ca devesu, sīlapaññāṇato jaya’’
 Puṇṇattheragāthāvaṇṇanā niṭṭhitā.
 Sattamavaggavaṇṇanā niṭṭhitā.
-
+8. Aṭṭhamavaggo
 1. Vacchapālattheragāthāvaṇṇanā
 Susukhumanipuṇatthadassinā    vacchapālo apadāne
 
@@ -1994,7 +1994,7 @@ Yaṃ mayā pakataṃ kamma  uggo apadāne
 yaṃ mayā pakataṃ kamma  Appaṃ vā yadi vā  bahu Sabbametaṃ parikkhīṇa  ‘‘natthi dāni punabbhavo’’
 Uggattheragāthāvaṇṇanā niṭṭhitā.
 Aṭṭhamavaggavaṇṇanā niṭṭhitā.
-
+9. Navamavaggo
 1. Samitiguttattheragāthāvaṇṇanā
 Yaṃ  mayā pakataṃ pāpa  samitigutto  apadāne
 
@@ -2220,7 +2220,7 @@ Pañcakkhandhā   pariññātāti sāmidatto  apadāne
 pañcakkhandhā pariññātā Tiṭṭhanti chinnamūlakā  
 Sāmidattattheragāthāvaṇṇanā niṭṭhitā.
 Navamavaggavaṇṇanā niṭṭhitā.
-
+10. Dasamavaggo
 1. Paripuṇṇakattheragāthāvaṇṇanā
 Na  tathā mataṃ satarasa paripuṇṇako apadāne
 
@@ -2401,7 +2401,7 @@ Sammappadhānasampanno  devasabho apadāne
 sammappadhānasampanno Satipaṭṭhānagocaro  vimuttikusumasañchanno. Parinibbissatyanāsavo
 (Dutiya) devasabhattheragāthāvaṇṇanā niṭṭhitā.
 Dasamavaggavaṇṇanā niṭṭhitā.
-
+11. Ekādasamavaggo
 1. Belaṭṭhānikattheragāthāvaṇṇanā
 Hitvā  gihittaṃ anavositatto belaṭṭhāniko 
 101 .
@@ -2592,7 +2592,7 @@ nagā Nagaggesū Susaṃvirūḷhā  Udaggameghena navena sittā Vivekakāmassā
 
 Usabhattheragāthāvaṇṇanā niṭṭhitā.
 Ekādasamavaggavaṇṇanā niṭṭhitā.
-
+12. Dvādasamavaggo
 1. Jentattheragāthāvaṇṇanā
 Duppabbajjaṃ  ve duradhivāsā gehā  jento apadāne
 

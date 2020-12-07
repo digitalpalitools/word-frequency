@@ -1,5 +1,5 @@
 ﻿3. Diṭṭhisaṃyuttaṃ
-
+1. Sotāpattivaggo
 1. Vātasuttaṃ
 206 .    
 
@@ -72,7 +72,7 @@ Aṭṭhārasaveyyākaraṇaṃ niṭṭhitaṃ.
 
 
 
-
+2. Dutiyagamanavaggo
 1. Vātasuttaṃ
 224 . 
   
@@ -110,7 +110,7 @@ Dutiyapeyyālo.
 
 
 
-
+3. Tatiyagamanavaggo
 1. Navātasuttaṃ
 250 .   
 
@@ -121,7 +121,7 @@ Dutiyapeyyālo.
 
 
 Tatiyapeyyālo.
-
+4. Catutthagamanavaggo
 1. Navātasuttaṃ
 276 .   
 

@@ -1,7 +1,7 @@
 ﻿4. Upādinnattikaṃ
-
-
-
+1. Paṭiccavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 1 .   
 
@@ -47,16 +47,16 @@ Vipākapaccayo
 Āhārapaccayādi
 11 . 
 
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 12 .  
 Hetudukaṃ
 
 
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 13 . 
 
@@ -106,32 +106,32 @@ Navippayuttapaccayo
 Nonatthi-novigatapaccayā
 25 . 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 26 . 
 Nahetudukaṃ
 
 
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 27 .
 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 28 .  
 
 Paccanīyānulomaṃ.
 Paṭiccavāro.
-
+2. Sahajātavāro
 1-4. Paccayacatukkaṃ
 29 .
 Sahajātavāro.
-
-
-
+3. Paccayavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 30 .  
 
@@ -161,16 +161,16 @@ Adhipatipaccayo
 Anantarapaccayo
 34 .
 
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 35 .
 Hetudukaṃ
 
 
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 36 .  
 
@@ -208,7 +208,7 @@ Navipākapaccayo
 
 Naāhārapaccayādi
 42 .
-
+2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 43 . 
 3. Paccayānulomapaccanīyaṃ
@@ -216,11 +216,11 @@ Naāhārapaccayādi
 4. Paccayapaccanīyānulomaṃ
 45 .
 Paccayavāro.
-
+4. Nissayavāro
 46 .  
 Nissayavāro.
-
-
+5. Saṃsaṭṭhavāro
+1. Paccayānulomaṃ
 Hetupaccayo
 47 . 
 
@@ -229,24 +229,24 @@ Saṅkhyāvāro
 48 .
 
 Anulomaṃ.
-
+2. Paccayapaccanīyaṃ
 Nahetupaccayo
 49 . 
 
 
 Paccanīyaṃ
+3. Paccayānulomapaccanīyaṃ
 
-
-
+4. Paccayapaccanīyānulomaṃ
 
 Saṃsaṭṭhavāro.
 6. Sampayuttavāro
 50 .
 
 Sampayuttavāro.
-
-
-
+7. Pañhāvāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 51 .  
 
@@ -429,8 +429,8 @@ pacchājātaṃ, āhāraṃ. Sahajātā   Purejātaṃ
 pacchājātaṃ, āhāraṃ, indriyaṃ
 Natthi-vigatāvigatapaccayā
 87 . 
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 88 . 
 Sabhāgaṃ
@@ -462,22 +462,22 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 91 .
 Dukaṃ
 92 .  
 
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 93 . 
 Hetughaṭanā
 94 .
 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 95 .  
 

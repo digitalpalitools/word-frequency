@@ -2,7 +2,7 @@
 Saṃyuttanikāyo
 Saḷāyatanavaggo
 1. Saḷāyatanasaṃyuttaṃ
-
+1. Aniccavaggo
 1. Ajjhattāniccasuttaṃ
 1 .    
    
@@ -32,7 +32,7 @@ Aniccavaggo paṭhamo.
 
 
 
-
+2. Yamakavaggo
 1. Paṭhamapubbesambodhasuttaṃ
 13 .     yā (sī. syā. kaṃ. pī.) yo (sī. syā. kaṃ. ka.)
  sabbatthāpi evameva itisaddena saha dissati  cetovimutti (sī. pī. ka.) evamuparipi
@@ -68,7 +68,7 @@ Yamakavaggo dutiyo.
 
 
 
-
+3. Sabbavaggo
 1. Sabbasuttaṃ
 23 .   sotañceva (?) evamitarayugalesupi vācāvatthurevassa (sī. pī.), vācāvatthudevassa (syā. kaṃ.)
 2. Pahānasuttaṃ
@@ -122,7 +122,7 @@ Sabbavaggo tatiyo.
 
 
 
-
+4. Jātidhammavaggo
 1-10. Jātidhammādisuttadasakaṃ
 33 .   
 34 . 
@@ -138,7 +138,7 @@ Jātidhammavaggo catuttho.
 
 
 
-
+5. Sabbaaniccavaggo
 1-9. Aniccādisuttanavakaṃ
 43 .   
 44 . 
@@ -160,7 +160,7 @@ Saḷāyatanavagge paṭhamapaṇṇāsako samatto.
 
 
 
-
+6. Avijjāvaggo
 1. Avijjāpahānasuttaṃ
 53 .  
  
@@ -206,7 +206,7 @@ Avijjāvaggo chaṭṭho.
 
 
 
-
+7. Migajālavaggo
 1. Paṭhamamigajālasuttaṃ
 63 .  
  nandi (sī. syā. kaṃ. pī.)   manussarāhaseyyakāni (sī. syā. kaṃ. pī.)
@@ -281,7 +281,7 @@ Migajālavaggo sattamo.
 
 
 
-
+8. Gilānavaggo
 1. Paṭhamagilānasuttaṃ
 74 .   
 samañcosi (sī.), samatesi (syā. kaṃ.), samañcopi (pī.)
@@ -357,7 +357,7 @@ Gilānavaggo aṭṭhamo.
 
 
 
-
+9. Channavaggo
 1. Palokadhammasuttaṃ
 84 . 
 
@@ -461,7 +461,7 @@ Channavaggo navamo.
 
 
 
-
+10. Saḷavaggo
 1. Adantaaguttasuttaṃ
 94 .   
 
@@ -624,7 +624,7 @@ Saḷāyatanavagge dutiyapaṇṇāsako samatto.
 
 
 Paṭhamasatakaṃ.
-
+11. Yogakkhemivaggo
 1. Yogakkhemisuttaṃ
 104 .    
 2. Upādāyasuttaṃ
@@ -688,7 +688,7 @@ Yogakkhemivaggo ekādasamo.
 
 
 
-
+12. Lokakāmaguṇavaggo
 1. Paṭhamamārapāsasuttaṃ
 114 .  vasagato (sī. aṭṭha. syā. aṭṭha.)
 
@@ -803,7 +803,7 @@ Lokakāmaguṇavaggo dvādasamo.
 
 
 
-
+13. Gahapativaggo
 1. Vesālīsuttaṃ
 124 .   
 
@@ -871,7 +871,7 @@ Gahapativaggo terasamo.
 
 
 
-
+14. Devadahavaggo
 1. Devadahasuttaṃ
 134 .    sekhā (sī. syā. kaṃ. pī. ka.) apammuṭṭhā (sī.), appamuṭṭhā (syā. kaṃ.)   chassu (sī.)
 2. Khaṇasuttaṃ
@@ -916,7 +916,7 @@ Devadahavaggo cuddasamo.
 
 
 
-
+15. Navapurāṇavaggo
 1. Kammanirodhasuttaṃ
 146 .     
 2. Aniccanibbānasappāyasuttaṃ
@@ -970,7 +970,7 @@ Saḷāyatanavagge tatiyapaṇṇāsako samatto.
 
 
 
-
+16. Nandikkhayavaggo
 1. Ajjhattanandikkhayasuttaṃ
 156 .   sāyaṃ (pī. ka.) 
 2. Bāhiranandikkhayasuttaṃ
@@ -1001,7 +1001,7 @@ Nandikkhayavaggo soḷasamo.
 
 
 
-
+17. Saṭṭhipeyyālavaggo
 1. Ajjhattaaniccachandasuttaṃ
 168 .   
 2. Ajjhattaaniccarāgasuttaṃ
@@ -1068,7 +1068,7 @@ Saṭṭhipeyyālavaggo sattarasamo.
 
 
 Suttantāni saṭṭhi.
-
+18. Samuddavaggo
 1. Paṭhamasamuddasuttaṃ
 228 .    
 
@@ -1151,7 +1151,7 @@ Samuddavaggo aṭṭharasamo.
 
 
 
-
+19. Āsīvisavaggo
 1. Āsīvisopamasuttaṃ
 238 .   pavesetabbā (syā. kaṃ. pī. ka.)
 

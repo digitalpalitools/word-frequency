@@ -1,8 +1,8 @@
 ﻿2. Khandhayamakaṃ
-
+1. Paṇṇattivāro
 (Ka) uddeso
 1 .  
-
+1. Padasodhanavāro
 (Ka) anulomaṃ
 2 .
 
@@ -25,7 +25,7 @@
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 4 . 
 
@@ -108,7 +108,7 @@
 
 
 
-
+3. Suddhakhandhavāro
 (Ka) anulomaṃ
 14 . 
 
@@ -131,7 +131,7 @@
 
 
 
-
+4. Suddhakhandhamūlacakkavāro
 (Ka) anulomaṃ
 16 . 
 
@@ -216,8 +216,8 @@
 
 Paṇṇattiuddesavāro.
 (Kha) niddeso
-
-
+1. Paṇṇattivāraniddesa
+1. Padasodhanavāro
 (Ka) anulomaṃ
 26 . 
 
@@ -246,7 +246,7 @@ avasesā saṅkhārā saṅkhārā (syā.)
 
 
 
-
+2. Padasodhanamūlacakkavāro
 (Ka) anulomaṃ
 28 . 
 
@@ -362,7 +362,7 @@ avasesā khandhā khandhā (syā.) evamuparipi
 
 
 
-
+3. Suddhakhandhavāro
 (Ka) anulomaṃ
 38 .
 
@@ -394,7 +394,7 @@ avasesā khandhā khandhā (syā.) evamuparipi
 
 
 
-
+4. Suddhakhandhamūlacakkavāro
 (Ka) anulomaṃ
 40 .
 
@@ -515,8 +515,8 @@ avasesā khandhā khandhā (syā.) evamuparipi
 
 
 Paṇṇattiniddesavāro.
-
-
+2. Pavattivāro 1. uppādavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 50 .
 
@@ -545,7 +545,7 @@ Paṇṇattiniddesavāro.
 
 
 
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 56 . 
 
@@ -570,7 +570,7 @@ Paṇṇattiniddesavāro.
 
 
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 62 . 
 
@@ -597,7 +597,7 @@ Paṇṇattiniddesavāro.
 
  
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 68 .
 
@@ -640,7 +640,7 @@ Paṇṇattiniddesavāro.
  
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 80 .
 
@@ -689,7 +689,7 @@ Paṇṇattiniddesavāro.
 
 
  
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 92 .
 
@@ -731,8 +731,8 @@ Paṇṇattiniddesavāro.
 
 
 Uppādavāro niṭṭhito.
-
-
+2. Pavatti 2. nirodhavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 104 . 
 
@@ -761,7 +761,7 @@ Uppādavāro niṭṭhito.
 
 
 
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 110 .
 
@@ -786,7 +786,7 @@ Uppādavāro niṭṭhito.
 
 
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 116 .
 
@@ -813,7 +813,7 @@ Uppādavāro niṭṭhito.
 
 
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 122 . 
 
@@ -853,7 +853,7 @@ Uppādavāro niṭṭhito.
 
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 133 . 
  
@@ -892,7 +892,7 @@ Uppādavāro niṭṭhito.
 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 143 .
 
@@ -928,8 +928,8 @@ Uppādavāro niṭṭhito.
 
 
 Nirodhavāro.
-
-
+3. Uppādanirodhavāro
+(1) Paccuppannavāro
 (Ka) anulomapuggalo
 153 . 
 
@@ -970,7 +970,7 @@ Nirodhavāro.
 
 
 
-
+(2) Atītavāro
 (Ka) anulomapuggalo
 165 .
 
@@ -999,7 +999,7 @@ Nirodhavāro.
 
 174 .
 
-
+(3) Anāgatavāro
 (Ka) anulomapuggalo
 175 .  
 
@@ -1034,13 +1034,13 @@ Nirodhavāro.
 184 .  
 
 
-
+(4) Paccuppannātītavāro
 (Ka) anulomapuggalo
 185 .
 
 
 
-
+(5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 186 . 
 
@@ -1075,7 +1075,7 @@ Nirodhavāro.
 195 . 
 
 
-
+(6) Atītānāgatavāro
 (Ka) anulomapuggalo
 196 .
 
@@ -1112,37 +1112,37 @@ Nirodhavāro.
  
 Uppādanirodhavāro.
 Pavattivāro niṭṭhito.
-
-
+3. Pariññāvāro
+1. Paccuppannavāro
 206 .
 
 
 
-
+2. Atītavāro
 207 .
 
 
 
-
+3. Anāgatavāro
 208 .
 
  
 
-
+4. Paccuppannātītavāro
 209 . 
 
 
 
 
 
-
+5. Paccuppannānāgatavāro
 210 .
 
 
 
 
 
-
+6. Atītānāgatavāro
 211 .  
 
 

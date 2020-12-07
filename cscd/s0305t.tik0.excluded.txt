@@ -2,7 +2,7 @@
 Saṃyuttanikāye
 Mahāvaggaṭīkā
 1. Maggasaṃyuttaṃ
-
+1. Avijjāvaggo
 1-2. Avijjāsuttādivaṇṇanā
 1-2 . Pubbaṅgamā   Samāpajjanāyā  Sabhāvapaṭilābhāyā ‘‘uppattiyā’’ Yadeta alajjanākārasaṇṭhitaṃ ahirikaṃ, pāpato abhāyanākārasaṇṭhitañca anottappaṃ, etaṃ  anudeva Anu eta Anudevā
 Lajjanākārasaṇṭhitā Bhāyanākārasaṇṭhita Etthā vijjā. Viddasū ‘‘viddasunoti viduno’’ Yāthāvadiṭṭhī niyyānikadiṭṭhi. Sammādiṭṭhi pahotī Na ekato sabbāni labbhanti Lokuttaramaggakkhaṇe ekato labbhanti Paṭhamajjhānike
@@ -47,7 +47,7 @@ Sūkasuttavaṇṇanā niṭṭhitā.
 10. Nandiyasuttavaṇṇanā
 10 . Channaparibbājako
 Avijjāvaggavaṇṇanā niṭṭhitā.
-
+2. Vihāravaggo
 1. Paṭhamavihārasuttavaṇṇanā
 11 . Aḍḍhamāsa Paṭisallīyitu Vinetabbo Ta Assā Apagacchatī Sū
 Padesenā sapadeso ‘‘khandhapadeso’’ Taṃ sabba ‘‘Sammasanto’’ ‘‘paccavekkhanto’’  ‘‘yāva bhavaggā pavattā sukhā vedanā’’ Sabbākārenā Pariggaṇhanto
@@ -63,24 +63,24 @@ Dutiyavihārasuttavaṇṇanā niṭṭhitā.
 13-17 .  sikkhanasīlo sekkho Tīhi phalehi Uttānatthāneva
 Sekkhasuttādivaṇṇanā niṭṭhitā.
 Vihāravaggavaṇṇanā niṭṭhitā.
-
+3. Micchattavaggavaṇṇanā
 21-30 . Micchāsabhāva  Sammāsabhāva Micchāpaṭipattādhikaraṇahetū adhi ‘‘micchāpaṭipattikaraṇahetū’’ ñāyo dhammo ‘‘ñāyaṃ dhammanti ariyamaggadhamma’’ ‘‘micchāviññāṇo’’ Micchāpaccavekkhaṇo micchāvimutti vaṭṭavivaṭṭaṃ kathitaṃ. Puggalo pucchito ‘‘dhammo vibhatto’’ ‘‘dhammena puggalo dassito’’ Dhammenā sappurisā sappurisataro. Suppavattaniyo Dhāvatī ‘‘saupanisaṃ sapaccaya’’ parikkhāro,  ‘‘saparikkhāraṃ saparivāra’’
 Micchattavaggavaṇṇanā niṭṭhitā.
-
+4. Paṭipattivaggavaṇṇanā
 31-40 . Ayāthāvapaṭipatti, Ekaṃ suttaṃ dhammavasena kathitaṃ Ekaṃ suttaṃ puggalavasena kathitaṃ  ‘‘apārāpāranti vaṭṭato nibbāna’’ Pāraṅgatā Yepi gacchantī Yepi gamissantī Pāragāmino
 Tīra ‘‘vaṭṭameva anudhāvatī’’ ‘‘kaṇhanti akusaladhamma’’ ‘‘sukkanti kusaladhamma’’ ‘‘okā anokanti vaṭṭato nibbāna’’
 ‘‘sāmaññatthanti nibbānaṃ, taṃ hī’’ Brahmaññattha Brahmaññena Rāgakkhayo iti Vaṭṭatiyevāti vadanti
 Paṭipattivaggavaṇṇanā niṭṭhitā.
-
+5. Aññatitthiyapeyyālavaggavaṇṇanā
 41-48 .  ‘‘nibbānaṃ patvā pariññātaṃ nāma hotī’’ Nibbānaṃ patvā tvā Tasmā Vijjāvimuttiphalasacchikiriyattha vijjā Vimuttī  ‘‘vijjāvimuttiphalena arahattaṃ kathita’’ ‘‘ñāṇadassanena paccavekkhaṇā kathitā’’ Sesehī
 Aññatitthiyapeyyālavaggavaṇṇanā niṭṭhitā.
-
+6. Sūriyapeyyālavaggavaṇṇanā
 49-62 . aruṇuggaṃ kalyāṇamittatāya ariyamaggo sūriyapātubhāvo viya Kusalakattukamyatāchando chandasampadā Kārāpakaappamādassā Aññenapi ākārenā
 Sūriyapeyyālavaggavaṇṇanā niṭṭhitā.
-
+7. Ekadhammapeyyālavaggādivaṇṇanā
 63-138 . Tathā  tathā vutte bujjhanakānaṃ ajjhāsayavasena kathito,
 Ekadhammapeyyālavaggādivaṇṇanā niṭṭhitā.
-
+8. Appamādapeyyālavaggo
 1. Tathāgatasuttavaṇṇanā
 139 . Kārāpakaappamādo  Esā Lokiyova. Na Aya esā Tesa Paṭilābhakaṭṭhenā
 Tathāgatasuttavaṇṇanā niṭṭhitā.
@@ -91,7 +91,7 @@ Padasuttavaṇṇanā niṭṭhitā.
 141-148 . vassikaṃ Mahātalasmi  ‘‘Yāni kānicī’’ ‘‘paccatte sāmivacana’’ ‘‘Tantāvutāna’’ ‘‘atha vā’’
 Kūṭasuttādivaṇṇanā niṭṭhitā.
 Appamādavaggavaṇṇanā niṭṭhitā.
-
+9. Balakaraṇīyavaggo
 1. Balasuttavaṇṇanā
 149 .  kammantā Ariyaṃ aṭṭhaṅgikaṃ magga ‘‘sahavipassana’’
 2. Bījasuttavaṇṇanā
@@ -107,13 +107,13 @@ Appamādavaggavaṇṇanā niṭṭhitā.
 11-12. Āgantukasuttādivaṇṇanā
 159-160 .  etaṃ vuttaṃ
 Balakaraṇīyavaggavaṇṇanā niṭṭhitā.
-
+10. Esanāvaggo
 1. Esanāsuttavaṇṇanā
 161 . Kāmāna Bhavāna 
 2-11. Vidhāsuttādivaṇṇanā
 162-171 . vidhā, Nīhanantī
 Esanāvaggavaṇṇanā niṭṭhitā.
-
+11. Oghavaggo
 1-2. Oghasuttādivaṇṇanā
 172-173 . oghā. Rūpārūpabhave yogo
 3-4. Upādānasuttādivaṇṇanā

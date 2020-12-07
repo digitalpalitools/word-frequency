@@ -1,5 +1,5 @@
 ﻿
-1 sabbasaṅgāhikavāro
+
  kati  khandhā kati āyatanāni kati dhātuyo kati saccāni kati indriyāni kati hetū kati āhārā kati phassā kati vedanā kati saññā kati cetanā kati cittāni
 pañcakkhandhā dvādasāyatanāni aṭṭhārasa dhātuyo cattāri  saccāni bāvīsatindriyāni nava hetū cattāro āhārā satta phassā satta vedanā satta saññā satta cetanā satta cittāni
  tattha katame pañcakkhandhā rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho  ime vuccanti pañcakkhandhā
@@ -17,7 +17,7 @@ tattha katame tayo abyākatahetū kusalānaṃ vā dhammānaṃ vipākato kiriy�
  tattha katamā satta saññā cakkhusamphassajā saññā sotasamphassajā saññā ghānasamphassajā saññā jivhāsamphassajā saññā kāyasamphassajā saññā manodhātusamphassajā saññā manoviññāṇadhātusamphassajā saññā  imā vuccanti satta saññā
  tattha  katamā satta cetanā cakkhusamphassajā cetanā sotasamphassajā cetanā ghānasamphassajā cetanā jivhāsamphassajā cetanā kāyasamphassajā cetanā manodhātusamphassajā cetanā manoviññāṇadhātusamphassajā cetanā  imā vuccanti satta cetanā
  tattha katamāni satta cittāni cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ  kāyaviññāṇaṃ manodhātu manoviññāṇadhātu  imāni vuccanti satta cittāni
-2 uppattānuppattivāro
+
 
  kāmadhātuyā kati khandhā kati āyatanāni kati dhātuyo kati saccāni kati  indriyāni kati hetū kati āhārā kati phassā kati vedanā kati saññā kati cetanā kati cittāni
 kāmadhātuyā pañcakkhandhā dvādasāyatanāni aṭṭhārasa dhātuyo tīṇi saccāni bāvīsatindriyāni nava hetū cattāro āhārā satta phassā satta vedanā satta saññā satta cetanā satta cittāni
@@ -74,7 +74,7 @@ tattha  katame tayo abyākatahetū kusalānaṃ dhammānaṃ vipākato alobho ad
 tattha katame apariyāpanne tayo āhārā phassāhāro manosañcetanāhāro viññāṇāhāro  ime vuccanti apariyāpanne tayo āhārā
 tattha katamo apariyāpanne eko phasso manoviññāṇadhātusamphasso  ayaṃ vuccati apariyāpanne eko phasso
 tattha  katamā apariyāpanne ekā vedanā ekā saññā ekā cetanā ekaṃ cittaṃ manoviññāṇadhātu   idaṃ vuccati apariyāpanne ekaṃ cittaṃ
-3 pariyāpannāpariyāpannavāro
+
 
  pañcannaṃ khandhānaṃ kati kāmadhātupariyāpannā kati na kāmadhātupariyāpannā sattannaṃ cittānaṃ kati kāmadhātupariyāpannā kati na kāmadhātupariyāpannā
  rūpakkhandho kāmadhātupariyāpanno cattāro khandhā siyā kāmadhātupariyāpannā siyā na kāmadhātupariyāpannā
@@ -120,7 +120,7 @@ tayo akusalahetū pariyāpannā cha hetū siyā pariyāpannā siyā apariyāpann
 kabaḷīkāro  āhāro pariyāpanno tayo āhārā siyā pariyāpannā siyā apariyāpannā
 cha phassā pariyāpannā manoviññāṇadhātusamphasso siyā pariyāpanno siyā apariyāpanno
 cha vedanā cha saññā cha cetanā cha cittā pariyāpannā manoviññāṇadhātu siyā pariyāpannā siyā apariyāpannā
-4 dhammadassanavāro
+
 
  kāmadhātuyā upapattikkhaṇe kati khandhā pātubhavanti kati cittāni pātubhavanti
 kāmadhātuyā upapattikkhaṇe sabbesaṃ  pañcakkhandhā pātubhavanti kassaci ekādasāyatanāni pātubhavanti kassaci  dasāyatanāni pātubhavanti kassaci  aparāni dasāyatanāni pātubhavanti kassaci navāyatanāni pātubhavanti kassaci sattāyatanāni pātubhavanti kassaci ekādasa dhātuyo pātubhavanti kassaci dasa dhātuyo pātubhavanti kassaci aparā dasa dhātuyo pātubhavanti kassaci nava dhātuyo pātubhavanti kassaci satta dhātuyo pātubhavanti sabbesaṃ ekaṃ saccaṃ pātubhavati kassaci cuddasindriyāni pātubhavanti kassaci terasindriyāni pātubhavanti kassaci aparāni terasindriyāni pātubhavanti kassaci dvādasindriyāni pātubhavanti kassaci dasindriyāni pātubhavanti kassaci navindriyāni pātubhavanti kassaci aparāni navindriyāni pātubhavanti kassaci aṭṭhindriyāni pātubhavanti kassaci aparāni aṭṭhindriyāni pātubhavanti kassaci sattindriyāni pātubhavanti kassaci pañcindriyāni pātubhavanti kassaci cattārindriyāni pātubhavanti kassaci tayo hetū pātubhavanti kassaci dve hetū pātubhavanti kassaci  ahetukā pātubhavanti  sabbesaṃ cattāro āhārā pātubhavanti sabbesaṃ eko phasso pātubhavati sabbesaṃ ekā vedanā ekā saññā ekā cetanā ekaṃ cittaṃ pātubhavati
@@ -180,7 +180,7 @@ arūpadhātuyā upapattikkhaṇe katame tayo hetū pātubhavanti alobho vipākah
 arūpadhātuyā upapattikkhaṇe katame tayo āhārā pātubhavanti phassāhāro manosañcetanāhāro viññāṇāhāro  arūpadhātuyā upapattikkhaṇe ime tayo āhārā pātubhavanti
 arūpadhātuyā upapattikkhaṇe katamo eko phasso pātubhavati manoviññāṇadhātusamphasso   arūpadhātuyā upapattikkhaṇe ayaṃ eko phasso pātubhavati
 arūpadhātuyā upapattikkhaṇe katamā ekā vedanā ekā saññā ekā cetanā ekaṃ cittaṃ pātubhavati manoviññāṇadhātu  arūpadhātuyā upapattikkhaṇe idaṃ ekaṃ cittaṃ pātubhavati
-5 bhūmantaradassanavāro
+
  kāmāvacarā  dhammā na kāmāvacarā dhammā rūpāvacarā dhammā na rūpāvacarā dhammā arūpāvacarā dhammā na arūpāvacarā dhammā pariyāpannā dhammā apariyāpannā dhammā
 katame dhammā kāmāvacarā heṭṭhato avīcinirayaṃ pariyantaṃ karitvā uparito paranimmitavasavattī deve antokaritvā yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā khandhadhātuāyatanā rūpaṃ vedanā saññā saṅkhārā viññāṇaṃ  ime dhammā kāmāvacarā
 katame dhammā na kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā  ime dhammā na kāmāvacarā
@@ -190,7 +190,7 @@ katame dhammā arūpāvacarā heṭṭhato ākāsānañcāyatanūpage  deve pari
 katame dhammā na arūpāvacarā kāmāvacarā rūpāvacarā apariyāpannā  ime dhammā na arūpāvacarā
 katame dhammā pariyāpannā sāsavā kusalākusalabyākatā dhammā kāmāvacarā rūpāvacarā arūpāvacarā rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho  ime dhammā pariyāpannā
 katame dhammā apariyāpannā maggā ca maggaphalāni ca asaṅkhatā ca dhātu  ime dhammā apariyāpannā
-6 uppādakakammaāyuppamāṇavāro
+
 
  devāti  tayo devā  sammutidevā  upapattidevā visuddhidevā
 sammutidevā nāma  rājāno deviyo kumārā
@@ -237,7 +237,7 @@ tasmā hi dhīrā nipakā nipuṇā atthacintakā
 jarāmaraṇamokkhāya bhāventi maggamuttamaṃ
 bhāvayitvā  suciṃ maggaṃ nibbānogadhagāminaṃ
 sabbāsave pariññāya parinibbanti anāsavāti
-7 abhiññeyyādivāro
+
  pañcannaṃ khandhānaṃ kati abhiññeyyā kati pariññeyyā kati pahātabbā kati bhāvetabbā kati sacchikātabbā kati na pahātabbā na bhāvetabbā na sacchikātabbā sattannaṃ cittānaṃ kati abhiññeyyā kati pariññeyyā kati pahātabbā kati bhāvetabbā kati sacchikātabbā kati na pahātabbā na bhāvetabbā na sacchikātabbā
  rūpakkhandho abhiññeyyo pariññeyyo na pahātabbo na bhāvetabbo na sacchikātabbo cattāro khandhā abhiññeyyā pariññeyyā siyā pahātabbā siyā bhāvetabbā siyā sacchikātabbā siyā na pahātabbā na bhāvetabbā na sacchikātabbā
 dasāyatanā  abhiññeyyā pariññeyyā na pahātabbā na bhāvetabbā na sacchikātabbā dve āyatanā abhiññeyyā pariññeyyā siyā pahātabbā siyā bhāvetabbā siyā sacchikātabbā siyā na pahātabbā na bhāvetabbā na sacchikātabbā
@@ -248,7 +248,7 @@ tayo akusalahetū abhiññeyyā pariññeyyā pahātabbā na bhāvetabbā na sac
 kabaḷīkāro  āhāro abhiññeyyo pariññeyyo na pahātabbo na bhāvetabbo na sacchikātabbo tayo āhārā abhiññeyyā pariññeyyā siyā pahātabbā siyā bhāvetabbā siyā sacchikātabbā siyā na pahātabbā na bhāvetabbā na sacchikātabbā
 cha phassā abhiññeyyā pariññeyyā na pahātabbā na bhāvetabbā na sacchikātabbā manoviññāṇadhātusamphasso abhiññeyyo pariññeyyo siyā pahātabbo siyā bhāvetabbo siyā sacchikātabbo siyā na pahātabbo na bhāvetabbo na sacchikātabbo
 cha vedanā cha saññā cha cetanā cha cittā abhiññeyyā pariññeyyā na pahātabbā na bhāvetabbā na sacchikātabbā manoviññāṇadhātu abhiññeyyā pariññeyyā siyā pahātabbā siyā bhāvetabbā siyā sacchikātabbā  siyā na pahātabbā na bhāvetabbā na sacchikātabbā
-8 sārammaṇānārammaṇavāro
+
  pañcannaṃ khandhānaṃ kati sārammaṇā kati anārammaṇā sattannaṃ cittānaṃ kati sārammaṇā kati anārammaṇā
  rūpakkhandho anārammaṇo cattāro khandhā sārammaṇā
 dasāyatanā anārammaṇā manāyatanaṃ sārammaṇaṃ dhammāyatanaṃ siyā sārammaṇaṃ siyā anārammaṇaṃ
@@ -262,14 +262,14 @@ dasa dhātuyo anārammaṇā cha dhātuyo anārammaṇārammaṇā manoviññā�
 nirodhasaccaṃ anārammaṇaṃ maggasaccaṃ anārammaṇārammaṇaṃ samudayasaccaṃ siyā sārammaṇārammaṇaṃ siyā anārammaṇārammaṇaṃ dukkhasaccaṃ  siyā sārammaṇārammaṇaṃ siyā anārammaṇārammaṇaṃ siyā anārammaṇaṃ
 sattindriyā anārammaṇā pañcindriyā  anārammaṇārammaṇā navindriyā siyā sārammaṇārammaṇā siyā anārammaṇārammaṇā jīvitindriyaṃ siyā sārammaṇārammaṇaṃ siyā anārammaṇārammaṇaṃ siyā anārammaṇaṃ
 nava hetū siyā sārammaṇārammaṇā siyā anārammaṇārammaṇā kabaḷīkāro āhāro anārammaṇo tayo āhārā siyā sārammaṇārammaṇā siyā anārammaṇārammaṇā cha phassā anārammaṇārammaṇā  manoviññāṇadhātusamphasso siyā sārammaṇārammaṇo siyā anārammaṇārammaṇo cha vedanā cha saññā cha cetanā cha cittā anārammaṇārammaṇā manoviññāṇadhātu siyā sārammaṇārammaṇā siyā anārammaṇārammaṇā
-9 diṭṭhasutādidassanavāro
+
  pañcannaṃ khandhānaṃ kati diṭṭhā kati sutā kati mutā kati viññātā kati na diṭṭhā na sutā na mutā na viññātā sattannaṃ cittānaṃ kati  diṭṭhā kati sutā kati mutā kati viññātā kati na diṭṭhā na sutā na mutā na viññātā
  rūpakkhandho siyā diṭṭho siyā suto siyā muto siyā viññāto siyā na diṭṭho na suto na muto viññāto cattāro khandhā na diṭṭhā na sutā na mutā viññātā
 rūpāyatanaṃ diṭṭhaṃ na sutaṃ na mutaṃ viññātaṃ saddāyatanaṃ na diṭṭhaṃ sutaṃ na mutaṃ viññātaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ na diṭṭhaṃ na sutaṃ mutaṃ viññātaṃ sattāyatanā na diṭṭhā na sutā na  mutā viññātā
 rūpadhātu diṭṭhā na sutā na mutā viññātā saddadhātu na diṭṭhā sutā na mutā viññātā gandhadhātu rasadhātu phoṭṭhabbadhātu na diṭṭhā na sutā mutā viññātā terasa dhātuyo na diṭṭhā na sutā na mutā viññātā
 tīṇi saccāni na diṭṭhā na sutā na mutā viññātā dukkhasaccaṃ siyā diṭṭhaṃ siyā sutaṃ siyā mutaṃ siyā viññātaṃ siyā na diṭṭhaṃ na sutaṃ na mutaṃ viññātaṃ
 bāvīsatindriyā na diṭṭhā na sutā na mutā viññātā nava hetū na diṭṭhā na sutā na mutā viññātā cattāro āhārā na diṭṭhā na sutā na mutā viññātā satta  phassā  na diṭṭhā na sutā na mutā viññātā satta vedanā satta saññā satta cetanā satta cittā na diṭṭhā na sutā na mutā viññātā
-10 tikādidassanavāro
+
 
  pañcannaṃ khandhānaṃ kati kusalā kati akusalā kati abyākatā sattannaṃ cittānaṃ kati kusalā kati akusalā kati abyākatā
 rūpakkhandho abyākato cattāro khandhā siyā kusalā siyā akusalā siyā abyākatā dasāyatanā abyākatā dvāyatanā siyā kusalā siyā akusalā siyā abyākatā soḷasa dhātuyo  abyākatā dve dhātuyo siyā kusalā siyā akusalā siyā abyākatā samudayasaccaṃ akusalaṃ maggasaccaṃ kusalaṃ nirodhasaccaṃ abyākataṃ dukkhasaccaṃ siyā kusalaṃ siyā akusalaṃ siyā abyākataṃ

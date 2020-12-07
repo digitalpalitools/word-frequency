@@ -1,5 +1,5 @@
 ﻿3. Tikanipāto
-
+1. Paṭhamavaggo
 1. Mūlasuttaṃ
 50 .  
 
@@ -83,7 +83,7 @@ Paṭhamo vaggo niṭṭhito.
 
 
 taṇhāto atha (syā.)
-
+2. Dutiyavaggo
 1. Puññakiriyavatthusuttaṃ
 60 . 
 
@@ -168,7 +168,7 @@ Dutiyo vaggo niṭṭhito.
 
 atthindriyā (syā.) suci (syā.)
 mune (syā.)
-
+3. Tatiyavaggo
 1. Micchādiṭṭhikasuttaṃ
 70 . 
 
@@ -292,7 +292,7 @@ Tatiyo vaggo niṭṭhito.
 
 
 bhindanā (sabbattha)
-
+4. Catutthavaggo
 1. Vitakkasuttaṃ
 80 .
 
@@ -427,7 +427,7 @@ Catuttho vaggo niṭṭhito.
 
 
 
-
+5. Pañcamavaggo
 1. Aggappasādasuttaṃ
 90 . 
 bahupadā (ka.) 

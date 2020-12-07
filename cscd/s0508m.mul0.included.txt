@@ -9,7 +9,7 @@ yathādhimuttā sappaññā vihariṃsu atanditā
 tattha tattha vipassitvā phusitvā accutaṃ padaṃ
 katantaṃ paccavekkhantā imamatthamabhāsisuṃ
 
-1 paṭhamavaggo
+
 
 
  channā  me kuṭikā sukhā nivātā vassa deva yathāsukhaṃ
@@ -66,7 +66,7 @@ tassuddānaṃ
 subhūti  koṭṭhiko thero kaṅkhārevatasammato
 mantāṇiputto dabbo ca sītavaniyo ca bhalliyo
 vīro pilindavaccho ca puṇṇamāso tamonudoti
-2 dutiyavaggo
+
 
 
  pāmojjabahulo bhikkhu dhamme buddhappavedite
@@ -125,7 +125,7 @@ tassuddānaṃ
 cūḷavaccho mahāvaccho vanavaccho ca sīvako
 kuṇḍadhāno ca belaṭṭhi dāsako ca tatopari
 siṅgālapitiko thero kulo ca ajito dasāti
-3 tatiyavaggo
+
 
 
  nāhaṃ bhayassa bhāyāmi satthā no amatassa kovido
@@ -182,7 +182,7 @@ tassuddānaṃ
 nigrodho cittako thero gosālathero sugandho
 nandiyo abhayo thero thero lomasakaṅgiyo
 jambugāmikaputto ca hārito uttiyo isīti
-4 catutthavaggo
+
 
 
  phuṭṭho  ḍaṃsehi makasehi araññasmiṃ brahāvane
@@ -240,7 +240,7 @@ tassuddānaṃ
 gahvaratīriyo  suppiyo sopāko ceva posiyo
 sāmaññakāni kumāputto kumāputtasahāyako
 gavampati tissatthero vaḍḍhamāno mahāyasoti
-5 pañcamavaggo
+
 
 
  vivaramanupatanti  vijjutā vebhārassa ca paṇḍavassa ca
@@ -299,7 +299,7 @@ tassuddānaṃ
 sirīvaḍḍho revato thero sumaṅgalo sānusavhayo 
 ramaṇīyavihārī ca samiddhiujjayasañjayā
 rāmaṇeyyo ca so thero vimalo ca raṇañjahoti
-6 chaṭṭhavaggo
+
 
 
  vassati  devo yathā sugītaṃ channā me kuṭikā sukhā nivātā
@@ -355,7 +355,7 @@ tassuddānaṃ
 godhiko  ca subāhu ca valliyo uttiyo isi
 añjanavaniyo thero duve kuṭivihārino
 ramaṇīyakuṭiko ca kosalavhayasīvalīti
-7 sattamavaggo
+
 
 
  passati  passo passantaṃ apassantañca passati
@@ -412,7 +412,7 @@ tassuddānaṃ
 vappo ca vajjiputto ca pakkho vimalakoṇḍañño
 ukkhepakatavaccho ca meghiyo ekadhammiko
 ekudāniyachannā ca puṇṇatthero mahabbaloti
-8 aṭṭhamavaggo
+
 
 
  susukhumanipuṇatthadassinā matikusalena nivātavuttinā
@@ -468,7 +468,7 @@ tassuddānaṃ
 vacchapālo ca yo thero ātumo māṇavo isi
 suyāmano susārado thero yo ca piyañjaho
 ārohaputto meṇḍasiro rakkhito uggasavhayoti
-9 navamavaggo
+
 
 
  yaṃ  mayā pakataṃ pāpaṃ pubbe aññāsu jātisu
@@ -524,7 +524,7 @@ tassuddānaṃ
 thero samitigutto ca kassapo sīhasavhayo
 nīto sunāgo nāgito paviṭṭho ajjuno isi
 devasabho ca yo thero sāmidatto mahabbaloti
-10 dasamavaggo
+
 
 
  na  tathā mataṃ satarasaṃ sudhannaṃ yaṃ mayajja paribhuttaṃ
@@ -584,7 +584,7 @@ tassuddānaṃ
 paripuṇṇako ca vijayo erako mettajī muni
 cakkhupālo khaṇḍasumano tisso ca abhayo tathā
 uttiyo ca mahāpañño thero devasabhopi cāti
-11 ekādasamavaggo
+
 
 
  hitvā  gihittaṃ anavositatto mukhanaṅgalī odariko kusīto
@@ -640,7 +640,7 @@ tassuddānaṃ
 belaṭṭhāniko setuccho bandhuro khitako isi
 malitavambho suhemanto dhammasavo dhammasavapitā
 saṅgharakkhitatthero  ca usabho ca mahāmunīti
-12 dvādasamavaggo
+
 
 
  duppabbajjaṃ  ve duradhivāsā gehā dhammo gambhīro duradhigamā bhogā

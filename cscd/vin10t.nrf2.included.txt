@@ -2,7 +2,7 @@
 
  bhikkhunīnaṃ  hitatthāya vibhaṅgaṃ yaṃ jinobravi
 tasmiṃ api samāsena kiñcimattaṃ bhaṇāmahaṃ
-pārājikakathā
+
 
  chandaso methunaṃ dhammaṃ paṭiseveyya yā pana
 hoti pārājikā nāma samaṇī sā pavuccati
@@ -146,7 +146,7 @@ kāyasaṃsaggabhāve tu sādhakaṃ vacanaṃ idaṃ
  avassutā paṭicchādī ukkhittā aṭṭhavatthukā
 asādhāraṇapaññattā catassova mahesinā
 
-saṅghādisesakathā
+
 
  yā  pana bhikkhunī ussayavādā
 aṭṭakarī mukharī vihareyya
@@ -409,7 +409,7 @@ anantarasamāyeva samuṭṭhānādayo nayā
  duṭṭhadosadvayenāpi sañcarittena tena cha
 yāvatatiyakā aṭṭha cattāri ca ito tato
 
-nissaggiyakathā
+
 
  adhiṭṭhānūpagaṃ  pattaṃ anadhiṭṭhāya bhikkhunī
 vikappanamakatvā vā ekāhampi ṭhapeyya ce
@@ -526,7 +526,7 @@ anantarasamaṃ sesaṃ natthi kāci visesatā
  sādhāraṇāni sesāni tāni aṭṭhārasāpi ca
 imāni dvādasevāpi samatiṃseva honti hi
 
-pācittiyakathā
+
 
  lasuṇaṃ bhaṇḍikaṃ vuttaṃ na ekadvitimiñjakaṃ
 āmakaṃ māgadhaṃyeva khādissāmīti gaṇhati
@@ -1542,7 +1542,7 @@ sesaṃ vuttanayeneva viññātabbaṃ vibhāvinā
 
 
 
-pāṭidesanīyakathā
+
 
  agilānā  sace sappiṃ laddhaṃ viññattiyā sayaṃ
 bhuñjissāmīti gahaṇe dukkaṭaṃ paridīpitaṃ
@@ -1594,4 +1594,4 @@ amaraṃ ajaraṃ arajaṃ arujaṃ
 adhigacchati santipadaṃ pana so
 
 
-khandhakakathā
+

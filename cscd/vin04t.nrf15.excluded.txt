@@ -1,5 +1,5 @@
 ﻿Pācittiyakaṇḍo
-
+1. Lasuṇavaggo
 1. Lasuṇasikkhāpadavaṇṇanā
   lasuṇa
 
@@ -41,7 +41,7 @@ nacca Gīta Vādita Dassanāyā
   
 Naccagītasikkhāpadavaṇṇanā niṭṭhitā.
 Lasuṇavaggo paṭhamo.
-
+2. Rattandhakāravaggo
 1. Rattandhakārasikkhāpadavaṇṇanā
 rattandhakāre Appadīpe Purisenā Santiṭṭheyya vā Sallapeyyā
 
@@ -81,7 +81,7 @@ Paraabhisapanasikkhāpadavaṇṇanā niṭṭhitā.
 
 Rodanasikkhāpadavaṇṇanā niṭṭhitā.
 Rattandhakāravaggo dutiyo.
-
+3. Naggavaggo
 1. Naggasikkhāpadavaṇṇanā
 naggā
 
@@ -122,7 +122,7 @@ Kālaatikkamanasikkhāpadavaṇṇanā niṭṭhitā.
 
 Kathinuddhārasikkhāpadavaṇṇanā niṭṭhitā.
 Naggavaggo tatiyo.
-
+4. Tuvaṭṭavaggo
 1. Ekamañcatuvaṭṭanasikkhāpadavaṇṇanā
  tuvaṭṭeyyu
 
@@ -161,7 +161,7 @@ vassaṃvuṭṭhā Chappañcayojanānī
 
 Cārikanapakkamanasikkhāpadavaṇṇanā niṭṭhitā.
 Tuvaṭṭavaggo catuttho.
-
+5. Cittāgāravaggo
 1. Rājāgārasikkhāpadavaṇṇanā
 rājāgāra Cittāgāra Ārāma Uyyāna  Pokkharaṇi Dassanāyā  
 
@@ -201,7 +201,7 @@ Tiracchānavijjāpariyāpuṇanasikkhāpadavaṇṇanā niṭṭhitā.
 vāceyyā  
 Tiracchānavijjāvācanasikkhāpadavaṇṇanā niṭṭhitā.
 Cittāgāravaggo pañcamo.
-
+6. Ārāmavaggo
 1. Ārāmapavisanasikkhāpadavaṇṇanā
 sabhikkhukaṃ ārāma Anāpucchā
 
@@ -247,7 +247,7 @@ pasākhe Gaṇḍa Rudhita Bhedāpeyya vā
 
 Pasākhejātasikkhāpadavaṇṇanā niṭṭhitā.
 Ārāmavaggo chaṭṭho.
-
+7. Gabbhinīvaggo
 1. Gabbhinīsikkhāpadavaṇṇanā
   ‘‘gabbhinī’’
 
@@ -281,7 +281,7 @@ Nānubandhanasikkhāpadavaṇṇanā niṭṭhitā.
 
 Dutiyasahajīvinisikkhāpadavaṇṇanā niṭṭhitā.
 Gabbhinīvaggo sattamo.
-
+8. Kumāribhūtavaggo
 1-2-3. Paṭhamakumāribhūtādisikkhāpadavaṇṇanā
  
 Paṭhamakumāribhūtādisikkhāpadavaṇṇanā niṭṭhitā.
@@ -322,7 +322,7 @@ Anuvassasikkhāpadavaṇṇanā niṭṭhitā.
 
 Ekavassasikkhāpadavaṇṇanā niṭṭhitā.
 Kumāribhūtavaggo aṭṭhamo.
-
+9. Chattupāhanavaggo
 1. Chattupāhanasikkhāpadavaṇṇanā
  chattupāhana Dhāreyyā
 
@@ -364,7 +364,7 @@ asaṃkaccikā Gāmaṃ paviseyyā
 
 Asaṃkaccikasikkhāpadavaṇṇanā niṭṭhitā.
 Chattupāhanavaggo navamo.
-
+10…Pe…16. musāvādādivaggo
 Musāvādādisikkhāpadavaṇṇanā
 
 Soḷasamavaggo.

@@ -1,8 +1,8 @@
 ﻿ Namo tassa bhagavato arahato sammāsambuddhassa
 Jātaka-aṭṭhakathā
-
+(Dutiyo bhāgo)
 2. Dukanipāto
-
+1. Daḷhavaggo
 
 
 Daḷhaṃ    daḷhassa khipatī tesakuṇajātake  
@@ -202,7 +202,7 @@ Daḷhavaggo paṭhamo.
 
 
 
-
+2. Santhavavaggo
 
 
 Na   santhavaṃ kāpurisena kayirā gijjhajātake
@@ -360,7 +360,7 @@ Santhavavaggo dutiyo.
 
 
 
-
+3. Kalyāṇavaggo
 
 
 Kalyāṇadhammo  
@@ -525,7 +525,7 @@ Kalyāṇavaggo tatiyo.
 
 
 
-
+4. Asadisavaggo
 
 
 Dhanuggaho  asadiso
@@ -695,7 +695,7 @@ Asadisavaggo catuttho.
 
 
 
-
+5. Ruhakavaggo
 
 
 Api  ruhaka chinnāpī indriyajātake
@@ -855,7 +855,7 @@ Ruhakavaggo pañcamo.
 
 
 
-
+6. Nataṃdaḷhavaggo
 
 
 Na   taṃ daḷhaṃ bandhanamāhu dhīrā
@@ -1040,7 +1040,7 @@ Nataṃdaḷhavaggo chaṭṭho.
 
 
 
-
+7. Bīraṇathambhavaggo
 
 
 Akāsi  yogga 
@@ -1248,7 +1248,7 @@ Bīraṇathambhavaggo sattamo.
 
 
 
-
+8. Kāsāvavaggo
 
 
 Anikkasāvo  kāsāva
@@ -1413,7 +1413,7 @@ Kāsāvavaggo aṭṭhamo.
 
 
 
-
+9. Upāhanavaggo
 
 
 Yathāpi  kītā 
@@ -1582,7 +1582,7 @@ Upāhanavaggo navamo.
 
 
 
-
+10. Siṅgālavaggo
 
 
 Siṅgālo  mānatthaddho 

@@ -1,11 +1,11 @@
 ﻿
-1 kusalapadaṃ
-1-7 paṭiccavārādi
+
+
 
  noāsavaṃ  kusalaṃ dhammaṃ paṭicca noāsavo kusalo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ kamme ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi pañhāvārepi sabbattha ekaṃ)
-2 akusalapadaṃ
+
 
  āsavaṃ akusalaṃ dhammaṃ paṭicca āsavo akusalo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā nava ārammaṇe nava avigate nava (saṃkhittaṃ)
@@ -13,30 +13,30 @@ nahetuyā ekaṃ naadhipatiyā nava nakamme tīṇi navipāke nava navippayutte 
 (sahajātavāropi sampayuttavāropi sabbattha vitthāretabbo)
  āsavo akusalo dhammo āsavassa akusalassa dhammassa hetupaccayena paccayo
  hetuyā  satta ārammaṇe nava adhipatiyā nava (majjhe tiṇṇaṃ sahajātādhipati labbhati)  anantare nava upanissaye nava āsevane  nava kamme tīṇi jhāne tīṇi magge nava avigate nava (saṃkhittaṃ)
-3 abyākatapadaṃ
+
 
  noāsavaṃ abyākataṃ dhammaṃ paṭicca noāsavo abyākato dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ sahajātavārepi paccayavārepi pañhāvārepi sabbattha ekaṃ)
 
-15-1 sāsavaduka-kusalattikaṃ
-1 kusalapadaṃ
+
+
 
  sāsavaṃ kusalaṃ dhammaṃ paṭicca sāsavo kusalo dhammo uppajjati hetupaccayā (1)
 anāsavaṃ kusalaṃ dhammaṃ paṭicca anāsavo kusalo dhammo uppajjati hetupaccayā (1) (saṃkhittaṃ)
  hetuyā  dve ārammaṇe dve adhipatiyā dve avigate dve (saṃkhittaṃ anulomaṃ)
  naadhipatiyā dve naāsevane ekaṃ navippayutte dve (saṃkhittaṃ paccanīyaṃ sahajātavārepi sampayuttavārepi sabbattha dve)
-7 pañhāvāro
+
 
  sāsavo  kusalo dhammo sāsavassa kusalassa dhammassa hetupaccayena paccayo (1)
 anāsavo kusalo dhammo anāsavassa kusalassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā  dve ārammaṇe dve adhipatiyā tīṇi anantare dve nissaye dve upanissaye cattāri āsevane dve avigate dve (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 akusalapadaṃ
+
 
  sāsavaṃ akusalaṃ dhammaṃ paṭicca sāsavo akusalo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi  pañhāvārepi sabbattha ekaṃ)
-3 abyākatapadaṃ
+
 
  sāsavaṃ abyākataṃ dhammaṃ paṭicca sāsavo abyākato dhammo uppajjati hetupaccayā (1)
 anāsavaṃ abyākataṃ dhammaṃ paṭicca anāsavo abyākato dhammo uppajjati hetupaccayā anāsavaṃ abyākataṃ dhammaṃ paṭicca sāsavo abyākato dhammo uppajjati hetupaccayā  anāsavaṃ abyākataṃ dhammaṃ paṭicca sāsavo abyākato ca anāsavo abyākato ca dhammā uppajjanti hetupaccayā (3)
@@ -44,20 +44,20 @@ sāsavaṃ abyākatañca anāsavaṃ abyākatañca dhammaṃ paṭicca sāsavo a
  hetuyā pañca ārammaṇe dve adhipatiyā pañca āsevane ekaṃ vipāke pañca avigate pañca (saṃkhittaṃ)
 nahetuyā ekaṃ naārammaṇe tīṇi naadhipatiyā dve napurejāte cattāri napacchājāte naāsevane pañca nakamme namagge ekaṃ navippayutte dve novigate tīṇi (saṃkhittaṃ)
 (sahajātavāropi sampayuttavāropi sabbattha vitthāretabbo)
-7 pañhāvāro
+
 
  sāsavo  abyākato dhammo sāsavassa abyākatassa dhammassa hetupaccayena paccayo (1)
 anāsavo abyākato dhammo anāsavassa abyākatassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā cattāri ārammaṇe tīṇi adhipatiyā anantare samanantare cattāri sahajāte pañca aññamaññe dve nissaye satta upanissaye cattāri purejāte pacchājāte dve āsevane ekaṃ kamme magge cattāri sampayutte dve vippayutte tīṇi avigate satta (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-16-1 āsavasampayuttaduka-kusalattikaṃ
-1 kusalapadaṃ
-1-7 paṭiccavārādi
+
+
+
 
  āsavavippayuttaṃ  kusalaṃ dhammaṃ paṭicca āsavavippayutto kusalo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ sahajātavārepi pañhāvārepi sabbattha ekaṃ)
-2 akusalapadaṃ
+
 
  āsavasampayuttaṃ akusalaṃ dhammaṃ paṭicca āsavasampayutto akusalo dhammo uppajjati hetupaccayā tīṇi
 āsavavippayuttaṃ akusalaṃ dhammaṃ paṭicca āsavasampayutto akusalo dhammo uppajjati hetupaccayā (1)
@@ -69,7 +69,7 @@ nahetuyā  ekaṃ naadhipatiyā pañca napurejāte pañca nakamme tīṇi navip�
 āsavasampayutto akusalo ca āsavavippayutto akusalo ca dhammā āsavasampayuttassa akusalassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā pañca ārammaṇe nava adhipatiyā ekaṃ anantare samanantare nava sahajāte aññamaññe nissaye pañca upanissaye āsevane nava kamme āhāre indriye jhāne magge tīṇi sampayutte pañca avigate pañca (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 abyākatapadaṃ
+
 
  āsavavippayuttaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto abyākato dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
@@ -78,14 +78,14 @@ nahetuyā  ekaṃ naārammaṇe ekaṃ naadhipatiyā ekaṃ novigate ekaṃ (sa�
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-17-1 āsavasāsavaduka-kusalattikaṃ
-1 kusalapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
  sāsavañceva  no ca āsavaṃ kusalaṃ dhammaṃ paṭicca sāsavo ceva no ca āsavo kusalo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
  hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi pañhāvārepi sabbattha ekaṃ)
-2 akusalapadaṃ
+
 
  āsavañceva  sāsavañca akusalaṃ dhammaṃ paṭicca āsavo ceva sāsavo ca akusalo dhammo uppajjati hetupaccayā tīṇi
 sāsavañceva no ca āsavaṃ akusalaṃ dhammaṃ paṭicca sāsavo ceva no ca āsavo akusalo dhammo uppajjati hetupaccayā tīṇi
@@ -96,7 +96,7 @@ sāsavañceva no ca āsavaṃ akusalaṃ dhammaṃ paṭicca sāsavo ceva no ca 
  sāsavañceva no ca āsavaṃ akusalaṃ dhammaṃ paṭicca āsavo ceva sāsavo ca akusalo dhammo uppajjati nahetupaccayā (saṃkhittaṃ)
  nahetuyā  ekaṃ naadhipatiyā nava napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava navippayutte  nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi vitthāretabbā)
-7 pañhāvāro
+
 
  āsavo  ceva sāsavoca akusalo dhammo āsavassa ceva sāsavassa ca akusalassa dhammassa hetupaccayena paccayo (saṃkhittaṃ)
  hetuyā satta ārammaṇe nava adhipatiyā nava upanissaye āsevane nava kamme āhāre indriye jhāne tīṇi magge sampayutte nava avigate nava (saṃkhittaṃ)
@@ -112,9 +112,9 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
  hetuyā  ekaṃ ārammaṇe ekaṃ avigate ekaṃ (saṃkhittaṃ)
 (sahajātavārepi  pañhāvārepi sabbattha ekaṃ)
 
-18-1 āsavaāsavasampayuttaduka-kusalattikaṃ
-1-6 paṭiccavārādi
-akusalapadaṃ
+
+
+
 
  āsavañceva  āsavasampayuttañca akusalaṃ dhammaṃ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati hetupaccayā tīṇi
 āsavasampayuttañceva no ca āsavaṃ akusalaṃ dhammaṃ paṭicca āsavasampayutto ceva no ca āsavo akusalo dhammo uppajjati hetupaccayā tīṇi
@@ -125,7 +125,7 @@ akusalapadaṃ
  āsavañceva  āsavasampayuttañca akusalaṃ dhammaṃ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati naadhipatipaccayā
  naadhipatiyā nava napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava navippayutte nava (saṃkhittaṃ)
 (sahajātavārepi sampayuttavārepi sabbattha nava)
-7 pañhāvāro
+
 
 
  āsavo ceva āsavasampayutto ca akusalo dhammo āsavassa ceva āsavasampayuttassa ca akusalassa dhammassa hetupaccayena paccayo (saṃkhittaṃ)
@@ -135,13 +135,13 @@ hetupaccayā naārammaṇe cattāri (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-19-1 āsavavippayuttasāsavaduka-kusalattikaṃ
-kusalapadaṃ
+
+
 
  āsavavippayuttaṃ sāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto sāsavo kusalo dhammo uppajjati hetupaccayā āsavavippayuttaṃ anāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto anāsavo kusalo dhammo uppajjati hetupaccayā (2) (saṃkhittaṃ)
  hetuyā  dve ārammaṇe dve avigate dve (saṃkhittaṃ)
 (sahajātavāropi pañhāvāropi vitthāretabbo)
-abyākatapadaṃ
+
 
  āsavavippayuttaṃ sāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto sāsavo abyākato dhammo uppajjati hetupaccayā (1)
 āsavavippayuttaṃ anāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto anāsavo abyākato dhammo uppajjati hetupaccayā āsavavippayuttaṃ anāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto sāsavo abyākato dhammo uppajjati hetupaccayā āsavavippayuttaṃ anāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto sāsavo abyākato ca āsavavippayutto anāsavo abyākato ca dhammā uppajjanti hetupaccayā (3)
@@ -152,7 +152,7 @@ abyākatapadaṃ
  āsavavippayuttaṃ sāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto sāsavo abyākato dhammo uppajjati nahetupaccayā (saṃkhittaṃ)
  nahetuyā ekaṃ naārammaṇe tīṇi naadhipatiyā dve   napurejāte cattāri napacchājāte naāsevane pañca nakamme navipāke namagge ekaṃ navippayutte dve novigate tīṇi (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  āsavavippayutto sāsavo abyākato dhammo āsavavippayuttassa sāsavassa abyākatassa dhammassa hetupaccayena paccayo

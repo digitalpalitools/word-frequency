@@ -1,5 +1,5 @@
 ﻿
-1 lasuṇavaggo
+
 
 nti  kiñcāpi avisesena vuttaṃ tathāpi magadhesu jātaṃ lasuṇameva idhādhippetaṃ tampi bhaṇḍikalasuṇamevāti āha ntiādi
 nti poṭṭalikalasuṇameva sampuṇṇamiñjānametaṃ adhivacanaṃ tenāha nti ti (pāci aṭṭha 795) ettha sace dve tayo bhaṇḍike ekatoyeva saṅkhāditvā ajjhoharati ekaṃ pācittiyaṃ bhañjitvā ekekamiñjakaṃ khādantiyā pana payogagaṇanāya pācittiyāni
@@ -38,7 +38,7 @@ nti naṭādayo vā naccantu soṇḍā vā antamaso morasuvamakkaṭādayopi sa
 nanu ca sayaṃnaccanādīsu pācittiyaṃ pāḷiyaṃ na vuttaṃ atha kathaṃ gahetabbanti āha nti iminā pāḷiyaṃ avuttepi aṭṭhakathāpamāṇena gahetabbanti dasseti ti pana mātikāgatapācittiyasseva vasena vuttaṃ sabbesaṃ vasena pana chasamuṭṭhānanti gahetabbaṃ ti idaṃ nidassanamattaṃ sesairiyāpathehi yuttāya passantiyā anāpattiyā icchitabbattā itarathā hi nisinnāpi passituṃ na labheyya passissāmīti vihārato vihāraṃ gacchantiyā āpattiyeva āsanasālāya nisinnā passati anāpatti passissāmīti uṭṭhahitvā gacchantiyā āpatti vīthiyaṃ ṭhatvā gīvaṃ parivattetvā passantiyāpi āpattiyeva bhikkhussāpi eseva nayo āpattibhedova nānaṃ
 
 
-2 rattandhakāravaggo
+
 
 ti  narahoassādāpekkhāya ti rahoassādato aññavihitāva hutvā ñātiṃ vā pucchantiyā dāne vā pūjāya vā mantentiyā
 
@@ -67,7 +67,7 @@ ti kāṇā homi kuṇī homi itarā vā īdisā hotūtiādinā manussavirūpabh
 dasamaṃ uttānatthameva
 
 
-3 naggavaggo
+
 
 nti  idaṃ udakasāṭikacīvaraṃ
 dutiyaṃ uttānatthameva
@@ -90,7 +90,7 @@ aṭṭhamanavamāni  uttānatthāneva
 nti dhammike vematikāyātiādikaṃ avasesaṃ tattha ti bhikkhunisaṅgho jiṇṇacīvaro kathinānisaṃsamūlako mahālābhoti (pāci aṭṭha 931) evarūpaṃ ānisaṃsaṃ dassetvā paṭibāhantiyā anāpatti
 
 
-4 tuvaṭṭavaggo
+
 
 paṭhamaṃ uttānatthameva
 ti (pāci aṭṭha 940) majjhe kāsāyaṃ vā kattarayaṭṭhiṃ vā antamaso kāyabandhanampi ṭhapetvā nipajjantīnaṃ anāpattīti attho
@@ -104,7 +104,7 @@ pañcamachaṭṭhasattama  aṭṭhamanavamāni uttānatthāneva
 ti sace dhuraṃ nikkhipitvā pacchā pakkamati āpattiyevāti attho ti dasavidhesu antarāyesu aññatarasmiṃ sati gacchissāmīti nikkhantā nadī vā pūrā vanadāho vā āgato corā vā magge honti megho vā uṭṭhahati nivattituṃ vaṭṭati
 
 
-5 cittāgāravaggo
+
 
 nti na raññova kīḷanacittasālaṃ atha kho yesaṃ kesañci manussānaṃ kīḷanatthaṃ yattha katthaci katasālaṃ esa nayo ntiādīsupi yathāha rājāgāraṃ nāma yattha katthaci rañño kīḷituṃ ramituṃ kataṃ hotītiādiko (pāci 979) vitthāro tattha nti kīḷanatthaṃ antonagare kataṃ ārāmaṃ nti tatheva bahinagare kataṃ uyyānaṃ
 
@@ -134,7 +134,7 @@ nti dvārabaddhavihāraṃ ti vacībhedaṃ kātuṃ asamatthāya ti raṭṭhe 
 ti likhasippe ti dhāraṇasatthe yasmiṃ vuttanayena paṭipajjantā bahūnipi ganthāni dhārenti ti ettha  nāma sappānaṃ pavesanivāraṇatthaṃ maṇḍalabaddhamanto
 
 
-6 ārāmavaggo
+
 
 ti  sīsaṃ anulokentiyā ti yattha bhikkhuniyo paṭhamataraṃ sajjhāyanacetiyavandanādiatthaṃ sannipatitā ti kenaci upaddutā hoti evarūpāsu āpadāsu pavisituṃ vaṭṭati
 dutiyaṃ uttānatthameva
@@ -156,7 +156,7 @@ uposathassa pucchanaṃ  sāvakapaccayaṃ rassattañca katvā nti vuttāti āha
 dasamaṃ uttānatthameva
 
 
-7 gabbhinīvaggo
+
 
 paṭhamaṃ  uttānatthameva
 thane bhavaṃ  khīraṃ ti yaṃ dārakaṃ pāyeti
@@ -173,7 +173,7 @@ dasavassāya  gihigatāya sikkhāsammutiṃ datvā paripuṇṇadvādasavassaṃ
 sattamaaṭṭhamanavamadasamāni uttānatthāneva
 
 
-8 kumāribhūtavaggo
+
 
 ti gabbhinivagge vuttā dve sikkhamānā ti sammutikammādīsu evaṃ vattabbā ti sace vadanti kammaṃ kuppatīti adhippāyo
 catutthapañcamāni uttānatthāneva
@@ -198,7 +198,7 @@ nti ekena vassena antarikaṃ katvā
 mātikāyaṃ ti ekantarike ekekasmiṃ saṃvacchare dve ti imasmiṃ vasse ekaṃ puna ekantarikaṃ ekanti dve vuṭṭhāpentiyā anāpatti
 
 
-9 chattupāhanavaggo
+
 
 nti chattaṃ nāma tīṇi chattāni  setacchattaṃ kilañjacchattaṃ paṇṇacchattaṃ maṇḍalabaddhaṃ salākabaddhanti (pāci 1181) evaṃ padabhājane vuttalakkhaṇaṃ chattaṃ ti gacchakaddamādīsu taṃ taṃ ṭhānaṃ patvā
 ti kaddamādīni patvā upāhanā omuñcitvā chattasseva dhāraṇaṃ ti gacchādīni disvā chattaṃ apanāmetvā upāhanānaṃyeva dhāraṇaṃ

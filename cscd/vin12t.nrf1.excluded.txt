@@ -1,5 +1,5 @@
 ﻿Bhikkhunīvibhaṅgo
-
+1. Pārājikakaṇḍaatthayojanā
  
 
 Yo Vibhaṅgassā Assā Tassā Yato apubbapadavaṇṇanā,
@@ -24,7 +24,7 @@ Tissitthiyo Na seve Tayo purise Tayo ca anariyapaṇḍake Na cācare methunaṃ
 Sādhāraṇā Etthā
 Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 Bhikkhunivibhaṅge pārājikakaṇḍavaṇṇanāya yojanā samattā.
-
+2. Saṅghādisesakaṇḍaṃ
 1. Paṭhamasaṅghādisesasikkhāpada-atthayojanā
 Pārājikānantarassā  Ayaṃ anuttānatthavaṇṇanā dāni
 678 .  udosito uda Bhaṇḍasālā Accāvadathā
@@ -71,7 +71,7 @@ Etthā Taṃ panā
 Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 
 Sattarasakavaṇṇanāya yojanā samattā.
-
+3. Nissaggiyakaṇḍaṃ
 1. Paṭhamanissaggiyapācittiyasikkhāpada-atthayojanā
 dāni
 733 .  āmattikāpaṇa ‘‘amattānī’’ ‘‘āmattikā’’ ‘‘tānī’’ Tesa Taṃ vā
@@ -106,8 +106,8 @@ Idampī
 Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 
 Tiṃsakavaṇṇanāya yojanā samattā.
-
-
+4. Pācittiyakaṇḍaṃ
+1. Lasuṇavaggo
 1. Paṭhamasikkhāpada-atthayojanā
 Tiṃsakānantaraṃ  chasaṭṭhisatasaṅgahā dāni
 793 . Tatthā Phoṭalake Eta matta Lasuṇa lasuṇa
@@ -142,7 +142,7 @@ Suvaṇṇahaṃsayoni Jātissaro  Athā Pubbasinehenā Tāsa Taṃ panā
 836 . Tesaṃyevā  Aññato Upahāra Upaṭṭhāna Sabbatthā
 837 . Antarārāme vā Bahiārāme vā Aññena vā Tādisenā
 Lasuṇavaggo paṭhamo.
-
+2. Andhakāravaggo
 1. Paṭhamasikkhāpada-atthayojanā
 839 . appadīpe Assā
 841 . Dānena vā pūjāya vā
@@ -167,7 +167,7 @@ Lasuṇavaggo paṭhamo.
 10. Dasamasikkhāpadaṃ
 879 .
 Andhakāravaggo dutiyo.
-
+3. Naggavaggo
 1. Paṭhamasikkhāpada-atthayojanā
 883 .  brahmacariyena ciṇṇenā ciṇṇa
 2. Dutiyasikkhāpadaṃ
@@ -190,7 +190,7 @@ Andhakāravaggo dutiyo.
 10. Dasamasikkhāpadaṃ
 927 . yassā Ubbhāramūlako Saddhāparipālanattha
 Naggavaggo tatiyo.
-
+4. Tuvaṭṭavaggo
 1. Paṭhamasikkhāpada-atthayojanā
 933 .
 2. Dutiyasikkhāpadaṃ
@@ -209,7 +209,7 @@ Naggavaggo tatiyo.
 973 . ahundarikā
 975 .  Paccāgacchatī
 Tuvaṭṭavaggo catuttho.
-
+5. Cittāgāravaggo
 1. Paṭhamasikkhāpada-atthayojanā
 978 . rājāgāra cittāgāraṃ. Ārāma Uyyāna Pokkharaṇi Pañcapī Sabbatthā
 981 .  Tānī
@@ -235,7 +235,7 @@ Tuvaṭṭavaggo catuttho.
 10. Dasamasikkhāpadaṃ
 1018 . 
 Cittāgāravaggo pañcamo.
-
+6. Ārāmavaggo
 1. Paṭhamasikkhāpada-atthayojanā
 1025 . upacāra
 1027 .  Yatthā
@@ -254,7 +254,7 @@ Cittāgāravaggo pañcamo.
 1062 . Hī Tato
 1065 . Phālehī  iti Āṇattidukkaṭānī Sesesū
 Ārāmavaggo chaṭṭho.
-
+7. Gabbhinivaggo
 1. Paṭhamasikkhāpada-atthayojanā
 1069 . kucchipaviṭṭhasattā gabbhinī
 2. Dutiyasikkhāpadaṃ
@@ -269,7 +269,7 @@ Cittāgāravaggo pañcamo.
 10. Dasamasikkhāpadaṃ
 1116 . vūpakāseyyā
 Gabbhinivaggo sattamo.
-
+8. Kumāribhūtavaggo
 1-2-3. Paṭhama-dutiya-tatiyasikkhāpada-atthayojanā
 1119 .  Sabbapaṭhamā dve mahāsikkhamānā Tā panā Sikkhamānāicceva vattabbā  Gihigatāyā Kumāribhūtā Tissopī Sikkhamānā
 4. Catutthasikkhāpadaṃ
@@ -292,7 +292,7 @@ Tatrā nakkhattapāṭhako. Dāruṇa Te Tassā
 13. Terasamasikkhāpadaṃ
 1175 . ekaṃ vassa
 Kumāribhūtavaggo aṭṭhamo.
-
+9. Chattupāhanavaggo
 1. Paṭhamasikkhāpada-atthayojanā
 1181 .  kaddamādīnī Gacchādīnī
 2. Dutiyasikkhāpadaṃ

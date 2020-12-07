@@ -1,5 +1,5 @@
 ﻿3. Tikanipāto
-
+1. Saṅkappavaggo
 
 
 Saṅkapparāgadhotenā    
@@ -270,7 +270,7 @@ Saṅkappavaggo paṭhamo.
 
 
 
-
+2. Padumavaggo
 
 
 Yathā  kesā ca massū cā kāliṅgabodhijātake  
@@ -529,7 +529,7 @@ Padumavaggo dutiyo.
 
 
 
-
+3. Udapānavaggo
 
 
 Āraññikassa   isino
@@ -765,7 +765,7 @@ Udapānavaggo tatiyo.
 
 
 
-
+4. Abbhantaravaggo
 
 
 Abbhantaro  nāma dumo nandakovādaṃ
@@ -1010,7 +1010,7 @@ Abbhantaravaggo catuttho.
 
 
 
-
+5. Kumbhavaggo
 
 
 Sabbakāmadadaṃ   kumbha

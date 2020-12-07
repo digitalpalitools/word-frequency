@@ -1,5 +1,5 @@
 ﻿12. Saccasaṃyuttaṃ
-
+1. Samādhivaggo
 1. Samādhisuttaṃ
 1071 .    
 
@@ -41,7 +41,7 @@ Samādhivaggo paṭhamo.
 
 
 
-
+2. Dhammacakkappavattanavaggo
 1. Dhammacakkappavattanasuttaṃ
 1081 .   
 
@@ -100,7 +100,7 @@ Dhammacakkappavattanavaggo dutiyo.
 
 
 
-
+3. Koṭigāmavaggo
 1. Paṭhamakoṭigāmasuttaṃ
 1091 . 
  
@@ -154,7 +154,7 @@ Koṭigāmavaggo tatiyo.
 
 
 
-
+4. Sīsapāvanavaggo
 1. Sīsapāvanasuttaṃ
 1101 .   siṃsapāvane (sī. pī.) 
 
@@ -203,7 +203,7 @@ Sīsapāvanavaggo catuttho.
 
 
 
-
+5. Papātavaggo
 1. Lokacintāsuttaṃ
 1111 .   caturaṅginisenaṃ (ka.) bhisamūlālaṃ (pī. ka.)
  
@@ -258,7 +258,7 @@ Papātavaggo pañcamo.
 
 
 
-
+6. Abhisamayavaggo
 1. Nakhasikhasuttaṃ
 1121 .    
 
@@ -285,7 +285,7 @@ Abhisamayavaggo chaṭṭho.
 
 
 
-
+7. Paṭhamaāmakadhaññapeyyālavaggo
 1. Aññatrasuttaṃ
 1131 .  
 manussesu (pī. ka.)
@@ -313,7 +313,7 @@ Paṭhamaāmakadhaññapeyyālavaggo sattamo.
 
 
 
-
+8. Dutiyaāmakadhaññapeyyālavaggo
 1. Pāṇātipātasuttaṃ
 1141 . 
 2. Adinnādānasuttaṃ
@@ -338,7 +338,7 @@ Dutiyaāmakadhaññapeyyālavaggo aṭṭhamo.
 
 
 
-
+9. Tatiyaāmakadhaññapeyyālavaggo
 1. Naccagītasuttaṃ
 1151 . 
  
@@ -364,7 +364,7 @@ Tatiyaāmakadhaññapeyyālavaggo navamo.
 
 
 
-
+10. Catutthaāmakadhaññapeyyālavaggo
 1. Khettavatthusuttaṃ
 1161 .  
 2. Kayavikkayasuttaṃ
@@ -382,7 +382,7 @@ Catutthaāmakadhaññapeyyālavaggo dasamo.
 
 
 
-
+11. Pañcagatipeyyālavaggo
 1. Manussacutinirayasuttaṃ
 1172 . 
 2. Manussacutitiracchānasuttaṃ

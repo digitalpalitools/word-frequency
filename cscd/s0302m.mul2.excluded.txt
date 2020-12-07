@@ -1,5 +1,5 @@
 ﻿3. Dhātusaṃyuttaṃ
-
+1. Nānattavaggo
 1. Dhātunānattasuttaṃ
 85 .    
 
@@ -42,7 +42,7 @@ Nānattavaggo paṭhamo.
  
 
 
-
+2. Dutiyavaggo
 1. Sattadhātusuttaṃ
 95 .   
 
@@ -127,7 +127,7 @@ Dutiyo vaggo.
 
 
 
-
+3. Kammapathavaggo
 1. Asamāhitasuttaṃ
 107 .  
 
@@ -153,7 +153,7 @@ Dutiyo vaggo.
 
 
 Kammapathavaggo tatiyo.
-
+4. Catutthavaggo
 1. Catudhātusuttaṃ
 114 . 
 2. Pubbesambodhasuttaṃ

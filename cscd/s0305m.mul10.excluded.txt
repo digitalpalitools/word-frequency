@@ -1,5 +1,5 @@
 ﻿11. Sotāpattisaṃyuttaṃ
-
+1. Veḷudvāravaggo
 1. Cakkavattirājasuttaṃ
 997 .     cakkavatti (syā. kaṃ. pī. ka.) aparimutto ca (syā. kaṃ. ka.) parimutto ca (syā. kaṃ. ka.)
    
@@ -77,7 +77,7 @@ Veḷudvāravaggo paṭhamo.
 
 
 
-
+2. Rājakārāmavaggo
 1. Sahassabhikkhunisaṅghasuttaṃ
 1007 .  sahasso bhikkhunisaṃgho (sī.)
 
@@ -116,7 +116,7 @@ Rājakārāmavaggo dutiyo.
 
 
 
-
+3. Saraṇānivaggo
 1. Paṭhamamahānāmasuttaṃ
 1017 .    vibbhantenapi (sī.), bhamantenapi (ka.)  musateva (?) musati (?)
 kālakiriyā (sī. syā. kaṃ.) cātummahābhūtiko (sī. syā. kaṃ.)   sigālā (sī. syā. kaṃ. pī.)
@@ -215,7 +215,7 @@ Saraṇānivaggo tatiyo.
 
 
 
-
+4. Puññābhisandavaggo
 1. Paṭhamapuññābhisandasuttaṃ
 1027 .   
 
@@ -266,7 +266,7 @@ Puññābhisandavaggo catuttho.
 
 
 
-
+5. Sagāthakapuññābhisandavaggo
 1. Paṭhamaabhisandasuttaṃ
 1037 .  
 
@@ -329,7 +329,7 @@ Sagāthakapuññābhisandavaggo pañcamo.
 
 
 
-
+6. Sappaññavaggo
 1. Sagāthakasuttaṃ
 1047 . 
 
@@ -376,7 +376,7 @@ Sappaññavaggo chaṭṭho.
 
 
 
-
+7. Mahāpaññavaggo
 1. Mahāpaññāsuttaṃ
 1058 .  
 2. Puthupaññāsuttaṃ

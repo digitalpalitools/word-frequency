@@ -2,7 +2,7 @@
 Saṃyuttanikāye
 Mahāvagga-aṭṭhakathā
 1. Maggasaṃyuttaṃ
-
+1. Avijjāvaggo
 1-2. Avijjāsuttādivaṇṇanā
 1-2 .    pubbaṅgamā Samāpattiyā Anvadeva ahirikaṃ anottappa Avijjāgatassā Micchādiṭṭhī Pahotī Micchāsaṅkappā 
  
@@ -47,7 +47,7 @@ Sammāsati sammāsati
 10. Nandiyasuttavaṇṇanā
 10 .  paribbājako
 Avijjāvaggo paṭhamo.
-
+2. Vihāravaggo
 1. Paṭhamavihārasuttavaṇṇanā
 11 .  icchāmahaṃ, bhikkhave, aḍḍhamāsaṃ paṭisallīyitu Namhi kenaci upasaṅkamitabbo aññatra ekena piṇḍapātanīhārakenā 
 
@@ -63,23 +63,23 @@ Chando ca avūpasanto Appattassa pattiyā Atthi āyāma Tasmimpi ṭhāne anuppa
 8-10. Paṭhamakukkuṭārāmasuttādivaṇṇanā
 18-20 .  ummaṅgo Evañhi tvaṃ āvuso
 Vihāravaggo dutiyo.
-
+3. Micchattavaggavaṇṇanā
 21-30 . micchatta Sammatta Micchāpaṭipattādhikaraṇahetū Nārādhako  Ñāyaṃ dhamma Micchāñāṇī Micchāvimuttī Suppavattiyo  Saupanisaṃ saparikkhāra
 Micchattavaggo tatiyo.
-
+4. Paṭipattivaggavaṇṇanā
 31-40 . micchāpaṭipatti Micchāpaṭipanna Apārā pāra Pāragāmino
 Tīramevānudhāvatī Kaṇha Sukka Okā anoka Āgammā  Pariyodapeyyā Cittaklesehī Sambodhiyaṅgesū
 Sāmaññattha Brahmañña Brahmaññattha
 Paṭipattivaggo catuttho.
-
+5. Aññatitthiyapeyyālavaggavaṇṇanā
 41-48 .  addhānapariññattha  Anupādāparinibbānattha
 Aññatitthiyapeyyālavaggo.
-
+6. Sūriyapeyyālavaggavaṇṇanā
 49-62 . Sīlasampadā Chandasampadā Attasampadā Diṭṭhisampadā Appamādasampadā Yonisomanasikārasampadā kalyāṇamittatā 
 Sūriyapeyyālavaggo.
-
+7. Ekadhammapeyyālavaggādivaṇṇanā
 63-138 .
-
+8. Appamādapeyyālavaggo
 1. Tathāgatasuttavaṇṇanā
 139 . evameva kho  sabbe te appamādamūlakā
 2. Padasuttavaṇṇanā
@@ -87,7 +87,7 @@ Sūriyapeyyālavaggo.
 3-10. Kūṭasuttādivaṇṇanā
 141-148 . Vassika  Kuṭṭarājāno Tantāvutāna
 Appamādavaggo aṭṭhamo.
-
+9. Balakaraṇīyavaggo
 1. Balasuttavaṇṇanā
 149 .  balakaraṇīyā Sīle patiṭṭhāyā Aṭṭhaṅgikaṃ magga
 2. Bījasuttavaṇṇanā
@@ -107,13 +107,13 @@ Evameva kho
 11-12. Āgantukasuttādivaṇṇanā
 159-160 . Āgantukāgāra Abhiññā pariññeyyā
 Balakaraṇīyavaggo navamo.
-
+10. Esanāvaggo
 1. Esanāsuttavaṇṇanā
 161 .  kāmesanā Bhavesanā Brahmacariyesanā
 2-11. Vidhāsuttādivaṇṇanā
 162-171 . Vidhā Seyyohamasmīti vidhā Nīghā
 Esanāvaggo dasamo.
-
+11. Oghavaggo
 1-2. Oghasuttādivaṇṇanā
 172-173 .   kāmogho Bhavogho Diṭṭhogho Avijjogho Kāmayogā
 3-4. Upādānasuttādivaṇṇanā

@@ -1,5 +1,5 @@
 ﻿1-99. Kusalattika-sauttaradukaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 53 .
 
@@ -11,7 +11,7 @@ Paccayacatukkaṃ
 
 
 56 .
-
+Anuttarapadaṃ
 Hetu-ārammaṇapaccayā
 57 .
 
@@ -22,8 +22,8 @@ Hetu-ārammaṇapaccayā
 
 59 .
 
-
-
+1-100. Kusalattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 60 .  
 
@@ -39,8 +39,8 @@ Paccayacatukkaṃ
 64 . 
 
 Kusalattikapiṭṭhidukaṃ niṭṭhitaṃ.
-
-
+2-100. Vedanāttika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 65 . 
 
@@ -61,8 +61,8 @@ Hetupaccayo
 
 71 .
 
-
-
+3-100. Vipākattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 72 .
 
@@ -78,8 +78,8 @@ Paccayacatukkaṃ
 
 76 .
 
-
-
+4-100. Upādinnattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 77 .   
@@ -96,8 +96,8 @@ Hetupaccayo
 
 81 .  
 
-
-
+5-100. Saṃkiliṭṭhattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 82 .
@@ -111,8 +111,8 @@ Hetupaccayo
 
 86 . 
 
-
-
+6-100. Vitakkattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 87 . 
@@ -124,8 +124,8 @@ Hetupaccayo
 
 
 90 . 
-
-
+7-100. Pītittika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 91 . 
 
@@ -141,8 +141,8 @@ Paccayacatukkaṃ
 94 .
 
 
-
-
+8-100. Dassanattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 95 .
 
@@ -151,12 +151,12 @@ Paccayacatukkaṃ
 96 . 
 
 
-
-
+9-100. Dassanahetuttika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 97 .  
-
-
+10-100. Ācayagāmittika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetu-ārammaṇapaccayā
 98 .
 
@@ -173,8 +173,8 @@ Hetu-ārammaṇapaccayā
 
 102 .
 
-
-
+11-100. Sekkhattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 103 .  
 
@@ -191,8 +191,8 @@ Hetupaccayo
 
 107 .
 
-
-
+11 -100. Parittattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 108 .
 
@@ -204,8 +204,8 @@ Hetupaccayo
 
 110 .
 
-
-
+13 -100. Parittārammaṇattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 111 .
 
@@ -216,8 +216,8 @@ Hetupaccayo
 
 
 
-
-
+14 -100. Hīnattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 113 .  
 
@@ -226,8 +226,8 @@ Hetupaccayo
 
 
 
-
-
+15-100. Micchattaniyatattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 115 . 
 
@@ -237,8 +237,8 @@ Hetupaccayo
 
 
 
-
-
+16-100. Maggārammaṇattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 117 . 
 
@@ -254,23 +254,23 @@ Hetupaccayo
 
 119 .
 
-
-
+17-100. Uppannattika-saraṇadukaṃ
+7. Pañhāvāro
 Hetu-ārammaṇapaccayā
 120 .
 
 121 .
  
-
-
+18-100. Atītattika-saraṇadukaṃ
+7. Pañhāvāro
 Hetupaccayo
 122 . 
 
 123 .
 
 
-
-
+19-100. Atītārammaṇattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetu-ārammaṇapaccayā
 124 .
 
@@ -287,8 +287,8 @@ Hetu-ārammaṇapaccayā
 
 
 127 .
-
-
+20-100. Ajjhattattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 128 .  
 
@@ -298,8 +298,8 @@ Hetupaccayo
 
 
 
-
-
+21-100. Ajjhattārammaṇattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 130 .
 
@@ -309,8 +309,8 @@ Hetupaccayo
 
 
 
-
-
+22-100. Sanidassanattika-saraṇadukaṃ
+1-7. Paṭiccavārādi
 Hetupaccayo
 132 . 
 

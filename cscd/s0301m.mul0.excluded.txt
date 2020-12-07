@@ -2,7 +2,7 @@
 Saṃyuttanikāyo
 Sagāthāvaggo
 1. Devatāsaṃyuttaṃ
-
+1. Naḷavaggo
 1. Oghataraṇasuttaṃ
 1 .       nivuyhāmi (syā. kaṃ. ka.)
 
@@ -82,7 +82,7 @@ Naḷavaggo paṭhamo.
 
 
 
-
+2. Nandanavaggo
 1. Nandanasuttaṃ
 11 .  
 paricāriyamānā (syā. kaṃ. ka.)
@@ -198,7 +198,7 @@ Nandanavaggo dutiyo.
 
 
 
-
+3. Sattivaggo
 1. Sattisuttaṃ
 21 .   
 ḍayhamāneva (sabbattha)
@@ -298,7 +298,7 @@ Sattivaggo tatiyo.
 
 
 
-
+4. Satullapakāyikavaggo
 1. Sabbhisuttaṃ
 31 .   
 krubbetha (ka.)
@@ -530,7 +530,7 @@ Satullapakāyikavaggo catuttho.
 
 
 
-
+5. Ādittavaggo
 1. Ādittasuttaṃ
 41 .  
 
@@ -655,7 +655,7 @@ bahudantī ca piṅgayo (sī.)
 
 
 
-
+6. Jarāvaggo
 1. Jarāsuttaṃ
 51 .
  
@@ -722,7 +722,7 @@ Jarāvaggo chaṭṭho.
 
  
 
-
+7. Addhavaggo
 1. Nāmasuttaṃ
 61 .
   anvabhavi (sī.)
@@ -787,7 +787,7 @@ Addhavaggo anvavaggo (sī.) sattamo.
 
 
 
-
+8. Chetvāvaggo
 1. Chetvāsuttaṃ
 71 . 
 jhatvā (sī.), ghatvā (syā. kaṃ.) evamuparipi

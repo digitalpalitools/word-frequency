@@ -30,12 +30,12 @@ nahetuyā pannarasa naārammaṇe pannarasa (saṃkhittaṃ)
 hetupaccayā naārammaṇe satta (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 
-1-8 kusalattika-saṅkhatadukaṃ
-1-7 paṭiccavārādi
+
+
 
  kusalaṃ  saṅkhataṃ dhammaṃ paṭicca kusalo saṅkhato dhammo uppajjati hetupaccayā (sappaccayadukasadisaṃ)
-1-9 kusalattika-sanidassanadukaṃ
-1-7 paṭiccavārādi
+
+
 
  kusalaṃ anidassanaṃ dhammaṃ paṭicca kusalo anidassano dhammo uppajjati hetupaccayā tīṇi
 akusalaṃ  anidassanaṃ dhammaṃ paṭicca akusalo anidassano dhammo uppajjati hetupaccayā tīṇi
@@ -59,8 +59,8 @@ akusalo anidassano dhammo akusalassa anidassanassa dhammassa ārammaṇapaccayen
 abyākato anidassano dhammo abyākatassa anidassanassa dhammassa ārammaṇapaccayena paccayo tīṇi (saṃkhittaṃ)
  hetuyā satta ārammaṇe nava adhipatiyā dasa anantare satta upanissaye nava avigate terasa (saṃkhittaṃ)
 (yathā  kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-10 kusalattika-sappaṭighadukaṃ
-1-7 paṭiccavārādi
+
+
 
 
  abyākataṃ  sappaṭighaṃ dhammaṃ paṭicca abyākato sappaṭigho dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -86,8 +86,8 @@ abyākataṃ appaṭighaṃ dhammaṃ paṭicca abyākato appaṭigho dhammo upp
 akusalo appaṭigho dhammo akusalassa appaṭighassa dhammassa hetupaccayena paccayo tīṇi
 abyākato appaṭigho dhammo abyākatassa appaṭighassa dhammassa hetupaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā satta ārammaṇe nava adhipatiyā dasa avigate terasa (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-11 kusalattika-rūpīdukaṃ
-1-7 paṭiccavārādi
+
+
 
 
  abyākataṃ  rūpiṃ dhammaṃ paṭicca abyākato rūpī dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -108,7 +108,7 @@ akusalo arūpī dhammo akusalassa arūpissa dhammassa ārammaṇapaccayena pacca
 abyākato arūpī  dhammo abyākatassa arūpissa dhammassa ārammaṇapaccayena paccayo (saṃkhittaṃ)
  hetuyā tīṇi ārammaṇe nava adhipatiyā satta avigate tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-12 kusalattika-lokiyadukaṃ
+
 
 
 
@@ -131,8 +131,8 @@ abyākato lokiyo dhammo abyākatassa lokiyassa dhammassa hetupaccayena paccayo (
 akusalo lokiyo dhammo akusalassa lokiyassa dhammassa ārammaṇapaccayena paccayo tīṇi
 abyākato lokiyo dhammo abyākatassa lokiyassa dhammassa ārammaṇapaccayena paccayo tīṇi (saṃkhittaṃ)
  hetuyā  satta ārammaṇe nava adhipatiyā nava avigate terasa (saṃkhittaṃ yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-lokuttarapadaṃ
-1-7 paṭiccavārādi
+
+
 
 
  kusalaṃ lokuttaraṃ dhammaṃ paṭicca kusalo lokuttaro dhammo  uppajjati hetupaccayā (1)
@@ -149,8 +149,8 @@ kusalo lokuttaro dhammo abyākatassa lokuttarassa dhammassa anantarapaccayena pa
 abyākato lokuttaro dhammo abyākatassa lokuttarassa dhammassa anantarapaccayena paccayo (1) (saṃkhittaṃ)
  hetuyā  dve ārammaṇe dve adhipatiyā tīṇi anantare dve samanantare dve sahajāte dve aññamaññe dve nissaye dve upanissaye cattāri avigate dve (saṃkhittaṃ)
 (yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ)
-1-13 kusalattika-kenaciviññeyyadukaṃ
-1-7 paṭiccavārādi
+
+
 
  kusalaṃ kenaci viññeyyaṃ dhammaṃ paṭicca kusalo kenaci viññeyyo dhammo uppajjati hetupaccayā kusalaṃ kenaci viññeyyaṃ dhammaṃ paṭicca abyākato kenaci viññeyyo dhammo uppajjati hetupaccayā kusalaṃ kenaci viññeyyaṃ dhammaṃ paṭicca kusalo kenaci viññeyyo ca abyākato kenaci viññeyyo ca dhammā uppajjanti hetupaccayā (3)
 akusalaṃ  kenaci viññeyyaṃ dhammaṃ paṭicca akusalo kenaci viññeyyo dhammo uppajjati hetupaccayā tīṇi

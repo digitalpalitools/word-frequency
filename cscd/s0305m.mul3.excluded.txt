@@ -1,5 +1,5 @@
 ﻿4. Indriyasaṃyuttaṃ
-
+1. Suddhikavaggo
 1. Suddhikasuttaṃ
 471 .    
 2. Paṭhamasotāpannasuttaṃ
@@ -34,7 +34,7 @@ Suddhikavaggo paṭhamo.
 
 
 
-
+2. Mudutaravaggo
 1. Paṭilābhasuttaṃ
 481 . 
 
@@ -64,7 +64,7 @@ Mudutaravaggo dutiyo.
 
 
 paṭipanno cūpasamo (syā. kaṃ. pī. ka.)
-
+3. Chaḷindriyavaggo
 1. Punabbhavasuttaṃ
 491 .   abhisambuddho paccaññāsiṃ (sī. syā. kaṃ.)  cetovimutti (sī. pī. ka.)
 2. Jīvitindriyasuttaṃ
@@ -90,7 +90,7 @@ Chaḷindriyavaggo tatiyo.
 
 
 
-
+4. Sukhindriyavaggo
 1. Suddhikasuttaṃ
 501 .  
 2. Sotāpannasuttaṃ
@@ -144,7 +144,7 @@ Sukhindriyavaggo catuttho.
 
 
 
-
+5. Jarāvaggo
 1. Jarādhammasuttaṃ
 511 . 
  
@@ -200,7 +200,7 @@ Jarāvaggo pañcamo.
 
 
 saddhena te dasāti (syā. kaṃ. ka.)
-
+6. Sūkarakhatavaggo
 1. Sālasuttaṃ
 521 .   sūriyena (sī. syā. kaṃ.)
 
@@ -238,7 +238,7 @@ Sūkarakhatavaggo chaṭṭho.
 
 
 
-
+7. Bodhipakkhiyavaggo
 1. Saṃyojanasuttaṃ
 531 .   saṃyojanānaṃ pahānāya (syā. ka.)
 2. Anusayasuttaṃ
@@ -264,7 +264,7 @@ Bodhipakkhiyavaggo sattamo.
 
 
 
-
+8. Gaṅgāpeyyālavaggo
 1-12. Pācīnādisuttadvādasakaṃ
 541-552 .  
 Gaṅgāpeyyālavaggo aṭṭhamo.
@@ -283,14 +283,14 @@ Esanāvaggo vitthāretabbo.
 
 
 
-
+12. Oghavaggo
 1-10. Oghādisuttadasakaṃ
 587-596 .   
 Oghavaggo dvādasamo.
 
 
 
-
+13. Gaṅgāpeyyālavaggo
 1-12. Pācīnādisuttadvādasakaṃ
 597-608 .  
 Gaṅgāpeyyālavaggo terasamo.
@@ -298,7 +298,7 @@ Gaṅgāpeyyālavaggo terasamo.
 
 
 
-
+17. Oghavaggo
 1-10. Oghādisuttadasakaṃ
 641-650 .    
 Oghavaggo sattarasamo.

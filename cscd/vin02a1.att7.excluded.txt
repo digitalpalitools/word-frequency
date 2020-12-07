@@ -1,5 +1,5 @@
 ﻿4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgavaṇṇanā)
-
+1. Lasuṇavaggo
 1. Paṭhamalasuṇasikkhāpadavaṇṇanā
  
 
@@ -51,7 +51,7 @@ Navamasikkhāpadaṃ.
 
 Dasamasikkhāpadaṃ.
 Lasuṇavaggo paṭhamo.
-
+2. Andhakāravaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 839 .   appadīpe Sallapeyya vā
 841 . Arahopekkhā aññavihitā
@@ -90,7 +90,7 @@ Navamasikkhāpadaṃ.
 879 .
 Dasamasikkhāpadaṃ.
 Andhakāravaggo dutiyo.
-
+3. Naggavaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 883-6 .   brahmacariyaṃ ciṇṇenā Acchinnacīvarikāyā
 
@@ -133,7 +133,7 @@ Navamasikkhāpadaṃ.
 
 Dasamasikkhāpadaṃ.
 Naggavaggo tatiyo.
-
+4. Tuvaṭṭavaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 933 .   tuvaṭṭeyyu
 Paṭhamasikkhāpadaṃ.
@@ -166,7 +166,7 @@ Sattamaaṭṭhamanavamasikkhāpadāni.
 976 . Antarāye
 Dasamasikkhāpadaṃ.
 Tuvaṭṭavaggo catuttho.
-
+5. Cittāgāravaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 978 .   rājāgāra Cittāgāra Ārāma Uyyāna Pokkharaṇī Dassanāya gacchati āpatti dukkaṭassā Yattha ṭhitā passatī
 981 . Ārāme ṭhitā Gacchantī vā āgacchantī vā Sati karaṇīye gantvā Āpadāsū
@@ -207,7 +207,7 @@ Navamasikkhāpadaṃ.
 1018 . vāceyyā
 Dasamasikkhāpadaṃ.
 Cittāgāravaggo pañcamo.
-
+6. Ārāmavaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 1025 .  parikkhepaṃ atikkāmentiyā, upacāraṃ okkamantiyā
 1027 . Sīsānulokikā Yattha bhikkhuniyo  Āpadāsū
@@ -249,7 +249,7 @@ Navamasikkhāpadaṃ.
 
 Dasamasikkhāpadaṃ.
 Ārāmavaggo chaṭṭho.
-
+7. Gabbhinivaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 1069 .  āpannasattā
 Paṭhamasikkhāpadaṃ.
@@ -283,7 +283,7 @@ Navamasikkhāpadaṃ.
 1116 . neva vūpakāseyyā Na vūpakāsāpeyyā 
 Dasamasikkhāpadaṃ.
 Gabbhinivaggo sattamo.
-
+8. Kumāribhūtavaggo
 1-2-3. Paṭhamadutiyatatiyasikkhāpadavaṇṇanā
 1119 .  
 Paṭhamadutiyatatiyāni.
@@ -317,7 +317,7 @@ Dvādasamasikkhāpadaṃ.
 1175 .  ekaṃ vassaṃ dve
 Terasamasikkhāpadaṃ.
 Kumāribhūtavaggo aṭṭhamo.
-
+9. Chattupāhanavaggo
 1. Paṭhamasikkhāpadavaṇṇanā
 1181 .  sakimpi dhāreti āpatti pācittiyassā
 Paṭhamasikkhāpadaṃ.

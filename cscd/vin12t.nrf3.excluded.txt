@@ -1,7 +1,7 @@
 ﻿Cūḷavaggayojanā
 
 
-
+1. Kammakkhandhakaṃ
 1. Tajjanīyakammakathā
 1 .  Tāvā  balavābalava Paṭivadathā paṭimantethā alamatthatarā
 Adhammakammadvādasakakathā
@@ -26,7 +26,7 @@ Adhammakammādidvādasakakathā
 51 . Etthā  Tatthā Anuddhaṃsetabbo gihiddhajo Na titthiyādipadattaya āsādetabbo ‘‘Anto vā bahi vā  Iminā
 65 . Tassā Idhā ukkhepanīyaṃ, ukkhepanīyakammaṃ
 Iti kammakkhandhakavaṇṇanāya yojanā samattā.
-
+2. Pārivāsikakkhandhakaṃ
 1. Pārivāsikavattakathā
 75 . pārivāsikā Tatthā Tesū Titthiyaparivāso Appaṭicchannaparivāso Tatthā Ya Ayaṃ panā Idhā  Sesā Tayo Āpannā cevā Tesū Ete panā Idhā Tasmā Etesū
 Pakatattānaṃ bhikkhūna Mūlāyapaṭikassanārahādīnampī Te  Sādiyantī Tatthā Sāmīcikamma Abhivādanādīnī Bījanavātadānādino Āsanābhihāra pādodaka pādapīṭha pādakathalika Te Saddhāpabbajitā Kulaputtā Mithu yathāvuḍḍha mithū Tena tenā
@@ -61,7 +61,7 @@ Parivāsadānādīnī Etesvevā Aya
 4. Mānattācārikavattakathā
 92 . Ūne  gaṇe Sabbatthā
 Iti pārivāsikakkhandhakavaṇṇanāya yojanā samattā.
-
+3. Samuccayakkhandhakaṃ
 1. Sukkavissaṭṭhikathā
  tatthā Paṭicchannāya āpattiyā Addhamāsa Odhāyā Tesū Ida Appaṭicchannāya…pe… vacanato appaṭicchannamānatta Ta Idhā Tatuttarī nānāvatthukāyo. Tāsa
 Māḷakasīmāyamevā Tatthevā
@@ -131,7 +131,7 @@ Suddhantaparivāsādikathā
 181 . Tato Tatthā Missaka
 184 . Tato Tatthā Tañcā
 Iti samuccayakkhandhakavaṇṇanāya yojanā samattā.
-
+4. Samathakkhandhakaṃ
 1. Sammukhāvinayakathā
 186-7 . Cha mātikāpadānī Tattha Vitthāro Tatthā Saññāpetī Kāraṇapatirūpakānī Nijjhāpetī  Yathā  So anupekkhatī Pekkhati anupekkhatī Tesaññevā Pariyāyavacanānī pariyāyāni, So Mohetvā
 188 . Amohetvā
@@ -175,7 +175,7 @@ So Vayoanuppattā Eta Assā  Itarā salākā So Ta Tato Vuttanayamevā vivaṭat
 Tassapāpiyasikāvinayakathā
 238 . Pārājikasāmantaṃ  nāmā Adinnādānādīsū Nibbeṭhayamāna nibbeṭhenta Ativeṭhetī Tenā Ma Āhā Etassā Sīlavā bhavissatī Paṭippassaddhi No ce Tathā nāsito Sabbatthā
 Iti samathakkhandhakavaṇṇanāya yojanā samattā.
-
+5. Khuddakavatthukkhandhakaṃ
 Khuddakavatthukathā
 243 . muṭṭhikamallā Gāmamudavā mudavā, gāmamudavā  Thambhe
 Iṭṭhakāsilādārukuṭṭāna Aṭṭhapadākārenā Rājiyo Tatthā Gandhabbahatthako  Tenā Kuruvindakapāsāṇacuṇṇānī Ta Viggayhā Makaradantake Mallakamūlasaṇṭhānenā Gilānassāpī
@@ -234,7 +234,7 @@ Tatthā Tasmā  Tassevā Tassevā Pāḷikārako Tathā
 289 . Ābādhappaccayā
 293 . Paharaṇī Eta Ta Vuttamevā Dhaniyassevā Sabbatthā
 Iti khuddakavatthukkhandhakavaṇṇanāya yojanā samattā.
-
+6. Senāsanakkhandhakaṃ
 Vihārānujānanakathā
 294 .  apaññattaṃ hotī Suvaṇṇavaṅkageha Iṭṭhakāguhā  Āgatassa ca anāgatassa cā āgato, anāgato, āgatānāgato, cātuddiso
 295 . Utuvisabhāgavasenā Saṃphusitakavāto Ujukameghavuṭṭhiyo evā tato Vāḷamigāni cā Etāni sabbānī Yojetabbānī
@@ -419,7 +419,7 @@ pāḷi Aṭṭhakathañcevā Vicakkhaṇo Eva
 Iti paccayabhājanīyakathāya yojanā samattā.
 Upaḍḍhabhāgo
 Iti senāsanakkhandhakavaṇṇanāya yojanā samattā.
-
+7. Saṅghabhedakakkhandhakaṃ
 Chasakyapabbajjākathā
 330 . abhiññātā abhiññātā Kāḷudāyippabhūtayo Amhesū  ‘‘kulā’’ Gharāvāsattha ya Udakaṃ ninnetabba Susa Tiṇānī niddhāpetabba  Bhusā bhusikā. Ophuṇāpetabba Tvaññeva gharāvāsatthena upajānā gharāvāsatthenā Upajānā Aha Tayā Sesa
 331 . Nippātitā Mānassino
@@ -457,7 +457,7 @@ duṭṭhullā  aduṭṭhullā
 Etthā Catunnaṃ saṅghakammāna Karontehi
 Tatthā Apakassantī Vijaṭentī Ekamantaṃ ussādentī Avapakassantī  Yathā āveṇi Vatthūsū Imaṃ gaṇhathā Visu pañcahi ākārehī Tassā Idhā Assā Tatthevā Sabbatthā
 Iti saṅghabhedakakkhandhakavaṇṇanāya yojanā samattā.
-
+8. Vattakkhandhakaṃ
 1. Āgantukavattakathā
 357 .  ārāma Paṭikkamantī Upāhanā…pe… pucchitabbā vissajjetabba  Gocaro pucchitabbo bhikkhācāro, Yatthā pānīyaṃ pucchitabba Kaṃ kāla
 Bahi nikkhamantassā Nilloketabbo sace ussahatī
@@ -488,7 +488,7 @@ Pattaṃ thavikāya pakkhipitvā Dhovitvā katvā Tampī Samīpe Gaṇavāsino T
 Sabbasādhāraṇaṭṭhāna Tatrā Nibaddhagamanatthāyā
 Uhatā  Dhovitabbā Etampī Sabbatthā
 Iti vattakkhandhakavaṇṇanāya yojanā samattā.
-
+9. Pātimokkhaṭṭhapanakkhandhakaṃ
 1. Pātimokkhuddesayācanakathā
 383 .  nandimukhiyā rattiyā Antopūti Avassuta Kasambujāta kasambū kasambu, ‘‘Yāva bāhāgahaṇāpi nāmā’’ti Hī Tenā Nāma  Āgamessatī
 384 . Na āyatakeneva papāto Paṭhamamevā Ṭhitadhammo  Velaṃ nātivattatī kandaro, osakkanakandaraṃ, Tīraṃ vāhetī appetī Ussāretī Aññāpaṭivedho aññaṃ
@@ -514,7 +514,7 @@ Mettaṃ nu kho me citta palibodhe Idaṃ panāvuso kattha vuttaṃ bhagavatā
 401 . Ajjhatta Uppādetvā Kāruññatā kāruññaṃ, kāruññatā Iminā Karuṇañcā Karuṇāpubbabhāgañcā Dvīhipī Mettañcā Mettāpubbabhāgañcā Suddhante Paṭiññaṃ āropetvā Ye ete ime pañca dhamme
 Sacce  ca akuppe cā akuppa  Hī Na paro ghaṭṭetabbo Sabbatthā
 Iti pātimokkhaṭṭhapanakkhandhakavaṇṇanāya yojanā samattā.
-
+10. Bhikkhunikkhandhakaṃ
 Mahāpajāpatigotamīvatthukathā
 402 . kāmaṃ pana Ta Aya Bhaddakaṃ katvā
 403 . Kumbhathenakehī kumbhathenakā
@@ -546,12 +546,12 @@ Pāde sambāhantā Kese Tatrā Etthā Ida Ta Hī
 435 . Pallaṅkena nisīdantī ābhujitvā Kūpo Uparī 
 436 . Kuṇḍaka Etthā
 Iti bhikkhunikkhandhakavaṇṇanāya yojanā samattā.
-
+11. Pañcasatikakkhandhakaṃ
 1. Khuddānukhuddakasikkhāpadakathā
 441 .  Pariyāyenā Dhūmakālika dhūmakālikaṃ,
 443 . Ida ‘‘Tayā’’ idaṃ te Āpatti Hī Te Thero panā Tatthā Yathā Catūsu ṭhānesū Etthā
 Iti pañcasatikakkhandhakavaṇṇanāya yojanā samattā.
-
+12. Sattasatikakkhandhakaṃ
 Dasavatthukathā
 447 .  vaḍḍhenti kaṭasi kaḷevara kaḷevara
 454 . Pāpakaṃ  no āvuso kata no
@@ -570,4 +570,4 @@ Yojanā samattā.
 
 
  Namo tassa bhagavato arahato sammāsambuddhassa
-
+Pācityādiyojanā

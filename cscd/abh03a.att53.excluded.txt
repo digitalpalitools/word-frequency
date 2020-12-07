@@ -1,5 +1,5 @@
 ﻿1. Kusalattikavaṇṇanā
-
+1. Paṭiccavāravaṇṇanā
 1. Paccayānulomaṃ
 (1.) Vibhaṅgavāro
 53 .   kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati hetupaccayā
@@ -70,10 +70,10 @@ Paccayapaccanīyānulomavaṇṇanā
 203-233 . hetuyā sattā hetuyā tīṇī 
 Paccayapaccanīyānulomavaṇṇanā.
 Niṭṭhitā ca paṭiccavārassa atthavaṇṇanā.
-
+2. Sahajātavāravaṇṇanā
 234-242 .  kusalaṃ dhammaṃ sahajāto
 Sahajātavāravaṇṇanā niṭṭhitā.
-
+3. Paccayavāravaṇṇanā
 243 . kusalaṃ dhammaṃ paccayā Kusalaṃ ekaṃ khandhaṃ paccayā  Vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā Kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā
 Abyākataṃ  dhammaṃ paccayā kusalo ca abyākato cā
 248-252 . vatthuṃ paccayā khandhā vatthuṃ paccayā
@@ -97,10 +97,10 @@ Nānantare eka Napurejāte dve Navippayutte dve
 Paccanīyavaṇṇanā niṭṭhitā.
 297-328 . 
 Paccayavāravaṇṇanā niṭṭhitā.
-
+4. Nissayavāravaṇṇanā
 329-337 .  kusalaṃ dhammaṃ nissāyā
 Nissayavāravaṇṇanā.
-
+5. Saṃsaṭṭhavāravaṇṇanā
 338-346 . kusalaṃ dhammaṃ saṃsaṭṭho Kusalaṃ ekaṃ khandhaṃ saṃsaṭṭho 
 347-350 . hetuyā tīṇī 
 351-354 .
@@ -109,11 +109,11 @@ Nissayavāravaṇṇanā.
 369-383 . 
 384-391 .  Nakammapaccayā nahetupaccayā nādhipatipaccayā napurejātapaccayā ārammaṇe eka
 Saṃsaṭṭhavāravaṇṇanā.
-
+6. Sampayuttavāravaṇṇanā
 392-400 . kusalaṃ dhammaṃ sampayutto
 Sampayuttavāravaṇṇanā.
  
-
+7. Pañhāvāravibhaṅgavaṇṇanā
 401-403 . kusalo dhammo kusalassa dhammassa hetupaccayena paccayo hetupaccayenā
 Cittasamuṭṭhānāna 
 404 . Dānaṃ  datvā Datvā Sīlaṃ samādiyitvā Uposathakammaṃ katvā Taṃ paccavekkhatī Pubbe suciṇṇānī Jhānā vuṭṭhahitvā Sekkhā gotrabhu Vodāna Sekkhā Maggā vuṭṭhahitvā
@@ -164,7 +164,7 @@ Kāyikaṃ sukhaṃ upanissāya dāna kāyikaṃ sukha  Kāyikaṃ sukhaṃ upan
 428 . 
 429-438 . imassa kāyassā
 Pañhāvāravibhaṅgavaṇṇanā niṭṭhitā.
-
+Pañhāvārassa ghaṭane anulomagaṇanā
 439 .  hetuyā sattā sattā Ārammaṇe navā Adhipatiyā dasā
 Anantare sattā Sahajāte navā Aññamaññe tīṇī  Nissaye terasā Upanissaye navā Purejāte tīṇī
 Pacchājāte  tīṇī Āsevane tīṇi Kamme satta Vipāke ekaṃ Āhāraindriyajhānamaggesu satta Sampayutte tīṇi Vippayutte pañcā
@@ -239,7 +239,7 @@ Nahetumūlakaṃ.
 546 . Noatthipaccayā nahetuyā navā Nārammaṇe navā Yāva nissayampī
  naupanissaye dve Dve 
 Paccanīyagaṇanavaṇṇanā.
-
+Anulomapaccanīyavaṇṇanā
 550 . hetupaccayā naārammaṇe sattā Naadhipatiyā sattā
 Naaññamaññe  tīṇī nasampayutte Navippayutte 
 551 . hetusahajātanissayaatthiavigatanti nārammaṇe sattā Nādhipatiyā sattā tīṇī

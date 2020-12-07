@@ -1,5 +1,5 @@
 ﻿2. Bojjhaṅgasaṃyuttaṃ
-
+1. Pabbatavaggo
 1. Himavantasuttaṃ
 182 .      
 2. Kāyasuttaṃ
@@ -60,7 +60,7 @@ Pabbatavaggo paṭhamo.
 
 
 
-
+2. Gilānavaggo
 1. Pāṇasuttaṃ
 192 .   
 
@@ -107,7 +107,7 @@ Gilānavaggo  dutiyo.
 
 
 
-
+3. Udāyivaggo
 1. Bodhāyasuttaṃ
 202 . 
 
@@ -145,7 +145,7 @@ Udāyivaggo tatiyo.
 
 
 
-
+4. Nīvaraṇavaggo
 1. Paṭhamakusalasuttaṃ
 212 .  
 
@@ -180,7 +180,7 @@ Nīvaraṇavaggo catuttho.
 
 
 
-
+5. Cakkavattivaggo
 1. Vidhāsuttaṃ
 222 .  
 2. Cakkavattisuttaṃ
@@ -206,7 +206,7 @@ Cakkavattivaggo pañcamo.
 
 
 
-
+6. Sākacchavaggo
 1. Āhārasuttaṃ
 232 .   
 
@@ -317,7 +317,7 @@ Sākacchavaggo chaṭṭho.
 
 
 
-
+7. Ānāpānavaggo
 1. Aṭṭhikamahapphalasuttaṃ
 238 .  
 Aññataraphalasuttaṃ
@@ -352,7 +352,7 @@ Phāsuvihārasuttaṃ
 
 
 
-
+8. Nirodhavaggo
 1. Asubhasuttaṃ
 248 . 
 2. Maraṇasuttaṃ
@@ -379,14 +379,14 @@ Nirodhavaggo aṭṭhamo.
 
 paṭikūlena ca sabbaloke (syā.)
 
-
+9. Gaṅgāpeyyālavaggo
 1-12. Gaṅgānadīādisuttaṃ
 258-269 . 
 Gaṅgāpeyyālavaggo navamo.
 
   
 
-
+10. Appamādavaggo
 1-10. Tathāgatādisuttaṃ
 270 . 
 Appamādavaggo dasamo.
@@ -394,7 +394,7 @@ Appamādavaggo dasamo.
 
 
 
-
+11. Balakaraṇīyavaggo
 1-12. Balādisuttaṃ
 280 . 
 Balakaraṇīyavaggo ekādasamo.
@@ -402,7 +402,7 @@ Balakaraṇīyavaggo ekādasamo.
 
 
 
-
+12. Esanāvaggo
 1-10. Esanādisuttaṃ
 292 .  
 Esanāvaggo dvādasamo.
@@ -410,7 +410,7 @@ Esanāvaggo dvādasamo.
 
 
 
-
+13. Oghavaggo
 1-8. Oghādisuttaṃ
 302 . 
 10. Uddhambhāgiyasuttaṃ
@@ -419,7 +419,7 @@ Oghavaggo terasamo.
 
  
 
-
+14. Punagaṅgāpeyyālavaggo
 312-323
  Punagaṅgānadīādisuttaṃ
 Vaggo cuddasamo.
@@ -427,7 +427,7 @@ Vaggo cuddasamo.
 
 
 
-
+15. Punaappamādavaggo
 324-333
  Tathāgatādisuttaṃ
 Pannarasamo.
@@ -435,7 +435,7 @@ Pannarasamo.
 
 
 
-
+16. Punabalakaraṇīyavaggo
 334-345
  Punabalādisuttaṃ
 Soḷasamo.
@@ -443,14 +443,14 @@ Soḷasamo.
 
 
 
-
+17. Punaesanāvaggo
 346-356
  Punaesanādisuttaṃ
 Punaesanāvaggo sattarasamo.
 
 
 
-
+18. Punaoghavaggo
 357-366
  Punaoghādisuttaṃ
 Bojjhaṅgasaṃyutassa punaoghavaggo aṭṭhārasamo.

@@ -1,5 +1,5 @@
 ﻿17. Khuddakavatthuvibhaṅgo
-
+1. Ekakaniddesavaṇṇanā
 843-4 . Atthipaṭiccaṃ   nāmā ‘‘yathā’’ nissayādipaccayabhāvena paṭiccāti vutta Ekissā seṇiyā
 Purato karaṇaṃ Nidhānarāsī Yaso ‘‘paṭṭhāpakamado, āṇākaraṇamado’’
 845 . Vatthunā
@@ -34,7 +34,7 @@ Antarahitānī
 888 . Anuddayassevā ‘‘sahananditādikassā’’ ‘‘tādiso  rāgo’’ Attho yujjatī
 890 . ‘‘anavaññattatthameva kāmaguṇe ca patthetī’’
 Ekakaniddesavaṇṇanā niṭṭhitā.
-
+2. Dukaniddesavaṇṇanā
 891 . Bandhatī
 892 . Dantehi  chinditvā
 894 . Accayaṃ katvā Paṭicchādane vocchindanachādanā
@@ -42,7 +42,7 @@ Ekakaniddesavaṇṇanā niṭṭhitā.
  ‘‘tenetaṃ sāṭheyyaṃ māyāto balavatarā vañcanāti daṭṭhabba’’ Tenevā ‘‘parikkhatatā’’
 908 . Abhāvepī pi ‘‘sakkāyadiṭṭhādīnaṃ…pe… yojanaṃ nāmā’’
 Dukaniddesavaṇṇanā niṭṭhitā.
-
+3. Tikaniddesavaṇṇanā
 909 .  ‘‘akusalamūlāneva vaṭṭamūlānī’’ ‘‘tīhi…pe… kathito’’
 919 . sātisayo bhavarāgo
 920 . Mānena ṭhapanā Ṭhapanā
@@ -54,35 +54,35 @@ Dukaniddesavaṇṇanā niṭṭhitā.
 931 . addā anaddā ‘‘amudutā vā anaddā’’
 936 .
 Tikaniddesavaṇṇanā niṭṭhitā.
-
+4. Catukkaniddesavaṇṇanā
 939 . Evaṃ-saddenā  abhavo
 Agatiyā
 Pañcakāmaguṇamātugāmaggahaṇe
 timbaruko ‘‘timbarukadiṭṭhī’’ ‘‘timbaruko…pe… āgatattā’’
 Catukkaniddesavaṇṇanā niṭṭhitā.
-
+5. Pañcakaniddesavaṇṇanā
 940 . Āgamanassa 
 941 . Upacayanato Aññathā ‘‘saddhāruciādīhī’’ Ādi
 942 .  akkhantimūlakā Dukkaṭadubbhāsitatādidosā
 943 . Udaggatāsaṅkhāto avūpasamo Avūpasamahetubhūto Pītiyā ākāro
 Pañcakaniddesavaṇṇanā niṭṭhitā.
-
+6. Chakkaniddesavaṇṇanā
 944 . Tenā
 945 . kusalānuyogasātaccaṃ
 gaṇasaṅgaṇikā Kassaci
 946 . Upavitakketī
 948 . Adhiccasamuppanniko
 Chakkaniddesavaṇṇanā niṭṭhitā.
-
+8. Aṭṭhakaniddesavaṇṇanā
 952 . Osīdanākārenā  
 958 . Te asaññīvādā
 Aṭṭhakaniddesavaṇṇanā niṭṭhitā.
-
+9. Navakaniddesavaṇṇanā
 960-963 . Dasamassā
 Ajjhatta Etassa Niṭṭhapetvā
 964 . Aññesaṃ saṅkhatabhāve ‘‘ahanti, asmīti cā’’ Attano pavatti visesavatī ‘‘bhavissantī…pe… vutto’’
 Navakaniddesavaṇṇanā niṭṭhitā.
-
+10. Dasakaniddesavaṇṇanā
 970 . Saṅkappana  Tassā Micchābhāvo Tadākāro moho Tassāpi Adhimānasampayuttaṃ sañjānanaṃ
 Dasakaniddesavaṇṇanā niṭṭhitā.
 Taṇhāvicaritaniddesavaṇṇanā

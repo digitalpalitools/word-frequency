@@ -2,10 +2,10 @@
 
 
 
-1 paṇṇattivāro
+
 
  tayo  saṅkhārā  kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāroti assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
-1 padasodhanavāro
+
 
  (ka) kāyo  kāyasaṅkhāro
 (kha) kāyasaṅkhāro kāyo
@@ -20,7 +20,7 @@
 (kha) na vacīsaṅkhāro na vacī
 (ka) na cittaṃ na cittasaṅkhāro
 (kha) na cittasaṅkhāro na cittaṃ
-2 padasodhanamūlacakkavāro
+
 
  (ka) kāyo  kāyasaṅkhāro
 (kha) saṅkhārā vacīsaṅkhāro
@@ -47,7 +47,7 @@
 (kha) na saṅkhārā na kāyasaṅkhāro
 (ka) na cittaṃ na cittasaṅkhāro
 (kha) na saṅkhārā na vacīsaṅkhāro
-3 suddhasaṅkhāravāro
+
 
  (ka) kāyasaṅkhāro  vacīsaṅkhāro
 (kha) vacīsaṅkhāro kāyasaṅkhāro
@@ -65,7 +65,7 @@
 
 
 
-1 padasodhanavāro
+
 
  (ka) kāyo  kāyasaṅkhāroti no
 (kha) kāyasaṅkhāro kāyoti no
@@ -86,7 +86,7 @@ vacī na vacīsaṅkhāro vacī vaciñca vacīsaṅkhārañca ṭhapetvā avases
 cittasaṅkhāro na cittaṃ cittasaṅkhāro cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṃ na ca cittasaṅkhāro
 (kha) na cittasaṅkhāro na cittanti
 cittaṃ na cittasaṅkhāro cittaṃ cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṃ na ca cittasaṅkhāro
-2 padasodhanamūlacakkavāro
+
 
  (ka) kāyo kāyasaṅkhāroti no
 (kha) saṅkhārā vacīsaṅkhāroti
@@ -125,7 +125,7 @@ cittasaṅkhāro na cittaṃ cittasaṅkhāro cittañca cittasaṅkhārañca ṭ
 (ka) na cittaṃ na cittasaṅkhāroti
 cittasaṅkhāro na cittaṃ cittasaṅkhāro cittañca cittasaṅkhārañca ṭhapetvā avasesā na ceva cittaṃ na ca cittasaṅkhāro
 (kha) na saṅkhārā na vacīsaṅkhāroti āmantā
-3 suddhasaṅkhāravāro
+
 
  (ka) kāyasaṅkhāro vacīsaṅkhāroti no
 (kha) vacīsaṅkhāro kāyasaṅkhāroti no
@@ -147,8 +147,8 @@ cittasaṅkhāro na vacīsaṅkhāro cittasaṅkhāro vacīsaṅkhārañca citta
 (kha) na cittasaṅkhāro na vacīsaṅkhāroti
 vacīsaṅkhāro na cittasaṅkhāro vacīsaṅkhāro cittasaṅkhārañca vacīsaṅkhārañca ṭhapetvā avasesā na ceva cittasaṅkhāro na ca vacīsaṅkhāro
 
-2 pavattivāro 1 uppādavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa  kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro uppajjatīti
 vinā vitakkavicārehi assāsapassāsānaṃ uppādakkhaṇe tesaṃ kāyasaṅkhāro uppajjati no ca tesaṃ vacīsaṅkhāro uppajjati paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ uppādakkhaṇe tesaṃ kāyasaṅkhāro ca uppajjati vacīsaṅkhāro ca uppajjati
@@ -201,7 +201,7 @@ dutiyajjhāne tatiyajjhāne catutthajjhāne tattha vacīsaṅkhāro nuppajjati n
 vinā assāsapassāsehi vitakkavicārānaṃ uppādakkhaṇe tesaṃ tattha kāyasaṅkhāro nuppajjati no ca tesaṃ tattha vacīsaṅkhāro nuppajjati sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi avitakkaavicāracittassa  uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca nuppajjati vacīsaṅkhāro ca nuppajjati
 (kha) yassa vā pana yattha āmantā
 (yassakampi yassayatthakampi sadisaṃ vitthāretabbaṃ yassayatthake nirodhasamāpannānanti na labbhati)
-(2) atītavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro uppajjitthāti āmantā
 (kha) yassa vā pana āmantā
@@ -243,7 +243,7 @@ catutthajjhānaṃ samāpannānaṃ rūpāvacarānaṃ arūpāvacarānaṃ tesa�
  (ka) yassa yattha vacīsaṅkhāro nuppajjittha tassa tattha cittasaṅkhāro nuppajjitthāti
 dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha vacīsaṅkhāro nuppajjittha no ca tesaṃ tattha cittasaṅkhāro nuppajjittha suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjittha cittasaṅkhāro ca nuppajjittha
 (kha) yassa vā pana yattha āmantā
-(3) anāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro uppajjissati tassa vacīsaṅkhāro uppajjissatīti āmantā
 (kha) yassa  vā pana vacīsaṅkhāro uppajjissati tassa kāyasaṅkhāro uppajjissatīti
@@ -290,7 +290,7 @@ yassa cittassa anantarā kāmāvacarānaṃ pacchimacittaṃ uppajjissati catutt
  (ka) yassa yattha vacīsaṅkhāro nuppajjissati tassa tattha cittasaṅkhāro nuppajjissatīti
 yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha vacīsaṅkhāro nuppajjissati no ca tesaṃ tattha cittasaṅkhāro nuppajjissati pacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjissati cittasaṅkhāro ca nuppajjissati
 (kha) yassa vā pana yattha āmantā
-(4) paccuppannātītavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro uppajjitthāti āmantā
 (kha) yassa vā pana vacīsaṅkhāro uppajjittha tassa kāyasaṅkhāro uppajjatīti
@@ -334,7 +334,7 @@ sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
  (ka) yassa yattha vacīsaṅkhāro nuppajjati tassa tattha cittasaṅkhāro nuppajjitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha vacīsaṅkhāro nuppajjati no ca tesaṃ tattha cittasaṅkhāro nuppajjittha suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjati cittasaṅkhāro ca nuppajjittha
 (kha) yassa vā pana yattha āmantā
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro uppajjissatīti āmantā
 (kha) yassa vā pana vacīsaṅkhāro uppajjissati tassa kāyasaṅkhāro uppajjatīti
@@ -385,7 +385,7 @@ sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
 sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha vacīsaṅkhāro nuppajjati no ca tesaṃ tattha cittasaṅkhāro nuppajjissati savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjati cittasaṅkhāro ca nuppajjissati
 (kha) yassa vā pana yattha cittasaṅkhāro nuppajjissati tassa tattha vacīsaṅkhāro nuppajjatīti
 savitakkasavicārapacchimacittassa uppādakkhaṇe tesaṃ tattha cittasaṅkhāro nuppajjissati no ca tesaṃ tattha vacīsaṅkhāro nuppajjati savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca nuppajjissati vacīsaṅkhāro ca nuppajjati
-(6) atītānāgatavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro uppajjissatīti
 pacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro uppajjittha no ca tesaṃ vacīsaṅkhāro  uppajjissati  itaresaṃ tesaṃ kāyasaṅkhāro ca uppajjittha vacīsaṅkhāro ca uppajjissati
@@ -434,8 +434,8 @@ avitakkaavicārabhūmiyaṃ tesaṃ tattha vacīsaṅkhāro nuppajjittha no ca t
 (kha) yassa  vā pana yattha cittasaṅkhāro nuppajjissati tassa tattha vacīsaṅkhāro nuppajjitthāti
 savitakkasavicārabhūmiyaṃ pacchimacittasamaṅgīnaṃ tesaṃ tattha  cittasaṅkhāro nuppajjissati no ca tesaṃ tattha vacīsaṅkhāro nuppajjittha avitakkaavicārabhūmiyaṃ pacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca nuppajjissati vacīsaṅkhāro ca nuppajjittha
 
-2 nirodhavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa kāyasaṅkhāro nirujjhati tassa vacīsaṅkhāro nirujjhatīti
 vinā vitakkavicārehi assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro nirujjhati no ca tesaṃ vacīsaṅkhāro nirujjhati paṭhamajjhānaṃ samāpannānaṃ kāmāvacarānaṃ assāsapassāsānaṃ bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro ca nirujjhati vacīsaṅkhāro ca nirujjhati
@@ -469,12 +469,12 @@ vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro na nir
 vinā assāsapassāsehi vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ tattha kāyasaṅkhāro na nirujjhati no ca tesaṃ tattha vacīsaṅkhāro na nirujjhati sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi avitakkaavicāracittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kāyasaṅkhāro ca na nirujjhati vacīsaṅkhāro ca na nirujjhati
 yassa vā pana yattha vacīsaṅkhāro na nirujjhati
 (yassakampi yassayatthakampi sadisaṃ vitthāretabbaṃ yassayatthake nirodhasamāpannānanti na kātabbaṃ)
-(2) atītavāro
+
 
  (ka) yassa kāyasaṅkhāro nirujjhittha tassa vacīsaṅkhāro nirujjhitthāti āmantā
 (kha) yassa vā pana āmantā
 (yathā uppādavāre atītā pucchā yassakampi yassayatthakampi anulomampi paccanīkampi vibhattaṃ evaṃ nirodhavārepi vibhajitabbaṃ natthi nānākaraṇaṃ)
-(3) anāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro nirujjhissati tassa vacīsaṅkhāro nirujjhissatīti āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro nirujjhissatīti
@@ -521,7 +521,7 @@ kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
  (ka) yassa yattha vacīsaṅkhāro na nirujjhissati tassa tattha cittasaṅkhāro na nirujjhissatīti
 avitakkaavicārapacchimacittassa uppādakkhaṇe yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha vacīsaṅkhāro na nirujjhissati no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca na nirujjhissati cittasaṅkhāro ca na nirujjhissati
 (kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro na nirujjhissatīti āmantā
-(4) paccuppannātītavāro
+
 
  (ka) yassa kāyasaṅkhāro nirujjhati tassa vacīsaṅkhāro nirujjhitthāti  āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhittha tassa kāyasaṅkhāro nirujjhatīti
@@ -565,7 +565,7 @@ sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkh
  (ka) yassa yattha vacīsaṅkhāro na nirujjhati tassa tattha cittasaṅkhāro na nirujjhitthāti
 sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha vacīsaṅkhāro na nirujjhati no ca tesaṃ tattha cittasaṅkhāro na nirujjhittha suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca na nirujjhati cittasaṅkhāro ca na nirujjhittha
 (kha) yassa vā pana yattha cittasaṅkhāro na nirujjhittha tassa tattha vacīsaṅkhāro na nirujjhatīti āmantā
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro nirujjhati tassa vacīsaṅkhāro nirujjhissatīti āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro nirujjhatīti 
@@ -577,7 +577,7 @@ sabbesaṃ cittassa uppādakkhaṇe vinā  assāsapassāsehi cittassa bhaṅgakk
 savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro nirujjhati no ca tesaṃ cittasaṅkhāro nirujjhissati itaresaṃ vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ vacīsaṅkhāro ca nirujjhati cittasaṅkhāro ca nirujjhissati
 (kha) yassa  vā pana cittasaṅkhāro nirujjhissati tassa vacīsaṅkhāro nirujjhatīti
 sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ cittasaṅkhāro nirujjhissati no ca tesaṃ vacīsaṅkhāro nirujjhati vitakkavicārānaṃ bhaṅgakkhaṇe tesaṃ cittasaṅkhāro ca nirujjhissati vacīsaṅkhāro ca nirujjhati
-(kha) anulomaokāso
+
  yattha kāyasaṅkhāro nirujjhati
 
  (ka) yassa yattha kāyasaṅkhāro nirujjhati tassa tattha vacīsaṅkhāro nirujjhissatīti
@@ -616,7 +616,7 @@ sabbesaṃ cittassa uppādakkhaṇe vinā assāsapassāsehi cittassa bhaṅgakkh
 sabbesaṃ cittassa uppādakkhaṇe vinā vitakkavicārehi cittassa bhaṅgakkhaṇe tesaṃ tattha vacīsaṅkhāro na nirujjhati no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati avitakkaavicārapacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca na nirujjhati cittasaṅkhāro ca na nirujjhissati
 (kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro na nirujjhatīti
 savitakkasavicārapacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro na nirujjhissati no ca tesaṃ tattha vacīsaṅkhāro na nirujjhati avitakkaavicārapacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhati
-(6) atītānāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro nirujjhittha tassa vacīsaṅkhāro nirujjhissatīti
 savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ  yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ kāyasaṅkhāro nirujjhittha no ca tesaṃ vacīsaṅkhāro nirujjhissati itaresaṃ tesaṃ kāyasaṅkhāro ca nirujjhittha vacīsaṅkhāro ca nirujjhissati
@@ -665,8 +665,8 @@ avitakkaavicārabhūmiyaṃ  tesaṃ tattha vacīsaṅkhāro na nirujjhittha no 
 (kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro na nirujjhitthāti
 savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro na nirujjhissati no ca tesaṃ tattha vacīsaṅkhāro na nirujjhittha avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ  tesaṃ tattha cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhittha
 
-2 pavatti 3 uppādanirodhavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhatīti no
 (kha) yassa vā pana vacīsaṅkhāro nirujjhati tassa kāyasaṅkhāro uppajjatīti no
@@ -697,11 +697,11 @@ vitakkavicārānaṃ uppādakkhaṇe tesaṃ cittasaṅkhāro na nirujjhati no c
 
  yassa  yattha kāyasaṅkhāro nuppajjati
 (yassakampi yassayatthakampi sadisaṃ yassayatthake nirodhasamāpannānanti na labbhati)
-(2) atītavāro
+
 
  yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro nirujjhitthāti āmantā
 (atītā pucchā uppādavārepi nirodhavārepi uppādanirodhavārepi sadisaṃ vitthāretabbā)
-(3) anāgatavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjissati tassa vacīsaṅkhāro nirujjhissatīti āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjissatīti
@@ -748,13 +748,13 @@ kāmāvacarānaṃ pacchimacittassa uppādakkhaṇe yassa cittassa anantarā kā
  (ka) yassa yattha vacīsaṅkhāro nuppajjissati tassa tattha cittasaṅkhāro na nirujjhissatīti
 pacchimacittassa uppādakkhaṇe  yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati dutiyajjhānaṃ tatiyajjhānaṃ catutthajjhānaṃ samāpannānaṃ tesaṃ tattha vacīsaṅkhāro nuppajjissati no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjissati cittasaṅkhāro ca na nirujjhissati
 (kha) yassa vā pana yattha āmantā
-(4) paccuppannātītavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhitthāti āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhittha tassa kāyasaṅkhāro uppajjatīti
 sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ vacīsaṅkhāro nirujjhittha  no ca tesaṃ kāyasaṅkhāro uppajjati assāsapassāsānaṃ uppādakkhaṇe tesaṃ vacīsaṅkhāro ca nirujjhittha kāyasaṅkhāro ca uppajjati
 (yathā  uppādavāre paccuppannātītā pucchā anulomampi paccanīkampi vibhattā evaṃ uppādavāranirodhavārepi paccuppannātītā pucchā anulomampi paccanīkampi vibhajitabbā)
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa  kāyasaṅkhāro uppajjati tassa vacīsaṅkhāro nirujjhissatīti āmantā
 (kha) yassa vā pana vacīsaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjatīti
@@ -801,7 +801,7 @@ sabbesaṃ cittassa bhaṅgakkhaṇe vinā assāsapassāsehi cittassa uppādakkh
  (ka) yassa  yattha vacīsaṅkhāro nuppajjati tassa tattha cittasaṅkhāro na nirujjhissatīti
 sabbesaṃ cittassa bhaṅgakkhaṇe vinā vitakkavicārehi cittassa uppādakkhaṇe tesaṃ tattha vacīsaṅkhāro nuppajjati no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjati cittasaṅkhāro ca na nirujjhissati
 (kha) yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro nuppajjatīti āmantā
-(6) atītānāgatavāro
+
 
  (ka) yassa kāyasaṅkhāro uppajjittha tassa vacīsaṅkhāro nirujjhissatīti
 savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacittasamaṅgīnaṃ yassa cittassa anantarā avitakkaavicāraṃ pacchimacittaṃ uppajjissati tesaṃ  kāyasaṅkhāro uppajjittha no ca tesaṃ vacīsaṅkhāro nirujjhissati itaresaṃ tesaṃ kāyasaṅkhāro ca uppajjittha vacīsaṅkhāro ca nirujjhissati
@@ -811,7 +811,7 @@ pacchimacittassa bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro uppajjittha no ca tes
 (kha) yassa vā  pana cittasaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjitthāti āmantā
 (yathā nirodhavāre atītānāgatā pucchā anulomampi paccanīkampi evaṃ  uppādanirodhavārepi atītānāgatā pucchā anulomampi paccanīkampi vibhajitabbaṃ asammohantena nirodhavārena sadisaṃ natthi nānākaraṇaṃ)
 
-3 pariññāvāro
+
 
  (ka) yo kāyasaṅkhāraṃ parijānāti so vacīsaṅkhāraṃ parijānātīti āmantā
 (kha) yo vā pana vacīsaṅkhāraṃ parijānāti so kāyasaṅkhāraṃ parijānātīti āmantā

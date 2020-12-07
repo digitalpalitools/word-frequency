@@ -9,7 +9,7 @@
 
 
 Uppattiṭṭhānavāro.
-
+2. Mahāvāro 1. anusayavāro
 (Ka) anulomapuggalo
 3 . 
 
@@ -251,7 +251,7 @@ Uppattiṭṭhānavāro.
 
    
 Anusayavāre anulomaṃ.
-
+1. Anusayavāra
 (Gha) paṭilomapuggalo
 36 . 
 
@@ -478,7 +478,7 @@ Anusayavāre anulomaṃ.
 
 Anusayavāre paṭilomaṃ.
 Anusayavāro.
-
+2. Sānusayavāro
 (Ka) anulomapuggalo
 66 .  
 
@@ -694,7 +694,7 @@ Anusayavāro.
 
     
 Sānusayavāre anulomaṃ.
-
+2. Sānusayavāra
 (Gha) paṭilomapuggalo
 99 .
 
@@ -923,7 +923,7 @@ Sānusayavāre anulomaṃ.
 
 Sānusayavāre paṭilomaṃ.
 Sānusayavāro.
-
+3. Pajahanavāro
 (Ka) anulomapuggalo
 132 .
 
@@ -1131,7 +1131,7 @@ Sānusayavāro.
 
 
 Pajahanavāre anulomaṃ.
-
+3. Pajahanavāra
 (Gha) paṭilomapuggalo
 165 . 
 
@@ -1383,7 +1383,7 @@ Pajahanavāre anulomaṃ.
 
 Pajahanāvāre paṭilomaṃ.
 Pajahanavāro.
-
+4. Pariññāvāro
 (Ka) anulomapuggalo
 198 .  
 
@@ -1591,7 +1591,7 @@ Pajahanavāro.
 
  
 Pariññāvāre anulomaṃ.
-
+4. Pariññāvāra
 (Gha) paṭilomapuggalo
 231 .
 
@@ -1845,7 +1845,7 @@ Pariññāvāre anulomaṃ.
  
 Pariññāvāre paṭilomaṃ.
 Pariññāvāro.
-
+5. Pahīnavāro
 (Ka) anulomapuggalo
 264 . 
  
@@ -2076,7 +2076,7 @@ Pariññāvāro.
 
 
 Pahīnavāre anulomaṃ.
-
+5. Pahīnavāra
 (Gha) paṭilomapuggalo
 297 . 
 

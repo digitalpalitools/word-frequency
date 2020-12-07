@@ -1,5 +1,5 @@
 ﻿
-1 suttantabhājanīyaṃ
+
  ariyo  aṭṭhaṅgiko maggo seyyathidaṃ  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi
  tattha katamā sammādiṭṭhi dukkhe ñāṇaṃ dukkhasamudaye ñāṇaṃ dukkhanirodhe ñāṇaṃ dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ  ayaṃ vuccati sammādiṭṭhi
 tattha katamo sammāsaṅkappo nekkhammasaṅkappo abyāpādasaṅkappo avihiṃsāsaṅkappo  ayaṃ vuccati sammāsaṅkappo
@@ -12,7 +12,7 @@ tattha katamo sammāsamādhi idha bhikkhu vivicceva kāmehi vivicca akusalehi dh
  ariyo aṭṭhaṅgiko maggo seyyathidaṃ  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi
  tattha katamā sammādiṭṭhi idha bhikkhu sammādiṭṭhiṃ bhāveti vivekanissitaṃ virāganissitaṃ  nirodhanissitaṃ vossaggapariṇāmiṃ sammāsaṅkappaṃ bhāveti sammāvācaṃ bhāveti sammākammantaṃ bhāveti sammāājīvaṃ bhāveti sammāvāyāmaṃ bhāveti sammāsatiṃ bhāveti sammāsamādhiṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ
 
-2 abhidhammabhājanīyaṃ
+
  aṭṭhaṅgiko maggo  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi
  tattha  katamo aṭṭhaṅgiko maggo idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi paṭhamaṃ  jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ tasmiṃ samaye aṭṭhaṅgiko maggo hoti  sammādiṭṭhi sammāsamādhi
  tattha  katamā sammādiṭṭhi yā paññā pajānanā amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ  ayaṃ vuccati sammādiṭṭhi
@@ -41,7 +41,7 @@ tattha  katamo sammāsamādhi idha bhikkhu yasmiṃ samaye lokuttaraṃ jhāna�
  tattha  katamā sammādiṭṭhi idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ tasmiṃ samaye phasso hoti avikkhepo hoti ime dhammā kusalā tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ yā tasmiṃ samaye paññā pajānanā amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ  ayaṃ vuccati sammādiṭṭhi avasesā dhammā sammādiṭṭhiyā sampayuttā avasesā dhammā sammāsaṅkappena  sampayuttā avasesā dhammā sammāvāyāmena sampayuttā avasesā dhammā sammāsatiyā sampayuttā
 tattha katamo sammāsamādhi idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ tasmiṃ samaye phasso hoti avikkhepo  hoti ime dhammā kusalā tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā  samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ  ayaṃ vuccati sammāsamādhi avasesā dhammā sammāsamādhinā sampayuttā
 
-3 pañhāpucchakaṃ
+
  ariyo aṭṭhaṅgiko maggo seyyathidaṃ  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi
  aṭṭhannaṃ  maggaṅgānaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
 

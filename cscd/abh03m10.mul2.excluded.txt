@@ -1,6 +1,6 @@
 ﻿2-1. Sahetukaduka-kusalattikaṃ
-
-
+1. Kusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 1 . 
@@ -13,7 +13,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 5 . 
@@ -25,8 +25,8 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Akusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayādi
 9 . 
@@ -44,7 +44,7 @@ Nahetu-naadhipatipaccayā
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayādi
 13 .  
@@ -59,8 +59,8 @@ Paccanīyuddhāro
 
 
 
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 17 . 
@@ -77,7 +77,7 @@ Nahetu-naārammaṇapaccayā
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 21 . 
@@ -90,9 +90,9 @@ Paccanīyuddhāro
 
  
 Sahetukadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+3-1. Hetusampayuttaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 25 . 
@@ -102,7 +102,7 @@ Paccanīyaṃ
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 28 . 
@@ -113,8 +113,8 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Akusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 31 . 
@@ -132,7 +132,7 @@ Nahetu-naadhipatipaccayā
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 35 .
@@ -146,8 +146,8 @@ Paccanīyuddhāro
 
 
 
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 39 . 
@@ -161,7 +161,7 @@ Nahetu-naārammaṇapaccayā
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 43 .
@@ -174,9 +174,9 @@ Paccanīyuddhāro
 
 
 Hetusampayuttadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+4-1. Hetusahetukaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 47 .
@@ -189,7 +189,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 51 .
@@ -200,8 +200,8 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Akusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 55 .
@@ -212,7 +212,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 59 .
@@ -223,8 +223,8 @@ Paccanīyuddhāro
 
 
 
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 63 .
@@ -235,7 +235,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 67 . 
@@ -247,9 +247,9 @@ Paccanīyuddhāro
 
 
 Hetusahetukadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+5-1. Hetuhetusampayuttaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 71 . 
@@ -260,7 +260,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 75 .
@@ -271,8 +271,8 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Akusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 79 .
@@ -283,7 +283,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 83 .
@@ -294,8 +294,8 @@ Paccanīyuddhāro
 
 
 
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 86 . 
@@ -306,7 +306,7 @@ Naadhipatipaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 89 .
@@ -318,9 +318,9 @@ Paccanīyuddhāro
 
 
 Hetuhetusampayuttadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+6-1. Nahetusahetukaduka-kusalattikaṃ
+1-2. Kusalākusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 93 .  
@@ -329,8 +329,8 @@ Hetupaccayo
 Hetupaccayo
 95 .
 96 .
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 97 . 
@@ -343,7 +343,7 @@ Nahetupaccayo
 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Ārammaṇapaccayo
 101 .

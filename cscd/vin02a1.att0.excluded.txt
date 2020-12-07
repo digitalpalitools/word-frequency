@@ -2,7 +2,7 @@
 Vinayapiṭake
 Pācittiya-aṭṭhakathā
 5. Pācittiyakaṇḍaṃ
-
+1. Musāvādavaggo
 1. Musāvādasikkhāpadavaṇṇanā
   
 
@@ -98,7 +98,7 @@ Asañciccā  Asatiyā Ajānantassā
 
 Pathavīkhaṇanasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena musāvādavaggo paṭhamo.
-
+2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpadavaṇṇanā
 89 . anādiyanto Dārakassa bāhuṃ ākoṭesī Na kho metaṃ patirūpa   Yaṃnūnāhaṃ bhagavato etamatthaṃ āroceyya Sacajja tvaṃ devate Pasaveyyāsī
 
@@ -202,7 +202,7 @@ Mahallakavihārasikkhāpadaṃ navamaṃ.
 
 Sappāṇakasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena senāsanavaggo dutiyo.
-
+3. Ovādavaggo
 1. Ovādasikkhāpadavaṇṇanā
 141-144 . lābhino hontī
 Bhikkhuniyo  upasaṅkamitvā   Tiracchānakatha Iddho
@@ -316,7 +316,7 @@ Paripācitasikkhāpadaṃ navamaṃ.
 198 . 
 Rahonisajjasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena bhikkhunivaggo tatiyo.
-
+4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpadavaṇṇanā
 203 . āvasathapiṇḍo  Hiyyopī Apasakkantī  Manussā ujjhāyantī Kukkuccāyanto
 206 . Sakkoti tamhā āvasathā pakkamitu Na sakkotī Anodissā Yāvadattho Sakiṃ bhuñjitabba
@@ -509,7 +509,7 @@ pāḷimuttakavinicchayo
 
 Dantaponasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena bhojanavaggo catuttho.
-
+5. Acelakavaggo
 1. Acelakasikkhāpadavaṇṇanā
 269 .   parivesana Paribbājakasamāpanno Deti āpatti pācittiyassā Titthiye atitthiyasaññī Dāpetī
 273 . Upanikkhipitvā detī
@@ -554,7 +554,7 @@ Senāvāsasikkhāpadaṃ navamaṃ.
 322 . uyyodhikaṃ; balaggaṃ; senābyūhaṃ; Tayo hatthī pacchimaṃ hatthānīka
 Uyyodhikasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena acelakavaggo pañcamo.
-
+6. Surāpānavaggo
 1. Surāpānasikkhāpadavaṇṇanā
 326 . bhaddavatikā Pathāvino Tejasā teja Kāpotikā Pasannā  Ananucchaviyaṃ bhikkhave sāgatassā
 328 . Pupphāsavo Phalāsavo Madhvāsavo  Guḷāsavo Surā Antamaso kusaggenapi pivatī 
@@ -599,7 +599,7 @@ Vikappanasikkhāpadaṃ navamaṃ.
 377-81 . apanidhentī Hasāpekkho Aññaṃ parikkhāra Dhammiṃ kathaṃ katvā 
 Cīvarāpanidhānasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena surāpānavaggo chaṭṭho.
-
+7. Sappāṇakavaggo
 1. Sañciccapāṇasikkhāpadavaṇṇanā
 382 . issāso hotī Jīvitā voropitā
 voropeyyā  Pāṇe pāṇasaññī 
@@ -652,7 +652,7 @@ Ukkhittasambhogasikkhāpadaṃ navamaṃ.
 429 . Upalāpeyyā Upaṭṭhāpeyyā
 Kaṇṭakasikkhāpadaṃ dasamaṃ.
 Samatto vaṇṇanākkamena sappāṇakavaggo sattamo.
-
+8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadavaṇṇanā
 434 .  etasmiṃ sikkhāpade Āpatti pācittiyassā Sikkhamānena bhikkhave bhikkhunā
 
@@ -735,7 +735,7 @@ Dubbalasikkhāpadaṃ ekādasamaṃ.
 
 Pariṇāmanasikkhāpadaṃ dvādasamaṃ.
 Samatto vaṇṇanākkamena sahadhammikavaggo aṭṭhamo.
-
+9. Ratanavaggo
 1. Antepurasikkhāpadavaṇṇanā
 494 . orako Uparipāsādavaragato Ayyānaṃ vāhasā
 497 . Pitaraṃ patthetī Rājantepuraṃ hatthisammadda hatthisammaddaṃ; Assarathasammaddapade  Rajanīyānī

@@ -1,5 +1,5 @@
 ﻿2. Niddesavaṇṇanā
-
+1. Ekakaniddesavaṇṇanā
 1 .   katamo ca puggalo samayavimutto idhā Ekacco puggalo Kālena kāla Samayena samaya Aṭṭha vimokkhe Kāyenā Phusitvā viharatī 
 
 
@@ -76,7 +76,7 @@ Avinipātadhammo Niyato Sambodhiparāyaṇo Deve ca manusse cā Sandhāvitvā sa
  
 41-44 . Ayaṃ vuccati puggalo arahā
 Ekakaniddesavaṇṇanā.
-
+2. Dukaniddesavaṇṇanā
 45 . kodhano tattha katamo kodho Upanāhī Kodho kujjhanā pubbakālaṃ kodho Ayaṃ kodho appahīno upanāhā
 53 . iminā ahirikenā Iminā anottappenā
 63 . Ajjhattasaṃyojano   Bahiddhāsaṃyojano 
@@ -91,7 +91,7 @@ Ekakaniddesavaṇṇanā.
 89 . Paṇītādhimutto Kalyāṇadhammo
 90 . Titto Tappetā Paccekasambuddhā ye ca tathāgatasāvakā tappetā
 Dukaniddesavaṇṇanā.
-
+3. Tikaniddesavaṇṇanā
 91 .   dussīlo Pāpadhammo  Asucī Saṅkassarasamācāro
 Paṭicchannakammanto Assamaṇo samaṇapaṭiñño Abrahmacārī brahmacāripaṭiñño Antopūtī Avassuto Kasambujāto
 Tassa na evaṃ hotī    Ayaṃ vuccatī nirāso
@@ -136,7 +136,7 @@ Tesaṃ  taṃ hotī  Ādheyyaṃ gacchatī
 130 . pariññaṃ paññapetī Tatrā Tena daṭṭhabbo rūpāvacarasamāpattiyā lābhī Sammāsambuddho satthā tena daṭṭhabbo   Ime tayo satthāro
 131 . diṭṭhe ceva dhamme Attānaṃ saccato thetato paññapetī Abhisamparāyañcā
 Tikaniddesavaṇṇanā.
-
+4. Catukkaniddesavaṇṇanā
 132 . asappuriso pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī surāmerayamajjapamādaṭṭhāyī.
 133 . Pāṇātipāte   samādapetī Ayaṃ vuccatī asappurisena asappurisataro Sappuriso
 135 . Sappurisena sappurisataro
@@ -222,7 +222,7 @@ So iminā cā   Vivitta So evaṃ samāhite citte…pe… yathākammūpage satte
 189 . appakaṃ sutaṃ hotī Na atthamaññāya, na dhammamaññāya dhammānudhammapaṭipanno hotī
 190 . samaṇamacalo  Ayaṃ vuccatī samaṇapadumo samaṇapuṇḍarīko  samaṇesu samaṇasukhumālo
 Catukkaniddesavaṇṇanā.
-
+5. Pañcakaniddesavaṇṇanā
 191 . tatrā Yvāya Ārabhatī 
 Yathābhūtaṃ nappajānātī Yatthassā  Ārambhajā Vippaṭisārajā Pavaḍḍhantī Sādhū  Amunā pañcamena puggalenā Samasamo bhavissatī
 Ārabhati na vippaṭisārī hotī Na ārabhati vippaṭisārī hotī Na ārabhati na vippaṭisārī hotī metteyyasammāsambuddhakāle 
@@ -239,11 +239,11 @@ saṃsīdatī Na sakkoti brahmacariyaṃ sandhāretu Sikkhādubbalyaṃ āvikatv
 199 . mandattā momūhattā Pāpiccho icchāpakato ummādā cittavikkhepā piṇḍapātiko  Vaṇṇita Appicchataṃyeva nissāyā Idamatthita Aggo
 Gavā khīra Khīramhā dadhī Evameva  Khalupacchābhattikā
 Pañcakaniddesavaṇṇanā.
-
+6. Chakkaniddesavaṇṇanā
 202 .  tatrā Sammāsambuddho tena daṭṭhabbo
 Paccekasambuddho tenā
 Chakkaniddesavaṇṇanā.
-
+7. Sattakaniddesavaṇṇanā
 203 .  sakiṃ nimuggo Ekantakāḷakehī Evaṃ puggalo
 Sāhu saddhā kusalesu dhammesū Sādhu hirī Hāyatiyevā Evaṃ puggalo  
 Neva hāyati no vaḍḍhatī Evaṃ puggalo
@@ -255,11 +255,11 @@ Tiṇṇo pāraṅgato thale tiṭṭhatī
 
 Sattakaniddesavaṇṇanā.
 207 .
-
+10. Dasakaniddesavaṇṇanā
 209 . idhā
 Idha  vihāyā 
 Dasakaniddesavaṇṇanā.
-
+Nigamanakathā
 
 
 

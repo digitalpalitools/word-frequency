@@ -1,6 +1,6 @@
 ﻿
-1 kusalapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  kusalaṃ dhammaṃ paṭicca hetu kusalo dhammo uppajjati hetupaccayā hetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati hetupaccayā hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo ca nahetu kusalo ca dhammā uppajjanti hetupaccayā (3)
@@ -25,7 +25,7 @@ hetuṃ  kusalañca nahetuṃ kusalañca dhammaṃ paṭicca nahetu kusalo dhamm
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anuloma paccanīyaṃ)
 naadhipatipaccayā hetuyā nava ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  kusalo dhammo hetussa kusalassa dhammassa hetupaccayena paccayo hetu kusalo dhammo nahetussa kusalassa dhammassa hetupaccayena paccayo hetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa hetupaccayena paccayo (3)
@@ -56,8 +56,8 @@ hetu kusalo ca nahetu kusalo ca dhammā hetussa kusalassa dhammassa upanissayapa
 hetupaccayā naārammaṇe tīṇi nonatthiyā tīṇi novigate tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā  ārammaṇe nava avigate nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 akusalapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  akusalaṃ dhammaṃ paṭicca hetu akusalo dhammo uppajjati hetupaccayā hetuṃ akusalaṃ dhammaṃ paṭicca nahetu akusalo dhammo uppajjati hetupaccayā hetuṃ akusalaṃ dhammaṃ paṭicca hetu akusalo ca nahetu akusalo ca dhammā uppajjanti hetupaccayā (3)
@@ -75,7 +75,7 @@ hetuṃ akusalañca nahetuṃ akusalañca dhammaṃ paṭicca nahetu akusalo dha
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu akusalo dhammo hetussa akusalassa dhammassa hetupaccayena paccayo hetu akusalo  dhammo nahetussa akusalassa  dhammassa hetupaccayena paccayo hetu akusalo dhammo hetussa akusalassa ca nahetussa akusalassa ca dhammassa hetupaccayena paccayo (3)
@@ -98,8 +98,8 @@ hetu akusalo ca nahetu akusalo ca dhammā hetussa akusalassa dhammassa adhipatip
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 abyākatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  abyākataṃ dhammaṃ paṭicca hetu abyākato dhammo uppajjati hetupaccayā hetuṃ abyākataṃ dhammaṃ paṭicca nahetu abyākato dhammo uppajjati hetupaccayā hetuṃ abyākataṃ dhammaṃ paṭicca  hetu abyākato ca nahetu abyākato ca dhammā uppajjanti hetupaccayā (3)
@@ -122,7 +122,7 @@ hetuṃ abyākatañca nahetuṃ abyākatañca dhammaṃ paṭicca nahetu abyāka
 hetupaccayā naārammaṇe tīṇi naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  abyākato dhammo hetussa abyākatassa dhammassa hetupaccayena paccayo hetu abyākato dhammo nahetussa abyākatassa dhammassa hetupaccayena paccayo hetu abyākato dhammo hetussa abyākatassa ca nahetussa abyākatassa ca dhammassa hetupaccayena paccayo (3)
@@ -152,9 +152,9 @@ hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-2 hetuduka-vedanāttikaṃ
-1 sukhāyavedanāyasampayuttapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nahetu sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu sukhāya vedanāya sampayutto ca nahetu sukhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā (3)
@@ -168,7 +168,7 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo tīṇi
@@ -191,8 +191,8 @@ hetu sukhāya vedanāya sampayutto ca nahetu sukhāya vedanāya sampayutto ca dh
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 dukkhāyavedanāyasampayuttapadaṃ
-1 paṭiccavārādi
+
+
 
 
  hetuṃ dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā hetuṃ dukkhāya vedanāya  sampayuttaṃ dhammaṃ paṭicca nahetu dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā hetuṃ dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu dukkhāya vedanāya sampayutto ca nahetu dukkhāya vedanāya sampayutto ca dhammā uppajjanti hetupaccayā (3)
@@ -206,7 +206,7 @@ hetuṃ dukkhāya vedanāya sampayuttañca nahetuṃ dukkhāya vedanāya sampayu
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo hetu dukkhāya vedanāya sampayutto dhammo nahetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo hetu dukkhāya vedanāya sampayutto dhammo  hetussa  dukkhāya vedanāya sampayuttassa ca nahetussa dukkhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo (3)
@@ -222,8 +222,8 @@ hetu dukkhāya vedanāya sampayutto ca nahetu dukkhāya vedanāya sampayutto ca 
 hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 adukkhamasukhāyavedanāyasampayuttapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā tīṇi
@@ -237,7 +237,7 @@ hetuṃ adukkhamasukhāya vedanāya sampayuttañca nahetuṃ adukkhamasukhāya v
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu adukkhamasukhāya vedanāya sampayutto dhammo hetussa adukkhamasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo tīṇi
@@ -257,9 +257,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-3 hetuduka-vipākattikaṃ
-1 vipākapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ vipākaṃ dhammaṃ paṭicca hetu vipāko dhammo uppajjati hetupaccayā hetuṃ  vipākaṃ dhammaṃ paṭicca nahetu vipāko dhammo uppajjati hetupaccayā hetuṃ vipākaṃ dhammaṃ paṭicca hetu vipāko ca nahetu vipāko ca dhammā uppajjanti hetupaccayā (3)
@@ -273,7 +273,7 @@ hetuṃ  vipākañca nahetuṃ vipākañca dhammaṃ paṭicca hetu vipāko dham
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  vipāko dhammo hetussa vipākassa dhammassa hetupaccayena paccayo tīṇi
@@ -294,8 +294,8 @@ nahetu vipāko dhammo nahetussa vipākassa dhammassa āhārapaccayena paccayo (s
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 vipākadhammapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  vipākadhammadhammaṃ paṭicca hetu vipākadhammadhammo uppajjati hetupaccayā hetuṃ vipākadhammadhammaṃ paṭicca nahetu vipākadhammadhammo uppajjati hetupaccayā hetuṃ vipākadhammadhammaṃ paṭicca hetu vipākadhammadhammo ca nahetu vipākadhammadhammo ca dhammā uppajjanti hetupaccayā (3)
@@ -314,7 +314,7 @@ hetuṃ vipākadhammadhammañca nahetuṃ vipākadhammadhammañca paṭicca nahe
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu vipākadhammadhammo hetussa vipākadhammadhammassa hetupaccayena paccayo tīṇi
@@ -330,8 +330,8 @@ nahetu vipākadhammadhammo nahetussa vipākadhammadhammassa āhārapaccayena pac
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ paccanīyānulomaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 nevavipākanavipākadhammapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  nevavipākanavipākadhammadhammaṃ paṭicca hetu nevavipākanavipākadhammadhammo uppajjati hetupaccayā tīṇi
@@ -350,7 +350,7 @@ hetuṃ nevavipākanavipākadhammadhammañca nahetuṃ nevavipākanavipākadhamm
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ anulomapaccanīyaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ paccanīyānulomaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa hetupaccayena paccayo tīṇi
@@ -371,9 +371,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-4 hetuduka-upādinnattikaṃ
-1 upādinnupādāniyapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  upādinnupādāniyaṃ dhammaṃ paṭicca hetu upādinnupādāniyo dhammo uppajjati hetupaccayā tīṇi
@@ -391,7 +391,7 @@ hetuṃ upādinnupādāniyañca nahetuṃ upādinnupādāniyañca dhammaṃ pa�
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu upādinnupādāniyo dhammo hetussa upādinnupādāniyassa dhammassa hetupaccayena paccayo tīṇi
@@ -406,8 +406,8 @@ nahetu upādinnupādāniyo dhammo nahetussa upādinnupādāniyassa dhammassa ār
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 anupādinnupādāniyapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  anupādinnupādāniyaṃ dhammaṃ paṭicca hetu anupādinnupādāniyo dhammo uppajjati hetupaccayā tīṇi
@@ -423,7 +423,7 @@ hetuṃ anupādinnupādāniyañca nahetuṃ anupādinnupādāniyañca dhammaṃ 
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  anupādinnupādāniyo dhammo hetussa anupādinnupādāniyassa dhammassa hetupaccayena paccayo tīṇi
@@ -440,8 +440,8 @@ nahetu anupādinnupādāniyo dhammo nahetussa anupādinnupādāniyassa dhammassa
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 anupādinnaanupādāniyapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  anupādinnaanupādāniyaṃ dhammaṃ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati hetupaccayā tīṇi
@@ -456,7 +456,7 @@ hetuṃ anupādinnaanupādāniyañca nahetuṃ anupādinnaanupādāniyañca dham
 hetupaccayā naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā  hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  anupādinnaanupādāniyo dhammo hetussa anupādinnaanupādāniyassa dhammassa hetupaccayena paccayo tīṇi
@@ -469,9 +469,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-5 hetuduka-saṃkiliṭṭhattikaṃ
-1 saṃkiliṭṭhasaṃkilesikapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca hetu saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā tīṇi
@@ -485,7 +485,7 @@ hetuṃ saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca hetu saṃkiliṭ�
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu saṃkiliṭṭhasaṃkilesiko dhammo hetussa saṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo tīṇi
@@ -498,8 +498,8 @@ hetu saṃkiliṭṭhasaṃkilesiko dhammo hetussa saṃkiliṭṭhasaṃkilesik
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 asaṃkiliṭṭhasaṃkilesikapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā tīṇi
@@ -512,7 +512,7 @@ hetuṃ asaṃkiliṭṭhasaṃkilesikañca nahetuṃ asaṃkiliṭṭhasaṃkil
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu asaṃkiliṭṭhasaṃkilesiko dhammo hetussa asaṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo tīṇi
@@ -527,8 +527,8 @@ hetu  asaṃkiliṭṭhasaṃkilesiko ca nahetu asaṃkiliṭṭhasaṃkilesiko 
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 asaṃkiliṭṭhaasaṃkilesikapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -540,7 +540,7 @@ nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃk
 hetupaccayā  naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  asaṃkiliṭṭhaasaṃkilesiko dhammo hetussa asaṃkiliṭṭhaasaṃkilesikassa dhammassa hetupaccayena paccayo tīṇi
@@ -553,9 +553,9 @@ hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-6 hetuduka-vitakkattikaṃ
-1 savitakkasavicārapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  savitakkasavicāraṃ dhammaṃ paṭicca hetu savitakkasavicāro dhammo uppajjati hetupaccayā hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca nahetu savitakkasavicāro dhammo uppajjati hetupaccayā hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca hetu savitakkasavicāro ca nahetu savitakkasavicāro ca dhammā uppajjanti hetupaccayā (3)
@@ -569,7 +569,7 @@ hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca hetu savitakkasavicāro dhammo
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu savitakkasavicāro dhammo hetussa savitakkasavicārassa dhammassa hetupaccayena paccayo tīṇi
@@ -584,8 +584,8 @@ hetu savitakkasavicāro ca nahetu savitakkasavicāro ca dhammā hetussa savitakk
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 avitakkavicāramattapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  avitakkavicāramattaṃ dhammaṃ paṭicca hetu avitakkavicāramatto dhammo uppajjati hetupaccayā tīṇi
@@ -598,7 +598,7 @@ hetuṃ avitakkavicāramattañca nahetuṃ avitakkavicāramattañca dhammaṃ pa
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 naadhipatipaccayā hetuyā nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu avitakkavicāramatto dhammo hetussa avitakkavicāramattassa dhammassa hetupaccayena paccayo tīṇi
@@ -613,8 +613,8 @@ hetu avitakkavicāramatto ca nahetu avitakkavicāramatto ca dhammā  nahetussa a
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 avitakkaavicārapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ avitakkaavicāraṃ dhammaṃ paṭicca hetu avitakkaavicāro dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -629,7 +629,7 @@ hetuṃ avitakkaavicāraṃ dhammaṃ paṭicca hetu avitakkaavicāro dhammo upp
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  avitakkaavicāro dhammo hetussa avitakkaavicārassa dhammassa hetupaccayena paccayo tīṇi
@@ -642,9 +642,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-7 hetuduka-pītittikaṃ
-1 pītisahagatapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  pītisahagataṃ dhammaṃ paṭicca hetu pītisahagato dhammo uppajjati hetupaccayā tīṇi
@@ -657,7 +657,7 @@ hetuṃ pītisahagataṃ dhammaṃ paṭicca hetu pītisahagato dhammo uppajjati
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  pītisahagato dhammo hetussa pītisahagatassa dhammassa hetupaccayena paccayo tīṇi
@@ -674,8 +674,8 @@ hetu pītisahagato ca nahetu pītisahagato ca dhammā hetussa pītisahagatassa d
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-2 sukhasahagatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ sukhasahagataṃ dhammaṃ paṭicca hetu sukhasahagato dhammo uppajjati hetupaccayā tīṇi
@@ -689,7 +689,7 @@ hetuṃ sukhasahagataṃ dhammaṃ paṭicca hetu sukhasahagato dhammo uppajjati
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  sukhasahagato dhammo hetussa sukhasahagatassa dhammassa hetupaccayena paccayo tīṇi
@@ -702,8 +702,8 @@ hetu sukhasahagato dhammo hetussa sukhasahagatassa dhammassa adhipatipaccayena p
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-3 upekkhāsahagatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati hetupaccayā tīṇi
@@ -719,7 +719,7 @@ hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo upp
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu upekkhāsahagato dhammo hetussa upekkhāsahagatassa dhammassa hetupaccayena paccayo tīṇi
@@ -733,9 +733,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-8 hetuduka-dassanenapahātabbattikaṃ
-1 dassanenapahātabbapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  dassanena pahātabbaṃ dhammaṃ paṭicca hetu dassanena pahātabbo dhammo uppajjati hetupaccayā tīṇi
@@ -749,7 +749,7 @@ hetuṃ dassanena pahātabbaṃ dhammaṃ paṭicca hetu dassanena pahātabbo dh
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  dassanena pahātabbo dhammo hetussa dassanena pahātabbassa dhammassa hetupaccayena paccayo tīṇi
@@ -761,8 +761,8 @@ hetu dassanena pahātabbo dhammo hetussa dassanena pahātabbassa dhammassa āram
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-2 bhāvanāyapahātabbapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  bhāvanāya pahātabbaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā tīṇi
@@ -775,7 +775,7 @@ hetuṃ bhāvanāya pahātabbañca nahetuṃ bhāvanāya pahātabbañca dhamma�
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu bhāvanāya pahātabbo dhammo hetussa bhāvanāya pahātabbassa dhammassa hetupaccayena paccayo tīṇi
@@ -787,8 +787,8 @@ hetu  bhāvanāya pahātabbo dhammo hetussa bhāvanāya pahātabbassa dhammassa 
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-3 nevadassanenanabhāvanāyapahātabbapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca hetu nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā tīṇi
@@ -804,7 +804,7 @@ hetuṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca hetu nevad
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  nevadassanena nabhāvanāya pahātabbo dhammo hetussa nevadassanena nabhāvanāya pahātabbassa dhammassa hetupaccayena paccayo tīṇi
@@ -817,9 +817,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-9 hetuduka-dassanenapahātabbahetukattikaṃ
-1 dassanenapahātabbahetukapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  dassanena pahātabbahetukaṃ dhammaṃ paṭicca hetu dassanena pahātabbahetuko dhammo uppajjati hetupaccayā tīṇi
@@ -832,7 +832,7 @@ hetuṃ dassanena pahātabbahetukañca nahetuṃ dassanena pahātabbahetukañca 
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 naadhipatipaccayā hetuyā nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu dassanena pahātabbahetuko dhammo hetussa dassanena pahātabbahetukassa dhammassa hetupaccayena paccayo tīṇi
@@ -844,8 +844,8 @@ hetu  dassanena pahātabbahetuko dhammo hetussa dassanena pahātabbahetukassa dh
 hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-2 bhāvanāyapahātabbahetukapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā tīṇi
@@ -857,7 +857,7 @@ nahetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nahetu bhāvanāya
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 naadhipatipaccayā hetuyā nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  bhāvanāya pahātabbahetuko dhammo hetussa bhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo tīṇi
@@ -869,8 +869,8 @@ hetu bhāvanāya pahātabbahetuko dhammo hetussa bhāvanāya pahātabbahetukassa
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-3 nevadassanenanabhāvanāyapahātabbahetukapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca  hetu nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -881,7 +881,7 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  nevadassanena nabhāvanāya pahātabbahetuko dhammo hetussa nevadassanena nabhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo tīṇi (saṃkhittaṃ)
@@ -893,9 +893,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-10 hetuduka-ācayagāmittikaṃ
-1 ācayagāmipadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  ācayagāmiṃ dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati hetupaccayā tīṇi
@@ -909,7 +909,7 @@ hetuṃ ācayagāmiṃ dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati na
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  ācayagāmī dhammo hetussa ācayagāmissa dhammassa hetupaccayena paccayo tīṇi
@@ -924,8 +924,8 @@ hetu ācayagāmī ca nahetu ācayagāmī ca dhammā hetussa ācayagāmissa dhamm
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-2 apacayagāmipadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  apacayagāmiṃ dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati hetupaccayā tīṇi
@@ -938,7 +938,7 @@ hetuṃ apacayagāmiñca nahetuṃ apacayagāmiñca dhammaṃ paṭicca hetu apa
 hetupaccayā  naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  apacayagāmī dhammo hetussa apacayagāmissa dhammassa hetupaccayena paccayo tīṇi
@@ -951,8 +951,8 @@ nahetu apacayagāmī dhammo nahetussa apacayagāmissa dhammassa adhipatipaccayen
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-3 nevācayagāmināpacayagāmipadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī  dhammo uppajjati hetupaccayā tīṇi
@@ -972,7 +972,7 @@ hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagām
 hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu nevācayagāmināpacayagāmī dhammo hetussa nevācayagāmināpacayagāmissa dhammassa hetupaccayena paccayo tīṇi
@@ -986,9 +986,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-11 hetuduka-sekkhattikaṃ
-1 sekkhapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  sekkhaṃ dhammaṃ paṭicca hetu sekkho dhammo uppajjati hetupaccayā tīṇi
@@ -1001,7 +1001,7 @@ hetuṃ sekkhañca nahetuṃ sekkhañca dhammaṃ paṭicca hetu sekkho dhammo u
 hetupaccayā naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  sekkho dhammo hetussa sekkhassa dhammassa hetupaccayena paccayo tīṇi
@@ -1015,8 +1015,8 @@ hetu sekkho dhammo hetussa sekkhassa dhammassa anantarapaccayena paccayo (saṃk
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-2 asekkhapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  asekkhaṃ dhammaṃ paṭicca hetu asekkho dhammo uppajjati hetupaccayā tīṇi
@@ -1029,7 +1029,7 @@ hetuṃ asekkhañca nahetuṃ asekkhañca dhammaṃ paṭicca hetu asekkho dhamm
 hetupaccayā naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā  hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu asekkho dhammo hetussa asekkhassa dhammassa hetupaccayena paccayo tīṇi
@@ -1043,8 +1043,8 @@ hetu asekkho dhammo hetussa asekkhassa dhammassa upanissayapaccayena paccayo  an
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā  adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-3 nevasekkhanāsekkhapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  nevasekkhanāsekkhaṃ dhammaṃ paṭicca hetu nevasekkhanāsekkho dhammo uppajjati hetupaccayā tīṇi
@@ -1062,7 +1062,7 @@ hetuṃ  nevasekkhanāsekkhaṃ dhammaṃ paṭicca hetu nevasekkhanāsekkho dha
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  nevasekkhanāsekkho dhammo hetussa nevasekkhanāsekkhassa dhammassa hetupaccayena paccayo tīṇi
@@ -1077,9 +1077,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-12 hetuduka-parittattikaṃ
-1 parittapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ parittaṃ dhammaṃ paṭicca hetu paritto dhammo uppajjati hetupaccayā tīṇi
@@ -1096,7 +1096,7 @@ hetuṃ parittaṃ dhammaṃ paṭicca hetu paritto dhammo uppajjati naadhipatip
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  paritto dhammo hetussa parittassa dhammassa hetupaccayena paccayo tīṇi
@@ -1108,8 +1108,8 @@ hetu paritto dhammo hetussa parittassa dhammassa ārammaṇapaccayena  paccayo (
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 mahaggatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  mahaggataṃ dhammaṃ paṭicca hetu mahaggato dhammo uppajjati hetupaccayā tīṇi
@@ -1122,7 +1122,7 @@ hetuṃ mahaggatañca nahetuṃ mahaggatañca dhammaṃ paṭicca hetu mahaggato
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 naadhipatipaccayā hetuyā nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu mahaggato dhammo hetussa mahaggatassa dhammassa hetupaccayena paccayo tīṇi
@@ -1139,8 +1139,8 @@ hetu mahaggato dhammo hetussa mahaggatassa dhammassa anantarapaccayena paccayo (
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 appamāṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ appamāṇaṃ dhammaṃ paṭicca hetu appamāṇo dhammo uppajjati  hetupaccayā tīṇi
@@ -1153,7 +1153,7 @@ hetuṃ  appamāṇañca nahetuṃ appamāṇañca dhammaṃ paṭicca hetu appa
 hetupaccayā naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu appamāṇo dhammo hetussa appamāṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1170,9 +1170,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-13 hetuduka-parittārammaṇattikaṃ
-1 parittārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  parittārammaṇaṃ dhammaṃ paṭicca hetu parittārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1186,7 +1186,7 @@ hetuṃ  parittārammaṇaṃ dhammaṃ paṭicca hetu parittārammaṇo dhammo 
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  parittārammaṇo dhammo hetussa parittārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1199,8 +1199,8 @@ hetu parittārammaṇo dhammo hetussa parittārammaṇassa dhammassa adhipatipac
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 mahaggatārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  mahaggatārammaṇaṃ dhammaṃ paṭicca hetu mahaggatārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1214,7 +1214,7 @@ hetuṃ  mahaggatārammaṇaṃ dhammaṃ paṭicca hetu mahaggatārammaṇo dha
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  mahaggatārammaṇo dhammo hetussa mahaggatārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1229,8 +1229,8 @@ hetu mahaggatārammaṇo ca nahetu mahaggatārammaṇo ca dhammā hetussa mahagg
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 appamāṇārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  appamāṇārammaṇaṃ dhammaṃ paṭicca hetu appamāṇārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1243,7 +1243,7 @@ hetuṃ appamāṇārammaṇañca nahetuṃ appamāṇārammaṇañca dhammaṃ 
 hetupaccayā  naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  appamāṇārammaṇo dhammo hetussa appamāṇārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1259,9 +1259,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-14 hetuduka-hīnattikaṃ
-1 hīnapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  hīnaṃ dhammaṃ paṭicca hetu hīno dhammo uppajjati hetupaccayā tīṇi
@@ -1277,7 +1277,7 @@ hetuṃ  hīnañca nahetuṃ hīnañca dhammaṃ paṭicca hetu hīno dhammo upp
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  hīno dhammo hetussa hīnassa dhammassa hetupaccayena paccayo tīṇi
@@ -1289,8 +1289,8 @@ hetu hīno dhammo hetussa hīnassa dhammassa ārammaṇapaccayena paccayo adhipa
 hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 majjhimapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  majjhimaṃ dhammaṃ paṭicca hetu majjhimo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -1301,7 +1301,7 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  majjhimo dhammo hetussa majjhimassa dhammassa hetupaccayena paccayo tīṇi
@@ -1313,8 +1313,8 @@ hetu  majjhimo dhammo hetussa majjhimassa dhammassa ārammaṇapaccayena paccayo
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 paṇītapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetu  paṇītaṃ dhammaṃ paṭicca hetu paṇīto dhammo uppajjati hetupaccayā tīṇi
@@ -1327,7 +1327,7 @@ hetuṃ paṇītañca nahetuṃ paṇītañca dhammaṃ paṭicca hetu paṇīto
 hetupaccayā naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu paṇīto dhammo hetussa paṇītassa dhammassa hetupaccayena paccayo tīṇi
@@ -1341,9 +1341,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-15 hetuduka-micchattaniyatattikaṃ
-1 micchattaniyatapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati hetupaccayā tīṇi
@@ -1357,7 +1357,7 @@ hetuṃ  micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo  upp
 hetupaccayā naadhipatiyā tīṇi (saṃkhittaṃ)
 naadhipatipaccayā hetuyā tīṇi (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu micchattaniyato dhammo hetussa micchattaniyatassa dhammassa hetupaccayena paccayo tīṇi
@@ -1369,8 +1369,8 @@ nahetu micchattaniyato dhammo nahetussa micchattaniyatassa dhammassa adhipatipac
 hetupaccayā naadhipatiyā tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 sammattaniyatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ sammattaniyataṃ dhammaṃ paṭicca hetu sammattaniyato dhammo uppajjati hetupaccayā tīṇi
@@ -1383,7 +1383,7 @@ hetuṃ sammattaniyatañca nahetuṃ sammattaniyatañca dhammaṃ paṭicca hetu
 hetupaccayā  naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu sammattaniyato dhammo hetussa sammattaniyatassa dhammassa hetupaccayena paccayo tīṇi
@@ -1396,8 +1396,8 @@ nahetu  sammattaniyato dhammo nahetussa sammattaniyatassa dhammassa adhipatipacc
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 aniyatapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  aniyataṃ dhammaṃ paṭicca hetu aniyato dhammo uppajjati hetupaccayā tīṇi
@@ -1413,7 +1413,7 @@ hetuṃ aniyatañca  nahetuṃ aniyatañca dhammaṃ paṭicca nahetu aniyato dh
 hetupaccayā  naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu aniyato dhammo hetussa aniyatassa dhammassa hetupaccayena paccayo tīṇi
@@ -1429,9 +1429,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-16 hetuduka-maggārammaṇattikaṃ
-1 maggārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  maggārammaṇaṃ dhammaṃ paṭicca hetu maggārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1444,7 +1444,7 @@ hetuṃ maggārammaṇañca nahetuṃ maggārammaṇañca dhammaṃ paṭicca he
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe ekaṃ (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu maggārammaṇo dhammo hetussa maggārammaṇassa dhammassa  hetupaccayena paccayo tīṇi
@@ -1458,8 +1458,8 @@ hetu maggārammaṇo dhammo hetussa maggārammaṇassa dhammassa anantarapaccaye
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 maggahetukapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  maggahetukaṃ dhammaṃ paṭicca hetu maggahetuko dhammo uppajjati hetupaccayā tīṇi
@@ -1472,7 +1472,7 @@ hetuṃ maggahetukañca nahetuṃ maggahetukañca dhammaṃ paṭicca hetu magga
 hetupaccayā  naadhipatiyā cha (saṃkhittaṃ)
 naadhipatipaccayā hetuyā cha (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu maggahetuko dhammo hetussa maggahetukassa dhammassa hetupaccayena paccayo tīṇi
@@ -1485,8 +1485,8 @@ nahetu maggahetuko dhammo nahetussa maggahetukassa dhammassa adhipatipaccayena p
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā adhipatiyā tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 maggādhipatipadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  maggādhipatiṃ dhammaṃ paṭicca hetu maggādhipati dhammo uppajjati hetupaccayā tīṇi
@@ -1499,7 +1499,7 @@ hetuṃ  maggādhipatiñca nahetuṃ maggādhipatiñca dhammaṃ paṭicca hetu 
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 naadhipatipaccayā hetuyā nava (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu maggādhipati dhammo hetussa maggādhipatissa dhammassa hetupaccayena paccayo tīṇi
@@ -1515,9 +1515,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-17 hetuduka-uppannattikaṃ
-1 uppannapadaṃ
-7 pañhāvāro
+
+
+
 
 
  hetu  uppanno dhammo hetussa uppannassa dhammassa hetupaccayena paccayo tīṇi
@@ -1534,9 +1534,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi anuppannampi uppādīpi natthi)
 
-1-18 hetuduka-atītattikaṃ
-3 paccuppannapadaṃ
-7 pañhāvāro
+
+
+
 
 
  hetu paccuppanno dhammo hetussa paccuppannassa dhammassa hetupaccayena paccayo tīṇi
@@ -1552,9 +1552,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe tīṇi (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi atītampi anāgatampi natthi)
 
-1-19 hetuduka-atītārammaṇattikaṃ
-1 atītārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  atītārammaṇaṃ dhammaṃ paṭicca hetu atītārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1568,7 +1568,7 @@ hetuṃ  atītārammaṇaṃ dhammaṃ paṭicca hetu atītārammaṇo dhammo up
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu atītārammaṇo dhammo hetussa atītārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1583,8 +1583,8 @@ hetu  atītārammaṇo ca nahetu atītārammaṇo ca dhammā hetussa atītāramm
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 anāgatārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ anāgatārammaṇaṃ dhammaṃ paṭicca hetu anāgatārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1598,7 +1598,7 @@ hetuṃ anāgatārammaṇaṃ dhammaṃ paṭicca hetu anāgatārammaṇo dhammo
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  anāgatārammaṇo dhammo hetussa anāgatārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1613,8 +1613,8 @@ hetu anāgatārammaṇo ca nahetu anāgatārammaṇo  ca dhammā hetussa anāgat
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-3 paccuppannārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  paccuppannārammaṇaṃ dhammaṃ paṭicca hetu paccuppannārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1628,7 +1628,7 @@ hetuṃ paccuppannārammaṇaṃ dhammaṃ paṭicca hetu paccuppannārammaṇo 
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  paccuppannārammaṇo dhammo hetussa paccuppannārammaṇassa  dhammassa hetupaccayena paccayo tīṇi
@@ -1644,9 +1644,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā  ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-20 hetuduka-ajjhattattikaṃ
-1 ajjhattapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ  ajjhattaṃ dhammaṃ paṭicca hetu ajjhatto dhammo uppajjati hetupaccayā tīṇi
@@ -1663,7 +1663,7 @@ hetuṃ  ajjhattaṃ dhammaṃ paṭicca hetu ajjhatto dhammo uppajjati naadhipa
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu ajjhatto dhammo hetussa ajjhattassa dhammassa hetupaccayena paccayo tīṇi
@@ -1678,8 +1678,8 @@ hetu ajjhatto ca nahetu ajjhatto ca dhammā hetussa ajjhattassa dhammassa adhipa
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 bahiddhāpadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  bahiddhā dhammaṃ paṭicca hetu bahiddhā dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -1690,7 +1690,7 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  bahiddhā dhammo hetussa bahiddhā dhammassa hetupaccayena paccayo tīṇi
@@ -1706,9 +1706,9 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ ajjhattabahiddhā na labbhanti)
 
-1-21 hetuduka-ajjhattārammaṇattikaṃ
-1 ajjhattārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  hetuṃ ajjhattārammaṇaṃ dhammaṃ paṭicca hetu ajjhattārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -1722,7 +1722,7 @@ hetuṃ ajjhattārammaṇaṃ dhammaṃ paṭicca hetu ajjhattārammaṇo  dhamm
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu ajjhattārammaṇo dhammo hetussa ajjhattārammaṇassa dhammassa hetupaccayena paccayo (saṃkhittaṃ)
@@ -1733,8 +1733,8 @@ nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-2 bahiddhārammaṇapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ bahiddhārammaṇaṃ dhammaṃ paṭicca hetu bahiddhārammaṇo dhammo uppajjati hetupaccayā (saṃkhittaṃ)
@@ -1745,7 +1745,7 @@ nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 hetupaccayā naadhipatiyā nava (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu bahiddhārammaṇo dhammo hetussa bahiddhārammaṇassa dhammassa hetupaccayena paccayo tīṇi
@@ -1760,21 +1760,21 @@ hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe nava (saṃkhittaṃ)
 (yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
 
-1-22 hetuduka-sanidassanasappaṭighattikaṃ
-1 anidassanasappaṭighapadaṃ
-1-6 paṭiccavārādi
+
+
+
 
 
  nahetuṃ  anidassanasappaṭighaṃ dhammaṃ paṭicca nahetu anidassanasappaṭigho dhammo uppajjati hetupaccayā adhipatipaccayā sahajātapaccayā aññamaññapaccayā  nissayapaccayā kammapaccayā vipākapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā vippayuttapaccayā atthipaccayā avigatapaccayā
 
  hetuyā  ekaṃ adhipatiyā ekaṃ sahajāte ekaṃ aññamaññe ekaṃ nissaye ekaṃ kamme ekaṃ vipāke ekaṃ magge ekaṃ vippayutte ekaṃ atthiyā ekaṃ avigate ekaṃ (saṃkhittaṃ)
  nahetuyā ekaṃ naārammaṇe ekaṃ naadhipatiyā ekaṃ (sabbe paccayā kātabbā) novigate ekaṃ (saṃkhittaṃ)
-7 pañhāvāro
+
 
 
  nahetu anidassanasappaṭigho dhammo nahetussa anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo aññamaññapaccayena paccayo nissayapaccayena paccayo atthipaccayena paccayo avigatapaccayena paccayo (sabbattha ekaṃ)
-2 anidassanaappaṭighapadaṃ
-1-6 paṭiccavārādi
+
+
 
 
  hetuṃ  anidassanaappaṭighaṃ dhammaṃ paṭicca hetu anidassanaappaṭigho dhammo uppajjati hetupaccayā tīṇi
@@ -1789,7 +1789,7 @@ hetuṃ anidassanaappaṭighaṃ dhammaṃ paṭicca hetu anidassanaappaṭigho 
 hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ)
 nahetupaccayā ārammaṇe dve (saṃkhittaṃ)
 (sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā)
-7 pañhāvāro
+
 
 
  hetu  anidassanaappaṭigho dhammo hetussa anidassanaappaṭighassa dhammassa hetupaccayena paccayo tīṇi

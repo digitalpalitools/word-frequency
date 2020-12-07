@@ -2,7 +2,7 @@
 Saṃyuttanikāyo
 Khandhavaggo
 1. Khandhasaṃyuttaṃ
-
+1. Nakulapituvaggo
 1. Nakulapitusuttaṃ
 1 .     suṃsumāragire (sī. syā. kaṃ. pī.)
 
@@ -107,7 +107,7 @@ Nakulapituvaggo paṭhamo.
 
 
 
-
+2. Aniccavaggo
 1. Aniccasuttaṃ
 12 .  
 2. Dukkhasuttaṃ
@@ -132,7 +132,7 @@ Aniccavaggo dutiyo.
 
 
 
-
+3. Bhāravaggo
 1. Bhārasuttaṃ
 22 .  
 
@@ -170,7 +170,7 @@ Bhāravaggo tatiyo.
 
 
 
-
+4. Natumhākaṃvaggo
 1. Natumhākaṃsuttaṃ
 33 .    
 
@@ -210,7 +210,7 @@ Natumhākaṃvaggo catuttho.
 
 
 
-
+5. Attadīpavaggo
 1. Attadīpasuttaṃ
 43 .  
   
@@ -254,7 +254,7 @@ Mūlapaṇṇāsako samatto.
 
 
 
-
+6. Upayavaggo
 1. Upayasuttaṃ
 53 .   upāyo (bahūsu) rūpūpāyaṃ (sī. syā. kaṃ.), rūpupāyaṃ (pī. ka.) 
 
@@ -364,7 +364,7 @@ Upayavaggo chaṭṭho.
 
 
 
-
+7. Arahantavaggo
 1. Upādiyamānasuttaṃ
 63 .   
 
@@ -407,7 +407,7 @@ Arahantavaggo sattamo.
 
 
 
-
+8. Khajjanīyavaggo
 1. Assādasuttaṃ
 73 .   
 2. Samudayasuttaṃ
@@ -511,7 +511,7 @@ Khajjanīyavaggo aṭṭhamo.
 
  
 
-
+9. Theravaggo
 1. Ānandasuttaṃ
 83 .  
 mantāniputto (ka. sī. syā. kaṃ. pī. ka.)
@@ -625,7 +625,7 @@ Theravaggo navamo.
 
 
 
-
+10. Pupphavaggo
 1. Nadīsuttaṃ
 93 .  ubhato tīre (sī.), ubhato tīresu (syā. kaṃ.) babbajā (sī. pī.)    
 2. Pupphasuttaṃ
@@ -712,7 +712,7 @@ Majjhimapaṇṇāsako samatto.
 
 
 
-
+11. Antavaggo
 1. Antasuttaṃ
 103 .  
  
@@ -740,7 +740,7 @@ Antavaggo ekādasamo.
 
 
 
-
+12. Dhammakathikavaggo
 1. Avijjāsuttaṃ
 113 .   
 2. Vijjāsuttaṃ
@@ -781,7 +781,7 @@ Dhammakathikavaggo dvādasamo.
 
 
 
-
+13. Avijjāvaggo
 1. Samudayadhammasuttaṃ
 126 .  
  
@@ -823,7 +823,7 @@ Avijjāvaggo terasamo.
 
 
 
-
+14. Kukkuḷavaggo
 1. Kukkuḷasuttaṃ
 136 . 
 2. Aniccasuttaṃ
@@ -856,7 +856,7 @@ Kukkuḷavaggo cuddasamo.
 
 
 
-
+15. Diṭṭhivaggo
 1. Ajjhattasuttaṃ
 150 .    
 2. Etaṃmamasuttaṃ

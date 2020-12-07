@@ -2,7 +2,7 @@
 Vinayapiṭake
 Sāratthadīpanī-ṭīkā (tatiyo bhāgo)
 5. Pācittiyakaṇḍaṃ
-
+1. Musāvādavaggo
 1. Musāvādasikkhāpadavaṇṇanā
 1 .   khuddakāna ‘‘khuddaka  Tatthā ‘‘rūpaṃ anicca’’ ‘‘jānitabbato’’ ‘‘jātidhammato’’
 sampajāna musā bhāsatī ‘‘jānanto musā bhāsatī’’
@@ -68,7 +68,7 @@ Ekadivasampi na vaṭṭatī Tato Iṭṭhakaṃ gaṇhāmī Udakenā Uccāletv�
 87-88 . Avisayattā  anāpattī Ovaṭṭhaṃ channa
 Pathavīkhaṇanasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito musāvādavaggo paṭhamo.
-
+2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpadavaṇṇanā
 89 .  niggahetuṃ asakkonto ‘‘rukkhaṭṭhakadibbavimāne nipannassā’’
 Rukkhaṭṭhakadibbavimāne ‘‘rukkhaṭṭhakavimāna’’ Bāhuṃ thanamūleyeva chindī  Rukkhadhamme
@@ -142,7 +142,7 @@ Mahallakavihārasikkhāpadavaṇṇanā niṭṭhitā.
 Sappāṇakasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito senāsanavaggo dutiyo.
 Bhūtagāmavaggotipi imasseva nāmaṃ.
-
+3. Ovādavaggo
 1. Ovādasikkhāpadavaṇṇanā
 144 . kathānusārenā Kathetuṃ vaṭṭantī tiracchānakathā ‘‘saggamaggagamanepī’’ Api Tiracchānabhūta Samiddho Sahitattho gambhīro. Bahuraso Lakkhaṇapaṭivedhasaṃyutto
 145-147 . Parato Karontovā Pātimokkho  saṃvaro, Pātimokkhasaṃvarena saṃvuto ‘‘samannāgato’’  Vattatī Viharatī
@@ -233,7 +233,7 @@ Paripācitasikkhāpadavaṇṇanā niṭṭhitā.
 198 . upanandassa catutthasikkhāpadenā
 Rahonisajjasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito bhikkhunivaggo tatiyo.
-
+4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpadavaṇṇanā
 206 .   addhayojanaṃ vā yojanaṃ vā gantuṃ sakkotī Imesaṃyevā Ettakāna Ekadivasaṃ bhuñjitabba Puna ādito paṭṭhāya bhuñjituṃ na vaṭṭatī
 208 . ‘‘Gacchanto vā āgacchanto vā Antarāmagge gataṭṭhāne ‘‘Āgacchantepi eseva nayo’’ ‘‘gantvā paccāgacchanto’’ ‘‘bhikkhūnaṃyeva atthāyā’’
@@ -320,7 +320,7 @@ Sace pana mūlepi paṭiggahitaṃ hotī Koṭṭhāse karotī Gahitāvasesa  Ga
 Mahābhūtesū Patatī Alladāruṃ rukkhato chinditvāpi kātuṃ vaṭṭatī Sappadaṭṭhakkhaṇeyeva vaṭṭatī
 Dantaponasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito bhojanavaggo catuttho.
-
+5. Acelakavaggo
 1. Acelakasikkhāpadavaṇṇanā
 273 .  tesa Tatthā Ito Sace titthiyo vadatī 
 Acelakasikkhāpadavaṇṇanā niṭṭhitā.
@@ -349,7 +349,7 @@ Senāvāsasikkhāpadavaṇṇanā niṭṭhitā.
 322 . kati te lakkhāni laddhānī
 Uyyodhikasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito acelakavaggo pañcamo.
-
+6. Surāpānavaggo
 1. Surāpānasikkhāpadavaṇṇanā
 326-328 .   vatiyā piṭṭhasurā pūvasurā odanasurā kiṇṇapakkhittā sambhārasaṃyuttā
 pupphāsavo phalāsavo madhvāsavo guḷāsavo sambhārasaṃyutto. Bījato paṭṭhāyā
@@ -384,7 +384,7 @@ Vikappanasikkhāpadavaṇṇanā niṭṭhitā.
 377 .
 Cīvaraapanidhānasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito surāpānavaggo chaṭṭho.
-
+7. Sappāṇakavaggo
 1. Sañciccasikkhāpadavaṇṇanā
 382 .   issāso, ‘‘dhanuggahācariyo’’ dhanuggahācariyo Appamattena vattaṃ kātabba
 Sañciccasikkhāpadavaṇṇanā niṭṭhitā.
@@ -422,7 +422,7 @@ Ukkhittasambhogasikkhāpadavaṇṇanā niṭṭhitā.
 428 . pire ‘‘para amāmakā’’ Pire cara pire
 Kaṇṭakasikkhāpadavaṇṇanā niṭṭhitā.
 Niṭṭhito sappāṇakavaggo sattamo.
-
+8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadavaṇṇanā
 434 .  vācāya vācāya āpattī
 Sahadhammikasikkhāpadavaṇṇanā niṭṭhitā.
@@ -476,7 +476,7 @@ Chandaṃ adatvā gamanasikkhāpadavaṇṇanā niṭṭhitā.
 Dubbalasikkhāpadavaṇṇanā niṭṭhitā.
 489 .
 Niṭṭhito sahadhammikavaggo aṭṭhamo.
-
+9. Rājavaggo
 1. Antepurasikkhāpadavaṇṇanā
 497-499 . Kataṃ vā karissanti vā Imesa Ratana Ubhato sujāta ‘‘mātito ca pitito cā’’ ‘‘saṃsuddhagahaṇiko’’ saṃsuddhagahaṇiko, 
 Yāva  sattamā pitāmahayugā Yuga

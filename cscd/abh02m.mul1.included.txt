@@ -1,9 +1,9 @@
 ﻿
-1 suttantabhājanīyaṃ
+
  dvādasāyatanāni   cakkhāyatanaṃ rūpāyatanaṃ sotāyatanaṃ saddāyatanaṃ ghānāyatanaṃ gandhāyatanaṃ jivhāyatanaṃ rasāyatanaṃ kāyāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
 cakkhuṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ rūpā aniccā dukkhā anattā vipariṇāmadhammā sotaṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ saddā aniccā dukkhā anattā vipariṇāmadhammā ghānaṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ gandhā aniccā dukkhā anattā vipariṇāmadhammā jivhā aniccā dukkhā anattā vipariṇāmadhammā rasā aniccā dukkhā anattā vipariṇāmadhammā kāyo anicco dukkho anattā vipariṇāmadhammo phoṭṭhabbā aniccā dukkhā anattā vipariṇāmadhammā mano anicco dukkho anattā vipariṇāmadhammo dhammā aniccā dukkhā anattā vipariṇāmadhammā
 
-2 abhidhammabhājanīyaṃ
+
  dvādasāyatanāni   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ manāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ dhammāyatanaṃ
  tattha katamaṃ cakkhāyatanaṃ yaṃ cakkhu  catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho yena cakkhunā  anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passi vā passati vā passissati vā passe vā cakkhumpetaṃ cakkhāyatanampetaṃ cakkhudhātupesā cakkhundriyampetaṃ lokopeso dvārāpesā samuddopeso paṇḍarampetaṃ khettampetaṃ vatthumpetaṃ nettampetaṃ nayanampetaṃ orimaṃ tīrampetaṃ suñño gāmopeso idaṃ vuccati cakkhāyatanaṃ 
  tattha  katamaṃ sotāyatanaṃ yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho yena sotena anidassanena sappaṭighena saddaṃ anidassanaṃ sappaṭighaṃ suṇi vā suṇāti vā suṇissati vā suṇe vā sotampetaṃ sotāyatanampetaṃ sotadhātupesā sotindriyampetaṃ lokopeso dvārāpesā samuddopeso paṇḍarampetaṃ khettampetaṃ vatthumpetaṃ orimaṃ tīrampetaṃ suñño gāmopeso idaṃ vuccati sotāyatanaṃ
@@ -36,7 +36,7 @@ tattha katamaṃ  rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ
 tattha katamā asaṅkhatā dhātu rāgakkhayo  dosakkhayo mohakkhayo  ayaṃ vuccati asaṅkhatā dhātu
 
 
-3 pañhāpucchakaṃ
+
  dvādasāyatanāni   cakkhāyatanaṃ rūpāyatanaṃ sotāyatanaṃ saddāyatanaṃ ghānāyatanaṃ gandhāyatanaṃ jivhāyatanaṃ rasāyatanaṃ kāyāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
  dvādasannaṃ āyatanānaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
 

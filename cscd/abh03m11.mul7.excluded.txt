@@ -1,5 +1,5 @@
 ﻿Dhammapaccanīye dukadukapaṭṭhānaṃ
-
+1-1-5. Hetuduka-sahetukādidukāni
 1 .  
 
 2 .
@@ -24,7 +24,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+1-6. Hetuduka-cūḷantaradukaṃ
 8 .
 
 
@@ -37,7 +37,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+1-13-18. Hetuduka-āsavādigocchakāni
 9 .
 
 
@@ -48,12 +48,12 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+1-19-53. Hetuduka-saññojanādidukāni
 10 .
 
 
 
-
+1-54-81. Hetuduka-mahantaradukaṃ
 11 .
 
 
@@ -66,7 +66,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+1-82. Hetuduka-piṭṭhidukaṃ
 12 .
 
 13 .
@@ -79,7 +79,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+2-6-1. Sahetukādidukāni-hetudukaṃ
 18 . 
 
 
@@ -90,27 +90,27 @@ Hetu-ārammaṇapaccayā
 
 21 .
 22 . 
-
+7-13-1. Cūḷantaradukāni-hetudukaṃ
 23 .
 
 
 
 
 
-
+14-19-1. Āsavagocchaka-hetudukaṃ
 24 . 
 
 
 
 
 
-
+20-54-1. Saññojanādidukāni-hetudukaṃ
 25 .
 26 .
 27 . 
 28 .
 29 .
-
+55-68-1. Mahantaradukāni-hetudukaṃ
 30 . 
 31 .
 
@@ -120,10 +120,10 @@ Hetu-ārammaṇapaccayā
 33 .
 
 34 .
-
+69-82-1. Upādānādidukāni-hetudukaṃ
 35 .
 36 .
-
+83-1. Piṭṭhiduka-hetudukaṃ
 37 .  
 38 . 
 39 .
@@ -138,13 +138,13 @@ Hetu-ārammaṇapaccayā
 43 .   
 
 
-
+100-2-6. Saraṇaduka-sahetukādidukāni
 44 .
 
 45 .
 
 
-
+100-7-13. Saraṇaduka-cūḷantaradukāni
 46 . 
 
 
@@ -153,7 +153,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+100-14-19. Saraṇaduka-āsavagocchakaṃ
 47 . 
 
 
@@ -165,10 +165,10 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+100-20-54. Saraṇaduka-saññojanādidukāni
 48 .
 49 . 
-
+100-55-68. Saraṇaduka-mahantaradukāni
 50 . 
 
 
@@ -181,10 +181,10 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+100-69-82. Saraṇaduka-upādānādidukāni
 52 .
 53 .
-
+100-83. Saraṇaduka-dassanādidukāni
 54 .  
 
 55 .

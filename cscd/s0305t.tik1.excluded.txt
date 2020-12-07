@@ -1,5 +1,5 @@
 ﻿2. Bojjhaṅgasaṃyuttaṃ
-
+1. Pabbatavaggo
 1.Himavantasuttavaṇṇanā
 182 .   bodhaṃ, bodhi. Aṅgā patiṭṭhānaṃ, āyūhanā patiṭṭhānaṃ, āyūhanā patiṭṭhānaṃ, āyūhanā patiṭṭhānaṃ, āyūhanā. Oghataraṇasuttavaṇṇanāyaṃ
 
@@ -51,13 +51,13 @@ Kuṇḍaliyasuttādivaṇṇanā niṭṭhitā.
 9. Paṭhamauppannasuttavaṇṇanā
 190 . Tathāgatassa pātubhāvā
 Pabbatavaggavaṇṇanā niṭṭhitā.
-
+2. Gilānavaggo
 1-3. Pāṇasuttādivaṇṇanā
 192-194 . Yesa   Cattāro iriyāpathā atthi Eta ‘‘sahavipassanake maggabojjhaṅge’’ Dutiyatatiyāni uttānatthāneva
 4-10. Paṭhamagilānasuttādivaṇṇanā
 195-201 . Visuddhaṃ ahosi ‘‘pokkharapatte …pe… vinivattitvā gato’’ Eseva nayo Visarukkhavātasamphassenā Mandasītajaro Sesa Sabbatthā
 Gilānavaggavaṇṇanā niṭṭhitā.
-
+3. Udāyivaggo
 1-2. Bodhāyasuttādivaṇṇanā
 202-203 . Kittakena nu kho bujjhanakaaṅgā nāma vuccanti Missakabojjhaṅgā kathitā Dhammaparicchedo kathito
 3-5. Ṭhāniyasuttādivaṇṇanā
@@ -71,7 +71,7 @@ Gilānavaggavaṇṇanā niṭṭhitā.
 10. Udāyisuttavaṇṇanā
 211 .   abahukato, ‘‘ukkujjaṃ vuccati udayo, avakujjaṃ vayo’’ Parivattento Tena tenākārena viharanta Tathābhāvāyā ‘‘khīṇā jātīti…pe… taṃ dassento evamāhā’’
 Udāyivaggavaṇṇanā niṭṭhitā.
-
+4. Nīvaraṇavaggo
 3-4. Upakkilesasuttādivaṇṇanā
 214-215 . Na ca pabhāvanta Pabhijjanasabhāva Avasesaṃ loha Uppajjituṃ appadānenā ‘‘yadaggena hī’’ cuṇṇavicuṇṇatā Na āvarantī Na paṭicchādentī  Catubhūmakacittassā
 8. Āvaraṇanīvaraṇasuttavaṇṇanā
@@ -82,7 +82,7 @@ Pañca nīvaraṇā dūre honti Tameva pīti ‘‘pañca nīvaraṇe vikkhambhe
 10. Nīvaraṇasuttavaṇṇanā
 221 . Andhabhāvakaraṇā vighāto, ‘‘vighātapakkhiyāti dukkhapakkhikā’’ anibbānasaṃvattanikā. Missakabojjhaṅgāva kathitā
 Nīvaraṇavaggavaṇṇanā niṭṭhitā.
-
+5. Cakkavattivaggo
 1. Vidhāsuttavaṇṇanā
 222 .   vidhā, ‘‘tayo mānakoṭṭhāsā’’ Tathā tathā vidahanato
 2. Cakkavattisuttavaṇṇanā
@@ -93,7 +93,7 @@ Sabbesaṃ catubhūmakadhammānaṃ purecaraṃ dhammakāyūpapannaṃ accuggata
 4-10. Duppaññasuttādivaṇṇanā
 225-231 . eḷamūgo ‘‘mukhena vāca’’
 Cakkavattivaggavaṇṇanā niṭṭhitā.
-
+6. Sākacchavaggo
 1. Āhārasuttavaṇṇanā
 232 . Purimanayato   Eva satisampajaññaṃ satisampajaññaṃ ‘‘satisampajañña’’ Arahattamaggena bhāvanāpāripūrī hoti
 dhammavicayasambojjhaṅgassa. Paripucchakatā ‘‘khandha…pe… bahulatā’’
@@ -164,11 +164,11 @@ Saṅgāravasuttavaṇṇanā niṭṭhitā.
 237 . Ekaṃsena bhagavā nīvaraṇā  Kāyakilamatho ‘‘tassa kirā’’ Maggenevā Assā Etaṃ
 Abhayasuttavaṇṇanā niṭṭhitā.
 Sākacchavaggavaṇṇanā niṭṭhitā.
-
+7. Ānāpānavaggo
 1. Aṭṭhikamahapphalasuttādivaṇṇanā
 238 . Uppannasaññā ‘‘taṃ paneta’’ Chavicammampi upaṭṭhātī Sati vā upādisese upādi,
 Ānāpānavaggavaṇṇanā niṭṭhitā.
-
+8. Nirodhavaggo
 1-10. Asubhasuttādivaṇṇanā
 248-257 . Anabhirati nirodhasaññā  ‘‘nirodhasaññā missakā’’ Vīsati kammaṭṭhānānī 
 Nirodhavaggavaṇṇanā niṭṭhitā.

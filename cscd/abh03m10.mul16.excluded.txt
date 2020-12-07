@@ -1,5 +1,5 @@
 ﻿1-14. Kusalattika-āsavadukaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 . 
@@ -22,8 +22,8 @@ Hetu-ārammaṇapaccayā
 
 
 6 .  
-
-
+1-15. Kusalattika-sāsavadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 7 .
@@ -38,8 +38,8 @@ Hetupaccayo
 
 
 
-
-
+Anāsavapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 10 .
@@ -54,7 +54,7 @@ Hetuārammaṇapaccayādi
 
 
 13 .
-
+1-16. Kusalattika-āsavasampayuttadukaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
@@ -73,8 +73,8 @@ Hetupaccayo
 
 18 .
 
-
-
+1-17. Kusalattika-āsavasāsavadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 19 .  
@@ -91,8 +91,8 @@ Hetupaccayo
 
 
 23 .
-
-
+1-18. Kusalattika-āsavaāsavasampayuttadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 24 .
 
@@ -110,8 +110,8 @@ Paccayacatukkaṃ
 
 
 29 . 
-
-
+1-19. Kusalattika-āsavavippayuttasāsavadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 30 .

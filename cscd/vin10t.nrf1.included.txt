@@ -1,5 +1,5 @@
 ﻿
-pārājikakathā
+
 
 
  tividhe  tilamattampi magge sevanacetano
@@ -1019,7 +1019,7 @@ vinaye vividhehi nayehi yute
 paramatthanayaṃ abhipatthayatā
 pariyāpuṇitabbamayaṃ satataṃ
 
-saṅghādisesakathā
+
 
  mocetukāmatācittaṃ vāyāmo sukkamocanaṃ
 aññatra supinantena hoti saṅghādisesatā
@@ -1692,7 +1692,7 @@ vinayavinicchayametamuttamaṃ
 vividhanayanayutaṃ upenti ye
 vinayanaye paṭutaṃ upenti te
 
-aniyatakathā
+
 
  raho  nisajjassādena mātugāmassa santikaṃ
 gantukāmo nivāseti akkhiṃ añjeti bhuñjati
@@ -1723,7 +1723,7 @@ antodvādasahatthaṭṭho anāpattikaro siyā
 na karoti anāpattiṃ tisamuṭṭhānamevidaṃ
 
 
-nissaggiyakathā
+
 
  khomaṃ  kappāsakoseyyaṃ sāṇaṃ bhaṅgañca kambalaṃ
 cīvaraṃ chabbidhaṃ vuttaṃ jātito pana kappiyaṃ
@@ -2785,7 +2785,7 @@ sīlantamāpattivipattigāhaṃ
 taranti paññattimahāsamuddaṃ
 vinicchayaṃ ye panimaṃ taranti
 
-pācittiyakathā
+
 
  sampajānamusāvāde  pācittiyamudīritaṃ
 davā ravā bhaṇantassa na dosummattakādino
@@ -5727,7 +5727,7 @@ samuṭṭhānādayo sabbe sañcarittasamā matā
 
 
 
-pāṭidesanīyakathā
+
 
  yo cantaragharaṃ bhikkhu paviṭṭhāya tu hatthato
 aññātikāya yaṃ kiñci tassa bhikkhuniyā pana
@@ -5853,7 +5853,7 @@ bahārāme gahetvā vā antoyevassa bhuñjato
 samuṭṭhānādayo sabbe kathinena samā matā
 
 
-sekhiyakathā
+
 
  yo  anādariyeneva purato pacchatopi vā
 olambetvā nivāseyya tassa cāpatti dukkaṭaṃ

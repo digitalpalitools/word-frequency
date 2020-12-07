@@ -1,5 +1,5 @@
 ﻿4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgo)
-
+1. Lasuṇavaggo
 1. Paṭhamasikkhāpadaṃ
 Ime kho panāyyāyo chasaṭṭhisatā pācittiyā
 Dhammā uddesaṃ āgacchanti.
@@ -110,7 +110,7 @@ Naccaṃ  Gītaṃ Vāditaṃ
 837 . 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Lasuṇavaggo paṭhamo.
-
+2. Andhakāravaggo
 1. Paṭhamasikkhāpadaṃ
 838 .   
 839 . ‘‘Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṃ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiya’’
@@ -227,7 +227,7 @@ Attāna
 882 .
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Andhakāravaggo dutiyo.
-
+3. Naggavaggo
 1. Paṭhamasikkhāpadaṃ
 883 .  mahāva. 350 daharānaṃ daharānaṃ (sī.)  
 884 . ‘‘Yā  pana bhikkhunī naggā nahāyeyya, pācittiya’’
@@ -330,7 +330,7 @@ Paṭibāheyyā kathinaṃ uddhareyyāti (ka.)
 931 . 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Naggavaggo tatiyo.
-
+4. Tuvaṭṭavaggo
 1. Paṭhamasikkhāpadaṃ
 932 .  
 933 . ‘‘Yā  pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṃ, pācittiya’’
@@ -437,7 +437,7 @@ Vassaṃvuṭṭhā
 976 . 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Tuvaṭṭavaggo catuttho.
-
+5. Cittāgāravaggo
 1. Paṭhamasikkhāpadaṃ
 977 .   
 978 . ‘‘Yā pana bhikkhunī rājāgāraṃ vā cittāgāraṃ vā ārāmaṃ vā uyyānaṃ vā pokkharaṇiṃ vā dassanāya gaccheyya, pācittiya’’
@@ -537,7 +537,7 @@ Vāceyyā
 1020 .  
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Cittāgāravaggo pañcamo.
-
+6. Ārāmavaggo
 1. Paṭhamasikkhāpadaṃ
 1021 . 
 ‘‘Yā pana bhikkhunī anāpucchā ārāmaṃ paviseyya, pācittiya’’
@@ -634,7 +634,7 @@ Pasākhaṃ Jāta Gaṇḍo  Rudhitaṃ Anapaloketvā Saṅgho Gaṇo Puriso Sad
 1066 . yā kāci viññū dutiyā (syā.), yo koci viññū dutiyo (ka.)
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Ārāmavaggo chaṭṭho.
-
+7. Gabbhinīvaggo
 1. Paṭhamasikkhāpadaṃ
 1067 .  garugabbhā (syā.)  
 1068 . ‘‘Yā pana bhikkhunī gabbhiniṃ vuṭṭhāpeyya, pācittiya’’
@@ -746,7 +746,7 @@ Sahajīvinī Vuṭṭhāpetvā Neva  vūpakāseyyā Na vūpakāsāpeyyā
 1118 .
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Gabbhinivaggo sattamo.
-
+8. Kumārībhūtavaggo
 1. Paṭhamasikkhāpadaṃ
 1119 .   
 1120 . ‘‘Yā pana bhikkhunī ūnavīsativassaṃ  kumāribhūtaṃ vuṭṭhāpeyya, pācittiya’’
@@ -881,7 +881,7 @@ Ekaṃ vassa Dve vuṭṭhāpeyyā
 1177 .
 Terasamasikkhāpadaṃ niṭṭhitaṃ.
 Kumārībhūtavaggo aṭṭhamo.
-
+9. Chattupāhanavaggo
 1. Paṭhamasikkhāpadaṃ
 1178 .   
 ‘‘Yā pana bhikkhunī chattupāhanaṃ dhāreyya, pācittiya’’

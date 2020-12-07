@@ -1,8 +1,8 @@
 ﻿
-1 paṇṇattivāro
+
 
  aṭṭhārasa  dhātuyo  cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
-1 padasodhanavāro
+
 
  (ka) cakkhu cakkhudhātu
 (kha) cakkhudhātu cakkhu
@@ -29,7 +29,7 @@
 (kha) na manoviññāṇadhātu na manoviññāṇaṃ
 (ka) na dhammo na dhammadhātu
 (kha) na dhammadhātu na dhammo
-2 padasodhanamūlacakkavāro
+
 
  (ka) cakkhu  cakkhudhātu
 (kha) dhātū  sotadhātu
@@ -47,7 +47,7 @@
 (kha) na dhātū na cakkhudhātu
 (ka) na dhammo na dhammadhātu
 (kha) na dhātū na manoviññāṇadhātu (cakkaṃ bandhitabbaṃ)
-3 suddhadhātuvāro
+
 
  (ka) cakkhu  dhātu
 (kha) dhātū cakkhu
@@ -82,7 +82,7 @@ ghānaṃ dhātu jivhā dhātu kāyo dhātu rūpaṃ dhātu saddo dhātu gandho 
 (kha) na dhātū na manoviññāṇaṃ
 (ka) na dhammo na dhātu
 (kha) na dhātū na dhammo
-4 suddhadhātumūlacakkavāro
+
 
  (ka) cakkhu dhātu
 (kha) dhātū sotaṃ
@@ -105,7 +105,7 @@ ghānaṃ dhātu jivhā dhātu kāyo dhātu rūpaṃ dhātu saddo dhātu gandho 
 (kha) na dhātū na manoviññāṇaṃ (cakkaṃ bandhitabbaṃ)
 
 
-1 padasodhanavāro
+
 
  (ka) cakkhu  cakkhudhātūti
 dibbacakkhu paññācakkhu cakkhu na cakkhudhātu cakkhudhātu cakkhu ceva cakkhudhātu ca
@@ -171,7 +171,7 @@ manodhātuṃ ṭhapetvā  avaseso na manodhātu mano manañca manodhātuñca �
 (ka) na dhammo na dhammadhātūti āmantā
 (kha) na dhammadhātu na dhammoti
 dhammadhātuṃ ṭhapetvā avaseso na dhammadhātu dhammo dhammañca dhammadhātuñca ṭhapetvā avaseso na ceva dhammo na ca dhammadhātu
-2 padasodhanamūlacakkavāro
+
 
  (ka) cakkhu  cakkhudhātūti
 dibbacakkhu paññācakkhu cakkhu na cakkhudhātu cakkhudhātu cakkhu ceva cakkhudhātu ca
@@ -187,7 +187,7 @@ dhammadhātu dhātu ceva dhammadhātu ca avasesā dhātū na dhammadhātu
 na cakkhu na cakkhudhātūti āmantā
 na dhātū na ghānadhātu na dhātū na dhammadhātūti āmantā
 (cakkaṃ bandhitabbaṃ sabbe āmantā ubhatopi sesepi)
-3 suddhadhātuvāro
+
 
  (ka) cakkhu  dhātūti āmantā
 (kha) dhātū cakkhudhātūti
@@ -218,7 +218,7 @@ na rūpaṃ na dhātūti
 rūpaṃ ṭhapetvā saddaṃ gandhaṃ rasaṃ phoṭṭhabbaṃ cakkhuviññāṇaṃ  manoviññāṇaṃ ṭhapetvā
 (ka) na  dhammo na dhātūti āmantā
 (kha) na dhātū na dhammadhātūti āmantā
-4 suddhadhātumūlacakkavāro
+
 
  (ka) cakkhu dhātūti āmantā
 (kha) dhātū sotadhātūti
@@ -238,8 +238,8 @@ na dhammo na dhātūti āmantā
 na  dhātū na sotadhātu na dhātū na manoviññāṇadhātūti āmantā (cakkaṃ bandhitabbaṃ)
 (yathā āyatanayamakassa paṇṇatti evaṃ dhātuyamakassa paṇṇatti vitthāretabbā)
 
-2 pavattivāro 1 uppādavāro
-(1) paccuppannavāro
+
+
 
  (ka) yassa  cakkhudhātu uppajjati tassa sotadhātu uppajjatīti
 sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati no ca tesaṃ sotadhātu uppajjati sacakkhukānaṃ sasotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati sotadhātu ca uppajjati
@@ -259,7 +259,7 @@ sacittakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu
 (kha) yassa vā pana dhammadhātu uppajjati tassa cakkhudhātu uppajjatīti
 acakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu uppajjati no ca tesaṃ  cakkhudhātu uppajjati sacakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu ca uppajjati cakkhudhātu ca uppajjati
 (yathā āyatanayamakaṃ vibhattaṃ evaṃ dhātuyamakampi vibhajitabbaṃ sadisaṃ kātabbaṃ)
-3 pariññāvāro
+
  yo cakkhudhātuṃ parijānāti so sotadhātuṃ parijānātīti āmantā (dhātuyamakaṃ paripuṇṇaṃ peyyālena)
 
 

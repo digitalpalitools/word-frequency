@@ -2,7 +2,7 @@
 Saṃyuttanikāyo
 Mahāvaggo
 1. Maggasaṃyuttaṃ
-
+1. Avijjāvaggo
 1. Avijjāsuttaṃ
 1 .    
 anudeva (sī. pī. ka.) 
@@ -66,7 +66,7 @@ Avijjāvaggo paṭhamo.
 
 
 
-
+2. Vihāravaggo
 1. Paṭhamavihārasuttaṃ
 11 .  
   vāyāmaṃ (sī. syā.)
@@ -95,7 +95,7 @@ Tīṇi suttantāni ekanidānāni.Vihāravaggo dutiyo.
 
 
 
-
+3. Micchattavaggo
 1. Micchattasuttaṃ
 21 .   
 2. Akusaladhammasuttaṃ
@@ -126,7 +126,7 @@ Micchattavaggo tatiyo.
 
 
 
-
+4. Paṭipattivaggo
 1. Paṭhamapaṭipattisuttaṃ
 31 .   
 2. Dutiyapaṭipattisuttaṃ
@@ -164,7 +164,7 @@ Paṭipattivaggo catuttho.
 
 
 
-
+5. Aññatitthiyapeyyālavaggo
 1. Rāgavirāgasuttaṃ
 41 .    
 2-7. Saṃyojanappahānādisuttachakkaṃ
@@ -175,7 +175,7 @@ Aññatitthiyapeyyālavaggo pañcamo.
 
 
 
-
+6. Sūriyapeyyālavaggo
 1. Kalyāṇamittasuttaṃ
 49 .   
 2-6. Sīlasampadādisuttapañcakaṃ
@@ -192,7 +192,7 @@ Sūriyapeyyālavaggo chaṭṭho.
 
 
 
-
+7. Ekadhammapeyyālavaggo
 1. Kalyāṇamittasuttaṃ
 63 .    
 2-6. Sīlasampadādisuttapañcakaṃ
@@ -209,7 +209,7 @@ Ekadhammapeyyālavaggo sattamo.
 
 
 
-
+8. Dutiyaekadhammapeyyālavaggo
 1. Kalyāṇamittasuttaṃ
 77 .    
 2-6. Sīlasampadādisuttapañcakaṃ
@@ -226,7 +226,7 @@ Dutiyaekadhammapeyyālavaggo aṭṭhamo.
 
 
 
-
+1. Gaṅgāpeyyālavaggo
 1. Paṭhamapācīnaninnasuttaṃ
 91 .  
 2-5. Dutiyādipācīnaninnasuttacatukkaṃ
@@ -242,7 +242,7 @@ Gaṅgāpeyyālavaggo paṭhamo.
 
 
 
-
+2. Dutiyagaṅgāpeyyālavaggo
 1. Paṭhamapācīnaninnasuttaṃ
 103 .  
 2-6. Dutiyādipācīnaninnasuttapañcakaṃ
@@ -287,7 +287,7 @@ Dutiyagaṅgāpeyyālavaggo dutiyo.
 
 
 
-
+5. Appamādapeyyālavaggo
 1. Tathāgatasuttaṃ
 139 .   dipadā (sī.) bahupadā (?)  
   
@@ -310,7 +310,7 @@ Appamādapeyyālavaggo pañcamo.
 
 
 
-
+6. Balakaraṇīyavaggo
 1. Balasuttaṃ
 149 .  
 
@@ -344,7 +344,7 @@ Balakaraṇīyavaggo chaṭṭho.
 
 
 
-
+7. Esanāvaggo
 1. Esanāsuttaṃ
 161 . 
 
@@ -377,7 +377,7 @@ Esanāvaggo sattamo.
 
 
 
-
+8. Oghavaggo
 1. Oghasuttaṃ
 172 .   
 2. Yogasuttaṃ

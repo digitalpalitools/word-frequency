@@ -1,7 +1,7 @@
 ﻿
-(ka) uddeso
-1 suddhacittasāmaññaṃ
-1 puggalavāro
+
+
+
 
  (ka) yassa  cittaṃ uppajjati na nirujjhati tassa cittaṃ nirujjhissati na uppajjissati
 (kha) yassa vā pana cittaṃ nirujjhissati na uppajjissati tassa cittaṃ uppajjati na nirujjhati
@@ -100,8 +100,8 @@
 (kha) yassa vā pana cittaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ
 (ka) yassa cittaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ
 (kha) yassa vā pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ
-1 suddhacittasāmaññaṃ
-2 dhammavāro
+
+
 
  (ka) yaṃ  cittaṃ uppajjati na nirujjhati taṃ cittaṃ nirujjhissati na uppajjissati
 (kha) yaṃ vā pana cittaṃ nirujjhissati na uppajjissati taṃ cittaṃ uppajjati na nirujjhati
@@ -200,8 +200,8 @@
 (kha) yaṃ  vā pana cittaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ
 (ka) yaṃ cittaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ
 (kha) yaṃ vā pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ
-1 suddhacittasāmañña
-3 puggaladhammavāro
+
+
 
  (ka) yassa yaṃ cittaṃ uppajjati na nirujjhati tassa taṃ cittaṃ nirujjhissati na uppajjissati
 (kha) yassa vā pana yaṃ cittaṃ nirujjhissati na uppajjissati tassa taṃ cittaṃ uppajjati na nirujjhati
@@ -307,9 +307,9 @@
 (etena upāyena yāva saraṇaaraṇā uddharitabbā)
 (ka) yassa araṇaṃ cittaṃ uppajjati na nirujjhati tassa araṇaṃ cittaṃ nirujjhissati na uppajjissati
 (kha) yassa vā pana araṇaṃ cittaṃ nirujjhissati na uppajjissati tassa araṇaṃ cittaṃ uppajjati na nirujjhati
-(kha) niddeso
-1 suddhacittasāmaññaṃ
-1 puggalavāro
+
+
+
 
  (ka) yassa  cittaṃ uppajjati na nirujjhati tassa cittaṃ nirujjhissati na uppajjissatīti
 pacchimacittassa uppādakkhaṇe tesaṃ cittaṃ uppajjati na nirujjhati nirujjhissati na uppajjissati itaresaṃ cittassa uppādakkhaṇe tesaṃ cittaṃ uppajjati na nirujjhati nirujjhissati ceva uppajjissati ca
@@ -444,8 +444,8 @@ atītaṃ cittaṃ
 uppādakkhaṇe anāgataṃ cittaṃ
 (kha) yassa vā pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittanti
 bhaṅgakkhaṇe cittaṃ bhaṅgakkhaṇaṃ avītikkantaṃ no ca uppādakkhaṇaṃ avītikkantaṃ uppādakkhaṇe anāgatañca cittaṃ bhaṅgakkhaṇañca avītikkantaṃ uppādakkhaṇañca avītikkantaṃ
-1 suddhacittasāmañña
-2 dhammavāro
+
+
 
  (ka) yaṃ cittaṃ uppajjati na nirujjhati taṃ cittaṃ nirujjhissati na uppajjissatīti āmantā
 (kha) yaṃ  vā pana cittaṃ nirujjhissati na uppajjissati taṃ cittaṃ uppajjati na nirujjhatīti āmantā
@@ -584,8 +584,8 @@ atītaṃ cittaṃ
 uppādakkhaṇe anāgataṃ cittaṃ
 (kha) yaṃ vā pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittanti
 bhaṅgakkhaṇe cittaṃ bhaṅgakkhaṇaṃ avītikkantaṃ no ca uppādakkhaṇaṃ avītikkantaṃ uppādakkhaṇe anāgatañca cittaṃ bhaṅgakkhaṇañca avītikkantaṃ uppādakkhaṇañca avītikkantaṃ
-1 suddhacittasāmañña
-3 puggaladhammavāro
+
+
 
  (ka) yassa yaṃ cittaṃ uppajjati na nirujjhati tassa taṃ cittaṃ nirujjhissati na uppajjissatīti āmantā
 (kha) yassa vā pana yaṃ cittaṃ nirujjhissati na uppajjissati tassa taṃ cittaṃ uppajjati na nirujjhatīti āmantā

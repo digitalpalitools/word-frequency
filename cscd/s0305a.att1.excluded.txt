@@ -1,5 +1,5 @@
 ﻿2. Bojjhaṅgasaṃyuttaṃ
-
+1. Pabbatavaggo
 1. Himavantasuttavaṇṇanā
 182 .    nāgā Bojjhaṅge bojjhaṅgā Bujjhatī bojjhaṅgā bojjhaṅgā
 
@@ -48,13 +48,13 @@ Kāyaduccaritaṃ pahāyā
 10. Dutiyauppannasuttavaṇṇanā
 191 . nāññatra sugatavinayā
 Pabbatavaggo.
-
+2. Gilānavaggo
 1-3. Pāṇasuttādivaṇṇanā
 192-194 . cattāro iriyāpathe kappentī  Sīlaṃ nissāyā Satta bojjhaṅge
 4-10. Paṭhamagilānasuttādivaṇṇanā
 195-201 .  tathā pahīno cāyasmato mahākassapassa so ābādho ahosī 
 Gilānavaggo.
-
+3. Udāyivaggo
 1-2. Bodhāyasuttādivaṇṇanā
 202-203 . kittāvatā nu kho, bhante, bojjhaṅgāti vuccantī Bodhāya saṃvattantī
 3-5. Ṭhāniyasuttādivaṇṇanā
@@ -68,7 +68,7 @@ Gilānavaggo.
 10. Udāyisuttavaṇṇanā
 211 .  abahukato Ukkujjāvakujja Dhammo ca me, bhante, abhisamito Maggo  Tathā tathā viharanta Tathattāyā Khīṇā jātī
 Udāyivaggo.
-
+4. Nīvaraṇavaggo
 3-4. Upakkilesasuttādivaṇṇanā
 214-215 . na ca pabhassara Pabhaṅgu cā Ayo lohaṃ Sajjhū Cittassā  Pabhaṅgu cā Anāvaraṇā anīvaraṇā Cetaso anupakkilesā
 8. Āvaraṇanīvaraṇasuttavaṇṇanā
@@ -79,7 +79,7 @@ Pañca nīvaraṇā tasmiṃ samaye na honti. Sattabojjhaṅgā tasmiṃ samaye 
 10. Nīvaraṇasuttavaṇṇanā
 221 .  andhakaraṇā Acakkhukaraṇā Paññānirodhikā Vighātapakkhiyā Anibbānasaṃvattanikā
 Nīvaraṇavaggo.
-
+5. Cakkavattivaggo
 1. Vidhāsuttavaṇṇanā
 222 .  tisso vidhā
 2. Cakkavattisuttavaṇṇanā
@@ -96,7 +96,7 @@ Satisambojjhaṅgaratanassā  satisambojjhaṅgaratanaṃ dhammavicayasambojjha�
 4-10. Duppaññasuttādivaṇṇanā
 225-231 . eḷamūgo
 Cakkavattivaggo.
-
+6. Sākacchavaggo
 1. Āhārasuttavaṇṇanā
 232 .   ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāyā 
 dhammavicayasambojjhaṅgassa paripucchakatā
@@ -169,12 +169,12 @@ byāpādassa nissaraṇa
 seyyathāpi brāhmaṇa udapatto saṃsaṭṭho lākhāya vā udapatto Saṃsaṭṭho Pakkuthito Usmudakajāto Sevālapaṇakapariyonaddho  Vāterito  Āvilo Luḷito Kalalībhūto Andhakāre nikkhitto
 6. Abhayasuttavaṇṇanā
 237 . aññāṇāya adassanāyā Taggha bhagavā nīvaraṇā Kāyakilamatho  Cittakilamatho Sopi me paṭippassaddho
-
+7. Ānāpānavaggo
 1. Aṭṭhikamahapphalasuttādivaṇṇanā
 238 . aṭṭhikasaññā Sati vā upādisese
 2-10. Puḷavakasuttādivaṇṇanā
 239-247 . Puḷavakasaññā Vinīlakasaññā   Mettā upekkhā
-
+8. Nirodhavaggo
 1-10. Asubhasuttādivaṇṇanā
 248-257 . Asubhasaññā Maraṇasaññā  Āhāre paṭikūlasaññā Sabbaloke anabhiratisaññā Pahānasaññāvirāgasaññā Nirodhasaññā
 Bojjhaṅgasaṃyuttavaṇṇanā niṭṭhitā.

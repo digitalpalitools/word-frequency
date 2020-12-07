@@ -1,5 +1,5 @@
 ﻿Dhammasoṇḍakavaggo
-
+1. Dhammasoṇḍakassa vatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -175,7 +175,7 @@ Atha mahāsatto āha.
 
 
 Dhammasoṇḍakavatthuṃ paṭhamaṃ.
-
+2. Migaluddakassa vatthumhi ayamānupubbikathā
 
 1 .
 
@@ -268,7 +268,7 @@ Evañca pana vatvā satte dhammasavaṇe niyojesīti.
 
 
 Migaluddakassa vatthuṃ dutiyaṃ.
-
+3. Tiṇṇaṃjanānaṃ vatthumhi ayamānupubbīkathā
  
 1 .
 
@@ -324,7 +324,7 @@ aladdha itisabbattha
 
 
 Tiṇṇaṃ janānaṃ vatthuṃ tatiyaṃ.
-
+4. Buddheniyā vatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -362,7 +362,7 @@ Tiṇṇaṃ janānaṃ vatthuṃ tatiyaṃ.
 
 
 Buddheniyā vatthuṃ catutthaṃ.
-
+5. Ahituṇḍikassa vatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -398,7 +398,7 @@ Buddheniyā vatthuṃ catutthaṃ.
 
 
 Ahituṇḍikassa vatthuṃ pañcamaṃ.
-
+6. Saraṇattherassa vatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -451,7 +451,7 @@ Ahituṇḍikassa vatthuṃ pañcamaṃ.
 
 
 Saraṇattherassa vatthuṃ chaṭṭhamaṃ.
-
+7. Vessāmittāya vatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -511,7 +511,7 @@ Saraṇattherassa vatthuṃ chaṭṭhamaṃ.
 
 
 Vessāmittāpa vatthuṃ sattamaṃ.
-
+8. Mahāmandhātuvatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -552,7 +552,7 @@ Vessāmittāpa vatthuṃ sattamaṃ.
 
 
 Mahāmandhātuvatthuṃ aṭṭhamaṃ.
-
+9. Buddhavammavāṇijakavatthumhi ayamānupubbīkathā
 
 1 .
 
@@ -576,7 +576,7 @@ Mahāmandhātuvatthuṃ aṭṭhamaṃ.
 
 
 Buddhavammavāṇijakassa vatthuṃ navamaṃ.
-
+10. Rūpadeviyā vatthumhi ayamānupubbīkathā
  
 1 .
 

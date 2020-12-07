@@ -1,5 +1,5 @@
 ﻿12. Saccasaṃyuttaṃ
-
+1. Samādhivaggo
 1. Samādhisuttavaṇṇanā
 1071 . Cittekaggatāyā   Yathābhūtādivasenā Ādi Vaṇṇā Padabyañjanānī
 3. Paṭhamakulaputtasuttādivaṇṇanā
@@ -8,7 +8,7 @@
 1080 . niyyānikā aniyyānikattaṃ. Tiracchānabhūta Kammaṭṭhānabhāve Sātthaka
 Visikhā   ‘‘sūrā samatthā’’ ‘‘kumbhadāsikathā’’ lokakkhāyikā itibhavābhavakathāya saddhiṃ
 Samādhivaggavaṇṇanā niṭṭhitā.
-
+2. Dhammacakkappavattanavaggo
 1. Dhammacakkappavattanasuttavaṇṇanā
 1081 . ‘‘Isīnaṃ patanuppatanavasena evaṃ ‘laddhanāme’ ‘ettha hī’’’
 Āmantesī ‘‘dīpaṅkarapādamūle katābhinīhārato paṭṭhāyā’’ mārabalaṃ bhinditvā ‘‘Dveme, bhikkhave, antā’’ anta ‘‘dve ime, bhikkhave, koṭṭhāsā’’ Saha samudāhārenā Pattharitvā aṭṭhāsi Brahmāno samāgacchiṃsu
@@ -21,7 +21,7 @@ Ekappahārenā Sabbaññutaññāṇobhāso ‘‘imassapi udānassā’’
 10. Tathasuttavaṇṇanā
 1090 . Sabhāvāvijahanaṭṭhenā ‘‘dukkhañhi dukkhameva vutta’’ Sabhāvassā Amoghatāyā Avitatha ‘‘na hi dukkhaṃ adukkhaṃ nāma hotī’’ Aññabhāvānupagamenā anaññathaṃ ‘‘na hī’’
 Dhammacakkappavattanavaggavaṇṇanā niṭṭhitā.
-
+3. Koṭigāmavaggo
 1. Koṭigāmasuttavaṇṇanā
 1091 . Ananubodhā  Appaṭivedhā
 2. Dutiyakoṭigāmasuttavaṇṇanā
@@ -33,7 +33,7 @@ Dhammacakkappavattanavaggavaṇṇanā niṭṭhitā.
 10. Gavampatisuttavaṇṇanā
 1100 . Ekappaṭivedho
 Koṭigāmavaggavaṇṇanā niṭṭhitā.
-
+4. Sīsapāvanavaggo
 3. Daṇḍasuttavaṇṇanā
 1101 . Punappunaṃ vaṭṭasmiṃyeva nibbattanti
 5. Sattisatasuttavaṇṇanā
@@ -43,7 +43,7 @@ Koṭigāmavaggavaṇṇanā niṭṭhitā.
 10. Vādatthikasuttavaṇṇanā
 1110 . Kukkuko Kukkū
 Sīsapāvanavaggavaṇṇanā niṭṭhitā.
-
+5. Papātavaggo
 1. Lokacintāsuttavaṇṇanā
 1111 . Lokacinta Nāḷikerādayo ādi Evarūpa
 Vigatacitto Sambarimāya Samparivattetvā Yathā ne ‘‘devānaṃyeva mohayamānā’’
@@ -54,23 +54,23 @@ Vigatacitto Sambarimāya Samparivattetvā Yathā ne ‘‘devānaṃyeva mohayam
 8. Dutiyachiggaḷayugasuttavaṇṇanā
 1118 . Adhiccuppattika Chiggaḷenā Chiggaḷuparī Āruḷhassa chiggaḷenā Gīvappavesanaṃ viyā  ‘‘catusaccapaṭivedho ativiya adhiccatarasambhavo’’
 Papātavaggavaṇṇanā niṭṭhitā.
-
+6. Abhisamayavaggavaṇṇanā
 1121 . Abhisamayasaṃyutte  vitthāritova,
-
+7. Paṭhamaāmakadhaññapeyyālavaggo
 3. Paññāsuttavaṇṇanā
 1133 . ‘‘lokiyalokuttarenā’’
 4. Surāmerayasuttavaṇṇanā
 1134 . Piṭṭhasurā odanasurā pūvasurā, kiṇṇapakkhittasurā. Sambhārasaṃyuttā Pupphāsavo phalāsavo. Itī Surāsavavinimutta
 10. Pacāyikasuttavaṇṇanā
 1140 . Nīcavuttino
-
+8. Dutiyaāmakadhaññapeyyālavaggo
 8. Bījagāmasuttavaṇṇanā
 1148 .   mūlabījaṃ, mūlabījaṃ Phaḷubīja ‘‘bījabīja’’ Nīlatiṇarukkhādikassā Ādi
 9. Vikālabhojanasuttavaṇṇanā
 1149 . ‘‘vikālabhojanāti kālātikkantabhojanā’’
 10. Gandhavilepanasuttavaṇṇanā
 1150 . Yaṃ kiñci puppha yaṃ kiñci gandhajātaṃ.
-
+9. Tatiyaāmakadhaññapeyyālavaggo
 1. Naccagītasuttavaṇṇanā
 1151 .  ‘‘sāsanassa ananulomattā’’  ‘‘naccananaccāpanādivasenā’’ Ādi ‘‘dassanā’’ ‘‘visūkabhūtā dassanā cā’’ paramatthajotikāya khuddakaaṭṭhakathāya
 2. Uccāsayanasuttavaṇṇanā
@@ -81,7 +81,7 @@ Papātavaggavaṇṇanā niṭṭhitā.
 1154 .  ‘‘sattavidhassā’’
 5. Āmakamaṃsasuttavaṇṇanā
 1155 . ‘‘aññatra uddissa anuññātā’’
-
+10. Catutthaāmakadhaññapeyyālavaggo
 2-3. Kayavikkayasuttādivaṇṇanā
 1162-63 . kayo, vikkayo Tattha tatthā Pahiṇagamanaṃ
 4. Tulākūṭasuttavaṇṇanā

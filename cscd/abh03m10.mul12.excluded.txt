@@ -1,5 +1,5 @@
 ﻿83-1. Dassanenapahātabbaduka-kusalattikaṃ
-
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 1 .
 
@@ -14,8 +14,8 @@ Paccayacatukkaṃ
 7 .
 
 
-
-
+84-1. Bhāvanāyapahātabbaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 8 .
 
@@ -25,8 +25,8 @@ Paccayacatukkaṃ
 10 . 
 
 
-
-
+85-1. Dassanenapahātabbahetukaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 11 . 
 
@@ -44,8 +44,8 @@ Paccayacatukkaṃ
 18 . 
 
 
-
-
+86-1. Bhāvanāyapahātabbahetukaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 19 .
 
@@ -56,15 +56,15 @@ Paccayacatukkaṃ
 22 . 
 
 
-
-
+87-1. Savitakkaduka-kusalattikaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 23 . 
 
 
 24 .
 
-
+7. Pañhāvāro
 Hetu-ārammaṇapaccayā
 25 .  
 
@@ -101,8 +101,8 @@ Abyākatapadaṃ
 
 
 
-
-
+88-1. Savicāraduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 37 . 
 
@@ -122,8 +122,8 @@ Paccayacatukkaṃ
 
 
 
-
-
+89-1. Sappītikaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 45 . 
 
@@ -138,13 +138,13 @@ Paccayacatukkaṃ
 
 
 
-
+Akusalapadaṃ
 Hetupaccayo
 49 .
 
 
 50 . 
-
+Abyākatapadaṃ
 Hetupaccayo
 51 .
 
@@ -153,13 +153,13 @@ Hetupaccayo
 
 53 .
 54 . 
-
-
+90-91-1. Pītisahagatādiduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 55 .
 56 . 
-
-
+92-1. Upekkhāsahagataduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 57 . 
 58 .
@@ -169,8 +169,8 @@ Hetuyā cha (sabbattha cha. Saṃkhittaṃ).
 
 60 .
 61 . 
-
-
+93-1. Kāmāvacaraduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 62 .
 
@@ -191,8 +191,8 @@ Paccayacatukkaṃ
 69 . 
 
 70 .
-
-
+94-1. Rūpāvacaraduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 71 .
 
@@ -206,8 +206,8 @@ Paccayacatukkaṃ
 
 
 76 .
-
-
+95-1. Arūpāvacaraduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 77 . 
 
@@ -225,8 +225,8 @@ Paccayacatukkaṃ
 83 .
 
 84 . 
-
-
+96-1. Pariyāpannaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 85 . 
 
@@ -238,8 +238,8 @@ Paccayacatukkaṃ
 
 
 89 . 
-
-
+97-1. Niyyānikaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 90 .  
 
@@ -250,8 +250,8 @@ Paccayacatukkaṃ
 93 .
 
 
-
-
+98-1. Niyataduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 94 .  
 
@@ -265,8 +265,8 @@ Paccayacatukkaṃ
 99 . 
 100 .
 
-
-
+99-1. Sauttaraduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 101 . 
 
@@ -277,8 +277,8 @@ Paccayacatukkaṃ
 
 
 104 .
-
-
+100-1. Saraṇaduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 105 .
 

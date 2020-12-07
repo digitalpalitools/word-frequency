@@ -1,6 +1,6 @@
 ﻿Dhammapaccanīye tikapaṭṭhānaṃ
-
-
+1. Kusalattikaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 1 .   
@@ -12,8 +12,8 @@ Hetu-ārammaṇapaccayā
 
 7 . 
 
-
-
+1. Kusalattikaṃ
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetuārammaṇapaccayādi
 8 . 
@@ -27,85 +27,85 @@ Hetuārammaṇapaccayādi
 
 10 .
 
-
+2. Vedanāttikaṃ
 1-7. Paṭiccavārādi
 11 .   
 
 
-
+3. Vipākattikaṃ
 1-7. Paṭiccavārādi
 12 .
 
 
-
+4. Upādinnattikaṃ
 1-7. Paṭiccavārādi
 13 . 
 
 
-
+5. Saṃkiliṭṭhattikaṃ
 1-7. Paṭiccavārādi
 14 .
 
 
-
+6. Vitakkattikaṃ
 1-7. Paṭiccavārādi
 15 .  
 
 
-
+7. Pītittikaṃ
 1-7. Paṭiccavārādi
 16 . 
 
-
+8. Dassanattikaṃ
 1-7. Paṭiccavārādi
 17 .
-
+9. Dassanahetuttikaṃ
 1-7. Paṭiccavārādi
 18 . 
-
+10. Ācayagāmittikaṃ
 1-7. Paṭiccavārādi
 19 .
-
+11. Sekkhattikaṃ
 1-7. Paṭiccavārādi
 20 .
-
+12. Parittattikaṃ
 1-7. Paṭiccavārādi
 21 .  
-
+13. Parittārammaṇattikaṃ
 1-7. Paṭiccavārādi
 22 . 
-
+14. Hīnattikaṃ
 1-7. Paṭiccavārādi
 23 .
-
+15. Micchattattikaṃ
 1-7. Paṭiccavārādi
 24 .
-
+16. Maggārammaṇattikaṃ
 1-7. Paṭiccavārādi
 25 .
-
+17. Uppannattikaṃ
 1-7. Paṭiccavārādi
 26 .
  
 
-
+18. Atītattikaṃ
 1-7. Paṭiccavārādi
 27 . 
 
 
 
-
+19. Atītārammaṇattikaṃ
 1-7. Paṭiccavārādi
 28 .  
-
+20. Ajjhattattikaṃ
 1-7. Paṭiccavārādi
 29 .
 
-
+21. Ajjhattārammaṇattikaṃ
 1-7. Paṭiccavārādi
 30 .
 
-
+22. Sanidassanattikaṃ
 1-7. Paṭiccavārādi
 31 .  
 32 .

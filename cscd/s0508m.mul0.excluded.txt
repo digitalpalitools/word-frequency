@@ -9,7 +9,7 @@ attūpanāyikā (sī. ka.)
 
 
 1. Ekakanipāto
-
+1. Paṭhamavaggo
 1. Subhūtittheragāthā
 1 .
 
@@ -66,7 +66,7 @@ Vaggo paṭhamo niṭṭhito.
 
 
 
-
+2. Dutiyavaggo
 1. Cūḷavacchattheragāthā
 11 .
 
@@ -125,7 +125,7 @@ Vaggo dutiyo niṭṭhito.
 
 
 
-
+3. Tatiyavaggo
 1. Nigrodhattheragāthā
 21 .
 
@@ -182,7 +182,7 @@ Vaggo tatiyo niṭṭhito.
 
 
 
-
+4. Catutthavaggo
 1. Gahvaratīriyattheragāthā
 31 .
  
@@ -240,7 +240,7 @@ Vaggo catuttho niṭṭhito.
 
 
 
-
+5. Pañcamavaggo
 1. Sirivaḍḍhattheragāthā
 41 .
 
@@ -299,7 +299,7 @@ Vaggo pañcamo niṭṭhito.
 
 
 
-
+6. Chaṭṭhavaggo
 1. Godhikattheragāthā
 51 .
 
@@ -355,7 +355,7 @@ Vaggo chaṭṭho niṭṭhito.
 
 
 
-
+7. Sattamavaggo
 1. Vappattheragāthā
 61 .
 
@@ -412,7 +412,7 @@ Vaggo sattamo niṭṭhito.
 
 
 
-
+8. Aṭṭhamavaggo
 1. Vacchapālattheragāthā
 71 .
 
@@ -468,7 +468,7 @@ Vaggo aṭṭhamo niṭṭhito.
 
 
 
-
+9. Navamavaggo
 1. Samitiguttattheragāthā
 81 .
 
@@ -524,7 +524,7 @@ Vaggo navamo niṭṭhito.
 
 
 
-
+10. Dasamavaggo
 1. Paripuṇṇakattheragāthā
 91 .
 
@@ -584,7 +584,7 @@ Vaggo dasamo niṭṭhito.
 
 
 
-
+11. Ekādasamavaggo
 1. Belaṭṭhānikattheragāthā
 101 .
  
@@ -640,7 +640,7 @@ Vaggo ekādasamo niṭṭhito.
 
 
 
-
+12. Dvādasamavaggo
 1. Jentattheragāthā
 111 .
  

@@ -1,5 +1,5 @@
 ﻿1. Ekakanipāto
-
+1. Apaṇṇakavaggo
 
 
   
@@ -232,7 +232,7 @@ Apaṇṇakavaggo paṭhamo.
 
 
 
-
+2. Sīlavaggo
 
 
 Hoti  sīlavataṃ attho
@@ -396,7 +396,7 @@ Sīlavaggo dutiyo.
 
 
 
-
+3. Kuruṅgavaggo
 
 
 Ñātametaṃ    kuruṅgassā
@@ -538,7 +538,7 @@ Kuruṅgavaggo tatiyo.
 
 
 
-
+4. Kulāvakavaggo
 
 
 Kulāvakā  
@@ -712,7 +712,7 @@ Kulāvakavaggo catuttho.
 
 
 
-
+5. Atthakāmavaggo
 
 
 Yo  atthakāmassā 
@@ -848,7 +848,7 @@ Atthakāmavaggo pañcamo.
 
 
 Paṭhamo paṇṇāsako.
-
+6. Āsīsavaggo
 
 
 Āsīsetheva  puriso 
@@ -976,7 +976,7 @@ Saṅkhadhamajātakavaṇṇanā dasamā.
 
 
 
-
+7. Itthivaggo
 
 
 Asā    lokitthiyo nāmā
@@ -1139,7 +1139,7 @@ Itthivaggo sattamo.
 
 
 
-
+8. Varuṇavaggo
 
 
 Yo    pubbe karaṇīyānī
@@ -1328,7 +1328,7 @@ Varuṇavaggo aṭṭhamo.
 
 
 
-
+9. Apāyimhavaggo
 
 
 Apāyimha   anaccimhā
@@ -1457,7 +1457,7 @@ Apāyimhavaggo navamo.
 
 
 
-
+10. Littavaggo
 
 
 Littaṃ  paramena tejasā
@@ -1634,7 +1634,7 @@ Littavaggo dasamo.
 
 
 Majjhimapaṇṇāsako niṭṭhito.
-
+11. Parosatavaggo
 
 
 101 .
@@ -1745,7 +1745,7 @@ Parosatavaggo ekādasamo.
 
 
 
-
+12. Haṃcivaggo
 [111] 1. Gadrabhapañhajātakavaṇṇanā
 Haṃci  tuvaṃ evamaññasī mahāumaṅgajātake
 Gadrabhapañhajātakavaṇṇanā paṭhamā.
@@ -1851,7 +1851,7 @@ Haṃcivaggo dvādasamo.
 
 
 
-
+13. Kusanāḷivaggo
 
 
 Kare   sarikkho 
@@ -1982,7 +1982,7 @@ Kusanāḷivaggo terasamo.
 
 
 
-
+14. Asampadānavaggo
 
 
 Asampadānenitarītarassā 
@@ -2112,7 +2112,7 @@ Asampadānavaggo cuddasamo.
 
 
 
-
+15. Kakaṇṭakavaggo
 
 
 Na    pāpajanasaṃsevī

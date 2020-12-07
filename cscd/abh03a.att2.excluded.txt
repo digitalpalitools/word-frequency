@@ -1,5 +1,5 @@
 ﻿2. Niddesavaṇṇanā
-
+1. Paṭhamanayo saṅgahāsaṅgahapadavaṇṇanā
 1. Khandhapadavaṇṇanā
 6 .  rūpakkhandho katihi khandhehī  katihi khandhehi katihāyatanehi katihi dhātūhī rūpakkhandho ekena khandhenā ekena khandhenā Ekādasahāyatanehī  Ekādasahi dhātūhī
 katihi asaṅgahito catūhi khandhehī  
@@ -15,7 +15,7 @@ katihi asaṅgahito catūhi khandhehī
 7. Tikapadavaṇṇanā
 77 .  kusalā dhammā tīhi dhātūhī Sattahi dhātūhī aṭṭhahi dhātūhī
 Saṅgahāsaṅgahapadavaṇṇanā.
-
+2. Dutiyanayo saṅgahitenaasaṅgahitapadavaṇṇanā
 171 .  cakkhāyatanenā 
 
 
@@ -31,7 +31,7 @@ uddānagāthāya  catūhi khandhehī dvīhāyatanehī aṭṭhahi dhātūhī
 177 . dvīhāyatanehī Aṭṭhahi dhātūhī
 178 . ekādasahāyatanehī
 Saṅgahitenaasaṅgahitapadavaṇṇanā.
-
+3. Tatiyanayo asaṅgahitenasaṅgahitapadavaṇṇanā
 179 .   vedanākkhandhenā 
 
 
@@ -45,13 +45,13 @@ tīhi khandhehī
 183 .
 184 . 
 Asaṅgahitenasaṅgahitapadavaṇṇanā.
-
+4. Catutthanayo saṅgahitenasaṅgahitapadavaṇṇanā
 191 .  samudayasaccenā
 
 
  ekena khandhenā 
 Saṅgahitenasaṅgahitapadavaṇṇanā.
-
+5. Pañcamanayo asaṅgahitenaasaṅgahitapadavaṇṇanā
 193 . rūpakkhandhenā 
 
 
@@ -64,7 +64,7 @@ Saṅgahitenasaṅgahitapadavaṇṇanā.
 195 .
 196 .
 Asaṅgahitenaasaṅgahitapadavaṇṇanā.
-
+6. Chaṭṭhanayo sampayogavippayogapadavaṇṇanā
 228 .   rūpakkhandho natthī
 
 
@@ -86,7 +86,7 @@ Asaṅgahitenaasaṅgahitapadavaṇṇanā.
 271 . Parittārammaṇaṃ Ekāya dhātuyā Kehicī Mahaggatārammaṇā
 273 . pañcahi dhātūhī Paccuppannārammaṇā  Hetu Sahetukā ceva na ca hetū parāmāsasampayuttā. Anupādinnā
 Sampayogavippayogapadavaṇṇanā.
-
+7. Sattamanayo sampayuttenavippayuttapadavaṇṇanā
 306 . vedanākkhandhenā 
 
 
@@ -97,10 +97,10 @@ Sampayogavippayogapadavaṇṇanā.
 ekenā Sattahī Kehicī  te dhammā na kehicī Ekāya dhātuyā
 309 . pañcahī
 Sampayuttenavippayuttapadavaṇṇanā.
-
+8. Aṭṭhamanayo vippayuttenasampayuttapadavaṇṇanā
 317 . rūpakkhandhenā  natthi natthi
 Vippayuttenasampayuttapadavaṇṇanā.
-
+9. Navamanayo sampayuttenasampayuttapadavaṇṇanā
 319 .  vedanākkhandhenā 
 
 
@@ -110,22 +110,22 @@ Vippayuttenasampayuttapadavaṇṇanā.
 
 
 Sampayuttenasampayuttapadavaṇṇanā.
-
+10. Dasamanayo vippayuttenavippayuttapadavaṇṇanā
 353 .  rūpakkhandhenā 
 Vippayuttenavippayuttapadavaṇṇanā.
-
+11. Ekādasamanayo saṅgahitenasampayuttavippayuttapadavaṇṇanā
 409 . samudayasaccenā 
 
 Saṅgahitenasampayuttavippayuttapadavaṇṇanā.
-
+12. Dvādasamanayo sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 417 .  vedanākkhandhenā
 
 Sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā.
-
+13. Terasamanayo asaṅgahitenasampayuttavippayuttapadavaṇṇanā
 448 .  rūpakkhandhenā 
  te dhammā tīhi khandhehī
 Asaṅgahitenasampayuttavippayuttapadavaṇṇanā.
-
+14. Cuddasamanayo vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 456 . rūpakkhandhenā
 
 
@@ -136,7 +136,7 @@ Asaṅgahitenasampayuttavippayuttapadavaṇṇanā.
 
 
 Vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā.
-
+Nigamanakathā
 
 
 

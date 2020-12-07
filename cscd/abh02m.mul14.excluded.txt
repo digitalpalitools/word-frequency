@@ -1,5 +1,5 @@
 ﻿15. Paṭisambhidāvibhaṅgo
-
+1. Suttantabhājanīyaṃ
 1. Saṅgahavāro
 718 .    paṭibhāṇapaṭisambhidā (syā.) evamuparipi
 2. Saccavāro
@@ -15,7 +15,7 @@
 724 . 
 
 Suttantabhājanīyaṃ.
-
+2. Abhidhammabhājanīyaṃ
 1. Kusalavāro
 725 . 
   
@@ -63,7 +63,7 @@ Suttantabhājanīyaṃ.
  
 746 .  
 Abhidhammabhājanīyaṃ.
-
+3. Pañhāpucchakaṃ
 747 . 
 748 .
 1. Tikaṃ

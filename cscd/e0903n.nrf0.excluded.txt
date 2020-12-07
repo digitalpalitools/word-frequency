@@ -12,7 +12,7 @@ Vissajjanā –
 Pucchā –
 Vissajjanā –
 
-
+Devatāsaṃyutta
 Oghataraṇasutta
 Pucchā –
 Vissajjanā –
@@ -88,7 +88,7 @@ Vissajjanā –
 
 
 
-
+Devaputtasaṃyutta
 Subrahmasutta
 Pucchā –
 Vissajjanā – 
@@ -107,7 +107,7 @@ Vissajjanā –
 Rohitassasutta
 Pucchā – 
 Vissajjanā –
-
+Kosalasaṃyutta
 Daharasutta
 Pucchā – 
 Vissajjanā – 
@@ -150,7 +150,7 @@ Vissajjanā –
 
 
 
-
+Mārasaṃyutta
 Tapokammasutta
 Pucchā – 
 Vissajjanā –
@@ -175,7 +175,7 @@ Vissajjanā –
 
 
 
-
+Bhikkhunīsaṃyutta
 Āḷavikāsutta
 Pucchā –
 
@@ -291,7 +291,7 @@ Vissajjanā –
 
 
 
-
+Brahmasaṃyutta
 Gāravasutta
 Pucchā – 
 Vissajjanā –
@@ -327,7 +327,7 @@ Vissajjanā –
 
 
 
-
+Brāhmaṇasaṃyutta
 Dhanañjānīsutta
 Pucchā – 
 Vissajjanā –
@@ -484,7 +484,7 @@ Vissajjanā –
 
 
 
-
+Vaṅgīsasaṃyutta
 Ānandasutta
 Pucchā – 
 Vissajjanā –
@@ -534,7 +534,7 @@ Vissajjanā –
 
 
 
-
+Vanasaṃyutta
 Ānandasutta
 Pucchā –
 Vissajjanā –
@@ -545,7 +545,7 @@ Vissajjanā –
 
 
 
-
+Yakkhasaṃyutta
 Indakasutta
 Pucchā – 
 Vissajjanā –
@@ -593,7 +593,7 @@ Vissajjanā –
 
 
 
-
+Sakkasaṃyutta
 Vatapadasutta
 Pucchā – 
 Vissajjanā –

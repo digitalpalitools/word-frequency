@@ -4,7 +4,7 @@ Pācityādiyojanā
 Pācittiyayojanā
 
 
-
+5. Pācittiyakaṇḍaṃ
 1. Musāvādasikkhāpada-atthayojanā
 Khuddakāna  saṅgaho  Dānī Tesa Bhavatī
 1 . ‘‘Tatthā’’  Sakyānaṃ putto sakyā ‘‘Vādakkhitto’’ Yatra yatrā Avajānitvā Dosa Kathento kathento Paṭijānitvā Ānisaṃsa Etassā Tatrā Tassā
@@ -77,7 +77,7 @@ Passāvadhārāyā Kattarayaṭṭhiyā kattaro Vīriyasampaggahaṇattha
 87 . Tatrāpī Hī Tesaṃ anupādānattā Hī Tānī Avisayattā Tiṇukka Tatthevā araṇī, sahito,
 88 . Āvāṭaṃ  jānā Sā Tenā
 Musāvādavaggo paṭhamo.
-
+2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpada-atthayojanā
 89 .  tassā Ukkhittaṃ pharasu Niggahetu Cakkhuvisayātīte Mahārājasantikā Thanamūleyevā Himavante Tatthā Rukkhadhammo Tatthā Itī Bhagavato cā Tenā Assā sapitiko, Tāvā
 Yo  Ve Uppatita Bhanta vāraye Ta
@@ -158,7 +158,7 @@ Ahariteyevā Tatrāpī Tassā Anto hi ayaṃ
 140 . ‘‘jāna’’ sapāṇakaṃ. Eta Sapāṇakaṃ udaka Pubbe
 Tatthā Dhāra Mātikaṃ pamukha Tattha tatthā Ya Yatthā
 Bhūtagāmavaggo dutiyo.
-
+3. Ovādavaggo
 1. Ovādasikkhāpada-atthayojanā
 144 . tesa  Kuto Tesa  Hī Tato Tenā
 Tesa Tāsū tiracchānakathā Saggamaggagamanepī rājakathā
@@ -236,7 +236,7 @@ Hī
 10. Rahonisajjasikkhāpadaṃ
 198 . pāḷiattho cā Hī  Uparī
 Ovādavaggo tatiyo.
-
+4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpada-atthayojanā
 203 .  āvasathapiṇḍo Parikkhitta addhikā gilānā gabbhiniyo pabbajitā, paññattamañcapīṭho, Tatthā Tesaṃ tesa ‘‘Kukkuccāyanto’’
 206 . pāsaṇḍo, pāsaṇḍo, Yāvatattho paññatto hotī Sakiṃ bhuñjitabba
@@ -392,7 +392,7 @@ Ta Tatthevā  Hī
  Yaṃ panā Aṅgalagga Etthā Sujhāpita
 Cattārī Mahāvikaṭānī Etthā Kālodissaṃ nāmā
 Bhojanavaggo catuttho.
-
+5. Acelakavaggo
 1. Acelakasikkhāpada-atthayojanā
 269 . parivesana samatitthikaṃ, Tesa
 273 . ‘‘upanikkhipitvā’’ Tesa  Tatthā Ito Idhā Na Tassā
@@ -421,7 +421,7 @@ Bhojanavaggo catuttho.
 10. Uyyodhikasikkhāpadaṃ
 322 . yujjhantī Agga balagga balagga’’ byūho, senābyūho aṇīkaṃ,  hatthāṇīkaṃ
 Acelakavaggo pañcamo.
-
+6. Surāpānavaggo
 1. Surāpānasikkhāpada-atthayojanā
 326 . bhaddavatikā bhaddavatikā So pathāvino addhikā ‘‘Tejasā teja’’  kapoto kāpoto, kāpotikā Pasanna Pañcābhiññassa sato
 328 . pupphāsavo Piṭṭhakiṇṇapakkhittā Kiṇṇā surā merayaṃ
@@ -453,7 +453,7 @@ Patilātaṃ ukkhipatī Alāta Avijjhāta vijjhātaṃ
 10. Cīvarāpanidhānasikkhāpadaṃ
 377 . Nidhentī Hasādhippāyo
 Surāpānavaggo chaṭṭho.
-
+7. Sappāṇakavaggo
 1. Sañciccapāṇasikkhāpada-atthayojanā
 382 .  issāso  issāso Voropitā
 Eta Hī Aññadatthū Ta
@@ -493,7 +493,7 @@ Dadato vā gaṇhato vā
 428 . Ummajjantassā saṃvāsanāsanā liṅganāsanā daṇḍakammanāsanā. Tatthā Dūsako…pe… nāsethā Aya Idhā Tatthā Pire  Yatthā Te  Na passāmā
 429 . Tenā
 Sappāṇakavaggo sattamo.
-
+8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpada-atthayojanā
 434 . ya Padatthato
 2. Vilekhanasikkhāpadaṃ
@@ -537,7 +537,7 @@ Visuṃ visuṃ katvā Thometī Pasaṃsatī  addhaniyaṃ
 12. Pariṇāmanasikkhāpadaṃ
 489 . ya Tatthā Idhā Puggalassā
 Sahadhammikavaggo aṭṭhamo.
-
+9. Ratanavaggo
 1. Antepurasikkhāpada-atthayojanā
 494 . parittako uparipāsādavaraṃ, uparipāsādavaragato Ayyāna Tehī
 497 . Antara Ghātetu Hatthisammadda assasammaddo rathasammaddo Tatthā sammadda   Rajitabbānī
@@ -575,7 +575,7 @@ Nikhaṇitvā Uttānaṃ vā katvā Ṭhapetvā
 Ratanavaggo navamo.
 Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 Khuddakavaṇṇanāya yojanā samattā.
-
+6. Pāṭidesanīyakaṇḍaṃ
 1. Paṭhamapāṭidesanīyasikkhāpada-atthayojanā
 
 552 .  Paṭiāgamanakāle Sabbevā Apehī
@@ -595,7 +595,7 @@ Ida
 Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 
 Yojanā samattā.
-
+7. Sekhiyakaṇḍaṃ
 1. Parimaṇḍalavagga-atthayojanā
 Sikkhitasikkhena  tādinā yāni dāni tesampi
 576 . Tatthā Aṭṭhaṅgulamatta Tato Tatridaṃ pamāṇa Tādisassā Tatthā Na tiṭṭhatī Tiṭṭhatī

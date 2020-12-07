@@ -1,14 +1,14 @@
 ﻿Dhammānulome dukadukapaṭṭhānaṃ
-
-
-
+1-1. Hetuduka-sahetukadukaṃ
+Sahetukapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .   
 2 .
 3 .  
 4 . 
-
+Paccanīyaṃ
 Naadhipatipaccayo
 5 .
 
@@ -22,7 +22,7 @@ Hetu-ārammaṇapaccayā
 
 8 .
 
-
+Ahetukapadaṃ
 Paccayacatukkaṃ
 9 .
 
@@ -33,8 +33,8 @@ Paccayacatukkaṃ
 
 11 . 
 
-
-
+1-2. Hetuduka-hetusampayuttadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 12 .
@@ -52,24 +52,24 @@ Hetupaccayo
 16 .
 
 
-
-
+1-3. Hetuduka-hetusahetukadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 17 .  
 
-
-
+1-4. Hetuduka-hetuhetusampayuttadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 18 .
 
-
+1-5. Hetuduka-nahetusahetukadukaṃ
 19 . 
  
 Hetugocchakaṃ niṭṭhitaṃ.
-
-
+1-6. Hetuduka-sappaccayadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 20 .
 
@@ -78,30 +78,30 @@ Paccayacatukkaṃ
 
 21 .
 
-
+1-7. Hetuduka-saṅkhatadukaṃ
 22 . 
 
-
+1-8. Hetuduka-sanidassanadukaṃ
 23 .
 
 
 
 
-
+1-9. Hetuduka-sappaṭighadukaṃ
 24 .
 25 . 
 
 
 
 
-
+1-10. Hetuduka-rūpīdukaṃ
 26 .
 27 .
 
 
 
 
-
+1-11. Hetuduka-lokiyadukaṃ
 28 . 
 
 
@@ -112,14 +112,14 @@ Paccayacatukkaṃ
 
 
 
-
+1-12. Hetuduka-kenaciviññeyyadukaṃ
 30 .
 
 
 31 . 
 
 Cūḷantaradukaṃ niṭṭhitaṃ.
-
+1-13. Hetuduka-āsavadukaṃ
 32 . 
 
 
@@ -128,7 +128,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 
 
 
-
+1-14. Hetuduka-sāsavadukaṃ
 34 .
 
 
@@ -137,90 +137,90 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 
 
 
-
+1-15. Hetuduka-āsavasampayuttadukaṃ
 36 . 
 
 37 .
 
-
+1-16. Hetuduka-āsavasāsavadukaṃ
 38 .
 
 39 .
 
-
+1-17. Hetuduka-āsavaāsavasampayuttadukaṃ
 40 .   
 
 41 .
 
-
+1-18. Hetuduka-āsavavippayuttasāsavadukaṃ
 42 .
 
 
 
 Hetudukaāsavagocchakaṃ niṭṭhitaṃ.
-
+1-19-53. Hetuduka-saññojanādidukāni
 43 .  
 
 Hetudukaparāmāsagocchakaṃ niṭṭhitaṃ.
-
+1-54. Hetuduka-sārammaṇadukaṃ
 44 . 
 
 
 
 
-
+1-55. Hetuduka-cittadukaṃ
 45 . 
 
-
+1-56. Hetuduka-cetasikadukaṃ
 46 . 
 
 
-
+1-57. Hetuduka-cittasampayuttadukaṃ
 47 .
 
 
-
+1-58. Hetuduka-cittasaṃsaṭṭhadukaṃ
 48 . 
 
 
-
+1-59. Hetuduka-cittasamuṭṭhānadukaṃ
 49 . 
 
 
-
+1-60. Hetuduka-cittasahabhūdukaṃ
 50 . 
 
-
+1-61. Hetuduka-cittānuparivattidukaṃ
 51 .
 
-
+1-62. Hetuduka-cittasaṃsaṭṭhasamuṭṭhānadukaṃ
 52 .
 
-
+1-63. Hetuduka-cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ
 53 .  
 
-
+1-64. Hetuduka-cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ
 54 .
 
-
+1-65. Hetuduka-ajjhattikadukaṃ
 55 . 
 
-
+1-66. Hetuduka-upādādukaṃ
 56 .
 
-
+1-67. Hetuduka-upādinnadukaṃ
 57 . 
 
 
 
 Hetudukamahantaradukaṃ niṭṭhitaṃ.
-
+1-68-72. Hetuduka-upādānagocchakaṃ
 58 .
 
-
+1-74-81. Hetuduka-kilesagocchakaṃ
 59 .
 
-
+1-82. Hetuduka-piṭṭhidukaṃ
 60 .
 
 61 .
@@ -247,25 +247,25 @@ Hetudukamahantaradukaṃ niṭṭhitaṃ.
 
 
 Hetudukapiṭṭhidukaṃ niṭṭhitaṃ.
-
+2-1. Sahetukaduka-hetudukaṃ
 67 . 
 
 
-
+3-1. Hetusampayuttaduka-hetudukaṃ
 68 . 
 
 
-
+4-1. Hetusahetukaduka-hetudukaṃ
 69 .
 
-
+5-1. Hetuhetusampayuttaduka-hetudukaṃ
 70 .
 
-
+6-1. Nahetusahetukaduka-hetudukaṃ
 71 .  
 
-
-
+7-1. Cūḷantaraduka-hetudukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 72 .
 
@@ -290,7 +290,7 @@ Paccayacatukkaṃ
 
 78 . 
 
-
+14-1. Āsavagocchaka-hetudukaṃ
 79 . 
 
 80 . 
@@ -303,12 +303,12 @@ Paccayacatukkaṃ
 
 84 . 
 
-
+20-1. Saññojanādiduka-hetudukaṃ
 85 .  
 
 
 
-
+55-1. Mahantaraduka-hetudukaṃ
 86 .
 87 .
 
@@ -323,11 +323,11 @@ Paccayacatukkaṃ
 
 
 
-
+69-74-1. Upādānagocchaka-hetudukaṃ
 88 .  
-
+75-82-1. Kilesagocchaka-hetudukaṃ
 89 .
-
+83-1. Piṭṭhiduka-hetudukaṃ
 90 .
 91 .
 92 .

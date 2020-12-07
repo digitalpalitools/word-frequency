@@ -1,7 +1,7 @@
 ﻿Dhammānulomapaccanīye dukatikapaṭṭhānaṃ
-
-
-
+1-1. Hetuduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-7. Paṭiccavārādi
 1 .   
 
 
@@ -10,7 +10,7 @@
 
 
 3 . 
-
+2. Akusalapadaṃ
 1-7. Paṭiccavārādi
 4 . 
 
@@ -21,268 +21,268 @@
 
 
 6 .
-
-
+3. Abyākatapadaṃ
+3. Paccayavāro
 7 . 
-
+1-2. Hetuduka-vedanāttikaṃ
 8 .  
 
 
 
 9 .
 10 .
-
+1-3. Hetuduka-vipākattikaṃ
 11 . 
 
 
-
+1-4. Hetuduka-upādinnattikaṃ
 12 . 
 
 
-
+1-5. Hetuduka-saṃkiliṭṭhattikaṃ
 13 .
 
 
-
+1-6. Hetuduka-vitakkattikaṃ
 14 .
 
 
-
+1-7. Hetuduka-pītittikaṃ
 15 .
 
 
-
+1-8. Hetuduka-dassanattikaṃ
 16 . 
 
 
-
+1-9. Hetuduka-dassanahetuttikaṃ
 17 .
 
 
-
+1-10. Hetuduka-ācayagāmittikaṃ
 18 .
 
 
-
+1-11. Hetuduka-sekkhattikaṃ
 19 .
 
 
-
+1-12. Hetuduka-parittattikaṃ
 20 .
 
 
-
+1-13. Hetuduka-parittārammaṇattikaṃ
 21 .
 
 
-
+1-14. Hetuduka-hīnattikaṃ
 22 .
 
 
-
+1-15. Hetuduka-micchattaniyatattikaṃ
 23 .  
 
 
-
+1-16. Hetuduka-maggārammaṇattikaṃ
 24 .
 
 
-
+1-17. Hetuduka-uppannattikaṃ
 25 .
 
-
+1-18. Hetuduka-atītattikaṃ
 26 .
 
-
+1-19. Hetuduka-atītārammaṇattikaṃ
 27 .  
 
 
-
+1-20. Hetuduka-ajjhattārammaṇattikaṃ
 28 .
 
-
+1-21. Hetuduka-sanidassanattikaṃ
 29 .
 
 
-
+2-1. Sahetukaduka-kusalattikaṃ
 30 . 
 
 
-
+3-1. Hetusampayuttaduka-kusalattikaṃ
 31 . 
 
 
-
+4-5-1. Hetusahetukādidukāni-kusalattikaṃ
 32 . 
 
 
 
 33 .
 34 .
-
+6-1. Nahetusahetukaduka-kusalattikaṃ
 35 . 
 
 
 Hetugocchakaṃ niṭṭhitaṃ.
-
+7-8-1. Sappaccayādidukāni-kusalattikaṃ
 36 . 
 
 
-
+9-10-1. Sanidassanādidukāni-kusalattikaṃ
 37 .
 
 
 
 
-
+11-1. Rūpīduka-kusalattikaṃ
 38 . 
 
 
-
+12-1. Lokiyaduka-kusalattikaṃ
 39 .
 
 
-
+13-1. Kenaciviññeyyaduka-kusalattikaṃ
 40 .
 
 
 Cūḷantaradukaṃ niṭṭhitaṃ.
-
+14-1. Āsavaduka-kusalattikaṃ
 41 . 
 
 
-
+15-1. Sāsavaduka-kusalattikaṃ
 42 .
 
 
-
+16-1. Āsavasampayuttaduka-kusalattikaṃ
 43 . 
 
 
-
+17-18-1. Āsavasāsavādidukāni-kusalattikaṃ
 44 .
 
 
 
-
+19-1. Āsavavippayuttasāsavaduka-kusalattikaṃ
 45 .
 
  
 
 Āsavagocchakaṃ niṭṭhitaṃ.
-
+20-54-1. Saññojanādidukāni-kusalattikaṃ
 46 .
-
+55-1. Sārammaṇaduka-kusalattikaṃ
 47 .
 
 
-
+56-1. Cittaduka-kusalattikaṃ
 48 .  
 
 
-
+57-1. Cetasikaduka-kusalattikaṃ
 49 .
 
 
-
+58-1. Cittasampayuttaduka-kusalattikaṃ
 50 .
 
-
+59-1. Cittasaṃsaṭṭhaduka-kusalattikaṃ
 51 .  
 
-
+60-1. Cittasamuṭṭhānaduka-kusalattikaṃ
 52 .
 
-
+61-1. Cittasahabhūduka-kusalattikaṃ
 53 .
 
-
+62-1. Cittānuparivattiduka-kusalattikaṃ
 54 . 
 
-
+63-1. Cittasaṃsaṭṭhasamuṭṭhānaduka-kusalattikaṃ
 55 . 
 
-
+64-1. Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka-kusalattikaṃ
 56 .
 
-
+65-1. Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka-kusalattikaṃ
 57 . 
 
-
+66-1. Ajjhattikaduka-kusalattikaṃ
 58 .
 
-
+67-1. Upādāduka-kusalattikaṃ
 59 .
 
-
+68-1. Upādinnaduka-kusalattikaṃ
 60 . 
 
 Mahantaradukaṃ niṭṭhitaṃ.
-
+69-82-1. Dvigocchakāni-kusalattikaṃ
 61 .
 
 
-
+83-1. Dassanenapahātabbaduka-kusalattikaṃ
 62 .
 
 
-
+84-1. Bhāvanāyapahātabbaduka-kusalattikaṃ
 63 .
 
 
-
+85-1. Dassanenapahātabbahetukaduka-kusalattikaṃ
 64 . 
 
 
-
+86-1. Bhāvanāyapahātabbahetukaduka-kusalattikaṃ
 65 . 
 
-
+87-1. Savitakkaduka-kusalattikaṃ
 66 .
 
-
+88-1. Savicāraduka-kusalattikaṃ
 67 .
 
-
+89-1. Sappītikaduka-kusalattikaṃ
 68 .   
 
-
+90-1. Pītisahagataduka-kusalattikaṃ
 69 .
 
-
+91-1. Sukhasahagataduka-kusalattikaṃ
 70 . 
 
-
+92-1. Upekkhāsahagataduka-kusalattikaṃ
 71 . 
 
-
+93-1. Kāmāvacaraduka-kusalattikaṃ
 72 .
 
-
+94-1. Rūpāvacaraduka-kusalattikaṃ
 73 . 
 
-
+95-1. Arūpāvacaraduka-kusalattikaṃ
 74 .
 
-
+96-1. Pariyāpannaduka-kusalattikaṃ
 75 .
 
-
+97-1. Niyyānikaduka-kusalattikaṃ
 76 . 
 
-
+98-1. Niyataduka-kusalattikaṃ
 77 . 
 
-
+99-1. Sauttaraduka-kusalattikaṃ
 78 .
 
-
+100-1. Saraṇaduka-kusalattikaṃ
 79 . 
 
 
 80 .
 
-
+100-2. Saraṇaduka-vedanāttikaṃ
 81 . 
 
 
@@ -290,77 +290,77 @@ Mahantaradukaṃ niṭṭhitaṃ.
 
 
 
-
+100-3. Saraṇaduka-vipākattikaṃ
 83 .
 
 
-
+100-4. Saraṇaduka-upādinnattikaṃ
 84 . 
 
-
+100-5. Saraṇaduka-saṃkiliṭṭhattikaṃ
 85 .
 
 
-
+100-6. Saraṇaduka-vitakkattikaṃ
 86 . 
 
 87 .
 
-
+100-7. Saraṇaduka-pītittikaṃ
 88 . 
 
 
 
 
-
+100-8. Saraṇaduka-dassanattikaṃ
 89 .
 
  
-
+100-9. Saraṇaduka-dassanahetuttikaṃ
 90 . 
 
 
-
+100-10. Saraṇaduka-ācayagāmittikaṃ
 91 .
 
 
-
+100-11. Saraṇaduka-sekkhattikaṃ
 92 .
 
 
-
+100-12. Saraṇaduka-parittattikaṃ
 93 . 
 
 
-
+100-13. Saraṇaduka-parittārammaṇattikaṃ
 94 .
 
 
-
+100-14. Saraṇaduka-hīnattikaṃ
 95 .
 
 
-
+100-15. Saraṇaduka-micchattaniyatattikaṃ
 96 . 
 
 
-
+100-16. Saraṇaduka-maggārammaṇattikaṃ
 97 .
 
 
-
+100-17. Saraṇaduka-uppannattikaṃ
 98 .
  
-
+100-18. Saraṇaduka-atītattikaṃ
 99 .
-
+100-19. Saraṇaduka-atītārammaṇattikaṃ
 100 . 
 
 
-
+100-21. Saraṇaduka-ajjhattārammaṇattikaṃ
 101 .
 
-
+100-22. Saraṇaduka-sanidassanattikaṃ
 102 . 
 
 

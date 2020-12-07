@@ -1,5 +1,5 @@
 ﻿2. Yuganaddhavaggo
-
+1. Yuganaddhakathā
 1 .   
 arahattaṃ (syā.), arahattapattiṃ a. ni. 4.170
 bahuliṃ karoti (ka.) a. ni. 4.170 passitabbā
@@ -55,7 +55,7 @@ Suttantaniddeso.
 
 saṅkhepaṃ vikkhepaṃ viggahitaṃ (syā.)
 Yuganaddhakathā niṭṭhitā.
-
+2. Saccakathā
 8 .   saṃ. ni. 5.1090 
 1. Paṭhamasuttantaniddeso
 
@@ -100,7 +100,7 @@ Yuganaddhakathā niṭṭhitā.
  
 Bhāṇavāro.
 Saccakathā niṭṭhitā.
-
+3. Bojjhaṅgakathā
 17 .   saṃ. ni. 5.200 
 Bojjhaṅgā
 
@@ -156,7 +156,7 @@ susamāraddho iti ce hotī
 aṭṭhahākārehi upekkhāsambojjhaṅgo tiṭṭhati?
 aṭṭhahākārehi upekkhāsambojjhaṅgo cavati?  
 Bojjhaṅgakathā niṭṭhitā.
-
+4. Mettākathā
 22 .    uttariṃ (syā. pī.) a. ni. 11.15 passitabbā 
 
 abyāpajjhā (syā.) 
@@ -213,7 +213,7 @@ abyāpajjhā (syā.)
  
  
 Mettākathā niṭṭhitā.
-
+5. Virāgakathā
 28 .    virāgo maggo?  samupāgato (syā.)
 Virāgo vimokkho (syā.), mokkho (aṭṭha.)
  
@@ -234,7 +234,7 @@ Virāgo
 
  
 Virāgakathā niṭṭhitā.
-
+6. Paṭisambhidākathā
 1. Dhammacakkapavattanavāro
 30 .  
  ete te (syā. ka. sī. aṭṭha.) saṃ. ni. 5.1081; mahāva. 13 passitabbā
@@ -323,7 +323,7 @@ cattārīsasatā (syā.)
 
 paṭisambhidāpakaraṇe (syā.) aḍḍhanavamāni dhammasatāni (syā.), aḍḍhanavamadhammasatāni (ka.)
 Paṭisambhidākathā niṭṭhitā.
-
+7. Dhammacakkakathā
 1. Saccavāro
 39 .  
 
@@ -359,11 +359,11 @@ Cakkhuṃ udapādī āloko udapādī
 
 Dhammacakka 
 Dhammacakkakathā niṭṭhitā.
-
+8. Lokuttarakathā
 43 .   
 Lokuttarā   uddharantīti (ka.), uṭṭhahantīti (sī. aṭṭha.)   
 Lokuttarakathā niṭṭhitā.
-
+9. Balakathā
 44 .  saṃ. ni. 5.705-716 passitabbā 
 
 saddhābalaṃ? 
@@ -405,7 +405,7 @@ dasa tathāgatabalāni?
 45 .
   taṃ khamatīti (ka.)
 Balakathā niṭṭhitā.
-
+10. Suññakathā
 46 .   
  kiñca ānanda saṃ. ni. 4.85 yadidaṃ (ka.) saṃ. ni. 4.85 passitabbā
 

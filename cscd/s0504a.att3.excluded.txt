@@ -1,5 +1,5 @@
 ﻿3. Tikanipāto
-
+1. Paṭhamavaggo
 1. Mūlasuttavaṇṇanā
 50 .    tīṇī Imānī Akusalamūlānī akusalamūlānī
 
@@ -106,7 +106,7 @@ Asekkhenā asekkhā
 Yassa ete subhāvitā
 Dasamasuttavaṇṇanā niṭṭhitā.
 Paṭhamavaggavaṇṇanā niṭṭhitā.
-
+2. Dutiyavaggo
 1. Puññakiriyavatthusuttavaṇṇanā
 60 .  puññakiriyavatthūnī  Dānamaya 
 Sīlamaya
@@ -176,7 +176,7 @@ Navamasuttavaṇṇanā niṭṭhitā.
 Saṅgātigo Atthaṅgato so na pamāṇametī amohayi maccurājaṃ,
 Dasamasuttavaṇṇanā niṭṭhitā.
 Dutiyavaggavaṇṇanā niṭṭhitā.
-
+3. Tatiyavaggo
 1. Micchādiṭṭhikasuttavaṇṇanā
 70 .   diṭṭhā mayā Kāyaduccaritena samannāgatā Ariyānaṃ upavādakā Micchādiṭṭhikā  Micchādiṭṭhikammasamādānā
 
@@ -328,7 +328,7 @@ Niddārāmo
 uddhato Appakiccassā Appamiddho  Anuddhato
 Dasamasuttavaṇṇanā niṭṭhitā.
 Tatiyavaggavaṇṇanā niṭṭhitā.
-
+4. Catutthavaggo
 1. Vitakkasuttavaṇṇanā
 80 .  akusalavitakkā Anavaññattipaṭisaṃyutto anavaññattī Lābhasakkārasilokapaṭisaṃyutto  Parānuddayatāpaṭisaṃyutto
 
@@ -484,7 +484,7 @@ Aduṭṭhassā Dubbhe Tameva pāpaṃ phusatī Bhesmā Vādenā Vihiṃsatī V�
 
 Dasamasuttavaṇṇanā niṭṭhitā.
 Catutthavaggavaṇṇanā niṭṭhitā.
-
+5. Pañcamavaggo
 1. Aggappasādasuttavaṇṇanā
 90 .   aggappasādā agga
 

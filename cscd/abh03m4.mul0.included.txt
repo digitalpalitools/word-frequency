@@ -33,7 +33,7 @@
 (kha) ye vā pana kusalamūlena ekamūlamūlakā sabbe te dhammā kusalā
  (ka) ye keci kusalamūlena ekamūlamūlakā dhammā sabbe te kusalamūlena aññamaññamūlamūlakā
 (kha) ye vā pana kusalamūlena aññamaññamūlamūlakā sabbe te dhammā kusalā
-2 akusalā dhammā (1) mūlanayo
+
  (ka) ye keci akusalā dhammā sabbe te akusalamūlā
 (kha) ye vā pana akusalamūlā sabbe te dhammā akusalā
  (ka) ye keci akusalā dhammā sabbe te akusalamūlena ekamūlā
@@ -61,7 +61,7 @@
 (kha) ye vā pana akusalamūlena ekamūlamūlakā sabbe te dhammā akusalā
  (ka) ye keci akusalamūlena ekamūlamūlakā dhammā sabbe te akusalamūlena aññamaññamūlamūlakā
 (kha) ye vā pana akusalamūlena aññamaññamūlamūlakā sabbe te dhammā akusalā
-3 abyākatā dhammā (1) mūlanayo
+
  (ka) ye keci abyākatā dhammā sabbe te abyākatamūlā
 (kha) ye vā pana abyākatamūlā sabbe te dhammā abyākatā
  (ka) ye  keci abyākatā dhammā sabbe te abyākatamūlena ekamūlā
@@ -89,7 +89,7 @@
 (kha) ye vā pana abyākatamūlena ekamūlamūlakā sabbe te dhammā abyākatā
  (ka) ye  keci abyākatamūlena ekamūlamūlakā dhammā sabbe te abyākatamūlena aññamaññamūlamūlakā
 (kha) ye vā pana abyākatamūlena aññamaññamūlamūlakā sabbe te dhammā abyākatā
-4 nāmā dhammā (1) mūlanayo
+
  (ka) ye  keci nāmā dhammā sabbe te nāmamūlā
 (kha) ye vā pana nāmamūlā sabbe te dhammā nāmā
  (ka) ye keci nāmā dhammā sabbe te nāmamūlena ekamūlā
@@ -118,14 +118,14 @@
  (ka) ye keci nāmamūlena ekamūlamūlakā  dhammā sabbe te nāmamūlena aññamaññamūlamūlakā
 (kha) ye vā pana nāmamūlena aññamaññamūlamūlakā sabbe te dhammā nāmā
 
-2-10 hetuvārādi
+
  ye  keci kusalā dhammā sabbe te kusalahetū kusalanidānā kusalasambhavā kusalappabhavā kusalasamuṭṭhānā kusalāhārā kusalārammaṇā kusalapaccayā kusalasamudayā
 mūlaṃ hetu nidānañca sambhavo pabhavena ca
 samuṭṭhānāhārārammaṇā  paccayo samudayena cāti
 
 
-1 mūlavāro
-1 kusalā dhammā (1) mūlanayo
+
+
  (ka) ye keci kusalā dhammā sabbe te kusalamūlāti tīṇeva kusalamūlāni avasesā kusalā dhammā na kusalamūlā
 (kha) ye vā pana kusalamūlā sabbe te dhammā kusalāti āmantā
  (ka) ye keci kusalā dhammā sabbe te kusalamūlena ekamūlāti āmantā
@@ -163,7 +163,7 @@ kusalasamuṭṭhānaṃ rūpaṃ kusalamūlena ekamūlamūlakaṃ na kusalaṃ 
  (ka) ye keci kusalamūlena ekamūlamūlakā dhammā sabbe te kusalamūlena aññamaññamūlamūlakāti
 mūlāni yāni ekato uppajjanti kusalamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca avasesā kusalamūlasahajātā dhammā kusalamūlena ekamūlamūlakā na ca aññamaññamūlamūlakā
 (kha) ye vā pana kusalamūlena aññamaññamūlamūlakā sabbe te dhammā kusalāti āmantā
-2 akusalā dhammā (1) mūlanayo
+
  (ka) ye keci akusalā dhammā sabbe te akusalamūlāti
 tīṇeva akusalamūlāni avasesā akusalā dhammā na akusalamūlā
 (kha) ye vā pana  akusalamūlā sabbe te dhammā akusalāti āmantā
@@ -209,7 +209,7 @@ akusalasamuṭṭhānaṃ rūpaṃ akusalamūlena ekamūlamūlakaṃ na akusala�
  (ka) ye keci akusalamūlena ekamūlamūlakā dhammā sabbe te akusalamūlena aññamaññamūlamūlakāti
 mūlāni yāni ekato uppajjanti akusalamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca avasesā akusalamūlasahajātā dhammā akusalamūlena ekamūlamūlakā na ca aññamaññamūlamūlakā
 (kha) ye vā pana akusalamūlena aññamaññamūlamūlakā sabbe te dhammā akusalāti āmantā
-3 abyākatā dhammā (1) mūlanayo
+
  (ka) ye  keci abyākatā dhammā sabbe te abyākatamūlāti
 tīṇeva abyākatamūlāni avasesā abyākatā dhammā na abyākatamūlā
 (kha) ye vā pana abyākatamūlā sabbe te dhammā abyākatāti āmantā
@@ -249,7 +249,7 @@ ahetukaṃ abyākataṃ abyākatamūlena na ekamūlamūlakaṃ sahetukaṃ abyā
  (ka) ye keci abyākatamūlena ekamūlamūlakā dhammā sabbe te abyākatamūlena aññamaññamūlamūlakāti
 mūlāni yāni ekato uppajjanti abyākatamūlāni ekamūlamūlakāni ceva aññamaññamūlamūlakāni ca avasesā  abyākatamūlasahajātā dhammā abyākatamūlena ekamūlamūlakā na ca aññamaññamūlamūlakā
 (kha) ye vā pana abyākatamūlena aññamaññamūlamūlakā sabbe te dhammā abyākatāti āmantā
-4 nāmā dhammā (1) mūlanayo
+
  (ka) ye  keci nāmā dhammā sabbe te nāmamūlāti
 naveva nāmamūlāni avasesā nāmā dhammā na nāmamūlā
 (kha) ye vā pana nāmamūlā sabbe te dhammā nāmāti āmantā
@@ -297,7 +297,7 @@ mūlāni yāni ekato uppajjanti nāmamūlāni  ekamūlamūlakāni ceva aññama�
 (kha) ye  vā pana nāmamūlena aññamaññamūlamūlakā sabbe te dhammā nāmāti
 āmantā
 
-2-10 hetuvārādi
+
  ye  keci kusalā dhammā sabbe te kusalahetūti
 tayo eva kusalahetū avasesā kusalā dhammā na kusalahetū kusalanidānā kusalasambhavā kusalappabhavā kusalasamuṭṭhānā kusalāhārā kusalārammaṇā kusalapaccayā kusalasamudayā
  ye keci akusalā dhammā ye keci abyākatā dhammā ye keci nāmā dhammā sabbe te nāmahetū ti nāmanidānā nāmasambhavā nāmappabhavā nāmasamuṭṭhānā nāmāhārā nāmārammaṇā nāmapaccayā nāmasamudayā

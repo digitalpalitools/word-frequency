@@ -1,8 +1,8 @@
 ﻿
-1 paṇṇattivāro
+
 
  bāvīsatindriyāni   cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ  satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
-1 padasodhanavāro
+
 
  (ka) cakkhu cakkhundriyaṃ
 (kha) cakkhundriyaṃ cakkhuṃ
@@ -93,7 +93,7 @@
 (kha) na aññindriyaṃ na aññaṃ
 (ka) na aññātāvī na aññātāvindriyaṃ
 (kha) na aññātāvindriyaṃ na aññātāvī
-2 padasodhanamūlacakkavāro
+
 
  (ka) cakkhu cakkhundriyaṃ
 (kha) indriyā sotindriyaṃ
@@ -286,7 +286,7 @@ indriyā cakkhundriyaṃ
 (kha) na indriyā na cakkhundriyaṃ  na indriyā na aññātāvindriyaṃ
  (ka) na aññātāvī na aññātāvindriyaṃ
 (kha) na indriyā na cakkhundriyaṃ  na indriyā na aññindriyaṃ
-3 suddhindriyavāro
+
 
  (ka) cakkhu indriyaṃ
 (kha) indriyā cakkhu
@@ -377,7 +377,7 @@ indriyā cakkhundriyaṃ
 (kha) na indriyā na aññaṃ
 (ka) na aññātāvī na indriyaṃ
 (kha) na indriyā na aññātāvī
-4 suddhindriyamūlacakkavāro
+
 
  (ka) cakkhu  indriyaṃ
 (kha) indriyā sotaṃ
@@ -550,7 +550,7 @@ indriyā cakkhundriyaṃ
 (kha) na indriyā na cakkhu  na indriyā na aññaṃ
 
 
-1 padasodhanavāro
+
 
  (ka) cakkhu  cakkhundriyanti
 dibbacakkhu paññācakkhu cakkhu na cakkhundriyaṃ cakkhundriyaṃ cakkhu ceva cakkhundriyañca
@@ -653,7 +653,7 @@ upekkhindriyaṃ  ṭhapetvā avasesā na upekkhindriyaṃ upekkhā upekkhañca 
 (kha) na aññindriyaṃ na aññanti āmantā
 (ka) na  aññātāvī na aññātāvindriyanti āmantā
 (kha) na aññātāvindriyaṃ na aññātāvīti āmantā
-2 padasodhanamūlacakkavāro
+
 
  (ka) cakkhu  cakkhundriyanti
 dibbacakkhu paññācakkhu cakkhu na cakkhundriyaṃ cakkhundriyaṃ cakkhu ceva cakkhundriyañca
@@ -945,7 +945,7 @@ purisindriyaṃ na puriso purisindriyaṃ purisañca purisindriyañca ṭhapetv�
 (kha) na indriyā na cakkhundriyanti āmantā 
 (ka) na aññātāvī na aññātāvindriyanti āmantā
 (kha) na indriyā na aññindriyanti āmantā
-3 suddhindriyavāro
+
 
  (ka) cakkhu  indriyanti āmantā
 (kha) indriyā cakkhundriyanti
@@ -1081,7 +1081,7 @@ aññaṃ ṭhapetvā avasesā indriyā na aññaṃ indriyā aññañca indriye
 (ka) na aññātāvī na indriyanti
 aññātāviṃ ṭhapetvā avasesā indriyā na aññātāvī indriyā aññātāviñca indriye ca ṭhapetvā avasesā na ceva aññātāvī na ca indriyā
 (kha) na indriyā na aññātāvindriyanti āmantā
-4 suddhindriyamūlacakkavāro
+
 
  (ka) cakkhu indriyanti āmantā
 (kha) indriyā sotindriyanti
@@ -1359,9 +1359,9 @@ aññātāviṃ ṭhapetvā avasesā indriyā na aññātāvī indriyā aññāt
 aññātāviṃ ṭhapetvā avasesā indriyā na aññātāvī indriyā aññātāviñca indriye ca ṭhapetvā avasesā na ceva aññātāvī na ca indriyā
 (kha) na indriyā na aññindriyanti āmantā
 
-2 pavattivāro
-1 uppādavāro
-(1) paccuppannavāro
+
+
+
 
  (ka) yassa  cakkhundriyaṃ uppajjati tassa sotindriyaṃ uppajjatīti
 sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ cakkhundriyaṃ uppajjati no ca tesaṃ sotindriyaṃ uppajjati sacakkhukānaṃ sasotakānaṃ upapajjantānaṃ tesaṃ cakkhundriyañca uppajjati sotindriyañca uppajjati
@@ -2136,7 +2136,7 @@ ahetukānaṃ sacittakānaṃ upapajjantānaṃ pavatte saddhāvippayuttacittass
  (ka) yassa yattha paññindriyaṃ na uppajjati tassa tattha manindriyaṃ na uppajjatīti
 ñāṇavippayuttānaṃ sacittakānaṃ upapajjantānaṃ pavatte ñāṇavippayuttacittassa uppādakkhaṇe tesaṃ tattha paññindriyaṃ na uppajjati no ca tesaṃ tattha  manindriyaṃ na uppajjati sabbesaṃ cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha paññindriyañca na uppajjati manindriyañca na uppajjati
 (kha) yassa vā pana yattha manindriyaṃ na uppajjati tassa tattha paññindriyaṃ na uppajjatīti āmantā (paññindriyamūlakaṃ)
-(2) atītavāro
+
 
  (ka) yassa cakkhundriyaṃ uppajjittha tassa sotindriyaṃ uppajjitthāti āmantā
 (kha) yassa vā pana sotindriyaṃ uppajjittha tassa cakkhundriyaṃ uppajjitthāti āmantā
@@ -2429,7 +2429,7 @@ yassa vā pana yattha manindriyaṃ na uppajjittha tassa tattha upekkhindriyaṃ
 yassa vā pana yattha manindriyaṃ na uppajjittha tassa tattha saddhindriyaṃ na uppajjitthāti āmantā (saddhindriyamūlakaṃ)
  (ka) yassa yattha paññindriyaṃ na uppajjittha tassa tattha manindriyaṃ na uppajjitthāti āmantā
 (kha) yassa vā pana yattha manindriyaṃ na uppajjittha tassa tattha paññindriyaṃ na uppajjitthāti āmantā (paññindriyamūlakaṃ)
-(3) anāgatavāro
+
 
  (ka) yassa  cakkhundriyaṃ uppajjissati tassa sotindriyaṃ uppajjissatīti āmantā
 (kha) yassa vā pana sotindriyaṃ uppajjissati tassa cakkhundriyaṃ uppajjissatīti āmantā
@@ -2946,7 +2946,7 @@ yassa cittassa anantarā somanassasampayuttapacchimacittaṃ uppajjissati  tesa�
 yassa vā pana yattha manindriyaṃ na uppajjissati tassa tattha saddhindriyaṃ na uppajjissatīti āmantā (saddhindriyamūlakaṃ)
  (ka) yassa yattha paññindriyaṃ na uppajjissati tassa tattha manindriyaṃ na uppajjissatīti āmantā
 (kha) yassa vā pana yattha manindriyaṃ na uppajjissati tassa tattha paññindriyaṃ na uppajjissatīti āmantā (paññindriyamūlakaṃ)
-(4) paccuppannātītavāro
+
 
  (ka) yassa  cakkhundriyaṃ uppajjati tassa sotindriyaṃ uppajjitthāti āmantā
 (kha) yassa vā pana sotindriyaṃ uppajjittha tassa cakkhundriyaṃ uppajjatīti
@@ -3233,7 +3233,7 @@ suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha manindriyaṃ na uppajjittha no
 sabbesaṃ cittassa bhaṅgakkhaṇe ñāṇavippayuttacittassa uppādakkhaṇe tesaṃ tattha paññindriyaṃ na uppajjati no ca tesaṃ tattha manindriyaṃ na uppajjittha suddhāvāsānaṃ  upapatticittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha paññindriyañca na uppajjati manindriyañca na uppajjittha
 (kha) yassa vā pana yattha manindriyaṃ na uppajjittha tassa tattha paññindriyaṃ na uppajjatīti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha manindriyaṃ na uppajjittha no ca tesaṃ tattha paññindriyaṃ na uppajjati suddhāvāsānaṃ upapatticittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha manindriyañca na uppajjittha paññindriyañca na uppajjati (paññindriyamūlakaṃ)
-(5) paccuppannānāgatavāro
+
 
  (ka) yassa cakkhundriyaṃ uppajjati tassa sotindriyaṃ uppajjissatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ upapajjantānaṃ tesaṃ cakkhundriyaṃ uppajjati no ca tesaṃ sotindriyaṃ uppajjissati itaresaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ cakkhundriyañca uppajjati sotindriyañca uppajjissati
@@ -3736,7 +3736,7 @@ pacchimacittassa uppādakkhaṇe tesaṃ tattha manindriyaṃ na uppajjissati no
 sabbesaṃ cittassa bhaṅgakkhaṇe ñāṇavippayuttacittassa uppādakkhaṇe tesaṃ  tattha paññindriyaṃ na uppajjati no ca tesaṃ tattha manindriyaṃ na uppajjissati pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha paññindriyañca na uppajjati manindriyañca na uppajjissati
 (kha) yassa vā pana yattha manindriyaṃ na uppajjissati tassa tattha paññindriyaṃ na uppajjatīti
 pacchimacittassa uppādakkhaṇe tesaṃ tattha manindriyaṃ na uppajjissati no ca tesaṃ tattha paññindriyaṃ na uppajjati pacchimacittassa bhaṅgakkhaṇe  asaññasattānaṃ tesaṃ tattha manindriyañca na uppajjissati paññindriyañca na uppajjati (paññindriyamūlakaṃ)
-(6) atītānāgatavāro
+
 
  (ka) yassa cakkhundriyaṃ uppajjittha tassa sotindriyaṃ uppajjissatīti
 pacchimabhavikānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cakkhundriyaṃ uppajjittha  no ca tesaṃ sotindriyaṃ uppajjissati itaresaṃ tesaṃ cakkhundriyañca uppajjittha sotindriyañca uppajjissati
@@ -4075,8 +4075,8 @@ suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha paññindriyaṃ na uppajjittha
 (kha) yassa vā pana yattha manindriyaṃ  na uppajjissati tassa tattha paññindriyaṃ na uppajjitthāti
 pacchimacittasamaṅgīnaṃ tesaṃ tattha manindriyaṃ na uppajjissati no ca tesaṃ tattha paññindriyaṃ na uppajjittha asaññasattānaṃ tesaṃ tattha manindriyañca na uppajjissati paññindriyañca na uppajjittha (paññindriyamūlakaṃ)
 
-3 pariññāvāro
-1 paccuppannavāro
+
+
 
  (ka) yo  cakkhundriyaṃ parijānāti so sotindriyaṃ parijānātīti āmantā
 (kha) yo vā pana sotindriyaṃ parijānāti so cakkhundriyaṃ parijānātīti āmantā
@@ -4141,7 +4141,7 @@ aṭṭhamako aññātāvindriyaṃ na sacchikaroti no ca anaññātaññassām�
 yo aggaphalaṃ sacchikaroti so aññindriyaṃ na bhāveti no ca aññātāvindriyaṃ na sacchikaroti tayo maggasamaṅgino ca arahantañca ṭhapetvā avasesā puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikaronti
 (kha) yo vā pana aññātāvindriyaṃ na sacchikaroti so aññindriyaṃ na bhāvetīti
 tayo maggasamaṅgino aññātāvindriyaṃ na sacchikaronti no ca aññindriyaṃ na bhāventi tayo maggasamaṅgino ca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti aññindriyañca na bhāventi (aññindriyamūlakaṃ)
-2 atītavāro
+
 
  (ka) yo  cakkhundriyaṃ parijānittha so domanassindriyaṃ pajahitthāti  āmantā
 (kha) yo vā pana domanassindriyaṃ pajahittha so cakkhundriyaṃ parijānitthāti
@@ -4202,7 +4202,7 @@ satta puggalā aññātāvindriyaṃ na sacchikarittha no ca anaññātaññass�
  (ka) yo  aññindriyaṃ na bhāvittha so aññātāvindriyaṃ na sacchikaritthāti āmantā
 (kha) yo vā pana aññātāvindriyaṃ na sacchikarittha so aññindriyaṃ na bhāvitthāti
 yo aggaphalaṃ sacchikaroti so aññātāvindriyaṃ na sacchikarittha no  ca aññindriyaṃ na bhāvittha aṭṭha puggalā aññātāvindriyañca na sacchikarittha aññindriyañca na bhāvittha (aññindriyamūlakaṃ)
-3 anāgatavāro
+
 
  (ka) yo cakkhundriyaṃ parijānissati so domanassindriyaṃ pajahissatīti
 dve puggalā cakkhundriyaṃ parijānissanti no ca domanassindriyaṃ pajahissanti pañca puggalā cakkhundriyañca parijānissanti domanassindriyañca pajahissanti
@@ -4263,7 +4263,7 @@ satta puggalā anaññātaññassāmītindriyaṃ na bhāvessanti no ca aññāt
  (ka) yo aññindriyaṃ na bhāvessati so aññātāvindriyaṃ na sacchikarissatīti
 aggamaggasamaṅgī aññindriyaṃ na bhāvessati no ca aññātāvindriyaṃ na sacchikarissati dve puggalā aññindriyañca na bhāvessanti aññātāvindriyañca  na sacchikarissanti
 (kha) yo vā pana aññātāvindriyaṃ  na sacchikarissati so aññindriyaṃ na bhāvessatīti āmantā (aññindriyamūlakaṃ)
-4 paccuppannātītavāro
+
 
  (ka) yo cakkhundriyaṃ parijānāti so domanassindriyaṃ pajahitthāti āmantā
 (kha) yo vā pana domanassindriyaṃ pajahittha so cakkhundriyaṃ parijānātīti
@@ -4326,7 +4326,7 @@ aṭṭhamako aññātāvindriyaṃ na sacchikarittha no ca anaññātaññassā
 arahā aññindriyaṃ na bhāveti no ca aññātāvindriyaṃ na sacchikarittha cha  puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarittha
 (kha) yo vā pana aññātāvindriyaṃ na sacchikarittha so aññindriyaṃ na bhāvetīti
 tayo maggasamaṅgino aññātāvindriyaṃ na sacchikarittha no ca aññindriyaṃ na bhāventi cha  puggalā aññātāvindriyañca na sacchikarittha aññindriyañca na bhāventi (aññindriyamūlakaṃ)
-5 paccuppannānāgatavāro
+
 
  (ka) yo cakkhundriyaṃ parijānāti so domanassindriyaṃ pajahissatīti no
 (kha) yo vā pana domanassindriyaṃ pajahissati so cakkhundriyaṃ parijānātīti no
@@ -4389,7 +4389,7 @@ satta puggalā anaññātaññassāmītindriyaṃ na bhāventi no ca aññātāv
  (ka) yo aññindriyaṃ na bhāveti so aññātāvindriyaṃ na sacchikarissatīti
 pañca puggalā aññindriyaṃ na bhāventi no ca aññātāvindriyaṃ na sacchikarissanti dve puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarissanti
 (kha) yo vā pana aññātāvindriyaṃ na sacchikarissati so aññindriyaṃ na bhāvetīti āmantā (aññindriyamūlakaṃ)
-6 atītānāgatavāro
+
 
  (ka) yo cakkhundriyaṃ parijānittha so domanassindriyaṃ pajahissatīti no
 (kha) yo vā pana domanassindriyaṃ pajahissati so cakkhundriyaṃ parijānitthāti no

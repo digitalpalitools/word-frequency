@@ -1,5 +1,5 @@
 ﻿7. Sekhiyakaṇḍaṃ
-
+1. Parimaṇḍalavaggo
 Ime kho panāyasmanto sekhiyā
 Dhammā uddesaṃ āgacchanti.
 576 .     
@@ -59,7 +59,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
  
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Parimaṇḍalavaggo paṭhamo.
-
+2. Ujjagghikavaggo
 586 . 
 ‘‘Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā’’
 
@@ -111,7 +111,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Ujjagghikavaggo dutiyo.
-
+3. Khambhakatavaggo
 596 .  
 ‘‘Na khambhakato antaraghare gamissāmīti sikkhā karaṇīyā’’
 
@@ -164,7 +164,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 Anāpatti asañcicca, assatiyā, ajānantassa, āpadāsu, ummattakassa, ādikammikassāti.
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Khambhakatavaggo tatiyo.
-
+4. Sakkaccavaggo
 606 .
 ‘‘Sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā’’
 
@@ -220,7 +220,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Sakkaccavaggo catuttho.
-
+5. Kabaḷavaggo
 617 .  
 ‘‘Na  anāhaṭe kabaḷe mukhadvāraṃ vivarissāmīti sikkhā karaṇīyā’’
 
@@ -272,7 +272,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Kabaḷavaggo pañcamo.
-
+6. Surusuruvaggo
 627 .  
 ‘‘Na  surusurukārakaṃ bhuñjissāmīti sikkhā karaṇīyā’’
 
@@ -332,7 +332,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 
 Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Surusuruvaggo chaṭṭho.
-
+7. Pādukavaggo
 638 . 
 ‘‘Na  pādukāruḷhassa agilānassa dhammaṃ desessāmīti sikkhā karaṇīyā’’
 

@@ -1,5 +1,5 @@
 ﻿1. Devatāsaṃyuttaṃ
-
+1. Naḷavaggo
 1. Oghataraṇasuttavaṇṇanā
   saṃyuttāgamo
 
@@ -115,7 +115,7 @@ Mānakāmasuttavaṇṇanā niṭṭhitā.
 atīta  Nappajappanti nāgata Paccuppannenā Tenā
  anāgatappajappāyā Etenā Naḷova harito luto
 Araññasuttavaṇṇanā niṭṭhitā. Naḷavaggo paṭhamo.
-
+2. Nandanavaggo
 1. Nandanasuttavaṇṇanā
 11 .  tatrā Kho Bhikkhū āmantesī Bhikkhavo Bhadante Te bhikkhū Bhagavato paccassosu Etadavocā tāvatiṃsakāyikā 
 Nandane vane  Accharāsaṅghaparivutā accharā
@@ -194,7 +194,7 @@ imassa khvāhaṃ, bhante pāpaṃ na kayirā vacasā Manasā Kāyena vā kiñca
 vacasā manasā Kāyena vā kiñcana sabbaloke Satimā Sampajāno Kāme pahāya, dukkhaṃ na sevethā
 Samiddhisuttavaṇṇanā niṭṭhitā.
 Nandanavaggo dutiyo.
-
+3. Sattivaggo
 1. Sattisuttavaṇṇanā
 21 .  sattiyā Omaṭṭho   Paribbaje
 
@@ -224,7 +224,7 @@ yo hotī mānaṃ nu kho vidhūpitā Mānaganthassā  Maññata
 10. Eṇijaṅghasuttavaṇṇanā
 30 .   eṇijaṅgha Kisa Vīra Appāhāra Alolupa  Sīhaṃvekacaraṃ nāga Paveditā Etthā
 Sattivaggo tatiyo.
-
+4. Satullapakāyikavaggo
 1. Sabbhisuttavaṇṇanā
 31 . satullapakāyikā   
 sabbhirevā Samāsethā Kubbethā Santhava Sata Saddhamma Seyyo hotī Na pāpiyo Nāññato Sokamajjhe  
@@ -340,7 +340,7 @@ Pañcavedā  Sataṃ sama Tapassī  Cara Na sammāvimutta Hīnattarūpā na pār
 10. Dutiyapajjunnadhītusuttavaṇṇanā
 40 . dhammañcā Atthavatī Bahunāpi kho ta  Tādiso dhammo Lapayissāmī Yāvatā me manasā pariyatta 
 Satullapakāyikavaggo catuttho.
-
+5. Ādittavaggo
 1. Ādittasuttavaṇṇanā
 41 . jarāya maraṇena cā Dānenā Dinnaṃ hoti sunīhata Corā harantī  Antenā Sarīraṃ sapariggaha Saggamupetī
 2. Kiṃdadasuttavaṇṇanā
@@ -387,7 +387,7 @@ Vadaññū  Pakāsantī Parasambhatesū Samparāye ca suggatī
 10. Ghaṭīkārasuttavaṇṇanā
 50 . upapannāse Vimuttā Mānusaṃ deha Dibbayoga Upaccagu Upako Kusalī bhāsasī tesa kusalī,  Taṃ te dhammaṃ idhaññāyā Gambhīra Brahmacārī nirāmiso Ahuvā Sagāmeyyo
 Ādittavaggo pañcamo.
-
+6. Jarāvaggo
 1. Jarāsuttavaṇṇanā
 51 . sādhū Sīlaṃ yāva jarā 
 Saddhā  sādhu patiṭṭhitā Paññā narānaṃ ratana
@@ -410,7 +410,7 @@ Puñña
 10. Kavisuttavaṇṇanā
 60 . chando nidāna  Viyañjana Nāmasannissitā  Āsayo
 Jarāvaggo chaṭṭho.
-
+7. Addhavaggo
 1. Nāmasuttavaṇṇanā
 61 . nāmaṃ sabbaṃ addhabhavī
 2-3. Cittasuttādivaṇṇanā
@@ -428,7 +428,7 @@ Jarāvaggo chaṭṭho.
 10. Lokasuttavaṇṇanā
 70 . kismiṃ loko samuppanno Chasū Chasu kubbatī Upādāyā Vihaññatī
 Addhavaggo sattamo.
-
+8. Chetvāvaggo
 1. Chetvāsuttavaṇṇanā
 71 .  chetvā Sukhaṃ setī Na socatī Visamūlassā  Madhuraggassā Ariyā
 2. Rathasuttavaṇṇanā

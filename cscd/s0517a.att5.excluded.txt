@@ -1,5 +1,5 @@
 ﻿4. Indriyakathā
-
+1. Paṭhamasuttantaniddesavaṇṇanā
 184 .    evaṃ me suta
 eva Me Viharatī vi haratī
 evaṃ
@@ -49,7 +49,7 @@ pañcā Imāni indriyānī
 186 . bhāvitāni ceva honti subhāvitāni cā Paṭippassaddhāni ca suppaṭippassaddhāni cā Samucchedavisuddhiyo Paṭippassaddhivisuddhiyo
 katinaṃ puggalāna savanena buddho  khīṇāsavo bhāvitindriyo Sayaṃ bhūtaṭṭhenā Appameyyaṭṭhenā
 Paṭhamasuttantaniddesavaṇṇanā niṭṭhitā.
-
+2. Dutiyasuttantaniddesavaṇṇanā
 187 .  pañcimāni, bhikkhave ye  hi kecī hi Samaṇā vā brāhmaṇā vā Samudaya Atthaṅgama Assāda Ādīnava Nissaraṇa Yathābhūta Samaṇesū Samaṇasammatā Brāhmaṇesū Sāmaññattha Brahmaññattha sāmaññattha Brahmaññattha Diṭṭheva dhamme Sayaṃ abhiññā sacchikatvā Upasampajjā
 188 .  asītisata
 adhimokkhatthāyā Āvajjanāya samudayo Saddhindriyassa samudayo Adhimokkhavasenā Chandassa samudayo  manasikāro  Saddhindriyassa vasenā Ekattupaṭṭhāna Ekattaanupaṭṭhāna
@@ -63,7 +63,7 @@ Ga. nissaraṇaniddesavaṇṇanā
 193 . Diṭṭhekaṭṭhehī Oḷārikehī Aṇusahagatehī Sabbakilesehī Sabbesaññeva khīṇāsavānaṃ tattha tattha pañcindriyānī 
  
 Dutiyasuttantaniddesavaṇṇanā niṭṭhitā.
-
+3. Tatiyasuttantaniddesavaṇṇanā
 194 . pañcimāni, bhikkhave sotāpattiyaṅgesū   
 Ka. pabhedagaṇananiddesavaṇṇanā
 195 . sappurisasaṃseve Adhimokkhādhipateyyaṭṭhenā Saddhammasavane Yonisomanasikāre Dhammānudhammapaṭipattiyā Sammappadhānā
@@ -77,7 +77,7 @@ Saddhāya viharatī Anubuddho Paṭividdho
 Evaṃ saddhāya caranta eva Viññū vibhāvī  medhāvī paṇḍitā buddhisampannā sabrahmacārino ekaṃ kammaṃ ekuddeso samasikkhatā  jhānā Vimokkhā Samādhī  Samāpattiyo Abhiññāyo
 ekaṃsavacanaṃ nissaṃsayo nikkaṅkho advejjho adveḷhako niyogavacanaṃ apaṇṇakavacanaṃ. Avatthāpanavacana piyavacanaṃ garuvacanaṃ sagāravasappatissādhivacanaṃ eta Patto vā pāpuṇissati vā
 Tatiyasuttantaniddesavaṇṇanā niṭṭhitā.
-
+4. Catutthasuttantaniddesavaṇṇanā
 198 .  katihākārehi kenaṭṭhena daṭṭhabbānī  Kenaṭṭhena daṭṭhabbānī Chahākārehi tenaṭṭhena daṭṭhabbānī Ādhipateyyaṭṭhenā Ādivisodhanaṭṭhenā Adhimattaṭṭhenā  Adhiṭṭhānaṭṭhenā Pariyādānaṭṭhenā Patiṭṭhāpakaṭṭhenā
 Ka. ādhipateyyaṭṭhaniddesavaṇṇanā
 199 . assaddhiyaṃ pajahato Kāmacchandaṃ pajahato
@@ -89,7 +89,7 @@ Te dhammā Ekarasā hontī Bhāvanāvasenā Tato paṇītatare vivaṭṭantī V
 Gha-ṅa. pariyādānaṭṭhapatiṭṭhāpakaṭṭhaniddesavaṇṇanā
 202-203 .    pariyādiyatī saddho saddhindriyaṃ adhimokkhe patiṭṭhāpetī Saddhassa saddhindriyaṃ adhimokkhe patiṭṭhāpetī Yogāvacaro Avacaratī
 Catutthasuttantaniddesavaṇṇanā niṭṭhitā.
-
+5. Indriyasamodhānavaṇṇanā
 204 . puthujjano samādhiṃ bhāvento puthujjano samādhiṃ bhāvento Āvajjitattā Ārammaṇūpaṭṭhānakusalo Samathanimittūpaṭṭhānakusalo Paggahanimittūpaṭṭhānakusalo Avikkhepūpaṭṭhānakusalo  Obhāsūpaṭṭhānakusalo  Aṭṭha saṃvegavatthūni Sampahaṃsanūpaṭṭhānakusalo  Upekkhūpaṭṭhānakusalo Sekkho Ekattūpaṭṭhānakusalo
 Vītarāgo Ñāṇūpaṭṭhānakusalo Vimuttūpaṭṭhānakusalo Vimuttī
 205 . aniccato niccato

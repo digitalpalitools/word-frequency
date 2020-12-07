@@ -1,5 +1,5 @@
 ﻿11. Maggaṅgavibhaṅgo
-
+1. Suttantabhājanīyaṃ
 486 .    
 487 .
 
@@ -12,7 +12,7 @@
 488 .
 489 . 
 Suttantabhājanīyaṃ.
-
+2. Abhidhammabhājanīyaṃ
 490 .
 491 .  
 492 . 
@@ -41,7 +41,7 @@ Suttantabhājanīyaṃ.
 503 .  
  
 Abhidhammabhājanīyaṃ.
-
+3. Pañhāpucchakaṃ
 504 .
 505 . 
 1. Tikaṃ

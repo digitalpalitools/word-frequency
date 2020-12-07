@@ -1,5 +1,5 @@
 ﻿Dhammapaccanīyānulome dukapaṭṭhānaṃ
-
+1-6. Hetugocchakaṃ
 1-7. Paṭiccavārādi
 1 .  
 
@@ -12,7 +12,7 @@
 4 .
 5 .
 6 .
-
+7-13. Cūḷantaradukādi
 7 .
 8 . 
 9 . 
@@ -26,7 +26,7 @@
 
 
 13 .
-
+14-19. Āsavagocchakaṃ
 14 .  
 
 
@@ -37,14 +37,14 @@
 17 .
 18 .
 19 .
-
+20-54. Saññojanādichagocchakāni
 20 .
 
  
 
 
 21 .
-
+55-68. Mahantaradukādi
 22 .
 
 
@@ -67,11 +67,11 @@
 
 34 .
 35 .
-
+69-74. Upādānagocchakaṃ
 36 .
-
+75-82. Kilesagocchakaṃ
 37 .
-
+83-99. Piṭṭhidukaṃ
 38 . 
 
 
@@ -105,12 +105,12 @@
 54 .
 
 
-
+100. Saraṇadukaṃ
 1-7. Paṭiccavārādi
 55 .
 
  
-
+Paccanīyaṃ
 Nahetupaccayo
 56 .
 

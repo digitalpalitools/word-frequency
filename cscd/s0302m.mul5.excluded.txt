@@ -1,5 +1,5 @@
 ﻿6. Lābhasakkārasaṃyuttaṃ
-
+1. Paṭhamavaggo
 1. Dāruṇasuttaṃ
 157 .    
 
@@ -34,7 +34,7 @@ Paṭhamo vaggo.
 
 
 
-
+2. Dutiyavaggo
 1. Suvaṇṇapātisuttaṃ
 167 .    
 2. Rūpiyapātisuttaṃ
@@ -45,7 +45,7 @@ Dutiyo vaggo.
 
  
 
-
+3. Tatiyavaggo
 1. Mātugāmasuttaṃ
 170 .  
 2. Kalyāṇīsuttaṃ
@@ -71,7 +71,7 @@ Tatiyo vaggo.
 
 
 
-
+4. Catutthavaggo
 1. Bhindisuttaṃ
 180 .   
 2. Kusalamūlasuttaṃ

@@ -1,6 +1,6 @@
 ﻿7-1. Sappaccayaduka-kusalattikaṃ
-
-
+1-2. Kusalākusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .
@@ -15,8 +15,8 @@ Hetupaccayo
 6 .
 7 .
 8 .
-
-
+3. Abyākatapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 9 .  
@@ -37,27 +37,27 @@ Paccanīyuddhāro
 
 
 Sappaccayadukakusalattikaṃ niṭṭhitaṃ.
-
+8-1. Saṅkhataduka-kusalattikaṃ
 14 .
 Saṅkhatadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+9-1. Sanidassanaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 15 .  
 16 . 
-
+2. Akusalapadaṃ
 Hetupaccayo
 17 .
 18 .
-
+3. Abyākatapadaṃ
 Hetupaccayo
 19 .
 20 . 
 
 
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 21 . 
@@ -70,9 +70,9 @@ Hetupaccayādi
 22 . 
 Sanidassanadukakusalattikaṃ niṭṭhitaṃ.
 (Appaccayampi asaṅkhatampi sanidassanampi na labbhati.)
-
-
-
+10-1. Sappaṭighaduka-kusalattikaṃ
+1-2. Kusalākusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 23 .
@@ -80,8 +80,8 @@ Hetupaccayo
 
 25 .
 
-
-
+3. Abyākatapadaṃ
+1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 26 . 
@@ -90,7 +90,7 @@ Hetupaccayo
 Nahetupaccayo
 28 . 
 29 .
-
+7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
 30 .
@@ -102,17 +102,17 @@ Paccanīyuddhāro
 
 
 Sappaṭighadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+11-1. Rūpīduka-kusalattikaṃ
+1-2. Kusalākusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 34 .
 35 .
 36 . 
 37 .
-
-
+3. Abyākatapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 38 .  
@@ -130,9 +130,9 @@ Hetupaccayo
 
 
 Rūpīdukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+11-1. Lokiyaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 43 .  
@@ -151,14 +151,14 @@ Hetupaccayādi
 
 
 47 .
-
-
+2. Akusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 48 . 
 49 .
-
-
+3. Abyākatapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 50 .
@@ -174,9 +174,9 @@ Hetupaccayo
 54 . 
 
 Lokiyadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
+13-1. Kenaciviññeyyaduka-kusalattikaṃ
+1. Kusalapadaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 55 .  

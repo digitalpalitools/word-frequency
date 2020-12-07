@@ -1,5 +1,5 @@
 ﻿7. Iddhipādasaṃyuttaṃ
-
+1. Cāpālavaggo
 1. Apārasuttaṃ
 813 .    
 2. Viraddhasuttaṃ
@@ -44,7 +44,7 @@ Cāpālavaggo paṭhamo.
 
 
 
-
+2. Pāsādakampanavaggo
 1. Pubbasuttaṃ
 823 .   
 
@@ -127,7 +127,7 @@ Pāsādakampanavaggo dutiyo.
 
 
 
-
+3. Ayoguḷavaggo
 1. Maggasuttaṃ
 833 .   
  
@@ -185,7 +185,7 @@ Ayoguḷavaggo tatiyo.
 
 
 
-
+4. Gaṅgāpeyyālavaggo
 1-12. Gaṅgānadīādisuttadvādasakaṃ
 845-856 .  
 
@@ -205,7 +205,7 @@ Esanāvaggo vitthāretabbo.
 
 
 
-
+8. Oghavaggo
 1-10. Oghādisuttadasakaṃ
 889-898 .   
 

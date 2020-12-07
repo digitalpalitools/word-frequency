@@ -1,7 +1,7 @@
 ﻿
-1 paṭiccavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
 
  maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
 maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā tayo khandhe paṭicca eko khandho dve khandhe (2)
@@ -22,12 +22,12 @@ maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppaj
 maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe (3)
 
  maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigatapaccayā
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
  hetuyā  sattarasa ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa (evaṃ gaṇetabbaṃ)
 
-2 paccayapaccanīyaṃ
-1 vibhaṅgavāro
+
+
 
  maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nahetupaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
 
@@ -76,24 +76,24 @@ maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajj
  maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati namaggapaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo  khandhā dve khandhe (1)
 
  maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navippayuttapaccayā (paripuṇṇaṃ arūpanti niyāmetabbaṃ)
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
  nahetuyā  ekaṃ naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke sattarasa namagge ekaṃ navippayutte sattarasa (evaṃ gaṇetabbaṃ)
 
-3 paccayānulomapaccanīyaṃ
+
 
  hetupaccayā naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke navippayutte sattarasa (evaṃ gaṇetabbaṃ)
 
-4 paccayapaccanīyānulomaṃ
+
 
  nahetupaccayā  ārammaṇe ekaṃ anantare ekaṃ samanantare ekaṃ jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)
 
 
-2-6 sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro
+
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadiso)
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
 
  maggārammaṇo  dhammo maggārammaṇassa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (1)
 maggārammaṇo dhammo maggādhipatissa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ hetupaccayena paccayo (2)
@@ -171,8 +171,8 @@ maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo (ana
  maggārammaṇo  dhammo maggārammaṇassa dhammassa kammapaccayena paccayo  sahajātā (nānākkhaṇikā natthi sattarasa pañhā kātabbā)
 
  maggārammaṇo dhammo maggārammaṇassa dhammassa āhārapaccayena paccayo indriyapaccayena paccayo jhānapaccayena paccayo maggapaccayena paccayo sampayuttapaccayena paccayo atthipaccayena paccayo (ime satta paccayā  sattarasa pañhā hetusadisā) natthipaccayena paccayo vigatapaccayena paccayo (anantarasadisā) avigatapaccayena paccayo (sattarasa pañhā)
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
  hetuyā sattarasa ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa (evaṃ gaṇetabbaṃ)
 
 
@@ -197,16 +197,16 @@ maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa sahajātapaccay
 maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
 maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo (4)
 maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (5)
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
 
  nahetuyā ekavīsa naārammaṇe sattarasa (naārammaṇe gahite pakatārammaṇampi upanissayārammaṇampi dvepi chijjanti) naadhipatiyā  ekavīsa naanantare nasamanantare nasahajāte naaññamaññe nanissaye naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge nasampayutte navippayutte noatthiyā nonatthiyā novigate noavigate ekavīsa (evaṃ gaṇetabbaṃ)
 
-3 paccayānulomapaccanīyaṃ
+
 
  hetupaccayā  naārammaṇe sattarasa naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge navippayutte nonatthiyā novigate sattarasa (evaṃ gaṇetabbaṃ)
 
-4 paccayapaccanīyānulomaṃ
+
 
  nahetupaccayā  ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre sattarasa indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa (evaṃ gaṇetabbaṃ)
 

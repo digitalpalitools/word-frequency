@@ -1,6 +1,6 @@
 ﻿Dhammapaccanīye dukatikapaṭṭhānaṃ
-
-
+1-1. Hetuduka-kusalattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .   
@@ -21,14 +21,14 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+1-2 Hetuduka-vedanāttikaṃ
 7 . 
 
 8 .
 
 9 . 
 
-
+1-3-9. Hetuduka-vipākādittikāni
 10 .
 
 
@@ -50,7 +50,7 @@ Hetu-ārammaṇapaccayā
 16 .  
 
 
-
+1-10-21. Hetuduka-ācayagāmādittikāni
 17 .
 
 
@@ -83,8 +83,8 @@ Hetu-ārammaṇapaccayā
 
 28 . 
 
-
-
+1-22. Hetuduka-sanidassanattikaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 29 .
@@ -101,7 +101,7 @@ Hetu-ārammaṇapaccayā
 
 32 .
 
-
+2-3-1. Sahetukadukādi-kusalattikaṃ
 33 .  
 
 
@@ -115,7 +115,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+4-5-1. Hetusahetukadukādi-kusalattikaṃ
 36 .
 
 
@@ -125,31 +125,31 @@ Hetu-ārammaṇapaccayā
 38 .
 
 
-
+6-1. Nahetusahetukaduka-kusalattikaṃ
 39 .
 
 40 .
 
 41 .
-
+7-13-1. Cūḷantaradukāni-kusalattikaṃ
 42 . 
 43 .
 44 .
 45 . 
 46 .
 47 . 
-
+14-19-1. Āsavagocchaka-kusalattikaṃ
 48 .
 49 .
 50 .
 51 .
 52 .
 53 .
-
+20-54-1. Chagocchakāni-kusalattikaṃ
 54 . 
 55 .
 
-
+55-1. Mahantaraduka-kusalattikaṃ
 56 . 
 57 .
 58 . 
@@ -161,9 +161,9 @@ Hetu-ārammaṇapaccayā
 64 .
 65 .
 66 .
-
+69-74-1. Upādānagocchaka-kusalattikaṃ
 67 . 
-
+75-82-1. Kilesagocchaka-kusalattikaṃ
 68 .
 69 .
 70 . 
@@ -171,7 +171,7 @@ Hetu-ārammaṇapaccayā
 72 .
 73 . 
 
-
+83-1. Piṭṭhiduka-kusalattikaṃ
 74 .
 75 .
 76 . 
@@ -190,7 +190,7 @@ Hetu-ārammaṇapaccayā
 
 
 
-
+100-2. Saraṇaduka-vedanādittikāni
 Paccayacatukkaṃ
 Hetupaccayo
 86 .
@@ -200,7 +200,7 @@ Hetupaccayo
 88 . 
 
 
-
+100-22. Saraṇaduka-sanidassanattikaṃ
 89 .  
 
 

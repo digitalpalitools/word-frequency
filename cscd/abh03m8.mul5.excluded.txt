@@ -1,7 +1,7 @@
 ﻿11. Sekkhattikaṃ
-
-
-
+1. Paṭiccavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 1 .   
 nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)
@@ -21,13 +21,13 @@ nevasekhānāsekho (sī.), nevasekkhānāsekkho (syā. ka.)
 
 Āhārapaccayādi
 5 . 
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 6 .  
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 7 .
 Naārammaṇapaccayo
@@ -59,25 +59,25 @@ Navippayuttapaccayādi
 
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 15 . 
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 16 . 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 17 .  
 Paccanīyānulomaṃ.
 Paṭiccavāro.
-
+2. Sahajātavāro
 (Sahajātavāro paṭiccavārasadiso.)
-
-
-
+3. Paccayavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 18 .
 
@@ -105,13 +105,13 @@ Adhipatipaccayādi
 
 Kammapaccayādi
 23 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 24 .  
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 25 . 
 Naārammaṇapaccayādi
@@ -134,36 +134,36 @@ Navipākapaccayo
 
 Naāhārapaccayādi
 29 .
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 30 .  
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 31 . 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 32 . 
 Paccanīyānulomaṃ.
 Paccayavāro.
-
+4. Nissayavāro
 (Nissayavāro paccayavārasadiso.)
-
-
-
+5. Saṃsaṭṭhavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 33 . 
 
 
 Ārammaṇapaccayādi
 34 .  
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 35 .
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 36 .
 Naadhipatipaccayo
@@ -172,22 +172,22 @@ Naadhipatipaccayo
 
 Napurejātapaccayādi
 38 . 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 39 .
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 40 .
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 41 .  
 Paccanīyānulomaṃ.
 Saṃsaṭṭhavāro.
-
+6. Sampayuttavāro
 (Sampayuttavāro saṃsaṭṭhavārasadiso.)
-
-
-
+7. Pañhāvāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 42 . 
 
@@ -275,11 +275,11 @@ Purejātaṃ
 67 . sahajātaṃ, purejātaṃ 
 Sahajātā Pacchājātā  Pacchājātā
 
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 68 . 
 Anulomaṃ.
-
+2. Paccanīyuddhāro
 69 .
 
 
@@ -294,15 +294,15 @@ Anulomaṃ.
 
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 73 .  
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 74 .
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 75 .  
 Paccanīyānulomaṃ.

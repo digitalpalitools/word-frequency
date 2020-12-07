@@ -2,7 +2,7 @@
 
 
 
-1 suttantabhājanīyaṃ
+
  pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 
  tattha  katamo rūpakkhandho yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā  ayaṃ vuccati rūpakkhandho
@@ -62,7 +62,7 @@ tattha katamaṃ viññāṇaṃ bahiddhā yaṃ viññāṇaṃ tesaṃ tesaṃ
  tattha  katamaṃ viññāṇaṃ dūre akusalaṃ viññāṇaṃ kusalābyākatehi viññāṇehi dūre kusalābyākatā viññāṇā akusalā viññāṇā dūre kusalaṃ viññāṇaṃ akusalābyākatehi viññāṇehi dūre akusalābyākatā viññāṇā kusalā viññāṇā dūre abyākataṃ viññāṇaṃ kusalākusalehi  viññāṇehi dūre kusalākusalā viññāṇā abyākatā viññāṇā dūre dukkhāya vedanāya sampayuttaṃ viññāṇaṃ sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre sukhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā dukkhāya vedanāya sampayuttā viññāṇā dūre sukhāya vedanāya sampayuttaṃ viññāṇaṃ dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttehi viññāṇehi dūre dukkhāya ca adukkhamasukhāya ca vedanāhi sampayuttā viññāṇā sukhāya vedanāya sampayuttā viññāṇā dūre adukkhamasukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhadukkhāhi vedanāhi sampayuttehi viññāṇehi dūre sukhadukkhāhi vedanāhi sampayuttā viññāṇā adukkhamasukhāya vedanāya sampayuttā viññāṇā dūre asamāpannassa viññāṇaṃ samāpannassa viññāṇā dūre samāpannassa viññāṇaṃ asamāpannassa viññāṇā dūre sāsavaṃ viññāṇaṃ anāsavā viññāṇā dūre anāsavaṃ viññāṇaṃ sāsavā viññāṇā dūre  idaṃ vuccati viññāṇaṃ dūre
 tattha katamaṃ viññāṇaṃ santike akusalaṃ viññāṇaṃ akusalassa viññāṇassa santike kusalaṃ  viññāṇaṃ kusalassa viññāṇassa santike abyākataṃ viññāṇaṃ abyākatassa viññāṇassa santike dukkhāya vedanāya sampayuttaṃ viññāṇaṃ dukkhāya vedanāya sampayuttassa viññāṇassa santike sukhāya vedanāya sampayuttaṃ viññāṇaṃ sukhāya vedanāya sampayuttassa viññāṇassa santike adukkhamasukhāya vedanāya sampayuttaṃ  viññāṇaṃ adukkhamasukhāya vedanāya sampayuttassa viññāṇassa santike asamāpannassa viññāṇaṃ asamāpannassa viññāṇassa santike samāpannassa viññāṇaṃ samāpannassa viññāṇassa santike sāsavaṃ viññāṇaṃ sāsavassa viññāṇassa  santike anāsavaṃ viññāṇaṃ anāsavassa viññāṇassa santike  idaṃ vuccati viññāṇaṃ santike taṃ taṃ vā pana viññāṇaṃ upādāyupādāya viññāṇaṃ dūre santike daṭṭhabbaṃ
 
-2 abhidhammabhājanīyaṃ
+
  pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 
  tattha katamo rūpakkhandho ekavidhena rūpakkhandho  sabbaṃ rūpaṃ na hetu ahetukaṃ hetuvippayuttaṃ sappaccayaṃ saṅkhataṃ rūpaṃ lokiyaṃ sāsavaṃ saṃyojaniyaṃ ganthaniyaṃ oghaniyaṃ yoganiyaṃ nīvaraṇiyaṃ parāmaṭṭhaṃ upādāniyaṃ saṃkilesikaṃ abyākataṃ anārammaṇaṃ acetasikaṃ cittavippayuttaṃ nevavipākanavipākadhammadhammaṃ asaṃkiliṭṭhasaṃkilesikaṃ na savitakkasavicāraṃ na avitakkavicāramattaṃ avitakkaavicāraṃ na pītisahagataṃ na sukhasahagataṃ na upekkhāsahagataṃ neva dassanena na bhāvanāya pahātabbaṃ neva dassanena na bhāvanāya pahātabbahetukaṃ nevācayagāmināpacayagāmī nevasekkhanāsekkhaṃ parittaṃ kāmāvacaraṃ na rūpāvacaraṃ na arūpāvacaraṃ pariyāpannaṃ no apariyāpannaṃ aniyataṃ aniyyānikaṃ uppannaṃ chahi viññāṇehi  viññeyyaṃ aniccaṃ jarābhibhūtaṃ evaṃ ekavidhena rūpakkhandho
@@ -511,7 +511,7 @@ bahuvidhena viññāṇakkhandho  cakkhusamphassapaccayā viññāṇakkhandho a
 aparopi  bahuvidhena viññāṇakkhandho  cakkhusamphassapaccayā viññāṇakkhandho atthi sukhāya vedanāya sampayutto atthi ajjhattārammaṇo atthi bahiddhārammaṇo atthi ajjhattabahiddhārammaṇo atthi kāmāvacaro atthi rūpāvacaro atthi arūpāvacaro atthi apariyāpanno sotasamphassapaccayā ghānasamphassapaccayā jivhāsamphassapaccayā kāyasamphassapaccayā manosamphassapaccayā viññāṇakkhandho atthi sukhāya vedanāya sampayutto atthi ajjhattārammaṇo atthi bahiddhārammaṇo atthi ajjhattabahiddhārammaṇo atthi kāmāvacaro atthi rūpāvacaro atthi arūpāvacaro atthi apariyāpanno cakkhuviññāṇaṃ sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ manoviññāṇaṃ evaṃ bahuvidhena viññāṇakkhandho
 
 
-3 pañhāpucchakaṃ
+
  pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
  pañcannaṃ khandhānaṃ kati kusalā kati  akusalā kati abyākatā kati saraṇā kati araṇā
 

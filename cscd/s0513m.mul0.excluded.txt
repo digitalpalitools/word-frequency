@@ -1,9 +1,9 @@
 ﻿ Namo tassa bhagavato arahato sammāsambuddhassa
 Khuddakanikāye
 Jātakapāḷi
-
+(Paṭhamo bhāgo)
 1. Ekakanipāto
-
+1. Apaṇṇakavaggo
 1. Apaṇṇakajātakaṃ
 1 .
   
@@ -58,7 +58,7 @@ Apaṇṇakavaggo paṭhamo.
 
 
 
-
+2. Sīlavaggo
 11. Lakkhaṇamigajātakaṃ
 11 .
 paṭisandhāra (ka.)
@@ -115,7 +115,7 @@ Sīlavaggo dutiyo.
 
 
 rasa (sabbattha)
-
+3. Kuruṅgavaggo
 21. Kuruṅgamigajātakaṃ
 21 .
  seyyasi (sī. syā. pī.)
@@ -171,7 +171,7 @@ Kuruṅgavaggo tatiyo.
 
  sirivayano (sabbattha)
 
-
+4. Kulāvakavaggo
 31. Kulāvakajātakaṃ
 31 .
 
@@ -226,7 +226,7 @@ Kulāvakavaggo catuttho.
 
 
 
-
+5. Atthakāmavaggo
 41. Losakajātakaṃ
 41 .
 
@@ -282,7 +282,7 @@ Atthakāmavaggo pañcamo.
 
 
 Paṭhamo paṇṇāsako.
-
+6. Āsīsavaggo
 51.Mahāsīlavajātakaṃ
 51 .
  āsiṃsetheva (sī. syā. pī.)
@@ -339,7 +339,7 @@ Saṅkhadhamajātakaṃ dasamaṃ.
 
 
 
-
+7. Itthivaggo
 61. Asātamantajātakaṃ
 61 .
 
@@ -395,7 +395,7 @@ Itthivaggo sattamo.
 
 
 
-
+8. Varuṇavaggo
 71. Varuṇajātakaṃ
 71 .
 
@@ -452,7 +452,7 @@ Varuṇavaggo varaṇavaggo (sī. pī.) aṭṭhamo.
 
 
 
-
+9. Apāyimhavaggo
 81. Surāpānajātakaṃ
 81 .
 
@@ -508,7 +508,7 @@ Apāyimhavaggo navamo.
 
 
 
-
+10. Littavaggo
 91. Littajātakaṃ
 91 .
   
@@ -564,7 +564,7 @@ Littavaggo dasamo.
  
 
 Majjhimo paṇṇāsako.
-
+11. Parosatavaggo
 101. Parosatajātakaṃ
 101 .
 
@@ -620,7 +620,7 @@ Parosatavaggo ekādasamo.
 
 
 
-
+12. Haṃcivaggo
 111. Gadrabhapañhajātakaṃ
 111 .
 haṃsi (sī. syā.), hañci (?)
@@ -676,7 +676,7 @@ Haṃcivaggo haṃsivaggo (sī. syā.) dvādasamo.
 
 
 
-
+13. Kusanāḷivaggo
 121. Kusanāḷijātakaṃ
 121 .
 
@@ -731,7 +731,7 @@ Kusanāḷivaggo sarikkhavaggo (ka.) terasamo.
 
 
 
-
+14. Asampadānavaggo
 131. Asampadānajātakaṃ
 131 .
 
@@ -786,7 +786,7 @@ Asampadānavaggo cuddasamo.
 
 
 
-
+15. Kakaṇṭakavaggo
 141. Godhajātakaṃ
 141 .
 

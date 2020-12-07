@@ -1,5 +1,5 @@
 ﻿4. Indriyasaṃyuttaṃ
-
+1. Suddhikavaggo
 1. Suddhikasuttavaṇṇanā
 471 .    saddhindriyaṃ satindriyaṃ paññindriya Vīriyindriyasamādhindriyāni
 7. Dutiyasamaṇabrāhmaṇasuttavaṇṇanā
@@ -10,7 +10,7 @@
 9-10. Paṭhamavibhaṅgasuttādivaṇṇanā
 479-480 .   satinepakkenā  Cirakata Cirabhāsita Vossaggārammaṇaṃ katvā Udayatthagāminiyā
 Suddhikavaggo paṭhamo.
-
+2. Mudutaravaggo
 1. Paṭilābhasuttavaṇṇanā
 481 . sammappadhāne ārabbhā Satindriye
 2. Paṭhamasaṃkhittasuttavaṇṇanā
@@ -31,7 +31,7 @@ Suddhikavaggo paṭhamo.
 9-10. Sampannasuttādivaṇṇanā
 489-490 .  indriyasampanno
 Mudutaravaggo dutiyo.
-
+3. Chaḷindriyavaggo
 2. Jīvitindriyasuttavaṇṇanā
 492 . itthindriya itthindriyaṃ purisindriyaṃ jīvitindriyaṃ tīṇimāni bhikkhave
 3. Aññindriyasuttavaṇṇanā
@@ -51,7 +51,7 @@ Dhammānusārī saddhānusārī
 5-10. Suddhakasuttādivaṇṇanā
 495-500 .  cakkhundriyaṃ. Sotindriyā
 Chaḷindriyavaggo tatiyo.
-
+4. Sukhindriyavaggo
 1-5. Suddhikasuttādivaṇṇanā
 501-505 .  sukhindriyaṃ. Dukkhindriyā 
 6. Paṭhamavibhaṅgasuttavaṇṇanā
@@ -64,7 +64,7 @@ domanassindriyasamudaya
 Kattha cuppannaṃ dukkhindriyaṃ aparisesaṃ nirujjhati, idha, bhikkhave, bhikkhu vivicceva kāmehī   
 tadatthāya cittaṃ upasaṃharatī
 Sukhindriyavaggo catuttho.
-
+5. Jarāvaggo
 1. Jarādhammasuttavaṇṇanā
 511 . pacchātape  Piṭṭhiṃ otāpayamāno
 
@@ -87,7 +87,7 @@ Mūlajātā patiṭṭhitā Imamhi ce, bhikkhave, samaye
 10. Āpaṇasuttavaṇṇanā
 520 . ime kho te dhammā Ye me pubbe sutāva ahesu Kāyena ca phusitvā Paññāya ca ativijjha passāmī Yā hissa, bhante, saddhā 
 Jarāvaggo pañcamo.
-
+6. Sūkarakhatavaggo
 1. Sālasuttavaṇṇanā
 521 .  sūrenā Bodhāyā
 2. Mallikasuttavaṇṇanā
@@ -101,6 +101,6 @@ Jarāvaggo pañcamo.
 8. Sūkarakhatasuttavaṇṇanā
 528 . sūkarakhatāya  Paramanipaccakāra Anuttaraṃ yogakkhema Sappatisso
 Sūkarakhatavaggo chaṭṭho.
-
+7. Bodhipakkhiyavaggo
 531-650 .
 Indriyasaṃyuttavaṇṇanā niṭṭhitā.

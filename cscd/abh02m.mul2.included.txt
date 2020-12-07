@@ -1,5 +1,5 @@
 ﻿
-1 suttantabhājanīyaṃ
+
  cha  dhātuyo  pathavīdhātu  āpodhātu tejodhātu vāyodhātu ākāsadhātu viññāṇadhātu
  tattha katamā pathavīdhātu pathavīdhātudvayaṃ  atthi ajjhattikā atthi bāhirā tattha katamā ajjhattikā pathavīdhātu yaṃ ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ kakkhaḷattaṃ kakkhaḷabhāvo ajjhattaṃ upādinnaṃ seyyathidaṃ  kesā lomā nakhā dantā taco maṃsaṃ nhāru  aṭṭhi aṭṭhimiñjaṃ  vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ yaṃ vā panaññampi atthi ajjhattaṃ paccattaṃ kakkhaḷaṃ kharigataṃ kakkhaḷattaṃ kakkhaḷabhāvo ajjhattaṃ upādinnaṃ  ayaṃ vuccati ajjhattikā pathavīdhātu
 tattha katamā bāhirā pathavīdhātu yaṃ bāhiraṃ kakkhaḷaṃ kharigataṃ kakkhaḷattaṃ kakkhaḷabhāvo bahiddhā anupādinnaṃ seyyathidaṃ   ayo lohaṃ tipu sīsaṃ sajjhaṃ  muttā maṇi veḷuriyo saṅkho silā pavāḷaṃ rajataṃ jātarūpaṃ lohitaṅko  masāragallaṃ tiṇaṃ kaṭṭhaṃ sakkharā kaṭhalaṃ  bhūmi pāsāṇo pabbato yaṃ vā panaññampi atthi bāhiraṃ kakkhaḷaṃ kharigataṃ kakkhaḷattaṃ kakkhaḷabhāvo bahiddhā anupādinnaṃ  ayaṃ vuccati bāhirā pathavīdhātu yā ca ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā  ayaṃ vuccati pathavīdhātu
@@ -31,7 +31,7 @@ tattha katamā avihiṃsādhātu avihiṃsāpaṭisaṃyutto takko vitakko saṅ
 
 iti imāni tīṇi chakkāni tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā aṭṭhārasa dhātuyo honti
 
-2 abhidhammabhājanīyaṃ
+
  aṭṭhārasa dhātuyo  cakkhudhātu rūpadhātu cakkhuviññāṇadhātu sotadhātu saddadhātu sotaviññāṇadhātu ghānadhātu gandhadhātu ghānaviññāṇadhātu jivhādhātu rasadhātu jivhāviññāṇadhātu  kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu
  tattha katamā cakkhudhātu yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo suñño gāmopeso  ayaṃ vuccati cakkhudhātu
 tattha katamā rūpadhātu yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā rūpadhātupesā  ayaṃ vuccati rūpadhātu
@@ -57,7 +57,7 @@ tattha katamaṃ rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ 
 tattha katamā asaṅkhatā dhātu rāgakkhayo dosakkhayo mohakkhayo  ayaṃ vuccati asaṅkhatā dhātu ayaṃ vuccati dhammadhātu
 tattha  katamā manoviññāṇadhātu cakkhuviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu manodhātuyā uppajjitvā niruddhasamanantarā  uppajjati cittaṃ mano mānasaṃ tajjāmanoviññāṇadhātu sotaviññāṇadhātuyā ghānaviññāṇadhātuyā   jivhāviññāṇadhātuyā kāyaviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu manodhātuyāpi uppajjitvā niruddhasamanantarā uppajjati cittaṃ mano mānasaṃ tajjāmanoviññāṇadhātu manañca paṭicca dhamme ca uppajjati cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu  ayaṃ vuccati manoviññāṇadhātu
 
-3 pañhāpucchakaṃ
+
 aṭṭhārasa dhātuyo  cakkhudhātu rūpadhātu cakkhuviññāṇadhātu sotadhātu saddadhātu sotaviññāṇadhātu ghānadhātu gandhadhātu ghānaviññāṇadhātu jivhādhātu rasadhātu jivhāviññāṇadhātu kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu
  aṭṭhārasannaṃ dhātūnaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
 

@@ -1,5 +1,5 @@
 ﻿
-1 nānattavaggo
+
 
  sāvatthiyaṃ  viharati dhātunānattaṃ vo bhikkhave desessāmi taṃ suṇātha sādhukaṃ manasi karotha bhāsissāmīti evaṃ bhanteti kho te bhikkhū bhagavato paccassosuṃ bhagavā etadavoca 
 katamañca bhikkhave dhātunānattaṃ cakkhudhātu rūpadhātu cakkhuviññāṇadhātu sotadhātu saddadhātu sotaviññāṇadhātu ghānadhātu gandhadhātu ghānaviññāṇadhātu jivhādhātu rasadhātu jivhāviññāṇadhātu kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu  idaṃ vuccati bhikkhave dhātunānattanti paṭhamaṃ
@@ -42,7 +42,7 @@ tassuddānaṃ
 dhātuphassañca  no cetaṃ vedanā apare duve
 etaṃ ajjhattapañcakaṃ dhātusaññañca no cetaṃ
 phassassa apare duve etaṃ bāhirapañcakanti
-2 dutiyavaggo
+
 
  sāvatthiyaṃ  viharati sattimā  bhikkhave dhātuyo katamā satta ābhādhātu subhadhātu ākāsānañcāyatanadhātu viññāṇañcāyatanadhātu ākiñcaññāyatanadhātu nevasaññānāsaññāyatanadhātu saññāvedayitanirodhadhātu  imā kho bhikkhave satta dhātuyoti
 evaṃ vutte aññataro bhikkhu bhagavantaṃ etadavoca  yā cāyaṃ bhante ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu  imā nu kho bhante dhātuyo kiṃ paṭicca paññāyantīti
@@ -127,7 +127,7 @@ assaddhamūlakā  pañca cattāro ahirikamūlakā
 anottappamūlakā tīṇi duve appassutena ca
 kusītaṃ ekakaṃ vuttaṃ suttantā tīṇi pañcakā
 bāvīsati vuttā suttā dutiyo vaggo pavuccatīti
-3 kammapathavaggo
+
 
  sāvatthiyaṃ  viharati dhātusova bhikkhave sattā saṃsandanti samenti assaddhā assaddhehi saddhiṃ saṃsandanti samenti ahirikā ahirikehi saddhiṃ saṃsandanti samenti anottappino anottappīhi saddhiṃ saṃsandanti samenti asamāhitā asamāhitehi saddhiṃ saṃsandanti samenti duppaññā duppaññehi saddhiṃ saṃsandanti samenti
 saddhā saddhehi saddhiṃ saṃsandanti samenti hirimanā hirimanehi saddhiṃ saṃsandanti samenti ottappino ottappīhi saddhiṃ saṃsandanti samenti samāhitā samāhitehi saddhiṃ saṃsandanti samenti paññavanto paññavantehi saddhiṃ saṃsandanti samentīti paṭhamaṃ
@@ -153,7 +153,7 @@ asamāhitaṃ  dussīlaṃ pañca sikkhāpadāni ca
 satta kammapathā vuttā dasakammapathena ca
 chaṭṭhaṃ aṭṭhaṅgiko vutto dasaṅgena ca sattamaṃ
 
-4 catutthavaggo
+
 
  ekaṃ  samayaṃ bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme catasso imā bhikkhave dhātuyo katamā catasso pathavīdhātu āpodhātu tejodhātu vāyodhātu  imā kho bhikkhave catasso dhātuyoti paṭhamaṃ
 

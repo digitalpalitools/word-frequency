@@ -1,8 +1,8 @@
 ﻿
-69 upādānadukaṃ
-1 paṭiccavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānaṃ  dhammaṃ paṭicca upādāno dhammo uppajjati hetupaccayā  diṭṭhupādānaṃ paṭicca kāmupādānaṃ kāmupādānaṃ paṭicca diṭṭhupādānaṃ  sīlabbatupādānaṃ paṭicca kāmupādānaṃ kāmupādānaṃ paṭicca sīlabbatupādānaṃ attavādupādānaṃ paṭicca kāmupādānaṃ kāmupādānaṃ paṭicca attavādupādānaṃ (1)
 upādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā  upādāne paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ (2)
@@ -15,11 +15,11 @@ upādānañca noupādānañca dhammaṃ paṭicca noupādāno dhammo uppajjati h
 upādānañca noupādānañca dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā  noupādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānaṃ rūpaṃ dve khandhe ca (cakkaṃ kātabbaṃ) (3)
 
  upādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati ārammaṇapaccayā (navapi pañhā kātabbā rūpaṃ chaḍḍetabbaṃ)
-1 paccayānulomaṃ
+
 
  hetuyā  nava ārammaṇe nava adhipatiyā nava (sabbattha nava) vipāke ekaṃ avigate nava
-2 paccayapaccanīyaṃ
-1 vibhaṅgavāro
+
+
 
  noupādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati nahetupaccayā  ahetukaṃ noupādānaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe ahetukapaṭisandhikkhaṇe khandhe paṭicca vatthu vatthuṃ paṭicca khandhā ekaṃ mahābhūtaṃ mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ bāhiraṃ āhārasamuṭṭhānaṃ  utusamuṭṭhānaṃ asaññasattānaṃ vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho (1)
 
@@ -30,18 +30,18 @@ naadhipatipaccayā naanantarapaccayā naupanissayapaccayā
 
  upādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati napurejātapaccayā  arūpe attavādupādānaṃ paṭicca kāmupādānaṃ kāmupādānaṃ paṭicca attavādupādānaṃ (1)
 upādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati napurejātapaccayā  arūpe upādāne paṭicca sampayuttakā khandhā upādāne paṭicca cittasamuṭṭhānaṃ rūpaṃ (saṃkhittaṃ navapi pañhā arūpe dve upādānā)
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
 
  nahetuyā  ekaṃ naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi naupanissaye tīṇi napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte tīṇi navippayutte nava nonatthiyā tīṇi novigate tīṇi
-3 paccayānulomapaccanīyaṃ
+
  hetupaccayā  naārammaṇe tīṇi naadhipatiyā nava naupanissaye tīṇi napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava nasampayutte tīṇi navippayutte nava nonatthiyā tīṇi novigate tīṇi
-4 paccayapaccanīyānulomaṃ
+
  nahetupaccayā  ārammaṇe ekaṃ (sabbattha ekaṃ) magge ekaṃ avigate ekaṃ
-2 sahajātavāro
+
 (sahajātavāro paṭiccavārasadiso vibhajantena diṭṭhupādānaṃ sahajātaṃ kāmupādānanti kātabbaṃ)
-3 paccayavāro
-1-4 paccayānulomādi
+
+
 
  upādānaṃ dhammaṃ paccayā upādāno dhammo uppajjati hetupaccayā  diṭṭhupādānaṃ paccayā kāmupādānaṃ tīṇi (paṭiccasadisā)
 noupādānaṃ dhammaṃ paccayā noupādāno dhammo uppajjati hetupaccayā  noupādānaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe paṭisandhikkhaṇe khandhe paccayā vatthu (yāva  ajjhattikā mahābhūtā) vatthuṃ paccayā noupādānā khandhā (1)
@@ -56,10 +56,10 @@ hetuyā nava ārammaṇe nava adhipatiyā nava (sabbattha nava) vipāke ekaṃ a
  noupādānaṃ dhammaṃ paccayā noupādāno dhammo uppajjati nahetupaccayā  ahetukaṃ noupādānaṃ ekaṃ khandhaṃ paccayā ahetukapaṭisandhikkhaṇe (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ kāyāyatanaṃ paccayā kāyaviññāṇaṃ vatthuṃ paccayā ahetukā noupādānā khandhā vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho
 nahetuyā ekaṃ naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi napurejāte nava nakamme tīṇi navipāke nava (paṭiccasadisaṃ) novigate tīṇi
 
-4 nissayavāro
 
-5 saṃsaṭṭhavāro
-1-4 paccayānulomādi
+
+
+
 
  upādānaṃ  dhammaṃ saṃsaṭṭho upādāno dhammo uppajjati hetupaccayā  diṭṭhupādānaṃ saṃsaṭṭhaṃ kāmupādānaṃ kāmupādānaṃ saṃsaṭṭhaṃ diṭṭhupādānaṃ (cakkaṃ evaṃ navapi pañhā kātabbā)
 hetuyā  nava ārammaṇe nava adhipatiyā nava (sabbattha nava) vipāke ekaṃ vigate nava avigate nava
@@ -67,11 +67,11 @@ hetuyā  nava ārammaṇe nava adhipatiyā nava (sabbattha nava) vipāke ekaṃ 
  noupādānaṃ dhammaṃ saṃsaṭṭho noupādāno dhammo uppajjati nahetupaccayā  ahetukaṃ noupādānaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā dve khandhe ahetukapaṭisandhikkhaṇe vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho
 nahetuyā ekaṃ naadhipatiyā nava napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava najhāne ekaṃ namagge ekaṃ navippayutte nava
 
-6 sampayuttavāro
 
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādāno dhammo upādānassa dhammassa hetupaccayena paccayo  upādānā hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo (mūlaṃ kātabbaṃ) upādānā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ  hetupaccayena paccayo (mūlaṃ kātabbaṃ) upādānā hetū sampayuttakānaṃ khandhānaṃ upādānānañca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo (3)
  noupādāno dhammo noupādānassa dhammassa hetupaccayena paccayo  noupādānā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo paṭisandhikkhaṇe (1)
@@ -133,8 +133,8 @@ noupādāno dhammo upādānassa ca noupādānassa ca dhammassa atthipaccayena pa
  upādāno  ca noupādāno ca dhammā upādānassa dhammassa atthipaccayena paccayo  sahajātaṃ purejātaṃ   diṭṭhupādānañca sampayuttakā ca khandhā kāmupādānassa atthipaccayena paccayo (cakkaṃ)   diṭṭhupādānañca vatthu ca kāmupādānassa atthipaccayena paccayo (cakkaṃ) (1)
 upādāno ca noupādāno ca dhammā noupādānassa dhammassa  atthipaccayena paccayo  sahajātaṃ purejātaṃ pacchājātaṃ āhāraṃ indriyaṃ   noupādāno eko khandho ca upādānā ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo dve khandhā ca   upādānā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ  atthipaccayena paccayo   upādānā ca vatthu ca noupādānānaṃ khandhānaṃ atthipaccayena paccayo   upādānā ca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo   upādānā ca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo   upādānā ca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo (2)
 upādāno ca noupādāno ca dhammā upādānassa ca noupādānassa ca dhammassa atthipaccayena paccayo  sahajātaṃ purejātaṃ   noupādāno eko khandho ca diṭṭhupādānañca tiṇṇannaṃ khandhānaṃ kāmupādānassa ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo dve khandhā ca (cakkaṃ)   diṭṭhupādānañca vatthu ca kāmupādānassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo (cakkaṃ) (3)
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā nava ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte nava aññamaññe nava nissaye nava  upanissaye nava purejāte tīṇi pacchājāte tīṇi  āsevane nava kamme tīṇi vipāke ekaṃ āhāre tīṇi indriye tīṇi jhāne tīṇi magge nava sampayutte nava vippayutte pañca atthiyā nava natthiyā nava vigate nava avigate nava
 
@@ -148,22 +148,22 @@ noupādāno dhammo upādānassa ca noupādānassa ca dhammassa ārammaṇapaccay
  upādāno  ca noupādāno ca dhammā upādānassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
 upādāno ca noupādāno ca dhammā noupādānassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo pacchājātapaccayena paccayo (2)
 upādāno ca noupādāno ca dhammā upādānassa ca noupādānassa ca dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
-2 paccayapaccanīyaṃ
+
 
  nahetuyā nava naārammaṇe nava (sabbattha nava) noavigate nava
-3 paccayānulomapaccanīyaṃ
+
  hetupaccayā  naārammaṇe nava naadhipatiyā nava naaññamaññe tīṇi naupanissaye nava (sabbattha nava) nasampayutte tīṇi navippayutte nava nonatthiyā nava novigate nava
-4 paccayapaccanīyānulomaṃ
+
  nahetupaccayā ārammaṇe nava adhipatiyā nava (anulomamātikā kātabbā) avigate nava
 
-70 upādāniyadukaṃ
-1-7 paṭiccavārādi
+
+
  upādāniyaṃ  dhammaṃ paṭicca upādāniyo dhammo uppajjati hetupaccayā  upādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe paṭisandhikkhaṇe khandhe paṭicca vatthu vatthuṃ paṭicca khandhā ekaṃ mahābhūtaṃ (yathā lokiyadukaṃ evaṃ kātabbaṃ ninnānākaraṇaṃ)
 
-71 upādānasampayuttadukaṃ
-1 paṭiccavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānasampayuttaṃ  dhammaṃ paṭicca upādānasampayutto dhammo uppajjati hetupaccayā  upādānasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
 upādānasampayuttaṃ dhammaṃ paṭicca upādānavippayutto dhammo uppajjati hetupaccayā  upādānasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ diṭṭhigatavippayuttalobhasahagate khandhe paṭicca lobho cittasamuṭṭhānañca rūpaṃ (2)
@@ -181,12 +181,12 @@ upādānasampayuttaṃ dhammaṃ paṭicca upādānasampayutto ca upādānavippa
  upādānavippayuttaṃ dhammaṃ paṭicca upādānavippayutto dhammo uppajjati ārammaṇapaccayā  upādānavippayuttaṃ ekaṃ khandhaṃ dve khandhe paṭisandhikkhaṇe vatthuṃ paṭicca khandhā (1)
 upādānavippayuttaṃ dhammaṃ paṭicca upādānasampayutto dhammo uppajjati ārammaṇapaccayā  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā (2)
 upādānasampayuttañca upādānavippayuttañca  dhammaṃ paṭicca upādānasampayutto dhammo uppajjati ārammaṇapaccayā  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā dve khandhe ca (3) (saṃkhittaṃ)
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā nava ārammaṇe cha adhipatiyā nava anantare cha samanantare cha sahajāte nava aññamaññe cha nissaye nava upanissaye cha purejāte cha āsevane cha kamme nava vipāke ekaṃ āhāre nava (sabbattha nava) magge nava sampayutte cha vippayutte nava atthiyā nava natthiyā cha vigate cha avigate nava
-2 paccayapaccanīyaṃ
-1 vibhaṅgavāro
+
+
 
  upādānavippayuttaṃ  dhammaṃ paṭicca upādānavippayutto dhammo uppajjati nahetupaccayā  ahetukaṃ upādānavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe ahetukapaṭisandhikkhaṇe (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho (1)
 
@@ -208,15 +208,15 @@ upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānavip
 upādānavippayuttaṃ dhammaṃ paṭicca upādānavippayutto dhammo uppajjati nakammapaccayā  upādānavippayutte khandhe paṭicca sampayuttakā cetanā bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ (1)
 upādānavippayuttaṃ dhammaṃ paṭicca upādānasampayutto dhammo uppajjati nakammapaccayā  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā cetanā (2)
 upādānasampayuttañca  upādānavippayuttañca dhammaṃ paṭicca upādānasampayutto dhammo uppajjati nakammapaccayā  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca sampayuttakā cetanā (1) (saṃkhittaṃ)
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
 
  nahetuyā  ekaṃ naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi naaññamaññe tīṇi naupanissaye tīṇi napurejāte satta napacchājāte nava naāsevane nava nakamme cattāri navipāke nava naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte tīṇi navippayutte cha nonatthiyā tīṇi novigate tīṇi
-2 sahajātavāro
 
-3 paccayavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānasampayuttaṃ dhammaṃ paccayā upādānasampayutto dhammo uppajjati hetupaccayā tīṇi (paṭiccasadisaṃ)
 upādānavippayuttaṃ dhammaṃ paccayā upādānavippayutto dhammo uppajjati hetupaccayā  upādānavippayuttaṃ ekaṃ khandhaṃ paccayā (yāva ajjhattikā mahābhūtā) vatthuṃ paccayā upādānavippayuttā khandhā vatthuṃ paccayā diṭṭhigatavippayutto lobho (1)
@@ -225,19 +225,19 @@ upādānavippayuttaṃ  dhammaṃ paccayā upādānasampayutto ca upādānavippa
  upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānasampayutto dhammo uppajjati hetupaccayā  upādānasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā dve khandhe ca diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paccayā tayo khandhā dve khandhe ca (1)
 upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānavippayutto dhammo uppajjati hetupaccayā  upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paccayā cittasamuṭṭhānaṃ rūpaṃ diṭṭhigatavippayuttalobhasahagate khandhe ca vatthuñca paccayā lobho (2)
 upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā  upādānasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā dve khandhe ca upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā lobho ca dve khandhe ca (3) (saṃkhittaṃ ārammaṇapaccayamhi pañca viññāṇā kātabbā)
-1 paccayānulomaṃ
+
 
  hetuyā nava ārammaṇe nava adhipatiyā nava anantare nava (sabbattha nava) vipāke ekaṃ avigate nava
-2 paccayapaccanīyaṃ
-1 vibhaṅgavāro
+
+
 
  upādānavippayuttaṃ  dhammaṃ paccayā upādānavippayutto dhammo uppajjati nahetupaccayā  ahetukaṃ  upādānavippayuttaṃ ekaṃ khandhaṃ paccayā (yāva asaññasattā ) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ kāyāyatanaṃ paccayā kāyaviññāṇaṃ vatthuṃ paccayā ahetukā upādānavippayuttā khandhā vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho (saṃkhittaṃ)
-2 paccayapaccanīyaṃ
+
 
  nahetuyā ekaṃ naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi naaññamaññe tīṇi naupanissaye tīṇi napurejāte satta napacchājāte nava naāsevane nava nakamme cattāri navipāke nava naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte tīṇi navippayutte cha nonatthiyā tīṇi novigate tīṇi
-4 nissayavāro
 
-5 saṃsaṭṭhavāro
+
+
 
  upādānasampayuttaṃ dhammaṃ saṃsaṭṭho upādānasampayutto dhammo uppajjati hetupaccayā  upādānasampayuttaṃ ekaṃ khandhaṃ saṃsaṭṭhā tīṇi
 upādānavippayuttaṃ dhammaṃ saṃsaṭṭho upādānavippayutto dhammo uppajjati hetupaccayā (paṭiccasadisaṃ arūpaṃyeva kātabbaṃ)
@@ -248,11 +248,11 @@ hetuyā cha ārammaṇe cha adhipatiyā cha (sabbattha cha) vipāke ekaṃ aviga
 upādānavippayuttaṃ dhammaṃ saṃsaṭṭho upādānavippayutto dhammo uppajjati nahetupaccayā (saṃkhittaṃ)
 nahetuyā  ekaṃ naadhipatiyā cha napurejāte cha napacchājāte cha naāsevane cha nakamme cattāri navipāke cha najhāne ekaṃ namagge ekaṃ navippayutte cha
 
-6 sampayuttavāro
 
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānasampayutto  dhammo upādānasampayuttassa dhammassa hetupaccayena paccayo  upādānasampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (1)
 upādānasampayutto dhammo upādānavippayuttassa dhammassa hetupaccayena paccayo  upādānasampayuttā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo diṭṭhigatavippayuttalobhasahagatā hetū diṭṭhigatavippayuttalobhassa cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo (mūlaṃ kātabbaṃ) upādānasampayuttā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo diṭṭhigatavippayuttalobhasahagatā hetū sampayuttakānaṃ  khandhānaṃ lobhassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo (3)
@@ -316,8 +316,8 @@ upādānavippayutto  dhammo upādānasampayuttassa ca upādānavippayuttassa ca 
 upādānasampayutto ca upādānavippayutto ca dhammā upādānavippayuttassa dhammassa atthipaccayena paccayo  sahajātaṃ purejātaṃ pacchājātaṃ āhāraṃ indriyaṃ   upādānasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo   diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo   diṭṭhigatavippayuttalobhasahagatā  khandhā ca vatthu ca lobhassa atthipaccayena paccayo   diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca purejātassa imassa kāyassa atthipaccayena paccayo   diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo   diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo (2)
 upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa ca upādānavippayuttassa ca dhammassa atthipaccayena paccayo  sahajātaṃ purejātaṃ   diṭṭhigatavippayuttalobhasahagato eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo dve khandhā ca   diṭṭhigatavippayuttalobhasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ lobhassa ca atthipaccayena paccayo dve khandhā ca (3)
 natthipaccayena  paccayo vigatapaccayena paccayo avigatapaccayena paccayo
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā nava ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte nava aññamaññe cha nissaye nava upanissaye nava purejāte tīṇi pacchājāte tīṇi āsevane nava  kamme cattāri vipāke ekaṃ āhāre cattāri indriye cattāri jhāne cattāri magge cattāri sampayutte cha vippayutte pañca atthiyā nava natthiyā nava vigate nava avigate nava
 
@@ -330,18 +330,18 @@ upādānavippayutto dhammo upādānasampayuttassa ca upādānavippayuttassa  ca 
  upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
 upādānasampayutto ca upādānavippayutto ca dhammā upādānavippayuttassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo pacchājātapaccayena paccayo (2)
 upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa ca upādānavippayuttassa ca dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
-2 paccayapaccanīyaṃ
+
 
  nahetuyā nava naārammaṇe nava naadhipatiyā nava (sabbattha nava) noavigate nava
-3 paccayānulomapaccanīyaṃ
+
  hetupaccayā  naārammaṇe nava naadhipatiyā nava naanantare nava nasamanantare nava naaññamaññe tīṇi naupanissaye nava (sabbattha nava) nasampayutte tīṇi navippayutte cha nonatthiyā nava novigate nava
-4 paccayapaccanīyānulomaṃ
+
  nahetupaccayā ārammaṇe nava adhipatiyā nava (anulomamātikā) avigate nava
 
-72 upādānaupādāniyadukaṃ
-1 paṭiccavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānañceva  upādāniyañca dhammaṃ paṭicca upādāno ceva upādāniyo ca dhammo uppajjati hetupaccayā  diṭṭhupādānaṃ paṭicca kāmupādānaṃ kāmupādānaṃ paṭicca diṭṭhupādānaṃ (cakkaṃ) (1)
 upādānañceva upādāniyañca dhammaṃ paṭicca upādāniyo ceva no ca upādāno dhammo uppajjati hetupaccayā  upādāne paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ (1)
@@ -352,11 +352,11 @@ upādāniyañceva no ca upādānaṃ dhammaṃ paṭicca upādāno ceva upādān
  upādānañceva upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāno ceva upādāniyo ca dhammo uppajjati hetupaccayā  diṭṭhupādānañca sampayuttake ca khandhe paṭicca kāmupādānaṃ (cakkaṃ) (1)
 upādānañceva  upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāniyo ceva no ca upādāno dhammo uppajjati hetupaccayā  upādāniyañceva no ca upādānaṃ ekaṃ khandhañca upādāne ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe ca upādāne ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ (2)
 upādānañceva upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāno ceva upādāniyo ca upādāniyo ceva no ca upādāno ca dhammā uppajjanti hetupaccayā  upādāniyañceva no ca upādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānañca rūpaṃ dve khandhe ca (cakkaṃ) (3)
-2-6 sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro
+
 (yathā upādānadukaṃ evaṃ paṭiccavāropi sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi kātabbā ninnānākaraṇā āmasanaṃ nānākaraṇaṃ)
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
 
  upādāno  ceva upādāniyo ca dhammo upādānassa ceva upādāniyassa ca dhammassa hetupaccayena paccayo  upādānā ceva upādāniyā ca hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo (1)
 upādāno ceva upādāniyo ca dhammo upādāniyassa ceva no ca upādānassa dhammassa hetupaccayena paccayo  upādānā ceva upādāniyā ca hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo (upādānadukasadisā ninnānā nava pañhā)
@@ -369,19 +369,19 @@ upādāno  ceva upādāniyo ca upādāniyo ceva no ca upādāno ca dhammā upād
  upādāniyo ceva no ca upādāno dhammo upādāniyassa ceva no ca upādānassa ca dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   dānaṃ jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati assādeti abhinandati taṃ garuṃ katvā rāgo uppajjati diṭṭhi uppajjati sekkhā gotrabhuṃ garuṃ katvā vodānaṃ cakkhuṃ vatthuṃ upādāniye ceva no ca upādāne khandhe garuṃ katvā upādāniyā ceva no ca upādānā khandhā uppajjanti   upādāniyā ceva no ca upādānādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo (avasesā dvepi ārammaṇādhipati sahajātādhipatipi upādānadukasadisā) (3)
 (ghaṭanā  adhipati tīṇi upādānadukasadisā sabbe paccayā upādānadukasadisā upādāniye lokuttaraṃ natthi paccanīyampi itare dve gaṇanāpi upādānadukasadisaṃ)
 
-73 upādānaupādānasampayuttadukaṃ
-1 paṭiccavāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
+
 
  upādānañceva  upādānasampayuttañca dhammaṃ paṭicca upādāno ceva upādānasampayutto ca dhammo uppajjati hetupaccayā  diṭṭhupādānaṃ paṭicca kāmupādānaṃ (cakkaṃ kātabbaṃ) (1)
 upādānañceva upādānasampayuttañca dhammaṃ paṭicca upādānasampayutto ceva no ca upādāno dhammo uppajjati hetupaccayā  upādāne paṭicca sampayuttakā khandhā (2)
 upādānañceva upādānasampayuttañca dhammaṃ paṭicca upādāno ceva upādānasampayutto ca upādānasampayutto ceva no ca upādāno ca dhammā uppajjanti hetupaccayā  diṭṭhupādānaṃ paṭicca kāmupādānaṃ sampayuttakā ca khandhā (cakkaṃ) (3)
-2-6 sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro
+
 upādānasampayuttañceva no ca upādānaṃ dhammaṃ paṭicca (saṃkhittaṃ āmasanaṃ nānākaraṇaṃ upādānadukasadisaṃ nava pañhā rūpaṃ natthi evaṃ sabbepi vārā vitthāretabbā arūpaṃyeva)
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
 
  upādāno  ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa hetupaccayena paccayo  upādānā ceva upādānasampayuttā  ca hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo (mūlaṃ pucchitabbaṃ) upādānā ceva upādānasampayuttā  ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (mūlaṃ pucchitabbaṃ) upādānā ceva upādānasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ upādānānañca hetupaccayena paccayo (3)
  upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa hetupaccayena paccayo  upādānasampayuttā ceva no ca upādānā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (mūlaṃ pucchitabbaṃ) upādānasampayuttā ceva no ca upādānā hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo (mūlaṃ pucchitabbaṃ) upādānasampayuttā ceva no ca upādānā hetū sampayuttakānaṃ khandhānaṃ upādānānañca hetupaccayena paccayo (3)
@@ -401,25 +401,25 @@ upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no c
 upādānasampayutto  ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa upanissayapaccayena paccayo  ārammaṇūpanissayo anantarūpanissayo pakatūpanissayo pakatūpanissayo  upādānasampayuttā ceva no ca upādānā khandhā upādānasampayuttakānañceva no ca upādānānaṃ khandhānaṃ upanissayapaccayena paccayo (tīṇi ghaṭanupanissayepi tīṇi) āsevanapaccayena paccayo nava
 
  upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa kammapaccayena paccayo tīṇi āhārapaccayena paccayo tīṇi indriyapaccayena paccayo tīṇi jhānapaccayena paccayo tīṇi maggapaccayena paccayo nava sampayuttapaccayena paccayo nava atthipaccayena paccayo nava natthipaccayena paccayo nava vigatapaccayena paccayo nava avigatapaccayena paccayo nava
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā  nava ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte nava aññamaññe nava nissaye nava upanissaye nava āsevane nava kamme tīṇi āhāre tīṇi indriye tīṇi jhāne tīṇi magge nava sampayutte nava atthiyā nava natthiyā nava vigate nava avigate nava
 
  upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
 upādāno  ceva upādānasampayutto ca dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (2)
 upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca upādānasampayuttassa ceva no ca upādānassa ca dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (evaṃ navapi kātabbā ekekassa mūle tīṇi tīṇi pañhā)
-2 paccayapaccanīyaṃ
+
 
  nahetuyā  nava naārammaṇe nava naadhipatiyā nava (sabbattha nava) noavigate nava
-3 paccayānulomapaccanīyaṃ
+
  hetupaccayā naārammaṇe nava naadhipatiyā nava naanantare nava nasamanantare nava naupanissaye nava (sabbattha nava) namagge nava nasampayutte nava nonatthiyā nava novigate nava
-4 paccayapaccanīyānulomaṃ
+
  nahetupaccayā  ārammaṇe nava adhipatiyā nava (anulomamātikā kātabbā)
 
-74 upādānavippayuttaupādāniyadukaṃ
-1 paṭiccavāro
-1-4 paccayānulomādi
+
+
+
 
  upādānavippayuttaṃ  upādāniyaṃ dhammaṃ paṭicca upādānavippayutto upādāniyo dhammo uppajjati hetupaccayā  upādānavippayuttaṃ upādāniyaṃ ekaṃ  khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe paṭisandhikkhaṇe ekaṃ mahābhūtaṃ mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ (1)
 upādānavippayuttaṃ anupādāniyaṃ dhammaṃ paṭicca upādānavippayutto anupādāniyo dhammo uppajjati hetupaccayā  upādānavippayuttaṃ anupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)

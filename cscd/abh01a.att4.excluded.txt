@@ -124,7 +124,7 @@ bojjhaṅgavibhaṅge
  
 
 
-
+Kāmāvacarakusalaṃ dvārakathā
 Kāyakammadvārakathā
  mahāaṭṭhakathāyaṃ
 
@@ -250,7 +250,7 @@ Kammapathasaṃsandanakathā
 Dvārakathā niṭṭhitā.
 Yaṃ yaṃ vā panārabbhā 
   Mahāaṭṭhakathāyaṃ
-
+Dhammuddesavāro
 Phassapañcamakarāsivaṇṇanā
 Tasmiṃ samaye
 
@@ -275,7 +275,7 @@ saññā
 
   
 
-
+Dhammuddesavāro
 Jhānaṅgarāsivaṇṇanā
 vitakko; 
  vicāro; 
@@ -382,7 +382,7 @@ Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā
 
 
 Dhammuddesavārakathā niṭṭhitā.
-
+Kāmāvacarakusalaṃ niddesavārakathā
 2 . ‘katamo tasmiṃ samaye phasso hotī’
 
 Yo tasmiṃ samaye phasso phasso Phusanā Samphusanā Samphusitatta 
@@ -503,7 +503,7 @@ dakkhiṇāvisuddhiyo ‘dhammikā’  ‘cetanāmahattaṃ’ ‘vatthusampatti
 
 Aṭṭhasāliniyā dhammasaṅgahaṭṭhakathāya
 Kāmāvacarakusalaniddeso samatto.
-
+Rūpāvacarakusalavaṇṇanā
 Catukkanayo paṭhamajjhānaṃ
 160 .   katame dhammā kusalā rūpūpapattiyā maggaṃ bhāvetī rūpaṃ Upapattī Maggo 
 
@@ -680,7 +680,7 @@ uddhumātakasaññāsahagataṃ. Vinīlakasaññāsahagatā visuddhimagge paritt
 Asubhakathā.
 
 Rūpāvacarakusalakathā niṭṭhitā.
-
+Arūpāvacarakusalavaṇṇanā
 Ākāsānañcāyatanaṃ
 265 .  katame dhammā kusalā arūpūpapattiyā Maggaṃ bhāvetī Sabbaso Rūpasaññāna  
 Samatikkamā
@@ -740,7 +740,7 @@ Tebhūmakakusalavaṇṇanā
 Mahāpakaraṇe   
 
 Tebhūmakakusalaṃ.
-
+Lokuttarakusalavaṇṇanā
 277 . katame dhammā kusalā lokuttara    Jhānaṃ bhāvetī
 niyyānikaṃ
 Diṭṭhigatānaṃ pahānāyā diṭṭhigatānaṃ. Pahānāyā Paṭhamāyā Bhūmiyā paṭhamāya bhūmiyā. Pattiyā   Viviccā
@@ -865,8 +865,8 @@ Catumagganayasahassaṃ
 
 
 Kusalā dhammātipadassa vaṇṇanā niṭṭhitā.
-
-
+Akusalapadaṃ
+Dhammuddesavārakathā
 Paṭhamacittaṃ
 365 . katame dhammā akusalā Diṭṭhigatasampayutta  
 
@@ -889,7 +889,7 @@ ye vā pana tasmiṃ samaye
  
 
 Dhammuddesavārakathā niṭṭhitā.
-
+Niddesavārakathā
 375 . saṇṭhiti avaṭṭhitī
 384 . avisāhāro avikkhepo avisāhaṭamānasatā samādhibalaṃ micchāsamādhī
 385 . vīriyabalaṃ
@@ -932,8 +932,8 @@ Dvādasamacittaṃ
 
 
 Akusalā dhammātipadassa vaṇṇanā niṭṭhitā.
-
-
+Abyākatapadaṃ
+Ahetukakusalavipāko
 431 .  katame dhammā abyākatā  kāmāvacarassa kusalassa kammassa katattā katattā Upacitattā Cakkhuviññāṇa sotaviññāṇādīsu
 
 
@@ -946,7 +946,7 @@ Akusalā dhammātipadassa vaṇṇanā niṭṭhitā.
  
 
 Manoviññāṇadhātudvayaṃ niṭṭhitaṃ.
-
+Aṭṭhamahāvipākacittavaṇṇanā
 498 . katame dhammā abyākatā alobho abyākatamūla  
 
 
@@ -1050,7 +1050,7 @@ Akusalavipākakathā
 556 . 
 
 Akusalavipākakathā niṭṭhitā.
-
+Kiriyābyākatavaṇṇanā
 Manodhātucittaṃ
 566 .  katame dhammā abyākatā kiriyā Nevakusalānākusalā  ‘nevakusalānākusalā’ nevakammavipākā
 

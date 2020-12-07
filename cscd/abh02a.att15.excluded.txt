@@ -1,11 +1,11 @@
 ﻿16. Ñāṇavibhaṅgo
-
+1. Ekakamātikādivaṇṇanā
 751 .    ekavidhena ñāṇavatthū
 ekavidhenā Ñāṇavatthū Pañca viññāṇā Na hetū ekakamātikā
 dukamātikā
  tikamātikā
 Catukkamātikā   pañcakamātikā chakkamātikā sattakamātikā aṭṭhakamātikā navakamātikā
-
+10. Dasakamātikāvaṇṇanā
 760 . Dasakamātikā dasā Tathāgatassā Tathāgatabalānī
 
 
@@ -31,7 +31,7 @@ Pubbenivāsānussati
 Cutūpapāta
 Āsavānaṃ khaya
 Imānī   
-
+(1.) Ekakaniddesavaṇṇanā
 761 . na hetumevā Ahetukamevā  Abyākatamevā Sārammaṇamevā Acetasikamevā No apariyāpannamevā aniyyānikā  Uppannaṃ manoviññāṇaviññeyyamevā  Aniccamevā Jarābhibhūtamevā
 762 . Uppannavatthukā uppannārammaṇā
 Purejātavatthukā purejātārammaṇā
@@ -58,11 +58,11 @@ Na supati na paṭibujjhati na supinaṃ passatī
 
 Evaṃ yāthāvakavatthuvibhāvanā paññā  evaṃ ekavidhena ñāṇavatthū
 Ekakaniddesavaṇṇanā.
-
+(2.) Dukaniddesavaṇṇanā
 767 . catūsu bhūmīsu kusale  atthajāpikā. Arahato abhiññaṃ uppādentassa samāpattiṃ uppādentassa kiriyābyākate atthajāpikā paññā 
 catūsu bhūmīsu vipāke jāpitatthā Arahato uppannāya abhiññāya uppannāya samāpattiyā 
 Dukaniddesavaṇṇanā.
-
+(3.) Tikaniddesavaṇṇanā
 768 . yogavihitesū Kammāyatanesū kammāyatanaṃ;  kammāyatanaṃ. Sippāyatanesu vijjāṭṭhānaṃ 
 
 
@@ -81,7 +81,7 @@ catūsu maggesū
 ‘adhisīlaṃ’ ‘adhicittaṃ’ ‘adhipaññā’
 771 . āyo apāyo ime dhamme manasikaroto Idaṃ vuccatī    Sabbāpi tatrūpāyā paññā upāyakosalla
 Tikaniddesavaṇṇanā.
-
+(4.) Catukkaniddesavaṇṇanā
 793 . atthi dinna Idaṃ vuccatī  Ṭhapetvā saccānulomikaṃ ñāṇa
 794 . Maggasamaṅgissa  ñāṇaṃ dukkhepetaṃ ñāṇa 
 796 . Dhamme ñāṇa So iminā dhammenā Diṭṭhenā Pattenā Viditenā Pariyogāḷhenā Nayaṃ netī
@@ -96,21 +96,21 @@ Avasesā paññā sammutiñāṇaṃ
 Jarāmaraṇepetaṃ  ñāṇa
 Jarāmaraṇaṃ ārabbhā
 Catukkaniddesavaṇṇanā.
-
+(5.) Pañcakaniddesavaṇṇanā
 804 .  pītipharaṇatā pītipharaṇatā sukhapharaṇatā cetopharaṇatā  ālokapharaṇatā paccavekkhaṇānimittaṃ Ayaṃ pañcaṅgiko sammāsamādhī
 Ayaṃ samādhi paccuppannasukho cevā paccuppannasukho āyatiṃ sukhavipāko  ariyo nirāmiso akāpurisasevito santo paṇīto paṭippassaddhiladdho ekodibhāvādhigato na sasaṅkhāraniggayhavāritagato 
 Pañcakaniddesavaṇṇanā.
-
+(6.) Chakkaniddesavaṇṇanā
 805 .  iddhividhe ñāṇa Sotadhātuvisuddhiyā ñāṇa Paracitte  ñāṇa Pubbenivāsānussatiyā ñāṇa Sattānaṃ cutūpapāte ñāṇa Āsavānaṃ khaye ñāṇa
 Chakkaniddesavaṇṇanā.
-
+(7.) Sattakaniddesādivaṇṇanā
 806 .  jātipaccayā jarāmaraṇa jātipaccayā jarāmaraṇaṃ, asati jātiyā natthi jarāmaraṇa Atītampi addhānaṃ, anāgatampi addhāna dhammaṭṭhitiñāṇa  khayadhamma Vayadhamma Virāgadhamma  Nirodhadhamma
 Sattakaniddesavaṇṇanā.
 807 . sotāpattimagge paññā
 Aṭṭhakaniddesavaṇṇanā.
 808 . anupubbavihārasamāpattīsū paṭhamajjhānasamāpattiyā paññā 
 Navakaniddesavaṇṇanā.
-
+(10.) Dasakaniddesavaṇṇanā
 Paṭhamabalaniddeso
 809 .  aṭṭhāna Anavakāso Ya Diṭṭhisampanno Kañci  saṅkhāra Niccato upagaccheyyā Netaṃ ṭhānaṃ vijjatī Yaṃ puthujjano Ṭhānametaṃ vijjatī kañci saṅkhāraṃ sukhato Sukhato upagaccheyyā kañci dhamma 
 Mātara  

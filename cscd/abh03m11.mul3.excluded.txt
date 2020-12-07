@@ -1,6 +1,6 @@
 ﻿Dhammapaccanīye dukapaṭṭhānaṃ
-
-
+1. Hetudukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 1 .  
@@ -14,8 +14,8 @@ Hetu-ārammaṇapaccayā
 
 
 4 .
-
-
+2. Sahetukadukaṃ
+1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 5 . 
@@ -29,26 +29,26 @@ Hetu-ārammaṇapaccayā
 
 8 .
 
-
+3. Hetusampayuttadukaṃ
 1-7. Paṭiccavārādi
 9 .
 
 
 10 .
-
+4. Hetusahetukadukaṃ
 1-7. Paṭiccavārādi
 11 . 
 
 
 
 
-
+5. Hetuhetusampayuttadukaṃ
 1-7. Paṭiccavārādi
 12 .  
 
 
 
-
+6. Nahetusahetukadukaṃ
 1-7. Paṭiccavārādi
 13 .
 
@@ -60,21 +60,21 @@ Hetu-ārammaṇapaccayā
 
 16 .
 Hetugocchakaṃ niṭṭhitaṃ.
-
+7. Sappaccayadukaṃ
 1-7. Paṭiccavārādi
 17 . 
 
 18 .
 
 
-
+8. Saṅkhatadukaṃ
 1-7. Paṭiccavārādi
 19 . 
-
+9. Sanidassanadukaṃ
 1-7. Paṭiccavārādi
 20 . 
 
-
+10. Sappaṭighadukaṃ
 1-7. Paṭiccavārādi
 21 . 
 
@@ -84,130 +84,130 @@ Hetugocchakaṃ niṭṭhitaṃ.
 22 . 
 
 23 .
-
+11. Rūpīdukaṃ
 1-7. Paṭiccavārādi
 24 . 
 
 
 25 .
 
-
+12. Lokiyadukaṃ
 1-7. Paṭiccavārādi
 26 . 
 
 
 
-
+13. Kenaciviññeyyadukaṃ
 1-7. Paṭiccavārādi
 27 . 
 
 
 
 Cūḷantaradukaṃ niṭṭhitaṃ.
-
+14. Āsavadukaṃ
 1-7. Paṭiccavārādi
 28 . 
 
 
 
-
+15. Sāsavadukaṃ
 1-7. Paṭiccavārādi
 29 . 
 
 
 
-
+16. Āsavasampayuttadukaṃ
 1-7. Paṭiccavārādi
 30 . 
 
 
 
-
+17. Āsavasāsavadukaṃ
 1-7. Paṭiccavārādi
 31 .
  
 
 
-
+18. Āsavaāsavasampayuttadukaṃ
 1-7. Paṭiccavārādi
 32 .
 
   
 
-
+19. Āsavavippayuttasāsavadukaṃ
 1-7. Paṭiccavārādi
 33 .
 
 
 
 Āsavagocchakaṃ niṭṭhitaṃ.
-
+20. Saññojanadukaṃ
 34 . 
 
 
 
-
+21. Saññojaniyadukaṃ
 35 . 
 
 
 
-
+22. Saññojanasampayuttadukaṃ
 36 . 
 
  
 
-
+23. Saññojanasaññojaniyadukaṃ
 37 .
 
 
 
-
+24. Saññojanasaññojanasampayuttadukaṃ
 38 .
 
 
 
-
+25. Saññojanavippayuttasaññojaniyadukaṃ
 39 .  
 
 
 
 Saññojanagocchakaṃ niṭṭhitaṃ.
-
+26. Ganthadukaṃ
 40 . 
 
  
 
-
+27. Ganthaniyadukaṃ
 41 .
 
 
 
-
+28. Ganthasampayuttadukaṃ
 42 .
  
 
 
-
+29. Ganthaganthaniyadukaṃ
 43 .
 
 
 
-
+30. Ganthaganthasampayuttadukaṃ
 44 .  
 
 
 
-
+31. Ganthavippayuttaganthaniyadukaṃ
 45 .
 
  
 
 Ganthagocchakaṃ niṭṭhitaṃ.
-
+32-49. Oghādidukāni
 46 . 
 47 .
 Nīvaraṇagocchakaṃ niṭṭhitaṃ.
-
+50-54. Parāmāsādidukāni
 48 .
 49 .
 50 .
@@ -219,184 +219,184 @@ Nīvaraṇagocchakaṃ niṭṭhitaṃ.
 
 
 Parāmāsagocchakaṃ niṭṭhitaṃ.
-
+55. Sārammaṇadukaṃ
 53 .
   
 
 
-
+56. Cittadukaṃ
 54 .
 
 
 
-
+57. Cetasikadukaṃ
 55 . 
 
 
 
-
+58. Cittasampayuttadukaṃ
 56 . 
 
-
+59. Cittasaṃsaṭṭhadukaṃ
 57 .
-
+60. Cittasamuṭṭhānadukaṃ
 58 .
 
-
+61. Cittasahabhūdukaṃ
 59 . 
 
-
+62. Cittānuparivattidukaṃ
 60 .
-
+63. Cittasaṃsaṭṭhasamuṭṭhānadukaṃ
 61 .
-
+64. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ
 62 . 
-
+65. Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ
 63 .
 
-
+66. Ajjhattikadukaṃ
 64 . 
 
 
-
+67. Upādādukaṃ
 65 .
 
 
 
-
+68. Upādinnadukaṃ
 66 .
 
 
 
 Mahantaradukaṃ niṭṭhitaṃ.
-
+69-74. Upādānagocchakaṃ
 67 . 
-
+75. Kilesadukaṃ
 68 .
 
 
 
-
+76. Saṃkilesikadukaṃ
 69 .
 
  
 
-
+77. Saṃkiliṭṭhadukaṃ
 70 . 
 
 
 
-
+78. Kilesasampayuttadukaṃ
 71 .
 
 
 
-
+79. Kilesasaṃkilesikadukaṃ
 72 . 
 
 
 
-
+80. Kilesasaṃkiliṭṭhadukaṃ
 73 .
 
 
 
-
+81. Kilesakilesasampayuttadukaṃ
 74 .
 
  
 
-
+82. Kilesavippayuttasaṃkilesikadukaṃ
 75 . 
 
 
 
-
+83. Dassanenapahātabbadukaṃ
 76 .
 
 
 
-
+84. Bhāvanāyapahātabbadukaṃ
 77 . 
 
 
 
-
+85. Dassanenapahātabbahetukadukaṃ
 78 .
 
 
 
-
+86. Bhāvanāyapahātabbahetukadukaṃ
 79 .
 
 
 
-
+87. Savitakkadukaṃ
 80 .
 
 
 
-
+88. Savicāradukaṃ
 81 .
 
 
 
-
+89. Sappītikadukaṃ
 82 .
 
 
 
-
+90. Pītisahagatadukaṃ
 83 . 
 
 
 
-
+91. Sukhasahagatadukaṃ
 84 .
 
 
 
-
+92. Upekkhāsahagatadukaṃ
 85 . 
 
 
 
-
+93. Kāmāvacaradukaṃ
 86 . 
 
 
 
-
+94. Rūpāvacaradukaṃ
 87 .
 
 
 
-
+95. Arūpāvacaradukaṃ
 88 . 
 
 
 
-
+96. Pariyāpannadukaṃ
 89 .
 
 
 
-
+97. Niyyānikadukaṃ
 90 .
 
 
 
-
+98. Niyatadukaṃ
 91 . 
 
 
 
-
+99. Sauttaradukaṃ
 92 .
 
 
 
-
+100. Saraṇadukaṃ
 93 .
 
 

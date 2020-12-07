@@ -1,5 +1,5 @@
 ﻿3. Satipaṭṭhānasaṃyuttaṃ
-
+1. Ambapālivaggo
 1. Ambapālisuttaṃ
 367 .    
 
@@ -61,7 +61,7 @@ Ambapālivaggo paṭhamo.
 
  
 
-
+2. Nālandavaggo
 1. Mahāpurisasuttaṃ
 377 . 
 
@@ -114,7 +114,7 @@ Nālandavaggo dutiyo.
 
 
 
-
+3. Sīlaṭṭhitivaggo
 1. Sīlasuttaṃ
 387 .  
 ummaggo (sī. syā. kaṃ.)
@@ -154,7 +154,7 @@ Sīlaṭṭhitivaggo tatiyo.
 
  
 
-
+4. Ananussutavaggo
 1. Ananussutasuttaṃ
 397 .  
 
@@ -195,7 +195,7 @@ Ananussutavaggo catuttho.
 
   
 
-
+5. Amatavaggo
 1. Amatasuttaṃ
 407 . 
 2. Samudayasuttaṃ
@@ -234,7 +234,7 @@ Amatavaggo pañcamo.
 
 
 
-
+6. Gaṅgāpeyyālavaggo
 1-12. Gaṅgānadīādisuttadvādasakaṃ
 417-428 . 
  
@@ -242,28 +242,28 @@ Gaṅgāpeyyālavaggo chaṭṭho.
 
 
 
-
+7. Appamādavaggo
 1-10. Tathāgatādisuttadasakaṃ
 429-438 .
 Appamādavaggo sattamo.
 
 
 
-
+8. Balakaraṇīyavaggo
 1-12. Balādisuttadvādasakaṃ
 439-450 . 
 Balakaraṇīyavaggo aṭṭhamo.
 
 
 
-
+9. Esanāvaggo
 1-10. Esanādisuttadasakaṃ
 451-460 .
 Esanāvaggo navamo.
 
 
 
-
+10. Oghavaggo
 1-10. Uddhambhāgiyādisuttadasakaṃ
 461-470 .  
  

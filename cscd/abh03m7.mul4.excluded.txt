@@ -1,6 +1,6 @@
 ﻿2. Vedanāttikaṃ
-
-
+1. Paṭiccavāro
+1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
 1 .   
@@ -18,8 +18,8 @@ Hetupaccayo
 
 Atthipaccayādi
 5 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 6 .  
 Hetuādidukāni
@@ -31,8 +31,8 @@ Hetuādidukāni
 
 
 (Yathā kusalattikassa paccayagaṇanā, evaṃ vitthāretabbā).
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 8 .
 
@@ -59,8 +59,8 @@ Namaggapaccayo
 Navippayuttapaccayo
 15 .
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 16 . 
 Nahetudukaṃ
@@ -101,14 +101,14 @@ Tikaṃ
 Navakaṃ
 
 Paccanīyagaṇanā.
-
+3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 25 .
 Tikaṃ
 
 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 26 .   
 Tikaṃ
@@ -149,9 +149,9 @@ Paṭiccavāro.
 6. Sampayuttavāro
 37 .
 Sampayuttavāro.
-
-
-
+7. Pañhāvāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 38 .  
 
@@ -233,8 +233,8 @@ Vipākapaccayo
 
 Āhārapaccayādi
 61 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 62 .  
 Hetusabhāgaṃ
@@ -335,8 +335,8 @@ Paccanīyuddhāro
 85 .
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 86 .  
 Nahetudukaṃ
@@ -348,7 +348,7 @@ Tevīsakaṃ
 Nahetumūlakaṃ.
 gahetabbaṃ (syā.)
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Hetusabhāgaṃ
 88 .   
 Sāmaññaghaṭanā
@@ -356,7 +356,7 @@ Sāmaññaghaṭanā
 
 
 Anulomapaccanīyagaṇanā.
-
+4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 90 . 
 Tikaṃ

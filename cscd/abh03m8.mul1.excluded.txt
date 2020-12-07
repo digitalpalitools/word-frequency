@@ -1,7 +1,7 @@
 ﻿7. Pītittikaṃ
-
-
-
+1. Paṭiccavāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 1 .   
 
@@ -15,14 +15,14 @@ Hetupaccayo
 
 Ārammaṇapaccayādi
 4 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 5 .  
 (Evaṃ anulomagaṇanā gaṇetabbā.)
 Anulomaṃ.
-
-
+2. Paccayapaccanīyaṃ
+1. Vibhaṅgavāro
 Nahetupaccayo
 6 . 
 
@@ -46,26 +46,26 @@ Najhānapaccayādi
 13 .
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 14 .  
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Dukaṃ
 15 . 
 (Anulomapaccanīyaṃ vitthārena gaṇetabbaṃ.)
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Dukaṃ
 16 . 
 Paccanīyānulomaṃ.
 Paṭiccavāro.
+2-6. Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāro
 
-
-
-
-
+7. Pañhāvāro
+1. Paccayānulomaṃ
+1. Vibhaṅgavāro
 Hetupaccayo
 17 . 
 
@@ -161,8 +161,8 @@ Vipākapaccayo
 
 Āhārapaccayādi
 44 .
-
-
+1. Paccayānulomaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 45 .
 
@@ -184,18 +184,18 @@ Paccanīyuddhāro
 
 
 
-
-
+2. Paccayapaccanīyaṃ
+2. Saṅkhyāvāro
 Suddhaṃ
 50 . 
 
 Paccanīyaṃ.
-
+3. Paccayānulomapaccanīyaṃ
 Dukaṃ
 51 . 
 
 Anulomapaccanīyaṃ.
-
+4. Paccayapaccanīyānulomaṃ
 Dukaṃ
 52 .  
 

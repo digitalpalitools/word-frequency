@@ -1,5 +1,5 @@
 ﻿
-1 suttantabhājanīyavaṇṇanā
+
  idāni  tadanantare dhātuvibhaṅge sabbā dhātuyo chahi chahi dhātūhi saṅkhipitvā tīhi chakkehi suttantabhājanīyaṃ dassento tiādimāha tattha ti gaṇanaparicchedo ti paricchinnadhammanidassanaṃ tiādīsu dhātvaṭṭho nāma sabhāvaṭṭho sabhāvaṭṭho nāma suññataṭṭho suññataṭṭho nāma nissattaṭṭhoti evaṃ sabhāvasuññatanissattaṭṭhena pathavīyeva dhātu  āpodhātuādīsupi eseva nayo evamettha padasamāsaṃ viditvā evamattho veditabbo  ti patiṭṭhānadhātu ti ābandhanadhātu ti paripācanadhātu ti vitthambhanadhātu ti asamphuṭṭhadhātu ti vijānanadhātu
 nti pathavīdhātu dve ayaṃ ayaṃ pathavīdhātu nāma na ekā eva ajjhattikabāhirabhedena pana dve dhātuyo evāti attho tenevāha  atthi ajjhattikā atthi bāhirāti tattha ti sattasantānapariyāpannā niyakajjhattā ti saṅkhārasantānapariyāpannā anindriyabaddhā nti ubhayampetaṃ niyakajjhattādhivacanameva idāni taṃ sabhāvākārato dassetuṃ ntiādi vuttaṃ tattha nti thaddhaṃ nti pharusaṃ nti kakkhaḷabhāvo ti kakkhaḷasabhāvo nti niyakajjhattasaṅkhātaṃ upādinnaṃ upādinnaṃ nāma sarīraṭṭhakaṃ sarīraṭṭhakañhi kammasamuṭṭhānaṃ vā hotu mā vā taṃ sandhāya upādinnampi atthi anupādinnampi ādinnaggahitaparāmaṭṭhavasena  pana  sabbampetaṃ upādinnamevāti dassetuṃ ajjhattaṃ upādinnanti āha
 idāni tameva pathavīdhātuṃ vatthuvasena dassetuṃ tiādi vuttaṃ tattha nti nipāto tassattho  yā sā ajjhattikā pathavīdhātu sā katamā yaṃ vā ajjhattaṃ paccattaṃ kakkhaḷaṃ nāma taṃ katamanti tiādi tassā ajjhattikāya pathavīdhātuyā vatthuvasena pabhedadassanaṃ idaṃ vuttaṃ hoti  kesā nāma ajjhattā upādinnā sarīraṭṭhakā kakkhaḷattalakkhaṇā imasmiṃ sarīre pāṭiyekko  koṭṭhāso lomā nāma karīsaṃ nāma idha pana avuttampi paṭisambhidāmagge (paṭi ma 14) pāḷiāruḷhaṃ  āharitvā matthaluṅgaṃ nāma ajjhattaṃ upādinnaṃ sarīraṭṭhakaṃ kakkhaḷattalakkhaṇaṃ imasmiṃ sarīre pāṭiyekko koṭṭhāso parato āpodhātuādīnaṃ niddese pittādīsupi eseva nayo
@@ -61,7 +61,7 @@ karuṇāyanti  etāyāti  karuṇāyanākāro  karuṇāya ayitassa karuṇāsa
 ettha ca kāmavitakko sattesupi uppajjati saṅkhāresupi ubhayattha uppannopi kammapathabhedova byāpādo pana sattesu uppannoyeva kammapathaṃ bhindati na itaro vihiṃsāyapi eseva nayo ettha ca duvidhā kathā  sabbasaṅgāhikā ceva asambhinnā ca kāmadhātuggahaṇena hi byāpādavihiṃsādhātuyopi gahitā kāmadhātuyāyeva pana nīharitvā nīharitvā dvepi etā dassitāti ayaṃ tāvettha sabbasaṅgāhikakathā  ṭhapetvā pana byāpādavihiṃsādhātuyo sesā sabbāpi  kāmadhātu evāti ayaṃ asambhinnakathā nāma nekkhammadhātuggahaṇenāpi abyāpādaavihiṃsādhātuyo gahitāyeva nekkhammadhātuto pana nīharitvā nīharitvā tadubhayampi dassitanti ayametthāpi sabbasaṅgāhikakathā ṭhapetvā abyāpādaavihiṃsādhātuyo avasesā nekkhammadhātūti ayaṃ asambhinnakathā nāma
 imāhi ca chahi dhātūhi pariggahitā hi aṭṭhārasa dhātuyo pariggahitāva honti sabbāpi hi tā kāmadhātutova nīharitvā nīharitvā labhāpetabbā aṭṭhārasa dhātuyova hontīti tiṇṇaṃ chakkānaṃ vasena aṭṭhārasa honti evaṃ pana aggahetvā ekekasmiṃ chakke vuttanayena aṭṭhārasa aṭṭhārasa katvā sabbānipi tāni aṭṭhārasakāni ekajjhaṃ abhisaṅkhipitvā aṭṭhāraseva hontīti veditabbā iti imasmiṃ suttantabhājanīye soḷasa dhātuyo kāmāvacarā dve tebhūmikāti evamettha sammasanacārova kathitoti veditabbo
 
-2 abhidhammabhājanīyavaṇṇanā
+
  abhidhammabhājanīye  sarūpeneva sabbāpi dhātuyo dassento tiādimāha tattha uddesavāre tāva 
 atthato lakkhaṇādito kamatāvatvasaṅkhato
 paccayā atha daṭṭhabbā veditabbo vinicchayo
@@ -88,7 +88,7 @@ ti niruddhāya samanantarā ti tasmiṃ ārammaṇe jātā kusalākusalavipākat
 ti ettha -kāro sampiṇḍanattho tasmā manodhātuyāpi manoviññāṇadhātuyāpīti ayamettha attho veditabbo tena yā ca vipākamanodhātuyā uppajjitvā niruddhāya samanantarā uppajjati santīraṇakiccā vipākamanoviññāṇadhātu yā ca tassā uppajjitvā niruddhāya samanantarā uppajjati voṭṭhabbanakiccā kiriyamanoviññāṇadhātu yā ca tassā uppajjitvā niruddhāya  samanantarā uppajjati javanakiccā manoviññāṇadhātu  tā sabbāpi kathitā hotīti veditabbā ti bhavaṅgamanaṃ ti catubhūmikadhammārammaṇaṃ nti sahāvajjanakaṃ javanaṃ nibbattati
 imasmiṃ pana ṭhāne hatthe gahitapañhaṃ nāma gaṇhiṃsu mahādhammarakkhitatthero kira nāma dīghabhāṇakābhayattheraṃ hatthe gahetvā āha  paṭiccāti nāma āgataṭṭhāne  āvajjanaṃ visuṃ na kātabbaṃ bhavaṅganissitakameva kātabbanti tasmā idha ti sahāvajjanakaṃ bhavaṅgaṃ nti javanamanoviññāṇaṃ imasmiṃ pana abhidhammabhājanīye soḷasa dhātuyo kāmāvacarā dve catubhūmikā lokiyalokuttaramissakā kathitāti
 
-3 pañhāpucchakavaṇṇanā
+
  pañhāpucchake aṭṭhārasannaṃ dhātūnaṃ heṭṭhā vuttanayānusāreneva kusalādibhāvo veditabbo ārammaṇattikesu pana ti idaṃ pana pañcannaṃ cakkhuviññāṇādīnaṃ manodhātuyā ca ekantena pañcasu rūpārammaṇādīsu pavattiṃ sandhāya vuttaṃ ti vuttānaṃ pana dhammadhātumanoviññāṇadhātūnaṃ manāyatanadhammāyatanesu vuttanayeneva parittārammaṇāditā  veditabbā iti imasmimpi pañhāpucchake soḷasa dhātuyo kāmāvacarā dve catubhūmikā lokiyalokuttaramissakā kathitā evamayaṃ dhātuvibhaṅgopi teparivaṭṭaṃ nīharitvāva bhājetvā desitoti
 
 

@@ -1,6 +1,6 @@
 ﻿
-1 paṭiccavāro
-1 paccayānulomaṃ
+
+
 
 
  sukhāya  vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā  sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho paṭisandhikkhaṇe sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho
@@ -18,8 +18,8 @@ dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampay
 adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā  adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho vatthuṃ vippayuttapaccayā paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho vatthuṃ vippayuttapaccayā (saṃkhittaṃ)
 
  atthipaccayā natthipaccayā vigatapaccayā avigatapaccayā
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā  tīṇi ārammaṇe tīṇi avigate tīṇi
 
@@ -31,8 +31,8 @@ jhānapaccayā hetuyā tīṇi vipāke dve avigate tīṇi
 maggapaccayā hetuyā tīṇi vipāke dve avigate tīṇi
 avigatapaccayā hetuyā tīṇi natthiyā tīṇi vigate tīṇi
 
-2 paccayapaccanīyaṃ
-1 vibhaṅgavāro
+
+
 
  sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā  ahetukaṃ sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho
 dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati  nahetupaccayā  dukkhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho
@@ -59,8 +59,8 @@ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya 
 
  sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati navippayuttapaccayā  arūpe sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho
 adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati navippayuttapaccayā  arūpe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā dve khandhe paṭicca eko khandho
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
 
  nahetuyā tīṇi naadhipatiyā tīṇi napurejāte dve napacchājāte tīṇi naāsevane  tīṇi nakamme tīṇi navipāke tīṇi najhāne tīṇi namagge tīṇi navippayutte dve
 
@@ -101,14 +101,14 @@ navippayuttapaccayā  nahetupaccayā naadhipatiyā ekaṃ napurejāte ekaṃ nap
 
 navippayuttapaccayā  nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namagge ekaṃ (saṃkhittaṃ)
 
-3 paccayānulomapaccanīyaṃ
+
 
  hetupaccayā naadhipatiyā tīṇi napurejāte dve napacchājāte tīṇi naāsevane tīṇi nakamme tīṇi navipāke tīṇi navippayutte dve
 
 hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi napurejāte dve napacchājāte tīṇi naāsevane tīṇi nakamme tīṇi navipāke tīṇi navippayutte dve
 (yathā kusalattikaṃ evaṃ gaṇetabbaṃ)
 
-4 paccayapaccanīyānulomaṃ
+
 
  nahetupaccayā ārammaṇe tīṇi anantare tīṇi samanantare tīṇi sahajāte tīṇi aññamaññe  tīṇi nissaye tīṇi upanissaye tīṇi purejāte tīṇi āsevane dve kamme tīṇi vipāke tīṇi āhāre  tīṇi indriye tīṇi jhāne dve magge ekaṃ sampayutte tīṇi vippayutte tīṇi atthiyā tīṇi natthiyā tīṇi  vigate tīṇi avigate tīṇi
 
@@ -149,9 +149,9 @@ navippayuttapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napac
 
  sukhāya vedanāya sampayuttaṃ dhammaṃ sampayutto sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā  sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ sampayuttā dve khandhā dve khandhe sampayutto eko khandho (saṃkhittaṃ)
 
-7 pañhāvāro
-1 paccayānulomaṃ
-1 vibhaṅgavāro
+
+
+
 
  sukhāya  vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo  sukhāya vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo paṭisandhikkhaṇe sukhāya vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (1)
 dukkhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo  dukkhāya vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (1)
@@ -233,8 +233,8 @@ dukkhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammass
 adukkhamasukhāya vedanāya vipāko adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ paṭisandhikkhaṇe (1)
 
  sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa āhārapaccayena paccayo indriyapaccayena paccayo jhānapaccayena paccayo maggapaccayena paccayo sampayuttapaccayena paccayo atthipaccayena paccayo natthipaccayena paccayo vigatapaccayena paccayo avigatapaccayena paccayo
-1 paccayānulomaṃ
-2 saṅkhyāvāro
+
+
 
  hetuyā  tīṇi ārammaṇe nava adhipatiyā pañca anantare satta samanantare satta sahajāte tīṇi aññamaññe tīṇi nissaye tīṇi  upanissaye nava āsevane tīṇi kamme aṭṭha vipāke tīṇi āhāre tīṇi indriye tīṇi jhāne tīṇi magge tīṇi sampayutte tīṇi atthiyā tīṇi natthiyā satta vigate satta avigate tīṇi
 
@@ -335,8 +335,8 @@ dukkhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa 
  adukkhamasukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo kammapaccayena paccayo (1)
 adukkhamasukhāya  vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo kammapaccayena paccayo (2)
 adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo kammapaccayena paccayo (3)
-2 paccayapaccanīyaṃ
-2 saṅkhyāvāro
+
+
 
  nahetuyā  nava naārammaṇe nava naadhipatiyā nava naanantare nava nasamanantare nava nasahajāte nava naaññamaññe nava nanissaye nava naupanissaye nava napurejāte nava napacchājāte nava naāsevane nava nakamme nava navipāke nava naāhāre nava naindriye nava najhāne nava namagge nava nasampayutte nava navippayutte nava noatthiyā nava nonatthiyā nava novigate nava noavigate nava
 
@@ -348,7 +348,7 @@ nahetupaccayā naārammaṇapaccayā naupanissayapaccayā napurejātapaccayā na
 
 (yathā kusalattikassa paccanīyagaṇanā gaṇitā evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ )
 
-3 paccayānulomapaccanīyaṃ
+
 
  hetupaccayā  naārammaṇe tīṇi naadhipatiyā tīṇi naanantare tīṇi nasamanantare tīṇi naupanissaye tīṇi napurejāte tīṇi napacchājāte tīṇi naāsevane tīṇi nakamme tīṇi navipāke  tīṇi naāhāre tīṇi naindriye tīṇi najhāne tīṇi namagge tīṇi navippayutte tīṇi nonatthiyā tīṇi novigate tīṇi
 
@@ -356,7 +356,7 @@ nahetupaccayā naārammaṇapaccayā naupanissayapaccayā napurejātapaccayā na
 (yathā kusalattikassa anulomapaccanīyagaṇanā sajjhāyamaggena gaṇitā evaṃ idampi gaṇetabbaṃ)
 kammapaccayā nahetuyā aṭṭha naārammaṇe aṭṭha noavigate aṭṭha (saṃkhittaṃ)
 
-4 paccayapaccanīyānulomaṃ
+
 
  nahetupaccayā ārammaṇe nava adhipatiyā pañca anantare satta samanantare satta sahajāte tīṇi aññamaññe tīṇi nissaye tīṇi upanissaye nava āsevane tīṇi  kamme aṭṭha vipāke tīṇi āhāre tīṇi indriye tīṇi jhāne tīṇi magge tīṇi sampayutte tīṇi atthiyā tīṇi natthiyā satta vigate satta avigate tīṇi
 

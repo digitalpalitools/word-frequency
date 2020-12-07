@@ -2,11 +2,11 @@
 Ajjhattāniccasutta, bāhirasutta
 Pucchā – 
 Vissajjanā –
-
+Sabbavagga
 Ādittasutta
 Pucchā – 
 Vissajjanā – 
-
+Migajālavagga
 Paṭhama migajālasutta
 Pucchā – 
 Vissajjanā – 
@@ -17,13 +17,13 @@ Vissajjanā –
 
 
 
-
+Gilānavagga
 Paṭhama gilānasutta
 Pucchā – 
 Vissajjanā –
 
 
-
+Channavagga
 Puṇṇasutta
 Pucchā – 
 Vissajjanā –
@@ -31,7 +31,7 @@ Pucchā –
 Vissajjanā –
 
 
-
+Saḷavagga
 Mālukyaputtasutta
 Pucchā – 
 Vissajjanā – 
@@ -58,13 +58,13 @@ Peyyāla
 Pamādavihārīsutta
 Pucchā – 
 Vissajjanā –
-
+Lokakāmaguṇavagga
 Rāhulovādasutta
 Pucchā – 
 Vissajjanā –
 
 
-
+Gahapativagga
 Bhāradvājasutta
 Pucchā – 
 Vissajjanā –
@@ -72,18 +72,18 @@ Vissajjanā –
 Verahaccānisutta
 Pucchā – 
 Vissajjanā – 
-
+Devadahavagga
 Khaṇasutta
 Pucchā – 
 Vissajjanā –
-
+Samuddavagga
 Bāḷisikopamasutta
 Pucchā – 
 Vissajjanā – 
 Ādittapariyāyasutta
 Pucchā – 
 Vissajjanā –
-
+Āsīvisavagga
 Paṭhamadārukkhandhopamasutta
 Pucchā – 
 Vissajjanā –
@@ -105,7 +105,7 @@ Pucchā –
 Vissajjanā –
 Pucchā – 
 Vissajjanā – 
-
+Vedanāsaṃyutta
 Daṭṭhabbasutta
 Pucchā – 
 Vissajjanā –
@@ -118,7 +118,7 @@ Vissajjanā –
 Sallasutta
 Pucchā – 
 Vissajjanā –
-
+Jambukhādakasaṃyutta
 Nibbānapañhāsutta
 Pucchā – 
 Vissajjanā – 
@@ -130,11 +130,11 @@ Vissajjanā –
 Dukkarapañhāsutta
 Pucchā – 
 Vissajjanā –
-
+Moggallānasaṃyutta
 Sakkasutta
 Pucchā – 
 Vissajjanā – 
-
+Cittasaṃyutta
 Nigaṇṭhanāṭaputtasutta
 Pucchā – 
 Vissajjanā –
@@ -145,7 +145,7 @@ Vissajjanā –
 Acelakassapasutta
 Pucchā – 
 Vissajjanā –
-
+Gāmaṇisaṃyutta
 Caṇḍasutta
 Pucchā – 
 Vissajjanā – 
@@ -175,7 +175,7 @@ Pucchā –
 Vissajjanā – 
 Pucchā – 
 Vissajjanā –
-
+Abyākatasaṃyutta
 Khemāsutta
 Pucchā – 
 Vissajjanā –

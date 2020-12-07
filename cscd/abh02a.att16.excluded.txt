@@ -1,5 +1,5 @@
 ﻿17. Khuddakavatthuvibhaṅgo
-
+1. Ekakamātikādivaṇṇanā
 832 .    jātimado kodho ca upanāho cā akusalamūlā āsavacatukkā orambhāgiyasaṃyojanā vivādamūlā anusayā kilesavatthu āghātavatthu kilesavatthu ajjhattikassa upādāya aṭṭhārasa taṇhāvicaritānī
 (1.) Ekakaniddesavaṇṇanā
 843-844 . tattha katamo jātimado jātiṃ paṭiccā Gottaṃ paṭiccā mado majjanā majjitattaṃ Māno maññanā Ayaṃ vuccatī jātimado   
@@ -110,7 +110,7 @@ samukkācanā. Anuppiyabhāṇitā Cāṭukamyatā Muggasūpyatā Pāribhaṭaya
 889 . Lābhasakkārasilokapaṭisaṃyutto
 890 . Anavaññattipaṭisaṃyutto  Yo tattha gehasito
 Ekakaniddesavaṇṇanā.
-
+(2.) Dukaniddesavaṇṇanā
 891 . upanāho  upanayhanā upanayhitattaṃ. Aṭṭhapanā Ṭhapanā Saṇṭhapanā Anusaṃsandanā Anuppabandhanā Daḷhīkamma Ayaṃ vuccatī 
 892 . makkho; niṭṭhuriyaṃ; Niṭṭhuriyakamma 
 paḷāso; paḷāsāyanā paḷāsāhāro. Vivādaṭṭhāna Yugaggāho Appaṭinissaggo 
@@ -124,7 +124,7 @@ amudutā amaddavatā kakkhaḷiyaṃ phārusiyaṃ ujucittatā
 903 . Akkhanti
 908 . ajjhatta Bahiddhā   ajjhattasaṃyojanaṃ bahiddhāsaṃyojanaṃ
 Dukaniddesavaṇṇanā.
-
+(3.) Tikaniddesavaṇṇanā
 909 . vitakko, saññā, dhātū
 914 .
 919 .  tattha katamā kāmesanā kāmesanā. Yo bhavesu bhavacchando bhavesanā. Sassato loko brahmacariyesanā tadekaṭṭha  
@@ -149,7 +149,7 @@ Upārambhacittatā tattha katamo upārambho upārambho anupārambho upārambhan�
 936 . Ayoniso manasikāro Anicce nicca Dukkhe sukha Saccavippaṭikulena cā Cittassa āvaṭṭanā āvaṭṭanā anāvaṭṭanā ābhogo samannāhāro manasikāro Karotī Ayaṃ vuccatī
 tattha katamo kummaggo 
 Tikaniddesavaṇṇanā niṭṭhitā.
-
+(4.) Catukkaniddesavaṇṇanā
 939 .  cīvarahetū Itibhavābhavahetū itī Bhavābhavo
  chandāgatiṃ gacchatī dosāgatiṃ gacchati mohāgatiṃ gacchati bhayāgatiṃ gacchati agati, agatigamanaṃ chandagamanaṃ vaggagamanaṃ vārigamanaṃ
  saññāvipariyāso  Asubhe subha Dukkhe sukha
@@ -160,7 +160,7 @@ cattāri bhayānī ūmibhayaṃ kumbhīlabhayaṃ āvaṭṭabhayaṃ susukābha
 attānuvādabhaya Parānuvādabhaya Daṇḍabhaya Duggatibhaya 
  sayaṃkataṃ sukhadukkha Saccato thetato Paraṃkata  Sayaṃkatañca paraṃkatañcā
 Catukkaniddesavaṇṇanā niṭṭhitā.
-
+(5.) Pañcakaniddesavaṇṇanā
 940 . orambhāgiyāni saṃyojanānī saṅgā, sallā
 941 . Cetokhilā Satthari kaṅkhatī Vicikicchatī Nādhimuccatī   Na sampasīdatī
 Dhamme 
@@ -175,7 +175,7 @@ aniccā; dukkhā; vipariṇāmadhammā Tesaṃ vipariṇāmaññathābhāvā sok
 Vitakkita vitakko. Vicārita Etena eta
 Pītigata Cetaso uppilāvita Cetaso ābhogo 
 Pañcakaniddesavaṇṇanā niṭṭhitā.
-
+(6.) Chakkaniddesavaṇṇanā
 944 . 
 chandarāgā gehassitā dhammā manāpiyesu rūpesū manāpiyesū virodhavatthūni. Amanāpiyesū
 945 . agāravo Appatisso  satthari agāravo dhamme agāravo saṅghe agāravo sikkhāya agāravo appamāde agāravo paṭisanthāre agāravo
@@ -185,12 +185,12 @@ Parihāniyā dhammā Kammārāmatā  Bhassārāmatā Niddārāmatā Saṅgaṇik
 948 . Atthi me attāti vā Atthi me attā Saccato thetato Natthi me attā Attanā vā attānaṃ sañjānāmī Attanā vā anattāna Anattanā vā attāna 
 Vado vedeyyo vado; vedeyyo; tatra tatra dīgharattaṃ kalyāṇapāpakāna tatra tatrā Dīgharatta Paccanubhotī Na so jāto nāhosī   Nicco Dhuvo Sassato Avipariṇāmadhammo
 Chakkaniddesavaṇṇanā.
-
+(7.) Sattakaniddesavaṇṇanā
 949 . anusayā saṃyojanāni pariyuṭṭhānāni kāmarāgapariyuṭṭhānaṃ
 950 . asaddhammā duccaritāni mānā
 951 . rūpī Cātumahābhūtiko mātāpettikasambhavo Dibbo Kāmāvacaro  kabaḷīkārabhakkho. Manomayo Sabbaṅgapaccaṅgī Ahīnindriyo Ākāsānañcāyatanūpago 
 Sattakaniddesavaṇṇanā.
-
+(8.) Aṭṭhakaniddesavaṇṇanā
 952 .  kilesavatthūni. Kusītavatthūnī Kammaṃ kātabbaṃ hotī Na vīriyaṃ ārabhatī Appattassā Anadhigatassā Asacchikatassā Idaṃ paṭhama
 Māsācitaṃ maññe māsācitaṃ Gilānā vuṭṭhito hotī
 954 . Aṭṭhasu lokadhammesū lokadhammā Paṭighāto Lābhe sārāgo Alābhe paṭivirodho Yasā Anariyavohārā
@@ -199,13 +199,13 @@ Aññenāññaṃ paṭicaratī Bahiddhā kathaṃ apanāmetī Kopa Dosa Appacca
 Atibāḷha Mayi byāvaṭā Hīnāyāvattitvā Attamanā hothā
 958 . asaññīvādā. Rūpī attā attā rūpī   arūpī  Rūpī ca arūpī cā Neva rūpī nārūpī Antavā Anantavā Antavā ca anantavā cā Nevantavā nānantavā
 Aṭṭhakaniddesavaṇṇanā.
-
+(9.) Navakaniddesavaṇṇanā
 960 . nava āghātavatthūnī purisamalāni. Navavidhā
 963 . Taṇhaṃ paṭiccā Pariyesanā Lābho Vinicchayo ñāṇavinicchayo taṇhāvinicchayo diṭṭhivinicchayo  
 Chandarāgo chando  Ajjhosāna Pariggaho Macchariya Ārakkho Ārakkhādhikaraṇa daṇḍādānaṃ satthādānaṃ. Kalaho viggaho, vivādo. Tuvaṃ tuva
 964 . Iñjitānī Asmīti iñjitameta ayamaha nevasaññīnāsaññī bhavissa iñjitaṃ, maññitaṃ, phanditaṃ, papañcitaṃ saṅkhata
 Navakaniddesavaṇṇanā.
-
+(10.) Dasakaniddesavaṇṇanā
 966 . kilesavatthūni. Āghātavatthūni 
 970 . micchāñāṇa Micchāvimuttī 
 Dasakaniddesavaṇṇanā.

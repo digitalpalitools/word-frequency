@@ -1,6 +1,6 @@
 ﻿
-1 kusalattikaṃ
-1-2 paṭiccavārādi
+
+
 
 
  nakusalaṃ  dhammaṃ paṭicca akusalo dhammo uppajjati hetupaccayā akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe paṭicca dve khandhā nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ nakusalaṃ dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjanti hetupaccayā tīṇi
@@ -15,7 +15,7 @@ naabyākataṃ dhammaṃ paṭicca kusalo  dhammo uppajjati ārammaṇapaccayā 
 nakusalañca naabyākatañca dhammaṃ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā ekaṃ
 naakusalañca  naabyākatañca dhammaṃ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā ekaṃ
 nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā ekaṃ hetuyā aṭṭhārasa ārammaṇe nava adhipatiyā aṭṭhārasa avigate aṭṭhārasa
-paccanīyaṃ
+
 
  nakusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati nahetupaccayā nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati nahetupaccayā nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati nahetupaccayā
  nakusalaṃ  dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā (saṃkhittaṃ)
@@ -23,14 +23,14 @@ paccanīyaṃ
 hetupaccayā naārammaṇe cha (saṃkhittaṃ)
 nahetupaccayā ārammaṇe cha (saṃkhittaṃ)
 (sahajātavāro paṭiccavārasadiso)
-3-6 paccayavārādi
+
  nakusalaṃ  dhammaṃ paccayā kusalo dhammo uppajjati hetupaccayā nakusalaṃ dhammaṃ paccayā akusalo dhammo uppajjati hetupaccayā nakusalaṃ dhammaṃ paccayā abyākato dhammo uppajjati  hetupaccayā nakusalaṃ dhammaṃ paccayā kusalo ca abyākato ca dhammā uppajjanti hetupaccayā nakusalaṃ dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti hetupaccayā pañca
 naakusalaṃ dhammaṃ paccayā akusalo dhammo uppajjati hetupaccayā pañca
 naabyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati hetupaccayā pañca
 nakusalañca naabyākatañca dhammaṃ paccayā tīṇi
 naakusalañca naabyākatañca dhammaṃ paccayā tīṇi nakusalañca naakusalañca dhammaṃ paccayā kusalo dhammo uppajjati hetupaccayā pañca (saṃkhittaṃ) hetuyā chabbīsati ārammaṇe terasa avigate chabbīsati
 saṃsaṭṭhavāre hetuyā nava avigate nava (saṃkhittaṃ)
-7 pañhāvāro
+
  nakusalo  dhammo akusalassa dhammassa hetupaccayena paccayo nakusalo dhammo abyākatassa dhammassa hetupaccayena paccayo nakusalo dhammo akusalassa ca abyākatassa ca dhammassa hetupaccayena paccayo tīṇi
 naakusalo dhammo kusalassa dhammassa hetupaccayena paccayo tīṇi
 naabyākato dhammo abyākatassa dhammassa hetupaccayena paccayo pañca
@@ -45,17 +45,17 @@ nakusalo ca naabyākato ca dhammā kusalassa dhammassa ārammaṇapaccayena pacc
 naakusalo ca naabyākato ca dhammā kusalassa dhammassa ārammaṇapaccayena paccayo naakusalo ca naabyākato ca dhammā akusalassa dhammassa ārammaṇapaccayena paccayo naakusalo ca naabyākato ca dhammā abyākatassa dhammassa ārammaṇapaccayena paccayo tīṇi
 nakusalo  ca naakusalo ca dhammā kusalassa dhammassa ārammaṇapaccayena paccayo tīṇi (saṃkhittaṃ)
  hetuyā aṭṭhārasa ārammaṇe aṭṭhārasa adhipatiyā tevīsa avigate dvāvīsa (pañhāvāraṃ vitthāretabbaṃ)
-2 vedanāttikaṃ
+
 
  nasukhāya  vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā nasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā nasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā (3)
 nadukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā nadukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto  dhammo uppajjati hetupaccayā nadukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā (3)
 naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā (3) (saṃkhittaṃ) hetuyā ekavīsa adhipatiyā ekavīsa avigate ekavīsa
-3 vipākattikaṃ
+
 
  navipākaṃ  dhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā navipākaṃ dhammaṃ paṭicca vipākadhammadhammo uppajjati hetupaccayā pañca
 navipākadhammadhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā navipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā tīṇi
 nanevavipākanavipākadhammadhammaṃ  paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā nanevavipākanavipākadhammadhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā pañca hetuyā dvāvīsa
-4 upādinnattikaṃ
+
 
  naupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā tīṇi
 naanupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā pañca
@@ -63,59 +63,59 @@ naanupādinnaanupādāniyaṃ  dhammaṃ paṭicca upādinnupādāniyo dhammo up
 naupādinnupādāniyañca naanupādinnaanupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati hetupaccayā ekaṃ
 naanupādinnupādāniyañca naanupādinnaanupādāniyañca dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati hetupaccayā tīṇi
 naupādinnupādāniyañca naanupādinnupādāniyañca  dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati hetupaccayā tīṇi hetuyā aṭṭhārasa
-5 saṃkiliṭṭhattikaṃ
+
 
  nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā nasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā tīṇi
 naasaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā pañca
 naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko  dhammo uppajjati hetupaccayā naasaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā tīṇi hetuyā aṭṭhārasa
-6 vitakkattikaṃ
+
 
  nasavitakkasavicāraṃ  dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati hetupaccayā nasavitakkasavicāraṃ dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati hetupaccayā nasavitakkasavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati hetupaccayā satta
 naavitakkavicāramattaṃ dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati hetupaccayā satta
 naavitakkaavicāraṃ dhammaṃ paṭicca  avitakkaavicāro dhammo uppajjati hetupaccayā satta hetuyā ekūnapaññāsa
-7 pītittikaṃ
+
 
  napītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā cattāri
 nasukhasahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā cattāri
 naupekkhāsahagataṃ dhammaṃ paṭicca upekkhāsahagato dhammo uppajjati hetupaccayā naupekkhāsahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā cattāri hetuyā aṭṭhavīsa
-8 dassanattikaṃ
+
 
  nadassanena pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo dhammo uppajjati hetupaccayā nadassanena pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā nadassanena pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā tīṇi
 nabhāvanāya  pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati hetupaccayā nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā nabhāvanāya pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā tīṇi
 nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā nanevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca dassanena  pahātabbo dhammo uppajjati hetupaccayā pañca (saṃkhittaṃ) hetuyā aṭṭhārasa
-9 dassanahetuttikaṃ
+
 
  nadassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati hetupaccayā hetuyā chabbīsa
-10 ācayagāmittikaṃ
+
 
  naācayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati hetupaccayā hetuyā aṭṭhārasa
-11 sekkhattikaṃ
+
 
  nasekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati hetupaccayā hetuyā aṭṭhārasa
-12-16 parittattikādi
+
 
  naparittaṃ  dhammaṃ paṭicca paritto dhammo uppajjati hetupaccayā hetuyā dvāvīsa
  naparittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati hetupaccayā hetuyā terasa
  nahīnaṃ  dhammaṃ paṭicca majjhimo dhammo uppajjati hetupaccayā hetuyā aṭṭhārasa
  namicchattaniyataṃ  dhammaṃ paṭicca sammattaniyato dhammo uppajjati hetupaccayā hetuyā aṭṭhārasa
  namaggārammaṇaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā hetuyā dasa 
-17 uppannattikaṃ
+
 
  naanuppanno dhammo uppannassa dhammassa hetupaccayena paccayo nauppādī dhammo uppannassa dhammassa hetupaccayena paccayo naanuppanno ca nauppādī ca dhammā uppannassa dhammassa hetupaccayena paccayo hetuyā tīṇi
-18-19 atītattikadvayaṃ
+
 
  naatīto dhammo paccuppannassa dhammassa hetupaccayena paccayo naanāgato dhammo paccuppannassa dhammassa hetupaccayena paccayo naatīto ca naanāgato ca dhammā paccuppannassa dhammassa hetupaccayena paccayo hetuyā  tīṇi
  naatītārammaṇaṃ  dhammaṃ paṭicca atītārammaṇo dhammo uppajjati hetupaccayā naatītārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati hetupaccayā naatītārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā tīṇi
 naanāgatārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati hetupaccayā naanāgatārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā dve
 napaccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā napaccuppannārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati hetupaccayā napaccuppannārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati hetupaccayā tīṇi (saṃkhittaṃ) hetuyā sattarasa
-20-21 ajjhattattikadvayaṃ
+
 
  naajjhattaṃ dhammaṃ paṭicca bahiddhā dhammo uppajjati hetupaccayā ekaṃ
 nabahiddhā  dhammaṃ paṭicca ajjhatto dhammo uppajjati hetupaccayā ekaṃ hetuyā dve
  naajjhattārammaṇaṃ  dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati hetupaccayā dve
 nabahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati hetupaccayā dve
 naajjhattārammaṇañca nabahiddhārammaṇañca dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati hetupaccayā dve hetuyā cha
-22 sanidassanattikaṃ
+
 
  nasanidassanasappaṭighaṃ  dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca anidassanaappaṭigho dhammo uppajjati hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca dhammā uppajjanti hetupaccayā nasanidassanasappaṭighaṃ dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā satta
 naanidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati  hetupaccayā naanidassanasappaṭighaṃ dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati hetupaccayā satta

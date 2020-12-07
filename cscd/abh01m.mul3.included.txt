@@ -1,5 +1,5 @@
 ﻿
-tikanikkhepaṃ
+
  katame  dhammā kusalā tīṇi kusalamūlāni  alobho adoso amoho taṃsampayutto vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ  ime dhammā kusalā
  katame dhammā akusalā tīṇi akusalamūlāni  lobho doso moho tadekaṭṭhā ca kilesā taṃsampayutto vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ  ime dhammā akusalā
  katame dhammā abyākatā kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā sabbañca rūpaṃ asaṅkhatā ca dhātu  ime dhammā abyākatā
@@ -75,7 +75,7 @@ tikanikkhepaṃ
  katame dhammā anidassanasappaṭighā cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ saddāyatanaṃ gandhāyatanaṃ  rasāyatanaṃ phoṭṭhabbāyatanaṃ  ime dhammā anidassanasappaṭighā
  katame dhammā anidassanaappaṭighā vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ asaṅkhatā ca dhātu  ime dhammā anidassanaappaṭighā
 
-dukanikkhepaṃ
+
 
  katame dhammā hetū tayo kusalahetū tayo akusalahetū tayo abyākatahetū nava kāmāvacarahetū cha rūpāvacarahetū cha arūpāvacarahetū cha apariyāpannahetū
  tattha katame tayo kusalahetū alobho adoso amoho
@@ -346,7 +346,7 @@ dukanikkhepaṃ
  katame dhammā saraṇā tīṇi akusalamūlāni lobho doso moho tadekaṭṭhā ca  kilesā taṃsampayutto vedanākkhandho viññāṇakkhandho taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ  ime dhammā saraṇā
  katame dhammā araṇā kusalābyākatā dhammā kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā vedanākkhandho viññāṇakkhandho sabbañca rūpaṃ asaṅkhatā ca dhātu  ime dhammā araṇā
 
-suttantikadukanikkhepaṃ
+
  katame dhammā vijjābhāgino vijjāya sampayuttakā dhammā  ime dhammā vijjābhāgino
  katame dhammā avijjābhāgino avijjāya  sampayuttakā dhammā  ime dhammā avijjābhāgino
  katame dhammā vijjūpamā heṭṭhimesu tīsu ariyamaggesu paññā  ime dhammā vijjūpamā

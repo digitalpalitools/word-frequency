@@ -78,7 +78,7 @@ Mātikā
 73 
 
 Mātikā niṭṭhitā.
-
+1. Ñāṇakathā
 1. Sutamayañāṇaniddeso
 1 .   
 
@@ -679,7 +679,7 @@ Samantacakkhū
 
 Sabbaññutañāṇaniddeso tesattatimo.
 Ñāṇakathā niṭṭhitā.
-
+2. Diṭṭhikathā
 122 .  
 Kā diṭṭhī Kati diṭṭhiṭṭhānānī Kati diṭṭhipariyuṭṭhānānī Kati diṭṭhiyo Kati diṭṭhābhinivesā Katamo diṭṭhiṭṭhānasamugghāto 
 123 . abhinivesaparāmāso diṭṭhi? kati abhinivesaparāmāso diṭṭhīti (syā.) rūpaṃ (syā.) tathā pañcasu ārammaṇesu ekavacanena    
@@ -826,7 +826,7 @@ Etaṃ mamā Esohamasmī Eso  me attā sakkāyadiṭṭhippamukhena (syā.)
 
 Bhavavibhavadiṭṭhiniddeso soḷasamo.
 Diṭṭhikathā niṭṭhitā.
-
+3. Ānāpānassatikathā
 1. Gaṇanavāra
 152 .    ānāpānasatisamādhiṃ (sī. aṭṭha.) paribandhe (ka.) satokārīsu (syā.)
  
@@ -1005,7 +1005,7 @@ Satokāriñāṇaniddeso pañcamo.
   
 Ñāṇarāsichakkaniddeso chaṭṭho.
 Ānāpānassatikathā ānāpānakathā (syā. ka.) niṭṭhitā.
-
+4. Indriyakathā
 1. Paṭhamasuttantaniddeso
 184 .    ‘‘bhaddante’’ti (ka.)
 saṃ. ni. 5.471
@@ -1130,7 +1130,7 @@ Vajja
 Indriyasamodhāno pañcamo.
 Tatiyabhāṇavāro.
 Indriyakathā niṭṭhitā.
-
+5. Vimokkhakathā
 1. Uddeso
 209 .   
  ajjhattavuṭṭhānā paṭippassddhī (syā.)    sītīsiyāvimokkho (sī. aṭṭha.)
@@ -1273,7 +1273,7 @@ vimokkhamukhaṃ?
 vimokkhappaṭippassaddhi? 
 Tatiyabhāṇavāro.
 Vimokkhakathā niṭṭhitā.
-
+6. Gatikathā
 231 .   
 
 232 . 
@@ -1289,7 +1289,7 @@ Vimokkhakathā niṭṭhitā.
    
 
 Gatikathā niṭṭhitā.
-
+7. Kammakathā
 234 .  
 
 
@@ -1303,7 +1303,7 @@ Gatikathā niṭṭhitā.
 
 
 Kammakathā niṭṭhitā.
-
+8. Vipallāsakathā
 236 .     a. ni. 4.49 passitabbā
 
 
@@ -1319,7 +1319,7 @@ paccaladdhuṃ (syā.), paccaladdhā a. ni. 4.49
 
 
 Vipallāsakathā niṭṭhitā.
-
+9. Maggakathā
 237 .   uttariṃ paṭivedhāya (syā.)
  
 
@@ -1332,7 +1332,7 @@ Vipallāsakathā niṭṭhitā.
 
  
 Maggakathā niṭṭhitā.
-
+10. Maṇḍapeyyakathā
 238 .   tividho maṇḍo (bahūsu) aṭṭhakathā oloketabbā
 desanāmaṇḍo? uttānikammaṃ (ka.)  
 paṭiggahamaṇḍo?

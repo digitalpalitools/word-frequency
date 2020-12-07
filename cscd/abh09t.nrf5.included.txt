@@ -1,6 +1,6 @@
 ﻿
-mūlayamakaṃ
-kusalapadanayacatukkaṃ
+
+
 ye  keci kusalā dhammā (yama 1mūlayamaka1 ādayo) sabbe te kusalamūlā ye vā pana kusalamūlā sabbe te dhammā kusalā
 ye keci kusalā dhammā sabbe te kusalamūlena ekamūlā ye vā pana kusalamūlena ekamūlā sabbe te dhammā kusalā
 ye keci kusalamūlena ekamūlā dhammā sabbe te kusalamūlena aññamaññamūlā ye vā pana kusalamūlena aññamaññamūlā sabbe te dhammā kusalā
@@ -13,7 +13,7 @@ ye  keci kusalamūlena ekamūlakā dhammā sabbe te kusalamūlena aññamaññam
 ye keci kusalā dhammā sabbe te kusalamūlamūlakā ye vā pana kusalamūlamūlakā sabbe te dhammā kusalā
 ye keci kusalā dhammā sabbe te kusalamūlena ekamūlamūlakā ye vā pana kusalamūlena ekamūlamūlakā sabbe te dhammā kusalā
 ye keci kusalamūlena ekamūlamūlakā dhammā sabbe te kusalamūlena aññamaññamūlamūlakā ye vā pana kusalamūlena aññamaññamūlamūlakā sabbe te dhammā kusalā
-akusalapadanayacatukkaṃ
+
 ye keci akusalā dhammā sabbe te akusalamūlā ye vā pana akusalamūlā sabbe te dhammā akusalā
 ye  keci akusalā dhammā sabbe te akusalamūlena ekamūlā ye vā pana akusalamūlena ekamūlā sabbe te dhammā akusalā
 ye keci akusalamūlena ekamūlā dhammā sabbe te akusalamūlena aññamaññamūlā ye vā pana akusalamūlena aññamaññamūlā sabbe te dhammā akusalā
@@ -26,7 +26,7 @@ ye keci akusalamūlena ekamūlakā dhammā sabbe te akusalamūlena aññamañña
 ye keci akusalā dhammā sabbe te akusalamūlamūlakā ye vā pana akusalamūlamūlakā sabbe te dhammā akusalā
 ye  keci akusalā dhammā sabbe te akusalamūlena ekamūlamūlakā ye vā pana akusalamūlena ekamūlamūlakā sabbe te dhammā akusalā
 ye keci akusalamūlena ekamūlamūlakā dhammā sabbe te akusalamūlena aññamaññamūlamūlakā ye vā pana akusalamūlena aññamaññamūlamūlakā sabbe te dhammā akusalā
-abyākatapadanayacatukkaṃ
+
 ye keci abyākatā dhammā sabbe te abyākatamūlā ye vā pana abyākatamūlā sabbe te dhammā abyākatā
 ye  keci abyākatā dhammā sabbe te abyākatamūlena ekamūlā ye vā pana abyākatamūlena ekamūlā sabbe te dhammā abyākatā
 ye keci abyākatamūlena ekamūlā dhammā sabbe te abyākatamūlena aññamaññamūlā ye vā pana abyākatamūlena aññamaññamūlā sabbe te dhammā abyākatā
@@ -39,7 +39,7 @@ ye keci abyākatamūlena ekamūlakā dhammā sabbe te abyākatamūlena aññama�
 ye keci abyākatā dhammā sabbe te abyākatamūlamūlakā ye vā pana abyākatamūlamūlakā sabbe te dhammā abyākatā
 ye  keci abyākatā dhammā sabbe te abyākatamūlena ekamūlamūlakā ye vā pana abyākatamūlena ekamūlamūlakā sabbe te dhammā abyākatā
 ye keci abyākatamūlena ekamūlamūlakā dhammā sabbe te abyākatamūlena aññamaññamūlamūlakā ye vā pana abyākatamūlena aññamaññamūlamūlakā sabbe te dhammā abyākatā
-nāmapadanayacatukkaṃ
+
 ye keci nāmā dhammā sabbe te nāmamūlā ye vā pana nāmamūlā sabbe te dhammā nāmā
 ye keci nāmā dhammā sabbe te nāmamūlena ekamūlā ye vā pana nāmamūlena ekamūlā sabbe te dhammā nāmā
 ye  keci nāmamūlena ekamūlā dhammā sabbe te nāmamūlena aññamaññamūlā ye vā pana nāmamūlena aññamaññamūlā sabbe te dhammā nāmā
@@ -56,10 +56,10 @@ ye keci kusalā dhammā sabbe te kusalahetū kusalanidānā kusalasambhavā kusa
 mūlaṃ hetu nidānañca sambhavo pabhavena ca
 samuṭṭhānāhārārammaṇā paccayo samudayena cāti
 
-khandhayamakaṃ
+
 
 pañcakkhandhā (yama 1khandhayamaka1 ādayo)  rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
-padasodhanavāro
+
 
 rūpaṃ  rūpakkhandho rūpakkhandho rūpaṃ
 vedanā vedanākkhandho vedanākkhandho vedanā
@@ -72,7 +72,7 @@ na vedanā na vedanākkhandho na vedanākkhandho na vedanā
 na saññā na saññākkhandho na saññākkhandho na saññā
 na saṅkhārā na saṅkhārakkhandho na saṅkhārakkhandho na saṅkhārā
 na viññāṇaṃ na viññāṇakkhandho na viññāṇakkhandho na viññāṇaṃ
-padasodhanamūlacakkavāro
+
 
 rūpaṃ rūpakkhandho khandhā vedanākkhandho
 rūpaṃ rūpakkhandho khandhā saññākkhandho
@@ -115,7 +115,7 @@ na viññāṇaṃ na viññāṇakkhandho na khandhā na rūpakkhandho
 na viññāṇaṃ na viññāṇakkhandho na khandhā na vedanākkhandho
 na viññāṇaṃ na viññāṇakkhandho na khandhā na saññākkhandho
 na viññāṇaṃ na viññāṇakkhandho na khandhā na saṅkhārakkhandho
-suddhakhandhavāro
+
 
 rūpaṃ khandho khandhā rūpaṃ
 vedanā khandho khandhā vedanā
@@ -128,7 +128,7 @@ na vedanā na khandho na khandhā na vedanā
 na saññā na khandho na khandhā na saññā
 na saṅkhārā na khandho na khandhā na saṅkhārā
 na viññāṇaṃ na khandho na khandhā na viññāṇaṃ
-suddhakhandhamūlacakkavāro
+
 
 rūpaṃ  khandho khandhā vedanā
 rūpaṃ khandho khandhā saññā
@@ -172,10 +172,10 @@ na viññāṇaṃ na khandho na khandhā na vedanā
 na viññāṇaṃ na khandho na khandhā na saññā
 na viññāṇaṃ na khandho na khandhā na saṅkhārā
 
-āyatanayamakaṃ
+
 
  (yama 1āyatanayamaka1 ādayo)  cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
-padasodhanavāro
+
 
 cakkhu cakkhāyatanaṃ cakkhāyatanaṃ cakkhu
 sotaṃ sotāyatanaṃ sotāyatanaṃ sotaṃ
@@ -202,7 +202,7 @@ na raso na rasāyatanaṃ na rasāyatanaṃ na raso
 na phoṭṭhabbo na phoṭṭhabbāyatanaṃ na phoṭṭhabbāyatanaṃ na phoṭṭhabbo
 na mano na manāyatanaṃ na manāyatanaṃ na mano
 na dhammo na dhammāyatanaṃ na dhammāyatanaṃ na dhammo
-padasodhanamūlacakkavāro
+
 
 cakkhu  cakkhāyatanaṃ āyatanā sotāyatanaṃ
 cakkhu cakkhāyatanaṃ āyatanā ghānāyatanaṃ
@@ -227,7 +227,7 @@ na ghānaṃ na ghānāyatanaṃ nāyatanā na dhammāyatanaṃ
 na dhammo na dhammāyatanaṃ nāyatanā na cakkhāyatanaṃ
 na dhammo na dhammāyatanaṃ nāyatanā na sotāyatanaṃ
 na dhammo na dhammāyatanaṃ nāyatanā na manāyatanaṃ (cakkaṃ bandhitabbaṃ)
-suddhāyatanavāro
+
 
 cakkhu  āyatanaṃ āyatanā cakkhu
 sotaṃ āyatanaṃ āyatanā sotaṃ
@@ -254,7 +254,7 @@ na raso nāyatanaṃ nāyatanā na raso
 na  phoṭṭhabbo nāyatanaṃ nāyatanā na phoṭṭhabbo
 na mano nāyatanaṃ nāyatanā na mano
 na dhammo nāyatanaṃ nāyatanā na dhammo
-suddhāyatanamūlacakkavāro
+
 
 cakkhu  āyatanaṃ āyatanā sotaṃ
 cakkhu āyatanaṃ āyatanā dhammo
@@ -276,10 +276,10 @@ na dhammo nāyatanaṃ nāyatanā na cakkhu
 na dhammo nāyatanaṃ nāyatanā na sotaṃ
 na dhammo nāyatanaṃ nāyatanā na mano (cakkaṃ bandhitabbaṃ)
 
-dhātuyamakaṃ
+
 
  (yama 1dhāturamaka1 ādayo)  cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
-padasodhanavāro
+
 
 cakkhu cakkhudhātu cakkhudhātu cakkhu
 sotaṃ sotadhātu sotadhātu sotaṃ
@@ -294,7 +294,7 @@ na cakkhuviññāṇaṃ na cakkhuviññāṇadhātu na cakkhuviññāṇadhātu
 na mano na manodhātu na manodhātu na mano
 na  manoviññāṇaṃ na manoviññāṇadhātu na manoviññāṇadhātu na manoviññāṇaṃ
 na dhammo na dhammadhātu na dhammadhātu na dhammo
-padasodhanamūlacakkavāro
+
 
 cakkhu cakkhudhātu dhātū sotadhātu
 cakkhu cakkhudhātu dhātū dhammadhātu (yathā āyatanayamake cakkaṃ bandhitaṃ evamidha cakkaṃ bandhitabbaṃ)
@@ -304,7 +304,7 @@ na cakkhu na cakkhudhātu na dhātū na ghānadhātu
 na cakkhu na cakkhudhātu na dhātū na dhammadhātu
 na dhammo na dhammadhātu na dhātū na cakkhudhātu
 na dhammo na dhammadhātu na dhātū na manoviññāṇadhātu (cakkaṃ bandhitabbaṃ)
-suddhadhātuvāro
+
 
 cakkhu  dhātu dhātū cakkhu
 cakkhuviññāṇaṃ dhātu dhātū cakkhuviññāṇaṃ
@@ -315,7 +315,7 @@ na cakkhu na dhātu na dhātū na cakkhu
 na cakkhuviññāṇaṃ na dhātu na dhātū na cakkhuviññāṇaṃ
 na  manoviññāṇaṃ na dhātu na dhātū na manoviññāṇaṃ
 na dhammo na dhātu na dhātū na dhammo
-suddhadhātumūlacakkavāro
+
 
 cakkhu dhātu dhātū sotaṃ
 cakkhu dhātu dhātū dhammo
@@ -330,7 +330,7 @@ na dhammo na dhātu na dhātū na manoviññāṇaṃ (cakkaṃ bandhitabbaṃ )
 
 
  (yama 1saccayamaka1 ādayo)  dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
-padasodhanavāro
+
 
 dukkhaṃ  dukkhasaccaṃ dukkhasaccaṃ dukkhaṃ
 samudayo samudayasaccaṃ samudayasaccaṃ samudayo
@@ -341,7 +341,7 @@ na  dukkhaṃ na dukkhasaccaṃ na dukkhasaccaṃ na dukkhaṃ
 na samudayo na samudayasaccaṃ na samudayasaccaṃ na samudayo
 na nirodho na nirodhasaccaṃ na nirodhasaccaṃ na nirodho
 na maggo na maggasaccaṃ na maggasaccaṃ na maggo
-padasodhanamūlacakkavāro
+
 
 dukkhaṃ dukkhasaccaṃ saccā samudayasaccaṃ
 dukkhaṃ dukkhasaccaṃ saccā nirodhasaccaṃ
@@ -368,7 +368,7 @@ na nirodho na nirodhasaccaṃ na saccā na maggasaccaṃ
 na maggo na maggasaccaṃ na saccā na dukkhasaccaṃ
 na maggo na maggasaccaṃ na saccā na samudayasaccaṃ
 na maggo na maggasaccaṃ na saccā na nirodhasaccaṃ
-suddhasaccavāro
+
 
 dukkhaṃ saccaṃ saccā dukkhaṃ
 samudayo saccaṃ saccā samudayo
@@ -379,7 +379,7 @@ na  dukkhaṃ na saccaṃ na saccā na dukkhaṃ
 na samudayo na saccaṃ na saccā na samudayo
 na nirodho na saccaṃ na saccā na nirodho
 na maggo na saccaṃ na saccā na maggo
-suddhasaccamūlacakkavāro
+
 
 dukkhaṃ  saccaṃ saccā samudayo
 dukkhaṃ saccaṃ saccā nirodho
@@ -399,10 +399,10 @@ na maggo na saccaṃ na saccā na dukkhaṃ
 na maggo na saccaṃ na saccā na samudayo
 na maggo na saccaṃ na saccā na nirodho
 
-saṅkhārayamakaṃ
+
 
  (yama 2saṅkhārayamaka1 ādayo)  kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
-padasodhanavāro
+
 
 kāyo kāyasaṅkhāro kāyasaṅkhāro kāyo
 vacī vacīsaṅkhāro vacīsaṅkhāro vacī
@@ -411,7 +411,7 @@ cittaṃ cittasaṅkhāro cittasaṅkhāro cittaṃ
 na  kāyo na kāyasaṅkhāro na kāyasaṅkhāro na kāyo
 na vacī na vacīsaṅkhāro na vacīsaṅkhāro na vacī
 na cittaṃ na cittasaṅkhāro na cittasaṅkhāro na cittaṃ
-padasodhanamūlacakkavāro
+
 
 kāyo kāyasaṅkhāro saṅkhārā vacīsaṅkhāro
 kāyo kāyasaṅkhāro saṅkhārā cittasaṅkhāro
@@ -426,7 +426,7 @@ na vacī na vacīsaṅkhāro na saṅkhārā na kāyasaṅkhāro
 na vacī na vacīsaṅkhāro na saṅkhārā na cittasaṅkhāro
 na cittaṃ na cittasaṅkhāro na saṅkhārā na kāyasaṅkhāro
 na cittaṃ na cittasaṅkhāro na saṅkhārā na vacīsaṅkhāro
-suddhasaṅkhāravāro
+
 
 kāyasaṅkhāro  vacīsaṅkhāro vacīsaṅkhāro kāyasaṅkhāro
 kāyasaṅkhāro cittasaṅkhāro cittasaṅkhāro kāyasaṅkhāro
@@ -439,9 +439,9 @@ na vacīsaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na vacīsaṅkhāro
 
  (yama 2anusayayamaka1)  kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
 
-cittayamakaṃ
-suddhacittasāmaññaṃ
-puggalavāro
+
+
+
 
 yassa  cittaṃ uppajjati na nirujjhati (yama 2cittayamaka1 ādayo) tassa cittaṃ nirujjhissati na uppajjissati yassa vā pana cittaṃ nirujjhissati na uppajjissati tassa cittaṃ uppajjati na nirujjhati
 yassa cittaṃ na uppajjati nirujjhati tassa cittaṃ na nirujjhissati uppajjissati yassa vā pana cittaṃ na nirujjhissati uppajjissati tassa cittaṃ na uppajjati nirujjhati
@@ -498,8 +498,8 @@ na niruddhaṃ na nirujjhamānaṃ na nirujjhamānaṃ na niruddhaṃ
 
 yassa  cittaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ yassa vā pana cittaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ
 yassa cittaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ yassa vā pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ tassa cittaṃ
-suddhacittasāmaññaṃ
-dhammavāro
+
+
 
 yaṃ cittaṃ uppajjati na nirujjhati taṃ cittaṃ nirujjhissati na uppajjissati yaṃ vā pana cittaṃ nirujjhissati na uppajjissati taṃ cittaṃ uppajjati na nirujjhati
 yaṃ  cittaṃ na uppajjati nirujjhati taṃ cittaṃ na nirujjhissati uppajjissati yaṃ vā pana cittaṃ na nirujjhissati uppajjissati taṃ cittaṃ na uppajjati nirujjhati
@@ -556,8 +556,8 @@ na niruddhaṃ na nirujjhamānaṃ na nirujjhamānaṃ na niruddhaṃ
 
 yaṃ cittaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ yaṃ vā pana cittaṃ nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ
 yaṃ cittaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ yaṃ vā  pana cittaṃ na nirujjhamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ atikkantakālaṃ taṃ cittaṃ
-suddhacittasāmaññaṃ
-puggaladhammavāro
+
+
 
 yassa  yaṃ cittaṃ uppajjati na nirujjhati tassa taṃ cittaṃ nirujjhissati na uppajjissati yassa vā pana yaṃ cittaṃ nirujjhissati na uppajjissati tassa taṃ cittaṃ uppajjati na nirujjhati
 yassa yaṃ cittaṃ na uppajjati nirujjhati tassa taṃ cittaṃ na nirujjhissati uppajjissati yassa vā pana yaṃ cittaṃ na nirujjhissati uppajjissati tassa taṃ cittaṃ na uppajjati nirujjhati
@@ -621,9 +621,9 @@ yassa  kusalaṃ cittaṃ uppajjati yassa akusalaṃ cittaṃ uppajjati yassa ab
 (etena upāyena yāva saraṇaaraṇā uddharitabbā)
 yassa araṇaṃ cittaṃ uppajjati na nirujjhati tassa araṇaṃ cittaṃ nirujjhissati na uppajjissati yassa vā pana araṇaṃ cittaṃ nirujjhissati na uppajjissati tassa araṇaṃ cittaṃ uppajjati na nirujjhati
 
-dhammayamakaṃ
-paṇṇattivāro
-padasodhanavāro
+
+
+
 
 kusalā kusalā dhammā (yama 3dhammayamaka1 ādayo) kusalā dhammā kusalā
 akusalā akusalā dhammā akusalā dhammā akusalā
@@ -632,7 +632,7 @@ abyākatā abyākatā dhammā abyākatā dhammā abyākatā
 na  kusalā na kusalā dhammā na kusalā dhammā na kusalā
 na  akusalā na akusalā dhammā na akusalā dhammā na akusalā
 na abyākatā na abyākatā dhammā na abyākatā dhammā na abyākatā
-padasodhanamūlacakkavāro
+
 
 kusalā kusalā dhammā dhammā akusalā dhammā
 kusalā kusalā dhammā dhammā abyākatā dhammā
@@ -647,7 +647,7 @@ na akusalā na akusalā dhammā na dhammā na kusalā dhammā
 na akusalā na akusalā dhammā na dhammā na abyākatā dhammā
 na abyākatā na abyākatā dhammā na dhammā na kusalā dhammā
 na abyākatā na abyākatā dhammā na dhammā na akusalā dhammā
-suddhadhammavāro
+
 
 kusalā  dhammā dhammā kusalā
 akusalā dhammā dhammā akusalā
@@ -656,7 +656,7 @@ abyākatā dhammā dhammā abyākatā
 na kusalā na dhammā na dhammā na kusalā
 na akusalā na dhammā na dhammā na akusalā
 na abyākatā na dhammā na dhammā na abyākatā
-suddhadhammamūlacakkavāro
+
 
 kusalā dhammā dhammā akusalā
 kusalā dhammā dhammā abyākatā
@@ -672,10 +672,10 @@ na akusalā na dhammā na dhammā na abyākatā
 na abyākatā na dhammā na dhammā na kusalā
 na abyākatā na dhammā na dhammā na akusalā
 
-indriyayamakaṃ
+
 
  (yama 3indriyayamaka1 ādayo)  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
-padasodhanavāro
+
 
 cakkhu  cakkhundriyaṃ cakkhundriyaṃ cakkhu
 sotaṃ sotindriyaṃ sotindriyaṃ sotaṃ
@@ -722,7 +722,7 @@ na  paññā na paññindriyaṃ na paññindriyaṃ na paññā
 na anaññātaññassāmīti na anaññātaññassāmītindriyaṃ na anaññātaññassāmītindriyaṃ na anaññātaññassāmīti
 na aññaṃ na aññindriyaṃ na aññindriyaṃ na aññaṃ
 na aññātāvī na aññātāvindriyaṃ na aññātāvindriyaṃ na aññātāvī
-padasodhanamūlacakkavāro
+
 
 cakkhu  cakkhundriyaṃ indriyā sotindriyaṃ
 cakkhu cakkhundriyaṃ indriyā ghānindriyaṃ
@@ -830,7 +830,7 @@ na paññā na paññindriyaṃ na indriyā na cakkhundriyaṃ na indriyā na a�
 na anaññātaññassāmīti na anaññātaññassāmītindriyaṃ na indriyā na cakkhundriyaṃ na indriyā na aññātāvindriyaṃ
 na  aññaṃ na aññindriyaṃ na indriyā na cakkhundriyaṃ na indriyā na aññātāvindriyaṃ
 na aññātāvī na aññātāvindriyaṃ na indriyā na cakkhundriyaṃ na indriyā na aññindriyaṃ
-suddhindriyavāro
+
 
 cakkhu indriyaṃ indriyā cakkhu
 sotaṃ indriyaṃ indriyā sotaṃ
@@ -877,7 +877,7 @@ na paññā na indriyaṃ na indriyā na paññā
 na anaññātaññassāmīti na indriyaṃ na indriyā na anaññātaññassāmīti
 na aññaṃ na indriyaṃ na indriyā na aññaṃ
 na aññātāvī na indriyaṃ na indriyā na aññātāvī
-suddhindriyamūlacakkavāro
+
 
 cakkhu  indriyaṃ indriyā sotaṃ
 cakkhu indriyaṃ indriyā ghānaṃ

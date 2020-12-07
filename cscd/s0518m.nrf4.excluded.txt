@@ -115,7 +115,7 @@ Kumbhavaggo sattamo.
 
 
 Mātikā niṭṭhitā.
-
+1. Gadrabhavaggo
 1. Gadrabhaṅgapañho
 1 .  
 
@@ -195,7 +195,7 @@ Gadrabhavaggo paṭhamo.
 
 ghorassaro ca (sī. syā. pī.)
 
-
+2. Samuddavaggo
 1. Lābulataṅgapañho
 1 .  
 
@@ -266,7 +266,7 @@ Samuddaṅgapañho dasamo.Samuddavaggo dutiyo.
 
 
 
-
+3. Pathavīvaggo
 1. Pathavīaṅgapañho
 1 .   
 
@@ -375,7 +375,7 @@ Pathavīvaggo tatiyo.
 
 
 
-
+4. Upacikāvaggo
 1. Upacikaṅgapañho
 1 .   
 
@@ -454,7 +454,7 @@ Hatthiṅgapañho dasamo.Upacikāvaggo catuttho.
 
 
 
-
+5. Sīhavaggo
 1. Sīhaṅgapañho
 1 .   
 
@@ -525,7 +525,7 @@ Sīhavaggo pañcamo.
 
 
 
-
+6. Makkaṭakavaggo
 1. Panthamakkaṭakaṅgapañho
 1 .  
 
@@ -600,7 +600,7 @@ Makkaṭakavaggo chaṭṭho.
 
 
 
-
+7. Kumbhavaggo
 1. Kumbhaṅgapañho
 1 .   dappo (sī.)
 

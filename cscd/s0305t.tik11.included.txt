@@ -1,5 +1,5 @@
 ﻿
-1 samādhivaggo
+
 
 ti  nissakkavacanaṃ parihāyantīti padaṃ apekkhitvā ti yathāgatādivasena yathābhūtaṃ nāma imasmiṃ sutte samāhito bhikkhave bhikkhu yathābhūtaṃ pajānātītiādi -saddena tathā yasmātiādisaṅgaho daṭṭhabbo tathā hi yathābhūtavasena kāraṇacchedo kato tathā yasmātiādivacanehi ti akkharā guṇāti keci ti nāmādipadāni ceva taṃsamudāyabhūtabyañjanāni ca
 
@@ -8,7 +8,7 @@ ti  nissakkavacanaṃ parihāyantīti padaṃ apekkhitvā ti yathāgatādivasena
  duggatito saṃsārato ca niyyāti etenāti niyyānaṃ saggamaggo mokkhamaggo ca tasmiṃ niyyāne niyuttā taṃ ettha atthīti  vacīduccaritasaṃkilesato vā niyyātīti ī-kārassa rassattaṃ ya-kārassa ka-kāraṃ katvā niyyānikā cetanāya saddhiṃ samphappalāpā veramaṇi tappaṭipakkhato aniyyānikā tassa bhāvo nti tirokaraṇabhūtaṃ ti aniccatāpaṭisaṃyuttacatusaccakammaṭṭhānabhāve nti dānasīlādinissitattā hitapaṭisaṃyuttaṃ
 ti  gharasanniveso visikhāgahaṇena ca gāmādigahaṇe viya tannivāsino visesato gahitā āgato gāmotiādīsu viya  tenāha ti kumbhaṭṭhānāpadesena kumbhadāsiyo vuttāti āha  ti ayāthāvato uppattiṭṭhitisaṃhārādivasena loko akkhāyati etenāti  iti iminā pakārena bhavo iminā abhavoti evaṃ pavattāya 
 
-2 dhammacakkappavattanavaggo
+
 
  osīdanauppatanaṭṭhānavasena  isipatananti ti saṅkhepato vuttamatthaṃ vivarituṃ tiādi vuttaṃ
 ti ettha yasmā dhammacakkappavattanatthaṃ ayaṃ āmantanā tasmā samudāgamato paṭṭhāya satthu pubbacaritaṃ saṅkhepeneva pakāsetuṃ vaṭṭatīti tiādi āraddhaṃ tattha ti mārañca mārabalañca bhañjitvā atha vā mārassa abbhantaraṃ bāhirañcāti duvidhaṃ balaṃ bhañjitvā ti ettha -saddo pubbante ñāṇaṃ aparante ñāṇantiādīsu (dha sa 1063) viya bhāgapariyāyoti āha ti ti uccāraṇasamakālaṃ  buddhānubhāvena  paripakkakusalamūlā saccābhisambodhāya katādhikārā
@@ -21,7 +21,7 @@ ti ekeneva pahārasaññitena kālena divasassa hi tatiyo bhāgo pahāro nāma p
 
 ti attano dukkhasabhāvassa kadācipi apariccajanena tathasabhāvaṃ tenāha nti ti dukkhasabhāvassa ti avañjhatāya nti na vitathaṃ tenāha ti ti samudayādisabhāvānupagamanena musā na hotīti añño aññathā na hotīti  tenāha tiādi
 
-3 koṭigāmavaggo
+
 
 ti  paṭivedhassa anurūpabodhābhāvena ti saccānaṃ paṭimukhaṃ vedhābhāvena
 
@@ -33,7 +33,7 @@ ti iminā paṭivedhañāṇena desanāñāṇena ca pariggahitattā  ariyassa b
 
 ti ekeneva ñāṇena catunnaṃ ariyasaccānaṃ ekajjhaṃ paṭivedho
 
-4 sīsapāvanavaggo
+
 
  adiṭṭhattā catunnaṃ ariyasaccānaṃ
 
@@ -43,7 +43,7 @@ nti  sassatādibhedaṃ ajjhāsayaṃ so hi idameva saccaṃ moghamaññanti gā
 
  pamāṇamajjhimassa purisassa hatthoti attho ti tasseva nāmaṃ
 
-5 papātavaggo
+
 
 nti lokasannivesapaṭisaṃyuttavīmaṃsāva lokacittantipi pāṭho taṃtaṃlokapariyāpannaṃ cittanti attho ti -saddena avuttānaṃ osadhitiṇavanappatiādīnaṃ saṅgaho nti edisaṃ aññampi taṃtaṃlokacittaṃ
 ti attatthaparatthato apagatavitakko addasa evaṃ adhiṭṭhahiṃsūti sambandho nti sambarena asurindena uppāditaṃ asuramāyaṃ yaṃ indajālantipi vuccati indassa mohanatthaṃ uppāditattā ti paridhāvetvā ti ne asure yathā so puriso passati evaṃ adhiṭṭhahiṃsu kasmā panete evaṃ adhiṭṭhahiṃsūti taṃ purisaṃ tattha tathānisinnaṃ disvā ayañca devoti āsaṅkantā tathā adhiṭṭhahitvā bhisamuḷālachiddehi pavisitvā attano asurabhavanaṃ gatā tenāha bhagavā  ti
@@ -54,23 +54,23 @@ nti ācariyaupāsanaṃ ācariyaṃ antevāsinā vā divase divase sikkhanavasen
 
 nti yadicchāvasena uppajjanakaṃ ti chiggaḷapadesena ti heṭṭhimayugassa chiggaḷapadesassa upari ti ubhinnampi chiddena ti catunnaṃ yugānaṃ chiddapadeseneva uparūpari ṭhitānaṃ chiddantarena kāṇakacchapassa gīvappavesanaṃ  adhiccatarasambhavaṃ tatopi adhiccatarasambhavo manussattalābho tato adhiccatamasambhavo ariyamaggapaṭilābhoti dassento āha ti
 
-6 abhisamayavaggavaṇṇanā
+
  tasmā tattha vuttanayeneva tassa attho veditabbo
-7 paṭhamaāmakadhaññapeyyālavaggo
+
 
  lokiyampi visuddhatthena ariyanti vattabbataṃ labhatīti ti vuttaṃ
 
 ti piṭṭhena kātabbasurā tathā  majjarasādibhūte kiṇṇe pakkhipitvā kattabbā surā ti mūlabhesajjasambhārehi saṃyuttā ti nāḷikerapupphādito assavanakaāsavo muddikaphalādito assavanakaāsavo tiādiattho tena madhvāsavaguḷāsavasambhārasaṃyutte saṅgaṇhāti nti yathāvuttasurāsavavinimuttaṃ
 
 ti kule jeṭṭhānaṃ mahāpitucūḷapitujeṭṭhabhātikādīnaṃ abhivādanapaccuṭṭhānaañjalikammasāmīcikammādivasena nīcavuttino
-8 dutiyaāmakadhaññapeyyālavaggo
+
 
  mūlabījantiādīsu  mūlameva bījanti  mūlabījaṃ etassātipi  tattha purimena bījagāmo vutto bījānaṃ samūhoti katvā dutiyena bhūtagāmo duvidhopeso sāmaññaniddesena mūlabījañca mūlabījañca mūlabījanti ekasesanayena vā bījattho veditabbo esa nayo sesesupi nti pabbabījaṃ bāhirapaccayantarasamavāye sadisaphaluppattiyā visesakāraṇabhāvato viruhanasamatthe sāraphale niruḷho bīja-saddo tadatthasiddhiyā mūlādīsupi kesuci pavattatīti tato nivattanatthaṃ ekena bīja-saddena visesetvā vuttaṃ nti rūparūpaṃ dukkhadukkhanti (saṃ ni 4327) ca yathā ti allatiṇassa ceva allarukkhādikassa ca -saddena osadhigacchalatādīnaṃ gahaṇaṃ
 
  aruṇuggamanato paṭṭhāya yāva majjhanhiko ayaṃ buddhādiariyānaṃ āciṇṇasamāciṇṇo bhojanassa kālo tadañño vikāloti āha  ti
 
 nti ganthimaṃ aganthimaṃ vā yaṃ kiñci pupphajātaṃ tathā pisitādibhedaṃ 
-9 tatiyaāmakadhaññapeyyālavaggo
+
 
  saṅkhepato  sabbapāpassa akaraṇantiādinayappavattaṃ (dīni 290 dhapa 183) bhagavato sāsanaṃ accantachandarāgapavattito naccādīnaṃ dassanaṃ na anulometīti āha ti attanā parehi ca payojiyamānaṃ  payojāpiyamānañca eteneva nacca-saddena gahitaṃ tathā gītavāditasaddehi cāti āha  ti -saddena gāyana-gāyāpana-vādana-vādāpanādīni saṅgaṇhāti dassanena cettha savanampi saṅgahitaṃ virūpekasesanayena yathāsakaṃ visayassa ālocanasabhāvatāya vā pañcannaṃ viññāṇānaṃ savanakiriyāyapi dassanasaṅkhepasabbhāvato icceva vuttaṃ avisūkabhūtassa gītassa savanaṃ kadāci vaṭṭatīti āha  ti tathā hi vuttaṃ  (khu pā aṭṭha 2pacchimapañcasikkhāpadavaṇṇanā)  dhammūpasaṃhitaṃ gītaṃ vaṭṭati gītūpasaṃhito dhammo na vaṭṭatīti
 
@@ -81,7 +81,7 @@ ti ucca-saddena samānatthaṃ ekaṃ saddantaraṃ seti etthāti  uccāsayana�
  nīvārādiupadhaññassa  sāliādimūladhaññantogadhattā vuttaṃ ti
 
  anujānāmi bhikkhave pañca vasāni bhesajjāni  acchavasaṃ macchavasaṃ susukāvasaṃ sūkaravasaṃ gadrabhavasanti (mahāva 262 pārā aṭṭha 623) vuttattā idaṃ uddissa anuññātaṃ nāma tassa pana kāle paṭiggahitanti (mahāva 262) vuttattā paṭiggahaṇaṃ vaṭṭatīti āha  ti vinayavasena upaparikkhitabbo tasmā samantapāsādikāya vinayaṭṭhakathāya vuttanayenettha vinicchayo veditabbo
-10 catutthaāmakadhaññapeyyālavaggo
+
 
  kassaci bhaṇḍassa gahaṇaṃ  dānaṃ  ti gāmantare santike ca gamanaṃ dūtakammanti vuccatīti yojanā  khuddakagamanaṃ
 

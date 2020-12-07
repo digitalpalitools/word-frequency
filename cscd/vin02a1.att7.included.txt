@@ -1,5 +1,5 @@
 ﻿
-1 lasuṇavaggo
+
 
 tiṃsakānantaraṃ  dhammā chasaṭṭhisatasaṅgahā
 saṅgītā ye ayaṃ dāni hoti tesampi vaṇṇanā
@@ -51,7 +51,7 @@ ti ārāme ṭhatvā antarārāme vā bahiārāme vā naccādīni passati vā su
 eḷakalomasamuṭṭhānaṃ  kiriyaṃ nosaññāvimokkhaṃ acittakaṃ lokavajjaṃ kāyakammaṃ akusalacittaṃ tivedananti
 
 
-2 andhakāravaggo
+
 
  andhakāravaggassa  paṭhamasikkhāpade  ti padīpacandasūriyaaggīsu ekenāpi anobhāsite tenevassa padabhājane anāloketi vuttaṃ ti gehassitakathaṃ katheyya
 ti na rahoassādāpekkhā rahoassādato aññavihitāva hutvā ñātiṃ vā pucchati dāne vā pūjāya vā manteti sesaṃ uttānameva theyyasatthasamuṭṭhānaṃ  kāyacittato kāyavācācittato ca samuṭṭhāti kiriyaṃ saññāvimokkhaṃ sacittakaṃ lokavajjaṃ kāyakammaṃ vacīkammaṃ akusalacittaṃ dvivedananti
@@ -90,7 +90,7 @@ tisamuṭṭhānaṃ  kiriyaṃ saññāvimokkhaṃ sacittakaṃ lokavajjaṃ k�
  dasame  sabbaṃ uttānameva dhuranikkhepasamuṭṭhānaṃ  kāyavācācittato samuṭṭhāti kiriyaṃ saññāvimokkhaṃ sacittakaṃ lokavajjaṃ kāyakammaṃ vacīkammaṃ akusalakammaṃ dukkhavedananti
 
 
-3 naggavaggo
+
 
  naggavaggassa  paṭhamasikkhāpade  ti brahmacariyena ciṇṇena atha vā brahmacariyassa caraṇenāti evaṃ karaṇatthe vā sāmiatthe vā upayogavacanaṃ veditabbaṃ ti idaṃ udakasāṭikaṃ sandhāya vuttaṃ na aññaṃ cīvaraṃ tasmā udakasāṭikāya acchinnāya vā naṭṭhāya vā naggāya nhāyantiyā anāpatti sacepi udakasāṭikacīvaraṃ mahagghaṃ hoti na sakkā nivāsetvā bahi gantuṃ evampi naggāya nhāyituṃ vaṭṭati sesamettha uttānameva
 eḷakalomasamuṭṭhānaṃ   kiriyaṃ nosaññāvimokkhaṃ acittakaṃ paṇṇattivajjaṃ kāyakammaṃ ticittaṃ tivedananti
@@ -133,7 +133,7 @@ nti bhikkhunisaṅgho jiṇṇacīvaro kathinānisaṃsamūlako mahālābhoti  e
 tisamuṭṭhānaṃ  kiriyaṃ saññāvimokkhaṃ sacittakaṃ lokavajjaṃ kāyakammaṃ vacīkammaṃ akusalacittaṃ tivedananti
 
 
-4 tuvaṭṭavaggo
+
 
  tuvaṭṭavaggassa  paṭhamasikkhāpade  nti nipajjeyyuṃ sesaṃ uttānameva eḷakalomasamuṭṭhānaṃ  kiriyaṃ nosaññāvimokkhaṃ acittakaṃ paṇṇattivajjaṃ kāyakammaṃ ticittaṃ tivedananti
 
@@ -166,7 +166,7 @@ ti sacepi dhuraṃ nikkhipitvā pacchā pakkamati āpattiyevāti  attho pavāret
 ti dasavidhe antarāye  paraṃ gacchissāmīti nikkhantā nadīpūro pana āgato corā vā magge honti megho vā uṭṭhāti nivattituṃ vaṭṭati sesaṃ uttānameva paṭhamapārājikasamuṭṭhānaṃ  akiriyaṃ saññāvimokkhaṃ sacittakaṃ lokavajjaṃ kāyakammaṃ akusalacittaṃ dukkhavedananti
 
 
-5 cittāgāravaggo
+
 
  cittāgāravaggassa  paṭhamasikkhāpade  nti rañño kīḷanagharaṃ nti kīḷanacittasālaṃ nti kīḷanaupavanaṃ nti kīḷanuyyānaṃ nti kīḷanapokkharaṇiṃ tasmāyeva padabhājane yattha katthaci rañño kīḷituntiādi vuttaṃ ti ettha padavāragaṇanāya dukkaṭaṃ ti ettha pana sace ekasmiṃyeva ṭhāne ṭhitā padaṃ anuddharamānā pañcapi passati ekameva pācittiyaṃ taṃ taṃ disābhāgaṃ oloketvā passantiyā pana pāṭekkā āpattiyo bhikkhussa pana sabbattha dukkaṭaṃ
 ti ajjhārāme rājāgārādīni karonti tāni passantiyā anāpatti ti piṇḍapātādīnaṃ atthāya gacchantiyā maggo hoti tāni passati anāpatti ti rañño santikaṃ kenaci karaṇīyena gantvā passati anāpatti ti kenaci upaddutā pavisitvā passati anāpatti sesaṃ uttānameva
@@ -207,7 +207,7 @@ padasodhammasamuṭṭhānaṃ  vācato vācācittato ca samuṭṭhāti kiriya�
  dasame ti padaṃ viseso sesaṃ navame vuttanayeneva veditabbaṃ saddhiṃ samuṭṭhānādīhīti
 
 
-6 ārāmavaggo
+
 
  ārāmavaggassa  paṭhamasikkhāpade  ti ettha paṭhamapāde dukkaṭaṃ dutiyapāde pācittiyaṃ
 ti paṭhamaṃ pavisantīnaṃ bhikkhunīnaṃ sīsaṃ anulokentī pavisati anāpatti ti yattha bhikkhuniyo paṭhamataraṃ pavisitvā sajjhāyacetiyavandanādīni karonti tattha tāsaṃ  santikaṃ gacchāmīti gantuṃ vaṭṭati ti kenaci upaddutā hoti evarūpāsu āpadāsu pavisituṃ vaṭṭati sesaṃ uttānameva
@@ -249,7 +249,7 @@ tiādīsu sace bhinda phālehīti sabbāni āṇāpeti so ca tatheva karoti cha 
 kathinasamuṭṭhānaṃ  kiriyākiriyaṃ nosaññāvimokkhaṃ  acittakaṃ paṇṇattivajjaṃ kāyakammaṃ vacīkammaṃ ticittaṃ tivedananti
 
 
-7 gabbhinivaggo
+
 
  gabbhinivaggassa  paṭhamasikkhāpade  ti kucchipaviṭṭhasattā
 
@@ -283,7 +283,7 @@ ti aññaṃ pariyesitvā na labhati sayaṃ gilānā hoti na sakkoti uddesādī
  dasame  ti na gahetvā gaccheyya ti imaṃ ayye gahetvā gacchāti aññaṃ na āṇāpeyya sesamettha uttānameva dhuranikkhepasamuṭṭhānaṃ  akiriyaṃ saññāvimokkhaṃ  sacittakaṃ lokavajjaṃ kāyakammaṃ vacīkammaṃ akusalacittaṃ dukkhavedananti
 
 
-8 kumāribhūtavaggo
+
 
  kumāribhūtavaggassa  paṭhamadutiyatatiyasikkhāpadāni tīṇi tīhi gihigatasikkhāpadehi sadisāni yā pana tā sabbapaṭhamā dve mahāsikkhamānā tā atikkantavīsativassāti veditabbā tā gihigatā vā hontu agihigatā vā sikkhamānā icceva vattabbā gihigatāti vā kumāribhūtāti vā na vattabbā gihigatāya dasavassakāle sikkhāsammutiṃ datvā dvādasavassakāle upasampadā kātabbā ekādasavassakāle datvā terasavassakāle kātabbā dvādasaterasacuddasapannarasasoḷasasattarasaaṭṭhārasavassakāle sammutiṃ datvā vīsativassakāle upasampadā kātabbā aṭṭhārasavassakālato paṭṭhāya ca panāyaṃ gihigatātipi kumāribhūtātipi vattuṃ vaṭṭati kumāribhūtā pana gihigatāti na vattabbā kumāribhūtā icceva vattabbā mahāsikkhamānā pana gihigatātipi vattuṃ na vaṭṭati kumāribhūtātipi vattuṃ na vaṭṭati sikkhāsammutidānavasena pana tissopi sikkhamānāti vattuṃ vaṭṭati
 
@@ -317,7 +317,7 @@ ti chandaṃ avissajjetvā avuṭṭhitāya anāpatti sesaṃ uttānameva tisamu
  terasame   ti ekantarike ekasmiṃ saṃvacchare dve vuṭṭhāpeti sesaṃ uttānameva samuṭṭhānādīnipi vuttasadisānevāti
 
 
-9 chattupāhanavaggo
+
 
  chattavaggassa  paṭhamasikkhāpade  ti maggagamane ekapayogeneva divasampi dhāreti ekāva āpatti sace kaddamādīni patvā upāhanā omuñcitvā chattameva dhārentī gacchati dukkaṭaṃ athāpi gacchādīni disvā chattaṃ apanāmetvā upāhanāruḷhāva gacchati dukkaṭameva sace chattampi apanāmetvā upāhanāpi omuñcitvā puna dhāreti puna pācittiyaṃ evaṃ payogagaṇanāya āpattiyo veditabbā sesaṃ uttānameva eḷakalomasamuṭṭhānaṃ  kiriyaṃ nosaññāvimokkhaṃ acittakaṃ paṇṇattivajjaṃ kāyakammaṃ ticittaṃ tivedananti
 

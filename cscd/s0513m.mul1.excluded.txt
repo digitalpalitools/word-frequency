@@ -1,5 +1,5 @@
 ﻿2. Dukanipāto
-
+1. Daḷhavaggo
 
 
 1 .
@@ -103,7 +103,7 @@ Daḷhavaggo paṭhamo.
 
 
 
-
+2. Santhavavaggo
 
 
 21 .
@@ -198,7 +198,7 @@ Santhavavaggo dutiyo.
 
 
 
-
+3. Kalyāṇavaggo
 
 
 41 .
@@ -295,7 +295,7 @@ Kalyāṇavaggo tatiyo.
 
 
 
-
+4. Asadisavaggo
 
 
 61 .
@@ -394,7 +394,7 @@ Asadisavaggo catuttho.
 
 
 
-
+5. Ruhakavaggo
 
 
 81 .
@@ -490,7 +490,7 @@ Ruhakavaggo pañcamo.
 
 
 
-
+6. Nataṃdaḷhavaggo
 
 
 101 .
@@ -595,7 +595,7 @@ Nataṃdaḷhavaggo chaṭṭho.
 
 
 
-
+7. Bīraṇathambhavaggo
 
 
 121 .
@@ -692,7 +692,7 @@ Bīraṇathambhavaggo sattamo.
 
 
 
-
+8. Kāsāvavaggo
 
 
 141 .
@@ -790,7 +790,7 @@ Kāsāvavaggo aṭṭhamo.
 
 
 
-
+9. Upāhanavaggo
 
 
 161 .
@@ -890,7 +890,7 @@ Upāhanavaggo navamo.
 
 
 
-
+10. Siṅgālavaggo
 
 
 182 .

@@ -1,5 +1,5 @@
 ﻿2. Saṅghādisesakaṇḍaṃ
-
+1. Sukkavissaṭṭhisikkhāpadaṃ
 Ime  kho panāyasmanto terasa saṅghādisesā
 Dhammā uddesaṃ āgacchanti.
 234 .   
@@ -230,7 +230,7 @@ pupphāvaḷiyaṃ (syā. ka.)
 
 
 Sukkavissaṭṭhisikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
-
+2. Kāyasaṃsaggasikkhāpadaṃ
 269 .   apāpuraṇaṃ (syā.) 
   sace hi (syā.) kuladhītāyo (sī. syā.)
  
@@ -374,7 +374,7 @@ Vinītavatthu
 Tena kho pana samayena aññataro bhikkhu  itthiṃ gahessāmīti vāyamitvā na chupi.
 
 Kāyasaṃsaggasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
-
+3. Duṭṭhullavācāsikkhāpadaṃ
 283 .     
 284 . ‘‘Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmaṃ duṭṭhullāhi vācāhi obhāseyya yathā taṃ yuvā yuvatiṃ methunupasaṃhitāhi, saṅghādiseso’’
 285 . Yo panā bhikkhū
@@ -424,7 +424,7 @@ dīghapāvāraṃ (syā.) dīghapāvāro (syā.)
 
 
 Duṭṭhullavācāsikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
-
+4. Attakāmapāricariyasikkhāpadaṃ
 290 .   
    
  
@@ -466,7 +466,7 @@ Vinītavatthu
 Tena  kho pana samayena aññatarā itthī kulūpakaṃ bhikkhuṃ etadavoca – ‘‘kathāhaṃ,
 
 Attakāmapāricariyasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
-
+5. Sañcarittasikkhāpadaṃ
 296 .   channo so kumārako imissā kumārikāyāti (syā.) 
 297 . khvayyā (syā.), khvāyyo (ka.)  
  
@@ -659,7 +659,7 @@ Vinītavatthu
 
 
 Sañcarittasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
-
+6. Kuṭikārasikkhāpadaṃ
 342 .   
  
 343 .   
@@ -764,7 +764,7 @@ pariyosāvāpeti (ka.)
 pariyosāvāpeti (ka.)
 364 .
 Kuṭikārasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
-
+7. Vihārakārasikkhāpadaṃ
 365 .     viheṭhessanti (katthaci) 
 366 . ‘‘Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena sassāmikaṃ attuddesaṃ bhikkhū abhinetabbā vatthudesanāya. Tehi bhikkhūhi vatthu desetabbaṃ anārambhaṃ saparikkamanaṃ. Sārambhe ce bhikkhu vatthusmiṃ aparikkamane mahallakaṃ vihāraṃ kāreyya bhikkhū vā anabhineyya vatthudesanāya, saṅghādiseso’’
 367 . Mahallako
@@ -807,7 +807,7 @@ Saṅghādiseso
 
 379 .
 Vihārakārasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
-
+8. Duṭṭhadosasikkhāpadaṃ
 380 . idaṃ vatthu cūḷava. 189   yañca kiñci (sī. ka.) 
  
 381 . 
@@ -875,7 +875,7 @@ Saṅghādiseso
 
 390 .
 Duṭṭhadosasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
-
+9. Dutiyaduṭṭhadosasikkhāpadaṃ
 391 .  chakalakaṃ (syā.)  
  
 
@@ -922,7 +922,7 @@ Saṅghādiseso
  
 408 .
 Dutiyaduṭṭhadosasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
-
+10. Saṅghabhedasikkhāpadaṃ
 409 . idaṃ vatthu cūḷava. 343    kaṭamorakatissako (sī. syā.) vīriyārabbhassa (ka.)  
   
 410 .   
@@ -951,7 +951,7 @@ Saṅghādiseso
 
 416 . 
 Saṅghabhedasikkhāpadaṃ niṭṭhitaṃ dasamaṃ.
-
+11. Bhedānuvattakasikkhāpadaṃ
 417 .    
 418 . ‘‘Tasseva kho pana bhikkhussa bhikkhū honti anuvattakā vaggavādakā eko vā dve vā tayo vā. Te evaṃ vadeyyuṃ – ‘māyasmanto etaṃ bhikkhuṃ kiñci avacuttha. Dhammavādī ceso bhikkhu, vinayavādī ceso bhikkhu. Amhākañceso bhikkhu chandañca ruciñca ādāya voharati jānāti no bhāsati amhākampetaṃ khamatī’ti, te bhikkhū bhikkhūhi evamassu vacanīyā – ‘māyasmanto evaṃ avacuttha, na ceso bhikkhu dhammavādī, na ceso bhikkhu vinayavādī, māyasmantānampi saṅghabhedo ruccittha, sametāyasmantānaṃ saṅghena, samaggo hi saṅgho sammodamāno  avivadamāno ekuddeso phāsu viharatī’ti. Evañca te bhikkhū bhikkhūhi vuccamānā tatheva paggaṇheyyuṃ, te bhikkhū bhikkhūhi yāvatatiyaṃ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamānā taṃ paṭinissajjeyyuṃ, iccetaṃ kusalaṃ, no ce paṭinissajjeyyuṃ, saṅghādiseso’’
 419 . Tasseva kho panā
@@ -976,7 +976,7 @@ Saṅghādiseso
 
 423 .
 Bhedānuvattakasikkhāpadaṃ niṭṭhitaṃ ekādasamaṃ.
-
+12. Dubbacasikkhāpadaṃ
 424 .    tiṇakaṭṭhapaṇṇakasaṭaṃ (ka.)  
 425 . ‘‘Bhikkhu paneva dubbacajātiko hoti uddesapariyāpannesu sikkhāpadesu bhikkhūhi sahadhammikaṃ vuccamāno attānaṃ avacanīyaṃ karoti – ‘mā maṃ āyasmanto kiñci avacuttha kalyāṇaṃ vā pāpakaṃ vā, ahaṃpāyasmante na kiñci vakkhāmi kalyāṇaṃ vā pāpakaṃ vā, viramathāyasmanto mama vacanāyā’ti, so bhikkhu bhikkhūhi evamassa vacanīyo – ‘māyasmā attānaṃ avacanīyaṃ akāsi, vacanīyamevāyasmā attānaṃ karotu, āyasmāpi bhikkhū vadetu sahadhammena, bhikkhūpi āyasmantaṃ vakkhanti sahadhammena. Evaṃ saṃvaddhā hi tassa bhagavato parisā yadidaṃ aññamaññavacanena  aññamaññavuṭṭhāpanenāti. Evañca so bhikkhuṃ bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ; no ce paṭinissajjeyya, saṅghādiseso’’
 426 . Bhikkhū paneva dubbacajātiko hotī 
@@ -1000,7 +1000,7 @@ Saṅghādiseso
 
 430 .  
 Dubbacasikkhāpadaṃ niṭṭhitaṃ dvādasamaṃ.
-
+13. Kuladūsakasikkhāpadaṃ
 431 . idaṃ vatthu cūḷava. 21  nāma bhikkhū (ka.) cūḷava. 293     purato dhāvanti (syā.) naccantiṃ (sī. syā.)
 432 .  
   
