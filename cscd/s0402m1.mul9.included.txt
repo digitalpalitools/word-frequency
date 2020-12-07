@@ -1,0 +1,24 @@
+﻿
+ dveme  bhikkhave bālā katame dve yo ca anāgataṃ bhāraṃ vahati yo ca āgataṃ bhāraṃ na vahati ime kho bhikkhave dve bālāti
+ dveme  bhikkhave paṇḍitā katame dve yo ca anāgataṃ bhāraṃ na vahati yo ca āgataṃ bhāraṃ vahati ime kho bhikkhave dve paṇḍitāti
+ dveme bhikkhave bālā katame dve yo ca akappiye kappiyasaññī yo ca kappiye akappiyasaññī ime kho bhikkhave  dve bālāti
+ dveme bhikkhave paṇḍitā katame dve yo ca akappiye akappiyasaññī yo ca kappiye kappiyasaññī ime kho bhikkhave dve paṇḍitāti
+ dveme bhikkhave bālā katame dve yo ca anāpattiyā āpattisaññī yo ca āpattiyā anāpattisaññī ime kho bhikkhave dve bālāti
+ dveme bhikkhave paṇḍitā katame dve yo ca anāpattiyā anāpattisaññī yo ca āpattiyā āpattisaññī ime kho bhikkhave dve paṇḍitāti
+ dveme  bhikkhave bālā katame dve yo ca adhamme dhammasaññī yo ca dhamme adhammasaññī ime kho bhikkhave dve bālāti
+ dveme bhikkhave paṇḍitā katame dve yo ca dhamme dhammasaññī yo ca adhamme adhammasaññī ime kho bhikkhave dve paṇḍitāti
+ dveme  bhikkhave bālā katame dve yo ca avinaye vinayasaññī yo ca vinaye avinayasaññī ime kho bhikkhave dve bālāti
+ dveme bhikkhave paṇḍitā katame dve yo ca avinaye  avinayasaññī yo ca vinaye vinayasaññī ime kho bhikkhave dve paṇḍitāti
+ dvinnaṃ  bhikkhave āsavā vaḍḍhanti katamesaṃ dvinnaṃ yo ca na kukkuccāyitabbaṃ kukkuccāyati yo ca kukkuccāyitabbaṃ na kukkuccāyati imesaṃ kho bhikkhave dvinnaṃ āsavā vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā na vaḍḍhanti katamesaṃ dvinnaṃ yo ca na kukkuccāyitabbaṃ na kukkuccāyati yo ca kukkuccāyitabbaṃ kukkuccāyati imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā vaḍḍhanti katamesaṃ dvinnaṃ yo ca akappiye kappiyasaññī yo ca kappiye akappiyasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā na vaḍḍhanti katamesaṃ dvinnaṃ yo ca akappiye akappiyasaññī yo ca kappiye kappiyasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā vaḍḍhanti katamesaṃ dvinnaṃ yo  ca āpattiyā anāpattisaññī yo ca anāpattiyā āpattisaññī imesaṃ kho bhikkhave dvinnaṃ āsavā vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā na vaḍḍhanti katamesaṃ dvinnaṃ yo ca āpattiyā āpattisaññī  yo ca anāpattiyā anāpattisaññī  imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā vaḍḍhanti katamesaṃ dvinnaṃ yo ca adhamme dhammasaññī yo ca dhamme adhammasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā na vaḍḍhanti katamesaṃ dvinnaṃ yo ca dhamme dhammasaññī yo ca adhamme adhammasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantīti
+ dvinnaṃ  bhikkhave āsavā vaḍḍhanti katamesaṃ dvinnaṃ yo ca avinaye vinayasaññī yo ca vinaye avinayasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā vaḍḍhantīti
+ dvinnaṃ bhikkhave āsavā na vaḍḍhanti katamesaṃ dvinnaṃ yo ca avinaye avinayasaññī yo ca vinaye vinayasaññī imesaṃ kho bhikkhave dvinnaṃ āsavā na vaḍḍhantīti
+
+
+3 tatiyapaṇṇāsakaṃ
