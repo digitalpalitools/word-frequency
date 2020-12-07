@@ -104,22 +104,26 @@ function ProcessFile {
     Write-Host "Processing $($file.FullName)... `t" -NoNewline
     $dstFilePath = $file.FullName.ToLower().Replace($srcRoot.ToLower(), $dstRoot)
 
-    $nodes = `
+    [array] $nodes = `
       Select-Xml -Path $file.FullName -XPath "//body/p" `
       | MarkNodesExcludedFromWC `
 
+    Write-Host "[$($nodes.Length) nodes]`t" -NoNewline
+
     $includedFilePath = [io.path]::ChangeExtension($dstFilePath, "included.txt")
-    $includedLines =
+    [array] $includedLines =
       $nodes `
       | GetAllIncludedText `
       | RemovePunctuation
     $includedLines | Out-File -FilePath $includedFilePath -Encoding utf8
 
     $excludedFilePath = [io.path]::ChangeExtension($dstFilePath, "excluded.txt")
-    $excludedLines =
+    [array] $excludedLines =
       $nodes `
       | GetAllExcludedText
     $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8
+
+    Write-Host "[I: $($includedLines.Length) E: $($excludedLines.Length)]`t" -NoNewline
 
     if ($includedLines.Length -ne $excludedLines.Length) {
       Write-Host "[Check failed!]" -ForegroundColor Red
@@ -140,4 +144,6 @@ function ProcessDirectory {
   } | ProcessFile $srcDir $dstDir
 }
 
+# dir "D:\src\dpt\cst\cscd\abh01a.att0.xml" | ProcessFile $srcDir $dstDir # Has 830 nodes
+# dir "D:\src\dpt\cst\cscd\vin07t.nrf9.xml" | ProcessFile $srcDir $dstDir # Has 1 node
 ProcessDirectory $srcDir $dstDir
