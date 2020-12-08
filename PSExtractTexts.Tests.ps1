@@ -12,6 +12,11 @@ BeforeAll {
 - TODO:
   - \- in the exclusion character class
   - () in the exclusion character class
+  - here's pattern to exclude, the vagga always ends with "tassuddānaṃ " (recitation of this) and a reciters verse. exclude that and whatever comes below it, normally 2-4 lines of verse
+  - [TODO] any line in any book that includes the word paṇṇāsakaṃ should be excluded, eg "catutthapaṇṇāsakaṃ samattaṃ"
+  - the brackets and everything in them can be excluded - exclude () and everything in them just for this file or all across?
+  - everything marked with <hi rend="bold"> should be included
+  - note within hi-bold <p rend="gatha1"><hi rend="bold">‘‘Dhīre</hi><pb ed="P" n="0.0124" /><hi rend="bold"> nirodhaṃ phusehi <note>phussehi (sī.)</note>, saññāvūpasamaṃ sukhaṃ;</hi></p>
 
 - Types:
   - Full tag excluded
@@ -22,8 +27,6 @@ BeforeAll {
 
 - Tests
   - For combinations of the above
-
-
 #>
 
 Describe "Get-TextFromNode" {
