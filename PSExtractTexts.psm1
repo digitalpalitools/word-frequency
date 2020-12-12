@@ -1,49 +1,51 @@
 $rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
 $nodeBackList = "hi", "pb", "note"
-$regExCharClassToExlude = "[.,?‘;’–-…]"
+$sequencesToRemove = "…pe…", ".", ",", "?", "‘", ";", "’", "–", "…"
 
 function Get-TextFromNode {
   [CmdletBinding()]
   param (
     [Parameter(ValueFromPipeline = $true)]
     [Xml.XmlNode]
-    $Node,
-    [Switch]
-    $ForInclusion
+    $Node
   )
 
   Process {
     if ($_.rend -in $rendBlackList) {
-      if ($ForInclusion) {
-        ""
-      } else {
-        $_.InnerText
-      }
-
+      "", (($_.ChildNodes | ForEach-Object { $_.InnerText }) -join "")
       return
     }
 
-    $text = $node.InnerXml # Keep it InnerXml so we catch any children that haven't been removed.
-    $excludedText = ""
-    [array] $subNodesToExclude = Select-Xml -Xml $node -XPath "*" | Where-Object {
-      $nodeBackList -contains $_.Node.Name
-    }
-    if ($subNodesToExclude) {
-      if ($ForInclusion) {
-        # NOTE: Cloning so as to avoid mutating the original node
-        $nodeClone = (Select-Xml -Xml ([xml]$node.OuterXml) -XPath "*")[0]
-        $toRemove = $nodeClone.Node.ChildNodes | Where-Object { $nodeBackList -contains $_.Name }
-        $toRemove | ForEach-Object { $_.ParentNode.RemoveChild($_) } | Out-Null
-        $text = $nodeClone.Node.InnerXml # Keep it InnerXml so we catch any children that haven't been removed.
+    [array] $childNodes = $_.ChildNodes
+    $includedSubNodes = [object[]]::new($childNodes.Length)
+    $excludedSubNodes = [object[]]::new($childNodes.Length)
+
+    for ($i=0; $i -lt $childNodes.Length; $i++) {
+      if ($nodeBackList -notcontains $childNodes[$i].Name) {
+        $includedSubNodes[$i] = $childNodes[$i]
       } else {
-        $excludedText = ($subNodesToExclude | ForEach-Object { $_.Node.InnerText }) -join " "
+        $excludedSubNodes[$i] = $childNodes[$i]
       }
     }
 
-    if ($ForInclusion) {
-      $text.ToLowerInvariant().Replace("…pe…", "") -replace $regExCharClassToExlude
-    } else {
-      $excludedText
+    [array] $includedSubNodeTexts = $includedSubNodes | ForEach-Object { "$($_.InnerText)" }
+    [array] $excludedSubNodeTexts = $excludedSubNodes | ForEach-Object { "$($_.InnerText)" }
+    for ($i=0; $i -lt $childNodes.Length; $i++) {
+      $text = $includedSubNodeTexts[$i]
+      $includedSubNodeTexts[$i] = ""
+      while ($text) {
+        $seq = $sequencesToRemove | Where-Object { $text.StartsWith($_) } | Select-Object -First 1
+
+        if ($seq) {
+          $excludedSubNodeTexts[$i] = $excludedSubNodeTexts[$i] + $seq
+          $text = $text.Substring($seq.Length)
+        } else {
+          $includedSubNodeTexts[$i] = $includedSubNodeTexts[$i] + $text[0]
+          $text = $text.Substring(1)
+        }
+      }
     }
+
+    ($includedSubNodeTexts -join "").ToLowerInvariant(), ($excludedSubNodeTexts -join "")
   }
 }
