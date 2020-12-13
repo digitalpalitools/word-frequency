@@ -34,7 +34,7 @@
 ’;
 ’,.,..?,....
 –
-‘?;
+‘(?);
 ;’;
 ‘,
 ;
@@ -66,10 +66,10 @@
 ..
 ’’,,,.’...
 ’,.?..
-’.
+(Dosinā)’.
 ’’.
 .
-.
+(Vayahaṃ).
 ’’
 ’’’.
 ’.
@@ -80,10 +80,10 @@
 …pe….
 .
 …pe…’’.
-.?’’’’’’’’..
+(Saṅkhā).?’’’’’’’’..
 ?.…pe….
-.
-.…pe…..…pe…..
+(Paññatti).
+(Vohāro).…pe…..…pe…..
 .
 ’.
 ’’..
@@ -148,7 +148,7 @@ Parīnibbānapañho catutho.
 ’.
 ’’’,.
 ’’’’’.
-.
+(Kissa).
 ’.,.?’’.
 
 .,.
@@ -180,7 +180,7 @@ Koṭivaḍḍhanapañho tatiyo.
 Athi-keci-sañjānanapañho catutho.
 .’.
 ’.’..
-.
+(Uttarāraṇi).
 .
 .
 .
@@ -224,7 +224,7 @@ Nirodhanibbānapañho chaṭṭho.
 ’’’.?.’.
 Sakkā buddhānuttarapañho tatiyo.
 ’’,.
-’.,.
+(Buddhapaññatti)’.,.
 ’’?,..
 .
 .
@@ -572,7 +572,7 @@ Bodhisattādhikasamapañho sattamo.
 Amarādevinimantanapañho aṭṭhamo.
 .
 Arahantasabhāyanapañho navamo.
-’.?
+’.(?)
 Sakyopamāharaṇapañho dasamo.
 Dasapañhapaṭimaṇḍitacatuthavaggavaṇṇanā samattā.
 ’.
@@ -725,27 +725,27 @@ Caturāsītipañhapaṭimaṇḍitameṇḍakapañhavaṇṇanā samattā.
 ’?’.
 
 ’.
-.
-..
-.
-.
-.
-.
-..
-.
-..
-..
-..
-.–.
-..
-.
+(Athasadassanā).
+(Guṇaparidīpanī)..
+(Niggahadesanā).
+(Sampahaṃsanā).
+(Cariyāvodānanidassanā).
+(Pucchāvissajjanā).
+(Anusāsanā)..
+(Puggalavisodhanā).
+(Ajjhāsayaparipūraṇā)..
+(Pavenisadassanakathā)..
+(Parappavādamaddanā)..
+(Upanissayapaccayanidassanā).–.
+(Tuṭṭhākārasadassanā)..
+(Dhammasabhāvaguṇanidassanā).
 ’.
 ..
-...
-..
+(Sāpatattikathā)...
+(Anāpattikathā)..
 ’
 .’.
-.’’.
+(Sammutikathā).’’.
 ’’?
 ,
 ’.
@@ -771,7 +771,7 @@ Palāsajātakaṃ samattaṃ.
 ‘‘?‘‘’’,’’.’…pe…’’..
 ...’?‘‘…pe…’’..
 ‘‘..‘‘.‘‘…pe…’’...
-..’’.‘‘…pe…’’...
+..’’(tittirajātakaṃ).‘‘…pe…’’...
 ‘‘..’’.‘‘…pe…’’..
 ..‘‘.‘‘…pe…’’’’’..
 .’’.‘‘…pe…’’.
@@ -884,7 +884,7 @@ Milidapañhe ṭhitā bāvīsati gāthā samattā.
 
 ’;
 ,
-;
+;(Jātakagāthā)
 
 ,
 
@@ -894,38 +894,38 @@ Milidapañhe ṭhitā bāvīsati gāthā samattā.
 
 ,
 
-’;
+’;(Jātakagāthā)
 ’,
-’;
+’;(Jātakagāthā)
 ’,
 
 ,
-;
+;(Jinabhāsitā minidena vuttā)
 ,
-;
+;(Jātakagāthā lomakassapena vuttā)
 
 ,
 
-’;
+’;(Jātakagāthā chaddantanāgarājena vuttā)
 
 ,
 
-;
+;(Suttānipātagāthā jinabhāsitā)
 ,
-’;
+’;(Khadhakagāthā jinabhāsitā)
 ,
 ;
 ’,
 ;
+(Dve gāthā māṇavakadevaputtena vuttā nāgasenatherena vuttā)
+,
+’;(Ayaṃ gāthā sāriputtatherenābhatā)
+,
+’’;(Jinabhāsitā milidena vuttā)
 
 ,
-’;
-,
-’’;
 
-,
-
-’;
+’;(Ayaṃ nāgasenena ābhatā)
 ,
 ;
 ,
@@ -1162,17 +1162,17 @@ Milidapañhaṭīkā samattā.
 ’
 ;
 
-?
+(?)
 
 ;
 
 ,
 
 ;
-?
+(?)
 ,
 
-?;
+(?);
 
 ,
 
@@ -1182,12 +1182,12 @@ Milidapañhaṭīkā samattā.
 
 ;
 ’
-?
+(?)
 
-?
+(?)
 
 ,
-?
+(?)
 ;
 ’
 ,
@@ -1200,7 +1200,7 @@ Milidapañhaṭīkā samattā.
 
 ,
 
-?
+(?)
 
 ,
 
@@ -1215,9 +1215,9 @@ Milidapañhaṭīkā samattā.
 ;
 
 ,
+(vata);
 ;
-;
-’?
+’(?)
 ,
 
 ’;

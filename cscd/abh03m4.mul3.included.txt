@@ -4,262 +4,262 @@
  aṭṭhārasa  dhātuyo  cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
 
 
- (ka) cakkhu cakkhudhātu
-(kha) cakkhudhātu cakkhu
-(ka) sotaṃ sotadhātu
-(kha) sotadhātu sotaṃ
-(ka) cakkhuviññāṇaṃ  cakkhuviññāṇadhātu
-(kha) cakkhuviññāṇadhātu cakkhuviññāṇaṃ
-(ka) mano manodhātu
-(kha) manodhātu mano
-(ka) manoviññāṇaṃ manoviññāṇadhātu
-(kha) manoviññāṇadhātu manoviññāṇaṃ
-(ka) dhammo dhammadhātu
-(kha) dhammadhātu dhammo
+  cakkhu cakkhudhātu
+ cakkhudhātu cakkhu
+ sotaṃ sotadhātu
+ sotadhātu sotaṃ
+ cakkhuviññāṇaṃ  cakkhuviññāṇadhātu
+ cakkhuviññāṇadhātu cakkhuviññāṇaṃ
+ mano manodhātu
+ manodhātu mano
+ manoviññāṇaṃ manoviññāṇadhātu
+ manoviññāṇadhātu manoviññāṇaṃ
+ dhammo dhammadhātu
+ dhammadhātu dhammo
 
- (ka) na  cakkhu na cakkhudhātu
-(kha) na cakkhudhātu na cakkhu
-(ka) na sotaṃ na sotadhātu
-(kha) na sotadhātu na sotaṃ
-(ka) na cakkhuviññāṇaṃ na cakkhuviññāṇadhātu
-(kha) na cakkhuviññāṇadhātu na cakkhuviññāṇaṃ
-(ka) na mano na manodhātu
-(kha) na manodhātu na mano
-(ka) na manoviññāṇaṃ na manoviññāṇadhātu
-(kha) na manoviññāṇadhātu na manoviññāṇaṃ
-(ka) na dhammo na dhammadhātu
-(kha) na dhammadhātu na dhammo
-
-
- (ka) cakkhu  cakkhudhātu
-(kha) dhātū  sotadhātu
-(ka) cakkhu cakkhudhātu
-(kha) dhātū dhammadhātu
-(yathā āyatanayamake cakkaṃ bandhitaṃ evamidha cakkaṃ bandhitabbaṃ)
-
- (ka) na cakkhu na cakkhudhātu
-(kha) na dhātū na sotadhātu
-(ka) na cakkhu na cakkhudhātu
-(kha) na dhātū na ghānadhātu
-(ka) na cakkhu na cakkhudhātu
-(kha) na dhātū na dhammadhātu
-(ka) na dhammo na dhammadhātu
-(kha) na dhātū na cakkhudhātu
-(ka) na dhammo na dhammadhātu
-(kha) na dhātū na manoviññāṇadhātu (cakkaṃ bandhitabbaṃ)
+  na  cakkhu na cakkhudhātu
+ na cakkhudhātu na cakkhu
+ na sotaṃ na sotadhātu
+ na sotadhātu na sotaṃ
+ na cakkhuviññāṇaṃ na cakkhuviññāṇadhātu
+ na cakkhuviññāṇadhātu na cakkhuviññāṇaṃ
+ na mano na manodhātu
+ na manodhātu na mano
+ na manoviññāṇaṃ na manoviññāṇadhātu
+ na manoviññāṇadhātu na manoviññāṇaṃ
+ na dhammo na dhammadhātu
+ na dhammadhātu na dhammo
 
 
- (ka) cakkhu  dhātu
-(kha) dhātū cakkhu
-(ka) sotaṃ dhātu
-(kha) dhātū sotaṃ
+  cakkhu  cakkhudhātu
+ dhātū  sotadhātu
+ cakkhu cakkhudhātu
+ dhātū dhammadhātu
+
+
+  na cakkhu na cakkhudhātu
+ na dhātū na sotadhātu
+ na cakkhu na cakkhudhātu
+ na dhātū na ghānadhātu
+ na cakkhu na cakkhudhātu
+ na dhātū na dhammadhātu
+ na dhammo na dhammadhātu
+ na dhātū na cakkhudhātu
+ na dhammo na dhammadhātu
+ na dhātū na manoviññāṇadhātu 
+
+
+  cakkhu  dhātu
+ dhātū cakkhu
+ sotaṃ dhātu
+ dhātū sotaṃ
 ghānaṃ dhātu jivhā dhātu kāyo dhātu rūpaṃ dhātu saddo dhātu gandho dhātu raso dhātu phoṭṭhabbo dhātu
-(ka) cakkhuviññāṇaṃ dhātu
-(kha) dhātū cakkhuviññāṇaṃ
-(ka) sotaviññāṇaṃ dhātu
-(kha) dhātū sotaviññāṇaṃ
+ cakkhuviññāṇaṃ dhātu
+ dhātū cakkhuviññāṇaṃ
+ sotaviññāṇaṃ dhātu
+ dhātū sotaviññāṇaṃ
  ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ
-(ka) mano dhātu
-(kha) dhātū mano
-(ka) manoviññāṇaṃ dhātu
-(kha) dhātū manoviññāṇaṃ
-(ka) dhammo dhātu
-(kha) dhātū dhammo
+ mano dhātu
+ dhātū mano
+ manoviññāṇaṃ dhātu
+ dhātū manoviññāṇaṃ
+ dhammo dhātu
+ dhātū dhammo
 
- (ka) na  cakkhu na dhātu
-(kha) na dhātū na cakkhu
-(ka) na sotaṃ na dhātu
-(kha) na dhātū na sotaṃ
+  na  cakkhu na dhātu
+ na dhātū na cakkhu
+ na sotaṃ na dhātu
+ na dhātū na sotaṃ
  na ghānaṃ na jivhā na kāyo na rūpaṃ  na saddo na gandho na raso na phoṭṭhabbo
-(ka) na cakkhuviññāṇaṃ na dhātu
-(kha) na dhātū na cakkhuviññāṇaṃ
+ na cakkhuviññāṇaṃ na dhātu
+ na dhātū na cakkhuviññāṇaṃ
  na sotaviññāṇaṃ na ghānaviññāṇaṃ na jivhāviññāṇaṃ
-(ka) na kāyaviññāṇaṃ na dhātu
-(kha) na dhātū na kāyaviññāṇaṃ
-(ka) na mano na dhātu
-(kha) na  dhātū na mano
-(ka) na manoviññāṇaṃ na dhātu
-(kha) na dhātū na manoviññāṇaṃ
-(ka) na dhammo na dhātu
-(kha) na dhātū na dhammo
+ na kāyaviññāṇaṃ na dhātu
+ na dhātū na kāyaviññāṇaṃ
+ na mano na dhātu
+ na  dhātū na mano
+ na manoviññāṇaṃ na dhātu
+ na dhātū na manoviññāṇaṃ
+ na dhammo na dhātu
+ na dhātū na dhammo
 
 
- (ka) cakkhu dhātu
-(kha) dhātū sotaṃ
-(ka) cakkhu dhātu
-(kha) dhātū dhammo
-(ka) dhammo  dhātu
-(kha) dhātū cakkhu
-(ka) dhammo dhātu
-(kha) dhātū manoviññāṇaṃ (cakkaṃ bandhitabbaṃ)
+  cakkhu dhātu
+ dhātū sotaṃ
+ cakkhu dhātu
+ dhātū dhammo
+ dhammo  dhātu
+ dhātū cakkhu
+ dhammo dhātu
+ dhātū manoviññāṇaṃ 
 
- (ka) na  cakkhu na dhātu
-(kha) na dhātū na sotaṃ
-(ka) na cakkhu na dhātu
-(kha) na dhātū na ghānaṃ
-(ka) na cakkhu na dhātu
-(kha) na dhātū na dhammo
-(ka) na dhammo na dhātu
-(kha) na dhātū na cakkhu
-(ka) na dhammo na dhātu
-(kha) na dhātū na manoviññāṇaṃ (cakkaṃ bandhitabbaṃ)
-
-
+  na  cakkhu na dhātu
+ na dhātū na sotaṃ
+ na cakkhu na dhātu
+ na dhātū na ghānaṃ
+ na cakkhu na dhātu
+ na dhātū na dhammo
+ na dhammo na dhātu
+ na dhātū na cakkhu
+ na dhammo na dhātu
+ na dhātū na manoviññāṇaṃ 
 
 
- (ka) cakkhu  cakkhudhātūti
+
+
+  cakkhu  cakkhudhātūti
 dibbacakkhu paññācakkhu cakkhu na cakkhudhātu cakkhudhātu cakkhu ceva cakkhudhātu ca
-(kha) cakkhudhātu cakkhūti āmantā
-(ka) sotaṃ sotadhātūti
+ cakkhudhātu cakkhūti āmantā
+ sotaṃ sotadhātūti
 dibbasotaṃ taṇhāsotaṃ sotaṃ na sotadhātu sotadhātu sotañceva sotadhātu ca
-(kha) sotadhātu sotanti āmantā
-(ka) ghānaṃ ghānadhātūti āmantā
-(kha) ghānadhātu ghānanti āmantā (jivhāpi ghānadhātusadisā)
-(ka) kāyo kāyadhātūti
+ sotadhātu sotanti āmantā
+ ghānaṃ ghānadhātūti āmantā
+ ghānadhātu ghānanti āmantā 
+ kāyo kāyadhātūti
 kāyadhātuṃ ṭhapetvā avaseso kāyo  na kāyadhātu kāyadhātu kāyo  ceva kāyadhātu ca
-(kha) kāyadhātu kāyoti āmantā
-(ka) rūpaṃ rūpadhātūti
+ kāyadhātu kāyoti āmantā
+ rūpaṃ rūpadhātūti
 rūpadhātuṃ ṭhapetvā avasesaṃ rūpaṃ na rūpadhātu rūpadhātu rūpañceva rūpadhātu ca
-(kha) rūpadhātu rūpanti āmantā (saddo ghānasadiso)
-(ka) gandho  gandhadhātūti
+ rūpadhātu rūpanti āmantā 
+ gandho  gandhadhātūti
 sīlagandho samādhigandho paññāgandho gandho na gandhadhātu gandhadhātu gandho ceva gandhadhātu ca
-(kha) gandhadhātu gandhoti āmantā
-(ka) raso rasadhātūti
+ gandhadhātu gandhoti āmantā
+ raso rasadhātūti
 attharaso dhammaraso vimuttiraso raso na rasadhātu rasadhātu raso ceva rasadhātu ca
-(kha) rasadhātu rasoti āmantā (phoṭṭhabbo ghānasadiso)
-(ka) cakkhuviññāṇaṃ cakkhuviññāṇadhātūti āmantā
-(kha) cakkhuviññāṇadhātu cakkhuviññāṇanti āmantā
+ rasadhātu rasoti āmantā 
+ cakkhuviññāṇaṃ cakkhuviññāṇadhātūti āmantā
+ cakkhuviññāṇadhātu cakkhuviññāṇanti āmantā
 sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ
-(ka) mano manodhātūti
+ mano manodhātūti
 manodhātuṃ ṭhapetvā avaseso mano na manodhātu manodhātu mano ceva manodhātu ca
-(kha) manodhātu manoti āmantā
-(ka) manoviññāṇaṃ manoviññāṇadhātūti āmantā
-(kha) manoviññāṇadhātu manoviññāṇanti āmantā
-(ka) dhammo dhammadhātūti
+ manodhātu manoti āmantā
+ manoviññāṇaṃ manoviññāṇadhātūti āmantā
+ manoviññāṇadhātu manoviññāṇanti āmantā
+ dhammo dhammadhātūti
 dhammadhātuṃ ṭhapetvā avaseso dhammo na dhammadhātu dhammadhātu dhammo ceva dhammadhātu ca
-(kha) dhammadhātu dhammoti āmantā
+ dhammadhātu dhammoti āmantā
 
- (ka) na  cakkhu na cakkhudhātūti āmantā
-(kha) na cakkhudhātu na cakkhūti
+  na  cakkhu na cakkhudhātūti āmantā
+ na cakkhudhātu na cakkhūti
 dibbacakkhu paññācakkhu na cakkhudhātu cakkhu cakkhuñca cakkhudhātuñca ṭhapetvā avasesaṃ na ceva cakkhu na ca cakkhudhātu
-(ka) na sotaṃ na  sotadhātūti āmantā
-(kha) na sotadhātu na sotanti
+ na sotaṃ na  sotadhātūti āmantā
+ na sotadhātu na sotanti
 dibbasotaṃ taṇhāsotaṃ na sotadhātu sotaṃ sotañca sotadhātuñca ṭhapetvā avasesaṃ na ceva sotaṃ na ca sotadhātu
-(ka) na  ghānaṃ na ghānadhātūti āmantā
-(kha) na ghānadhātu na ghānanti āmantā
+ na  ghānaṃ na ghānadhātūti āmantā
+ na ghānadhātu na ghānanti āmantā
 na jivhā (saṃkhittaṃ  ubhato āmantā)
-(ka) na kāyo na kāyadhātūti āmantā
-(kha) na kāyadhātu na kāyoti
+ na kāyo na kāyadhātūti āmantā
+ na kāyadhātu na kāyoti
 kāyadhātuṃ ṭhapetvā avaseso na kāyadhātu kāyo kāyañca kāyadhātuñca ṭhapetvā avaseso  na ceva kāyo na ca kāyadhātu
-(ka) na rūpaṃ na rūpadhātūti āmantā
-(kha) na rūpadhātu na rūpanti
+ na rūpaṃ na rūpadhātūti āmantā
+ na rūpadhātu na rūpanti
 rūpadhātuṃ ṭhapetvā avasesaṃ na rūpadhātu rūpaṃ rūpañca rūpadhātuñca ṭhapetvā avasesaṃ na ceva rūpaṃ na ca rūpadhātu
 na saddo na gandho na gandhadhātūti āmantā
 na gandhadhātu na gandhoti
 sīlagandho samādhigandho paññāgandho na gandhadhātu gandho gandhañca gandhadhātuñca ṭhapetvā avaseso na ceva gandho na ca gandhadhātu
-(ka) na  raso na rasadhātūti āmantā
-(kha) na rasadhātu na rasoti
+ na  raso na rasadhātūti āmantā
+ na rasadhātu na rasoti
 attharaso dhammaraso vimuttiraso na rasadhātu raso rasañca rasadhātuñca ṭhapetvā avaseso na ceva raso na ca rasadhātu
 na phoṭṭhabbo na cakkhuviññāṇaṃ na cakkhuviññāṇadhātūti āmantā
 na cakkhuviññāṇadhātu na cakkhuviññāṇanti āmantā
 na sotaviññāṇaṃ na ghānaviññāṇaṃ na jivhāviññāṇaṃ na kāyaviññāṇaṃ
-(ka) na mano na manodhātūti āmantā
-(kha) na manodhātu na manoti
+ na mano na manodhātūti āmantā
+ na manodhātu na manoti
 manodhātuṃ ṭhapetvā  avaseso na manodhātu mano manañca manodhātuñca ṭhapetvā avaseso na ceva mano na ca manodhātu
-(ka) na manoviññāṇaṃ na manoviññāṇadhātūti āmantā
-(kha) na manoviññāṇadhātu na manoviññāṇanti āmantā
-(ka) na dhammo na dhammadhātūti āmantā
-(kha) na dhammadhātu na dhammoti
+ na manoviññāṇaṃ na manoviññāṇadhātūti āmantā
+ na manoviññāṇadhātu na manoviññāṇanti āmantā
+ na dhammo na dhammadhātūti āmantā
+ na dhammadhātu na dhammoti
 dhammadhātuṃ ṭhapetvā avaseso na dhammadhātu dhammo dhammañca dhammadhātuñca ṭhapetvā avaseso na ceva dhammo na ca dhammadhātu
 
 
- (ka) cakkhu  cakkhudhātūti
+  cakkhu  cakkhudhātūti
 dibbacakkhu paññācakkhu cakkhu na cakkhudhātu cakkhudhātu cakkhu ceva cakkhudhātu ca
-(kha) dhātū  sotadhātūti
+ dhātū  sotadhātūti
 sotadhātu dhātu ceva sotadhātu ca avasesā dhātū  na sotadhātu
-(ka) cakkhu cakkhudhātūti
+ cakkhu cakkhudhātūti
 dibbacakkhu paññācakkhu cakkhu na cakkhudhātu cakkhudhātu cakkhu ceva cakkhudhātu ca dhātū ghānadhātu dhātū dhammadhātūti
 dhammadhātu dhātu ceva dhammadhātu ca avasesā dhātū na dhammadhātu
-(yathā āyatanayamake paṇṇatti evaṃ dhātuyamakepi paṇṇatti cakkaṃ bandhitabbaṃ)
 
- (ka) na cakkhu na cakkhudhātūti āmantā
-(kha) na dhātū na sotadhātūti āmantā
+
+  na cakkhu na cakkhudhātūti āmantā
+ na dhātū na sotadhātūti āmantā
 na cakkhu na cakkhudhātūti āmantā
 na dhātū na ghānadhātu na dhātū na dhammadhātūti āmantā
-(cakkaṃ bandhitabbaṃ sabbe āmantā ubhatopi sesepi)
 
 
- (ka) cakkhu  dhātūti āmantā
-(kha) dhātū cakkhudhātūti
+
+  cakkhu  dhātūti āmantā
+ dhātū cakkhudhātūti
 cakkhudhātu dhātu ceva cakkhudhātu ca avasesā dhātū na cakkhudhātu
 sotaṃ dhātūti āmantā
 ghānaṃ jivhā kāyo rūpaṃ saddo gandho raso phoṭṭhabbo
-(ka) cakkhuviññāṇaṃ dhātūti āmantā
-(kha) dhātū cakkhuviññāṇadhātūti
+ cakkhuviññāṇaṃ dhātūti āmantā
+ dhātū cakkhuviññāṇadhātūti
 cakkhuviññāṇadhātu dhātu ceva cakkhuviññāṇadhātu ca avasesā dhātū  na  cakkhuviññāṇadhātu sotaviññāṇaṃ ghānaviññāṇaṃ jivhāviññāṇaṃ kāyaviññāṇaṃ
-(ka) mano dhātūti āmantā
-(kha) dhātū manodhātūti
+ mano dhātūti āmantā
+ dhātū manodhātūti
 manodhātu dhātu ceva manodhātu ca avasesā dhātū na manodhātu
-(ka) manoviññāṇaṃ dhātūti āmantā
-(kha) dhātū manoviññāṇadhātūti
+ manoviññāṇaṃ dhātūti āmantā
+ dhātū manoviññāṇadhātūti
 manoviññāṇadhātu dhātu ceva manoviññāṇadhātu ca avasesā dhātū na manoviññāṇadhātu
-(ka) dhammo dhātūti āmantā
-(kha) dhātū dhammadhātūti
+ dhammo dhātūti āmantā
+ dhātū dhammadhātūti
 dhammadhātu dhātu ceva dhammadhātu ca avasesā dhātū na dhammadhātu
 
- (ka) na cakkhu na dhātūti
+  na cakkhu na dhātūti
 cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu dhātu cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātū
-(kha) na dhātū na cakkhūti āmantā
+ na dhātū na cakkhūti āmantā
 na sotaṃ na dhātūti
 sotaṃ ṭhapetvā ghānaṃ ṭhapetvā jivha ṭhapetvā
-(ka) na kāyo na dhātūti āmantā
-(kha) na dhātū na kāyadhātūti āmantā
+ na kāyo na dhātūti āmantā
+ na dhātū na kāyadhātūti āmantā
 na rūpaṃ na dhātūti
 rūpaṃ ṭhapetvā saddaṃ gandhaṃ rasaṃ phoṭṭhabbaṃ cakkhuviññāṇaṃ  manoviññāṇaṃ ṭhapetvā
-(ka) na  dhammo na dhātūti āmantā
-(kha) na dhātū na dhammadhātūti āmantā
+ na  dhammo na dhātūti āmantā
+ na dhātū na dhammadhātūti āmantā
 
 
- (ka) cakkhu dhātūti āmantā
-(kha) dhātū sotadhātūti
+  cakkhu dhātūti āmantā
+ dhātū sotadhātūti
 sotadhātu dhātu ceva sotadhātu ca avasesā dhātū na sotadhātu
 cakkhu dhātūti āmantā
 dhātū ghānadhātu dhātū dhammadhātūti
-dhammadhātu dhātu ceva dhammadhātu ca avasesā dhātū na dhammadhātu (cakkaṃ bandhitabbaṃ)
+dhammadhātu dhātu ceva dhammadhātu ca avasesā dhātū na dhammadhātu 
 
- (ka) na  cakkhu na dhātūti
+  na  cakkhu na dhātūti
 cakkhuṃ ṭhapetvā avasesā dhātū na cakkhudhātu cakkhuñca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu
-(kha) na dhātū na sotadhātūti āmantā
+ na dhātū na sotadhātūti āmantā
 na cakkhu na dhātūti
 cakkhuṃ ṭhapetvā avasesā dhātū na cakkhu dhātu cakkhu ca dhātuñca ṭhapetvā avasesā na ceva cakkhu na ca dhātu na dhātū na ghānadhātu na dhātū na dhammadhātūti āmantā
-(ka) na dhammo na dhātūti āmantā
-(kha) na dhātū na cakkhudhātūti āmantā
+ na dhammo na dhātūti āmantā
+ na dhātū na cakkhudhātūti āmantā
 na dhammo na dhātūti āmantā
-na  dhātū na sotadhātu na dhātū na manoviññāṇadhātūti āmantā (cakkaṃ bandhitabbaṃ)
-(yathā āyatanayamakassa paṇṇatti evaṃ dhātuyamakassa paṇṇatti vitthāretabbā)
+na  dhātū na sotadhātu na dhātū na manoviññāṇadhātūti āmantā 
 
 
 
 
- (ka) yassa  cakkhudhātu uppajjati tassa sotadhātu uppajjatīti
+
+  yassa  cakkhudhātu uppajjati tassa sotadhātu uppajjatīti
 sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati no ca tesaṃ sotadhātu uppajjati sacakkhukānaṃ sasotakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati sotadhātu ca uppajjati
-(kha) yassa vā pana sotadhātu uppajjati tassa cakkhudhātu uppajjatīti
+ yassa vā pana sotadhātu uppajjati tassa cakkhudhātu uppajjatīti
 sasotakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu uppajjati no ca tesaṃ cakkhudhātu uppajjati sasotakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ sotadhātu ca uppajjati cakkhudhātu ca uppajjati
-(ka) yassa  cakkhudhātu uppajjati tassa ghānadhātu uppajjatīti
+ yassa  cakkhudhātu uppajjati tassa ghānadhātu uppajjatīti
 sacakkhukānaṃ aghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu uppajjati no ca tesaṃ ghānadhātu  uppajjati sacakkhukānaṃ saghānakānaṃ upapajjantānaṃ tesaṃ cakkhudhātu ca uppajjati ghānadhātu ca uppajjati
-(kha) yassa vā pana ghānadhātu uppajjati tassa cakkhudhātu uppajjatīti
+ yassa vā pana ghānadhātu uppajjati tassa cakkhudhātu uppajjatīti
 saghānakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu uppajjati no ca tesaṃ cakkhudhātu uppajjati saghānakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ ghānadhātu ca uppajjati cakkhudhātu ca uppajjati
-(ka) yassa cakkhudhātu uppajjati tassa rūpadhātu uppajjatīti āmantā
-(kha) yassa vā pana rūpadhātu uppajjati tassa cakkhudhātu uppajjatīti
+ yassa cakkhudhātu uppajjati tassa rūpadhātu uppajjatīti āmantā
+ yassa vā pana rūpadhātu uppajjati tassa cakkhudhātu uppajjatīti
 sarūpakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu uppajjati  no ca tesaṃ cakkhudhātu uppajjati sacakkhukānaṃ upapajjantānaṃ tesaṃ rūpadhātu ca uppajjati cakkhudhātu ca uppajjati
-(ka) yassa cakkhudhātu uppajjati tassa manoviññāṇadhātu uppajjatīti āmantā
-(kha) yassa vā pana manoviññāṇadhātu uppajjati tassa cakkhudhātu uppajjatīti
+ yassa cakkhudhātu uppajjati tassa manoviññāṇadhātu uppajjatīti āmantā
+ yassa vā pana manoviññāṇadhātu uppajjati tassa cakkhudhātu uppajjatīti
 sacittakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu uppajjati no ca tesaṃ cakkhudhātu uppajjati sacakkhukānaṃ upapajjantānaṃ tesaṃ manoviññāṇadhātu ca uppajjati cakkhudhātu ca uppajjati
-(ka) yassa cakkhudhātu uppajjati tassa dhammadhātu uppajjatīti āmantā
-(kha) yassa vā pana dhammadhātu uppajjati tassa cakkhudhātu uppajjatīti
+ yassa cakkhudhātu uppajjati tassa dhammadhātu uppajjatīti āmantā
+ yassa vā pana dhammadhātu uppajjati tassa cakkhudhātu uppajjatīti
 acakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu uppajjati no ca tesaṃ  cakkhudhātu uppajjati sacakkhukānaṃ upapajjantānaṃ tesaṃ dhammadhātu ca uppajjati cakkhudhātu ca uppajjati
-(yathā āyatanayamakaṃ vibhattaṃ evaṃ dhātuyamakampi vibhajitabbaṃ sadisaṃ kātabbaṃ)
 
- yo cakkhudhātuṃ parijānāti so sotadhātuṃ parijānātīti āmantā (dhātuyamakaṃ paripuṇṇaṃ peyyālena)
+
+ yo cakkhudhātuṃ parijānāti so sotadhātuṃ parijānātīti āmantā 
 
 

@@ -6,1115 +6,1115 @@
 
 
 
- (ka) kusalā  kusalā dhammā
-(kha) kusalā dhammā kusalā
-(ka) akusalā  akusalā dhammā
-(kha) akusalā dhammā akusalā
-(ka) abyākatā abyākatā dhammā
-(kha) abyākatā dhammā abyākatā
+  kusalā  kusalā dhammā
+ kusalā dhammā kusalā
+ akusalā  akusalā dhammā
+ akusalā dhammā akusalā
+ abyākatā abyākatā dhammā
+ abyākatā dhammā abyākatā
 
- (ka) na kusalā na kusalā dhammā
-(kha) na kusalā dhammā na kusalā
-(ka) na  akusalā na akusalā dhammā
-(kha) na akusalā dhammā na akusalā
-(ka) na abyākatā na abyākatā dhammā
-(kha) na abyākatā dhammā na abyākatā
-
-
- (ka) kusalā  kusalā dhammā
-(kha) dhammā akusalā dhammā
-(ka) kusalā kusalā dhammā
-(kha) dhammā abyākatā dhammā
- (ka) akusalā akusalā dhammā
-(kha) dhammā kusalā dhammā
-(ka) akusalā  akusalā dhammā
-(kha) dhammā abyākatā dhammā
- (ka) abyākatā abyākatā dhammā
-(kha) dhammā kusalā dhammā
-(ka) abyākatā abyākatā dhammā
-(kha) dhammā akusalā dhammā
-
- (ka) na kusalā na kusalā dhammā
-(kha) na dhammā na akusalā dhammā
-(ka) na kusalā na kusalā dhammā
-(kha) na dhammā na abyākatā dhammā
- (ka) na akusalā na akusalā dhammā
-(kha) na dhammā na kusalā dhammā
-(ka) na akusalā na akusalā dhammā
-(kha) na dhammā na abyākatā dhammā
- (ka) na abyākatā na abyākatā dhammā
-(kha) na dhammā na kusalā dhammā
-(ka) na abyākatā na abyākatā dhammā
-(kha) na dhammā na akusalā dhammā
+  na kusalā na kusalā dhammā
+ na kusalā dhammā na kusalā
+ na  akusalā na akusalā dhammā
+ na akusalā dhammā na akusalā
+ na abyākatā na abyākatā dhammā
+ na abyākatā dhammā na abyākatā
 
 
- (ka) kusalā dhammā
-(kha) dhammā kusalā
-(ka) akusalā  dhammā
-(kha) dhammā akusalā
-(ka) abyākatā dhammā
-(kha) dhammā abyākatā
+  kusalā  kusalā dhammā
+ dhammā akusalā dhammā
+ kusalā kusalā dhammā
+ dhammā abyākatā dhammā
+  akusalā akusalā dhammā
+ dhammā kusalā dhammā
+ akusalā  akusalā dhammā
+ dhammā abyākatā dhammā
+  abyākatā abyākatā dhammā
+ dhammā kusalā dhammā
+ abyākatā abyākatā dhammā
+ dhammā akusalā dhammā
 
- (ka) na  kusalā na dhammā
-(kha) na dhammā na kusalā
-(ka) na akusalā na dhammā
-(kha) na dhammā na akusalā
-(ka) na abyākatā na dhammā
-(kha) na dhammā na abyākatā
-
-
- (ka) kusalā  dhammā
-(kha) dhammā akusalā
-(ka) kusalā dhammā
-(kha) dhammā abyākatā
- (ka) akusalā dhammā
-(kha) dhammā kusalā
-(ka) akusalā dhammā
-(kha) dhammā abyākatā
- (ka) abyākatā  dhammā
-(kha) dhammā kusalā
-(ka) abyākatā dhammā
-(kha) dhammā akusalā
-
- (ka) na kusalā na dhammā
-(kha) na dhammā na akusalā
-(ka) na kusalā na dhammā
-(kha) na dhammā na abyākatā
- (ka) na akusalā na dhammā
-(kha) na dhammā na kusalā
-(ka) na akusalā na dhammā
-(kha) na dhammā na abyākatā
- (ka) na abyākatā na dhammā
-(kha) na dhammā na kusalā
-(ka) na abyākatā na dhammā
-(kha) na dhammā na akusalā
+  na kusalā na kusalā dhammā
+ na dhammā na akusalā dhammā
+ na kusalā na kusalā dhammā
+ na dhammā na abyākatā dhammā
+  na akusalā na akusalā dhammā
+ na dhammā na kusalā dhammā
+ na akusalā na akusalā dhammā
+ na dhammā na abyākatā dhammā
+  na abyākatā na abyākatā dhammā
+ na dhammā na kusalā dhammā
+ na abyākatā na abyākatā dhammā
+ na dhammā na akusalā dhammā
 
 
+  kusalā dhammā
+ dhammā kusalā
+ akusalā  dhammā
+ dhammā akusalā
+ abyākatā dhammā
+ dhammā abyākatā
 
- (ka) kusalā kusalā dhammāti āmantā
-(kha) kusalā dhammā kusalāti āmantā
-(ka) akusalā  akusalā dhammāti āmantā
-(kha) akusalā dhammā akusalāti āmantā
-(ka) abyākatā abyākatā dhammāti āmantā
-(kha) abyākatā dhammā abyākatāti āmantā
-
- (ka) na kusalā na kusalā dhammāti āmantā
-(kha) na kusalā dhammā na kusalāti āmantā
-(ka) na akusalā na akusalā dhammāti āmantā
-(kha) na akusalā dhammā na akusalāti āmantā
-(ka) na abyākatā na abyākatā dhammāti āmantā
-(kha) na abyākatā dhammā  na abyākatāti āmantā
+  na  kusalā na dhammā
+ na dhammā na kusalā
+ na akusalā na dhammā
+ na dhammā na akusalā
+ na abyākatā na dhammā
+ na dhammā na abyākatā
 
 
- (ka) kusalā kusalā dhammāti āmantā
-(kha) dhammā akusalā dhammāti
+  kusalā  dhammā
+ dhammā akusalā
+ kusalā dhammā
+ dhammā abyākatā
+  akusalā dhammā
+ dhammā kusalā
+ akusalā dhammā
+ dhammā abyākatā
+  abyākatā  dhammā
+ dhammā kusalā
+ abyākatā dhammā
+ dhammā akusalā
+
+  na kusalā na dhammā
+ na dhammā na akusalā
+ na kusalā na dhammā
+ na dhammā na abyākatā
+  na akusalā na dhammā
+ na dhammā na kusalā
+ na akusalā na dhammā
+ na dhammā na abyākatā
+  na abyākatā na dhammā
+ na dhammā na kusalā
+ na abyākatā na dhammā
+ na dhammā na akusalā
+
+
+
+  kusalā kusalā dhammāti āmantā
+ kusalā dhammā kusalāti āmantā
+ akusalā  akusalā dhammāti āmantā
+ akusalā dhammā akusalāti āmantā
+ abyākatā abyākatā dhammāti āmantā
+ abyākatā dhammā abyākatāti āmantā
+
+  na kusalā na kusalā dhammāti āmantā
+ na kusalā dhammā na kusalāti āmantā
+ na akusalā na akusalā dhammāti āmantā
+ na akusalā dhammā na akusalāti āmantā
+ na abyākatā na abyākatā dhammāti āmantā
+ na abyākatā dhammā  na abyākatāti āmantā
+
+
+  kusalā kusalā dhammāti āmantā
+ dhammā akusalā dhammāti
 akusalā dhammā dhammā ceva akusalā dhammā ca avasesā dhammā na akusalā dhammā
-(ka) kusalā kusalā dhammāti āmantā
-(kha) dhammā abyākatā dhammāti
+ kusalā kusalā dhammāti āmantā
+ dhammā abyākatā dhammāti
 abyākatā dhammā dhammā ceva abyākatā dhammā ca avasesā dhammā na abyākatā dhammā
- (ka) akusalā  akusalā dhammāti āmantā
-(kha) dhammā kusalā dhammāti
+  akusalā  akusalā dhammāti āmantā
+ dhammā kusalā dhammāti
 kusalā dhammā dhammā ceva kusalā dhammā ca avasesā dhammā na kusalā dhammā
-(ka) akusalā akusalā dhammāti āmantā
-(kha) dhammā abyākatā dhammāti
+ akusalā akusalā dhammāti āmantā
+ dhammā abyākatā dhammāti
 abyākatā dhammā dhammā ceva abyākatā dhammā ca avasesā dhammā na abyākatā dhammā
- (ka) abyākatā  abyākatā dhammāti āmantā
-(kha) dhammā kusalā dhammāti
+  abyākatā  abyākatā dhammāti āmantā
+ dhammā kusalā dhammāti
 kusalā dhammā dhammā ceva kusalā dhammā ca avasesā dhammā na kusalā dhammā
-(ka) abyākatā abyākatā dhammāti āmantā
-(kha) dhammā akusalā dhammāti
+ abyākatā abyākatā dhammāti āmantā
+ dhammā akusalā dhammāti
 akusalā dhammā dhammā ceva akusalā dhammā ca avasesā dhammā na akusalā dhammā
 
- (ka) na kusalā na kusalā dhammāti āmantā
-(kha) na dhammā na akusalā dhammāti āmantā
-(ka) na kusalā na kusalā dhammāti āmantā
-(kha) na dhammā na abyākatā dhammāti āmantā
- (ka) na akusalā na  akusalā dhammāti āmantā
-(kha) na dhammā na kusalā dhammāti āmantā
-(ka) na  akusalā na akusalā dhammāti āmantā
-(kha) na dhammā na abyākatā dhammāti āmantā
- (ka) na abyākatā na abyākatā dhammāti āmantā
-(kha) na dhammā na kusalā dhammāti āmantā
-(ka) na abyākatā na abyākatā dhammāti āmantā
-(kha) na dhammā na akusalā dhammāti āmantā
+  na kusalā na kusalā dhammāti āmantā
+ na dhammā na akusalā dhammāti āmantā
+ na kusalā na kusalā dhammāti āmantā
+ na dhammā na abyākatā dhammāti āmantā
+  na akusalā na  akusalā dhammāti āmantā
+ na dhammā na kusalā dhammāti āmantā
+ na  akusalā na akusalā dhammāti āmantā
+ na dhammā na abyākatā dhammāti āmantā
+  na abyākatā na abyākatā dhammāti āmantā
+ na dhammā na kusalā dhammāti āmantā
+ na abyākatā na abyākatā dhammāti āmantā
+ na dhammā na akusalā dhammāti āmantā
 
 
- (ka) kusalā dhammāti āmantā
-(kha) dhammā kusalā dhammāti
+  kusalā dhammāti āmantā
+ dhammā kusalā dhammāti
 kusalā dhammā dhammā ceva kusalā dhammā ca avasesā dhammā na kusalā dhammā
-(ka) akusalā dhammāti āmantā
-(kha) dhammā akusalā dhammāti
+ akusalā dhammāti āmantā
+ dhammā akusalā dhammāti
 akusalā dhammā dhammā ceva akusalā dhammā ca avasesā dhammā na akusalā dhammā
-(ka) abyākatā  dhammāti āmantā
-(kha) dhammā abyākatā dhammāti
+ abyākatā  dhammāti āmantā
+ dhammā abyākatā dhammāti
 abyākatā dhammā dhammā ceva abyākatā dhammā ca avasesā dhammā na abyākatā dhammā
 
- (ka) na  kusalā na dhammāti
+  na  kusalā na dhammāti
 kusalaṃ ṭhapetvā avasesā dhammā na kusalā dhammā kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā
-(kha) na dhammā na kusalā dhammāti āmantā
-(ka) na akusalā na dhammāti
+ na dhammā na kusalā dhammāti āmantā
+ na akusalā na dhammāti
 akusalaṃ ṭhapetvā avasesā dhammā na akusalā dhammā akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā
-(kha) na dhammā na akusalā dhammāti āmantā
-(ka) na abyākatā na dhammāti
+ na dhammā na akusalā dhammāti āmantā
+ na abyākatā na dhammāti
 abyākataṃ  ṭhapetvā avasesā dhammā na abyākatā dhammā abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā
-(kha) na dhammā na abyākatā dhammāti āmantā
+ na dhammā na abyākatā dhammāti āmantā
 
 
- (ka) kusalā dhammāti āmantā
-(kha) dhammā akusalā dhammāti
+  kusalā dhammāti āmantā
+ dhammā akusalā dhammāti
 akusalā dhammā dhammā ceva akusalā dhammā ca avasesā dhammā na akusalā dhammā
-(ka) kusalā dhammāti āmantā
-(kha) dhammā abyākatā dhammāti
+ kusalā dhammāti āmantā
+ dhammā abyākatā dhammāti
 abyākatā dhammā dhammā ceva abyākatā dhammā ca avasesā dhammā na abyākatā dhammā
- (ka) akusalā  dhammāti āmantā
-(kha) dhammā kusalā dhammāti
+  akusalā  dhammāti āmantā
+ dhammā kusalā dhammāti
 kusalā dhammā dhammā ceva kusalā dhammā ca avasesā dhammā na kusalā dhammā
-(ka) akusalā dhammāti āmantā
-(kha) dhammā abyākatā dhammāti
+ akusalā dhammāti āmantā
+ dhammā abyākatā dhammāti
 abyākatā dhammā dhammā ceva abyākatā dhammā ca avasesā dhammā na abyākatā dhammā
- (ka) abyākatā  dhammāti āmantā
-(kha) dhammā kusalā dhammāti
+  abyākatā  dhammāti āmantā
+ dhammā kusalā dhammāti
 kusalā dhammā dhammā ceva kusalā dhammā ca avasesā dhammā na kusalā dhammā
-(ka) abyākatā dhammāti āmantā
-(kha) dhammā akusalā dhammāti
+ abyākatā dhammāti āmantā
+ dhammā akusalā dhammāti
 akusalā dhammā dhammā ceva akusalā dhammā ca avasesā dhammā na akusalā dhammā
 
- (ka) na kusalā na dhammāti
+  na kusalā na dhammāti
 kusalaṃ ṭhapetvā avasesā dhammā na kusalā dhammā kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā  na ca dhammā
-(kha) na dhammā na akusalā dhammāti āmantā
-(ka) na kusalā na dhammāti
+ na dhammā na akusalā dhammāti āmantā
+ na kusalā na dhammāti
 kusalaṃ ṭhapetvā avasesā dhammā na kusalā dhammā kusalañca dhamme ca ṭhapetvā avasesā na ceva kusalā na ca dhammā
-(kha) na  dhammā na abyākatā dhammāti āmantā
- (ka) na akusalā na dhammāti
+ na  dhammā na abyākatā dhammāti āmantā
+  na akusalā na dhammāti
 akusalaṃ ṭhapetvā avasesā dhammā na akusalā dhammā akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā
-(kha) na dhammā na akusalā dhammāti āmantā
-(ka) na akusalā na dhammāti
+ na dhammā na akusalā dhammāti āmantā
+ na akusalā na dhammāti
 akusalaṃ ṭhapetvā avasesā dhammā na akusalā dhammā akusalañca dhamme ca ṭhapetvā avasesā na ceva akusalā na ca dhammā
-(kha) na dhammā na abyākatā dhammāti āmantā
- (ka) na abyākatā na dhammāti
+ na dhammā na abyākatā dhammāti āmantā
+  na abyākatā na dhammāti
 abyākataṃ ṭhapetvā avasesā dhammā na abyākatā dhammā abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā
-(kha) na dhammā na kusalā dhammāti āmantā
-(ka) na abyākatā na dhammāti
+ na dhammā na kusalā dhammāti āmantā
+ na abyākatā na dhammāti
 abyākataṃ ṭhapetvā avasesā dhammā na abyākatā dhammā abyākatañca dhamme ca ṭhapetvā avasesā na ceva abyākatā na ca dhammā
-(kha) na dhammā na akusalā dhammāti āmantā
+ na dhammā na akusalā dhammāti āmantā
 
 
 
 
 
- (ka) yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjantīti no
-(kha) yassa vā pana akusalā dhammā uppajjanti tassa kusalā dhammā uppajjantīti no
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti
+  yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjantīti no
+ yassa vā pana akusalā dhammā uppajjanti tassa kusalā dhammā uppajjantīti no
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti
 arūpe kusalānaṃ uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti no ca tesaṃ abyākatā dhammā uppajjanti pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti
-(kha) yassa vā pana abyākatā dhammā uppajjanti tassa kusalā dhammā uppajjantīti
+ yassa vā pana abyākatā dhammā uppajjanti tassa kusalā dhammā uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ abyākatā dhammā uppajjanti no ca tesaṃ kusalā dhammā uppajjanti pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti
- (ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti
+  yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjantīti
 arūpe akusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā uppajjanti no  ca tesaṃ abyākatā dhammā uppajjanti pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti
-(kha) yassa vā pana abyākatā dhammā uppajjanti tassa akusalā dhammā uppajjantīti
+ yassa vā pana abyākatā dhammā uppajjanti tassa akusalā dhammā uppajjantīti
 sabbesaṃ  upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ abyākatā dhammā uppajjanti no ca tesaṃ akusalā dhammā uppajjanti pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti
 
- (ka) yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjantīti āmantā
-(kha) yattha vā pana akusalā dhammā uppajjanti tattha kusalā dhammā uppajjantīti āmantā
-(ka) yattha  kusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti āmantā
-(kha) yattha vā pana abyākatā dhammā uppajjanti tattha kusalā dhammā uppajjantīti
+  yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjantīti āmantā
+ yattha vā pana akusalā dhammā uppajjanti tattha kusalā dhammā uppajjantīti āmantā
+ yattha  kusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti āmantā
+ yattha vā pana abyākatā dhammā uppajjanti tattha kusalā dhammā uppajjantīti
 asaññasatte tattha abyākatā dhammā uppajjanti no ca tattha kusalā dhammā uppajjanti catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti
- (ka) yattha akusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti āmantā
-(kha) yattha vā pana abyākatā dhammā uppajjanti tattha akusalā dhammā uppajjantīti
+  yattha akusalā dhammā uppajjanti tattha abyākatā dhammā uppajjantīti āmantā
+ yattha vā pana abyākatā dhammā uppajjanti tattha akusalā dhammā uppajjantīti
 asaññasatte  tattha abyākatā dhammā uppajjanti no ca tattha akusalā dhammā uppajjanti catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti
 
- (ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā  dhammā uppajjantīti no
-(kha) yassa vā pana yattha akusalā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti no
-(ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti
+  yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā  dhammā uppajjantīti no
+ yassa vā pana yattha akusalā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti no
+ yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti
 arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti no ca tesaṃ tattha abyākatā dhammā uppajjanti pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti
-(kha) yassa vā pana yattha abyākatā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti
+ yassa vā pana yattha abyākatā dhammā uppajjanti tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha abyākatā dhammā uppajjanti no ca tesaṃ tattha kusalā dhammā uppajjanti pañcavokāre kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjanti kusalā ca dhammā uppajjanti
- (ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti
+  yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjantīti
 arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjanti no ca tesaṃ tattha abyākatā dhammā uppajjanti pañcavokāre akusalānaṃ  uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjanti abyākatā ca dhammā uppajjanti
-(kha) yassa vā pana yattha abyākatā  dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti
+ yassa vā pana yattha abyākatā  dhammā uppajjanti tassa tattha akusalā dhammā uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte  akusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha abyākatā dhammā uppajjanti no ca tesaṃ tattha akusalā dhammā uppajjanti pañcavokāre akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjanti akusalā ca dhammā uppajjanti
 
- (ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti
+  yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti
 akusalānaṃ uppādakkhaṇe tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ akusalā dhammā na uppajjanti sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti
-(kha) yassa vā pana akusalā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana akusalā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā na uppajjanti no ca tesaṃ kusalā dhammā na uppajjanti sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti
-(ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti
+ yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ  kusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa  bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti
-(kha) yassa vā pana abyākatā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana abyākatā dhammā na uppajjanti tassa kusalā dhammā na uppajjantīti
 arūpe kusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti no ca tesaṃ kusalā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe  tesaṃ akusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti
-(kha) yassa vā pana abyākatā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti
+ yassa vā pana abyākatā dhammā na uppajjanti tassa akusalā dhammā na uppajjantīti
 arūpe akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na uppajjanti no ca tesaṃ akusalā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti
 
- (ka) yattha  kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti āmantā
-(kha) yattha vā pana akusalā dhammā na  uppajjanti tattha kusalā dhammā na uppajjantīti āmantā
-(ka) yattha kusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti uppajjanti
-(kha) yattha vā pana abyākatā dhammā na uppajjanti tattha kusalā dhammā na uppajjantīti natthi
- (ka) yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti uppajjanti
-(kha) yattha vā pana abyākatā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti natthi
+  yattha  kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti āmantā
+ yattha vā pana akusalā dhammā na  uppajjanti tattha kusalā dhammā na uppajjantīti āmantā
+ yattha kusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti uppajjanti
+ yattha vā pana abyākatā dhammā na uppajjanti tattha kusalā dhammā na uppajjantīti natthi
+  yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na uppajjantīti uppajjanti
+ yattha vā pana abyākatā dhammā na uppajjanti tattha akusalā dhammā na uppajjantīti natthi
 
- (ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti
+  yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti
 akusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na uppajjanti sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttaakusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti
-(kha) yassa vā pana yattha akusalā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha akusalā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjanti no  ca tesaṃ tattha kusalā dhammā na uppajjanti sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttakusalavippayuttacittassa uppādakkhaṇe  asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti
-(ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā  dhammā na uppajjantīti
+ yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā  dhammā na uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha kusalā dhammā na uppajjantīti
 arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajjanti no ca tesaṃ tattha kusalā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā na uppajjanti kusalā ca dhammā na uppajjanti
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjantīti
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjantīti
 sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti
+ yassa vā pana yattha abyākatā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjantīti
 arūpe  akusalānaṃ  uppādakkhaṇe tesaṃ tattha abyākatā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na uppajjanti sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe arūpe kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā na uppajjanti akusalā ca dhammā na uppajjanti
 
 
- (ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti āmantā
-(ka) yassa  kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti āmantā
- (ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti āmantā
+  yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti āmantā
+ yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti āmantā
+ yassa  kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjitthāti āmantā
+  yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjitthāti āmantā
 
- (ka) yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti āmantā
-(kha) yattha  vā pana akusalā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti āmantā
-(ka) yattha kusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti
+  yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti āmantā
+ yattha  vā pana akusalā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti āmantā
+ yattha kusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti āmantā
+ yattha vā pana abyākatā dhammā uppajjittha tattha kusalā dhammā uppajjitthāti
 asaññasatte  tattha abyākatā dhammā uppajjittha no ca tattha kusalā dhammā uppajjittha catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjittha
- (ka) yattha akusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti
+  yattha akusalā dhammā uppajjittha tattha abyākatā dhammā uppajjitthāti āmantā
+ yattha vā pana abyākatā dhammā uppajjittha tattha akusalā dhammā uppajjitthāti
 asaññasatte tattha abyākatā dhammā uppajjittha no ca tattha akusalā dhammā uppajjittha catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha
 
- (ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti
+  yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti āmantā
+ yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha akusalā dhammā uppajjittha no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjittha
-(ka) yassa  yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti
+ yassa  yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ  tattha abyākatā dhammā uppajjittha no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjittha
- (ka) yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti
+  yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha no ca tesaṃ tattha akusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjittha
 
- (ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti natthi
-(kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti natthi
-(ka) yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti natthi
- (ka) yassa  akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti natthi
+  yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti natthi
+ yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti natthi
+ yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti natthi
+ yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjitthāti natthi
+  yassa  akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjitthāti natthi
+ yassa vā pana abyākatā dhammā na uppajjittha tassa akusalā dhammā na uppajjitthāti natthi
 
- (ka) yattha  kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti āmantā
-(kha) yattha vā pana akusalā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti āmantā
-(ka) yattha  kusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti uppajjittha
-(kha) yattha vā pana abyākatā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti natthi
- (ka) yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti uppajjittha
-(kha) yattha vā pana abyākatā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti natthi
+  yattha  kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti āmantā
+ yattha vā pana akusalā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti āmantā
+ yattha  kusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti uppajjittha
+ yattha vā pana abyākatā dhammā na uppajjittha tattha kusalā dhammā na uppajjitthāti natthi
+  yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na uppajjitthāti uppajjittha
+ yattha vā pana abyākatā dhammā na uppajjittha tattha akusalā dhammā na uppajjitthāti natthi
 
- (ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti
+  yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha no ca tesaṃ tattha akusalā dhammā na uppajjittha suddhāvāsānaṃ  dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
-(ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti
+ yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
+ yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjittha no  ca tesaṃ tattha abyākatā dhammā na uppajjittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha abyākatā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
+  yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjittha no ca tesaṃ tattha abyākatā dhammā na uppajjittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjittha abyākatā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjitthāti āmantā
 
 
- (ka) yassa  kusalā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti
+  yassa  kusalā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti
 yassa  cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjissanti no ca tesaṃ akusalā dhammā uppajjissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti
-(kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjissantīti āmantā
-(ka) yassa kusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā  uppajjissanti tassa kusalā dhammā uppajjissantīti
+ yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjissantīti āmantā
+ yassa kusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana abyākatā dhammā  uppajjissanti tassa kusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ abyākatā dhammā uppajjissanti no ca tesaṃ kusalā dhammā uppajjissanti itaresaṃ tesaṃ abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti
- (ka) yassa akusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti
+  yassa akusalā dhammā uppajjissanti tassa abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā uppajjissanti no ca tesaṃ akusalā dhammā uppajjissanti itaresaṃ tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti
 
- (ka) yattha kusalā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti āmantā
-(kha) yattha vā pana akusalā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti āmantā
-(ka) yattha kusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yattha  vā pana abyākatā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti
+  yattha kusalā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti āmantā
+ yattha vā pana akusalā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti āmantā
+ yattha kusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti āmantā
+ yattha  vā pana abyākatā dhammā uppajjissanti tattha kusalā dhammā uppajjissantīti
 asaññasatte tattha abyākatā dhammā uppajjissanti no ca tattha kusalā dhammā uppajjissanti catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti
- (ka) yattha  akusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yattha vā pana abyākatā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti
+  yattha  akusalā dhammā uppajjissanti tattha abyākatā dhammā uppajjissantīti āmantā
+ yattha vā pana abyākatā dhammā uppajjissanti tattha akusalā dhammā uppajjissantīti
 asaññasatte tattha abyākatā dhammā uppajjissanti no ca tattha akusalā dhammā uppajjissanti catuvokāre pañcavokāre tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti
 
- (ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti
+  yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjissanti no ca tesaṃ tattha akusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti
-(kha) yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti āmantā
-(ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti
+ yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti āmantā
+ yassa yattha kusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ  arahantānaṃ asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti no ca tesaṃ tattha kusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ  tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjissanti
- (ka) yassa yattha akusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti
+  yassa yattha akusalā dhammā uppajjissanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti no ca tesaṃ tattha akusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjissanti
 
- (ka) yassa  kusalā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti āmantā
-(kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti
+  yassa  kusalā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti no ca tesaṃ kusalā dhammā na uppajjissanti aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjissanti
-(ka) yassa kusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti
+ yassa kusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ kusalā dhammā na uppajjissanti  no ca tesaṃ abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ  tesaṃ kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti āmantā
- (ka) yassa akusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjissantīti āmantā
+  yassa akusalā dhammā na uppajjissanti tassa abyākatā dhammā na uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti no ca tesaṃ abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjissantīti āmantā
 
- (ka) yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti āmantā
-(kha) yattha vā pana akusalā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti āmantā
-(ka) yattha kusalā dhammā na uppajjissanti tattha abyākatā dhammā na uppajjissantīti uppajjissanti
-(kha) yattha vā pana abyākatā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti natthi
- (ka) yattha  akusalā dhammā na uppajjissanti tattha abyākatā  dhammā na uppajjissantīti uppajjissanti
-(kha) yattha  vā pana abyākatā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti natthi
+  yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti āmantā
+ yattha vā pana akusalā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti āmantā
+ yattha kusalā dhammā na uppajjissanti tattha abyākatā dhammā na uppajjissantīti uppajjissanti
+ yattha vā pana abyākatā dhammā na uppajjissanti tattha kusalā dhammā na uppajjissantīti natthi
+  yattha  akusalā dhammā na uppajjissanti tattha abyākatā  dhammā na uppajjissantīti uppajjissanti
+ yattha  vā pana abyākatā dhammā na uppajjissanti tattha akusalā dhammā na uppajjissantīti natthi
 
- (ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
-(kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti
+  yassa yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na uppajjissanti no ca tesaṃ tattha kusalā dhammā na uppajjissanti aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjissanti
-(ka) yassa yattha kusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti
+ yassa yattha kusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjissanti no ca tesaṃ tattha abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjissantīti āmantā
+  yassa yattha akusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa  cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjissanti no ca tesaṃ tattha abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
 
 
- (ka) yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā  uppajjantīti
+  yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjitthāti āmantā
+ yassa vā pana akusalā dhammā uppajjittha tassa kusalā dhammā  uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā uppajjittha no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjanti
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjantīti
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana abyākatā dhammā uppajjittha tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjittha no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā  uppajjittha kusalā ca dhammā uppajjanti
- (ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjantīti
+  yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana abyākatā dhammā uppajjittha tassa akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjittha no ca  tesaṃ akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti
 
  yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjitthāti
 
- (ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti
+  yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjitthāti āmantā
+ yassa vā pana yattha akusalā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjittha no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjittha kusalā ca dhammā uppajjanti
-(ka) yassa  yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti
+ yassa  yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjittha tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe  asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjittha kusalā ca dhammā uppajjanti
- (ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti āmantā
-(kha) yassa  vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjantīti
+  yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjitthāti āmantā
+ yassa  vā pana yattha abyākatā dhammā uppajjittha tassa tattha akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjittha no ca tesaṃ tattha akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjittha akusalā ca dhammā uppajjanti
 
- (ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjitthāti uppajjittha
-(kha) yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti natthi
-(ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti uppajjittha
-(kha) yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti natthi
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti uppajjittha
-(kha) yassa vā pana abyākatā dhammā  na uppajjittha tassa akusalā dhammā na uppajjantīti natthi
+  yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjitthāti uppajjittha
+ yassa vā pana akusalā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti natthi
+ yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti uppajjittha
+ yassa vā pana abyākatā dhammā na uppajjittha tassa kusalā dhammā na uppajjantīti natthi
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjitthāti uppajjittha
+ yassa vā pana abyākatā dhammā  na uppajjittha tassa akusalā dhammā na uppajjantīti natthi
 
  yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjitthāti
 
- (ka) yassa  yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjitthāti
+  yassa  yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na uppajjittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti āmantā
-(ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti
+ yassa vā pana yattha akusalā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti āmantā
+ yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na uppajjittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha kusalā dhammā na uppajjantīti āmantā
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa  uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na uppajjittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjittha
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjantīti āmantā
 
 
- (ka) yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjissantīti
+  yassa  kusalā dhammā uppajjanti tassa akusalā dhammā uppajjissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti no ca tesaṃ akusalā dhammā uppajjissanti itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ  kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti
-(kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjantīti
+ yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā uppajjissanti no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā uppajjissanti  tassa kusalā dhammā uppajjantīti
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana abyākatā dhammā uppajjissanti  tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjissanti no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti
- (ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa  vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjantīti
+  yassa akusalā dhammā uppajjanti tassa abyākatā dhammā uppajjissantīti āmantā
+ yassa  vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā uppajjissanti no ca tesaṃ akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjanti
 
  yattha kusalā dhammā uppajjanti tattha akusalā dhammā uppajjissantīti
 
- (ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjissantīti
+  yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā uppajjissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti no ca tesaṃ tattha akusalā dhammā uppajjissanti itaresaṃ  kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti akusalā ca dhammā uppajjissanti
-(kha) yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā  dhammā uppajjantīti
+ yassa vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā  dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā uppajjissanti no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti
-(ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa  vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjantīti
+ yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
+ yassa  vā pana yattha abyākatā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjanti
- (ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjantīti
+  yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā uppajjissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti no ca tesaṃ tattha akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā  ca dhammā uppajjanti
 
- (ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjissantīti
+  yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ akusalā dhammā na uppajjissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na uppajjissanti
-(kha) yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana akusalā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti
 aggamaggassa  uppādakkhaṇe yassa cittassa anantarā  aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ akusalā dhammā na uppajjissanti no ca tesaṃ kusalā dhammā na uppajjanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjanti
-(ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti
+ yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ kusalā ca dhammā na  uppajjanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti āmantā
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjantīti āmantā
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjantīti āmantā
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjantīti āmantā
 
  yattha  kusalā dhammā na uppajjanti tattha akusalā dhammā na uppajjissantīti
 
- (ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjissantīti
+  yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na uppajjissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā  na uppajjissanti
-(kha) yassa vā pana yattha akusalā dhammā na  uppajjissanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha akusalā dhammā na  uppajjissanti tassa tattha kusalā dhammā na uppajjantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā na uppajjissanti no ca tesaṃ tattha kusalā dhammā na uppajjanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na uppajjissanti kusalā ca dhammā na uppajjanti
-(ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti
+ yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā  dhammā na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjantīti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjantīti āmantā
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na uppajjissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā  na uppajjissanti pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjantīti āmantā
 
 
- (ka) yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjissantīti
+  yassa kusalā dhammā uppajjittha tassa akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjittha no ca tesaṃ akusalā dhammā uppajjissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti
-(kha) yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti āmantā
-(ka) yassa  kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti
+ yassa vā pana akusalā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti āmantā
+ yassa  kusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti
 pacchimacittasamaṅgīnaṃ tesaṃ kusalā dhammā uppajjittha no ca tesaṃ abyākatā dhammā uppajjissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti
-(kha) yassa vā pana abyākatā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti āmantā
- (ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti
+ yassa vā pana abyākatā dhammā uppajjissanti tassa kusalā dhammā uppajjitthāti āmantā
+  yassa akusalā dhammā uppajjittha tassa abyākatā dhammā uppajjissantīti
 pacchimacittasamaṅgīnaṃ tesaṃ akusalā dhammā uppajjittha  no ca tesaṃ abyākatā dhammā uppajjissanti itaresaṃ tesaṃ akusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti
-(kha) yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjitthāti āmantā
+ yassa vā pana abyākatā dhammā uppajjissanti tassa akusalā dhammā uppajjitthāti āmantā
 
  yattha kusalā dhammā uppajjittha tattha akusalā dhammā uppajjissantīti
 
- (ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjissantīti
+  yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjittha no ca tesaṃ tattha akusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha akusalā ca dhammā uppajjissanti
-(kha) yassa  vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjitthāti
+ yassa  vā pana yattha akusalā dhammā uppajjissanti tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha akusalā dhammā uppajjissanti no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjissanti kusalā ca dhammā uppajjittha
-(ka) yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti
+ yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti
 pacchimacittasamaṅgīnaṃ tesaṃ tattha kusalā dhammā uppajjittha no ca tesaṃ tattha abyākatā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā  ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa  tattha kusalā dhammā uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā uppajjissanti tassa  tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā uppajjissanti no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti kusalā ca dhammā uppajjittha
- (ka) yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti
+  yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā uppajjissantīti
 pacchimacittasamaṅgīnaṃ tesaṃ tattha akusalā dhammā uppajjittha no ca tesaṃ tattha abyākatā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjittha abyākatā ca dhammā uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā uppajjissanti tassa tattha akusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā  dhammā uppajjissanti no ca tesaṃ tattha akusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā uppajjissanti akusalā ca dhammā uppajjittha
 
- (ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjissantīti natthi
-(kha) yassa vā pana akusalā dhammā na  uppajjissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
-(ka) yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
- (ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjitthāti uppajjittha
+  yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na uppajjissantīti natthi
+ yassa vā pana akusalā dhammā na  uppajjissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
+ yassa kusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti natthi
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
+  yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na uppajjissantīti natthi
+ yassa vā pana abyākatā dhammā na uppajjissanti tassa akusalā dhammā na uppajjitthāti uppajjittha
 
  yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na uppajjissantīti
 
- (ka) yassa  yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjissantīti
+  yassa  yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na uppajjissantīti
 suddhāvāsānaṃ  dutiye citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha no ca tesaṃ tattha akusalā dhammā na uppajjissanti asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na uppajjissanti
-(kha) yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti
+ yassa vā pana yattha akusalā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na uppajjissanti no ca tesaṃ tattha kusalā dhammā na uppajjittha asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na  uppajjissanti kusalā ca dhammā na uppajjittha
-(ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti uppajjittha
- (ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti uppajjissanti
-(kha) yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjitthāti uppajjittha
+ yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti uppajjissanti
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha kusalā dhammā na uppajjitthāti uppajjittha
+  yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na uppajjissantīti uppajjissanti
+ yassa vā pana yattha abyākatā dhammā na uppajjissanti tassa tattha akusalā dhammā na uppajjitthāti uppajjittha
 
 
 
 
- (ka) yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti no
-(kha) yassa  vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā nirujjhantīti no
-(ka) yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhantīti
+  yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti no
+ yassa  vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā nirujjhantīti no
+ yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhantīti
 arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā dhammā nirujjhanti no ca tesaṃ  abyākatā dhammā nirujjhanti pañcavokāre kusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā ca dhammā nirujjhanti abyākatā ca dhammā nirujjhanti
-(kha) yassa vā pana abyākatā dhammā nirujjhanti tassa kusalā dhammā nirujjhantīti
+ yassa vā pana abyākatā dhammā nirujjhanti tassa kusalā dhammā nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ abyākatā dhammā  nirujjhanti no ca tesaṃ kusalā dhammā nirujjhanti pañcavokāre kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhanti kusalā ca dhammā nirujjhanti
- (ka) yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhantīti
+  yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhantīti
 arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā dhammā nirujjhanti no ca tesaṃ abyākatā dhammā nirujjhanti pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā ca dhammā nirujjhanti abyākatā ca dhammā nirujjhanti
-(kha) yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti
+ yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ abyākatā dhammā nirujjhanti no ca tesaṃ akusalā dhammā nirujjhanti pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti
 
- (ka) yattha  kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana akusalā dhammā nirujjhanti tattha kusalā dhammā nirujjhantīti āmantā
-(ka) yattha kusalā dhammā nirujjhanti tattha abyākatā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhanti tattha kusalā dhammā nirujjhantīti
+  yattha  kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti āmantā
+ yattha vā pana akusalā dhammā nirujjhanti tattha kusalā dhammā nirujjhantīti āmantā
+ yattha kusalā dhammā nirujjhanti tattha abyākatā dhammā nirujjhantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhanti tattha kusalā dhammā nirujjhantīti
 asaññasatte tattha abyākatā dhammā nirujjhanti no ca tattha kusalā dhammā nirujjhanti catuvokāre pañcavokāre  tattha abyākatā ca dhammā nirujjhanti kusalā ca dhammā nirujjhanti
- (ka) yattha akusalā dhammā nirujjhanti tattha abyākatā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti
+  yattha akusalā dhammā nirujjhanti tattha abyākatā dhammā nirujjhantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā nirujjhantīti
 asaññasatte tattha abyākatā dhammā nirujjhanti no  ca tattha akusalā dhammā nirujjhanti catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti
 
- (ka) yassa yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti no
-(kha) yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā nirujjhantīti no
-(ka) yassa  yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhantīti
+  yassa yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti no
+ yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā nirujjhantīti no
+ yassa  yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhantīti
 arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā nirujjhanti no ca tesaṃ tattha abyākatā dhammā nirujjhanti pañcavokāre kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā nirujjhanti abyākatā ca dhammā nirujjhanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha kusalā dhammā nirujjhantīti
+ yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha kusalā dhammā nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā nirujjhanti no ca tesaṃ tattha kusalā dhammā nirujjhanti pañcavokāre kusalānaṃ bhaṅgakkhaṇe  tesaṃ tattha abyākatā ca dhammā nirujjhanti kusalā ca dhammā nirujjhanti
- (ka) yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhantīti
+  yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhantīti
 arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhanti no ca tesaṃ tattha abyākatā dhammā nirujjhanti pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā nirujjhanti abyākatā ca dhammā nirujjhanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti
+ yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā nirujjhanti no ca tesaṃ tattha akusalā dhammā nirujjhanti pañcavokāre akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā nirujjhanti
 
- (ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti
+  yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti
 akusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā dhammā na nirujjhanti no ca tesaṃ akusalā dhammā na nirujjhanti sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttaakusalavippayuttacittassa  bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti
-(kha) yassa vā pana akusalā dhammā na nirujjhanti tassa kusalā dhammā na nirujjhantīti
+ yassa vā pana akusalā dhammā na nirujjhanti tassa kusalā dhammā na nirujjhantīti
 kusalānaṃ  bhaṅgakkhaṇe tesaṃ akusalā dhammā na nirujjhanti no ca tesaṃ kusalā dhammā na nirujjhanti sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttakusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā ca dhammā na nirujjhanti kusalā ca dhammā na nirujjhanti
-(ka) yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhantīti
+ yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā na nirujjhanti no ca tesaṃ abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa kusalā dhammā na nirujjhantīti
+ yassa vā pana abyākatā dhammā na nirujjhanti tassa kusalā dhammā na nirujjhantīti
 arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti no ca tesaṃ kusalā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti kusalā ca dhammā na nirujjhanti
- (ka) yassa akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhantīti
+  yassa akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā na nirujjhanti no ca tesaṃ abyākatā dhammā na nirujjhanti  sabbesaṃ upapajjantānaṃ pavatte cittassa  uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti
+ yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhantīti
 arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti no ca tesaṃ akusalā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti
 
- (ka) yattha  kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti āmantā
-(kha) yattha vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na nirujjhantīti āmantā
-(ka) yattha kusalā dhammā na nirujjhanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha kusalā dhammā na nirujjhantīti natthi
- (ka) yattha akusalā dhammā na nirujjhanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti natthi
+  yattha  kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti āmantā
+ yattha vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na nirujjhantīti āmantā
+ yattha kusalā dhammā na nirujjhanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
+ yattha vā pana abyākatā dhammā na nirujjhanti tattha kusalā dhammā na nirujjhantīti natthi
+  yattha akusalā dhammā na nirujjhanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
+ yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhantīti natthi
 
- (ka) yassa  yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti
+  yassa  yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti
 akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha akusalā dhammā na nirujjhanti sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttaakusalavippayuttacittassa  bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhanti tassa tattha kusalā dhammā na nirujjhantīti
+ yassa vā pana yattha akusalā dhammā na nirujjhanti tassa tattha kusalā dhammā na nirujjhantīti
 kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā na nirujjhanti no ca tesaṃ tattha kusalā dhammā na nirujjhanti sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttakusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhanti kusalā ca dhammā na nirujjhanti
-(ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhantīti
+ yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha  abyākatā dhammā na nirujjhanti tassa tattha kusalā dhammā na nirujjhantīti
+ yassa vā pana yattha  abyākatā dhammā na nirujjhanti tassa tattha kusalā dhammā na nirujjhantīti
 arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti no ca tesaṃ tattha kusalā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ  tattha abyākatā ca dhammā na nirujjhanti kusalā ca dhammā na nirujjhanti
- (ka) yassa  yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhantīti
+  yassa  yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte akusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhantīti
 arūpe akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti no ca tesaṃ tattha akusalā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte cittassa uppādakkhaṇe arūpe kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhanti
 
 
- (ka) yassa kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhitthāti āmantā
-(ka) yassa kusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā nirujjhitthāti āmantā
- (ka) yassa  akusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti āmantā
+  yassa kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhitthāti āmantā
+ yassa kusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā nirujjhitthāti āmantā
+  yassa  akusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhitthāti āmantā
 
- (ka) yattha  kusalā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā nirujjhitthāti āmantā
-(ka) yattha kusalā dhammā nirujjhittha tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhittha tattha kusalā dhammā nirujjhitthāti
+  yattha  kusalā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti āmantā
+ yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā nirujjhitthāti āmantā
+ yattha kusalā dhammā nirujjhittha tattha abyākatā dhammā nirujjhitthāti āmantā
+ yattha vā pana abyākatā dhammā nirujjhittha tattha kusalā dhammā nirujjhitthāti
 asaññasatte tattha abyākatā dhammā nirujjhittha no ca tattha kusalā dhammā nirujjhittha catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā nirujjhittha
- (ka) yattha akusalā dhammā nirujjhittha tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti
+  yattha akusalā dhammā nirujjhittha tattha abyākatā dhammā nirujjhitthāti āmantā
+ yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā nirujjhitthāti
 asaññasatte tattha abyākatā dhammā nirujjhittha no ca tattha akusalā dhammā nirujjhittha catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhittha
 
- (ka) yassa  yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha akusalā dhammā  nirujjhittha tassa tattha kusalā dhammā nirujjhitthāti
+  yassa  yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha akusalā dhammā  nirujjhittha tassa tattha kusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha akusalā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā nirujjhittha kusalā ca dhammā nirujjhittha
-(ka) yassa yattha kusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhitthāti
+ yassa yattha kusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ  tesaṃ tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā nirujjhittha
- (ka) yassa yattha akusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti
+  yassa yattha akusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha akusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhittha
 
- (ka) yassa  kusalā dhammā na nirujjhittha tassa akusalā dhammā na  nirujjhitthāti natthi
-(kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhitthāti natthi
-(ka) yassa kusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhitthāti natthi
- (ka) yassa akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhitthāti natthi
+  yassa  kusalā dhammā na nirujjhittha tassa akusalā dhammā na  nirujjhitthāti natthi
+ yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhitthāti natthi
+ yassa kusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhitthāti natthi
+ yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhitthāti natthi
+  yassa akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhitthāti natthi
+ yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhitthāti natthi
 
- (ka) yattha kusalā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhitthāti āmantā
-(kha) yattha vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na nirujjhitthāti āmantā
-(ka) yattha kusalā dhammā na nirujjhittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yattha vā pana abyākatā dhammā na nirujjhittha tattha kusalā dhammā na nirujjhitthāti natthi
- (ka) yattha  akusalā dhammā na nirujjhittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yattha  vā pana abyākatā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhitthāti natthi
-(ca) paccanīkapuggalokāsā
- (ka) yassa yattha kusalā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhitthāti
+  yattha kusalā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhitthāti āmantā
+ yattha vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na nirujjhitthāti āmantā
+ yattha kusalā dhammā na nirujjhittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yattha vā pana abyākatā dhammā na nirujjhittha tattha kusalā dhammā na nirujjhitthāti natthi
+  yattha  akusalā dhammā na nirujjhittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yattha  vā pana abyākatā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhitthāti natthi
+ paccanīkapuggalokāsā
+  yassa yattha kusalā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na nirujjhittha no ca tesaṃ  tattha akusalā dhammā na nirujjhittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhittha akusalā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhitthāti āmantā
-(ka) yassa yattha kusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhitthāti āmantā
+ yassa yattha kusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā dhammā na nirujjhittha no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhittha abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhitthāti āmantā
- (ka) yassa yattha akusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhitthāti āmantā
+  yassa yattha akusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhittha no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhittha abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhitthāti āmantā
 
 
- (ka) yassa  kusalā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti
+  yassa  kusalā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti  tesaṃ kusalā dhammā nirujjhissanti no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhissantīti āmantā
-(ka) yassa kusalā dhammā nirujjhissanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhissantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhissantīti āmantā
+ yassa kusalā dhammā nirujjhissanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhissantīti
 aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā nirujjhissanti itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhissanti
- (ka) yassa akusalā dhammā nirujjhissanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti
+  yassa akusalā dhammā nirujjhissanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti
 
  yattha  kusalā dhammā nirujjhissanti tattha akusalā dhammā nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti
+  yassa yattha kusalā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhissantīti āmantā
-(ka) yassa yattha kusalā dhammā nirujjhissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti  tassa tattha kusalā dhammā nirujjhissantīti
+ yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhissantīti āmantā
+ yassa yattha kusalā dhammā nirujjhissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti  tassa tattha kusalā dhammā nirujjhissantīti
 aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhissanti
- (ka) yassa yattha akusalā dhammā nirujjhissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa  vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti 
+  yassa yattha akusalā dhammā nirujjhissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa  vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhissantīti 
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhissanti
 
- (ka) yassa kusalā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti āmantā
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhissantīti
+  yassa kusalā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na nirujjhissanti no ca tesaṃ kusalā dhammā na nirujjhissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na nirujjhissanti
-(ka) yassa kusalā dhammā na nirujjhissanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa kusalā dhammā na nirujjhissanti tassa abyākatā dhammā na nirujjhissantīti
 aggamaggassa bhaṅgakkhaṇe arahantānaṃ tesaṃ kusalā dhammā na nirujjhissanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na nirujjhissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhissantīti āmantā
- (ka) yassa  akusalā dhammā na nirujjhissanti tassa abyākatā dhammā  na nirujjhissantīti
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhissantīti āmantā
+  yassa  akusalā dhammā na nirujjhissanti tassa abyākatā dhammā  na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ  paṭilabhissanti tesaṃ akusalā dhammā na nirujjhissanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhissantīti āmantā
 
  yattha kusalā dhammā na nirujjhissanti tattha akusalā dhammā na nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhissantīti
+  yassa yattha kusalā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na nirujjhissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na nirujjhissanti
-(ka) yassa yattha kusalā dhammā na nirujjhissanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa yattha kusalā dhammā na nirujjhissanti tassa tattha abyākatā dhammā na nirujjhissantīti
 aggamaggassa  bhaṅgakkhaṇe arahantānaṃ asaññasattānaṃ tesaṃ tattha kusalā dhammā na nirujjhissanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na nirujjhissanti abyākatā ca dhammā  na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhissantīti āmantā
- (ka) yassa yattha akusalā dhammā na nirujjhissanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhissantīti āmantā
+  yassa yattha akusalā dhammā na nirujjhissanti tassa tattha abyākatā dhammā na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na nirujjhissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana  yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana  yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
 
 
- (ka) yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhantīti
+  yassa kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā nirujjhittha no ca tesaṃ  kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā ca dhammā nirujjhittha kusalā ca dhammā nirujjhanti
-(ka) yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha  tassa kusalā dhammā nirujjhantīti
+ yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha  tassa kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha no ca tesaṃ kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha kusalā ca dhammā nirujjhanti
- (ka) yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhantīti
+  yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha no ca tesaṃ akusalā dhammā nirujjhanti akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhanti
 
  yattha kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhitthāti
-(ga) anulomapuggalokāsā
- (ka) yassa  yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa  vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhantīti
+ anulomapuggalokāsā
+  yassa  yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhitthāti āmantā
+ yassa  vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā nirujjhittha kusalā ca dhammā nirujjhanti
-(ka) yassa  yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhantīti
+ yassa  yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā nirujjhanti
- (ka) yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhantīti
+  yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha akusalā dhammā nirujjhanti akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā nirujjhanti
 
- (ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhantīti natthi
-(ka) yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa  vā pana abyākatā dhammā  na nirujjhittha tassa kusalā dhammā na nirujjhantīti natthi
- (ka) yassa  akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhantīti natthi
+  yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
+ yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na nirujjhantīti natthi
+ yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yassa  vā pana abyākatā dhammā  na nirujjhittha tassa kusalā dhammā na nirujjhantīti natthi
+  yassa  akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yassa vā pana abyākatā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhantīti natthi
 
  yattha kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhitthāti
 
- (ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhitthāti
+  yassa yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhitthāti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha akusalā dhammā na nirujjhittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhantīti āmantā
-(ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na nirujjhantīti āmantā
+ yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhitthāti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā  dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na  nirujjhantīti āmantā
- (ka) yassa yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na  nirujjhantīti āmantā
+  yassa yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhitthāti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhantīti āmantā
 
 
- (ka) yassa  kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhissantīti
+  yassa  kusalā dhammā nirujjhanti tassa akusalā dhammā nirujjhissantīti
 aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā nirujjhanti no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ kusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā ca dhammā nirujjhanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ  asaññasattānaṃ tesaṃ akusalā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā ca dhammā nirujjhissanti  kusalā ca dhammā nirujjhanti
-(ka) yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhantīti
+ yassa kusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhanti
- (ka) yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhantīti
+  yassa akusalā dhammā nirujjhanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ akusalā dhammā nirujjhanti akusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhanti
 
  yattha kusalā dhammā nirujjhanti tattha akusalā dhammā nirujjhissantīti
 
- (ka) yassa  yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhissantīti
+  yassa  yattha kusalā dhammā nirujjhanti tassa tattha akusalā dhammā nirujjhissantīti
 aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā nirujjhanti no ca tesaṃ tattha akusalā dhammā  nirujjhissanti itaresaṃ kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā nirujjhanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhantīti
+ yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhanti
-(ka) yassa yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhantīti
+ yassa yattha kusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā nirujjhanti kusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhanti
- (ka) yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhantīti
+  yassa yattha akusalā dhammā nirujjhanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhantīti
 sabbesaṃ  cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe  asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā nirujjhanti akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhanti
 
- (ka) yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhissantīti
+  yassa kusalā dhammā na nirujjhanti tassa akusalā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe  nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na nirujjhanti no ca tesaṃ akusalā dhammā na nirujjhissanti aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhantīti
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhantīti
 aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā na nirujjhissanti no ca tesaṃ kusalā dhammā na nirujjhanti aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na nirujjhanti
-(ka) yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa kusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa  bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na nirujjhanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ  kusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhantīti āmantā
- (ka) yassa akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhantīti āmantā
+  yassa akusalā dhammā na nirujjhanti tassa abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na nirujjhanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhantīti āmantā
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhantīti āmantā
 
  yattha kusalā dhammā na nirujjhanti tattha akusalā dhammā na nirujjhissantīti
 
- (ka) yassa  yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhissantīti
+  yassa  yattha kusalā dhammā na nirujjhanti tassa tattha akusalā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha akusalā dhammā na nirujjhissanti aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti  tassa cittassa uppādakkhaṇe asaññasattānaṃ  tesaṃ tattha kusalā ca dhammā na nirujjhanti akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhantīti
+ yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhantīti
 aggamaggassa bhaṅgakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na nirujjhanti aggamaggassa uppādakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na nirujjhanti
-(ka) yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa yattha kusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe kusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhantīti āmantā
- (ka) yassa yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhantīti āmantā
+  yassa yattha akusalā dhammā na nirujjhanti tassa tattha abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa uppādakkhaṇe akusalavippayuttacittassa  bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na nirujjhanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na nirujjhanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhantīti āmantā
 
 
- (ka) yassa  kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhissantīti
+  yassa  kusalā dhammā nirujjhittha tassa akusalā dhammā nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā nirujjhittha no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā nirujjhittha akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhitthāti āmantā
-(ka) yassa kusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhissantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā nirujjhitthāti āmantā
+ yassa kusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā nirujjhittha no ca tesaṃ abyākatā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā nirujjhittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhitthāti āmantā
- (ka) yassa  akusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhissantīti
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā nirujjhitthāti āmantā
+  yassa  akusalā dhammā nirujjhittha tassa abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā nirujjhittha no ca tesaṃ abyākatā dhammā nirujjhissanti itaresaṃ tesaṃ akusalā ca dhammā nirujjhittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā nirujjhitthāti āmantā
 
  yattha  kusalā dhammā nirujjhittha tattha akusalā dhammā nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhissantīti
+  yassa yattha kusalā dhammā nirujjhittha tassa tattha akusalā dhammā nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā nirujjhittha no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā nirujjhittha akusalā ca dhammā nirujjhissanti
-(kha) yassa  vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhitthāti
+ yassa  vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha akusalā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhittha
-(ka) yassa yattha kusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhissantīti
+ yassa yattha kusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ  tattha kusalā dhammā nirujjhittha no ca tesaṃ tattha abyākatā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā nirujjhittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhitthāti
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ  dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā nirujjhittha
- (ka) yassa yattha akusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhissantīti
+  yassa yattha akusalā dhammā nirujjhittha tassa tattha abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā nirujjhittha no ca tesaṃ tattha abyākatā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā nirujjhittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhitthāti
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā nirujjhittha
 
- (ka) yassa  kusalā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhissantīti natthi
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhitthāti nirujjhittha
-(ka) yassa  kusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhitthāti nirujjhittha
- (ka) yassa  akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
+  yassa  kusalā dhammā na nirujjhittha tassa akusalā dhammā na nirujjhissantīti natthi
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhitthāti nirujjhittha
+ yassa  kusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhissantīti natthi
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na nirujjhitthāti nirujjhittha
+  yassa  akusalā dhammā na nirujjhittha tassa abyākatā dhammā na nirujjhissantīti natthi
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
 
  yattha kusalā dhammā na nirujjhittha tattha akusalā dhammā na nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhissantīti
+  yassa yattha kusalā dhammā na nirujjhittha tassa tattha akusalā dhammā na nirujjhissantīti
 suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na nirujjhittha no ca tesaṃ tattha akusalā dhammā na nirujjhissanti asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na nirujjhittha akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhitthāti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na nirujjhittha asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na nirujjhittha
-(ka) yassa  yattha kusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhitthāti nirujjhittha
- (ka) yassa yattha akusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yassa  vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhitthāti nirujjhittha
+ yassa  yattha kusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na nirujjhitthāti nirujjhittha
+  yassa yattha akusalā dhammā na nirujjhittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yassa  vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na nirujjhitthāti nirujjhittha
 
 
 
 
- (ka) yassa  kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhantīti no
-(kha) yassa vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā uppajjantīti no
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhantīti no
-(kha) yassa vā pana abyākatā dhammā nirujjhanti tassa kusalā dhammā uppajjantīti no
- (ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhantīti no
-(kha) yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā uppajjantīti no
+  yassa  kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhantīti no
+ yassa vā pana akusalā dhammā nirujjhanti tassa kusalā dhammā uppajjantīti no
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhantīti no
+ yassa vā pana abyākatā dhammā nirujjhanti tassa kusalā dhammā uppajjantīti no
+  yassa akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhantīti no
+ yassa vā pana abyākatā dhammā nirujjhanti tassa akusalā dhammā uppajjantīti no
 
- (ka) yattha  kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana akusalā dhammā nirujjhanti tattha  kusalā dhammā uppajjantīti āmantā
-(ka) yattha kusalā dhammā uppajjanti tattha abyākatā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhanti tattha kusalā dhammā uppajjantīti
+  yattha  kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhantīti āmantā
+ yattha vā pana akusalā dhammā nirujjhanti tattha  kusalā dhammā uppajjantīti āmantā
+ yattha kusalā dhammā uppajjanti tattha abyākatā dhammā nirujjhantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhanti tattha kusalā dhammā uppajjantīti
 asaññasatte tattha abyākatā dhammā nirujjhanti no ca tattha kusalā dhammā uppajjanti catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhanti kusalā ca dhammā uppajjanti
- (ka) yattha akusalā dhammā uppajjanti tattha abyākatā dhammā nirujjhantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā uppajjantīti
+  yattha akusalā dhammā uppajjanti tattha abyākatā dhammā nirujjhantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhanti tattha akusalā dhammā uppajjantīti
 asaññasatte tattha abyākatā dhammā nirujjhanti no ca tattha akusalā dhammā uppajjanti catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhanti akusalā ca dhammā uppajjanti
 
- (ka) yassa  yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhantīti no
-(kha) yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā uppajjantīti no
-(ka) yassa  yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhantīti no
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha kusalā dhammā uppajjantīti no
- (ka) yassa  yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhantīti no
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā uppajjantīti no
+  yassa  yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhantīti no
+ yassa vā pana yattha akusalā dhammā nirujjhanti tassa tattha kusalā dhammā uppajjantīti no
+ yassa  yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhantīti no
+ yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha kusalā dhammā uppajjantīti no
+  yassa  yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhantīti no
+ yassa vā pana yattha abyākatā dhammā nirujjhanti tassa tattha akusalā dhammā uppajjantīti no
 
- (ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhantīti
+  yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhantīti
 akusalānaṃ bhaṅgakkhaṇe tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ akusalā dhammā na nirujjhanti kusalavippayuttacittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhanti
-(kha) yassa vā pana akusalā dhammā na nirujjhanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana akusalā dhammā na nirujjhanti tassa kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ akusalā dhammā na nirujjhanti no ca tesaṃ kusalā dhammā na uppajjanti akusalavippayuttacittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā ca dhammā na nirujjhanti kusalā ca dhammā na uppajjanti
-(ka) yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhantīti
+ yassa kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ  bhaṅgakkhaṇe tesaṃ kusalā  ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana abyākatā dhammā na nirujjhanti tassa kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ abyākatā  dhammā na nirujjhanti no ca tesaṃ kusalā dhammā na uppajjanti sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti kusalā ca dhammā na uppajjanti
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhantīti
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na uppajjantīti
+ yassa vā pana abyākatā dhammā na nirujjhanti tassa akusalā dhammā na uppajjantīti
 akusalānaṃ uppādakkhaṇe tesaṃ abyākatā dhammā na nirujjhanti no ca tesaṃ akusalā dhammā na uppajjanti sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na uppajjanti
 
- (ka) yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na  nirujjhantīti āmantā
-(kha) yattha  vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na uppajjantīti āmantā
-(ka) yattha kusalā dhammā na uppajjanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha kusalā dhammā na uppajjantīti natthi
- (ka) yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na uppajjantīti natthi
+  yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na  nirujjhantīti āmantā
+ yattha  vā pana akusalā dhammā na nirujjhanti tattha kusalā dhammā na uppajjantīti āmantā
+ yattha kusalā dhammā na uppajjanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
+ yattha vā pana abyākatā dhammā na nirujjhanti tattha kusalā dhammā na uppajjantīti natthi
+  yattha akusalā dhammā na uppajjanti tattha abyākatā dhammā na nirujjhantīti nirujjhanti
+ yattha vā pana abyākatā dhammā na nirujjhanti tattha akusalā dhammā na uppajjantīti natthi
 
- (ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhantīti
+  yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhantīti
 akusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti  no ca tesaṃ tattha akusalā dhammā na nirujjhanti kusalavippayuttacittassa uppādakkhaṇe akusalavippayuttacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha akusalā dhammā na nirujjhanti tassa tattha kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā dhammā na nirujjhanti no ca tesaṃ tattha kusalā dhammā na uppajjanti akusalavippayuttacittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhanti kusalā ca dhammā na uppajjanti
-(ka) yassa  yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhantīti
+ yassa  yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhantīti
 sabbesaṃ  cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhanti tassa tattha kusalā dhammā na uppajjantīti
 kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti no ca tesaṃ tattha kusalā dhammā na uppajjanti sabbesaṃ upapajjantānaṃ pavatte kusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā na nirujjhanti kusalā ca dhammā na uppajjanti
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhantīti
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhantīti
 sabbesaṃ cavantānaṃ pavatte cittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhanti sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhanti
-(kha) yassa vā pana yattha  abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na uppajjantīti
+ yassa vā pana yattha  abyākatā dhammā na nirujjhanti tassa tattha akusalā dhammā na uppajjantīti
 akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā dhammā na nirujjhanti no ca tesaṃ tattha akusalā dhammā na uppajjanti sabbesaṃ upapajjantānaṃ pavatte akusalavippayuttacittassa uppādakkhaṇe arūpe kusalākusalānaṃ  bhaṅgakkhaṇe tesaṃ tattha abyākatā ca dhammā na nirujjhanti akusalā ca dhammā na uppajjanti
 
 
- (ka) yassa  kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjitthāti āmantā
-(ka) yassa kusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā uppajjitthāti āmantā
- (ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjitthāti āmantā
+  yassa  kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjitthāti āmantā
+ yassa kusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā uppajjitthāti āmantā
+  yassa akusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjitthāti āmantā
 
- (ka) yattha kusalā dhammā uppajjittha tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā uppajjitthāti āmantā
-(ka) yattha kusalā dhammā uppajjittha tattha abyākatā dhammā  nirujjhitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhittha tattha kusalā dhammā uppajjitthāti
+  yattha kusalā dhammā uppajjittha tattha akusalā dhammā nirujjhitthāti āmantā
+ yattha vā pana akusalā dhammā nirujjhittha tattha kusalā dhammā uppajjitthāti āmantā
+ yattha kusalā dhammā uppajjittha tattha abyākatā dhammā  nirujjhitthāti āmantā
+ yattha vā pana abyākatā dhammā nirujjhittha tattha kusalā dhammā uppajjitthāti
 asaññasatte tattha abyākatā dhammā nirujjhittha no ca tattha kusalā dhammā uppajjittha catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā uppajjittha
- (ka) yattha  akusalā dhammā uppajjittha tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā uppajjitthāti
+  yattha  akusalā dhammā uppajjittha tattha abyākatā dhammā nirujjhitthāti āmantā
+ yattha vā pana abyākatā dhammā nirujjhittha tattha akusalā dhammā uppajjitthāti
 asaññasatte tattha abyākatā dhammā nirujjhittha no ca tattha akusalā dhammā uppajjittha catuvokāre pañcavokāre  tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjittha
 
- (ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjitthāti
+  yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha akusalā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā nirujjhittha kusalā ca dhammā uppajjittha
-(ka) yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā  dhammā nirujjhittha tassa tattha kusalā dhammā uppajjitthāti
+ yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā  dhammā nirujjhittha tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā uppajjittha
- (ka) yassa  yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjitthāti
+  yassa  yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha akusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjittha
 
- (ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhitthāti natthi
-(kha) yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjitthāti natthi
-(ka) yassa  kusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na uppajjitthāti natthi
- (ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhitthāti natthi
-(kha) yassa vā pana abyākatā dhammā na  nirujjhittha tassa akusalā dhammā na uppajjitthāti natthi
+  yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhitthāti natthi
+ yassa vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjitthāti natthi
+ yassa  kusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhitthāti natthi
+ yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na uppajjitthāti natthi
+  yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhitthāti natthi
+ yassa vā pana abyākatā dhammā na  nirujjhittha tassa akusalā dhammā na uppajjitthāti natthi
 
- (ka) yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na nirujjhitthāti āmantā
-(kha) yattha  vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na uppajjitthāti āmantā
-(ka) yattha kusalā dhammā na uppajjittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yattha vā pana abyākatā dhammā na nirujjhittha tattha kusalā dhammā na uppajjitthāti natthi
- (ka) yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yattha vā pana abyākatā dhammā na nirujjhittha tattha akusalā dhammā na uppajjitthāti natthi
+  yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na nirujjhitthāti āmantā
+ yattha  vā pana akusalā dhammā na nirujjhittha tattha kusalā dhammā na uppajjitthāti āmantā
+ yattha kusalā dhammā na uppajjittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yattha vā pana abyākatā dhammā na nirujjhittha tattha kusalā dhammā na uppajjitthāti natthi
+  yattha akusalā dhammā na uppajjittha tattha abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yattha vā pana abyākatā dhammā na nirujjhittha tattha akusalā dhammā na uppajjitthāti natthi
 
- (ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhitthāti
+  yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye akusale citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha no ca tesaṃ tattha akusalā dhammā na nirujjhittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
-(ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
+ yassa yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjittha no  ca tesaṃ tattha abyākatā dhammā  na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha abyākatā ca dhammā na nirujjhittha
-(kha) yassa  vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa  vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjitthāti āmantā
+  yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjittha no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha akusalā ca dhammā na uppajjittha abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjitthāti āmantā
 
 
- (ka) yassa kusalā dhammā uppajjissanti tassa akusalā dhammā nirujjhissantīti
+  yassa kusalā dhammā uppajjissanti tassa akusalā dhammā nirujjhissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjissanti no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjissanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjissantīti āmantā
-(ka) yassa kusalā dhammā uppajjissanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā  nirujjhissanti tassa kusalā dhammā uppajjissantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjissantīti āmantā
+ yassa kusalā dhammā uppajjissanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā  nirujjhissanti tassa kusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā uppajjissanti itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjissanti
- (ka) yassa  akusalā dhammā uppajjissanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjissantīti
+  yassa  akusalā dhammā uppajjissanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ abyākatā dhammā nirujjhissanti  no ca tesaṃ akusalā dhammā uppajjissanti itaresaṃ tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti
 
- (ka) yattha kusalā dhammā uppajjissanti tattha akusalā dhammā nirujjhissantīti āmantā
-(kha) yattha vā pana akusalā dhammā nirujjhissanti tattha kusalā dhammā uppajjissantīti āmantā
-(ka) yattha kusalā dhammā uppajjissanti tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhissanti tattha kusalā dhammā uppajjissantīti
+  yattha kusalā dhammā uppajjissanti tattha akusalā dhammā nirujjhissantīti āmantā
+ yattha vā pana akusalā dhammā nirujjhissanti tattha kusalā dhammā uppajjissantīti āmantā
+ yattha kusalā dhammā uppajjissanti tattha abyākatā dhammā nirujjhissantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhissanti tattha kusalā dhammā uppajjissantīti
 asaññasatte tattha abyākatā dhammā nirujjhissanti no ca tattha kusalā dhammā uppajjissanti catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjissanti
- (ka) yattha  akusalā dhammā uppajjissanti tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yattha vā pana abyākatā dhammā nirujjhissanti tattha akusalā dhammā uppajjissantīti
+  yattha  akusalā dhammā uppajjissanti tattha abyākatā dhammā nirujjhissantīti āmantā
+ yattha vā pana abyākatā dhammā nirujjhissanti tattha akusalā dhammā uppajjissantīti
 asaññasatte tattha abyākatā dhammā nirujjhissanti no ca tattha akusalā  dhammā uppajjissanti catuvokāre pañcavokāre tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti
 
- (ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā nirujjhissantīti
+  yassa yattha kusalā dhammā uppajjissanti tassa tattha akusalā dhammā nirujjhissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjissanti no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjissanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjissantīti āmantā
-(ka) yassa yattha kusalā dhammā uppajjissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti  tassa tattha kusalā dhammā uppajjissantīti
+ yassa vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjissantīti āmantā
+ yassa yattha kusalā dhammā uppajjissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti  tassa tattha kusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjissanti
- (ka) yassa  yattha akusalā dhammā uppajjissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjissantīti
+  yassa  yattha akusalā dhammā uppajjissanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti  no ca tesaṃ tattha kusalā dhammā uppajjissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjissanti
 
- (ka) yassa kusalā dhammā na uppajjissanti tassa akusalā dhammā na nirujjhissantīti āmantā
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjissantīti
+  yassa kusalā dhammā na uppajjissanti tassa akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na nirujjhissanti no ca tesaṃ kusalā dhammā na uppajjissanti aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjissanti
-(ka) yassa kusalā dhammā na uppajjissanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa kusalā dhammā na uppajjissanti tassa abyākatā dhammā na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ tesaṃ kusalā dhammā na uppajjissanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā  pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjissantīti āmantā
- (ka) yassa akusalā dhammā na uppajjissanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa vā  pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjissantīti āmantā
+  yassa akusalā dhammā na uppajjissanti tassa abyākatā dhammā na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ akusalā dhammā na uppajjissanti no ca tesaṃ  abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā  ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjissantīti āmantā
 
- (ka) yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na nirujjhissantīti āmantā
-(kha) yattha vā pana akusalā dhammā na nirujjhissanti tattha kusalā dhammā na uppajjissantīti āmantā
-(ka) yattha kusalā dhammā na uppajjissanti tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhissanti tattha kusalā dhammā na uppajjissantīti natthi
- (ka) yattha akusalā dhammā na uppajjissanti tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yattha vā pana abyākatā dhammā na nirujjhissanti tattha akusalā dhammā na uppajjissantīti natthi
+  yattha kusalā dhammā na uppajjissanti tattha akusalā dhammā na nirujjhissantīti āmantā
+ yattha vā pana akusalā dhammā na nirujjhissanti tattha kusalā dhammā na uppajjissantīti āmantā
+ yattha kusalā dhammā na uppajjissanti tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yattha vā pana abyākatā dhammā na nirujjhissanti tattha kusalā dhammā na uppajjissantīti natthi
+  yattha akusalā dhammā na uppajjissanti tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yattha vā pana abyākatā dhammā na nirujjhissanti tattha akusalā dhammā na uppajjissantīti natthi
 
- (ka) yassa  yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjissantīti
+  yassa  yattha kusalā dhammā na uppajjissanti tassa tattha akusalā dhammā na nirujjhissantīti āmantā
+ yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjissantīti
 yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na uppajjissanti aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjissanti
-(ka) yassa  yattha kusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa  yattha kusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjissanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjissantīti āmantā
- (ka) yassa  yattha akusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjissantīti āmantā
+  yassa  yattha akusalā dhammā na uppajjissanti tassa tattha abyākatā dhammā na nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjissanti no  ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā ca dhammā na uppajjissanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjissantīti āmantā
 
 
- (ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjantīti
+  yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhitthāti āmantā
+ yassa vā pana akusalā dhammā nirujjhittha tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ  asaññasattānaṃ tesaṃ akusalā dhammā nirujjhittha no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā nirujjhittha kusalā ca dhammā uppajjanti
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā uppajjantīti
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha kusalā ca dhammā uppajjanti
- (ka) yassa  akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjantīti
+  yassa  akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana abyākatā dhammā nirujjhittha tassa akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhittha no ca tesaṃ akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjanti
 
  yattha  kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhitthāti
 
- (ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhitthāti āmantā
-(kha) yassa  vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjantīti
+  yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhitthāti āmantā
+ yassa  vā pana yattha akusalā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā nirujjhittha kusalā ca dhammā uppajjanti
-(ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjantīti
+ yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe  asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha kusalā ca dhammā uppajjanti
- (ka) yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjantīti
+  yassa yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhitthāti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhittha tassa tattha akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhittha no ca tesaṃ tattha akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhittha akusalā ca dhammā uppajjanti
 
- (ka) yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa  vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjantīti natthi
-(ka) yassa  kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na uppajjantīti natthi
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana abyākatā dhammā  na nirujjhittha tassa akusalā dhammā na uppajjantīti natthi
+  yassa kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhitthāti nirujjhittha
+ yassa  vā pana akusalā dhammā na nirujjhittha tassa kusalā dhammā na uppajjantīti natthi
+ yassa  kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yassa vā pana abyākatā dhammā na nirujjhittha tassa kusalā dhammā na uppajjantīti natthi
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhitthāti nirujjhittha
+ yassa vā pana abyākatā dhammā  na nirujjhittha tassa akusalā dhammā na uppajjantīti natthi
 
  yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na nirujjhitthāti
 
- (ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhitthāti
+  yassa yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na nirujjhittha suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjantīti āmantā
-(ka) yassa  yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjantīti āmantā
+ yassa  yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjantīti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhitthāti
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha kusalā dhammā na uppajjantīti āmantā
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhitthāti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa  uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhittha suddhāvāsaṃ upapajjantānaṃ  tesaṃ tattha akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhittha
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjantīti āmantā
+ yassa vā pana yattha abyākatā dhammā na nirujjhittha tassa tattha akusalā dhammā na uppajjantīti āmantā
 
 
- (ka) yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhissantīti
+  yassa kusalā dhammā uppajjanti tassa akusalā dhammā nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ kusalā dhammā uppajjanti no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ kusalānaṃ  uppādakkhaṇe tesaṃ kusalā ca dhammā uppajjanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ akusalā ca dhammā nirujjhissanti kusalā ca dhammā uppajjanti
-(ka) yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā  nirujjhissanti tassa kusalā dhammā uppajjantīti
+ yassa kusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā  nirujjhissanti tassa kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjanti
- (ka) yassa akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjantīti
+  yassa akusalā dhammā uppajjanti tassa abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ abyākatā dhammā nirujjhissanti no ca tesaṃ akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjanti
 
  yattha  kusalā dhammā uppajjanti tattha akusalā dhammā nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhissantīti
+  yassa yattha kusalā dhammā uppajjanti tassa tattha akusalā dhammā nirujjhissantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā uppajjanti no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ kusalānaṃ uppādakkhaṇe tesaṃ tattha kusalā ca dhammā uppajjanti akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā nirujjhissanti tassa  tattha kusalā dhammā uppajjantīti
+ yassa vā pana yattha akusalā dhammā nirujjhissanti tassa  tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha akusalā ca dhammā nirujjhissanti kusalā ca dhammā uppajjanti
-(ka) yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjantīti
+ yassa yattha kusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā uppajjanti kusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjanti
- (ka) yassa  yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjantīti
+  yassa  yattha akusalā dhammā uppajjanti tassa tattha abyākatā dhammā nirujjhissantīti āmantā
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā uppajjanti akusalānaṃ uppādakkhaṇe tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā  ca dhammā uppajjanti
 
- (ka) yassa  kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhissantīti
+  yassa  kusalā dhammā na uppajjanti tassa akusalā dhammā na nirujjhissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ akusalā dhammā na nirujjhissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjantīti
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ akusalā dhammā na nirujjhissanti no ca tesaṃ kusalā dhammā na uppajjanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjanti
-(ka) yassa  kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa  kusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ kusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā ca dhammā na  uppajjanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjantīti āmantā
- (ka) yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhissantīti
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjantīti āmantā
+  yassa akusalā dhammā na uppajjanti tassa abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe nirodhasamāpannānaṃ asaññasattānaṃ tesaṃ akusalā dhammā na uppajjanti no ca tesaṃ abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjantīti āmantā
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjantīti āmantā
 
  yattha kusalā dhammā na uppajjanti tattha akusalā dhammā na nirujjhissantīti
 
- (ka) yassa  yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhissantīti
+  yassa  yattha kusalā dhammā na uppajjanti tassa tattha akusalā dhammā na nirujjhissantīti
 sabbesaṃ  cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha akusalā dhammā na nirujjhissanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjanti akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā na  nirujjhissanti tassa tattha kusalā dhammā na uppajjantīti
+ yassa vā pana yattha akusalā dhammā na  nirujjhissanti tassa tattha kusalā dhammā na uppajjantīti
 aggamaggassa uppādakkhaṇe yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa uppādakkhaṇe tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na uppajjanti aggamaggassa bhaṅgakkhaṇe arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tassa cittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjanti
-(ka) yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa yattha kusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe kusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha kusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjantīti āmantā
- (ka) yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhissantīti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjantīti āmantā
+  yassa yattha akusalā dhammā na uppajjanti tassa tattha abyākatā dhammā na nirujjhissantīti
 sabbesaṃ cittassa bhaṅgakkhaṇe akusalavippayuttacittassa uppādakkhaṇe asaññasattānaṃ tesaṃ tattha akusalā dhammā na uppajjanti no ca tesaṃ tattha abyākatā dhammā na nirujjhissanti pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā  ca dhammā na uppajjanti abyākatā ca dhammā na nirujjhissanti
-(kha) yassa  vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjantīti āmantā
+ yassa  vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjantīti āmantā
 
 
- (ka) yassa  kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhissantīti
+  yassa  kusalā dhammā uppajjittha tassa akusalā dhammā nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ kusalā dhammā uppajjittha no ca tesaṃ akusalā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjittha akusalā ca dhammā nirujjhissanti
-(kha) yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjitthāti āmantā
-(ka) yassa kusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhissantīti
+ yassa vā pana akusalā dhammā nirujjhissanti tassa kusalā dhammā uppajjitthāti āmantā
+ yassa kusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ kusalā dhammā uppajjittha no ca tesaṃ abyākatā dhammā nirujjhissanti itaresaṃ tesaṃ kusalā ca dhammā uppajjittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā uppajjitthāti āmantā
- (ka) yassa akusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhissantīti
+ yassa vā pana abyākatā dhammā nirujjhissanti tassa kusalā dhammā uppajjitthāti āmantā
+  yassa akusalā dhammā uppajjittha tassa abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ akusalā dhammā uppajjittha no ca tesaṃ abyākatā dhammā nirujjhissanti itaresaṃ tesaṃ akusalā ca dhammā uppajjittha abyākatā ca dhammā nirujjhissanti 
-(kha) yassa  vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjitthāti āmantā
+ yassa  vā pana abyākatā dhammā nirujjhissanti tassa akusalā dhammā uppajjitthāti āmantā
 
  yattha kusalā dhammā uppajjittha tattha akusalā dhammā nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhissantīti
+  yassa yattha kusalā dhammā uppajjittha tassa tattha akusalā dhammā nirujjhissantīti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha kusalā dhammā uppajjittha no ca tesaṃ tattha akusalā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha kusalā ca dhammā uppajjittha akusalā ca dhammā nirujjhissanti
-(kha) yassa  vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjitthāti
+ yassa  vā pana yattha akusalā dhammā nirujjhissanti tassa tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha akusalā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā nirujjhissanti kusalā ca dhammā uppajjittha
-(ka) yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhissantīti
+ yassa yattha kusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha kusalā dhammā uppajjittha no ca tesaṃ tattha abyākatā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ  tesaṃ tattha kusalā ca dhammā uppajjittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa  tattha kusalā dhammā uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa  tattha kusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha kusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti kusalā ca dhammā uppajjittha
- (ka) yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhissantīti
+  yassa yattha akusalā dhammā uppajjittha tassa tattha abyākatā dhammā nirujjhissantīti
 pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha akusalā dhammā uppajjittha no ca tesaṃ tattha abyākatā dhammā nirujjhissanti itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha akusalā ca dhammā uppajjittha abyākatā ca dhammā nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjitthāti
+ yassa vā pana yattha abyākatā dhammā nirujjhissanti tassa tattha akusalā dhammā uppajjitthāti
 suddhāvāsānaṃ dutiye citte vattamāne asaññasattānaṃ tesaṃ tattha abyākatā dhammā nirujjhissanti no ca tesaṃ tattha akusalā dhammā uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha abyākatā ca dhammā nirujjhissanti akusalā ca dhammā uppajjittha
 
- (ka) yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhissantīti natthi
-(kha) yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
-(ka) yassa  kusalā dhammā na uppajjittha tassa abyākatā dhammā  na nirujjhissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
- (ka) yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhissantīti natthi
-(kha) yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjitthāti uppajjittha
+  yassa kusalā dhammā na uppajjittha tassa akusalā dhammā na nirujjhissantīti natthi
+ yassa vā pana akusalā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
+ yassa  kusalā dhammā na uppajjittha tassa abyākatā dhammā  na nirujjhissantīti natthi
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa kusalā dhammā na uppajjitthāti uppajjittha
+  yassa akusalā dhammā na uppajjittha tassa abyākatā dhammā na nirujjhissantīti natthi
+ yassa vā pana abyākatā dhammā na nirujjhissanti tassa akusalā dhammā na uppajjitthāti uppajjittha
 
  yattha kusalā dhammā na uppajjittha tattha akusalā dhammā na nirujjhissantīti
 
- (ka) yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhissantīti
+  yassa yattha kusalā dhammā na uppajjittha tassa tattha akusalā dhammā na nirujjhissantīti
 suddhāvāsānaṃ dutiye citte vattamāne tesaṃ tattha kusalā dhammā na uppajjittha no ca tesaṃ tattha akusalā dhammā na nirujjhissanti asaññasattānaṃ tesaṃ tattha kusalā ca dhammā na uppajjittha akusalā ca dhammā na nirujjhissanti
-(kha) yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjitthāti
+ yassa vā pana yattha akusalā dhammā na nirujjhissanti tassa tattha kusalā dhammā na uppajjitthāti
 aggamaggasamaṅgīnaṃ arahantānaṃ yassa cittassa anantarā aggamaggaṃ paṭilabhissanti tesaṃ tattha akusalā dhammā na nirujjhissanti no ca tesaṃ tattha kusalā dhammā na uppajjittha asaññasattānaṃ tesaṃ tattha akusalā ca dhammā na nirujjhissanti kusalā ca dhammā na uppajjittha
-(ka) yassa  yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na  uppajjitthāti uppajjittha
- (ka) yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
-(kha) yassa vā pana yattha abyākatā  dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjitthāti uppajjittha
+ yassa  yattha kusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yassa vā pana yattha abyākatā dhammā na nirujjhissanti tassa tattha kusalā dhammā na  uppajjitthāti uppajjittha
+  yassa yattha akusalā dhammā na uppajjittha tassa tattha abyākatā dhammā na nirujjhissantīti nirujjhissanti
+ yassa vā pana yattha abyākatā  dhammā na nirujjhissanti tassa tattha akusalā dhammā na uppajjitthāti uppajjittha
 
 
 
- (ka) yo kusalaṃ dhammaṃ bhāveti so akusalaṃ dhammaṃ pajahatīti āmantā
-(kha) yo vā pana akusalaṃ dhammaṃ pajahati so kusalaṃ dhammaṃ bhāvetīti āmantā
-(ka) yo kusalaṃ dhammaṃ na bhāveti so akusalaṃ dhammaṃ nappajahatīti āmantā
-(kha) yo vā pana akusalaṃ dhammaṃ nappajahati so kusalaṃ dhammaṃ na bhāvetīti āmantā
+  yo kusalaṃ dhammaṃ bhāveti so akusalaṃ dhammaṃ pajahatīti āmantā
+ yo vā pana akusalaṃ dhammaṃ pajahati so kusalaṃ dhammaṃ bhāvetīti āmantā
+ yo kusalaṃ dhammaṃ na bhāveti so akusalaṃ dhammaṃ nappajahatīti āmantā
+ yo vā pana akusalaṃ dhammaṃ nappajahati so kusalaṃ dhammaṃ na bhāvetīti āmantā
 
 
 

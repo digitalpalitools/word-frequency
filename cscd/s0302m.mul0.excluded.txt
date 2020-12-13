@@ -10,7 +10,7 @@ Nidānavaggo
 2. Vibhaṅgasuttaṃ
 2.…pe…‘‘,,.,;’’.‘‘,’’.–
 ‘‘,,?,,;;;;;;;;;;..
-‘‘,,?;.(jīvitindriyassa upacchedo) (syā. kaṃ.) evamuparipi, aṭṭhakathāyaṃ pana na dissati,.,.,,.
+‘‘,,?;.( )(jīvitindriyassa upacchedo) (syā. kaṃ.) evamuparipi, aṭṭhakathāyaṃ pana na dissati,.,.,,.
 ‘‘,,?.,,.
 ‘‘,,?,,–,,.,,.
 ‘‘,,?,,–,,,.,,.
@@ -53,7 +53,7 @@ Nidānavaggo
 ‘‘,,–‘,’?,,–‘,’’’.
 ‘‘,,–‘,’?,,–‘,’’’.
 ‘‘;…pe….‘,’,,,,,,’’..
-.
+(Sattannampi buddhānaṃ evaṃ vitthāretabbo).
 5. Sikhīsuttaṃ
 5.,,…pe….
 6. Vessabhūsuttaṃ
@@ -114,8 +114,8 @@ Buddhavaggo paṭhamo.
 ‘‘,,‘’‘,’.‘,,’‘,’.‘,,’‘,’.‘,,’‘,’.‘,,’‘,,,,,’.‘’‘,,.,,;,,’.ayaṃ cakāro sī. potthake natthi,,.ayaṃ cakāro sī. potthake natthi,,’’.
 ‘‘‘’paṭisaṃvediyatīti (sī. pī. ka.),,‘’.‘’,,‘’.,,–‘;…pe….;…pe…’’’.
 ,–‘‘,,,,,…pe…;.,,.,,,’’.
-‘‘,,,,.accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)bhikkhū ākaṅkhamānā (syā. kaṃ. pī. ka.).’’.
-‘‘,,,,.accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)bhikkhū ākaṅkhamānā (syā. kaṃ. pī. ka.).,accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)’’.
+‘‘,,,,.accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)(parivutthaparivāsaṃ)bhikkhū ākaṅkhamānā (syā. kaṃ. pī. ka.).’’.
+‘‘,,,,.accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)(parivutthaparivāsaṃ)bhikkhū ākaṅkhamānā (syā. kaṃ. pī. ka.).,accayena parivuṭṭhaparivāsaṃ (syā. kaṃ. pī. ka.)(parivutthaparivāsaṃ)’’.
 ,.––.‘‘,,’’...
 8. Timbarukasuttaṃ
 18..;..–
@@ -370,10 +370,10 @@ upassutiṃ (sī. pī.)..–‘‘,,’’?‘‘,’’.‘‘,,;,,;,,.atthasa�
 ‘‘,,–‘;…pe….;…pe…’’’.
 ,–‘‘,…pe…’’..
 9. Ariyasāvakasuttaṃ
-49.…pe…‘‘,,–‘,?,,( ) etthantare pāṭhā kesuci potthakesu na dissantīti sī. pī. potthakesu dassitā. tathā sati anantarasuttaṭīkāya sameti,,,,,,,,’’’?
-‘‘,,–‘,.;;( ) etthakesu pāṭhā kesuci potthakesu na dissantīti sī. pī. potthakesu dassitā. tathā sati anantarasuttaṭīkāya sameti;;;;;;;;’.–‘’’’.
-‘‘,,–‘,?,,( ) etthantare pāṭhāpi tattha tatheva dassitā,,,,,,,,’’’?
-‘‘,,–‘,.;;( ) etthantare pāṭhāpi tattha tatheva dassitā;…pe………’.–‘’’’.
+49.…pe…‘‘,,–‘,?(Kismiṃ sati saṅkhārā honti, kismiṃ sati viññāṇaṃ hoti,)( ) etthantare pāṭhā kesuci potthakesu na dissantīti sī. pī. potthakesu dassitā. tathā sati anantarasuttaṭīkāya sameti,,,,,,,,’’’?
+‘‘,,–‘,.(Avijjāya sati saṅkhārā honti; saṅkhāresu sati viññāṇaṃ hoti;)( ) etthakesu pāṭhā kesuci potthakesu na dissantīti sī. pī. potthakesu dassitā. tathā sati anantarasuttaṭīkāya sameti;;;;;;;;’.–‘’’’.
+‘‘,,–‘,?(Kismiṃ asati saṅkhārā na honti, kismiṃ asati viññāṇaṃ na hoti,)( ) etthantare pāṭhāpi tattha tatheva dassitā,,,,,,,,’’’?
+‘‘,,–‘,.(Avijjāya asati saṅkhārā na honti; saṅkhāresu asati viññāṇaṃ na hoti;)( ) etthantare pāṭhāpi tattha tatheva dassitā;…pe………’.–‘’’’.
 ‘‘,,,,,…pe…’’..
 10. Dutiyaariyasāvakasuttaṃ
 50.…pe…‘‘,,–‘,?,,,,,,,,,,’’’?
@@ -568,18 +568,18 @@ Mahāvaggo sattamo.
 8. Samaṇabrāhmaṇavaggo
 1. Jarāmaraṇasuttaṃ
 71.–.…pe…‘‘,,,,,,,,,.
-‘‘,,…pe…,,,,’’...
+‘‘,,…pe…,,,,’’.(Suttanto eko)..
 2-11. Jātisuttādidasakaṃ
 72.…pe……pe….
-…pe….
-…pe….
-…pe….
-…pe….
-…pe….
-…pe….
-…pe….
-…pe….
-‘‘,,,…pe……pe…’’..
+(3)…pe….
+(4)…pe….
+(5)…pe….
+(6)…pe….
+(7)…pe….
+(8)…pe….
+(9)…pe….
+(10)…pe….
+(11)‘‘,,,…pe……pe…’’..
 Samaṇabrāhmaṇavaggo aṭṭhamo.
 –
 ,;
@@ -589,33 +589,33 @@ Samaṇabrāhmaṇavaggo aṭṭhamo.
 ,.
 9. Antarapeyyālaṃ
 1. Satthusuttaṃ
-73.…pe…‘‘,,;;;’’...
-
+73.…pe…‘‘,,;;;’’.(Suttanto eko)..
+(Sabbesaṃ peyyālo evaṃ vitthāretabbo)
 2-11. Dutiyasatthusuttādidasakaṃ
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-,,…pe….
-‘‘,,;;;’’..
-.
+(2),,…pe….
+(3),,…pe….
+(4),,…pe….
+(5),,…pe….
+(6),,…pe….
+(7),,…pe….
+(8),,…pe….
+(9),,…pe….
+(10),,…pe….
+(11)‘‘,,;;;’’..
+(Sabbesaṃ catusaccikaṃ kātabbaṃ).
 2-12. Sikkhāsuttādipeyyālaekādasakaṃ
-‘‘,,.
-..
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
-,,…pe……pe….
+(2)‘‘,,.
+(Peyyālo. Catusaccikaṃ kātabbaṃ).
+(3),,…pe……pe….
+(4),,…pe……pe….
+(5),,…pe……pe….
+(6),,…pe……pe….
+(7),,…pe……pe….
+(8),,…pe……pe….
+(9),,…pe……pe….
+(10),,…pe……pe….
+(11),,…pe……pe….
+(12),,…pe……pe….
 Antarapeyyālo navamo.
 –
 ,;

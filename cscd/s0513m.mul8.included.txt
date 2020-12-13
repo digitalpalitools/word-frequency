@@ -1,6 +1,6 @@
 ﻿
 
- 427 gijjhajātakaṃ (1)
+ 427 gijjhajātakaṃ 
 
  parisaṅkupatho  nāma gijjhapantho sanantano
 tatrāsi mātāpitaro gijjho posesi jiṇṇake
@@ -33,7 +33,7 @@ atisīmacaro ditto gijjhovātītasāsano
 sa ve byasanaṃ pappoti akatvā vuḍḍhasāsananti
 
 
- 428 kosambiyajātakaṃ (2)
+ 428 kosambiyajātakaṃ 
 
  puthusaddo  samajano na bālo koci maññatha
 saṅghasmiṃ bhijjamānasmiṃ nāññaṃ bhiyyo amaññaruṃ
@@ -67,7 +67,7 @@ rājāva raṭṭhaṃ vijitaṃ pahāya eko care mātaṅgaraññeva nāgo
 eko care na pāpāni kayirā appossukko mātaṅgaraññeva nāgoti
 
 
- 429 mahāsuvajātakaṃ (3)
+ 429 mahāsuvajātakaṃ 
 
  dumo yadā hoti phalūpapanno bhuñjanti naṃ vihaṅgamā  sampatantā
 khīṇanti ñatvāna dumaṃ phalaccaye  disodisaṃ  yanti tato vihaṅgamā
@@ -100,7 +100,7 @@ yathāhamajja sukhito disvāna saphalaṃ dumaṃ
 pakkāmi saha bhariyāya devānaṃ nandanaṃ vananti
 
 
- 430 cūḷasuvajātakaṃ (4)
+ 430 cūḷasuvajātakaṃ 
 
  santi rukkhā haripattā  dumā nekaphalā bahū
 kasmā nu sukkhe  koḷāpe suvassa nirato mano
@@ -133,7 +133,7 @@ yathāhamajja sukhito disvāna saphalaṃ dumaṃ
 pakkāmi saha bhariyāya devānaṃ nandanaṃ vananti
 
 
- 431 haritacajātakaṃ (5)
+ 431 haritacajātakaṃ 
 
  sutaṃ metaṃ mahābrahme kāme bhuñjati hārito
 kaccetaṃ vacanaṃ tucchaṃ kacci suddho iriyyasi
@@ -163,7 +163,7 @@ tesaṃ mūlaṃ gavesissaṃ checchaṃ rāgaṃ sabandhanaṃ
 kāmarāgaṃ virājetvā brahmalokūpago ahūti
 
 
- 432 padakusalamāṇavajātakaṃ (6)
+ 432 padakusalamāṇavajātakaṃ 
 
  bahussutaṃ cittakathiṃ  gaṅgā vahati pāṭaliṃ 
 vuyhamānaka  bhaddante ekaṃ me dehi gāthakaṃ 
@@ -199,7 +199,7 @@ yatodakaṃ tadādittaṃ yato khemaṃ tato bhayaṃ
 attaguttā viharatha jātaṃ saraṇato bhayanti
 
 
- 433 lomasakassapajātakaṃ (7)
+ 433 lomasakassapajātakaṃ 
 
  assa  indasamo rāja accantaṃ ajarāmaro
 sace tvaṃ yaññaṃ yājeyya isiṃ lomasakassapaṃ
@@ -229,13 +229,13 @@ tassa  mūlaṃ gavesissaṃ checchaṃ rāgaṃ sabandhanaṃ
 tapo karissāmi pahāya kāme taveva raṭṭhaṃ candavatī ca hotūti
 
 
- 434 cakkavākajātakaṃ (8)
+ 434 cakkavākajātakaṃ 
 
  kāsāyavatthe sakuṇe vadāmi duve duve nandamane  carante
 kaṃ aṇḍajaṃ aṇḍajā mānusesu jātiṃ pasaṃsanti tadiṅgha brūtha
 
  amhe manussesu manussahiṃsa anubbate  cakkavāke vadanti
-kalyāṇabhāvamhe  dijesu sammatā abhirūpā  vicarāma aṇṇave ( ) 
+kalyāṇabhāvamhe  dijesu sammatā abhirūpā  vicarāma aṇṇave  
 
  kiṃ aṇṇave kāni phalāni bhuñje maṃsaṃ kuto khādatha cakkavākā
 kiṃ bhojanaṃ bhuñjatha vo anomā  balañca  vaṇṇo ca anapparūpā 
@@ -260,7 +260,7 @@ tato upakkosati naṃ sabhāvo upakkuṭṭho vaṇṇabalaṃ jahāti
 balañca vaṇṇo ca tadassa hoti na hi sabbo āhāramayena vaṇṇoti
 
 
- 435 haliddirāgajātakaṃ (9)
+ 435 haliddirāgajātakaṃ 
 
  sutitikkhaṃ araññamhi pantamhi sayanāsane
 ye ca gāme titikkhanti te uḷāratarā tayā
@@ -290,7 +290,7 @@ māssu bālena saṃgacchi amitteneva sabbadā
 māssu bālena saṃgacchi  dukkho bālehi saṅgamoti
 
 
- 436 samuggajātakaṃ (10)
+ 436 samuggajātakaṃ 
 
  kuto nu āgacchatha bho tayo janā svāgatā etha  nisīdathāsane
 kaccittha bhonto kusalaṃ anāmayaṃ cirassamabbhāgamanaṃ hi vo idha
@@ -320,7 +320,7 @@ etā hi pātālapapātasannibhā etthappamatto byasanaṃ nigacchati
 etaṃ sivaṃ uttamamābhipatthayaṃ na mātugāmehi kareyya santhavanti
 
 
- 437 pūtimaṃsajātakaṃ (11)
+ 437 pūtimaṃsajātakaṃ 
 
  na  kho me ruccati āḷi pūtimaṃsassa pekkhanā
 etādisā sakhārasmā ārakā parivajjaye
@@ -350,7 +350,7 @@ ediso mayhaṃ parivāro tesaṃ kayirāhi  bhojanaṃ
 ārogyaṃ āḷino vajjaṃ  idheva vasa māgamāti
 
 
- 438 daddarajātakaṃ (12)
+ 438 daddarajātakaṃ 
 
  yo te puttake akhādi dinnabhatto adūsake
 tasmiṃ dāṭhaṃ nipātehi mā te muccittha jīvato

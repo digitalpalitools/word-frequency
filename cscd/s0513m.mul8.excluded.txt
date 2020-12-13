@@ -1,6 +1,6 @@
 ﻿9. Navakanipāto
 
-.
+.(1)
 1.
 ,;
 ,;
@@ -33,7 +33,7 @@ uddhaṃ pattosi (ka. sī.),;
 ,.
 Gijjhajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 10.
 ,;
 ,.
@@ -67,7 +67,7 @@ Gijjhajātakaṃ paṭhamaṃ.
 ,.
 Kosambiyajātakaṃ dutiyaṃ.
 
-.
+.(3)
 20.
 ,vihagā (sī. pī.);
 ñatvā dumapphalaccayena (ka.),.
@@ -100,7 +100,7 @@ Kosambiyajātakaṃ dutiyaṃ.
 ,.
 Mahāsuvajātakaṃ tatiyaṃ.
 
-.
+.(4)
 30.
 haritapattā (sī. syā. pī.),;
 sukkha (ka.),.
@@ -133,7 +133,7 @@ virūḷhassa (ka.),.
 ,.
 Cūḷasuvajātakaṃ catutthaṃ.
 
-.
+.(5)
 40.
 ,;
 ,.
@@ -163,7 +163,7 @@ karaṇe (sī. syā. pī.),;
 ,.
 Haritacajātakaṃ hāritajātakaṃ (sī. pī.) pañcamaṃ.
 
-.
+.(6)
 49.
 cittakathaṃ (syā. ka.),pāṭalaṃ (sī. pī.);
 ,gītakaṃ (ka. aṭṭha.).
@@ -199,7 +199,7 @@ nīharati (sī. syā.),.
 ,.
 Padakusalamāṇavajātakaṃ chaṭṭhaṃ.
 
-.
+.(7)
 60.
 ,;
 ,.
@@ -229,13 +229,13 @@ Padakusalamāṇavajātakaṃ chaṭṭhaṃ.
 ,.
 Lomasakassapajātakaṃ sattamaṃ.
 
-.
+.(8)
 69.
 ,nandimane (sī. pī.);
 ,.
 70.
 ,anupubbake (ka.);
-bhāva’mha (sī. pī.),abhītarūpā (sī. syā. pī.).(na ghāsahetūpi karoma pāpaṃ) (ka.)
+bhāva’mha (sī. pī.),abhītarūpā (sī. syā. pī.).( )(na ghāsahetūpi karoma pāpaṃ) (ka.)
 71.
 ,;
 abhiṇhaṃ (ka.),anapparūpo (sī. syā. pī.).
@@ -260,7 +260,7 @@ bhakkhimha (ka.)avākabhojanā (sī. pī.),.
 ,.
 Cakkavākajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 78.
 ,;
 ,.
@@ -290,7 +290,7 @@ yo taṃ (syā. jā. 1.4.190 araññajātakepi),;
 saṃgañchi (sī. pī.),.
 Haliddirāgajātakaṃ navamaṃ.
 
-.
+.(10)
 87.
 ,svāgataṃ ettha (sī. pī.);
 ,.
@@ -320,7 +320,7 @@ sudiṭṭharūpuggatapānuvattinā (sī. syā. pī.),;
 ,.
 Samuggajātakaṃ dasamaṃ.
 
-.
+.(11)
 96.
 ,;
 ,.
@@ -350,7 +350,7 @@ parihārena (syā.),esaṃ (sī. pī.)kayirāsi (pī.).
 vacchaṃ (?),.
 Pūtimaṃsajātakaṃ ekādasamaṃ.
 
-.
+.(12)
 105.
 ,;
 ,.

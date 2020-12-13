@@ -17,8 +17,8 @@ gamanatthānaṃ bodhatthānaṃ āhāratthānaṃ saddatthānamakammakānaṃ b
 harādīnaṃ payojje kattari dutiyā hoti vā hāreti bhāraṃ devadattaṃ devadatteneti vā ajjhohāreti sattuṃ devadattaṃ devadatteneti vā kāreti kaṭaṃ devadattaṃ devadatteneti vā dassayate janaṃ rājaṃ janeneti vā abhivādayate guruṃ devadattaṃ devadatteneti vā
  na khādādīnaṃ
 khādādīnaṃ payojje kattari dutiyā na hoti khādayati devadattena ādayati devadattena avha payati devadattena saddāyayati devadattena kandayati devadattena nāyayati devadattena
-(1) vahissāniyantuke vāhayati bhāraṃ devadattena aniyantuketi kiṃ vāha-yati bhāraṃ balībadde
-(2) bhakkhissāhiṃ  sāyaṃ bhakkhayati modake devadattena ahiṃsāyanti kiṃ bhakkhayati balībadde sassaṃ
+ vahissāniyantuke vāhayati bhāraṃ devadattena aniyantuketi kiṃ vāha-yati bhāraṃ balībadde
+ bhakkhissāhiṃ  sāyaṃ bhakkhayati modake devadattena ahiṃsāyanti kiṃ bhakkhayati balībadde sassaṃ
  jhādīhi yuttā
 dhīādīhi yuttato dutiyā hoti dhiratthu maṃ pūtikāyaṃ antarā ca rājagahaṃ antarā ca nālandaṃ samādhānamantarena mucalindamabhito saramiccādi chaṭṭhiyāpavādo-yaṃ
  lakkhaṇitthambhūtavicchāsvabhinā
@@ -56,7 +56,7 @@ hetvatthehi yoge sabbādīhi sabbā vibhattiyo honti ko hetu kaṃ hetuṃ kena 
  catutthī sampadāne
 yassa sammā padīyate tasmiṃ catutthī siyā saṅghassa dadāti ādhāravivakkhāyaṃ sattamīpi siyā saṅghe dehi
  tādatthye
-tasse-daṃ tadatthaṃ tadatthabhāve jotanīye nāmasmā catutthī siyā sītassa paṭighātāya atthāya hitāya (sukhāya) devamanussānaṃ nālaṃ dārabharaṇāya yūpāya dāru pākāya vajatītvevamādi
+tasse-daṃ tadatthaṃ tadatthabhāve jotanīye nāmasmā catutthī siyā sītassa paṭighātāya atthāya hitāya  devamanussānaṃ nālaṃ dārabharaṇāya yūpāya dāru pākāya vajatītvevamādi
 kassa sāduṃ na ruccabhi mā-yasmantānampi saṅghabhedo ruccittha khamati saṅghassa bhattamassa nacchādesīti chaṭṭhī sambandhavacanicchāyaṃ na cevaṃ virodho siyā sadisarūpattā evaṃvidhesu ca sambandhassa saddikānumatattā  kassa vā tvaṃ dhammaṃ rocesīti atthamatte paṭhamā
 evamaññāpi vidhaññayyā paratopi yathāgamaṃ
 rañño sataṃ dhāreti rañño chattaṃ dhāretīti sambandhe chaṭṭhī evaṃ rañño silāghate rañño hanute rañño upatiṭṭhate rañño sapate devāpi tassa pihayanti tādino tassa kujjha mahāvīra yadihaṃ tassa pakuppeyyaṃ duhayati disānaṃ megho yo mittānaṃ na dūbhati yo appaduṭṭhassa narassa dussati kyāhaṃ ayyānaṃ aparajjhāmi issayanti samaṇānaṃ titthiyā dhammena nayamānānaṃ kā usūyā rañño bhāgyamārajjhati rañño bhāgyamikkhate tena yācito ayācito vā tassa gāvo paṭisuṇāti gāvo āsuṇāti bhagavato paccassosuṃ hotu patigiṇāti hotvanugiṇāti ārocayāmi vo pativedayāmi vo dhammaṃ te desessāmi yathā vo bhagavā byākareyya alaṃ te idha vāsena kiṃ te jaṭāhi dummedha arahati mallo mallassāti
@@ -80,7 +80,7 @@ vinā-ññatrasaddehi yoge nāmasmā tatiyā ca hoti dutiyā pañcamiyo ca vinā
  puthanānāhi
 etehi yoge tatiyā hoti pañcamī ca puthageva janena puthageva janasmā janena nānā janasmā nānā
  sattamyādhāre
-kiriyādhāra bhūta kattu kammānaṃ dhāraṇena yo kiriyāyādhāro tasmiṃ kārake nāmasmā sattamī hoti kaṭe nisīdati (devadatto) thāliyaṃ odanaṃ pacati ākāse sakunā bhilesu telaṃ gaṅgāyaṃ vajo
+kiriyādhāra bhūta kattu kammānaṃ dhāraṇena yo kiriyāyādhāro tasmiṃ kārake nāmasmā sattamī hoti kaṭe nisīdati  thāliyaṃ odanaṃ pacati ākāse sakunā bhilesu telaṃ gaṅgāyaṃ vajo
  nimitte
 nimittatthe sattamī hoti ajinamhi haññate dīpi musāvāde pācitthiyaṃ
  yabbhāvobhāvalakkhaṇaṃ
@@ -155,7 +155,7 @@ aghonaṃ ge vā rasso hoti tiliṅge itthi itthī vadhu vadhū daṇḍi daṇ�
  sismiṃ nānapuṃsakassa
 napuṃsakavajjitassa nāmassa sismiṃ rasso na hoti itthī daṇḍī vadhū sayambhū sisminti kiṃ itthiṃ anapuṃsakassāti kiṃ daṇḍi kulaṃ
  gossāgasihinaṃsu gāvagavā
-gasihinaṃvajjitāsu vibhattīsu gosaddassa gāvagavā honti (gāvaṃ gavaṃ) gāvo gavo gāvena gavena gāvassa gavassa gāvasmā gavasmā gāve gave agasihinaṃsūti kiṃ bho go go tiṭṭhati gohi gonaṃ
+gasihinaṃvajjitāsu vibhattīsu gosaddassa gāvagavā honti  gāvo gavo gāvena gavena gāvassa gavassa gāvasmā gavasmā gāve gave agasihinaṃsūti kiṃ bho go go tiṭṭhati gohi gonaṃ
  sumhi vā
 gossa sumhi gāvagavā honti vā gāvesu gavesu gosu
  gavaṃ sena
@@ -179,12 +179,12 @@ jhīto smiṃvacanassa ni hoti vā daṇḍini daṇḍismiṃ jhīto tveva aggi
  ambvādīhi
 ambuādīhi sminoni hoti vā phalaṃ patati ambuni pupphaṃ yathā paṃsuni ātape kataṃ vātveva ambumhi paṃsumhi
  kammādito
-kammādito smino ni hoti vā kammani kamme kamma camma vesma bhasma (asma) brahma atta ātuma ghamma muddha kammāditoti kiṃ buddhe
+kammādito smino ni hoti vā kammani kamme kamma camma vesma bhasma  brahma atta ātuma ghamma muddha kammāditoti kiṃ buddhe
  nāsseno
 kammādito nāvacanassa eno vā hoti kammena kammanā cammena cammanā kammāditotveva buddhena
  jhalā sassa no
 jhalato  sassa no vā hoti aggino aggissa daṇḍino daṇḍissa bhikkhuno bhikkhussa sayambhuno sayambhussa
-kathaṃ yo ca sisso mahāmune ti (3) ito kvaci sassa ṭānubandhoti brahmādīsu pāṭhā sassa e ṭānubandho
+kathaṃ yo ca sisso mahāmune ti  ito kvaci sassa ṭānubandhoti brahmādīsu pāṭhā sassa e ṭānubandho
  nā smāssa
 jhalato smāssa nā hoti vā agginā aggismā daṇḍinā daṇḍismā bhikkhunā bhikkhusmā sayambhunā sayambhusmā
  lā yo naṃ vo pume
@@ -220,7 +220,7 @@ nāmasmā paresaṃ smāhisminnaṃ mhā bhimhi vā honti yathākkamaṃ buddham
  suhisvasse
 akārantassa  suhisve hoti buddhesu buddhehi
  sabbādīnaṃ naṃmhīca
-akārantānaṃ sabbādīnaṃ e hoti naṃmhi suhisu ca sabbesaṃ sabbesu sabbehi sabbādīnanti kiṃ buddhānaṃ assetveva amūsaṃ sabba katara katama ubhaya itara añña aññatara aññatama (4) pubbaparā-varadakkhiṇuttarā-dharāni vavatthāyamasaññāyaṃ (pā1134) ya tya ta eta ima amu kiṃ eka tumha amha
+akārantānaṃ sabbādīnaṃ e hoti naṃmhi suhisu ca sabbesaṃ sabbesu sabbehi sabbādīnanti kiṃ buddhānaṃ assetveva amūsaṃ sabba katara katama ubhaya itara añña aññatara aññatama  pubbaparā-varadakkhiṇuttarā-dharāni vavatthāyamasaññāyaṃ  ya tya ta eta ima amu kiṃ eka tumha amha
  saṃsānaṃ
 sabbādito naṃvacanassa saṃsānaṃ honti sabbesaṃ sabbesānaṃ
  ghapā sassa ssā vā
@@ -311,7 +311,7 @@ etthasamāsavisadhaya sabbādīhi yadhassaṭa vutto tassa vā hoti pugguttare p
  pubbādīhi chahī
 etehi  pubbādīhi chahi savisaye eṭa vā hoti pubbe pubbā pare parā apare aparā dakkhiṇe dakkhiṇā uttare uttarā adhare adharā chahitikiṃ ye
  manādīhi smiṃsaṃnāsmānaṃ sisoosāsā
-manādīhi smimādīnaṃ sisoosāsā vā honti yathākkamaṃ manasi manasmiṃ manaso manassa mano manaṃ manasā manena manasā manasmā kathaṃ putto jāto acetaso hitvā yāti sumedhaso suddhuttaravāsasā hemakappanavāsaseti sakattheṇatthā manatama tapa teja sira ura vaca oja rajayasa paya (6) saravayā-yavāsacetā jalāsayākkhayalohapaṭamanesu
+manādīhi smimādīnaṃ sisoosāsā vā honti yathākkamaṃ manasi manasmiṃ manaso manassa mano manaṃ manasā manena manasā manasmā kathaṃ putto jāto acetaso hitvā yāti sumedhaso suddhuttaravāsasā hemakappanavāsaseti sakattheṇatthā manatama tapa teja sira ura vaca oja rajayasa paya  saravayā-yavāsacetā jalāsayākkhayalohapaṭamanesu
  sato saba bhe
 santhasaddassa saba bhavati bhakāre sabbhi
  bhavato vā bhonto gayonāse
@@ -331,7 +331,7 @@ ntussa aṃṅaṃ honti simhi napuṃsake guṇavaṃ kulaṃ guṇavantaṃ ku
  himavato vā o
 himavato simhī ntussa o vā hoti himavanto himavā
  rājādiyuvāditvā
-rājādīhiyuvādīhi ca sissa ā hoti rājā yuvā rāja brahma sakha atta ātuma (7) dhammo vāññatthe daḷhadhammā asma (8) imo bhāve aṇimā (mahimā garimā) laghimā yuva sā suvā maghava puma vattaha
+rājādīhiyuvādīhi ca sissa ā hoti rājā yuvā rāja brahma sakha atta ātuma  dhammo vāññatthe daḷhadhammā asma  imo bhāve aṇimā  laghimā yuva sā suvā maghava puma vattaha
  vāmhānaṅa
 rājādīnaṃ  yuvādīnaṃ ca ānaṅa hoti vā aṃmhi rājānaṃ rājaṃ yuvānaṃ yuvaṃ
  yonamāno

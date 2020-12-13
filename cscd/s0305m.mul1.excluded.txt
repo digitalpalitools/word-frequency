@@ -250,7 +250,7 @@ Cakkavattivaggo pañcamo.
 ‘‘,,,.‘’..
 ‘‘,,,.‘’..,,,’’..
 3. Aggisuttaṃ
-234...
+234..(Pariyāyasuttasadisaṃ).
 ‘‘,,–‘,,,,?,,,’?,,,.?,,.
 ‘‘,,,.
 ‘‘,,,,,.?,,.
@@ -381,7 +381,7 @@ Nirodhavaggo aṭṭhamo.
 ,.
 9. Gaṅgāpeyyālavaggo
 1-12. Gaṅgānadīādisuttaṃ
-258-269.‘‘,,;,,.,,?,,…pe……pe…,,’’..
+258-269.‘‘,,;,,.,,?,,…pe……pe…,,’’.(Yāva esanā pāḷi vitthāretabbā).
 Gaṅgāpeyyālavaggo navamo.
 –
 ,;
@@ -393,7 +393,7 @@ Appamādavaggo dasamo.
 –
 ,;
 ,.
-.
+(Appamādavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbā).
 11. Balakaraṇīyavaggo
 1-12. Balādisuttaṃ
 280.‘‘,,…pe….
@@ -401,7 +401,7 @@ Balakaraṇīyavaggo ekādasamo.
 –
 ,;
 ,.
-.
+(Balakaraṇīyavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbā).
 12. Esanāvaggo
 1-10. Esanādisuttaṃ
 292.‘‘,,.?,,.
@@ -409,7 +409,7 @@ Esanāvaggo dvādasamo.
 –
 ,;
 ,.
-.
+(Bojjhaṅgasaṃyuttassa esanāpeyyālaṃ vivekanissitato vitthāretabbaṃ).
 13. Oghavaggo
 1-8. Oghādisuttaṃ
 302.‘‘,.?,,,.
@@ -426,7 +426,7 @@ Vaggo cuddasamo.
 –
 ,;
 ,.
-.
+(Bojjhaṅgasaṃyuttassa gaṅgāpeyyālaṃ rāgavasena vitthāretabbaṃ).
 15. Punaappamādavaggo
 324-333
  Tathāgatādisuttaṃ
@@ -434,7 +434,7 @@ Pannarasamo.
 –
 ,;
 ,.
-.
+(Appamādavaggo rāgavasena vitthāretabbo).
 16. Punabalakaraṇīyavaggo
 334-345
  Punabalādisuttaṃ
@@ -442,7 +442,7 @@ Soḷasamo.
 –
 ,;
 ,.
-.
+(Bojjhaṅgasaṃyuttassa balakaraṇīyavaggo rāgavasena vitthāretabbo).
 17. Punaesanāvaggo
 346-356
  Punaesanādisuttaṃ
@@ -457,5 +457,5 @@ Bojjhaṅgasaṃyutassa punaoghavaggo aṭṭhārasamo.
 –
 ,;
 ,.
-.,.
+(Rāgavinayapariyosāna-dosavinayapariyosāna-mohavinayapariyosānavaggo vitthāretabbo).(Yadapi maggasaṃyuttaṃ vitthāretabbaṃ, tadapi bojjhaṅgasaṃyuttaṃ vitthāretabbaṃ).
 Bojjhaṅgasaṃyuttaṃ dutiyaṃ.

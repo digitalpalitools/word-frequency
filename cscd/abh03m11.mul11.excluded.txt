@@ -3,23 +3,23 @@
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-1......
-.....
-....
+1......(5)
+.....(5)
+...(3)(Saṃkhittaṃ.)
 ,…pe….
 Paccanīyaṃ
 Naārammaṇapaccayo
-2...
+2..(Saṃkhittaṃ.)
 ,…pe….
-…pe….
+(Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 Hetu-ārammaṇapaccayā
-3......
+3......(5)
 ….
 ….
-..
-4.,…pe…..
-5....
-,…pe…..
+.(Saṃkhittaṃ.)
+4.,…pe….(Pañhāvāraṃ vitthāretabbaṃ.)
+5...(Saṃkhittaṃ.)
+,…pe….(Sabbattha nava.)
 1-2. Kusalattika-sahetukadukaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
@@ -27,20 +27,20 @@ Hetupaccayo
 6.....
 ....
 ....
-,…pe….…pe….
+,…pe….(Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṃ.)
 7.....
 ....
-.....
+....(Saṃkhittaṃ.)
 8.,…pe….
 9.....
 ....
 ,…pe….
 1-3. Kusalattika-hetusampayuttadukaṃ
-10...
+10..(Sahetukadukasadisaṃ.)
 1-4. Kusalattika-hetusahetukadukaṃ
-11....
+11....(3)
 ….
-....
+...(3)(Saṃkhittaṃ.)
 .
 12.....
 ....
@@ -55,13 +55,13 @@ Hetupaccayo
 15.....
 ….
 …pe……pe…….
-16....
+16....(3)
 Hetugocchakaṃ niṭṭhitaṃ.
 1-7-8. Kusalattika-sappaccayādidukāni
-17......
-..
+17......(5)
+.(Asaṅkhataṃ appaccayasadisaṃ.)
 1-9. Kusalattika-sanidassanadukaṃ
-18..…pe….
+18..…pe…(cha pañhā kātabbā).
 ....
 1-10. Kusalattika-sappaṭighadukaṃ
 19.....
@@ -74,28 +74,28 @@ Hetugocchakaṃ niṭṭhitaṃ.
 ....
 ....
 1-13. Kusalattika-kenaciviññeyyadukaṃ
-22......
-23.....
-.
+22....(Saṃkhittaṃ.).
+23....(Saṃkhittaṃ.)
+(Etena upāyena kenaci naviññeyye ekūnavīsati pañhā kātabbā.)
 1-14-19. Kusalattika-āsavagocchakaṃ
 24.…pe……pe……pe……pe….,…pe….
 .…pe….…pe….
-25.…pe….
+25.…pe…(lokiyadukasadisaṃ).
 26.…pe……pe……pe……pe…..
 …pe……pe…..
 27.…pe……pe……pe……pe…..
 …pe……pe…..
 28.…pe……pe…..
 …pe……pe…..
-29.…pe….
+29.…pe…(lokiyadukasadisaṃ).
 1-20-54. Kusalattika-chagocchakadukāni
-30.…pe……pe……pe……pe……pe…..
+30.…pe……pe……pe……pe……pe….(Saṃkhittaṃ.)
 1-55. Kusalattika-sārammaṇadukaṃ
 31.....
 ....
 ..
 .
-32......
+32....(Saṃkhittaṃ.).
 1-56. Kusalattika-cittadukaṃ
 33.......
 ......
@@ -111,11 +111,11 @@ Hetugocchakaṃ niṭṭhitaṃ.
 1-58. Kusalattika-cittasampayuttadukaṃ
 36.......
 ….
-.......
+....(Saṃkhittaṃ.)..
 1-59. Kusalattika-cittasaṃsaṭṭhadukaṃ
 37.......
 ......
-......
+....(Saṃkhittaṃ.).
 1-60. Kusalattika-cittasamuṭṭhānadukaṃ
 38.....
 ....
@@ -129,12 +129,12 @@ Hetugocchakaṃ niṭṭhitaṃ.
 ….…pe….
 41.….
 ….
-…..…pe….
+….(Saṃkhittaṃ.)…pe….
 1-62-65. Kusalattika-cittānuparivattādidukāni
-42.…..
-…..,.
+42.…(saṃkhittaṃ.).
+…(saṃkhittaṃ.).(Ete saṃkhittā, dukattayaṃ cittadukasadisaṃ.)
 1-66-68. Kusalattika-ajjhattikādidukāni
-43.…,.
+43.…(saṃkhittaṃ, cittadukasadisaṃ).
 ….
 44.….
 …….
@@ -183,7 +183,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 2-1. Vedanāttika-hetudukaṃ
 65...…pe….
 ….
-….…pe…..
+….…pe….(Sabbattha ekavīsa.)
 66.....
 ….
 …….
@@ -254,7 +254,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 89.....
 22-2. Sanidassanattika-sahetukadukaṃ
 90..…pe…….
-...
+.(Saṃkhittaṃ.).
 22-3. Sanidassanattika-hetusampayuttadukaṃ
 91..…pe…….
 ….
@@ -269,9 +269,9 @@ Hetugocchakaṃ niṭṭhitaṃ.
 ….
 22-7. Sanidassanattika-sappaccayadukaṃ
 95..
-,,..
+,,.(Saṃkhittaṃ.)
 22-9. Sanidassanattika-sanidassanadukaṃ
-96...,,.
+96..(Saṃkhittaṃ.),,.
 ….
 22-10. Sanidassanattika-sappaṭighadukaṃ
 97.....
@@ -280,7 +280,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 98.….
 .…pe…….
 22-12. Sanidassanattika-lokiyadukaṃ
-99.….….
+99.…(saṃkhittaṃ).….
 ….
 22-13. Sanidassanattika-kenaciviññeyyadukaṃ
 100...…pe…….
@@ -309,7 +309,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 107..
 108.…pe….
 …pe….
-..
+.(Saṃkhittaṃ.)
 109..
 110..
 22-55. Sanidassanattika-sārammaṇadukaṃ
@@ -344,7 +344,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 …..
 22-68. Sanidassanattika-upādinnadukaṃ
 124..…pe…….
-125....
+125..(Saṃkhittaṃ.).
 22-69-82. Sanidassanattika-upādānādidukāni
 126.….
 127.….
@@ -402,7 +402,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 22-100. Sanidassanattika-saraṇadukaṃ
 146.….
 ….
-…pe….
+(Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṃ.)
 147..
-,.
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Dhammānulomapaccanīye tikadukapaṭṭhānaṃ niṭṭhitaṃ.

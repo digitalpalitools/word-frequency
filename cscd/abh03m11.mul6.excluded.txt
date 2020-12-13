@@ -2,22 +2,22 @@
 1-1. Kusalattika-vedanāttikaṃ
 1-7. Paṭiccavārādi
 Hetupaccayo
-1......
-2......
-3.......
-4......
-5......
-6.....
-,…pe….…pe….
+1......(5)
+2......(5)
+3.......(6)
+4......(5)
+5......(5)
+6....(3)(Saṃkhittaṃ.)
+,…pe….(Sahajātavārepi…pe… pañhāvārepi vitthāro.)
 Dukkhāyavedanāyasampayuttapadaṃ
 Hetupaccayo
-7......
+7......(5)
 ….
 ….
 ….
 ….
-…..
-…pe…..
+….(Saṃkhittaṃ.)
+…pe….(Sabbattha vitthāretabbaṃ.)
 Tatiyapadaṃ
 Hetupaccayo
 8.….
@@ -25,20 +25,20 @@ Hetupaccayo
 ….
 ….
 ….
-…..
-…pe…..
+….(Saṃkhittaṃ.)
+…pe….(Sabbattha vitthāro.)
 1-2. Kusalattika-vipākattikaṃ
-9......
+9......(5)
 ….
 ….
 ….
 ….
-…..
-…pe…..
-10....
-...
-....
-…pe…..
+….(Saṃkhittaṃ.)
+…pe….(Sabbattha vitthāro.)
+10....(3)
+...(3)
+...(3)(Saṃkhittaṃ).
+…pe….(Sabbattha nava.)
 11..
 1-3. Kusalattika-upādinnattikaṃ
 12.….
@@ -80,29 +80,29 @@ Hetupaccayo
 34.…pe…….
 35.…pe…….
 1-21. Kusalattika-sanidassanattikaṃ
-36......
-.....
-......
+36......(5)
+.....(5)
+......(6)
 ….
 ….
-....
-…pe…..
-37...
-…pe…..
-38...
-…pe….
+...(3)(Saṃkhittaṃ.)
+…pe….(Sabbattha vitthāro.)
+37..(Saṃkhittaṃ.)
+…pe….(Sabbattha vitthāro.)
+38..(Saṃkhittaṃ.)
+…pe…(sabbattha vitthāro).
 2-1. Vedanāttika-kusalattikaṃ
 39....…pe….
 ...…pe….
 ...…pe….
 40....…pe….
-..…pe…..
+..…pe….(Saṃkhittaṃ.)
 ,…pe….
-41.…...
-42.....
+41.….(Saṃkhittaṃ.).
+42..(Saṃkhittaṃ.).(Sabbattha vitthāro.)
 2-2. Vedanāttika-vipākattikaṃ
-43...
-…pe…..
+43..(Saṃkhittaṃ.)
+…pe….(Saṃkhittaṃ.)
 3-1. Vipākattika-kusalattikaṃ
 44.…pe…….
 ….
@@ -132,10 +132,10 @@ Hetupaccayo
 ..…pe….
 ….
 ….
-….,…pe…..
-64..,…pe…..
+…(saṃkhittaṃ).,…pe….(Sabbattha vitthāro.)
+64..,…pe….(Sabbattha vitthāro.)
 65..
-..
+.(sabbattha nava.)
 22-2-21. Sanidassanattika-vedanādittikāni
 66.….
 ….
@@ -174,12 +174,12 @@ Hetupaccayo
 83.…pe……pe…….
 84.…pe…….
 85...
-…pe…..
+…pe….(Sabbattha vitthāro.)
 86...…pe….
 ….
 ….
 ….
-…..
+….(Saṃkhittaṃ.)
 ,…pe….
-.
+(Sahajātavārepi paccayavārepi nissayavārepi saṃsaṭṭhavārepi sampayuttavārepi pañhāvārepi vitthāro.)
 Dhammapaccanīye tikatikapaṭṭhānaṃ niṭṭhitaṃ.

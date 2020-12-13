@@ -7,12 +7,12 @@
 ,.
 ,;
 ,.
-‘vibhāgato’,.,‘‘,,,–.,,,…pe…,,,…pe…,,,–’’....‘‘,,,,’’......
-‘Nibbacanalakkhaṇādippabhedato’‘’‘du’;.‘Khaṃ’;kha.,.dukkha.‘Saṃ’‘‘’’.;...;‘u’‘‘’’.;..‘Aya’..dukkhasamudaya.
+‘vibhāgato’,.,‘‘,,,–.,,,…pe…,,,…pe…,,,–’’(paṭi. ma. 2.8).‘‘,,,,’’(paṭi. ma. 2.11)...
+‘Nibbacanalakkhaṇādippabhedato’‘’‘du’;.‘Khaṃ’;kha.,.dukkha.‘Saṃ’‘‘’’(vibha. 199; dī. ni. 2.396);‘u’‘‘’’(pārā. 172; cūḷani. khaggavisāṇasuttaniddesa 141).‘Aya’..dukkhasamudaya.
 ‘’‘rodha’,,dukkhanirodha,.,,.
-,ariyasaccānī.–‘‘,,....…pe…,,.,ariyasaccānī’’..–‘‘,,…pe…,’’..–‘‘,,‘’’’.;.–‘‘,,,’’..
+,ariyasaccānī.–‘‘,,(saṃ. ni. 5.1097).…pe…,,.,ariyasaccānī’’..–‘‘,,…pe…,’’..–‘‘,,‘’’’.;.–‘‘,,,’’..
 ‘lakkhaṇādippabhedato’?,,.,,.,,.,,..‘’.
-‘Atthatthuddhārato cevā’atthato?,,;;,.–‘‘,,’’....–
+‘Atthatthuddhārato cevā’atthato?,,;;,.–‘‘,,’’(saṃ. ni. 5.1090).–
 ,;
 ,.
 ,;
@@ -24,17 +24,17 @@
 ;
 ,.
 ‘’.
-‘atthuddhārato’?‘’,–‘‘,’’...‘‘’’....‘‘,’’...‘‘’’...‘‘’’..‘’.
-‘Anūnādhikato’,?,;.–‘‘,,‘,.’’’.–‘‘,,‘,.’’’....
+‘atthuddhārato’?‘’,–‘‘,’’(dha. pa. 224).‘‘’’(jā. 2.21.433).‘‘,’’(su. ni. 891).‘‘’’(su. ni. 890).‘‘’’(vibha. 216).‘’.
+‘Anūnādhikato’,?,;.–‘‘,,‘,.’’’.–‘‘,,‘,.’’’(saṃ. ni. 5.1086).
 ,..,,.‘’.
 ‘Kamato’.,,,..,,..‘’.
-‘Ariyasaccesu yaṃ ñāṇaṃ tassa kiccato’.–...–‘‘,,,,’’....,,,,;,,,.–
+‘Ariyasaccesu yaṃ ñāṇaṃ tassa kiccato’.–...–‘‘,,,,’’(saṃ. ni. 5.1100).,,,,;,,,.–
 ,;
 ,.
 ‘’.
 ‘Antogadhānaṃ pabhedā’,,;;;.,,,,,,,,.‘’.
 ‘Upamāto’,,,;,,,;,,,.,,,.‘’.
-‘Catukkato’,,,..‘‘’’.....,...‘’.
+‘Catukkato’,,,..‘‘’’(saṃ. ni. 3.15)..,...‘’.
 ‘Suññatekavidhādīhī’.–
 ,;
 ,.
@@ -46,14 +46,14 @@
 ,.
 ‘’.
 ‘Ekavidhādīhī’,,,,.,,,,,.,,,,,.,,..–
-‘‘,,.,,.,,,–;,,–;,–’’....
+‘‘,,.,,.,,,–;,,–;,–’’(ma. ni. 1.462).
 ..,.,.
 –......
 ,,,,.,...
 ‘’,.?,;,.,..–‘‘’’..
 ,,,.‘’.
 ‘Sabhāgavisabhāgato’.–
-‘‘,,–,’’?‘‘,,–’’.‘‘,,…pe…’’....
+‘‘,,–,’’?‘‘,,–’’.‘‘,,…pe…’’(saṃ. ni. 5.1115).
 .,.,.,.,.,.,.
 ,;
 ,.
@@ -65,9 +65,9 @@ Jātiniddeso
 ‘dukkhadukkhaṃ’.‘vipariṇāmadukkhaṃ’.‘saṅkhāradukkhaṃ’...‘paṭicchannadukkhaṃ’,.‘appaṭicchannadukkhaṃ’,.‘pariyāyadukkhaṃ’.‘nippariyāyadukkhaṃ’.
 ...,..‘‘?’’‘‘,’’.‘‘?’’.
 191.–tesaṃ tesaṃ sattāna.,,.,.–‘‘’’.Tamhi tamhī.Sattanikāye,.
-Jātī.‘‘,’’.;....‘‘,’’....‘‘’’....‘‘’’..‘‘,,,,’’..‘‘,,’’....‘‘’’....‘‘,,’’......sañjātī.okkanti.jāti,.sañjāti,.okkanti,.,.abhinibbatti....
+Jātī.‘‘,’’(pārā. 12; ma. ni. 2.257).‘‘,’’(a. ni. 3.71).‘‘’’(a. ni. 5.196).‘‘’’(dhātu. 71).‘‘,,,,’’(mahāva. 124).‘‘,,’’(ma. ni. 3.207).‘‘’’(dī. ni. 1.331).‘‘,,’’(ma. ni. 2.351)...sañjātī.okkanti.jāti,.sañjāti,.okkanti,.,.abhinibbatti....
 .,.khandhāna,,.Pātubhāvo.Āyatanāna.Paṭilābho;.Ayaṃ vuccati jātī.,,,.
-‘jātiyā dukkhaṭṭho veditabbo’,.?...,,.–...‘gabbhokkantimūlakaṃ’.
+‘jātiyā dukkhaṭṭho veditabbo’,.?(ma. ni. 3.246 ādayo),,.–...‘gabbhokkantimūlakaṃ’.
 ,,,–‘gabbhapariharaṇamūlakaṃ’.
 –‘gabbhavipattimūlakaṃ’.–‘vijāyanamūlakaṃ’.–‘bahi nikkhamanamūlakaṃ’.,,,–‘attūpakkamamūlakaṃ’.
 –‘parūpakkamamūlakaṃ’..–
@@ -192,7 +192,7 @@ Samudayasaccaniddesavaṇṇanā niṭṭhitā.
 ‘‘,
 ;
 ,
-’’...;
+’’.(dha. pa. 338);
 ..,..,.yo tassāyevā.
 tassāyevā.Asesavirāganirodho..‘‘’’.,,,.‘‘’’..,–,,,,,,,,,,,,,,,,,,,,,,,,.
 ,sā kho panesā.,.....,;,..‘‘,,’’..
@@ -202,9 +202,9 @@ Nirodhasaccaniddesavaṇṇanā niṭṭhitā.
 ,sammādiṭṭhi…pe… sammāsamādhī.sammādiṭṭhi.sammāsaṅkappo.sammāvācā.sammākammanto.sammāājīvo.sammāvāyāmo.sammāsati.sammāsamādhi.
 ,–,,.,.,,,,,,.
 ,,.,..,...
-.‘‘’’..,,,..‘‘’’.
+.‘‘’’(dha. sa. 16, 20, 29, 34)..‘‘’’.
 ,.‘,’,‘,’.,‘,’.‘,’’.
-,.–‘‘,,’’.....
+,.–‘‘,,’’(ma. ni. 1.463)..
 ‘’,.
 ,,,.
 ‘’,.
@@ -224,14 +224,14 @@ Sammāvāyāma..,;,;..
 Sammāsati..,;..
 Sammāsamādhi,.,.,,.,..
 .;.;.;,..
-..?,..‘‘’’.‘‘’’.‘‘’’.....Ayaṃ vuccati sammāsamādhī,,..
+..?,..‘‘’’.‘‘’’.‘‘’’.(dha. sa. aṭṭha. 350).Ayaṃ vuccati sammāsamādhī,,..
 ..........
 ,vijjā ceva caraṇañca.,samatho ceva vipassanā ca.,,khandhattayañceva sikkhāttayañca;,,,,,,.
 Suttantabhājanīyavaṇṇanā.
 2. Abhidhammabhājanīyavaṇṇanā
 206-214..‘‘’’‘‘’’.,,,.,.‘‘’’‘‘’’.
 .‘‘’’.‘‘’’....
-‘‘’’...,.,,.‘‘’’..
+‘‘’’(ma. ni. 3.433),.,,.‘‘’’..
 ‘‘’’,,,,dasa nayā.dve nayasatāni..nayasahassaṃ.,cattāri nayasahassāni.,vīsati nayasahassāni.saṭṭhinayasahassāni...
 Abhidhammabhājanīyavaṇṇanā.
 3. Pañhāpucchakavaṇṇanā

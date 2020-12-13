@@ -1,6 +1,6 @@
 ﻿
 
- 484 sālikedārajātakaṃ (1)
+ 484 sālikedārajātakaṃ 
 
  sampannaṃ  sālikedāraṃ suvā bhuñjanti kosiya
 paṭivedemi te brahme na ne  vāretumussahe
@@ -55,7 +55,7 @@ suvassa sutvāna subhāsitāni kāhāmi  puññāni anappakāni
 annena pānena pasannacitto santappayi samaṇabrāhmaṇe cāti
 
 
- 485 candakinnarījātakaṃ (2)
+ 485 candakinnarījātakaṃ 
 
  upanīyatidaṃ maññe cande  lohitamaddane
 ajja jahāmi jīvitaṃ pāṇā  me cande nirujjhanti
@@ -136,7 +136,7 @@ amatena abhisiñci samāgatāsmi piyatamena
 nānādumavasanāyo  piyaṃvadā aññamaññassāti
 
 
- 486 mahāukkusajātakaṃ (3)
+ 486 mahāukkusajātakaṃ 
 
  ukkā cilācā  bandhanti dīpe  pajā mamaṃ khādituṃ patthayanti
 mittaṃ sahāyañca vadehi senaka ācikkha ñātibyasanaṃ dijānaṃ
@@ -193,7 +193,7 @@ passa mittānukampāya samaggamhā sañātake
 evaṃ so sukhito hoti yathāhaṃ tvañca senakāti
 
 
- 487 uddālakajātakaṃ (4)
+ 487 uddālakajātakaṃ 
 
  kharājinā  jaṭilā paṅkadantā dummakkharūpā  ye mantaṃ jappanti 
 kaccinnu te mānusake payoge idaṃ vidū parimuttā apāyā
@@ -246,7 +246,7 @@ na tesaṃ chāyā vatthānaṃ so rāgo anupajjatha
 te sajātiṃ pamuñcanti  dhammamaññāya subbatāti
 
 
- 488 bhisajātakaṃ (5)
+ 488 bhisajātakaṃ 
 
  assaṃ  gavaṃ rajataṃ jātarūpaṃ bhariyañca so idha labhataṃ manāpaṃ
 puttehi dārehi samaṅgi hotu bhisāni te brāhmaṇa yo ahāsi
@@ -321,7 +321,7 @@ citto gahapati dāso yakkho sātāgiro tadā
 kāḷudāyī tadā sakko evaṃ dhāretha jātakanti
 
 
- 489 surucijātakaṃ (6)
+ 489 surucijātakaṃ 
 
  mahesī  surucino  bhariyā ānītā paṭhamaṃ ahaṃ
 dasa vassasahassāni yaṃ maṃ surucimānayi
@@ -401,7 +401,7 @@ devalokūpapattī ca kittī ca idha jīvite
 esāhaṃ tidivaṃ yāmi piyaṃ me tava dassananti
 
 
- 490 pañcuposathikajātakaṃ (7)
+ 490 pañcuposathikajātakaṃ 
 
  appossukko  dāni tuvaṃ kapota vihaṅgama na tava bhojanattho
 khudaṃ  pipāsaṃ adhivāsayanto kasmā bhavaṃposathiko kapota 
@@ -452,7 +452,7 @@ so maṃ avedī gatimāgatiñca nāmañca gottaṃ caraṇañca sabbaṃ
 tasmā ahaṃposathaṃ pālayāmi māno  mamaṃ mā punarāgamāsīti
 
 
- 491 mahāmorajātakaṃ (8)
+ 491 mahāmorajātakaṃ 
 
  sace hi tyāhaṃ dhanahetu gāhito mā maṃ vadhī jīvagāhaṃ gahetvā
 rañño ca  maṃ samma upantikaṃ  nehi maññe dhanaṃ lacchasinapparūpaṃ
@@ -507,7 +507,7 @@ tesampahaṃ  jīvitamajja dammi mokkhañca te pattā  sakaṃ niketaṃ
 bandhitvā  morādhipatiṃ yasassiṃ dukkhā sa pamucci  yathāhaṃ pamuttoti
 
 
- 492 tacchasūkarajātakaṃ (9)
+ 492 tacchasūkarajātakaṃ 
 
  yadesamānā vicarimha pabbatāni vanāni ca
 anvesaṃ  vicariṃ  ñātī teme adhigatā mayā
@@ -570,7 +570,7 @@ sūkarehi samaggehi byaggho ekāyane hato
 tacchakaṃ abhisiñciṃsu tvaṃ no rājāsi issaroti
 
 
- 493 mahāvāṇijajātakaṃ (10)
+ 493 mahāvāṇijajātakaṃ 
 
  vāṇijā samitiṃ katvā nānāraṭṭhato āgatā
 dhanāharā pakkamiṃsu ekaṃ katvāna gāmaṇiṃ
@@ -642,7 +642,7 @@ lobhassa na vasaṃ gacche haneyyārisakaṃ  manaṃ
 vītataṇho anādāno sato bhikkhu paribbajeti
 
 
- 494 sādhinajātakaṃ (11)
+ 494 sādhinajātakaṃ 
 
  abbhuto  vata lokasmiṃ uppajji lomahaṃsano
 dibbo ratho pāturahu vedehassa yasassino
@@ -711,7 +711,7 @@ dhammameva carissāmi nāhaṃ rajjena atthiko
 taṃ maggaṃ paṭipajjissaṃ yena gacchanti subbatāti
 
 
- 495 dasabrāhmaṇajātakaṃ (12)
+ 495 dasabrāhmaṇajātakaṃ 
 
  rājā  avoca vidhuraṃ dhammakāmo yudhiṭṭhilo
 brāhmaṇe vidhura pariyesa sīlavante bahussute
@@ -746,7 +746,7 @@ pesanānipi gacchanti rathacariyāsu sikkhare
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te ca brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -761,7 +761,7 @@ nādinne vuṭṭhahissāma gāmamhi vā vanamhi vā
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te ca brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -775,7 +775,7 @@ okiṇṇā rajareṇūhi yācakā vicaranti te
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te ca brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -792,7 +792,7 @@ uccāvacāni paṇiyāni vipaṇenti janādhipa
 akkhātā te mahārāja tādise nipatāmase
 
  apetā  te ca brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -806,7 +806,7 @@ kumāriyo  pavecchanti vivāhantāvahanti ca
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te ca brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -821,7 +821,7 @@ goghātakasamā rāja tepi vuccanti brāhmaṇā
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -835,7 +835,7 @@ vessapathesu tiṭṭhanti satthaṃ abbāhayantipi
 akkhātā te mahārāja tādise nipatāmase
 
  apetā te brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -849,7 +849,7 @@ sasabiḷāre bādhenti āgodhā macchakacchapaṃ
 akkhātā te mahārāja tādise nipatāmase
 
  apetā  te brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -863,7 +863,7 @@ rājāno upari nhāyanti somayāge upaṭṭhite
 akkhātā te mahārāja tādise nipatāmase
 
  apetā  te brahmaññā
-(iti rājā korabyo)
+
 na te vuccanti brāhmaṇā
 aññe vidhura pariyesa sīlavante bahussute
 
@@ -880,7 +880,7 @@ akkhātā te mahārāja tādise nipatāmase
 ete vidhura pariyesa khippañca ne  nimantayāti
 
 
- 496 bhikkhāparamparajātakaṃ (13)
+ 496 bhikkhāparamparajātakaṃ 
 
  sukhumālarūpaṃ disvā  raṭṭhā vivanamāgataṃ
 kūṭāgāravarūpetaṃ mahāsayanamupāsitaṃ 

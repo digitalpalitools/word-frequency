@@ -22,7 +22,7 @@ yassaṃ viññātamattena mūḷho bhavati paṇḍito
 mittalābho suhadabhedo viggaho sandhireva ca
 pañcatandrā tathāññasmā ganthā kassiyalikhyate
 lokanītimhā 
-(1) paṇḍitakaṇḍa (2) sujanakaṇḍa (3) bāladujjana kaṇḍa (4) mittakaṇḍa (5) itthikaṇḍa (6) rājakaṇḍa (7) pakiṇṇaka kaṇḍa-
+ paṇḍitakaṇḍa  sujanakaṇḍa  bāladujjana kaṇḍa  mittakaṇḍa  itthikaṇḍa  rājakaṇḍa  pakiṇṇaka kaṇḍa-
 lokanīti 
 paṇḍito sujano kaṇḍo dujjano mittaitthī ca
 rājapakiṇṇako cāti sattakaṇḍe vibhūsino
@@ -35,13 +35,13 @@ mātā pitā ācariyo mitto
 tasmā hi nītiṃ puriso vijaññā
 ñāṇīmahā hoti bahussuto
 mahārahanīti 
-(1) paṇḍitakathā (2) sambhedakathā (3) mittakathā (4) nāyaka kathā (5) itthikathā
+ paṇḍitakathā  sambhedakathā  mittakathā  nāyaka kathā  itthikathā
 mahāraha rahaṃsakya-muniṃ nīvaraṇā taṇhā
 muttaṃ muttaṃ sudassanaṃ vande bodhivaraṃ varaṃ
 nītidha jantūnaṃ sāro mittācariyā ca pitaro
 nītimā subuddhibyatto sutavā atthadassimā
 dhammanīti 
-(1) ācariyakathā (2) sippakathā (3) paññākathā (4) sutakathā (5) kathānakathā (6) dhanakathā (7) desakathā (8) nissayakathā (9) mittakathā (10) dujjanakathā (11) sujanakathā (12) balakathā (13) itthikathā (14) yuttakathā (15) dāsakathā (16) gharāvāsakathā (17) kātabbakathā (18) akātabbakathā (19) ñātabbakathā (20) alaṅkārakathā (21) rājadhammakathā (22) upasevakakathā (23) dukkhādimissakakathā (24) pakiṇṇakakathā
+ ācariyakathā  sippakathā  paññākathā  sutakathā  kathānakathā  dhanakathā  desakathā  nissayakathā  mittakathā  dujjanakathā  sujanakathā  balakathā  itthikathā  yuttakathā  dāsakathā  gharāvāsakathā  kātabbakathā  akātabbakathā  ñātabbakathā  alaṅkārakathā  rājadhammakathā  upasevakakathā  dukkhādimissakakathā  pakiṇṇakakathā
 cakkāticakkacakkindo devātidevādevindo
 brahmāti brahmabrahmindo jino pūretu me bhāvaṃ
 ciraṃ tiṭṭhatu lokamhi dhaṃsakaṃ sabbapāṇinaṃ
@@ -77,7 +77,7 @@ santuṭṭho ca bhave niccaṃ tīṇi sikkheyya gadrabhā
 
  vīsati tāni guṇāni careyya iha paṇḍito
 vijeyya ripū sabbepi tejassī so bhavissati
-(1) paṇḍitakaṇḍa (2) sujanakaṇḍa (3) bāladujjanakaṇḍa (4) mittakaṇḍa (5) rājakaṇḍa (6) nāyakakaṇḍa (7) puttakaṇḍa (8) vejjācariyakaṇḍa (9) dāsakakaṇḍa (10) itthikaṇḍa (11) pakiṇṇakakaṇḍa
+ paṇḍitakaṇḍa  sujanakaṇḍa  bāladujjanakaṇḍa  mittakaṇḍa  rājakaṇḍa  nāyakakaṇḍa  puttakaṇḍa  vejjācariyakaṇḍa  dāsakakaṇḍa  itthikaṇḍa  pakiṇṇakakaṇḍa
 kavidappaṇanītiṃyo vācuggataṃ karoti ce
 bhuvanamajjhe eso hi viññū paṇḍitajātiko
 

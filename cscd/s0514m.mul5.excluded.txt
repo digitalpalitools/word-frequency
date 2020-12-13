@@ -1,6 +1,6 @@
 ﻿22. Mahānipāto
 
-.
+.(1)
 1.
 ‘‘paṇḍitiyaṃ (sī.), paṇḍicciyaṃ (pī.),;
 ,’’.
@@ -372,7 +372,7 @@ saṅgaraṃ (sī. pī.) ma. ni. 3.272,.
 ,’’.
 Mūgapakkhajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 123.
 ‘‘,;
 kiṃ (syā. ka.),’’.
@@ -895,7 +895,7 @@ pessiyā (sī. pī.),.
 ‘‘,.
 288.
 ‘‘,;
-,;( ) natthi bahūsu
+,(ekaṃ daṇḍaṃ ujuṃ kataṃ;)( ) natthi bahūsu
 ,’’.
 289.
 ‘‘,;
@@ -920,7 +920,7 @@ paraṃ (sī. pī.),.
 ‘‘,’’.
 Mahājanakajātakaṃ dutiyaṃ.
 
-.
+.(3)
 296.
 ‘‘,hārikaṃ (syā.), hāriyaṃ (ka.);
 ,.
@@ -964,7 +964,7 @@ Mahājanakajātakaṃ dutiyaṃ.
 ‘‘,;
 ,.
 310.
-‘‘,;( ) natthi sī. syā. pī. potthakesu
+(‘‘Na maṃ migā uttasanti, araññe sāpadānipi;)( ) natthi sī. syā. pī. potthakesu
 ,’’utrāse so migo mamaṃ (sī. pī.).
 311.
 ‘‘na taddasā (sī. pī.),;
@@ -1301,7 +1301,7 @@ saraṇaṃ sāma gacchāmi (syā. ka.),’’.
 ,’’.
 Suvaṇṇasāmajātakaṃ sāmajātakaṃ (sī. pī.) tatiyaṃ.
 
-.
+.(4)
 421.
 ‘‘,;
 ,.
@@ -1799,7 +1799,7 @@ ayaṃ gāthā sī. syā. pī. potthakesu aṭṭhakathāyañca na dissati,;
 ,purakkhitaṃ (syā. ka.).
 571.
 ‘‘,;
-kimabhiññamāhu (sī. pī.),.( ) ayaṃ pāṭho syāmapotthakeyeva dissati
+kimabhiññamāhu (sī. pī.),(manorama dissati dūratova.)( ) ayaṃ pāṭho syāmapotthakeyeva dissati
 572.
 ,;
 ,.
@@ -1818,7 +1818,7 @@ kimabhiññamāhu (sī. pī.),.( ) ayaṃ pāṭho syāmapotthakeyeva dissati
 ,.
 577.
 ‘‘,;
-kimabhiññamāhu (sī. pī.),.( ) ayaṃ pāṭho syāmapotthakeyeva dissati
+kimabhiññamāhu (sī. pī.),(manorama dissati dūratova.)( ) ayaṃ pāṭho syāmapotthakeyeva dissati
 578.
 ,;
 ,.
@@ -1860,7 +1860,7 @@ nimantayī ca (sī. pī.),.
 ,’’.
 Nimijātakaṃ nemirājajātakaṃ (syā.) catutthaṃ.
 
-.
+.(5)
 590.
 ‘‘,;
 ,.
@@ -2467,7 +2467,7 @@ amittassa hatthagate (ka.),’’.
 ,’’.
 Umaṅgajātakaṃ mahāummaggajātakaṃ (sī. pī.), mahosadhajātakaṃ (syā.§ka.) pañcamaṃ.
 
-.
+.(6)
 784.
 ‘‘,;
 ,’’.
@@ -3070,7 +3070,7 @@ tapaññamaṇidaṇḍāni (sī. pī.), suvaṇṇamaṇidaṇḍāni (syā. ka
 ,’’.
 Bhūridattajātakaṃ chaṭṭhaṃ.
 
-.
+.(7)
 982.
 ‘‘,;
 ,.
@@ -3594,7 +3594,7 @@ pitanisito (sī. pī.),.
 vādiṃsu nandipavesanagaraṃ (syā.), nandiṃ pavesi nagare (ka.),’’.
 Candakumārajātakaṃ khaṇḍahālajātakaṃ (sī. pī.) sattamaṃ.
 
-.
+.(8)
 1153.
 ‘‘,aṅgāti (sī.) evamuparipi;
 ,.
@@ -4132,7 +4132,7 @@ dumaggaviṭapaggataṃ (sī.),.
 ‘‘,;
 ,’’.
 1328.
-‘‘ettha kiñci ūnaṃ viya dissati,;
+‘‘( )ettha kiñci ūnaṃ viya dissati,;
 ,.
 1329.
 ‘‘,sakkavisayaṃ (sī. pī.);
@@ -4188,7 +4188,7 @@ nivātavuttiyottaṅgo (ka.),.
 ,’’.
 Mahānāradakassapajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 
 
 
@@ -5160,7 +5160,7 @@ mā’ya’māha (syā.),’’.
 ,.
 Vidhurajātakaṃ navamaṃ.
 
-.
+.(10)
 Dasavarakathā
 1655.
 ‘‘phusati (sī. pī.),;

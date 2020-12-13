@@ -112,7 +112,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’;,’.
 
 ,;,,,,,.
-’,,;,;,;,,;,,,,,.
+’,,;,(jeṭṭhaṃ jeṭṭhamanuppavesaya);,;,,;,,,,,.
 .
 ,,?;.
 .
@@ -140,9 +140,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ;,,,,.
 .
 ;,,,,,.
-.
+.()
 ;?.
-.
+.()
 ;?.
 .
 ?,,,,.
@@ -308,7 +308,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ;,,,–.
 .
 ;,,,,,,–?’’.
-
+()
 .
 .
 ;,,,,,.
@@ -347,8 +347,8 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;,–?;.
 ;
-.
-
+().
+(iccete sabbādayo )
 .
 ;,.
 .
@@ -439,7 +439,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;,,,,–?,;,.
 
-.
+().
 .
 ;.
 .
@@ -460,9 +460,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ;,.
 .
 ;,–.
-.
-;.
-.
+().
+;(daḷhadhammo).
+().
 ,–.
 .
 ;,,,.
@@ -669,7 +669,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;–;,––;.
 .
-’;’’,’’;,,,,,,,,,,,.’’;–;’’;.;’’;.;’’’–’’–.
+’;’’,’’;,,,,,,,,,,,.()’’;–;()’’;.;()’’;.;()’’’–()’’–.
 .
 ;.
 .
@@ -706,13 +706,13 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ,.
 .
 ;,,,,,.
-.
+().
 ,;’–‘‘‘‘..
 .
 ;,;,;,.
 .
 ;;;.
-.
+().
 ;.
 .
 ;;;;–?.
@@ -720,10 +720,10 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ;;;–?.
 .
 ;;;.
-;;.
+();;.
 .
 ;;;;.
-;–.
+();–.
 .
 ;;;;;;;;–’’;.
 .
@@ -1040,12 +1040,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;;–?;.
 .
-;;.,,;,,;,,–;–;
-–;,––;;;–;,;––’,;,–;–––;.
+;;.,,;,,;,,–();–();
+–;(),–()–();;;–;(),;–()–’,;,–();–()–(sikhādihī vā)()–();.
 .
 ;,,,,–.
 .
-;,,,,,–.
+;,,,,,–().
 .
 ;,,,.
 .
@@ -1056,7 +1056,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;,;,;,;–?‘‘‘‘.
 .
-;,;,–;–;,;,.
+;,;,–;()–;(),;,.
 .
 ;,.
 .
@@ -1226,7 +1226,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;.
 .
-;,,–,;,;.
+;,,–(),;,;.
 .
 .
 .
@@ -1504,7 +1504,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;,,,.
 .
-,;;,,–?;.
+,;;,,–?;(na).
 .
 ;,;?.
 .
@@ -1601,7 +1601,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ;,;,.
 .
-;,,,,,,.?;?.
+;,,,,,,(harissati).?;?.
 .
 ;,.
 .

@@ -1,7 +1,7 @@
 ﻿
 
 
- 351 maṇikuṇḍalajātakaṃ (5-1-1)
+ 351 maṇikuṇḍalajātakaṃ 
 
  jīno  rathassaṃ maṇikuṇḍale ca putte ca dāre ca tatheva jīno
 sabbesu bhogesu asesakesu  kasmā na santappasi sokakāle
@@ -19,7 +19,7 @@ rājā na sādhu anisammakārī yo paṇḍito kodhano taṃ na sādhu
 nisammakārino rāja  yaso kitti ca vaḍḍhatīti
 
 
- 352 sujātajātakaṃ (5-1-2)
+ 352 sujātajātakaṃ 
 
  kiṃ  nu santaramānova lāyitvā haritaṃ tiṇaṃ
 khāda khādāti lapasi gatasattaṃ jaraggavaṃ
@@ -46,7 +46,7 @@ na socāmi na rodāmi tava sutvāna māṇava
 vinivattenti sokamhā sujāto pitaraṃ yathāti
 
 
- 353 venasākhajātakaṃ (5-1-3)
+ 353 venasākhajātakaṃ 
 
  nayidaṃ niccaṃ bhavitabbaṃ brahmadatta khemaṃ subhikkhaṃ sukhatā ca kāye
 atthaccaye mā ahu sampamūḷho bhinnaplavo sāgarasseva majjhe
@@ -65,7 +65,7 @@ alaṅkate candanasārānulitte tameva dukkhaṃ paccāgataṃ mamaṃ
 adisvā  kālaṃ karissāmi ubbariṃ taṃ me ito dukkhataraṃ bhavissatīti
 
 
- 354 uragajātakaṃ (5-1-4)
+ 354 uragajātakaṃ 
 
  uragova tacaṃ jiṇṇaṃ hitvā gacchati saṃ tanuṃ
 evaṃ sarīre nibbhoge pete kālaṅkate sati
@@ -98,7 +98,7 @@ evaṃ sampadamevetaṃ yo petamanusocati
 tasmā etaṃ na socāmi gato so tassa yā gatīti
 
 
- 355 ghaṭajātakaṃ (5-1-5)
+ 355 ghaṭajātakaṃ 
 
  aññe socanti rodanti aññe assumukhā janā
 pasannamukhavaṇṇosi kasmā ghaṭa  na socasi
@@ -116,7 +116,7 @@ amittā sumanā honti sallaviddhassa ruppato
 sabbāpi pathavī tassa na sukhaṃ āvahissatīti
 
 
- 356 koraṇḍiyajātakaṃ (5-1-6)
+ 356 koraṇḍiyajātakaṃ 
 
  eko  araññe girikandarāyaṃ paggayha paggayha silaṃ pavecchasi 
 punappunaṃ santaramānarūpo koraṇḍiya  ko nu tava yidhattho
@@ -134,7 +134,7 @@ evameva tvaṃ brahme ime manusse nānādiṭṭhike nānayissasi te
 yathā na sakkā pathavī samāyaṃ kattuṃ manussena tathā manussāti
 
 
- 357 laṭukikajātakaṃ (5-1-7)
+ 357 laṭukikajātakaṃ 
 
  vandāmi taṃ kuñjara saṭṭhihāyanaṃ āraññakaṃ yūthapatiṃ yasassiṃ
 pakkhehi taṃ pañjalikaṃ karomi mā me vadhī puttake dubbalāya
@@ -153,7 +153,7 @@ ete nāgaṃ aghātesuṃ passa verassa verinaṃ
 tasmā hi veraṃ na kayirātha appiyenapi kenacīti
 
 
- 358 cūḷadhammapālajātakaṃ (5-1-8)
+ 358 cūḷadhammapālajātakaṃ 
 
  ahameva  dūsiyā bhūnahatā rañño mahāpatāpassa
 etaṃ muñcatu dhammapālaṃ hatthe me deva chedehi
@@ -174,7 +174,7 @@ ye na vadanti rājānaṃ mā ghātayi atrajaṃ puttaṃ
 dāyādassa pathabyā pāṇā me deva rujjhantīti
 
 
- 359 suvaṇṇamigajātakaṃ (5-1-9)
+ 359 suvaṇṇamigajātakaṃ 
 
  vikkama re haripāda  vikkama re mahāmiga 
 chinda vārattikaṃ pāsaṃ nāhaṃ ekā vane rame
@@ -192,7 +192,7 @@ tvañca bhadde sukhī hohi eso cāpi mahāmigo
 yathāhamajja  nandāmi muttaṃ disvā mahāmiganti
 
 
- 360 suyonandījātakaṃ (5-1-10)
+ 360 suyonandījātakaṃ 
 
  vāti  gandho timirānaṃ kusamuddo ca  ghosavā
 dūre ito suyonandī  tambakāmā tudanti maṃ
@@ -215,7 +215,7 @@ atha jinavaro haritaṃ tiṇako atha  bhinnaplavo uragova ghaṭo
 dariyā puna kuñjara bhūnahatā migamuttamasaggavarena dasāti
 
 
- 361 vaṇṇārohajātakaṃ (5-2-1)
+ 361 vaṇṇārohajātakaṃ 
 
  vaṇṇārohena jātiyā balanikkamanena ca
 subāhu na mayā seyyo sudāṭha iti bhāsasi
@@ -233,7 +233,7 @@ khippaṃ bhijjetha mittasmiṃ verañca pasave bahuṃ
 yasmiñca setī urasīva putto sa ve mitto yo abhejjo parehīti
 
 
- 362 sīlavīmaṃsajātakaṃ (5-2-2)
+ 362 sīlavīmaṃsajātakaṃ 
 
  sīlaṃ  seyyo sutaṃ seyyo iti me saṃsayo ahu
 sīlameva sutā seyyo iti me natthi saṃsayo
@@ -251,7 +251,7 @@ idha dhammaṃ caritvāna bhavanti tidive samā
 sakañca sīlaṃ saṃsuddhaṃ samparāyāya sukhāya cāti 
 
 
- 363 hirijātakaṃ (5-2-3)
+ 363 hirijātakaṃ 
 
  hiriṃ tarantaṃ vijigucchamānaṃ tavāhamasmī iti bhāsamānaṃ
 seyyāni kammāni anādiyantaṃ neso mamanti iti naṃ vijaññā
@@ -269,7 +269,7 @@ phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ
 niddaro hoti nippāpo dhammappītirasaṃ pivanti
 
 
- 364 khajjopanakajātakaṃ (5-2-4)
+ 364 khajjopanakajātakaṃ 
 
  ko nu santamhi pajjote aggipariyesanaṃ caraṃ
 addakkhi ratti  khajjotaṃ jātavedaṃ amaññatha
@@ -287,7 +287,7 @@ niggahena amittānaṃ mittānaṃ paggahena ca
 jagatiṃ jagatipālā āvasanti vasundharanti
 
 
- 365 ahituṇḍikajātakaṃ (5-2-5)
+ 365 ahituṇḍikajātakaṃ 
 
  dhuttomhi samma sumukha jūte akkhaparājito
 harehi  ambapakkāni vīriyaṃ te bhakkhayāmase
@@ -305,7 +305,7 @@ nevāhaṃ yācito dajjaṃ tathā hi bhayatajjito
 tena sakhiñca mittañca dhīro sandhātumarahatīti
 
 
- 366 gumbiyajātakaṃ (5-2-6)
+ 366 gumbiyajātakaṃ 
 
  madhuvaṇṇaṃ  madhurasaṃ madhugandhaṃ visaṃ ahu
 gumbiyo  ghāsamesāno araññe odahī visaṃ
@@ -323,7 +323,7 @@ te āturesu sukhitā ḍayhamānesu nibbutā
 ye sadā parivajjenti saṅgaṃ loke upaccagunti
 
 
- 367 sāḷiyajātakaṃ (5-2-7)
+ 367 sāḷiyajātakaṃ 
 
  yvāyaṃ sāḷiya  chāpoti kaṇhasappaṃ agāhayi
 tena sappenayaṃ daṭṭho hato pāpānusāsako
@@ -341,7 +341,7 @@ tameva  so rajo hanti tathāyaṃ puriso hato
 tameva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃva khittoti
 
 
- 368 tacasārajātakaṃ (5-2-8)
+ 368 tacasārajātakaṃ 
 
  amittahatthatthagatā  tacasārasamappitā
 pasannamukhavaṇṇāttha kasmā tumhe na socatha
@@ -359,7 +359,7 @@ yathā  yathā yattha labhetha atthaṃ tathā tathā tattha parakkameyya
 asocamāno adhivāsayeyya kammaṃ daḷhaṃ kinti karomi dānīti
 
 
- 369 mittavindakajātakaṃ (5-2-9)
+ 369 mittavindakajātakaṃ 
 
  kyāhaṃ devānamakaraṃ kiṃ pāpaṃ pakataṃ mayā
 yaṃ me sirasmiṃ ohacca  cakkaṃ bhamati matthake
@@ -378,7 +378,7 @@ icchāhatassa posassa cakkaṃ bhamati matthake
 ye  ca taṃ anugijjhanti te honti cakkadhārinoti
 
 
- 370 palāsajātakaṃ (5-2-10)
+ 370 palāsajātakaṃ 
 
  haṃso palāsamavaca nigrodho samma jāyati
 aṅkasmiṃ  te nisinnova so te mammāni checchati 
@@ -398,7 +398,7 @@ tassūparodhaṃ parisaṅkamāno patārayī mūlavadhāya dhīroti
 
 
 
- 371 dīghītikosalajātakaṃ (5-3-1)
+ 371 dīghītikosalajātakaṃ 
 
  evaṃbhūtassa te rāja āgatassa vase  mama
 atthi nu koci pariyāyo yo taṃ dukkhā pamocaye
@@ -419,7 +419,7 @@ ye ca taṃ nupanayhanti veraṃ tesūpasammati
 averena ca sammanti esa dhammo sanantanoti
 
 
- 372 migapotakajātakaṃ (5-3-2)
+ 372 migapotakajātakaṃ 
 
  agārā  paccupetassa anagārassa te sato
 samaṇassa na taṃ sādhu yaṃ petamanusocasi
@@ -443,7 +443,7 @@ yo me sokaparetassa puttasokaṃ apānudi
 na socāmi na rodāmi tava sutvāna vāsavāti
 
 
- 373 mūsikajātakaṃ (5-3-3)
+ 373 mūsikajātakaṃ 
 
  kuhiṃ gatā kattha gatā iti lālappatī jano
 ahameveko jānāmi udapāne mūsikā hatā
@@ -462,7 +462,7 @@ sabbassa atthaṃ jāneyya na ca sabbaṃ payojaye
 hoti tādisako kālo yattha atthāvahaṃ sutanti
 
 
- 374 cūḷadhanuggahajātakaṃ (5-3-4)
+ 374 cūḷadhanuggahajātakaṃ 
 
  sabbaṃ  bhaṇḍaṃ samādāya pāraṃ tiṇṇosi brāhmaṇa
 paccāgaccha lahuṃ khippaṃ mampi tārehi dānito 
@@ -487,7 +487,7 @@ sā nūnāhaṃ ito gantvā bhattu hessaṃ vasānugā
 katañceva  tayā pāpaṃ punapevaṃ karissasīti
 
 
- 375 kapotajātakaṃ (5-3-5)
+ 375 kapotajātakaṃ 
 
  idāni khomhi sukhito arogo nikkaṇṭako nippatito kapoto
 kāhāmi dānī hadayassa tuṭṭhiṃ tathāhimaṃ maṃsasākaṃ baleti

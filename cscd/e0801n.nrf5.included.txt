@@ -16,7 +16,7 @@ kammato upamānā ācāratthe īyo hoti puttami-vā-carati puttīyati māṇavak
  kattutāyo
 kattutū-pamānā ācāratthe āyo hoti pabbato ivācarati pabbatāyati
  ycatthe
-kattuto abhūtatabbhāve āyo hoti bahulaṃ bhusāyati paṭapaṭāyati lohitāyati kattutotveva (abhusaṃ) bhusaṃ karotīhi iha kasmā na hoti bhusī bhavatīti vuttatthatāya
+kattuto abhūtatabbhāve āyo hoti bahulaṃ bhusāyati paṭapaṭāyati lohitāyati kattutotveva  bhusaṃ karotīhi iha kasmā na hoti bhusī bhavatīti vuttatthatāya
  saddādīni karoti
 saddādīhi dutiyantehi karotīti asmiṃ atthe āyo hoti saddāyati verāyati kalahāyati dhūpāyati
  numotva-sso
@@ -57,7 +57,7 @@ bhāvakammesu kriyatthā paro ghyaṇa hoti bahulaṃ vākyaṃ kāriyaṃ ceyya
  āsse ca
 ātoghyaṇa hoti bhāvakammesu āssa e ca deyyaṃ
  vadādīhi yo
-vadādīhi  kriyatthehi yo hoti bahulaṃ bhāvakammesu vajjaṃ majjaṃ gammaṃ (42) bhujānne bhojjo odano bhojjā yāgu bhoggamaññaṃ
+vadādīhi  kriyatthehi yo hoti bahulaṃ bhāvakammesu vajjaṃ majjaṃ gammaṃ  bhujānne bhojjo odano bhojjā yāgu bhoggamaññaṃ
  kicca ghacca bhacca bhabba leyyā
 ete saddā yappaccayantā nipaccante
  guhādīhi yaka
@@ -89,9 +89,9 @@ bhāve kārake ca kriyatthā a ghaṇa gha kā honti bahulaṃ a-paggaho niggaho
  dādhātvi
 dādhāhi bahulami hoti bhāvakārakesu ādi nidhi vālami
  vamādīyyathu
-vamādīhi bhāvakārakesvathu hoti vamathu vepathu (avathu sayathu)
+vamādīhi bhāvakārakesvathu hoti vamathu vepathu 
  kvi
-kriyatthā  kvi hoti bahulaṃ bhāvakārakesu kakāro kānubandhakāriyattho abhibhū sayambhū bhattaggaṃ (dānaggaṃ) salākaggaṃ sabhā pabhā
+kriyatthā  kvi hoti bahulaṃ bhāvakārakesu kakāro kānubandhakāriyattho abhibhū sayambhū bhattaggaṃ  salākaggaṃ sabhā pabhā
  ano
 kriyattā bhāvakārakesvano hoti gamanaṃ dānaṃ sampadānaṃ apādānaṃ adhikaraṇaṃ calano jalano kodhano kopano maṇḍano bhūsano
  itthiyamaṇa tti ka yaka yā ca
@@ -107,7 +107,7 @@ kriyatthā ṇī hoti sīlādīsu patīyamānesu uṇhabhojī khīrapāyī avass
  thāvarittara bhaṅgura bhidura bhāsura bhassarā
 ete saddā nipaccante sīle gamyamāne
  kattari bhūte ktavantu ktāvī
-bhūte-tthe vattamānato kriyatthā ktavantuttāvī honti kattari vijitavā vijitāvī bhūteti adhikāro yāva āhāratthāti (5-60)
+bhūte-tthe vattamānato kriyatthā ktavantuttāvī honti kattari vijitavā vijitāvī bhūteti adhikāro yāva āhāratthāti 
  ktobhāvakammesu
 bhāve kamme ca bhūte kto hoti āsitaṃ bhavatā kato kaṭo bhavatā
  kattari cārambhe
@@ -167,7 +167,7 @@ lahubhūtassa upantassa yuvaṇṇassa eo honti yathākkamaṃ esitabbaṃ kosit
  assā ṇānubandhe
 ṇakārānubandhe paccaye pare upantassa akārassa ā hoti kārako
  na te kānubandhanāgamesu
-te  eoā kānubandhe nāgame ca na honti cito suto diṭṭho puṭṭho nāgame vanādinā (145) cinitabbaṃ cinituṃ suṇitabbaṃ suṇituṃ pāpuṇitabbaṃ pāpuṇituṃ dhunitabbaṃ dhunituṃ dhunanaṃ dhunayitabbaṃ dhunāpetabbaṃ dhunayituṃ dhunāpetuṃ dhunayanaṃ dhunāpanaṃ dhunayati dhunāpeti pīnetabbaṃ pīnayituṃ pīnanaṃ pīnituṃ pīnayati sunoti sinoti dunoti hinoti pahiṇithabbaṃ pahiṇituṃ pahiṇanaṃ
+te  eoā kānubandhe nāgame ca na honti cito suto diṭṭho puṭṭho nāgame vanādinā  cinitabbaṃ cinituṃ suṇitabbaṃ suṇituṃ pāpuṇitabbaṃ pāpuṇituṃ dhunitabbaṃ dhunituṃ dhunanaṃ dhunayitabbaṃ dhunāpetabbaṃ dhunayituṃ dhunāpetuṃ dhunayanaṃ dhunāpanaṃ dhunayati dhunāpeti pīnetabbaṃ pīnayituṃ pīnanaṃ pīnituṃ pīnayati sunoti sinoti dunoti hinoti pahiṇithabbaṃ pahiṇituṃ pahiṇanaṃ
  vā kvaci
 te kvaci vā na honti kānubandhanāgamesu mudito ruditaṃ roditaṃ
  aññatrāpi
@@ -284,7 +284,7 @@ ete saddā nipaccante
  pucchādito
 pucchādīhi  kriyatthehi parassānantarassa takārassa ṭha hoti puṭṭho bhaṭṭho yiṭṭho anantarassātveva pucchitvā
  sāsa vasa saṃsa sasā tho
-etehi parassānantarassa tassa tha hoti satthaṃ vatthaṃ pasatthaṃ satthaṃ kathamanusiṭṭho (vuṭṭho) ti tathanarānaṃ ṭaṭṭhaṇalā 1-52 ti ṭṭho anantarassātveva sāsituṃ
+etehi parassānantarassa tassa tha hoti satthaṃ vatthaṃ pasatthaṃ satthaṃ kathamanusiṭṭho  ti tathanarānaṃ ṭaṭṭhaṇalā 1-52 ti ṭṭho anantarassātveva sāsituṃ
  dho dhahabhehi
 dhakārahakārabhakārantehi kriyatthehi parassānantarassa tassa dha hoti vuddho duddhaṃ laddhaṃ
  dahā ḍho
@@ -292,7 +292,7 @@ dahā parassānantarassa tassa ḍha hoti daḍḍho
  bahassuma ca
 bahā parassānantarassa tassa ḍho hoti bahassuma ca ḍhasanniyogena buḍḍho
  ruhādīhi ho ḷa ca
-rahādīhi parassānantarassa tassa ha hoti ḷo cāntassa āruḷho gūḷho vūḷho bāḷho (ogāḷho) anantarassātveva ārohituṃ
+rahādīhi parassānantarassa tassa ha hoti ḷo cāntassa āruḷho gūḷho vūḷho bāḷho  anantarassātveva ārohituṃ
  muhā vā
 muhā  parassānantarassa tassa ha hoti vā ḷo cāntassa hasanniyogena mūḷho muddho
  bhidādito no ktaktavantūnaṃ

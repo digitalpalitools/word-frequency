@@ -259,7 +259,7 @@ Gaṅgāpeyyālavaggo paṭhamo.
 112.‘‘,,;,,…pe….
 113.‘‘,,;,,…pe….
 114.‘‘,,,–,,,,,;,,.,,?,,…pe….,,’’..
-.
+(Rāgavinayadvādasakī dutiyakī samuddaninnanti).
 1. Paṭhamapācīnaninnasuttaṃ
 115.‘‘,,;,,.,,?,,…pe….,,’’..
 2-6. Dutiyādipācīnaninnasuttapañcakaṃ
@@ -272,7 +272,7 @@ Gaṅgāpeyyālavaggo paṭhamo.
 121.‘‘,,;,,.,,?,,…pe….,,’’..
 2-6. Dutiyādisamuddaninnasuttapañcakaṃ
 122-126.‘‘,,;,,…pe…,,;,,…pe…,,;,,…pe…,,;,,…pe…,,,–,,,,,;,,.,,?,,…pe….,,’’..
-.
+(Amatogadhadvādasakī tatiyakī).
 1. Paṭhamapācīnaninnasuttaṃ
 127.‘‘,,;,,.,,?,,…pe….,,’’..
 2-6. Dutiyādipācīnaninnasuttapañcakaṃ
@@ -313,7 +313,7 @@ Appamādapeyyālavaggo pañcamo.
 6. Balakaraṇīyavaggo
 1. Balasuttaṃ
 149..‘‘,,,;,,.,,?,,…pe…,,’’.
-.
+(Paragaṅgāpeyyālīvaṇṇiyato paripuṇṇasuttanti vitthāramaggī).
 ‘‘,,,;,,.,,?,,…pe….,,’’.
 ‘‘,,,;,,.,,?,,…pe….,,’’.
 ‘‘,,,;,,.,,?,,…pe….,,’’..
@@ -339,7 +339,7 @@ Appamādapeyyālavaggo pañcamo.
 159.‘‘,,.,,,,,,,;,,,,,,,,,.
 ‘‘,,?.?–…pe….,,.,,?–,,.,,?–,,.,,?–,,.,,,…pe…,?,,…pe……pe…,,,,,,,,,’’..
 12. Nadīsuttaṃ
-160.‘‘,,.–‘’.,,’’?‘‘,’’.‘‘’’?‘‘,,..’’.‘‘,,–‘,,,,’.,,–.?,,–.,,?,,…pe……pe…,,,’’.,..
+160.‘‘,,.–‘’.,,’’?‘‘,’’.‘‘’’?‘‘,,..’’.‘‘,,–‘,,,,’.,,–.?,,–.,,?,,…pe……pe…,,,’’.(Yadapi balakaraṇīyaṃ, tadapi vitthāretabbaṃ.).
 Balakaraṇīyavaggo chaṭṭho.
 –
 ,;
@@ -350,11 +350,11 @@ Balakaraṇīyavaggo chaṭṭho.
 ‘‘,,.?,,–,,.,,.?,,…pe….,,’’.
 ‘‘,,.?,,–,,.,,.?,,…pe….,,’’.
 ‘‘,,.?,,–,,.,,.?,,…pe….,,’’.
-‘‘,,.?,,–,,.,,…pe…’’.,.
-‘‘,,.?,,–,,.,,…pe…’’.,.
-‘‘,,.?,,–,,.,,.?,,…pe……pe…,,’’.,..
+‘‘,,.?,,–,,.,,…pe…’’.(Yadapi abhiññā, tadapi pariññāya vitthāretabbaṃ.)
+‘‘,,.?,,–,,.,,…pe…’’.(Yadapi abhiññā, tadapi parikkhayāya vitthāretabbaṃ.)
+‘‘,,.?,,–,,.,,.?,,…pe……pe…,,’’.(Yadapi abhiññā, tadapi pahānāya vitthāretabbaṃ.).
 2. Vidhāsuttaṃ
-162.‘‘,,.?‘’,‘’,‘’–,,.,,.?,,…pe……pe…,’’.,..
+162.‘‘,,.?‘’,‘’,‘’–,,.,,.?,,…pe……pe…,’’.(Yathā esanā, evaṃ vitthāretabbaṃ)..
 3. Āsavasuttaṃ
 163.‘‘,,.?,,–,,.,,…pe…’’..
 4. Bhavasuttaṃ
@@ -379,7 +379,7 @@ Esanāvaggo sattamo.
 ,.
 8. Oghavaggo
 1. Oghasuttaṃ
-172..‘‘,,.?,,,–,,.,,…pe…’’.,..
+172..‘‘,,.?,,,–,,.,,…pe…’’.(Yathā esanā, evaṃ sabbaṃ vitthāretabbaṃ.).
 2. Yogasuttaṃ
 173.‘‘,,.?,,–,,.,,…pe…’’..
 3. Upādānasuttaṃ

@@ -1,6 +1,6 @@
 ﻿10. Dasakanipāto
 
-.
+.(1)
 1.
 ,;
 ,.
@@ -33,7 +33,7 @@ accasaro (sī. syā. pī.),;
 sirasmi (syā.),.
 Catudvārajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 11.
 ,;
 ,.
@@ -79,7 +79,7 @@ na (syā. pī.),.
 ,.
 Kaṇhajātakaṃ dutiyaṃ.
 
-.
+.(3)
 24.
 ,;
 ,samaṇaṃ āhu (sī.).
@@ -130,7 +130,7 @@ tuvaṃ nu (sī. pī.),;
 ,.
 Catuposathiyajātakaṃ tatiyaṃ.
 
-.
+.(4)
 39.
 ,;
 ,.
@@ -163,7 +163,7 @@ na hatthi (pī.),.
 ,.
 Saṅkhajātakaṃ catutthaṃ.
 
-.
+.(5)
 49.
 ,sammillabhāsiniṃ (sī. pī.), sammillahāsiniṃ (syā.);
 ,.
@@ -205,7 +205,7 @@ anindho (sī. ka.), anindo (syā.),;
 ,.
 Cūḷabodhijātakaṃ pañcamaṃ.
 
-.
+.(6)
 62.
 ,acariṃ (sī. syā. pī.);
 mama yidaṃ (syā.), mamāyidaṃ (pī.),;
@@ -248,7 +248,7 @@ bhāsissaṃ abhāsaneyyaṃ (sī. syā. pī.), bhāsissa’mabhāsaneyyaṃ (?)
 ,.
 Kaṇhadīpāyanajātakaṃ maṇḍabyajātakaṃ (syā. ka.) chaṭṭhaṃ.
 
-.
+.(7)
 72.
 na cāhametaṃ (sī.),cāti vā (sī.);
 vadī (sī. syā. pī.),.
@@ -282,7 +282,7 @@ vadī (sī. syā. pī.),.
 ,.
 Nigrodhajātakaṃ sattamaṃ.
 
-.
+.(8)
 82.
 ālupāni (sī. syā. pī.),;
 ,.
@@ -316,7 +316,7 @@ niddhāmase (pī.),.
 ,.
 Takkalajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 92.
 ,;
 ,mīyare (sī. pī.).
@@ -355,7 +355,7 @@ dāsso (sī. pī.), dāsī (syā.),;
 ,.
 Mahādhammapālajātakaṃ navamaṃ.
 
-.
+.(10)
 104.
 ,;
 ,.
@@ -391,7 +391,7 @@ yodha (jā. 1.8.25 sulasājātake),;
 ,.
 Kukkuṭajātakaṃ dasamaṃ.
 
-.
+.(11)
 115.
 maṭṭakuṇḍalī (sī. pī.),mālabhārī (sī. pī.);
 ,.
@@ -424,7 +424,7 @@ abbuhi (syā.), abbhuḷhaṃ (ka.),sokaṃ hadayanissitaṃ (vi. va. 1215);
 ,.
 Maṭṭhakuṇḍalījātakaṃ ekādasamaṃ.
 
-.
+.(12)
 125.
 ,;
 ,.
@@ -459,7 +459,7 @@ kathaṃ sahassānaṃ (sī. syā. pī.),.
 evaṃ sahassānaṃ (sī. syā. pī.),.
 Bilārakosiyajātakaṃ dvādasamaṃ.
 
-.
+.(13)
 135.
 ,;
 ,.
@@ -492,7 +492,7 @@ ahañca (?),;
 ,.
 Cakkavākajātakaṃ terasamaṃ.
 
-.
+.(14)
 145.
 tvampi (sī.), tuvampi (syā.), tvaṃ asi (ka.),;
 ,.
@@ -525,7 +525,7 @@ yassa hi (sī. ka.)manujo (sī.),;
 ,.
 Bhūripaññajātakaṃ cuddasamaṃ.
 
-.
+.(15)
 155.
 ,;
 asmiṃva (pī.),.
@@ -558,7 +558,7 @@ bhūtapatī (sī. syā. pī.),;
 ,.
 Mahāmaṅgalajātakaṃ pannarasamaṃ.
 
-.
+.(16)
 165.
 ,;
 tāyaṃ (pī.),cakkhuṃva (pī.);

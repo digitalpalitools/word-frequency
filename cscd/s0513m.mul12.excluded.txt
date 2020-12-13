@@ -1,6 +1,6 @@
 ﻿13. Terasakanipāto
 
-.
+.(1)
 1.
 āhāsi (?),;
 ,.
@@ -43,7 +43,7 @@ kicchā laddhaṃ jīvikaṃ appapañño (sī. syā.), kacchāpi laddhā jīvika
 ,.
 Ambajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 14.
 kudhārihattho (ka.),;
 ,.
@@ -85,7 +85,7 @@ sāmagyameva (syā. ka.),;
 ,.
 Phandanajātakaṃ dutiyaṃ.
 
-.
+.(3)
 27.
 ,;
 ,.
@@ -129,7 +129,7 @@ vāpi (syā. pī. ka.),vā (bahūsu);
 passema (sī. syā. pī.),.
 Javanahaṃsajātakaṃ tatiyaṃ.
 
-.
+.(4)
 40.
 ,;
 hāsito (sī. syā.),.
@@ -176,7 +176,7 @@ kirāsañca (sī. syā.), kirāsaṃ vā (pī.),;
 ,.
 Cūḷanāradajātakaṃ catutthaṃ.
 
-.
+.(5)
 54.
 dūte brāhmaṇa (ka.),;
 ,guyhaṃ mataṃ (sī.), tuyhaṃ mataṃ (syā. ka.).
@@ -219,7 +219,7 @@ tippāni (sī. syā. pī.),.
 ,.
 Dūtajātakaṃ pañcamaṃ.
 
-.
+.(6)
 67.
 ,manusāsi (syā. ka.);
 agamāsi (syā. ka.),.
@@ -272,7 +272,7 @@ mālāgandhavilepanaṃ āharitvā (sī. pī.); pākāraparikkhepaṃ kāresi; a
 ,varuttameti (sī.).
 Kāliṅgabodhijātakaṃ chaṭṭhaṃ.
 
-.
+.(7)
 83.
 akattiṃ (ka.),;
 ,.
@@ -345,7 +345,7 @@ devavaṇṇiṃ (pī.),;
 disvā tapo pamajjeyyaṃ (sī. syā. pī.), disvānahaṃ pamajjeyyaṃ (cariyāpiṭakaṭṭhakathā),.
 Akittijātakaṃ sattamaṃ.
 
-.
+.(8)
 104.
 ,mavhayāno (sī. pī.);
 sobbhamhi ahaṃ (ka.),sādhūtyativelabhāṇī (ka.).
@@ -388,7 +388,7 @@ abhāṇī (ka.),;
 ,.
 Takkāriyajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 117.
 kassa (sī. pī.),;
 ko (sī. syā. pī.)makkhāsi (syā. ka.),.
@@ -445,7 +445,7 @@ mā maṃ janapado ahu (syā.),;
 na tveva (ka. sī. ka.),.
 Rurumigarājajātakaṃ navamaṃ.
 
-.
+.(10)
 134.
 āsiṃsetheva (sī. syā. pī.),;
 ,.

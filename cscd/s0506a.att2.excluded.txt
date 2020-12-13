@@ -147,7 +147,7 @@ Yo vadataṃ pavaro manujesū.?...‘‘,’’.‘‘,’’.‘‘,’’.‘�
 .
 886.yo,‘‘’’.Vadata.Pavaro,.Manujesū‘‘’’.,‘‘’’.‘‘sakyamunī’’.,sakyamuni.bhagavā.katakicco.pāragato.,,balavīriyasamaṅgī.,,,sugato.saraṇatthaṃupehi,‘‘’’,.
 887.Rāgavirāga..Anejamasoka.‘‘’’.Dhamma.,.Dhamma,.,asaṅkhataṃ..appaṭikūlaṃ.madhuraṃ.paguṇaṃ.suvibhattaṃ..‘‘ima’’.Dhamma,...‘‘ima’’.
-888.Yatthā.Dinna.Dinna mahapphala.sucīsu‘‘’’...catūsu purisayugesu. Aṭṭhā.‘‘puggala dhammadasā’’.Dhammadasā.saṅghaṃ.
+888.Yatthā.Dinna.Dinna mahapphala.sucīsu‘‘’’(a. ni. 8.60)catūsu purisayugesu. Aṭṭhā.‘‘puggala dhammadasā’’.Dhammadasā.saṅghaṃ.
 ‘‘’’..‘‘’’.‘‘’’.
 ‘‘’’,...,.
 .,,..
@@ -813,7 +813,7 @@ Paṭhamaupassayadāyakavimānavaṇṇanā niṭṭhitā.
 Sūriyoyathā vigatavalāhake nabhe.?...
 1075.
 ‘‘…pe….
-,;
+(Yathā purimavimānaṃ, tathā vitthāretabbaṃ;)
 1079.
 ‘‘’’.
 ;
@@ -901,7 +901,7 @@ Alaṅkato malyadharo suvattho.?..
 .
 Dutiyakuṇḍalīvimānavaṇṇanā niṭṭhitā.
 10. (Uttara) pāyāsivimānavaṇṇanā
-Yā devarājassa sabhā sudhammā.?......
+Yā devarājassa sabhā sudhammā.?..(dī. ni. 2.406 ādayo).
 ...,..–
 1108.
 ‘‘,;
@@ -1384,7 +1384,7 @@ Suṇothayakkhassa ca vāṇijāna cā.?...
 1229.
 ‘‘,;
 ,’’.
-1228-9.suṇothā.,.Yakkhassā.‘‘’’.‘‘’’.‘‘,’’...‘‘’’.‘‘’’.‘‘,,’’....‘‘’’....Vāṇijāna cā.Samāgamo.Yatthā.Tadā.Itaritarena cāpī,.–,,,.Bhummāna.
+1228-9.suṇothā.,.Yakkhassā.‘‘’’.‘‘’’.‘‘,’’(ma. ni. 1.393)‘‘’’.‘‘’’.‘‘,,’’(dī. ni. 3.276).‘‘’’(su. ni. 482)..Vāṇijāna cā.Samāgamo.Yatthā.Tadā.Itaritarena cāpī,.–,,,.Bhummāna.
 –
 1230.
 ‘‘,;
@@ -1398,7 +1398,7 @@ Suṇothayakkhassa ca vāṇijāna cā.?...
 1233.
 ‘‘,;
 ,’’.
-1230.vaṅke.‘‘,’’,araññe. Amanussaṭṭhāne,.Kantāre,,.‘‘appodake’’.‘‘’’...;..Vaṇṇupathassa majjhe.Vaṅkaṃbhayā.‘‘’’‘‘’’..Naṭṭhamanā,.Manussā.
+1230.vaṅke.‘‘,’’,araññe. Amanussaṭṭhāne,.Kantāre,,.‘‘appodake’’.‘‘’’(a. ni. 8.23; cūḷava. 456).Vaṇṇupathassa majjhe.Vaṅkaṃbhayā.‘‘’’‘‘’’..Naṭṭhamanā,.Manussā.
 1231.Idhā.Phalā.Mūlamayā cā,.Upādānaṃnatthī,,,.,‘‘aññatra paṃsūhī’’.
 1232.Ujjaṅgala,‘‘’’.‘‘tattamivaṃ kapāla’’,.,.Anāyasa,..Paralokenā.‘‘’’,,,,‘‘’’,.Luddānamāvāsamidaṃ purāṇa.Abhisattarūpo‘‘’’,.
 1233.Kena vaṇṇenā.Kimāsamānā.Hī.‘‘’’,.Sahasā sameccāanupaviṭṭhā.Lobhā bhayā atha vā.sampamūḷhā.

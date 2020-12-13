@@ -3,32 +3,32 @@
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-1....
-2....
-3....
+1....(3)
+2....(3)
+3....(3)
 Ārammaṇapaccayo
-4..
-5.,,,,,,,,,,,,,,,,,,,,,.
+4.(saṃkhittaṃ).
+5.,,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Naadhipatipaccayo
-6....
+6....(3)
 7.….
 ….
 Napurejātapaccayādi
 8.…………….
 Nakammapaccayo
-9..
-.
-.
+9..(1)
+.(1)
+.(1)
 Navipākapaccayādi
 10.……pe…….
-11.,,,,,,.
-,.
-,,.
-.
+11.,,,,,,(paccanīyaṃ).
+(saṃkhittaṃ, anuloma paccanīyaṃ).
+,(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-12....
+12....(3)
 Ārammaṇapaccayādi
 13.….
 ….
@@ -41,7 +41,7 @@ Anantarapaccayādi
 16.–,,….
 –,,….
 –,,…,….
-17....
+17....(3)
 Āhārapaccayādi
 18.….
 19.….
@@ -50,35 +50,35 @@ Anantarapaccayādi
 22.,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
 23.……….
-24.…….…….…….
-25.……….
-26.,,…pe…,.
-…pe…,,.
-…pe…,.
-,.
+24.…….…….…….(3)
+25.……….(3)
+26.,,…pe…(saṃkhittaṃ, paccanīyaṃ).
+…pe…,(saṃkhittaṃ, anulomapaccanīyaṃ).
+…pe…(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Akusalapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-27....
-28....
-29....
-30.,,…pe…,…pe…,.
+27....(3)
+28....(3)
+29....(3)
+30.,,…pe…,…pe…(saṃkhittaṃ, anulomaṃ).
 Nahetupaccayo
-31..
+31..(1)
 Naadhipatipaccayādi
 32.……pe….
-.
-.
-..
-33.,,,,,,,.
-,.
-,.
-.
+.(1)
+.(1)
+.(1)(Saṃkhittaṃ.)
+33.,,,,,,,(paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-34....
+34....(3)
 Ārammaṇapaccayādi
 35.….
 ….
@@ -86,46 +86,46 @@ Hetupaccayo
 36.–….
 –,….
 –……pe….
-37....
+37....(3)
 Āhārapaccayādi
 38.….
 39.….
-40.….
+40.…(saṃkhittaṃ).
 41.,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-42.…….
-43.,,,,,,…pe….
-,.
-,.
-,.
+42.……(saṃkhittaṃ).
+43.,,,,,,…pe…(paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Abyākatapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayādi
-44....
+44....(3)
 45.….
 ….
-46..
-47.,,,,,,,,,,,,,,,,,,,,,,.
+46.(saṃkhittaṃ).
+47.,,,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Nahetu-naārammaṇapaccayā
-48..
-49..
-.
-.
+48..(1)
+49..(1)
+.(1)
+.(1)
 Naadhipatipaccayādi
 50.……pe….
-51..
-.
-.
-52.…….
-53.,,,,,,,,,,,,,,,,,,,.
-,,.
-,.
-.
+51..(1)
+.(1)
+.(1)
+52.……(saṃkhittaṃ).
+53.,,,,,,,,,,,,,,,,,,,(paccanīyaṃ).
+,(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-54....
+54....(3)
 Ārammaṇapaccayādi
 55.….
 56.–,….
@@ -133,23 +133,23 @@ Hetupaccayo
 –……pe….
 Purejātapaccayādi
 57.….
-58..
-.
-.
+58..(1)
+.(1)
+.(1)
 59.….
 60.….
 61.………….
 Vippayuttapaccayo
-62..
+62..(1)
 ….
-..
+.(1)(Saṃkhittaṃ.)
 63.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-64.…….……….…….
+64.…….……….…….(3)
 65.……………….
-66.,,,.
-,.
-,.
+66.,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
 ,.
 Hetudukakusalattikaṃ niṭṭhitaṃ.
 1-2. Hetuduka-vedanāttikaṃ
@@ -157,17 +157,17 @@ Hetudukakusalattikaṃ niṭṭhitaṃ.
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-67....
-68....
-69.....
-70.,,,,,,,,,,,,,…pe….
+67....(3)
+68....(3)
+69....(3)(Saṃkhittaṃ.)
+70.,,,,,,,,,,,,,…pe…(anulomaṃ).
 Nahetu-naadhipatipaccayā
-71..
-72...
-73.,,,,,,,,,.
-,.
-,.
-.
+71..(1)
+72..(saṃkhittaṃ).
+73.,,,,,,,,,(paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
@@ -180,63 +180,63 @@ Hetupaccayo
 –,….
 –……pe….
 Upanissayapaccayādi
-77.–,,….
-78....
+77.–,,…(saṃkhittaṃ).
+78....(3)
 …Vipākapaccayena paccayo.
 79.……pe…..
 80.,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-81.…….
-82.,…pe….
-,.
-,.
-,.
+81.……(saṃkhittaṃ).
+82.,…pe…(paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Dukkhāyavedanāyasampayuttapadaṃ
 1. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-83....
+83....(3)
 ….
-….
-84.,,,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+84.,,,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Nahetu-naadhipatipaccayā
-85.
-86..
-87.,,,,,,,.
-,.
-,.
-.
+85.(1)
+86.(saṃkhittaṃ).
+87.,,,,,,,(paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-88....
+88....(3)
 Ārammaṇapaccayādi
 89.….
 ….
-….
-90.….
-91.,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+90.…(saṃkhittaṃ).
+91.,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Paccanīyuddhāro
-92.…….
-93.,,,.
-,.
-,.
-,.
+92.……(saṃkhittaṃ).
+93.,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Adukkhamasukhāyavedanāyasampayuttapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 94.….
 ….
-….
-95.,,,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+95.,,,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Nahetu-naadhipatipaccayā
 96.….
-97..
-98.,,,,,,,,,,.
-,.
-,.
-.
+97.(saṃkhittaṃ).
+98.,,,,,,,,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -244,76 +244,76 @@ Hetupaccayādi
 100.….
 101.–,….
 –,….
-–……pe….
+–…(ārammaṇādhipatiyeva)…pe….
 Upanissayapaccayādi
 102.–,,…,….
 103.….
 104.……pe…….
-105.,,,,,,,,,,,,,,,,,,,,.
+105.,,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Paccanīyuddhāro
-106.…….
-107.,,.
-,.
-,.
-,.
+106.……(saṃkhittaṃ).
+107.,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukavedanāttikaṃ niṭṭhitaṃ.
 1-3. Hetuduka-vipākattikaṃ
 1. Vipākapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-108....
+108....(3)
 ….
-….
-109.,,,,,,,,,,,,,,,,,,,,..
+…(saṃkhittaṃ).
+109.,,,,,,,,,,,,,,,,,,,,.(Anulomaṃ).
 Nahetu-naadhipatipaccayā
-110..
-111..
-112.,,,,,,,,.
-,.
-,.
-.
+110..(1)
+111.(saṃkhittaṃ).
+112.,,,,,,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 113.….
 114.….
 ….
-….
-115.…,…pe….
+…(tadārammaṇāyeva labbhanti).
+115.…(sahajātādhipatiyeva labbhati, ārammaṇādhipati natthi)…pe….
 Upanissayapaccayādi
-116.–,.–,.–,.
-–,…pe….
-117.…,.
+116.–,.–,.–,.(3)
+–,…pe…(itare dve anantarūpanissayo pakatūpanissayoyeva).
+117.…(sahajātakammameva, saṃkhittaṃ).
 ….
-.
-118.,,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+118.,,,,,,,,,,,,,,,,,,,(anulomaṃ).
 Paccanīyuddhāro
-119.…….
-120.,,.
-,.
-,.
-,.
+119.……(saṃkhittaṃ).
+120.,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Vipākadhammapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-121....
+121....(3)
 ….
-….
+…(saṃkhittaṃ).
 122.,,…pe…,,,,,,,,,,.
 Nahetu-naadhipatipaccayā
-123..
+123..(1)
 124.….
 Napurejātapaccayādi
 125.…………….
-126..
-.
-..
-127.,,,,,,,,.
-,.
-,.
-.
+126..(1)
+.(1)
+.(1)(Saṃkhittaṃ.)
+127.,,,,,,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -322,13 +322,13 @@ Hetupaccayādi
 130.–,….
 131.…pe…–,,……….
 132.….
-.
-133.,,,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+133.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ, anulomaṃ).
 Paccanīyuddhāro
-134.…….
-135.,,.
-,.
-,.
+134.……(saṃkhittaṃ).
+135.,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
 ,.
 3. Nevavipākanavipākadhammapadaṃ
 1-6. Paṭiccavārādi
@@ -336,20 +336,20 @@ Paccayacatukkaṃ
 Hetupaccayo
 136.….
 ….
-….
+…(saṃkhittaṃ).
 137.,,,,,,,,,,,,,,,,,,,,,,.
 Nahetupaccayādi
-138..
-139..
-.
-.
+138..(1)
+139..(1)
+.(1)
+.(1)
 140.……pe….
 141.……pe….
-142...
-143.,,,,,,,,,,,,,,,,,,,,.
-,.
-,.
-.
+142..(1)(Saṃkhittaṃ.)
+143.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ, paccanīyaṃ).
+(saṃkhittaṃ, anulomapaccanīyaṃ).
+(saṃkhittaṃ, paccanīyānulomaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -358,17 +358,17 @@ Hetupaccayādi
 –,……pe….
 Purejātapaccayādi
 146.–,….
-147..
-.
-.
+147..(1)
+.(1)
+.(1)
 …Āsevanapaccayena paccayo… nava.
-148.….
+148.…(saṃkhittaṃ).
 149.,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-150.…….
-151.,,.
-.
-.
+150.……(saṃkhittaṃ).
+151.,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 Hetudukavipākattikaṃ niṭṭhitaṃ.
 1-4. Hetuduka-upādinnattikaṃ
@@ -378,51 +378,51 @@ Paccayacatukkaṃ
 Hetupaccayo
 152.….
 ….
-….
-153.,,,…pe…,…pe….
+…(saṃkhittaṃ).
+153.,,,…pe…,…pe…(saṃkhittaṃ).
 Nahetupaccayādi
-154..
-155..
-.
-.
+154..(1)
+155..(1)
+.(1)
+.(1)
 156.……pe….
-157.….
+157.…(saṃkhittaṃ).
 158.,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 159.….
 160.….
 ….
-….
+…(saṃkhittaṃ).
 161.,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
 162.……….
-……………….
-163.,,.
-.
-.
-,.
+………………(saṃkhittaṃ).
+163.,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Anupādinnupādāniyapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 164.….
 ….
-….
+…(saṃkhittaṃ).
 165.,,,,,,,,,,,,,,,,,,,,.
 Nahetu-naārammaṇapaccayā
-166.….
-167..
-.
-..
-168.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+166.….(2)
+167..(1)
+.(1)
+.(1)(Saṃkhittaṃ.)
+168.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -432,41 +432,41 @@ Hetupaccayādi
 171.–,….
 –,……pe….
 172.–,,….
-173.–….
+173.–…(saṃkhittaṃ).
 174.,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-175.…….
-176.,.
-.
-.
-,.
+175.……(saṃkhittaṃ).
+176.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Anupādinnaanupādāniyapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 177.….
 ….
-….
+…(saṃkhittaṃ).
 178.,,,,,,,,,,,,,,,,,,,,,,.
 Naadhipatipaccayo
-179...
-..
-...
-180.,,,,,,.
-.
-.
-.
+179...(2)
+..(2)
+..(2)(Saṃkhittaṃ.)
+180.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 181.….
-182.….
+182.…(saṃkhittaṃ).
 183.,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-184.,.
-185.,.
-.
-.
+184.,(saṃkhittaṃ).
+185.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 Hetudukaupādinnattikaṃ niṭṭhitaṃ.
 1-5. Hetuduka-saṃkiliṭṭhattikaṃ
@@ -476,42 +476,42 @@ Paccayacatukkaṃ
 Hetupaccayo
 186.….
 ….
-….
-187.,,…pe…,,.
+…(saṃkhittaṃ).
+187.,,…pe…,,(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
 188..
-.
-189.,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+189.,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 190.….
 ….
-–….
-191.,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+191.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-192.…….
-193.,.
-.
-.
-,.
+192.……(saṃkhittaṃ).
+193.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Asaṃkiliṭṭhasaṃkilesikapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 194.….
 ….
-….
-195.,,…pe….
+…(saṃkhittaṃ).
+195.,,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-196..
-197.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+196.(saṃkhittaṃ).
+197.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -519,56 +519,56 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-199.,,,,,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+199.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-200.…….
-201.,.
-.
-.
-,.
+200.……(saṃkhittaṃ).
+201.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Asaṃkiliṭṭhaasaṃkilesikapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-202..
+202.(saṃkhittaṃ).
 203.,,,,,,,,,,,,,,,,,,,,,,.
 Naadhipatipaccayo
-204...
-...
-205.,,,,,,.
-.
-.
-.
+204...(2)
+..(2)(Saṃkhittaṃ.)
+205.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 206.….
-….
-207.,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+207.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-208.….
-209..
-.
-.
-,.
+208.…(saṃkhittaṃ).
+209.(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukasaṃkiliṭṭhattikaṃ niṭṭhitaṃ.
 1-6. Hetuduka-vitakkattikaṃ
 1. Savitakkasavicārapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-210....
+210....(3)
 ….
-….
-211.,,,,…pe…,…pe….
+…(saṃkhittaṃ).
+211.,,,,…pe…,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
 212.….
-.
-213.,,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+213.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -576,28 +576,28 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-215.,,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+215.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-216.…….
-217.,.
-.
-.
-,.
+216.……(saṃkhittaṃ).
+217.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Avitakkavicāramattapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 218.….
 ….
-….
-219.,,…pe…,…pe….
+…(saṃkhittaṃ).
+219.,,…pe…,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-220..
-221.,,,,,,.
-.
-.
-.
+220.(saṃkhittaṃ).
+221.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -605,42 +605,42 @@ Hetupaccayādi
 ….
 –….
 –,….
-–.
-223.,,,,,,,,,,,,,,,,,,,,.
+–(saṃkhittaṃ).
+223.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-224.….
-225.,.
-.
-.
-,.
+224.…(saṃkhittaṃ).
+225.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Avitakkaavicārapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-226..
-227.,,…pe…,…pe…,.
+226.(saṃkhittaṃ).
+227.,,…pe…,…pe…,(saṃkhittaṃ).
 Nahetupaccayādi
-228..
-.
-.
-.
-….
-229.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+228..(1)
+.(1)
+.(1)
+.(1)
+…(saṃkhittaṃ).
+229.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 230.….
-….
-231.,,,,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+231.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-232.…….
-233.,,.
-.
-.
-,.
+232.……(saṃkhittaṃ).
+233.,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukavitakkattikaṃ niṭṭhitaṃ.
 1-7. Hetuduka-pītittikaṃ
 1. Pītisahagatapadaṃ
@@ -648,15 +648,15 @@ Hetudukavitakkattikaṃ niṭṭhitaṃ.
 Paccayacatukkaṃ
 Hetupaccayo
 234.….
-.
-235.,,…pe…,,…pe….
+(saṃkhittaṃ).
+235.,,…pe…,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
 236..
-.
-237.,,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+237.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -666,41 +666,41 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-239.,,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+239.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-240.…….
-241.,.
-.
-.
-,.
+240.……(saṃkhittaṃ).
+241.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Sukhasahagatapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 242.….
 ….
-….
-243.,,…pe….
+…(saṃkhittaṃ).
+243.,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
 244..
-….
-245.,,,,,,,,,.
-.
-.
-.
+…(saṃkhittaṃ).
+245.,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 246.….
 ….
-….
-247.,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+247.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-248.…….
-249.,.
-.
-.
+248.……(saṃkhittaṃ).
+249.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 3. Upekkhāsahagatapadaṃ
 1-6. Paṭiccavārādi
@@ -708,29 +708,29 @@ Paccayacatukkaṃ
 Hetupaccayo
 250.….
 ….
-….
-251.,,…pe…,…pe….
+…(saṃkhittaṃ).
+251.,,…pe…,…pe…(saṃkhittaṃ).
 Nahetupaccayādi
 252.….
 ….
 ….
-….
-253.,,,,,,,,,.
-.
-.
-.
+…(saṃkhittaṃ).
+253.,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 254.….
 ….
-….
-255.,,,,,,,,,,,,,,,,,,,,.
+…(saṃkhittaṃ).
+255.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-256.…….
-257.,.
-.
-.
+256.……(saṃkhittaṃ).
+257.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 Hetudukapītittikaṃ niṭṭhitaṃ.
 1-8. Hetuduka-dassanenapahātabbattikaṃ
@@ -740,82 +740,82 @@ Paccayacatukkaṃ
 Hetupaccayo
 258.….
 ….
-….
-259.,,…pe…,…pe….
+…(saṃkhittaṃ).
+259.,,…pe…,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-260..
+260..(1)
 ….
-261.,,,,,,,.
-.
-.
+261.,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 .
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 262.….
-….
-263.,,,,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+263.,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-264.…….
-265.,.
-.
-.
-,.
+264.……(saṃkhittaṃ).
+265.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Bhāvanāyapahātabbapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 266.….
 ….
-….
-267.,…pe….
+…(saṃkhittaṃ).
+267.,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-268...
-269.,,,,,,,.
-.
-.
-.
+268..(1)(Saṃkhittaṃ.)
+269.,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 270.….
-….
-271.,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+271.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-272.…….
-273.,.
-.
-.
-,.
+272.……(saṃkhittaṃ).
+273.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Nevadassanenanabhāvanāyapahātabbapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 274.….
-.
-275.,,…pe…,…pe….
+(saṃkhittaṃ).
+275.,,…pe…,…pe…(saṃkhittaṃ).
 Nahetupaccayādi
 276..
-.
-.
-.
-.
-277.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+.(1)
+.(1)
+.(1)
+(saṃkhittaṃ).
+277.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 278.….
-….
+…(saṃkhittaṃ).
 279.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-280.…….
-281.,.
-.
-.
-,.
+280.……(saṃkhittaṃ).
+281.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukadassanenapahātabbattikaṃ niṭṭhitaṃ.
 1-9. Hetuduka-dassanenapahātabbahetukattikaṃ
 1. Dassanenapahātabbahetukapadaṃ
@@ -824,74 +824,74 @@ Paccayacatukkaṃ
 Hetupaccayo
 282.….
 ….
-….
-283.,…pe….
+…(saṃkhittaṃ).
+283.,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-284..
-285.,,,,,,.
-.
-.
-.
+284.(saṃkhittaṃ).
+285.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 286.….
-….
-287.,,…pe…,,,…pe…,…pe….
+…(saṃkhittaṃ).
+287.,,…pe…,,,…pe…,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-288.…….
-289.,.
-.
-.
-,.
+288.……(saṃkhittaṃ).
+289.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Bhāvanāyapahātabbahetukapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 290.….
-.
-291.,,…pe….
+(saṃkhittaṃ).
+291.,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-292.….
-293.,,,,,,.
-.
-.
-.
+292.…(saṃkhittaṃ).
+293.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 294.….
-….
-295.,,,,,,,,,,,…pe…,…pe….
+…(saṃkhittaṃ).
+295.,,,,,,,,,,,…pe…,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-296.…….
-297.,.
-.
-.
-,.
+296.……(saṃkhittaṃ).
+297.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Nevadassanenanabhāvanāyapahātabbahetukapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-298..
-299.,…pe….
+298.(saṃkhittaṃ).
+299.,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-300..
-301.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+300.(saṃkhittaṃ).
+301.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-302.….
-303.,,,,,,,,,,,,,,,,,,,,,,,.
+302.…(saṃkhittaṃ).
+303.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-304.…….
-305.,.
-.
-.
-,.
+304.……(saṃkhittaṃ).
+305.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukadassanenapahātabbahetukattikaṃ niṭṭhitaṃ.
 1-10. Hetuduka-ācayagāmittikaṃ
 1. Ācayagāmipadaṃ
@@ -900,15 +900,15 @@ Paccayacatukkaṃ
 Hetupaccayo
 306.….
 ….
-….
-307.,,,,…pe….
+…(saṃkhittaṃ).
+307.,,,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-308..
-.
-309.,,,,,,,.
-.
-.
-.
+308..(1)
+(saṃkhittaṃ).
+309.,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -916,13 +916,13 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-311.,,…pe…,,,,.
+–…(saṃkhittaṃ).
+311.,,…pe…,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-312.…….
-313.,.
-.
-.
+312.……(saṃkhittaṃ).
+313.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 2. Apacayagāmipadaṃ
 1-6. Paṭiccavārādi
@@ -930,61 +930,61 @@ Paccayacatukkaṃ
 Hetupaccayo
 314.….
 ….
-….
-315.,…pe…,…pe….
+…(saṃkhittaṃ).
+315.,…pe…,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-316..
-317.,,,,,.
-.
-.
-.
+316.(saṃkhittaṃ).
+317.,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-adhipatipaccayā
 318.….
 –….
-–….
-319.,,…pe…,,,,,,,,.
+–…(saṃkhittaṃ).
+319.,,…pe…,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-320.….
-321.,.
-.
-.
-,.
+320.…(saṃkhittaṃ).
+321.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Nevācayagāmināpacayagāmipadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 322.….
 ….
-….
-323.,,…pe…,,,,,,…pe….
+…(saṃkhittaṃ).
+323.,,…pe…,,,,,,…pe…(saṃkhittaṃ).
 Nahetupaccayādi
-324..
-.
-.
-.
+324..(1)
+.(1)
+.(1)
+.(1)
 …pe….
 ….
 …pe….
-.
-325.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+325.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 326.….
-.
-327.,,,,,,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+327.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
 328.……….
-……………….
-329.,.
-.
-.
-,.
+………………(saṃkhittaṃ).
+329.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukaācayagāmittikaṃ niṭṭhitaṃ.
 1-11. Hetuduka-sekkhattikaṃ
 1. Sekkhapadaṃ
@@ -993,27 +993,27 @@ Paccayacatukkaṃ
 Hetupaccayo
 330.….
 ….
-….
-331.,,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+331.,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-332..
+332.(saṃkhittaṃ).
 333.,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 334.….
 –….
 –….
-.
-335.,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+335.,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-336.,.
-337.,.
-.
-.
+336.,(saṃkhittaṃ).
+337.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 2. Asekkhapadaṃ
 1-6. Paṭiccavārādi
@@ -1021,13 +1021,13 @@ Paccayacatukkaṃ
 Hetupaccayo
 338.….
 ….
-….
-339.,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+339.,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-340..
-341.,,,,.
-.
-.
+340.(saṃkhittaṃ).
+341.,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 .
 7. Pañhāvāro
 Paccayacatukkaṃ
@@ -1035,47 +1035,47 @@ Hetupaccayādi
 342.….
 –….
 –……pe….
-–.
+–(saṃkhittaṃ).
 343.,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-344.….
-345.,.
-.
-.
-,.
+344.…(saṃkhittaṃ).
+345.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Nevasekkhanāsekkhapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 346.….
 ….
-….
-347.,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+347.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Nahetu-naārammaṇapaccayādi
-348...
-.
-.
-.
+348...(2)
+.(1)
+.(1)
+.(1)
 349.…pe….
-….
-350.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+…(saṃkhittaṃ).
+350.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 351.….
 ….
 –,……pe….
-.
-352.,,,,,,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+352.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-353.…….
-354.,.
-.
-.
-.
+353.……(saṃkhittaṃ).
+354.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ.)
 Hetudukasekkhattikaṃ niṭṭhitaṃ.
 1-12. Hetuduka-parittattikaṃ
 1. Parittapadaṃ
@@ -1084,44 +1084,44 @@ Paccayacatukkaṃ
 Hetupaccayo
 355.….
 ….
-….
-356.,,…pe….
+…(saṃkhittaṃ).
+356.,,…pe…(saṃkhittaṃ).
 Nahetunaārammaṇapaccayādi
-357...
-.
-.
-.
-.
-358.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+357...(2)
+.(1)
+.(1)
+.(1)
+(saṃkhittaṃ).
+358.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-ārammaṇapaccayā
 359.….
-.
-360.,,,,…pe….
+(saṃkhittaṃ).
+360.,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-361.…….
-362.,.
-.
-.
-,.
+361.……(saṃkhittaṃ).
+362.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Mahaggatapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 363.….
 ….
-….
-364.,,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+364.,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-365..
-366.,,,,,,.
-.
-.
-.
+365.(saṃkhittaṃ).
+366.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1131,28 +1131,28 @@ Hetupaccayādi
 ….
 –….
 –….
-.
-368.,,,,,,,,,,,,,,,,,…pe….
+(saṃkhittaṃ).
+368.,,,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-369.…….
-370.,.
-.
-.
-,.
+369.……(saṃkhittaṃ).
+370.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Appamāṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 371.….
 ….
-….
-372.,,…pe……pe…,…pe….
+…(saṃkhittaṃ).
+372.,,…pe……pe…,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-373..
-374.,,,,,,.
-.
-.
-.
+373.(saṃkhittaṃ).
+374.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1161,14 +1161,14 @@ Hetupaccayādi
 376.–….
 –,….
 377.……pe….
-–,….
-378.,,,,,,,,,,,,,,,,,,,.
+–,…(saṃkhittaṃ).
+378.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-379.….
-380.,.
-.
-.
-,.
+379.…(saṃkhittaṃ).
+380.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukaparittattikaṃ niṭṭhitaṃ.
 1-13. Hetuduka-parittārammaṇattikaṃ
 1. Parittārammaṇapadaṃ
@@ -1177,43 +1177,43 @@ Paccayacatukkaṃ
 Hetupaccayo
 381.….
 ….
-….
-382.,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+382.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-383...
-.
-384.,,,,,,,,,.
-.
-.
-.
+383...(2)
+(saṃkhittaṃ).
+384.,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 385.….
 ….
-.
-386.,,,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+386.,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-387.…….
-388.,.
-.
-.
-,.
+387.……(saṃkhittaṃ).
+388.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Mahaggatārammaṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 389.….
 ….
-….
-390.,,…pe…,,…pe….
+…(saṃkhittaṃ).
+390.,,…pe…,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-391...
-.
-392.,,,,,,,,.
-.
-.
-.
+391...(2)
+(saṃkhittaṃ).
+392.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1221,28 +1221,28 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-394.,,…pe…,,,,,…pe….
+–…(saṃkhittaṃ).
+394.,,…pe…,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-395.…….
-396.,.
-.
-.
-,.
+395.……(saṃkhittaṃ).
+396.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Appamāṇārammaṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 397.….
 ….
-….
-398.,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+398.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-399..
-400.,,,,,,,,.
-.
-.
-.
+399.(saṃkhittaṃ).
+400.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1250,14 +1250,14 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-402.,,,,,,,,,,,,,,,,,…pe….
+–…(saṃkhittaṃ).
+402.,,,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-403.…….
-404.,.
-.
-.
-,.
+403.……(saṃkhittaṃ).
+404.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukaparittārammaṇattikaṃ niṭṭhitaṃ.
 1-14. Hetuduka-hīnattikaṃ
 1. Hīnapadaṃ
@@ -1266,79 +1266,79 @@ Paccayacatukkaṃ
 Hetupaccayo
 405.….
 ….
-….
-406.,,,,,,,,,,,,…pe….
+…(saṃkhittaṃ).
+406.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-407..
+407..(1)
 ….
 ….
-….
-408.,,,,,,,.
-.
-.
-.
+…(saṃkhittaṃ).
+408.,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 409.….
-…pe…–,.
-410.,,,,,,,,,,,,,…pe….
+…pe…–,(saṃkhittaṃ).
+410.,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-411.…….
-412.,.
-.
-.
-,.
+411.……(saṃkhittaṃ).
+412.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Majjhimapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-413..
-414.,…pe….
+413.(saṃkhittaṃ).
+414.,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-415..
-416.,,…pe….
-.
-.
-.
+415.(saṃkhittaṃ).
+416.,,…pe…(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 417.….
-…–,.
-418.,,,,…pe…,,…pe….
+…–,(saṃkhittaṃ).
+418.,,,,…pe…,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-419.…….
-420.,.
-.
-.
-,.
+419.……(saṃkhittaṃ).
+420.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Paṇītapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 421.….
 ….
-….
-422.,,…pe…,,…pe….
+…(saṃkhittaṃ).
+422.,,…pe…,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-423..
-424.,,,,,,.
-.
-.
+423.(saṃkhittaṃ).
+424.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 .
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 425.….
 ….
-–,….
-426.,,,,,,,,,,,,,,,,…pe….
+–,…(saṃkhittaṃ).
+426.,,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-427.….
-428.,.
-.
-.
+427.…(saṃkhittaṃ).
+428.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 Hetudukahīnattikaṃ niṭṭhitaṃ.
 1-15. Hetuduka-micchattaniyatattikaṃ
@@ -1349,70 +1349,70 @@ Hetu-ārammaṇapaccayā
 429.….
 ….
 ….
-.
-430.,,,,,,,,,,,,…pe….
+(saṃkhittaṃ).
+430.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-431..
-432.,,,.
-.
-.
-.
+431.(saṃkhittaṃ).
+432.,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-adhipatipaccayā
 433.….
-–….
-434.,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+434.,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-435.….
-436.,.
-.
-.
-,.
+435.…(saṃkhittaṃ).
+436.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Sammattaniyatapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 437.….
 ….
-….
-438.,,…pe…,,,…pe….
+…(saṃkhittaṃ).
+438.,,…pe…,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-439..
-440.,,,,,.
-.
-.
-.
+439.(saṃkhittaṃ).
+440.,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-adhipatipaccayā
 441.….
 –….
-–….
-442.,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+442.,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-443.….
-444.,.
-.
-.
-,.
+443.…(saṃkhittaṃ).
+444.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Aniyatapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 445.….
 ….
-….
-446.,,…pe…,…pe….
+…(saṃkhittaṃ).
+446.,,…pe…,…pe…(saṃkhittaṃ).
 Nahetu-naārammaṇapaccayā
-447...
-.
-.
-..
-448.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+447...(2)
+.(1)
+.(1)
+.(1)(Saṃkhittaṃ.)
+448.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1420,14 +1420,14 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
+–…(saṃkhittaṃ).
 450.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-451.…….
-452.,.
-.
-.
-,.
+451.……(saṃkhittaṃ).
+452.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukamicchattaniyatattikaṃ niṭṭhitaṃ.
 1-16. Hetuduka-maggārammaṇattikaṃ
 1. Maggārammaṇapadaṃ
@@ -1436,69 +1436,69 @@ Paccayacatukkaṃ
 Hetupaccayo
 453.….
 ….
-….
-454.,,…pe……pe….
+…(saṃkhittaṃ).
+454.,,…pe……pe…(saṃkhittaṃ).
 Nahetupaccayo
-455..
-456.,,,,,,,,.
-.
-.
-.
+455.(saṃkhittaṃ).
+456.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 457.….
 –….
 –….
-.
-458.,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+458.,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-459.….
-460.,.
-.
-.
-,.
+459.…(saṃkhittaṃ).
+460.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Maggahetukapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 461.….
 ….
-….
-462.,,…pe…,,,…pe….
+…(saṃkhittaṃ).
+462.,,…pe…,,,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-463..
-464.,,,,,.
-.
-.
-.
+463.(saṃkhittaṃ).
+464.,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetu-adhipatipaccayā
 465.….
 –….
-–….
-466.,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+466.,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-467.….
-468.,.
-.
-.
-,.
+467.…(saṃkhittaṃ).
+468.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Maggādhipatipadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 469.….
 ….
-….
-470.,…pe…,…pe….
+…(saṃkhittaṃ).
+470.,…pe…,…pe…(saṃkhittaṃ).
 Naadhipatipaccayo
-471..
-472.,,,,,,.
-.
-.
-.
+471.(saṃkhittaṃ).
+472.,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1506,14 +1506,14 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-474.,,,,,,,,,,,,,,,,…pe….
+–…(saṃkhittaṃ).
+474.,,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-475.…….
-476.,.
-.
-.
-,.
+475.……(saṃkhittaṃ).
+476.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukamaggārammaṇattikaṃ niṭṭhitaṃ.
 1-17. Hetuduka-uppannattikaṃ
 1. Uppannapadaṃ
@@ -1524,15 +1524,15 @@ Hetu-upanissayapaccayā
 ….
 –….
 –,….
-.
-–ārammaṇūpanissayo, pakatūpanissayo…pe….–,……….
-478.,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+–ārammaṇūpanissayo, pakatūpanissayo…pe….–,………(saṃkhittaṃ).
+478.,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-479..
-480.,.
-.
-.
-,..
+479.(saṃkhittaṃ).
+480.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi anuppannampi uppādīpi natthi.)
 Hetudukauppannattikaṃ niṭṭhitaṃ.
 1-18. Hetuduka-atītattikaṃ
 3. Paccuppannapadaṃ
@@ -1543,14 +1543,14 @@ Hetupaccayādi
 ….
 –….
 –,….
-.
-482.,,,,,,,,,,,,,,,,,,.
+(saṃkhittaṃ).
+482.,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-483..
-484.,.
-.
-.
-,..
+483.(saṃkhittaṃ).
+484.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi atītampi anāgatampi natthi.)
 Hetudukaatītattikaṃ niṭṭhitaṃ.
 1-19. Hetuduka-atītārammaṇattikaṃ
 1. Atītārammaṇapadaṃ
@@ -1559,14 +1559,14 @@ Paccayacatukkaṃ
 Hetupaccayo
 485.….
 ….
-….
-486.,,,,…pe……pe….
+…(saṃkhittaṃ).
+486.,,,,…pe……pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-487...
-.
-488.,,,,,,,,.
-.
-.
+487...(2)
+(saṃkhittaṃ).
+488.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 .
 7. Pañhāvāro
 Paccayacatukkaṃ
@@ -1575,29 +1575,29 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-490.,,,,,,,,,,,,,,,,,…pe….
+–…(saṃkhittaṃ).
+490.,,,,,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-491.…….
-492.,.
-.
-.
-,.
+491.……(saṃkhittaṃ).
+492.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Anāgatārammaṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 493.….
 ….
-….
-494.,…pe……pe….
+…(saṃkhittaṃ).
+494.,…pe……pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-495...
-.
-496.,,,,,,,,.
-.
-.
-.
+495...(2)
+(saṃkhittaṃ).
+496.,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1605,29 +1605,29 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-498.,,,,,,,,,,,,…pe….
+–…(saṃkhittaṃ).
+498.,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-499.…….
-500.,.
-.
-.
-,.
+499.……(saṃkhittaṃ).
+500.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 3. Paccuppannārammaṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 501.….
 ….
-….
-502.,,…pe……pe….
+…(saṃkhittaṃ).
+502.,,…pe……pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-503...
-.
-504.,,,,,,,,,.
-.
-.
-.
+503...(2)
+(saṃkhittaṃ).
+504.,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1635,13 +1635,13 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-506.,,,,,,,,,,,,,…pe….
+–…(saṃkhittaṃ).
+506.,,,,,,,,,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-507.…….
-508.,.
-.
-.
+507.……(saṃkhittaṃ).
+508.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 Hetudukaatītārammaṇattikaṃ niṭṭhitaṃ.
 1-20. Hetuduka-ajjhattattikaṃ
@@ -1651,18 +1651,18 @@ Paccayacatukkaṃ
 Hetupaccayo
 509.….
 ….
-….
-510.,,…pe…,,…pe….
+…(saṃkhittaṃ).
+510.,,…pe…,,…pe…(saṃkhittaṃ).
 Nahetupaccayādi
-511...
-.
-.
-.
-.
-512.,,,,,,,,,,,,,,,,,,,.
-.
-.
-.
+511...(2)
+.(1)
+.(1)
+.(1)
+(saṃkhittaṃ).
+512.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1670,25 +1670,25 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-514.,,,,,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+514.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-515.…….
-516.,.
-.
-.
-,.
+515.……(saṃkhittaṃ).
+516.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 2. Bahiddhāpadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-517..
-518.,…pe…,…pe….
+517.(saṃkhittaṃ).
+518.,…pe…,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-519....
-520.,,,,,,,,,,,,,,,,,,,.
-.
-.
+519...(2)(Saṃkhittaṃ).
+520.,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 .
 7. Pañhāvāro
 Paccayacatukkaṃ
@@ -1697,13 +1697,13 @@ Hetupaccayādi
 ….
 –,….
 –,….
-–….
-522.,,…pe…,,,…pe….
+–…(saṃkhittaṃ).
+522.,,…pe…,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-523.…….
-524.,.
-.
-.
+523.……(saṃkhittaṃ).
+524.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,..
 Hetudukaajjhattattikaṃ niṭṭhitaṃ.
 1-21. Hetuduka-ajjhattārammaṇattikaṃ
@@ -1713,52 +1713,52 @@ Paccayacatukkaṃ
 Hetupaccayo
 525.….
 ….
-….
-526.,,…pe….
+…(saṃkhittaṃ).
+526.,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-527...
-.
-528.,,,,,,,,,.
-.
-.
-.
+527...(2)
+(saṃkhittaṃ).
+528.,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayo
-529..
-530.,,…pe….
+529.(saṃkhittaṃ).
+530.,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-531.…….
-532.,.
-.
-.
+531.……(saṃkhittaṃ).
+532.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 ,.
 2. Bahiddhārammaṇapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-533..
-534.,…pe….
+533.(saṃkhittaṃ).
+534.,…pe…(saṃkhittaṃ).
 Nahetupaccayo
-535..
-536.,…pe…,,,,,,,.
-.
-.
-.
+535.(saṃkhittaṃ).
+536.,…pe…,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
 537.….
 ….
 –….
-–….
-538.,,,,,…pe….
+–…(saṃkhittaṃ).
+538.,,,,,…pe…(saṃkhittaṃ).
 Paccanīyuddhāro
-539.…….
-540.,.
-.
-.
-,.
+539.……(saṃkhittaṃ).
+540.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukaajjhattārammaṇattikaṃ niṭṭhitaṃ.
 1-22. Hetuduka-sanidassanasappaṭighattikaṃ
 1. Anidassanasappaṭighapadaṃ
@@ -1767,28 +1767,28 @@ Paccayacatukkaṃ
 Hetupaccayādi
 541.………………………………….
 Suddhaṃ
-542.,,,,,,,,,,.
-543.,,…pe….
+542.,,,,,,,,,,(saṃkhittaṃ).
+543.,,(sabbe paccayā kātabbā)…pe…(saṃkhittaṃ).
 7. Pañhāvāro
 Paccayacatukkaṃ
 Sahajātapaccayādi
-544.………….
+544.…………(sabbattha ekaṃ).
 2. Anidassanaappaṭighapadaṃ
 1-6. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
 545.….
 ….
-….
-546.,…pe…,,…pe….
+…(saṃkhittaṃ).
+546.,…pe…,,…pe…(saṃkhittaṃ).
 Nahetu-naadhipatipaccayā
-547...
+547...(2)
 ….
-.
-548.,,…pe…,,,,,,,,,,,,.
-.
-.
-.
+(saṃkhittaṃ).
+548.,,…pe…,,,,,,,,,,,,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 7. Pañhāvāro
 Paccayacatukkaṃ
 Hetupaccayādi
@@ -1796,12 +1796,12 @@ Hetupaccayādi
 ….
 –,….
 –….
-–….
-550.,,,,,,,,,,,,,,,,,,,,,,,.
+–…(saṃkhittaṃ).
+550.,,,,,,,,,,,,,,,,,,,,,,,(saṃkhittaṃ).
 Paccanīyuddhāro
-551.…….
-552.,.
-.
-.
-,.
+551.……(saṃkhittaṃ).
+552.,(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Hetudukasanidassanasappaṭighattikaṃ niṭṭhitaṃ.

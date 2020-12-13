@@ -174,23 +174,23 @@ taṇhacchida (bahūsu),’’.
 Vatthugāthā niṭṭhitā.
 1. Ajitamāṇavapucchā
 1038.
-‘‘,
+‘‘,(iccāyasmā ajito)
 ;
 ,’’.
 1039.
-‘‘,
+‘‘,(ajitāti bhagavā)
 ;
 ,’’.
 1040.
-‘‘,
+‘‘,(iccāyasmā ajito)
 ;
 ,’’pithiyyare (sī. syā. pī.), pithīyare (sī. aṭṭha.), pidhīyare (?).
 1041.
-‘‘,
+‘‘,(ajitāti bhagavā)
 ;
 ,’’.
 1042.
-‘‘satī ceva (sī.), satī ca (syā.), satī cāpi (pī. niddesa), sati cāpi (niddesa),
+‘‘satī ceva (sī.), satī ca (syā.), satī cāpi (pī. niddesa), sati cāpi (niddesa),(iccāyasmā ajito)
 ;
 ,’’.
 1043.
@@ -206,12 +206,12 @@ Vatthugāthā niṭṭhitā.
 Ajitamāṇavapucchā paṭhamā niṭṭhitā.
 2. Tissametteyyamāṇavapucchā
 1046.
-‘‘,
+‘‘,(iccāyasmā tissametteyyo)
 ;
 ,limpati (ka.);
 ,’’.
 1047.
-‘‘,
+‘‘,(metteyyāti bhagavā)
 ;
 ,.
 1048.
@@ -220,41 +220,41 @@ Ajitamāṇavapucchā paṭhamā niṭṭhitā.
 Tissametteyyamāṇavapucchā dutiyā niṭṭhitā.
 3. Puṇṇakamāṇavapucchā
 1049.
-‘‘,
+‘‘,(iccāyasmā puṇṇako)
 atthī (syā.);
 ,;
 ,’’.
 1050.
-‘‘,
+‘‘,(puṇṇakāti bhagavā)
 ;
 ,itthabhāvaṃ (sī. syā.);
 ’’.
 1051.
-‘‘,
+‘‘,(iccāyasmā puṇṇako)
 ;
 ,;
 ,’’.
 1052.
-‘‘,;
+‘‘,;(Puṇṇakāti bhagavā)
 ,;
 ’’.
 1053.
-‘‘,
+‘‘,(iccāyasmā puṇṇako)
 ;
 ,;
 ’’.
 1054.
-‘‘parovarāni (sī. syā.),
+‘‘parovarāni (sī. syā.),(puṇṇakāti bhagavā)
 ;
 ,’’.
 Puṇṇakamāṇavapucchā tatiyā niṭṭhitā.
 4. Mettagūmāṇavapucchā
 1055.
-‘‘,
+‘‘,(iccāyasmā mettagū)
 ;
 ,’’.
 1056.
-‘‘,
+‘‘,(mettagūti bhagavā)
 ;
 ,.
 1057.
@@ -265,14 +265,14 @@ Puṇṇakamāṇavapucchā tatiyā niṭṭhitā.
 ,;
 ,’’.
 1059.
-‘‘,
+‘‘,(mettagūti bhagavā)
 ;
 ,’’.
 1060.
 ‘‘,;
 ,’’.
 1061.
-‘‘,
+‘‘,(mettagūti bhagavā)
 ;
 ,.
 1062.
@@ -293,11 +293,11 @@ Puṇṇakamāṇavapucchā tatiyā niṭṭhitā.
 Mettagūmāṇavapucchā catutthī niṭṭhitā.
 5. Dhotakamāṇavapucchā
 1067.
-‘‘,
+‘‘,(iccāyasmā dhotako)
 ;
 ,’’.
 1068.
-‘‘,;
+‘‘,(dhotakāti bhagavā);
 ,’’.
 1069.
 ‘‘,;
@@ -309,76 +309,76 @@ Mettagūmāṇavapucchā catutthī niṭṭhitā.
 ‘‘,;
 ,’’.
 1072.
-‘‘,;
+‘‘,(dhotakāti bhagavā);
 ,’’.
 1073.
 ‘‘,;
 ,’’.
 1074.
-‘‘,
+‘‘,(dhotakāti bhagavā)
 ;
 ,’’.
 Dhotakamāṇavapucchā pañcamī niṭṭhitā.
 6. Upasīvamāṇavapucchā
 1075.
-‘‘,
+‘‘,(iccāyasmā upasīvo)
 ;
 ,’’.
 1076.
-‘‘,
+‘‘,(upasīvāti bhagavā)
 ;
 ,’’rattamahābhipassa (syā.), rattamahaṃ vipassa (ka.).
 1077.
-‘‘,
+‘‘,(iccāyasmā upasīvo)
 ;
 dhimutto (ka.),’’anānuvāyī (syā. ka.).
 1078.
-‘‘,
+‘‘,(upasīvāti bhagavā)
 ;
 ,’’.
 1079.
 ‘‘,;
 ,’’.
 1080.
-‘‘khittaṃ (syā.), khitto (pī.),
+‘‘khittaṃ (syā.), khitto (pī.),(upasīvāti bhagavā)
 ;
 ,’’.
 1081.
 ‘‘,;
 ,’’.
 1082.
-‘‘,
+‘‘,(upasīvāti bhagavā)
 ;
 ,’’.
 Upasīvamāṇavapucchā chaṭṭhī niṭṭhitā.
 7. Nandamāṇavapucchā
 1083.
-‘‘,
+‘‘,(iccāyasmā nando)
 ;
 muni no (syā. ka.),’’.
 1084.
-‘‘,( ) natthi sī.-pī potthakesu
+‘‘,(na sīlabbatena)( ) natthi sī.-pī potthakesu
 ;
 ,’’.
 1085.
-‘‘,
+‘‘,(iccāyasmā nando)
 diṭṭhena sutenāpi (sī.), diṭṭhe sutenāpi (syā. pī. ka.);
 ,;
 ,;
 ’’.
 1086.
-‘‘,
+‘‘,(nandāti bhagavā)
 ;
 ,;
 ,’’.
 1087.
-‘‘,
+‘‘,(iccāyasmā nando)
 ;
 ,;
 sace muni (sī.),;
 ,’’.
 1088.
-‘‘,
+‘‘,(nandāti bhagavā)
 ;
 ,;
 ,;
@@ -391,7 +391,7 @@ sace muni (sī.),;
 Nandamāṇavapucchā sattamā niṭṭhitā.
 8. Hemakamāṇavapucchā
 1090.
-‘‘,
+‘‘,(iccāyasmā hemako)
 ;
 ,;
 ,.
@@ -407,11 +407,11 @@ Nandamāṇavapucchā sattamā niṭṭhitā.
 Hemakamāṇavapucchā aṭṭhamā niṭṭhitā.
 9. Todeyyamāṇavapucchā
 1094.
-‘‘,
+‘‘,(iccāyasmā todeyyo)
 ;
 ,’’.
 1095.
-‘‘,
+‘‘,(todeyyāti bhagavā)
 ;
 ,’’.
 1096.
@@ -423,12 +423,12 @@ Hemakamāṇavapucchā aṭṭhamā niṭṭhitā.
 Todeyyamāṇavapucchā navamā niṭṭhitā.
 10. Kappamāṇavapucchā
 1098.
-‘‘,
+‘‘,(iccāyasmā kappo)
 ;
 ,;
 ,’’.
 1099.
-‘‘,
+‘‘,(kappāti bhagavā)
 ;
 ,.
 1100.
@@ -440,7 +440,7 @@ nibbānamīti (sī.),.
 Kappamāṇavapucchā dasamā niṭṭhitā.
 11. Jatukaṇṇimāṇavapucchā
 1102.
-‘‘,
+‘‘,(iccāyasmā jatukaṇṇi)
 ;
 ,.
 1103.
@@ -448,7 +448,7 @@ Kappamāṇavapucchā dasamā niṭṭhitā.
 ,;
 ’’.
 1104.
-‘‘,;
+‘‘,(jatukaṇṇīti bhagavā);
 ,.
 1105.
 ‘‘,;
@@ -459,14 +459,14 @@ Kappamāṇavapucchā dasamā niṭṭhitā.
 Jatukaṇṇimāṇavapucchā ekādasamā niṭṭhitā.
 12. Bhadrāvudhamāṇavapucchā
 1107.
-‘‘,
+‘‘,(iccāyasmā bhadrāvudho)
 ;
 ,.
 1108.
 ‘‘,;
 ,’’.
 1109.
-‘‘,
+‘‘,(bhadrāvudhāti bhagavā)
 ;
 ,.
 1110.
@@ -475,11 +475,11 @@ Jatukaṇṇimāṇavapucchā ekādasamā niṭṭhitā.
 Bhadrāvudhamāṇavapucchā dvādasamā niṭṭhitā.
 13. Udayamāṇavapucchā
 1111.
-‘‘,;
+‘‘,(iccāyasmā udayo);
 ,;
 ,’’.
 1112.
-‘‘,;
+‘‘,(udayāti bhagavā);
 ,.
 1113.
 ‘‘,;
@@ -499,14 +499,14 @@ Bhadrāvudhamāṇavapucchā dvādasamā niṭṭhitā.
 Udayamāṇavapucchā terasamā niṭṭhitā.
 14. Posālamāṇavapucchā
 1118.
-‘‘,;
+‘‘,(iccāyasmā posālo);
 ,.
 1119.
 ‘‘,;
 ,;
 ,’’.
 1120.
-‘‘,;
+‘‘,(posālāti bhagavā);
 ,.
 1121.
 ‘‘,;
@@ -515,7 +515,7 @@ evaṃ (syā. ka.),’’.
 Posālamāṇavapucchā cuddasamā niṭṭhitā.
 15. Mogharājamāṇavapucchā
 1122.
-‘‘,
+‘‘,(iccāyasmā mogharājā)
 ;
 ,.
 1123.
@@ -531,13 +531,13 @@ Posālamāṇavapucchā cuddasamā niṭṭhitā.
 Mogharājamāṇavapucchā pannarasamā niṭṭhitā.
 16. Piṅgiyamāṇavapucchā
 1126.
-‘‘,
+‘‘,(iccāyasmā piṅgiyo)
 ;
 
 ;
 ’’.
 1127.
-‘‘,
+‘‘,(piṅgiyāti bhagavā)
 ;
 ,
 ’’.
@@ -546,7 +546,7 @@ Mogharājamāṇavapucchā pannarasamā niṭṭhitā.
 asutaṃ amutaṃ vā (sī.), asutāmutaṃ vā (syā.), asutaṃ’mutaṃ vā (pī.),kiñci matthi (syā.), kiñci natthi (pī.), kiñcinamatthi (ka.);
 ,’’.
 1129.
-‘‘,
+‘‘,(piṅgiyāti bhagavā)
 ;
 ,’’.
 Piṅgiyamāṇavapucchā soḷasamā niṭṭhitā.
@@ -576,7 +576,7 @@ Pārāyanatthutigāthā
 ,.
 Pārāyanānugītigāthā
 1137.
-‘‘,
+‘‘,(iccāyasmā piṅgiyo)
 ,;
 nibbuto (syā.),.
 1138.

@@ -4,7 +4,7 @@ Jātakapāḷi
 (Dutiyo bhāgo)
 17. Cattālīsanipāto
 
-.
+.(1)
 1.
 ‘‘,;
 ,’’.
@@ -153,7 +153,7 @@ jambuka tvaṃ dāni vadehi (syā. pī.),’’.
 ,sāmaṃ (ka.)’’.
 Tesakuṇajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 50.
 ‘‘,baddhā (pī.);
 ,’’.
@@ -297,7 +297,7 @@ nārado puṇṇo mantānīputto (sī.),;
 ,’’.
 Sarabhaṅgajātakaṃ dutiyaṃ.
 
-.
+.(3)
 95.
 ‘‘,;
 ,.
@@ -448,7 +448,7 @@ sarisitthiyo (syā. pī.),.
 na isipalobhikā (syā.), na isipalobhiyaṃ (pī.),’’.
 Alambusājātakaṃ tatiyaṃ.
 
-.
+.(4)
 143.
 ‘‘,;
 ,’’sapañño (syā.), sapaññā (pī.).
@@ -609,7 +609,7 @@ taṃ (pī.),’’.
 ,’’.
 Saṅkhapālajātakaṃ catutthaṃ.
 
-.
+.(5)
 195.
 ‘‘,pārisajje (sī. syā.);
 ,’’.

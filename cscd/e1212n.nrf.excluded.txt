@@ -180,7 +180,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ,,.
 ’.
 .
-,,’.
+,(bho),’.
 .
 ,,,.
 .
@@ -192,7 +192,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,.
 .
-,,,,.
+(bho),,,,.
 .
 ,.
 .
@@ -202,7 +202,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 .
-,,,,,,,,,,,,,,,,,.
+,,,(bho),,,,,,,,,,,,,,.
 .
 .
 
@@ -210,7 +210,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 .
-,,,,.
+,(bho),,,.
 .
 ,,,.
 
@@ -289,9 +289,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’‘‘‘‘,‘‘‘‘.
 .
-,,,,,‘‘’’.
+(bho),,,,,‘‘’’.
 .
-,.
+(ho),.
 .
 .
 .
@@ -299,11 +299,11 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’.
 .
-,,‘‘’’,,,.
+(bho),,‘‘’’,,,.
 .
 .,,.
 .
-,.
+,(bho).
 .
 ,,,.
 ,,..
@@ -328,19 +328,19 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 
-.
+(bho).
 .
 ,,,,,,,,,..,.
 .
-,,,,‘‘’’,,,,.‘‘‘‘,,,,,,,,,,.
+,,(bho),,‘‘’’,,,,.‘‘‘‘,(bho),,,,,,,,,.
 
-.,,,,,,,.,,,,.,,.
+.,(bho),,,,,,.,,,,.,,.
 .
 .
 .
 ‘‘’’.
 .
-,.,.,‘‘’’.
+(bho),.,.,‘‘’’.
 
 ,,,.
 .
@@ -358,11 +358,11 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’.
 .
-,,,,,,,,,,,,.,,,,,.,.
+(bho),,,,,,,,,,,,.,,,,,.,.
 .
 ,.
 .
-.,,,,‘‘’’,,,..
+.,(bho),,,‘‘’’,,,..
 .
 ‘‘’’‘‘’’.
 .
@@ -370,7 +370,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 
-,,,.
+,(bho),,.
 .
 ,,,,.
 .
@@ -398,9 +398,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 .
-,,,,,,,‘‘’’,,,,,,,,,‘‘’’’’,,,.
+,(bho),,,,,,‘‘’’,,,,,,,,,‘‘’’’’,,,.
 .
-,,,,,,,.
+,,,(bho),,,,.
 .
 ,,,,,,,,,,,,,,
 .
@@ -408,9 +408,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’‘‘’’,,.
 .
-,,,,,,,,,,,‘‘’’,.
+,,(bho),,,,,,,,,‘‘’’,.
 .
-,,,,,,,,,,,.
+,,(bho),,,,,,,,,.
 .
 .
 .
@@ -420,26 +420,26 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’.
 .
-,‘‘’’,,,,,.
+,‘‘’’(bho),,,,,.
 .
 ,.
 .
 ,,.
 .
-,,,‘‘’’,,,,,‘‘’’,,,‘‘’’,,,,,,,,.
+,,,‘‘’’,,,,,‘‘’’,,,‘‘’’,(bho),,,,,,,.
 .
 
 .
-,,,,.
+(bho),,,,.
 .
-‘‘’’,,,,,,,.
+‘‘’’,(bho),,,,,,.
 .
 ,,‘‘’’,,.
 .
 .
 ,‘‘’’‘‘’’.
 .
-,,,,,,.
+,,(bho),,,,.
 .
 .
 .
@@ -453,11 +453,11 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,,
 .
-,,,,.
+(bho),,,,.
 .
 ,,.
 .
-’,,,,,,,,.
+’,(bho),,,,,,,.
 .
 ,.
 .
@@ -575,7 +575,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,,.
 .
-.
+(bho).
 ,,.
 .
 ’,.
@@ -621,20 +621,20 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 .
 .
-.
-.
+(jalāsayo).
+(bhagavā)(pharasu)(rājā)(paṭo)(puriso).
 
-‘‘’‘‘.
+(gomā)(vanaṃ)‘‘’‘‘.
 .
 ’,.
 .
 ’’.
 .
-,.
+,(ṭhānaṃ).
 
 ,.
 .
-‘‘’’,.
+‘‘’’,(hemanto).
 .
 
 ?‘‘’’‘‘’’‘‘?,‘‘’’.
@@ -693,12 +693,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,’?.
 .
-,,
+,(aho),(aho)
 .
-,,,.
+,,,(māso).
 .
 .
-‘‘‘‘,,‘‘’’,.
+‘‘‘‘,,‘‘’’,(nagarī.)
 .
 ‘‘’’‘‘’’‘‘’’.
 
@@ -710,14 +710,14 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,,‘‘’’,.
 .
-.,,,‘‘’’‘‘’’,‘‘’’‘‘’’‘‘’’.
+.,,,‘‘’’‘‘’’(abhisaṅkhataṃ katābhisaṅkhāraṃ, kasaṃsaṭṭhaṃ missitaṃ)‘‘’’‘‘’’‘‘’’.
 .
 ,.
 .
 .
 ’‘‘’’,,.
 .
-,‘‘’’,,.
+,‘‘’’,(vyākaraṇaṃ),(sāsanaṃ).
 .
 ’.
 ’.
@@ -730,10 +730,10 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ,.
 .
 .
-,,,,.
+,(vīhi),,,.
 
 
-.
+(gaganaṃ)(rukkho).
 .
 .,.
 
@@ -743,7 +743,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ,,..’.
 .
-’,,,.‘‘’’.
+’,(bhasmaṃ paṇṇaṃ vā),,.‘‘’’.
 .
 .
 .,‘‘’’.,.
@@ -825,7 +825,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 ’‘‘’’.,.,.
 .
-‘‘’’,,,.
+‘‘’’,(dhātu),,.
 ‘‘;
 ’’.
 .
@@ -841,7 +841,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’.
 
 .
-’.
+’(cuṇṇaṃ)(brāhmaṇe)(sisso).
 ‘‘;
 ’’.
 
@@ -912,7 +912,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 .
 .
-’’.
+’(ṭhānaṃ)(patho)’(ṭhānaṃ).
 .
 .
 .

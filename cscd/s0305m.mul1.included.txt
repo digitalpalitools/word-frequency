@@ -250,7 +250,7 @@ yadapi bhikkhave kāyappassaddhi tadapi passaddhisambojjhaṅgo yadapi cittappas
 yadapi bhikkhave savitakko savicāro samādhi tadapi samādhisambojjhaṅgo yadapi avitakkaavicāro samādhi tadapi samādhisambojjhaṅgo samādhisambojjhaṅgoti iti hidaṃ uddesaṃ gacchati tadamināpetaṃ pariyāyena dvayaṃ hoti
 yadapi bhikkhave ajjhattaṃ dhammesu upekkhā tadapi upekkhāsambojjhaṅgo yadapi bahiddhā dhammesu upekkhā tadapi upekkhāsambojjhaṅgo upekkhāsambojjhaṅgoti iti hidaṃ uddesaṃ gacchati tadamināpetaṃ pariyāyena dvayaṃ hoti ayaṃ kho bhikkhave pariyāyo yaṃ pariyāyaṃ āgamma satta bojjhaṅgā catuddasāti dutiyaṃ
 
- atha  kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiyaṃ  piṇḍāya pavisiṃsu  (pariyāyasuttasadisaṃ)
+ atha  kho sambahulā bhikkhū pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya sāvatthiyaṃ  piṇḍāya pavisiṃsu  
 evaṃvādino bhikkhave aññatitthiyā paribbājakā evamassu vacanīyā  yasmiṃ āvuso samaye līnaṃ cittaṃ hoti katamesaṃ tasmiṃ samaye bojjhaṅgānaṃ akālo bhāvanāya katamesaṃ tasmiṃ samaye bojjhaṅgānaṃ kālo bhāvanāya yasmiṃ panāvuso samaye uddhataṃ cittaṃ hoti katamesaṃ tasmiṃ samaye bojjhaṅgānaṃ akālo bhāvanāya katamesaṃ tasmiṃ samaye bojjhaṅgānaṃ kālo bhāvanāyāti evaṃ puṭṭhā  bhikkhave aññatitthiyā paribbājakā na ceva sampāyissanti uttariñca vighātaṃ āpajjissanti taṃ kissa hetu yathā taṃ bhikkhave avisayasmiṃ
 nāhaṃ taṃ bhikkhave passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo imesaṃ pañhānaṃ veyyākaraṇena  cittaṃ ārādheyya aññatra tathāgatena vā tathāgatasāvakena vā ito vā pana sutvā
 yasmiṃ bhikkhave samaye līnaṃ cittaṃ hoti akālo tasmiṃ samaye passaddhisambojjhaṅgassa bhāvanāya akālo samādhisambojjhaṅgassa bhāvanāya akālo upekkhāsambojjhaṅgassa bhāvanāya taṃ kissa hetu līnaṃ bhikkhave cittaṃ taṃ etehi dhammehi dussamuṭṭhāpayaṃ hoti
@@ -381,7 +381,7 @@ asubhamaraṇaāhāre paṭikūlaanabhiratena
 aniccadukkhaanattapahānaṃ virāganirodhena te dasāti
 
 
- seyyathāpi bhikkhave gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā evameva kho bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo  nibbānapabbhāro kathañca bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ evaṃ kho bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti (yāva esanā pāḷi vitthāretabbā)
+ seyyathāpi bhikkhave gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā evameva kho bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo  nibbānapabbhāro kathañca bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti upekkhāsambojjhaṅgaṃ bhāveti vivekanissitaṃ virāganissitaṃ nirodhanissitaṃ vossaggapariṇāmiṃ evaṃ kho bhikkhave bhikkhu satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti 
 
 tassuddānaṃ 
 cha  pācīnato ninnā cha ninnā ca samuddato
@@ -393,7 +393,7 @@ dvete cha dvādasa honti vaggo tena pavuccatīti
 tassuddānaṃ 
 tathāgataṃ padaṃ kūṭaṃ mūlaṃ sārena vassikaṃ
 rājā candimasūriyā ca vatthena dasamaṃ padanti
-(appamādavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbā)
+
 
 
  seyyathāpi bhikkhave ye keci balakaraṇīyā kammantā karīyanti 
@@ -401,7 +401,7 @@ rājā candimasūriyā ca vatthena dasamaṃ padanti
 tassuddānaṃ 
 balaṃ  bījañca nāgo ca rukkho kumbhena sūkiyā
 ākāsena ca dve meghā nāvā āgantukā nadīti
-(balakaraṇīyavaggo bojjhaṅgasaṃyuttassa bojjhaṅgavasena vitthāretabbā)
+
 
 
  tisso  imā bhikkhave esanā katamā tisso kāmesanā bhavesanā brahmacariyesanāti vitthāretabbaṃ
@@ -409,7 +409,7 @@ balaṃ  bījañca nāgo ca rukkho kumbhena sūkiyā
 tassuddānaṃ 
 esanā vidhā āsavo bhavo ca dukkhatā tisso
 khilaṃ malañca nīgho ca vedanā taṇhā tasināya cāti
-(bojjhaṅgasaṃyuttassa esanāpeyyālaṃ vivekanissitato vitthāretabbaṃ)
+
 
 
  cattārome bhikkhave  oghā katame cattāro kāmogho bhavogho diṭṭhogho avijjoghoti vitthāretabbaṃ
@@ -426,7 +426,7 @@ kāmaguṇā nīvaraṇā khandhā oruddhambhāgiyānīti
 uddānaṃ 
 cha  pācīnato ninnā cha ninnā ca samuddato
 dvete cha dvādasa honti vaggo tena pavuccatīti
-(bojjhaṅgasaṃyuttassa gaṅgāpeyyālaṃ rāgavasena vitthāretabbaṃ)
+
 
 
 
@@ -434,7 +434,7 @@ dvete cha dvādasa honti vaggo tena pavuccatīti
 uddānaṃ 
 tathāgataṃ padaṃ kūṭaṃ mūlaṃ sārena vassikaṃ
 rājā candimasūriyā ca vatthena dasamaṃ padanti
-(appamādavaggo rāgavasena vitthāretabbo)
+
 
 
 
@@ -442,7 +442,7 @@ rājā candimasūriyā ca vatthena dasamaṃ padanti
 uddānaṃ 
 balaṃ  bījañca nāgo ca rukkho kumbhena sūkiyā
 ākāsena ca dve meghā nāvā āgantukā nadīti
-(bojjhaṅgasaṃyuttassa balakaraṇīyavaggo rāgavasena vitthāretabbo)
+
 
 
 
@@ -457,5 +457,5 @@ khilaṃ malañca nīgho ca vedanātaṇhā tasināya cāti
 uddānaṃ 
 ogho yogo upādānaṃ ganthā anusayena ca
 kāmaguṇā nīvaraṇā khandhā oruddhambhāgiyānīti
-(rāgavinayapariyosāna-dosavinayapariyosāna-mohavinayapariyosānavaggo vitthāretabbo) (yadapi maggasaṃyuttaṃ vitthāretabbaṃ tadapi bojjhaṅgasaṃyuttaṃ vitthāretabbaṃ)
+ 
 

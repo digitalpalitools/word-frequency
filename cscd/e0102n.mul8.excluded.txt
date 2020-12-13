@@ -2,15 +2,15 @@
 Sammasanañāṇakathā
 692.,maggāmaggañāṇadassanavisuddhi.
 kalāpasammasananayavipassanāya.?.,..,,.
-693.–.‘‘..’’....‘‘,’’ñātapariññā.‘‘,’’tīraṇapariññā.pahānapariññā.
-.....,,,,,,....,.‘‘,,’’.
+693.–.‘‘..’’(paṭi. ma. 1.75).‘‘,’’ñātapariññā.‘‘,’’tīraṇapariññā.pahānapariññā.
+.....,,,,,,(paṭi. ma. 1.52).,.‘‘,,’’.
 694.–
 ‘‘?…pe…,,.,.,.…pe……pe…,.
 ‘‘…pe…,.,.
 ‘‘,,.………pe……pe….
 ‘‘.…………pe….
 ‘‘,.,,.…pe…,.,,.
-‘‘..’’....
+‘‘..’’(paṭi. ma. 1.48).
 …pe…,,,,,,,,,,,,,,,,,,,,,,,.
 –
 ‘‘,,.,,?,,.………,.…pe…,.
@@ -19,24 +19,24 @@ kalāpasammasananayavipassanāya.?.,..,,.
 ‘‘…pe………pe………pe……….
 ‘‘…pe………pe…………pe…….
 ‘‘……………………………….
-‘‘…pe………pe………pe………pe…’’...;....
+‘‘…pe………pe………pe………pe…’’(paṭi. ma. 1.3; saṃ. ni. 4.46).
 .,.,ye yassa pākaṭā honti sukhena pariggahaṃ gacchanti, tesu tena sammasanaṃ ārabhitabbaṃ.
 695.–…pe…,.,.‘‘’’,.
-?.–‘‘aniccaṃ khayaṭṭhenā’’....
+?.–‘‘aniccaṃ khayaṭṭhenā’’(paṭi. ma. 1.48).
 atītaṃ,,.
 anāgataṃ,,.
 paccuppannaṃ,,.
 ajjhattaṃ,,.
 bahiddhā…pe… oḷārikaṃ…pe… sukhumaṃ…pe… hīnaṃ…pe… paṇītaṃ…pe… dūre…pe… santike,,.
 ‘‘’’..
-dukkhaṃ.Bhayaṭṭhenā.,...;....‘‘’’..
-,anattā.Asārakaṭṭhenā‘‘’’.,,,.–‘‘,,.’’....‘‘’’...
+dukkhaṃ.Bhayaṭṭhenā.,(saṃ. ni. 3.78; a. ni. 4.33).‘‘’’..
+,anattā.Asārakaṭṭhenā‘‘’’.,,,.–‘‘,,.’’(saṃ. ni. 3.59).‘‘’’...
 696.,.,‘‘’’..
 Cattārīsākāraanupassanākathā
 697.,‘‘,’’–
-‘‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,’’...–
+‘‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,’’(paṭi. ma. 3.37)–
 ,
-‘‘.’’...,
+‘‘.’’(paṭi. ma. 3.38),
 ..
 698.?,aniccato.,dukkhato.,rogato.,,gaṇḍato.,,sallato.,,aghato.,ābādhato.,parato.palokato.ītito.,upaddavato.,bhayato.,,upasaggato.calato.pabhaṅguto.,addhuvato.,atāṇato.,aleṇato.asaraṇato.rittato.,.suññato.anattato.,ādīnavato,,,ādīnavato.vipariṇāmadhammato.,asārakato.aghamūlato.vadhakato.,vibhavato.sāsavato.saṅkhatato.mārāmisato.jāti-jarā-byādhi-maraṇadhammato.soka-paridevaupāyāsadhammato.saṃkilesikadhammato.
 ,,,,,,,,,aniccānupassanāni.,,,,anattānupassanāni.,dukkhānupassanānī.
@@ -45,15 +45,15 @@ Indriyatikkhakāraṇanavakakathā
 699.,‘‘–,,,,,,,,’’pathavīkasiṇaniddese,..
 Rūpanibbattipassanākārakathā
 700.–..,.,.
-,.–‘‘,,,,,’’......,.,,.....
+,.–‘‘,,,,,’’(a. ni. 1.48)...,.,,.....
 ...,..
 701.,,,,,.kammaṃ.Kammasamuṭṭhānaṃ,.Kammapaccayaṃ,.Kammapaccayacittasamuṭṭhānaṃ.Kammapaccayaāhārasamuṭṭhānaṃ,.Kammapaccayautusamuṭṭhānaṃ,.kammajarūpassa nibbatti.
 702.,,,,.cittaṃ.
 ,;
 .
 ,,,,,.,,,,.,,,,,.,,,,,.,,,.,.
-Cittasamuṭṭhānaṃ,‘‘,,,,,,,,’’.Cittapaccayaṃ‘‘’’....Cittapaccayaāhārasamuṭṭhānaṃ,.Cittapaccayautusamuṭṭhānaṃ,.cittajarūpassa nibbatti.
-703.,,,,.āhāro.Āhārasamuṭṭhānaṃ,,,,,,.Āhārapaccayaṃ‘‘’’....Āhārapaccayaāhārasamuṭṭhānaṃ,......,.Āhārapaccayautusamuṭṭhānaṃ.,āhārajarūpassa nibbatti.
+Cittasamuṭṭhānaṃ,‘‘,,,,,,,,’’.Cittapaccayaṃ‘‘’’(paṭṭhā. 1.1.11).Cittapaccayaāhārasamuṭṭhānaṃ,.Cittapaccayautusamuṭṭhānaṃ,.cittajarūpassa nibbatti.
+703.,,,,.āhāro.Āhārasamuṭṭhānaṃ,,,,,,.Āhārapaccayaṃ‘‘’’(paṭṭhā. 1.1.15).Āhārapaccayaāhārasamuṭṭhānaṃ,......,.Āhārapaccayautusamuṭṭhānaṃ.,āhārajarūpassa nibbatti.
 704.,,,,.utu,.Utusamuṭṭhānaṃ.,,,,,,.Utupaccayaṃ.Utupaccayautusamuṭṭhānaṃ,.Utupaccayaāhārasamuṭṭhānaṃ,.,utujarūpassa nibbatti..
 Arūpanibbattipassanākārakathā
 705.,..
@@ -102,7 +102,7 @@ uddharaṇaṃ.Atiharaṇaṃ.Vītiharaṇaṃ.Vossajjanaṃ.Sannikkhepanaṃ.Sa
 ,;
 ,.
 ,;
-,..;
+,.(mahāni. 10);
 716.dhammatārūpe.Dhammatārūpaṃ..
 ,,,,,...
 ‘‘.......,’’,.
@@ -126,23 +126,23 @@ diṭṭhisamugghāṭanaṃ.mānasamugghāṭanaṃ.nikantipariyādānaṃ..
 arūpasattakavasenā..
 722.,.
 .,,,,,,,,,,,,,,,,,.
-,.‘‘,,’’.‘‘,,’’.‘‘,,’’.....
+,.‘‘,,’’.‘‘,,’’.‘‘,,’’(paṭi. ma. 1.227)..
 ...,,.
 ,‘‘.’’.
 Udayabbayañāṇakathā
-723.,‘‘’’...udayabbayānupassanaṃ,..–
-‘‘?,,,.……………pe…,,,’’....
+723.,‘‘’’(paṭi. ma. mātikā 1.6)udayabbayānupassanaṃ,..–
+‘‘?,,,.……………pe…,,,’’(paṭi. ma. 1.49).
 ‘‘’’,‘‘’’.‘‘,,,.,,,,,.,’’.
 724.–
 ‘‘.……...
-‘‘.……..’’....
-‘‘.……...………..’’....
+‘‘.……..’’(paṭi. ma. 1.50).
+‘‘.……...………..’’(paṭi. ma. 1.50).
 .,‘‘,’’–
 .,,.
 725.‘‘,’’..
 726.,,paccayato.,khaṇato,..
 727.samudayasaccaṃ.dukkhasaccaṃ.nirodhasaccaṃ.dukkhasaccameva.,maggasaccaṃ.
-728.anulomo paṭiccasamuppādo,‘‘’’...;...;..paṭilomo paṭiccasamuppādo,‘‘’’...;...;..paṭiccasamuppannā.,.
+728.anulomo paṭiccasamuppādo,‘‘’’(ma. ni. 1.404; saṃ. ni. 2.21; udā. 1).paṭilomo paṭiccasamuppādo,‘‘’’(ma. ni. 1.406; saṃ. ni. 2.21; udā. 2).paṭiccasamuppannā.,.
 729.ekattanayo..nānattanayo..abyāpāranayo..evaṃdhammatānayo..
 730.anattalakkhaṇaṃ.aniccalakkhaṇaṃ,.Dukkhalakkhaṇa.Sabhāvalakkhaṇa.saṅkhatalakkhaṇassa,.
 731.‘‘,’’.,..
@@ -151,7 +151,7 @@ Vipassanupakkilesakathā
 732.dasa vipassanupakkilesā...
 ?,,,,,,,,,.–
 ‘‘?,‘’,..…’’.
-‘‘…pe……………………,‘’,..…’’....
+‘‘…pe……………………,‘’,..…’’(paṭi. ma. 2.6).
 733.obhāso.‘‘,’’‘‘’’,‘‘’’.‘‘’’‘‘’’..
 ...,,,,,…pe…..
 –.,,.–‘‘,’’.–‘‘,,,’’.
@@ -165,7 +165,7 @@ Passaddhī.,,,,,,..–
 ‘‘,;
 ,.
 ‘‘,;
-,’’...;
+,’’.(dha. pa. 373-374);
 .
 Sukha..
 Adhimokkho..
@@ -174,16 +174,16 @@ Upaṭṭhāna..,.
 Upekkhā....
 Nikantī...
 ,‘‘,,,,,,,,,’’‘‘’’‘‘’’.‘‘’’‘‘’’..
-735.,....?‘‘’’,‘‘’’,,...‘‘,,’’....–
+735.,....?‘‘’’,‘‘’’,,...‘‘,,’’(ma. ni. 1.241).–
 ‘‘,;
 ,.
 ‘‘,;
-,’’....;
+,’’.(paṭi. ma. 2.7);
 Maggāmaggavavatthānakathā
 736.‘‘,’’.,‘‘,‘’.‘’.,,’’.,.
-‘‘,,’’....…pe…‘‘,,’’.....–
+‘‘,,’’(ma. ni. 1.241).…pe…‘‘,,’’(ma. ni. 1.241)..–
 ‘‘,;
-,’’....;
+,’’.(paṭi. ma. 2.7);
 ..‘‘,’’maggāmaggañāṇadassanavisuddhī.
 .?Diṭṭhivisuddhiyaṃdukkhasaccassa.Kaṅkhāvitaraṇavisuddhiyaṃsamudayasaccassa.maggāmaggañāṇadassanavisuddhiyaṃmaggasaccassa,.
 Iti sādhujanapāmojjatthāya kate visuddhimagge

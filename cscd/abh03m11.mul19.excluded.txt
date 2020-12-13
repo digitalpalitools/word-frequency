@@ -4,7 +4,7 @@
 ..
 ,…pe….
 2..
-,…pe…..
+,…pe….(Pañhāvāraṃ vitthāretabbaṃ.)
 3...
 ..
 ...
@@ -18,14 +18,14 @@
 7...
 ..
 1-6-12. Hetuduka-cūḷantaradukāni
-8.…..
+8.….(Saṅkhataṃ sappaccayasadisaṃ.)
 9.….
 ….
 10.….
 ..
 11.….
 ….
-12...
+12..(gaṇitakena tīṇi.)
 ….
 13.….
 ….
@@ -94,21 +94,21 @@
 ….
 45.….
 ….
-46.…..
+46.….(Sabbattha saṃkhittaṃ.)
 47.….
 ....
 2-1. Sahetukādidukāni-hetudukaṃ
 48.....
 ….
 …..
-49.…..
+49.….(Sahetukadukasadisaṃ.)
 50...
 ..
 51...
-...
+..(Antimadukaṃ na labbhati.)
 7-13-1. Cūḷantaradukāni-hetudukaṃ
 52...
-...
+..(Saṅkhataṃ sappaccayasadisaṃ.)
 53...
 ..
 54...
@@ -130,11 +130,11 @@
 ...
 55-1. Mahantaraduka-hetudukaṃ
 59.….
-…..
+….(Saṃkhittaṃ.)
 100-1. Saraṇaduka-hetudukaṃ
 60....
-.
-..…..
+.(1)
+..….(Saṃkhittaṃ.)
 100-2. Saraṇaduka-sahetukadukaṃ
 61....
 62....
@@ -143,14 +143,14 @@
 64....
 100-4. Saraṇaduka-hetusahetukadukādi
 65....
-....
+...(Hetuhetusampayuttadukaṃ saṃkhittaṃ.)
 100-6. Saraṇaduka-nahetusahetukadukaṃ
 66...
 ..
 ...
 100-7. Saraṇaduka-cūḷantaradukaṃ
 67...
-68.….
+68.…(saṃkhittaṃ).
 69.….
 ...
 70.….
@@ -171,24 +171,24 @@
 100-55-82. Saraṇaduka-mahantaradukādi
 81...
 ...
-82.....
+82....(Saṃkhittaṃ.)
 83....
 84....
 85....
 100-83. Saraṇaduka-piṭṭhidukaṃ
 86...
-...
+..(Saṃkhittaṃ.)
 87...
-.
+(Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
 Pañhāvāro
 Hetu-ārammaṇapaccayā
 88...
 ...
 Paccanīyuddhāro
-89.………….,.
-..
-..
-.
+89.…………(saṃkhittaṃ.),.
+.(Saṃkhittaṃ.)
+.(Saṃkhittaṃ.)
+(Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
 Anuttarapadaṃ
 Hetu-anantarapaccayā
 90..…pe….
@@ -196,9 +196,9 @@ Hetu-anantarapaccayā
 Paccanīyuddhāro
 92.….
 .,…pe…,…pe….
-..
-,…pe……pe…..
-.
+.(Saṃkhittaṃ.)
+,…pe……pe….(Saṃkhittaṃ.)
+(Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
 .
 Dhammapaccanīyānulome dukadukapaṭṭhānaṃ niṭṭhitaṃ.
 Paccanīyānulomapaṭṭhānaṃ niṭṭhitaṃ.

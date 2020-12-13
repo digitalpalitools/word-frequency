@@ -3,8 +3,8 @@ Nidānasaṃyutta
 Paṭiccasamuppādasutta
 Pucchā –…pe….
 Vissajjanā –..‘‘,,’’.
-.,,..
-,–
+.,(peyyāla),..
+(peyyāla),–
 Vibhaṅgasutta
 Pucchā –.
 Vissajjanā –..‘‘,,’’.
@@ -16,7 +16,7 @@ Vissajjanā –‘‘.,,.’’.
 Pucchā –.
 Vissajjanā –.‘‘’’.
 Pucchā –.
-Vissajjanā –.‘‘,,,,’’,.
+Vissajjanā –.‘‘,,,,(peyyāla)’’,.
 ..–
 Dukkhasutta
 Pucchā –.
@@ -66,7 +66,7 @@ Pucchā –.
 Vissajjanā –‘‘,,,’’.
 Sāsapasutta
 Pucchā –.
-Vissajjanā –.‘‘’’.‘‘,,.
+Vissajjanā –.‘‘’’.‘‘,,(peyyāla).
 Gaṅgāsutta
 Pucchā –…pe….
 Vissajjanā –.‘‘
@@ -142,14 +142,14 @@ Pucchā –…pe….
 Vissajjanā –.‘‘,,’’.‘‘,.’’.‘‘,,’’.
 Asilomasutta
 Pucchā –.
-Vissajjanā –.‘‘,’’.‘‘’’.,.’’.
+Vissajjanā –.‘‘,’’.‘‘’’.,.(Peyyāla)’’.
 Sūcilomasutta
 Pucchā –.
 Vissajjanā –..
-.‘‘,,’’.
+.‘‘,,(peyyāla)’’.
 Pāpabhikkhusutta
 Pucchā –.
-Vissajjanā –..‘‘.....,,,,’’.‘‘......’’.
+Vissajjanā –..‘‘.....,,,,’’.‘‘.(Peyyāla).....’’.
 Opammasaṃyutta
 Nakhasikhasutta
 Pucchā –.

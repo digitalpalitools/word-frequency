@@ -1,6 +1,6 @@
 ﻿
 
- 538 mūgapakkhajātakaṃ (1)
+ 538 mūgapakkhajātakaṃ 
 
  mā  paṇḍiccayaṃ  vibhāvaya bālamato bhava sabbapāṇinaṃ
 sabbo taṃ jano ocināyatu evaṃ tava attho bhavissati
@@ -372,7 +372,7 @@ na hi no saṅkaraṃ  tena mahāsenena maccunā
 ehi rāja nivattassu nāhaṃ rajjena matthikoti
 
 
- 539 mahājanakajātakaṃ (2)
+ 539 mahājanakajātakaṃ 
 
  koyaṃ majjhe samuddasmiṃ apassaṃ tīramāyuhe
 kaṃ  tvaṃ atthavasaṃ ñatvā evaṃ vāyamase bhusaṃ
@@ -895,7 +895,7 @@ tesaṃ tvaṃ ekaṃ gaṇhāhi ahamekaṃ punāparaṃ
 imameva kathayantā thūṇaṃ nagarupāgamuṃ
 
  koṭṭhake usukārassa bhattakāle upaṭṭhite
-tatrā ca so usukāro (ekaṃ daṇḍaṃ ujuṃ kataṃ) 
+tatrā ca so usukāro  
 ekañca cakkhuṃ niggayha jimhamekena pekkhati
 
  evaṃ  no sādhu passasi usukāra suṇohi me
@@ -920,7 +920,7 @@ tesaṃ tvaṃ ekaṃ gaṇhāhi ahamekaṃ punāparaṃ
 muñjāvesikā  pavāḷhā ekā vihara sīvalīti
 
 
- 540 suvaṇṇasāmajātakaṃ (3)
+ 540 suvaṇṇasāmajātakaṃ 
 
  ko nu maṃ usunā vijjhi pamattaṃ udahārakaṃ 
 khattiyo brāhmaṇo vesso ko maṃ viddhā nilīyasi
@@ -964,7 +964,7 @@ na maṃ migā uttasanti araññe sāpadānipi
  bhīrū kimpurisā rāja pabbate gandhamādane
 sammodamānā gacchāma pabbatāni vanāni ca
 
- (na maṃ migā uttasanti araññe sāpadānipi) 
+  
 atha kena nu vaṇṇena utrāsanti migā mamaṃ 
 
  na taṃ tasa  migo sāma kiṃ tāhaṃ alikaṃ bhaṇe
@@ -1301,7 +1301,7 @@ idha dhammaṃ caritvāna rāja saggaṃ gamissasi
 suciṇṇena divaṃ pattā mā dhammaṃ rāja pāmadoti
 
 
- 541 nimijātakaṃ (4)
+ 541 nimijātakaṃ 
 
  accheraṃ  vata lokasmiṃ uppajjanti vicakkhaṇā
 yadā ahu nimirājā paṇḍito kusalatthiko
@@ -1799,7 +1799,7 @@ mahārājānamāvāsā  yāni tvaṃ rāja passasi
 ākiṇṇaṃ indasadisehi byaggheheva surakkhitaṃ 
 
  vittī hi maṃ vindati sūta disvā pucchāmi taṃ mātali devasārathi
-imaṃ nu dvāraṃ kimabhaññamāhu  (manorama dissati dūratova) 
+imaṃ nu dvāraṃ kimabhaññamāhu   
 
  tassa  puṭṭho viyākāsi mātali devasārathi
 vipākaṃ puññakammānaṃ jānaṃ akkhāsijānato
@@ -1818,7 +1818,7 @@ yāyamāno mahārājā addā devasabhaṃ idaṃ
 tathūpamaṃ idaṃ byamhaṃ veḷuriyāsu nimmitaṃ
 
  vittī hi maṃ vindati sūta disvā pucchāmi taṃ mātali devasārathi
-imaṃ  nu byamhaṃ kimabhaññamāhu  (manorama dissati dūratova) 
+imaṃ  nu byamhaṃ kimabhaññamāhu   
 
  tassa puṭṭho viyākāsi mātali devasārathi
 vipākaṃ puññakammānaṃ jānaṃ akkhāsijānato
@@ -1860,7 +1860,7 @@ yo me kalyāṇakammānaṃ pāpānaṃ paṭidassayi
 puthuyaññaṃ yajitvāna saṃyamaṃ ajjhupāgamīti
 
 
- 542 umaṅgajātakaṃ (5)
+ 542 umaṅgajātakaṃ 
 
  pañcālo  sabbasenāya brahmadattoyamāgato
 sāyaṃ pañcāliyā senā appameyyā mahosadha
@@ -2467,7 +2467,7 @@ bahuṃ  annañca pānañca paṇḍitassābhihārayuṃ
 paṇḍitamhi anuppatte celukkhepo avattathāti
 
 
- 543 bhūridattajātakaṃ (6)
+ 543 bhūridattajātakaṃ 
 
  yaṃ kiñci ratanaṃ atthi dhataraṭṭhanivesane
 sabbāni te upayantu dhītaraṃ dehi rājino
@@ -3070,7 +3070,7 @@ ko so omuñcate pādā namo katvā mahesino
 samuddajāya uppannā nāgā ete mahiddhikāti
 
 
- 544 candakumārajātakaṃ (7)
+ 544 candakumārajātakaṃ 
 
  rājāsi luddakammo ekarājā pupphavatīyā
 so pucchi brahmabandhuṃ khaṇḍahālaṃ purohitaṃ mūḷhaṃ
@@ -3594,7 +3594,7 @@ celukkhepamakaruṃ samāgatā devakaññāyo ca
 nandiṃ  pavesi nagaraṃ  bandhanā mokkho aghositthāti
 
 
- 545 mahānāradakassapajātakaṃ (8)
+ 545 mahānāradakassapajātakaṃ 
 
  ahu  rājā videhānaṃ aṅgati  nāma khattiyo
 pahūtayoggo dhanimā anantabalaporiso
@@ -4132,7 +4132,7 @@ andhakāreva pajjoto tvaṃ nosi saraṇaṃ ise
  atthañca dhammaṃ anusāsa maṃ ise atītamaddhā aparādhitaṃ mayā
 ācikkha me nārada suddhimaggaṃ yathā ahaṃ no nirayaṃ pateyyaṃ
 
- yathā ahu dhataraṭṭho ( )  vessāmitto aṭṭhako yāmataggi
+ yathā ahu dhataraṭṭho   vessāmitto aṭṭhako yāmataggi
 usindaro cāpi sivī ca rājā paricārakā samaṇabrāhmaṇānaṃ
 
  ete caññe ca rājāno ye saggavisayaṃ  gatā
@@ -4188,7 +4188,7 @@ vijayo sāriputtosi moggallānosi bījako
 mahābrahmā bodhisatto evaṃ dhāretha jātakanti
 
 
- 546 vidhurajātakaṃ (9)
+ 546 vidhurajātakaṃ 
 
 
  dohaḷakaṇḍaṃ
@@ -5160,7 +5160,7 @@ bahuṃ annañca pānañca paṇḍitassābhihārayuṃ
 paṇḍitamhi anuppatte celukkhepo pavattathāti
 
 
- 547 vessantarajātakaṃ (10)
+ 547 vessantarajātakaṃ 
 
 
  phussatī  varavaṇṇābhe varassu dasadhā vare

@@ -2,35 +2,35 @@
 1-1. Hetuduka-kusalattikaṃ
 1. Kusalapadaṃ
 1-7. Paṭiccavārādi
-1...…,.
+1...…(cittasamuṭṭhānameva, ārammaṇaṃ natthi).
 ,…pe….
-…pe….
-2..
+(Sahajātavārampi…pe… nissayavārampi paṭiccavārasadisaṃ.)
+2..(1)
 ….
 ….
-…..
-3.,,…pe…..
+….(Saṃkhittaṃ.)
+3.,,…pe….(Pañhāvārampi vitthāretabbaṃ.)
 2. Akusalapadaṃ
 1-7. Paṭiccavārādi
-4..
-.
-..,…pe….
-…pe….
-5..
+4..(1)
+.(1)
+.(1)(Saṃkhittaṃ.),…pe….
+(Sahajātavārampi…pe… nissayavārampi paṭiccavārasadisaṃ.)
+5..(1)
 ….
 ….
-…..
+….(Saṃkhittaṃ.)
 6.,,…pe….
 3. Abyākatapadaṃ
 3. Paccayavāro
-7.….…pe….
+7.….(Nissayavārampi…pe… pañhāvārampi vitthāretabbaṃ.)
 1-2. Hetuduka-vedanāttikaṃ
-8..
-.
-..,…pe….
-…pe….
-9.....
-10.....
+8..(1)
+.(1)
+.(1)(Saṃkhittaṃ.),…pe….
+(Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṃ.)
+9..(Saṃkhittaṃ.).(Sabbattha vitthāro.)
+10..(Saṃkhittaṃ.).(Sabbattha vitthāro.)
 1-3. Hetuduka-vipākattikaṃ
 11.….
 ….
@@ -68,24 +68,24 @@
 ….
 ….
 1-12. Hetuduka-parittattikaṃ
-20.….
+20.…(tīṇi).
 ….
 ….
 1-13. Hetuduka-parittārammaṇattikaṃ
-21.….
-….
+21.…(tīṇi).
+…(tīṇi).
 ….
 1-14. Hetuduka-hīnattikaṃ
 22.….
 ….
 ….
 1-15. Hetuduka-micchattaniyatattikaṃ
-23.….
-….
+23.…(tīṇi).
+…(tīṇi).
 ….
 1-16. Hetuduka-maggārammaṇattikaṃ
-24.….
-….
+24.…(tīṇi).
+…(tīṇi).
 ….
 1-17. Hetuduka-uppannattikaṃ
 25.…,.
@@ -98,12 +98,12 @@
 ….
 ….
 1-20. Hetuduka-ajjhattārammaṇattikaṃ
-28.….
+28.…(tīṇi).
 ….
 1-21. Hetuduka-sanidassanattikaṃ
 29.…pe….,.
 .…pe….
-....
+...(3).
 2-1. Sahetukaduka-kusalattikaṃ
 30...
 ….
@@ -113,12 +113,12 @@
 ….
 ..
 4-5-1. Hetusahetukādidukāni-kusalattikaṃ
-32....
-...
-...
+32....(3)
+...(3)
+...(3)
 .
-33...
-34...,...
+33..(Etena upāyena nava pañhā kātabbā.)
+34..(Nava pañhā kātabbā.)(Saṃkhittaṃ, hetuhetusampayuttadukaṃ hetusahetukadukasadisaṃ. Saṃkhittaṃ. Nava pañhā.)
 6-1. Nahetusahetukaduka-kusalattikaṃ
 35...
 ..
@@ -127,9 +127,9 @@ Hetugocchakaṃ niṭṭhitaṃ.
 7-8-1. Sappaccayādidukāni-kusalattikaṃ
 36...
 ..
-.…pe….
+.…pe…(saṃkhittaṃ sappaccayasadisaṃ).
 9-10-1. Sanidassanādidukāni-kusalattikaṃ
-37.…..
+37.….(Akusalaṃ kusalasadisaṃ.)
 ..
 ….
 ….
@@ -163,7 +163,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 44...
 ….
 ….
-.
+(Āsavaāsavasampayuttadukaṃ āsavasāsavadukasadisaṃ.)
 19-1. Āsavavippayuttasāsavaduka-kusalattikaṃ
 45...
 ..
@@ -186,42 +186,42 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 ….
 58-1. Cittasampayuttaduka-kusalattikaṃ
 50...
-...
+..(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 59-1. Cittasaṃsaṭṭhaduka-kusalattikaṃ
 51...
-...
+..(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 60-1. Cittasamuṭṭhānaduka-kusalattikaṃ
 52.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 61-1. Cittasahabhūduka-kusalattikaṃ
 53.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 62-1. Cittānuparivattiduka-kusalattikaṃ
 54.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 63-1. Cittasaṃsaṭṭhasamuṭṭhānaduka-kusalattikaṃ
 55.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 64-1. Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka-kusalattikaṃ
 56.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva paccayavasena.)
 65-1. Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka-kusalattikaṃ
 57.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva.)
 66-1. Ajjhattikaduka-kusalattikaṃ
 58.....
-.....
+....(Abyākatamūlaṃ tīṇiyeva.)
 67-1. Upādāduka-kusalattikaṃ
 59.….
-…..
+….(Abyākatamūlaṃ ekaṃyeva.)
 68-1. Upādinnaduka-kusalattikaṃ
 60...
-...
+..(Abyākatamūlaṃ ekaṃyeva.)
 Mahantaradukaṃ niṭṭhitaṃ.
 69-82-1. Dvigocchakāni-kusalattikaṃ
 61...
 ….
-...
+..(Saṃkhittaṃ.)
 83-1. Dassanenapahātabbaduka-kusalattikaṃ
 62...
 ...
@@ -233,60 +233,60 @@ Mahantaradukaṃ niṭṭhitaṃ.
 85-1. Dassanenapahātabbahetukaduka-kusalattikaṃ
 64...
 ….
-…..
+….(Abyākatavāre sabbattha paccayavasena gaṇetabbaṃ.)
 86-1. Bhāvanāyapahātabbahetukaduka-kusalattikaṃ
 65...
-…..
+….(Abyākatamūlaṃ dve.)
 87-1. Savitakkaduka-kusalattikaṃ
 66.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva.)
 88-1. Savicāraduka-kusalattikaṃ
 67.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva.)
 89-1. Sappītikaduka-kusalattikaṃ
 68.....
-.....
+....(Abyākatamūlaṃ tīṇiyeva.)
 90-1. Pītisahagataduka-kusalattikaṃ
 69.….
-…..
+….(Abyākatamūlaṃ tīṇiyeva.)
 91-1. Sukhasahagataduka-kusalattikaṃ
 70.....
-.....
+....(Abyākatamūlaṃ tīṇiyeva.)
 92-1. Upekkhāsahagataduka-kusalattikaṃ
 71.....
-.....
+....(Abyākatamūlaṃ tīṇiyeva.)
 93-1. Kāmāvacaraduka-kusalattikaṃ
 72....
-...
+..(Abyākatamūlaṃ dve.)
 94-1. Rūpāvacaraduka-kusalattikaṃ
 73....
-...
+..(Abyākatamūlaṃ dve.)
 95-1. Arūpāvacaraduka-kusalattikaṃ
 74....
-...
+..(Abyākatamūlaṃ dve.)
 96-1. Pariyāpannaduka-kusalattikaṃ
 75....
-...
+..(Abyākatamūlaṃ dve.)
 97-1. Niyyānikaduka-kusalattikaṃ
 76....
-...
+..(Abyākatamūlaṃ dve.)
 98-1. Niyataduka-kusalattikaṃ
 77....
-....
+...(Abyākatamūle dve.)
 99-1. Sauttaraduka-kusalattikaṃ
 78....
-...
+..(Abyākatamūle dve.)
 100-1. Saraṇaduka-kusalattikaṃ
 79...
 ..
-...…pe….
-80...
+...(Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṃ.)
+80...(2)
 …pe….
 100-2. Saraṇaduka-vedanāttikaṃ
-81....
+81....(3)
+.(1)
 .
-.
-82...
+82..(Saṃkhittaṃ.)
 .
 ….
 .
@@ -352,7 +352,7 @@ Mahantaradukaṃ niṭṭhitaṃ.
 98.….
 ...
 100-18. Saraṇaduka-atītattikaṃ
-99.…..
+99.….(Anāgato atītasadiso.)
 100-19. Saraṇaduka-atītārammaṇattikaṃ
 100....
 ...
@@ -361,18 +361,18 @@ Mahantaradukaṃ niṭṭhitaṃ.
 101....
 ...
 100-22. Saraṇaduka-sanidassanattikaṃ
-102...
-...
+102..(Ekaṃ.)
+...(3)
 …pe….
 Nahetu-naārammaṇapaccayā
-103..
+103..(1)
 .
 ,…pe….
-…pe….
-104..
-.
+(Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṃ.)
+104..(1)
+.(1)
 ,…pe….
 Paccanīyuddhāro
-105.,,..,…pe….
-,.
+105.,,.(Saṃkhittaṃ.),…pe….
+(Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 Dhammānulomapaccanīye dukatikapaṭṭhānaṃ niṭṭhitaṃ.

@@ -1,7 +1,7 @@
 ﻿6. Yamakamātikā
 Mūlayamakaṃ
 Kusalapadanayacatukkaṃ
-...,.,.
+(yama. 1.mūlayamaka.1 ādayo),.,.
 ,.,.
 ,.,.
 ,.,.
@@ -58,7 +58,7 @@ Nāmapadanayacatukkaṃ
 Mūlayamakamātikā niṭṭhitā.
 Khandhayamakaṃ
 Paṇṇattivāro
-...–.
+(yama. 1.khandhayamaka.1 ādayo)–.
 Padasodhanavāro
 Anulomaṃ
 ,.
@@ -174,7 +174,7 @@ Paccanīkaṃ
 Khandhayamakamātikā niṭṭhitā.
 Āyatanayamakaṃ
 Paṇṇattivāro
-Dvādasāyatanāni...–.
+Dvādasāyatanāni(yama. 1.āyatanayamaka.1 ādayo)–.
 Padasodhanavāro
 Anulomaṃ
 ,.
@@ -215,7 +215,7 @@ Anulomaṃ
 ,…pe….
 ,.
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Paccanīkaṃ
 ,.
 ,…pe….
@@ -226,7 +226,7 @@ Paccanīkaṃ
 ,…pe….
 ,.
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Suddhāyatanavāro
 Anulomaṃ
 ,.
@@ -264,7 +264,7 @@ Anulomaṃ
 ,…pe….
 ,.
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Paccanīkaṃ
 ,…pe….
 ,.
@@ -274,11 +274,11 @@ Paccanīkaṃ
 ,…pe….
 ,.
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Āyatanayamakamātikā niṭṭhitā.
 Dhātuyamakaṃ
 Paṇṇattivāro
-Aṭṭhārasadhātuyo...–.
+Aṭṭhārasadhātuyo(yama. 1.dhāturamaka.1 ādayo)–.
 Padasodhanavāro
 Anulomaṃ
 ,.
@@ -297,13 +297,13 @@ Paccanīkaṃ
 Padasodhanamūlacakkavāro
 Anulomaṃ
 ,…pe….
-,.,.
+,.(Yathā āyatanayamake cakkaṃ bandhitaṃ, evamidha cakkaṃ bandhitabbaṃ.)
 Paccanīkaṃ
 ,.
 ,…pe….
 ,…pe….
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Suddhadhātuvāro
 Anulomaṃ
 ,…pe….
@@ -320,16 +320,16 @@ Anulomaṃ
 ,…pe….
 ,…pe….
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ.)
 Paccanīkaṃ
 ,…pe….
 ,…pe….
 ,…pe….
-,..
+,.(Cakkaṃ bandhitabbaṃ. )
 Dhātuyamakamātikā niṭṭhitā.
 Saccayamakaṃ
 Paṇṇattivāro
-Cattāri saccāni...–.
+Cattāri saccāni(yama. 1.saccayamaka.1 ādayo)–.
 Padasodhanavāro
 Anulomaṃ
 ,.
@@ -401,7 +401,7 @@ Paccanīkaṃ
 Saccayamakamātikā niṭṭhitā.
 Saṅkhārayamakaṃ
 Paṇṇattivāro
-Tayosaṅkhārā...–.,,,.
+Tayosaṅkhārā(yama. 2.saṅkhārayamaka.1 ādayo)–.,,,.
 Padasodhanavāro
 Anulomaṃ
 ,.
@@ -437,13 +437,13 @@ Paccanīkaṃ
 ,.
 Saṅkhārayamakamātikā niṭṭhitā.
 Anusayayamakaṃ
-Sattānusayā...–.
+Sattānusayā(yama. 2.anusayayamaka.1)–.
 Anusayayamakamātikā niṭṭhitā.
 Cittayamakaṃ
 Suddhacittasāmaññaṃ
 Puggalavāro
 1. Uppādanirodhakālasambhedavāro
-...,.,.
+(yama. 2.cittayamaka.1 ādayo),.,.
 ,.,.
 2. Uppāduppannavāro
 ,.,.
@@ -618,14 +618,14 @@ Suttantacittamissakaviseso
 …pe…...............
 Abhidhammacittamissakaviseso
 …pe…...
-.
+(Etena upāyena yāva saraṇaaraṇā uddharitabbā.)
 ,.,.
 Cittayamakamātikā niṭṭhitā.
 Dhammayamakaṃ
 Paṇṇattivāro
 Padasodhanavāro
 Anulomaṃ
-.....
+(yama. 3.dhammayamaka.1 ādayo)..
 ..
 ..
 Paccanīkaṃ
@@ -674,7 +674,7 @@ Paccanīkaṃ
 Dhammayamakamātikā niṭṭhitā.
 Indriyayamakaṃ
 Paṇṇattivāro
-Bāvīsatindriyāni...–.
+Bāvīsatindriyāni(yama. 3.indriyayamaka.1 ādayo)–.
 Padasodhanavāro
 Anulomaṃ
 ,.

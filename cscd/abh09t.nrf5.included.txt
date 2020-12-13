@@ -1,7 +1,7 @@
 ﻿
 
 
-ye  keci kusalā dhammā (yama 1mūlayamaka1 ādayo) sabbe te kusalamūlā ye vā pana kusalamūlā sabbe te dhammā kusalā
+ye  keci kusalā dhammā  sabbe te kusalamūlā ye vā pana kusalamūlā sabbe te dhammā kusalā
 ye keci kusalā dhammā sabbe te kusalamūlena ekamūlā ye vā pana kusalamūlena ekamūlā sabbe te dhammā kusalā
 ye keci kusalamūlena ekamūlā dhammā sabbe te kusalamūlena aññamaññamūlā ye vā pana kusalamūlena aññamaññamūlā sabbe te dhammā kusalā
 ye keci kusalā dhammā sabbe te kusalamūlamūlā ye vā pana kusalamūlamūlā sabbe te dhammā kusalā
@@ -58,7 +58,7 @@ samuṭṭhānāhārārammaṇā paccayo samudayena cāti
 
 
 
-pañcakkhandhā (yama 1khandhayamaka1 ādayo)  rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 
 
 rūpaṃ  rūpakkhandho rūpakkhandho rūpaṃ
@@ -174,7 +174,7 @@ na viññāṇaṃ na khandho na khandhā na saṅkhārā
 
 
 
- (yama 1āyatanayamaka1 ādayo)  cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
+   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
 
 
 cakkhu cakkhāyatanaṃ cakkhāyatanaṃ cakkhu
@@ -215,7 +215,7 @@ ghānaṃ  ghānāyatanaṃ āyatanā cakkhāyatanaṃ
 ghānaṃ ghānāyatanaṃ āyatanā dhammāyatanaṃ
 dhammo dhammāyatanaṃ āyatanā cakkhāyatanaṃ
 dhammo dhammāyatanaṃ āyatanā sotāyatanaṃ
-dhammo dhammāyatanaṃ āyatanā manāyatanaṃ (cakkaṃ bandhitabbaṃ)
+dhammo dhammāyatanaṃ āyatanā manāyatanaṃ 
 
 na cakkhu na cakkhāyatanaṃ nāyatanā na sotāyatanaṃ
 na cakkhu na cakkhāyatanaṃ nāyatanā na ghānāyatanaṃ
@@ -226,7 +226,7 @@ na ghānaṃ na ghānāyatanaṃ nāyatanā na cakkhāyatanaṃ
 na ghānaṃ na ghānāyatanaṃ nāyatanā na dhammāyatanaṃ
 na dhammo na dhammāyatanaṃ nāyatanā na cakkhāyatanaṃ
 na dhammo na dhammāyatanaṃ nāyatanā na sotāyatanaṃ
-na dhammo na dhammāyatanaṃ nāyatanā na manāyatanaṃ (cakkaṃ bandhitabbaṃ)
+na dhammo na dhammāyatanaṃ nāyatanā na manāyatanaṃ 
 
 
 cakkhu  āyatanaṃ āyatanā cakkhu
@@ -264,7 +264,7 @@ ghānaṃ āyatanaṃ āyatanā cakkhu
 ghānaṃ āyatanaṃ āyatanā dhammo
 dhammo āyatanaṃ āyatanā cakkhu
 dhammo āyatanaṃ āyatanā sotaṃ
-dhammo āyatanaṃ āyatanā mano (cakkaṃ bandhitabbaṃ)
+dhammo āyatanaṃ āyatanā mano 
 
 na cakkhu nāyatanaṃ nāyatanā na sotaṃ
 na cakkhu nāyatanaṃ nāyatanā na dhammo
@@ -274,11 +274,11 @@ na  ghānaṃ nāyatanaṃ nāyatanā na cakkhu
 na ghānaṃ nāyatanaṃ nāyatanā na dhammo
 na dhammo nāyatanaṃ nāyatanā na cakkhu
 na dhammo nāyatanaṃ nāyatanā na sotaṃ
-na dhammo nāyatanaṃ nāyatanā na mano (cakkaṃ bandhitabbaṃ)
+na dhammo nāyatanaṃ nāyatanā na mano 
 
 
 
- (yama 1dhāturamaka1 ādayo)  cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
+   cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
 
 
 cakkhu cakkhudhātu cakkhudhātu cakkhu
@@ -297,13 +297,13 @@ na dhammo na dhammadhātu na dhammadhātu na dhammo
 
 
 cakkhu cakkhudhātu dhātū sotadhātu
-cakkhu cakkhudhātu dhātū dhammadhātu (yathā āyatanayamake cakkaṃ bandhitaṃ evamidha cakkaṃ bandhitabbaṃ)
+cakkhu cakkhudhātu dhātū dhammadhātu 
 
 na cakkhu na cakkhudhātu na dhātū na sotadhātu
 na cakkhu na cakkhudhātu na dhātū na ghānadhātu
 na cakkhu na cakkhudhātu na dhātū na dhammadhātu
 na dhammo na dhammadhātu na dhātū na cakkhudhātu
-na dhammo na dhammadhātu na dhātū na manoviññāṇadhātu (cakkaṃ bandhitabbaṃ)
+na dhammo na dhammadhātu na dhātū na manoviññāṇadhātu 
 
 
 cakkhu  dhātu dhātū cakkhu
@@ -320,16 +320,16 @@ na dhammo na dhātu na dhātū na dhammo
 cakkhu dhātu dhātū sotaṃ
 cakkhu dhātu dhātū dhammo
 dhammo dhātu dhātū cakkhu
-dhammo dhātu dhātū manoviññāṇaṃ (cakkaṃ bandhitabbaṃ)
+dhammo dhātu dhātū manoviññāṇaṃ 
 
 na  cakkhu na dhātu na dhātū na sotaṃ
 na cakkhu na dhātu na dhātū na dhammo
 na dhammo na dhātu na dhātū na cakkhu
-na dhammo na dhātu na dhātū na manoviññāṇaṃ (cakkaṃ bandhitabbaṃ )
+na dhammo na dhātu na dhātū na manoviññāṇaṃ 
 
 
 
- (yama 1saccayamaka1 ādayo)  dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
+   dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
 
 
 dukkhaṃ  dukkhasaccaṃ dukkhasaccaṃ dukkhaṃ
@@ -401,7 +401,7 @@ na maggo na saccaṃ na saccā na nirodho
 
 
 
- (yama 2saṅkhārayamaka1 ādayo)  kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
+   kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
 
 
 kāyo kāyasaṅkhāro kāyasaṅkhāro kāyo
@@ -437,13 +437,13 @@ na kāyasaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na kāyasaṅkhāro
 na vacīsaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na vacīsaṅkhāro
 
 
- (yama 2anusayayamaka1)  kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
+   kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
 
 
 
 
 
-yassa  cittaṃ uppajjati na nirujjhati (yama 2cittayamaka1 ādayo) tassa cittaṃ nirujjhissati na uppajjissati yassa vā pana cittaṃ nirujjhissati na uppajjissati tassa cittaṃ uppajjati na nirujjhati
+yassa  cittaṃ uppajjati na nirujjhati  tassa cittaṃ nirujjhissati na uppajjissati yassa vā pana cittaṃ nirujjhissati na uppajjissati tassa cittaṃ uppajjati na nirujjhati
 yassa cittaṃ na uppajjati nirujjhati tassa cittaṃ na nirujjhissati uppajjissati yassa vā pana cittaṃ na nirujjhissati uppajjissati tassa cittaṃ na uppajjati nirujjhati
 
 yassa cittaṃ uppajjati tassa cittaṃ uppannaṃ yassa vā pana cittaṃ uppannaṃ tassa cittaṃ uppajjati
@@ -618,14 +618,14 @@ yassa yaṃ cittaṃ na uppajjamānaṃ khaṇaṃ khaṇaṃ vītikkantaṃ ati
 yassa sarāgaṃ cittaṃ uppajjati yassa vītarāgaṃ cittaṃ uppajjati yassa sadosaṃ cittaṃ uppajjati yassa vītadosaṃ cittaṃ uppajjati yassa samohaṃ cittaṃ uppajjati yassa vītamohaṃ cittaṃ uppajjati yassa saṃkhittaṃ cittaṃ uppajjati yassa vikkhittaṃ cittaṃ uppajjati yassa mahaggataṃ cittaṃ uppajjati yassa amahaggataṃ cittaṃ uppajjati yassa sauttaraṃ cittaṃ uppajjati yassa anuttaraṃ cittaṃ uppajjati yassa samāhitaṃ cittaṃ uppajjati yassa asamāhitaṃ cittaṃ uppajjati yassa vimuttaṃ cittaṃ uppajjati yassa avimuttaṃ cittaṃ uppajjati
 
 yassa  kusalaṃ cittaṃ uppajjati yassa akusalaṃ cittaṃ uppajjati yassa abyākataṃ cittaṃ uppajjati yassa sukhāya vedanāya sampayuttaṃ cittaṃ uppajjati
-(etena upāyena yāva saraṇaaraṇā uddharitabbā)
+
 yassa araṇaṃ cittaṃ uppajjati na nirujjhati tassa araṇaṃ cittaṃ nirujjhissati na uppajjissati yassa vā pana araṇaṃ cittaṃ nirujjhissati na uppajjissati tassa araṇaṃ cittaṃ uppajjati na nirujjhati
 
 
 
 
 
-kusalā kusalā dhammā (yama 3dhammayamaka1 ādayo) kusalā dhammā kusalā
+kusalā kusalā dhammā  kusalā dhammā kusalā
 akusalā akusalā dhammā akusalā dhammā akusalā
 abyākatā abyākatā dhammā abyākatā dhammā abyākatā
 
@@ -674,7 +674,7 @@ na abyākatā na dhammā na dhammā na akusalā
 
 
 
- (yama 3indriyayamaka1 ādayo)  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
+   cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
 
 
 cakkhu  cakkhundriyaṃ cakkhundriyaṃ cakkhu

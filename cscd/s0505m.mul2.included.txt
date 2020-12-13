@@ -180,7 +180,7 @@ yaññamakappayiṃsu puthū idha loke
 
  yadantagū vedagū yaññakāle yassāhutiṃ labhe tassijjheti brūmi
 
- addhā hi tassa hutamijjhe (iti brāhmaṇo)
+ addhā hi tassa hutamijjhe 
 yaṃ tādisaṃ vedagumaddasāma
 tumhādisānañhi adassanena añño jano bhuñjati pūraḷāsaṃ
 
@@ -274,16 +274,16 @@ evaṃ me sutaṃ  eka samayaṃ bhagavā rājagahe viharati gijjhakūṭe pabba
 ahañhi bho gotama dāyako dānapati vadaññū yācayogo dhammena bhoge pariyesāmi dhammena bhoge pariyesitvā dhammaladdhehi bhogehi dhammādhigatehi ekassapi dadāmi dvinnampi  tiṇṇampi catunnampi pañcannampi channampi sattannampi aṭṭhannampi navannampi dasannampi dadāmi vīsāyapi tiṃsāyapi cattālīsāyapi paññāsāyapi dadāmi satassapi dadāmi bhiyyopi dadāmi kaccāhaṃ bho gotama evaṃ dadanto evaṃ yajanto bahuṃ puññaṃ pasavāmīti 
 taggha tvaṃ māṇava evaṃ dadanto evaṃ yajanto bahuṃ puññaṃ pasavasi yo kho māṇava dāyako dānapati vadaññū yācayogo dhammena bhoge pariyesati dhammena bhoge pariyesitvā dhammaladdhehi bhogehi dhammādhigatehi ekassapi dadāti satassapi dadāti bhiyyopi dadāti bahuṃ so puññaṃ pasavatīti atha kho māgho māṇavo bhagavantaṃ gāthāya ajjhabhāsi 
 
- pucchāmahaṃ gotamaṃ vadaññuṃ (iti māgho māṇavo)
+ pucchāmahaṃ gotamaṃ vadaññuṃ 
 kāsāyavāsiṃ agahaṃ  carantaṃ
 yo yācayogo dānapati  gahaṭṭho puññatthiko  yajati puññapekkho
 dadaṃ  paresaṃ idha annapānaṃ kathaṃ hutaṃ yajamānassa sujjhe
 
- yo yācayogo dānapati gahaṭṭho (māghāti bhagavā)
+ yo yācayogo dānapati gahaṭṭho 
 puññatthiko yajati puññapekkho
 dadaṃ paresaṃ idha annapānaṃ ārādhaye dakkhiṇeyyebhi tādi
 
- yo  yācayogo dānapati gahaṭṭho (iti māgho māṇavo)
+ yo  yācayogo dānapati gahaṭṭho 
 puññatthiko yajati puññapekkho
 dadaṃ paresaṃ idha annapānaṃ akkhāhi me bhagavā dakkhiṇeyye
 
@@ -335,7 +335,7 @@ kālena tamhi habyaṃ pavecche yo brāhmaṇo puññapekkho yajetha
  addhā amoghā mama pucchanā ahu akkhāsi me bhagavā dakkhiṇeyye
 tvañhettha jānāsi yathā tathā idaṃ tathā hi te vidito esa dhammo
 
- yo yācayogo dānapati gahaṭṭho (iti māgho māṇavo)
+ yo yācayogo dānapati gahaṭṭho 
 puññatthiko yajati puññapekkho
 dadaṃ paresaṃ idha annapānaṃ
 akkhāhi me bhagavā yaññasampadaṃ
@@ -350,7 +350,7 @@ rattindivaṃ satatamappamatto sabbā disā pharati appamaññaṃ
 ajānato me muni brūhi puṭṭho bhagavā hi me sakkhi brahmajjadiṭṭho
 tuvañhi  no brahmasamosi saccaṃ kathaṃ upapajjati brahmalokaṃ jutima
 
- yo yajati tividhaṃ yaññasampadaṃ (māghāti bhagavā)
+ yo yajati tividhaṃ yaññasampadaṃ 
 ārādhaye dakkhiṇeyyebhi tādi
 evaṃ  yajitvā sammā yācayogo
 upapajjati brahmalokanti brūmīti
@@ -365,12 +365,12 @@ atha kho sabhiyassa paribbājakassa etadahosi  yepi kho te  bhonto samaṇabrāh
 atha kho sabhiyassa paribbājakassa etadahosi  samaṇo kho  daharoti na uññātabbo na paribhotabbo daharopi cesa samaṇo gotamo mahiddhiko hoti mahānubhāvo yaṃnūnāhaṃ samaṇaṃ gotamaṃ upasaṅkamitvā ime pañhe puccheyyanti
 atha  kho sabhiyo paribbājako yena rājagahaṃ tena cārikaṃ pakkāmi anupubbena cārikaṃ caramāno yena rājagahaṃ veḷuvanaṃ kalandakanivāpo yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavatā saddhiṃ  sammodi sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi ekamantaṃ nisinno kho sabhiyo paribbājako bhagavantaṃ gāthāya ajjhabhāsi 
 
- kaṅkhī vecikicchī āgamaṃ (iti sabhiyo)
+ kaṅkhī vecikicchī āgamaṃ 
 pañhe pucchituṃ abhikaṅkhamāno
 tesantakaro bhavāhi  pañhe me puṭṭho
 anupubbaṃ anudhammaṃ byākarohi me
 
- dūrato  āgatosi sabhiya (iti bhagavā)
+ dūrato  āgatosi sabhiya 
 pañhe pucchituṃ abhikaṅkhamāno
 tesantakaro bhavāmi  pañhe te puṭṭho
 anupubbaṃ anudhammaṃ byākaromi te
@@ -379,12 +379,12 @@ anupubbaṃ anudhammaṃ byākaromi te
 tassa tasseva pañhassa ahaṃ antaṃ karomi teti
 atha kho sabhiyassa paribbājakassa etadahosi  acchariyaṃ vata bho abbhutaṃ vata bho! yaṃ vatāhaṃ aññesu samaṇabrāhmaṇesu okāsakammamattampi  nālatthaṃ taṃ me idaṃ samaṇena gotamena okāsakammaṃ katanti attamano pamudito udaggo pītisomanassajāto bhagavantaṃ  pañhaṃ apucchi 
 
- kiṃ pattinamāhu bhikkhunaṃ (iti sabhiyo)
+ kiṃ pattinamāhu bhikkhunaṃ 
 sorataṃ kena kathañca dantamāhu
 buddhoti kathaṃ pavuccati
 puṭṭho me bhagavā byākarohi
 
- pajjena  katena attanā (sabhiyāti bhagavā)
+ pajjena  katena attanā 
 parinibbānagato vitiṇṇakaṅkho
 vibhavañca bhavañca vippahāya
 vusitavā khīṇapunabbhavo sa bhikkhu
@@ -399,12 +399,12 @@ nibbijjha imaṃ parañca lokaṃ kālaṃ kaṅkhati bhāvito sa danto
 vigatarajamanaṅgaṇaṃ  visuddhaṃ pattaṃ jātikhayaṃ tamāhu buddhanti
 atha kho sabhiyo paribbājako bhagavato bhāsitaṃ abhinanditvā anumoditvā attamano pamudito udaggo pītisomanassajāto bhagavantaṃ uttariṃ  pañhaṃ apucchi 
 
- kiṃ  pattinamāhu brāhmaṇaṃ (iti sabhiyo)
+ kiṃ  pattinamāhu brāhmaṇaṃ 
 samaṇaṃ kena kathañca nhātakoti
 nāgoti  kathaṃ pavuccati
 puṭṭho me bhagavā byākarohi
 
- bāhitvā sabbapāpakāni (sabhiyāti bhagavā)
+ bāhitvā sabbapāpakāni 
 vimalo sādhusamāhito ṭhitatto
 saṃsāramaticca kevalī so
 asito tādi pavuccate sa brahmā
@@ -419,12 +419,12 @@ devamanussesu  kappiyesu kappaṃ neti tamāhu nhātakoti
 sabbattha na sajjatī vimutto nāgo tādi pavuccate tathattāti
 atha kho sabhiyo paribbājako bhagavantaṃ uttariṃ pañhaṃ apucchi 
 
- kaṃ khettajinaṃ vadanti buddhā (iti sabhiyo)
+ kaṃ khettajinaṃ vadanti buddhā 
 kusalaṃ kena kathañca paṇḍitoti
 muni  nāma kathaṃ pavuccati
 puṭṭho me bhagavā byākarohi
 
- khettāni viceyya kevalāni (sabhiyāti bhagavā)
+ khettāni viceyya kevalāni 
 dibbaṃ mānusakañca brahmakhettaṃ
 sabbakhettamūlabandhanā pamutto
 khettajino tādi pavuccate tathattā
@@ -439,12 +439,12 @@ kaṇhaṃ sukkaṃ upātivatto paṇḍito tādi pavuccate tathattā
 devamanussehi pūjanīyo saṅgaṃ jālamaticca so munīti
 atha kho sabhiyo paribbājako bhagavantaṃ uttariṃ pañhaṃ apucchi 
 
- kiṃ pattinamāhu  vedaguṃ (iti sabhiyo)
+ kiṃ pattinamāhu  vedaguṃ 
 anuviditaṃ kena kathañca vīriyavāti
 ājāniyo kinti nāma hoti
 puṭṭho me bhagavā byākarohi
 
- vedāni viceyya kevalāni (sabhiyāti bhagavā)
+ vedāni viceyya kevalāni 
 samaṇānaṃ yānidhatthi  brāhmaṇānaṃ
 sabbavedanāsu vītarāgo
 sabbaṃ vedamaticca vedagū so
@@ -459,12 +459,12 @@ so vīriyavā padhānavā dhīro tādi pavuccate tathattā
 sabbasaṅgamūlabandhanā pamutto ājāniyo tādi pavuccate tathattāti
 atha  kho sabhiyo paribbājako bhagavantaṃ uttariṃ pañhaṃ apucchi 
 
- kiṃ pattinamāhu sottiyaṃ (iti sabhiyo)
+ kiṃ pattinamāhu sottiyaṃ 
 ariyaṃ  kena kathañca caraṇavāti
 paribbājako kinti nāma hoti
 puṭṭho me bhagavā byākarohi
 
- sutvā sabbadhammaṃ abhiññāya loke (sabhiyāti bhagavā)
+ sutvā sabbadhammaṃ abhiññāya loke 
 sāvajjānavajjaṃ yadatthi kiñci
 abhibhuṃ akathaṃkathiṃ vimuttaṃ
 anighaṃ  sabbadhimāhu sottiyoti
@@ -546,16 +546,16 @@ cāturanto vijitāvī jambusaṇḍassa  issaro
  khattiyā  bhogirājāno  anuyantā  bhavantu te
 rājābhirājā manujindo rajjaṃ kārehi gotama
 
- rājāhamasmi selāti (bhagavā) dhammarājā anuttaro
+ rājāhamasmi selāti  dhammarājā anuttaro
 dhammena cakkaṃ vattemi cakkaṃ appaṭivattiyaṃ
 
- sambuddho paṭijānāsi (iti selo brāhmaṇo) dhammarājā anuttaro
+ sambuddho paṭijānāsi  dhammarājā anuttaro
 dhammena cakkaṃ vattemi iti bhāsasi gotama
 
  ko nu senāpati bhoto sāvako satthuranvayo
 ko te tamanuvatteti dhammacakkaṃ pavattitaṃ
 
- mayā pavattitaṃ cakkaṃ (selāti bhagavā) dhammacakkaṃ anuttaraṃ
+ mayā pavattitaṃ cakkaṃ  dhammacakkaṃ anuttaraṃ
 sāriputto anuvatteti anujāto tathāgataṃ
 
  abhiññeyyaṃ abhiññātaṃ bhāvetabbañca bhāvitaṃ
@@ -585,7 +585,7 @@ mayampi pabbajissāma varapaññassa santike
  brāhmaṇā tisatā ime yācanti pañjalīkatā
 brahmacariyaṃ carissāma bhagavā tava santike
 
- svākkhātaṃ brahmacariyaṃ (selāti bhagavā) sandiṭṭhikamakālikaṃ
+ svākkhātaṃ brahmacariyaṃ  sandiṭṭhikamakālikaṃ
 yattha amoghā pabbajjā appamattassa sikkhatoti
 alattha kho selo brāhmaṇo sapariso bhagavato santike pabbajjaṃ alattha upasampadaṃ atha kho keṇiyo jaṭilo tassā  rattiyā accayena sake assame paṇītaṃ khādanīyaṃ bhojanīyaṃ paṭiyādāpetvā bhagavato  kālaṃ ārocāpesi  kālo bho gotama niṭṭhitaṃ bhattanti  atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami upasaṅkamitvā paññatte āsane nisīdi saddhiṃ bhikkhusaṅghena
 atha  kho keṇiyo jaṭilo buddhappamukhaṃ bhikkhusaṅghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi atha kho keṇiyo jaṭilo bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi ekamantaṃ nisinnaṃ kho keṇiyaṃ jaṭilaṃ bhagavā imāhi gāthāhi anumodi 
@@ -700,7 +700,7 @@ vandamānā namassanti evaṃ lokasmi gotamaṃ
 jātiyā brāhmaṇo hoti udāhu bhavati kammunā
 ajānataṃ no pabrūhi yathā jānesu brāhmaṇaṃ
 
- tesaṃ  vo ahaṃ byakkhissaṃ (vāseṭṭhāti bhagavā) anupubbaṃ yathātathaṃ
+ tesaṃ  vo ahaṃ byakkhissaṃ  anupubbaṃ yathātathaṃ
 jātivibhaṅgaṃ pāṇānaṃ aññamaññā hi jātiyo
 
  tiṇarukkhepi jānātha na cāpi paṭijānare
@@ -1022,7 +1022,7 @@ taṃ taṃ gotama pucchāmi sabbadhammāna pāraguṃ
  anagāriyupetassa bhikkhācariyaṃ jigīsato
 muni pabrūhi me puṭṭho moneyyaṃ uttamaṃ padaṃ
 
- moneyyaṃ te upaññissaṃ (iti bhagavā) dukkaraṃ durabhisambhavaṃ
+ moneyyaṃ te upaññissaṃ  dukkaraṃ durabhisambhavaṃ
 handa te naṃ pavakkhāmi santhambhassu daḷho bhava
 
  samānabhāgaṃ  kubbetha gāme akkuṭṭhavanditaṃ
@@ -1095,7 +1095,7 @@ sa  munī monamarahati sa munī monamajjhagāti
 
 evaṃ me sutaṃ  ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati pubbārāme migāramātupāsāde tena kho pana samayena bhagavā tadahuposathe pannarase  puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti  atha kho bhagavā tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ anuviloketvā bhikkhū āmantesi 
 ye te bhikkhave kusalā dhammā ariyā niyyānikā sambodhagāmino tesaṃ vo bhikkhave kusalānaṃ dhammānaṃ ariyānaṃ niyyānikānaṃ sambodhagāmīnaṃ kā upanisā savanāyāti iti ce bhikkhave pucchitāro assu te evamassu vacanīyā  yāvadeva dvayatānaṃ dhammānaṃ yathābhūtaṃ ñāṇāyāti kiñca dvayataṃ vadetha
-(1) idaṃ dukkhaṃ ayaṃ dukkhasamudayoti ayamekānupassanā ayaṃ dukkhanirodho ayaṃ dukkhanirodhagāminī paṭipadāti ayaṃ dutiyānupassanā evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ  diṭṭheva dhamme aññā sati vā  upādisese anāgāmitāti
+ idaṃ dukkhaṃ ayaṃ dukkhasamudayoti ayamekānupassanā ayaṃ dukkhanirodho ayaṃ dukkhanirodhagāminī paṭipadāti ayaṃ dutiyānupassanā evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ  diṭṭheva dhamme aññā sati vā  upādisese anāgāmitāti
 idamavoca bhagavā idaṃ vatvāna sugato athāparaṃ etadavoca satthā 
 
  ye dukkhaṃ nappajānanti atho dukkhassa sambhavaṃ
@@ -1111,19 +1111,19 @@ tañca  maggaṃ pajānanti dukkhūpasamagāminaṃ
 
  cetovimuttisampannā atho paññāvimuttiyā
 bhabbā te antakiriyāya na te jātijarūpagāti
-(2) siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ upadhipaccayāti ayamekānupassanā upadhīnaṃ  tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ upadhipaccayāti ayamekānupassanā upadhīnaṃ  tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  upadhinidānā pabhavanti dukkhā ye  keci lokasmimanekarūpā
 yo ve avidvā upadhiṃ karoti punappunaṃ dukkhamupeti mando
 tasmā pajānaṃ upadhiṃ na kayirā dukkhassa jātippabhavānupassīti
-(3) siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ avijjāpaccayāti ayamekānupassanā avijjāya tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ avijjāpaccayāti ayamekānupassanā avijjāya tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  jātimaraṇasaṃsāraṃ  ye vajanti punappunaṃ
 itthabhāvaññathābhāvaṃ avijjāyeva sā gati
 
  avijjā hāyaṃ mahāmoho yenidaṃ saṃsitaṃ ciraṃ
 vijjāgatā ca ye sattā na te gacchanti  punabbhavanti
-(4) siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ saṅkhārapaccayāti ayamekānupassanā saṅkhārānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ saṅkhārapaccayāti ayamekānupassanā saṅkhārānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  yaṃ  kiñci dukkhaṃ sambhoti sabbaṃ saṅkhārapaccayā
 saṅkhārānaṃ nirodhena natthi dukkhassa sambhavo
@@ -1134,21 +1134,21 @@ evaṃ dukkhakkhayo hoti etaṃ ñatvā yathātathaṃ
 
  sammaddasā vedaguno sammadaññāya paṇḍitā
 abhibhuyya mārasaṃyogaṃ na gacchanti  punabbhavanti
-(5) siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ viññāṇapaccayāti ayamekānupassanā viññāṇassa tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ viññāṇapaccayāti ayamekānupassanā viññāṇassa tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  yaṃ kiñci dukkhaṃ sambhoti sabbaṃ viññāṇapaccayā
 viññāṇassa nirodhena natthi dukkhassa sambhavo
 
  etamādīnavaṃ ñatvā dukkhaṃ viññāṇapaccayā
 viññāṇūpasamā bhikkhu nicchāto parinibbutoti
-(6) siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ phassapaccayāti ayamekānupassanā phassassa tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca  satthā 
+ siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ phassapaccayāti ayamekānupassanā phassassa tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca  satthā 
 
  tesaṃ phassaparetānaṃ bhavasotānusārinaṃ
 kummaggapaṭipannānaṃ ārā saṃyojanakkhayo
 
  ye ca phassaṃ pariññāya aññāyupasame  ratā
 te ve phassābhisamayā nicchātā parinibbutāti
-(7) siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ vedanāpaccayāti ayamekānupassanā vedanānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ vedanāpaccayāti ayamekānupassanā vedanānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  sukhaṃ  vā yadi vā dukkhaṃ adukkhamasukhaṃ saha
 ajjhattañca bahiddhā ca yaṃ kiñci atthi veditaṃ
@@ -1156,21 +1156,21 @@ ajjhattañca bahiddhā ca yaṃ kiñci atthi veditaṃ
  etaṃ dukkhanti ñatvāna mosadhammaṃ palokinaṃ 
 phussa phussa vayaṃ passaṃ evaṃ tattha vijānati 
 vedanānaṃ khayā bhikkhu nicchāto parinibbutoti
-(8) siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ taṇhāpaccayāti ayamekānupassanā taṇhāya tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ taṇhāpaccayāti ayamekānupassanā taṇhāya tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  taṇhādutiyo  puriso dīghamaddhāna saṃsaraṃ
 itthabhāvaññathābhāvaṃ saṃsāraṃ nātivattati
 
  etamādīnavaṃ ñatvā taṇhaṃ  dukkhassa sambhavaṃ
 vītataṇho anādāno sato bhikkhu paribbajeti
-(9) siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ upādānapaccayāti ayamekānupassanā upādānānaṃ  tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ upādānapaccayāti ayamekānupassanā upādānānaṃ  tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  upādānapaccayā bhavo bhūto dukkhaṃ nigacchati
 jātassa maraṇaṃ hoti eso dukkhassa sambhavo
 
  tasmā upādānakkhayā sammadaññāya paṇḍitā
 jātikkhayaṃ abhiññāya na gacchanti punabbhavanti
-(10) siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ ārambhapaccayāti ayamekānupassanā ārambhānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ ārambhapaccayāti ayamekānupassanā ārambhānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  yaṃ kiñci dukkhaṃ sambhoti sabbaṃ ārambhapaccayā
 ārambhānaṃ nirodhena natthi dukkhassa sambhavo
@@ -1180,7 +1180,7 @@ sabbārambhaṃ paṭinissajja anārambhe vimuttino
 
  ucchinnabhavataṇhassa santacittassa bhikkhuno
 vikkhīṇo  jātisaṃsāro natthi tassa punabbhavoti
-(11) siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ āhārapaccayāti ayamekānupassanā āhārānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ āhārapaccayāti ayamekānupassanā āhārānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  yaṃ kiñci dukkhaṃ sambhoti sabbaṃ āhārapaccayā
 āhārānaṃ nirodhena natthi dukkhassa sambhavo
@@ -1190,7 +1190,7 @@ sabbāhāraṃ pariññāya sabbāhāramanissito
 
  ārogyaṃ  sammadaññāya āsavānaṃ parikkhayā
 saṅkhāya sevī dhammaṭṭho saṅkhyaṃ  nopeti vedagūti
-(12) siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ iñjitapaccayāti ayamekānupassanā iñjitānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi kathañca siyā yaṃ kiñci dukkhaṃ sambhoti sabbaṃ iñjitapaccayāti ayamekānupassanā iñjitānaṃ tveva asesavirāganirodhā natthi dukkhassa sambhavoti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  yaṃ  kiñci dukkhaṃ sambhoti sabbaṃ iñjitapaccayā
 iñjitānaṃ nirodhena natthi dukkhassa sambhavo
@@ -1198,21 +1198,21 @@ iñjitānaṃ nirodhena natthi dukkhassa sambhavo
  etamādīnavaṃ ñatvā dukkhaṃ iñjitapaccayā
 tasmā hi ejaṃ vossajja saṅkhāre uparundhiya
 anejo anupādāno sato bhikkhu paribbajeti
-(13) siyā aññenapi kathañca siyā nissitassa calitaṃ hotīti ayamekānupassanā anissito na calatīti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi kathañca siyā nissitassa calitaṃ hotīti ayamekānupassanā anissito na calatīti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  anissito na calati nissito ca upādiyaṃ
 itthabhāvaññathābhāvaṃ saṃsāraṃ nātivattati
 
  etamādīnavaṃ ñatvā nissayesu mahabbhayaṃ
 anissito anupādāno sato bhikkhu paribbajeti
-(14) siyā  aññenapi kathañca siyā rūpehi bhikkhave arūpā  santatarāti ayamekānupassanā arūpehi  nirodho santataroti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā  aññenapi kathañca siyā rūpehi bhikkhave arūpā  santatarāti ayamekānupassanā arūpehi  nirodho santataroti ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  ye ca rūpūpagā sattā ye ca arūpaṭṭhāyino 
 nirodhaṃ appajānantā āgantāro punabbhavaṃ
 
  ye ca rūpe pariññāya arūpesu asaṇṭhitā 
 nirodhe  ye vimuccanti te janā maccuhāyinoti
-(15) siyā aññenapi kathañca siyā yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya idaṃ saccanti upanijjhāyitaṃ tadamariyānaṃ etaṃ musāti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayamekānupassanā yaṃ  bhikkhave sadevakassa sadevamanussāya idaṃ musāti upanijjhāyitaṃ tadamariyānaṃ etaṃ saccanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
+ siyā aññenapi kathañca siyā yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya idaṃ saccanti upanijjhāyitaṃ tadamariyānaṃ etaṃ musāti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayamekānupassanā yaṃ  bhikkhave sadevakassa sadevamanussāya idaṃ musāti upanijjhāyitaṃ tadamariyānaṃ etaṃ saccanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayaṃ dutiyānupassanā evaṃ sammā athāparaṃ etadavoca satthā 
 
  anattani attamāniṃ  passa lokaṃ sadevakaṃ
 niviṭṭhaṃ nāmarūpasmiṃ idaṃ saccanti maññati
@@ -1222,7 +1222,7 @@ tañhi tassa musā hoti mosadhammañhi ittaraṃ
 
  amosadhammaṃ  nibbānaṃ tadariyā saccato vidū
 te ve saccābhisamayā nicchātā parinibbutāti
-(16) siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya idaṃ sukhanti upanijjhāyitaṃ tadamariyānaṃ etaṃ dukkhanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayamekānupassanā  yaṃ bhikkhave sadevakassa sadevamanussāya idaṃ dukkhanti upanijjhāyitaṃ tadamariyānaṃ etaṃ sukhanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayaṃ  dutiyānupassanā evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ  diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti idamavoca bhagavā idaṃ vatvāna sugato athāparaṃ etadavoca satthā 
+ siyā aññenapi pariyāyena sammā dvayatānupassanāti iti ce bhikkhave pucchitāro assu siyātissu vacanīyā kathañca siyā yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa sassamaṇabrāhmaṇiyā pajāya sadevamanussāya idaṃ sukhanti upanijjhāyitaṃ tadamariyānaṃ etaṃ dukkhanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayamekānupassanā  yaṃ bhikkhave sadevakassa sadevamanussāya idaṃ dukkhanti upanijjhāyitaṃ tadamariyānaṃ etaṃ sukhanti yathābhūtaṃ sammappaññāya sudiṭṭhaṃ ayaṃ  dutiyānupassanā evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ  diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti idamavoca bhagavā idaṃ vatvāna sugato athāparaṃ etadavoca satthā 
 
  rūpā saddā rasā gandhā phassā dhammā ca kevalā
 iṭṭhā kantā manāpā ca yāvatatthīti vuccati

@@ -4,19 +4,19 @@
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-1.–…pe……pe……pe….
-–;…pe….
-–…pe……pe……pe….
-2.–…pe….
-–.
-–,.
-3.–…pe……pe….
-–;…pe….
-–…pe……pe….
+1.–…pe……pe……pe….(1)
+–;…pe….(2)
+–…pe……pe……pe….(3)
+2.–…pe….(1)
+–.(2)
+–,.(3)
+3.–…pe……pe….(1)
+–;…pe….(2)
+–…pe……pe….(3)
 Ārammaṇapaccayo
 4.–…pe……pe……pe….
 –.
-–…pe……pe….
+–…pe……pe…(saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -24,25 +24,25 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-6.–…pe……pe……pe….
-–;…pe….
-–…pe……pe……pe….
-7.–…pe……pe….
-–.
-–,.
-8.–…pe……pe….
-–;…pe….
-–…pe……pe….
+6.–…pe……pe……pe….(1)
+–;…pe….(2)
+–…pe……pe……pe….(3)
+7.–…pe……pe….(1)
+–.(2)
+–,.(3)
+8.–…pe……pe….(1)
+–;…pe….(2)
+–…pe……pe….(3)
 Naārammaṇapaccayo
-9.–;…pe….
-.
-–;…pe….
+9.–;…pe….(1)
+(yāva asaññasattā).(1)
+–;…pe…(saṃkhittaṃ).(1)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 10.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-11.,…pe……pe….
+11.,…pe……pe…(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
 12.…pe……pe……pe….
 2. Sahajātavāro
@@ -51,17 +51,17 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-13.….
-14.–…pe….
-–;.
-–,;…pe….
-15.–…pe……pe……pe….
-–;…pe….
-–…pe……pe…;…pe….
+13.…(paṭiccasadisā).
+14.–…pe….(1)
+–;.(2)
+–,;…pe….(3)
+15.–…pe……pe……pe….(1)
+–;…pe….(2)
+–…pe……pe…;…pe….(3)
 Ārammaṇapaccayo
-16.–…pe……pe……pe….
-–…pe…,;…pe….
-–…pe……pe……pe……pe……pe……pe….
+16.–…pe……pe……pe….(1)
+–…pe…,;…pe….(1)
+–…pe……pe……pe……pe……pe……pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -69,19 +69,19 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-18.….
-–…pe……pe….
-–…pe…,;…pe….
-–,;…pe….
-19.–…pe……pe……pe……pe……pe……pe….
-–;…pe….
-–…pe……pe…;…pe……pe……pe….
+18.…(paṭiccavārasadisaṃ).
+–…pe……pe….(1)
+–…pe…,;…pe….(2)
+–,;…pe….(3)
+19.–…pe……pe……pe……pe……pe……pe….(1)
+–;…pe….(2)
+–…pe……pe…;…pe……pe……pe…(saṃkhittaṃ).(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 20.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-21.,…pe……pe….
+21.,…pe……pe…(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
 22.,,,…pe……pe….
 4. Nissayavāro
@@ -89,9 +89,9 @@ Suddhaṃ
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
 23.–…pe…;…pe….
-24.,,,.
+24.,,(sabbattha ekaṃ),.
 Anulomaṃ.
-25.–…pe……pe….
+25.–…pe……pe…(saṃkhittaṃ).
 26.,,,,,,,,,.
 Paccanīyaṃ.
 6. Sampayuttavāro
@@ -100,65 +100,65 @@ Paccanīyaṃ.
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-27.–;…pe….
-–;…pe….
-–;…pe….
+27.–;…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-28.–…pe……pe…,…pe…;…pe……pe…,,…pe……pe…,…pe…;,…pe……pe…,,,,,.
-29.–,,,,,;…pe……pe…;,.…pe……pe…,,,.
+28.–…pe……pe…,…pe…;…pe……pe…,,…pe……pe…,…pe…;,…pe……pe…,,,,,.(1)
+29.–,,,,,;…pe……pe…;,.…pe……pe…,,,.(1)
 Adhipatipaccayo
-30.–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe……pe……pe…,,.Sahajātādhipati–.
-.Sahajātādhipati–.
-.Sahajātādhipati–.
-31..Ārammaṇādhipati–;,,,,;…pe…,,.
+30.–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe……pe……pe…,,.Sahajātādhipati–.(1)
+.Sahajātādhipati–.(2)
+.Sahajātādhipati–.(3)
+31..Ārammaṇādhipati–;,,,,;…pe…,,.(1)
 Anantarapaccayādi
-32.–…pe……………………….
+32.–…pe……………(paṭiccavāre sahajātasadisā)……(paṭiccavāre aññamaññasadisaṃ)……(paccayavāre nissayasadiso).
 Upanissayapaccayo
-33.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…,.…pe…,…pe…,……pe…,…pe….…pe…,…pe…,……pe…,…pe…,,,,.
-–ārammaṇūpanissayo, pakatūpanissayo…pe….–,,…pe…,…pe….………pe…,,,,.
+33.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…,.…pe…,…pe…,……pe…,…pe….…pe…,…pe…,……pe…,…pe…,,,,.(1)
+–ārammaṇūpanissayo, pakatūpanissayo…pe….–,,…pe…,…pe….………pe…,,,,.(1)
 Purejātapaccayo
-34.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
+34.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
 Pacchājātāsevanapaccayā
 35.….
 ….
 Kammapaccayo
-36.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+36.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipāka-āhārapaccayā
 37.….
 ….
-–.
+–.(1)
 Indriyapaccayo
 38.….
-–.
-–…pe….
-–…pe….
+–.(1)
+–…pe….(1)
+–…pe….(1)
 Jhānapaccayādi
 39.…,…,….
 Vippayuttapaccayo
-40.–,.
-–,.Sahajātaṃ–.…pe…;.
+40.–,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–.…pe…;.(1)
 Atthipaccayo
-41.–…pe……pe……pe….
-–,.
-.
-42.–,,.Sahajātaṃ–…pe….
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe…;,.…pe……pe……pe……pe….
-43.–sahajātaṃ, purejātaṃ. Sahajāto–…pe……pe……pe……pe……pe……pe……pe….
-–,,,.Sahajātā–;…pe….Pacchājātā–.Pacchājātā–.
+41.–…pe……pe……pe….(1)
+–,(saṃkhittaṃ).(2)
+(paṭiccasadisaṃ).(3)
+42.–,,.Sahajātaṃ–…pe….(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe…;,.…pe……pe……pe……pe….(2)
+43.–sahajātaṃ, purejātaṃ. Sahajāto–…pe……pe……pe……pe……pe……pe……pe….(1)
+–,,,.Sahajātā–;…pe….Pacchājātā–.Pacchājātā–.(2)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 44.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-45.……….
-…….
-….
-46.…….
-……….
-,.
-,,,.
+45.……….(1)
+…….(2)
+….(3)
+46.…….(1)
+……….(2)
+,.(1)
+,,,.(2)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -166,24 +166,24 @@ Suddhaṃ
 3. Paccayānulomapaccanīyaṃ
 48.,…pe…,,…pe…,,,,.
 4. Paccayapaccanīyānulomaṃ
-49.,,…pe….
+49.,,(anulomamātikā kātabbā)…pe….
 Sārammaṇadukaṃ niṭṭhitaṃ.
 56. Cittadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-50.–;.
-–,;…pe…,,…pe….
-–;;.
-–,…pe…,;.
-–,…pe…;,…pe…;.
+50.–;.(1)
+–,;…pe…,,…pe….(1)
+–;;.(2)
+–,…pe…,;.(3)
+–,…pe…;,…pe…;.(1)
 Ārammaṇapaccayo
-51.–;…pe….
-–,…pe……pe….
-–;;.
-–,…pe…,…pe….
-–,…pe……pe…..
+51.–;…pe….(1)
+–,…pe……pe….(1)
+–;;.(2)
+–,…pe…,…pe….(3)
+–,…pe……pe….(1)(Saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -191,83 +191,83 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-53.–;…pe….
-–,…pe……pe….
-–;;.
-–,…pe……pe….
-–,…pe…,…pe…,.
+53.–;…pe….(1)
+–,…pe……pe…(yāva asaññasattā).(1)
+–;;.(2)
+–,…pe……pe….(3)
+–,…pe…,…pe…,.(1)
 Naārammaṇapaccayo
-54.–;…pe….
-–;…pe….
-–,;,.
+54.–;…pe….(1)
+–;…pe…(yāva asaññasattā).(2)
+–,;,.(1)
 Naadhipatipaccayādi
 55.………pe…….
 Napurejātapaccayādi
-56.–,;.
-–,…pe…;…pe….
-–;….
-–,…pe….
-–,…pe…,;;,.
+56.–,;.(1)
+–,…pe…;…pe…(yāva asaññasattā).(1)
+–;….(2)
+–,…pe….(3)
+–,…pe…,;;,.(1)
 Napacchājātapaccayā… naāsevanapaccayā….
 Nakammapaccayo
-57.–.
-–;………pe….
-–.
+57.–.(1)
+–;………pe….(1)
+–(saṃkhittaṃ).(1)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 58.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-59.,.
+59.,(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-60.,,…pe….
+60.,(sabbattha pañca),…pe….
 2. Sahajātavāro
 (Sahajātavāro paṭiccavārasadiso.)
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-61.–;…pe….
-–,…pe……pe…,.
-–,;,.
-–,…pe…;,…pe….
-–,…pe…,,,…pe…;.
+61.–;…pe….(1)
+–,…pe……pe…(yāva mahābhūtā),.(1)
+–,;,.(2)
+–,…pe…;,…pe….(3)
+–,…pe…,,,…pe…;.(1)
 Ārammaṇapaccayo
-62.….
-–,…pe……pe…,…pe…,.
-–,;,,…pe….
-–,…pe…;…pe…,…pe….
-–,…pe…,…pe…,…pe……pe….
+62.…(paṭiccavārasadisaṃ).
+–,…pe……pe…,…pe…,.(1)
+–,;,,…pe….(2)
+–,…pe…;…pe…,…pe….(3)
+–,…pe…,…pe…,…pe……pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-63.,,,.
+63.,,(sabbattha pañca),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-64.–;…pe….
-65.–,…pe……pe…,…pe…,.
-–,;…pe…,…pe….
-–,…pe…;…pe…,…pe….
-–,…pe…;…pe…,…pe……pe…..
+64.–;…pe….(1)
+65.–,…pe……pe…(yāva asaññasattā),…pe…,.(1)
+–,;…pe…,…pe….(2)
+–,…pe…;…pe…,…pe….(3)
+–,…pe…;…pe…,…pe……pe….(1)(Saṃkhittaṃ.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 66.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-67.,.
+67.,(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-68.,,…pe….
+68.,(sabbattha pañca),…pe….
 4. Nissayavāro
 (Nissayavāro paccayavārasadiso.)
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
 Hetupaccayo
-69.–;…pe….
-–,;…pe….
-–;…pe….
-–,…pe……pe….
-–,…pe……pe….
-,,,.
+69.–;…pe….(1)
+–,;…pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+–,…pe……pe…(saṃkhittaṃ).
+,,,(saṃkhittaṃ).
 ,,,,,,,,,.
 6. Sampayuttavāro
 (Evaṃ itare dve gaṇanāpi sampayuttavāropi sabbe kātabbā.)
@@ -275,191 +275,191 @@ Hetupaccayo
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-70.–;…pe….
-–;…pe….
-–;…pe….
+70.–;…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-71.–...
-72.–…pe…,…pe…,…pe……pe…,,.,,,,;,,,…pe……pe…;,.,…pe……pe……pe……pe…,,,,,.
-–…pe…,…pe……pe……pe….
-–…pe…,,…pe……pe……pe….
+71.–.(Mūlaṃ kātabbaṃ).(Mūlaṃ kātabbaṃ).(3)
+72.–…pe…,…pe…,…pe……pe…,,.,,,,;,,,…pe……pe…;,.,…pe……pe……pe……pe…,,,,,.(1)
+–…pe…(paṭhamagamanasadisaṃ ninnānākaraṇaṃ, imaṃ nānaṃ)…pe……pe……pe….(2)
+–…pe…,,…pe……pe……pe….(3)
 –….
 Adhipatipaccayo
-73..Ārammaṇādhipati–.
-–,.Ārammaṇādhipati–.Sahajātādhipati–.
-.Ārammaṇādhipati–.
-74.–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe….,,,,,,;…pe…,,.Sahajātādhipati–.
-..
-…,.
+73..Ārammaṇādhipati–.(1)
+–,.Ārammaṇādhipati–.Sahajātādhipati–.(2)
+.Ārammaṇādhipati–.(3)
+74.–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe….,,,,,,;…pe…,,.Sahajātādhipati–.(1)
+(dvepi gamanā paṭhamagamanasadisaṃ ninnānākaraṇaṃ. Ārammaṇādhipati sahajātādhipati kātabbā).(2)
+…(tīṇipi garukārammaṇā kātabbā, ārammaṇādhipatiyeva).
 Anantarapaccayādi
-75.–.
-–;.
-–.
+75.–.(1)
+–;.(2)
+–.(3)
 76.–…pe…,.
-–.–..
-………….
+–.(Mūlaṃ pucchitabbaṃ)–.(Mūlaṃ pucchitabbaṃ).(3)
+……(paṭiccavārasadisā)……(paccayavārasadisā).
 Upanissayapaccayo
 77.–,,…pe….–….
-–,,…pe….–…pe…,;…pe……pe…;…pe……pe…,.
-,.
+–,,…pe….–…pe…,;…pe……pe…;…pe……pe…,.(1)
+(ime dvepi pūretukāmena sabbattha kātabbā, paṭhamagamanasadisaṃ ninnānākaraṇaṃ).
 –,,…pe….–….
 Purejātapaccayo
-78.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
+78.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe….Vatthupurejātaṃ–…pe……pe….(1)
+–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(2)
+–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(3)
 Pacchājātāsevanapaccayā
-79..
-.
-.
+79.(saṃkhittaṃ).(1)
+(saṃkhittaṃ).(1)
+(saṃkhittaṃ).(1)
 ….
 Kammapaccayo
-80.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+80.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipākapaccayādi
 81.…………….…………….
 Vippayuttapaccayo
-82.–,.
-–,,.Sahajātā–;…pe…;.Purejātaṃ–…pe……pe….Pacchājātā–.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.
+82.–,(saṃkhittaṃ).(1)
+–,,.Sahajātā–;…pe…;.Purejātaṃ–…pe……pe….Pacchājātā–.(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(2)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(3)
+–,(saṃkhittaṃ).(1)
 Atthipaccayo
-83.–,.
-–,,,,.
-–,.Sahajātā–;…pe….Purejātaṃ–…pe……pe…,.
-–,.Sahajāto–;…pe….Purejātaṃ–…pe……pe…,.
-84.–,,,,.Sahajāto–;…pe….Sahajātaṃ–.Sahajātaṃ–.Sahajātaṃ–.Pacchājātaṃ–.Pacchājātaṃ–.Pacchājātaṃ–.
+83.–,(saṃkhittaṃ).(1)
+–,,,,(saṃkhittaṃ).(1)
+–,.Sahajātā–;…pe….Purejātaṃ–…pe……pe…(purejātasadisaṃ, saṃkhittaṃ).(2)
+–,.Sahajāto–;…pe….Purejātaṃ–…pe……pe…(purejātasadisaṃ, saṃkhittaṃ).(3)
+84.–,,,,.Sahajāto–;…pe….Sahajātaṃ–(paṭisandhikkhaṇepi dve).Sahajātaṃ–.Sahajātaṃ–(paṭisandhikkhaṇepi dve).Pacchājātaṃ–.Pacchājātaṃ–.Pacchājātaṃ–.(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 85.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-86.….
-……….
-….
-87.………………….
-………….
-………….
-88.….
-……….
-….
+86.….(1)
+……….(2)
+….(3)
+87.………………….(1)
+………….(2)
+………….(3)
+88.….(1)
+……….(2)
+….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-89.,,.
+89.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
-90.…pe…,,,,,,,.
+90.…pe…,,(sabbattha tīṇi),,,,,.
 4. Paccayapaccanīyānulomaṃ
-91.,.
+91.,(anulomamātikā kātabbā).
 Cittadukaṃ niṭṭhitaṃ.
 57. Cetasikadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-92.–,;…pe….
-–;.
-–,…pe……pe….
-93.–;,,,…pe….
-–;…pe….
-–;…pe….
-94.–,…pe…,…pe…,…pe….
-–,;,,.
-–,…pe…,…pe…,.
+92.–,;…pe….(1)
+–;.(2)
+–,…pe……pe….(3)
+93.–;,,,…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
+94.–,…pe…,…pe…,…pe….(1)
+–,;,,.(2)
+–,…pe…,…pe…,.(3)
 Ārammaṇapaccayo
-95.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-96.–.
-–;,.
-–.
-–,…pe…,…pe…,…pe….
-–.
-–,…pe….
+95.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+96.–.(1)
+–;,.(2)
+–.(3)
+–,…pe…,…pe…,…pe….(1)
+–.(2)
+–,…pe….(3)
 Adhipatipaccayo
-97..
+97.(saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-98.,,,,,,,,,,,,.
+98.,,,,,,,,,,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-99.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-100.–;,,,…pe……pe….
-–;,,.
-–;,.
-101.–,…pe…,…pe…,…pe….
-–,;,,.
-–;,,…pe….
+99.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+100.–;,,,…pe……pe….(1)
+–;,,.(2)
+–;,.(3)
+101.–,…pe…,…pe…,…pe….(1)
+–,;,,.(2)
+–;,,…pe….(3)
 Naārammaṇapaccayo
-102.–;…pe….
-–;…pe….
-–,,.
+102.–;…pe….(1)
+–;…pe…(yāva asaññasattā).(1)
+–,(paṭisandhikkhaṇe dvepi kātabbā, saṃkhittaṃ).
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 103.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-104.,.
+104.,(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-105.,…pe…,,,…pe….
+105.,…pe…,,(sabbattha nava),…pe….
 2. Sahajātavāro
 (Sahajātavāropi paṭiccavārasadiso.)
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-106.….
-–,;,,,…pe….
-–,.
-–,.
-107.–,…pe…,…pe….
-–,,.
-–,…pe…,…pe….
+106.…(paṭiccasadisā).
+–,;,,,…pe….(1)
+–,(paṭisandhikkhaṇe dvepi kātabbā).(2)
+–,(paṭisandhikkhaṇe dvepi kātabbā).(3)
+107.–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(1)
+–,,(paṭisandhikkhaṇe tīṇipi kātabbā).(2)
+–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(3)
 Ārammaṇapaccayo
-108.….
-–…pe…,;…pe….
-–…pe……pe…,.
-–…pe……pe….
-109.–,…pe…,…pe……pe…,…pe…,…pe….
-–…pe……pe….
-–,…pe…,…pe…,.
+108.…(paṭiccasadisā).
+–…pe…,;…pe….(1)
+–…pe……pe…,(paṭisandhikkhaṇe dvepi kātabbā).(2)
+–…pe……pe…(paṭisandhikkhaṇe ekaṃ).(3)
+109.–,…pe…,…pe……pe…,…pe…,…pe…(paṭisandhikkhaṇe dve).(1)
+–…pe……pe…(paṭisandhikkhaṇe ekaṃ).(2)
+–,…pe…,…pe…(paṭisandhikkhaṇe ekaṃ, saṃkhittaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-110.,,,,…pe….
+110.,,(sabbattha nava),,…pe….
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-111.–.
-,..
+111.–(saṃkhittaṃ).
+(Nava pañhā pañcaviññāṇampi yathā ārammaṇapaccayā evaṃ kātabbaṃ, tīsuyeva moho. Sabbe pañhā pavattipaṭisandhiyā kātabbā asammohantena.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 112.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-113.,.
+113.,(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-114.,,…pe….
+114.,(sabbattha nava),…pe….
 4. Nissayavāro
 (Nissayavāro paccayavārasadiso.)
 5. Saṃsaṭṭhavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-115.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-–;…pe….
-–,…pe……pe…..
+115.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+–;…pe….(1)
+–,…pe……pe….(1)(Saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-116.,,,.
+116.,,(sabbattha pañca),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
-117.,..
+117.(evaṃ pañcapi pañhā kātabbā, tīṇiyeva moho. Saṃkhittaṃ).
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 118.,,,,,,,,,.
@@ -469,104 +469,104 @@ Hetupaccayo
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-119.–;…pe….
-–;…pe….
-–;…pe….
+119.–;…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-120.–...
-121.–…pe…,.,,,,;…pe……pe…,.,.,…pe……pe……pe……pe…,,,,.
-–…pe…;…pe……pe…;,.,…pe……pe……pe……pe…,,,,.
-–…pe…;…pe……pe…,.…pe……pe……pe…,,,,.
-122.–...
+120.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
+121.–…pe…,.,,,,;…pe……pe…,.,.,…pe……pe……pe……pe…,,,,.(1)
+–…pe…(paṭhamagamanasadisaṃ);…pe……pe…;,.,…pe……pe……pe……pe…,,,,.(2)
+–…pe…(paṭhamagamanasadisaṃ);…pe……pe…,.…pe……pe……pe…,,,,.(3)
+122.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
 Adhipatipaccayo
-123.–,.Ārammaṇādhipati–.Sahajātādhipati–.ārammaṇādhipati–.Sahajātādhipati–.ārammaṇādhipati–.Sahajātādhipati–.
-124.–,.Ārammaṇādhipati–…pe…,,.,;…pe…,.Sahajātādhipati–.
-–,.Ārammaṇādhipati–…pe……pe…;…pe…,,.Sahajātādhipati–.
-–,.Ārammaṇādhipati–…pe……pe…,.Sahajātādhipati–.
-–….
+123.–,.Ārammaṇādhipati–.Sahajātādhipati–.(Mūlaṃ pucchitabbaṃ)ārammaṇādhipati–.Sahajātādhipati–.ārammaṇādhipati–.Sahajātādhipati–.(3)
+124.–,.Ārammaṇādhipati–…pe…,,.,;…pe…,.Sahajātādhipati–.(1)
+–,.Ārammaṇādhipati–…pe……pe…(paṭhamagamanasadisaṃ);…pe…,,.Sahajātādhipati–.(2)
+–,.Ārammaṇādhipati–…pe……pe…(paṭhamagamanaṃ),.Sahajātādhipati–.(3)
+–…(ārammaṇādhipatiyeva).
 Anantarapaccayādi
-125.–...
-126.–;…pe….
-,.,.
-….
-…,…,…,….
+125.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
+126.–;…pe….(1)
+(evaṃ tīṇi kātabbāni, paṭhamagamanasadisaṃ. Pūritvā kātabbaṃ, ninnānākaraṇaṃ).
+…(āvajjanāpi vuṭṭhānampi natthi).
+…,…(paṭiccavārasadisaṃ),…(paṭiccavārasadisaṃ),…(paccayavārasadisaṃ).
 Upanissayapaccayo
-127.–,,…pe….–.,.,.
-128.–,,…pe….–………pe…;………pe………pe…,,,.
-–,…pe….–………pe…,.
+127.–,,…pe….–.(Mūlaṃ pucchitabbaṃ, tīṇi upanissayā).(Mūlaṃ pucchitabbaṃ, tīṇi upanissayā).(3)
+128.–,,…pe….–………pe…;………pe………pe…,,,.(1)
+–,…pe….–………pe…(tīṇi, paṭhamagamanasadisaṃ ninnānākaraṇaṃ).
 ….
 Purejātapaccayo
-129.–,.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
+129.–,.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
+–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(2)
+–,.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(3)
 Pacchājātāsevanapaccayā
-130..
-.
-.
-.
+130.(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
+(saṃkhittaṃ).
 Kammapaccayo
-131.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+131.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipākapaccayādi
 132.…………………………….
 Vippayuttapaccayo
-133.–,.
-–,,.Sahajātaṃ–;;;.Purejātaṃ–…pe……pe….Pacchājātaṃ–.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.
+133.–,(saṃkhittaṃ).(1)
+–,,.Sahajātaṃ–;;;.Purejātaṃ–…pe……pe….Pacchājātaṃ–.(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(2)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(3)
+–,(saṃkhittaṃ).
 Atthipaccayo
-134.….
-–,.
-….
-135.–,,,,.
-–,.Sahajātaṃ–;…pe….Purejātaṃ–…pe……pe….
-–,.Sahajātaṃ–;…pe….Purejātaṃ–…pe……pe….
-136.–,.Sahajāto–…pe……pe…;…pe….Sahajāto–;…pe….
-–,,,,.Sahajātā–…pe……pe…;.Sahajātā–.Pacchājātā–.Pacchājātā–.Pacchājātā–.
-–,.Sahajāto–…pe…;…pe….Sahajāto–;…pe….
+134.…(paṭiccavārasadisaṃ).
+–,(saṃkhittaṃ).(2)
+…(paṭiccavārasadisaṃ).(3)
+135.–,,,,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–;…pe….Purejātaṃ–…pe……pe…(purejātasadisaṃ ninnānākaraṇaṃ).(2)
+–,.Sahajātaṃ–;…pe….Purejātaṃ–…pe……pe…(purejātasadisaṃ ninnānaṃ).(3)
+136.–,.Sahajāto–…pe……pe…;…pe….Sahajāto–;…pe…(paṭisandhikkhaṇe).(1)
+–,,,,.Sahajātā–…pe……pe…;.Sahajātā–.Pacchājātā–.Pacchājātā–.Pacchājātā–.(2)
+–,.Sahajāto–…pe…;…pe….Sahajāto–;…pe…(paṭisandhiyā dve kātabbā).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 137.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-138.……….
-………….
-……….
-139.……………….
-……….
-……….
-140.…….
-……….
-…….
+138.……….(1)
+………….(2)
+……….(3)
+139.……………….(1)
+……….(2)
+……….(3)
+140.…….(1)
+……….(2)
+…….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-141.,,.
+141.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
-142.,,,,,,,,,,.
+142.,,,,,(sabbattha tīṇi),,,,,.
 4. Paccayapaccanīyānulomaṃ
-143.,…pe….
+143.,(anulomamātikā kātabbā)…pe….
 Cetasikadukaṃ niṭṭhitaṃ.
 58. Cittasampayuttadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-144.–,;…pe….
-–;…pe….
-–,…pe……pe….
-145.–…pe……pe……pe……pe….
-–.
-–,.
-146.–,…pe….
-–;.
-–,…pe….
+144.–,;…pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+145.–…pe……pe……pe……pe….(1)
+–.(2)
+–,.(3)
+146.–,…pe….(1)
+–;.(2)
+–,…pe….(3)
 Ārammaṇapaccayo
-147.–,…pe……pe….
-–.
-–,…pe….
+147.–,…pe……pe….(1)
+–.(1)
+–,…pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -574,12 +574,12 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-149.–,…pe……pe….
+149.–,…pe……pe….(1)
 .,.
 Naārammaṇapaccayo
-150.–;…pe….
-–…pe….
-–;.
+150.–;…pe….(1)
+–…pe…(yāva asaññasattā).(1)
+–;(saṃkhittaṃ).(1)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -594,17 +594,17 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-154.….
-….
-–;…pe….
-–,;…pe….
-155.–,…pe……pe….
-–;…pe….
-–,…pe…;…pe….
+154.…(paṭiccasadisā).
+…(paṭiccasadisaṃ).(1)
+–;…pe….(2)
+–,;…pe….(3)
+155.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe…;…pe….(3)
 Ārammaṇapaccayo
-156.….
-–…pe……pe…;…pe….
-–,…pe…,…pe…,…pe……pe….
+156.…(paṭiccasadisaṃ).(1)
+–…pe……pe…;…pe….(1)
+–,…pe…,…pe…,…pe……pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -612,11 +612,11 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-158.….
-–…pe….
-–…pe……pe…;…pe….
-–,;…pe….
-–,…pe…,…pe…,…pe……pe…...
+158.…(paṭiccasadisā).
+–…pe…(yāva asaññasattā).(1)
+–…pe……pe…;…pe….(2)
+–,;…pe….(3)
+–,…pe…,…pe…,…pe……pe….(Evaṃ dve pañhā pavattipaṭisandhi kātabbā. Saṃkhittaṃ.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -630,7 +630,7 @@ Suddhaṃ
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
 162.–,…pe……pe….
-,,,.
+,,(sabbattha ekaṃ),.
 ,,,,,,,,,.
 6. Sampayuttavāro
 (Evaṃ  itare dve gaṇanāpi sampayuttavāropi kātabbo.)
@@ -638,79 +638,79 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-163.–;…pe….
-–;…pe….
-–;…pe….
+163.–;…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-164.–…pe……pe…,…pe…;…pe……pe…,.…pe…..…pe…..…pe……pe…,,,,,.
-165.–.,,,,;…pe……pe…;,.…pe……pe…,,,.
+164.–…pe……pe…,…pe…;…pe……pe…,.…pe…..…pe…..…pe……pe…,,,,,.(1)
+165.–.,,,,;…pe……pe…;,.…pe……pe…,,,.(1)
 Adhipatipaccayo
-166.–,.Ārammaṇādhipati–…pe……pe…,,.…pe……pe…,,,,.Sahajātādhipati–.
-.Sahajātādhipati–.
-.Sahajātādhipati–.
-167..Ārammaṇādhipati–.,,,,;…pe…,,.
+166.–,.Ārammaṇādhipati–…pe……pe…,,.…pe……pe…,,,,.Sahajātādhipati–.(1)
+.Sahajātādhipati–.(2)
+.Sahajātādhipati–.(3)
+167..Ārammaṇādhipati–.,,,,;…pe…,,.(1)
 Anantarapaccayādi
-168.–…pe…………,…………,.
+168.–…pe…………(paṭiccasadisā, pañhāghaṭanā natthi)……(paṭiccasadisā)……(paccayavārasadisā, pañhāghaṭanā natthi).
 Upanissayapaccayo
-169.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…,;…pe………pe……pe…;…pe……pe…,.
-–ārammaṇūpanissayo, pakatūpanissayo…pe….–………pe…;………pe….
+169.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…,;…pe………pe……pe…;…pe……pe…,.(1)
+–ārammaṇūpanissayo, pakatūpanissayo…pe….–………pe…;………pe….(1)
 Purejātapaccayo
-170.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
+170.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
 Pacchājātāsevanapaccayā
-171.,….
+171.(saṃkhittaṃ),….
 Kammapaccayo
-172.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+172.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipākāhārapaccayā
 173.….
 ….
-–.
+–.(1)
 Indriyapaccayādi
 174.….
-–.
-–…pe……pe….
-–…pe……pe….
+–.(1)
+–…pe……pe….(2)
+–…pe……pe….(1)
 …………….
 Vippayuttapaccayo
-175.–,.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
+175.–,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(1)
 Atthipaccayo
-176.….
-–,.
-.
-177.–,,.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-178.–sahajātaṃ, purejātaṃ.–…pe……pe……pe……pe……pe….
-–,,,.Sahajātā–;…pe….Pacchājātā–.Pacchājātā–.
+176.…(paṭiccasadisaṃ).(1)
+–,(saṃkhittaṃ).(2)
+(paṭiccasadisaṃ).(3)
+177.–,,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe…(purejātasadisaṃ).(2)
+178.–sahajātaṃ, purejātaṃ.–…pe……pe……pe……pe……pe….(1)
+–,,,.Sahajātā–;…pe….Pacchājātā–.Pacchājātā–.(2)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 179.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-180.……….
-…….
-….
-181.…….
-……….
-,.
-,,,.
+180.……….(1)
+…….(2)
+….(3)
+181.…….(1)
+……….(2)
+,.(1)
+,,,.(2)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-182.,,,,,,,,,,,,,,,.
+182.,,,,,,,,,(sabbattha satta),,,,,,.
 3. Paccayānulomapaccanīyaṃ
-183.,,,,,,,,,.
+183.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
-184.,…pe….
+184.,(anulomamātikā kātabbā)…pe….
 Cittasampayuttadukaṃ niṭṭhitaṃ.
 59. Cittasaṃsaṭṭhadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
-185.–,…pe……pe….
-–;…pe….
+185.–,…pe……pe….(1)
+–;…pe….(2)
 ,.
 Cittasaṃsaṭṭhadukaṃ niṭṭhitaṃ.
 60. Cittasamuṭṭhānadukaṃ
@@ -718,49 +718,49 @@ Cittasaṃsaṭṭhadukaṃ niṭṭhitaṃ.
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-186.–,…pe…,…pe……pe….
-–;.
-–,…pe…,…pe….
-187.–;,,…pe….
-–;,.
-–;.
-188.–,…pe…,…pe…,…pe….
-–;,.
-–,…pe…,…pe….
+186.–,…pe…,…pe……pe….(1)
+–;.(2)
+–,…pe…,…pe….(3)
+187.–;,,…pe….(1)
+–;,.(2)
+–;.(3)
+188.–,…pe…,…pe…,…pe….(1)
+–;,.(2)
+–,…pe…,…pe….(3)
 Ārammaṇapaccayo
-189.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-190.–.
-–;;.
-–.
-191.–,…pe…,…pe…,…pe….
-–.
-–,…pe….
+189.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+190.–.(1)
+–;;.(2)
+–.(3)
+191.–,…pe…,…pe…,…pe….(1)
+–.(2)
+–,…pe….(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-192.,,,,,,,,,,,,,,,,,,.
+192.,,,,,,,,,,,,,,,,,(sabbattha nava),.
 Anulomaṃ.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-193.–,…pe…,…pe……pe…,.
-–;.
-–,…pe……pe….
-194.–,,,…pe….
-–;…pe…,.
-–;.
-195.–,…pe…,…pe…,…pe….
-–;,.
-–,…pe…,…pe….
+193.–,…pe…,…pe……pe…,.(1)
+–;.(2)
+–,…pe……pe….(3)
+194.–,,,…pe…(yāva asaññasattā kātabbā).(1)
+–;…pe…,.(2)
+–;.(3)
+195.–,…pe…,…pe…,…pe….(1)
+–;,.(2)
+–,…pe…,…pe….(3)
 Naārammaṇapaccayo
-196.–,…pe…,.
-–.
-197.–,,…pe….
-–.
-–,.
-–;.
+196.–,…pe…,.(1)
+–.(2)
+197.–,,…pe…(yāva asaññasattā).(1)
+–.(2)
+–,.(1)
+–;(saṃkhittaṃ).(2)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -775,28 +775,28 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-201.….
-–;…pe….
-–,.
-–;.
-202.–,…pe…,…pe….
-–.
-–,…pe….
+201.…(paṭiccavārasadisaṃ).
+–;…pe…(paṭiccavārasadisā).(1)
+–,(paṭisandhikkhaṇe dvepi kātabbā).(1)
+–;(paṭiccavārasadisaṃ).(3)
+202.–,…pe…,…pe…(paṭisandhikkhaṇe dvepi paṭiccavārasadisā).(1)
+–(paṭisandhikkhaṇe tīṇipi kātabbā paṭiccavārasadisā).(2)
+–,…pe…(paṭisandhikkhaṇe dvepi kātabbā paṭiccavārasadisā).(3)
 Ārammaṇapaccayo
-203.….
-–…pe……pe….
-–…pe…,,.
-–…pe……pe…;…pe….
-204.–,…pe…,…pe….
-–…pe……pe…;…pe….
-–,…pe……pe…,…pe……pe…..
+203.…(paṭiccavārasadisā).
+–…pe……pe….(1)
+–…pe…,,(paṭisandhikkhaṇe dvepi).(2)
+–…pe……pe…;…pe….(3)
+204.–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(1)
+–…pe……pe…;…pe….(2)
+–,…pe……pe…,…pe……pe….(3)(Saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-205.,,,.
+205.,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-206..,...
+206..(Sabbe navapi pañhā kātabbā, paṭiccavārasadisā. Pañcaviññāṇampi kātabbaṃ. Tīṇiyeva moho.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -805,13 +805,13 @@ Suddhaṃ
 (Evaṃ itare dve gaṇanāpi nissayavāropi kātabbo.)
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
-208.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-209.–;…pe….
-–,…pe……pe….
-,,.
-...
+208.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+209.–;…pe….(1)
+–,…pe……pe…(saṃkhittaṃ).(1)
+,(sabbattha pañca),.
+(pañca pañhā kātabbā. Tīṇi. Moho).
 ,,,,,,,,,.
 6. Sampayuttavāro
 (Evaṃ itare dve gaṇanāpi sampayuttavāropi kātabbo.)
@@ -819,124 +819,124 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-210.–;…pe….
-–;.
-–;…pe….
+210.–;…pe….(1)
+–;.(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-211.–...
-212.–,…pe….,,,,;…pe……pe…,,.,.,…pe……pe……pe……pe…,,,,.
-–…pe…;…pe……pe…;…pe……pe……pe…,,,,.
-–…pe…,…pe…,.,.…pe……pe…,,,.
-….
+211.–.(Mūlaṃ kātabbaṃ).(Mūlaṃ kātabbaṃ).(3)
+212.–,…pe….,,,,;…pe……pe…,,.,.,…pe……pe……pe……pe…,,,,.(1)
+–…pe…(paṭhamagamanasadisaṃ);…pe……pe…;…pe……pe……pe…,,,,.(2)
+–…pe…(paṭhamagamanasadisaṃ),…pe…,.,.…pe……pe…,,,.(3)
+…(ārabbha kātabbā).
 Adhipatipaccayo
-213.–,.Ārammaṇādhipati–.Sahajātādhipati–,.
-–ārammaṇādhipati–…pe……pe…,.
-–,.Ārammaṇādhipati–…pe……pe…,,.Sahajātādhipati–.
-.Ārammaṇādhipati–…pe……pe……pe….
-–….
+213.–,.Ārammaṇādhipati–.Sahajātādhipati–(tīṇipi ārammaṇādhipati, sahajātādhipatipi kātabbā).(3)
+–ārammaṇādhipati–…pe……pe…,.(1)
+–,.Ārammaṇādhipati–…pe……pe…,,.Sahajātādhipati–.(2)
+.Ārammaṇādhipati–…pe……pe……pe….(3)
+–…(ārammaṇādhipatiyeva).
 Anantara-samanantarapaccayā
-214.….
-–…pe…,.
-,….
+214.…(vuṭṭhānaṃ natthi).
+–…pe…(itare dve gaṇanā, imassa sadisāyeva kātabbā).
+(tīṇi kātabbā, vuṭṭhānaṃ natthi)….
 Sahajātapaccayādi
-215.…….
+215.(paṭiccavārasadisaṃ)…(paṭiccavārasadisaṃ)…(paccayavārasadisaṃ).
 Upanissayapaccayo
-216.–,,…pe….–.
-–,,…pe….–………pe…;…….
-–,,…pe….–………pe…;………pe….
-–,,…pe….–………pe…;…….
+216.–,,…pe….–(tīṇi pañhā kātabbā).(3)
+–,,…pe….–………pe…;…….(1)
+–,,…pe….–………pe…;………pe….(2)
+–,,…pe….–………pe…;…….(3)
 –,,…pe….….
 Purejātapaccayo
-217..Ārammaṇapurejātaṃ–…pe……pe……pe…;,.…pe….
-.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe….
-.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….
-218.–,.Ārammaṇapurejātaṃ–…pe…,…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-219.–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe……pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe……pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe……pe……pe….
+217..Ārammaṇapurejātaṃ–…pe……pe……pe…;,.…pe….(1)
+.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe….(2)
+.Ārammaṇapurejātaṃ–…pe……pe…,.,.…pe……pe….(3)
+218.–,.Ārammaṇapurejātaṃ–…pe…,…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
+–,.Ārammaṇapurejātaṃ–…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(2)
+–,.Ārammaṇapurejātaṃ–…pe……pe….,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(3)
+219.–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe……pe….(1)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe……pe….(2)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe……pe……pe….(3)
 Pacchājātāsevanapaccayā
-220.–…….
+220.–(iminākāreneva pacchājāto vitthāretabbo)…….
 Kamma-vipākapaccayā
-221.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+221.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 ….
 Āhārapaccayo
-222.–;…pe….;…pe….;…pe….
-223.–;.;…pe…..
-224.–;…pe….;..
+222.–;…pe….(Mūlaṃ kātabbaṃ);…pe….(Mūlaṃ kātabbaṃ);…pe….(3)
+223.–;.(Mūlaṃ kātabbaṃ);…pe….(Mūlaṃ kātabbaṃ).(3)
+224.–;…pe….(Mūlaṃ kātabbaṃ);.(Mūlaṃ kātabbaṃ).(3)
 Indriyapaccayādi
 225.….
-–;…pe……pe……pe….;…pe……pe……pe….;…pe……pe….
-226.–;…pe……pe……pe….;…pe……pe….;;…pe….
+–;…pe……pe……pe….(Mūlaṃ kātabbaṃ);…pe……pe……pe….(Mūlaṃ kātabbaṃ);…pe……pe….(3)
+226.–;…pe……pe……pe….(Mūlaṃ kātabbaṃ);…pe……pe….(Mūlaṃ kātabbaṃ);;…pe….(3)
 ………………pe….
 Vippayuttapaccayo
-227.–,.
-–,.Sahajātaṃ–.
-….
-228.–,,.Sahajātaṃ–,,.Purejātaṃ–…pe……pe….Pacchājātā–.
-–,,.
-–,,.
-229.–,.
-–,.
-….
+227.–,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–(saṃkhittaṃ).(2)
+…(saṃkhittaṃ).(3)
+228.–,,.Sahajātaṃ–,,.Purejātaṃ–…pe……pe….Pacchājātā–.(1)
+–,,(saṃkhittaṃ).(2)
+–,,(saṃkhittaṃ).(3)
+229.–,(saṃkhittaṃ).(1)
+–,(saṃkhittaṃ).(2)
+…(saṃkhittaṃ).(3)
 Atthipaccayādi
-230.–,,.
-–,,,.
-–,,.
-–,,,,.
-–,,.
-–,,,.
-231.–,,.Sahajāto–…pe….
-–,,,,.Sahajātā–…pe……pe….Sahajātā–…pe….Pacchājātā–.Pacchājātā–.Pacchājātā–.
-–,,.Sahajāto–…pe….
+230.–,,(saṃkhittaṃ).(1)
+–,,,(saṃkhittaṃ).(2)
+–,,(saṃkhittaṃ).(3)
+–,,,,(saṃkhittaṃ).(1)
+–,,(saṃkhittaṃ).(2)
+–,,,(saṃkhittaṃ).(3)
+231.–,,.Sahajāto–…pe…(saṃkhittaṃ).(1)
+–,,,,.Sahajātā–…pe……pe….Sahajātā–…pe…(paccayavārasadisaṃ paṭisandhipi pavattipi kātabbā sabbesampi pañhānaṃ.)Pacchājātā–.Pacchājātā–.Pacchājātā–.(2)
+–,,.Sahajāto–…pe…(saṃkhittaṃ).(3)
 …….
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-232.,,,,,,,,,,,,,,,,,,…pe….
+232.,,,,,,,,,,,,,(sabbattha nava),,,,,…pe….
 Anulomaṃ.
 Paccanīyuddhāro
-233.…………….
-……………….
-…………….
-234.……………….
-………….
-………….
-235.………….
-…………….
-………….
+233.…………….(1)
+……………….(2)
+…………….(3)
+234.……………….(1)
+………….(2)
+………….(3)
+235.………….(1)
+…………….(2)
+………….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-236.,,.
+236.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
 237.,,,,,…pe…,,,,.
 4. Paccayapaccanīyānulomaṃ
-238.,…pe….
+238.,(anulomagaṇanā kātabbā)…pe….
 Cittasamuṭṭhānadukaṃ niṭṭhitaṃ.
 61. Cittasahabhūdukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-239.–,…pe…,…pe….
-–;.
-–,…pe…,…pe….
-240.–;,,,…pe….
-–;,,.
-–;,,.
-241.–,…pe…,…pe…,…pe….
-–;,,.
-–,…pe…,…pe…,…pe….
+239.–,…pe…,…pe….(1)
+–;.(2)
+–,…pe…,…pe….(3)
+240.–;,,,…pe….(1)
+–;,,.(2)
+–;,,.(3)
+241.–,…pe…,…pe…,…pe….(1)
+–;,,.(2)
+–,…pe…,…pe…,…pe…(saṃkhittaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-242.,..,.,,,,,,,,,.
+242.,(arūpaṃ sabbaṃ uddharitabbaṃ. Cittasamuṭṭhānadukasadisaṃ.)(mahābhūtā chasupi pañhesu kātabbā, adhipatiyā tīsu natthi.),,,,,,,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-243.–,…pe……pe…..‘‘’’...
+243.–,…pe……pe….(Evaṃ navapi pañhā kātabbā. ‘‘Ahetuka’’nti niyāmetabbaṃ. Yathā anulome labbhati evaṃ kātabbaṃ. Tīṇi moho yathā cittasamuṭṭhānaduke evameva kātabbā.)
 Nakammapaccayo
 244.–.
 –………pe….
@@ -947,194 +947,194 @@ Najhānapaccayo
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-246.,,,,,,,,,,,,,,,,,,,.
+246.,,,,,,,,,,,,,,,,,,,(evaṃ itare dvepi gaṇanā kātabbā).
 2. Sahajātavāro
 (Sahajātavāropi  paṭiccavārasadiso.)
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-247.….
-–,;…pe…,.
-–,;…pe….
-–,;…pe…,.
-248.–,…pe…,…pe……pe…,.
-–,.;…pe…,.
-–,,…pe……pe…,.
+247.…(paṭiccasadisā).
+–,;…pe…(paṭiccavārasadisaṃ, sabbe mahābhūtā).(1)
+–,;…pe…(sabbe mahābhūtā paṭiccasadisaṃ).(2)
+–,;…pe…(paṭiccasadisaṃ, sabbe mahābhūtā).(3)
+248.–,…pe…,…pe……pe…(paṭiccasadisaṃ, sabbe mahābhūtā).(1)
+–,.;…pe…(paṭiccasadisaṃ, sabbe mahābhūtā).(2)
+–,,…pe……pe…(paṭiccasadisaṃ, sabbe mahābhūtā).(3)
 Ārammaṇapaccayo
-249.….
-…pe……pe……pe…....
+249.…(paṭiccasadisaṃ).
+…pe……pe……pe….(Imaṃ cittasamuṭṭhānadukaṃ paccayavāre ārammaṇasadisaṃ. Channampi imesaṃ pañcaviññāṇamūlā kātabbā. Saṃkhittaṃ.)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-250.,,,.
+250.,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-251.–…pe…......
+251.–…pe….(Saṃkhittaṃ. Sabbaṃ kātabbaṃ. Paccayavārassa pañcaviññāṇaṃ channampi mūlā kātabbā. Sabbe mahābhūte tīṇiyeva moho. Saṃkhittaṃ.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 252.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-253.,,,,,,.
+253.(sabbattha nava),,,,,,.
 4. Paccayapaccanīyānulomaṃ
-254.,,…pe….
+254.,(sabbattha nava),…pe….
 4. Nissayavāro
 (Nissayavāro paccayavārasadiso.)
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
-255.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-256.–;…pe….
-–,…pe……pe….
-,,.
+255.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+256.–;…pe….(1)
+–,…pe……pe…(saṃkhittaṃ).(2)
+,(sabbattha pañca),.
 Anulomaṃ.
-,,,,,,,,,,.
+(tīṇi, moho),,,,,,,,,.
 6. Sampayuttavāro
 (Itare dve gaṇanāpi sampayuttavāropi sabbaṃ kātabbaṃ.)
 7. Pañhāvāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-257.–;…pe….
-–;.
-;.
+257.–;…pe….(1)
+–;.(2)
+;.(3)
 Ārammaṇapaccayo
-258.…,.
+258.…(cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ).
 Adhipatipaccayo
-259.….
-…...
+259.…(ārammaṇādhipatipi sahajātādhipatipi kātabbā).
+…(ārammaṇādhipatipi sahajātādhipatipi imesampi tiṇṇaṃ kātabbā. Navapi pañhā cittasamuṭṭhānadukasadisā. Ante tīṇi ārammaṇādhipatiyeva).
 Anantarapaccayādi
-260.…,………………………….
+260.…(cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)……(paṭiccasadisā)……(paṭiccasadisā)……(paṭiccasadisā)……(paccayavārasadisā)……(cittasamuṭṭhānadukasadisā).
 Purejātapaccayo
-261.–,…,..
+261.–,…(nocittasahabhū mūlaṃyeva labbhati, cittasamuṭṭhānadukasadisā. Tīṇipi ninnānākaraṇaṃ).
 Pacchājātāsevanapaccayā
-262.–.
-…pe….
-…….
+262.–.(1)
+…pe….(1)
+(saṃkhittaṃ)…….
 Kammapaccayo
-263.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+263.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipākapaccayādi
-264.……..…,……………….
+264.(cittasamuṭṭhānadukasadisaṃ)……(cittasamuṭṭhānadukasadisā. Imampi ekaṃ kabaḷīkāraāhārasadisaṃ).…(cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)……………….
 Vippayuttapaccayo
-265..Sahajātā–.
-–,.Sahajātā–;…pe….Pacchājātā–.
-.Sahajātā–.
-266.–,,.Sahajātaṃ–;;;.Purejātaṃ–…pe……pe….Pacchājātaṃ–.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.Sahajātaṃ–;…pe….Vatthupurejātaṃ–…pe……pe….
-267..Sahajātā–.
-–,.Sahajātā–;…pe….Pacchājātā–.
-–.
+265..Sahajātā–.(1)
+–,.Sahajātā–;…pe….Pacchājātā–.(2)
+.Sahajātā–.(3)
+266.–,,.Sahajātaṃ–;;;.Purejātaṃ–…pe……pe….Pacchājātaṃ–.(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(2)
+–,.Sahajātaṃ–;…pe….Vatthupurejātaṃ–…pe……pe….(3)
+267..Sahajātā–.(1)
+–,.Sahajātā–;…pe….Pacchājātā–.(2)
+–.(3)
 Atthipaccayo
-268.–…pe….
-–,.
-–…pe….
-–,,,,.
-–,.
-–,.
-269.–sahajātaṃ, purejātaṃ.–…pe……pe…,.
-–,,,,.Sahajātā–…pe……pe….Sahajātā–.Sahajātā–.Pacchājātā–.Pacchājātā–.Pacchājātā–.
-–sahajātaṃ, purejātaṃ.–…pe….
+268.–…pe…(paṭiccasadisaṃ).(1)
+–,(saṃkhittaṃ).(2)
+–…pe…(paṭiccasadisaṃ).(3)
+–,,,,(saṃkhittaṃ).(1)
+–,.(2)
+–,(saṃkhittaṃ).(3)
+269.–sahajātaṃ, purejātaṃ.–…pe……pe…,.(1)
+–,,,,.Sahajātā–…pe……pe….Sahajātā–.Sahajātā–(paṭisandhikkhaṇe tīṇipi kātabbā).Pacchājātā–.Pacchājātā–.Pacchājātā–.(2)
+–sahajātaṃ, purejātaṃ.–…pe…(paccayavārasadisaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 270.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-271.……….
-………….
-……….
-272.……………….
-……….
-……….
-273.…….
-……….
-…….
+271.……….(1)
+………….(2)
+……….(3)
+272.……………….(1)
+……….(2)
+……….(3)
+273.…….(1)
+……….(2)
+…….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-274.,,.
+274.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
-275.,,,,,,,,,.
+275.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
-276.,.
+276.,(anulomamātikā kātabbā).
 Cittasahabhūdukaṃ niṭṭhitaṃ.
 62. Cittānuparivattidukaṃ
 1. Paṭiccavāro
-277.–,…pe……pe…,.
+277.–,…pe……pe…(yathā cittasahabhūdukaṃ evaṃ imaṃ dukaṃ kātabbaṃ, ninnānākaraṇaṃ).
 Cittānuparivattidukaṃ niṭṭhitaṃ.
 63. Cittasaṃsaṭṭhasamuṭṭhānadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-278.–,;…pe….
-–;.
-–,…pe……pe….
-279.–;,,,…pe….
-–;,.
-–;,.
-280.–,…pe…,…pe…,…pe….
-–,;,,.
-–,…pe…,…pe…,…pe….
+278.–,;…pe….(1)
+–;.(2)
+–,…pe……pe….(3)
+279.–;,,,…pe….(1)
+–;,.(2)
+–;,.(3)
+280.–,…pe…,…pe…,…pe….(1)
+–,;,,.(2)
+–,…pe…,…pe…,…pe…(saṃkhittaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-281.,,,,,,,,,,,,,.
+281.,,,,,,,,,,,,(sabbattha nava),.
 Anulomaṃ.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-282.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-283.–;,,,…pe….
-–;,,.
-–;,.
-284.–,…pe……pe…,…pe….
-–,;,,.
-–,…pe….
+282.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+283.–;,,,…pe…(yāva asaññasattā).(1)
+–;,,.(2)
+–;,.(3)
+284.–,…pe……pe…,…pe….(1)
+–,;,,.(2)
+–,…pe…(ahetukapaṭisandhikkhaṇe dvepi kātabbā).(3)
 Naārammaṇapaccayo
-285.–;…pe….
-–;,,…pe….
-–,,.
+285.–;…pe….(1)
+–;,,…pe…(yāva asaññasattā).(1)
+–,(paṭisandhikkhaṇe dve, saṃkhittaṃ).(1)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 286.,,,,,,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-287..
+287.(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-288.,.
+288.,(saṃkhittaṃ).
 2. Sahajātavāro
 (Sahajātavāro paṭiccavārasadiso.)
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-289..
-–,;…pe….
-–,.
-290.–,…pe…,…pe….
-–,,.
-–,…pe…,…pe….
+289.(saṃkhittaṃ)(paṭiccavārasadisā).
+–,;…pe…(yāva mahābhūtā).(1)
+–,(paṭisandhikkhaṇe dvepi kātabbā).(3)
+290.–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(1)
+–,,(paṭisandhikkhaṇe tīṇipi kātabbā).(2)
+–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(3)
 Ārammaṇapaccayo
-291.….
-–…pe……pe…;…pe….
-–…pe……pe…,.
-–…pe……pe….
-292.–,…pe……pe…,…pe…,…pe….
-–…pe……pe….
-–,…pe…,.
+291.…(paṭiccasadisā).
+–…pe……pe…;…pe….(1)
+–…pe……pe…,(paṭisandhikkhaṇe dvepi kātabbā).(2)
+–…pe……pe…(paṭisandhikkhaṇe ekaṃ kātabbaṃ).(3)
+292.–,…pe……pe…,…pe…,…pe…(paṭisandhikkhaṇe dve kātabbā).(1)
+–…pe……pe….(2)
+–,…pe…(paṭisandhikkhaṇe ekaṃ kātabbaṃ, saṃkhittaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-293.,,,.
+293.,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
-294..,.
+294.(evaṃ nava pañhā kātabbā. Paccayavāre pañcaviññāṇampi kātabbaṃ, tīṇiyeva moho).
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1145,17 +1145,17 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-296.–,…pe……pe….
-–;…pe….
-–,…pe……pe….
-–;…pe….
-–,…pe……pe…..
+296.–,…pe……pe….(1)
+–;…pe….(2)
+–,…pe……pe….(3)
+–;…pe….(1)
+–,…pe……pe….(1)(Saṃkhittaṃ.)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-297.,,,.
+297.,,(sabbattha pañca),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
-298...
+298.(saṃkhittaṃ. Tīṇiyeva moho).
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1166,146 +1166,146 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-300.–;…pe….;…pe….;…pe….
+300.–;…pe….(Mūlaṃ kātabbaṃ);…pe….(Mūlaṃ kātabbaṃ);…pe….(3)
 Ārammaṇapaccayo
-301.–...
-–…pe….…pe…..,..
+301.–.(Mūlaṃ kātabbaṃ).(Mūlaṃ kātabbaṃ).(3)
+–…pe….…pe….(Saṃkhittaṃ. Yathā cittasahabhūduke ārammaṇaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ. Navapi pañhā.)
 Adhipatipaccayo
-302.–,….
-–,….
-–.,.,,.
+302.–,…(dvepi adhipatī kātabbā).(3)
+–,…(dvepi adhipati kātabbā).(3)
+–.(Ekāyeva adhipati kātabbā, navapi pañhā. Yathā cittasahabhūdukaṃ, evaṃ kātabbaṃ, ninnānākaraṇaṃ).
 Anantarapaccayādi
-303.………………………,.
+303.(navapi pañhā cittasahabhūdukasadisā)…………(paṭiccasadisā)……(paṭiccasadisā)……(paccayasadisā)…(navapi pañhā cittasahabhūdukasadisā, ninnānākaraṇaṃ).
 Purejātapaccayādi
-304.–,…,.
+304.–,…(cittasahabhūdukasadisā, ninnānākaraṇaṃ).
 ,...…….
 Kammapaccayādi
-305.….,…………,…………………….
+305.…(cittasahabhūdukasadisā ninnānākaraṇā. Tīṇipi sahajātā, nānākkhaṇikā)…………(cittasahabhūgamanasadisā, ekaṃyeva kabaḷīkāraṃ āhāraṃ)…………………….
 Vippayuttapaccayo
-306.–,.
-–,,.
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.
+306.–,(saṃkhittaṃ).(1)
+–,,(saṃkhittaṃ).(1)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(2)
+–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(3)
+–,(saṃkhittaṃ).
 Atthipaccayo
-307..–,..
-–,,,,...
-–,.Sahajātaṃ–;,.Purejātaṃ,.
-–,.Sahajātaṃ–;,.Purejātaṃ.
-308.–sahajātaṃ, purejātaṃ. Sahajāto–…pe……pe……pe……pe……pe…,…pe……pe……pe….
-–,,,,.Sahajātā–…pe……pe…,,.Pacchājātā–.Pacchājātā–.Pacchājātā–.
-–,.Sahajāto–,…pe……pe….Sahajāto–,…pe…,…pe….
+307.(paṭiccasadisā).–,(saṃkhittaṃ).(paṭiccasadisā).(3)
+–,,,,(purejātasadisaṃ purejātaṃ kātabbaṃ. Sabbaṃ saṃkhittaṃ. Vitthāretabbaṃ).(1)
+–,.Sahajātaṃ–;,.Purejātaṃ(purejātasadisaṃ, ninnānākaraṇaṃ).(2)
+–,.Sahajātaṃ–;,.Purejātaṃ(purejātasadisaṃ).(3)
+308.–sahajātaṃ, purejātaṃ. Sahajāto–…pe……pe……pe……pe……pe…,…pe……pe……pe…(paṭisandhikkhaṇe dvepi kātabbā).(1)
+–,,,,.Sahajātā–…pe……pe…,,.Pacchājātā–.Pacchājātā–.Pacchājātā–.(2)
+–,.Sahajāto–,…pe……pe….Sahajāto–,…pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 309.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-310.……….
-………….
-……….
-311.……………….
-……….
-……….
-312.…….
-……….
-…….
+310.……….(1)
+………….(2)
+……….(3)
+311.……………….(1)
+……….(2)
+……….(3)
+312.…….(1)
+……….(2)
+…….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-313.,,.
+313.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
-314.,,,,,,,,,.
+314.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
-315.,,.
+315.,(sabbattha nava, anulomamātikā).
 Cittasaṃsaṭṭhasamuṭṭhānadukaṃ niṭṭhitaṃ.
 64. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ
 1. Paṭiccavāro
 Hetupaccayo
-316.–,…pe……pe…,,.
+316.–,…pe……pe…(yathā cittasaṃsaṭṭhasamuṭṭhānadukaṃ, evaṃ imampi dukaṃ, ninnānākaraṇaṃ).
 Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ niṭṭhitaṃ.
 65. Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ
 1. Paṭiccavāro
 Hetupaccayo
-317.–,…pe……pe…,.
+317.–,…pe……pe…(yathā cittasaṃsaṭṭhasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ).
 Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ niṭṭhitaṃ.
 66. Ajjhattikadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-318.–.
-–;.
-–.
-319.–,…pe…,…pe…,,…pe….
-–;,.
-–,…pe…,…pe….
-320.–.
-–,…pe…;,…pe…,.
-–,…pe….
+318.–.(1)
+–;.(2)
+–.(3)
+319.–,…pe…,…pe…,,…pe….(1)
+–;,.(2)
+–,…pe…,…pe….(3)
+320.–.(1)
+–,…pe…;,…pe…,.(2)
+–,…pe….(3)
 Ārammaṇapaccayo
-321.–;.
-–,…pe……pe….
-–;,.
-–,…pe…,…pe….
-–,…pe…,…pe…,…pe….
+321.–;.(1)
+–,…pe……pe….(1)
+–;,.(2)
+–,…pe…,…pe….(3)
+–,…pe…,…pe…,…pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-322.,,,,,,,,,,,,,,,,,,.
+322.,,,,,,,,,,,,(sabbattha nava),,,,,,.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-323.–.
-–;,.
-–.
-324.–,…pe……pe….
-–;,.
-–,…pe…,.
-325.–.
-–,…pe…;;,,.
-–,…pe….
+323.–.(1)
+–;,.(2)
+–.(3)
+324.–,…pe……pe…(yāva asaññasattā).(1)
+–;,.(2)
+–,…pe…,.(3)
+325.–.(1)
+–,…pe…;;,,.(2)
+–,…pe….(3)
 Naārammaṇapaccayo
-326.–.
-–;.
-;.
-–;,,…pe….
-–.
-–.
-327.–.
-–,.
-–.
+326.–.(1)
+–;.(2)
+;.(3)
+–;,,…pe…(yāva asaññasattā).(1)
+–.(2)
+–.(3)
+327.–.(1)
+–,(paṭisandhikkhaṇe dve kātabbā).
+–(saṃkhittaṃ).(3)
 Najhānapaccayo
 328.–…pe……pe….
-–,…pe……pe……………pe….–…pe….–,…pe……pe….
-–,…pe….
+–,…pe……pe……………pe….–…pe….–,…pe……pe….(3)
+–,…pe…(cakkaṃ).
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-329.,,,,,,,,,,,,,.
+329.,,,(sabbattha nava),,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
-330.,.
+330.,(saṃkhittaṃ).
 4. Paccayapaccanīyānulomaṃ
-331.,,,…pe….
+331.,,,…pe…(saṃkhittaṃ).
 2. Sahajātavāro
 (Sahajātavāropi paṭiccavārasadiso.)
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-332.….
-–,…pe…,.–,.–,…pe….
-333.–.–,…pe…,.–,…pe….
+332.…(paṭiccasadisā).
+–,…pe…(paṭisandhikkhaṇe dvepi kātabbā, yāva ajjhattikā mahābhūtā).–,(paṭisandhikkhaṇe dvepi kātabbā).–,…pe…(paṭisandhikkhaṇe dvepi kātabbā).(3)
+333.–.–,…pe…,(paṭisandhikkhaṇe tīṇipi kātabbā).–,…pe….(3)
 Ārammaṇapaccayo
-334.–…pe……pe….–…pe……pe…;…pe….–…pe……pe….
-–,…pe……pe….–,.–.
+334.–…pe……pe….–…pe……pe…;…pe….–…pe……pe….(3)
+–,…pe……pe….–,(paṭisandhikkhaṇe dvepi kātabbā).–(paṭisandhikkhaṇe ekaṃ kātabbaṃ).(3)
 335.–…pe……pe….
-–,…pe……pe…,…pe….–,…pe….
+–,…pe……pe…,…pe…(paṭisandhikkhaṇe dvepi kātabbā).–,…pe…(saṃkhittaṃ).(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
-336.,,,,,,,,,,,,.
+336.,,,,,,,,,,,(sabbattha nava),.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-337.–,....
+337.–,.(Saṃkhittaṃ. Evaṃ navapi pañhā kātabbā. Pañcaviññāṇampi pavesetvā tīṇiyeva moho.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1314,97 +1314,97 @@ Suddhaṃ
 (Evaṃ itare dve gaṇanāpi nissayavāropi kātabbo.)
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
-339.–;.
-–,…pe……pe….–;…pe….–,…pe……pe….
-–,…pe……pe….,,,.
-,.
-,,,,,,,,,.
+339.–;.(1)
+–,…pe……pe….–;…pe….–,…pe……pe….(3)
+–,…pe……pe…(saṃkhittaṃ).,,(sabbattha pañca),(anulomaṃ).
+(evaṃ pañca kātabbā, tīṇiyeva moho).
+,,,,,,,,,(paccanīyaṃ).
 6. Sampayuttavāro
 (Evaṃ itare dve gaṇanāpi sampayuttavāropi kātabbo.)
 7. Pañhāvāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-340.––.
-–;.
-–;.
+340.––.(1)
+–;.(2)
+–;.(3)
 Ārammaṇapaccayo
-341.–...
-–…pe……pe…,…pe…;,…pe……pe……pe……,,,,.,…pe…,…pe……pe…;,.,…pe……pe……pe……pe…,,,,,.
-–…pe……pe…,.…pe……pe…,…pe……pe……pe…,,.…pe……pe……pe…,,,,,.
-–…pe……pe…,,.…pe…,,.…pe……pe……pe…,,,,,.
+341.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
+–…pe……pe…,…pe…;,…pe……pe……pe……,,,,.,…pe…,…pe……pe…;,.,…pe……pe……pe……pe…,,,,,.(1)
+–…pe……pe…,.…pe……pe…(saṃkhittaṃ, sabbaṃ kātabbaṃ)…pe……pe……pe…,,.…pe……pe……pe…,,,,,.(3)
+–…pe……pe…,(saṃkhittaṃ, sabbaṃ kātabbaṃ).…pe…,,.…pe……pe……pe…,,,,,.(3)
 ….
 Adhipatipaccayo
-342..Ārammaṇādhipati–.
-–,.Ārammaṇādhipati–.Sahajātādhipati–.ārammaṇādhipati–.
-–,.–…pe….
-….
+342..Ārammaṇādhipati–.(1)
+–,.Ārammaṇādhipati–.Sahajātādhipati–.(Mūlaṃ)ārammaṇādhipati–.(3)
+–,.–…pe…(dve adhipatī tiṇṇampi kātabbā).(3)
+…(tiṇṇampi ekāyeva adhipati).
 Anantarapaccayādi
 343.–….
-–;…pe….
-…,…,…,…,…,.
+–;…pe…(tiṇṇampi ekasadisā).
+…,…,…(paṭiccasadisā),…(paṭiccasadisā),…,(paccayavārasadisā).
 Upanissayapaccayo
 344.–,,…pe….–….
-–,,…pe….–…pe…,;…pe……pe…;…pe……pe…,,,.
+–,,…pe….–…pe…,;…pe……pe…;…pe……pe…,(tīṇipi pūretvā kātabbā, cittassāti kātabbā, sampayuttakānañcāti kātabbā).
 ….
 Purejātapaccayo
-345.–,.Ārammaṇapurejātaṃ–…pe……pe…,,.Vatthupurejātaṃ–…pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…,…pe….Vatthupurejātaṃ–…pe….
-–,.Ārammaṇapurejātaṃ–…pe……pe…,.Vatthupurejātaṃ–…pe….
-346.–,.Ārammaṇapurejātaṃ–…pe………pe…;,.Vatthupurejātaṃ–.
-–,.Ārammaṇapurejātaṃ–…pe………pe….,.Vatthupurejātaṃ–.
-–,.Ārammaṇapurejātaṃ–…pe………pe….,.Vatthupurejātaṃ–.
-347.–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe……pe……pe….
+345.–,.Ārammaṇapurejātaṃ–…pe……pe…,,.Vatthupurejātaṃ–…pe….(1)
+–,.Ārammaṇapurejātaṃ–…pe……pe…,…pe….Vatthupurejātaṃ–…pe….(2)
+–,.Ārammaṇapurejātaṃ–…pe……pe…,.Vatthupurejātaṃ–…pe….(3)
+346.–,.Ārammaṇapurejātaṃ–…pe………pe…;,.Vatthupurejātaṃ–.(1)
+–,.Ārammaṇapurejātaṃ–…pe………pe….,.Vatthupurejātaṃ–.(2)
+–,.Ārammaṇapurejātaṃ–…pe………pe….,.Vatthupurejātaṃ–.(3)
+347.–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe….(1)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe…;…pe….(2)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe……pe……pe….(3)
 Pacchājātāsevanapaccayā
-348.–..,.
+348.–.(Mūlaṃ kātabbaṃ).(Mūlaṃ kātabbaṃ)(evaṃ navapi pañhā kātabbā),(nava pañhā kātabbā).
 Kamma-vipākapaccayā
-349.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.….
+349.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)….
 Āhārapaccayo
-350.–.
-–;..
-351.–;…pe….
-–;;.
-–;;.
-352.–.
-–;.
-–.
+350.–.(1)
+–;.(Mūlaṃ kātabbaṃ).(3)
+351.–;…pe….(1)
+–;;.(2)
+–;;.(3)
+352.–.(1)
+–;.(2)
+–.(3)
 Indriyapaccayo
-353.–,…pe….
-–;,…pe….
-–,…pe….
-354.–;,.
-–;,.
-–;,.
-355.–,…pe……pe….
-–;,…pe……pe….
-–,……pe….
+353.–,…pe….(1)
+–;,…pe….(2)
+–,…pe….(3)
+354.–;,.(1)
+–;,.(2)
+–;,.(3)
+355.–,…pe……pe….(1)
+–;,…pe……pe….(2)
+–,……pe….(3)
 Jhānapaccayādi
 356.…………….
 Vippayuttapaccayo
-357.–,,.Sahajātaṃ–.Purejātaṃ–…pe….Pacchājātā–.
-–,,.Sahajātā–;…pe….Purejātaṃ–…pe….Pacchājātā–.
-–,,.Sahajātā–.Purejātaṃ–…pe….Pacchājātā–.
-358.–,,.Sahajātā–;…pe…;.Purejātaṃ–.Pacchājātā–.
-–,,.Sahajātā–;.Purejātaṃ–.Pacchājātā–.
-–,,.
-359.–,.Sahajātā–.Pacchājātaṃ–…pe….
-–,.
-–,.Sahajātā–…pe….
+357.–,,.Sahajātaṃ–.Purejātaṃ–…pe….Pacchājātā–.(1)
+–,,.Sahajātā–;…pe….Purejātaṃ–…pe….Pacchājātā–.(2)
+–,,.Sahajātā–.Purejātaṃ–…pe….Pacchājātā–.(3)
+358.–,,.Sahajātā–;…pe…;.Purejātaṃ–.Pacchājātā–.(1)
+–,,.Sahajātā–;.Purejātaṃ–.Pacchājātā–.(2)
+–,,(saṃkhittaṃ).(3)
+359.–,.Sahajātā–.Pacchājātaṃ–…pe…(saṃkhittaṃ).(1)
+–,(saṃkhittaṃ).(2)
+–,.Sahajātā–…pe…(saṃkhittaṃ).(3)
 Atthipaccayādi
-360.–,,.Sahajātā–.Purejātaṃ–…pe……pe…,.Pacchājātaṃ.
-–,,.Sahajātaṃ–.
+360.–,,.Sahajātā–.Purejātaṃ–…pe……pe…(purejātasadisaṃ, ninnānākaraṇaṃ).Pacchājātaṃ(pacchājātasadisaṃ kātabbaṃ).(1)
+–,,.Sahajātaṃ–(saṃkhittaṃ).(2)
 ..,.
-–,,.
-361.–,,,,.
-–,,,,.
-–,,,,.
-362.–,,,,.Sahajātā–…pe……pe….Purejātaṃ–…pe…;…pe….Pacchājātā–.Pacchājātā–.Pacchājātā–.
-–,,,,.Sahajāto–…pe…,..
-–,,,,.Sahajāto–..
+–,,(saṃkhittaṃ).(3)
+361.–,,,,(sabbaṃ vitthāretabbaṃ).(1)
+–,,,,(saṃkhittaṃ).(2)
+–,,,,(saṃkhittaṃ).(3)
+362.–,,,,.Sahajātā–…pe……pe….Purejātaṃ–…pe…;…pe….Pacchājātā–.Pacchājātā–.Pacchājātā–.(1)
+–,,,,.Sahajāto–…pe…(sahajātapaccayavārasadisaṃ ninnānākaraṇaṃ, paṭhamagamanasadisaṃyeva. Sabbe padā paṭhamaghaṭanānayena vibhajitabbā).(2)
+–,,,,.Sahajāto–(saṃkhittaṃ. Sabbe padā vibhajitabbā paṭhamaghaṭanānayena).(3)
 …….
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
@@ -1412,88 +1412,88 @@ Suddhaṃ
 363.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-364.………….
-………….
-………….
-365.………………….
-………………….
-…………….
-366.………….
-………….
-………….
+364.………….(1)
+………….(2)
+………….(3)
+365.………………….(1)
+………………….(2)
+…………….(3)
+366.………….(1)
+………….(2)
+………….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
-367.,,.
+367.,(sabbattha nava),.
 3. Paccayānulomapaccanīyaṃ
-368.,,,,,,,,,.
+368.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
-369.,…pe….
+369.,(anulomamātikā kātabbā)…pe….
 Ajjhattikadukaṃ niṭṭhitaṃ.
 67. Upādādukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-370.–.
-–…pe……pe……pe……pe……pe….
-–;…pe….
-–…pe……pe……pe….
-–,…pe….
+370.–.(1)
+–…pe……pe……pe……pe……pe….(1)
+–;…pe….(2)
+–…pe……pe……pe….(3)
+–,…pe….(1)
 Ārammaṇapaccayo
-371.–.
-–…pe……pe……pe….
-–…pe……pe….
+371.–.(1)
+–…pe……pe……pe….(1)
+–…pe……pe….(1)
 Adhipatipaccayādi
-372.–…pe……pe….
-–,.
-–…pe……pe….
+372.–…pe……pe….(1)
+–,.(2)
+–…pe……pe….(3)
 ,,.
 Aññamaññapaccayo
-373.–.
-–…pe……pe……pe……pe……pe….
-–.
-–…pe……pe….
-–…pe……pe….
+373.–.(1)
+–…pe……pe……pe……pe……pe….(1)
+–.(2)
+–…pe……pe….(3)
+–…pe……pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-374.,,,,,,,,,,,,,,,,,,.
+374.,,,,,,,,,,,,(sabbattha pañca),,,,,,.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-375.–.
-–…pe……pe……pe……pe……pe…,.
-–;…pe……pe….
-–…pe……pe……pe….
-–…pe……pe….
+375.–.(1)
+–…pe……pe……pe……pe……pe…,.(1)
+–;…pe……pe…(yāva asaññasattā).(2)
+–…pe……pe……pe….(3)
+–…pe……pe….(1)
 Naārammaṇapaccayādi
-376.–;…pe……pe….
-–;…pe….
-–;…pe….
+376.–;…pe……pe…(yāva asaññasattā).(1)
+–;…pe…(yāva asaññasattā).(2)
+–;…pe….(3)
 ,…pe…,,,.
 Nakammapaccayo
-377.–;…pe….
-–.
-–…pe……pe….
+377.–;…pe….(1)
+–.(2)
+–…pe……pe….(3)
 Navipākapaccayo
-378.–…pe……pe……pe…,.
+378.–…pe……pe……pe…(yāva asaññasattā, evaṃ tīṇi noupādāmūlake).
 Naāhārapaccayo
-379.–…pe….
-–.
-–…pe……pe….
+379.–…pe….(1)
+–.(2)
+–…pe……pe….(3)
 Naindriyapaccayo
-380.–…pe….
+380.–…pe….(1)
 –.
-–…pe….
+–…pe….(3)
 Najhānapaccayādi
-381.–…pe……pe……pe….
-–.
-–…pe……pe….
+381.–…pe……pe……pe….(1)
+–.(2)
+–…pe……pe….(3)
 …….
 Navippayuttapaccayādi
-382.–…pe……pe……pe….
-–,.
-–…pe…,…pe……….
+382.–…pe……pe……pe….(1)
+–,.(2)
+–…pe…,…pe……….(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1508,37 +1508,37 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-386.–;…pe….
-…,.
-–…pe……pe……pe….
+386.–;…pe….(1)
+…(noupādāmūlake tīṇipi paṭiccasadisā, ninnānākaraṇā).(3)
+–…pe……pe……pe….(1)
 Ārammaṇapaccayo
-387.–…pe…,;…pe….
-….
-–…pe……pe……pe……pe……pe……pe….
+387.–…pe…,;…pe….(1)
+…(paṭiccasadisaṃ).(1)
+–…pe……pe……pe……pe……pe……pe…(saṃkhittaṃ).(1)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-388.,,,,,,,,,,,…pe….
+388.,,,,,,,,,,,…pe…(evaṃ gaṇetabbaṃ).
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayādi
-389.–…pe…,;…pe….
-–…pe……pe……pe……pe…,.
-–…pe……pe……pe……pe……pe……pe….
+389.–…pe…,;…pe….(1)
+–…pe……pe……pe……pe…(yāva asaññasattā)(tīṇipi paṭiccasadisā, ninnānākaraṇā).(3)
+–…pe……pe……pe……pe……pe……pe….(1)
 Naārammaṇapaccayā tīṇi, naāsevanapaccayā pañca.
 Nakammapaccayādi
-390.–.
-–;…pe….
-–.
-–…pe……pe….
-–.
+390.–.(1)
+–;…pe….(1)
+–.(2)
+–…pe……pe….(3)
+–.(1)
 ,,.
 Najhānapaccayādi
-391.–…pe….
-–…pe……pe……pe….
-–.
-–…pe……pe….
-–…pe……pe….
+391.–…pe….(1)
+–…pe……pe……pe….(1)
+–.(2)
+–…pe……pe….(3)
+–…pe……pe….(1)
 ,,,,.
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
@@ -1548,10 +1548,10 @@ Suddhaṃ
 (Evaṃ  itare dve gaṇanāpi nissayavāropi kātabbo.)
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
-393.–…pe…;…pe….
-,,,.
+393.–…pe…;…pe…(saṃkhittaṃ).
+,,(sabbattha ekaṃ),.
 Anulomaṃ.
-–…pe……pe……pe….
+–…pe……pe……pe…(saṃkhittaṃ).
 ,,,,,,,,,.
 Paccanīyaṃ.
 6. Sampayuttavāro
@@ -1560,99 +1560,99 @@ Paccanīyaṃ.
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-394.–;…pe….
-–;…pe….
-–;…pe….
+394.–;…pe….(1)
+–;…pe….(2)
+–;…pe….(3)
 Ārammaṇapaccayo
-395.–…pe………pe……pe…;,.…pe…,,,,.
-–…pe……pe…,,…pe…;…pe……pe…,…pe……pe…,,,,.,…pe……pe……pe…;,…pe……pe…;,,,,,.
+395.–…pe………pe……pe…;,.…pe…,,,,.(1)
+–…pe……pe…,,…pe…;…pe……pe…,…pe……pe…,,,,.,…pe……pe……pe…;,…pe……pe…;,,,,,.(1)
 Adhipatipaccayo
-396..Ārammaṇādhipati–…pe………pe…,,.
-–,.Ārammaṇādhipati–…pe……pe…,,.…pe……pe……pe……pe….,,,;,,.Sahajātādhipati–.
-.Sahajātādhipati–.
-.Sahajātādhipati–.
+396..Ārammaṇādhipati–…pe………pe…,,.(1)
+–,.Ārammaṇādhipati–…pe……pe…,,.…pe……pe……pe……pe….,,,;,,.Sahajātādhipati–.(1)
+.Sahajātādhipati–.(2)
+.Sahajātādhipati–.(3)
 Anantarapaccayādi
-397.–;…pe….
-……….
+397.–;…pe….(1)
+…(paṭiccasadisaṃ)…(paṭiccasadisaṃ)…(paccayavāre nissayasadisaṃ).
 Upanissayapaccayo
-398.–ārammaṇūpanissayo, pakatūpanissayo…pe….–…pe…………………pe…,…pe…………………pe….
-–ārammaṇūpanissayo , anantarūpanissayo, pakatūpanissayo…pe….–…pe…,,;…pe………pe………………pe…;…pe……pe….
+398.–ārammaṇūpanissayo, pakatūpanissayo…pe….–…pe…………………pe…,…pe…………………pe….(1)
+–ārammaṇūpanissayo , anantarūpanissayo, pakatūpanissayo…pe….–…pe…,,;…pe………pe………………pe…;…pe……pe….(1)
 Purejātapaccayo
-399.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….
-.Ārammaṇapurejātaṃ–…pe…;.
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.;.
+399.–,.Ārammaṇapurejātaṃ–…pe……pe…;,.…pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
+.Ārammaṇapurejātaṃ–…pe…;.(1)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.;.(1)
 Pacchājātāsevanapaccayā
-400.–...
+400.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
 Āsevanapaccayena paccayo… ekaṃ.
 Kammapaccayo
-401.–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
-–,.Sahajātā–;…pe….Nānākkhaṇikā–.
+401.–,.Sahajātā–;…pe….Nānākkhaṇikā–.(1)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(2)
+–,.Sahajātā–;…pe….Nānākkhaṇikā–.(3)
 Vipākapaccayo
 402.–…pe……pe……pe….
 Āhārapaccayo
-403.–...
-–;…pe…,.
+403.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
+–;…pe…(noupādāmūlake tīṇi, paṭisandhikkhaṇe tīṇipi kātabbā).(3)
 Indriyapaccayo
-404.–.…pe…..
+404.–.(Mūlaṃ kātabbaṃ)…pe….(Mūlaṃ kātabbaṃ).(3)
 …;…pe….
 –…pe……pe….
 Jhānapaccayādi
 405.…,…;…pe…….
 Vippayuttapaccayo
-406.–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….
-–,.Sahajātā–;.Pacchājātā–.
-–,.Sahajātā–;…pe….Pacchājātā–.
-–,.Sahajātā–;…pe….Pacchājātā–.
+406.–,.Sahajātaṃ–.Purejātaṃ–…pe……pe….(1)
+–,.Sahajātā–;.Pacchājātā–.(1)
+–,.Sahajātā–;…pe….Pacchājātā–.(2)
+–,.Sahajātā–;…pe….Pacchājātā–.(3)
 Atthipaccayo
-407.–,.Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.
-–,,,.Sahajātaṃ–.Purejātaṃ–…pe…..Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.
-–,.Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.
-408.–,,.Sahajāto–…pe……pe……pe……pe….Purejātaṃ–…pe…..Pacchājātā–.
-–,.Sahajātā–;…pe….Pacchājātā–.
-–,.Sahajāto–;…pe……pe….Pacchājātā–.
-409.–,,.Pacchājātā–.Pacchājātā–.
-–,,,,.Sahajāto–…pe……pe……pe……pe……pe……pe….Purejātaṃ–..Pacchājātā–.Pacchājātā–.
-–,,.Pacchājātā–.Pacchājātā–.
+407.–,.Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.(1)
+–,,,.Sahajātaṃ–.Purejātaṃ–…pe…(saṃkhittaṃ. Purejātasadisaṃ ninnānākaraṇaṃ).Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.(2)
+–,.Kabaḷīkāro āhāro;rūpajīvitindriyaṃ.(3)
+408.–,,.Sahajāto–…pe……pe……pe……pe…(yāva asaññasattā).Purejātaṃ–…pe…..Pacchājātā–.(1)
+–,.Sahajātā–;…pe….Pacchājātā–.(2)
+–,.Sahajāto–;…pe……pe….Pacchājātā–.(3)
+409.–,,.Pacchājātā–.Pacchājātā–.(1)
+–,,,,.Sahajāto–…pe……pe……pe……pe……pe……pe….Purejātaṃ–..Pacchājātā–.Pacchājātā–.(2)
+–,,.Pacchājātā–.Pacchājātā–.(3)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 410.,,,,,,,,,,,,,,,,,,,,,,,.
 Anulomaṃ.
 Paccanīyuddhāro
-411.….
-…………….
-….
-412.…………….
-…….
-…….
-,,.
-,,,,.
-,,.
+411.….(1)
+…………….(2)
+….(3)
+412.…………….(1)
+…….(2)
+…….(3)
+,,.(1)
+,,,,.(2)
+,,.(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-413.,,,,,,,.
+413.,(sabbattha nava),,,,,,.
 3. Paccayānulomapaccanīyaṃ
-414.,,,,,,,,,.
+414.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
-415.,…pe……pe….
+415.,…pe…(anulomamātikā vitthāretabbā)…pe….
 Upādādukaṃ niṭṭhitaṃ.
 68. Upādinnadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-416.–…pe……pe……pe……pe…,,…pe….
-–.
-–…pe……pe….
-–…pe……pe……pe….
-–.
+416.–…pe……pe……pe……pe…,,…pe….(1)
+–.(2)
+–…pe……pe….(3)
+–…pe……pe……pe….(1)
+–.(1)
 Ārammaṇapaccayo
-417.–…pe……pe……pe….
-–…pe……pe….
+417.–…pe……pe……pe….(1)
+–…pe……pe….(1)
 Adhipatipaccayo
-418.–…pe……pe……pe….
+418.–…pe……pe……pe…(saṃkhittaṃ).
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1660,38 +1660,38 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-420.–…pe……pe……pe……pe…,,…pe…,…pe….
-–.
-–…pe……pe….
-421.–…pe……pe……pe….………pe…..
-–.
+420.–…pe……pe……pe……pe…,,…pe…,…pe….(1)
+–.(2)
+–…pe……pe….(3)
+421.–…pe……pe……pe….………pe…..(1)
+–.(1)
 Naārammaṇapaccayo
-422.–,,…pe….…pe….
-–.
-–,…pe…………pe….
-–.
+422.–,,…pe….…pe….(1)
+–.(2)
+–,…pe…………pe….(1)
+–.(1)
 Naadhipatipaccayādi
 423.………….
 Napurejātapaccayādi
-424.–…pe……pe……pe……pe….
-–.
-–…pe……pe…,…pe….
-–…….
+424.–…pe……pe……pe……pe…(yāva asaññasattā).(1)
+–.(2)
+–…pe……pe…,…pe…(yāva asaññasattā).(1)
+–…….(1)
 Nakammapaccayo
-425.–…………pe….
+425.–…………pe….(1)
 Navipākapaccayo
-426.–…pe….
-–…pe……pe……pe….
+426.–…pe….(1)
+–…pe……pe……pe…(yāva utusamuṭṭhānaṃ).
 Naāhārapaccayo
-427.–…pe….
-–……pe….
+427.–…pe….(1)
+–……pe….(1)
 Naindriyapaccayo
-428.–.
-–………pe….
+428.–.(1)
+–………pe….(1)
 Najhānapaccayādi
 429.–…pe……pe……pe….
 –………pe….
-,….
+(nahetusadisaṃ, moho natthi)….
 Navippayuttapaccayādi
 430.–…pe……pe……pe….
 –…pe……pe…………pe…….
@@ -1709,20 +1709,20 @@ Suddhaṃ
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-434.–…pe……pe……pe……pe…,,…pe…,.
-–,.
-–…pe……pe….
-–…pe……pe……pe….
-–,…pe……pe….
+434.–…pe……pe……pe……pe…,,…pe…,.(1)
+–,.(2)
+–…pe……pe….(3)
+–…pe……pe……pe….(1)
+–,…pe……pe….(1)
 Ārammaṇapaccayo
-435.–…pe……pe……pe…,…pe……pe….
-–.
-–…pe……pe….
-–…pe……pe….
+435.–…pe……pe……pe…,…pe……pe….(1)
+–.(2)
+–…pe……pe….(1)
+–…pe……pe….(1)
 Adhipatipaccayo
-436.–.
-–…pe……pe……pe….
-–…pe……pe…..
+436.–.(1)
+–…pe……pe……pe….(1)
+–…pe……pe….(1)(Saṃkhittaṃ.)
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1730,11 +1730,11 @@ Suddhaṃ
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
-438.–…pe……pe……pe…,,…pe…,…pe……pe……pe….
-–,,.
-–…pe……pe….
-439.–…pe……pe……pe…………pe….
-–,…pe……pe…..
+438.–…pe……pe……pe…,,…pe…,…pe……pe……pe….(1)
+–,,.(2)
+–…pe……pe….(3)
+439.–…pe……pe……pe…………pe….(1)
+–,…pe……pe….(1)(Saṃkhittaṃ.)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1748,11 +1748,11 @@ Suddhaṃ
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
 443.–…pe……pe……pe….
-–…pe……pe….
+–…pe……pe….(1)
 ,,,,,,,,,,,,…pe….
 Anulomaṃ.
-444.–…pe……pe……pe….
-–…pe……pe….
+444.–…pe……pe……pe….(1)
+–…pe……pe….(1)
 ,,,,,,,,,.
 Paccanīyaṃ.
 6. Sampayuttavāro
@@ -1761,107 +1761,107 @@ Paccanīyaṃ.
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
 Hetupaccayo
-445.–;.
-–.
-–.
-–.
+445.–;.(1)
+–.(2)
+–.(3)
+–.(1)
 Ārammaṇapaccayo
-446.–…pe………………pe…;,…pe……pe….
-–…pe………………pe…;.,,,,,.
-447.–…pe……pe…,…pe…;…pe……pe…,…pe……pe…,,,,.…pe……pe……pe………………pe…;,.,…pe……pe…,,,,,.
-–……………pe…;,…pe……pe……pe……pe….
+446.–…pe………………pe…;,…pe……pe….(1)
+–…pe………………pe…;.,,,,,.(2)
+447.–…pe……pe…,…pe…;…pe……pe…,…pe……pe…,,,,.…pe……pe……pe………………pe…;,.,…pe……pe…,,,,,.(1)
+–……………pe…;,…pe……pe……pe……pe….(2)
 Adhipatipaccayo
-448..Ārammaṇādhipati–…pe……………,,.
-–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe…,…pe….,,,,;…………,,.Sahajātādhipati–.
+448..Ārammaṇādhipati–…pe……………,,.(1)
+–,.Ārammaṇādhipati–…pe……pe…,,,…pe……pe…,…pe….,,,,;…………,,.Sahajātādhipati–.(1)
 Anantarapaccayo
-449.–...
-–,.
-450.–,…pe….
-–…pe………………….
+449.–...(1)
+–,.(2)
+450.–,…pe….(1)
+–…pe…………(paṭiccasadisā)……(paṭiccasadisā)….
 Upanissayapaccayo
-451.–anantarūpanissayo, pakatūpanissayo…pe….–…;………;…………….
-–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…;………pe…;…pe…;…………pe…,.
-452.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–,,;…pe……………pe…;…pe……………pe…,.
-–anantarūpanissayo, pakatūpanissayo…pe….–,;…pe…………,;…pe……..
+451.–anantarūpanissayo, pakatūpanissayo…pe….–…;………;…………….(1)
+–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–…pe…;………pe…;…pe…;…………pe…,.(2)
+452.–ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe….–,,;…pe……………pe…;…pe……………pe…,.(1)
+–anantarūpanissayo, pakatūpanissayo…pe….–,;…pe…………,;…pe……..(2)
 Purejātapaccayo
-453.–,.Ārammaṇapurejātaṃ–…pe………………pe…;,…pe……pe……pe….Vatthupurejātaṃ–…pe……pe….
-–,.Ārammaṇapurejātaṃ–…pe…,…………pe…;.Vatthupurejātaṃ–.
-454..Ārammaṇapurejātaṃ–……………pe…;,.
-.Ārammaṇapurejātaṃ–……………pe…;,…pe……pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe…;…pe….
-–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe….
+453.–,.Ārammaṇapurejātaṃ–…pe………………pe…;,…pe……pe……pe….Vatthupurejātaṃ–…pe……pe….(1)
+–,.Ārammaṇapurejātaṃ–…pe…,…………pe…;.Vatthupurejātaṃ–.(2)
+454..Ārammaṇapurejātaṃ–……………pe…;,.(1)
+.Ārammaṇapurejātaṃ–……………pe…;,…pe……pe….(2)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe……pe…;…pe….(1)
+–ārammaṇapurejātaṃ, vatthupurejātaṃ.…pe….(2)
 Pacchājātāsevanapaccayā
-455.–.
-–.
-.
-.
-.
-.
-456.….
+455.–.(1)
+–.(2)
+(saṃkhittaṃ).(3)
+(saṃkhittaṃ).(1)
+(saṃkhittaṃ).(2)
+(saṃkhittaṃ).(3)
+456.…(saṃkhittaṃ).
 Kammapaccayo
-457.–;.
-–.
-–.
-–.
-.Nānākkhaṇikā–.
+457.–;.(1)
+–.(2)
+–.(3)
+–.(1)
+.Nānākkhaṇikā–.(2)
 Vipākapaccayo
-458.–...
-–…pe……pe….
+458.–(saṃkhittaṃ. Upādinnamūlake tīṇi. ).
+–…pe……pe….(1)
 Āhārapaccayo
-459.–;…pe….
-–;.
-–;.
-460.–;.
-–.
-–.
-–.
-–.
-–.
+459.–;…pe….(1)
+–;.(2)
+–;.(3)
+460.–;.(1)
+–.(2)
+–.(3)
+–.(1)
+–.(2)
+–.(3)
 Indriyapaccayādi
-461.–.
-;…pe……pe….
-…pe…,,.
-–.
+461.–.(1)
+;…pe……pe….(2)
+…pe…(upādinnamūlake tīṇi, paṭhamasseva rūpajīvitindriyaṃ, itaresu natthi).(3)
+–.(1)
 …,…,….
 Vippayuttapaccayo
-462.–,,.–,,.Purejātaṃ–…pe……pe….Pacchājātā–.
-–,,.Sahajātā–.Purejātaṃ–.Pacchājātā–.
-.Pacchājātā–.
-463.–,.Sahajātā–.Pacchājātā–.
-.Pacchājātā–.
-.Pacchājātā–.
+462.–,,.–,,.Purejātaṃ–…pe……pe….Pacchājātā–.(1)
+–,,.Sahajātā–.Purejātaṃ–.Pacchājātā–.(2)
+.Pacchājātā–.(3)
+463.–,.Sahajātā–.Pacchājātā–.(1)
+.Pacchājātā–.(2)
+.Pacchājātā–.(3)
 Atthipaccayādi
-464.–,,,,..
-–,,,,.
-–,,,.
-–,,,,.
-–,,.Purejātaṃ–……………pe…;,…pe……pe….Pacchājātā–;kabaḷīkāro āhāro.
-–,.Pacchājātā–;kabaḷīkāro āhāro.
-465.–,,,.Purejātaṃ–…pe…;…pe….Pacchājātā–.Pacchājātā–.
-–,,,.Sahajātā–.Sahajāto–…pe……pe….Purejātaṃ–…pe….Pacchājātā–.
-.Āhāraṃ–.
+464.–,,,,(saṃkhittaṃ. Yathā nikkhittapadāni vibhajitabbāni paripuṇṇāni).(1)
+–,,,,.(2)
+–,,(saṃkhittaṃ, yathā nikkhittapadāni vitthāretabbāni).(3)
+–,,,(saṃkhittaṃ, yathā nikkhittapadāni vibhajitabbāni).(1)
+–,,.Purejātaṃ–……………pe…;,…pe……pe….Pacchājātā–;kabaḷīkāro āhāro.(2)
+–,.Pacchājātā–;kabaḷīkāro āhāro.(3)
+465.–,,,.Purejātaṃ–…pe…;…pe….Pacchājātā–.Pacchājātā–.(1)
+–,,,.Sahajātā–.Sahajāto–…pe……pe….Purejātaṃ–…pe….Pacchājātā–.(2)
+.Āhāraṃ–.(3)
 …….
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 466.,,,,,,,,,,,,,,,,,,,,,,,.
 Paccanīyuddhāro
-467.……………….
-…………….
-…….
-468.………….
-………….
-….
-,,,.
-,,,.
-.
+467.……………….(1)
+…………….(2)
+…….(3)
+468.………….(1)
+………….(2)
+….(3)
+,,,.(1)
+,,,.(2)
+.(3)
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
-469.,,…pe…,,,,,.
+469.,(sabbattha nava),…pe…,,,,,.
 3. Paccayānulomapaccanīyaṃ
 470.…pe…,,,,,.
 4. Paccayapaccanīyānulomaṃ
-471.,…pe….
+471.,(anulomamātikā kātabbā)…pe….
 Upādinnadukaṃ niṭṭhitaṃ.
 Mahantaradukaṃ niṭṭhitaṃ.

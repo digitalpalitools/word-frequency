@@ -1,6 +1,6 @@
 ﻿14. Pakiṇṇakanipāto
 
-.
+.(1)
 1.
 ,;
 ,te (sī. syā.), naṃ (sī. syā. pī. aṭṭha.), taṃ (ka. aṭṭha.).
@@ -55,7 +55,7 @@ tavassabyamhi (ka.),ratī ca (sī. pī.);
 ,.
 Sālikedārajātakaṃ kedārajātakaṃ (ka.) paṭhamaṃ.
 
-.
+.(2)
 18.
 ,lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā, (sī. pī. aṭṭha.);
 ,lohitamadena majjāmi; vijahāmi jīvitaṃ pāṇā, (sī. pī. aṭṭha.).
@@ -136,7 +136,7 @@ girivara (sī. pī.),;
 sevanāyo (pī.),.
 Candakinnarījātakaṃ candakinnarajātakaṃ (sī. syā. pī.) dutiyaṃ.
 
-.
+.(3)
 44.
 milācā (sī. syā. pī.)bandhanti luddā, dīpe (ka.),;
 ,.
@@ -193,7 +193,7 @@ kojova (sī. pī.),.
 ,.
 Mahāukkusajātakaṃ tatiyaṃ.
 
-.
+.(4)
 62.
 ,dummudharūpā (sī. pī. ka.)yeme japanti (sī. pī.), ye’me jappanti mante (jā. 1.6.10);
 ,.
@@ -246,7 +246,7 @@ evamevaṃ (pī.),;
 na tesaṃ jātiṃ pucchanti (sī. syā. pī.), na tesaṃ jāti sujjhati (ka.),.
 Uddālakajātakaṃ catutthaṃ.
 
-.
+.(5)
 78.
 ,;
 ,.
@@ -321,7 +321,7 @@ pārileyyo (sī. pī.),madhuvā (sī. pī.);
 ,.
 Bhisajātakaṃ pañcamaṃ.
 
-.
+.(6)
 102.
 rucino (sī. syā. pī.),;
 ,.
@@ -401,7 +401,7 @@ itthiyā (pī.),honti (sī. syā.)samacāriṇī (sī.);
 ,.
 Surucijātakaṃ chaṭṭhaṃ.
 
-.
+.(7)
 127.
 ,;
 khuddaṃ (syā. ka.), khudhaṃ (sakkata-pākatānurūpaṃ),kapoto (sī. pī.).
@@ -452,7 +452,7 @@ evampahaṃ naggahe (sī. pī.),;
 ,.
 Pañcuposathikajātakaṃ sattamaṃ.
 
-.
+.(8)
 143.
 ,;
 raññova (sī. pī.)upanti (sī. syā. pī.),.
@@ -507,7 +507,7 @@ tesaṃ ahaṃ (syā. ka.),patto (sī.), accha (syā.).
 bandhitva (sī. pī.),dukkhā pamucci (sī.), dukkhā pamuñci (syā. pī.).
 Mahāmorajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 160.
 ,;
 vipule (syā. ka.),.
@@ -570,7 +570,7 @@ miga viriyaṃ (sī. syā. pī.),.
 ,‘‘’’.
 Tacchasūkarajātakaṃ navamaṃ.
 
-.
+.(10)
 180.
 ,;
 ,.
@@ -642,7 +642,7 @@ eta (sī. pī.),;
 ,.
 Mahāvāṇijajātakaṃ dasamaṃ.
 
-.
+.(11)
 202.
 ,;
 ,.
@@ -711,7 +711,7 @@ dibbaṃ (sī. pī.),;
 ,.
 Sādhinajātakaṃ sādhinarājajātakaṃ (syā.) ekādasamaṃ.
 
-.
+.(12)
 222.
 ,;
 ,.
@@ -746,7 +746,7 @@ kiṅkaṇikāyo (ka.), kiṅkiṇiyo (syā.)gahetvāna (sī. syā. pī.),;
 ,.
 232.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 233.
@@ -761,7 +761,7 @@ kiṅkaṇikāyo (ka.), kiṅkiṇiyo (syā.)gahetvāna (sī. syā. pī.),;
 ,.
 236.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 237.
@@ -775,7 +775,7 @@ kiṅkaṇikāyo (ka.), kiṅkiṇiyo (syā.)gahetvāna (sī. syā. pī.),;
 ,.
 240.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 241.
@@ -792,7 +792,7 @@ harīṭakaṃ (bahūsu),ambajambuvibhīṭakaṃ (sī. pī.);
 ,.
 245.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 246.
@@ -806,7 +806,7 @@ kasiṃ vaṇijjaṃ (sī. pī.),;
 ,.
 249.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 250.
@@ -821,7 +821,7 @@ ne (syā. ka.),tilañchakā (pī.).
 ,.
 253.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 254.
@@ -835,7 +835,7 @@ ne (syā. ka.),tilañchakā (pī.).
 ,.
 257.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 258.
@@ -849,7 +849,7 @@ luddakā te mahārāja (sī. pī.),;
 ,.
 261.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 262.
@@ -863,7 +863,7 @@ luddakā te mahārāja (sī. pī.),;
 ,.
 265.
 ,
-
+(Iti rājā korabyo)
 ;
 ,.
 266.
@@ -880,7 +880,7 @@ luddakā te mahārāja (sī. pī.),;
 ,khippaṃva ne (ka.).
 Dasabrāhmaṇajātakaṃ dvādasamaṃ.
 
-.
+.(13)
 270.
 disvāna (ka. sī. aṭṭha.),;
 ,mupocitaṃ (bahūsu).

@@ -30,7 +30,7 @@ sambuddho tapataṃ seṭṭho esā ābhā anuttarāti
  sāvatthinidānaṃ atha kho dāmali devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā tenupasaṅkami upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi ekamantaṃ ṭhito kho dāmali devaputto bhagavato santike imaṃ gāthaṃ abhāsi 
 karaṇīyametaṃ brāhmaṇena padhānaṃ akilāsunā
 kāmānaṃ vippahānena na tenāsīsate bhavanti
-natthi kiccaṃ brāhmaṇassa (dāmalīti bhagavā)
+natthi kiccaṃ brāhmaṇassa 
 katakicco hi brāhmaṇo
 yāva  na gādhaṃ labhati nadīsu
 āyūhati  sabbagattebhi jantu
@@ -42,17 +42,17 @@ pappuyya jātimaraṇassa antaṃ
 nāyūhatī pāragato hi soti 
 
  sāvatthinidānaṃ  ekamantaṃ ṭhito kho kāmado devaputto bhagavantaṃ etadavoca  dukkaraṃ bhagavā sudukkaraṃ bhagavāti
-dukkaraṃ vāpi karonti (kāmadāti bhagavā)
+dukkaraṃ vāpi karonti 
 sekhā sīlasamāhitā
 ṭhitattā anagāriyupetassa
 tuṭṭhi hoti sukhāvahāti
 dullabhā bhagavā yadidaṃ tuṭṭhīti
-dullabhaṃ vāpi labhanti (kāmadāti bhagavā)
+dullabhaṃ vāpi labhanti 
 cittavūpasame ratā
 yesaṃ divā ca ratto ca
 bhāvanāya rato manoti
 dussamādahaṃ bhagavā yadidaṃ cittanti
-dussamādahaṃ vāpi samādahanti (kāmadāti bhagavā)
+dussamādahaṃ vāpi samādahanti 
 indriyūpasame ratā
 te chetvā maccuno jālaṃ
 ariyā gacchanti kāmadāti
@@ -64,7 +64,7 @@ ariyānaṃ samo maggo ariyā hi visame samāti
  sāvatthinidānaṃ  ekamantaṃ  ṭhito kho pañcālacaṇḍo devaputto bhagavato santike imaṃ gāthaṃ abhāsi 
 sambādhe vata okāsaṃ avindi bhūrimedhaso
 yo jhānamabujjhi  buddho paṭilīnanisabho munīti
-sambādhe vāpi vindanti (pañcālacaṇḍāti bhagavā)
+sambādhe vāpi vindanti 
 dhammaṃ nibbānapattiyā
 ye satiṃ paccalatthaṃsu
 sammā te susamāhitāti
@@ -136,7 +136,7 @@ jhānāni upasampajja appamattā raṇañjahāti
  ekamantaṃ  ṭhito kho veṇḍu  devaputto bhagavato santike imaṃ gāthaṃ abhāsi 
 sukhitāva te  manujā sugataṃ payirupāsiya
 yuñjaṃ  gotamasāsane appamattā nu sikkhareti
-ye  me pavutte siṭṭhipade  (veṇḍūti bhagavā)
+ye  me pavutte siṭṭhipade  
 anusikkhanti jhāyino
 kāle te appamajjantā
 na maccuvasagā siyunti

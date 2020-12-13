@@ -25,7 +25,7 @@ itthiyaṃ vattamānassa nāmassa-nte vattamānā ivaṇṇuvaṇṇā pasaññ�
  go syālapane
 ālapane si gasañño hoti
 tena kvattho gevā 265 iccādi
-(saññā)
+
  vidhibbisesanantassa
 yaṃ visesanaṃ tadantassa vidhi ñātabbo ato yonaṃ ṭāṭe 241 narānare
  sattamiyaṃ pubbassa
@@ -45,7 +45,7 @@ chaṭṭhīniddiṭṭhassa ñānubandhakānubandhā ādyantā honti brūto tis
  mānubandho sarānamantā paro
 makāro-nubandho yassa so sarā namantā sarā paro hoti mañca rudhādīnaṃ 5-19 rundhati
  vippaṭisedhe
-dvinnaṃ sāvakāsānamekatthappasaṅge paro hoti yathā dvinnaṃ tiṇṇaṃ vāpurisānaṃ sahappattiyaṃ paro so ca (gacchati) tvaṃ ca (gacchasi tumhe) gacchatha so ca (gacchati) tvaṃ ca (gacchasi) ahaṃ ca (gacchāmi mayaṃ) gacchāma
+dvinnaṃ sāvakāsānamekatthappasaṅge paro hoti yathā dvinnaṃ tiṇṇaṃ vāpurisānaṃ sahappattiyaṃ paro so ca  tvaṃ ca  gacchatha so ca  tvaṃ ca  ahaṃ ca  gacchāma
  saṅketo-navayavo-nubandho
 yo navayavabhūtosaṅketo so-nubandhoti ñātabbo lupitādīnamāsimhi 2-57 kattā
 saṅketaggahaṇaṃ kiṃ pakatiyādisamudāyassānubandhatā mā hotūti anavayavohi samudāyo samudāyarūpattāyeva
@@ -55,7 +55,7 @@ vaṇṇasaddo  paro yasmā tena savaṇṇopi gayhati saṃca rūpaṃ yuvaṇ�
  ntu vantumantvāvantutavantusambandhī
 vantvādisambandhīyevantu gayhati ntantūnaṃ nto yomhi paṭhame 2-215 guṇavanto
 vantvādisambandhīti kiṃ jantū tantū
-(paribhāsāyo)
+
  saro lopo sare
 sare saro lopanīyo hoti tatri-me saddhi-ndriyaṃ nohe-taṃ bhikkhuno-vādo sametā-yasmā abhibhā-yatanaṃ puttāma-tthi asante-ttha
  paro kvaci

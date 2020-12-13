@@ -10,13 +10,13 @@
 5.….
 6.....
 ….
-…..
-7.,.
-…..
+….(Sabbattha nava pañhā.)
+7.(saṃkhittaṃ, nava pañhā).
+….(Nava pañhā.)
 5-1. Hetuhetusampayuttaduka-kusalattikaṃ
-8.,.
-,.
-…..
+8.(saṃkhittaṃ, nava pañhā kātabbā).
+(saṃkhittaṃ, nava pañhā kātabbā).
+….(Nava pañhā kātabbā.)
 6-1. Nahetusahetukaduka-kusalattikaṃ
 9...
 ..
@@ -25,10 +25,10 @@
 10...
 ..
 ..
-11.…pe….
+11.…pe…(sappaccayadukasadisaṃ).
 12...
 ..
-...….
+...(3)….
 13..
 14...
 ..
@@ -38,13 +38,13 @@
 ...
 16.….
 ….
-…..
+….(Sabbattha nava.)
 .….
 ….
 14-1. Āsavaduka-kusalattikaṃ
 17...
 ….
-...….
+..(Dukamūlakaṃ ekaṃ.)….
 15-1. Sāsavaduka-kusalattikaṃ
 18....
 ..
@@ -56,7 +56,7 @@
 20...
 ….
 ….
-.
+(Āsavaāsavasampayuttadukaṃ natthi.)
 19-1. Āsavavippayuttasāsavaduka-kusalattikaṃ
 21....
 ..
@@ -72,7 +72,7 @@
 28...
 ..
 ..
-29.…....
+29.….(Naakusale tīṇi. Naabyākate tīṇi. Saṃkhittaṃ.)
 30.….
 31...
 32...
@@ -120,9 +120,9 @@
 ….
 ….
 1-4. Hetuduka-upādinnattikaṃ
-64....
+64....(3)
 ….
-…..
+….(Nava pañhā saṃkhittaṃ.)
 ….
 ….
 1-5. Hetuduka-saṃkiliṭṭhattikaṃ
@@ -140,7 +140,7 @@
 1-8. Hetuduka-dassanattikaṃ
 68.….
 ….
-69...,.
+69...(Dukamūlaṃ ekaṃ saṃkhittaṃ, sabbattha tīṇi.)
 1-9. Hetuduka-dassanahetuttikaṃ
 70...
 ..
@@ -182,23 +182,23 @@
 ….
 ….
 1-20. Hetuduka-ajjhattattikaṃ
-82...…,,.
-..…,,.
+82..(Saṃkhittaṃ.)…,,.
+.(Saṃkhittaṃ.)…,,.
 .
 1-21. Hetuduka-ajjhattārammaṇattikaṃ
 83.….
-…..
+….(Ajjhattabahiddhārammaṇaṃ natthi.)
 1-22. Hetuduka-sanidassanattikaṃ
 84...
 ..
-.
+(Nahetunaanidassanasappaṭighamūlepi tīṇiyeva.)
 85...
 2-5-22. Sahetukādidukāni-sanidassanattikaṃ
 86...
 ...
-.
+(Nasahetukanaanidassanasappaṭighamūlepi tīṇiyeva.)
 ..
-...
+(Nahetusampayuttaṃ nasanidassanasappaṭighaṃ sahetukadukasadisaṃ. Tīṇi pañhā. Hetusahetukaduke ca hetuhetusampayuttaduke ca pañhā no labbhati.)
 6-22. Nahetusahetukaduka-sanidassanattikaṃ
 87...
 ...
@@ -207,8 +207,8 @@
 7-8-22. Sappaccayadukādi-sanidassanattikaṃ
 88...
 ..
-.,…pe….
-.
+(Naappaccayanaanidassanaappaṭighamūlepi ekameva.),…pe….
+(Nasaṅkhataṃ nasappaccayasadisaṃ.)
 9-22. Sanidassanaduka-sanidassanattikaṃ
 89...
 ..
@@ -216,7 +216,7 @@
 10-22. Sappaṭighaduka-sanidassanattikaṃ
 90...
 ..
-...
+..(Sabbattha tīṇi.)
 ..
 ..
 11-22. Rūpīduka-sanidassanattikaṃ
@@ -226,18 +226,18 @@
 12-22. Lokiyaduka-sanidassanattikaṃ
 92...
 ..
-.
-….
+(Gaṇitakena gaṇetabbā tīṇi pañhā.)
+…(tīṇiyeva pañhā kātabbā).
 ..
 13-22. Kenaciviññeyyaduka-sanidassanattikaṃ
-93....
+93....(3)
 ….
-…..
+….(Sabbattha nava.)
 ..,…pe….
 14-22. Āsavaduka-sanidassanattikaṃ
 94...
 ...
-….
+…(purimanayena tīṇi pañhā).
 ..
 15-22. Sāsavaduka-sanidassanattikaṃ
 95...
@@ -247,21 +247,21 @@
 16-22. Āsavasampayuttaduka-sanidassanattikaṃ
 96...
 ...
-.
+(Naāsavasampayuttanaanidassanasappaṭighamūle tīṇiyeva.)
 ..
 17-22. Āsavasāsavadukādi-sanidassanattikaṃ
 97..
 ….
-.
+(Naāsavañceva naanāsavaṃ naanidassanasappaṭighamūlepi purimanayena tīṇiyeva.)
 ..
-.
+(Āsavaāsavasampayuttaduke pañhā na labbhati.)
 19-22. Āsavavippayuttasāsavaduka-sanidassanattikaṃ
 98...
 ...
-.
+(Āsavavippayuttanasāsavanaanidassanasappaṭighamūlepi purimanayeneva tīṇi pañhā.)
 ..
 20-54-22. Saññojanādichagocchakāni-sanidassanattikaṃ
-99.…..
+99.….(Tīṇi pañhā.)
 100.….
 101.….
 102.….
@@ -270,14 +270,14 @@
 55-68-22. Mahantaradukādi-sanidassanattikaṃ
 105...
 ...
-.
+(Anidassanasappaṭighe tīṇiyeva.)
 ..
 106...
 ...
 107.….
 108.….
 109.….
-110..,.
+110..(Cittasamuṭṭhānarūpeneva tīṇi, saṃkhittaṃ.)
 111.….
 112.….
 113.….
@@ -311,17 +311,17 @@
 137.….
 138...
 ..
-…..
+….(Anidassanasappaṭighe tīṇiyeva.)
 ..
 Paccanīyaṃ
 Nahetu-naārammaṇapaccayā
 139...
 ….,,…pe….
 ….
-.
+(Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
 7. Pañhāvāro
 Hetupaccayo
 140...
 ,…pe….
-,.
+(Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 Dhammapaccanīyānulome dukatikapaṭṭhānaṃ niṭṭhitaṃ.

@@ -3,385 +3,385 @@
 
 
 
- (ka) kusalā  dhammā
-(kha) akusalā dhammā
-(ga) abyākatā dhammā
- (ka) sukhāya  vedanāya sampayuttā dhammā
-(kha) dukkhāya vedanāya sampayuttā dhammā
-(ga) adukkhamasukhāya vedanāya sampayuttā dhammā
- (ka) vipākā dhammā
-(kha) vipākadhammadhammā
-(ga) nevavipākanavipākadhammadhammā
- (ka) upādiṇṇupādāniyā  dhammā
-(kha) anupādiṇṇupādāniyā dhammā
-(ga) anupādiṇṇaanupādāniyā  dhammā
- (ka) saṃkiliṭṭhasaṃkilesikā dhammā
-(kha) asaṃkiliṭṭhasaṃkilesikā dhammā
-(ga) asaṃkiliṭṭhaasaṃkilesikā  dhammā
- (ka) savitakkasavicārā  dhammā
-(kha) avitakkavicāramattā dhammā
-(ga) avitakkaavicārā  dhammā
- (ka) pītisahagatā dhammā
-(kha) sukhasahagatā dhammā
-(ga) upekkhāsahagatā dhammā
- (ka) dassanena pahātabbā dhammā
-(kha) bhāvanāya pahātabbā dhammā
-(ga) neva dassanena na bhāvanāya pahātabbā dhammā
- (ka) dassanena pahātabbahetukā dhammā
-(kha) bhāvanāya pahātabbahetukā dhammā
-(ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā
- (ka) ācayagāmino  dhammā
-(kha) apacayagāmino dhammā
-(ga) nevācayagāmināpacayagāmino  dhammā
- (ka) sekkhā dhammā
-(kha) asekkhā dhammā
-(ga) nevasekkhanāsekkhā  dhammā
- (ka) parittā dhammā
-(kha) mahaggatā dhammā
-(ga) appamāṇā dhammā
- (ka) parittārammaṇā dhammā
-(kha) mahaggatārammaṇā  dhammā
-(ga) appamāṇārammaṇā dhammā
- (ka) hīnā  dhammā
-(kha) majjhimā dhammā
-(ga) paṇītā dhammā
- (ka) micchattaniyatā dhammā
-(kha) sammattaniyatā dhammā
-(ga) aniyatā dhammā
- (ka) maggārammaṇā dhammā
-(kha) maggahetukā dhammā
-(ga) maggādhipatino dhammā
- (ka) uppannā dhammā
-(kha) anuppannā dhammā
-(ga) uppādino dhammā
- (ka) atītā  dhammā
-(kha) anāgatā dhammā
-(ga) paccuppannā dhammā
- (ka) atītārammaṇā dhammā
-(kha) anāgatārammaṇā dhammā
-(ga) paccuppannārammaṇā dhammā
- (ka) ajjhattā dhammā
-(kha) bahiddhā dhammā
-(ga) ajjhattabahiddhā dhammā
- (ka) ajjhattārammaṇā dhammā
-(kha) bahiddhārammaṇā dhammā
-(ga) ajjhattabahiddhārammaṇā dhammā
- (ka) sanidassanasappaṭighā dhammā
-(kha) anidassanasappaṭighā dhammā
-(ga) anidassanaappaṭighā  dhammā
+  kusalā  dhammā
+ akusalā dhammā
+ abyākatā dhammā
+  sukhāya  vedanāya sampayuttā dhammā
+ dukkhāya vedanāya sampayuttā dhammā
+ adukkhamasukhāya vedanāya sampayuttā dhammā
+  vipākā dhammā
+ vipākadhammadhammā
+ nevavipākanavipākadhammadhammā
+  upādiṇṇupādāniyā  dhammā
+ anupādiṇṇupādāniyā dhammā
+ anupādiṇṇaanupādāniyā  dhammā
+  saṃkiliṭṭhasaṃkilesikā dhammā
+ asaṃkiliṭṭhasaṃkilesikā dhammā
+ asaṃkiliṭṭhaasaṃkilesikā  dhammā
+  savitakkasavicārā  dhammā
+ avitakkavicāramattā dhammā
+ avitakkaavicārā  dhammā
+  pītisahagatā dhammā
+ sukhasahagatā dhammā
+ upekkhāsahagatā dhammā
+  dassanena pahātabbā dhammā
+ bhāvanāya pahātabbā dhammā
+ neva dassanena na bhāvanāya pahātabbā dhammā
+  dassanena pahātabbahetukā dhammā
+ bhāvanāya pahātabbahetukā dhammā
+ neva dassanena na bhāvanāya pahātabbahetukā dhammā
+  ācayagāmino  dhammā
+ apacayagāmino dhammā
+ nevācayagāmināpacayagāmino  dhammā
+  sekkhā dhammā
+ asekkhā dhammā
+ nevasekkhanāsekkhā  dhammā
+  parittā dhammā
+ mahaggatā dhammā
+ appamāṇā dhammā
+  parittārammaṇā dhammā
+ mahaggatārammaṇā  dhammā
+ appamāṇārammaṇā dhammā
+  hīnā  dhammā
+ majjhimā dhammā
+ paṇītā dhammā
+  micchattaniyatā dhammā
+ sammattaniyatā dhammā
+ aniyatā dhammā
+  maggārammaṇā dhammā
+ maggahetukā dhammā
+ maggādhipatino dhammā
+  uppannā dhammā
+ anuppannā dhammā
+ uppādino dhammā
+  atītā  dhammā
+ anāgatā dhammā
+ paccuppannā dhammā
+  atītārammaṇā dhammā
+ anāgatārammaṇā dhammā
+ paccuppannārammaṇā dhammā
+  ajjhattā dhammā
+ bahiddhā dhammā
+ ajjhattabahiddhā dhammā
+  ajjhattārammaṇā dhammā
+ bahiddhārammaṇā dhammā
+ ajjhattabahiddhārammaṇā dhammā
+  sanidassanasappaṭighā dhammā
+ anidassanasappaṭighā dhammā
+ anidassanaappaṭighā  dhammā
 
 
 
- (ka) hetū  dhammā
-(kha) na hetū dhammā
- (ka) sahetukā  dhammā
-(kha) ahetukā dhammā
- (ka) hetusampayuttā dhammā
-(kha) hetuvippayuttā dhammā
- (ka) hetū ceva dhammā sahetukā ca
-(kha) sahetukā ceva dhammā na ca hetū
- (ka) hetū ceva dhammā hetusampayuttā ca
-(kha) hetusampayuttā ceva dhammā na ca hetū
- (ka) na hetū kho pana dhammā sahetukāpi
-(kha) ahetukāpi
+  hetū  dhammā
+ na hetū dhammā
+  sahetukā  dhammā
+ ahetukā dhammā
+  hetusampayuttā dhammā
+ hetuvippayuttā dhammā
+  hetū ceva dhammā sahetukā ca
+ sahetukā ceva dhammā na ca hetū
+  hetū ceva dhammā hetusampayuttā ca
+ hetusampayuttā ceva dhammā na ca hetū
+  na hetū kho pana dhammā sahetukāpi
+ ahetukāpi
 
 
- (ka) sappaccayā dhammā
-(kha) appaccayā dhammā
- (ka) saṅkhatā dhammā
-(kha) asaṅkhatā dhammā
- (ka) sanidassanā  dhammā
-(kha) anidassanā dhammā
- (ka) sappaṭighā  dhammā
-(kha) appaṭighā dhammā
- (ka) rūpino  dhammā
-(kha) arūpino dhammā
- (ka) lokiyā dhammā 
-(kha) lokuttarā dhammā
- (ka) kenaci viññeyyā dhammā
-(kha) kenaci na viññeyyā dhammā
+  sappaccayā dhammā
+ appaccayā dhammā
+  saṅkhatā dhammā
+ asaṅkhatā dhammā
+  sanidassanā  dhammā
+ anidassanā dhammā
+  sappaṭighā  dhammā
+ appaṭighā dhammā
+  rūpino  dhammā
+ arūpino dhammā
+  lokiyā dhammā 
+ lokuttarā dhammā
+  kenaci viññeyyā dhammā
+ kenaci na viññeyyā dhammā
 
 
- (ka) āsavā dhammā
-(kha) no āsavā dhammā
- (ka) sāsavā dhammā
-(kha) anāsavā dhammā
- (ka) āsavasampayuttā dhammā
-(kha) āsavavippayuttā dhammā
- (ka) āsavā ceva dhammā sāsavā ca
-(kha) sāsavā ceva dhammā no ca āsavā
- (ka) āsavā  ceva dhammā āsavasampayuttā ca
-(kha) āsavasampayuttā ceva dhammā no ca āsavā
- (ka) āsavavippayuttā kho pana dhammā sāsavāpi
-(kha) anāsavāpi
+  āsavā dhammā
+ no āsavā dhammā
+  sāsavā dhammā
+ anāsavā dhammā
+  āsavasampayuttā dhammā
+ āsavavippayuttā dhammā
+  āsavā ceva dhammā sāsavā ca
+ sāsavā ceva dhammā no ca āsavā
+  āsavā  ceva dhammā āsavasampayuttā ca
+ āsavasampayuttā ceva dhammā no ca āsavā
+  āsavavippayuttā kho pana dhammā sāsavāpi
+ anāsavāpi
 
 
- (ka) saṃyojanā dhammā
-(kha) no saṃyojanā dhammā
- (ka) saṃyojaniyā  dhammā
-(kha) asaṃyojaniyā dhammā
- (ka) saṃyojanasampayuttā dhammā
-(kha) saṃyojanavippayuttā dhammā
- (ka) saṃyojanā ceva dhammā saṃyojaniyā ca
-(kha) saṃyojaniyā ceva dhammā no ca saṃyojanā
- (ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca
-(kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā
- (ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi
-(kha) asaṃyojaniyāpi
+  saṃyojanā dhammā
+ no saṃyojanā dhammā
+  saṃyojaniyā  dhammā
+ asaṃyojaniyā dhammā
+  saṃyojanasampayuttā dhammā
+ saṃyojanavippayuttā dhammā
+  saṃyojanā ceva dhammā saṃyojaniyā ca
+ saṃyojaniyā ceva dhammā no ca saṃyojanā
+  saṃyojanā ceva dhammā saṃyojanasampayuttā ca
+ saṃyojanasampayuttā ceva dhammā no ca saṃyojanā
+  saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi
+ asaṃyojaniyāpi
 
 
- (ka) ganthā  dhammā
-(kha) no ganthā dhammā
- (ka) ganthaniyā dhammā
-(kha) aganthaniyā dhammā
- (ka) ganthasampayuttā dhammā
-(kha) ganthavippayuttā dhammā
- (ka) ganthā ceva dhammā ganthaniyā ca
-(kha) ganthaniyā ceva dhammā no ca ganthā
- (ka) ganthā ceva dhammā  ganthasampayuttā ca
-(kha) ganthasampayuttā ceva dhammā no ca ganthā
- (ka) ganthavippayuttā  kho pana dhammā ganthaniyāpi
-(kha) aganthaniyāpi
+  ganthā  dhammā
+ no ganthā dhammā
+  ganthaniyā dhammā
+ aganthaniyā dhammā
+  ganthasampayuttā dhammā
+ ganthavippayuttā dhammā
+  ganthā ceva dhammā ganthaniyā ca
+ ganthaniyā ceva dhammā no ca ganthā
+  ganthā ceva dhammā  ganthasampayuttā ca
+ ganthasampayuttā ceva dhammā no ca ganthā
+  ganthavippayuttā  kho pana dhammā ganthaniyāpi
+ aganthaniyāpi
 
 
- (ka) oghā dhammā
-(kha) no oghā dhammā
- (ka) oghaniyā dhammā
-(kha) anoghaniyā dhammā
- (ka) oghasampayuttā  dhammā
-(kha) oghavippayuttā dhammā
- (ka) oghā ceva dhammā oghaniyā ca
-(kha) oghaniyā ceva dhammā no ca oghā
- (ka) oghā ceva dhammā oghasampayuttā ca
-(kha) oghasampayuttā ceva dhammā no ca oghā
- (ka) oghavippayuttā kho pana dhammā oghaniyāpi
-(kha) anoghaniyāpi
+  oghā dhammā
+ no oghā dhammā
+  oghaniyā dhammā
+ anoghaniyā dhammā
+  oghasampayuttā  dhammā
+ oghavippayuttā dhammā
+  oghā ceva dhammā oghaniyā ca
+ oghaniyā ceva dhammā no ca oghā
+  oghā ceva dhammā oghasampayuttā ca
+ oghasampayuttā ceva dhammā no ca oghā
+  oghavippayuttā kho pana dhammā oghaniyāpi
+ anoghaniyāpi
 
 
- (ka) yogā dhammā
-(kha) no yogā dhammā
- (ka) yoganiyā dhammā
-(kha) ayoganiyā dhammā
- (ka) yogasampayuttā dhammā
-(kha) yogavippayuttā dhammā
- (ka) yogā  ceva dhammā yoganiyā ca
-(kha) yoganiyā ceva dhammā no ca yogā
- (ka) yogā  ceva dhammā yogasampayuttā ca
-(kha) yogasampayuttā ceva dhammā no ca yogā
- (ka) yogavippayuttā kho pana dhammā yoganiyāpi
-(kha) ayoganiyāpi
+  yogā dhammā
+ no yogā dhammā
+  yoganiyā dhammā
+ ayoganiyā dhammā
+  yogasampayuttā dhammā
+ yogavippayuttā dhammā
+  yogā  ceva dhammā yoganiyā ca
+ yoganiyā ceva dhammā no ca yogā
+  yogā  ceva dhammā yogasampayuttā ca
+ yogasampayuttā ceva dhammā no ca yogā
+  yogavippayuttā kho pana dhammā yoganiyāpi
+ ayoganiyāpi
 
 
- (ka) nīvaraṇā dhammā
-(kha) no nīvaraṇā dhammā
- (ka) nīvaraṇiyā dhammā
-(kha) anīvaraṇiyā dhammā
- (ka) nīvaraṇasampayuttā dhammā
-(kha) nīvaraṇavippayuttā dhammā
- (ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca
-(kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā
- (ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca
-(kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
- (ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi
-(kha) anīvaraṇiyāpi 
+  nīvaraṇā dhammā
+ no nīvaraṇā dhammā
+  nīvaraṇiyā dhammā
+ anīvaraṇiyā dhammā
+  nīvaraṇasampayuttā dhammā
+ nīvaraṇavippayuttā dhammā
+  nīvaraṇā ceva dhammā nīvaraṇiyā ca
+ nīvaraṇiyā ceva dhammā no ca nīvaraṇā
+  nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca
+ nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
+  nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi
+ anīvaraṇiyāpi 
 
 
- (ka) parāmāsā  dhammā
-(kha) no parāmāsā dhammā
- (ka) parāmaṭṭhā dhammā
-(kha) aparāmaṭṭhā dhammā
- (ka) parāmāsasampayuttā dhammā
-(kha) parāmāsavippayuttā dhammā
- (ka) parāmāsā ceva dhammā parāmaṭṭhā ca
-(kha) parāmaṭṭhā ceva dhammā no ca parāmāsā
- (ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi
-(kha) aparāmaṭṭhāpi
+  parāmāsā  dhammā
+ no parāmāsā dhammā
+  parāmaṭṭhā dhammā
+ aparāmaṭṭhā dhammā
+  parāmāsasampayuttā dhammā
+ parāmāsavippayuttā dhammā
+  parāmāsā ceva dhammā parāmaṭṭhā ca
+ parāmaṭṭhā ceva dhammā no ca parāmāsā
+  parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi
+ aparāmaṭṭhāpi
 
 
- (ka) sārammaṇā dhammā
-(kha) anārammaṇā dhammā
- (ka) cittā dhammā
-(kha) no cittā dhammā
- (ka) cetasikā dhammā
-(kha) acetasikā dhammā
- (ka) cittasampayuttā  dhammā
-(kha) cittavippayuttā dhammā
- (ka) cittasaṃsaṭṭhā dhammā
-(kha) cittavisaṃsaṭṭhā dhammā
- (ka) cittasamuṭṭhānā dhammā
-(kha) no cittasamuṭṭhānā dhammā
- (ka) cittasahabhuno  dhammā
-(kha) no cittasahabhuno dhammā
- (ka) cittānuparivattino dhammā
-(kha) no cittānuparivattino dhammā
- (ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā
-(kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā
- (ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
-(kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
- (ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
-(kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
- (ka) ajjhattikā dhammā
-(kha) bāhirā dhammā
- (ka) upādā dhammā
-(kha) no upādā dhammā
- (ka) upādiṇṇā  dhammā
-(kha) anupādiṇṇā dhammā
+  sārammaṇā dhammā
+ anārammaṇā dhammā
+  cittā dhammā
+ no cittā dhammā
+  cetasikā dhammā
+ acetasikā dhammā
+  cittasampayuttā  dhammā
+ cittavippayuttā dhammā
+  cittasaṃsaṭṭhā dhammā
+ cittavisaṃsaṭṭhā dhammā
+  cittasamuṭṭhānā dhammā
+ no cittasamuṭṭhānā dhammā
+  cittasahabhuno  dhammā
+ no cittasahabhuno dhammā
+  cittānuparivattino dhammā
+ no cittānuparivattino dhammā
+  cittasaṃsaṭṭhasamuṭṭhānā dhammā
+ no cittasaṃsaṭṭhasamuṭṭhānā dhammā
+  cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
+ no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā
+  cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
+ no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā
+  ajjhattikā dhammā
+ bāhirā dhammā
+  upādā dhammā
+ no upādā dhammā
+  upādiṇṇā  dhammā
+ anupādiṇṇā dhammā
 
 
- (ka) upādānā  dhammā
-(kha) no upādānā dhammā
- (ka) upādāniyā dhammā
-(kha) anupādāniyā dhammā
- (ka) upādānasampayuttā dhammā
-(kha) upādānavippayuttā dhammā
- (ka) upādānā ceva dhammā upādāniyā ca
-(kha) upādāniyā ceva dhammā no ca upādānā
- (ka) upādānā  ceva dhammā upādānasampayuttā ca
-(kha) upādānasampayuttā ceva dhammā no ca upādānā
- (ka) upādānavippayuttā  kho pana dhammā upādāniyāpi
-(kha) anupādāniyāpi
+  upādānā  dhammā
+ no upādānā dhammā
+  upādāniyā dhammā
+ anupādāniyā dhammā
+  upādānasampayuttā dhammā
+ upādānavippayuttā dhammā
+  upādānā ceva dhammā upādāniyā ca
+ upādāniyā ceva dhammā no ca upādānā
+  upādānā  ceva dhammā upādānasampayuttā ca
+ upādānasampayuttā ceva dhammā no ca upādānā
+  upādānavippayuttā  kho pana dhammā upādāniyāpi
+ anupādāniyāpi
 
 
- (ka) kilesā  dhammā
-(kha) no kilesā dhammā
- (ka) saṃkilesikā dhammā
-(kha) asaṃkilesikā dhammā
- (ka) saṃkiliṭṭhā dhammā
-(kha) asaṃkiliṭṭhā dhammā
- (ka) kilesasampayuttā dhammā
-(kha) kilesavippayuttā dhammā
- (ka) kilesā ceva dhammā saṃkilesikā ca
-(kha) saṃkilesikā ceva dhammā no ca kilesā
- (ka) kilesā ceva dhammā saṃkiliṭṭhā ca
-(kha) saṃkiliṭṭhā ceva dhammā no ca kilesā
- (ka) kilesā ceva dhammā kilesasampayuttā ca
-(kha) kilesasampayuttā ceva dhammā no ca kilesā
- (ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi
-(kha) asaṃkilesikāpi
+  kilesā  dhammā
+ no kilesā dhammā
+  saṃkilesikā dhammā
+ asaṃkilesikā dhammā
+  saṃkiliṭṭhā dhammā
+ asaṃkiliṭṭhā dhammā
+  kilesasampayuttā dhammā
+ kilesavippayuttā dhammā
+  kilesā ceva dhammā saṃkilesikā ca
+ saṃkilesikā ceva dhammā no ca kilesā
+  kilesā ceva dhammā saṃkiliṭṭhā ca
+ saṃkiliṭṭhā ceva dhammā no ca kilesā
+  kilesā ceva dhammā kilesasampayuttā ca
+ kilesasampayuttā ceva dhammā no ca kilesā
+  kilesavippayuttā kho pana dhammā saṃkilesikāpi
+ asaṃkilesikāpi
 
 
- (ka) dassanena  pahātabbā dhammā
-(kha) na dassanena pahātabbā dhammā
- (ka) bhāvanāya pahātabbā dhammā
-(kha) na bhāvanāya pahātabbā dhammā
- (ka) dassanena pahātabbahetukā dhammā
-(kha) na dassanena pahātabbahetukā dhammā
- (ka) bhāvanāya pahātabbahetukā dhammā
-(kha) na bhāvanāya pahātabbahetukā dhammā
- (ka) savitakkā dhammā
-(kha) avitakkā dhammā
- (ka) savicārā dhammā
-(kha) avicārā dhammā
- (ka) sappītikā  dhammā
-(kha) appītikā dhammā
- (ka) pītisahagatā dhammā
-(kha) na pītisahagatā dhammā
- (ka) sukhasahagatā dhammā
-(kha) na sukhasahagatā dhammā
- (ka) upekkhāsahagatā dhammā
-(kha) na upekkhāsahagatā dhammā
- (ka) kāmāvacarā  dhammā
-(kha) na kāmāvacarā dhammā
- (ka) rūpāvacarā dhammā
-(kha) na rūpāvacarā dhammā
- (ka) arūpāvacarā dhammā
-(kha) na arūpāvacarā dhammā
- (ka) pariyāpannā  dhammā
-(kha) apariyāpannā dhammā
- (ka) niyyānikā dhammā
-(kha) aniyyānikā dhammā
- (ka) niyatā  dhammā
-(kha) aniyatā dhammā
- (ka) sauttarā dhammā
-(kha) anuttarā dhammā
- (ka) saraṇā dhammā
-(kha) araṇā dhammā
+  dassanena  pahātabbā dhammā
+ na dassanena pahātabbā dhammā
+  bhāvanāya pahātabbā dhammā
+ na bhāvanāya pahātabbā dhammā
+  dassanena pahātabbahetukā dhammā
+ na dassanena pahātabbahetukā dhammā
+  bhāvanāya pahātabbahetukā dhammā
+ na bhāvanāya pahātabbahetukā dhammā
+  savitakkā dhammā
+ avitakkā dhammā
+  savicārā dhammā
+ avicārā dhammā
+  sappītikā  dhammā
+ appītikā dhammā
+  pītisahagatā dhammā
+ na pītisahagatā dhammā
+  sukhasahagatā dhammā
+ na sukhasahagatā dhammā
+  upekkhāsahagatā dhammā
+ na upekkhāsahagatā dhammā
+  kāmāvacarā  dhammā
+ na kāmāvacarā dhammā
+  rūpāvacarā dhammā
+ na rūpāvacarā dhammā
+  arūpāvacarā dhammā
+ na arūpāvacarā dhammā
+  pariyāpannā  dhammā
+ apariyāpannā dhammā
+  niyyānikā dhammā
+ aniyyānikā dhammā
+  niyatā  dhammā
+ aniyatā dhammā
+  sauttarā dhammā
+ anuttarā dhammā
+  saraṇā dhammā
+ araṇā dhammā
 
 
 
- (ka) vijjābhāgino  dhammā
-(kha) avijjābhāgino dhammā
- (ka) vijjūpamā dhammā
-(kha) vajirūpamā dhammā
- (ka) bālā dhammā
-(kha) paṇḍitā dhammā
- (ka) kaṇhā dhammā
-(kha) sukkā dhammā
- (ka) tapanīyā dhammā
-(kha) atapanīyā dhammā
- (ka) adhivacanā dhammā
-(kha) adhivacanapathā dhammā
- (ka) nirutti  dhammā
-(kha) niruttipathā dhammā
- (ka) paññatti dhammā
-(kha) paññattipathā dhammā
- (ka) nāmañca
-(kha) rūpañca
- (ka) avijjā ca
-(kha) bhavataṇhā ca
- (ka) bhavadiṭṭhi  ca
-(kha) vibhavadiṭṭhi ca
- (ka) sassatadiṭṭhi ca
-(kha) ucchedadiṭṭhi ca
- (ka) antavā diṭṭhi ca
-(kha) anantavā diṭṭhi ca
- (ka) pubbantānudiṭṭhi ca
-(kha) aparantānudiṭṭhi ca
- (ka) ahirikañca
-(kha) anottappañca
- (ka) hirī ca
-(kha) ottappañca
- (ka) dovacassatā ca
-(kha) pāpamittatā ca
- (ka) sovacassatā ca
-(kha) kalyāṇamittatā ca
- (ka) āpattikusalatā ca
-(kha) āpattivuṭṭhānakusalatā ca
- (ka) samāpattikusalatā ca
-(kha) samāpattivuṭṭhānakusalatā ca
- (ka) dhātukusalatā  ca
-(kha) manasikārakusalatā  ca
- (ka) āyatanakusalatā  ca
-(kha) paṭiccasamuppādakusalatā ca
- (ka) ṭhānakusalatā ca
-(kha) aṭṭhānakusalatā ca
- (ka) ajjavo ca
-(kha) maddavo ca
- (ka) khanti ca
-(kha) soraccañca
- (ka) sākhalyañca
-(kha) paṭisanthāro ca 
- (ka) indriyesu aguttadvāratā ca
-(kha) bhojane amattaññutā ca
- (ka) indriyesu guttadvāratā ca
-(kha) bhojane mattaññutā ca
- (ka) muṭṭhasaccañca
-(kha) asampajaññañca
- (ka) sati ca
-(kha) sampajaññañca
- (ka) paṭisaṅkhānabalañca
-(kha) bhāvanābalañca
- (ka) samatho  ca
-(kha) vipassanā ca
- (ka) samathanimittañca 
-(kha) paggāhanimittañca
- (ka) paggāho  ca
-(kha) avikkhepo ca
- (ka) sīlavipatti ca
-(kha) diṭṭhivipatti ca
- (ka) sīlasampadā ca
-(kha) diṭṭhisampadā ca
- (ka) sīlavisuddhi ca
-(kha) diṭṭhivisuddhi ca
- (ka) diṭṭhivisuddhi kho pana
-(kha) yathādiṭṭhissa ca padhānaṃ
- (ka) saṃvego ca saṃvejaniyesu ṭhānesu
-(kha) saṃviggassa ca yoniso padhānaṃ
- (ka) asantuṭṭhitā ca kusalesu dhammesu
-(kha) appaṭivānitā ca padhānasmiṃ
- (ka) vijjā ca
-(kha) vimutti ca
- (ka) khaye ñāṇaṃ
-(kha) anuppāde ñāṇanti
+  vijjābhāgino  dhammā
+ avijjābhāgino dhammā
+  vijjūpamā dhammā
+ vajirūpamā dhammā
+  bālā dhammā
+ paṇḍitā dhammā
+  kaṇhā dhammā
+ sukkā dhammā
+  tapanīyā dhammā
+ atapanīyā dhammā
+  adhivacanā dhammā
+ adhivacanapathā dhammā
+  nirutti  dhammā
+ niruttipathā dhammā
+  paññatti dhammā
+ paññattipathā dhammā
+  nāmañca
+ rūpañca
+  avijjā ca
+ bhavataṇhā ca
+  bhavadiṭṭhi  ca
+ vibhavadiṭṭhi ca
+  sassatadiṭṭhi ca
+ ucchedadiṭṭhi ca
+  antavā diṭṭhi ca
+ anantavā diṭṭhi ca
+  pubbantānudiṭṭhi ca
+ aparantānudiṭṭhi ca
+  ahirikañca
+ anottappañca
+  hirī ca
+ ottappañca
+  dovacassatā ca
+ pāpamittatā ca
+  sovacassatā ca
+ kalyāṇamittatā ca
+  āpattikusalatā ca
+ āpattivuṭṭhānakusalatā ca
+  samāpattikusalatā ca
+ samāpattivuṭṭhānakusalatā ca
+  dhātukusalatā  ca
+ manasikārakusalatā  ca
+  āyatanakusalatā  ca
+ paṭiccasamuppādakusalatā ca
+  ṭhānakusalatā ca
+ aṭṭhānakusalatā ca
+  ajjavo ca
+ maddavo ca
+  khanti ca
+ soraccañca
+  sākhalyañca
+ paṭisanthāro ca 
+  indriyesu aguttadvāratā ca
+ bhojane amattaññutā ca
+  indriyesu guttadvāratā ca
+ bhojane mattaññutā ca
+  muṭṭhasaccañca
+ asampajaññañca
+  sati ca
+ sampajaññañca
+  paṭisaṅkhānabalañca
+ bhāvanābalañca
+  samatho  ca
+ vipassanā ca
+  samathanimittañca 
+ paggāhanimittañca
+  paggāho  ca
+ avikkhepo ca
+  sīlavipatti ca
+ diṭṭhivipatti ca
+  sīlasampadā ca
+ diṭṭhisampadā ca
+  sīlavisuddhi ca
+ diṭṭhivisuddhi ca
+  diṭṭhivisuddhi kho pana
+ yathādiṭṭhissa ca padhānaṃ
+  saṃvego ca saṃvejaniyesu ṭhānesu
+ saṃviggassa ca yoniso padhānaṃ
+  asantuṭṭhitā ca kusalesu dhammesu
+ appaṭivānitā ca padhānasmiṃ
+  vijjā ca
+ vimutti ca
+  khaye ñāṇaṃ
+ anuppāde ñāṇanti
 
 

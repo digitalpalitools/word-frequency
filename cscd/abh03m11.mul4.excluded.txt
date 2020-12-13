@@ -3,31 +3,31 @@
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-1.–.–..
-...
-....
+1.–.–..(3)
+...(3)
+...(3)(Saṃkhittaṃ.)
 2.…pe….
 .
-…pe….
+(Sahajātavārepi…pe… sampayuttavārepi sabbattha vitthāro.)
 Hetu-ārammaṇapaccayā
-3....
-..
-4.,…pe…..
-5.–…pe……pe…–..
-...
-....
-…pe…..
-6.–,...
+3....(3)
+.(Saṃkhittaṃ.)
+4.,…pe….(Pañhāvāraṃ evaṃ vitthāretabbaṃ).
+5.–…pe……pe…–..(3)
+...(3)
+...(3)(Saṃkhittaṃ).
+…pe….(Sabbattha nava.)
+6.–,...(3)
 ….
-....
-…pe…..
+...(3)(Saṃkhittaṃ.)
+…pe….(Sabbattha nava.)
 1-2 Hetuduka-vedanāttikaṃ
-7....
-..
-8...
-..
-9...
-..
+7...(Saṃkhittaṃ.)
+.(Sabbattha nava.)
+8..(Saṃkhittaṃ.)
+.(Sabbattha nava.)
+9..(Saṃkhittaṃ.)
+.(Sabbattha nava.)
 1-3-9. Hetuduka-vipākādittikāni
 10.…pe….
 …pe….
@@ -87,52 +87,52 @@ Hetu-ārammaṇapaccayā
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
 Hetupaccayo
-29....
-...
-....
-…pe…..
-30....
-...
-....
-…pe….…pe….
+29....(3)
+...(3)
+...(3)(Saṃkhittaṃ.)
+…pe….(Sabbattha nava.)
+30....(3)
+...(3)
+...(3)(Saṃkhittaṃ.)
+…pe….(Sahajātavārepi…pe… sampayuttavārepi sabbattha vitthāro.)
 Hetu-ārammaṇapaccayā
-31....
-..
-,…pe…,,,,,,,,,…pe…..
-32...
-..
+31....(3)
+.(Saṃkhittaṃ.)
+,…pe…,,,,,,,,,…pe….(Pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+32..(1)(Saṃkhittaṃ.)
+.(Sabbattha vitthāro.)
 2-3-1. Sahetukadukādi-kusalattikaṃ
-33.–,…pe……pe…–;..
+33.–,…pe……pe…–;..(3)
 ….
-…..
+….(Saṃkhittaṃ.)
 .
 34.….
 ….
-…..
+….(Saṃkhittaṃ.)
 .
-35..
+35..(1)
+.(1)
+.(1)(Saṃkhittaṃ.)
 .
-..
-.
-.
+(Hetusampayuttadukaṃ sahetukadukasadisaṃ.)
 4-5-1. Hetusahetukadukādi-kusalattikaṃ
-36....
+36....(3)
 ….
-…..
+….(Saṃkhittaṃ.)
 .
-37...
+37..(Saṃkhittaṃ.)
 .
-38...
+38..(Saṃkhittaṃ.)
 .
 .
 6-1. Nahetusahetukaduka-kusalattikaṃ
-39...
+39..(Saṃkhittaṃ.)
 .
-40...
+40..(Saṃkhittaṃ.)
 .
-41....
+41..(Ekapañhameva. Etena upāyena kusalākusaladukaṃ kusalattikameva ettha vaṭṭati.)
 7-13-1. Cūḷantaradukāni-kusalattikaṃ
-42.…pe…..…pe….
+42.…pe….(Sabbattha ekaṃ.)…pe….
 43.….
 44.…pe…….
 45.…pe…….
@@ -152,8 +152,8 @@ Hetu-ārammaṇapaccayā
 55-1. Mahantaraduka-kusalattikaṃ
 56.…pe…….
 57.…pe…….
-58.…..
-59.…..
+58.….(Saṃkhittaṃ.)
+59.….(Saṃkhittaṃ.)
 60.….
 61.….
 62.….
@@ -169,7 +169,7 @@ Hetu-ārammaṇapaccayā
 70.…pe…….
 71.…pe…….
 72.…pe…….
-73.…pe……pe……pe……pe…,.
+73.…pe……pe……pe……pe…(sabbattha nava, vipākaṃ natthi).
 …pe…….
 83-1. Piṭṭhiduka-kusalattikaṃ
 74.…pe…….
@@ -179,17 +179,17 @@ Hetu-ārammaṇapaccayā
 78.…pe……pe……pe…….
 79.…pe…….
 80.…pe…….
-81.…pe……...
-…pe……..
-82.…pe……..
-83..
-...
-..
-84.....
-85..
-..
+81.…pe…….(Saṃkhittaṃ. Sabbattha ekaṃ.)
+…pe…….(Saṃkhittaṃ.)
+82.…pe…….(Saṃkhittaṃ.)
+83..(1)
+...(3)
+.(1)(Saṃkhittaṃ.)
+84..(Saṃkhittaṃ.).(Sabbattha ekaṃ.)
+85..(1)
+.(1)(Saṃkhittaṃ.)
 ,…pe….
-…pe….
+(Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 100-2. Saraṇaduka-vedanādittikāni
 Paccayacatukkaṃ
 Hetupaccayo
@@ -201,15 +201,15 @@ Hetupaccayo
 ….
 ….
 100-22. Saraṇaduka-sanidassanattikaṃ
-89..
-...
-..
+89..(1)
+...(3)
+.(1)(Saṃkhittaṃ.)
 .
-90..
-...
-..
+90..(1)
+...(3)
+.(1)(Saṃkhittaṃ.)
 ,…pe….
-…pe….
-91...
-..
+(Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbaṃ.)
+91..(Saṃkhittaṃ.)
+.(Sabbattha vitthāro.)
 Dhammapaccanīye dukatikapaṭṭhānaṃ niṭṭhitaṃ.

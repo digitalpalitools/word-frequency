@@ -10,179 +10,179 @@
  kittāvatā  saccānaṃ saccapaññatti yāvatā cattāri saccāni  dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ ettāvatā saccānaṃ saccapaññatti
  kittāvatā indriyānaṃ indriyapaññatti yāvatā bāvīsatindriyāni  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ ettāvatā indriyānaṃ indriyapaññatti
 
-(1) samayavimutto
-(2) asamayavimutto
-(3) kuppadhammo
-(4) akuppadhammo
-(5) parihānadhammo
-(6) aparihānadhammo
-(7) cetanābhabbo 
-(8) anurakkhaṇābhabbo
-(9) puthujjano
-(10) gotrabhū
-(11) bhayūparato
-(12) abhayūparato
-(13) bhabbāgamano
-(14) abhabbāgamano
-(15) niyato
-(16) aniyato
-(17) paṭipannako 
-(18) phaleṭhito
-(19) samasīsī
-(20) ṭhitakappī
-(21) ariyo
-(22) anariyo
-(23) sekkho
-(24) asekkho
-(25) nevasekkhanāsekkho
-(26) tevijjo
-(27) chaḷabhiñño
-(28) sammāsambuddho 
-(29) paccekasambuddho 
-(30) ubhatobhāgavimutto
-(31) paññāvimutto
-(32) kāyasakkhī
-(33) diṭṭhippatto
-(34) saddhāvimutto
-(35) dhammānusārī
-(36) saddhānusārī
-(37) sattakkhattuparamo
-(38) kolaṅkolo
-(39) ekabījī
-(40) sakadāgāmī 
-(41) anāgāmī
-(42) antarāparinibbāyī
-(43) upahaccaparinibbāyī
-(44) asaṅkhāraparinibbāyī
-(45) sasaṅkhāraparinibbāyī
-(46) uddhaṃsotoakaniṭṭhagāmī
-(47) sotāpanno
-(48) sotāpattiphalasacchikiriyāya paṭipanno
-(49) sakadāgāmī 
-(50) sakadāgāmiphalasacchikiriyāya paṭipanno
-(51) anāgāmī
-(52) anāgāmiphalasacchikiriyāya paṭipanno
-(53) arahā
-(54) arahattaphalasacchikiriyāya  paṭipanno
+ samayavimutto
+ asamayavimutto
+ kuppadhammo
+ akuppadhammo
+ parihānadhammo
+ aparihānadhammo
+ cetanābhabbo 
+ anurakkhaṇābhabbo
+ puthujjano
+ gotrabhū
+ bhayūparato
+ abhayūparato
+ bhabbāgamano
+ abhabbāgamano
+ niyato
+ aniyato
+ paṭipannako 
+ phaleṭhito
+ samasīsī
+ ṭhitakappī
+ ariyo
+ anariyo
+ sekkho
+ asekkho
+ nevasekkhanāsekkho
+ tevijjo
+ chaḷabhiñño
+ sammāsambuddho 
+ paccekasambuddho 
+ ubhatobhāgavimutto
+ paññāvimutto
+ kāyasakkhī
+ diṭṭhippatto
+ saddhāvimutto
+ dhammānusārī
+ saddhānusārī
+ sattakkhattuparamo
+ kolaṅkolo
+ ekabījī
+ sakadāgāmī 
+ anāgāmī
+ antarāparinibbāyī
+ upahaccaparinibbāyī
+ asaṅkhāraparinibbāyī
+ sasaṅkhāraparinibbāyī
+ uddhaṃsotoakaniṭṭhagāmī
+ sotāpanno
+ sotāpattiphalasacchikiriyāya paṭipanno
+ sakadāgāmī 
+ sakadāgāmiphalasacchikiriyāya paṭipanno
+ anāgāmī
+ anāgāmiphalasacchikiriyāya paṭipanno
+ arahā
+ arahattaphalasacchikiriyāya  paṭipanno
 
 
 
-(1) kodhano ca upanāhī ca
-(2) makkhī ca paḷāsī  ca
-(3) issukī ca maccharī ca
-(4) saṭho ca māyāvī ca
-(5) ahiriko  ca anottappī ca
-(6) dubbaco ca pāpamitto ca
-(7) indriyesu  aguttadvāro ca bhojane amattaññū ca
-(8) muṭṭhassati ca asampajāno ca
-(9) sīlavipanno ca diṭṭhivipanno ca
-(10) ajjhattasaṃyojano  ca bahiddhāsaṃyojano ca
-(11) akkodhano ca anupanāhī ca
-(12) amakkhī ca apaḷāsī ca
-(13) anissukī ca amaccharī ca
-(14) asaṭho ca amāyāvī ca
-(15) hirimā ca ottappī ca
-(16) suvaco ca kalyāṇamitto ca
-(17) indriyesu guttadvāro ca bhojane mattaññū ca
-(18) upaṭṭhitassati ca sampajāno ca
-(19) sīlasampanno ca diṭṭhisampanno ca
-(20) dve puggalā dullabhā lokasmiṃ
-(21) dve puggalā duttappayā
-(22) dve puggalā sutappayā
-(23) dvinnaṃ puggalānaṃ āsavā vaḍḍhanti
-(24) dvinnaṃ puggalānaṃ āsavā na vaḍḍhanti
-(25) hīnādhimutto ca paṇītādhimutto ca
-(26) titto ca tappetā ca
+ kodhano ca upanāhī ca
+ makkhī ca paḷāsī  ca
+ issukī ca maccharī ca
+ saṭho ca māyāvī ca
+ ahiriko  ca anottappī ca
+ dubbaco ca pāpamitto ca
+ indriyesu  aguttadvāro ca bhojane amattaññū ca
+ muṭṭhassati ca asampajāno ca
+ sīlavipanno ca diṭṭhivipanno ca
+ ajjhattasaṃyojano  ca bahiddhāsaṃyojano ca
+ akkodhano ca anupanāhī ca
+ amakkhī ca apaḷāsī ca
+ anissukī ca amaccharī ca
+ asaṭho ca amāyāvī ca
+ hirimā ca ottappī ca
+ suvaco ca kalyāṇamitto ca
+ indriyesu guttadvāro ca bhojane mattaññū ca
+ upaṭṭhitassati ca sampajāno ca
+ sīlasampanno ca diṭṭhisampanno ca
+ dve puggalā dullabhā lokasmiṃ
+ dve puggalā duttappayā
+ dve puggalā sutappayā
+ dvinnaṃ puggalānaṃ āsavā vaḍḍhanti
+ dvinnaṃ puggalānaṃ āsavā na vaḍḍhanti
+ hīnādhimutto ca paṇītādhimutto ca
+ titto ca tappetā ca
 
 
 
-(1) nirāso āsaṃso vigatāso
-(2) tayo gilānūpamā puggalā
-(3) kāyasakkhī diṭṭhippatto saddhāvimutto
-(4) gūthabhāṇī pupphabhāṇī madhubhāṇī
-(5) arukūpamacitto puggalo vijjūpamacitto puggalo  vajirūpamacitto puggalo
-(6) andho ekacakkhu dvicakkhu
-(7) avakujjapañño puggalo ucchaṅgapañño  puggalo puthupañño puggalo
-(8) atthekacco  puggalo kāmesu ca bhavesu ca avītarāgo atthekacco puggalo kāmesu vītarāgo bhavesu avītarāgo atthekacco puggalo kāmesu ca bhavesu ca vītarāgo
-(9) pāsāṇalekhūpamo puggalo pathavilekhūpamo puggalo udakalekhūpamo puggalo
-(10) tayo potthakūpamā puggalā
-(11) tayo kāsikavatthūpamā puggalā
-(12) suppameyyo duppameyyo appameyyo
-(13) atthekacco puggalo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo atthekacco puggalo sakkatvā garuṃ katvā  sevitabbo bhajitabbo payirupāsitabbo
-(14) atthekacco  puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo
-(15) atthekacco puggalo sīlesu paripūrakārī  samādhismiṃ mattaso kārī paññāya mattaso  kārī atthekacco puggalo sīlesu ca paripūrakārī samādhismiñca paripūrakārī paññāya mattaso kārī atthekacco puggalo sīlesu ca paripūrakārī samādhismiñca paripūrakārī paññāya ca paripūrakārī
-(16) tayo satthāro
-(17) aparepi tayo satthāro
+ nirāso āsaṃso vigatāso
+ tayo gilānūpamā puggalā
+ kāyasakkhī diṭṭhippatto saddhāvimutto
+ gūthabhāṇī pupphabhāṇī madhubhāṇī
+ arukūpamacitto puggalo vijjūpamacitto puggalo  vajirūpamacitto puggalo
+ andho ekacakkhu dvicakkhu
+ avakujjapañño puggalo ucchaṅgapañño  puggalo puthupañño puggalo
+ atthekacco  puggalo kāmesu ca bhavesu ca avītarāgo atthekacco puggalo kāmesu vītarāgo bhavesu avītarāgo atthekacco puggalo kāmesu ca bhavesu ca vītarāgo
+ pāsāṇalekhūpamo puggalo pathavilekhūpamo puggalo udakalekhūpamo puggalo
+ tayo potthakūpamā puggalā
+ tayo kāsikavatthūpamā puggalā
+ suppameyyo duppameyyo appameyyo
+ atthekacco puggalo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo atthekacco puggalo sakkatvā garuṃ katvā  sevitabbo bhajitabbo payirupāsitabbo
+ atthekacco  puggalo jigucchitabbo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo ajjhupekkhitabbo na sevitabbo na bhajitabbo na payirupāsitabbo atthekacco puggalo sevitabbo bhajitabbo payirupāsitabbo
+ atthekacco puggalo sīlesu paripūrakārī  samādhismiṃ mattaso kārī paññāya mattaso  kārī atthekacco puggalo sīlesu ca paripūrakārī samādhismiñca paripūrakārī paññāya mattaso kārī atthekacco puggalo sīlesu ca paripūrakārī samādhismiñca paripūrakārī paññāya ca paripūrakārī
+ tayo satthāro
+ aparepi tayo satthāro
 
 
 
-(1) asappuriso asappurisena asappurisataro sappuriso sappurisena sappurisataro
-(2) pāpo pāpena pāpataro kalyāṇo kalyāṇena kalyāṇataro
-(3) pāpadhammo  pāpadhammena pāpadhammataro kalyāṇadhammo kalyāṇadhammena kalyāṇadhammataro
-(4) sāvajjo vajjabahulo appavajjo  anavajjo
-(5) ugghaṭitaññū vipañcitaññū  neyyo padaparamo
-(6) yuttappaṭibhāno  no muttappaṭibhāno muttappaṭibhāno no yuttappaṭibhāno yuttappaṭibhāno ca muttappaṭibhāno ca neva yuttappaṭibhāno no muttappaṭibhāno
-(7) cattāro dhammakathikā puggalā
-(8) cattāro valāhakūpamā puggalā
-(9) cattāro mūsikūpamā puggalā
-(10) cattāro  ambūpamā puggalā
-(11) cattāro kumbhūpamā puggalā
-(12) cattāro udakarahadūpamā puggalā
-(13) cattāro balībaddūpamā  puggalā
-(14) cattāro āsīvisūpamā puggalā
-(15) atthekacco puggalo ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃsitā hoti
-(16) atthekacco puggalo anuvicca pariyogāhetvā avaṇṇārahassa  avaṇṇaṃ bhāsitā hoti atthekacco puggalo anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsitā hoti atthekacco puggalo anuvicca pariyogāhetvā appasādanīye ṭhāne appasādaṃ upadaṃsitā hoti atthekacco puggalo anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃsitā hoti
-(17) atthekacco puggalo avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena no ca kho vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo vaṇṇārahassa vaṇṇaṃ bhāsitā  hoti bhūtaṃ tacchaṃ kālena no ca kho avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ  tacchaṃ kālena vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena
-(18) uṭṭhānaphalūpajīvī no puññaphalūpajīvī puññaphalūpajīvī no uṭṭhānaphalūpajīvī uṭṭhānaphalūpajīvī ca puññaphalūpajīvī ca neva uṭṭhānaphalūpajīvī no puññaphalūpajīvī
-(19) tamo  tamaparāyano tamo jotiparāyano joti tamaparāyano joti jotiparāyano
-(20) oṇatoṇato oṇatuṇṇato uṇṇatoṇato uṇṇatuṇṇato
-(21) cattāro rukkhūpamā puggalā
-(22) rūpappamāṇo rūpappasanno ghosappamāṇo ghosappasanno
-(23) lūkhappamāṇo lūkhappasanno  dhammappamāṇo dhammappasanno
-(24) atthekacco puggalo attahitāya paṭipanno hoti no parahitāya atthekacco puggalo parahitāya paṭipanno hoti no attahitāya atthekacco puggalo attahitāya ceva paṭipanno hoti parahitāya ca atthekacco puggalo neva attahitāya paṭipanno hoti no parahitāya
-(25) atthekacco puggalo attantapo hoti attaparitāpanānuyogamanuyutto atthekacco puggalo parantapo hoti paraparitāpanānuyogamanuyutto atthekacco puggalo attantapo ca hoti attaparitāpanānuyogamanuyutto  parantapo ca paraparitāpanānuyogamanuyutto atthekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto  sukhappaṭisaṃvedī brahmabhūtena attanā viharati
-(26) sarāgo sadoso samoho samāno
-(27) atthekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya atthekacco  puggalo lābhī hoti adhipaññādhammavipassanāya na lābhī ajjhattaṃ cetosamathassa atthekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya atthekacco puggalo neva lābhī hoti ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya
-(28) anusotagāmī  puggalo paṭisotagāmī puggalo ṭhitatto puggalo tiṇṇo pāraṅgato  thale tiṭṭhati brāhmaṇo
-(29) appassuto  sutena anupapanno appassuto sutena upapanno bahussuto sutena anupapanno bahussuto sutena upapanno
-(30) samaṇamacalo samaṇapadumo samaṇapuṇḍarīko samaṇesu samaṇasukhumālo
+ asappuriso asappurisena asappurisataro sappuriso sappurisena sappurisataro
+ pāpo pāpena pāpataro kalyāṇo kalyāṇena kalyāṇataro
+ pāpadhammo  pāpadhammena pāpadhammataro kalyāṇadhammo kalyāṇadhammena kalyāṇadhammataro
+ sāvajjo vajjabahulo appavajjo  anavajjo
+ ugghaṭitaññū vipañcitaññū  neyyo padaparamo
+ yuttappaṭibhāno  no muttappaṭibhāno muttappaṭibhāno no yuttappaṭibhāno yuttappaṭibhāno ca muttappaṭibhāno ca neva yuttappaṭibhāno no muttappaṭibhāno
+ cattāro dhammakathikā puggalā
+ cattāro valāhakūpamā puggalā
+ cattāro mūsikūpamā puggalā
+ cattāro  ambūpamā puggalā
+ cattāro kumbhūpamā puggalā
+ cattāro udakarahadūpamā puggalā
+ cattāro balībaddūpamā  puggalā
+ cattāro āsīvisūpamā puggalā
+ atthekacco puggalo ananuvicca apariyogāhetvā avaṇṇārahassa vaṇṇaṃ bhāsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā vaṇṇārahassa avaṇṇaṃ bhāsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā appasādanīye ṭhāne pasādaṃ upadaṃsitā hoti atthekacco puggalo ananuvicca apariyogāhetvā pasādanīye ṭhāne appasādaṃ upadaṃsitā hoti
+ atthekacco puggalo anuvicca pariyogāhetvā avaṇṇārahassa  avaṇṇaṃ bhāsitā hoti atthekacco puggalo anuvicca pariyogāhetvā vaṇṇārahassa vaṇṇaṃ bhāsitā hoti atthekacco puggalo anuvicca pariyogāhetvā appasādanīye ṭhāne appasādaṃ upadaṃsitā hoti atthekacco puggalo anuvicca pariyogāhetvā pasādanīye ṭhāne pasādaṃ upadaṃsitā hoti
+ atthekacco puggalo avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena no ca kho vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo vaṇṇārahassa vaṇṇaṃ bhāsitā  hoti bhūtaṃ tacchaṃ kālena no ca kho avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo avaṇṇārahassa ca avaṇṇaṃ bhāsitā hoti bhūtaṃ  tacchaṃ kālena vaṇṇārahassa ca vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena atthekacco puggalo neva avaṇṇārahassa avaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena no ca vaṇṇārahassa vaṇṇaṃ bhāsitā hoti bhūtaṃ tacchaṃ kālena
+ uṭṭhānaphalūpajīvī no puññaphalūpajīvī puññaphalūpajīvī no uṭṭhānaphalūpajīvī uṭṭhānaphalūpajīvī ca puññaphalūpajīvī ca neva uṭṭhānaphalūpajīvī no puññaphalūpajīvī
+ tamo  tamaparāyano tamo jotiparāyano joti tamaparāyano joti jotiparāyano
+ oṇatoṇato oṇatuṇṇato uṇṇatoṇato uṇṇatuṇṇato
+ cattāro rukkhūpamā puggalā
+ rūpappamāṇo rūpappasanno ghosappamāṇo ghosappasanno
+ lūkhappamāṇo lūkhappasanno  dhammappamāṇo dhammappasanno
+ atthekacco puggalo attahitāya paṭipanno hoti no parahitāya atthekacco puggalo parahitāya paṭipanno hoti no attahitāya atthekacco puggalo attahitāya ceva paṭipanno hoti parahitāya ca atthekacco puggalo neva attahitāya paṭipanno hoti no parahitāya
+ atthekacco puggalo attantapo hoti attaparitāpanānuyogamanuyutto atthekacco puggalo parantapo hoti paraparitāpanānuyogamanuyutto atthekacco puggalo attantapo ca hoti attaparitāpanānuyogamanuyutto  parantapo ca paraparitāpanānuyogamanuyutto atthekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto so anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto  sukhappaṭisaṃvedī brahmabhūtena attanā viharati
+ sarāgo sadoso samoho samāno
+ atthekacco puggalo lābhī hoti ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya atthekacco  puggalo lābhī hoti adhipaññādhammavipassanāya na lābhī ajjhattaṃ cetosamathassa atthekacco puggalo lābhī ceva hoti ajjhattaṃ cetosamathassa lābhī ca adhipaññādhammavipassanāya atthekacco puggalo neva lābhī hoti ajjhattaṃ cetosamathassa na lābhī adhipaññādhammavipassanāya
+ anusotagāmī  puggalo paṭisotagāmī puggalo ṭhitatto puggalo tiṇṇo pāraṅgato  thale tiṭṭhati brāhmaṇo
+ appassuto  sutena anupapanno appassuto sutena upapanno bahussuto sutena anupapanno bahussuto sutena upapanno
+ samaṇamacalo samaṇapadumo samaṇapuṇḍarīko samaṇesu samaṇasukhumālo
 
 
 
-(1) atthekacco puggalo ārabhati  ca vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā  akusalā dhammā aparisesā nirujjhanti atthekacco puggalo ārabhati na vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati na vippaṭisārī hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati na vippaṭisārī hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā  nirujjhanti
-(2) datvā  avajānāti saṃvāsena avajānāti ādheyyamukho hoti lolo hoti mando momūho hoti
-(3) pañca yodhājīvūpamā puggalā
-(4) pañca piṇḍapātikā
-(5) pañca khalupacchābhattikā
-(6) pañca ekāsanikā
-(7) pañca paṃsukūlikā
-(8) pañca tecīvarikā
-(9) pañca āraññikā
-(10) pañca rukkhamūlikā
-(11) pañca abbhokāsikā
-(12) pañca nesajjikā
-(13) pañca yathāsanthatikā
-(14) pañca sosānikā
+ atthekacco puggalo ārabhati  ca vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā  akusalā dhammā aparisesā nirujjhanti atthekacco puggalo ārabhati na vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati vippaṭisārī ca hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati na vippaṭisārī hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti atthekacco puggalo nārabhati na vippaṭisārī hoti tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ pajānāti yatthassa te uppannā pāpakā akusalā dhammā aparisesā  nirujjhanti
+ datvā  avajānāti saṃvāsena avajānāti ādheyyamukho hoti lolo hoti mando momūho hoti
+ pañca yodhājīvūpamā puggalā
+ pañca piṇḍapātikā
+ pañca khalupacchābhattikā
+ pañca ekāsanikā
+ pañca paṃsukūlikā
+ pañca tecīvarikā
+ pañca āraññikā
+ pañca rukkhamūlikā
+ pañca abbhokāsikā
+ pañca nesajjikā
+ pañca yathāsanthatikā
+ pañca sosānikā
 
 
 
-(1) atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhati tattha ca sabbaññutaṃ pāpuṇāti balesu  ca vasībhāvaṃ atthekacco puggalo pubbe ananussutesu dhammesu  sāmaṃ saccāni abhisambujjhati na ca tattha sabbaññutaṃ pāpuṇāti na ca balesu vasībhāvaṃ atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati diṭṭhe ceva dhamme dukkhassantakaro hoti sāvakapāramiñca pāpuṇāti atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati  diṭṭheva dhamme dukkhassantakaro hoti na ca sāvakapāramiṃ pāpuṇāti atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati na ca diṭṭheva dhamme dukkhassantakaro hoti anāgāmī hoti anāgantā  itthattaṃ atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati na ca diṭṭheva dhamme dukkhassantakaro hoti āgāmī  hoti āgantā itthattaṃ
+ atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni abhisambujjhati tattha ca sabbaññutaṃ pāpuṇāti balesu  ca vasībhāvaṃ atthekacco puggalo pubbe ananussutesu dhammesu  sāmaṃ saccāni abhisambujjhati na ca tattha sabbaññutaṃ pāpuṇāti na ca balesu vasībhāvaṃ atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati diṭṭhe ceva dhamme dukkhassantakaro hoti sāvakapāramiñca pāpuṇāti atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati  diṭṭheva dhamme dukkhassantakaro hoti na ca sāvakapāramiṃ pāpuṇāti atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati na ca diṭṭheva dhamme dukkhassantakaro hoti anāgāmī hoti anāgantā  itthattaṃ atthekacco puggalo pubbe ananussutesu dhammesu sāmaṃ saccāni anabhisambujjhati na ca diṭṭheva dhamme dukkhassantakaro hoti āgāmī  hoti āgantā itthattaṃ
 
 
 
-(1) satta  udakūpamā puggalā sakiṃ nimuggo nimuggova hoti ummujjitvā nimujjati ummujjitvā ṭhito hoti ummujjitvā vipassati viloketi ummujjitvā patarati ummujjitvā paṭigādhappatto hoti ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo
-(2) ubhatobhāgavimutto  paññāvimutto kāyasakkhī diṭṭhippatto saddhāvimutto dhammānusārī saddhānusārī
+ satta  udakūpamā puggalā sakiṃ nimuggo nimuggova hoti ummujjitvā nimujjati ummujjitvā ṭhito hoti ummujjitvā vipassati viloketi ummujjitvā patarati ummujjitvā paṭigādhappatto hoti ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo
+ ubhatobhāgavimutto  paññāvimutto kāyasakkhī diṭṭhippatto saddhāvimutto dhammānusārī saddhānusārī
 
 
 
-(1) cattāro maggasamaṅgino cattāro phalasamaṅgino puggalā
+ cattāro maggasamaṅgino cattāro phalasamaṅgino puggalā
 
 
 
-(1) sammāsambuddho paccekasambuddho ubhatobhāgavimutto paññāvimutto kāyasakkhī diṭṭhippatto saddhāvimutto dhammānusārī saddhānusārī
+ sammāsambuddho paccekasambuddho ubhatobhāgavimutto paññāvimutto kāyasakkhī diṭṭhippatto saddhāvimutto dhammānusārī saddhānusārī
 
 
 
-(1) pañcannaṃ idha niṭṭhā pañcannaṃ idha vihāya niṭṭhā
+ pañcannaṃ idha niṭṭhā pañcannaṃ idha vihāya niṭṭhā
 
 

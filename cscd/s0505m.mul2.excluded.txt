@@ -180,7 +180,7 @@ dutiyapādanto (sī.).
 462.
 ‘‘,’’.
 463.
-‘‘,
+‘‘,(iti brāhmaṇo)
 ;
 ,’’.
 464.
@@ -274,16 +274,16 @@ Sundarikabhāradvājasuttaṃ catutthaṃ niṭṭhitaṃ.
 ‘‘,,;;,,,.,,’’?
 ‘‘,,.,,;;…pe…,,’’.–
 491.
-‘‘,
+‘‘,(iti māgho māṇavo)
 agihaṃ (sī.), agehaṃ (pī.);
 dānapatī (sī. syā. pī.),puññapekho (sī. pī. ka.);
 ,’’.
 492.
-‘‘,
+‘‘,(māghāti bhagavā)
 ;
 ,’’.
 493.
-‘‘,
+‘‘,(iti māgho māṇavo)
 ;
 ,’’.
 494.
@@ -335,7 +335,7 @@ dānapatī (sī. syā. pī.),puññapekho (sī. pī. ka.);
 ‘‘,;
 ,.
 510.
-‘‘,
+‘‘,(iti māgho māṇavo)
 ;
 ,
 ’’.
@@ -350,7 +350,7 @@ dānapatī (sī. syā. pī.),puññapekho (sī. pī. ka.);
 ,;
 ,’’.
 514.
-‘‘,
+‘‘,(māghāti bhagavā)
 ;
 ,
 ’’.
@@ -365,12 +365,12 @@ Māghasuttaṃ pañcamaṃ niṭṭhitaṃ.
 –‘‘samaṇo kho gotamo (syā. ka.).,’’.
 .,;..–
 515.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 bhavāhi me (pī. ka.),
 ’’.
 516.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 tesamantakaromi te (ka.),
 .
@@ -379,12 +379,12 @@ tesamantakaromi te (ka.),
 ,’’.
 –‘‘,,,okāsamattampi (sī. pī.)’’.–
 518.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 ,
 ’’.
 519.
-‘‘,
+‘‘,(sabhiyāti bhagavā)
 ;
 ,
 .
@@ -399,12 +399,12 @@ tesamantakaromi te (ka.),
 ,’’.
 uttari (ka.)–
 523.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 ,
 ’’.
 524.
-‘‘,
+‘‘,(sabhiyāti bhagavā)
 ;
 ,
 .
@@ -419,12 +419,12 @@ uttari (ka.)–
 ,’’.
 …pe…–
 528.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 ,
 ’’.
 529.
-‘‘,
+‘‘,(sabhiyāti bhagavā)
 ;
 ,
 .
@@ -439,12 +439,12 @@ uttari (ka.)–
 ,’’.
 …pe…–
 533.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 ,
 ’’.
 534.
-‘‘,
+‘‘,(sabhiyāti bhagavā)
 yānipatthi (sī. syā. pī.);
 ,
 .
@@ -459,12 +459,12 @@ yānipatthi (sī. syā. pī.);
 ,’’.
 …pe…–
 538.
-‘‘,
+‘‘,(iti sabhiyo)
 ;
 ,
 ’’.
 539.
-‘‘,
+‘‘,(sabhiyāti bhagavā)
 ;
 ,
 .
@@ -546,16 +546,16 @@ Sabhiyasuttaṃ chaṭṭhaṃ niṭṭhitaṃ.
 ‘‘bhojarājāno (sī. syā.),anuyuttā (sī.);
 ,’’.
 559.
-‘‘,;
+‘‘,(bhagavā);
 ,’’.
 560.
-‘‘,;
+‘‘,(iti selo brāhmaṇo);
 ‘’,.
 561.
 ‘‘,;
 ,’’.
 562.
-‘‘,;
+‘‘,(selāti bhagavā);
 ,.
 563.
 ‘‘,;
@@ -585,7 +585,7 @@ Sabhiyasuttaṃ chaṭṭhaṃ niṭṭhitaṃ.
 ‘‘,;
 ,’’.
 572.
-‘‘,;
+‘‘,(selāti bhagavā);
 ,’’.
 ,.–‘‘,,’’.;.
 ..–
@@ -700,7 +700,7 @@ bhagavantaṃ (ka.),.
 ,;
 ,’’.
 605.
-‘‘,;
+‘‘,(vāseṭṭhāti bhagavā);
 ,.
 606.
 ‘‘,;
@@ -1022,7 +1022,7 @@ Vatthugāthā niṭṭhitā.
 ‘‘,;
 ,’’.
 706.
-‘‘,;
+‘‘,(iti bhagavā);
 ,.
 707.
 ‘‘,;
@@ -1095,7 +1095,7 @@ Nālakasuttaṃ ekādasamaṃ niṭṭhitaṃ.
 12. Dvayatānupassanāsuttaṃ
 –..–
 ‘‘‘,,,,,’,,,–‘’.?
-‘‘,.,,.,,–,’’.
+(1)‘‘,.,,.,,–,’’.
 .–
 729.
 ‘‘,;
@@ -1111,19 +1111,19 @@ Nālakasuttaṃ ekādasamaṃ niṭṭhitaṃ.
 732.
 ‘‘,;
 ,’’.
-‘‘‘’,,,;‘’.?,.,.…pe…–
+(2)‘‘‘’,,,;‘’.?,.,.…pe…–
 733.
 ‘‘,;
 ,;
 ,’’.
-‘‘‘’,,,;‘’.?,.,.…pe…–
+(3)‘‘‘’,,,;‘’.?,.,.…pe…–
 734.
 ‘‘,;
 ,.
 735.
 ‘‘,;
 ,nāgacchanti (sī. pī.)’’.
-‘‘…pe…?,.,.…pe…–
+(4)‘‘…pe…?,.,.…pe…–
 736.
 ‘‘,;
 ,.
@@ -1134,21 +1134,21 @@ Nālakasuttaṃ ekādasamaṃ niṭṭhitaṃ.
 738.
 ‘‘,;
 ,nāgacchanti (sī. pī.)’’.
-‘‘…pe…?,.,.…pe…–
+(5)‘‘…pe…?,.,.…pe…–
 739.
 ‘‘,;
 ,.
 740.
 ‘‘,;
 ,’’.
-‘‘…pe…?,.,.…pe…–
+(6)‘‘…pe…?,.,.…pe…–
 741.
 ‘‘,;
 ,.
 742.
 ‘‘,paññāya upasame (syā.);
 ,’’.
-‘‘…pe…?,.,.…pe…–
+(7)‘‘…pe…?,.,.…pe…–
 743.
 ‘‘,;
 ,.
@@ -1156,21 +1156,21 @@ Nālakasuttaṃ ekādasamaṃ niṭṭhitaṃ.
 ‘‘,palokitaṃ (sī.);
 ,virajjati (ka. sī.);
 ,’’.
-‘‘…pe…?,.,.…pe…–
+(8)‘‘…pe…?,.,.…pe…–
 745.
 ‘‘,;
 ,.
 746.
 ‘‘,taṇhā (bahūsu) itivuttake 15 passitabbaṃ;
 ,’’.
-‘‘…pe…?,.upādānassa (syā. ka.),.…pe…–
+(9)‘‘…pe…?,.upādānassa (syā. ka.),.…pe…–
 747.
 ‘‘,;
 ,.
 748.
 ‘‘,;
 ,’’.
-‘‘…pe…?,.,.…pe…–
+(10)‘‘…pe…?,.,.…pe…–
 749.
 ‘‘,;
 ,.
@@ -1180,7 +1180,7 @@ Nālakasuttaṃ ekādasamaṃ niṭṭhitaṃ.
 751.
 ‘‘,;
 vitiṇṇo (sī.),’’.
-‘‘…pe…?,.,.…pe…–
+(11)‘‘…pe…?,.,.…pe…–
 752.
 ‘‘,;
 ,.
@@ -1190,7 +1190,7 @@ vitiṇṇo (sī.),’’.
 754.
 ‘‘,;
 ,saṅkhaṃ (sī. pī.)’’.
-‘‘…pe…?,.,.…pe…–
+(12)‘‘…pe…?,.,.…pe…–
 755.
 ‘‘,;
 ,.
@@ -1198,21 +1198,21 @@ vitiṇṇo (sī.),’’.
 ‘‘,;
 ,;
 ,’’.
-‘‘…pe…?,.,.…pe…–
+(13)‘‘…pe…?,.,.…pe…–
 757.
 ‘‘,;
 ,.
 758.
 ‘‘,;
 ,’’.
-‘‘…pe…?,,āruppā (sī. pī.),.,.…pe…–
+(14)‘‘…pe…?,,āruppā (sī. pī.),.,.…pe…–
 759.
 ‘‘,āruppavāsino (sī. pī.);
 ,.
 760.
 ‘‘,susaṇṭhitā (sī. syā. pī.);
 ,’’.
-‘‘…pe…?,,,.,,…pe…,,.…pe…–
+(15)‘‘…pe…?,,,.,,…pe…,,.…pe…–
 761.
 ‘‘attamānī (syā.), attamānaṃ (pī. ka.),;
 ,.
@@ -1222,7 +1222,7 @@ vitiṇṇo (sī.),’’.
 763.
 ‘‘,;
 ,’’.
-‘‘‘’,,,;‘’.?,,,,.,,…pe…,.,,–,..–
+(16)‘‘‘’,,,;‘’.?,,,,.,,…pe…,.,,–,..–
 764.
 ‘‘,;
 ,.

@@ -1,6 +1,6 @@
 ﻿15. Vīsatinipāto
 
-.
+.(1)
 1.
 rummavāsī (sī. pī.),;
 paṭimucca (sī. pī.),hohisi (sī. pī.).
@@ -72,7 +72,7 @@ rummarūpiṃ (sī. pī.),.
 ,.
 Mātaṅgajātakaṃ paṭhamaṃ.
 
-.
+.(2)
 24.
 ,;
 ,.
@@ -159,7 +159,7 @@ dhammaṃ (sī. pī.),adhammakāro ca te (sī. syā. pī.).
 supinehi (sī. pī.),.
 Cittasambhūtajātakaṃ dutiyaṃ.
 
-.
+.(3)
 52.
 ,;
 ,.
@@ -257,7 +257,7 @@ datvā mānusakaṃ (sī.),me iti padaṃ natthi sī. potthake.
 ,.
 Sivijātakaṃ tatiyaṃ.
 
-.
+.(4)
 83.
 ,;
 ,.
@@ -339,7 +339,7 @@ karonti bālā (syā. ka.),idameva (syā. ka. aṭṭha.), imameva (ka.)maññam
 ,.
 Sirīmantajātakaṃ sirimandajātakaṃ (sī. syā. pī.) catutthaṃ.
 
-.
+.(5)
 104.
 ,maraṇā (syā. pī.), maraṇa (ka.);
 ,.
@@ -429,7 +429,7 @@ kasī vaṇijjā (sī. syā. pī.),;
 ,akarā punanti (ka. sī. pī.).
 Rohaṇamigajātakaṃ rohantamigajātakaṃ (sī. pī.) pañcamaṃ.
 
-.
+.(6)
 133.
 ,;
 ,.
@@ -510,7 +510,7 @@ nattamandhova (sī. pī.),.
 ,khettabījaṃva (sī. pī.).
 Cūḷahaṃsajātakaṃ chaṭṭhaṃ.
 
-.
+.(7)
 159.
 ,;
 ,.
@@ -597,7 +597,7 @@ phalapuṭasseva (sī. pī.), palapuṭasseva (ka. aṭṭha.), palāsapuṭasse
 ,.
 Sattigumbajātakaṃ sattamaṃ.
 
-.
+.(8)
 186.
 bhallāṭiyo (sī. pī.),;
 ,sampupphitaṃ (sī. pī.).
@@ -675,7 +675,7 @@ vividha (sī. syā.),;
 muñca (sī. pī.),.
 Bhallātiyajātakaṃ aṭṭhamaṃ.
 
-.
+.(9)
 211.
 ,kinnu (pī. ka.);
 ,ko nvejja seti (ka.), ko ajja setu (?).
@@ -765,7 +765,7 @@ bhojino (sī. syā. pī.),;
 ,.
 Somanassajātakaṃ navamaṃ.
 
-.
+.(10)
 240.
 ,;
 ,mānusī (syā. ka.).
@@ -903,7 +903,7 @@ muttānañca (sī. syā.),;
 ,.
 Campeyyajātakaṃ dasamaṃ.
 
-.
+.(11)
 284.
 ,;
 ,.
@@ -999,7 +999,7 @@ kācena (pī.),.
 ,.
 Mahāpalobhanajātakaṃ ekādasamaṃ.
 
-.
+.(12)
 315.
 ,;
 ,kassa vāvīkareyya (ka.).
@@ -1007,7 +1007,7 @@ Mahāpalobhanajātakaṃ ekādasamaṃ.
 ,;
 chandañca ruciñca (sī. pī.),.
 317.
-anaññadheyyā (sī. pī.),( ) natthi sī. pī. potthakesu;
+anaññadheyyā (sī. pī.),(piyā)( ) natthi sī. pī. potthakesu;
 ,bhariyāya vāvīkareyya (ka.).
 318.
 ,;
@@ -1069,7 +1069,7 @@ devindassa tadajja hatthagataṃ (ka.),;
 ,.
 Pañcapaṇḍitajātakaṃ dvādasamaṃ.
 
-.
+.(13)
 337.
 ,;
 bhāradharaṃ (pī.),.
@@ -1150,7 +1150,7 @@ ekāva (sī.),.
 ,sītībhūtā (sī.).
 Hatthipālajātakaṃ terasamaṃ.
 
-.
+.(14)
 363.
 ,;
 sayati (sī. pī.), sa yāti (katthaci),.

@@ -157,10 +157,10 @@ sokaparidevamaccharaṃ (sī. syā. pī.), sokaṃ paridevamaccharaṃ (?),;
 Jarāsuttaṃ chaṭṭhaṃ niṭṭhitaṃ.
 7. Tissametteyyasuttaṃ
 820.
-‘‘,;
+‘‘,(iccāyasmā tisso metteyyo);
 ,.
 821.
-‘‘,;
+‘‘,(metteyyāti bhagavā);
 ,.
 822.
 ‘‘,;
@@ -240,21 +240,21 @@ sīlavatānujīvitaṃ (sī. pī. ka.),’’.
 ,
 ’’.
 845.
-‘‘,
+‘‘,(māgaṇḍiyāti bhagavā)
 ;
 ,
 ;
 ,
 ’’.
 846.
-‘‘,
+‘‘,(iti māgaṇḍiyo)
 ;
 ,
 ;
 ,
 ’’.
 847.
-‘‘,
+‘‘,(māgaṇḍiyāti bhagavā)
 samohamāgā (syā. ka.);
 ,
 .
@@ -283,7 +283,7 @@ Māgaṇḍiyasuttaṃ navamaṃ niṭṭhitaṃ.
 ‘‘,;
 ,’’.
 855.
-‘‘,;
+‘‘,(iti bhagavā);
 ,.
 856.
 ‘‘,;
@@ -498,7 +498,7 @@ Mahābyūhasuttaṃ terasamaṃ niṭṭhitaṃ.
 ‘‘ādiccabandhuṃ (sī. syā.),;
 ,’’.
 922.
-‘‘,
+‘‘,(iti bhagavā)
 sabbamuparuddhe (syā. pī. ka.);
 ,
 vinayāya (?).
@@ -622,7 +622,7 @@ sabbaso (syā. ka.),.
 Attadaṇḍasuttaṃ pannarasamaṃ niṭṭhitaṃ.
 16. Sāriputtasuttaṃ
 961.
-‘‘,
+‘‘,(iccāyasmā sāriputto)
 ;
 ,
 .
@@ -648,7 +648,7 @@ Attadaṇḍasuttaṃ pannarasamaṃ niṭṭhitaṃ.
 ‘‘,;
 ,’’.
 969.
-‘‘,
+‘‘,(sāriputtāti bhagavā)
 ;
 ,
 .

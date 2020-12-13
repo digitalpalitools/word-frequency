@@ -17,10 +17,10 @@ Ekamūlakaṃ
 31........
 Hetupaccayavāro.
 32..
-,.
+(Yathā hetupaccayo vitthārito, evaṃ ārammaṇapaccayopi vitthāretabbo vācanāmaggena.)
 33.…………………………………………………….
 34.…pe……………………………….
-,.
+(Yathā hetupaccayo vitthārito, evaṃ avigatapaccayopi vitthāretabbo vācanāmaggena.)
 Ekamūlakaṃ.
 Dumūlakādi
 Hetumūlakaṃ
@@ -31,7 +31,7 @@ Dumūlakaṃ.
 Timūlakaṃ.
 38.…pe….
 Catumūlakaṃ.
-.,,,,,.
+(Pañcamūlakādikā saṃkhittā. Ekamūlakaṃ, dumūlakaṃ, timūlakaṃ, catumūlakaṃ, pañcamūlakaṃ, sabbamūlakaṃ asammuyhantena vitthāretabbaṃ.)
 Hetumūlakaṃ.
 Ārammaṇamūlakādi
 39.……pe….
@@ -39,8 +39,8 @@ Hetumūlakaṃ.
 Dumūlakaṃ.
 40.………pe….
 41.……pe….
-,,,,,.
-,
+(Ekekassa padassa ekamūlakaṃ, dumūlakaṃ, timūlakaṃ, catumūlakaṃ, pañcamūlakaṃ, sabbamūlakaṃ asammuyhantena vitthāretabbaṃ. )
+(Ka),
 ;
 ,
 .
@@ -49,8 +49,8 @@ Dumūlakaṃ.
 ,.
 43.………………………………………………………….
 44.….
-,,,,.
-,
+(Yathā anulome ekekassa padassa ekamūlakaṃ, dumūlakaṃ, timūlakaṃ, catumūlakaṃ, yāva tevīsatimūlakaṃ evaṃ paccanīyepi vitthāretabbaṃ. )
+(Kha),
 ;
 ,
 .
@@ -66,7 +66,7 @@ Dumūlakaṃ.
 …pe….
 …pe….
 …pe….
-,
+(Ga),
 ;
 ,
 .
@@ -79,7 +79,7 @@ Dumūlakaṃ.
 52.…pe……pe………pe….
 …pe….
 …pe….
-,
+(Gha),
 ;
 ,
 .

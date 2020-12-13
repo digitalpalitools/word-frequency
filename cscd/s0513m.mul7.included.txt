@@ -1,6 +1,6 @@
 ﻿
 
- 417 kaccānijātakaṃ (1)
+ 417 kaccānijātakaṃ 
 
  odātavatthā  suci allakesā kaccāni kiṃ kumbhimadhissayitvā 
 piṭṭhā tilā dhovasi taṇḍulāni tilodano hehiti kissa hetu
@@ -30,7 +30,7 @@ tuvañca  putto suṇisā ca nattā sammodamānā gharamāvasetha
 putto  ca nattā ca upaṭṭhahiṃsu devānamindena adhiggahītāti
 
 
- 418 aṭṭhasaddajātakaṃ (2)
+ 418 aṭṭhasaddajātakaṃ 
 
  idaṃ  pure ninnamāhu bahumacchaṃ mahodakaṃ
 āvāso bakarājassa pettikaṃ bhavanaṃ mama
@@ -58,7 +58,7 @@ sā  maṃ saṇhena mudunā mā pādaṃ khali  yasmani
 ayamantimā pacchimā gabbhaseyyā  khīṇo me saṃsāro punabbhavāyāti
 
 
- 419 sulasājātakaṃ (3)
+ 419 sulasājātakaṃ 
 
  idaṃ suvaṇṇakāyūraṃ muttā veḷuriyā bahū
 sabbaṃ harassu bhaddante mañca dāsīti sāvaya
@@ -88,7 +88,7 @@ so haññati mandamati corova girigabbhare
 muccate sattusambādhā sulasā sattukāmivāti
 
 
- 420 sumaṅgalajātakaṃ (4)
+ 420 sumaṅgalajātakaṃ 
 
  bhusamhi  kuddhoti avekkhiyāna na tāva daṇḍaṃ paṇayeyya issaro
 aṭṭhānaso appatirūpamattano parassa dukkhāni bhusaṃ udīraye
@@ -118,7 +118,7 @@ sukhī  anuppīḷa pasāsamediniṃ  ito vimuttopi ca yāhi suggatiṃ
 nibbāpaye saṅkhubhitaṃ mahājanaṃ mahāva megho salilena medininti 
 
 
- 421 gaṅgamālajātakaṃ (5)
+ 421 gaṅgamālajātakaṃ 
 
  aṅgārajātā pathavī kukkuḷānugatā mahī
 atha gāyasi vattāni  na taṃ tapati ātapo
@@ -148,7 +148,7 @@ yo  sabbajanassa vanditohu taṃ vandāma sarājikā samaccā
 eso hi atari aṇṇavaṃ yaṃ taritvā caranti vītasokāti
 
 
- 422 cetiyajātakaṃ (6)
+ 422 cetiyajātakaṃ 
 
  dhammo  have hato hanti nāhato hanti kiñcanaṃ 
 tasmā hi dhammaṃ na hane mā tvaṃ  dhammo hato hani
@@ -197,7 +197,7 @@ pāvekkhi pathaviṃ cecco hīnatto patva pariyāyaṃ
 aduṭṭhacitto bhāseyya giraṃ saccūpasaṃhitanti
 
 
- 423 indriyajātakaṃ (7)
+ 423 indriyajātakaṃ 
 
  yo indriyānaṃ kāmena vasaṃ nārada gacchati
 so pariccajjubho loke jīvantova visussati 
@@ -228,7 +228,7 @@ ariyadhammā apakkanto yathā peto tathevahaṃ
 so sukhaṃ nādhigacchāmi ṭhito  bhāṇumatāmivāti
 
 
- 424 ādittajātakaṃ (8)
+ 424 ādittajātakaṃ 
 
  ādittasmiṃ agārasmiṃ yaṃ nīharati bhājanaṃ
 taṃ  tassa hoti atthāya no ca yaṃ tattha ḍayhati
@@ -255,7 +255,7 @@ majjhimena  ca devattaṃ uttamena visujjhati
 pubbeva hi pubbatareva santo  nibbānamevajjhagamuṃ sapaññāti
 
 
- 425 aṭṭhānajātakaṃ (9)
+ 425 aṭṭhānajātakaṃ 
 
  gaṅgā kumudinī santā saṅkhavaṇṇā ca kokilā
 jambu tālaphalaṃ dajjā atha nūna tadā siyā
@@ -291,7 +291,7 @@ tuṇḍenādāya gaccheyya atha nūna tadā siyā
 ceṭo ādāya gaccheyya atha nūna tadā siyāti
 
 
- 426 dīpijātakaṃ (10)
+ 426 dīpijātakaṃ 
 
  khamanīyaṃ yāpanīyaṃ kacci mātula te sukhaṃ
 sukhaṃ te ammā avaca sukhakāmāva  te mayaṃ

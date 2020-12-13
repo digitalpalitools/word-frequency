@@ -2,7 +2,7 @@
 
  evaṃ  me sutaṃ  ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyaṃ atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya vesāliṃ piṇḍāya pāvisi vesāliyaṃ piṇḍāya caritvā pacchābhattaṃ piṇḍapātapaṭikkanto āyasmantaṃ ānandaṃ āmantesi  gaṇhāhi ānanda nisīdanaṃ yena cāpālaṃ  cetiyaṃ tenupasaṅkamissāma divāvihārāyāti
 evaṃ bhanteti kho āyasmā ānando bhagavato paṭissutvā nisīdanaṃ ādāya bhagavantaṃ piṭṭhito piṭṭhito anubandhi atha kho bhagavā yena cāpālaṃ cetiyaṃ tenupasaṅkami upasaṅkamitvā paññatte āsane nisīdi nisajja  kho bhagavā āyasmantaṃ ānandaṃ āmantesi 
-ramaṇīyā ānanda vesālī ramaṇīyaṃ udenaṃ cetiyaṃ ramaṇīyaṃ gotamakaṃ cetiyaṃ ramaṇīyaṃ sattambaṃ cetiyaṃ ramaṇīyaṃ bahuputtaṃ cetiyaṃ ramaṇīyaṃ sārandadaṃ cetiyaṃ ramaṇīyaṃ cāpālaṃ cetiyaṃ yassa kassaci ānanda  cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā so ākaṅkhamāno ( )  kappaṃ vā tiṭṭheyya kappāvasesaṃ vā tathāgatassa kho ānanda cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā ākaṅkhamāno ānanda tathāgato kappaṃ vā tiṭṭheyya kappāvasesaṃ vāti
+ramaṇīyā ānanda vesālī ramaṇīyaṃ udenaṃ cetiyaṃ ramaṇīyaṃ gotamakaṃ cetiyaṃ ramaṇīyaṃ sattambaṃ cetiyaṃ ramaṇīyaṃ bahuputtaṃ cetiyaṃ ramaṇīyaṃ sārandadaṃ cetiyaṃ ramaṇīyaṃ cāpālaṃ cetiyaṃ yassa kassaci ānanda  cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā so ākaṅkhamāno   kappaṃ vā tiṭṭheyya kappāvasesaṃ vā tathāgatassa kho ānanda cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā ākaṅkhamāno ānanda tathāgato kappaṃ vā tiṭṭheyya kappāvasesaṃ vāti
 evampi  kho āyasmā ānando bhagavatā oḷārike nimitte kayiramāne oḷārike obhāse kayiramāne nāsakkhi paṭivijjhituṃ na bhagavantaṃ yāci  tiṭṭhatu bhante bhagavā kappaṃ tiṭṭhatu sugato kappaṃ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānanti yathā taṃ mārena pariyuṭṭhitacitto  dutiyampi kho  tatiyampi kho bhagavā āyasmantaṃ ānandaṃ āmantesi 
 ramaṇīyā ānanda vesālī ramaṇīyaṃ udenaṃ cetiyaṃ ramaṇīyaṃ gotamakaṃ cetiyaṃ ramaṇīyaṃ sattambaṃ cetiyaṃ ramaṇīyaṃ bahuputtaṃ cetiyaṃ ramaṇīyaṃ sārandadaṃ cetiyaṃ ramaṇīyaṃ cāpālaṃ cetiyaṃ yassa kassaci ānanda cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā so ākaṅkhamāno kappaṃ vā tiṭṭheyya kappāvasesaṃ vā tathāgatassa kho ānanda cattāro iddhipādā bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā ākaṅkhamāno ānanda tathāgato kappaṃ vā tiṭṭheyya kappāvasesaṃ  vāti
 evampi kho āyasmā ānando bhagavatā oḷārike nimitte kayiramāne oḷārike obhāse kayiramāne nāsakkhi paṭivijjhituṃ na bhagavantaṃ yāci  tiṭṭhatu bhante bhagavā kappaṃ tiṭṭhatu sugato kappaṃ bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānanti yathā taṃ mārena pariyuṭṭhitacitto
@@ -119,7 +119,7 @@ evametaṃ  ānanda yāvakīvañca ānanda tathāgatā loke nuppajjanti arahanto
 atha  kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi 
 obhāsati  tāva so kimi
 yāva na unnamate  pabhaṅkaro
-(sa)  verocanamhi uggate
+  verocanamhi uggate
 hatappabho hoti na cāpi bhāsati
 evaṃ obhāsitameva takkikānaṃ 
 yāva sammāsambuddhā loke nuppajjanti

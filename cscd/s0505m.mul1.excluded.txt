@@ -235,7 +235,7 @@ Dhammacariyasuttaṃ kapilasuttaṃ (aṭṭha.) chaṭṭhaṃ niṭṭhitaṃ.
 ‘‘,;
 ,.
 291.
-‘‘,;
+‘‘,(komāra);
 ,.
 292.
 ‘‘,;
@@ -456,7 +456,7 @@ jānamupagamamhā (sī. syā.),.
 ‘‘yadatthiyaṃ (pī.), yadatthitaṃ (ka.),;
 ,’’.
 357.
-‘‘achejji (ka.),
+‘‘achejji (ka.),(iti bhagavā)
 taṇhāya (ka.);
 ,’’
 .
@@ -477,7 +477,7 @@ Nigrodhakappasuttaṃ dvādasamaṃ niṭṭhitaṃ.
 ,
 ’’.
 362.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,
 .

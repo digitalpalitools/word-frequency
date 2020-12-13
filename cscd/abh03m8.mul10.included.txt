@@ -3,90 +3,90 @@
 
 
 
- maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā tayo khandhe paṭicca eko khandho dve khandhe (2)
-maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggahetukaṃ  dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggahetukaṃ dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā   maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (2)
-maggādhipatiṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggahetukā tayo khandhā dve khandhe (3)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (4)
-maggādhipatiṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe (5)
- maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (1)
-maggārammaṇañca  maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā tayo khandhā dve khandhe (1)
-maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe (3)
+ maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā tayo khandhe paṭicca eko khandho dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggahetukaṃ  dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggahetukaṃ dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggahetukaṃ ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā   maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggahetukā tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+maggādhipatiṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggārammaṇañca  maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā tayo khandhā dve khandhe 
+maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā dve khandhe 
 
  maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigatapaccayā
 
 
- hetuyā  sattarasa ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa (evaṃ gaṇetabbaṃ)
+ hetuyā  sattarasa ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa 
 
 
 
 
- maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nahetupaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
+ maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nahetupaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā   maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggahetuke khandhe paṭicca maggahetukādhipati (1)
-maggahetukaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggahetuke khandhe paṭicca maggādhipati adhipati (2)
-maggahetukaṃ dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggahetuke khandhe paṭicca maggahetuko ca maggādhipati ca adhipati (3)
- maggādhipatiṃ  dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggādhipatī khandhe paṭicca maggādhipati adhipati maggādhipatiṃ  ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (2)
-maggādhipatiṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggādhipatī khandhe paṭicca maggahetuko adhipati (3)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (4)
-maggādhipatiṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggādhipatī khandhe paṭicca maggahetuko ca maggādhipati ca adhipati (5)
- maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (1)
-maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo  khandhā dve khandhe (3)
- maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko adhipati (1)
-maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggādhipati adhipati (2)
-maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko ca maggādhipati ca adhipati (3)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā   maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggahetuke khandhe paṭicca maggahetukādhipati 
+maggahetukaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggahetuke khandhe paṭicca maggādhipati adhipati 
+maggahetukaṃ dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggahetuke khandhe paṭicca maggahetuko ca maggādhipati ca adhipati 
+ maggādhipatiṃ  dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggādhipatī khandhe paṭicca maggādhipati adhipati maggādhipatiṃ  ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggādhipatī khandhe paṭicca maggahetuko adhipati 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+maggādhipatiṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggādhipatī khandhe paṭicca maggahetuko ca maggādhipati ca adhipati 
+ maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo  khandhā dve khandhe 
+ maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko adhipati 
+maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggādhipati adhipati 
+maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko ca maggādhipati ca adhipati 
 
- maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati napurejātapaccayā napacchājātapaccayā (paripuṇṇā dvepi)
+ maggārammaṇaṃ  dhammaṃ paṭicca maggārammaṇo dhammo uppajjati napurejātapaccayā napacchājātapaccayā 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā   maggādhipatiṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe (1)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (2)
-maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
- maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā   maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe (1)
-maggārammaṇañca  maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe (2)
-maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe (3)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggārammaṇaṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā   maggādhipatiṃ ekaṃ khandhaṃ paṭicca tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggādhipatiṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggādhipatiṃ ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
+ maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati naāsevanapaccayā   maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā tayo khandhā dve khandhe 
+maggārammaṇañca  maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā dve khandhe 
+maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā dve khandhe 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā  maggārammaṇe khandhe paṭicca maggārammaṇā cetanā (1)
-maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggārammaṇe khandhe paṭicca maggādhipati  cetanā (2)
-maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti nakammapaccayā  maggārammaṇe khandhe paṭicca maggārammaṇā ca maggādhipati ca cetanā (3)
- maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā  maggahetuke khandhe paṭicca maggahetukā cetanā (1)
-maggahetukaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggahetuke khandhe paṭicca maggādhipati cetanā (2)
-maggahetukaṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti nakammapaccayā  maggahetuke khandhe paṭicca maggahetuko ca maggādhipati ca cetanā (3)
- maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggādhipatī khandhe paṭicca maggādhipati cetanā (pañca pañhā)
-maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā (paṭhamaghaṭane tīṇi)
-maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā (dutiyaghaṭane tīṇi pañhā)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā  maggārammaṇe khandhe paṭicca maggārammaṇā cetanā 
+maggārammaṇaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggārammaṇe khandhe paṭicca maggādhipati  cetanā 
+maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti nakammapaccayā  maggārammaṇe khandhe paṭicca maggārammaṇā ca maggādhipati ca cetanā 
+ maggahetukaṃ dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā  maggahetuke khandhe paṭicca maggahetukā cetanā 
+maggahetukaṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggahetuke khandhe paṭicca maggādhipati cetanā 
+maggahetukaṃ  dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti nakammapaccayā  maggahetuke khandhe paṭicca maggahetuko ca maggādhipati ca cetanā 
+ maggādhipatiṃ dhammaṃ paṭicca maggādhipati dhammo uppajjati nakammapaccayā  maggādhipatī khandhe paṭicca maggādhipati cetanā 
+maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā 
+maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navipākapaccayā (paripuṇṇaṃ)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navipākapaccayā 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati namaggapaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo  khandhā dve khandhe (1)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati namaggapaccayā  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo  khandhā dve khandhe 
 
- maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navippayuttapaccayā (paripuṇṇaṃ arūpanti niyāmetabbaṃ)
-
-
- nahetuyā  ekaṃ naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke sattarasa namagge ekaṃ navippayutte sattarasa (evaṃ gaṇetabbaṃ)
+ maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navippayuttapaccayā 
 
 
-
- hetupaccayā naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke navippayutte sattarasa (evaṃ gaṇetabbaṃ)
+ nahetuyā  ekaṃ naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke sattarasa namagge ekaṃ navippayutte sattarasa 
 
 
 
- nahetupaccayā  ārammaṇe ekaṃ anantare ekaṃ samanantare ekaṃ jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ (evaṃ gaṇetabbaṃ)
+ hetupaccayā naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke navippayutte sattarasa 
+
+
+
+ nahetupaccayā  ārammaṇe ekaṃ anantare ekaṃ samanantare ekaṃ jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ 
 
 
 
@@ -95,119 +95,119 @@ maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajj
 
 
 
- maggārammaṇo  dhammo maggārammaṇassa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo (1)
-maggārammaṇo dhammo maggādhipatissa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ hetupaccayena paccayo (2)
-maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa hetupaccayena paccayo (iminā kāraṇena sattarasa pañhā kātabbā)
+ maggārammaṇo  dhammo maggārammaṇassa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo 
+maggārammaṇo dhammo maggādhipatissa dhammassa hetupaccayena paccayo  maggārammaṇā hetū sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ hetupaccayena paccayo 
+maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa hetupaccayena paccayo 
 
- maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggahetukacittasamaṅgissa  cittaṃ jānanti maggahetukā khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo (1)
-maggahetuko  dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (2)
-maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ  katvā paccavekkhanti (3)
- maggādhipati dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (1)
-maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggādhipaticittasamaṅgissa cittaṃ jānanti maggādhipatī khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo (2)
-maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (3)
- maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggahetukamaggādhipaticittasamaṅgissa cittaṃ jānanti maggahetukā ca maggādhipatī ca khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo (1)
-maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ  garuṃ katvā paccavekkhanti (2)
-maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (3)
+ maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggahetukacittasamaṅgissa  cittaṃ jānanti maggahetukā khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo 
+maggahetuko  dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ  katvā paccavekkhanti 
+ maggādhipati dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggādhipaticittasamaṅgissa cittaṃ jānanti maggādhipatī khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+ maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti cetopariyañāṇena maggahetukamaggādhipaticittasamaṅgissa cittaṃ jānanti maggahetukā ca maggādhipatī ca khandhā cetopariyañāṇassa pubbenivāsānussatiñāṇassa anāgataṃsañāṇassa āvajjanāya ārammaṇapaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ  garuṃ katvā paccavekkhanti 
+maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
 
- maggārammaṇo  dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo (1)
-maggārammaṇo dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo (2)
-maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (3)
- maggahetuko dhammo maggahetukassa dhammassa adhipatipaccayena paccayo   maggahetukādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo (1)
-maggahetuko dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (2)
-maggahetuko  dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggahetukādhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo (3)
-maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (4)
-maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo    maggahetukādhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (5)
- maggādhipati  dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo (1)
-maggādhipati dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ maggārammaṇānaṃ khandhānaṃ adhipatipaccayena paccayo (2)
-maggādhipati dhammo maggahetukassa dhammassa adhipatipaccayena paccayo   maggādhipati adhipati sampayuttakānaṃ maggahetukānaṃ khandhānaṃ adhipatipaccayena paccayo (3)
-maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (4)
-maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggādhipati adhipati sampayuttakānaṃ maggāhetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (5)
- maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggārammaṇānaṃ khandhānaṃ adhipatipaccayena paccayo (1)
-maggārammaṇo  ca maggādhipati ca dhammā maggādhipatissa dhammassa  adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo (2)
-maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (3)
- maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (1)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa adhipatipaccayena paccayo   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānaṃ khandhānaṃ adhipatipaccayena paccayo (2)
-maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo (3)
-maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (4)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo (5)
+ maggārammaṇo  dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggārammaṇo dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggārammaṇādhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
+ maggahetuko dhammo maggahetukassa dhammassa adhipatipaccayena paccayo   maggahetukādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko  dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggahetukādhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo    maggahetukādhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
+ maggādhipati  dhammo maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ maggārammaṇānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggādhipati dhammo maggahetukassa dhammassa adhipatipaccayena paccayo   maggādhipati adhipati sampayuttakānaṃ maggahetukānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggādhipati adhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
+maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggādhipati adhipati sampayuttakānaṃ maggāhetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
+ maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggārammaṇānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggārammaṇo  ca maggādhipati ca dhammā maggādhipatissa dhammassa  adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggārammaṇā ca maggādhipatī ca adhipati sampayuttakānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
+ maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa adhipatipaccayena paccayo   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa adhipatipaccayena paccayo  ārammaṇādhipati sahajātādhipati   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggādhipatīnaṃ khandhānaṃ adhipatipaccayena paccayo 
+maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo   maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo 
 
- maggārammaṇo  dhammo maggārammaṇassa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo āvajjanā maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo (1)
-maggārammaṇo dhammo maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo āvajjanā maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo (2)
-maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca  maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo āvajjanā maggārammaṇānañca  maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo (3)
- maggādhipati dhammo maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo (1)
-maggādhipati dhammo maggārammaṇassa dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo (2)
-maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo (3)
- maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa anantarapaccayena paccayo   purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo (1)
-maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo (2)
-maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo (3)
+ maggārammaṇo  dhammo maggārammaṇassa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo āvajjanā maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo 
+maggārammaṇo dhammo maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo āvajjanā maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo 
+maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca  maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo āvajjanā maggārammaṇānañca  maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo 
+ maggādhipati dhammo maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggādhipatī khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo 
+ maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa anantarapaccayena paccayo   purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo 
+maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo 
+maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo 
 
- maggārammaṇo dhammo maggārammaṇassa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ) sahajātapaccayena paccayo aññamaññapaccayena paccayo nissayapaccayena paccayo (tīsupi sattarasa pañhā kātabbā)
+ maggārammaṇo dhammo maggārammaṇassa dhammassa samanantarapaccayena paccayo  sahajātapaccayena paccayo aññamaññapaccayena paccayo nissayapaccayena paccayo 
 
- maggārammaṇo  dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (1)
-maggārammaṇo dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (2)
-maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo    pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya  upanissayapaccayena paccayo (3)
- maggahetuko dhammo maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa upanissayapaccayena paccayo tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (1)
-maggahetuko dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (2)
-maggahetuko dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (3)
-maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (4)
-maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (5)
- maggādhipati  dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (1)
-maggādhipati dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo    pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (2)
-maggādhipati dhammo maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (3)
-maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (4)
-maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (5)
- maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena  paccayo (1)
-maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (2)
-maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo (3)
- maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa upanissayapaccayena  paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (1)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (2)
-maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo  (3)
-maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti (4)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo (5)
+ maggārammaṇo  dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggārammaṇo dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo    pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya  upanissayapaccayena paccayo 
+ maggahetuko dhammo maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa upanissayapaccayena paccayo tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+ maggādhipati  dhammo maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa dhammassa upanissayapaccayena paccayo    pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggādhipati dhammo maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+ maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena  paccayo 
+maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paccavekkhaṇā paccavekkhaṇāya upanissayapaccayena paccayo 
+ maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa upanissayapaccayena  paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa upanissayapaccayena paccayo   pakatūpanissayo  paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo  
+maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo   paṭhamo maggo dutiyassa maggassa tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo 
 
  maggārammaṇo dhammo maggārammaṇassa dhammassa āsevanapaccayena paccayo  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo
-maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo (anantarasadisaṃ nava pañhā kātabbā āvajjanā na kātabbā)
+maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo 
 
- maggārammaṇo  dhammo maggārammaṇassa dhammassa kammapaccayena paccayo  sahajātā (nānākkhaṇikā natthi sattarasa pañhā kātabbā)
+ maggārammaṇo  dhammo maggārammaṇassa dhammassa kammapaccayena paccayo  sahajātā 
 
- maggārammaṇo dhammo maggārammaṇassa dhammassa āhārapaccayena paccayo indriyapaccayena paccayo jhānapaccayena paccayo maggapaccayena paccayo sampayuttapaccayena paccayo atthipaccayena paccayo (ime satta paccayā  sattarasa pañhā hetusadisā) natthipaccayena paccayo vigatapaccayena paccayo (anantarasadisā) avigatapaccayena paccayo (sattarasa pañhā)
-
-
- hetuyā sattarasa ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa (evaṃ gaṇetabbaṃ)
+ maggārammaṇo dhammo maggārammaṇassa dhammassa āhārapaccayena paccayo indriyapaccayena paccayo jhānapaccayena paccayo maggapaccayena paccayo sampayuttapaccayena paccayo atthipaccayena paccayo (ime satta paccayā  sattarasa pañhā hetusadisā) natthipaccayena paccayo vigatapaccayena paccayo  avigatapaccayena paccayo 
 
 
- maggārammaṇo dhammo maggārammaṇassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
-maggārammaṇo  dhammo maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (2)
-maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
- maggahetuko  dhammo maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
-maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena  paccayo upanissayapaccayena paccayo (2)
-maggahetuko dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
-maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo (4)
-maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (5)
- maggādhipati dhammo maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
-maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo (2)
-maggādhipati  dhammo maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
-maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (4)
-maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (5)
- maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (1)
-maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (2)
-maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
- maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo (1)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (2)
-maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (3)
-maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo (4)
-maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo (5)
+ hetuyā sattarasa ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa 
 
 
-
- nahetuyā ekavīsa naārammaṇe sattarasa (naārammaṇe gahite pakatārammaṇampi upanissayārammaṇampi dvepi chijjanti) naadhipatiyā  ekavīsa naanantare nasamanantare nasahajāte naaññamaññe nanissaye naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge nasampayutte navippayutte noatthiyā nonatthiyā novigate noavigate ekavīsa (evaṃ gaṇetabbaṃ)
+ maggārammaṇo dhammo maggārammaṇassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggārammaṇo  dhammo maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggārammaṇo dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+ maggahetuko  dhammo maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena  paccayo upanissayapaccayena paccayo 
+maggahetuko dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko dhammo maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+ maggādhipati dhammo maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggādhipati  dhammo maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggādhipati dhammo maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+ maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggārammaṇo  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+ maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
+maggahetuko  ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo 
+maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
 
 
 
- hetupaccayā  naārammaṇe sattarasa naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge navippayutte nonatthiyā novigate sattarasa (evaṃ gaṇetabbaṃ)
+ nahetuyā ekavīsa naārammaṇe sattarasa  naadhipatiyā  ekavīsa naanantare nasamanantare nasahajāte naaññamaññe nanissaye naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge nasampayutte navippayutte noatthiyā nonatthiyā novigate noavigate ekavīsa 
 
 
 
- nahetupaccayā  ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre sattarasa indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa (evaṃ gaṇetabbaṃ)
+ hetupaccayā  naārammaṇe sattarasa naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge navippayutte nonatthiyā novigate sattarasa 
+
+
+
+ nahetupaccayā  ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre sattarasa indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa 
 
 

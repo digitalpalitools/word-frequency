@@ -2,29 +2,29 @@
 
 
 ganthārambhakathā
-(ka)
+
 ādito  upasampanna-sikkhitabbaṃ samātikaṃ
  pavakkhāmi vanditvā ratanattayaṃ
  
-(kha)
+
 pārājikā ca cattāro garukā nava cīvaraṃ
 rajanāni ca patto ca thālakā ca pavāraṇā
-(ga)
+
 kālikā  ca paṭiggāho maṃsesu ca akappiyaṃ
 nissaggiyāni pācitti samaṇakappa bhūmiyo
-(gha)
+
 upajjhācariyavattāni vaccappassāvaṭhānikaṃ
 āpucchakaraṇaṃ naggo nhānakappo avandiyo
-(ṅa)
+
 cammaṃ upāhanā ceva anolokiyamañjanī
 akappiyasayanāni samānāsanikopi ca
-(ca)
+
 asaṃvāsiko ca kammaṃ micchājīvavivajjanā
 vattaṃ vikappanā ceva nissayo kāyabandhanaṃ
-(cha)
+
 pathavī  ca parikkhāro bhesajjuggahadūsanaṃ
 vassūpanāyikā cevāvebhaṅgiyaṃ pakiṇṇakaṃ
-(ja)
+
 desanā chandadānādi uposathappavāraṇā
 saṃvaro suddhi santoso caturakkhā vipassanāti
 
@@ -1320,24 +1320,24 @@ nissaggiyesu pana idaṃ me bhante cīvaraṃ dasāhātikkantaṃ nissaggiyaṃ 
  nissajjitvāna deseyya āpattiṃ tena bhikkhunā
 paṭiggahetvā āpattiṃ deyyaṃ nissaṭṭhacīvaraṃ
 imaṃ imāni etaṃ etāni cīvarāni āyasmato dammīti
- (ka) idaṃ me bhante cīvaraṃ rattivippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
-(kha) idaṃ me bhante akālacīvaraṃ māsātikkantaṃ nissaggiyaṃ
-(ga) idaṃ me bhante purāṇacīvaraṃ aññātikāya bhikkhuniyā dhovāpitaṃ nissaggiyaṃ
-(gha) idaṃ me bhante cīvaraṃ aññātikāya bhikkhuniyā hatthato paṭiggahitaṃ aññatra pārivattakā nissaggiyaṃ
-(ṅa) idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ aññatra samayā viññāpitaṃ nissaggiyaṃ
-(ca) idaṃ  me bhante cīvaraṃ aññātakaṃ gahapatikaṃ tatuttari viññāpitaṃ nissaggiyaṃ
-(cha) idaṃ me bhante cīvaraṃ pubbe appavārito aññātakaṃ gahapatikaṃ upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
-(ja) idaṃ  me bhante cīvaraṃ pubbe appavārito aññātake gahapatike upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
-(jha) idaṃ me bhante cīvaraṃ atirekatikkhattuṃ codanāya atirekachakkhattuṃ ṭhānena abhinipphāditaṃ nissaggiyaṃ
-(ña) idaṃ me bhante kosiyamissakaṃ santhataṃ kārāpitaṃ nissaggiyaṃ
-(ṭa) idaṃ me bhante suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpitaṃ nissaggiyaṃ
-(ṭha) idaṃ me bhante santhataṃ anādiyitvā tulaṃ odātānaṃ tulaṃ gocariyānaṃ kārāpitaṃ nissaggiyaṃ
-(ḍa) idaṃ me bhante santhataṃ ūnakachabbassāni kārāpitaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
-(ḍha) idaṃ me bhante nisīdanasanthataṃ anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ kārāpitaṃ nissaggiyaṃ
-(ṇa) imāni me bhante eḷakalomāni tiyojanaparamaṃ atikkāmitāni nissaggiyāni
-(ta) imāni  me bhante eḷakalomāni aññātikāya bhikkhuniyā dhovāpitāni nissaggiyāni
-(tha) ahaṃ bhante rūpiyaṃ paṭiggahesiṃ idaṃ me bhante nissaggiyaṃ imāhaṃ saṅghassa nissajjāmi
-(da) ahaṃ  bhante nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjiṃ idaṃ me bhante nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti
+  idaṃ me bhante cīvaraṃ rattivippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
+ idaṃ me bhante akālacīvaraṃ māsātikkantaṃ nissaggiyaṃ
+ idaṃ me bhante purāṇacīvaraṃ aññātikāya bhikkhuniyā dhovāpitaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ aññātikāya bhikkhuniyā hatthato paṭiggahitaṃ aññatra pārivattakā nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ aññātakaṃ gahapatikaṃ aññatra samayā viññāpitaṃ nissaggiyaṃ
+ idaṃ  me bhante cīvaraṃ aññātakaṃ gahapatikaṃ tatuttari viññāpitaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ pubbe appavārito aññātakaṃ gahapatikaṃ upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
+ idaṃ  me bhante cīvaraṃ pubbe appavārito aññātake gahapatike upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ atirekatikkhattuṃ codanāya atirekachakkhattuṃ ṭhānena abhinipphāditaṃ nissaggiyaṃ
+ idaṃ me bhante kosiyamissakaṃ santhataṃ kārāpitaṃ nissaggiyaṃ
+ idaṃ me bhante suddhakāḷakānaṃ eḷakalomānaṃ santhataṃ kārāpitaṃ nissaggiyaṃ
+ idaṃ me bhante santhataṃ anādiyitvā tulaṃ odātānaṃ tulaṃ gocariyānaṃ kārāpitaṃ nissaggiyaṃ
+ idaṃ me bhante santhataṃ ūnakachabbassāni kārāpitaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
+ idaṃ me bhante nisīdanasanthataṃ anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṃ kārāpitaṃ nissaggiyaṃ
+ imāni me bhante eḷakalomāni tiyojanaparamaṃ atikkāmitāni nissaggiyāni
+ imāni  me bhante eḷakalomāni aññātikāya bhikkhuniyā dhovāpitāni nissaggiyāni
+ ahaṃ bhante rūpiyaṃ paṭiggahesiṃ idaṃ me bhante nissaggiyaṃ imāhaṃ saṅghassa nissajjāmi
+ ahaṃ  bhante nānappakārakaṃ rūpiyasaṃvohāraṃ samāpajjiṃ idaṃ me bhante nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti
 
  nissajjitvāna āpattiṃ deseyyātha gihiṃ vade
 jānāhimanti iminā so vadeyyāharāmi kiṃ
@@ -1356,26 +1356,26 @@ evampi bhikkhu chaḍḍeyya no ce labhetha sammato
 
  etāni dutiyo patto saṅghe sesāni labbhare
 saṅghekasmiṃ gaṇe vattuṃ labbhaṃ bhāsantarenapi
- (ka) ahaṃ bhante nānappakārakaṃ kayavikkayaṃ samāpajjiṃ idaṃ me bhante nissaggiyaṃ
-(kha) ayaṃ  me bhante patto dasāhātikkanto nissaggiyo
-(ga) ayaṃ me bhante patto ūnapañcabandhanena pattena cetāpito nissaggiyo imāhaṃ saṅghassa nissajjāmīti
+  ahaṃ bhante nānappakārakaṃ kayavikkayaṃ samāpajjiṃ idaṃ me bhante nissaggiyaṃ
+ ayaṃ  me bhante patto dasāhātikkanto nissaggiyo
+ ayaṃ me bhante patto ūnapañcabandhanena pattena cetāpito nissaggiyo imāhaṃ saṅghassa nissajjāmīti
 
  nissajjitvāna  deseyya āpattiṃ pattagāhakaṃ
 sammannitvāna saṅghassa pattantaṃ tassa dāpaye
- (ka) idaṃ me bhante bhesajjaṃ sattāhātikkantaṃ nissaggiyaṃ
-(kha) idaṃ me bhante vassikasāṭikacīvaraṃ atirekamāse sese gimhāne pariyiṭṭhaṃ atirekaḍḍhamāse sese gimhāne katvā paridahitaṃ nissaggiyaṃ
-(ga) idaṃ me bhante cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ
-(gha) idaṃ me bhante cīvaraṃ sāmaṃ suttaṃ viññāpetvā tantavāyehi vāyāpitaṃ nissaggiyaṃ
-(ṅa) idaṃ me bhante cīvaraṃ pubbe appavārito aññātakassa gahapatikassa tantavāye upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
-(ca) idaṃ me bhante accekacīvaraṃ cīvarakālasamayaṃ atikkāmitaṃ nissaggiyaṃ
-(cha) idaṃ me bhante cīvaraṃ atirekachārattaṃ vippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
-(ja) idaṃ me bhante jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmitaṃ nissaggiyaṃ imāhaṃ āyasmato nissajjāmīti
+  idaṃ me bhante bhesajjaṃ sattāhātikkantaṃ nissaggiyaṃ
+ idaṃ me bhante vassikasāṭikacīvaraṃ atirekamāse sese gimhāne pariyiṭṭhaṃ atirekaḍḍhamāse sese gimhāne katvā paridahitaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ sāmaṃ suttaṃ viññāpetvā tantavāyehi vāyāpitaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ pubbe appavārito aññātakassa gahapatikassa tantavāye upasaṅkamitvā vikappaṃ āpannaṃ nissaggiyaṃ
+ idaṃ me bhante accekacīvaraṃ cīvarakālasamayaṃ atikkāmitaṃ nissaggiyaṃ
+ idaṃ me bhante cīvaraṃ atirekachārattaṃ vippavutthaṃ aññatra bhikkhusammutiyā nissaggiyaṃ
+ idaṃ me bhante jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmitaṃ nissaggiyaṃ imāhaṃ āyasmato nissajjāmīti
  sesaṃ  sabbaṃ yathāyogaṃ ādimhi viya yojaye
- (ka) ahaṃ  bhante ekaṃ pācittiyāpattiṃ āpajjiṃ dve sambahulā pācittiyāpattiyo āpajjiṃ
-(kha) gārayhaṃ bhante dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ taṃ paṭidesemīti tena passasi āvuso taṃ dhammanti vattabbaṃ
-(ga) ahaṃ bhante ekaṃ dukkaṭāpattiṃ āpajjiṃ dve sambahulā dukkaṭāpattiyo āpajjiṃ
-(gha) ahaṃ bhante ekaṃ dubbhāsitāpattiṃ āpajjiṃ dve sambahulā dubbhāsitāpattiyo āpajjiṃ tā tumhamūle paṭidesemīti
-(ṅa) ahaṃ bhante dve nānāvatthukā thullaccayāpattiyo āpajjiṃ sambahulā nānāvatthukā thullaccayāpattiyo āpajjiṃ tā tumhamūle paṭidesemīti vatvā tena passasi āvuso tā āpattiyoti vutte āma bhante passāmīti vatvā puna tena āyatiṃ āvuso saṃvareyyāsīti vutte sādhu suṭṭhu bhante saṃvarissāmīti vattabbaṃ
+  ahaṃ  bhante ekaṃ pācittiyāpattiṃ āpajjiṃ dve sambahulā pācittiyāpattiyo āpajjiṃ
+ gārayhaṃ bhante dhammaṃ āpajjiṃ asappāyaṃ pāṭidesanīyaṃ taṃ paṭidesemīti tena passasi āvuso taṃ dhammanti vattabbaṃ
+ ahaṃ bhante ekaṃ dukkaṭāpattiṃ āpajjiṃ dve sambahulā dukkaṭāpattiyo āpajjiṃ
+ ahaṃ bhante ekaṃ dubbhāsitāpattiṃ āpajjiṃ dve sambahulā dubbhāsitāpattiyo āpajjiṃ tā tumhamūle paṭidesemīti
+ ahaṃ bhante dve nānāvatthukā thullaccayāpattiyo āpajjiṃ sambahulā nānāvatthukā thullaccayāpattiyo āpajjiṃ tā tumhamūle paṭidesemīti vatvā tena passasi āvuso tā āpattiyoti vutte āma bhante passāmīti vatvā puna tena āyatiṃ āvuso saṃvareyyāsīti vutte sādhu suṭṭhu bhante saṃvarissāmīti vattabbaṃ
 
  adesanāgāminiyaṃ anāpattiñca desitaṃ
 nānā saṃvāsanissīmaṭṭhitānaṃ catupañcahi
@@ -1388,8 +1388,8 @@ saṅghe hareyya chandaṃ vā pārisuddhiṃ pavāraṇaṃ
 
  ekaṃ  bhikkhuṃ upaggamma nisīditvā ukkuṭikaṃ
 añjaliṃ paggaṇhitvāna dade chandaṃ vicakkhaṇo
- (ka) chandaṃ dammi chandaṃ me hara chandaṃ me ārocehīti vattabbaṃ
-(kha) pārisuddhiṃ dentena pārisuddhiṃ dammi pārisuddhiṃ me hara pārisuddhiṃ me ārocehīti vattabbaṃ
+  chandaṃ dammi chandaṃ me hara chandaṃ me ārocehīti vattabbaṃ
+ pārisuddhiṃ dentena pārisuddhiṃ dammi pārisuddhiṃ me hara pārisuddhiṃ me ārocehīti vattabbaṃ
 
  pārisuddhippadānena sampādeti uposathaṃ
 saṅghassa attano cāpi sesakammaṃ vibādhati

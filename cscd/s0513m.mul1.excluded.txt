@@ -1,7 +1,7 @@
 ﻿2. Dukanipāto
 1. Daḷhavaggo
 
-.
+.(2-1-1)
 1.
 ,malliko (sī. pī.);
 ,;
@@ -20,7 +20,7 @@ Rājovādajātakaṃ paṭhamaṃ.
 ,.
 Siṅgālajātakaṃ sigālajātakaṃ (sī. syā. pī.) dutiyaṃ.
 
-.
+.(2-1-3)
 5.
 ,;
 sīha (sī. pī.),.
@@ -29,7 +29,7 @@ sīha (sī. pī.),.
 ,.
 Sūkarajātakaṃ tatiyaṃ.
 
-.
+.(2-1-4)
 7.
 ,;
 vakkaṃ (ka.),visahāmi (ka. si. syā. pī.).
@@ -38,7 +38,7 @@ vakkaṃ (ka.),visahāmi (ka. si. syā. pī.).
 ,sabbatthapi samānaṃ.
 Uragajātakaṃ catutthaṃ.
 
-.
+.(2-1-5)
 9.
 gagga (sī. pī.),vīsati (syā. ka.);
 ,.
@@ -47,7 +47,7 @@ gagga (sī. pī.),vīsati (syā. ka.);
 ,.
 Bhaggajātakaṃ pañcamaṃ.
 
-.
+.(2-1-6)
 11.
 ,;
 ,.
@@ -57,7 +57,7 @@ Bhaggajātakaṃ pañcamaṃ.
 ,.
 Alīnacittajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-1-7)
 13.
 ,;
 ,.
@@ -67,7 +67,7 @@ Alīnacittajātakaṃ chaṭṭhaṃ.
 maññivo (syā.), maññavho (ka.),.
 Guṇajātakaṃ sattamaṃ.
 
-.
+.(2-1-8)
 15.
 ,;
 ,.
@@ -76,7 +76,7 @@ Guṇajātakaṃ sattamaṃ.
 ,.
 Suhanujātakaṃ aṭṭhamaṃ.
 
-.
+.(2-1-9)
 17.
 ,paṭhavippabhāso (sī. syā. pī.);
 ,.
@@ -91,7 +91,7 @@ buddhāna (?),vimuttāna (?);
 ,.
 Morajātakaṃ navamaṃ.
 
-.
+.(2-1-10)
 19.
 nu (ka.),;
 ,.
@@ -105,7 +105,7 @@ Daḷhavaggo paṭhamo.
 ,.
 2. Santhavavaggo
 
-.
+.(2-2-1)
 21.
 sandhavaṃ (ka.),;
 ,.
@@ -114,7 +114,7 @@ sandhavaṃ (ka.),;
 ,.
 Indasamānagottajātakaṃ paṭhamaṃ.
 
-.
+.(2-2-2)
 23.
 ,sandhavo (ka.);
 pāyāsena (ka.),adaḍḍhahi (sī. syā.), adaṭṭhahi (pī.), adaddahi (?).
@@ -123,7 +123,7 @@ pāyāsena (ka.),adaḍḍhahi (sī. syā.), adaṭṭhahi (pī.), adaddahi (?).
 ,.
 Santhavajātakaṃ dutiyaṃ.
 
-.
+.(2-2-3)
 25.
 tava ime (sī. syā. pī.),hemajālābhisañchannā (sī.);
 ,.
@@ -132,7 +132,7 @@ mama ime (sī. pī.),;
 ,.
 Susīmajātakaṃ tatiyaṃ.
 
-.
+.(2-2-4)
 27.
 ,;
 ,.
@@ -141,7 +141,7 @@ Susīmajātakaṃ tatiyaṃ.
 ,.
 Gijjhajātakaṃ catutthaṃ.
 
-.
+.(2-2-5)
 29.
 ,;
 sayasi (sī. syā. pī.),.
@@ -150,7 +150,7 @@ saṅkateva (ka.),;
 ,mūlaṃ nikantatīti (sī.).
 Nakulajātakaṃ pañcamaṃ.
 
-.
+.(2-2-6)
 31.
 upasāḷhakanāmānaṃ (sī. syā. pī.),;
 ,.
@@ -159,7 +159,7 @@ upasāḷhakanāmānaṃ (sī. syā. pī.),;
 ,.
 Upasāḷakajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-2-7)
 33.
 ,;
 ,.
@@ -168,7 +168,7 @@ Upasāḷakajātakaṃ chaṭṭhaṃ.
 ,.
 Samiddhijātakaṃ sattamaṃ.
 
-.
+.(2-2-8)
 35.
 ,;
 ,.
@@ -177,7 +177,7 @@ Samiddhijātakaṃ sattamaṃ.
 ,.
 Sakuṇagghijātakaṃ aṭṭhamaṃ.
 
-.
+.(2-2-9)
 37.
 ,;
 ,.
@@ -186,7 +186,7 @@ Sakuṇagghijātakaṃ aṭṭhamaṃ.
 ,.
 Arakajātakaṃ navamaṃ.
 
-.
+.(2-2-10)
 39.
 unnamati (syā.),;
 ,.
@@ -200,7 +200,7 @@ Santhavavaggo dutiyo.
 ,.
 3. Kalyāṇavaggo
 
-.
+.(2-3-1)
 41.
 ,;
 hīyetha (sī.),.
@@ -209,7 +209,7 @@ hīyetha (sī.),.
 ,.
 Kalyāṇadhammajātakaṃ paṭhamaṃ.
 
-.
+.(2-3-2)
 43.
 ,;
 kiṃ sīhā nappaṭinadanti (sī. pī.), na sīhā paṭinadanti (ka.),.
@@ -218,7 +218,7 @@ kiṃ sīhā nappaṭinadanti (sī. pī.), na sīhā paṭinadanti (ka.),.
 ,.
 Daddarajātakaṃ dutiyaṃ.
 
-.
+.(2-3-3)
 45.
 ,;
 ,.
@@ -227,7 +227,7 @@ Daddarajātakaṃ dutiyaṃ.
 ,.
 Makkaṭajātakaṃ tatiyaṃ.
 
-.
+.(2-3-4)
 47.
 ,;
 pītvāna (sī. pī.)kikiṃkarosi (sī. syā. pī.),.
@@ -236,7 +236,7 @@ pītvāna (sī. pī.)kikiṃkarosi (sī. syā. pī.),.
 ūhacca (sī. pī.), ohaccaṃ (syā.), uhajjaṃ (ka.),.
 Dubbhiyamakkaṭajātakaṃ catutthaṃ.
 
-.
+.(2-3-5)
 49.
 ,;
 ,.
@@ -245,7 +245,7 @@ Dubbhiyamakkaṭajātakaṃ catutthaṃ.
 ūhantaṃ (sī.), ūhanaṃ (syā.), ūhanti (pī.), uhadaṃ (ka.),.
 Ādiccupaṭṭhānajātakaṃ pañcamaṃ.
 
-.
+.(2-3-6)
 51.
 ,;
 kalāyamuṭṭhiṃ (sī. pī.),.
@@ -254,7 +254,7 @@ kalāyamuṭṭhiṃ (sī. pī.),.
 ,.
 Kaḷāyamuṭṭhijātakaṃ chaṭṭhaṃ.
 
-.
+.(2-3-7)
 53.
 ,;
 ,.
@@ -263,7 +263,7 @@ Kaḷāyamuṭṭhijātakaṃ chaṭṭhaṃ.
 ,.
 Tindukajātakaṃ sattamaṃ.
 
-.
+.(2-3-8)
 55.
 ,;
 ,;
@@ -274,7 +274,7 @@ Tindukajātakaṃ sattamaṃ.
 ,.
 .
 
-.
+.(2-3-9)
 57.
 ,;
 ,.
@@ -283,7 +283,7 @@ nirākatvā (?) ni + ā + kara + tvā,;
 ,.
 Satadhammajātakaṃ navamaṃ.
 
-.
+.(2-3-10)
 59.
 ,;
 ,.
@@ -297,7 +297,7 @@ Kalyāṇavaggo tatiyo.
 ,.
 4. Asadisavaggo
 
-.
+.(2-4-1)
 61.
 ,;
 ,.
@@ -306,7 +306,7 @@ Kalyāṇavaggo tatiyo.
 ,.
 Asadisajātakaṃ paṭhamaṃ.
 
-.
+.(2-4-2)
 63.
 ,;
 ,.
@@ -315,7 +315,7 @@ Asadisajātakaṃ paṭhamaṃ.
 ,.
 Saṅgāmāvacarajātakaṃ dutiyaṃ.
 
-.
+.(2-4-3)
 65.
 ,pītvā (sī. pī.);
 ,.
@@ -324,7 +324,7 @@ Saṅgāmāvacarajātakaṃ dutiyaṃ.
 ,.
 Vālodakajātakaṃ tatiyaṃ.
 
-.
+.(2-4-4)
 67.
 giridantena (pī.),;
 ,nuvidhīyati (sī. pī.).
@@ -334,7 +334,7 @@ taṃ (sī. syā. pī.),;
 ,.
 Giridattajātakaṃ catutthaṃ.
 
-.
+.(2-4-5)
 69.
 ,;
 ,āvile hi (sī.);
@@ -345,7 +345,7 @@ Giridattajātakaṃ catutthaṃ.
 .
 Anabhiratijātakaṃ pañcamaṃ.
 
-.
+.(2-4-6)
 71.
 ,;
 ,.
@@ -355,7 +355,7 @@ Anabhiratijātakaṃ pañcamaṃ.
 ,.
 Dadhivāhanajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-4-7)
 73.
 ,;
 ,.
@@ -364,7 +364,7 @@ yaṃ supaṇṇo supaṇṇena (sī. syā. pī.),;
 ,.
 Catumaṭṭhajātakaṃ sattamaṃ.
 
-.
+.(2-4-8)
 75.
 ,;
 ,.
@@ -373,7 +373,7 @@ Catumaṭṭhajātakaṃ sattamaṃ.
 mā (ka.),.
 Sīhakotthujātakaṃ aṭṭhamaṃ.
 
-.
+.(2-4-9)
 77.
 ,byagghassa na ca (ka.);
 ,.
@@ -382,7 +382,7 @@ Sīhakotthujātakaṃ aṭṭhamaṃ.
 ,.
 Sīhacammajātakaṃ navamaṃ.
 
-.
+.(2-4-10)
 79.
 ,;
 ,.
@@ -396,7 +396,7 @@ Asadisavaggo catuttho.
 ,.
 5. Ruhakavaggo
 
-.
+.(2-5-1)
 81.
 ambho (syā. ka. sī.),;
 ,.
@@ -405,7 +405,7 @@ vijjamānāsu maruvāsu (sī.), vijjamānāsu marūdvāsu (pī.),;
 ,.
 Ruhakajātakaṃ paṭhamaṃ.
 
-.
+.(2-5-2)
 83.
 ,;
 ,.
@@ -414,7 +414,7 @@ Ruhakajātakaṃ paṭhamaṃ.
 ,.
 Sirikāḷakaṇṇijātakaṃ dutiyaṃ.
 
-.
+.(2-5-3)
 85.
 ahampi (sī. syā. pī.), ahamsi (ka.),;
 ‘‘’’,.
@@ -423,7 +423,7 @@ ahampi (sī. syā. pī.), ahamsi (ka.),;
 ,.
 Cūḷapadumajātakaṃ tatiyaṃ.
 
-.
+.(2-5-4)
 87.
 ,;
 ,.
@@ -432,7 +432,7 @@ Cūḷapadumajātakaṃ tatiyaṃ.
 ,.
 Maṇicorajātakaṃ catutthaṃ.
 
-.
+.(2-5-5)
 89.
 pabbatapatthare (sī. syā. pī.),;
 apāpāsi (sī. syā. pī.),.
@@ -441,7 +441,7 @@ pivanti ve (sī.), pivantiva (pī.), pivanteva (?),;
 ,.
 Pabbatūpatthara pabbatapatthara (sī. syā. pī.) jātakaṃ pañcamaṃ.
 
-.
+.(2-5-6)
 91.
 ,;
 ,.
@@ -450,7 +450,7 @@ Pabbatūpatthara pabbatapatthara (sī. syā. pī.) jātakaṃ pañcamaṃ.
 ,vālāheneva (sī. pī.).
 Valāhakassa vālāhassa (sī. pī.) jātakaṃ chaṭṭhaṃ.
 
-.
+.(2-5-7)
 93.
 ,;
 ,.
@@ -459,7 +459,7 @@ Valāhakassa vālāhassa (sī. pī.) jātakaṃ chaṭṭhaṃ.
 ,.
 Mittāmittajātakaṃ sattamaṃ.
 
-.
+.(2-5-8)
 95.
 ,;
 ,.
@@ -468,7 +468,7 @@ Mittāmittajātakaṃ sattamaṃ.
 ,mummure (syā.), maṃ pure (ka.) mummurasaddo thusaggimhi kukkuḷe ca vattatīti sakkatābhidhānesuupakūsitoti (sī. syā. pī.), upakūlito (ka.).
 Rādhajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-5-9)
 97.
 ,;
 ,.
@@ -478,7 +478,7 @@ kāraṃ katvāna (sī. pī.), saṃkaraṃ katvā (ka.),;
 ,.
 Gahapatijātakaṃ navamaṃ.
 
-.
+.(2-5-10)
 99.
 vaddhabyaṃ (sī. pī.),;
 ,vaṇimhase (sī. pī.).
@@ -492,7 +492,7 @@ Ruhakavaggo pañcamo.
 ,.
 6. Nataṃdaḷhavaggo
 
-.
+.(2-6-1)
 101.
 ,babbajañca (sī.);
 ,.
@@ -501,7 +501,7 @@ Ruhakavaggo pañcamo.
 ,.
 Bandhanāgārajātakaṃ paṭhamaṃ.
 
-.
+.(2-6-2)
 103.
 ,hatthino (sī.), hatthiyo (syā. pī.);
 ,.
@@ -510,7 +510,7 @@ Bandhanāgārajātakaṃ paṭhamaṃ.
 ,.
 Keḷisīlajātakaṃ dutiyaṃ.
 
-.
+.(2-6-3)
 105.
 ,;
 ,.
@@ -528,7 +528,7 @@ Keḷisīlajātakaṃ dutiyaṃ.
 ,.
 Khaṇḍajātakaṃ tatiyaṃ.
 
-.
+.(2-6-4)
 107.
 ,;
 ,.
@@ -537,7 +537,7 @@ Khaṇḍajātakaṃ tatiyaṃ.
 ,.
 Vīrakajātakaṃ catutthaṃ.
 
-.
+.(2-6-5)
 109.
 ,sobhanti macchā gaṅgeyyā, atho sobhanti yāmunā (syā. pī.);
 ,;
@@ -547,7 +547,7 @@ akkhā (sī. syā. pī.),akkhāti (syā. pī.);
 ,.
 Gaṅgeyyajātakaṃ pañcamaṃ.
 
-.
+.(2-6-6)
 111.
 vaddhamayaṃ (sī. syā. pī.),;
 ,.
@@ -556,7 +556,7 @@ vaddhamayaṃ (sī. syā. pī.),;
 ,.
 Kuruṅgamigajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-6-7)
 113.
 ,;
 anukāmayavanukāmena (sī. pī.),.
@@ -565,7 +565,7 @@ anukāmayavanukāmena (sī. pī.),.
 ,.
 Assakajātakaṃ sattamaṃ.
 
-.
+.(2-6-8)
 115.
 ,;
 ,.
@@ -574,7 +574,7 @@ Assakajātakaṃ sattamaṃ.
 suṃsumāra (sī. syā. pī.),.
 Susumārajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-6-9)
 117.
 ,vibhedakā (syā. ka.);
 ,.
@@ -583,7 +583,7 @@ kakkaro (sī. syā. pī.),;
 ,.
 Kukkuṭa kakkara (sī. syā. pī.) jātakaṃ navamaṃ.
 
-.
+.(2-6-10)
 119.
 ,sīnapatto (sī. pī.);
 ,visāṭikaṃ (sī. syā. pī.), vighāṭitaṃ (sī. niyya).
@@ -597,7 +597,7 @@ Nataṃdaḷhavaggo chaṭṭho.
 ,.
 7. Bīraṇathambhavaggo
 
-.
+.(2-7-1)
 121.
 ,;
 ,.
@@ -606,7 +606,7 @@ Nataṃdaḷhavaggo chaṭṭho.
 ,.
 Somadattajātakaṃ paṭhamaṃ.
 
-.
+.(2-7-2)
 123.
 ,;
 ,.
@@ -615,7 +615,7 @@ Somadattajātakaṃ paṭhamaṃ.
 ,tvaṃ (ka.).
 Ucchiṭṭhabhattajātakaṃ dutiyaṃ.
 
-.
+.(2-7-3)
 125.
 ,kururājāti (ka.);
 raṭṭhena (sī. pī.),.
@@ -624,7 +624,7 @@ raṭṭhena (sī. pī.),.
 ,.
 Bharujātakaṃ kururātakaṃ (ka.) tatiyaṃ.
 
-.
+.(2-7-4)
 127.
 ,;
 ,tyābhato (syā. ka.) paheḷigāthābhāvo manasi kātabbo.
@@ -633,7 +633,7 @@ Bharujātakaṃ kururātakaṃ (ka.) tatiyaṃ.
 haṃsakoñcamayūrānaṃ (ka. aṭṭha. pāṭhantaraṃ),.
 Puṇṇanadījātakaṃ catutthaṃ.
 
-.
+.(2-7-5)
 129.
 ,kacchapova pabyāharaṃ (syā.), kacchapo so pabyāharaṃ (ka.);
 ,.
@@ -642,7 +642,7 @@ Puṇṇanadījātakaṃ catutthaṃ.
 ,.
 .
 
-.
+.(2-7-6)
 131.
 ,;
 ,.
@@ -651,7 +651,7 @@ Puṇṇanadījātakaṃ catutthaṃ.
 ,.
 .
 
-.
+.(2-7-7)
 133.
 ,;
 komārikā nāma (ka.), komāriko nāma (syā. pī.),.
@@ -660,7 +660,7 @@ komārikā nāma (ka.), komāriko nāma (syā. pī.),.
 ,.
 Seggujātakaṃ sattamaṃ.
 
-.
+.(2-7-8)
 135.
 ,;
 adeyyuṃ (sī. pī.),no (sī. syā. pī.).
@@ -669,7 +669,7 @@ santīdha (ka.),bhavanti (ka.);
 ,.
 Kūṭavāṇijajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-7-9)
 137.
 ,;
 ,.
@@ -679,7 +679,7 @@ Kūṭavāṇijajātakaṃ aṭṭhamaṃ.
 ,.
 Garahitajātakaṃ navamaṃ.
 
-.
+.(2-7-10)
 139.
 ,;
 araññasmiṃ (sī. syā. pī.),.
@@ -694,7 +694,7 @@ Bīraṇathambhavaggo sattamo.
 ,.
 8. Kāsāvavaggo
 
-.
+.(2-8-1)
 141.
 ,paridahessati (sī. pī.);
 ,.
@@ -703,7 +703,7 @@ Bīraṇathambhavaggo sattamo.
 ,.
 Kāsāvajātakaṃ paṭhamaṃ.
 
-.
+.(2-8-2)
 143.
 ,porāṇācariyobravi (ka.);
 akarā (sī. pī.),.
@@ -713,7 +713,7 @@ akarā (sī. pī.),.
 ,.
 Cūḷanandiyajātakaṃ dutiyaṃ.
 
-.
+.(2-8-3)
 145.
 ,;
 ,.
@@ -722,7 +722,7 @@ Cūḷanandiyajātakaṃ dutiyaṃ.
 ,.
 Puṭabhattajātakaṃ tatiyaṃ.
 
-.
+.(2-8-4)
 147.
 ,;
 ,.
@@ -731,7 +731,7 @@ Puṭabhattajātakaṃ tatiyaṃ.
 ,.
 Kumbhilajātakaṃ catutthaṃ.
 
-.
+.(2-8-5)
 149.
 ,vāvaṭo (ka.);
 ,.
@@ -740,7 +740,7 @@ Kumbhilajātakaṃ catutthaṃ.
 ,.
 Khantivaṇṇajātakaṃ pañcamaṃ.
 
-.
+.(2-8-6)
 151.
 ,;
 ,;
@@ -750,7 +750,7 @@ Khantivaṇṇajātakaṃ pañcamaṃ.
 ,.
 Kosiyajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-8-7)
 153.
 ,;
 ,;
@@ -760,7 +760,7 @@ Kosiyajātakaṃ chaṭṭhaṃ.
 ,.
 Gūthapāṇajātakaṃ sattamaṃ.
 
-.
+.(2-8-8)
 155.
 ,kurayo kekaye ca (sī.);
 taduttariṃ (ka.),.
@@ -769,7 +769,7 @@ taduttariṃ (ka.),.
 ,.
 Kāmanītajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-8-9)
 157.
 ,sarābhivassabhi (syā. sī. aṭṭha.), sarābhivassibhi (?);
 dhanuggahāvaṭṭa (ka.),.
@@ -778,7 +778,7 @@ abhidhāvathā ca patathā ca, vividhavinaditā ca dantibhi; vattatajja tumulo g
 ,abhidhāvathā ca patathā ca, vividhavinaditā ca dantibhi; vattatajja tumulo ghoso, yathā vijjutā jaladharassa gajjatoti; (sī. pī. ka.).
 Palāyitajātakaṃ navamaṃ.
 
-.
+.(2-8-10)
 159.
 ,sāgaramiva (sī. syā. pī.);
 duppasaho (sī. pī. ka.),.
@@ -792,7 +792,7 @@ Kāsāvavaggo aṭṭhamo.
 ,.
 9. Upāhanavaggo
 
-.
+.(2-9-1)
 161.
 ,;
 ,.
@@ -801,7 +801,7 @@ Kāsāvavaggo aṭṭhamo.
 ,pānadūpamoti (sī. pī.).
 Upāhanajātakaṃ paṭhamaṃ.
 
-.
+.(2-9-2)
 163.
 ,;
 ,.
@@ -810,7 +810,7 @@ Upāhanajātakaṃ paṭhamaṃ.
 ,thuṇāti (sī.).
 Vīṇāguṇajātakaṃ dutiyaṃ.
 
-.
+.(2-9-3)
 165.
 ,mamasmi (ka.);
 savāditena (sī. syā. pī.),.
@@ -819,7 +819,7 @@ savāditena (sī. syā. pī.),.
 ,susumāro (ka.).
 Vikaṇṇajātakaṃ tatiyaṃ.
 
-.
+.(2-9-4)
 167.
 makari (syā.), makarā (ka. sī.),;
 ,rerukaṃ (sī. pī.).
@@ -828,7 +828,7 @@ atricchā (sī. syā. pī.),;
 ,.
 Asitābhūjātakaṃ catutthaṃ.
 
-.
+.(2-9-5)
 169.
 ,;
 ,.
@@ -838,7 +838,7 @@ Asitābhūjātakaṃ catutthaṃ.
 durabhibhavaṃ (sī. pī.),.
 .
 
-.
+.(2-9-6)
 171.
 ,;
 ,.
@@ -847,7 +847,7 @@ durabhibhavaṃ (sī. pī.),.
 ,.
 Bakajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-9-7)
 173.
 ,;
 ,.
@@ -856,7 +856,7 @@ Bakajātakaṃ chaṭṭhaṃ.
 ,.
 Sāketajātakaṃ sattamaṃ.
 
-.
+.(2-9-8)
 175.
 ,padanissitaṃ (sī. pī.);
 ,.
@@ -866,7 +866,7 @@ Sāketajātakaṃ sattamaṃ.
 ,.
 Ekapadajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-9-9)
 177.
 āsīvisaṃ mamaṃ (sī. pī.),;
 ,.
@@ -875,7 +875,7 @@ Ekapadajātakaṃ aṭṭhamaṃ.
 ,viluppatīti (?).
 Haritamaṇḍūkajātakaṃ navamaṃ.
 
-.
+.(2-9-10)
 179.
 ,paccayaṃ (sī. syā. pī.);
 ,.
@@ -892,7 +892,7 @@ Upāhanavaggo navamo.
 ,.
 10. Siṅgālavaggo
 
-.
+.(2-10-1)
 182.
 ,;
 ,.
@@ -901,7 +901,7 @@ Upāhanavaggo navamo.
 ,.
 Sabbadāṭhijātakaṃ paṭhamaṃ.
 
-.
+.(2-10-2)
 184.
 ,yo ca yottaṃ (ka.);
 ,.
@@ -910,7 +910,7 @@ Sabbadāṭhijātakaṃ paṭhamaṃ.
 ,pasupatujjano (syā. ka.).
 Sunakhajātakaṃ dutiyaṃ.
 
-.
+.(2-10-3)
 186.
 ,;
 ,.
@@ -919,7 +919,7 @@ ahaṃ te saraṇaṃ homi (vi. va. 328),;
 ,.
 Guttilajātakaṃ tatiyaṃ.
 
-.
+.(2-10-4)
 188.
 ,;
 ,.
@@ -928,7 +928,7 @@ Guttilajātakaṃ tatiyaṃ.
 ,vīticchānaṃ (sī. pī.).
 Vigaticcha vīticcha (sī. pī.) jātakaṃ catutthaṃ.
 
-.
+.(2-10-5)
 190.
 ,;
 ,.
@@ -937,7 +937,7 @@ Vigaticcha vīticcha (sī. pī.) jātakaṃ catutthaṃ.
 ,.
 Mūlapariyāyajātakaṃ pañcamaṃ.
 
-.
+.(2-10-6)
 192.
 jhatvā (sī. pī.), ghatvā (syā.),;
 ,sa pāpena upalippati (sī. pī.).
@@ -946,7 +946,7 @@ jhatvā (sī. pī.), ghatvā (syā.),;
 ,.
 Bālovādajātakaṃ chaṭṭhaṃ.
 
-.
+.(2-10-7)
 194.
 ,;
 ,.
@@ -955,7 +955,7 @@ Bālovādajātakaṃ chaṭṭhaṃ.
 ,.
 Pādañjalījātakaṃ sattamaṃ.
 
-.
+.(2-10-8)
 196.
 ,;
 ,.
@@ -964,7 +964,7 @@ Pādañjalījātakaṃ sattamaṃ.
 ,.
 Kiṃsukopamajātakaṃ aṭṭhamaṃ.
 
-.
+.(2-10-9)
 198.
 ,;
 ,.
@@ -973,7 +973,7 @@ nanu maṃ hadayeti (sī. pī.),;
 ,.
 Sālakajātakaṃ navamaṃ.
 
-.
+.(2-10-10)
 200.
 ,santiṭṭhati (sī. pī.);
 ,.

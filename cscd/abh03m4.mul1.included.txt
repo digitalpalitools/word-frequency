@@ -4,1150 +4,1150 @@
  pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
 
 
- (ka) rūpaṃ rūpakkhandho
-(kha) rūpakkhandho rūpaṃ
-(ka) vedanā vedanākkhandho
-(kha) vedanākkhandho vedanā
-(ka) saññā saññākkhandho
-(kha) saññākkhandho saññā
-(ka) saṅkhārā  saṅkhārakkhandho
-(kha) saṅkhārakkhandho saṅkhārā
-(ka) viññāṇaṃ viññāṇakkhandho
-(kha) viññāṇakkhandho viññāṇaṃ
+  rūpaṃ rūpakkhandho
+ rūpakkhandho rūpaṃ
+ vedanā vedanākkhandho
+ vedanākkhandho vedanā
+ saññā saññākkhandho
+ saññākkhandho saññā
+ saṅkhārā  saṅkhārakkhandho
+ saṅkhārakkhandho saṅkhārā
+ viññāṇaṃ viññāṇakkhandho
+ viññāṇakkhandho viññāṇaṃ
 
- (ka) na  rūpaṃ na rūpakkhandho
-(kha) na rūpakkhandho na rūpaṃ
-(ka) na vedanā na vedanākkhandho
-(kha) na vedanākkhandho na vedanā
-(ka) na saññā na saññākkhandho
-(kha) na saññākkhandho na saññā
-(ka) na saṅkhārā na saṅkhārakkhandho
-(kha) na saṅkhārakkhandho na saṅkhārā
-(ka) na viññāṇaṃ na viññāṇakkhandho
-(kha) na viññāṇakkhandho na viññāṇaṃ
-
-
- (ka) rūpaṃ  rūpakkhandho
-(kha) khandhā vedanākkhandho
-(ka) rūpaṃ rūpakkhandho
-(kha) khandhā saññākkhandho
-(ka) rūpaṃ  rūpakkhandho
-(kha) khandhā saṅkhārakkhandho
-(ka) rūpaṃ rūpakkhandho
-(kha) khandhā viññāṇakkhandho
- (ka) vedanā vedanākkhandho
-(kha) khandhā rūpakkhandho
-(ka) vedanā vedanākkhandho
-(kha) khandhā saññākkhandho
-(ka) vedanā vedanākkhandho
-(kha) khandhā saṅkhārakkhandho
-(ka) vedanā vedanākkhandho
-(kha) khandhā viññāṇakkhandho
- (ka) saññā saññākkhandho
-(kha) khandhā rūpakkhandho
-(ka) saññā saññākkhandho
-(kha) khandhā vedanākkhandho
-(ka) saññā saññākkhandho
-(kha) khandhā saṅkhārakkhandho
-(ka) saññā saññākkhandho
-(kha) khandhā viññāṇakkhandho
- (ka) saṅkhārā saṅkhārakkhandho
-(kha) khandhā rūpakkhandho
-(ka) saṅkhārā  saṅkhārakkhandho
-(kha) khandhā vedanākkhandho
-(ka) saṅkhārā saṅkhārakkhandho
-(kha) khandhā saññākkhandho
-(ka) saṅkhārā saṅkhārakkhandho
-(kha) khandhā viññāṇakkhandho
- (ka) viññāṇaṃ viññāṇakkhandho
-(kha) khandhā rūpakkhandho
-(ka) viññāṇaṃ viññāṇakkhandho
-(kha) khandhā vedanākkhandho
-(ka) viññāṇaṃ viññāṇakkhandho
-(kha) khandhā saññākkhandho
-(ka) viññāṇaṃ  viññāṇakkhandho
-(kha) khandhā saṅkhārakkhandho
-
- (ka) na rūpaṃ na rūpakkhandho
-(kha) na khandhā na vedanākkhandho
-(ka) na rūpaṃ na rūpakkhandho
-(kha) na khandhā na saññākkhandho
-(ka) na rūpaṃ na rūpakkhandho
-(kha) na khandhā na saṅkhārakkhandho
-(ka) na rūpaṃ na rūpakkhandho
-(kha) na khandhā na viññāṇakkhandho
- (ka) na  vedanā na vedanākkhandho
-(kha) na khandhā na rūpakkhandho
-(ka) na vedanā na vedanākkhandho
-(kha) na khandhā na saññākkhandho
-(ka) na vedanā na vedanākkhandho
-(kha) na khandhā na saṅkhārakkhandho
-(ka) na vedanā na vedanākkhandho
-(kha) na khandhā na viññāṇakkhandho
- (ka) na saññā na saññākkhandho
-(kha) na khandhā na rūpakkhandho
-(ka) na saññā na saññākkhandho
-(kha) na khandhā na vedanākkhandho
-(ka) na saññā na saññākkhandho
-(kha) na khandhā na saṅkhārakkhandho
-(ka) na saññā na saññākkhandho
-(kha) na khandhā na viññāṇakkhandho
- (ka) na saṅkhārā na saṅkhārakkhandho
-(kha) na khandhā na rūpakkhandho
-(ka) na saṅkhārā na saṅkhārakkhandho
-(kha) na khandhā na vedanākkhandho
-(ka) na saṅkhārā na saṅkhārakkhandho
-(kha) na khandhā na saññākkhandho
-(ka) na  saṅkhārā na saṅkhārakkhandho
-(kha) na khandhā na viññāṇakkhandho
- (ka) na viññāṇaṃ na viññāṇakkhandho
-(kha) na khandhā na rūpakkhandho
-(ka) na viññāṇaṃ na viññāṇakkhandho
-(kha) na khandhā na vedanākkhandho
-(ka) na viññāṇaṃ na viññāṇakkhandho
-(kha) na khandhā na saññākkhandho
-(ka) na viññāṇaṃ na viññāṇakkhandho
-(kha) na khandhā na saṅkhārakkhandho
+  na  rūpaṃ na rūpakkhandho
+ na rūpakkhandho na rūpaṃ
+ na vedanā na vedanākkhandho
+ na vedanākkhandho na vedanā
+ na saññā na saññākkhandho
+ na saññākkhandho na saññā
+ na saṅkhārā na saṅkhārakkhandho
+ na saṅkhārakkhandho na saṅkhārā
+ na viññāṇaṃ na viññāṇakkhandho
+ na viññāṇakkhandho na viññāṇaṃ
 
 
- (ka) rūpaṃ  khandho
-(kha) khandhā rūpaṃ
-(ka) vedanā khandho
-(kha) khandhā vedanā
-(ka) saññā khandho
-(kha) khandhā saññā
-(ka) saṅkhārā khandho
-(kha) khandhā saṅkhārā
-(ka) viññāṇaṃ khandho
-(kha) khandhā viññāṇaṃ
+  rūpaṃ  rūpakkhandho
+ khandhā vedanākkhandho
+ rūpaṃ rūpakkhandho
+ khandhā saññākkhandho
+ rūpaṃ  rūpakkhandho
+ khandhā saṅkhārakkhandho
+ rūpaṃ rūpakkhandho
+ khandhā viññāṇakkhandho
+  vedanā vedanākkhandho
+ khandhā rūpakkhandho
+ vedanā vedanākkhandho
+ khandhā saññākkhandho
+ vedanā vedanākkhandho
+ khandhā saṅkhārakkhandho
+ vedanā vedanākkhandho
+ khandhā viññāṇakkhandho
+  saññā saññākkhandho
+ khandhā rūpakkhandho
+ saññā saññākkhandho
+ khandhā vedanākkhandho
+ saññā saññākkhandho
+ khandhā saṅkhārakkhandho
+ saññā saññākkhandho
+ khandhā viññāṇakkhandho
+  saṅkhārā saṅkhārakkhandho
+ khandhā rūpakkhandho
+ saṅkhārā  saṅkhārakkhandho
+ khandhā vedanākkhandho
+ saṅkhārā saṅkhārakkhandho
+ khandhā saññākkhandho
+ saṅkhārā saṅkhārakkhandho
+ khandhā viññāṇakkhandho
+  viññāṇaṃ viññāṇakkhandho
+ khandhā rūpakkhandho
+ viññāṇaṃ viññāṇakkhandho
+ khandhā vedanākkhandho
+ viññāṇaṃ viññāṇakkhandho
+ khandhā saññākkhandho
+ viññāṇaṃ  viññāṇakkhandho
+ khandhā saṅkhārakkhandho
 
- (ka) na  rūpaṃ na khandho
-(kha) na khandhā na rūpaṃ
-(ka) na vedanā na khandho
-(kha) na khandhā na vedanā
-(ka) na saññā na khandho
-(kha) na khandhā na saññā
-(ka) na saṅkhārā na khandho
-(kha) na khandhā na saṅkhārā
-(ka) na viññāṇaṃ na khandho
-(kha) na khandhā na viññāṇaṃ
-
-
- (ka) rūpaṃ  khandho
-(kha) khandhā vedanā
-(ka) rūpaṃ khandho
-(kha) khandhā saññā
-(ka) rūpaṃ khandho
-(kha) khandhā saṅkhārā
-(ka) rūpaṃ khandho
-(kha) khandhā viññāṇaṃ
- (ka) vedanā  khandho
-(kha) khandhā rūpaṃ
-(ka) vedanā khandho
-(kha) khandhā saññā
-(ka) vedanā khandho
-(kha) khandhā saṅkhārā
-(ka) vedanā khandho
-(kha) khandhā  viññāṇaṃ
- (ka) saññā khandho
-(kha) khandhā rūpaṃ
-(ka) saññā khandho
-(kha) khandhā vedanā
-(ka) saññā khandho
-(kha) khandhā saṅkhārā
-(ka) saññā khandho
-(kha) khandhā viññāṇaṃ
- (ka) saṅkhārā khandho
-(kha) khandhā rūpaṃ
-(ka) saṅkhārā khandho
-(kha) khandhā vedanā
-(ka) saṅkhārā khandho
-(kha) khandhā saññā
-(ka) saṅkhārā khandho
-(kha) khandhā viññāṇaṃ
- (ka) viññāṇaṃ  khandho
-(kha) khandhā rūpaṃ
-(ka) viññāṇaṃ khandho
-(kha) khandhā vedanā
-(ka) viññāṇaṃ khandho
-(kha) khandhā saññā
-(ka) viññāṇaṃ khandho
-(kha) khandhā saṅkhārā
-
- (ka) na rūpaṃ na khandho
-(kha) na khandhā na vedanā
-(ka) na rūpaṃ na khandho
-(kha) na khandhā na saññā
-(ka) na rūpaṃ na khandho
-(kha) na khandhā na saṅkhārā
-(ka) na rūpaṃ na khandho
-(kha) na khandhā na viññāṇaṃ
- (ka) na  vedanā na khandho
-(kha) na khandhā na rūpaṃ
-(ka) na vedanā na khandho
-(kha) na khandhā na saññā
-(ka) na  vedanā na khandho
-(kha) na khandhā na saṅkhārā
-(ka) na vedanā na khandho
-(kha) na khandhā na viññāṇaṃ
- (ka) na saññā na khandho
-(kha) na khandhā na rūpaṃ
-(ka) na saññā na khandho
-(kha) na khandhā na vedanā
-(ka) na saññā na khandho
-(kha) na khandhā na saṅkhārā
-(ka) na saññā na khandho
-(kha) na khandhā na viññāṇaṃ
- (ka) na saṅkhārā na khandho
-(kha) na khandhā na rūpaṃ
-(ka) na saṅkhārā na khandho
-(kha) na khandhā na vedanā
-(ka) na saṅkhārā na khandho
-(kha) na khandhā na saññā
-(ka) na saṅkhārā na khandho
-(kha) na khandhā na viññāṇaṃ
- (ka) na viññāṇaṃ na khandho
-(kha) na khandhā na rūpaṃ
-(ka) na viññāṇaṃ na khandho
-(kha) na khandhā na vedanā
-(ka) na  viññāṇaṃ na khandho
-(kha) na khandhā na saññā
-(ka) na viññāṇaṃ na khandho
-(kha) na khandhā na saṅkhārā
+  na rūpaṃ na rūpakkhandho
+ na khandhā na vedanākkhandho
+ na rūpaṃ na rūpakkhandho
+ na khandhā na saññākkhandho
+ na rūpaṃ na rūpakkhandho
+ na khandhā na saṅkhārakkhandho
+ na rūpaṃ na rūpakkhandho
+ na khandhā na viññāṇakkhandho
+  na  vedanā na vedanākkhandho
+ na khandhā na rūpakkhandho
+ na vedanā na vedanākkhandho
+ na khandhā na saññākkhandho
+ na vedanā na vedanākkhandho
+ na khandhā na saṅkhārakkhandho
+ na vedanā na vedanākkhandho
+ na khandhā na viññāṇakkhandho
+  na saññā na saññākkhandho
+ na khandhā na rūpakkhandho
+ na saññā na saññākkhandho
+ na khandhā na vedanākkhandho
+ na saññā na saññākkhandho
+ na khandhā na saṅkhārakkhandho
+ na saññā na saññākkhandho
+ na khandhā na viññāṇakkhandho
+  na saṅkhārā na saṅkhārakkhandho
+ na khandhā na rūpakkhandho
+ na saṅkhārā na saṅkhārakkhandho
+ na khandhā na vedanākkhandho
+ na saṅkhārā na saṅkhārakkhandho
+ na khandhā na saññākkhandho
+ na  saṅkhārā na saṅkhārakkhandho
+ na khandhā na viññāṇakkhandho
+  na viññāṇaṃ na viññāṇakkhandho
+ na khandhā na rūpakkhandho
+ na viññāṇaṃ na viññāṇakkhandho
+ na khandhā na vedanākkhandho
+ na viññāṇaṃ na viññāṇakkhandho
+ na khandhā na saññākkhandho
+ na viññāṇaṃ na viññāṇakkhandho
+ na khandhā na saṅkhārakkhandho
 
 
+  rūpaṃ  khandho
+ khandhā rūpaṃ
+ vedanā khandho
+ khandhā vedanā
+ saññā khandho
+ khandhā saññā
+ saṅkhārā khandho
+ khandhā saṅkhārā
+ viññāṇaṃ khandho
+ khandhā viññāṇaṃ
+
+  na  rūpaṃ na khandho
+ na khandhā na rūpaṃ
+ na vedanā na khandho
+ na khandhā na vedanā
+ na saññā na khandho
+ na khandhā na saññā
+ na saṅkhārā na khandho
+ na khandhā na saṅkhārā
+ na viññāṇaṃ na khandho
+ na khandhā na viññāṇaṃ
+
+
+  rūpaṃ  khandho
+ khandhā vedanā
+ rūpaṃ khandho
+ khandhā saññā
+ rūpaṃ khandho
+ khandhā saṅkhārā
+ rūpaṃ khandho
+ khandhā viññāṇaṃ
+  vedanā  khandho
+ khandhā rūpaṃ
+ vedanā khandho
+ khandhā saññā
+ vedanā khandho
+ khandhā saṅkhārā
+ vedanā khandho
+ khandhā  viññāṇaṃ
+  saññā khandho
+ khandhā rūpaṃ
+ saññā khandho
+ khandhā vedanā
+ saññā khandho
+ khandhā saṅkhārā
+ saññā khandho
+ khandhā viññāṇaṃ
+  saṅkhārā khandho
+ khandhā rūpaṃ
+ saṅkhārā khandho
+ khandhā vedanā
+ saṅkhārā khandho
+ khandhā saññā
+ saṅkhārā khandho
+ khandhā viññāṇaṃ
+  viññāṇaṃ  khandho
+ khandhā rūpaṃ
+ viññāṇaṃ khandho
+ khandhā vedanā
+ viññāṇaṃ khandho
+ khandhā saññā
+ viññāṇaṃ khandho
+ khandhā saṅkhārā
+
+  na rūpaṃ na khandho
+ na khandhā na vedanā
+ na rūpaṃ na khandho
+ na khandhā na saññā
+ na rūpaṃ na khandho
+ na khandhā na saṅkhārā
+ na rūpaṃ na khandho
+ na khandhā na viññāṇaṃ
+  na  vedanā na khandho
+ na khandhā na rūpaṃ
+ na vedanā na khandho
+ na khandhā na saññā
+ na  vedanā na khandho
+ na khandhā na saṅkhārā
+ na vedanā na khandho
+ na khandhā na viññāṇaṃ
+  na saññā na khandho
+ na khandhā na rūpaṃ
+ na saññā na khandho
+ na khandhā na vedanā
+ na saññā na khandho
+ na khandhā na saṅkhārā
+ na saññā na khandho
+ na khandhā na viññāṇaṃ
+  na saṅkhārā na khandho
+ na khandhā na rūpaṃ
+ na saṅkhārā na khandho
+ na khandhā na vedanā
+ na saṅkhārā na khandho
+ na khandhā na saññā
+ na saṅkhārā na khandho
+ na khandhā na viññāṇaṃ
+  na viññāṇaṃ na khandho
+ na khandhā na rūpaṃ
+ na viññāṇaṃ na khandho
+ na khandhā na vedanā
+ na  viññāṇaṃ na khandho
+ na khandhā na saññā
+ na viññāṇaṃ na khandho
+ na khandhā na saṅkhārā
 
 
 
- (ka) rūpaṃ  rūpakkhandhoti
+
+
+  rūpaṃ  rūpakkhandhoti
 piyarūpaṃ sātarūpaṃ rūpaṃ na rūpakkhandho rūpakkhandho rūpañceva rūpakkhandho ca
-(kha) rūpakkhandho rūpanti āmantā
-(ka) vedanā vedanākkhandhoti āmantā
-(kha) vedanākkhandho vedanāti āmantā
-(ka) saññā  saññākkhandhoti
+ rūpakkhandho rūpanti āmantā
+ vedanā vedanākkhandhoti āmantā
+ vedanākkhandho vedanāti āmantā
+ saññā  saññākkhandhoti
 diṭṭhisaññā saññā na saññākkhandho saññākkhandho saññā ceva saññākkhandho ca
-(kha) saññākkhandho saññāti āmantā
-(ka) saṅkhārā  saṅkhārakkhandhoti
+ saññākkhandho saññāti āmantā
+ saṅkhārā  saṅkhārakkhandhoti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā  na saṅkhārakkhandho saṅkhārakkhandho saṅkhārā ceva saṅkhārakkhandho ca
-(kha) saṅkhārakkhandho saṅkhārāti āmantā
-(ka) viññāṇaṃ viññāṇakkhandhoti āmantā
-(kha) viññāṇakkhandho viññāṇanti āmantā
+ saṅkhārakkhandho saṅkhārāti āmantā
+ viññāṇaṃ viññāṇakkhandhoti āmantā
+ viññāṇakkhandho viññāṇanti āmantā
 
- (ka) na rūpaṃ na rūpakkhandhoti āmantā
-(kha) na rūpakkhandho na rūpanti
+  na rūpaṃ na rūpakkhandhoti āmantā
+ na rūpakkhandho na rūpanti
 piyarūpaṃ sātarūpaṃ na rūpakkhandho rūpaṃ rūpañca rūpakkhandhañca ṭhapetvā avasesā na ceva rūpaṃ na ca rūpakkhandho
-(ka) na vedanā na vedanākkhandhoti āmantā
-(kha) na vedanākkhandho na vedanāti āmantā
-(ka) na saññā na saññākkhandhoti āmantā
-(kha) na saññākkhandho na saññāti
+ na vedanā na vedanākkhandhoti āmantā
+ na vedanākkhandho na vedanāti āmantā
+ na saññā na saññākkhandhoti āmantā
+ na saññākkhandho na saññāti
 diṭṭhisaññā na saññākkhandho saññā saññañca saññākkhandhañca  ṭhapetvā avasesā na ceva saññā na ca saññākkhandho
-(ka) na saṅkhārā na saṅkhārakkhandhoti āmantā
-(kha) na saṅkhārakkhandho na saṅkhārāti
+ na saṅkhārā na saṅkhārakkhandhoti āmantā
+ na saṅkhārakkhandho na saṅkhārāti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā na saṅkhārakkhandho saṅkhārā saṅkhāre ca saṅkhārakkhandhañca ṭhapetvā avasesā na ceva saṅkhārā na ca saṅkhārakkhandho
-(ka) na viññāṇaṃ na viññāṇakkhandhoti āmantā
-(kha) na viññāṇakkhandho na viññāṇanti āmantā
+ na viññāṇaṃ na viññāṇakkhandhoti āmantā
+ na viññāṇakkhandho na viññāṇanti āmantā
 
 
- (ka) rūpaṃ  rūpakkhandhoti
+  rūpaṃ  rūpakkhandhoti
 piyarūpaṃ sātarūpaṃ rūpaṃ na rūpakkhandho rūpakkhandho rūpañceva rūpakkhandho ca
-(kha) khandhā vedanākkhandhoti
+ khandhā vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca
 avasesā khandhā  na vedanākkhandho
-(ka) rūpaṃ  rūpakkhandhoti
+ rūpaṃ  rūpakkhandhoti
 piyarūpaṃ sātarūpaṃ rūpaṃ na rūpakkhandho rūpakkhandho rūpañceva rūpakkhandho ca
-(kha) khandhā saññākkhandhoti
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) rūpaṃ rūpakkhandhoti
+ rūpaṃ rūpakkhandhoti
 piyarūpaṃ sātarūpaṃ rūpaṃ na rūpakkhandho rūpakkhandho rūpañceva rūpakkhandho ca
-(kha) khandhā saṅkhārakkhandhoti
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā  na saṅkhārakkhandho
-(ka) rūpaṃ rūpakkhandhoti
+ rūpaṃ rūpakkhandhoti
 piyarūpaṃ sātarūpaṃ rūpaṃ na rūpakkhandho rūpakkhandho rūpañceva rūpakkhandho ca
-(kha) khandhā  viññāṇakkhandhoti
+ khandhā  viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) vedanā vedanākkhandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  vedanā vedanākkhandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) vedanā vedanākkhandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ vedanā vedanākkhandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) vedanā vedanākkhandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ vedanā vedanākkhandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
-(ka) vedanā vedanākkhandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ vedanā vedanākkhandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) saññā saññākkhandhoti
+  saññā saññākkhandhoti
 diṭṭhisaññā saññā na saññākkhandho saññākkhandho saññā ceva saññākkhandho ca
-(kha) khandhā rūpakkhandhoti
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā  na rūpakkhandho
-(ka) saññā saññākkhandhoti
+ saññā saññākkhandhoti
 diṭṭhisaññā saññā na saññākkhandho saññākkhandho saññā ceva saññākkhandho ca
-(kha) khandhā  vedanākkhandhoti
+ khandhā  vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) saññā saññākkhandhoti
+ saññā saññākkhandhoti
 diṭṭhisaññā saññā na saññākkhandho saññākkhandho saññā ceva saññākkhandho ca
-(kha) khandhā saṅkhārakkhandhoti
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho  khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
-(ka) saññā saññākkhandhoti
+ saññā saññākkhandhoti
 diṭṭhisaññā saññā na saññākkhandho saññākkhandho saññā ceva saññākkhandho ca
-(kha) khandhā viññāṇakkhandhoti
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) saṅkhārā saṅkhārakkhandhoti
+  saṅkhārā saṅkhārakkhandhoti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā na saṅkhārakkhandho saṅkhārakkhandho saṅkhārā ceva saṅkhārakkhandho ca
-(kha) khandhā rūpakkhandhoti
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) saṅkhārā saṅkhārakkhandhoti
+ saṅkhārā saṅkhārakkhandhoti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā na saṅkhārakkhandho saṅkhārakkhandho saṅkhārā ceva saṅkhārakkhandho ca
-(kha) khandhā  vedanākkhandhoti
+ khandhā  vedanākkhandhoti
 vedanākkhandho khandho ceva  vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) saṅkhārā saṅkhārakkhandhoti
+ saṅkhārā saṅkhārakkhandhoti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā na saṅkhārakkhandho saṅkhārakkhandho saṅkhārā ceva saṅkhārakkhandho ca
-(kha) khandhā saññākkhandhoti
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) saṅkhārā saṅkhārakkhandhoti
+ saṅkhārā saṅkhārakkhandhoti
 saṅkhārakkhandhaṃ ṭhapetvā avasesā saṅkhārā na saṅkhārakkhandho saṅkhārakkhandho saṅkhārā ceva saṅkhārakkhandho ca
-(kha) khandhā viññāṇakkhandhoti
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) viññāṇaṃ viññāṇakkhandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  viññāṇaṃ viññāṇakkhandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) viññāṇaṃ  viññāṇakkhandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+ viññāṇaṃ  viññāṇakkhandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) viññāṇaṃ viññāṇakkhandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ viññāṇaṃ viññāṇakkhandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) viññāṇaṃ  viññāṇakkhandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ viññāṇaṃ  viññāṇakkhandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
 
- (ka) na rūpaṃ na rūpakkhandhoti āmantā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na rūpaṃ na rūpakkhandhoti āmantā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na rūpaṃ na rūpakkhandhoti āmantā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na rūpaṃ na rūpakkhandhoti āmantā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na vedanā na vedanākkhandhoti āmantā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na vedanā na vedanākkhandhoti āmantā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na vedanā na vedanākkhandhoti āmantā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na vedanā na vedanākkhandhoti āmantā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na  saññā na saññākkhandhoti āmantā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na saññā na saññākkhandhoti āmantā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na  saññā na saññākkhandhoti āmantā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na saññā na saññākkhandhoti āmantā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na  saṅkhārā na saṅkhārakkhandhoti āmantā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na saṅkhārā na saṅkhārakkhandhoti āmantā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na saṅkhārā na saṅkhārakkhandhoti āmantā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na saṅkhārā na saṅkhārakkhandhoti āmantā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na viññāṇaṃ na viññāṇakkhandhoti āmantā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na viññāṇaṃ na viññāṇakkhandhoti āmantā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na viññāṇaṃ na viññāṇakkhandhoti āmantā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na  viññāṇaṃ na viññāṇakkhandhoti āmantā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
+  na rūpaṃ na rūpakkhandhoti āmantā
+ na khandhā na vedanākkhandhoti āmantā
+ na rūpaṃ na rūpakkhandhoti āmantā
+ na khandhā na saññākkhandhoti āmantā
+ na rūpaṃ na rūpakkhandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na rūpaṃ na rūpakkhandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
+  na vedanā na vedanākkhandhoti āmantā
+ na khandhā na rūpakkhandhoti āmantā
+ na vedanā na vedanākkhandhoti āmantā
+ na khandhā na saññākkhandhoti āmantā
+ na vedanā na vedanākkhandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na vedanā na vedanākkhandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
+  na  saññā na saññākkhandhoti āmantā
+ na khandhā na rūpakkhandhoti āmantā
+ na saññā na saññākkhandhoti āmantā
+ na khandhā na vedanākkhandhoti āmantā
+ na  saññā na saññākkhandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na saññā na saññākkhandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
+  na  saṅkhārā na saṅkhārakkhandhoti āmantā
+ na khandhā na rūpakkhandhoti āmantā
+ na saṅkhārā na saṅkhārakkhandhoti āmantā
+ na khandhā na vedanākkhandhoti āmantā
+ na saṅkhārā na saṅkhārakkhandhoti āmantā
+ na khandhā na saññākkhandhoti āmantā
+ na saṅkhārā na saṅkhārakkhandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
+  na viññāṇaṃ na viññāṇakkhandhoti āmantā
+ na khandhā na rūpakkhandhoti āmantā
+ na viññāṇaṃ na viññāṇakkhandhoti āmantā
+ na khandhā na vedanākkhandhoti āmantā
+ na viññāṇaṃ na viññāṇakkhandhoti āmantā
+ na khandhā na saññākkhandhoti āmantā
+ na  viññāṇaṃ na viññāṇakkhandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
 
 
- (ka) rūpaṃ khandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  rūpaṃ khandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) vedanā khandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+ vedanā khandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho  khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) saññā  khandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ saññā  khandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) saṅkhārā khandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ saṅkhārā khandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
-(ka) viññāṇaṃ khandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ viññāṇaṃ khandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
 
- (ka) na  rūpaṃ na khandhoti
+  na  rūpaṃ na khandhoti
 rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ khandhā rūpañca khandhe ca ṭhapetvā avasesā na ceva rūpaṃ na ca khandhā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na vedanā na khandhoti
+ na khandhā na rūpakkhandhoti āmantā
+ na vedanā na khandhoti
 vedanaṃ ṭhapetvā avasesā khandhā na vedanā khandhā vedanañca khandhe ca ṭhapetvā avasesā na ceva vedanā na ca khandhā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na saññā na khandhoti
+ na khandhā na vedanākkhandhoti āmantā
+ na saññā na khandhoti
 saññaṃ ṭhapetvā avasesā khandhā na saññā khandhā saññañca khandhe ca ṭhapetvā avasesā na ceva saññā na ca khandhā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na  saṅkhārā na khandhoti āmantā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na viññāṇaṃ na khandhoti
+ na khandhā na saññākkhandhoti āmantā
+ na  saṅkhārā na khandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
 
 
- (ka) rūpaṃ khandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+  rūpaṃ khandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) rūpaṃ  khandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ rūpaṃ  khandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) rūpaṃ  khandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ rūpaṃ  khandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
-(ka) rūpaṃ khandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ rūpaṃ khandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) vedanā  khandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  vedanā  khandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) vedanā khandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ vedanā khandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) vedanā khandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ vedanā khandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
-(ka) vedanā  khandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ vedanā  khandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) saññā khandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  saññā khandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) saññā khandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+ saññā khandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) saññā khandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ saññā khandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā  na saṅkhārakkhandho
-(ka) saññā khandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ saññā khandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) saṅkhārā khandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  saṅkhārā khandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) saṅkhārā khandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+ saṅkhārā khandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho  khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) saṅkhārā  khandhoti āmantā
-(kha) khandhā saññākkhandhoti
+ saṅkhārā  khandhoti āmantā
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) saṅkhārā  khandhoti āmantā
-(kha) khandhā viññāṇakkhandhoti
+ saṅkhārā  khandhoti āmantā
+ khandhā viññāṇakkhandhoti
 viññāṇakkhandho khandho ceva viññāṇakkhandho ca avasesā khandhā na viññāṇakkhandho
- (ka) viññāṇaṃ khandhoti āmantā
-(kha) khandhā rūpakkhandhoti
+  viññāṇaṃ khandhoti āmantā
+ khandhā rūpakkhandhoti
 rūpakkhandho khandho ceva rūpakkhandho ca avasesā khandhā na rūpakkhandho
-(ka) viññāṇaṃ khandhoti āmantā
-(kha) khandhā vedanākkhandhoti
+ viññāṇaṃ khandhoti āmantā
+ khandhā vedanākkhandhoti
 vedanākkhandho khandho ceva vedanākkhandho ca avasesā khandhā na vedanākkhandho
-(ka) viññāṇaṃ khandhoti
+ viññāṇaṃ khandhoti
 āmantā
-(kha) khandhā saññākkhandhoti
+ khandhā saññākkhandhoti
 saññākkhandho khandho ceva saññākkhandho ca avasesā khandhā na saññākkhandho
-(ka) viññāṇaṃ khandhoti āmantā
-(kha) khandhā saṅkhārakkhandhoti
+ viññāṇaṃ khandhoti āmantā
+ khandhā saṅkhārakkhandhoti
 saṅkhārakkhandho khandho ceva saṅkhārakkhandho ca avasesā khandhā na saṅkhārakkhandho
 
- (ka) na  rūpaṃ na khandhoti
+  na  rūpaṃ na khandhoti
 rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ khandhā rūpañca khandhe ca ṭhapetvā avasesā na ceva rūpaṃ na ca khandhā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na rūpaṃ na khandhoti
+ na khandhā na vedanākkhandhoti āmantā
+ na rūpaṃ na khandhoti
 rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ khandhā rūpañca khandhe ca ṭhapetvā avasesā na ceva rūpaṃ na ca khandhā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na rūpaṃ na khandhoti
+ na khandhā na saññākkhandhoti āmantā
+ na rūpaṃ na khandhoti
 rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ khandhā rūpañca khandhe ca ṭhapetvā avasesā na ceva rūpaṃ na ca khandhā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na rūpaṃ na khandhoti
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na rūpaṃ na khandhoti
 rūpaṃ ṭhapetvā avasesā khandhā na rūpaṃ khandhā rūpañca khandhe ca ṭhapetvā avasesā na ceva rūpaṃ na ca khandhā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na  vedanā na khandhoti
+ na khandhā na viññāṇakkhandhoti āmantā
+  na  vedanā na khandhoti
 vedanaṃ ṭhapetvā avasesā khandhā na vedanā khandhā vedanañca khandhe ca ṭhapetvā avasesā na ceva vedanā na ca khandhā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na  vedanā na khandhoti
+ na khandhā na rūpakkhandhoti āmantā
+ na  vedanā na khandhoti
 vedanaṃ ṭhapetvā avasesā khandhā na vedanā khandhā vedanañca khandhe ca ṭhapetvā avasesā na ceva vedanā na ca khandhā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na vedanā na khandhoti
+ na khandhā na saññākkhandhoti āmantā
+ na vedanā na khandhoti
 vedanaṃ ṭhapetvā avasesā khandhā na vedanā khandhā vedanañca khandhe ca ṭhapetvā avasesā na ceva vedanā na ca khandhā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na vedanā na khandhoti
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na vedanā na khandhoti
 vedanaṃ ṭhapetvā avasesā khandhā na vedanā khandhā vedanañca khandhe ca ṭhapetvā avasesā na ceva vedanā na ca khandhā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na saññā na khandhoti
+ na khandhā na viññāṇakkhandhoti āmantā
+  na saññā na khandhoti
 saññaṃ ṭhapetvā avasesā khandhā na saññā khandhā saññañca khandhe ca ṭhapetvā avasesā na ceva saññā na ca khandhā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na saññā na khandhoti
+ na khandhā na rūpakkhandhoti āmantā
+ na saññā na khandhoti
 saññaṃ ṭhapetvā avasesā khandhā na saññā khandhā saññañca khandhe ca ṭhapetvā avasesā na ceva saññā na ca khandhā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na saññā na khandhoti
+ na khandhā na vedanākkhandhoti āmantā
+ na saññā na khandhoti
 saññaṃ ṭhapetvā avasesā khandhā na saññā khandhā saññañca khandhe ca ṭhapetvā avasesā na ceva saññā  na ca khandhā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
-(ka) na  saññā na khandhoti
+ na khandhā na saṅkhārakkhandhoti āmantā
+ na  saññā na khandhoti
 saññaṃ ṭhapetvā avasesā khandhā na saññā khandhā saññañca khandhe ca ṭhapetvā avasesā na ceva saññā na ca khandhā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na saṅkhārā na khandhoti āmantā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na saṅkhārā na khandhoti āmantā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na saṅkhārā na khandhoti āmantā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na saṅkhārā na khandhoti āmantā
-(kha) na khandhā na viññāṇakkhandhoti āmantā
- (ka) na  viññāṇaṃ na khandhoti
+ na khandhā na viññāṇakkhandhoti āmantā
+  na saṅkhārā na khandhoti āmantā
+ na khandhā na rūpakkhandhoti āmantā
+ na saṅkhārā na khandhoti āmantā
+ na khandhā na vedanākkhandhoti āmantā
+ na saṅkhārā na khandhoti āmantā
+ na khandhā na saññākkhandhoti āmantā
+ na saṅkhārā na khandhoti āmantā
+ na khandhā na viññāṇakkhandhoti āmantā
+  na  viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
-(kha) na khandhā na rūpakkhandhoti āmantā
-(ka) na viññāṇaṃ na khandhoti
+ na khandhā na rūpakkhandhoti āmantā
+ na viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
-(kha) na khandhā na vedanākkhandhoti āmantā
-(ka) na  viññāṇaṃ na khandhoti
+ na khandhā na vedanākkhandhoti āmantā
+ na  viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca  khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
-(kha) na khandhā na saññākkhandhoti āmantā
-(ka) na viññāṇaṃ na khandhoti
+ na khandhā na saññākkhandhoti āmantā
+ na viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
-(kha) na khandhā na saṅkhārakkhandhoti āmantā
+ na khandhā na saṅkhārakkhandhoti āmantā
 
 
 
 
- (ka) yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjatīti
+  yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjatīti
 asaññasattaṃ upapajjantānaṃ tesaṃ rūpakkhandho uppajjati no ca tesaṃ vedanākkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ rūpakkhandho ca uppajjati vedanākkhandho ca uppajjati
-(kha) yassa vā pana vedanākkhandho uppajjati tassa rūpakkhandho uppajjatīti
+ yassa vā pana vedanākkhandho uppajjati tassa rūpakkhandho uppajjatīti
 arūpaṃ upapajjantānaṃ tesaṃ vedanākkhandho uppajjati no ca tesaṃ rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ vedanākkhandho ca uppajjati rūpakkhandho ca uppajjati
 
- (ka) yattha  rūpakkhandho uppajjati tattha vedanākkhandho uppajjatīti 
+  yattha  rūpakkhandho uppajjati tattha vedanākkhandho uppajjatīti 
 asaññasatte tattha rūpakkhandho uppajjati no ca tattha vedanākkhandho uppajjati pañcavokāre  tattha rūpakkhandho ca uppajjati vedanākkhandho ca uppajjati
-(kha) yattha vā pana vedanākkhandho uppajjati tattha rūpakkhandho uppajjatīti
+ yattha vā pana vedanākkhandho uppajjati tattha rūpakkhandho uppajjatīti
 arūpe tattha vedanākkhandho uppajjati no ca tattha rūpakkhandho uppajjati pañcavokāre tattha vedanākkhandho ca uppajjati rūpakkhandho ca uppajjati
 
- (ka) yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjatīti
+  yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjatīti
 asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho uppajjati no ca tesaṃ tattha vedanākkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho ca uppajjati vedanākkhandho ca uppajjati
-(kha) yassa vā pana yattha vedanākkhandho uppajjati tassa tattha rūpakkhandho uppajjatīti
+ yassa vā pana yattha vedanākkhandho uppajjati tassa tattha rūpakkhandho uppajjatīti
 arūpaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho uppajjati no ca tesaṃ tattha rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjati rūpakkhandho ca uppajjati
 
- (ka) yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjatīti
+  yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjatīti
 arūpaṃ upapajjantānaṃ tesaṃ rūpakkhandho nuppajjati no ca tesaṃ vedanākkhandho  nuppajjati sabbesaṃ cavantānaṃ tesaṃ rūpakkhandho ca nuppajjati vedanākkhandho ca nuppajjati
-(kha) yassa vā pana vedanākkhandho nuppajjati tassa rūpakkhandho nuppajjatīti
+ yassa vā pana vedanākkhandho nuppajjati tassa rūpakkhandho nuppajjatīti
 asaññasattaṃ  upapajjantānaṃ tesaṃ vedanākkhandho nuppajjati no ca tesaṃ rūpakkhandho nuppajjati sabbesaṃ cavantānaṃ tesaṃ vedanākkhandho ca nuppajjati rūpakkhandho ca nuppajjati
 
- (ka) yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjatīti uppajjati
-(kha) yattha vā pana vedanākkhandho nuppajjati tattha rūpakkhandho nuppajjatīti uppajjati
+  yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjatīti uppajjati
+ yattha vā pana vedanākkhandho nuppajjati tattha rūpakkhandho nuppajjatīti uppajjati
 
- (ka) yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjatīti
+  yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjatīti
 arūpaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho nuppajjati no  ca tesaṃ tattha vedanākkhandho nuppajjati sabbesaṃ cavantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjati vedanākkhandho ca nuppajjati
-(kha) yassa vā pana yattha vedanākkhandho nuppajjati tassa tattha rūpakkhandho nuppajjatīti
+ yassa vā pana yattha vedanākkhandho nuppajjati tassa tattha rūpakkhandho nuppajjatīti
 asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjati no ca tesaṃ tattha rūpakkhandho nuppajjati sabbesaṃ cavantānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati rūpakkhandho ca nuppajjati
 
 
- (ka) yassa  rūpakkhandho uppajjittha tassa vedanākkhandho uppajjitthāti āmantā
-(kha) yassa vā pana vedanākkhandho uppajjittha tassa rūpakkhandho uppajjitthāti āmantā
+  yassa  rūpakkhandho uppajjittha tassa vedanākkhandho uppajjitthāti āmantā
+ yassa vā pana vedanākkhandho uppajjittha tassa rūpakkhandho uppajjitthāti āmantā
 
- (ka) yattha rūpakkhandho uppajjittha tattha vedanākkhandho uppajjitthāti 
+  yattha rūpakkhandho uppajjittha tattha vedanākkhandho uppajjitthāti 
 asaññasatte tattha rūpakkhandho uppajjittha no ca tattha vedanākkhandho uppajjittha pañcavokāre tattha rūpakkhandho ca uppajjittha vedanākkhandho ca uppajjittha
-(kha) yattha vā pana vedanākkhandho uppajjittha tattha rūpakkhandho uppajjitthāti
+ yattha vā pana vedanākkhandho uppajjittha tattha rūpakkhandho uppajjitthāti
 arūpe tattha vedanākkhandho uppajjittha no ca tattha rūpakkhandho uppajjittha pañcavokāre tattha vedanākkhandho ca uppajjittha rūpakkhandho ca uppajjittha
 
- (ka) yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho uppajjitthāti
+  yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho uppajjitthāti
 asaññasattānaṃ tesaṃ tattha rūpakkhandho uppajjittha no ca tesaṃ tattha vedanākkhandho uppajjittha pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjittha vedanākkhandho ca uppajjittha
-(kha) yassa vā pana yattha vedanākkhandho uppajjittha tassa tattha rūpakkhandho uppajjitthāti
+ yassa vā pana yattha vedanākkhandho uppajjittha tassa tattha rūpakkhandho uppajjitthāti
 arūpānaṃ tesaṃ tattha vedanākkhandho uppajjittha no ca tesaṃ tattha rūpakkhandho uppajjittha pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha rūpakkhandho ca uppajjittha
 
- (ka) yassa  rūpakkhandho nuppajjittha tassa vedanākkhandho nuppajjitthāti natthi
-(kha) yassa vā pana vedanākkhandho nuppajjittha tassa rūpakkhandho nuppajjitthāti natthi
+  yassa  rūpakkhandho nuppajjittha tassa vedanākkhandho nuppajjitthāti natthi
+ yassa vā pana vedanākkhandho nuppajjittha tassa rūpakkhandho nuppajjitthāti natthi
 
- (ka) yattha rūpakkhandho nuppajjittha tattha vedanākkhandho nuppajjitthāti  uppajjittha
-(kha) yattha vā pana vedanākkhandho nuppajjittha tattha rūpakkhandho nuppajjitthāti uppajjittha
+  yattha rūpakkhandho nuppajjittha tattha vedanākkhandho nuppajjitthāti  uppajjittha
+ yattha vā pana vedanākkhandho nuppajjittha tattha rūpakkhandho nuppajjitthāti uppajjittha
 
- (ka) yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjitthāti
+  yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjitthāti
 arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjittha no ca tesaṃ tattha vedanākkhandho nuppajjittha suddhāvāsānaṃ tesaṃ tattha rūpakkhandho ca nuppajjittha vedanākkhandho ca nuppajjittha
-(ka) yassa vā pana yattha vedanākkhandho nuppajjittha tassa tattha rūpakkhandho nuppajjitthāti
+ yassa vā pana yattha vedanākkhandho nuppajjittha tassa tattha rūpakkhandho nuppajjitthāti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho nuppajjittha no ca tesaṃ tattha rūpakkhandho nuppajjittha suddhāvāsānaṃ tesaṃ tattha vedanākkhandho ca nuppajjittha rūpakkhandho ca nuppajjittha
 
 
- (ka) yassa  rūpakkhandho uppajjissati tassa vedanākkhandho uppajjissatīti āmantā
-(kha) yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjissatīti
+  yassa  rūpakkhandho uppajjissati tassa vedanākkhandho uppajjissatīti āmantā
+ yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjissatīti
 ye arūpaṃ upapajjitvā parinibbāyissanti tesaṃ vedanākkhandho uppajjissati no ca tesaṃ rūpakkhandho uppajjissati itaresaṃ tesaṃ vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjissati
 
- (ka) yattha rūpakkhandho uppajjissati tattha vedanākkhandho uppajjissatīti
+  yattha rūpakkhandho uppajjissati tattha vedanākkhandho uppajjissatīti
 asaññasatte tattha rūpakkhandho uppajjissati no ca  tattha vedanākkhandho uppajjissati pañcavokāre tattha rūpakkhandho ca uppajjissati vedanākkhandho ca  uppajjissati
-(kha) yattha vā pana vedanākkhandho uppajjissati tattha rūpakkhandho uppajjissatīti
+ yattha vā pana vedanākkhandho uppajjissati tattha rūpakkhandho uppajjissatīti
 arūpe tattha vedanākkhandho uppajjissati no ca tattha rūpakkhandho uppajjissati pañcavokāre tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjissati
 
- (ka) yassa yattha rūpakkhandho uppajjissati tassa tattha vedanākkhandho uppajjissatīti
+  yassa yattha rūpakkhandho uppajjissati tassa tattha vedanākkhandho uppajjissatīti
 asaññasattānaṃ tesaṃ tattha rūpakkhandho uppajjissati no ca tesaṃ tattha  vedanākkhandho uppajjissati pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjissati vedanākkhandho ca uppajjissati
-(kha) yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjissatīti
+ yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjissatīti
 arūpānaṃ tesaṃ tattha vedanākkhandho uppajjissati no ca tesaṃ tattha rūpakkhandho uppajjissati pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjissati
 
- (ka) yassa rūpakkhandho nuppajjissati tassa vedanākkhandho nuppajjissatīti
+  yassa rūpakkhandho nuppajjissati tassa vedanākkhandho nuppajjissatīti
 ye arūpaṃ upapajjitvā parinibbāyissanti tesaṃ rūpakkhandho nuppajjissati no ca tesaṃ vedanākkhandho nuppajjissati pacchimabhavikānaṃ tesaṃ rūpakkhandho ca nuppajjissati vedanākkhandho ca nuppajjissati
-(kha) yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho  nuppajjissatīti āmantā
+ yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho  nuppajjissatīti āmantā
 
- (ka) yattha rūpakkhandho nuppajjissati tattha vedanākkhandho nuppajjissatīti uppajjissati
-(kha) yattha vā pana vedanākkhandho nuppajjissati tattha rūpakkhandho nuppajjissatīti uppajjissati
+  yattha rūpakkhandho nuppajjissati tattha vedanākkhandho nuppajjissatīti uppajjissati
+ yattha vā pana vedanākkhandho nuppajjissati tattha rūpakkhandho nuppajjissatīti uppajjissati
 
- (ka) yassa yattha rūpakkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjissatīti
+  yassa yattha rūpakkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjissatīti
 arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjissati no ca tesaṃ tattha vedanākkhandho nuppajjissati pacchimabhavikānaṃ tesaṃ tattha rūpakkhandho ca nuppajjissati vedanākkhandho ca nuppajjissati
-(kha) yassa  vā pana yattha vedanākkhandho  nuppajjissati tassa tattha rūpakkhandho nuppajjissatīti
+ yassa  vā pana yattha vedanākkhandho  nuppajjissati tassa tattha rūpakkhandho nuppajjissatīti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho nuppajjissati no ca tesaṃ tattha rūpakkhandho nuppajjissati pacchimabhavikānaṃ tesaṃ tattha vedanākkhandho ca nuppajjissati rūpakkhandho ca nuppajjissati
 
 
- (ka) yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjitthāti āmantā
-(kha) yassa vā pana vedanākkhandho uppajjittha tassa rūpakkhandho uppajjatīti
+  yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjitthāti āmantā
+ yassa vā pana vedanākkhandho uppajjittha tassa rūpakkhandho uppajjatīti
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ vedanākkhandho uppajjittha no ca tesaṃ rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho ca uppajjittha rūpakkhandho ca uppajjati
- (ka) yassa  vedanākkhandho uppajjati tassa saññākkhandho uppajjitthāti āmantā
-(kha) yassa vā pana saññākkhandho uppajjittha tassa vedanākkhandho uppajjatīti
+  yassa  vedanākkhandho uppajjati tassa saññākkhandho uppajjitthāti āmantā
+ yassa vā pana saññākkhandho uppajjittha tassa vedanākkhandho uppajjatīti
 sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho uppajjittha no ca tesaṃ vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho ca uppajjittha vedanākkhandho ca uppajjati
 
- (ka) yattha  rūpakkhandho uppajjati tattha vedanākkhandho uppajjitthāti
+  yattha  rūpakkhandho uppajjati tattha vedanākkhandho uppajjitthāti
 asaññasatte tattha rūpakkhandho uppajjati no ca tattha vedanākkhandho uppajjittha pañcavokāre tattha rūpakkhandho ca uppajjati vedanākkhandho ca uppajjittha
-(kha) yattha vā pana vedanākkhandho uppajjittha tattha rūpakkhandho uppajjatīti
+ yattha vā pana vedanākkhandho uppajjittha tattha rūpakkhandho uppajjatīti
 arūpe tattha vedanākkhandho uppajjittha no ca tattha rūpakkhandho uppajjati pañcavokāre tattha vedanākkhandho ca uppajjittha rūpakkhandho ca uppajjati
- (ka) yattha vedanākkhandho uppajjati tattha saññākkhandho uppajjitthāti āmantā
-(kha) yattha vā pana saññākkhandho uppajjittha tattha vedanākkhandho uppajjatīti āmantā
+  yattha vedanākkhandho uppajjati tattha saññākkhandho uppajjitthāti āmantā
+ yattha vā pana saññākkhandho uppajjittha tattha vedanākkhandho uppajjatīti āmantā
 
- (ka) yassa  yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjitthāti
+  yassa  yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjitthāti
 suddhāvāsaṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho uppajjati no ca tesaṃ tattha vedanākkhandho uppajjittha itaresaṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho  ca uppajjati vedanākkhandho ca uppajjittha
-(kha) yassa vā pana yattha vedanākkhandho uppajjittha tassa tattha rūpakkhandho uppajjatīti
+ yassa vā pana yattha vedanākkhandho uppajjittha tassa tattha rūpakkhandho uppajjatīti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho uppajjittha  no ca tesaṃ tattha rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha rūpakkhandho ca uppajjati
- (ka) yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho uppajjitthāti
+  yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho uppajjitthāti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho uppajjati no ca tesaṃ tattha saññākkhandho uppajjittha itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjati saññākkhandho ca uppajjittha
-(kha) yassa vā pana yattha saññākkhandho uppajjittha tassa tattha vedanākkhandho uppajjatīti
+ yassa vā pana yattha saññākkhandho uppajjittha tassa tattha vedanākkhandho uppajjatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho uppajjittha no ca tesaṃ tattha vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca uppajjittha vedanākkhandho ca uppajjati
 
- (ka) yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjitthāti uppajjittha
-(kha) yassa vā pana vedanākkhandho nuppajjittha tassa rūpakkhandho nuppajjatīti natthi
- (ka) yassa vedanākkhandho nuppajjati tassa saññākkhandho nuppajjitthāti  uppajjittha
-(kha) yassa vā pana saññākkhandho nuppajjittha tassa vedanākkhandho nuppajjatīti natthi
+  yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjitthāti uppajjittha
+ yassa vā pana vedanākkhandho nuppajjittha tassa rūpakkhandho nuppajjatīti natthi
+  yassa vedanākkhandho nuppajjati tassa saññākkhandho nuppajjitthāti  uppajjittha
+ yassa vā pana saññākkhandho nuppajjittha tassa vedanākkhandho nuppajjatīti natthi
 
- (ka) yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjitthāti uppajjittha
-(kha) yattha  vā pana vedanākkhandho nuppajjittha tattha rūpakkhandho nuppajjatīti uppajjati
- (ka) yattha  vedanākkhandho nuppajjati tattha saññākkhandho nuppajjitthāti āmantā
-(kha) yattha vā pana saññākkhandho nuppajjittha tattha vedanākkhandho nuppajjatīti āmantā
+  yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjitthāti uppajjittha
+ yattha  vā pana vedanākkhandho nuppajjittha tattha rūpakkhandho nuppajjatīti uppajjati
+  yattha  vedanākkhandho nuppajjati tattha saññākkhandho nuppajjitthāti āmantā
+ yattha vā pana saññākkhandho nuppajjittha tattha vedanākkhandho nuppajjatīti āmantā
 
- (ka) yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjitthāti
+  yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjitthāti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjati no ca tesaṃ tattha vedanākkhandho nuppajjittha suddhāvāse parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjati vedanākkhandho ca nuppajjittha
-(kha) yassa vā pana yattha vedanākkhandho nuppajjittha tassa tattha rūpakkhandho nuppajjatīti
+ yassa vā pana yattha vedanākkhandho nuppajjittha tassa tattha rūpakkhandho nuppajjatīti
 suddhāvāsaṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjittha no ca tesaṃ tattha rūpakkhandho nuppajjati suddhāvāse parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho ca nuppajjittha rūpakkhandho ca nuppajjati
- (ka) yassa yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho nuppajjitthāti
+  yassa yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho nuppajjitthāti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ  tattha vedanākkhandho nuppajjati no ca tesaṃ tattha saññākkhandho nuppajjittha suddhāvāse parinibbantānaṃ  asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca nuppajjittha
-(kha) yassa vā pana yattha saññākkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjatīti
+ yassa vā pana yattha saññākkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjatīti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nuppajjittha no ca tesaṃ tattha vedanākkhandho nuppajjati suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca nuppajjittha vedanākkhandho ca nuppajjati
 
 
- (ka) yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjissatīti
+  yassa rūpakkhandho uppajjati tassa vedanākkhandho uppajjissatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ tesaṃ rūpakkhandho uppajjati no ca tesaṃ vedanākkhandho uppajjissati itaresaṃ pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ rūpakkhandho ca uppajjati vedanākkhandho ca uppajjissati 
-(kha) yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjatīti
+ yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjatīti
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ vedanākkhandho uppajjissati no ca tesaṃ rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjati
- (ka) yassa vedanākkhandho uppajjati tassa saññākkhandho uppajjissatīti 
+  yassa vedanākkhandho uppajjati tassa saññākkhandho uppajjissatīti 
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ vedanākkhandho uppajjati no ca tesaṃ saññākkhandho uppajjissati itaresaṃ catuvokāraṃ pañcavokāraṃ  upapajjantānaṃ tesaṃ vedanākkhandho ca uppajjati saññākkhandho ca uppajjissati
-(kha) yassa vā pana saññākkhandho uppajjissati tassa vedanākkhandho uppajjatīti
+ yassa vā pana saññākkhandho uppajjissati tassa vedanākkhandho uppajjatīti
 sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho uppajjissati no ca tesaṃ vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho ca uppajjissati vedanākkhandho ca uppajjati
 
- (ka) yattha rūpakkhandho uppajjati tattha vedanākkhandho uppajjissatīti
+  yattha rūpakkhandho uppajjati tattha vedanākkhandho uppajjissatīti
 asaññasatte tattha rūpakkhandho uppajjati no ca tattha vedanākkhandho uppajjissati pañcavokāre tattha rūpakkhandho ca uppajjati vedanākkhandho ca uppajjissati
-(kha) yattha vā pana vedanākkhandho uppajjissati tattha rūpakkhandho uppajjatīti
+ yattha vā pana vedanākkhandho uppajjissati tattha rūpakkhandho uppajjatīti
 arūpe tattha vedanākkhandho uppajjissati no ca tattha rūpakkhandho uppajjati pañcavokāre tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjati
- (ka) yattha vedanākkhandho uppajjati tattha saññākkhandho uppajjissatīti āmantā
-(kha) yattha vā pana saññākkhandho uppajjissati tattha vedanākkhandho uppajjatīti āmantā
+  yattha vedanākkhandho uppajjati tattha saññākkhandho uppajjissatīti āmantā
+ yattha vā pana saññākkhandho uppajjissati tattha vedanākkhandho uppajjatīti āmantā
 
- (ka) yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjissatīti 
+  yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho uppajjissatīti 
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho uppajjati no ca tesaṃ tattha vedanākkhandho  uppajjissati itaresaṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha  rūpakkhandho ca uppajjati vedanākkhandho ca uppajjissati
-(kha) yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjatīti
+ yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjatīti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho uppajjissati no ca tesaṃ tattha rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjati
- (ka) yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho uppajjissatīti
+  yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho uppajjissatīti
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho uppajjati no ca tesaṃ tattha saññākkhandho uppajjissati itaresaṃ catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca uppajjati saññākkhandho ca uppajjissati
-(kha) yassa vā pana yattha saññākkhandho uppajjissati tassa tattha vedanākkhandho uppajjatīti
+ yassa vā pana yattha saññākkhandho uppajjissati tassa tattha vedanākkhandho uppajjatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho uppajjissati no ca tesaṃ tattha vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca uppajjissati vedanākkhandho ca uppajjati
 
- (ka) yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjissatīti 
+  yassa rūpakkhandho nuppajjati tassa vedanākkhandho nuppajjissatīti 
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ rūpakkhandho nuppajjati no ca tesaṃ vedanākkhandho nuppajjissati pañcavokāre parinibbantānaṃ  arūpe pacchimabhavikānaṃ tesaṃ rūpakkhandho ca nuppajjati vedanākkhandho ca nuppajjissati
-(kha) yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho nuppajjatīti
+ yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho nuppajjatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ tesaṃ vedanākkhandho nuppajjissati no ca tesaṃ rūpakkhandho nuppajjati pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ tesaṃ vedanākkhandho ca nuppajjissati rūpakkhandho ca nuppajjati
- (ka) yassa vedanākkhandho nuppajjati tassa saññākkhandho nuppajjissatīti
+  yassa vedanākkhandho nuppajjati tassa saññākkhandho nuppajjissatīti
 sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho nuppajjati no ca tesaṃ saññākkhandho nuppajjissati parinibbantānaṃ tesaṃ vedanākkhandho ca nuppajjati saññākkhandho ca nuppajjissati
-(kha) yassa vā pana saññākkhandho nuppajjissati tassa vedanākkhandho nuppajjatīti
+ yassa vā pana saññākkhandho nuppajjissati tassa vedanākkhandho nuppajjatīti
 pacchimabhavikānaṃ upapajjantānaṃ  tesaṃ saññākkhandho nuppajjissati no ca tesaṃ vedanākkhandho nuppajjati parinibbantānaṃ tesaṃ saññākkhandho ca nuppajjissati vedanākkhandho ca nuppajjati
 
- (ka) yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjissatīti uppajjissati
-(kha) yattha vā pana vedanākkhandho nuppajjissati  tattha rūpakkhandho nuppajjatīti uppajjati
- (ka) yattha vedanākkhandho nuppajjati tattha saññākkhandho nuppajjissatīti āmantā
-(kha) yattha  vā pana saññākkhandho nuppajjissati tattha vedanākkhandho nuppajjatīti āmantā
+  yattha rūpakkhandho nuppajjati tattha vedanākkhandho nuppajjissatīti uppajjissati
+ yattha vā pana vedanākkhandho nuppajjissati  tattha rūpakkhandho nuppajjatīti uppajjati
+  yattha vedanākkhandho nuppajjati tattha saññākkhandho nuppajjissatīti āmantā
+ yattha  vā pana saññākkhandho nuppajjissati tattha vedanākkhandho nuppajjatīti āmantā
 
- (ka) yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjissatīti
+  yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho nuppajjissatīti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjati no ca tesaṃ tattha vedanākkhandho nuppajjissati pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjati vedanākkhandho ca nuppajjissati
-(kha) yassa vā pana yattha vedanākkhandho nuppajjissati tassa tattha rūpakkhandho nuppajjatīti
+ yassa vā pana yattha vedanākkhandho nuppajjissati tassa tattha rūpakkhandho nuppajjatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjissati no ca tesaṃ tattha rūpakkhandho nuppajjati pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho ca nuppajjissati rūpakkhandho ca nuppajjati
- (ka) yassa yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho nuppajjissatīti
+  yassa yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho nuppajjissatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati no ca tesaṃ tattha saññākkhandho nuppajjissati parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca nuppajjissati
-(kha) yassa vā pana  yattha saññākkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjatīti
+ yassa vā pana  yattha saññākkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjatīti
 pacchimabhavikānaṃ  upapajjantānaṃ tesaṃ  tattha saññākkhandho nuppajjissati no ca tesaṃ tattha vedanākkhandho nuppajjati parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca nuppajjissati vedanākkhandho ca nuppajjati
 
 
- (ka) yassa rūpakkhandho uppajjittha tassa vedanākkhandho uppajjissatīti
+  yassa rūpakkhandho uppajjittha tassa vedanākkhandho uppajjissatīti
 pacchimabhavikānaṃ tesaṃ rūpakkhandho uppajjittha no ca tesaṃ vedanākkhandho uppajjissati itaresaṃ tesaṃ rūpakkhandho ca uppajjittha vedanākkhandho ca uppajjissati
-(kha) yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjitthāti āmantā
- (ka) yassa vedanākkhandho uppajjittha tassa saññākkhandho uppajjissatīti
+ yassa vā pana vedanākkhandho uppajjissati tassa rūpakkhandho uppajjitthāti āmantā
+  yassa vedanākkhandho uppajjittha tassa saññākkhandho uppajjissatīti
 pacchimabhavikānaṃ tesaṃ vedanākkhandho uppajjittha no ca tesaṃ saññākkhandho uppajjissati itaresaṃ tesaṃ vedanākkhandho ca uppajjittha saññākkhandho ca uppajjissati
-(kha) yassa vā pana saññākkhandho uppajjissati tassa vedanākkhandho uppajjitthāti āmantā
+ yassa vā pana saññākkhandho uppajjissati tassa vedanākkhandho uppajjitthāti āmantā
 
- (ka) yattha rūpakkhandho uppajjittha tattha vedanākkhandho uppajjissatīti
+  yattha rūpakkhandho uppajjittha tattha vedanākkhandho uppajjissatīti
 asaññasatte tattha rūpakkhandho uppajjittha no ca tattha vedanākkhandho  uppajjissati pañcavokāre tattha rūpakkhandho ca uppajjittha vedanākkhandho ca uppajjissati
-(kha) yattha vā pana  vedanākkhandho uppajjissati tattha rūpakkhandho uppajjitthāti
+ yattha vā pana  vedanākkhandho uppajjissati tattha rūpakkhandho uppajjitthāti
 arūpe tattha vedanākkhandho uppajjissati no ca tattha rūpakkhandho uppajjittha pañcavokāre tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjittha
- (ka) yattha vedanākkhandho uppajjittha tattha saññākkhandho uppajjissatīti āmantā
-(kha) yattha vā pana saññākkhandho uppajjissati tattha vedanākkhandho uppajjitthāti āmantā
+  yattha vedanākkhandho uppajjittha tattha saññākkhandho uppajjissatīti āmantā
+ yattha vā pana saññākkhandho uppajjissati tattha vedanākkhandho uppajjitthāti āmantā
 
- (ka) yassa  yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho uppajjissatīti
+  yassa  yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho uppajjissatīti
 pañcavokāre pacchimabhavikānaṃ asaññasattānaṃ tesaṃ tattha rūpakkhandho uppajjittha no ca tesaṃ tattha vedanākkhandho uppajjissati itaresaṃ pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjittha vedanākkhandho ca uppajjissati
-(kha) yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjitthāti
+ yassa vā pana yattha vedanākkhandho uppajjissati tassa tattha rūpakkhandho uppajjitthāti
 arūpānaṃ tesaṃ tattha vedanākkhandho uppajjissati no ca tesaṃ tattha rūpakkhandho uppajjittha pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjissati rūpakkhandho ca uppajjittha
- (ka) yassa  yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho uppajjissatīti
+  yassa  yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho uppajjissatīti
 pacchimabhavikānaṃ tesaṃ tattha vedanākkhandho uppajjittha no ca tesaṃ tattha saññākkhandho uppajjissati itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha  saññākkhandho ca uppajjissati
-(kha) yassa vā pana yattha saññākkhandho uppajjissati tassa tattha vedanākkhandho uppajjitthāti āmantā
+ yassa vā pana yattha saññākkhandho uppajjissati tassa tattha vedanākkhandho uppajjitthāti āmantā
 
- (ka) yassa rūpakkhandho nuppajjittha tassa vedanākkhandho nuppajjissatīti natthi
-(kha) yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho nuppajjitthāti uppajjittha
- (ka) yassa vedanākkhandho nuppajjittha tassa saññākkhandho nuppajjissatīti natthi
-(kha) yassa vā pana saññākkhandho nuppajjissati tassa vedanākkhandho nuppajjitthāti uppajjittha
+  yassa rūpakkhandho nuppajjittha tassa vedanākkhandho nuppajjissatīti natthi
+ yassa vā pana vedanākkhandho nuppajjissati tassa rūpakkhandho nuppajjitthāti uppajjittha
+  yassa vedanākkhandho nuppajjittha tassa saññākkhandho nuppajjissatīti natthi
+ yassa vā pana saññākkhandho nuppajjissati tassa vedanākkhandho nuppajjitthāti uppajjittha
 
- (ka) yattha rūpakkhandho nuppajjittha tattha vedanākkhandho nuppajjissatīti uppajjissati
-(kha) yattha vā pana vedanākkhandho nuppajjissati tattha rūpakkhandho nuppajjitthāti uppajjittha
- (ka) yattha vedanākkhandho nuppajjittha tattha saññākkhandho nuppajjissatīti āmantā
-(kha) yattha vā pana saññākkhandho nuppajjissati tattha vedanākkhandho nuppajjitthāti āmantā
+  yattha rūpakkhandho nuppajjittha tattha vedanākkhandho nuppajjissatīti uppajjissati
+ yattha vā pana vedanākkhandho nuppajjissati tattha rūpakkhandho nuppajjitthāti uppajjittha
+  yattha vedanākkhandho nuppajjittha tattha saññākkhandho nuppajjissatīti āmantā
+ yattha vā pana saññākkhandho nuppajjissati tattha vedanākkhandho nuppajjitthāti āmantā
 
- (ka) yassa  yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjissatīti
+  yassa  yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho nuppajjissatīti
 arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjittha no ca tesaṃ tattha vedanākkhandho nuppajjissati suddhāvāsānaṃ arūpe pacchimabhavikānaṃ tesaṃ tattha rūpakkhandho ca nuppajjittha vedanākkhandho ca nuppajjissati
-(kha) yassa vā pana yattha vedanākkhandho nuppajjissati tassa  tattha rūpakkhandho nuppajjitthāti
+ yassa vā pana yattha vedanākkhandho nuppajjissati tassa  tattha rūpakkhandho nuppajjitthāti
 pañcavokāre pacchimabhavikānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho nuppajjissati no ca tesaṃ tattha rūpakkhandho nuppajjittha suddhāvāsānaṃ arūpe pacchimabhavikānaṃ tesaṃ tattha vedanākkhandho ca nuppajjissati rūpakkhandho ca nuppajjittha
- (ka) yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho nuppajjissatīti āmantā
-(kha) yassa vā pana yattha saññākkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjitthāti
+  yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho nuppajjissatīti āmantā
+ yassa vā pana yattha saññākkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjitthāti
 pacchimabhavikānaṃ tesaṃ tattha saññākkhandho nuppajjissati no ca tesaṃ tattha vedanākkhandho nuppajjittha suddhāvāsānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca nuppajjissati vedanākkhandho ca nuppajjittha
 
 
 
 
- (ka) yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhatīti
+  yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhatīti
 asaññasattā cavantānaṃ tesaṃ rūpakkhandho nirujjhati no ca tesaṃ vedanākkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhati
-(kha) yassa vā pana vedanākkhandho nirujjhati tassa rūpakkhandho nirujjhatīti
+ yassa vā pana vedanākkhandho nirujjhati tassa rūpakkhandho nirujjhatīti
 arūpā cavantānaṃ tesaṃ vedanākkhandho nirujjhati no ca tesaṃ rūpakkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ vedanākkhandho ca nirujjhati rūpakkhandho ca nirujjhati
 
- (ka) yattha  rūpakkhandho nirujjhati tattha vedanākkhandho nirujjhatīti
+  yattha  rūpakkhandho nirujjhati tattha vedanākkhandho nirujjhatīti
 asaññasatte tattha rūpakkhandho nirujjhati no ca tattha vedanākkhandho nirujjhati  pañcavokāre tattha rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhati
-(kha) yattha vā pana vedanākkhandho nirujjhati tattha rūpakkhandho nirujjhatīti
+ yattha vā pana vedanākkhandho nirujjhati tattha rūpakkhandho nirujjhatīti
 arūpe tattha vedanākkhandho nirujjhati no ca tattha rūpakkhandho nirujjhati pañcavokāre tattha vedanākkhandho ca nirujjhati rūpakkhandho ca nirujjhati
 
- (ka) yassa  yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhatīti
+  yassa  yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhatīti
 asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho nirujjhati no ca tesaṃ tattha vedanākkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ tattha rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhati
-(kha) yassa vā pana yattha vedanākkhandho nirujjhati tassa tattha rūpakkhandho nirujjhatīti
+ yassa vā pana yattha vedanākkhandho nirujjhati tassa tattha rūpakkhandho nirujjhatīti
 arūpā cavantānaṃ tesaṃ tattha vedanākkhandho nirujjhati no ca tesaṃ tattha rūpakkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhati rūpakkhandho ca nirujjhati
 
- (ka) yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhatīti
+  yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhatīti
 arūpā cavantānaṃ tesaṃ rūpakkhandho na nirujjhati no ca tesaṃ vedanākkhandho na nirujjhati sabbesaṃ upapajjantānaṃ tesaṃ rūpakkhandho ca na nirujjhati vedanākkhandho ca na nirujjhati
-(kha) yassa vā pana vedanākkhandho na nirujjhati tassa rūpakkhandho na nirujjhatīti
+ yassa vā pana vedanākkhandho na nirujjhati tassa rūpakkhandho na nirujjhatīti
 asaññasattā cavantānaṃ tesaṃ vedanākkhandho na nirujjhati no ca tesaṃ rūpakkhandho na nirujjhati sabbesaṃ upapajjantānaṃ tesaṃ vedanākkhandho ca  na nirujjhati rūpakkhandho ca na nirujjhati
 
- (ka) yattha rūpakkhandho na nirujjhati tattha vedanākkhandho na nirujjhatīti nirujjhati
-(kha) yattha vā pana vedanākkhandho na nirujjhati tattha rūpakkhandho na nirujjhatīti nirujjhati
+  yattha rūpakkhandho na nirujjhati tattha vedanākkhandho na nirujjhatīti nirujjhati
+ yattha vā pana vedanākkhandho na nirujjhati tattha rūpakkhandho na nirujjhatīti nirujjhati
 
- (ka) yassa  yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhatīti
+  yassa  yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhatīti
 arūpā cavantānaṃ tesaṃ tattha rūpakkhandho na nirujjhati no ca tesaṃ tattha vedanākkhandho na nirujjhati sabbesaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhati vedanākkhandho ca na nirujjhati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhati tassa tattha rūpakkhandho na nirujjhatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhati tassa tattha rūpakkhandho na nirujjhatīti
 asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho na nirujjhati no ca tesaṃ tattha rūpakkhandho na nirujjhati sabbesaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati rūpakkhandho ca na nirujjhati
 
 
- (ka) yassa rūpakkhandho nirujjhittha tassa vedanākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho nirujjhitthāti āmantā
+  yassa rūpakkhandho nirujjhittha tassa vedanākkhandho nirujjhitthāti āmantā
+ yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho nirujjhitthāti āmantā
 
- (ka) yattha rūpakkhandho nirujjhittha tattha vedanākkhandho nirujjhitthāti
+  yattha rūpakkhandho nirujjhittha tattha vedanākkhandho nirujjhitthāti
 asaññasatte tattha rūpakkhandho nirujjhattha no ca tattha vedanākkhandho nirujjhittha pañcavokāre tattha rūpakkhandho ca nirujjhittha  vedanākkhandho ca nirujjhittha
-(kha) yattha  vā pana vedanākkhandho nirujjhittha tattha rūpakkhandho nirujjhitthāti
+ yattha  vā pana vedanākkhandho nirujjhittha tattha rūpakkhandho nirujjhitthāti
 arūpe tattha vedanākkhandho nirujjhittha no ca tattha rūpakkhandho nirujjhittha pañcavokāre tattha vedanākkhandho ca nirujjhittha rūpakkhandho ca nirujjhittha
 
- (ka) yassa yattha rūpakkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhitthāti
+  yassa yattha rūpakkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhitthāti
 asaññasattānaṃ tesaṃ tattha rūpakkhandho nirujjhittha no ca tesaṃ tattha vedanākkhandho nirujjhittha pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca nirujjhittha vedanākkhandho ca nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho nirujjhitthāti
+ yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho nirujjhitthāti
 arūpānaṃ tesaṃ  tattha vedanākkhandho nirujjhittha no ca tesaṃ tattha rūpakkhandho nirujjhittha pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhittha rūpakkhandho ca nirujjhittha
 
- (ka) yassa rūpakkhandho na nirujjhittha tassa vedanākkhandho na nirujjhitthāti natthi
-(kha) yassa vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho na nirujjhitthāti natthi
+  yassa rūpakkhandho na nirujjhittha tassa vedanākkhandho na nirujjhitthāti natthi
+ yassa vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho na nirujjhitthāti natthi
 
- (ka) yattha rūpakkhandho na nirujjhittha tattha vedanākkhandho na nirujjhitthāti nirujjhittha
-(kha) yattha  vā pana vedanākkhandho na nirujjhittha tattha rūpakkhandho na nirujjhitthāti nirujjhittha
+  yattha rūpakkhandho na nirujjhittha tattha vedanākkhandho na nirujjhitthāti nirujjhittha
+ yattha  vā pana vedanākkhandho na nirujjhittha tattha rūpakkhandho na nirujjhitthāti nirujjhittha
 
- (ka) yassa yattha rūpakkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhitthāti
+  yassa yattha rūpakkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhitthāti
 arūpānaṃ tesaṃ tattha rūpakkhandho na nirujjhittha no  ca tesaṃ tattha vedanākkhandho na nirujjhittha suddhāvāsānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhittha vedanākkhandho ca na nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho na nirujjhitthāti
+ yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho na nirujjhitthāti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhittha no ca tesaṃ tattha rūpakkhandho na nirujjhittha suddhāvāsānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhittha rūpakkhandho ca na nirujjhittha
 
 
- (ka) yassa rūpakkhandho nirujjhissati tassa vedanākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhissatīti
+  yassa rūpakkhandho nirujjhissati tassa vedanākkhandho nirujjhissatīti āmantā
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhissatīti
 pacchimabhavikānaṃ arūpaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ vedanākkhandho nirujjhissati no ca tesaṃ rūpakkhandho nirujjhissati itaresaṃ tesaṃ vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhissati
 
- (ka) yattha  rūpakkhandho nirujjhissati tattha vedanākkhandho nirujjhissatīti
+  yattha  rūpakkhandho nirujjhissati tattha vedanākkhandho nirujjhissatīti
 asaññasatte tattha rūpakkhandho nirujjhissati no ca tattha vedanākkhandho nirujjhissati pañcavokāre tattha rūpakkhandho ca nirujjhissati vedanākkhandho ca nirujjhissati
-(kha) yattha vā pana vedanākkhandho nirujjhissati tattha rūpakkhandho nirujjhissatīti
+ yattha vā pana vedanākkhandho nirujjhissati tattha rūpakkhandho nirujjhissatīti
 arūpe tattha vedanākkhandho nirujjhissati no ca tattha rūpakkhandho nirujjhissati pañcavokāre  tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhissati
 
- (ka) yassa yattha rūpakkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhissatīti
+  yassa yattha rūpakkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhissatīti
 asaññasattānaṃ tesaṃ tattha rūpakkhandho nirujjhissati no ca tesaṃ tattha vedanākkhandho nirujjhissati pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca nirujjhissati vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhissatīti
+ yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhissatīti
 arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho nirujjhissati pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhissati
 
- (ka) yassa rūpakkhandho na nirujjhissati tassa vedanākkhandho na nirujjhissatīti
+  yassa rūpakkhandho na nirujjhissati tassa vedanākkhandho na nirujjhissatīti
 pacchimabhavikānaṃ  arūpaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ rūpakkhandho na nirujjhissati no ca tesaṃ vedanākkhandho na nirujjhissati parinibbantānaṃ tesaṃ rūpakkhandho ca na nirujjhissati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhissatīti āmantā
+ yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhissatīti āmantā
 
- (ka) yattha rūpakkhandho na nirujjhissati tattha vedanākkhandho na nirujjhissatīti nirujjhissati
-(kha) yattha vā pana vedanākkhandho na nirujjhissati tattha rūpakkhandho na nirujjhissatīti nirujjhissati
+  yattha rūpakkhandho na nirujjhissati tattha vedanākkhandho na nirujjhissatīti nirujjhissati
+ yattha vā pana vedanākkhandho na nirujjhissati tattha rūpakkhandho na nirujjhissatīti nirujjhissati
 
- (ka) yassa  yattha rūpakkhandho na nirujjhissati tassa tattha vedanākkhandho  na nirujjhissatīti
+  yassa  yattha rūpakkhandho na nirujjhissati tassa tattha vedanākkhandho  na nirujjhissatīti
 arūpānaṃ tesaṃ tattha rūpakkhandho na nirujjhissati no ca tesaṃ tattha vedanākkhandho na nirujjhissati parinibbantānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhissati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhissatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhissatīti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho na nirujjhissati parinibbantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca na nirujjhissati
 
 
- (ka) yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho nirujjhatīti
+  yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhitthāti āmantā
+ yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho nirujjhatīti
 sabbesaṃ upapajjantānaṃ arūpā cavantānaṃ tesaṃ vedanākkhandho nirujjhittha no ca tesaṃ rūpakkhandho nirujjhati pañcavokārā cavantānaṃ asaññasattā cavantānaṃ tesaṃ vedanākkhandho ca nirujjhittha rūpakkhandho ca nirujjhati
- (ka) yassa vedanākkhandho nirujjhati tassa saññākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana saññākkhandho nirujjhittha tassa vedanākkhandho nirujjhatīti
+  yassa vedanākkhandho nirujjhati tassa saññākkhandho nirujjhitthāti āmantā
+ yassa vā pana saññākkhandho nirujjhittha tassa vedanākkhandho nirujjhatīti
 sabbesaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ saññākkhandho nirujjhittha no ca tesaṃ vedanākkhandho nirujjhati catuvokārā pañcavokārā cavantānaṃ tesaṃ saññākkhandho ca nirujjhittha  vedanākkhandho ca nirujjhati
 
- (ka) yattha rūpakkhandho nirujjhati tattha vedanākkhandho nirujjhitthāti
+  yattha rūpakkhandho nirujjhati tattha vedanākkhandho nirujjhitthāti
 asaññasatte tattha rūpakkhandho nirujjhati no ca tattha vedanākkhandho nirujjhittha pañcavokāre tattha rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhittha
-(kha) yattha  vā pana vedanākkhandho nirujjhittha tattha rūpakkhandho nirujjhatīti 
+ yattha  vā pana vedanākkhandho nirujjhittha tattha rūpakkhandho nirujjhatīti 
 arūpe tattha vedanākkhandho nirujjhittha no ca tattha rūpakkhandho nirujjhati pañcavokāre tattha vedanākkhandho ca nirujjhittha rūpakkhandho ca nirujjhati
- (ka) yattha vedanākkhandho nirujjhati tattha saññākkhandho nirujjhitthāti āmantā
-(kha) yattha vā pana saññākkhandho nirujjhittha tattha vedanākkhandho nirujjhatīti āmantā
+  yattha vedanākkhandho nirujjhati tattha saññākkhandho nirujjhitthāti āmantā
+ yattha vā pana saññākkhandho nirujjhittha tattha vedanākkhandho nirujjhatīti āmantā
 
- (ka) yassa yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhitthāti
+  yassa yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhitthāti
 suddhāvāse parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho nirujjhati no ca tesaṃ tattha vedanākkhandho nirujjhittha itaresaṃ pañcavokārā cavantānaṃ tesaṃ tattha rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho nirujjhatīti
+ yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho nirujjhatīti
 pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhittha no ca tesaṃ tattha rūpakkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhittha rūpakkhandho ca nirujjhati
- (ka) yassa  yattha vedanākkhandho nirujjhati tassa tattha saññākkhandho nirujjhitthāti
+  yassa  yattha vedanākkhandho nirujjhati tassa tattha saññākkhandho nirujjhitthāti
 suddhāvāse  parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhati no ca tesaṃ tattha saññākkhandho nirujjhittha itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhati saññākkhandho ca nirujjhittha
-(kha) yassa vā pana yattha saññākkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhatīti
+ yassa vā pana yattha saññākkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhatīti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhittha no ca tesaṃ tattha vedanākkhandho nirujjhati catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho ca nirujjhittha vedanākkhandho ca nirujjhati
 
- (ka) yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho na nirujjhatīti natthi
- (ka) yassa  vedanākkhandho na nirujjhati tassa saññākkhandho na nirujjhitthāti nirujjhittha
-(kha) yassa vā pana saññākkhandho na nirujjhittha tassa vedanākkhandho na nirujjhatīti natthi
+  yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhitthāti nirujjhittha
+ yassa vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho na nirujjhatīti natthi
+  yassa  vedanākkhandho na nirujjhati tassa saññākkhandho na nirujjhitthāti nirujjhittha
+ yassa vā pana saññākkhandho na nirujjhittha tassa vedanākkhandho na nirujjhatīti natthi
 
- yattha rūpakkhandho na nirujjhati (yatthakaṃ paripuṇṇaṃ kātabbaṃ)
+ yattha rūpakkhandho na nirujjhati 
 
- (ka) yassa  yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhitthāti
+  yassa  yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhitthāti
 pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho na nirujjhati no ca tesaṃ tattha vedanākkhandho na  nirujjhittha suddhāvāsaṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhati vedanākkhandho ca na nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho na nirujjhatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho na nirujjhatīti
 suddhāvāse parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho na nirujjhittha no ca tesaṃ tattha rūpakkhandho na nirujjhati suddhāvāsaṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhittha rūpakkhandho ca na nirujjhati
- (ka) yassa yattha vedanākkhandho na nirujjhati tassa tattha saññākkhandho na nirujjhitthāti
+  yassa yattha vedanākkhandho na nirujjhati tassa tattha saññākkhandho na nirujjhitthāti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho na nirujjhati no ca tesaṃ tattha saññākkhandho na nirujjhittha suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati saññākkhandho ca na nirujjhittha
-(kha) yassa vā pana yattha saññākkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhatīti
+ yassa vā pana yattha saññākkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhatīti
 suddhāvāse parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhittha no ca tesaṃ tattha vedanākkhandho na nirujjhati suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhittha vedanākkhandho ca na nirujjhati
 
 
- (ka) yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhissatīti
+  yassa  rūpakkhandho nirujjhati tassa vedanākkhandho nirujjhissatīti
 pañcavokāre parinibbantānaṃ tesaṃ rūpakkhandho nirujjhati no  ca tesaṃ vedanākkhandho  nirujjhissati itaresaṃ pañcavokārā cavantānaṃ asaññasattā cavantānaṃ tesaṃ rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhatīti
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhatīti
 sabbesaṃ upapajjantānaṃ arūpā cavantānaṃ tesaṃ vedanākkhandho nirujjhissati no ca tesaṃ rūpakkhandho nirujjhati pañcavokārā cavantānaṃ asaññasattā cavantānaṃ tesaṃ vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhati
- (ka) yassa vedanākkhandho nirujjhati tassa saññākkhandho nirujjhissatīti
+  yassa vedanākkhandho nirujjhati tassa saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ vedanākkhandho nirujjhati no ca tesaṃ saññākkhandho nirujjhissati itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ vedanākkhandho ca nirujjhati saññākkhandho ca nirujjhissati
-(kha) yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho nirujjhatīti
+ yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho nirujjhatīti
 sabbesaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ saññākkhandho nirujjhissati no ca tesaṃ vedanākkhandho nirujjhati catuvokārā pañcavokārā cavantānaṃ tesaṃ saññākkhandho ca nirujjhissati vedanākkhandho nirujjhati
 
  yattha  rūpakkhandho nirujjhati
 
- (ka) yassa yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhissatīti
+  yassa yattha rūpakkhandho nirujjhati tassa tattha vedanākkhandho nirujjhissatīti
 pañcavokāre parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho nirujjhati no ca tesaṃ tattha vedanākkhandho  nirujjhissati itaresaṃ pañcavokārā cavantānaṃ tesaṃ tattha rūpakkhandho ca nirujjhati vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhatīti
+ yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhatīti
 pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho nirujjhati pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhati
- (ka) yassa yattha vedanākkhandho nirujjhati tassa tattha saññākkhandho nirujjhissatīti
+  yassa yattha vedanākkhandho nirujjhati tassa tattha saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhati no ca tesaṃ  tattha saññākkhandho nirujjhissati itaresaṃ catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhati saññākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhatīti
+ yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhatīti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati no ca tesaṃ tattha vedanākkhandho nirujjhati catuvokārā  pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca nirujjhati
 
- (ka) yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhissatīti
+  yassa rūpakkhandho na nirujjhati tassa vedanākkhandho na nirujjhissatīti
 sabbesaṃ upapajjantānaṃ arūpā cavantānaṃ tesaṃ rūpakkhandho na nirujjhati no ca tesaṃ vedanākkhandho na nirujjhissati arūpe  parinibbantānaṃ tesaṃ rūpakkhandho ca na nirujjhati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhatīti
+ yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhatīti
 pañcavokāre parinibbantānaṃ tesaṃ vedanākkhandho na nirujjhissati no ca tesaṃ rūpakkhandho na nirujjhati arūpe parinibbantānaṃ tesaṃ vedanākkhandho ca na nirujjhissati rūpakkhandho ca na nirujjhati
- (ka) yassa vedanākkhandho na nirujjhati tassa saññākkhandho na nirujjhissatīti nirujjhissati
-(kha) yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho na nirujjhatīti nirujjhati
+  yassa vedanākkhandho na nirujjhati tassa saññākkhandho na nirujjhissatīti nirujjhissati
+ yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho na nirujjhatīti nirujjhati
 
  yattha rūpakkhandho na nirujjhati
 
- (ka) yassa yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhissatīti
+  yassa yattha rūpakkhandho na nirujjhati tassa tattha vedanākkhandho na nirujjhissatīti
 pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho na nirujjhati no ca tesaṃ tattha vedanākkhandho na nirujjhissati arūpe parinibbantānaṃ  asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhatīti
 pañcavokāre parinibbantānaṃ  asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho na nirujjhati arūpe parinibbantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca na nirujjhati
- (ka) yassa  yattha vedanākkhandho na nirujjhati tassa tattha saññākkhandho na nirujjhissatīti
+  yassa  yattha vedanākkhandho na nirujjhati tassa tattha saññākkhandho na nirujjhissatīti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho na nirujjhati no ca tesaṃ tattha saññākkhandho na nirujjhissati asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho na nirujjhatīti
+ yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho na nirujjhatīti
 parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhissati no ca tesaṃ tattha vedanākkhandho na nirujjhati asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhissati vedanākkhandho ca na nirujjhati
 
 
- (ka) yassa rūpakkhandho nirujjhittha tassa vedanākkhandho nirujjhissatīti
+  yassa rūpakkhandho nirujjhittha tassa vedanākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ rūpakkhandho nirujjhittha no ca tesaṃ vedanākkhandho  nirujjhissati itaresaṃ tesaṃ rūpakkhandho ca nirujjhittha vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhitthāti āmantā
- (ka) yassa vedanākkhandho nirujjhittha tassa saññākkhandho nirujjhissatīti
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho nirujjhitthāti āmantā
+  yassa vedanākkhandho nirujjhittha tassa saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ vedanākkhandho nirujjhittha no ca tesaṃ saññākkhandho nirujjhissati itaresaṃ tesaṃ vedanākkhandho ca nirujjhittha saññākkhandho ca nirujjhissati
-(kha) yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho nirujjhitthāti āmantā
+ yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho nirujjhitthāti āmantā
 
  yattha  rūpakkhandho nirujjhittha
 
- (ka) yassa  yattha rūpakkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhissatīti
+  yassa  yattha rūpakkhandho nirujjhittha tassa tattha vedanākkhandho nirujjhissatīti
 pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha rūpakkhandho nirujjhittha no ca tesaṃ tattha vedanākkhandho nirujjhissati itaresaṃ pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca nirujjhittha vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhitthāti
+ yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho nirujjhitthāti
 suddhāvāsaṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho nirujjhittha itaresaṃ pañcavokārānaṃ  tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca nirujjhittha
- (ka) yassa yattha vedanākkhandho nirujjhittha tassa tattha saññākkhandho nirujjhissatīti
+  yassa yattha vedanākkhandho nirujjhittha tassa tattha saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ tattha vedanākkhandho nirujjhittha no ca tesaṃ tattha saññākkhandho nirujjhissati itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhittha saññākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhitthāti
+ yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho nirujjhitthāti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati no ca tesaṃ tattha vedanākkhandho nirujjhittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca nirujjhittha
 
- (ka) yassa  rūpakkhandho na nirujjhittha tassa vedanākkhandho na nirujjhissatīti natthi
-(kha) yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhitthāti nirujjhittha
- (ka) yassa vedanākkhandho na nirujjhittha tassa saññākkhandho na nirujjhissatīti natthi
-(kha) yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho na nirujjhitthāti nirujjhittha
+  yassa  rūpakkhandho na nirujjhittha tassa vedanākkhandho na nirujjhissatīti natthi
+ yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho na nirujjhitthāti nirujjhittha
+  yassa vedanākkhandho na nirujjhittha tassa saññākkhandho na nirujjhissatīti natthi
+ yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho na nirujjhitthāti nirujjhittha
 
  yattha rūpakkhandho na nirujjhittha
 
- (ka) yassa  yattha rūpakkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhissatīti
+  yassa  yattha rūpakkhandho na nirujjhittha tassa tattha vedanākkhandho na nirujjhissatīti
 suddhāvāsaṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho na nirujjhittha no ca tesaṃ tattha vedanākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ arūpe parinibbantānaṃ tesaṃ tattha rūpakkhandho ca na nirujjhittha vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhitthāti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho na nirujjhitthāti
 pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho na nirujjhittha suddhāvāse parinibbantānaṃ arūpe parinibbantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca na nirujjhittha
- (ka) yassa yattha vedanākkhandho na nirujjhittha tassa tattha saññākkhandho na nirujjhissatīti
+  yassa yattha vedanākkhandho na nirujjhittha tassa tattha saññākkhandho na nirujjhissatīti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha  vedanākkhandho na nirujjhittha no ca tesaṃ tattha saññākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhittha saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho na nirujjhitthāti
+ yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho na nirujjhitthāti
 parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhissati no ca tesaṃ tattha vedanākkhandho na nirujjhittha suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhissati vedanākkhandho ca na nirujjhittha
 
 
 
 
- (ka) yassa  rūpakkhandho uppajjati tassa vedanākkhandho nirujjhatīti no
-(kha) yassa vā pana vedanākkhandho nirujjhati tassa rūpakkhandho uppajjatīti no
- (ka) yassa  vedanākkhandho uppajjati tassa saññākkhandho nirujjhatīti no
-(kha) yassa vā pana saññākkhandho nirujjhati tassa vedanākkhandho uppajjatīti no
+  yassa  rūpakkhandho uppajjati tassa vedanākkhandho nirujjhatīti no
+ yassa vā pana vedanākkhandho nirujjhati tassa rūpakkhandho uppajjatīti no
+  yassa  vedanākkhandho uppajjati tassa saññākkhandho nirujjhatīti no
+ yassa vā pana saññākkhandho nirujjhati tassa vedanākkhandho uppajjatīti no
 
- (ka) yattha rūpakkhandho uppajjati tattha vedanākkhandho nirujjhatīti
+  yattha rūpakkhandho uppajjati tattha vedanākkhandho nirujjhatīti
 asaññasatte tattha rūpakkhandho uppajjati no ca tattha vedanākkhandho nirujjhati pañcavokāre tattha rūpakkhandho ca uppajjati vedanākkhandho ca nirujjhati
-(kha) yattha vā pana vedanākkhandho nirujjhati tattha rūpakkhandho uppajjatīti
+ yattha vā pana vedanākkhandho nirujjhati tattha rūpakkhandho uppajjatīti
 arūpe tattha vedanākkhandho nirujjhati no ca tattha rūpakkhandho  uppajjati pañcavokāre tattha vedanākkhandho ca nirujjhati rūpakkhandho ca uppajjati
- (ka) yattha vedanākkhandho uppajjati tattha saññākkhandho nirujjhatīti āmantā
-(kha) yattha  vā pana saññākkhandho nirujjhati tattha vedanākkhandho uppajjatīti āmantā
+  yattha vedanākkhandho uppajjati tattha saññākkhandho nirujjhatīti āmantā
+ yattha  vā pana saññākkhandho nirujjhati tattha vedanākkhandho uppajjatīti āmantā
 
- (ka) yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho nirujjhatīti no
-(kha) yassa vā pana yattha vedanākkhandho nirujjhati tassa tattha rūpakkhandho uppajjatīti no
- (ka) yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho nirujjhatīti no
-(kha) yassa vā pana yattha saññākkhandho nirujjhati tassa tattha vedanākkhandho uppajjatīti no
+  yassa yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho nirujjhatīti no
+ yassa vā pana yattha vedanākkhandho nirujjhati tassa tattha rūpakkhandho uppajjatīti no
+  yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho nirujjhatīti no
+ yassa vā pana yattha saññākkhandho nirujjhati tassa tattha vedanākkhandho uppajjatīti no
 
- (ka) yassa rūpakkhandho nuppajjati tassa vedanākkhandho na nirujjhatīti
+  yassa rūpakkhandho nuppajjati tassa vedanākkhandho na nirujjhatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ rūpakkhandho nuppajjati no ca tesaṃ vedanākkhandho na nirujjhati arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ rūpakkhandho ca nuppajjati vedanākkhandho ca na nirujjhati
-(kha) yassa vā pana vedanākkhandho na nirujjhati tassa rūpakkhandho nuppajjatīti
+ yassa vā pana vedanākkhandho na nirujjhati tassa rūpakkhandho nuppajjatīti
 pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho na nirujjhati no  ca tesaṃ rūpakkhandho nuppajjati arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ vedanākkhandho ca na nirujjhati rūpakkhandho ca nuppajjati
- (ka) yassa  vedanākkhandho nuppajjati tassa saññākkhandho na nirujjhatīti
+  yassa  vedanākkhandho nuppajjati tassa saññākkhandho na nirujjhatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ vedanākkhandho nuppajjati no ca tesaṃ saññākkhandho na nirujjhati asaññasattānaṃ tesaṃ vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhati
-(kha) yassa vā pana saññākkhandho na nirujjhati tassa vedanākkhandho nuppajjatīti
+ yassa vā pana saññākkhandho na nirujjhati tassa vedanākkhandho nuppajjatīti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ saññākkhandho na nirujjhati no ca tesaṃ vedanākkhandho nuppajjati asaññasattānaṃ tesaṃ saññākkhandho ca na nirujjhati vedanākkhandho ca nuppajjati
 
- (ka) yattha rūpakkhandho nuppajjati tattha vedanākkhandho na nirujjhatīti nirujjhati
-(kha) yattha vā pana vedanākkhandho na nirujjhati tattha rūpakkhandho nuppajjatīti uppajjati
- (ka) yattha vedanākkhandho nuppajjati tattha saññākkhandho na nirujjhatīti āmantā
-(kha) yattha vā pana saññākkhandho na nirujjhati tattha vedanākkhandho nuppajjatīti āmantā
+  yattha rūpakkhandho nuppajjati tattha vedanākkhandho na nirujjhatīti nirujjhati
+ yattha vā pana vedanākkhandho na nirujjhati tattha rūpakkhandho nuppajjatīti uppajjati
+  yattha vedanākkhandho nuppajjati tattha saññākkhandho na nirujjhatīti āmantā
+ yattha vā pana saññākkhandho na nirujjhati tattha vedanākkhandho nuppajjatīti āmantā
 
- (ka) yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho na nirujjhatīti
+  yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho na nirujjhatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha rūpakkhandho nuppajjati no ca tesaṃ tattha vedanākkhandho na nirujjhati arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho nuppajjati vedanākkhandho ca na nirujjhati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhati tassa tattha rūpakkhandho nuppajjatīti 
+ yassa vā pana yattha vedanākkhandho na nirujjhati tassa tattha rūpakkhandho nuppajjatīti 
 pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho  na nirujjhati no ca tesaṃ tattha rūpakkhandho nuppajjati arūpaṃ upapajjantānaṃ asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhati rūpakkhandho ca nuppajjati
- (ka) yassa  yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho na nirujjhatīti
+  yassa  yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho na nirujjhatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati no ca tesaṃ tattha saññākkhandho na nirujjhati asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhati
-(kha) yassa vā pana yattha saññākkhandho na nirujjhati tassa tattha vedanākkhandho nuppajjatīti
+ yassa vā pana yattha saññākkhandho na nirujjhati tassa tattha vedanākkhandho nuppajjatīti
 catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho na nirujjhati no ca tesaṃ tattha vedanākkhandho nuppajjati asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhati vedanākkhandho ca nuppajjati
 
 
- (ka) yassa rūpakkhandho uppajjittha tassa vedanākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho uppajjitthāti āmantā
- (ka) yassa vedanākkhandho uppajjittha tassa saññākkhandho nirujjhitthāti āmantā
-(kha) yassa  vā pana saññākkhandho nirujjhittha tassa  vedanākkhandho uppajjitthāti āmantā
+  yassa rūpakkhandho uppajjittha tassa vedanākkhandho nirujjhitthāti āmantā
+ yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho uppajjitthāti āmantā
+  yassa vedanākkhandho uppajjittha tassa saññākkhandho nirujjhitthāti āmantā
+ yassa  vā pana saññākkhandho nirujjhittha tassa  vedanākkhandho uppajjitthāti āmantā
 
  yattha rūpakkhandho uppajjittha
 
- (ka) yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho nirujjhitthāti
+  yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho nirujjhitthāti
 asaññasattānaṃ tesaṃ tattha rūpakkhandho uppajjittha no ca tesaṃ tattha vedanākkhandho nirujjhittha pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjittha vedanākkhandho ca nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho uppajjitthāti
+ yassa vā pana yattha vedanākkhandho nirujjhittha tassa tattha rūpakkhandho uppajjitthāti
 arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhittha no ca tesaṃ tattha rūpakkhandho uppajjittha pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhittha rūpakkhandho ca uppajjittha
- (ka) yassa  yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana yattha saññākkhandho nirujjhittha tassa tattha vedanākkhandho uppajjitthāti āmantā
+  yassa  yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho nirujjhitthāti āmantā
+ yassa vā pana yattha saññākkhandho nirujjhittha tassa tattha vedanākkhandho uppajjitthāti āmantā
 
- (ka) yassa rūpakkhandho nuppajjittha tassa vedanākkhandho na nirujjhitthāti natthi
-(kha) yassa  vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho nuppajjitthāti natthi
- (ka) yassa vedanākkhandho nuppajjittha tassa saññākkhandho na nirujjhitthāti natthi
-(kha) yassa vā pana saññākkhandho na nirujjhittha tassa vedanākkhandho nuppajjitthāti natthi
+  yassa rūpakkhandho nuppajjittha tassa vedanākkhandho na nirujjhitthāti natthi
+ yassa  vā pana vedanākkhandho na nirujjhittha tassa rūpakkhandho nuppajjitthāti natthi
+  yassa vedanākkhandho nuppajjittha tassa saññākkhandho na nirujjhitthāti natthi
+ yassa vā pana saññākkhandho na nirujjhittha tassa vedanākkhandho nuppajjitthāti natthi
 
  yattha  rūpakkhandho nuppajjittha
 
- (ka) yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho na nirujjhitthāti
+  yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho na nirujjhitthāti
 arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjittha no ca tesaṃ tattha vedanākkhandho na nirujjhittha suddhāvāsānaṃ tesaṃ tattha rūpakkhandho ca nuppajjittha vedanākkhandho ca na nirujjhittha
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho nuppajjitthāti
+ yassa vā pana yattha vedanākkhandho na nirujjhittha tassa tattha rūpakkhandho nuppajjitthāti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhittha no ca tesaṃ tattha rūpakkhandho nuppajjittha suddhāvāsānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhittha rūpakkhandho ca nuppajjittha
- (ka) yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho na nirujjhitthāti āmantā
-(kha) yassa vā pana yattha saññākkhandho na nirujjhittha tassa tattha vedanākkhandho nuppajjitthāti āmantā
+  yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho na nirujjhitthāti āmantā
+ yassa vā pana yattha saññākkhandho na nirujjhittha tassa tattha vedanākkhandho nuppajjitthāti āmantā
 
 
- (ka) yassa  rūpakkhandho uppajjissati tassa vedanākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjissatīti
+  yassa  rūpakkhandho uppajjissati tassa vedanākkhandho nirujjhissatīti āmantā
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjissatīti
 pacchimabhavikānaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ vedanākkhandho nirujjhissati no ca tesaṃ rūpakkhandho uppajjissati itaresaṃ tesaṃ vedanākkhandho ca nirujjhissati rūpakkhandho ca uppajjissati
- (ka) yassa  vedanākkhandho uppajjissati tassa saññākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjissatīti
+  yassa  vedanākkhandho uppajjissati tassa saññākkhandho nirujjhissatīti āmantā
+ yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjissatīti
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ saññākkhandho nirujjhissati no ca tesaṃ vedanākkhandho uppajjissati itaresaṃ tesaṃ saññākkhandho ca nirujjhissati vedanākkhandho ca uppajjissati
 
  yattha rūpakkhandho uppajjissati
 
- (ka) yassa yattha rūpakkhandho uppajjissati tassa tattha vedanākkhandho nirujjhissatīti
+  yassa yattha rūpakkhandho uppajjissati tassa tattha vedanākkhandho nirujjhissatīti
 asaññasattānaṃ  tesaṃ tattha rūpakkhandho uppajjissati no ca tesaṃ tattha vedanākkhandho nirujjhissati pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjissati vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho uppajjissatīti
+ yassa vā pana yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho uppajjissatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho uppajjissati itaresaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca uppajjissati
- (ka) yassa yattha vedanākkhandho uppajjissati tassa tattha saññākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana yattha saññākkhandho nirujjhissati  tassa tattha vedanākkhandho uppajjissatīti
+  yassa yattha vedanākkhandho uppajjissati tassa tattha saññākkhandho nirujjhissatīti āmantā
+ yassa vā pana yattha saññākkhandho nirujjhissati  tassa tattha vedanākkhandho uppajjissatīti
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati no  ca tesaṃ tattha vedanākkhandho uppajjissati itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca uppajjissati
 
- (ka) yassa rūpakkhandho nuppajjissati tassa vedanākkhandho na nirujjhissatīti
+  yassa rūpakkhandho nuppajjissati tassa vedanākkhandho na nirujjhissatīti
 pacchimabhavikānaṃ upapajjantānaṃ ye ca arūpaṃ upapajjitvā parinibbāyissanti tesaṃ rūpakkhandho nuppajjissati no ca tesaṃ vedanākkhandho na nirujjhissati parinibbantānaṃ tesaṃ rūpakkhandho ca nuppajjissati vedanākkhandho ca na nirujjhissati
-(kha) yassa  vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjissatīti āmantā
- (ka) yassa vedanākkhandho nuppajjissati tassa saññākkhandho na nirujjhissatīti
+ yassa  vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjissatīti āmantā
+  yassa vedanākkhandho nuppajjissati tassa saññākkhandho na nirujjhissatīti
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ vedanākkhandho nuppajjissati no ca tesaṃ saññākkhandho na nirujjhissati parinibbantānaṃ tesaṃ vedanākkhandho ca nuppajjissati saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho nuppajjissatīti āmantā
+ yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho nuppajjissatīti āmantā
 
  yattha rūpakkhandho nuppajjissati
 
- (ka) yassa yattha rūpakkhandho nuppajjissati tassa tattha vedanākkhandho na nirujjhissatīti
+  yassa yattha rūpakkhandho nuppajjissati tassa tattha vedanākkhandho na nirujjhissatīti
 pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjissati no ca tesaṃ tattha vedanākkhandho  na nirujjhissati parinibbantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjissati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjissatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjissatīti
 asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho nuppajjissati parinibbantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca nuppajjissati
- (ka) yassa  yattha vedanākkhandho nuppajjissati tassa tattha saññākkhandho na nirujjhissatīti
+  yassa  yattha vedanākkhandho nuppajjissati tassa tattha saññākkhandho na nirujjhissatīti
 pacchimabhavikānaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjissati no ca tesaṃ tattha saññākkhandho na nirujjhissati parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjissati saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjissatīti āmantā
+ yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjissatīti āmantā
 
 
- (ka) yassa rūpakkhandho uppajjati tassa vadanākkhandho nirujjhitthāti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho uppajjatīti
+  yassa rūpakkhandho uppajjati tassa vadanākkhandho nirujjhitthāti āmantā
+ yassa vā pana vedanākkhandho nirujjhittha tassa rūpakkhandho uppajjatīti
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ vedanākkhandho nirujjhittha no ca tesaṃ rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho ca nirujjhittha rūpakkhandho ca uppajjati
 (yathā  uppādavāre paccuppannātītaṃ vibhattaṃ tathā idha vibhajitabbaṃ)
 
 
- (ka) yassa  rūpakkhandho uppajjati tassa vedanākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjatīti
+  yassa  rūpakkhandho uppajjati tassa vedanākkhandho nirujjhissatīti āmantā
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjatīti
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ vedanākkhandho nirujjhissati no ca tesaṃ rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ vedanākkhandho ca nirujjhissati rūpakkhandho ca uppajjati
- (ka) yassa vedanākkhandho uppajjati tassa saññākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjatīti
+  yassa vedanākkhandho uppajjati tassa saññākkhandho nirujjhissatīti āmantā
+ yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjatīti
 sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ saññākkhandho nirujjhissati no ca tesaṃ vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ  upapajjantānaṃ tesaṃ saññākkhandho ca nirujjhissati vedanākkhandho ca uppajjati
 
  yattha rūpakkhandho uppajjati
 
- (ka) yassa  yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho nirujjhissatīti
+  yassa  yattha rūpakkhandho uppajjati tassa tattha vedanākkhandho nirujjhissatīti
 asaññasattaṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho uppajjati no ca tesaṃ tattha vedanākkhandho nirujjhissati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha rūpakkhandho ca uppajjati vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho  nirujjhissati tassa tattha rūpakkhandho uppajjatīti
+ yassa vā pana yattha vedanākkhandho  nirujjhissati tassa tattha rūpakkhandho uppajjatīti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho uppajjati pañcavokāraṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca uppajjati
- (ka) yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho nirujjhissatīti āmantā
-(kha) yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho uppajjatīti
+  yassa yattha vedanākkhandho uppajjati tassa tattha saññākkhandho nirujjhissatīti āmantā
+ yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho uppajjatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha saññākkhandho nirujjhissati no ca tesaṃ tattha vedanākkhandho uppajjati catuvokāraṃ pañcavokāraṃ upapajjantānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca uppajjati
 
- (ka) yassa rūpakkhandho nuppajjati tassa vedanākkhandho na nirujjhissatīti
+  yassa rūpakkhandho nuppajjati tassa vedanākkhandho na nirujjhissatīti
 sabbesaṃ cavantānaṃ arūpaṃ upapajjantānaṃ tesaṃ rūpakkhandho nuppajjati no ca tesaṃ vedanākkhandho na nirujjhissati parinibbantānaṃ tesaṃ rūpakkhandho ca nuppajjati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjatīti āmantā
- (ka) yassa  vedanākkhandho nuppajjati tassa saññākkhandho na nirujjhissatīti
+ yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjatīti āmantā
+  yassa  vedanākkhandho nuppajjati tassa saññākkhandho na nirujjhissatīti
 sabbesaṃ cavantānaṃ asaññasattaṃ upapajjantānaṃ tesaṃ  vedanākkhandho nuppajjati no ca tesaṃ saññākkhandho na nirujjhissati parinibbantānaṃ  tesaṃ vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho nuppajjatīti āmantā
+ yassa vā pana saññākkhandho na nirujjhissati tassa vedanākkhandho nuppajjatīti āmantā
 
  yattha rūpakkhandho nuppajjati
 
- (ka) yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho na nirujjhissatīti
+  yassa yattha rūpakkhandho nuppajjati tassa tattha vedanākkhandho na nirujjhissatīti
 pañcavokārā cavantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjati no ca tesaṃ tattha vedanākkhandho na nirujjhissati parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjati vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjatīti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjatīti
 asaññasattaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho nuppajjati parinibbantānaṃ asaññasattā cavantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca nuppajjati
- (ka) yassa  yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho na nirujjhissatīti
+  yassa  yattha vedanākkhandho nuppajjati tassa tattha saññākkhandho na nirujjhissatīti
 catuvokārā pañcavokārā cavantānaṃ tesaṃ tattha vedanākkhandho nuppajjati no ca tesaṃ tattha saññākkhandho na nirujjhissati parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjati saññākkhandho ca na nirujjhissati
-(kha) yassa  vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjatīti āmantā
+ yassa  vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjatīti āmantā
 
 
- (ka) yassa rūpakkhandho uppajjittha tassa vedanākkhandho nirujjhissatīti
+  yassa rūpakkhandho uppajjittha tassa vedanākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ rūpakkhandho uppajjittha no ca tesaṃ vedanākkhandho nirujjhissati itaresaṃ tesaṃ rūpakkhandho ca uppajjittha vedanākkhandho ca nirujjhissati 
-(kha) yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjitthāti āmantā
- (ka) yassa vedanākkhandho uppajjittha tassa saññākkhandho nirujjhissatīti
+ yassa vā pana vedanākkhandho nirujjhissati tassa rūpakkhandho uppajjitthāti āmantā
+  yassa vedanākkhandho uppajjittha tassa saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ vedanākkhandho uppajjittha no ca tesaṃ saññākkhandho nirujjhissati itaresaṃ tesaṃ vedanākkhandho ca uppajjittha saññākkhandho ca nirujjhissati
-(kha) yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjitthāti āmantā
+ yassa vā pana saññākkhandho nirujjhissati tassa vedanākkhandho uppajjitthāti āmantā
 
  yattha  rūpakkhandho uppajjittha
 
- (ka) yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho nirujjhissatīti
+  yassa yattha rūpakkhandho uppajjittha tassa tattha vedanākkhandho nirujjhissatīti
 pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha rūpakkhandho uppajjittha no ca tesaṃ tattha vedanākkhandho nirujjhissati itaresaṃ pañcavokārānaṃ tesaṃ tattha rūpakkhandho ca uppajjittha vedanākkhandho ca nirujjhissati
-(kha) yassa vā pana  yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho uppajjitthāti
+ yassa vā pana  yattha vedanākkhandho nirujjhissati tassa tattha rūpakkhandho uppajjitthāti
 suddhāvāsaṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha vedanākkhandho nirujjhissati no ca tesaṃ tattha rūpakkhandho uppajjittha itaresaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca nirujjhissati rūpakkhandho ca uppajjittha
- (ka) yassa yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho nirujjhissatīti
+  yassa yattha vedanākkhandho uppajjittha tassa tattha saññākkhandho nirujjhissatīti
 parinibbantānaṃ tesaṃ tattha vedanākkhandho uppajjittha no ca tesaṃ tattha saññākkhandho nirujjhissati itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha vedanākkhandho ca uppajjittha saññākkhandho ca nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho uppajjitthāti
+ yassa vā pana yattha saññākkhandho nirujjhissati tassa tattha vedanākkhandho uppajjitthāti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha saññākkhandho nirujjhissati no ca tesaṃ tattha vedanākkhandho uppajjittha itaresaṃ catuvokārānaṃ pañcavokārānaṃ tesaṃ tattha saññākkhandho ca nirujjhissati vedanākkhandho ca uppajjittha
 
- (ka) yassa  rūpakkhandho nuppajjittha tassa vedanākkhandho na nirujjhissatīti natthi
-(kha) yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjitthāti uppajjittha
- (ka) yassa vedanākkhandho nuppajjittha tassa saññākkhandho na nirujjhissatīti natthi
-(kha) yassa vā pana saññākkhandho na nirujjhissati tassa  vedanākkhandho nuppajjitthāti uppajjittha
+  yassa  rūpakkhandho nuppajjittha tassa vedanākkhandho na nirujjhissatīti natthi
+ yassa vā pana vedanākkhandho na nirujjhissati tassa rūpakkhandho nuppajjitthāti uppajjittha
+  yassa vedanākkhandho nuppajjittha tassa saññākkhandho na nirujjhissatīti natthi
+ yassa vā pana saññākkhandho na nirujjhissati tassa  vedanākkhandho nuppajjitthāti uppajjittha
 
  yattha rūpakkhandho nuppajjittha
 
- (ka) yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho na nirujjhissatīti
+  yassa yattha rūpakkhandho nuppajjittha tassa tattha vedanākkhandho na nirujjhissatīti
 suddhāvāsaṃ upapajjantānaṃ arūpānaṃ tesaṃ tattha rūpakkhandho nuppajjittha no ca tesaṃ tattha vedanākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ arūpe parinibbantānaṃ tesaṃ tattha rūpakkhandho ca nuppajjittha vedanākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjitthāti
+ yassa vā pana yattha vedanākkhandho na nirujjhissati tassa tattha rūpakkhandho nuppajjitthāti
 pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho na nirujjhissati no ca tesaṃ tattha rūpakkhandho nuppajjittha  suddhāvāse parinibbantānaṃ arūpe parinibbantānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhissati rūpakkhandho ca nuppajjittha
- (ka) yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho na nirujjhissatīti
+  yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho na nirujjhissatīti
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjittha no ca tesaṃ tattha saññākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjittha saññākkhandho ca na nirujjhissati
-(kha) yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjitthāti
+ yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjitthāti
 parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhissati  no ca tesaṃ tattha vedanākkhandho nuppajjittha  suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhissati vedanākkhandho ca nuppajjittha
 
 
 
 
- (ka) yo rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānātīti āmantā
-(kha) yo  vā pana vedanākkhandhaṃ parijānāti so rūpakkhandhaṃ parijānātīti āmantā
-(ka) yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānātīti āmantā
-(kha) yo vā pana vedanākkhandhaṃ na parijānāti so rūpakkhandhaṃ na parijānātīti āmantā
+  yo rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānātīti āmantā
+ yo  vā pana vedanākkhandhaṃ parijānāti so rūpakkhandhaṃ parijānātīti āmantā
+ yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānātīti āmantā
+ yo vā pana vedanākkhandhaṃ na parijānāti so rūpakkhandhaṃ na parijānātīti āmantā
 
- (ka) yo rūpakkhandhaṃ parijānittha so vedanākkhandhaṃ parijānitthāti āmantā
-(kha) yo vā pana vedanākkhandhaṃ parijānittha so rūpakkhandhaṃ parijānitthāti āmantā
-(ka) yo rūpakkhandhaṃ na parijānittha so vedanākkhandhaṃ na parijānitthāti āmantā
-(kha) yo vā pana vedanākkhandhaṃ na parijānittha so rūpakkhandhaṃ na parijānitthāti āmantā
+  yo rūpakkhandhaṃ parijānittha so vedanākkhandhaṃ parijānitthāti āmantā
+ yo vā pana vedanākkhandhaṃ parijānittha so rūpakkhandhaṃ parijānitthāti āmantā
+ yo rūpakkhandhaṃ na parijānittha so vedanākkhandhaṃ na parijānitthāti āmantā
+ yo vā pana vedanākkhandhaṃ na parijānittha so rūpakkhandhaṃ na parijānitthāti āmantā
 
- (ka) yo rūpakkhandhaṃ parijānissati so vedanākkhandhaṃ parijānissatīti āmantā
-(kha) yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānissatīti āmantā
-(ka) yo  rūpakkhandhaṃ na parijānissati so vedanākkhandhaṃ  na parijānissatīti āmantā
-(kha) yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānissatīti āmantā
+  yo rūpakkhandhaṃ parijānissati so vedanākkhandhaṃ parijānissatīti āmantā
+ yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānissatīti āmantā
+ yo  rūpakkhandhaṃ na parijānissati so vedanākkhandhaṃ  na parijānissatīti āmantā
+ yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānissatīti āmantā
 
- (ka) yo  rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānitthāti no
-(kha) yo vā pana vedanākkhandhaṃ parijānittha so rūpakkhandhaṃ parijānātīti no
-(ka) yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānitthāti
+  yo  rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānitthāti no
+ yo vā pana vedanākkhandhaṃ parijānittha so rūpakkhandhaṃ parijānātīti no
+ yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānitthāti
 arahā rūpakkhandhaṃ na parijānāti no ca vedanākkhandhaṃ na parijānittha aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā rūpakkhandhañca na parijānanti vedanākkhandhañca na parijānittha
-(kha) yo vā pana vedanākkhandhaṃ na parijānittha so rūpakkhandhaṃ na parijānātīti
+ yo vā pana vedanākkhandhaṃ na parijānittha so rūpakkhandhaṃ na parijānātīti
 aggamaggasamaṅgī vedanākkhandhaṃ na parijānittha no ca rūpakkhandhaṃ na parijānāti aggamaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā vedanākkhandhañca na parijānittha rūpakkhandhañca na parijānanti
 
- (ka) yo rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānissatīti no
-(kha) yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānātīti no
-(ka) yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānissatīti
+  yo rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānissatīti no
+ yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānātīti no
+ yo rūpakkhandhaṃ na parijānāti so vedanākkhandhaṃ na parijānissatīti
 ye maggaṃ paṭilabhissanti te rūpakkhandhaṃ na parijānanti no ca vedanākkhandhaṃ na parijānissanti arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te rūpakkhandhañca na parijānanti vedanākkhandhañca na parijānissanti
-(kha) yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānātīti
+ yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānātīti
 aggamaggasamaṅgī vedanākkhandhaṃ na parijānissati no  ca rūpakkhandhaṃ na parijānāti arahā ye ca puthujjanā maggaṃ na paṭilabhissanti te vedanākkhandhañca na parijānissanti rūpakkhandhañca na parijānanti
 
- (ka) yo  rūpakkhandhaṃ parijānittha so vedanākkhandhaṃ parijānissatīti no
-(kha) yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānitthāti no
-(ka) yo rūpakkhandhaṃ na parijānittha so vedanākkhandhaṃ na parijānissatīti
+  yo  rūpakkhandhaṃ parijānittha so vedanākkhandhaṃ parijānissatīti no
+ yo vā pana vedanākkhandhaṃ parijānissati so rūpakkhandhaṃ parijānitthāti no
+ yo rūpakkhandhaṃ na parijānittha so vedanākkhandhaṃ na parijānissatīti
 ye maggaṃ paṭilabhissanti te rūpakkhandhaṃ na parijānittha no ca vedanākkhandhaṃ na parijānissanti aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te rūpakkhandhañca na parijānittha vedanākkhandhañca na parijānissanti
-(kha) yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānitthāti
+ yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānitthāti
 arahā vedanākkhandhaṃ na parijānissati no ca rūpakkhandhaṃ na parijānittha aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te vedanākkhandhañca na parijānissanti rūpakkhandhañca na parijānittha
 
 

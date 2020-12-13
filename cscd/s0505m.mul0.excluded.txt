@@ -57,51 +57,51 @@ yo ve (syā.),osadhebhi (ka.);
 Uragasuttaṃ paṭhamaṃ niṭṭhitaṃ.
 2. Dhaniyasuttaṃ
 18.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 ;
 ,’’.
 19.
-‘‘vigatakhīlohamasmi (sī. pī.),
+‘‘vigatakhīlohamasmi (sī. pī.),(iti bhagavā)
 ;
 ,’’.
 20.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 ;
 ,’’.
 21.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,’’.
 22.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 dīgharatta (ka.);
 ,’’.
 23.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,’’.
 24.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 ;
 ,’’.
 25.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,’’.
 26.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 ;
 ,’’.
 27.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,’’.
 28.
-‘‘,
+‘‘,(iti dhaniyo gopo)
 ;
 chetuṃ (ka.),’’.
 29.
-‘‘chetvā (syā. ka.),
+‘‘chetvā (syā. ka.),(iti bhagavā)
 pūtilataṃ padālayitvā (syā. ka.);
 puna upessaṃ (sī. syā. kaṃ. pī.), punupeyya (ka.),’’.
 30.
@@ -114,11 +114,11 @@ puna upessaṃ (sī. syā. kaṃ. pī.), punupeyya (ka.),’’.
 ‘‘,brahmacariya (ka.);
 pāragā (sī. syā. kaṃ. pī.),’’.
 33.
-‘‘,
+‘‘,(iti māro pāpimā)
 gomiko (sī. pī.), gopiko (syā. kaṃ.), gopiyo (ka.);
 ,’’.
 34.
-‘‘,
+‘‘,(iti bhagavā)
 ;
 ,’’.
 Dhaniyasuttaṃ dutiyaṃ niṭṭhitaṃ.
@@ -281,15 +281,15 @@ pāyāsaṃ (sabbattha)–‘‘.;amatapphalampi (saṃ. ni. 1.197)’’.
 Kasibhāradvājasuttaṃ catutthaṃ niṭṭhitaṃ.
 5. Cundasuttaṃ
 83.
-‘‘,
+‘‘,(iti cundo kammāraputto)
 ;
 dipaduttamaṃ (sī. syā. kaṃ. pī.),’’.
 84.
-‘‘,
+‘‘,(cundāti bhagavā)
 ;
 ,’’.
 85.
-‘‘,
+‘‘,(iti cundo kammāraputto)
 ;
 ,’’maggadūsī (ka.).
 86.
@@ -510,47 +510,47 @@ vineyya (sī. syā. pī.),.
 Mettasuttaṃ aṭṭhamaṃ niṭṭhitaṃ.
 9. Hemavatasuttaṃ
 153.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 dibyā (sī. syā. kaṃ. pī.);
 ,’’.
 154.
-‘‘,
+‘‘,(iti hemavato yakkho)
 ;
 ,’’.
 155.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 ;
 ,’’.
 156.
-‘‘,
+‘‘,(iti hemavato yakkho)
 ;
 ,’’.
 157.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 ;
 ,’’.
 158.
-‘‘,
+‘‘,(iti hemavato yakkho)
 ;
 ,’’.
 159.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 ;
 ,atthaṃ so (sī. pī. ka.)’’.
 160.
-‘‘,
+‘‘,(iti hemavato yakkho)
 ;
 ,’’.
 161.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 ;
 ,’’.
 162.
-‘‘,
+‘‘,(iti hemavato yakkho )
 ;
 ,’’.
 163.
-‘‘,
+‘‘,(iti sātāgiro yakkho)
 ;
 ,’’.
 164.
@@ -572,11 +572,11 @@ dibyā (sī. syā. kaṃ. pī.);
 ‘‘,;
 ,’’.
 170.
-‘‘,
+‘‘,(iti hemavato yakkho)
 sandhavaṃ (ka.);
 ,’’.
 171.
-‘‘chassu (sī. pī.),
+‘‘chassu (sī. pī.),(hemavatāti bhagavā)
 ;
 ,’’.
 172.

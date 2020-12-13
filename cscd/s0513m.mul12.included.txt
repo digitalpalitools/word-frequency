@@ -1,6 +1,6 @@
 ﻿
 
- 474 ambajātakaṃ (1)
+ 474 ambajātakaṃ 
 
  ahāsi  me ambaphalāni pubbe aṇūni thūlāni ca brahmacāri
 teheva mantehi na dāni tuyhaṃ dumapphalā pātubhavanti brahme
@@ -43,7 +43,7 @@ kiñcāpi laddhā jīvituṃ appapañño  vināsayī alikaṃ bhāsamāno
 mante mayaṃ tādisake na dema kuto mantā gaccha na mayha ruccasīti
 
 
- 475 phandanajātakaṃ (2)
+ 475 phandanajātakaṃ 
 
  kuṭhārihattho  puriso vanamogayha tiṭṭhasi
 puṭṭho me samma akkhāhi kiṃ dāruṃ chetumicchasi
@@ -85,7 +85,7 @@ sammodatha mā vivadatha  mā hotha issaphandanā
 sāmaggirato dhammaṭṭho yogakkhemā na dhaṃsatīti
 
 
- 476 javanahaṃsajātakaṃ (3)
+ 476 javanahaṃsajātakaṃ 
 
  idheva haṃsa nipata piyaṃ me tava dassanaṃ
 issarosi anuppatto yamidhatthi pavedaya
@@ -129,7 +129,7 @@ tuyhañcāpi  mahārāja mayhañca  raṭṭhavaḍḍhana
 appeva nāma passemu  ahoratānamaccayeti
 
 
- 477 cūḷanāradajātakaṃ (4)
+ 477 cūḷanāradajātakaṃ 
 
  na te kaṭṭhāni bhinnāni na te udakamābhataṃ
 aggīpi te na hāpito  kiṃ nu mandova jhāyasi
@@ -176,7 +176,7 @@ mitaṃ khāde mitaṃ bhuñje na ca rūpe manaṃ kare
 ārakā parivajjehi yānīva visamaṃ pathanti
 
 
- 478 dūtajātakaṃ (5)
+ 478 dūtajātakaṃ 
 
  dūte  te brahme  pāhesiṃ gaṅgātīrasmi jhāyato
 tesaṃ puṭṭho na byākāsi dukkhaṃ guyhamataṃ  nu te
@@ -219,7 +219,7 @@ alaṃ dukkhā pamocetuṃ tasmā tuyhaṃ pavedayiṃ
 jātarūpamaye nikkhe suvaṇṇassa catuddasāti
 
 
- 479 kāliṅgabodhijātakaṃ (6)
+ 479 kāliṅgabodhijātakaṃ 
 
  rājā  kāliṅgo cakkavatti dhammena pathavimanusāsaṃ 
 agamā  bodhisamīpaṃ nāgena mahānubhāvena
@@ -272,7 +272,7 @@ mālāvilepanaṃ abhiharitvā  atha rājā manupāyāsi
 pūjesi  rājā kāliṅgo bodhimaṇḍamanuttaranti 
 
 
- 480 akittijātakaṃ (7)
+ 480 akittijātakaṃ 
 
  akittiṃ  disvā sammantaṃ sakko bhūtapatī bravi
 kiṃ patthayaṃ mahābrahme eko sammasi ghammani
@@ -345,7 +345,7 @@ dassanaṃ abhikaṅkhanti kiṃ nu me dassane bhayaṃ
 disvā tapo pamajjeyya  etaṃ te dassane bhayanti
 
 
- 481 takkāriyajātakaṃ (8)
+ 481 takkāriyajātakaṃ 
 
  ahameva dubbhāsitaṃ bhāsi bālo bhekovaraññe ahimavhāyamāno 
 takkāriye sobbhamimaṃ  patāmi na  kireva sādhu ativelabhāṇī 
@@ -388,7 +388,7 @@ paccekacittā puthu sabbasattā kassīdha cittassa vase na vatte
 so dāni mutto sukhito arogo vācākirevattavatī narānanti
 
 
- 482 rurumigarājajātakaṃ (9)
+ 482 rurumigarājajātakaṃ 
 
  tassa  gāmavaraṃ dammi nāriyo ca alaṅkatā
 yo  metaṃ migamakkhāti  migānaṃ migamuttamaṃ
@@ -445,7 +445,7 @@ na tvevāhaṃ ruruṃ dubbhe datvā abhayadakkhiṇaṃ
 na tvevāhaṃ  migarājassa varaṃ datvā musā bhaṇeti
 
 
- 483 sarabhamigajātakaṃ (10)
+ 483 sarabhamigajātakaṃ 
 
  āsīsetheva  puriso na nibbindeyya paṇḍito
 passāmi vohaṃ attānaṃ yathā icchiṃ tathā ahu

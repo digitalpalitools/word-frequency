@@ -69,8 +69,8 @@
  gatibodhāhārasaddatthākammakabhajjādīnaṃ payojje
  harādīnaṃ vā
  na khādādīnaṃ
- vahissā-niyantuke (gaṇa)
- bhakkhissāhiṃsāyaṃ (gaṇa)
+ vahissā-niyantuke 
+ bhakkhissāhiṃsāyaṃ 
  dhyādīhi yuttā
  lakkhaṇittambhūtavicchāsvabhinā
  patiparīhi bhāge ca
@@ -146,7 +146,7 @@
  kammādito
  nāsse-no
  jhalā sassa no
- ito kvaci sassa ṭānubandho (gaṇa)
+ ito kvaci sassa ṭānubandho 
  nā smāssa
  lā yonaṃ vo pume
  jantvādito no ca
@@ -165,7 +165,7 @@
  smāhisminnaṃ mhābhimhi
  suhisvasse 
  sabbādīnaṃ naṃmhi ca
- pubbaparāvaradakkhiṇuttarādharāni vavatthāyamasaññāyaṃ (gaṇa)
+ pubbaparāvaradakkhiṇuttarādharāni vavatthāyamasaññāyaṃ 
  saṃsānaṃ
  ghapā sassa ssā vā
  smino ssaṃ
@@ -211,8 +211,8 @@
  veṭa
  pubbādīhi chahi
  manādīhi smiṃsaṃnāsmānaṃ sisoosāsā
- sumedhādīna mavuddhica (gaṇa)
- saravayāyavāsacetā jalāsayakkhayalohapaṭamanesu (gaṇa)
+ sumedhādīna mavuddhica 
+ saravayāyavāsacetā jalāsayakkhayalohapaṭamanesu 
  satosababhe
  bhavato vā bhonto gayonāse
  sissaggito ni
@@ -223,8 +223,8 @@
  aṃṅaṃ napuṃsake
  himavato vā o
  rājādiyuvāditvā
- dhammo vā-ññatthe (gaṇa)
- imo  bhāve (gaṇa)
+ dhammo vā-ññatthe 
+ imo  bhāve 
  vā-mhānaṅa
  yonamāno
  āyono ca sakhā
@@ -327,11 +327,11 @@
  visesanamekatthena
  nau
  kupādayo  niccamasyādividhimhi
- pādayo gatādyatthe paṭhamāya (gaṇa)
- accādayo kantādyatthe dutiyāya (gaṇa)
- avādayo kuṭṭhādyatthe tatiyāya (gaṇa)
- pariyādayo gilānādyatthe catutthiyā (gaṇa)
- nyādayo kantādyatthe pañcamiyā (gaṇa)
+ pādayo gatādyatthe paṭhamāya 
+ accādayo kantādyatthe dutiyāya 
+ avādayo kuṭṭhādyatthe tatiyāya 
+ pariyādayo gilānādyatthe catutthiyā 
+ nyādayo kantādyatthe pañcamiyā 
  cī kriyatthehi
  bhūsanā-darā-nādaresvalaṃsāsā
  aññe ca
@@ -346,17 +346,17 @@
  gossu
  itthiyamatvā
  nadādito ṅī
- goto vā (gaṇa)
+ goto vā 
  yakkhāditvinī  ca
  ārāmikādīhi
- saññāyaṃ mānuso (gaṇa)
+ saññāyaṃ mānuso 
  yuvaṇṇehi nī
  ktimhā-ññatthe
  gharaṇyādayo
- ācariyā vā yalopo ca (gaṇa)
+ ācariyā vā yalopo ca 
  mātulāditvānī bhariyāyaṃ
- abhariyāyaṃ khattiyā vā (gaṇa)
- punnāmasmā yogā apālakantā (gaṇa)
+ abhariyāyaṃ khattiyā vā 
+ punnāmasmā yogā apālakantā 
  upamāsaṃhitasahitasaṃyatasahasaphavāmalakkhaṇāditūrutū
  yuvā ti
  ntantūnaṃ ṅīmhito vā
@@ -438,8 +438,8 @@
 
  ṇo  vā pacce
  vacchādito ṇānaṇāyanā
- katā ṇiyova (gaṇa)
- kaṇho brāhmaṇe (gaṇa)
+ katā ṇiyova 
+ kaṇho brāhmaṇe 
  kattikāvidhavādīhi ṇeyyaṇerā
  ṇya diccādīhi
  ā ṇi
@@ -478,13 +478,13 @@
  mātāpitūsvā-maho
  hite  reyyaṇa
  nindā-ññāta-ppapaṭibhāgarassa dayāsaññāsu ko
- vatthito ivatthe eyyo (gaṇa)
- silāya ṇeyyo ca (gaṇa)
- sākhādīhi iyo (gaṇa)
- mukhādīhi yo (gaṇa)
- ākasmike bhidheye īyo (gaṇa)
- sakkarādīhi ṇo (gaṇa)
- aṅgulyādīhi ṇiko (gaṇa)
+ vatthito ivatthe eyyo 
+ silāya ṇeyyo ca 
+ sākhādīhi iyo 
+ mukhādīhi yo 
+ ākasmike bhidheye īyo 
+ sakkarādīhi ṇo 
+ aṅgulyādīhi ṇiko 
  tamassa parimāṇaṃ ṇiko ca
  yate-tehi ttako
  sabbā cā-vanthu
@@ -525,27 +525,27 @@
  tamettha-ssa-tthīti mantu
  vantvavaṇṇā
  daṇḍāditvika ī vā
- uttamīṇe va dhanā iko (gaṇa)
- asannihite atthā (gaṇa)
- tadantā ca (gaṇa)
- vaṇṇantā īyeva (gaṇa)
- hattha dantehi jātiyaṃ (gaṇa)
- vaṇṇato brahmacārimhi (gaṇa)
- pokkharādito dese (gaṇa)
- nāvāyi-ko (gaṇa)
- sukhadukkhā ī (gaṇa)
- balā bāhūrupubbā ca (gaṇa)
+ uttamīṇe va dhanā iko 
+ asannihite atthā 
+ tadantā ca 
+ vaṇṇantā īyeva 
+ hattha dantehi jātiyaṃ 
+ vaṇṇato brahmacārimhi 
+ pokkharādito dese 
+ nāvāyi-ko 
+ sukhadukkhā ī 
+ balā bāhūrupubbā ca 
  tapādīhi ssī
  mukhādito ro
- dantassu ca unnatadante (gaṇa)
+ dantassu ca unnatadante 
  tundyādīhi bho
  saddhāditva 
  ṇo tapā
  ālvabhijjhādīhi
  picchāditvilo
  sīlādito vo
- aṇṇā niccaṃ (gaṇa)
- gāṇḍirājīhi saññāyaṃ (gaṇa)
+ aṇṇā niccaṃ 
+ gāṇḍirājīhi saññāyaṃ 
  māyāmedhāhi vī
  sissare āmyuvāmī
  lakkhyā ṇo a ca
@@ -632,9 +632,9 @@
  ghyaṇa
  āsse ca
  vadādīhi yo
- bhujānne (gaṇa)
+ bhujānne 
  kicca ghacca bhacca bhabba leyyā
- saññāyaṃ bharā (gaṇa)
+ saññāyaṃ bharā 
  guhādīhi yaka
  kattari ltuṇakā
  āvī
@@ -1036,7 +1036,7 @@
  vakā araṇa
  sigyaṅgāga majjakalā lā āro
  kamissa ssu ca
- bhiṅgā (ṅkā) rādayo
+ bhiṅgā  rādayo
  karā māro
  pusa  sarehi kharo
  sara vasa kalā kīro vassuṭa ca
