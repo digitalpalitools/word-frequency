@@ -1,13 +1,3 @@
-BeforeAll {
-  Import-Module .\PSExtractTexts.psm1 -Force
-
-  function Get-XmlNodeFromString {
-    param($String)
-
-    Select-Xml -Xml ([xml]$String) -XPath "*"
-  }
-}
-
 <#
 - TODO:
   - "-"" in the exclusion character class
@@ -28,7 +18,38 @@ BeforeAll {
 
 - Tests
   - For combinations of the above
+
+- #TODO
+  - For self test validate that line lengths are adding up
 #>
+
+BeforeAll {
+  Import-Module .\PSExtractTexts.psm1 -Force
+
+  function Get-XmlNodeFromString {
+    param($String)
+
+    Select-Xml -Xml ([xml]$String) -XPath "*"
+  }
+
+  function Test-Output {
+    param(
+      $OriginalText,
+      $Node,
+      $ExpectedIncludedText,
+      $ExpectedExcludedText,
+      [Parameter(ValueFromPipeline = $true)]
+      $Output
+    )
+
+    Process {
+      $Output[0] | Should -BeExactly $ExpectedIncludedText
+      $Output[1] | Should -BeExactly $ExpectedExcludedText
+      ($Output[0].Length + $Output[1].Length) | Should -BeExactly $Node.InnerText.Length
+      $Node.OuterXml | Should -BeExactly $OriginalText
+    }
+  }
+}
 
 Describe "Get-TextFromNode" {
   Context "Main context" {
@@ -36,30 +57,36 @@ Describe "Get-TextFromNode" {
       $text = '<p rend="chapter">1. Mūlapariyāyavaggo</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret | Should -BeExactly @("", "1. Mūlapariyāyavaggo")
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+      $expectedIncluded = ""
+      $expectedExcluded = "1. Mūlapariyāyavaggo"
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Sub tags excluded rest in caps" {
       $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret | Should -BeExactly @(" hello world!", "2.")
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+      $expectedIncluded = " hello world!"
+      $expectedExcluded = "2."
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Sub tags as well as special characters excluded" {
       $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!.a,1??2'‘3;4'’'’'’'’5–6-7…8</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret | Should -BeExactly @(" hello world!a123456-78", "2..,??‘;’’’’–…")
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+      $expectedIncluded = " hello world!a123456-78"
+      $expectedExcluded = "2..,??‘;’’’’–…"
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Sub tags excluded - 2: e.g. <note>" {
@@ -68,48 +95,52 @@ Describe "Get-TextFromNode" {
 "@
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret[0] | Should -BeExactly " idha bhikkhave assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido  ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto  pathaviṃ  pathavito sañjānāti pathaviṃ pathavito saññatvā pathaviṃ maññati pathaviyā maññati pathavito maññati pathaviṃ meti maññati  pathaviṃ abhinandati taṃ kissa hetu apariññātaṃ tassāti vadāmi"
-      $ret[1] | Should -BeExactly @"
+      $expectedIncluded = " idha bhikkhave assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido  ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto  pathaviṃ  pathavito sañjānāti pathaviṃ pathavito saññatvā pathaviṃ maññati pathaviyā maññati pathavito maññati pathaviṃ meti maññati  pathaviṃ abhinandati taṃ kissa hetu apariññātaṃ tassāti vadāmi"
+      $expectedExcluded = @"
 2.‘‘,,,–paṭhaviṃ (sī. syā. kaṃ. pī.);,,,,.?‘’.
 "@
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Sub tags excluded - nested case" {
       $text = '<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi><hi rend="bold">Aṭṭha <pb ed="V" n="0.0116" /> puggalā –</hi></p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret[0] | Should -BeExactly ""
-      $ret[1] | Should -BeExactly @"
+      $expectedIncluded = ""
+      $expectedExcluded = @"
 14.Aṭṭha  puggalā –
 "@
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Parts of line excluded e.g. ...pe..." {
       $text = '<p rend="bodytext">Sekkhavasena…pe… dutiyanayabhūmiparicchedo niṭṭhito</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret[0] | Should -BeExactly "sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito"
-      $ret[1] | Should -BeExactly "…pe…"
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+      $expectedIncluded = "sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito"
+      $expectedExcluded = "…pe…"
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
     It "Characters removed e.g. .," {
       $text = '<p rend="bodytext">string1 .,?'‘ string2 ;'’–-… string3</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $ret = $xml.Node | Get-TextFromNode
-      $ret[0] | Should -BeExactly "string1  string2 - string3"
-      $ret[1] | Should -BeExactly ".,?‘;’–…"
-      $ret[0].Length + $ret[1].Length | Should -BeExactly $xml.Node.InnerText.Length
-      $xml.Node.OuterXml | Should -BeExactly $text
+      $expectedIncluded = "string1  string2 - string3"
+      $expectedExcluded = ".,?‘;’–…"
+
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
   }
 }

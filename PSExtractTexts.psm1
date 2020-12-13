@@ -12,7 +12,7 @@ function Get-TextFromNode {
 
   Process {
     if ($_.rend -in $rendBlackList) {
-      "", (($_.ChildNodes | ForEach-Object { $_.InnerText }) -join "")
+      , @("", (($_.ChildNodes | ForEach-Object { $_.InnerText }) -join ""))
       return
     }
 
@@ -46,6 +46,6 @@ function Get-TextFromNode {
       }
     }
 
-    ($includedSubNodeTexts -join "").ToLowerInvariant(), ($excludedSubNodeTexts -join "")
+    , @(($includedSubNodeTexts -join "").ToLowerInvariant(), ($excludedSubNodeTexts -join ""))
   }
 }

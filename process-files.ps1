@@ -24,18 +24,20 @@ function ProcessFile {
 
     Write-Host "[$($nodes.Length) nodes]`t" -NoNewline
 
+    $includedLines = @()
+    $excludedLines = @()
+    $nodes `
+    | ForEach-Object { $_.Node } `
+    | Get-TextFromNode `
+    | ForEach-Object {
+      $includedLines += $_[0]
+      $excludedLines += $_[1]
+    }
+
     $includedFilePath = [io.path]::ChangeExtension($dstFilePath, "included.txt")
-    [array] $includedLines =
-      $nodes `
-      | ForEach-Object { $_.Node } `
-      | Get-TextFromNode -ForInclusion
     $includedLines | Out-File -FilePath $includedFilePath -Encoding utf8BOM
 
     $excludedFilePath = [io.path]::ChangeExtension($dstFilePath, "excluded.txt")
-    [array] $excludedLines =
-      $nodes `
-      | ForEach-Object { $_.Node } `
-      | Get-TextFromNode
     $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8BOM
 
     if ($includedLines.Length -ne $excludedLines.Length) {
