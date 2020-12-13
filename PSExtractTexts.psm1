@@ -1,6 +1,9 @@
 $rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
+
 $nodeBackList = "hi", "pb", "note"
-$sequencesToRemove = "…pe…", ".", ",", "?", "‘", ";", "’", "–", "…"
+
+$sequencesToRemove = "…pe…", "\.", ",", "\?", "‘", ";", "’", "–", "…" `
+  | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }
 
 function Get-TextFromNode {
   [CmdletBinding()]
@@ -34,11 +37,11 @@ function Get-TextFromNode {
       $text = $includedSubNodeTexts[$i]
       $includedSubNodeTexts[$i] = ""
       while ($text) {
-        $seq = $sequencesToRemove | Where-Object { $text.StartsWith($_) } | Select-Object -First 1
+        $seq = $sequencesToRemove | Where-Object { $text -imatch "^($_)" } | Select-Object -First 1
 
         if ($seq) {
-          $excludedSubNodeTexts[$i] = $excludedSubNodeTexts[$i] + $seq
-          $text = $text.Substring($seq.Length)
+          $excludedSubNodeTexts[$i] = $excludedSubNodeTexts[$i] + $Matches[0]
+          $text = $text.Substring($Matches[0].Length)
         } else {
           $includedSubNodeTexts[$i] = $includedSubNodeTexts[$i] + $text[0]
           $text = $text.Substring(1)

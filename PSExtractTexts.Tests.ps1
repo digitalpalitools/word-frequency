@@ -119,12 +119,12 @@ Describe "Get-TextFromNode" {
       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
-    It "Parts of line excluded e.g. ...pe..." {
-      $text = '<p rend="bodytext">Sekkhavasena…pe… dutiyanayabhūmiparicchedo niṭṭhito</p>'
+    It "Parts of line excluded - case insensetive e.g. ...pe..." {
+      $text = '<p rend="bodytext">Sekkhavasena…Pe… dutiyanayabhūmiparicchedo niṭṭhito</p>'
       $xml = Get-XmlNodeFromString -String $text
 
       $expectedIncluded = "sekkhavasena dutiyanayabhūmiparicchedo niṭṭhito"
-      $expectedExcluded = "…pe…"
+      $expectedExcluded = "…Pe…"
 
       $xml.Node
       | Get-TextFromNode
