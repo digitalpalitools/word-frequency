@@ -10,7 +10,7 @@ Abhiññārammaṇaniddeso
 ,;
 ,.
 1107.
-iddhividhañāṇaṃ,;
+,;
 ,.
 1108.
 ,;
@@ -46,7 +46,7 @@ iddhividhañāṇaṃ,;
 ,;
 ,.
 1119.
-Cetopariyañāṇampi,;
+,;
 ,.
 1120.
 ,;
@@ -118,7 +118,7 @@ Cetopariyañāṇampi,;
 ,;
 ,.
 1143.
-Pubbenivāsañāṇa,;
+,;
 ,.
 1144.
 ,;
@@ -151,10 +151,10 @@ Pubbenivāsañāṇa,;
 ,;
 ,.
 1154.
-Dibbasotadibba-cakkhu;
+-;
 ,.
 1155.
-Anāgataṃsañāṇa,;
+,;
 ,.
 1156.
 -;
@@ -183,7 +183,7 @@ Anāgataṃsañāṇa,;
 ,;
 ,.
 1164.
-Yathākammupagañāṇaṃ,;
+,;
 ,.
 1165.
 ,;

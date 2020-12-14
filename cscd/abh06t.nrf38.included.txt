@@ -10,8 +10,8 @@ bhaṅge ñāṇaṃ bhaye ñāṇaṃ ñāṇamādīnavepi ca
  tatheva nibbidāñāṇaṃ ñāṇaṃ muccitukamyatā
 paṭisaṅkhā ca saṅkhārupekkhāñāṇānulomakaṃ
 
- iccā vibhāvitā
-sabhāgatthavisesena  puna
+ iccāvatthāpabhedena dasadhāpi vibhāvitā
+sabhāgatthavisesena tidhā saṅgahitā puna
 
  yathābhūtaṃ nāma ñāṇattayaṃ sammasanādikaṃ
 bhayādiñāṇaṃ tividhaṃ nibbidāti pavuccati
@@ -20,16 +20,16 @@ bhayādiñāṇaṃ tividhaṃ nibbidāti pavuccati
 lakkhaṇattayanijjhānavasena puna vuṭṭhitā
 
  suññatañcānimittañca  tathāppaṇihitanti ca
-sādheti maggasaṅkhātaṃ muttamaṃ
+sādheti maggasaṅkhātaṃ vimokkhattayamuttamaṃ
 
  iti bhāvetukāmassa vibhāveti yathākkamaṃ
 dasāvatthāvibhāgena samādāya yathā kathaṃ
 
- visuddho  paṭhamaṃ tāva sādhu 
-upacārappanāyañca ṭhatvā 
+ visuddho  paṭhamaṃ tāva sādhu sīlavisuddhiyā
+upacārappanāyañca ṭhatvā cittavisuddhiyaṃ
 
  sappaccayaṃ pariggayha nāmarūpaṃ sabhāvato
- patvā suddhiṃ tato paraṃ
+diṭṭhikaṅkhāvitaraṇaṃ patvā suddhiṃ tato paraṃ
 
  atītānāgate khandhe paccuppanne ca sāsave
 kalāpato sammasitvā sammaseyya tilakkhaṇaṃ
@@ -39,11 +39,11 @@ vayovuddhatthagāmito
 āhāratopi ututo
 kammato cāpi cittato
 
- dhammatārūpato cāpi  naye
+ dhammatārūpato cāpi rūpasattakato naye
 kalāpato yamakato khaṇikā paṭipāṭito
 
  diṭṭhimugghāṭayanto ca mānamugghāṭayaṃ tathā
-nikantipariyādāno  naye
+nikantipariyādāno nāmasattakato naye
 
  niccā ce na nirujjheyyuṃ na bādheyyuṃ sukhā yadi
 vase vatteyyumattā ce tadabhāvā na tādisā
@@ -58,7 +58,7 @@ anattāsārakaṭṭhena saṅkhārāti vibhāvayaṃ
 ajjhattañca bahiddhā ca samāsabyāsato tato
 
  yathopaṭṭhitabhedena sammasanto samūhato
-kalāpato miti bhāveti paṇḍito
+kalāpato sammasanamiti bhāveti paṇḍito
 
  tassevaṃ sammasantassa kammaññaṃ hoti mānasaṃ
 sūpaṭṭhanti ca saṅkhārā vodāyati ca bhāvanā
@@ -144,7 +144,7 @@ maggo visuddhiyā nāma visuddhā ca vipassanā
 paviṭṭhamaggaṃ vikkhittaṃ sampādeti yathā pure
 
  itthaṃ magge amagge ca yāthāvapaṭivedhakaṃ
-ti ñāṇadassanamīritaṃ
+maggāmaggavisuddhīti ñāṇadassanamīritaṃ
 
  cetopavattanākāramiti sallakkhayaṃ budho
 sādhukaṃ paṭivijjhanto sukhumaṃ nipuṇaṃ tato
@@ -153,7 +153,7 @@ sādhukaṃ paṭivijjhanto sukhumaṃ nipuṇaṃ tato
 bhāvanaṃ paṭipādento punadevodayabbayaṃ
 
  samadhiṭṭhāya medhāvī vipassati tilakkhaṇaṃ
-nti tamīrenti tato paraṃ
+udayabbayañāṇanti tamīrenti tato paraṃ
 
  saṅkhārānaṃ vibhūtattā sākārānaṃ visesato
 tilakkhaṇānaṃ diṭṭhattā saṅkhāresu sabhāvato
@@ -194,7 +194,7 @@ nirodhāyābhidhāvantā bhaṅgābhimukhapātino
  vigacchantāva dissanti khīyantantaradhāyino
 viddhaṃsayantā saṅkhārā patantā ca vināsino
 
- tamakkhātaṃ yena ñāṇena passato
+bhaṅgañāṇaṃ tamakkhātaṃ yena ñāṇena passato
 aniccantānudhāvanti tividhāpi vipassanā
 
  udayabbayabhaṅgesu pākaṭā hi aniccatā
@@ -222,7 +222,7 @@ sokopāyāsanissandā paridevaparāyaṇā
 baddhā bhayena baddhāva muttāva bhayamuttakā
 
  iti saṅkhāradhammesu bhayuppattimudikkhato
-nti bhāsanti bhayamuttā mahesayo
+bhayañāṇanti bhāsanti bhayamuttā mahesayo
 
  sabhayā puna saṅkhārā sandissanti samantato
 ahitāvahitāniccamādīnavaṃ nirantaraṃ
@@ -271,7 +271,7 @@ asisūnaṃva sārambhaṃ dukkhāyūhanakaṃ padaṃ
  savidāhaparipphandapakkabandhamivodakaṃ
 uppādañca pavattañca nimittāyūhanaṃ tathā
 
- paṭisandhiñca passantaṃ  mataṃ
+ paṭisandhiñca passantaṃ ñāṇamādīnavaṃ mataṃ
 tebhūmakesu tenāyamavuddhiṃ paṭivijjhati
 
  bhayabheravapakkhante bahvādīnavapaccaye
@@ -290,7 +290,7 @@ suvilittova duggandhaṃ sunhāto aṅgaṇaṃ viya
 hīnalokāmisāsāre saṃklesavisadūsite
 
  saṅkhārepi jigucchanto nābhinandati paṇḍito
-tassetaṃ nandinissaṭṭhaṃ mabravuṃ
+tassetaṃ nandinissaṭṭhaṃ nibbidāñāṇamabravuṃ
 
  sabhayādīnave disvā saṅkhāre puna paṇḍito
 nibbindanto tato tehi parimuccitumicchati
@@ -323,7 +323,7 @@ maraṇārambhaniṭṭhāne baddho muttiṃ gavesati
 petaṃ khāditukāmaṃva vikkantentamivāvudhaṃ
 
  mahābyasanupassaṭṭhe saṅkhāre mottumicchato
-muppannanti pavuccati
+muccitukamyatāñāṇamuppannanti pavuccati
 
  dujjahe palibajjhante ganthānusayasaṅgame
 taṇhupādānagahaṇe nandirāgānubandhane
@@ -343,8 +343,8 @@ gandhaṃ viya ca pisento pisitaṃyeva sādhukaṃ
  aniccā dukkhānattāti satimā susamāhito
 āhacca paṭivijjhanto lakkhaṇāni vipassati
 
- vipassantassa tassevaṃ 
-miccāhu nipuṇaṃ vicinantaṃ visāradā
+ vipassantassa tassevaṃ paṭisaṅkhānupassanā
+ñāṇamiccāhu nipuṇaṃ vicinantaṃ visāradā
 
  iti sammā vipassanto sacchikatvā tilakkhaṇaṃ
 yathābhūtasabhāvena tatthevamanupassati
@@ -380,7 +380,7 @@ nāññatra dukkhā sambhoti nāññaṃ dukkhā nirujjhati
 niruddhassa samāyūhā niratthakasamubbhavā
 
  aniccā hontu saṅkhārā dukkhitā vā mamettha kiṃ
-anattā vāti  pavattati
+anattā vāti saṅkhārupekkhāñāṇaṃ pavattati
 
  iti disvā yathābhūtaṃ yāva bhaṅgā tato paraṃ
 gaṇhantī bhāvanāgabbhaṃ paripakkā vipassanā
@@ -412,7 +412,7 @@ añjasaṃ maggamuḷhova dīpaṃ viya ca aṇṇave
 sabbadukkhakkhayaṃ ṭhānaṃ nibbānamabhikaṅkhati
 
  vuṭṭhānagāminī cāyaṃ sikhappattā vipassanā
-sakuṇī tīradassīva  pavattati
+sakuṇī tīradassīva sānulomā pavattati
 
  appavattamanimittaṃ passanto pana santato
 pakkhīva nipphalaṃ rukkhaṃ hitvā vuṭṭhāti saṅkhatā
@@ -444,10 +444,10 @@ yaṃ kiñci lakkhaṇākāraṃ vipassantā pavattare
  tato gotrabhu nibbānamālambitvāna jāyati
 bahiddhā khandhato tasmā vuṭṭhānanti pavuccati
 
- tato  kilesamhā vimuccanto pavattati
+ tato maggo kilesamhā vimuccanto pavattati
 vuṭṭhānaṃ ubhato tasmā khandhato ca kilesato
 
- dve tathā tīṇi vā honti  ca tato paraṃ
+ dve tathā tīṇi vā honti phalāni ca tato paraṃ
 bhavaṅgapāto taṃ chetvā jāyate paccavekkhaṇā
 
  maggaṃ phalañca nibbānaṃ paccavekkhati paṇḍito

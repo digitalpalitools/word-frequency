@@ -29,7 +29,7 @@ catukiccā mahāpākā tikakiccā mahaggatā
 pañcaviññāṇajavanamanodhātuttikaṃ pana
 
  ekakiccāti bhāsanti aṭṭhasaṭṭhi vibhāvino
-iccevaṃ  cittuppādā vavatthitā
+iccevaṃ kiccabhedena cittuppādā vavatthitā
 
  cakkhusotaghānajivhākāyadhātu yathākkamaṃ
 pañcadvārā bhavaṅgaṃ tu manodvāraṃ pavuccati
@@ -79,7 +79,7 @@ chasu dvāresu jāyanti vīthimuttāni cekadā
  sattati vīthicittāni vipākā tu mahaggatā
 nava vīthivimuttā ca duvidhāpi dasīritā
 
- iccevaṃ  vibhāvetvā tato paraṃ
+ iccevaṃ dvārabhedena vibhāvetvā tato paraṃ
 ñeyyā gocarabhedena cittuppādā yathārahaṃ
 
  rūpasaddagandharasaphoṭṭhabbā pañca gocarā
@@ -107,7 +107,7 @@ sabbālambe pavattanti aggamaggaphalaṃ vinā
 sabbālambe pavattanti nibbāne nimmalā siyuṃ
 
  dutiyañca catutthañca āruppesu mahaggate
-mahaggataññe vohāre aya nayo
+mahaggataññe vohāre ayamālambaṇe nayo
 
  cakkhusotaghānajivhākāyahadayavatthunā
 kāmaloke chavatthūni nissitā satta dhātuyo
@@ -127,7 +127,7 @@ hasanaṃ paṭighārūpāvacaraṃ vatthunissitaṃ
  dvecattālīsa  nissāya anissāya ca jāyare
 anissāya vipākāni āruppeti samīritaṃ
 
- iccevaṃ  cittuppādā pakāsitā
+ iccevaṃ vatthubhedena cittuppādā pakāsitā
 tato paraṃ vibhāveyya bhūmibhedena paṇḍito
 
  niraye petaloke ca tiracchānāsure tathā
@@ -194,7 +194,7 @@ paṭhamānuttaro maggo sesaṭṭhānesu jāyati
 pañcapaññāsa suddhesu rūpesvekūnasattati
 
  chacattālīsa āruppe uppajjanti yathārahaṃ
-iccevaṃ  cittuppādā pakāsitā
+iccevaṃ bhūmibhedena cittuppādā pakāsitā
 
  tihetusatte  sabbāni dvihetukāhetuke pana
 parittāni vivajjetvā ñāṇapākakriyājave
@@ -212,7 +212,7 @@ sāsavāvajjapākāni pañcannamapi dīpaye
 ekūnasaṭṭhi cittāni anāgāmikapuggale
 
  sattapaññāsa jāyanti tepaññāsa anāsave
-maggaṭṭhesu sako maggo 
+maggaṭṭhesu sako maggo puggalesu ayaṃ nayo
 
  tihetukāmacutiyā sabbāpi paṭisandhiyo
 dvihetāhetucutiyā kāmāvacarasandhiyo
@@ -221,7 +221,7 @@ dvihetāhetucutiyā kāmāvacarasandhiyo
 āruppāruppacutiyā heṭṭhimāruppavajjitā
 
  paṭisandhi tathā kāme tihetupaṭisandhiyo
-bhavantīti ca medhāvī 
+bhavantīti ca medhāvī cutisandhinayaṃ naye
 
  cutiyānantaraṃ hoti paṭisandhi tato paraṃ
 bhavaṅgaṃ taṃ pana chetvā hoti āvajjanaṃ tato
@@ -306,7 +306,7 @@ sukhitamhā tu dīpeyya pañcavīsati paṇḍito
 yathākkamaṃ pañcadasa āruppā paridīpaye
 
  phalamhā  cuddasevāhu maggamhā tu sakaṃ phalaṃ
-miccevaṃ vigaṇeyya visārado
+paraṃ saṅgahamiccevaṃ vigaṇeyya visārado
 
  pañcadasamhādyāvajjamekavīsatitoparaṃ 
 ekamhā pañcaviññāṇaṃ pañcamhā sampaṭicchanaṃ
@@ -329,8 +329,8 @@ kamāṭṭhacattālīsamhā tathekadvitihīnato
  phaladvayaṃ catukkamhā pañcamhāntaphaladvayaṃ
 tikā mahaggatā javā maggā kāmajavā dvayā
 
- cittuppādānamiccevaṃ gaṇito 
-ñeyyoyaṃ ti pubbāparaniyāmito
+ cittuppādānamiccevaṃ gaṇito pubbasaṅgaho
+ñeyyoyaṃ ṭhānabhedoti pubbāparaniyāmito
 
  rūpapākamahāpākā manodhātu ca tīraṇaṃ
 rūpameva janentīti vuttā ekūnavīsati
@@ -345,7 +345,7 @@ iriyāpathaviññattirūpānaṃ janakā siyuṃ
 sabbesaṃ paṭisandhī ca cuti cārahato tathā
 
  rūpādittayamiccevaṃ  samuṭṭhāpeti mānasaṃ
-uppajjamānameveti ñeyyo 
+uppajjamānameveti ñeyyo janakasaṅgaho
 
  iti kiccādibhedesu paccekasmiṃ pakāsitaṃ
 nayaṃ vuttānusārena samāsetvā viyojaye

@@ -20,10 +20,10 @@ Vipassanāvibhāgo
 ,.
 1512.
 ,;
-,samuṭṭhāti.
+,.
 1513.
 ,;
-,dhura.
+,.
 1514.
 ,;
 ,.
@@ -32,13 +32,13 @@ Vipassanāvibhāgo
 ,.
 1516.
 ,;
-,bhūmiyo.
+,.
 1517.
 -;
-,bhinivesanā.
+,.
 1518.
 ,;
-,sarīra.
+,.
 1519.
 ,;
 ,.
@@ -125,7 +125,7 @@ Vipassanāvibhāgo
 ,.
 1547.
 ,;
-Aniccabhāvanaṃ,.
+,.
 1548.
 ,;
 ,.
@@ -177,7 +177,7 @@ Aniccabhāvanaṃ,.
 ,.
 1563.
 ,;
-Dukkhānupassanaṃ,.
+,.
 1564.
 ,;
 ,.
@@ -228,9 +228,9 @@ Dukkhānupassanaṃ,.
 ,.
 1580.
 ,;
-Anattabhāvanaṃ,.
+,.
 1581.
-,nijjhāyati tilakkhaṇaṃ;
+,;
 ,.
 1582.
 ,;
@@ -239,8 +239,8 @@ Anattabhāvanaṃ,.
 ,;
 ,.
 1584.
-,nimitta;
-Pavattaṃ,.
+,;
+,.
 1585.
 ,;
 ,.
@@ -249,7 +249,7 @@ Pavattaṃ,.
 ,.
 1587.
 ,;
-dvayākāra,.
+,.
 1588.
 ,;
 ,.
@@ -275,7 +275,7 @@ dvayākāra,.
 ,;
 ,.
 1596.
-nimittamākāraṃ,;
+,;
 ‘‘’’,.
 1597.
 ,;
@@ -290,7 +290,7 @@ nimittamākāraṃ,;
 ,;
 ,.
 1601.
-pavattamākāraṃ,;
+,;
 ,.
 1602.
 ,;
@@ -335,11 +335,11 @@ pavattamākāraṃ,;
 ,;
 ,.
 1616.
-,tividhā hi vipassanā;
+,;
 ,.
 1617.
 ,;
-,aṭṭhārasavidhā.
+,.
 1618.
 ;
 ,.

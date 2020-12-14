@@ -7,7 +7,7 @@ aṭṭhārasavidhā vuttā rūpadhammāti sabbathā
  abhiññeyyā sabhāvena dvāsattati samīritā
 saccikaṭṭhaparamatthā vatthudhammā salakkhaṇā
 
- tesaṃ  dāni pavakkhāmi 
+ tesaṃ  dāni pavakkhāmi sabbasaṅgāhikaṃ nayaṃ
 ābhidhammikabhikkhūnaṃ hatthasāramanuttaraṃ
 
  dukā tikā ca khandhāyatanato dhātusaccato
@@ -50,7 +50,7 @@ appaṭibhāgadhammāti tadaññe paridīpaye
 tadaññe araṇā nāma pahātabbā na kehici
 
  rūpino rūpadhammā ca nāmadhammā arūpino
-evamādippabhedena  vibhāvaye
+evamādippabhedena dvidhā bhedaṃ vibhāvaye
 
  bālā dhammā tapanīyā kaṇhā ca kaṭukapphalā
 asevitabbā sāvajjā dvādasākusalā matā
@@ -86,16 +86,16 @@ tadaññe dvayanimmuttā sabbepi paramatthato
 arahattaphalameva asekkhanti pakāsitaṃ
 
  lokiyāpi  ca nibbānaṃ bhāsitobhayavajjitā
-evamādippakārehi ti vibhāvaye
+evamādippakārehi tividhāti vibhāvaye
 
  atītānāgataṃ rūpaṃ paccuppannamathāparaṃ
 ajjhattaṃ vā bahiddhā vā sukhumoḷārikaṃ tathā
 
  hīnaṃ paṇītaṃ yaṃ dūre santike vā tadekato
-sabbaṃ rūpaṃ samodhāya ti vuccati
+sabbaṃ rūpaṃ samodhāya rūpakkhandhoti vuccati
 
- tatheva  nāma yā kāci vedanā
-ti saññā ca rāsibhāvena bhāsitā
+ tatheva vedanākkhandho nāma yā kāci vedanā
+saññākkhandhoti saññā ca rāsibhāvena bhāsitā
 
  vaṭṭadhammesu assādaṃ tadassādopasevanaṃ
 vinibhujja nidassetuṃ khandhadvayamudāhaṭaṃ
@@ -104,13 +104,13 @@ vinibhujja nidassetuṃ khandhadvayamudāhaṭaṃ
 sandhāya vedanā saññā katā nānāti kecana
 
  cittasaṃsaṭṭhadhammānaṃ cetanāmukhato pana
-nāmena dhammā cetasikā matā
+saṅkhārakkhandhanāmena dhammā cetasikā matā
 
- sabbabhedaṃ tathā cittaṃ  sammataṃ
+ sabbabhedaṃ tathā cittaṃ viññāṇakkhandha sammataṃ
 bhedābhāvena nibbānaṃ khandhasaṅgahanissaṭaṃ
 
  ālambanīyabhāvena upādānopakārato
-ti lokuttaravivajjitā
+pañcupādānakkhandhāti lokuttaravivajjitā
 
  yathā  thūlaṃ hitatthāya pariggāhakayoginaṃ
 dhammā tebhūmakā ekabhūmibhāvāya desitā
@@ -140,7 +140,7 @@ saṅkhārāpi ca nissārā kadalikkhandhasādisā
 palambhatīti viññāṇaṃ māyāsamamudīritaṃ
 
  iccevaṃ pañcupādānakkhandhā khandhā ca kevalaṃ
-ti nāmena desitāti vibhāvaye
+pañcakkhandhāti nāmena desitāti vibhāvaye
 
  ajjhattañca bahiddhā ca viññāṇuppattikāraṇaṃ
 dvārālambaṇabhedena dvedhāyatanamīritaṃ
@@ -152,7 +152,7 @@ bāhirāyatanaṃ nāma tathā rūpādigocaraṃ
 āgame abhidhamme tu sabbathāpi yathārahaṃ
 
  tathāhanantarātīto jāyamānassa pacchato
-mano sabbopi sabbassa manassāyatanaṃ 
+mano sabbopi sabbassa manassāyatanaṃ bhave
 
  tathā pubbaṅgamaṭṭhena sahajānamarūpinaṃ
 dvārabhāvena viññāṇaṃ sabbamāyatanaṃ mataṃ
@@ -170,13 +170,13 @@ iti chaddhā pakāsenti bāhirāyatanaṃ budhā
 gāmaghātakacorāva taṃ hanantaṃva bāhiraṃ
 
  nāmappavattimuḷhānaṃ taduppattikakāraṇaṃ
-ti vuttamitthaṃ mahesinā
+dvādasāyatanānīti vuttamitthaṃ mahesinā
 
  samattā bhāvamattena dhārentīti salakkhaṇaṃ
 dvārālambataduppannapariyāyena bheditā
 
  manāyatanametthāha satta viññāṇadhātuyo
-ekādasa yathāvuttā icca
+ekādasa yathāvuttā iccaṭṭhārasa dhātuyo
 
  antādikā manodhātu manoviññāṇadhātuyā
 pavesāpagame dvārapariyāyena tiṭṭhati
@@ -271,7 +271,7 @@ dukkhā ca dukkhavatthu ca bahudhāpi papañcitā
 dukkhādhiṭṭhānabhāvena dukkhatāya niyāmitā
 
  tasmā tebhūmakā dhammā sabbe taṇhāvivajjitā
-nti desesi desanākusalo muni
+dukkhasaccanti desesi desanākusalo muni
 
  virāgatejālābhena  taṇhāsnehasinehitaṃ
 visarukkhova jātādinānānatthaphalodayaṃ
@@ -292,15 +292,15 @@ kena bandhena santānamānessati bhavantaraṃ
 kimadhiṭṭhāya jātādidukkhadhammā pavattare
 
  tasmā  mokkhavipakkhena taṇhādukkhavidhāyinī
- nāma saccamiccāha nāyako
+dukkhasamudayo nāma saccamiccāha nāyako
 
  sabbadukkhavinimuttaṃ sabbaklesavinissaṭaṃ
-nāmena saccaṃ vuccati accutaṃ
+dukkhanirodhanāmena saccaṃ vuccati accutaṃ
 
  dukkhañca parijānanto pajahaṃ dukkhasambhavaṃ
 nibbānaṃ padamārabbha bhāvanāvīthimosaṭo
 
- niyyānaṭṭhaṅgiko  sabbadukkhavimuttiyā
+ niyyānaṭṭhaṅgiko maggo sabbadukkhavimuttiyā
 dukkhanirodhagāmīti saccaṃ tasmā tamīritaṃ
 
  catusaccavinimuttā sesā lokuttarā matā
@@ -310,7 +310,7 @@ maggaṅgasampayuttā ca phaladhammā ca sabbathā
 paṭipattihitatthāya vibhāveti vināyako
 
  sappāṭihāriyaṃ dhammaṃ desetvāna anuttaro
-catudhā vibhajīti vibhāvaye
+catudhāriyasaccāni vibhajīti vibhāvaye
 
  tabbhāvabhāvibhāvena  paccayākāralakkhitaṃ
 tiyaddhaṃ dvādasaṅgañca vīsatākārasaṅgahaṃ
@@ -322,7 +322,7 @@ tebhūmakaṃ dvimūlañca catukkanayamaṇḍitaṃ
 avijjākūṭasaṅkhātaṃ bandhāvicchedamaṇḍalaṃ
 
  sokādīnatthanissandaṃ kevalaṃ dukkhapiṇḍitaṃ
-ti bhavacakkaṃ pavuccati
+paṭiccasamuppādoti bhavacakkaṃ pavuccati
 
  paṭividdhāya vijjāya bhaṅgāvijjāya sabbathā
 vivaṭṭatānupubbena hetubhaṅgā yathākathaṃ
@@ -345,16 +345,16 @@ labbhamānanayaṃ tāva dassanatthaṃ papañcito
  ettha tasmānupekkhitvā āhacca niyamaṃ budho
 tabbhāvabhāvimattena paccayatthaṃ vibhāvaye
 
- tatthāvijjā ca saṅkhārā ti bhāsitā
+ tatthāvijjā ca saṅkhārā addhātītoti bhāsitā
 viññāṇaṃ nāmarūpañca saḷāyatanasaññitaṃ
 
  phasso ca vedanā taṇhā upādānaṃ bhavoti ca
- bhave  bhave 
+paccuppanno bhave addhā bhave addhā anāgato
 
  jāti  jarā maraṇanti dvedhā hoti ca sabbathā
-kālattayavavatthānaṃ miti dīpaye
+kālattayavavatthānaṃ tiyaddhamiti dīpaye
 
- tatthāti aññāṇaṃ catusaccesu bhāsitaṃ
+ tatthāvijjāti aññāṇaṃ catusaccesu bhāsitaṃ
 pubbante cāparante ca paccayaṭṭhitiyaṃ tathā
 
  apuññātisaṅkhāroti vuttā dvādasa cetanā
@@ -364,27 +364,27 @@ tathā puññābhisaṅkhāro kāmarūpesu bhāsito
 kāyabbacīmanodvāraṃ patvā tāyeva cetanā
 
  vuttā  kāyavacīcittasaṅkhārāti mahesinā
-ti vibhattevamekūnatiṃsa cetanā
+saṅkhārāti vibhattevamekūnatiṃsa cetanā
 
  ekūnavīsatividhaṃ paṭisandhikkhaṇe tathā
-pavatte dvattiṃsavidhaṃ  pākamānasaṃ
+pavatte dvattiṃsavidhaṃ viññāṇaṃ pākamānasaṃ
 
  tividhaṃ vedanā saññā saṅkhārāti vibheditaṃ
- tu duvidhaṃ bhūtopādāyabhedato
+nāmarūpaṃ tu duvidhaṃ bhūtopādāyabhedato
 
-saṅkhātaṃ cakkhādajjhattikaṃ mataṃ
-cakkhusamphassādibhedā  chadhā pakāsito
+saḷāyatanasaṅkhātaṃ cakkhādajjhattikaṃ mataṃ
+cakkhusamphassādibhedā phasso chadhā pakāsito
 
- sukhā dukkhā upekkhāti  tividhā bhave
-kāme bhave ca vibhave ti tividhā matā
+ sukhā dukkhā upekkhāti vedanā tividhā bhave
+kāme bhave ca vibhave taṇhāti tividhā matā
 
- kāmupādānādibhedā  catubbidhā
-kammopapattibhedena  nāma dvidhā mato
+ kāmupādānādibhedā upādānā catubbidhā
+kammopapattibhedena bhavo nāma dvidhā mato
 
- attabhāvābhinibbatti  nāma  pana
-purāṇabhāvo  pariyosānamīritaṃ
+ attabhāvābhinibbatti jāti nāma jarā pana
+purāṇabhāvo maraṇaṃ pariyosānamīritaṃ
 
- vibhattevaṃ mahesinā
+dvādasaṅgappabhedena vibhattevaṃ mahesinā
 paṭiccasamuppādoti paccayā eva kevalā
 
  paṭicca phalabhāvena sāpekkhaṃ ṭhitamattani
@@ -403,22 +403,22 @@ jātijjarāmaraṇena tadeva gahitaṃ puna
 idāni hetavo pañca āyatiṃ phalapañcakaṃ
 
  itthaṃ bhedena saṅgayha dvādasaṅgaṃ vicakkhaṇā
-atthāpattivisesena mīrayuṃ
+atthāpattivisesena vīsatākāramīrayuṃ
 
  hetuphalaṃ phalahetu puna hetuphalanti ca
- tamevāhu vibhāvino
+tisandhi catusaṅkhepaṃ tamevāhu vibhāvino
 
  avijjātaṇhupādānā klesavaṭṭanti bhāsitā
 bhavekadeso saṅkhārā kammavaṭṭaṃ tatoparaṃ
 
  vipākavaṭṭamiccevaṃ vivaṭṭenāvivaṭṭitaṃ
-vaṭṭitaṃ hutvā vaṭṭametaṃ pavattati
+tivaṭṭavaṭṭitaṃ hutvā vaṭṭametaṃ pavattati
 
  aniccañca khayaṭṭhena dukkhametaṃ bhayaṭṭhato
-anattāsārakaṭṭhena vaṭṭamevaṃ 
+anattāsārakaṭṭhena vaṭṭamevaṃ tilakkhaṇaṃ
 
  saṃsārasseva vuttāyaṃ paccayānaṃ paramparā
-paṭiccasamuppādoti tato  mato
+paṭiccasamuppādoti tato tebhūmako mato
 
  bandhāvijjāṇḍakosena vijjādibhedavajjitā
 vimuttirasamappattā bhavataṇhāpipāsitā
@@ -430,7 +430,7 @@ tathābhisaṅkhatā pākabhāvāya parivattati
 iccevaṃ pariyāyena saṃsāroyaṃ pavattati
 
  iccāvijjābhavataṇhā vaṭṭopatthambhakā matā
-sampayuttānusayitā tasmā vaṭṭaṃ 
+sampayuttānusayitā tasmā vaṭṭaṃ dvimūlakaṃ
 
  paccayapaccayuppannasantānabhedato pana
 nānābhūtānamekantaṃ bījarukkhādayo viya
@@ -445,16 +445,16 @@ paccayāya ca paccetumabyāpārā tato matā
 saṅkhārādisabhāvāti ṭhitevaṃdhammatāya te
 
  itthamekattanānattā abyāpāro tathāparo
-etthevaṃdhammatā ceti  vuttā catubbidhā
+etthevaṃdhammatā ceti nayā vuttā catubbidhā
 
  phalānaṃ paccayuppatti paccayattho ca hetusu
 sabhāvapaṭivedho ca desanā cittatāti ca
 
  atthadhammapaṭivedhadesanānaṃ yathākkamaṃ
-atigambhīrabhāvena mīritaṃ
+atigambhīrabhāvena catugambhīramīritaṃ
 
  padhānakāraṇattā hi avijjādiparamparā
-kamena saṅkhārādīnaṃ paccayāti 
+kamena saṅkhārādīnaṃ paccayāti vavatthitā
 
  tathā hi jātiyā eva jarāmaraṇasambhavo
 ajātānaṃ jarā vātha maraṇaṃ vā kuto bhave
@@ -541,7 +541,7 @@ viññāṇaṃ janakābhāvā niruddhamiti vuccati
 dukkhakkhandhassimassevaṃ nirodhoti pavuccati
 
  iti  vaṭṭavivaṭṭānaṃ vasā dvedhā vibhāvito
-ti desitoyaṃ mahesinā
+paṭiccasamuppādoti desitoyaṃ mahesinā
 
  sabbasaṅkhatadhammānaṃ  sabbe dhammāpi paccayā
 janakā cevupatthambhā saṃvibhattā yathārahaṃ
@@ -568,37 +568,37 @@ dvayassa navadhā ceti chabbidhā paccayā kathaṃ
 nāmadhammāva nāmānaṃ janakattopakārakā
 
  nirantarappavattiyā anurūpamanantarā
-paccayena paccayoti pakāsitā
+anantarapaccayena paccayoti pakāsitā
 
  samanantarabhāvena tesaṃ te eva paccayā
-nāmena paccayoti pakāsitā
+samanantaranāmena paccayoti pakāsitā
 
  atthibhāvāya dhammānaṃ natthitāyopakārakā
-paccayanāmena vuttā te eva tādinā
+natthipaccayanāmena vuttā te eva tādinā
 
  okāsadānabhāvena vigatāvopakārakā
-dhammā te eva vuccanti ppaccayoti ca
+dhammā te eva vuccanti vigatappaccayoti ca
 
  javā  paguṇabhāvāya javānamupakārakā
-paccayoti niruddhānantarā matā
+āsevanapaccayoti niruddhānantarā matā
 
  saṃsaṭṭhasahajātānaṃ sampayogena paccayā
-paccayoti nāmā nāmānamīritā
+sampayuttapaccayoti nāmā nāmānamīritā
 
  icceko vattamāno ca pañcātītā yathārahaṃ
- ca  matā
+arūpānamarūpā ca paccayā chabbidhā matā
 
  pavatte cittajātānaṃ kammajānañca sandhiyaṃ
 rūpānaṃ sahajātānamarūpānañca tādinā
 
  hetubhūtā cha dhammāpi mūlaṭṭhenopakārakā
-paccayabhāvena paccayoti pakāsitā
+hetupaccayabhāvena paccayoti pakāsitā
 
  tathā nijjhāyanaṭṭhena tesamevopakārakā
-paccayanāmena jhānadhammā vibhāvitā
+jhānapaccayanāmena jhānadhammā vibhāvitā
 
  tatheva niyyānaṭṭhena paccayāti pakāsitā
-paccayanāmena maggaṅgā ca mahesinā
+maggapaccayanāmena maggaṅgā ca mahesinā
 
  tesameva ca dhammānaṃ sahajātāti cetanā
 kammabyāpārābhāvena vattamānā ca paccayā
@@ -607,25 +607,25 @@ kammabyāpārābhāvena vattamānā ca paccayā
 abhisaṅkhārabhāvena janakappaccayā matā
 
  iccevaṃ duvidhā bhedā vipphāraṭṭhena cetanā
-paccayanāmena paccayoti pakāsitā
+kammapaccayanāmena paccayoti pakāsitā
 
  rūpānaṃ sahajātānaṃ aññamaññamarūpinaṃ
-paccayā santabhāvena  samudīritā
+paccayā santabhāvena vipākā samudīritā
 
- ekotītopi cattāro vattamānāti 
-va mīritā
+ ekotītopi cattāro vattamānāti pañcadhā
+paccayā nāmadhammāva nāmarūpānamīritā
 
  imassa  rūpakāyassa pacchājātopakārako
-paccayoti 
+pacchājātapaccayoti nāmaṃ rūpānamekadhā
 
  sattaviññāṇadhātūnaṃ  cha vatthūni pavattiyaṃ
 pañcaviññāṇavīthiyā pañcālambā yathākkamaṃ
 
  purejātavisesena nāmānamupakārakā
-paccayoti 
+purejātapaccayoti rūpaṃ nāmassa cekadhā
 
  cittacetasikā dhammā yaṃ yamārabbha jāyare
-paccayoti sabbametaṃ pavuccati
+ālambaṇapaccayoti sabbametaṃ pavuccati
 
  yamālambaṃ garuṃ katvā nāmadhammā pavattare
 svāyamevālambaṇūpanissayoti pakāsito
@@ -640,66 +640,66 @@ sattasaṅkhāradhammā ca bahiddhopanisevitā
 pakatūpanissayoti paṭṭhapesi tathāgato
 
  iccevaṃ balavaṭṭhena nissayenopakārakā
-nāmena paccayoyaṃ tidhā mato
+upanissayanāmena paccayoyaṃ tidhā mato
 
  rūpārūpaṃ paniccevaṃ tekālikamakālikā
- mato
+paññatti ceva nāmānaṃ paccayo duvidho mato
 
  ālambādhippatibhūtaṃ nāmānaṃ garugocaraṃ
 sahajādhippatīdhammā sahajānaṃ yathārahaṃ
 
  nāmarūpānamiccevamādhippaccena paccayo
-paccayoti duvidhā paridīpito
+adhippatipaccayoti duvidhā paridīpito
 
  sahajā  nāmarūpānaṃ mahābhūtā ca rūpinaṃ
 paṭisandhikkhaṇe vatthu nāmānamiti sabbathā
 
  sahajātavisesena dhammānamupakārakā
-paccayoti tividhevaṃ vibhāvitā
+sahajātapaccayoti tividhevaṃ vibhāvitā
 
  arūpino  catukkhandhā mahābhūtā catubbidhā
 sandhiyaṃ vatthunāmāni sahajānīti sabbathā
 
  upakārapavattā ca aññamaññassa tādinā
-paccayoti vibhattā tividhā matā
+aññamaññapaccayoti vibhattā tividhā matā
 
  sattaviññāṇadhātūnaṃ bhūtopādāyarūpinaṃ
 sahajātanāmarūpadhammānañca yathākkamaṃ
 
  vatthu bhūtā catukkhandhā nissayenopakārakā
-ppaccayo nāma paccayoti mato tidhā
+nissayappaccayo nāma paccayoti mato tidhā
 
  kabaḷīkāro āhāro rūpakāyassa paccayo
 arūpino panāhārā sahajānaṃ yathārahaṃ
 
  nāmarūpānamiccevaṃ yāpanaṭṭhena paccayā
-paccayoteva duvidhevaṃ pakāsito
+āhārapaccayoteva duvidhevaṃ pakāsito
 
  pasādajīvitārūpindriyadhammā yathākkamaṃ
 pañcaviññāṇupādinnarūpānaṃ nāmarūpinaṃ
 
  sahajātānamiccevamissaraṭṭhena paccayā
-ppaccayoteva tividhā samudāhaṭo
+indriyappaccayoteva tividhā samudāhaṭo
 
  sattaviññāṇadhātūnaṃ cha vatthūni yathārahaṃ
 pacchājātā ca kāyassa cittacetasikā tathā
 
  arūpā sahajātānaṃ rūpānanti matā tidhā
-paccayoti vippayogopakārakā
+vippayuttapaccayoti vippayogopakārakā
 
  sahajātaṃ  purejātaṃ pacchājātañca sabbathā
 kabaḷīkāro āhāro rūpajīvitamiccayaṃ
 
-paccayasaṅkhāto paccayo pañcadhā mato
+atthipaccayasaṅkhāto paccayo pañcadhā mato
 vijjamānasabhāvena paccayaṭṭhā yathārahaṃ
 
  te evāvigatā hutvā vattamānopakārakā
-paccayoti sugatena vavatthitā
+avigatapaccayoti sugatena vavatthitā
 
  aṭṭhevaṃ  vattamānāni nāmarūpāni paccayā
-sabbatthādhippatī cāti 
+sabbatthādhippatī cāti navadhā nāmarūpinaṃ
 
- itthamuddiṭṭhaniddiṭṭhā saṅgahā
+ itthamuddiṭṭhaniddiṭṭhā paṭṭhānanayasaṅgahā
 kusalākusalādīhi suvibhattā mahesinā
 
  paññattināmarūpānaṃ vasena tividhā ṭhitā
@@ -735,7 +735,7 @@ saṅkhā samaññā paññatti vohāroti pakāsitā
  ālambaṇaṭṭhākārena santābhāvepi vatthuto
 cintāvohāranipphannā atthacchāyāva bhāsinī
 
-yamiti bhāsitā
+paññāpīyattāpaññatti nāmāyamiti bhāsitā
 upādāya ca paññatti sā evopanidhāya ca
 
  paññatti paññāpanato paṇḍitehi pakāsitā
@@ -750,7 +750,7 @@ paññāpenti tadā esā vijjamānanti vuccati
  itthaṃ paññattidhammañca sammatatthavisesato
 bhāvadhammañca rūpādisalakkhaṇavisesato
 
-yamiti bhāsitā
+paññāpetīti paññatti nāmāyamiti bhāsitā
 yā nāmaṃ nāmakammādināmena samudīritā
 
  sā evāvijjamānenavijjamānādibheditā

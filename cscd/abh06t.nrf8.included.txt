@@ -74,37 +74,37 @@ uddharitvāna tānettha dassetabbāni viññunā
 ālokanissayenāpi samanakkārahetunā
 
  paccayehi panetehi sametehi catūhipi
-jāyate  sampayuttehi taṃ saha
+jāyate cakkhuviññāṇaṃ sampayuttehi taṃ saha
 
  asambhedena sotassa saddāpāthagamena ca
 ākāsanissayenāpi samanakkārahetunā
 
  paccayehi panetehi sametehi catūhipi
-jāyate  sampayuttehi taṃ saha
+jāyate sotaviññāṇaṃ sampayuttehi taṃ saha
 
  asambhedena  ghānassa gandhāpāthagamena ca
 vāyosannissayenāpi samanakkārahetunā
 
  paccayehi panetehi sametehi catūhipi
-jāyate  sampayuttehi taṃ saha
+jāyate ghānaviññāṇaṃ sampayuttehi taṃ saha
 
  asambhedena jivhāya rasāpāthagamena ca
 āposannissayenāpi samanakkārahetunā
 
  paccayehi panetehi sametehi catūhipi
-jāyate  sampayuttehi taṃ saha
+jāyate jivhāviññāṇaṃ sampayuttehi taṃ saha
 
  asambhedena  kāyassa phoṭṭhabbāpāthasaṅgamā
 pathavīnissayenāpi samanakkārahetunā
 
  paccayehi panetehi sametehi catūhipi
-jāyate  sampayuttehi taṃ saha
+jāyate kāyaviññāṇaṃ sampayuttehi taṃ saha
 
  asambhedā manassāpi dhammāpāthagamena ca
 vatthusannissayenāpi samanakkārahetunā
 
  paccayehi  panetehi sametehi catūhipi
-mevaṃ tu sampayuttehi jāyate
+manoviññāṇamevaṃ tu sampayuttehi jāyate
 
  mano bhavaṅgacittanti veditabbaṃ vibhāvinā
 āvajjanakriyācittaṃ samanakkāroti saññitaṃ
@@ -157,7 +157,7 @@ hutvā vattanti te cāpi idaṃ nevānubandhati
  parittārammaṇattā ca ekantena panassa hi
 tathāparicitattā ca nānubandhati sabbadā
 
- kiṃ tena yuttivādena vuttaṃ  hi
+ kiṃ tena yuttivādena vuttaṃ aṭṭhakathāsu hi
 tadārammaṇacittāni ekādasapi sabbaso
 
  nāmagottaṃ panārabbha javane javitepi ca
@@ -193,7 +193,7 @@ taṃ ve karaṇamattattā vātapupphasamaṃ mataṃ
  javanattaṃ tu sampattaṃ kiccasādhanato pana
 chinnamūlassa rukkhassa pupphaṃva aphalaṃ siyā
 
- paṭicca pana etasmā phalametīti 
+ paṭicca pana etasmā phalametīti paccayo
 yo dhammo yassa dhammassa ṭhitiyuppattiyāpi vā
 
  upakāro hi so tassa paccayoti pavuccati

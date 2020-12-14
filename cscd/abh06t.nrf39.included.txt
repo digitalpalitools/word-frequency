@@ -5,7 +5,7 @@
 saccānaṃ paṭivedhādiṃ pavakkhāmi yathākkamaṃ
 
  pariññā ca pahānañca sacchikiriyā ca bhāvanā
-iti dukkhādisaccesu māhu catubbidhaṃ
+iti dukkhādisaccesu kiccamāhu catubbidhaṃ
 
  taṃ sabbaṃ maggakālamhi karissati tato paraṃ
 paṭipassaddhakiccattā kataṃ hoti phale kathaṃ
@@ -25,7 +25,7 @@ vattamānena taṃ kiccaṃ nipphāditamasesato
  iti tīṇipi saccāni kiccato paṭivijjhati
 nibbānaṃ sacchikubbanto maggo ekakkhaṇe saha
 
- kiccappavattito cettha ti vuccati
+ kiccappavattito cettha paṭivedhoti vuccati
 tañca sādheti maggoyaṃ niyyanto santigocaro
 
  pariccajitvā saṅkhāre maggassārabbha nibbutiṃ
@@ -65,7 +65,7 @@ sacchikatvāna nibbānaṃ majjhe cha kāyasakkhino
 vimutto ubhatobhāgavimutto arahā bhave
 
  tivimokkhamukhībhūtā iti vuṭṭhānasādhikā
- sampādeti vipassanā
+sattapuggalabhedañca sampādeti vipassanā
 
  adhimuccati  saddhā ca yathāvatthusabhāvato
 ñeyyadhammesu sabbattha paññā ca paṭivijjhati
@@ -91,19 +91,19 @@ dhurasaṃsandanaṃ nāma vuṭṭhānesu vibhāvayuṃ
  sattakkhattuparamo ca
 kolaṃkolo tathāparo
 ekabījīti tividho
- pavuccati
+sotāpanno pavuccati
 
  sakiṃdeva imaṃ lokaṃ āgantvā puna puggalo
-nāmena dutiyopi pakāsito
+sakadāgāmināmena dutiyopi pakāsito
 
  antarāparinibbāyī  upahaccāparo tathā
 asaṅkhāraṃ sasaṅkhāraṃ uddhaṃsototi pañcadhā
 
- ca tatiyo catuttho ti ca
-itthaṃ phalaṭṭhā cattāro  ca tatopare
+anāgāmī ca tatiyo catuttho arahāti ca
+itthaṃ phalaṭṭhā cattāro maggaṭṭhā ca tatopare
 
  bhāvanāpariyāyena  paṭivedhānurūpato
-cattāro ca yugā honti 
+cattāro ca yugā honti aṭṭha cāriyapuggalā
 
  diṭṭhikaṅkhā pahīyanti ādimaggena sabbathā
 apāyagamanīyampi pāpamaññaṃ pahīyati
@@ -112,22 +112,22 @@ apāyagamanīyampi pāpamaññaṃ pahīyati
 anāgāmikamaggena kāmadosāva sabbathā
 
  arahattena sabbepi klesā khīyanti sabbathā
- yathāyogamiti ñeyyā vibhāvinā
+klesahāni yathāyogamiti ñeyyā vibhāvinā
 
- atthe dhamme niruttiyaṃ
+paṭisambhidā catasso atthe dhamme niruttiyaṃ
 paṭibhāne ca bhāsanti ñāṇaṃ bhedagataṃ budhā
 
  hetupphalañca nibbānaṃ bhāsitattho tathāparo
-pākākriyāti pañcete nāmena bhāsitā
+pākākriyāti pañcete atthanāmena bhāsitā
 
  hetu cāriyamaggo ca bhāsitañca tathāparaṃ
-kusalākusalañceti pañca  pakāsito
+kusalākusalañceti pañca dhammo pakāsito
 
  tatthevaṃ dasadhā bhede atthadhamme yathārahaṃ
-yo vohāro sabhāvena sā ti sammatā
+yo vohāro sabhāvena sā niruttīti sammatā
 
  taṃtaṃgocarakiccādibhedabhinnaṃ tahiṃ tahiṃ
-pavattamānaṃ yaṃ ñāṇaṃ  tamīritaṃ
+pavattamānaṃ yaṃ ñāṇaṃ paṭibhānaṃ tamīritaṃ
 
  pubbayogo bāhussaccaṃ
 desabhāsā tathāgamo
@@ -140,7 +140,7 @@ asekkhabhūmiyaṃ vātha sekkhabhūmiyameva vā
  sarassato  āgamato tathālambaṇatopi ca
 nāmuppattiṃ pakāsenti phalassa tividhaṃ budhā
 
- tidhā tato  sotāpattiphalādikā
+ tidhā tato samāpatti sotāpattiphalādikā
 suññatā cānimittā ca tathāppaṇihitāti ca
 
  tañca vuttanayeneva samāpajjitumicchato
@@ -159,7 +159,7 @@ yāvākiñcaññāyatanamitthaṃ patvā tato paraṃ
 maggārūpasamāpattiṃ samāpajjati paṇḍito
 
  tato nirodhaṃ phusati cittuppādadvayā paraṃ
-tassevaṃ manasābhāvo ti pavuccati
+tassevaṃ manasābhāvo nirodhoti pavuccati
 
  phalacittasamuppādā vuṭṭhānaṃ tassa dīpitaṃ
 tato bhavaṅgaṃ chetvāna paccavekkhati buddhimā
@@ -182,7 +182,7 @@ lokassa hontuttamadakkhiṇeyyā
 
 
  ettāvatā paṭiññāto pavakkhāmīti ādito
- pariniṭṭhāpito mayā
+nāmarūpaparicchedo pariniṭṭhāpito mayā
 
  teraseva paricchedā vibhattā satta sādhikā
 nāmarūpaparicchede bhāṇavārā pakāsitā

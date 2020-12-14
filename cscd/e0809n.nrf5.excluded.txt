@@ -5,82 +5,82 @@
 ,.
 1137.
 ,’;
-Vajjane,.
+,.
 1138.
-’,tisaye’;
+’,’;
 ’,’.
 1139.
-Avhāne,
+,
 ’;
 ,.
 1140.
 ’’,;
-’kaṃse,.
+’,.
 1141.
 ,;
-’,paricchedatthavācakā.
+’,.
 1142.
 ’,;
 ’,,.
 1143.
-Evampi,’;
-Paṭibhāgatthe,’.
+,’;
+,’.
 1144.
 ,’;
-,’sampaṭicchane.
+,’.
 1145.
 ,
 ’;
-cana ci,mudhā.
+,.
 1146.
 ’,;
 ,.
 1147.
-Nisedhe’,;
-saddha,
-rattaṃ (ṭī.)divā’.
+’,;
+,
+rattaṃ (ṭī.)’.
 1148.
-appe, sahasā;
-ggatopurato, peccā’mutra.
+,;
+,’.
 1149.
-Aho  hītuṇhī,
+,
 ’;
-,pasayha.
+,.
 1150.
-vo (ka.),’padapūraṇe;
-’,vassaṃ nūna.
+vo (ka.),’;
+’,.
 1151.
-sadiṭṭhā,nanu;
-kacci,’tthu.
+,;
+,’.
 1152.
-Evā’,;
-Nīcaṃ,’ccaṃ,.
+’,;
+,’,.
 1153.
-sadā sanaṃsanā (ka.)pāyo,
+sanā (ka.),
 ;
-,saṇikaṃ.
+,.
 1154.
-Atthaṃduṭṭhu,,namo;
-Sammā suṭṭhu,matthi.
+,,;
+,.
 1155.
-Sāyaṃ’jja’,
-Suvesve;
-parasuve, hiyyo.
+’’,
+;
+,.
 1156.
 ,;
 ,.
 1157.
-iṅgha handā’,;
+’,;
 ,’.
 1158.
-Saṃsayatthamhi,’;
-Nidassane’,,kathañci.
+,’;
+’,,.
 1159.
-Hāsacchi,
-Dhuvaṃ’;
-,duṭṭhu ku’.
+,
+’;
+,’.
 1160.
-Suvatthi,dhīdhi (ka.);
+,dhi (ka.);
 ,.
 1161.
 ’’’,
@@ -92,9 +92,9 @@ Suvatthi,dhīdhi (ka.);
 1163.
 ,,,;
 ,’,’;
-Po’,,.
+’,,.
 1164.
-Parā,;
+,;
 ,’.
 1165.
 ’,;
@@ -103,17 +103,17 @@ Parā,;
 ’,’;
 ,’.
 1167.
-,ni;
-,nī.
+,;
+,.
 1168.
 ,;
 ’,;
-’,u.
+’,.
 1169.
-Du’,’;
+’,’;
 ’’,’.
 1170.
-Saṃ,;
+,;
 ,;
 ,.
 1171.
@@ -121,102 +121,102 @@ Saṃ,;
 ,.
 1172.
 ’,’;
-,vi.
+,.
 1173.
 ’,bhāga’nicchaya (bhāga+anicchaya-ṭī);
 ,;
-,ava.
+,.
 1174.
 ,’;
 ’,’;
-’,anu.
+’,.
 1175.
 ,’;
 ,’;
-,pari.
+,.
 1176.
 ’,;
-’’,’bhi.
+’’,’.
 1177.
-’,’,,’dhi;
+’,’,,’;
 ’,.
 1178.
 ,’;
 ,.
 1179.
 ,;
-,patī;
-Su,.
+,;
+,.
 1180.
 ,’,’;
-’’,’ā.
+’’,’.
 1181.
 ’,’;
 ’,’.
 1182.
 ’,’;
-,ati.
+,.
 1183.
 ,;
-,apī’.
+,’.
 1184.
 ,;
-,’apa.
+,’.
 1185.
 ,’;
 ’’,;
-’,upe’upetya=upa+iti’’.
+’,’upetya=upa+iti’’.
 1186.
-Evaṃ’,;
+’,;
 ,’;
 ’,.
 1187.
 ,’;
-,ca.
+,.
 1188.
-Iti,’;
+,’;
 ,.
 1189.
 ’,;
-,vā’.
+,’.
 1190.
-’laṃ,;
-Atho’thā’’,.
+’,;
+’’’,.
 1191.
-,svīkāra (ṭī.)nāma;
-’,nūna.
+,svīkāra (ṭī.);
+’,.
 1192.
-’’,’santanālapane (ka.)nanu;
-Vate’,,,’,.
+’’,’santanālapane (ka.);
+’,,,’,.
 1193.
-,,handa’;
-Yāvatāva,’’.
+,,’;
+,’’.
 1194.
-,,,puratthā;
-,purā.
+,,,;
+,.
 1195.
 ,;
-Khalvā’abhito-
+’-
 ’.
 1196.
-Kāmaṃ,;
-pana,.
+,;
+,.
 1197.
-Hi’,;
-Tu’,ku’’.
+’,;
+’,’’.
 1198.
-Nu,nānā’;
-Kiṃ,kaṃ.
+,’;
+,.
 1199.
-Amā,puna;
-Kirā’’,udā’.
+,;
+’’,’.
 1200.
-pacchā, sāmi;
-pātu,
-mitho.
+,;
+,
+.
 1201.
-Hā,’haha;
-hiṃsāpane (ṭī.)dhīdhi (ka.),tiro.
+,’;
+hiṃsāpane (ṭī.)dhi (ka.),.
 1202.
 ,,;
 ,.
@@ -227,9 +227,9 @@ hiṃsāpane (ṭī.)dhīdhi (ka.),tiro.
 Iti abyayavaggo.
 Sāmaññakaṇḍo tatiyo.
 Abhidhānappadīpikā samattā.
-Nigamana
+
 1.
-Saggakaṇḍobhūkaṇḍo,sāmaññakaṇḍi;
+,;
 ,.
 2.
 ,
@@ -237,7 +237,7 @@ Saggakaṇḍobhūkaṇḍo,sāmaññakaṇḍi;
 ,
 .
 3.
-Parakkamabhujo,;
+,;
 ,.
 4.
 -
@@ -254,8 +254,8 @@ Parakkamabhujo,;
 ,;
 ’,.
 8.
-Mahājetavanā’,;
+’,;
 ,.
 9.
-,moggallānena;
-,abhidhānappadīpikā.
+,;
+,.

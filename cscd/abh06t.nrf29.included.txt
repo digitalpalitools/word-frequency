@@ -8,28 +8,28 @@ sabhāvatthavisesehi pavakkhāmi ito paraṃ
 saṅgahetvā sabhāgehi dhamme dassesi cakkhumā
 
  diṭṭhibhinivesaṭṭhena yathābhūtasabhāvato
-paramāmasaticcekā ti bhāsitā
+paramāmasaticcekā parāmāsoti bhāsitā
 
  kilesāsucibhāvena vaṇassāvaraso viya
 ālimpantāva santānaṃ savantīti pakāsitā
 
- kāmataṇhā bhavataṇhā diṭṭhāvijjāti 
+ kāmataṇhā bhavataṇhā diṭṭhāvijjāti āsavā
 cattāro āsavaṭṭhena tayo dhammā sabhāvato
 
- etevo ti vuttāva dvārālambābhivāhino
+ etevo ghāti vuttāva dvārālambābhivāhino
 ottharitvā parābhūte harantā pāṇino bhave
 
-ti  cāhu te eva pāṇino bhavayantake
+yogāti  cāhu te eva pāṇino bhavayantake
 dvārālambābhisambandhā yantabandhāva yojitā
 
  santānamadhigaṇhantā māluvāva mahātaruṃ
 gaṇhantā daḷhamālambaṃ maṇḍūkamiva pannago
 
- kāmataṇhā ca diṭṭhi ca  catubbidhā
+ kāmataṇhā ca diṭṭhi ca upādānā catubbidhā
 diṭṭhi diṭṭhisīlabbatamattavādoti bheditā
 
  kāyena kāyaṃ ganthentā duppamuñcānuveṭhino
-kathitā ti taṇhābyāpādadiṭṭhiyo
+kathitā kāyaganthāti taṇhābyāpādadiṭṭhiyo
 
  sīlabbataparāmāso iti diṭṭhi vibheditā
 idaṃsaccābhiniveso iti cevaṃ catubbidhā
@@ -38,16 +38,16 @@ idaṃsaccābhiniveso iti cevaṃ catubbidhā
 santānamaṇḍakosāva pariyonandhakāti ca
 
  kāmacchando ca byāpādo thinamiddhañca saṃsayo
-avijjuddhaccakukkuccamiti  matā
+avijjuddhaccakukkuccamiti nīvaraṇā matā
 
  āgāḷhaṃ pariyādāya ogayhanuppavattino
 yopparogāva santānamanusentīti bhāsitā
 
  kāmarāgo bhavarāgo paṭigho mānadiṭṭhiyo
-kaṅkhāvijjāti satteva cha dhammā matā
+kaṅkhāvijjāti satteva cha dhammānusayā matā
 
  dvārālambaṇabandhena pāṇīnaṃ bhavamaṇḍale
- vuttāni pāsabandhāva pakkhinaṃ
+saṃyojanāni vuttāni pāsabandhāva pakkhinaṃ
 
  kāmarūpārūparāgā paṭigho mohasaṃsayo
 diṭṭhi sīlabbataṃ māno uddhaccena dasā bhave
@@ -56,7 +56,7 @@ diṭṭhi sīlabbataṃ māno uddhaccena dasā bhave
 bhavarāgissa maccheraṃ gahetvā dasadhā siyuṃ
 
  saṃklepayanti  santānaṃ upaghātenti pāṇino
-sahajāteklesentīti ti pakāsitā
+sahajāteklesentīti kilesāti pakāsitā
 
  lobho doso ca moho ca
 diṭṭhi māno ca saṃsayo
@@ -70,7 +70,7 @@ sattasaṅgahitāvijjā paṭigho pañcasaṅgaho
 dukasaṅgahitaṃ thīnaṃ kukkuccamekasaṅgahaṃ
 
  dvidhāhirikanottappamissāmacchariyaṃ tathā
-iccevaṃ dasadhā vuttā 
+iccevaṃ dasadhā vuttā pāpakesveva saṅgahā
 
  parāmāsāsavoghā ca yogupādānaganthato
 nīvāraṇānusayato saṃyojanakilesato
@@ -90,19 +90,19 @@ alobhādosāmoho ca
 kusalābyākatā tathā
 
  pādapasseva  mūlāni thirabhāvāya paccayā
-mūlabhāvena dhammānaṃ  dhammā cha dīpitā
+mūlabhāvena dhammānaṃ hetū dhammā cha dīpitā
 
  vitakko  ca vicāro ca pīti cekaggatā tathā
 somanassaṃ domanassaṃ upekkhāti ca vedanā
 
  āhaccupanijjhāyantā nijjhānaṭṭhena paccayā
-ti satthāha pañca vatthusabhāvato
+jhānadhammāti satthāha pañca vatthusabhāvato
 
  sammādiṭṭhi ca saṅkappo vāyāmo viratittayaṃ
 sammāsati samādhī ca micchādiṭṭhi ca sambhavā
 
  sammāmicchā ca nīyantā niyyānaṭṭhena paccayā
- dvādasakkhātā nava dhammā sabhāvato
+maggaṅgā dvādasakkhātā nava dhammā sabhāvato
 
  attabhāvaṃ pavattentā ojaṭṭhamakavedanaṃ
 paṭisandhināmarūpamāharantā yathākkamaṃ
@@ -110,7 +110,7 @@ paṭisandhināmarūpamāharantā yathākkamaṃ
  kabaḷīkāro āhāro
 phasso sañcetanā tathā
 viññāṇamiti cattāro
-ti pakāsitā
+āhārāti pakāsitā
 
  dhammānaṃ sahajātānaṃ indriyaṭṭhena paccayā
 attānamissaraṭṭhena anuvattāpakā tathā
@@ -122,13 +122,13 @@ vedanā jīvitaṃ cittaṃ aṭṭha rūpindriyāni ca
 somanassaṃ domanassaṃ upekkhāti ca bheditā
 
  paññādimaggenaññātaññassāmītindriyaṃ bhave
-majjhe aññindriya aññātāvindriyaṃ tathā
+majjhe aññindriyamante aññātāvindriyaṃ tathā
 
  soḷaseva  sabhāvena indriyaṭṭhavibhāgato
-ti vuttāni bāvīsati vibhāvaye
+indriyānīti vuttāni bāvīsati vibhāvaye
 
  daḷhādhiṭṭhitasantānā  vipakkhehi akampiyā
-balavantasabhāvena  pakāsitā
+balavantasabhāvena baladhammā pakāsitā
 
  saddhā sati hirottappaṃ vīriyekaggatā tathā
 paññāhirikānottappamiccevaṃ navadhā matā
@@ -136,7 +136,7 @@ paññāhirikānottappamiccevaṃ navadhā matā
  jeṭṭhā pubbaṅgamaṭṭhena puññāpuññapavattiyaṃ
 paccayādhippateyyena sahajānaṃ yathārahaṃ
 
- cattāro vuttā ādhippaccasabhāvato
+ cattārodhipatī vuttā ādhippaccasabhāvato
 chando cittañca vīriyaṃ vīmaṃsāti ca tādinā
 
  pañcasaṅgahitā paññā vāyāmekaggatā pana
@@ -144,7 +144,7 @@ catusaṅgahitā cittaṃ sati ceva tisaṅgahā
 
  saṅkappo vedanā saddhā dukasaṅgahitā matā
 ekekasaṅgahā sesā aṭṭhavīsati bhāsitā
-iccevaṃ sattadhā bhedo vutto 
+iccevaṃ sattadhā bhedo vutto missakasaṅgaho
 
  hetujhānaṅgamaggaṅgā āhārindriyato tathā
 balādhippatito ceva puññāpuññādimissatā
@@ -225,31 +225,31 @@ tato ñeyyā visuddhā ca bodhipakkhiyasaṅgahā
 asubhaṃ dukkhamaniccamanattāti supaṭṭhitā
 
  sammāsati paniccekā kiccagocarabhedato
-nāmena cattāroti pakāsitā
+satipaṭṭhānanāmena cattāroti pakāsitā
 
  uppannānuppannapāpapahānānuppādanāya ca
 anuppannuppannehi vā nibbattiabhivuddhiyā
 
  padahantassa  vāyāmo kiccābhogavibhāgato
-nāmena cattāroti pakāsitā
+sammappadhānanāmena cattāroti pakāsitā
 
- iddhiyā pādabhūtattā ti bhāsitā
+ iddhiyā pādabhūtattā iddhipādāti bhāsitā
 chando cittañca vīriyaṃ vīmaṃsāti catubbidhā
 
  pañca saddhā sati paññā vīriyekaggatā tathā
-ndriyaṭṭhena balaṭṭhena  ca
+indriyānindriyaṭṭhena balaṭṭhena balāni ca
 
  sati dhammavicayo ca tathā vīriyapītiyo
 passaddhekaggatāpekkhā bujjhantassaṅgabhāvato
 
-ti  visesena satta dhammā pakāsitā
-niyyānaṭṭhena  sammādiṭṭhādiaṭṭhadhā
+bojjhaṅgāti  visesena satta dhammā pakāsitā
+niyyānaṭṭhena maggaṅgā sammādiṭṭhādiaṭṭhadhā
 
  chasaṅgahettha vāyāmo satipaññā samīritā
 pañcasaṅgahitā nāma samādhi catusaṅgaho
 
  saddhā dusaṅgahā vuttā sesā ekekasaṅgahā
-iccevaṃ sattadhā bhedo 
+iccevaṃ sattadhā bhedo bodhipakkhiyasaṅgaho
 
  satipaṭṭhānasammappadhānato iddhipādato
 indriyabalabojjhaṅgā maggabhedā ca bhāsitā

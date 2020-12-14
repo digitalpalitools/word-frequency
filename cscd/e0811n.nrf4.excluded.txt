@@ -12,16 +12,16 @@ Bhāvaadhippāya
 Ṭhāyībhāvaadhippāya
 341.
 ’,;
-’,‘ṭhāyībhāvo’.
+’,‘’.
 Ṭhāyībhāvappabhedauddesa
 342.
 ,,,,
 ,,,;
-,,,ṭhāyino.
+,,,.
 Byabhicārībhāvaadhippāya
 343.
 ,’,’;
-,byabhicārino.
+,.
 Byabhicāribhāvapabheda
 344.
 ,,,,
@@ -31,11 +31,11 @@ Byabhicāribhāvapabheda
 ,,,,,
 ,,,,
 ,,,,
-sacapalā (ka.),,tettiṃsa.
+sacapalā (ka.),,.
 Sattikabhāvaadhippāya
 345.
-’’,sattaṃsatvaṃ (ka.)’;
-Sattikāsātvikā (ka.)’,bhāvā.
+’’,satvaṃ (ka.)’;
+sātvikā (ka.)’,.
 Sattikabhāvappabheda
 346.
 ,,,,,;
@@ -44,9 +44,9 @@ Sattikabhāvappabheda
 ,;
 ,.
 348.
-Vibhāvo,’;
+,’;
 ,
-Anubhāvo’.
+’.
 349.
 ,;
 ’,.
@@ -59,7 +59,7 @@ Anubhāvo’.
 Rasaadhippāya
 352.
 ,’;
-,raso’’.
+,’’.
 Rasappabheda
 353.
 ,,,;
@@ -69,15 +69,15 @@ Rasappabheda
 ,,,,.
 355.
 ’’,?
-Siyā sotūnamānando,
-Soko vessantarassa hi.
+,
+.
 Ṭhāyībhāva niddesa ratiṭṭhāyībhāva
 356.
 ,,,,,;
-’,rati.
+’,.
 357.
 ,;
-’,,tidhā.
+’,,.
 Hassaṭṭhāyībhāva
 358.
 ’,;
@@ -86,44 +86,44 @@ Hassaṭṭhāyībhāva
 Hassappabheda
 359.
 ,
-’hasitaṃ;
-vihasitaṃ,mupahasitaṃ.
+’;
+,.
 360.
-Apahasitaṃ’,’tihasitaṃ;
+’,’;
 ’,
 majjhe’dhameti ettha majjhe adhameti padacchedo’.
 Karuṇaṭṭhāyībhāva
 361.
-karuṇo,’;
-’nubhāvā,,;
-,,,’byabhicārino.
+,’;
+’,,;
+,,,’.
 Ruddaṭṭhāyībhāva
 362.
 ’,,;
-’,ruddo.
+’,.
 Vīraṭṭhāyībhāva
 363.
-,’,‘vīro’;
-,,,’tividho;
-’nubhāvā,,’byabhicārino.
+,’,‘’;
+,,,’;
+’,,’.
 Bhayaṭṭhāyībhāva
 364.
-,,’,’bhayānako;
-’nubhāve’,’byabhicārino.
+,,’,’;
+’’,’.
 Jigucchāṭṭhāyībhāva
 365.
 ’,’;
-Bībhaccho’,;
+’,;
 ,’.
 Vimhayaṭṭhāyībhāva
 366.
-,’’bbhuto;
-’nubhāvā,,’;
-,,,,’byabhicārino.
+,’’;
+’,,’;
+,,,,’.
 Samaṭṭhāyībhāva
 367.
 ,,’;
-’,santo.
+’,.
 Iti saṅgharakkhita mahāsāmiviracite subodhālaṅkāre
 Rasabhāvā’vabodho nāma
 Pañcamo paricchedo.

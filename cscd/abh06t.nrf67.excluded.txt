@@ -37,15 +37,15 @@
 ,.
 1030.
 ,;
-,sotāpanno.
+,.
 1031.
-,sakadāgāmi;
+,;
 ,.
 1032.
-,anāgāmī;
+,;
 ,.
 1033.
-,arahā;
+,;
 ,.
 1034.
 ,;
@@ -81,7 +81,7 @@
 ,.
 1044.
 ,;
-Ñāṇadassanavisuddhi,.
+,.
 1045.
 ,;
 ,.
@@ -93,16 +93,16 @@
 ,.
 1048.
 ,;
-sotāpatti-maggo.
+-.
 1049.
 ,;
-sakadāgāmi-maggo.
+-.
 1050.
-anāgāmi-maggo;
+-;
 ,.
 1051.
 -;
-Aggamaggo,.
+,.
 1052.
 ,;
 ,.
@@ -132,7 +132,7 @@ Aggamaggo,.
 ,.
 1061.
 ,;
-,‘‘nibbāna’’.
+,‘‘’’.
 Iti nibbānavibhāge vuṭṭhānavisuddhikathā niṭṭhitā.
 Chabbīsatimo paricchedo.
 Niṭṭhito ca sabbathāpi nibbānavibhāgo.

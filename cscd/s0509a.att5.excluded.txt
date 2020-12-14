@@ -1,6 +1,6 @@
 ﻿6. Chakkanipāto
 1. Pañcasatamattātherīgāthāvaṇṇanā
-yassa maggaṃ na jānāsī.,.–
+.,.–
 127.
 ‘‘,;
 ,.
@@ -15,7 +15,7 @@ yassa maggaṃ na jānāsī.,.–
 ‘‘,;
 ,’’.–
 .
-..‘‘yassa maggaṃ na jānāsī’’–
+..‘‘’’–
 131.
 ‘‘,;
 ,.
@@ -23,15 +23,15 @@ yassa maggaṃ na jānāsī.,.–
 ‘‘,;
 ,’’.–
 .
-yassa maggaṃ na jānāsi, āgatassa gatassa vā..Taṃ kuto cāgataṃ satta..
-Maggañca khossa jānāsī.Na naṃ samanusocesī.?Evaṃdhammā hi pāṇino,,.
-Ayācito tatāgacchī.‘‘’’,.Nānuññāto ito gato.Kutocī.Nūnā.Vasitvā katipāhaka.Itopi aññena gato,.Tatopaññena gacchatī,.
-Peto.Manussarūpenā,.Saṃsaranto.Yathāgato tathā gato.Kā tattha paridevanā,..
+,....
+..?,,.
+.‘‘’’,.....,.,.
+.,...,..
 ..
-Pañcasatā paṭācārā‘‘’’.
+‘‘’’.
 Pañcasatamattātherīgāthāvaṇṇanā niṭṭhitā.
 2. Vāseṭṭhītherīgāthāvaṇṇanā
-Puttasokenahaṃ aṭṭā.....–
+.....–
 133.
 ‘‘,;
 ,.
@@ -51,19 +51,19 @@ Puttasokenahaṃ aṭṭā.....–
 ‘‘,;
 ,’’.–
 .
-aṭṭā.,.Khittacittā.visaññinī.naggā.pakiṇṇakesī. Tena tenā.
-Athā.Sugata.Mithilaṃ patī,.
-Sacittaṃ paṭiladdhānā.
-Yuñjantī satthuvacane.Sacchākāsiṃ padaṃ siva.
-Etadantikā,..Yato sokāna sambhavo,..
+.,......
+..,.
+.
+..
+,..,..
 Vāseṭṭhītherīgāthāvaṇṇanā niṭṭhitā.
 3. Khemātherīgāthāvaṇṇanā
-Daharā tvaṃ rūpavatī..‘‘’’,,,.
-,,..Khemā,..‘‘’’.
+..‘‘’’,,,.
+,,..,..‘‘’’.
 .‘‘’’.‘‘’’–‘‘’’....–‘‘,,’’..–‘‘,’’.–
 ‘‘,;
 ,’’.–
-..‘‘’’.apadānapāḷi(apa. therī 2.2.289-383)–
+..‘‘’’.(apa. therī 2.2.289-383)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -270,10 +270,10 @@ Daharā tvaṃ rūpavatī..‘‘’’,,,.
 144.
 ‘‘,;
 ,’’.–;
-aggiṃ paricaraṃ vane.Yathābhuccamajānantā..
+...
 Khemātherīgāthāvaṇṇanā niṭṭhitā.
 4. Sujātātherīgāthāvaṇṇanā
-Alaṅkatā suvasanā....,.–
+....,.–
 145.
 ‘‘,;
 ,.
@@ -293,14 +293,14 @@ Alaṅkatā suvasanā....,.–
 ‘‘,;
 ,’’.–
 .
-alaṅkatā.‘‘suvasanā mālinī candanokkhitā’’.mālinī.Candanokkhitā.Sabbābharaṇasañchannā.
-Annaṃpānañca ādāya, khajjaṃ bhojjaṃ anappaka,,,.Uyyānamabhihārayi..
-Sākete añjanaṃ vana.
-Lokapajjota.
-Phusayi,..
+.‘‘’’....
+,,,,...
+.
+.
+,..
 Sujātātherīgāthāvaṇṇanā niṭṭhitā.
 5. Anopamātherīgāthāvaṇṇanā
-Ucce kule..anopamā.–‘‘,’’.‘‘’’.–
+...–‘‘,’’.‘‘’’.–
 151.
 ‘‘,;
 ,.
@@ -320,15 +320,15 @@ Ucce kule..anopamā.–‘‘,’’.‘‘’’.–
 ‘‘,;
 ,’’.–
 .
-ucce kule.Bahuvitte.Mahaddhane.Vaṇṇarūpena sampannā,.Dhītā majjhassa atrajā.
-Patthitā rājaputtehī‘‘’’.Seṭṭhiputtehi gijjhitā.Detha mayhaṃ anopama‘‘’’.
-Yattakaṃ tulitā esā‘‘’’,‘‘’’..
+...,..
+‘‘’’..‘‘’’.
+‘‘’’,‘‘’’..
 Anopamātherīgāthāvaṇṇanā niṭṭhitā.
 6. Mahāpajāpatigotamītherīgāthāvaṇṇanā
-Buddhavīra namo tyatthū.,,.,,,,.,.....
-.,..,gotamī;.‘‘’’..
-.kalahavivādasuttanta(su. ni. 868 ādayo)(a. ni. 8.51; cūḷava. 403)..,.
-...nandakovāda(ma. ni. 3.398 ādayo)..–
+.,,.,,,,.,.....
+.,..,;.‘‘’’..
+.(su. ni. 868 ādayo)(a. ni. 8.51; cūḷava. 403)..,.
+...(ma. ni. 3.398 ādayo)..–
 157.
 ‘‘,;
 ,.
@@ -347,12 +347,12 @@ Buddhavīra namo tyatthū.,,.,,,,.,.....
 162.
 ‘‘,;
 ,’’.–;
-buddhavīrā,..Namo tyatthū.Sabbasattānamuttamā.,‘‘yo maṃ dukkhā pamocesi, aññañca bahukaṃ jana’’‘‘sabbadukkha’’.
-,‘‘mātā putto’’.yathābhuccamajānantī.Saṃsariṃhaṃ anibbisa‘‘mātā putto’’.,,.
-‘‘Diṭṭhohi me’’.diṭṭho hi me so bhagavā.,.–‘‘,,,’’(saṃ. ni. 3.87).
-Āraddhavīriye.Pahitatte.Niccaṃ daḷhaparakkame.Samagge.sāvake,‘‘’’.Esā buddhāna vandanā,.
-‘‘Bahūnaṃ vata atthāyā’’.,.
-–‘‘’’.,.apadāne(apa. therī 2.2.97-288)–
+,....,‘‘,’’‘‘’’.
+,‘‘’’..‘‘’’.,,.
+‘‘’’..,.–‘‘,,,’’(saṃ. ni. 3.87).
+....,‘‘’’.,.
+‘‘’’.,.
+–‘‘’’.,.(apa. therī 2.2.97-288)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -739,7 +739,7 @@ buddhavīrā,..Namo tyatthū.Sabbasattānamuttamā.,‘‘yo maṃ dukkhā pamoc
 ,’’.(apa. therī 2.2.97-288);
 Mahāpajāpatigotamītherīgāthāvaṇṇanā niṭṭhitā.
 7. Guttātherīgāthāvaṇṇanā
-Gutte yadatthaṃ pabbajjā.,,guttā..,.,–
+.,,..,.,–
 163.
 ‘‘,;
 ,.
@@ -758,15 +758,15 @@ Gutte yadatthaṃ pabbajjā.,,guttā..,.,–
 168.
 ‘‘,;
 ,’’.–;
-tameva anubrūhehīyadatthaṃ.Hitvā puttaṃ vasuṃ piyapabbajjā,.Mā cittassa vasaṃ gamī.
-,.‘‘cittena vañcitā’’.
-Saṃyojanānietānī‘‘kāmacchandañca byāpāda’’.Pajahitvānā.Bhikkhunī.Orambhāgamanīyānī.-.‘‘’’,.Nayidaṃ punarehisī.-.‘‘’’,.
-Rāga.Māna.Avijjañca uddhaccañcā.Vivajjiyā.Saṃyojanāni chetvānā.Dukkhassantaṃ karissasī.
-Khepetvā jātisaṃsāra.Nicchātā.Upasantā..
+.,..
+,.‘‘’’.
+‘‘’’....-.‘‘’’,..-.‘‘’’,.
+......
+....
 ..
 Guttātherīgāthāvaṇṇanā niṭṭhitā.
 8. Vijayātherīgāthāvaṇṇanā
-Catukkhattu.,,.‘‘’’.,...,–
+.,,.‘‘’’.,...,–
 169.
 ‘‘,;
 ,.
@@ -786,8 +786,8 @@ Catukkhattu.,,.‘‘’’.,...,–
 ‘‘,;
 ,’’.–
 .
-bhikkhuni.
-Bojjhaṅgaṭṭhaṅgikaṃ magga.Uttamatthassa pattiyā.
-Pītisukhenā.Kāya.Pharitvā.Sattamiyā pāde pasāresi.?Tamokhandhaṃ padāliya,..
+.
+..
+....?,..
 Vijayātherīgāthāvaṇṇanā niṭṭhitā.
 Chakkanipātavaṇṇanā niṭṭhitā.

@@ -38,7 +38,7 @@ nāko (sī.),
 ’,devatā eva devatāni, sakatthe nipaccayo (ṭīkā);
 13.
 ,;
-’,devayoniyo.
+’,.
 14.
 ,;
 ,.
@@ -58,45 +58,45 @@ harī (ṭīkā),’;
 ,’.
 20.
 ,;
-sujāsujātā’ssa (ṭīkā),.
+sujātā’ssa (ṭīkā),.
 21.
 masakkasāro (sī.),’;
-Vejayanto,
-Sudhammā.
+,
+.
 22.
-Vejayanto,
-mātali;
-Erāvaṇopaṇḍu, kambalo.
+,
+;
+,.
 23.
-Suvīro,nandā;
-,vanā.
+,;
+,.
 24.
 ,;
 ,;
-,pañcasikho.
+,.
 25.
 ,;
 ,.
 26.
 ,;
-,kulācalā.
+,.
 27.
 ’,;
 28.
 ,;
-,devaddumā.
+,.
 29.
 ’’,;
 ’,’.
 30.
 erāvaṇo (sī.), amarakose pana erāvato eva atthi,’;
-,disāgajā.
+,.
 31.
-Dhataraṭṭho,,;
-Viruḷhako, virūpakkho,.
+,,;
+,,.
 32.
-,kuvero;
-Aḷakāalakā (amarakosa)ḷakamandā,,gadā;
+,;
+alakā (amarakosa),,;
 ,.
 33.
 ,’;
@@ -107,7 +107,7 @@ Aḷakāalakā (amarakosa)ḷakamandā,,gadā;
 35.
 ,‘bhasmā’ tipadaṃ rājādigaṇe pariyāpannaṃ (rūpasiddhi-uṇādi), bhasmaṃ (sī.);
 36.
-Kukkuḷo’,’tikaṃ dittakaṭṭhādindhane (ṭīkā);
+’,’tikaṃ dittakaṭṭhādindhane (ṭīkā);
 ’,.
 37.
 ’,
@@ -115,7 +115,7 @@ Kukkuḷo’,’tikaṃ dittakaṭṭhādindhane (ṭīkā);
 ,’;
 ,.
 38.
-Vāyubhedā’,;
+’,;
 ,.
 39.
 ,
@@ -132,9 +132,9 @@ Vāyubhedā’,;
 ,.
 43.
 ,,;
-’dhītū,girimekhalo.
+’,.
 44.
-,’nayanā;
+,’;
 ,.
 45.
 ’,’’;
@@ -154,7 +154,7 @@ Vāyubhedā’,;
 50.
 ,
 ;
-Duddinaṃ,.
+,.
 51.
 ’,;
 ,.
@@ -162,14 +162,14 @@ Duddinaṃ,.
 ,;
 ,.
 53.
-Kalā,;
+,;
 ,.
 54.
-Addhaṃ,;
+,;
 ,.
 55.
 ,’;
-,susamā.
+,.
 56.
 ,,;
 ,.
@@ -183,10 +183,10 @@ magha (sī.),;
 ’,’.
 60.
 ,’;
-,sattādhikavīsanakkhattā.
+,.
 61.
-,sūrā;
-mesā,.
+,;
+,.
 62.
 ,;
 ,.
@@ -198,39 +198,39 @@ mesā,.
 ’,.
 65.
 ,;
-’,’ruṇo.
+’,’.
 66.
 ’,
 ;
-Khaṇo,
-layo.
+,
+.
 67.
-khaṇalayo,
-Muhutto;
-khaṇamuhutto,.
+,
+;
+,.
 68.
 ,;
 ,
 .
 69.
 ,;
-Juṇhā,timisikā.
+,.
 70.
 ,;
 ,.
 71.
-Caturaṅgatamaṃ,;
+,;
 ,’.
 72.
-Andhatamaṃ,,;
-Pāṭipado,tithītithi,,(ṇvādi).
+,,;
+,tithi,,(ṇvādi).
 73.
 ,;
 ,’.
 74.
-’horatto, pakkho;
-sukka,
-Kāḷā, māso.
+’,;
+,
+,.
 75.
 ,,;
 ’,.
@@ -238,21 +238,21 @@ Kāḷā, māso.
 ,;
 ’,.
 77.
-nikkhamanīyo,
-rammako.
+,
+.
 78.
 ,;
-hemanta gimhāna, vassānā.
+,.
 79.
-Hemanto sisira,
-vasantogimha vassānā;
-Sarado,.
+,
+;
+,.
 80.
 ,
 ;
-,dakkhiṇāyanaṃ.
+,.
 81.
-Uttarāyana,;
+,;
 ,.
 82.
 ,;
@@ -285,7 +285,7 @@ Uttarāyana,;
 ,;
 ,.
 92.
-,padaṭṭhāna;
+,;
 ’,.
 93.
 ,;
@@ -302,46 +302,46 @@ Uttarāyana,;
 96.
 ’,
 ;
-paṇḍu’,dhūsaro.
+’,.
 97.
-Aruṇo,
-Pāṭalo;
+,
+;
 ,
 .
 98.
-Kaḷāro kapilo,;
-Piṅgo pisaṅgo,.
+,;
+,.
 99.
 ,
-Sāvo;
+;
 ,.
 100.
 ,;
-,nāṭu.
+,.
 101.
-raṅgo, bhinayo;
+,;
 ’,.
 102.
 ,;
-,nāṭyarasā.
+,.
 103.
 ,;
-siṅgāro,.
+,.
 104.
 ,;
-sambhogo viyogo,
+,
 .
 105.
 ,;
 ,kathā (katthaci).
 106.
-,vākyaṃ;
-Āmeḍita,.
+,;
+,.
 107.
 ,’;
 ,.
 108.
-Iruyaju sāma,;
+,;
 ,.
 109.
 ,;
@@ -349,16 +349,16 @@ Iruyaju sāma,;
 ,.
 110.
 ,;
-,vedaṅgāni.
+,.
 111.
-Itihāso,;
-,nighaṇḍu.
+,;
+,.
 112.
-,lokāyataṃ;
-Keṭubhaṃ,.
+,;
+,.
 113.
-Ākhyāyiko,kathā;
-Daṇḍanītya’,.
+,;
+’,.
 114.
 ,,,;
 ’,.
@@ -367,7 +367,7 @@ Daṇḍanītya’,.
 ,’.
 116.
 ,;
-,bbhakkhānaṃ.
+,.
 117.
 ,;
 ,
@@ -376,32 +376,32 @@ Daṇḍanītya’,.
 ,’;
 ,.
 119.
-thomanaṃ vā (katthaci thomanaṃ thomanā dviliṅge),kekā;
-koñca,
-hesā.
+thomanaṃ vā (katthaci thomanaṃ thomanā dviliṅge),;
+,
+.
 120.
 ,;
 ’,’;
 ’,.
 121.
 ,;
-,paribhāsana.
+,.
 122.
 ,;
-Abhivākyaṃ,.
+,.
 123.
-nulāpo,palāpo;
-mālāpo,
-Vilāpo.
+,;
+,
+.
 124.
 ,;
-sallāpo,.
+,.
 125.
-Pharusaṃ,hadayaṅgamaṃ;
-Saṃkulaṃkiliṭṭha,.
+,;
+,.
 126.
-,abaddhaabandha (ka.);
-Vitathaṃāhataṃ tu musātthakaṃ (katthaci, amarakose),.
+,abandha (ka.);
+āhataṃ tu musātthakaṃ (katthaci, amarakose),.
 127.
 ,;
 ,.
@@ -412,50 +412,50 @@ Vitathaṃāhataṃ tu musātthakaṃ (katthaci, amarakose),.
 .
 129.
 ,;
-,maṭṭhaṅgiko saro.
+,.
 130.
-,vassita;
+,;
 ,
 .
 131.
 ,;
-ṭhānāni (bahūsu),saramaṇḍalaṃ.
+ṭhānāni (bahūsu),.
 132.
 ,;
-,satte’.
+,’.
 133.
-usabhaṃ,dhevataṃ;
-Chajjaṃgandhāra,majjhimaṃ.
+,;
+,.
 134.
-Pañcamaṃ,nisāda;
-Chajjomajjhimo,
-sādhāraṇo.
+,;
+,
+.
 135.
 ,;
 ṭhānāni (bahūsu),.
 136.
 ,;
-,dvāvīsati.
+,.
 137.
-tāro,kalo;
-mando,;
-Kākalī,
-layo.
+,;
+,;
+,
+.
 138.
-,parivādinī;
-Pokkharo,
+,;
+,
 .
 139.
 ,;
-tūriyaṃ, pañcaṅgika.
+,.
 140.
-Ātataṃ,;
+,;
 ’,.
 141.
-Vitataṃ’,;
-Ātatavitataṃ,.
+’,;
+,.
 142.
-Susiraṃ,ghanaṃ;
+,;
 ,.
 143.
 (bheri),
@@ -463,20 +463,20 @@ Susiraṃ,ghanaṃ;
 ,,,
 .
 144.
-,koṇo;
-Daddarī paṭaho,maddalā.
+,;
+,.
 145.
-,parimalo;
-modo,.
+,;
+,.
 146.
 ,;
 ,.
 147.
 ,;
-catujjāti, gandhā.
+,.
 148.
 ,;
-,cha rasā.
+,.
 149.
 ,
 ;
@@ -492,9 +492,9 @@ catujjāti, gandhā.
 ,.
 153.
 ,;
-,vipassanā.
+,.
 154.
-Sammādiṭṭhi,;
+,;
 ,.
 155.
 ,
@@ -504,10 +504,10 @@ Sammādiṭṭhi,;
 ’,;
 ,.
 157.
-vīriyaṅgāni,;
+,;
 ,.
 158.
-Ussoḷhī,;
+,;
 ,.
 159.
 ’,;
@@ -525,7 +525,7 @@ Ussoḷhī,;
 163.
 ,;
 ,;
-,lālasā.
+,.
 164.
 ,;
 ’,

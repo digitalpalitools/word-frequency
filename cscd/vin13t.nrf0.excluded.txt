@@ -4,8 +4,8 @@ Khuddasikkhā
 
 (Ka)
 -;
-Khuddasikkhaṃ,.
-Tatrāyaṃ mātikā–
+,.
+–
 (Kha)
 ,;
 ,.
@@ -28,7 +28,7 @@ Tatrāyaṃ mātikā–
 ,;
 ,.
 1. Pārājikaniddeso
-Pārājikā ca cattāro–
+–
 1.
 ;
 ,.
@@ -87,7 +87,7 @@ Pārājikā ca cattāro–
 ,;
 ,.
 2. Saṅghādisesaniddeso
-Garukānavā–
+–
 19.
 -;
 ,.
@@ -125,7 +125,7 @@ Garukānavā–
 ,
 .
 3. Cīvaraniddeso
-Cīvara–
+–
 30.
 -;
 ,.
@@ -216,7 +216,7 @@ Cīvara–
 ,;
 ,.
 4. Rajananiddeso
-Rajanāni cā–
+–
 58.
 -;
 ,.
@@ -225,7 +225,7 @@ Rajanāni cā–
 ,;
 ,.
 5. Pattaniddeso
-Pattocā–
+–
 60.
 ,;
 ,.
@@ -260,7 +260,7 @@ Pattocā–
 ,;
 ,.
 6. Thālakaniddeso
-Thālakā cā–
+–
 71.
 ,;
 .
@@ -268,7 +268,7 @@ Thālakā cā–
 ;
 .
 7. Pavāraṇāniddeso
-Pavāraṇā–
+–
 73.
 ,;
 ,.
@@ -304,7 +304,7 @@ Pavāraṇā–
 -;
 ,.
 8. Kālikaniddeso
-Kālikācā–
+–
 84.
 ,;
 -.
@@ -377,7 +377,7 @@ Kālikācā–
 ,;
 ,.
 9. Paṭiggāhaniddeso
-Paṭiggāho–
+–
 106.
 ,;
 ,.
@@ -400,7 +400,7 @@ Paṭiggāho–
 ,;
 ,.
 10. Akappiyamaṃsaniddeso
-Maṃsesu ca akappiya–
+–
 113.
 ,;
 ,.
@@ -411,7 +411,7 @@ Maṃsesu ca akappiya–
 ,;
 -.
 11. Nissaggiyaniddeso
-Nissaggiyānī–
+–
 116.
 ,;
 ,.
@@ -428,7 +428,7 @@ Nissaggiyānī–
 ,;
 ,.
 12. Pācittiyaniddeso
-Pācittī–
+–
 121.
 ,;
 ,.
@@ -444,7 +444,7 @@ Pācittī–
 ,
 .
 13. Samaṇakappaniddeso
-Samaṇakappā–
+–
 125.
 ,;
 ,.
@@ -480,7 +480,7 @@ Samaṇakappā–
 ,;
 .
 14. Bhūminiddeso
-Bhūmiyo–
+–
 136.
 ,;
 ,.
@@ -489,14 +489,14 @@ Bhūmiyo–
 ,.
 138.
 ,;
-,ssāvanantikā;
+,;
 ‘‘,’’.
 139.
 ,;
-‘‘gonisādī’’,sammutī.
+‘‘’’,.
 140.
 ,;
-,gahapatī.
+,.
 141.
 ;
 ,.
@@ -510,7 +510,7 @@ Bhūmiyo–
 ,;
 ,.
 15. Upajjhācariyavattaniddeso
-Upajjhācariyavattānī–
+–
 145.
 ,;
 ,.
@@ -545,7 +545,7 @@ Upajjhācariyavattānī–
 ,;
 ,.
 16. Vaccapassāvaṭṭhānikaniddeso
-Vaccapassāvaṭṭhānika–
+–
 156.
 ,;
 ,.
@@ -562,7 +562,7 @@ Vaccapassāvaṭṭhānika–
 -;
 ,.
 17. Āpucchakaraṇaniddeso
-Āpucchakaraṇa–
+–
 161.
 ,;
 ,.
@@ -579,7 +579,7 @@ Vaccapassāvaṭṭhānika–
 ,;
 -.
 18. Nagganiddeso
-Naggo–
+–
 166.
 ,;
 ,.
@@ -587,7 +587,7 @@ Naggo–
 ,;
 -.
 19. Nhānakappaniddeso
-Nhānakappo–
+–
 168.
 ,;
 ,.
@@ -601,12 +601,12 @@ Nhānakappo–
 -;
 ,.
 20. Avandiyaniddeso
-Avandiyo–
+–
 172.
 -;
 ,.
 21. Cammaniddeso
-Camma–
+–
 173.
 ,;
 ,.
@@ -614,7 +614,7 @@ Camma–
 ,;
 ,.
 22. Upāhananiddeso
-Upāhanā cevā–
+–
 175.
 ,;
 ,.
@@ -635,13 +635,13 @@ Upāhanā cevā–
 ,;
 ,.
 23. Anolokiyaniddeso
-Anolokiya–
+–
 181.
 ,;
 ;
 ,.
 24. Añjanīniddeso
-Añjanī–
+–
 182.
 ,;
 ,.
@@ -658,7 +658,7 @@ Añjanī–
 ,;
 ,.
 25. Akappiyasayananiddeso
-Akappiyasayanānī–
+–
 187.
 ,;
 -.
@@ -685,7 +685,7 @@ Akappiyasayanānī–
 ,;
 ,.
 26. Samānāsanikaniddeso
-Samānāsanikopicā–
+–
 195.
 ,;
 ,.
@@ -696,13 +696,13 @@ Samānāsanikopicā–
 ,;
 ,.
 27. Asaṃvāsikaniddeso
-Asaṃvāsiko cā–
+–
 198.
 ,;
 -;
 ,.
 28. Kammaniddeso
-Kammañcā–
+–
 199.
 ,;
 ,;
@@ -736,7 +736,7 @@ Kammañcā–
 ,;
 ,.
 29. Micchājīvavivajjanāniddeso
-Micchājīvavivajjanā–
+–
 209.
 ,;
 ,.
@@ -750,7 +750,7 @@ Micchājīvavivajjanā–
 ;
 .
 30. Vattaniddeso
-Vatta–
+–
 213.
 ,;
 ,.
@@ -776,7 +776,7 @@ Vatta–
 ,;
 ,.
 31. Vikappanāniddeso
-Vikappanācevā–
+–
 221.
 ,;
 ,;
@@ -804,7 +804,7 @@ Vikappanācevā–
 ,;
 ,.
 32. Nissayaniddeso
-Nissayo–
+–
 230.
 ,;
 ,.
@@ -824,7 +824,7 @@ Nissayo–
 ,;
 ,.
 33. Kāyabandhananiddeso
-Kāyabandhana–
+–
 235.
 ,;
 ,.
@@ -849,7 +849,7 @@ Kāyabandhana–
 ,.
 Paṭhamabhāṇavāraṃ niṭṭhitaṃ.
 34. Pathavīniddeso
-Pathavī cā–
+–
 242.
 ,;
 ,;
@@ -904,7 +904,7 @@ Pathavī cā–
 ,;
 ,.
 35. Parikkhāraniddeso
-Parikkhāro–
+–
 259.
 ,;
 ,.
@@ -953,7 +953,7 @@ Parikkhāro–
 ;
 ,.
 36. Bhesajjaniddeso
-Bhesajja–
+–
 274.
 ,;
 ,.
@@ -976,7 +976,7 @@ Bhesajja–
 ,;
 ,.
 37. Uggahaniddeso
-Uggaho–
+–
 281.
 -;
 ,.
@@ -1029,7 +1029,7 @@ Uggaho–
 ,;
 ,.
 38. Kuladūsananiddeso
-Dūsana–
+–
 297.
 ,;
 ,.
@@ -1069,7 +1069,7 @@ Dūsana–
 ,;
 ,.
 39. Vassūpanāyikaniddeso
-Vassūpanāyikā cevā–
+–
 309.
 ,;
 ,.
@@ -1111,7 +1111,7 @@ Vassūpanāyikā cevā–
 ,;
 ,.
 40. Avebhaṅgiyaniddeso
-Avebhaṅgiya–
+–
 322.
 ,;
 -.
@@ -1154,7 +1154,7 @@ Avebhaṅgiya–
 ,;
 ,.
 41. Pakiṇṇakaniddeso
-Pakiṇṇaka–
+–
 335.
 ,;
 ,.
@@ -1307,7 +1307,7 @@ Pakiṇṇaka–
 ,;
 ,.
 42. Desanāniddeso
-Desanā–
+–
 382.
 ,;
 ,.
@@ -1381,7 +1381,7 @@ Desanā–
 ;
 ,.
 43. Chandadānaniddeso
-Chandadānādī–
+–
 399.
 ,;
 ,.
@@ -1413,7 +1413,7 @@ Chandadānādī–
 ,;
 ,.
 44. Uposathaniddeso
-Uposatho–
+–
 410.
 -;
 -.
@@ -1479,7 +1479,7 @@ Uposatho–
 ,;
 -.
 45. Pavāraṇāniddeso
-Pavāraṇā–
+–
 433.
 ,;
 ,.
@@ -1529,7 +1529,7 @@ Pavāraṇā–
 ,;
 ,.
 46. Saṃvaraniddeso
-Saṃvaro–
+–
 453.
 ,;
 -.
@@ -1537,43 +1537,43 @@ Saṃvaro–
 ,;
 ,.
 47. Suddhiniddeso
-Suddhī–
+–
 455.
 ;
 ;
-,desanāsuddhi.
+,.
 456.
 ‘‘’’,;
-saṃvarasuddhī,.
+,.
 457.
 ;
-eṭṭhisuddhī,.
+,.
 458.
 ,;
 -;
-Paccavekkhaṇasuddhī,.
+,.
 48. Santosaniddeso
-Santoso–
+–
 459.
 ,;
 ,.
 460.
 ,;
-,santuṭṭho.
+,.
 49. Caturārakkhaniddeso
-Caturakkhā–
+–
 461.
 ,;
 ,.
 462.
 ;
-,buddhānussati.
+,.
 463.
 ;
 ,.
 464.
 ,;
-,mettabhāvanā.
+,.
 465.
 -;
 -.
@@ -1592,14 +1592,14 @@ Caturakkhā–
 .
 470.
 ;
-,maraṇassatī.
+,.
 50. Vipassanāniddeso
-Vipassanā–
+–
 471.
 ,;
-niccā,.
+,.
 472.
-Dukkhā,anattā;
+,;
 ,;
 ,.
 Nigamanakathā
@@ -1610,7 +1610,7 @@ Nigamanakathā
 ,;
 ,.
 475.
-dhammasirīkena,;
+,;
 .
 476.
 ,;

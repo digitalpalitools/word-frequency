@@ -4,11 +4,11 @@
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena chabbaggiyā bhikkhuniyo bahū patte sannicayaṃ karonti manussā vihāracārikaṃ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti  kathañhi nāma bhikkhuniyo bahū patte sannicayaṃ karissanti pattavāṇijjaṃ vā bhikkhuniyo karissanti āmattikāpaṇaṃ vā pasāressantīti! assosuṃ kho bhikkhuniyo tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma chabbaggiyā bhikkhuniyo pattasannicayaṃ karissantīti saccaṃ kira bhikkhave chabbaggiyā bhikkhuniyo pattasannicayaṃ karontīti saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave chabbaggiyā bhikkhuniyo pattasannicayaṃ karissanti! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
- nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
- nāma dve pattā  ayopatto mattikāpatto tayo pattassa vaṇṇā  ukkaṭṭho patto majjhimo patto omako patto  aḍḍhāḷhakodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ  nāḷikodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ  patthodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ tato ukkaṭṭho apatto omako apatto
-ti anadhiṭṭhito avikappito
-ti saha aruṇuggamanā nissaggiyo hoti nissajjitabbo saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbo tāya bhikkhuniyā saṅghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhunīnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo  ayaṃ me ayye patto rattātikkanto nissaggiyo imāhaṃ saṅghassa nissajjāmīti nissajjitvā  āpatti desetabbā byattāya bhikkhuniyā paṭibalāya āpatti paṭiggahetabbā nissaṭṭhapatto dātabbo 
+yā pana bhikkhunī pattasannicayaṃ kareyya nissaggiyaṃ pācittiyanti
+yāpanāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+patto nāma dve pattā  ayopatto mattikāpatto tayo pattassa vaṇṇā  ukkaṭṭho patto majjhimo patto omako patto ukkaṭṭhonāmapatto aḍḍhāḷhakodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ majjhimo nāmapatto nāḷikodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ omakonāmapatto patthodanaṃ gaṇhāti catubhāgaṃ khādanaṃ tadupiyaṃ byañjanaṃ tato ukkaṭṭho apatto omako apatto
+sannicayaṃ kareyyāti anadhiṭṭhito avikappito
+nissaggiyohotīti saha aruṇuggamanā nissaggiyo hoti nissajjitabbo saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbo tāya bhikkhuniyā saṅghaṃ upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhunīnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassa vacanīyo  ayaṃ me ayye patto rattātikkanto nissaggiyo imāhaṃ saṅghassa nissajjāmīti nissajjitvā  āpatti desetabbā byattāya bhikkhuniyā paṭibalāya āpatti paṭiggahetabbā nissaṭṭhapatto dātabbo 
 suṇātu me ayye saṅgho ayaṃ patto itthannāmāya bhikkhuniyā nissaggiyo saṅghassa nissaṭṭho yadi saṅghassa pattakallaṃ saṅgho imaṃ pattaṃ itthannāmāya bhikkhuniyā dadeyyāti
 tāya bhikkhuniyā sambahulā bhikkhuniyo upasaṅkamitvā ekaṃsaṃ uttarāsaṅgaṃ karitvā vuḍḍhānaṃ bhikkhunīnaṃ pāde vanditvā ukkuṭikaṃ nisīditvā añjaliṃ paggahetvā evamassu vacanīyā  ayaṃ me ayyāyo patto rattātikkanto nissaggiyo imāhaṃ ayyānaṃ nissajjāmīti nissajjitvā āpatti desetabbā byattāya bhikkhuniyā paṭibalāya āpatti paṭiggahetabbā nissaṭṭhapatto dātabbo 
 suṇantu me ayyāyo ayaṃ patto itthannāmāya bhikkhuniyā nissaggiyo ayyānaṃ nissaṭṭho yadi ayyānaṃ pattakallaṃ ayyāyo imaṃ pattaṃ itthannāmāya bhikkhuniyā dadeyyunti
@@ -20,122 +20,122 @@ tena kho pana samayena chabbaggiyā bhikkhuniyo nissaṭṭhapattaṃ na denti b
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme  tena kho pana samayena sambahulā bhikkhuniyo gāmakāvāse vassaṃvuṭṭhā  sāvatthiṃ agamaṃsu vattasampannā iriyāpathasampannā duccoḷā lūkhacīvarā upāsakā tā bhikkhuniyo passitvā  imā bhikkhuniyo vattasampannā iriyāpathasampannā duccoḷā lūkhacīvarā imā bhikkhuniyo acchinnā bhavissantīti bhikkhunisaṅghassa akālacīvaraṃ adaṃsu thullanandā bhikkhunī  amhākaṃ kathinaṃ atthataṃ kālacīvaranti adhiṭṭhahitvā bhājāpesi upāsakā tā bhikkhuniyo passitvā etadavocuṃ  apayyāhi cīvaraṃ laddhanti na mayaṃ āvuso cīvaraṃ labhāma ayyā thullanandā  amhākaṃ kathinaṃ atthataṃ kālacīvaranti adhiṭṭhahitvā bhājāpesīti upāsakā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpessatīti! assosuṃ  kho bhikkhuniyo tesaṃ upāsakānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpessatīti! atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ bhikkhū bhagavato etamatthaṃ ārocesuṃ   saccaṃ kira bhikkhave  thullanandā bhikkhunī akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpetīti  saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
- nāma anatthate kathine ekādasamāse uppannaṃ atthate kathine sattamāse uppannaṃ kālepi ādissa dinnaṃ etaṃ akālacīvaraṃ nāma
+yā pana bhikkhunī akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+akālacīvaraṃ nāma anatthate kathine ekādasamāse uppannaṃ atthate kathine sattamāse uppannaṃ kālepi ādissa dinnaṃ etaṃ akālacīvaraṃ nāma
 akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana  bhikkhave nissajjitabbaṃ idaṃ me ayye akālacīvaraṃ kālacīvaranti adhiṭṭhahitvā bhājāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  akālacīvare akālacīvarasaññā kālacīvaranti adhiṭṭhahitvā bhājāpeti nissaggiyaṃ pācittiyaṃ akālacīvare vematikā kālacīvaranti  adhiṭṭhahitvā bhājāpeti āpatti dukkaṭassa akālacīvare kālacīvarasaññā kālacīvaranti adhiṭṭhahitvā bhājāpeti  anāpatti kālacīvare akālacīvarasaññā āpatti dukkaṭassa kālacīvare vematikā āpatti dukkaṭassa kālacīvare kālacīvarasaññā anāpatti
  anāpatti akālacīvaraṃ kālacīvarasaññā bhājāpeti kālacīvaraṃ kālacīvarasaññā bhājāpeti ummattikāya ādikammikāyāti
 
 
  tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī aññatarāya bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā paribhuñji atha kho sā bhikkhunī taṃ cīvaraṃ saṅgharitvā  nikkhipi thullanandā bhikkhunī taṃ bhikkhuniṃ etadavoca  yaṃ te ayye mayā  saddhiṃ cīvaraṃ parivattitaṃ kahaṃ taṃ cīvaranti atha kho sā bhikkhunī taṃ cīvaraṃ nīharitvā thullanandāya bhikkhuniyā dassesi thullanandā bhikkhunī  taṃ bhikkhuniṃ etadavoca  handāyye tuyhaṃ cīvaraṃ āhara metaṃ cīvaraṃ yaṃ tuyhaṃ tuyhamevetaṃ yaṃ mayhaṃ mayhamevetaṃ āhara metaṃ sakaṃ paccāharāti acchindi atha kho sā bhikkhunī bhikkhunīnaṃ etamatthaṃ ārocesi yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā acchindissatīti! atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ bhikkhū bhagavato etamatthaṃ ārācesuṃ saccaṃ kira bhikkhave thullanandā bhikkhunī bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā acchindatīti  saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī  bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā acchindissati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-nti aññāya bhikkhuniyā saddhiṃ
- nāma channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ  pacchimaṃ
-ti parittena vā vipulaṃ vipulena vā parittaṃ
-ti sayaṃ acchindati nissaggiyaṃ pācittiyaṃ
-ti aññaṃ āṇāpeti āpatti dukkaṭassa sakiṃ āṇattā bahukampi acchindati nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye cīvaraṃ bhikkhuniyā saddhiṃ parivattetvā acchinnaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yāpana bhikkhunī bhikkhuniyā saddhiṃ cīvaraṃ parivattetvā sā pacchā evaṃ vadeyya  handāyye tuyhaṃ cīvaraṃ āhara metaṃ cīvaraṃ yaṃ tuyhaṃ tuyhamevetaṃ yaṃ mayhaṃ mayhamevetaṃ āhara metaṃ sakaṃ paccāharāti acchindeyya vā acchindāpeyya vā nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+bhikkhuniyā saddhinti aññāya bhikkhuniyā saddhiṃ
+cīvaraṃ nāma channaṃ cīvarānaṃ aññataraṃ cīvaraṃ vikappanupagaṃ  pacchimaṃ
+parivattetvāti parittena vā vipulaṃ vipulena vā parittaṃ
+acchindeyyāti sayaṃ acchindati nissaggiyaṃ pācittiyaṃ
+acchindāpeyyāti aññaṃ āṇāpeti āpatti dukkaṭassa sakiṃ āṇattā bahukampi acchindati nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye cīvaraṃ bhikkhuniyā saddhiṃ parivattetvā acchinnaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  upasampannāya upasampannasaññā cīvaraṃ parivattetvā acchindati vā acchindāpeti vā nissaggiyaṃ pācittiyaṃ upasampannāya  vematikā cīvaraṃ parivattetvā acchindati vā acchindāpeti vā nissaggiyaṃ pācittiyaṃ upasampannāya anupasampannasaññā cīvaraṃ parivattetvā acchindati vā acchindāpeti vā nissaggiyaṃ pācittiyaṃ
 aññaṃ  parikkhāraṃ parivattetvā acchindati vā acchindāpeti vā āpatti dukkaṭassa anupasampannāya saddhiṃ cīvaraṃ vā aññaṃ vā parikkhāraṃ parivattetvā acchindati vā acchindāpeti vā āpatti dukkaṭassa anupasampannāya upasampannasaññā āpatti dukkaṭassa anupasampannāya vematikā āpatti  dukkaṭassa anupasampannāya anupasampannasaññā āpatti dukkaṭassa
  anāpatti sā vā deti tassā vā vissasantī gaṇhāti ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī gilānā hoti atha kho aññataro upāsako yena thullanandā bhikkhunī tenupasaṅkami upasaṅkamitvā thullanandaṃ bhikkhuniṃ etadavoca  kiṃ te ayye aphāsu kiṃ āharīyatūti sappinā me āvuso atthoti atha kho so upāsako aññatarassa āpaṇikassa gharā kahāpaṇassa sappiṃ āharitvā thullanandāya bhikkhuniyā adāsi thullanandā bhikkhunī evamāha  na me āvuso sappinā attho telena me atthoti atha kho so upāsako yena so āpaṇiko tenupasaṅkami upasaṅkamitvā taṃ āpaṇikaṃ etadavoca  na kirāyyo ayyāya sappinā attho telena attho handa te sappiṃ telaṃ me dehīti sace mayaṃ ayyo vikkītaṃ bhaṇḍaṃ  puna ādiyissāma  kadā amhākaṃ bhaṇḍaṃ vikkāyissati  sappissa kayena sappi haṭaṃ telassa kayaṃ āhara telaṃ harissasīti atha kho so upāsako ujjhāyati khiyyati vipāceti  kathañhi nāma ayyā thullanandā aññaṃ viññāpetvā aññaṃ viññāpessatīti! assosuṃ kho bhikkhuniyo tassa upāsakassa ujjhāyantassa khiyyantassa vipācentassa yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti atha kho tā bhikkhuniyo bhikkhūnaṃ etamatthaṃ ārocesuṃ bhikkhū bhagavato etamatthaṃ ārocesuṃ saccaṃ kira bhikkhave thullanandā bhikkhunī aññaṃ viññāpetvā aññaṃ viññāpetīti  saccaṃ bhagavāti vigarahi buddho bhagavā  kathañhi  nāma bhikkhave thullanandā bhikkhunī aññaṃ viññāpetvā aññaṃ viññāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti yaṃ kiñci viññāpetvā
-ti taṃ ṭhapetvā aññaṃ viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa  vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññaṃ viññāpetvā aññaṃ viññāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññaṃ viññāpetvā aññaṃ viññāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññaṃviññāpetvāti yaṃ kiñci viññāpetvā
+aññaṃ viññāpeyyāti taṃ ṭhapetvā aññaṃ viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa  vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññaṃ viññāpetvā aññaṃ viññāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññe aññasaññā aññaṃ viññāpeti nissaggiyaṃ pācittiyaṃ aññe vematikā aññaṃ viññāpeti nissaggiyaṃ pācittiyaṃ aññe anaññasaññā aññaṃ viññāpeti nissaggiyaṃ pācittiyaṃ
 anaññe aññasaññā anaññaṃ viññāpeti āpatti dukkaṭassa anaññe vematikā anaññaṃ viññāpeti āpatti dukkaṭassa anaññe anaññasaññā anāpatti
  anāpatti taññeva  viññāpeti aññañca viññāpeti ānisaṃsaṃ dassetvā viññāpeti ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī gilānā hoti atha kho aññataro upāsako yena thullanandā bhikkhunī tenupasaṅkami upasaṅkamitvā thullanandaṃ bhikkhuniṃ etadavoca  kacci ayye khamanīyaṃ kacci yāpanīyanti na me āvuso khamanīyaṃ na yāpanīyanti amukassa ayye āpaṇikassa ghare kahāpaṇaṃ  nikkhipissāmi tato yaṃ iccheyyāsi taṃ āharāpeyyāsīti thullanandā bhikkhunī aññataraṃ sikkhamānaṃ āṇāpesi  gaccha sikkhamāne amukassa āpaṇikassa gharā kahāpaṇassa telaṃ āharāti atha kho sā sikkhamānā tassa  āpaṇikassa gharā kahāpaṇassa telaṃ  āharitvā thullanandāya bhikkhuniyā adāsi thullanandā bhikkhunī evamāha  na me sikkhamāne telena attho sappinā me atthoti atha kho sā sikkhamānā yena so āpaṇiko tenupasaṅkami upasaṅkamitvā taṃ āpaṇikaṃ etadavoca  na kira āvuso ayyāya telena attho sappinā attho handa te telaṃ sappiṃ me dehīti sace mayaṃ ayye vikkītaṃ bhaṇḍaṃ puna ādiyissāma kadā amhākaṃ bhaṇḍaṃ vikkāyissati! telassa kayena telaṃ haṭaṃ sappissa kayaṃ āhara sappiṃ harissasīti atha kho sā sikkhamānā rodantī aṭṭhāsi bhikkhuniyo taṃ sikkhamānaṃ etadavocuṃ  kissa tvaṃ sikkhamāne rodasīti atha kho sā sikkhamānā bhikkhunīnaṃ etamatthaṃ ārocesi yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā aññaṃ cetāpetvā aññaṃ cetāpessatīti saccaṃ kira bhikkhave thullanandā bhikkhunī aññaṃ cetāpetvā aññaṃ cetāpetīti  saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī aññaṃ cetāpetvā  aññaṃ cetāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti yaṃ kiñci cetāpetvā
-ti taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññaṃ cetāpetvā aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññaṃ cetāpetvā aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññaṃcetāpetvāti yaṃ kiñci cetāpetvā
+aññaṃ cetāpeyyāti taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññaṃ cetāpetvā aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññe  aññasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññe vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññe anaññasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ
 anaññe aññasaññā anaññaṃ cetāpeti āpatti dukkaṭassa anaññe vematikā anaññaṃ cetāpeti āpatti dukkaṭassa anaññe anaññasaññā anāpatti
  anāpatti taññeva  cetāpeti aññañca cetāpeti ānisaṃsaṃ dassetvā cetāpeti ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena upāsakā bhikkhunisaṅghassa cīvaratthāya chandakaṃ saṅgharitvā aññatarassa pāvārikassa ghare parikkhāraṃ nikkhipitvā bhikkhuniyo upasaṅkamitvā etadavocuṃ  amukassa ayye pāvārikassa ghare cīvaratthāya parikkhāro nikkhitto tato cīvaraṃ āharāpetvā bhājethāti bhikkhuniyo tena parikkhārena bhesajjaṃ cetāpetvā paribhuñjiṃsu upāsakā jānitvā ujjhāyanti khiyyanti vipācenti  kathañhi nāma bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpessantīti! assosuṃ kho bhikkhuniyo tesaṃ upāsakānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ yā tā bhikkhuniyo  appicchā  tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpessantīti saccaṃ kira bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpentīti saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave bhikkhuniyo aññadatthikena  parikkhārena aññuddisikena saṅghikena aññaṃ cetāpessanti! netaṃ bhikkhave appasannānaṃ vā pasādāya  evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti aññassatthāya dinnena
-ti saṅghassa na gaṇassa na ekabhikkhuniyā
-ti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññadatthikena parikkhārena aññuddisikenāti aññassatthāya dinnena
+saṅghikenāti saṅghassa na gaṇassa na ekabhikkhuniyā
+aññaṃ cetāpeyyāti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññadatthike aññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike anaññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ nissaṭṭhaṃ paṭilabhitvā yathādāne upanetabbaṃ
 anaññadatthike  aññadatthikasaññā āpatti dukkaṭassa anaññadatthike vematikā āpatti dukkaṭassa anaññadatthike anaññadatthikasaññā anāpatti
  anāpatti  sesakaṃ upaneti sāmike apaloketvā upaneti āpadāsu ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena upāsakā bhikkhunisaṅghassa cīvaratthāya chandakaṃ saṅgharitvā aññatarassa pāvārikassa ghare parikkhāraṃ nikkhipitvā  bhikkhuniyo upasaṅkamitvā etadavocuṃ  amukassa ayye pāvārikassa ghare cīvaratthāya parikkhāro nikkhitto tato cīvaraṃ āharāpetvā bhājethāti bhikkhuniyo tena ca parikkhārena sayampi yācitvā bhesajjaṃ cetāpetvā paribhuñjiṃsu upāsakā jānitvā ujjhāyanti khiyyanti vipācenti  kathañhi nāma bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpessantīti saccaṃ kira bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpentīti saccaṃ bhagavāti vigarahi  buddho bhagavā kathañhi nāma bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpessanti! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti aññassatthāya dinnena
-ti saṅghassa na gaṇassa na ekabhikkhuniyā
-ti sayaṃ yācitvā
-ti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena  saṅghikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññadatthikenaparikkhārena aññuddisikenāti aññassatthāya dinnena
+saṅghikenāti saṅghassa na gaṇassa na ekabhikkhuniyā
+saññācikenāti sayaṃ yācitvā
+aññaṃ cetāpeyyāti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena  saṅghikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññadatthike aññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike anaññadatthikasaññā aññaṃ cetāpeti  nissaggiyaṃ pācittiyaṃ nissaṭṭhaṃ paṭilabhitvā yathādāne upanetabbaṃ
 anaññadatthike aññadatthikasaññā āpatti dukkaṭassa anaññadatthike vematikā āpatti dukkaṭassa anaññadatthike anaññadatthikasaññā anāpatti
  anāpatti sesakaṃ upaneti sāmike apaloketvā upaneti āpadāsu ummattikāya ādikammikāyāti
 
 
  tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena aññatarassa pūgassa pariveṇavāsikā bhikkhuniyo yāguyā kilamanti atha kho so pūgo bhikkhunīnaṃ yāguatthāya chandakaṃ saṅgharitvā aññatarassa āpaṇikassa  ghare parikkhāraṃ nikkhipitvā bhikkhuniyo upasaṅkamitvā etadavoca  amukassa ayye āpaṇikassa ghare yāguatthāya parikkhāro nikkhitto tato taṇḍulaṃ āharāpetvā yāguṃ pacāpetvā paribhuñjathāti bhikkhuniyo tena parikkhārena bhesajjaṃ cetāpetvā paribhuñjiṃsu so pūgo jānitvā ujjhāyati khiyyati vipāceti  kathañhi nāma bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpessantīti  saccaṃ kira bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena  aññaṃ cetāpentīti saccaṃ bhagavāti  vigarahi buddho bhagavā kathañhi nāma bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpessanti! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti aññassatthāya dinnena
-ti gaṇassa na saṅghassa na ekabhikkhuniyā
-ti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññadatthikena parikkhārena aññuddisikenāti aññassatthāya dinnena
+mahājanikenāti gaṇassa na saṅghassa na ekabhikkhuniyā
+aññaṃ cetāpeyyāti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññadatthike  aññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike anaññadatthikasaññā  aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ nissaṭṭhaṃ paṭilabhitvā yathādāne upanetabbaṃ
 anaññadatthike aññadatthikasaññā āpatti dukkaṭassa anaññadatthike vematikā āpatti dukkaṭassa anaññadatthike anaññadatthikasaññā anāpatti
  anāpatti sesakaṃ upaneti sāmike apaloketvā upaneti āpadāsu ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena aññatarassa pūgassa pariveṇavāsikā bhikkhuniyo yāguyā kilamanti atha kho so pūgo bhikkhunīnaṃ yāguatthāya chandakaṃ saṅgharitvā aññatarassa āpaṇikassa ghare parikkhāraṃ nikkhipitvā bhikkhuniyo upasaṅkamitvā etadavoca  amukassa ayye āpaṇikassa ghare yāguatthāya parikkhāro nikkhitto tato taṇḍule āharāpetvā yāguṃ pacāpetvā paribhuñjathāti bhikkhuniyo tena ca parikkhārena sayampi yācitvā bhesajjaṃ cetāpetvā paribhuñjiṃsu so pūgo jānitvā ujjhāyati khiyyati vipāceti  kathañhi  nāma bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpessantīti saccaṃ kira bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpentīti saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave bhikkhuniyo aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpessanti! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā ti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti aññassatthāya dinnena
-ti gaṇassa na saṅghassa na ekabhikkhuniyā
-ti sayaṃ yācitvā
-ti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ  saṅghassa vā  gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yāpanāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññadatthikena parikkhārena aññuddisikenāti aññassatthāya dinnena
+mahājanikenāti gaṇassa na saṅghassa na ekabhikkhuniyā
+saññācikenāti sayaṃ yācitvā
+aññaṃ cetāpeyyāti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ  saṅghassa vā  gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññadatthike aññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike anaññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ nissaṭṭhaṃ paṭilabhitvā yathādāne upanetabbaṃ
 anaññadatthike aññadatthikasaññā āpatti dukkaṭassa anaññadatthike vematikā āpatti dukkaṭassa anaññadatthike anaññadatthikasaññā anāpatti
  anāpatti sesakaṃ upaneti sāmike apaloketvā upaneti āpadāsu ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī bahussutā hoti bhāṇikā visāradā paṭṭā dhammiṃ kathaṃ kātuṃ bahū manussā thullanandaṃ bhikkhuniṃ payirupāsanti tena kho pana samayena  thullanandāya bhikkhuniyā pariveṇaṃ undriyati  manussā thullanandaṃ bhikkhuniṃ etadavocuṃ  kissidaṃ te ayye pariveṇaṃ undriyatīti natthāvuso dāyakā natthi kārakāti atha kho te manussā thullanandāya bhikkhuniyā pariveṇatthāya chandakaṃ saṅgharitvā thullanandāya bhikkhuniyā parikkhāraṃ adaṃsu thullanandā bhikkhunī tena ca parikkhārena sayampi yācitvā bhesajjaṃ cetāpetvā paribhuñji manussā jānitvā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpessatīti saccaṃ  kira bhikkhave thullanandā bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpetīti saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
-ti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
-ti  aññassatthāya dinnena
-ti ekāya bhikkhuniyā na saṅghassa na gaṇassa
-ti sayaṃ yācitvā
-ti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpeyya nissaggiyaṃ pācittiyanti
+yā panāti yā yādisā bhikkhunīti ayaṃ imasmiṃ atthe adhippetā bhikkhunīti
+aññadatthikena parikkhārena aññuddisikenāti  aññassatthāya dinnena
+puggalikenāti ekāya bhikkhuniyā na saṅghassa na gaṇassa
+saññācikenāti sayaṃ yācitvā
+aññaṃcetāpeyyāti yaṃatthāya dinnaṃ taṃ ṭhapetvā aññaṃ cetāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  aññadatthike aññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike vematikā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ aññadatthike anaññadatthikasaññā aññaṃ cetāpeti nissaggiyaṃ pācittiyaṃ nissaṭṭhaṃ paṭilabhitvā yathādāne upanetabbaṃ
 anaññadatthike aññadatthikasaññā āpatti dukkaṭassa anaññadatthike vematikā āpatti dukkaṭassa anaññadatthike anaññadatthikasaññā anāpatti
  anāpatti sesakaṃ upaneti sāmike apaloketvā upaneti āpadāsu ummattikāya ādikammikāyāti
 
 
  tena  samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī bahussutā hoti bhāṇikā visāradā paṭṭā dhammiṃ kathaṃ kātuṃ atha kho rājā pasenadi kosalo sītakāle mahagghaṃ kambalaṃ pārupitvā yena thullanandā bhikkhunī tenupasaṅkami upasaṅkamitvā thullanandaṃ bhikkhuniṃ abhivādetvā ekamantaṃ nisīdi ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ thullanandā bhikkhunī dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi atha kho rājā pasenadi kosalo thullanandāya bhikkhuniyā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito thullanandaṃ bhikkhuniṃ etadavoca  vadeyyāsi ayye yena atthoti sace me tvaṃ mahārāja dātukāmosi imaṃ kambalaṃ dehīti atha kho rājā pasenadi  kosalo thullanandāya bhikkhuniyā kambalaṃ datvā uṭṭhāyāsanā thullanandaṃ bhikkhuniṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi manussā ujjhāyanti khiyyanti vipācenti  mahicchā imā bhikkhuniyo asantuṭṭhā kathañhi nāma rājānaṃ kambalaṃ viññāpessantīti! assosuṃ kho bhikkhuniyo tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā  rājānaṃ kambalaṃ viññāpessatīti saccaṃ kira bhikkhave thullanandā bhikkhunī rājānaṃ kambalaṃ viññāpetīti  saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī rājānaṃ kambalaṃ viññāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
- nāma yaṃ kiñci sītakāle pāvuraṇaṃ
-ti viññāpentiyā
-nti soḷasakahāpaṇagghanakaṃ cetāpetabbaṃ
-ti tatuttari viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye garupāvuraṇaṃ atirekacatukkaṃsaparamaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+garupāvuraṇaṃ  pana bhikkhuniyā cetāpentiyā catukkaṃsaparamaṃ cetāpetabbaṃ tato ce uttari cetāpeyya nissaggiyaṃ pācittiyanti
+garupāvuraṇaṃ nāma yaṃ kiñci sītakāle pāvuraṇaṃ
+cetāpentiyāti viññāpentiyā
+catukkaṃsaparamaṃcetāpetabbanti soḷasakahāpaṇagghanakaṃ cetāpetabbaṃ
+tato ce uttari cetāpeyyāti tatuttari viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye garupāvuraṇaṃ atirekacatukkaṃsaparamaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  atirekacatukkaṃse atirekasaññā cetāpeti nissaggiyaṃ pācittiyaṃ atirekacatukkaṃse vematikā cetāpeti nissaggiyaṃ pācittiyaṃ  atirekacatukkaṃse ūnakasaññā cetāpeti nissaggiyaṃ pācittiyaṃ
 ūnakacatukkaṃse  atirekasaññā āpatti dukkaṭassa ūnakacatukkaṃse vematikā āpatti dukkaṭassa ūnakacatukkaṃse ūnakasaññā anāpatti
  anāpatti catukkaṃsaparamaṃ cetāpeti ūnakacatukkaṃsaparamaṃ cetāpeti ñātakānaṃ pavāritānaṃ aññassatthāya attano dhanena mahagghaṃ cetāpetukāmassa appagghaṃ cetāpeti ummattikāya ādikammikāyāti
 
 
  tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme tena kho pana samayena thullanandā bhikkhunī bahussutā hoti bhāṇikā visāradā paṭṭā dhammiṃ kathaṃ kātuṃ atha kho rājā pasenadi kosalo uṇhakāle mahagghaṃ khomaṃ pārupitvā yena thullanandā bhikkhunī tenupasaṅkami upasaṅkamitvā thullanandaṃ  bhikkhuniṃ abhivādetvā ekamantaṃ nisīdi ekamantaṃ nisinnaṃ kho rājānaṃ pasenadiṃ kosalaṃ thullanandā bhikkhunī dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṃsesi atha kho rājā pasenadi kosalo thullanandāya bhikkhuniyā dhammiyā kathāya sandassito samādapito samuttejito sampahaṃsito thullanandaṃ bhikkhuniṃ etadavoca  vadeyyāsi ayye yena atthoti  sace me tvaṃ mahārāja dātukāmosi imaṃ khomaṃ dehīti atha kho rājā pasenadi kosalo thullanandāya bhikkhuniyā khomaṃ datvā uṭṭhāyāsanā thullanandaṃ bhikkhuniṃ abhivādetvā padakkhiṇaṃ katvā pakkāmi manussā ujjhāyanti khiyyanti vipācenti  mahicchā imā bhikkhuniyo asantuṭṭhā kathañhi nāma rājānaṃ khomaṃ viññāpessantīti! assosuṃ kho bhikkhuniyo tesaṃ manussānaṃ ujjhāyantānaṃ khiyyantānaṃ vipācentānaṃ yā tā bhikkhuniyo appicchā tā ujjhāyanti khiyyanti vipācenti  kathañhi nāma ayyā thullanandā rājānaṃ khomaṃ viññāpessatīti saccaṃ kira bhikkhave thullanandā bhikkhunī rājānaṃ khomaṃ viññāpetīti  saccaṃ bhagavāti vigarahi buddho bhagavā kathañhi nāma bhikkhave thullanandā bhikkhunī rājānaṃ khomaṃ viññāpessati! netaṃ bhikkhave appasannānaṃ vā pasādāya evañca pana bhikkhave bhikkhuniyo imaṃ sikkhāpadaṃ uddisantu 
-nti
- nāma yaṃ kiñci uṇhakāle pāvuraṇaṃ
-ti viññāpentiyā
-nti dasakahāpaṇagghanakaṃ cetāpetabbaṃ
-ti tatuttari viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ  saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye lahupāvuraṇaṃ atirekaaḍḍhateyyakaṃsaparamaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ  saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
+lahupāvuraṇaṃpana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṃsaparamaṃ cetāpetabbaṃ tato ce uttari cetāpeyya nissaggiyaṃ pācittiyanti
+lahupāvuraṇaṃ nāma yaṃ kiñci uṇhakāle pāvuraṇaṃ
+cetāpentiyāti viññāpentiyā
+aḍḍhateyyakaṃsaparamaṃ cetāpetabbanti dasakahāpaṇagghanakaṃ cetāpetabbaṃ
+tato ce uttari cetāpeyyāti tatuttari viññāpeti payoge dukkaṭaṃ paṭilābhena nissaggiyaṃ hoti nissajjitabbaṃ  saṅghassa vā gaṇassa vā ekabhikkhuniyā vā evañca pana bhikkhave nissajjitabbaṃ idaṃ me ayye lahupāvuraṇaṃ atirekaaḍḍhateyyakaṃsaparamaṃ cetāpitaṃ nissaggiyaṃ imāhaṃ  saṅghassa nissajjāmīti dadeyyāti dadeyyunti ayyāya dammīti
  atirekaaḍḍhateyyakaṃse atirekasaññā cetāpeti nissaggiyaṃ pācittiyaṃ atirekaaḍḍhateyyakaṃse vematikā cetāpeti nissaggiyaṃ pācittiyaṃ atirekaaḍḍhateyyakaṃse ūnakasaññā cetāpeti nissaggiyaṃ pācittiyaṃ
 ūnakaaḍḍhateyyakaṃse atirekasaññā āpatti dukkaṭassa ūnakaaḍḍhateyyakaṃse vematikā āpatti dukkaṭassa ūnakaaḍḍhateyyakaṃse ūnakasaññā  anāpatti
  anāpatti aḍḍhateyyakaṃsaparamaṃ cetāpeti ūnakaaḍḍhateyyakaṃsaparamaṃ cetāpeti ñātakānaṃ pavāritānaṃ aññassatthāya attano dhanena mahagghaṃ cetāpetukāmassa appagghaṃ cetāpeti ummattikāya ādikammikāyāti

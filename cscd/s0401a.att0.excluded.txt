@@ -3,16 +3,16 @@ Aṅguttaranikāye
 Ekakanipāta-aṭṭhakathā
 
 ‘‘,;
-,sugataṃ.
-‘‘,;
-,dhammaṃ.
-‘‘,;
-,ariyasaṅghaṃ.
+,.
 ‘‘,;
 ,.
-‘‘aṅguttarāgamavarassa;
+‘‘,;
 ,.
-‘‘,aṭṭhakathā;
+‘‘,;
+,.
+‘‘;
+,.
+‘‘,;
 ,.
 ‘‘;
 ,.
@@ -34,9 +34,9 @@ Ekakanipāta-aṭṭhakathā
 ,.
 ‘‘;
 ,.
-‘‘,visuddhimagge;
+‘‘,;
 ,.
-‘‘visuddhimaggo,;
+‘‘,;
 ,.
 ‘‘,;
 ,’’.

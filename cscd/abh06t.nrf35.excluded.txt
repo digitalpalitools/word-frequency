@@ -63,7 +63,7 @@ Dasānussativibhāgo
 ,.
 1119.
 ,;
-,buddhānussatibhāvanaṃ.
+,.
 1120.
 ,;
 ,.
@@ -114,7 +114,7 @@ Dasānussativibhāgo
 ,.
 1136.
 ,;
-,dhammānussatibhāvanaṃ.
+,.
 1137.
 ,;
 ,.
@@ -160,7 +160,7 @@ Dasānussativibhāgo
 ,;
 ,.
 1151.
-,saṅghānussatibhāvanā;
+,;
 .
 1152.
 ,;
@@ -205,7 +205,7 @@ Dasānussativibhāgo
 ,’’.
 1165.
 ,;
-,sīlānussatibhāvanaṃ.
+,.
 1166.
 ,;
 ,.
@@ -249,7 +249,7 @@ Dasānussativibhāgo
 ,’’.
 1179.
 ;
-,cāgānussatibhāvanaṃ.
+,.
 1180.
 ,;
 ,.
@@ -296,7 +296,7 @@ Dasānussativibhāgo
 ,.
 1194.
 ,;
-,devatānussatiṃ.
+,.
 1195.
 ;
 ,.
@@ -326,7 +326,7 @@ Dasānussativibhāgo
 ,.
 1204.
 ,;
-Upasamānussatī,.
+,.
 1205.
 ,;
 ,.
@@ -411,7 +411,7 @@ Upasamānussatī,.
 ,.
 1231.
 ,;
-Maraṇānussatiṃ,.
+,.
 1232.
 ,;
 ,.
@@ -486,7 +486,7 @@ Maraṇānussatiṃ,.
 -.
 1254.
 ,;
-Kāyagatāsatiṃ,.
+,.
 1255.
 ,;
 ,.
@@ -494,7 +494,7 @@ Kāyagatāsatiṃ,.
 ,;
 ,.
 1257.
-Ānāpānassatiṃ,;
+,;
 ,.
 1258.
 ,;

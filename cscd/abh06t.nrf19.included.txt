@@ -53,14 +53,14 @@ etassa nāmarūpassa paccayaṃ parigaṇhati
 
  kammaṃ catubbidhaṃ diṭṭhadhammavedaniyaṃ tathā
 upapajjāparāpariyāhosikammavasā pana
-tattha  ekajavanavīthiyaṃ sattasu cittesu kusalā vā akusalā vā paṭhamajavanacetanā  nāma taṃ imasmiṃyeva attabhāve vipākaṃ deti tathā asakkontaṃ pana ahosikammaṃ nāhosi kammavipāko na bhavissati kammavipāko natthi kammavipākoti imassa tikassa vasena ahosikammaṃ nāma hoti atthasādhikā pana sattamajavanacetanā  nāma tamanantare attabhāve vipākaṃ deti tathā asakkontaṃ vuttanayena ahosikammaṃ nāma hoti ubhinnamantare pañcajavanacetanā  nāma tamanāgate yadā okāsaṃ labhati tadā vipākaṃ deti sati saṃsārappavattiyā ahosikammaṃ nāma na hoti
+tattha  ekajavanavīthiyaṃ sattasu cittesu kusalā vā akusalā vā paṭhamajavanacetanā diṭṭhadhammavedanīyakammaṃ nāma taṃ imasmiṃyeva attabhāve vipākaṃ deti tathā asakkontaṃ pana ahosikammaṃ nāhosi kammavipāko na bhavissati kammavipāko natthi kammavipākoti imassa tikassa vasena ahosikammaṃ nāma hoti atthasādhikā pana sattamajavanacetanā upapajjavedanīyakammaṃ nāma tamanantare attabhāve vipākaṃ deti tathā asakkontaṃ vuttanayena ahosikammaṃ nāma hoti ubhinnamantare pañcajavanacetanā aparāpariyavedanīyakammaṃ nāma tamanāgate yadā okāsaṃ labhati tadā vipākaṃ deti sati saṃsārappavattiyā ahosikammaṃ nāma na hoti
 
  aparaṃ  catubbidhaṃ kammaṃ garukaṃ bahulampi ca
 āsannañca kaṭattā ca kammanti samudīritaṃ
 
  aññaṃ catubbidhaṃ kammaṃ janakaṃ upathambhakaṃ
 tathūpapīḷakaṃ kammamupaghātakameva ca
-tattha  nāma kusalaṃ vā akusalaṃ vā kammaṃ paṭisandhiyampi pavattepi rūpārūpavipākakkhandhe janeti  pana vipākaṃ janetuṃ na sakkoti aññena kammena dinnāya paṭisandhiyā janite vipāke uppajjanakasukhadukkhaṃ upatthambheti addhānaṃ pavatteti  pana aññena kammena dinnāya paṭisandhiyā janite vipāke uppajjanakasukhadukkhaṃ pīḷeti bādhati addhānaṃ pavattituṃ na deti  pana sayaṃ kusalampi akusalampi samānaṃ  aññaṃ dubbalakammaṃ ghātetvā tassa vipākaṃ paṭibāhitvā attano vipākassa okāsaṃ karoti evaṃ pana kammena okāse kate taṃvipākamuppannaṃ nāma hoti iti imaṃ dvādasavidhaṃ kammaṃ kammavaṭṭe pakkhipitvā  evameko kammavipākavasena nāmarūpassa paccayapariggahaṃ karoti
+tattha janakaṃ nāma kusalaṃ vā akusalaṃ vā kammaṃ paṭisandhiyampi pavattepi rūpārūpavipākakkhandhe janeti upatthambhakaṃ pana vipākaṃ janetuṃ na sakkoti aññena kammena dinnāya paṭisandhiyā janite vipāke uppajjanakasukhadukkhaṃ upatthambheti addhānaṃ pavatteti upapīḷakaṃ pana aññena kammena dinnāya paṭisandhiyā janite vipāke uppajjanakasukhadukkhaṃ pīḷeti bādhati addhānaṃ pavattituṃ na deti upaghātakaṃ pana sayaṃ kusalampi akusalampi samānaṃ  aññaṃ dubbalakammaṃ ghātetvā tassa vipākaṃ paṭibāhitvā attano vipākassa okāsaṃ karoti evaṃ pana kammena okāse kate taṃvipākamuppannaṃ nāma hoti iti imaṃ dvādasavidhaṃ kammaṃ kammavaṭṭe pakkhipitvā  evameko kammavipākavasena nāmarūpassa paccayapariggahaṃ karoti
 iti evaṃ kammavipākavaṭṭavasena nāmarūpassa pavattiṃ disvā yathā idaṃ etarahi evamatītepi addhāne kammavipākavasena paccayato pavattittha anāgatepi pavattissatīti iti kammañceva vipāko cāti kammavipākavasena loko pavattatīti taṃ samanupassati tassevaṃ samanupassato sabbā soḷasavidhā kaṅkhā pahiyyati
 
  hetuphalassa sambandhavaseneva pavattati
@@ -108,7 +108,7 @@ hetusambhārapaccayāti
  evaṃ nānappakārehi nāmarūpassa paccayaṃ
 pariggahetvā addhāsu taritvā kaṅkhamuṭṭhitaṃ
 
- nāma ñāṇaṃ taṃ samudīritaṃ
+kaṅkhāvitaraṇaṃ nāma ñāṇaṃ taṃ samudīritaṃ
 dhammaṭṭhiti yathābhūtaṃ taṃ sammādassanantipi
 
  iminā pana ñāṇena

@@ -3,14 +3,14 @@
 ,;
 yato accantakantā (ka.)’.
 165.
-Sabhāva, vaṅkavuttīnaṃ,dvidhā;
+,,;
 ,’.
 Yathā
 166.
-Līlā vikanti subhago, disā thira vilokano;
-Bodhisattaṅkuro bhāsaṃ, viroci vāca māsabhiṃ.
+,;
+,.
 167.
-,’’parā;
+,’’;
 ’,’.
 Vaṅkavutti atthālaṅkāra
 Uddesa
@@ -27,30 +27,30 @@ Uddesa
 ,,,;
 ,,,,,,.
 172.
-,bhāvo jīvita;
-,silesosiriṃ.
+,;
+,.
 Niddesa
 173.
-,’tisayavutti;
-’,,dvidhā.
+,’;
+’,,.
 174.
-Lokiyātisayasse’,
+’,
 ;
-’,lokātikkantagocarā.
+’,.
 175.
-Pivanti dehakantī ye, nettañjalipuṭena te;
-Nā’laṃ hantuṃ jine’saṃ tvaṃ, taṇhaṃ taṇhāharopi kiṃ?
+,;
+’’,?
 176.
-’,’pamā;
-,,,,bhidhā.
+’,’;
+,,,,.
 177.
-,,’,saddātidhā;
-,munindo candimā’nano.
+,,’,;
+,’.
 178.
-paccayā,vadanaṃ paṅkajāyate;
-Munindanayana dvandaṃ, nīluppaladalīyati.
+,;
+,.
 179.
-Ivādī,,,,,;
+,,,,,;
 ,,,,.
 180.
 ,,,,,;
@@ -71,91 +71,91 @@ Ivādī,,,,,;
 ’,;
 ,.
 186.
-Vikāsipadumaṃ’vā’ti, sundaraṃ sugatā’nanaṃ;
-dhammopamā,.
+’’,’;
+,.
 187.
-Dhammahīnā‘‘’,’’;
-Viparīto’pamā‘‘,’’’.
+‘‘’,’’;
+’‘‘,’’’.
 188.
-Tavā’nana’miva’mbhojaṃ, ambhoja’miva te mukhaṃ;
-Aññamaññopamā’,.
+’’’,’;
+’,.
 189.
 ‘‘’,’;
-,’’abbhutopamā.
+,’’.
 190.
 ‘‘,’;
-’’’’,silesopamā.
+’’’’,.
 191.
-,santānopamā;
-Bālā’vu’yyānamālā’yaṃ, sā’lakā’nanasobhinī.
+,;
+’’’,’’.
 192.
-Khayī cando, bahurajaṃ, padumaṃ, tehi te mukhaṃ;
-Samānampi samukkaṃsi,’nindopamā.
+,,,;
+,’.
 193.
-Asamattho mukheni’ndu, jina! Te paṭigajjituṃ;
-Jaḷo kalaṅkī’,paṭisedhopamā.
+’,;
+’,.
 194.
 ‘‘,;
-’’’,’sādhāraṇopamā.
+’’’,’.
 195.
 ‘‘’’,’;
-’’’,’bhūtopamā.
+’’’,’.
 196.
-’tthagammā,;
+’,;
 ,,,.
 197.
-Bhiṅgāne’mānicakkhūni, nā’mbujaṃ mukha’mevi’daṃ;
-,sarūpopamā.
+’,’’’;
+,.
 198.
 ‘‘’’,’;
-’’’’,parikappopamā.
+’’’’,.
 199.
 ‘‘’’,;
-’’,’saṃsayopamā.
+’’,’.
 200.
 ,’;
-,pativatthupamā.
+,.
 201.
-Janesu jāyamānesu, ne’kopi jinasādiso;
-Dutiyo nanu natthe’va, pārijātassa pādapo.
+,’;
+’,.
 202.
 ’,’;
-,,vākyatthopamā dvidhā.
+,,.
 Ivayuttā
 203.
-Jino saṃklesatattānaṃ, āvibhūto janāna’yaṃ;
-Ghammasantāpatattānaṃ, ghammakāle’mbudo viya.
+,’;
+,’.
 Ivaviyuttā
 204.
-Munindānana mābhāti, vilāsekamanoharaṃ;
-Uddhaṃ samuggatassā’pi, kiṃ te canda vijambhanā.
+,;
+’,.
 205.
 ,;
 ’,.
 206.
-’’bhinna, liṅgā,’;
-Vijāti vacanā, hīnā,’’.
+’’,,’;
+,,’’.
 207.
-‘‘’,’’dhikopamā;
-Aphuṭṭhatthā‘‘,.’’
+‘‘’,’’;
+‘‘,.’’
 208.
-‘‘’’,’pamāpekkhinī;
-Khaṇḍitā’,.
+‘‘’’,’;
+’,.
 209.
 ,’;
 ’,’.
 210.
-Itthīyaṃ’vā’jano yāti, vadatye’sā pumā viya;
-Piyo pāṇā ivā’yaṃ me, vijjā dhana’miva’ccitā.
+’’,’;
+’,’’.
 211.
-Bhavaṃviya mahīpāla, devarājā virocate;
-Ala’maṃsumato kacchaṃ, tejasā rohituṃ ayaṃ.
+,;
+’,.
 212.
 ’,;
-’,rūpaka.
+’,.
 213.
-Asesa vatthu visayaṃ, ekadesa vivuttivivatti (ṭīkā),;
-dvidhā,tidhā.
+,vivatti (ṭīkā),;
+,.
 Asesavatthuvisayasamāsa
 214.
 ,;
@@ -169,8 +169,8 @@ Asesavatthuvisayamissaka
 ,’;
 ’,.
 217.
-Asesavatthuvisaye,;
-Ekadesavivuttimhi,.
+,;
+,.
 Ekadesavivuttisamāsa
 218.
 ,’;
@@ -184,57 +184,57 @@ Ekadesavivuttimissaka
 ,’;
 ’,.
 221.
-’ṭīkāyaṃ uddhaṭaṃ yuttarūpakaṃ sitapupphujalaṃ lola, nettabhiṅga tavā’nanaṃ; kassa nāma mano dhīra, nākaḍḍhati manoharaṃ;,yuttā, yuttādi;
+’ṭīkāyaṃ uddhaṭaṃ yuttarūpakaṃ sitapupphujalaṃ lola, nettabhiṅga tavā’nanaṃ; kassa nāma mano dhīra, nākaḍḍhati manoharaṃ;,,;
 ,’’’.
 222.
-‘‘’’’,khaṇḍarūpakaṃ;
+‘‘’’’,;
 ,‘‘,’’’.
 223.
 ,’;
 ,.
 224.
 punappunuccāraṇaṃ yaṃ (sī. ka.),,;
-,’’māvutti.
+,’’.
 Atthāvutti
 225.
-harati,ādadāti;
-Gaṇhāti,’.
+,;
+,’.
 Padāvutti
 226.
-Vibhāsenti,;
-Vibhā senti,.
+,;
+,.
 Ubhayāvutti
 227.
-viharati,;
-Viharatya’’,’.
+,;
+’’,’.
 228.
 ,’;
-Dīpakaṃ,,tidhā.
+,,.
 Ādi dīpaka
 229.
-Akāsi,’;
+,’;
 ,.
 Majjhe dīpaka
 230.
-,jāyate’;
+,’;
 ’,’.
 Antadīpaka
 231.
 ,’;
-’’,’bhave.
+’’,’.
 Mālādīpaka
 232.
 ’,,;
 ,’,’.
 233.
 ’,;
-,mālādīpakaṃ.
+,.
 234.
 ’’,;
 ,.
 235.
 ’,;
-Akkhepo,tidhā.
+,.
 236.
 ’,;
 ,.
@@ -248,8 +248,8 @@ Vattamānakkhepo.
 parikanta (ka.),.
 Anāgatakkhepo.
 239.
-atthantaranyāso,,;
-Sabbabyāpī visesaṭṭho,’.
+,,;
+,’.
 Hi rahita sabbabyāpī
 240.
 ,;
@@ -257,7 +257,7 @@ Hi rahita sabbabyāpī
 Hi sahita sabbabyāpī
 241.
 ,;
-’,hi.
+’,.
 Hi rahita visesaṭṭha
 242.
 ,pāpesi (ka.);
@@ -268,7 +268,7 @@ Hi sahita visesaṭṭha
 ,.
 244.
 ,;
-Byatireko’’’,catubbidho.
+’’’,.
 Vāccaekabyatireka
 245.
 ,;
@@ -287,17 +287,17 @@ Gammaubhayabyatireka
 ’,’’.
 249.
 ,’;
-,vibhāvanā.
+,.
 Kāraṇantaravibhāvanā
 250.
-Anañjitā’sitaṃ nettaṃ, adharo rañjitā’ruṇo;
-Samānatā bhamu cā’yaṃ, jinā’nāvañcitā tava.
+’,’;
+’,’.
 Sābhāvika vibhāvanā
 251.
 ,;
 ,.
 252.
-,,hetavo;
+,,;
 ,’.
 253.
 ’,;
@@ -324,22 +324,22 @@ Ayuttakārī cittahetu.
 Yuttakārī cittahetu.
 259.
 ,;
-‘Saṅkhyāna’,yathāsaṅkhyaṃ kamo.
+‘’,.
 260.
-Ālāpa hāsa līḷāhi, muninda! Vijayā tava;
-Kokilā kumudāni co, pasevante vanaṃ jalaṃ.
+,;
+,.
 261.
-piyataraṃ,;
+,;
 ’’,.
 262.
-Pītiyā me samuppannā, santa! Sandassanā tava;
-Kālenā’yaṃ bhave pīti, tave’va puna dassanā.
+,;
+’,’.
 263.
 ’,’;
-Samāsavutti’,.
+’,.
 264.
-’,bhinnā’bhinnavisesanā;
-’’,bhinnā’bhinnavisesanā.
+’,’;
+’’,’.
 Abhinnavisesana
 265.
 ’,’;
@@ -353,7 +353,7 @@ Bhinnābhinnavisesana
 ,’’.
 268.
 ’,’;
-,parikappanā.
+,.
 269.
 ’,;
 ’,.
@@ -378,25 +378,25 @@ Gammaparikappanā
 ,.
 275.
 ,;
-’,samāhitaṃ.
+’,.
 276.
-Mārā’ribhaṅgā’bhimukha, mānaso tassa satthuno;
-Mahāmahī mahāravaṃ, ravī’ya’mupakārikā.
+’’,;
+,’’.
 277.
 ’,’;
-‘pariyāya, vuttī’.
+‘,’.
 278.
-Vivaṭa’ṅgaṇanikkhittaṃ, dhana’mārakkha vajjitaṃ;
-Dhanakāma! Yathākāmaṃ, tuvaṃ gaccha yadicchasi.
+’,’;
+,.
 279.
-,byājavaṇṇanaṃ;
+,;
 ’,.
 280.
-Sañcāletu malaṃ tvaṃ’si, bhusaṃ kuvalayā’khilaṃ;
-Visesaṃ tāvatā nātha!, Guṇānaṃ te vadāma kiṃ?
+’,’;
+,?
 281.
 ’,,,;
-,viseso.
+,.
 282.
 ,,,;
 ,.
@@ -416,13 +416,13 @@ Jātivisesavutti.
 Guṇavisesavutti
 286.
 ’,;
-,ruḷhāhaṅkāra.
+,.
 287.
-Dame nandopanandassa, kiṃ me byāpāradassanā?
-Puttā me pādasambhattā, sajjā sante’va tādise.
+,?
+,’.
 288.
-Sileso’,’;
-,tedhā’.
+’,’;
+,’.
 289.
 ,;
 ’,.
@@ -477,13 +477,13 @@ Ocityasamposakapadasilesa
 ,.
 302.
 ,;
-,tulyayogitā.
+,.
 303.
-Sampattasammado loko, sampattā’lokasampado;
-Ubhohi raṃsimālī ca, bhagavā ca tamonudo.
+,’;
+,.
 304.
 ,;
-,nidassanaṃ.
+,.
 Asantaphalanidassana
 305.
 ,;
@@ -494,7 +494,7 @@ Santaphalanidassana
 ’,’.
 307.
 ,;
-,mahantatta.
+,.
 Vibhūtimahantatta
 308.
 ’,’;
@@ -505,7 +505,7 @@ Adhippāyamahantatta
 ,.
 310.
 ,;
-,vañcanā.
+,.
 Asamavañcanā
 311.
 ,;
@@ -516,13 +516,13 @@ Samavañcanā
 ’,.
 313.
 ,’;
-’’,appakatatthuti.
+’’,.
 314.
-Sukhaṃ jīvanti hariṇā, vanesva’parasevino;
-Anāyāso palābhehi, jaladabbhaṅkurādibhi.
+,’;
+,.
 315.
 ,;
-ekāvali’,,.
+’,,.
 Vidhiekāvali
 316.
 ,;
@@ -534,13 +534,13 @@ Nisedhaekāvali
 ’,’.
 318.
 ,;
-’,aññamaññavibhūsanaṃ.
+’,.
 319.
-Byāmaṃ’su maṇḍalaṃ tena, muninā lokabandhunā;
-Mahantiṃ vindatī kantiṃ, sopi teneva tādisiṃ.
+’,;
+,.
 320.
 ,,;
-‘Sahavuttī’,’.
+‘’,’.
 Kriyāsahavutti
 321.
 ,;
@@ -551,31 +551,31 @@ Guṇasahavutti
 ,.
 323.
 ’,;
-’,’virodhitā.
+’,’.
 324.
-Guṇā sabhāva madhurā, api loke’ka bandhuno;
-Sevitā pāpa sevīnaṃ, sampadūsenti mānasaṃ.
+,’;
+,.
 325.
 ,;
-,‘parivuttī’.
+,‘’.
 326.
-Purā paresaṃ datvāna, manuññaṃ nayanādikaṃ;
-Muninā samanuppattā, dāni sabbaññutāsirīmuninda! samanuppatto, dāni sabbaññutāsiriṃ (ka.).
+,;
+,muninda! samanuppatto, dāni sabbaññutāsiriṃ (ka.).
 327.
 ,;
-’,’bhamo.
+’,’.
 328.
-Samaṃ disāsu’jjalāsu, jina pāda nakhaṃ’sunā;
-Passantā abhinandanti, candā’tapa manā janā.
+’,’;
+,’.
 329.
 ,;
-,bhāvo’.
+,’.
 330.
-Nanu teye’va santāno, sāgarā na kulācalā;
-Manampi mariyādaṃ ye, saṃvaṭṭepi jahanti no.
+’,;
+,.
 331.
 ,;
-’,‘missa’.
+’,‘’.
 Aṅgaṅgībhāvamissa
 332.
 ,;
@@ -585,17 +585,17 @@ Sadisa bala bhāva missa
 ,;
 ’,.
 334.
-Āsī’,’;
-Tiloke’kagati nātho,
-Pātu loka mapāyato.
+’,’;
+’,
+.
 335.
 ’,;
-‘Rasavanta’,.
+‘’,.
 336.
-Rāgā’nata’bbhuta saroja mukhaṃ dharāya,
-Pādā tilokagaruno’dhika bandharāgā;
-Ādāya niccasarasena karena gāḷhaṃ,
-Sañcumbayanti satatā’hita sambhamena.
+’’,
+’;
+,
+’.
 337.
 ’’,
 ’;

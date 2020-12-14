@@ -174,7 +174,7 @@ na viññāṇaṃ na khandho na khandhā na saṅkhārā
 
 
 
-   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
+dvādasāyatanāni   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
 
 
 cakkhu cakkhāyatanaṃ cakkhāyatanaṃ cakkhu
@@ -278,7 +278,7 @@ na dhammo nāyatanaṃ nāyatanā na mano
 
 
 
-   cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
+aṭṭhārasadhātuyo   cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
 
 
 cakkhu cakkhudhātu cakkhudhātu cakkhu
@@ -329,7 +329,7 @@ na dhammo na dhātu na dhātū na manoviññāṇaṃ
 
 
 
-   dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
+cattāri saccāni   dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
 
 
 dukkhaṃ  dukkhasaccaṃ dukkhasaccaṃ dukkhaṃ
@@ -401,7 +401,7 @@ na maggo na saccaṃ na saccā na nirodho
 
 
 
-   kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
+tayosaṅkhārā   kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
 
 
 kāyo kāyasaṅkhāro kāyasaṅkhāro kāyo
@@ -437,7 +437,7 @@ na kāyasaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na kāyasaṅkhāro
 na vacīsaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na vacīsaṅkhāro
 
 
-   kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
+sattānusayā   kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
 
 
 
@@ -674,7 +674,7 @@ na abyākatā na dhammā na dhammā na akusalā
 
 
 
-   cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
+bāvīsatindriyāni   cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
 
 
 cakkhu  cakkhundriyaṃ cakkhundriyaṃ cakkhu

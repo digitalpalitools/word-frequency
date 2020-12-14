@@ -20,11 +20,11 @@ aniccatā ca kabaḷīkārāhāroti sabbathā
  aṭṭhavīsavidhaṃ hoti rūpametaṃ sarūpato
 tassa lakkhaṇabhedena sabhāvañca vibhāvaye
 
- sandhāraṇaṃ tu  kakkhaḷalakkhaṇā
-ābandhana āpaggharaṇalakkhaṇā
+ sandhāraṇaṃ tu pathavīdhātu kakkhaḷalakkhaṇā
+ābandhanamāpodhātu āpaggharaṇalakkhaṇā
 
- paripācanatā  uṇhattalakkhaṇā
-samudīraṇatā  vitthambhalakkhaṇā
+ paripācanatā tejodhātu uṇhattalakkhaṇā
+samudīraṇatā vāyodhātu vitthambhalakkhaṇā
 
  sabbatthāvinibhuttāpi asammissakalakkhaṇā
 taṃtaṃbhāvasamussannasambhāresupalakkhitā
@@ -32,22 +32,22 @@ taṃtaṃbhāvasamussannasambhāresupalakkhitā
  aññamaññenupatthaddhā sesarūpassa nissayā
 catudhevaṃ kalāpesu mahābhūtā pavattare
 
- sambhāracakkhumhi sattakkhipaṭalocite
+cakkhu sambhāracakkhumhi sattakkhipaṭalocite
 kaṇhamaṇḍalamajjhamhi pasādoti pavuccati
 
  yena cakkhupasādena rūpāni anupassati
 parittaṃ sukhumañcetaṃ ūkāsirasamūpamaṃ
 
- sotabilassanto
+sotaṃ sotabilassanto
 tambalomācite tathā
 aṅgulivedhanākāre
 pasādoti pakāsito
 
- anto ajapadaṭṭhāne  ghānabile ṭhitaṃ
- jivhāya majjhamhi uppalākārasannibhe
+ anto ajapadaṭṭhāne ghānaṃ ghānabile ṭhitaṃ
+jivhā jivhāya majjhamhi uppalākārasannibhe
 
  iccevaṃ  pana cattāro taṃtaṃdesavavatthitā
-ppasādopādinne sabbaketi yathākkamaṃ
+kāyappasādopādinne sabbaketi yathākkamaṃ
 
  rūpādyābhighātārahabhūtānaṃ  vā yathārahaṃ
 daṭṭhukāmanidānādikammabhūtānameva vā
@@ -58,43 +58,43 @@ kappāsapaṭalasnehasannibhāti ca vaṇṇitā
  pañcāpi jīvitārakkhā rūpādiparivāritā
 dhītarāva kumārāva kalāpantaravuttino
 
- nibhāso bhūtānaṃ  nigghosanaṃ tathā
- ca gandhanaṃ tattha  ca rasanīyatā
+rūpaṃ nibhāso bhūtānaṃ saddo nigghosanaṃ tathā
+gandho ca gandhanaṃ tattha raso ca rasanīyatā
 
- bhūtattayañca  āpodhātuvivajjitaṃ
+ bhūtattayañca phoṭṭhabbaṃ āpodhātuvivajjitaṃ
 saddo aniyato tattha tadaññe sahavuttino
 
  cakkhādipaṭihananalakkhaṇā tu yathākkamaṃ
 pañceva pañcaviññāṇavīthiyā visayā matā
 
- itthindriyaṃ panitthittaṃ ti desito
-purisattaṃ tathābhāvo  nāmako
+ itthindriyaṃ panitthittaṃ itthibhāvoti desito
+purisattaṃ tathābhāvo purisindriya nāmako
 
  taṃ dvayaṃ panupādinne kāye sabbattha labbhati
 kalāpantarabhinnañca bhinnasantānavatti ca
 
  rūpānaṃ kammajātānaṃ anupālanalakkhaṇaṃ
-nti āyu nāma pavuccati
+jīvitindriyarūpanti āyu nāma pavuccati
 
  manodhātuyā ca tathā manoviññāṇadhātuyā
-nissayalakkhaṇaṃ  hadayanissitaṃ
+nissayalakkhaṇaṃ vatthurūpaṃ hadayanissitaṃ
 
  majjhe hadayakosamhi aḍḍhappasatalohite
 bhūtarūpamupādāya cakkhādi viya vattati
 
- rūpānaṃ paricchedakalakkhaṇā
+ākāsadhātu rūpānaṃ paricchedakalakkhaṇā
 taṃtaṃrūpakalāpānaṃ pariyantoti vuccati
 
  cittaṃ sahajarūpānaṃ kāyassa gamanādisu
 santhambhanasandhāraṇacalanassa tu paccayo
 
- vāyodhātuvikāroyaṃ  nāmako
+ vāyodhātuvikāroyaṃ  kāyaviññattināmako
 vāyodhātādhikānaṃ tu bhūtānamiti kecanā
 
  tathā cittasamuṭṭhino vacīghosappavattiyaṃ
 upādinnarūpakāyaghaṭṭanassa tu paccayo
 
- pathavīdhātuvikāroyaṃ nāmako
+ pathavīdhātuvikāroyaṃ vacīviññattināmako
 pathavīdhātādhikānaṃ tu bhūtānamiti kecanā
 
  dvepi kāyavacīkammadvārabhūtā yathākkamaṃ
@@ -103,10 +103,10 @@ te pana ghaṭṭanāhetuvikārākāralakkhaṇā
  viññāpetīti kāyena vācāya ca vicintitaṃ
 sayañca viññāyatīti viññattīti pakittitā
 
- pana rūpānaṃ adandhākāralakkhaṇā
- ca rūpānaṃ maddavākāralakkhaṇā
+lahutā pana rūpānaṃ adandhākāralakkhaṇā
+mudutāpi ca rūpānaṃ maddavākāralakkhaṇā
 
- ca rūpānaṃ yoggatākāralakkhaṇā
+kammaññatā ca rūpānaṃ yoggatākāralakkhaṇā
 gāravathaddhatā yoggapaṭipakkhā yathākkamaṃ
 
  sappāyamutumāhāraṃ labhitvā cittasampadaṃ
@@ -118,8 +118,8 @@ lahutādittayampetaṃ sahavutti tadā bhave
  sappāyaṃ paṭivedhāya paṭipattupakāritā
 sākārā rūpasampatti paññattāva mahesinā
 
- rūpasso nāma rūpassācayalakkhaṇo
-pavattilakkhaṇā ti pakāsitā
+ rūpassopacayo nāma rūpassācayalakkhaṇo
+pavattilakkhaṇā rūpasantatīti pakāsitā
 
  rūpamācayarūpena jāyaticcuparūpari
 pekkhatopacayākārā jāti gayhati yogino

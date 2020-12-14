@@ -4,37 +4,37 @@
 ,.
 ,;
 ,.
-.–.‘‘,…pe…’’nayamātikā,‘‘’’.
-‘‘…pe…’’abbhantaramātikā,‘‘’’.
-‘‘,,,’’,,nayamukhamātikā.
-‘‘’’lakkhaṇamātikā.,bāhiramātikā..
-Saṅgaho.‘‘,,,,,’’(ma. ni. 1.462)jātisaṅgaho.‘‘,,,,,’’(ma. ni. 1.462)sañjātisaṅgaho,.‘‘,,,,’’(ma. ni. 1.462)kiriyāsaṅgaho.‘‘,‘’’’(kathā. 471)gaṇanasaṅgaho,.asaṅgaho.saṅgahitena asaṅgahitādīni,sampayogo,vippayogo,vippayuttādīni,saṅgahitena sampayuttaṃ vippayutta...
+.–.‘‘,…pe…’’,‘‘’’.
+‘‘…pe…’’,‘‘’’.
+‘‘,,,’’,,.
+‘‘’’.,..
+.‘‘,,,,,’’(ma. ni. 1.462).‘‘,,,,,’’(ma. ni. 1.462),.‘‘,,,,’’(ma. ni. 1.462).‘‘,‘’’’(kathā. 471),..,,,,...
 Saṅgahāsaṅgahapadatthavaṇṇanā
-Atthavinicchayato,‘‘’’‘‘,’’,.vibhaṅganayo.
-–..ekādasahī..Ekādasahī..
+,‘‘’’‘‘,’’,..
+–......
 ,,.,..,‘‘’’(dhātu. 15),..
 ,..
 .,.,.
 .,,,..
 ,..,,.,,.,,.,......,..,.
 ,,..,,.,,....
-‘‘,,,.’’,dhātukathāpāḷiaṭṭhakathāsu(dhātu. 77 ādayo; dhātu. aṭṭha. 77).
+‘‘,,,.’’,(dhātu. 77 ādayo; dhātu. aṭṭha. 77).
 Niṭṭhito ‘‘saṅgaho asaṅgaho’’ti padassa
 Atthavinicchayo.
 Saṅgahitenaasaṅgahitapadatthavaṇṇanā
-.,,.,,,.pāḷiyaṃ–
+.,,.,,,.–
 ‘‘,
 ;
 ,
 ’’.(dhātu. 178)–
 .,..–,,.?,,,,,?.,.
 –,,,..,,‘‘’’.,,.
-,,,..…pe….…pe….dvādasahī,...
-tīhāyatanehī.,,.,.Navahi dhātūhī.
-dasahī.Soḷasahī.,,,.
-ekādasahī...
+,,,..…pe….…pe….,...
+.,,.,..
+..,,,.
+...
 Asaṅgahitenasaṅgahitapadatthavaṇṇanā
-,,,,,,.aṭṭhakathāyaṃ–
+,,,,,,.–
 ‘‘,;
 ,.
 ‘‘,;
@@ -50,9 +50,9 @@ Asaṅgahitenaasaṅgahitapadatthavaṇṇanā
 Sampayogavippayogapadatthavaṇṇanā
 ,,.,,.,,,.‘‘,,’’.,,,.,...,.,..
 –?.?,..,.,..
-ekenā.Sattahī.Kehicī.tīhī.Kehici vippayutto.Kehici vippayutto...‘‘,’’..
+........‘‘,’’..
 Sampayuttenavippayuttapadatthavaṇṇanā
-,,.,,,,,,,,.aṭṭhakathāyaṃ–
+,,.,,,,,,,,.–
 ‘‘,
 ;
 ,
@@ -61,7 +61,7 @@ Sampayuttenavippayuttapadatthavaṇṇanā
 ’’.(dhātu. aṭṭha. 306)–
 .–,,.
 –,,,.,,,.
-te dhammā,.Ekenā.te dhammā.Na kehicī,,,.,.,.Ekāyā...
+,...,,,.,.,....
 Vippayuttenasampayuttapadatthavaṇṇanā
 ,,‘‘’’.,.,..
 Sampayuttenasampayuttapadatthavaṇṇanā
@@ -73,11 +73,11 @@ Vippayuttenavippayuttapadatthavaṇṇanā
 Saṅgahitenasampayuttavippayuttapadatthavaṇṇanā
 .–,,.
 –,,.,.,,,…pe….
-ekenā.Ekena khandhenā.Kehicī...
+.....
 Sampayuttenasaṅgahitāsaṅgahitapadatthavaṇṇanā
 .–,,.
 –,,.,,.
-tīhī..Dvīhī...
+.....
 Asaṅgahitenasampayuttavippayuttapadatthavaṇṇanā
 ,,,,.–,,.
 –,,,,..
@@ -85,6 +85,6 @@ Asaṅgahitenasampayuttavippayuttapadatthavaṇṇanā
 ,...
 Vippayuttenasaṅgahitāsaṅgahitapadatthavaṇṇanā
 ,,.–,,.
-–,,.,.,...,dhātukathāpāḷiaṭṭhakathāsu(dhātu. 12; dhātu. aṭṭha. 1-2).
+–,,.,.,...,(dhātu. 12; dhātu. aṭṭha. 1-2).
 Mohavicchedaniyā abhidhammamātikatthavaṇṇanāya
 Dhātukathāmātikatthavaṇṇanā niṭṭhitā.

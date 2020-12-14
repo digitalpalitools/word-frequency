@@ -5,30 +5,30 @@
 ,.
 ,;
 ,.
-23.atthato,,.,paṃsukūliko.paṃsukūlikaṅgaṃ..,.
-tecīvariko.tecīvarikaṅgaṃ.
-,.piṇḍapātiko.,,.piṇḍapātikaṅgaṃ.
-,,.,.,sapadānacāriko.sapadānacārikaṅgaṃ.
-,ekāsaniko.ekāsanikaṅgaṃ.
-.pattapiṇḍiko.pattapiṇḍikaṅgaṃ.
-Khalū.,,.khalupacchābhattiko.....khalupacchābhattikaṅgaṃ.
-āraññiko.āraññikaṅgaṃ.
-,rukkhamūliko.rukkhamūlikaṅgaṃ. Abbhokāsikasosānikaṅgesupi.
-,.yathāsanthatiko.yathāsanthatikaṅgaṃ.
-nesajjiko.nesajjikaṅgaṃ.
-,dhutaṅgāni.dhutaṅgāni.atthato.
-.‘‘,.,.,.,’’.,.lakkhaṇādīhi.
+23.,,.,...,.
+..
+,..,,..
+,,.,.,..
+,..
+...
+.,,.......
+..
+,...
+,...
+..
+,...
+.‘‘,.,.,.,’’.,..
 ..,,,,,,,,.,,...
 1. Paṃsukūlikaṅgakathā
-24..Paṃsukūlikaṅgaṃ‘‘,’’.samādānaṃ.
+24..‘‘,’’..
 ,,,,,,,,,,,,,,,,,,,,,,.
-sosānika.Pāpaṇika.Rathiyacoḷa.Saṅkāracoḷa.Sotthiya...Nhānacoḷa.
-Titthacoḷa.Gatapaccāgata.Aggiḍaḍḍha..Gokhāyitādī..Dhajāhaṭa..,.
-Thūpacīvara.Samaṇacīvara.Ābhisekika.Iddhimaya.Panthika.,.Vātāhaṭa,.Devadattiya.Sāmuddiya.
-,,.,,..,,.,,.,,.,,.vidhānaṃ.
-pabhedo,.ukkaṭṭho.majjhimo.mudū.
-.bhedo.
-Ayaṃ panānisaṃso,‘‘’’(mahāva. 128),,,,,,,‘‘’’(a. ni. 4.27; itivu. 101),,,,.
+........
+........,.
+.....,.,...
+,,.,,..,,.,,.,,.,,..
+,....
+..
+,‘‘’’(mahāva. 128),,,,,,,‘‘’’(a. ni. 4.27; itivu. 101),,,,.
 ,;
 ,.
 ,;
@@ -37,22 +37,22 @@ Ayaṃ panānisaṃso,‘‘’’(mahāva. 128),,,,,,,‘‘’’(a. ni. 4.27;
 ,.
 Ayaṃ tāva paṃsukūlikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 2. Tecīvarikaṅgakathā
-25.tecīvarikaṅgaṃ‘‘,’’.
-,,,..,.vidhānaṃ.
-Pabhedato.ukkaṭṭhena.....,.Majjhimassa,.Mudukassa.....,.
-.bhedo.
-Ayaṃpanānisaṃso,.,,,,,,.
+25.‘‘,’’.
+,,,..,..
+......,.,......,.
+..
+,.,,,,,,.
 ,;
 ,.
 ,;
 ,.
 Ayaṃ tecīvarikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 3. Piṇḍapātikaṅgakathā
-26.Piṇḍapātikaṅgampi‘‘,’’.
-‘‘,,,,,,,,,,,,,’’.‘‘’’‘‘,’’,.vidhānaṃ.
-Pabhedato.ukkaṭṭho,,,.Majjhimo,.Muduko.,.,–‘‘,’’.,,.,,...
-.bhedo.
-Ayaṃ panānisaṃso,‘‘’’(a. ni. 4.27; itivu. 101),,,‘‘’’,,,,,,,,,,,.
+26.‘‘,’’.
+‘‘,,,,,,,,,,,,,’’.‘‘’’‘‘,’’,..
+.,,,.,..,.,–‘‘,’’.,,.,,...
+..
+,‘‘’’(a. ni. 4.27; itivu. 101),,,‘‘’’,,,,,,,,,,,.
 ,;
 ,.
 ,;
@@ -64,11 +64,11 @@ Ayaṃ panānisaṃso,‘‘’’(a. ni. 4.27; itivu. 101),,,‘‘’’,,,,,,
 ’’.
 Ayaṃ piṇḍapātikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 4. Sapadānacārikaṅgakathā
-27.Sapadānacārikaṅgampi‘‘,’’.
-.,.,.,.,...vidhānaṃ.
-Pabhedato.ukkaṭṭho,...Majjhimo,,..Muduko.
-.bhedo.
-Ayaṃ panānisaṃso,,,,,,,,.
+27.‘‘,’’.
+.,.,.,.,....
+.,...,,...
+..
+,,,,,,,,.
 ,
 ;
 ,
@@ -79,11 +79,11 @@ Ayaṃ panānisaṃso,,,,,,,,.
 .
 Ayaṃ sapadānacārikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 5. Ekāsanikaṅgakathā
-28.Ekāsanikaṅgampi‘‘,’’.
-‘‘’’.,.‘‘,,,’’.vidhānaṃ.
-Pabhedato.ukkaṭṭho,,.‘‘’’,,.Majjhimo,..Muduko.,.
-.bhedo.
-Ayaṃ panānisaṃso,,,,,,,.
+28.‘‘,’’.
+‘‘’’.,.‘‘,,,’’..
+.,,.‘‘’’,,.,...,.
+..
+,,,,,,,.
 ,
 ;
 ,
@@ -94,39 +94,39 @@ Ayaṃ panānisaṃso,,,,,,,.
 .
 Ayaṃ ekāsanikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 6. Pattapiṇḍikaṅgakathā
-29.Pattapiṇḍikaṅgampi‘‘,’’.
-,.,,..,....vidhānaṃ.
-Pabhedato.ukkaṭṭhassa..Majjhimassa,.Muduko,,.
-.bhedo.
-Ayaṃ panānisaṃso,.,,,,.
+29.‘‘,’’.
+,.,,..,.....
+...,.,,.
+..
+,.,,,,.
 ,;
 ,.
 ,;
 ,.
 .
 7. Khalupacchābhattikaṅgakathā
-30.Khalupacchābhattikaṅgampi‘‘,’’.
-.vidhānaṃ.
-Pabhedato.ukkaṭṭho,,.Majjhimo,.Muduko.
-.bhedo.
-Ayaṃpanānisaṃso,,,,,.
+30.‘‘,’’.
+..
+.,,.,..
+..
+,,,,,.
 ,;
 ,.
 ,;
 ,.
 .
 8. Āraññikaṅgakathā
-31.Āraññikaṅgampi‘‘,’’.
-.gāmantasenāsanaṃ.
-Gāmo.
-Gāmūpacāro,.,..,.,.
-Araññaṃ‘‘’’(pārā. 92).‘‘,’’(vibha. 529).‘‘’’..
-,,vinayaṭṭhakathāsu.Majjhimaṭṭhakathāyaṃ..
+31.‘‘,’’.
+..
+.
+,.,..,.,.
+‘‘’’(pārā. 92).‘‘,’’(vibha. 529).‘‘’’..
+,,...
 ,,.,,.,.
-,..,.vidhānaṃ.
-Pabhedato.ukkaṭṭhena.Majjhimo.Muduko.
-..,,bhedo.
-Ayaṃpanānisaṃso,,.–‘‘,,’’(a. ni. 6.42; 8.86).,,,,.
+,..,..
+....
+..,,.
+,,.–‘‘,,’’(a. ni. 6.42; 8.86).,,,,.
 ,;
 ,.
 ,;
@@ -137,11 +137,11 @@ Ayaṃpanānisaṃso,,.–‘‘,,’’(a. ni. 6.42; 8.86).,,,,.
 ,.
 .
 9. Rukkhamūlikaṅgakathā
-32.Rukkhamūlikaṅgampi‘‘,’’.
-,,,,,,vidhānaṃ.
-Pabhedato.ukkaṭṭho..Majjhimo.Mudukena..
-.aṅguttarabhāṇakā.bhedo.
-Ayaṃ panānisaṃso,(mahāva. 128),(a. ni. 4.27; itivu. 101),,,,.
+32.‘‘,’’.
+,,,,,,.
+......
+...
+,(mahāva. 128),(a. ni. 4.27; itivu. 101),,,,.
 ,;
 ,.
 ,;
@@ -152,11 +152,11 @@ Ayaṃ panānisaṃso,(mahāva. 128),(a. ni. 4.27; itivu. 101),,,,.
 ,.
 .
 10. Abbhokāsikaṅgakathā
-33.Abbhokāsikaṅgampi‘‘,’’.
-.,.,,,.,.,.vidhānaṃ. Rukkhamūlikassā.
-Pabhedato.ukkaṭṭhassa..Majjhimassa.Mudukassa.
-..bhedo.
-Ayaṃ panānisaṃso,,,‘‘,’’(saṃ. ni. 1.224),,,.
+33.‘‘,’’.
+.,.,,,.,.,...
+.....
+...
+,,,‘‘,’’(saṃ. ni. 1.224),,,.
 ,;
 ,.
 ,;
@@ -165,13 +165,13 @@ Ayaṃ panānisaṃso,,,‘‘,’’(saṃ. ni. 1.224),,,.
 ,.
 .
 11. Sosānikaṅgakathā
-34.Sosānikaṅgampi‘‘,’’.
+34.‘‘,’’.
 ‘‘’’,.,,.
 .,..
-..,....vidhānaṃ.
-Pabhedato.ukkaṭṭhena,.Majjhimassa.Mudukassa.
-..bhedo.
-Ayaṃ panānisaṃso,,,,,,,,.
+..,.....
+.,...
+...
+,,,,,,,,.
 ,
 ;
 ,
@@ -182,11 +182,11 @@ Ayaṃ panānisaṃso,,,,,,,,.
 .
 .
 12. Yathāsanthatikaṅgakathā
-35.Yathāsanthatikaṅgampi‘‘,’’.
-‘‘’’,,.vidhānaṃ.
-Pabhedato.ukkaṭṭho.Majjhimo..Muduko,.
-bhedo.
-Ayaṃ panānisaṃso,‘‘’’(jā. 1.1.136; pāci. 793),,,,,.
+35.‘‘,’’.
+‘‘’’,,..
+....,.
+.
+,‘‘’’(jā. 1.1.136; pāci. 793),,,,,.
 ,;
 ,.
 ,;
@@ -195,11 +195,11 @@ Ayaṃ panānisaṃso,‘‘’’(jā. 1.1.136; pāci. 793),,,,,.
 ,.
 .
 13. Nesajjikaṅgakathā
-36.Nesajjikaṅgampi‘‘,’’.
-..vidhānaṃ.
-Pabhedato.ukkaṭṭhassa,,.Majjhimassa.Mudukassa.....
-.bhedo.
-Ayaṃ panānisaṃso,‘‘’’(dī. ni. 3.320; ma. ni. 1.186),,,,.
+36.‘‘,’’.
+...
+.,,.......
+..
+,‘‘’’(dī. ni. 3.320; ma. ni. 1.186),,,,.
 ,;
 ,.
 ,;
@@ -212,21 +212,21 @@ Dhutaṅgapakiṇṇakakathā
 ,;
 ,.–
 .
-kusalattikato,,.
+,,.
 ‘‘(a. ni. 5.181; pari. 325)’’.–‘‘’’.,..,..,,,..‘‘’’.
 ‘‘,..,’’.
-Dhutādīnaṃvibhāgato.....
-dhuto.
-Dhutavādo,,,.
+.....
+.
+,,,.
 ,,,.,‘‘’’.,,.,‘‘’’.,.,‘‘’’.,.,‘‘.
-Dhutadhammā veditabbā,,,,‘‘’’(a. ni. 5.181; pari. 325),...,.,..
-Dhutaṅgāni veditabbānī…pe…..
+,,,,‘‘’’(a. ni. 5.181; pari. 325),...,.,..
+…pe…..
 .?.....
-Samāsabyāsatosamāsato,.,,....,,,,,.
+,.,,....,,,,,.
 ,,,...
 ,..,.,.,,.,.
 ..‘‘,’’.
-Byāsato,,,,.,.,,,....,..,.,.
+,,,,.,.,,,....,..,.,.
 ‘‘’’,.
 Iti sādhujanapāmojjatthāya kate visuddhimagge
 Dhutaṅganiddeso nāma dutiyo paricchedo.

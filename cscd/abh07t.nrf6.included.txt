@@ -3,7 +3,7 @@
 tesaṃ dāni yathāyogaṃ pavakkhāmi samuccayaṃ
  akusalasaṅgaho missakasaṅgaho bodhipakkhiyasaṅgaho sabbasaṅgaho ceti samuccayasaṅgaho catubbidho veditabbo
 
- kathaṃ  tāva cattāro āsavā  kāmāsavo bhavāsavo diṭṭhāsavo avijjāsavo
+ kathaṃ akusalasaṅgahe tāva cattāro āsavā  kāmāsavo bhavāsavo diṭṭhāsavo avijjāsavo
  cattāro oghā  kāmogho bhavogho diṭṭhogho avijjogho
  cattāro yogā  kāmayogo bhavayogo diṭṭhiyogo avijjāyogo
  cattāro ganthā  abhijjhākāyagantho byāpādo kāyagantho sīlabbataparāmāso kāyagantho idaṃsaccābhiniveso kāyagantho
@@ -21,7 +21,7 @@ aṭṭha nīvaraṇā siyuṃ
 chaḷevānusayā  honti nava saṃyojanā matā
 kilesā dasa vuttoyaṃ navadhā pāpasaṅgaho
 
- cha hetū  lobho doso moho alobho adoso amoho
+missakasaṅgahe cha hetū  lobho doso moho alobho adoso amoho
  satta  jhānaṅgāni  vitakko vicāro pīti ekaggatā somanassaṃ domanassaṃ upekkhā
  dvādasa maggaṅgāni  sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi
  bāvīsatindriyāni  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ manindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
@@ -40,7 +40,7 @@ soḷasindriyadhammā ca baladhammā naveritā
 cattārodhipati vuttā tathāhārāti sattadhā
 kusalādisamākiṇṇo vuttomissakasaṅgaho
 
- cattāro satipaṭṭhānā kāyānupassanāsatipaṭṭhānaṃ vedanānupassanāsatipaṭṭhānaṃ cittānupassanāsatipaṭṭhānaṃ dhammānupassanāsatipaṭṭhānaṃ
+bodhipakkhiyasaṅgahe cattāro satipaṭṭhānā kāyānupassanāsatipaṭṭhānaṃ vedanānupassanāsatipaṭṭhānaṃ cittānupassanāsatipaṭṭhānaṃ dhammānupassanāsatipaṭṭhānaṃ
  cattāro sammappadhānā uppannānaṃ pāpakānaṃ pahānāya vāyāmo anuppannānaṃ pāpakānaṃ anuppādāya vāyāmo anuppannānaṃ kusalānaṃ uppādāya vāyāmo uppannānaṃ kusalānaṃ bhiyyobhāvāya vāyāmo
  cattāro  iddhipādā  chandiddhipādo vīriyiddhipādo cittiddhipādo vīmaṃsiddhipādo
  pañcindriyāni  saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ
@@ -62,7 +62,7 @@ dhammānameso pavaro vibhāgo
  sabbe  lokuttare honti na vā saṅkappapītiyo
 lokiyepi yathāyogaṃ chabbisuddhipavattiyaṃ
 
- pañcakkhandhā  rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
+sabbasaṅgahe pañcakkhandhā  rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
  pañcupādānakkhandhā   rūpupādānakkhandho vedanupādānakkhandho saññupādānakkhandho saṅkhārupādānakkhandho viññāṇupādānakkhandho
  dvādasāyatanāni  cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ manāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ dhammāyatanaṃ
  aṭṭhārasa dhātuyo  cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu

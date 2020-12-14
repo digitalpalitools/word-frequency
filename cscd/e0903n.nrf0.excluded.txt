@@ -3,23 +3,23 @@ Suttantapiṭaka
 Saṃyuttanikāye
 Sagāthāvaggapāḷi
 Saṃgāyanassa pucchā vissajjanā
-Pucchā –.
-Vissajjanā –.
-Pucchā –,.
-Vissajjanā –.
-Pucchā –,.
-Vissajjanā –.
-Pucchā –,,.
-Vissajjanā –.
+–.
+–.
+–,.
+–.
+–,.
+–.
+–,,.
+–.
 ,.
 Devatāsaṃyutta
 Oghataraṇasutta
-Pucchā –.
-Vissajjanā –,,,‘‘’’,
+–.
+–,,,‘‘’’,
 ‘‘’’,.
 Accentisutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,
 ,
 ,
@@ -31,8 +31,8 @@ Vissajjanā –.–
 ’’–
 .
 Sattisutta
-Pucchā –.
-Vissajjanā –,–
+–.
+–,–
 ‘‘,;
 ,’’–
 –
@@ -44,8 +44,8 @@ Vissajjanā –,–
 ,,
 ,–
 Jaṭāsutta
-Pucchā –.
-Vissajjanā –,–
+–.
+–,–
 ‘‘,;
 ,’’–
 –
@@ -61,8 +61,8 @@ Vissajjanā –,–
 ,;
 ,.
 Accharāsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,;
 ,’’.
 –
@@ -76,8 +76,8 @@ Vissajjanā –.–
 ,;
 ,–
 Jarāsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,;
 ,’’.
 –
@@ -90,8 +90,8 @@ Vissajjanā –.–
 .
 Devaputtasaṃyutta
 Subrahmasutta
-Pucchā –..
-Vissajjanā –.–
+–..
+–.–
 ‘‘,;
 ,;
 ,’’–
@@ -105,43 +105,43 @@ Vissajjanā –.–
 ,;
 ,–
 Rohitassasutta
-Pucchā –.
-Vissajjanā –.‘‘,’’.‘‘,’’.
+–.
+–.‘‘,’’.‘‘,’’.
 Kosalasaṃyutta
 Daharasutta
-Pucchā –.
-Vissajjanā –.,,‘‘‘’’’.‘‘‘’,’’.
+–.
+–.,,‘‘‘’’’.‘‘‘’,’’.
 ,;
 ,;
 ,–
 Attarakkhitasutta
-Pucchā –.
-Vissajjanā –.‘‘’’..
+–.
+–.‘‘’’..
 ,;
 ,,;
 ,.
 Appakasutta
-Pucchā –.
-Vissajjanā –.‘‘,,’’.‘‘’’.
+–.
+–.‘‘,,’’.‘‘’’.
 Mallikāsutta
-Pucchā –.
-Vissajjanā –.‘‘’’..
+–.
+–.‘‘’’..
 ,.,–
 Sattajaṭilasutta
-Pucchā –…pe….
-Vissajjanā –.,,‘‘,’’.‘‘‘‘,’’.
+–…pe….
+–.,,‘‘,’’.‘‘‘‘,’’.
 ,;
 ,.
 ,;
 ,-
 Pañcarājasutta
-Pucchā –.
-Vissajjanā –.‘‘’’.‘‘’’.
+–.
+–.‘‘’’.‘‘’’.
 ‘’–
 ,.,–
 Dutiyaaputtakasutta
-Pucchā –.
-Vissajjanā –.‘‘,’’.‘‘,,’’.
+–.
+–.‘‘,’’.‘‘,,’’.
 ,,
 ,.
 ,;
@@ -152,8 +152,8 @@ Vissajjanā –.‘‘,’’.‘‘,,’’.
 ,–
 Mārasaṃyutta
 Tapokammasutta
-Pucchā –.
-Vissajjanā –..
+–.
+–..
 ‘‘,;
 ,’’.
 –
@@ -167,8 +167,8 @@ Vissajjanā –..
 ,;
 ,;
 Hatthirājavaṇṇasutta
-Pucchā –.
-Vissajjanā –..
+–.
+–..
 –
 ‘‘,;
 ,’’.
@@ -177,9 +177,9 @@ Vissajjanā –..
 ,–
 Bhikkhunīsaṃyutta
 Āḷavikāsutta
-Pucchā –,
+–,
 ..
-Vissajjanā –.–
+–.–
 ‘‘,;
 ,’’.
 –
@@ -195,8 +195,8 @@ Vissajjanā –.–
 ,;
 ,–
 Somāsutta
-Pucchā –.
-Vissajjanā –..
+–.
+–..
 ‘‘,;
 ,’’.
 –
@@ -212,8 +212,8 @@ Vissajjanā –..
 ,;
 ,.
 Kisāgotamīsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,;
 ,’’.
 –
@@ -229,8 +229,8 @@ Vissajjanā –.–
 ,;
 ,.
 Uppalavaṇṇāsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,.,’’.
 –
 ‘‘,
@@ -243,8 +243,8 @@ Vissajjanā –.–
 ,’’.
 .
 Cālāsutta
-Pucchā –.
-Vissajjanā –.‘‘’’.’’.
+–.
+–.‘‘’’.’’.
 ,;
 ,.
 –
@@ -262,8 +262,8 @@ Vissajjanā –.‘‘’’.’’.
 ,,
 ,.
 Selāsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ,;
 ,.
 –
@@ -275,8 +275,8 @@ Vissajjanā –.–
 ,;
 ,.
 Vajirāsutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ,,
 ,.
 –
@@ -293,8 +293,8 @@ Vissajjanā –.–
 ,.
 Brahmasaṃyutta
 Gāravasutta
-Pucchā –.
-Vissajjanā –..‘‘,’’.
+–.
+–..‘‘,’’.
 ‘‘,
 ,.
 ;
@@ -309,7 +309,7 @@ Vissajjanā –..‘‘,’’.
 ,.
 Aññaratabrahmasutta
 -.
-Vissajjanā –.‘‘,’’.–
+–.‘‘,’’.–
 ,;
 ,;
 .
@@ -321,16 +321,16 @@ Vissajjanā –.‘‘,’’.–
 ,;
 ,-–
 Aruṇavatīsutta
-Pucchā –.
-Vissajjanā –‘‘.’’.
+–.
+–‘‘.’’.
 ,;
 ,;
 ,;
 ,-–
 Brāhmaṇasaṃyutta
 Dhanañjānīsutta
-Pucchā –.
-Vissajjanā –..
+–.
+–..
 ‘‘,
 ;
 ,
@@ -345,11 +345,11 @@ Vissajjanā –..
 .
 ,;
 ,–
-Pucchā –,.
-Vissajjanā –‘‘,,,,,’’..
+–,.
+–‘‘,,,,,’’..
 Akkosasutta
-Pucchā –.
-Vissajjanā –..‘‘,’’.
+–.
+–..‘‘,’’.
 ,
 ;
 ,
@@ -366,11 +366,11 @@ Vissajjanā –..‘‘,’’.
 ;
 ,
 .
-Pucchā –..
-Vissajjanā –‘‘,’’..
+–..
+–‘‘,’’..
 Bahudhītarasutta
-Pucchā –…pe….
-Vissajjanā –..
+–…pe….
+–..
 ‘‘,;
 ,;
 ,;
@@ -429,11 +429,11 @@ Vissajjanā –..
 (7)
 ,;
 ,.
-Pucchā –..
-Vissajjanā –‘‘,,,,,,’’.‘‘,’’.
+–..
+–‘‘,,,,,,’’.‘‘,’’.
 Kasibhāradvājasutta
-Pucchā –.
-Vissajjanā –..
+–.
+–..
 ‘‘,.,’’.–
 ‘‘,;
 ,.
@@ -448,12 +448,12 @@ Vissajjanā –..
 ,.
 ,;
 ,.
-Pucchā –.
-Vissajjanā –‘‘,’’.
+–.
+–‘‘,’’.
 .
 Udayasutta
-Pucchā –.
-Vissajjanā –.‘‘’’.–
+–.
+–.‘‘’’.–
 ,;
 ,.
 .
@@ -466,14 +466,14 @@ Vissajjanā –.‘‘’’.–
 ,;
 ,-–
 Mātuposakasutta
-Pucchā –.
-Vissajjanā –.‘‘,,’’,‘‘,,,’’.
+–.
+–.‘‘,,’’,‘‘,,,’’.
 ,;
 ,;
 ,–
 Khomadussasutta
-Pucchā –…pe….
-Vissajjanā –,‘‘,’’.
+–…pe….
+–,‘‘,’’.
 –
 ‘‘,
 ;
@@ -486,8 +486,8 @@ Vissajjanā –,‘‘,’’.
 –
 Vaṅgīsasaṃyutta
 Ānandasutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,;
 ,’’.
 –
@@ -511,8 +511,8 @@ Vissajjanā –.–
 ,;
 ,.
 Vaṅgīsasutta
-Pucchā –.
-Vissajjanā ––
+–.
+––
 ‘‘,,
 ,;
 ,;
@@ -536,8 +536,8 @@ Vissajjanā ––
 ,.
 Vanasaṃyutta
 Ānandasutta
-Pucchā –.
-Vissajjanā –.,–
+–.
+–.,–
 ‘‘,
 ;
 ,
@@ -547,8 +547,8 @@ Vissajjanā –.,–
 ,-–
 Yakkhasaṃyutta
 Indakasutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,
 ;
 ,
@@ -561,8 +561,8 @@ Vissajjanā –.–
 ,’’.
 .
 Āḷavakasutta
-Pucchā –…pe….
-Vissajjanā –.–
+–…pe….
+–.–
 ,
 ;
 ,
@@ -595,20 +595,20 @@ Vissajjanā –.–
 ,–
 Sakkasaṃyutta
 Vatapadasutta
-Pucchā –.
-Vissajjanā –,.
+–.
+–,.
 .
 ,;
 ,;
 ,;
 ,‘‘’’.
 Daliddasutta
-Pucchā –..‘‘,,,,,’’.
+–..‘‘,,,,,’’.
 ,;
 ,.
 Yajamānasutta
-Pucchā –.
-Vissajjanā –.–
+–.
+–.–
 ‘‘,;
 ,’’.
 –
@@ -624,8 +624,8 @@ Vissajjanā –.–
 ,;
 ,–
 Gahaṭṭhavandanāsutta
-Pucchā –.
-Vissajjanā –‘‘’’.
+–.
+–‘‘’’.
 ,;
 ,;
 ,–

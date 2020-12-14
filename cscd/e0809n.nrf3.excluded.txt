@@ -4,7 +4,7 @@
 ,;
 rājaṭhānī (ṭī.),.
 199.
-Sākhānagara,;
+,;
 ,,.
 200.
 ,,;
@@ -14,7 +14,7 @@ saṃsumāra (ṭīkā),.
 ,.
 202.
 ,;
-Byūho,pathaddhi.
+,.
 203.
 ,;
 ,uddāpa, uddāpa.
@@ -32,20 +32,20 @@ Byūho,pathaddhi.
 ,,,.
 208.
 ,;
-,hatthinakho.
+,.
 209.
-,maḍḍhayogo;
-māḷo,
-Pāsādo.
+,;
+,
+.
 210.
 ,;
-,paṭikkamana.
+,.
 211.
-,gandhakuṭi;
+,;
 ,.
 212.
-,soṇḍā;
-vaccakuṭi,massamo.
+,;
+,.
 213.
 ,;
 ,.
@@ -54,14 +54,14 @@ vaccakuṭi,massamo.
 ,.
 215.
 ,’;
-,kacchantaraṃ.
+,.
 216.
 ’,
 ,;
 ,.
 217.
 ,’;
-,,nibbaṃ.
+,,.
 218.
 ,,;
 ,,.
@@ -70,22 +70,22 @@ vaccakuṭi,massamo.
 ,,.
 220.
 ,;
-Pāṭikā,,.
+,,.
 221.
-,gopānasī,;
-,viṭaṅko.
+,,;
+,.
 222.
 ,;
 ’,.
 223.
-Saṅghāto pakkhapāso,tulā;
+,;
 ,.
 224.
 ,;
 ,,.
 225.
-vatthu,;
-nigamo,‘adhibhū’ti īrito kathito (ṭī.).
+,;
+,‘adhibhū’ti īrito kathito (ṭī.).
 226.
 ,
 .
@@ -108,9 +108,9 @@ Puravaggo niṭṭhito.
 ,;
 ,.
 232.
-Mahesī,
-Bhoginī;
-,,bhisārikā.
+,
+;
+,,.
 233.
 ,;
 ,.
@@ -139,7 +139,7 @@ Bhoginī;
 241.
 ,’;
 ,
-’raso.
+’.
 242.
 ,dampatīti padaṃ pulliṅga bahuvacanantaṃ ikārantaṃ, tudampati (ṭī.);
 ,.
@@ -150,29 +150,29 @@ Bhoginī;
 244.
 ,,;
 ’,
-Sālo.
+.
 245.
-Nanandā,;
-Mātulo,,mātulānī.
+,;
+,,.
 246.
-,sassu;
-Sasuro bhāgineyyo,.
+,;
+,.
 247.
-,devaro;
-jāmātā,
+,;
+,
 .
 248.
-Mātucchā,pitucchā;
+,;
 ,
 .
 249.
 ,;
-pitaro, puttā.
+,.
 250.
-Sasurā,bhātaro;
+,;
 ,.
 251.
-palitaṃ,;
+,;
 ,.
 252.
 ’’,;
@@ -188,53 +188,53 @@ palitaṃ,;
 ’,;
 ,.
 257.
-Dhammillo,
+,
 ;
 ;
-jaṭā.
+.
 258.
 ;
 ;
-Sīmanto,.
+,.
 259.
 ,;
-Massu,.
+,.
 260.
 khappo (ṭī.)’,;
 ,.
 261.
 ,;
-Dāṭhā,apāṅgo.
+,.
 262.
 ,’;
 gaṇḍatthī (ṭī.) hanvatthī=hanu+itthī; hana+u (ṇvādi),
-Cubukaṃ’.
+’.
 263.
 ,;
-Kambugīvā,;
-,kambugīvā.
+,;
+,.
 264.
-,jattu;
-,,’passa.
+,;
+,,’.
 265.
 ,;
-Maṇibandho,’.
+,’.
 266.
-,karabho,;
-,,pañca,;
+,,;
+,,,;
 ,’.
 267.
 ,,;
-’,pasato.
+’,.
 268.
 ,,;
 ,.
 269.
-Byāmo,;
-,porisaṃ.
+,;
+,.
 270.
 ,;
-Cūcukaṃ,.
+,.
 271.
 ’,catukkaṃ udare; 944-gāthāpi passitabbā;
 ,.
@@ -250,16 +250,16 @@ Cūcukaṃ,.
 ,.
 275.
 ,;
-Pūtimutta,chakaṇaṃ.
+,.
 276.
-vatthi,’’;
+,’’;
 ,.
 277.
 ,;
 ,.
 278.
 ’,;
-,akkhako.
+,.
 279.
 ,;
 ,.
@@ -283,41 +283,41 @@ vatthi,’’;
 ,.
 286.
 ,kiṃkaṇī kiṃ kaṇikā (ka.);
-,,sākkharaṃ.
+,,.
 287.
 ’,;
 ,.
 288.
 ,;
 289.
-,mukhaphullaṃ’ṇṇataṃ;
-Uggatthanaṃ giṅgamaka,.
+,’;
+,.
 290.
 ,;
 ,.
 291.
 ,;
-,vatthantaraṃ.
+,.
 292.
 ,;
 ’,.
 293.
-,mahata;
+,;
 ,.
 294.
-,dasā;
-Nālipaṭṭo,.
+,;
+,.
 295.
 ,
 .
 296.
 ,;
-Maṇḍalaṃ,vivaṭṭa kusi.
+,.
 297.
 ,,,,;
-kappāsikaṃ,khomā.
+,.
 298.
-Koseyyaṃ,,kambalaṃ;
+,,;
 ,.
 299.
 ,;
@@ -330,7 +330,7 @@ Koseyyaṃ,,kambalaṃ;
 ,.
 302.
 ,’’;
-Kāḷāgaru’,.
+’,.
 303.
 ,;
 ,.
@@ -344,31 +344,31 @@ Kāḷāgaru’,.
 ,’;
 ,.
 307.
-,vāsana;
+,;
 pupphaṃ dāmaṃ (ka.),.
 308.
 ’,;
 ,.
 309.
-,tvaṭanī,
+,,
 310.
 ,;
-,mañcantarā.
+,.
 311.
 ’,;
-Kocchaṃ,sandī.
+,.
 312.
 ,
-gonako;
-,cittakaṃ.
+;
+,.
 313.
-paṭalikā,paṭikā;
-’dda,lomi ekantalomi.
+,;
+’,.
 314.
-,kuttakaṃ;
-,vikatikā.
+,;
+,.
 315.
-Kaṭṭissaṃ koseyyaṃ,;
+,;
 ,.
 316.
 ,;
@@ -378,19 +378,19 @@ Kaṭṭissaṃ koseyyaṃ,;
 ,.
 318.
 ,;
-Tivaggo,,,catuvaggo.
+,,,.
 319.
 ,;
 ,.
 320.
 ,
 ;
-Kuṇī,.
+,.
 321.
 ,
 ;
-Kāṇo,
-andho.
+,
+.
 322.
 ,’;
 ,.
@@ -400,7 +400,7 @@ andho.
 .
 324.
 pīnāsotipi pāṭho,
-siṅghānikā;
+;
 ’,.
 325.
 ,;
@@ -415,7 +415,7 @@ siṅghānikā;
 ,;
 ,bhagandaro (ka.).
 329.
-,mayantarā;
+,;
 ,.
 330.
 ,;
@@ -425,10 +425,10 @@ siṅghānikā;
 ,
 Naravaggo niṭṭhito.
 4. Catubbaṇṇavagga
-Khattiyavagga
+
 332.
 ,;
-vaṇṇā,.
+,.
 333.
 ,
 ;
@@ -438,7 +438,7 @@ vaṇṇā,.
 ,.
 335.
 ,;
-,maṇḍalissaro.
+,.
 336.
 ,;
 bhaddā kaccānā (ṭī.),.
@@ -446,24 +446,24 @@ bhaddā kaccānā (ṭī.),.
 ,;
 ,.
 338.
-khattiyamahāsālā,;
+,;
 ,.
 339.
-dvijamahāsālā,;
-gahapati, mahāsālā.
+,;
+,.
 340.
 ,;
 ,,.
 341.
-,akkhadasso;
+,;
 ,.
 342.
-Anīkaṭṭho,;
+,;
 ,.
 343.
 ,
 ;
-sattu, mitto.
+,.
 344.
 ,’;(Sattu+ari)
 ,.
@@ -472,25 +472,25 @@ sattu, mitto.
 ,.
 346.
 ,suhajjo (ṭī.);
-Sambhatto,sandiṭṭho.
+,.
 347.
 ,’;
 ,.
 348.
 ,;
-,nyupāyā.
+,.
 349.
 ,;
 350.
 ’,;
-Rajjaṅgānī,.
+,.
 351.
 ’,,;
-Pabhāvo,
-Patāpo.
+,
+.
 352.
-,catukkaṇṇo;
-chakkaṇṇo,.
+,;
+,.
 353.
 ,,;
 ,
@@ -503,16 +503,16 @@ mantu (ka.),;
 ,.
 356.
 ’,;
-Suṅkaṃ,’.
+,’.
 357.
 ,;
-Sīhāsanaṃ,.
+,.
 358.
 ,;
-kakudhabhaṇḍāni,.
+,.
 359.
 ,;
-,,,,senā.
+,,,,.
 360.
 ,;
 ,
@@ -520,13 +520,13 @@ kakudhabhaṇḍāni,.
 361.
 ,;
 ’,
-gajakulāni.
+.
 362.
 ,;
 ,.
 363.
-Kumbho,cūlikā;
-Āsanaṃ,mecako.
+,;
+,.
 364.
 ,’;
 ,
@@ -534,41 +534,41 @@ Kumbho,cūlikā;
 365.
 ,
 ;
-kacchā, kappano.
+,.
 366.
 ,;
-Tomaro,.
+,.
 367.
-Tuttaṃ,aṅkuso;
+,;
 ,
 .
 368.
-Gāmaṇīyo,;
+,;
 ,
 .
 369.
-assataro,
-Jāniyo;
-vinīto,
-Kisoro.
+,
+;
+,
+.
 370.
 ,;
-,kasā.
+,.
 371.
-Kusā,’;
+,’;
 ,.
 372.
-phussa, ratho;
-veyaggho,
-Deppo.
+,;
+,
+.
 373.
 ,’(sakaṭo pi+anaṃ);
-,nemi.
+,.
 374.
-nābhi,;
-āṇī,’.
+,;
+,’.
 375.
-Dhurorathassaṅgā,;
+,;
 ,.
 376.
 ,;
@@ -582,33 +582,33 @@ Dhurorathassaṅgā,;
 ,.
 379.
 ,;
-,jeyya.
+,.
 380.
 ,;
 ,.
 381.
 ,;
 ,
-Byūho.
+.
 382.
-Hatthī,,
-turago, ratho;
+,,
+,;
 ,.
 383.
-Hatthānīkaṃ hayānīkaṃ, rathānīkaṃ;
-,pattānīkaṃ.
+,;
+,.
 384.
 ,;
-,kkhobhanīakkhobhiṇī (ka.).
+,akkhobhiṇī (ka.).
 385.
 ,;
 āyudhantipi pāṭho’,.
 386.
 ,;
-,āyudhaṃcatubbidhaṃ.
+,.
 387.
-Muttāmutta,amuttaṃ;
-Pāṇimuttaṃ,yantamuttaṃ.
+,;
+,.
 388.
 ,;
 ,
@@ -617,11 +617,11 @@ Pāṇimuttaṃ,yantamuttaṃ.
 ,urappo (ka.)’;
 ,.
 390.
-diddho,;
-,’pāsanaṃ.
+,;
+,’.
 391.
 ,;
-Kosi,tharu.
+,.
 392.
 ,;
 ’,.
@@ -630,7 +630,7 @@ Kosi,tharu.
 kudhārī (ṭī.),.
 394.
 ,;
-’satthabhedā,
+’,
 ’.
 395.
 ,;
@@ -641,10 +641,10 @@ kudhārī (ṭī.),.
 .
 397.
 ,;
-’’,’hamahamikā.
+’’,’.
 398.
-,vikkamo;
-,jayapāna.
+,;
+,.
 399.
 ,;
 ,.
@@ -653,11 +653,11 @@ kudhārī (ṭī.),.
 ,
 .
 401.
-Uppādouppāto (ka.)1027-gāthā passitabbā,;
+uppāto (ka.)1027-gāthā passitabbā,;
 ,.
 402.
-Nibbuddhaṃniyuddhaṃ (ka.),;
-Parājayo,.
+niyuddhaṃ (ka.),;
+,.
 403.
 ,;
 ,.
@@ -669,8 +669,8 @@ Parājayo,.
 ;
 ,.
 406.
-Kabandho,;
-sivathikā,.
+,;
+,.
 407.
 ,’;
 ,.
@@ -681,61 +681,61 @@ Iti khattiyavaggo.
 ’.
 409.
 ,;
-cattāro,assamā.
+,.
 410.
-,sabrahmacārino;
+,;
 ,nissayadāyako (ṭī.).
 411.
 ,;
-,cariyo.
+,.
 412.
 ,’;
-,vedī.
+,.
 413.
 ,;
-,yāgā mahā.
+,.
 414.
 iditvijo (ṭī.),
 ;
 ,.
 415.
-Catasso parisā,;
-,ṭṭha parisā.
+,;
+,.
 416.
 ,,,,;
 ,,.
 417.
-chandaṃ,’;
-,sāvittī.
+,’;
+,.
 418.
-caru,sujā;
-pāyāso,.
+,;
+,.
 419.
-Yūpo,tva’raṇī;
-’,’ggayo.
+,’;
+’,’.
 420.
 ,;
 ,.
 421.
-mahāpariccāgo,,;
+,,;
 ,’.
 422.
 ,;
-,dānavatthū.
+,.
 423.
-,muddhadehikaṃ;
-nivāpo, saddhaṃ.
+,;
+,.
 424.
 ,;
-,gamiko.
+,.
 425.
-Pajjaṃ,’;
+,’;
 ’,.
 426.
 ,;
 ,.
 427.
-Ajjhesanā,;
+,;
 428.
 ,;
 ,.
@@ -746,21 +746,21 @@ Ajjhesanā,;
 ,;
 ’,.
 431.
-ābhi, samācārika;
-Ādibrahmacariyaṃ,.
+,;
+,.
 432.
 ,;
-Upavāso,.
+,.
 433.
 ,;
 ,.
 434.
-,yatayo vasino;
+,;
 ’,.
 435.
 ,
-Ariyo;
-sekhā,.
+;
+,.
 436.
 ,;
 ,.
@@ -768,45 +768,45 @@ sekhā,.
 ,’;
 438.
 ,;
-,sahadhammikā.
+,.
 439.
 ,;
-,parikkhārā’ṭṭha.
+,’.
 440.
 ,;
 ,.
 441.
 ,;
-,pāsaṇḍā.
+,.
 442.
 ,;
 ,.
 443.
 ,;
-,kattarayaṭṭhi.
+,.
 444.
-,yamo;
-,niyamo.
+,;
+,.
 Iti brāhmaṇavaggo.
 445.
 ,;
 ,.
 446.
 ,;
-vuttiyo,’.
+,’.
 447.
 ,;
-Leḍḍu’,’’.
+’,’’.
 448.
 ‘‘asita’’ saddo puṃnapuṃsake-1005-gāthā passitabbā,;
 ,.
 449.
 ,;
-Sammā,.
+,.
 450.
-paraṇṇa,pubbaṇṇaṃ;
 ,;
-satta dhaññāni, nīvārādī.
+,;
+,.
 451.
 ,
 .
@@ -814,12 +814,12 @@ satta dhaññāni, nīvārādī.
 ’,;
 viññeyyaṃ (ṭī.),thambhakarī (ka.).
 453.
-,palālaṃ;
-,thuso.
+,;
+,.
 454.
 ,
 ;
-,thambothambho (ka.).
+,thambho (ka.).
 455.
 ,;
 ’’,.
@@ -828,25 +828,25 @@ viññeyyaṃ (ṭī.),thambhakarī (ka.).
 ,.
 457.
 ,,;
-Kaṃso,.
+,.
 458.
 ,;
 ’,.
 459.
 ,;
-Mahosadhaṃ,.
+,.
 460.
 ,;
 ,.
 461.
 ,;
-biḷāla (ka.),pabhedā.
+biḷāla (ka.),.
 462.
 ,;
-ucchuvikārā,visakaṇṭakaṃ.
+,.
 463.
-’,dhānā;
-mantho,’.
+’,;
+,’.
 464.
 ,;
 ,.
@@ -855,14 +855,14 @@ mantho,’.
 ,
 .
 466.
-,’sanaṃ;
+,’;
 ’,
 .
 467.
-Maṇḍo,vighāso;
+,;
 ,.
 468.
-,,paṭicchādaniyaṃ;
+,,;
 ,.
 469.
 ,;
@@ -877,9 +877,9 @@ Maṇḍo,vighāso;
 472.
 ,’;
 473.
-Aṭṭhārasantā,ekādayo;
-,vīsatā;
-,ānavuti.
+,;
+,;
+,.
 474.
 nahutaṃ-nayutaṃ (katthaci),;
 ,.
@@ -891,53 +891,53 @@ akkhobhiṇī (ka.),;
 ’,’.
 477.
 ,;
-’aḍḍhuḍḍho,
-ḍḍhatiyo.
+’,
+.
 478.
-diyaḍḍho,
-Divaḍḍho;
-,,,,māna.
+,
+;
+,,,,.
 479.
-guñjā,
-māsako;
-akkhā,dharaṇa.
+,
+;
+,.
 480.
-Suvaṇṇo,nikkhaṃ;
-Pādo,palaṃ.
+,;
+,.
 481.
-Tulā,bhāro;
+,;
 ,.
 482.
-Kuḍuvo,
-Pattho;
-Āḷhako,doṇaṃ’.
+,
+;
+,’.
 483.
-Mānikā,khārī;
-vāho,
-kumbho.
+,;
+,
+.
 484.
 ,;
 ,
-ambaṇaṃ.
+.
 485.
 ,
 ;
 ,’.
 486.
-Koso  hirañña,,;
-Kuppaṃ,rūpiyaṃ.
+,,;
+,.
 487.
 ,;
 ,.
 488.
-ta, bbhedā;
+,;
 ,.
 489.
 ,;
-,puppharāgā.
+,.
 490.
 ,;
-,’ratanāni’.
+,’’.
 491.
 ,;
 ,.
@@ -956,22 +956,22 @@ rīrī (ṭī.),’.
 ;
 balibadda (ka.),.
 496.
-jaraggavo,;
-,govindo.
+,;
+,.
 497.
-Vaho,kakudo (ka.);
+,kakudo (ka.);
 ,.
 498.
-,vañjhāvasā;
-dhenu,vacchalā.
+,;
+,.
 499.
 ,;
 ,.
 500.
-nonītaṃ,,
+,,
 ,.
 501.
-,gorasā;
+,;
 ,.
 502.
 ,
@@ -979,14 +979,14 @@ nonītaṃ,,
 ,.
 Iti vessavaggo.
 503.
-’,saṃkiṇṇā;
-Māgadho,uggo.
+’,;
+,.
 504.
-sūto,;
-,seṇī.
+,;
+,.
 505.
 ,;
-,kāravo.
+,.
 506.
 ,;
 ,.
@@ -1021,15 +1021,15 @@ pāṇiyo (katthaci);
 ,.
 515.
 ,’;
-,catudhā.
+,.
 516.
-bhujisso,
+,
 ;
 ,
 .
 517.
 ,;
-,kirāta, savarā.
+,,.
 518.
 ,
 ;
@@ -1037,7 +1037,7 @@ bhujisso,
 519.
 ,
 ;
-,aḷakko.
+,.
 520.
 ,;
 ,vākarā (sī. ṭī.).
@@ -1050,25 +1050,25 @@ bhujisso,
 ,
 .
 523.
-,potthaṃ;
-Pañcālikā potthalikā,.
+,;
+,.
 524.
 ,;
 ,.
 525.
-,sikkā’;
-’,pādukā.
+,’;
+’,.
 526.
 ,;
-mūsā,
+,
 .
 527.
-Kammārabhaṇḍā,’;
-gaggarī,pipphalaṃ.
+,’;
+,.
 528.
 ,
 ;
-,sippaṃ.
+,.
 529.
 ,;
 ,.
@@ -1081,65 +1081,65 @@ gaggarī,pipphalaṃ.
 ’,,.
 532.
 ,;
-’ṭṭhapadaṃaṭṭhāpadaṃ (ṭī. sī.),,.
+’aṭṭhāpadaṃ (ṭī. sī.),,.
 533.
-Kiṇṇaṃ,madhu;
+,;
 ,.
 534.
 ,;
 535.
 ’,;
-Liṅgantarepi,taddhammattā’.
+,’.
 Iti suddavaggo.
 Catubbaṇṇavaggo niṭṭhito.
 5. Araññavagga
 536.
 ,;
-’,,raññānī.
+’,,.
 537.
 ,;
-ārāmo,pavana.
+,.
 538.
-’,muyyāna;
-pamada, vana.
+’,;
+,.
 539.
 ’,;
 ,.
 540.
-,gaccho;
-,vanappatī.
+,;
+,.
 541.
 ,
-sadhi;
-vañcyā’,.
+;
+’,.
 542.
 ,;
 ’,.
 543.
 ,;
-,aṅkuro.
+,.
 544.
 ,;
-,vaṇṭaṃ.
+,.
 545.
-,parāgo;
+,;
 ,.
 546.
-’salāṭu’,
+’’,
 ;
-Campaka’mbā,.
+’,.
 547.
-Mallikā,vīhayo;
+,;
 ’,’.
 548.
-,khandho;
-Koṭaro,.
+,;
+,.
 549.
 ,’;
 ,.
 550.
 ,;
-,virū.
+,.
 551.
 ,;
 ,.
@@ -1162,8 +1162,8 @@ Koṭaro,.
 557.
 ’,
 ;
-saho,
-Sahakāro.
+,
+.
 558.
 ,;
 ,.
@@ -1216,7 +1216,7 @@ pūgo (ka.),.
 ,;
 ,.
 574.
-Indayavo,;
+,;
 ’,tiṇasūlaṃ (ṭī.).
 575.
 ,;
@@ -1240,7 +1240,7 @@ devatāḍo (sī. amarakosa),
 ,’.
 581.
 ,
-’ḷakko;
+’;
 ,.
 582.
 ,;
@@ -1274,10 +1274,10 @@ jiñjukā (ka.),.
 ’,.
 592.
 ,;
-Osadhi,osadhaṃ’.
+,’.
 593.
 ’,;
-,sākaṃ.
+,.
 594.
 ,
 ’;
@@ -1293,16 +1293,16 @@ Osadhi,osadhaṃ’.
 ,.
 598.
 ,;
-Sākabhedā,’.
+,’.
 599.
-,golomī;
+,;
 ,’.
 600.
 ,;
-Kīcakā,’.
+,’.
 601.
 ,;
-,,’sīraṃ.
+,,’.
 602.
 ,;
 ,
@@ -1311,14 +1311,14 @@ Kīcakā,’.
 ,;
 604.
 ,,,;
-,tiṇapādapā.
+,.
 Iti araññavaggo.
 6. Araññādivagga
 605.
 ’,’,;
 ,’’.
 606.
-,’nagā;
+,’;
 ,’;
 ’,.
 607.
@@ -1326,14 +1326,14 @@ Iti araññavaggo.
 ’,.
 608.
 ,;
-,nijjharo’.
+,’.
 609.
 ’,;
 ,.
 610.
-madhiccakā,paccakā;
+,;
 ’,
-Dhātu’.
+’.
 Iti selavaggo.
 611.
 ,;
@@ -1345,11 +1345,11 @@ Iti selavaggo.
 .
 613.
 ,;
-vāḷamigo, sāpado.
+,.
 614.
 ,;
 ,,
-Gonaṅgulogonaṅgalo (ṭī.).
+gonaṅgalo (ṭī.).
 615.
 sigālo (sī.),;
 ,.
@@ -1367,10 +1367,10 @@ mahiso (sī.),
 ,’.
 619.
 ,;
-,migantarā.
+,.
 620.
-,cammayonayo;
-Migāpasavo,.
+,;
+,.
 621.
 ,;
 ’,.
@@ -1392,9 +1392,9 @@ Migāpasavo,.
 bilavo (ṭī.),’.
 627.
 ,;
-Aṇḍaṃ,.
+,.
 628.
-vinatā, mithunaṃ;
+,;
 ,.
 629.
 ,;
@@ -1404,11 +1404,11 @@ vinatā, mithunaṃ;
 ,.
 631.
 ,;
-vaggo,
-Saṅgho sattho.
+,
+.
 632.
-kulaṃ, nikāyo;
-Yūtho,.
+,;
+,.
 633.
 ,;
 ,.
@@ -1450,14 +1450,14 @@ Yūtho,.
 ,
 .
 645.
-Khuddā,;
+,;
 ,.
 646.
 ,jhillikā (ka.);
 ,.
 647.
-rājahaṃsā,;
-Mallikā’dhataraṭṭhā,’.
+,;
+’,’.
 648.,.
 Iti araññādivaggo.
 7. Pātālavagga
@@ -1465,39 +1465,39 @@ Iti araññādivaggo.
 ,;
 ,.
 650.
-’,susiraṃ;
+’,;
 ,.
 651.
 ,’;
 ,
 .
 652.
-Kambalo’ssataro,;
+’,;
 ,.
 653.
 ’,;
 ,.
 654.
 ,;
-,bhogo.
+,.
 655.
 ’,;
-’,halāhalo.
+’,.
 656.
-Kāḷakūṭā,’;
+,’;
 657.
-’,,mahā’ṭṭhadhā;
+’,,’;
 ,;
 ’,.
 658.
-vetaraṇī loha, kumbhī;
+,;
 ,
 .
 659.
 ,;
-’,,khīraṇṇavā.
+’,,.
 660.
-Velā’,
+’,
 ;
 ,.
 661.
@@ -1505,15 +1505,15 @@ Velā’,
 ,’.
 662.
 ,;
-Ullolokallolo,.
+,.
 663.
 ,;
 ,’.
 664.
-Antarīpadīpo,;
+,;
 ,.
 665.
-Pāraṃ,’pāra;
+,’;
 uḷupo (ka.),’.
 666.
 ,;
@@ -1521,12 +1521,12 @@ uḷupo (ka.),’.
 667.
 ,
 ;
-Saṃyattikā,.
+,.
 668.
-Nāvāya’ṅgā’,;
+’’,;
 ,’’ammaṇaṃ (sī.).
 669.
-,ttānaṃ;
+,;
 ’,’.
 670.
 ,;
@@ -1536,9 +1536,9 @@ Nāvāya’ṅgā’,;
 ,.
 672.
 ,;
-maccha, ppabhedā.
+,.
 673.
-Mahāmacchā,;
+,;
 ,.
 674.
 ,;
@@ -1552,44 +1552,44 @@ saṃsumāro (ṭī.), suṃsumāro (sī.),
 ’,’;
 ,.
 677.
-,rahado;
+,;
 ,’.
 678.
 ’,’;
-’,pallalaṃ.
+’,.
 679.
 ,;
 ,’.
 680.
-,satta mahāsarā;
+,;
 ,.
 681.
 ,;
 ,.
 682.
 ’,sarayū (ka.);
-mahānadī,sarasvatī (sī. ṭī.).
+,sarasvatī (sī. ṭī.).
 683.
-,ninnagā;
-’panāḷī (ṭī.),candanikā.
+,;
+’panāḷī (ṭī.),.
 684.
-Jambālī oligallo,;
+,;
 ,.
 685.
 ,;
 ,.
 686.
-Puṇḍarīkaṃ,,kokanadaṃ kokāsako;
-,nāla.
+,,;
+,.
 687.
 ,;
-,saṇḍa.
+,.
 688.
-,’ndīvaraṃ;
-kumuda,sālūka.
+,’;
+,.
 689.
 ,;
 ,’.
-690.Sevālā,.
+690.,.
 Iti pātālavaggo.
 Bhūkaṇḍo dutiyo.

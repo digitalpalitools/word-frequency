@@ -8,7 +8,7 @@
 ,.
 535.
 ,;
-vedanā,.
+,.
 536.
 ,;
 ,.
@@ -37,7 +37,7 @@ vedanā,.
 ,;
 ,.
 545.
-Āhārā,;
+,;
 ,.
 546.
 ,
@@ -48,7 +48,7 @@ vedanā,.
 ,
 ;
 ,
-Hetū.
+.
 548.
 ,;
 ,.
@@ -73,7 +73,7 @@ Hetū.
 ,.
 554.
 ,;
-,dhipatayo.
+,.
 555.
 ,;
 ,.
@@ -117,7 +117,7 @@ Hetū.
 ,.
 568.
 ,;
-Jhānindriyamaggabala-.
+-.
 569.
 ,;
 ,.
@@ -144,7 +144,7 @@ Jhānindriyamaggabala-.
 ,.
 577.
 ,;
-,pañcadhā.
+,.
 578.
 -;
 ,.
@@ -159,7 +159,7 @@ Jhānindriyamaggabala-.
 ,.
 582.
 ,;
-,chabbidhā.
+,.
 583.
 ,;
 ,.
@@ -174,7 +174,7 @@ Jhānindriyamaggabala-.
 ,.
 587.
 ,;
-,sattadhā.
+,.
 588.
 ,;
 ,.
@@ -185,10 +185,10 @@ Jhānindriyamaggabala-.
 ,;
 ,.
 591.
-Chabbidho,;
+,;
 ,.
 592.
 -;
-Catuvīsati,.
+,.
 Iti cetasikavibhāge cittuppādakathā niṭṭhitā.
 Soḷasamo paricchedo.

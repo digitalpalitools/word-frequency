@@ -8,29 +8,29 @@
 Viññāṇachakkaṃ
 5..
 Vīthichakkaṃ
-6.Cha vīthiyo,.
+6.,.
 Vīthibhedo
 7..
 Pañcadvāravīthi
 8.?.
 9..
 10..,,,,,,,,.
-11.,,,,atimahantaṃ.
-12.mahantaṃ,,.
-13.parittaṃ,,.
-14.atiparittaṃ,,.
+11.,,,,.
+12.,,.
+13.,,.
+14.,,.
 15.,.
 16.,.
 ,.
 Ayamettha pañcadvāre vīthicittappavattinayo.
 Manodvāravīthi parittajavanavāro
-17.Manodvārevibhūta,,.
-18.Avibhūte,.
+17.,,.
+18.,.
 19.,.
 -;
 Ayamettha parittajavanavāro.
 Appanājavanavāro
-20.Appanājavanavāre,.
+20.,.
 21.,,.
 22.,,,.
 23.,,
@@ -48,7 +48,7 @@ Tadārammaṇaniyamo
 ,.
 Ayamettha tadārammaṇaniyamo.
 Javananiyamo
-31.Javanesu.
+31..
 32..
 33..
 34.,.
@@ -60,10 +60,10 @@ Javananiyamo
 ,.
 Ayamettha javananiyamo.
 Puggalabhedo
-40.Duhetukānamahetukānañca.
+40..
 41..
 42..
-43.Tihetukesu.
+43..
 44..
 45..
 46..
@@ -72,9 +72,9 @@ Puggalabhedo
 ,.
 Ayamettha puggalabhedo.
 Bhūmivibhāgo
-49.Kāmāvacarabhūmiyaṃ.
-50.Rūpāvacarabhūmiyaṃ.
-51.Arūpāvacarabhūmiyaṃ.
+49..
+50..
+51..
 52..
 53..
 54.,.

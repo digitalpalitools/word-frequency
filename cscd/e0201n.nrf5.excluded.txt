@@ -1,13 +1,13 @@
 ﻿6. Ākhyātakaṇḍa
 Suddhakatturūpa
 ,,,.
-dhātu.,,.
-,,,pakatidhātu.
-,,,vikatidhātu.
-,nāmadhātu.
+.,,.
+,,,.
+,,,.
+,.
 ’.
-,sakammikā.,.
-,akammikā.,,,.
+,.,.
+,.,,,.
 ,.
 ,.,.
 ’,.
@@ -25,16 +25,16 @@ dhātu.,,.
 -,,,,,,,,,,,,,.,.
 ,.
 ,,.
-parassapadāni.attanopadāni.
-.eke.
-,,,aññe.
-,,.apare.
+..
+..
+,,,.
+,,..
 ,,,,..,,.
 ,,,.
-,vikaraṇapaccayā,,,.
-,kiccapaccayo.
-,kāritapaccayā.
-,,dhātupaccayā.
+,,,,.
+,.
+,.
+,,.
 ‘‘,,,’’,’,.
 ,ajjatanī (bahūsu),.
 ,.
@@ -43,7 +43,7 @@ parassapadāni.attanopadāni.
 ‘‘,.
 ,’’a. ni. 4.21–
 ‘‘,’’apa. thera 1.1.588.,..
-,,.,,.sādhyabhāvo.sādhanabhāvo.
+,,.,,...
 ..,,.‘‘,’’,‘‘,,,,,’’.,..
 ,’.‘’‘‘’’ma. ni. 3.1,‘‘,’’a. ni. 6.43; visuddhi. 2.580.‘’.
 ,,.,,...
@@ -53,11 +53,11 @@ parassapadāni.attanopadāni.
 ,,,,.
 ,,,,,,,’.
 -,,,,,.
-561.Kriyatthāka. 432, 455; rū. 362, 530; nī. 905, 936; pā. 3.1.91.
+561.ka. 432, 455; rū. 362, 530; nī. 905, 936; pā. 3.1.91.
 ,,..,,,.
-562.Vattamānetianti si tha mi ma te ante se vhe e mheka. 414; rū. 428; nī. 872; caṃ. 1.2.82; pā. 3.2.123.
+562.ka. 414; rū. 428; nī. 872; caṃ. 1.2.82; pā. 3.2.123.
 ,...
-563.Pubbāparachakkānamekānekesu tumhamhasesesu dve dve majjhimuttamapaṭhamāka. 408; rū. 431; nī. 867.
+563.ka. 408; rū. 431; nī. 867.
 ,,,,,.‘‘’’.
 .
 ?,,,,,.
@@ -82,11 +82,11 @@ jā. 2.22.1593.
 jā. 2.22.1617.
 ‘‘,’’‘‘’’‘‘,’’‘‘’’,,.
 –‘‘’’nī. 216 piṭṭhe,,’.
-564.Kattari loka. 455; rū. 433; nī. 925.
+564.ka. 455; rū. 433; nī. 925.
 ,,.‘’.
 ,,,,‘‘…’’.
 ,,,.,,,‘‘,,,,,,’’-.,,,.
-565.Yuvaṇṇānameo paccayeka. 485; rū. 434; nī. 975; caṃ. 1.1.82; pā. 3.1.60.
+565.ka. 485; rū. 434; nī. 975; caṃ. 1.1.82; pā. 3.1.60.
 ,.,,,,.,,,.’,.‘’.
 -,,,,,.
 -,,,,,,.
@@ -95,13 +95,13 @@ jā. 2.22.1617.
 .
 ,,‘‘’’.
 ‘‘’’,.
-vāccattho.
-abhidheyyattho.
+.
+.
 ,.‘‘’’,.‘‘’’,,..
-566.Eonamayavā sareka. 513, 514; rū. 435, 491; nī. 1027, 1028.
+566.ka. 513, 514; rū. 435, 491; nī. 1027, 1028.
 ,,.,-.
 ,,,.
-567.Himimesvassaka. 478; rū. 438; nī. 959.
+567.ka. 478; rū. 438; nī. 959.
 ,,-.
 ,.
 –,,,,,.
@@ -112,18 +112,18 @@ abhidheyyattho.
 ,,,,,.
 Iti suddhakatturūpaṃ.
 Suddhabhāvakammarūpa
-568.Kyobhāvakammesvaparokkhesu māna nta tyādīsuka. 440; rū. 445; nī. 920; caṃ. 1.1.80; pā. 3.1.67.
+568.ka. 440; rū. 445; nī. 920; caṃ. 1.1.80; pā. 3.1.67.
 ,,.
 ,saṃ. ni. 1.249,,,.
-569.Na te kānubandhanāgamesu.
+569..
 ’,,-.
 -,,,,,.,,.
 ‘‘’’,.
-vāccattho.
-abhidheyyattho.
+.
+.
 ,.‘‘’’,..
 ,,,,,,,,,.
-570.Garupubbā rassā re ntentīnaṃka. 517; rū. 488; nī. 1105; ‘guru…’ (bahūsu).
+570.ka. 517; rū. 488; nī. 1105; ‘guru…’ (bahūsu).
 ,.
 ,,,,,,,,,,,.
 ?,.
@@ -134,26 +134,26 @@ abhidheyyattho.
 ,,,,.
 Iti suddhabhāvakammarūpāni.
 Hetukatturūpa
-571.Payojakabyāpāreṇāpi caka. 438; rū. 540; nī. 914.
+571.ka. 438; rū. 540; nī. 914.
 ,..
 ‘ato’ (moga.),,.
 ,,.
 ,,,,.
 ,-,,,.
 ,,,,,.
-572.Āyāvā ṇānubandheka. 515; rū. 541; nī. 1029.
+572.ka. 515; rū. 541; nī. 1029.
 ,,,’.
 -,,.
 -,,.
 -,,,,.
-573.Ṇiṇāpyāpīhi ca‘‘…vā’’ (bahūsu).
+573.‘‘…vā’’ (bahūsu).
 ,,.
 ,,.
 ,,,,,,.
 Iti hetukatturūpāni.
 Tyādi
 ‘…’,.
-574.Kyassaka. 442; rū. 448; nī. 922.
+574.ka. 442; rū. 448; nī. 922.
 .
 ,,,,,.
 -,.
@@ -169,11 +169,11 @@ mahāni. 108,,,,paṭi. ma. 1.59,paṭi. ma. 1.59,,paṭi. ma. 1.59.
 saṃ. ni. 1.249,saṃ. ni. 1.249,dī. ni. 3.246,,jā. 1.15.348,jā. 2.22.2369,jā. 2.22.1350.
 ‘’,,.‘‘’’,.
 ,,,.
-niccapavatte–,,a. ni. 4.69.
-Pavattāvirate–,a. ni. 9.20.
+–,,a. ni. 4.69.
+–,a. ni. 9.20.
 ,.
-Pavattuparate–,a. ni. 3.67,a. ni. 3.67.,.
-Samīpe––saṃ. ni. 1.130,.–,.
+–,a. ni. 3.67,a. ni. 3.67.,.
+––saṃ. ni. 1.130,.–,.
 ,,bu. vaṃ. 2.37.
 ,,-,,pārā. aṭṭha. 1.paṭhamamahāsaṅgītikathā,,cūḷava. 437,jā. 1.16.127.
 -,jā. 2.22.331.-bu. vaṃ. 2.109,bu. vaṃ. 2.81.
@@ -182,7 +182,7 @@ Samīpe––saṃ. ni. 1.130,.–,.
 Iti tyādi.
 Tvādi
 .
-575.Tu antu hi tha mi ma taṃ antaṃ su vho e āmaseka. 424; rū. 450; nī. 897; caṃ. 1.3.122; pā. 3.3.162.
+575.ka. 424; rū. 450; nī. 897; caṃ. 1.3.122; pā. 3.3.162.
 ,,.
 -pāci. 471 (atthato sadisaṃ).
 .
@@ -209,7 +209,7 @@ su. ni. 1036.
 -cūḷava. aṭṭha. 102,dī. ni. 1.299,,dī. ni. 2.369.
 -,,dī. ni. 2.168,,bu. vaṃ. 1.67,ma. ni. 1.357.
 ,,,,,,,,‘’,,,.
-576.Hissato lopoka. 479; rū. 452; nī. 960; caṃ. 5.3.99; pā. 6.4.105.
+576.ka. 479; rū. 452; nī. 960; caṃ. 5.3.99; pā. 6.4.105.
 .
 ?,,.
 ,.
@@ -222,33 +222,33 @@ su. ni. 1036.
 Iti tvādi.
 Eyyādi
 .
-577.Hetuphalesveyya eyyuṃ eyyāsi eyyātha eyyāmi eyyāma etha eraṃ etho eyyāvhoeyyavho (moggallānādīsu)eyyaṃ eyyāmhe vāka. 416; rū. 454; nī. 880; caṃ. 1.3.120; pā. 3.3.156.
+577.eyyavho (moggallānādīsu)ka. 416; rū. 454; nī. 880; caṃ. 1.3.120; pā. 3.3.156.
 .,,,,.
 ,,,.
-578.Pañhapatthanāvidhīsucaṃ. 1.3.121; pā. 3.3.161.
+578.caṃ. 1.3.121; pā. 3.3.161.
 .
 -.
 -.
 -,,,.
-579.Sattārahesveyyādīka. 416; rū. 454; nī. 881-4; caṃ. 1.3.128; pā. 3.3.169-172; satyarahesveyyādī (bahūsu).
+579.ka. 416; rū. 454; nī. 881-4; caṃ. 1.3.128; pā. 3.3.169-172; satyarahesveyyādī (bahūsu).
 .
 ,,.
 saṃ. ni. 1.23.
-580.Sambhāvane vāka. 416; rū. 854; nī. 881, 883-4; caṃ. 1.3.118-9; pā. 3.3.154-5.
+580.ka. 416; rū. 854; nī. 881, 883-4; caṃ. 1.3.118-9; pā. 3.3.154-5.
 .
 ,,,,,,.
 -,,,,,,.
 ,.,,.
 ,,,.
 ,.-,.-,.,.
-581.Eyyeyyāseyyaṃnaṃ ṭeka. 517; rū. 488; nī. 1105.
+581.ka. 517; rū. 488; nī. 1105.
 ,,.
 -,dha. pa. 290.’jā. 2.21.399,,jā. 1.13.94.
 ,,,,,.
-582.Eyyuṃssuṃka. 517; rū. 488; nī. 1105.
+582.ka. 517; rū. 488; nī. 1105.
 .
 -,jā. 1.3.33,,jā. 2.22.26.
-583.Eyyāmassemu caka. 517; rū. 488; nī. 1105.
+583.ka. 517; rū. 488; nī. 1105.
 ,.
 -dī. ni. 2.318,jā. 1.15.252,jā. 1.15.254,,jā. 1.15.13,jā. 2.22.1302,dī. ni. 2.354,dī. ni. 2.357,jā. 1.2.18.,.
 -,jā. 1.16.150,,jā. 2.17.132-133,jā. 2.17.87-89,jā. 2.17.87-89,,jā. 2.22.1885 ‘vasāmase’.
@@ -277,13 +277,13 @@ saṃ. ni. 1.23.
 Iti eyyādi.
 Hiyyattanī
 .
-584.Anajjattane ā ū o ttha a mhā ttha tthuṃ se vhaṃ iṃ mhaseka. 418; rū. 456; nī. 886; caṃ. 1.2.77; pā. 3.2.111.
+584.ka. 418; rū. 456; nī. 886; caṃ. 1.2.77; pā. 3.2.111.
 .
-585.Ā ī ssādīsvau vāka. 519; rū. 457; nī. 1032.
+585.ka. 519; rū. 457; nī. 1032.
 .
 ,,,,,,,,,,,.
 -,,,,,,,,,,,.
-586.Āī ū mhā ssā ssāmhānaṃ vāka. 517; rū. 488; nī. 1105.
+586.ka. 517; rū. 488; nī. 1105.
 .
 ,,.
 ‘’,,,,,,,,,,.
@@ -291,39 +291,39 @@ Hiyyattanī
 Iti hiyyattanī.
 Ajjattanī
 .
-587.Bhūte ī uṃ o ttha iṃ mhā ā ū se vhaṃ aṃ mheka. 419; rū. 469; nī. 887.
+587.ka. 419; rū. 469; nī. 887.
 ,,.
-588.A ī ssā ssatyādīnaṃ byañjanassiuka. 516; rū. 466; nī. 1030; caṃ. 1.2.76; pā. 3.2.110 aīssaādīnaṃ byañjanassiu (bahūsu).
+588.ka. 516; rū. 466; nī. 1030; caṃ. 1.2.76; pā. 3.2.110 aīssaādīnaṃ byañjanassiu (bahūsu).
 .‘’,.
 ‘’.
 ,,,,,,,,,,,,,,,,,,,,,,,.
 ‘’,,,-,,,,,,,.
-589.Eyyāthasseaāīthānaṃ o a aṃ ttha ttho vho vāka. 517; rū. 488; nī. 1105; ‘…vhoka’ (bahūsu).
+589.ka. 517; rū. 488; nī. 1105; ‘…vhoka’ (bahūsu).
 .
 ,,,,,,,,,,,,,,,,,.
 ,,,,,,,,,,.
 –-jā. 1.13.44,jā. 1.16.241.-jā. 2.22.1667,jā. 2.22.1667,jā. 2.22.1673,theragā. 1.-saṃ. ni. 1.119,pārā. 195,jā. 2.19.45,.
-590.Uṃssiṃsvaṃsuka. 504, 517; rū. 470-488; nī. 1016-1105.
+590.ka. 504, 517; rū. 470-488; nī. 1016-1105.
 ,.
 ,,.,,.
-591.Ossa a i ttha tthoka. 517; rū. 488; nī. 1105.
+591.ka. 517; rū. 488; nī. 1105.
 .
 ,,,.
 --dī. ni. 2.95,’,jā. 1.2.167.-,jā. 2.22.684,,gavesitabbaṃ.jā. 2.22.255,jā. 2.22.1713,jā. 1.6.5.-theragā. 280,saṃ. ni. 1.212,jā. 1.1.89,ma. ni. 1.502,ma. ni. 1.502.
 ‘’.
 ,,apa. thera 1.1.367,.jā. 1.16.222.
 ,jā. 2.22.1786,jā. 2.22.2126,jā. 2.22.1931,saṃ. ni. 1.162; therīgā. 57.
-592.Sika. 517; rū. 488; nī. 1105.
+592.ka. 517; rū. 488; nī. 1105.
 .
 ,,.
-593.Mhātthānamuuka. 517; rū. 488; nī. 1105.
+593.ka. 517; rū. 488; nī. 1105.
 ,.
 ,,,.
 ,,,,,,,.
-594.Iṃssa ca suuka. 517; rū. 488; nī. 1105; ‘‘…siu’’ (bahūsu).
+594.ka. 517; rū. 488; nī. 1105; ‘‘…siu’’ (bahūsu).
 ,,.,,.‘‘gavesitabbaṃ,,’’jā. 2.22.1863dī. ni. 3.277.
 ,,,,,..
-595.Eontā suṃka. 517; rū. 488; nī. 1105; ‘eottā suṃ’’ (bahūsu).
+595.ka. 517; rū. 488; nī. 1105; ‘eottā suṃ’’ (bahūsu).
 .
 ,,,,,,.
 ,saṃ. ni. 1.173,,.
@@ -338,19 +338,19 @@ Ajjattanī
 Iti ajjattanī.
 Parokkhā
 .
-596.Parokkhe a u e tha aṃ mha ttha re ttho vho iṃ mheka. 417; rū. 460; nī. 887; caṃ. 1.2.81; pā. 3.2.115.
+596.ka. 417; rū. 460; nī. 887; caṃ. 1.2.81; pā. 3.2.115.
 ,..
 ,,,,,,.
-‘’anussavaparokkhāni.
-‘,’paṭivacanaparokkhaṃ.
-597.Parokkhāyañcaka. 458; rū. 461; nī. 939; caṃ. 5.1.3; pā. 6.1.2.
+‘’.
+‘,’.
+597.ka. 458; rū. 461; nī. 939; caṃ. 5.1.3; pā. 6.1.2.
 ,.
 ,,,,,,.
-598.Dutiyacatutthānaṃ paṭhamatatiyāka. 461; rū. 464; nī. 942.
+598.ka. 461; rū. 464; nī. 942.
 ,,.
-599.Pubbassa aka. 450; rū. 463; nī. 946; caṃ. 6.2.126; pā. 7.4.73.
+599.ka. 450; rū. 463; nī. 946; caṃ. 6.2.126; pā. 7.4.73.
 .
-600.Bhūssa vukaka. 475; rū. 465; nī. 956; caṃ. 5.3.92; pā. 6.4.88.
+600.ka. 475; rū. 465; nī. 956; caṃ. 5.3.92; pā. 6.4.88.
 ,.
 ‘‘’’jā. 2.22.1437.
 ,,.
@@ -359,9 +359,9 @@ Parokkhā
 Iti parokkhā.
 Ssatyādi
 .
-601.Bhavissati ssati ssanti ssasi ssatha ssāmi ssāma ssate ssante ssase ssavhe ssaṃ ssāmheka. 421; rū. 473; nī. 892; caṃ. 1.3.2; pā. 3.3.13.
+601.ka. 421; rū. 473; nī. 892; caṃ. 1.3.2; pā. 3.3.13.
 ,,.
-602.Nāme garahāvimhayesuka. 421; rū. 473; nī. 893; caṃ. 1.3.109, 115; pā. 3.3.143, 150.
+602.ka. 421; rū. 473; nī. 893; caṃ. 1.3.109, 115; pā. 3.3.143, 150.
 ,,,,.
 -pārā. 32.
 -dī. ni. 2.192.
@@ -370,7 +370,7 @@ Ssatyādi
 ‘’,,,,,,,,,,,,,,.
 ,,.
 ,,.
-603.Kyassa sseka. 517; rū. 488; nī. 1105.
+603.ka. 517; rū. 488; nī. 1105.
 .
 ,,,.
 ,,,.
@@ -379,7 +379,7 @@ Ssatyādi
 Iti ssatyādi.
 Ssādi
 .
-604.Eyyādotipattiyaṃ ssā ssaṃsu sse ssatha ssaṃ ssāmhā ssatha ssiṃsu ssase ssavhe ssiṃ ssāmhaseka. 422; rū. 475; nī. 895; caṃ. 1.3.107; pā. 3.3.139; eyyādo vātipattiyaṃ (bahūsu).
+604.ka. 422; rū. 475; nī. 895; caṃ. 1.3.107; pā. 3.3.139; eyyādo vātipattiyaṃ (bahūsu).
 .,.
 .
 -,‘sace pana nikkhamitvā pabbajissa, arahattaṃ pāpuṇissa’ (dhammapada aṭṭha. 1).
@@ -399,17 +399,17 @@ Sarantadhātu
 ,,,,.
 -,,,,.
 -,,,,,,jā. 2.22.1989.
-605.Ñcīlasseka. 510; rū. 487; nī. 1023.
+605.ka. 510; rū. 487; nī. 1023.
 .
 ,.
-606.Ṭhāpānaṃ tiṭṭhapivāka. 468-9; rū. 492-4; nī. 949.
+606.ka. 468-9; rū. 492-4; nī. 949.
 ,,,,.
 ,.
-607.Pādito ṭhāssa vā ṭhaho kvacika. 517; rū. 488; nī. 1105.
+607.ka. 517; rū. 488; nī. 1105.
 ,.
 ,,,,,,,.
 –
-608.Aññādissi kyeka. 502; rū. 493; nī. 1015; ‘aññādissāsīkye’ (bahūsu).
+608.ka. 502; rū. 493; nī. 1015; ‘aññādissāsīkye’ (bahūsu).
 .
 ,,,.
 ?,,,,,.
@@ -426,15 +426,15 @@ Sarantadhātu
 -,,,,,mahāva. 126.
 -,‘’,,,,,,.
 ‘’.‘’,,,,,,.
-609.Dāssa daṃ vā mimesvadvitteka. 482; rū. 508; nī. 972.
+609.ka. 482; rū. 508; nī. 972.
 ,,.
 ,.
 ?,.
-610.Dāssiyaṅaka. 502; rū. 493; nī. 1014.
+610.ka. 502; rū. 493; nī. 1014.
 .
 ‘’.-,jā. 1.2.52,’jā. 1.2.67,jā. 2.22.1350,jā. 1.10.60; a. ni. 4.17,jā. 2.22.1750,saṃ. ni. 1.249.
 ,,,,,,khu. pā. 2.1,cūḷava. 85.
-611.Gama vada dānaṃ ghamma vajja dajjāka. 499-500-1; rū. 443-486-507; nī. 1013, 1005-1006.
+611.ka. 499-500-1; rū. 443-486-507; nī. 1013, 1005-1006.
 ,,,,.
 ,,,,,.
 ‘’,,.
@@ -452,7 +452,7 @@ Sarantadhātu
 ,,,therīgā. 272.,saṃ. ni. 1.33..,.
 -,,,,.,.
 ‘’.‘…’.‘’.
-612.Dhāssa hoka. 517; rū. 488; nī. 1105.
+612.ka. 517; rū. 488; nī. 1105.
 .
 ,..,,,,.
 ‘’‘’,,,,,.
@@ -481,7 +481,7 @@ Sarantadhātu
 -,.
 -,,,.
 ,,,jā. 1.15.348,a. ni. 4.17; jā. 1.10.60,,.
-613.Kavaggahānaṃ cavaggajāka. 462-4; rū. 467-504; nī. 943-5; caṃ. 6.2.116; pā. 7.4.62.
+613.ka. 462-4; rū. 467-504; nī. 943-5; caṃ. 6.2.116; pā. 7.4.62.
 ,,.
 ,,,.
 -,.
@@ -490,7 +490,7 @@ Sarantadhātu
 -,,,,,,,.
 -,.
 -,,,.
-614.Hāto haka. 480; rū. 490; nī. 961.
+614.ka. 480; rū. 490; nī. 961.
 -.
 ‘‘’’jā. 1.5.36,,,,,,,,jā. 2.22.673.
 -,,,.
@@ -504,18 +504,18 @@ Ivaṇṇantadhāturūpa
 ‘’,,.
 ‘’,,,.
 –
-615.Etismāka. 480; rū. 490; nī. 961.
+615.ka. 480; rū. 490; nī. 961.
 ‘’,.
 ,.bu. vaṃ. 2.63,bu. vaṃ. 2.63,,jā. 1.1.33,cūḷava. 382 tassuddānaṃ,dha. pa. 238.,apa. thera 1.3.13,jā. 2.17.145,jā. 2.17.197.
 ‘‘,’’gavesitabbaṃ,‘’.
 -,,.
 ,,,dī. ni. aṭṭha. 1.304,pārā. 88,.,,,saṃ. ni. 1.146.
 -,,.
-616.Nito cissa choka. 20; rū. 27; nī. 50.
+616.ka. 20; rū. 27; nī. 50.
 -.
 ,,,,,
 –
-617.Dīgho sarassaka. 517; rū. 488; nī. 1105.
+617.ka. 517; rū. 488; nī. 1105.
 ’.
 ,,.
 -,,,,,,,,,,,,.
@@ -553,16 +553,16 @@ Uvaṇṇantadhāturūpa
 -,.
 -,,,,.
 -–
-618.Na brūsso.
+618..
 .
 .
-619.Brūto tissīuka. 520; rū. 502; nī. 1033; caṃ. 6.2.34; pā. 7.3.93.
+619.ka. 520; rū. 502; nī. 1033; caṃ. 6.2.34; pā. 7.3.93.
 ..
 .
-620.Yuvaṇṇānamiyaṅauvaṅa sareka. 70; rū. 30; nī. 220; …miyavuvaṅa… (bahūsu).
+620.ka. 70; rū. 30; nī. 220; …miyavuvaṅa… (bahūsu).
 ’,.
 ,.‘‘’’.,,,.
-621.Tyantīnaṃ ṭaṭūka. 517; rū. 488; nī. 1105; caṃ. 1.4.13; pā. 3.4.84.
+621.ka. 517; rū. 488; nī. 1105; caṃ. 1.4.13; pā. 3.4.84.
 ,,,.
 ,.
 -,,mahāva. 60,,.,su. ni. 767.‘’.‘’.
@@ -571,10 +571,10 @@ Uvaṇṇantadhāturūpa
 ,,,,.
 -,,.
 –
-622.Aādīsvāho brūssaka. 475; rū. 465; nī. 956.
+622.ka. 475; rū. 465; nī. 956.
 .
 ,.
-623.Ussaṃsvāhā vānī. 1036.
+623.nī. 1036.
 .
 ,,jā. 1.13.123.
 -,,,.
@@ -589,7 +589,7 @@ Uvaṇṇantadhāturūpa
 -.,jā. 1.2.71.saṃ. ni. 1.50,,,ma. ni. 1.215,,,,,.‘‘,jā. 1.4.29.,’’ma. ni. 1.180.
 ,,.
 ..,pārā. 38.theragā. 269,.
-624.Hūto resuṃka. 517; rū. 488; nī. 1105.
+624.ka. 517; rū. 488; nī. 1105.
 ..‘’.
 .,.
 -,jā. 2.22.2425.,apa. thera 1.1.407.
@@ -601,10 +601,10 @@ Uvaṇṇantadhāturūpa
 ‘’,.
 -‘‘,apa. thera 1.39.86,,.,.,’’..
 –
-625.Hūssa hehehihohi ssaccādoka. 480; rū. 490; nī. 961; ‘…ssatyādo’ (bahūsu).
+625.ka. 480; rū. 490; nī. 961; ‘…ssatyādo’ (bahūsu).
 .
 ,,,,,.bu. vaṃ. 2.55,,bu. vaṃ. 2.74.
-626.Dakkha sakkha hehi hohīhi lopoka. 480; rū. 490; nī. 961; ‘dakkhā hehihohilopo’ (bahūsu).
+626.ka. 480; rū. 490; nī. 961; ‘dakkhā hehihohilopo’ (bahūsu).
 ..
 ,jā. 2.17.14.su. ni. 28,jā. 1.11.31,.
 ,,,.
@@ -646,7 +646,7 @@ Edantadhāturūpa
 -,,,.
 -.
 -.
-627.Ṇiṇāpīnaṃ tesu.
+627..
 ,,.
 pārā. 363.‘’‘’.
 .
@@ -661,9 +661,9 @@ Byañjanantadhātu
 Avuddhikarūpa
 Tudādigaṇa
 .,..
-Khipa, guha, tuda, disa, pisa, phusa, likha, vadhādi.
+,,,,,,,.
 ,.
-628.Tudādīhi koka. 445; rū. 433; nī. 925; caṃ. 1.1.92; pā. 3.1.77.
+628.ka. 445; rū. 433; nī. 925; caṃ. 1.1.92; pā. 3.1.77.
 ..
 -,,,,,,,,.
 -.
@@ -703,57 +703,57 @@ Savuddhikarūpa
 .
 -,-,-,,-,-,-,,-,-,-,-,-,-,,-,-,-,,-’,-,.
 ,,-,.
-629.Tassa thoka. 494; rū. 495, 500; nī. 989, 991.
+629.ka. 494; rū. 495, 500; nī. 989, 991.
 ,.
 ‘’,‘’.
 .
 ‘‘,,,,dha. pa. 62,’’khu. pā. 3.dvitiṃsākāra.
 ‘‘,’’saṃ. ni. 2.15‘‘,’’paṭṭhā. 1.1.paccayuddesa..
 -dī. ni. 3.287,saṃ. ni. 1.90,‘‘’’.
-630.Ntamānantantiyiyuṃsvādilopoka. 494-5; rū. 496; nī. 1019; ‘ntamānānti…’ (bahūsu).
+630.ka. 494-5; rū. 496; nī. 1019; ‘ntamānānti…’ (bahūsu).
 ,,,,,.
 ,.
-631.Sihīsvaṭaka. 506; rū. 497; nī. 992.
+631.ka. 506; rū. 497; nī. 992.
 ,.
 mahāva. 126,mahāva. 126.,,.,,pārā. 233.-ma. ni. 1.88, 215,.
-632.Mimānaṃ vā mhimhā caka. 492; rū. 499; nī. 987; ‘sīhisvaṭa’ (bahūsu).
+632.ka. 492; rū. 499; nī. 987; ‘sīhisvaṭa’ (bahūsu).
 ,,,.
 ,.
 -,.
-633.Esu saka. 492; rū. 499; nī. 987.
+633.ka. 492; rū. 499; nī. 987.
 ,..
 ,.
 -,.
 –
-634.Atthiteyyādichannaṃ sa su sasi satha saṃsāmaka. 571, 517; rū. 624, 488; nī. 830, 1105; ‘atthiteyyādicchannaṃ sasusasatha saṃ sāma’ (bahūsu).
+634.ka. 571, 517; rū. 624, 488; nī. 830, 1105; ‘atthiteyyādicchannaṃ sasusasatha saṃ sāma’ (bahūsu).
 ‘’-,.
 pārā. 411,pārā 418,,,,.
 ,khu. pā. 6.10,,saṃ. ni. 1.246.‘‘,’’saṃ. ni. 1.71.
-635.Ādidvinnamiyāmiyuṃka. 517; rū. 488; nī. 993; ‘…miyā iyuṃ’ (bahūsu).
+635.ka. 517; rū. 488; nī. 993; ‘…miyā iyuṃ’ (bahūsu).
 ,.‘…’.
 ,,.‘‘,,’’vibha. 152.
 ‘‘’’paṭṭhā. 1.1.35-38.
 ‘‘’’abhidhammatthasaṅgaha 2.
 ,,,,ma. ni. 3.35,,,ma. ni. 3.274.
 –
-636.Īādo dīghoka. 517; rū. 488; nī. 1001.
+636.ka. 517; rū. 488; nī. 1001.
 .
 ,,,,,.dī. ni. 1.245; ma. ni. 1.68.,.
-637.Aāssādīsuka. 507; rū. 501; nī. 1020; caṃ. 5.4.79; pā. 2.4.52.
+637.ka. 507; rū. 501; nī. 1020; caṃ. 5.4.79; pā. 2.4.52.
 ,...
 ,,,,,,,.
-638.Atyādintesvatthissa bhūka. 517; rū. 500; nī. 1020; caṃ. 5.4.79; pā. 2.4.52.
+638.ka. 517; rū. 500; nī. 1020; caṃ. 5.4.79; pā. 2.4.52.
 .,,,,.
 -.,,,.
 -,.
 -,,,.
 -,,,,,.
 -.
-639.Gamayamisāsadisānaṃ vā cchaṅaka. 476, 522; rū. 442, 476; nī. 957, 1035.
+639.ka. 476, 522; rū. 442, 476; nī. 957, 1035.
 ,,,,,,.
 ,,,,,,,,.
 -.
-640.Lahussupantassaka. 485; rū. 434; nī. 975; caṃ. 6.1.105-106 …pe… 7.3.77-78.
+640.ka. 485; rū. 434; nī. 975; caṃ. 6.1.105-106 …pe… 7.3.77-78.
 ,‘’,’,.
 -,,.
 ?,,,.
@@ -769,17 +769,17 @@ pārā. 411,pārā 418,,,,.
 -,,,,,.
 -,,,,a. ni. 8.1,.
 -,,,,,,,,,.
-641.Nito kamassaka. 20; rū. 27; nī. 50.
+641.ka. 20; rū. 27; nī. 50.
 .‘’.
 ,.
 –
-642.Assā ṇānubandheka. 483; rū. 527; nī. 973.
+642.ka. 483; rū. 527; nī. 973.
 -.‘’.
 ,,,,,.
 ,,,,jā. 2.22.1857,,,,jā. 2.22.1868,,,,,,,.
 -,,,.,,.,,.,,.
 –
-643.Kusaruhīssacchika. 498; rū. 480; nī. 1114; ‘kusaruhehīssa chi’ (bahūsu).
+643.ka. 498; rū. 480; nī. 1114; ‘kusaruhehīssa chi’ (bahūsu).
 .
 dha. pa. 3-4,,,‘‘’’.,.
 ,,‘’,,.,,,,,.,,.
@@ -803,7 +803,7 @@ dha. pa. 3-4,,,‘‘’’.,.
 -,,,,,,,,,,,.
 -,,,.
 -,,,,,,,.
-644.Gamissaka. 517; rū. 488; nī. 1105.
+644.ka. 517; rū. 488; nī. 1105.
 ..
 ,,,,,.
 ,jā. 1.14.205,su. ni. 449.
@@ -829,24 +829,24 @@ dha. pa. 3-4,,,‘‘’’.,.
 ‘’,.
 -,,,.
 -,,,,,.
-645.Ḍaṃsassa ca ñchaṅaka. 517; rū. 488; nī. 1105; ‘chaṅa’ (bahūsu).
+645.ka. 517; rū. 488; nī. 1105; ‘chaṅa’ (bahūsu).
 .
 ,.,.
 -,.
 ,su. ni. 985.,jā. 2.22.73.,.
 -,,.
-646.Labha vasa chida gama bhida rudānaṃ cchaṅaka. 481; rū. 524; nī. 966, 968.
+646.ka. 481; rū. 524; nī. 966, 968.
 ,,‘‘’’jā. 2.22.2140.
 ,,,,,,,,,,,,,,,,,,,.
 ,,,,,,.
 -,jā. 2.22.131,,,,jā. 2.22.1832,,jā. 2.22.1835.
 -,,,.
 -–
-647.Jarasadānamīma vāka. 505, 609; rū. 482, 484; nī. 1018, 1213.
+647.ka. 505, 609; rū. 482, 484; nī. 1018, 1213.
 ,.
 ,.
 -,.
-648.Jaramarānamiyaṅaka. 505; rū. 482; nī. 1018; ‘…mīyaṅa’ (bahūsu).
+648.ka. 505; rū. 482; nī. 1018; ‘…mīyaṅa’ (bahūsu).
 ,,.
 ,.
 -,.
@@ -866,11 +866,11 @@ dha. pa. 3-4,,,‘‘’’.,.
 -,,.
 ‘’,,.
 -,,,.
-649.Dahassa dassa ḍoka. 20; rū. 27; nī. 50; ‘…dasadadakkhā’ (bahūsu).
+649.ka. 20; rū. 27; nī. 50; ‘…dasadadakkhā’ (bahūsu).
 .
 ,.
 -,,.
-650.Disassa passadassadasadadakkhāka. 471; rū. 483; nī. 951.
+650.ka. 471; rū. 483; nī. 951.
 .
 ,,,,,,dha. pa. 252,,dī. ni. 2.242.
 -vibha. aṭṭha. suttantabhājanīyavaṇṇanā,mahāva. 7; dī. ni. 2.64,dha. pa. 252,gavesitabbaṃ.,.,,.
@@ -923,7 +923,7 @@ dha. pa. 3-4,,,‘‘’’.,.
 -,,.
 ‘’,,,.
 -,.
-651.Labhā iṃīnaṃ thaṃthā vāka. 497; rū. 477; nī. 1013.
+651.ka. 497; rū. 477; nī. 1013.
 ,,,,.
 ,,,.
 ,,,,dī. ni. 2.77,,,,,ma. ni. 2.300 (thokaṃ visadisaṃ),,,..,jā. 1.16.204.
@@ -937,11 +937,11 @@ dha. pa. 3-4,,,‘‘’’.,.
 ,,,,,,,,,,,,,.
 ‘’,,,,,,,,,,,,,,.
 -,,,,,,,.
-652.Īādo vacassomaka. 477; rū. 479; nī. 958; caṃ. 6.2.69; pā. 7.4.20.
+652.ka. 477; rū. 479; nī. 958; caṃ. 6.2.69; pā. 7.4.20.
 .
 ,,,,,,,,,udā. 20.
 –
-653.Vacabhujamucavisānaṃ kkhaṅaka. 481; rū. 524; nī. 963; ‘bhuja muca vaca visānaṃ kkhaṅa (bahūsu).
+653.ka. 481; rū. 524; nī. 963; ‘bhuja muca vaca visānaṃ kkhaṅa (bahūsu).
 .
 ,,,,,,,,,,,,,,,,,.
 ‘’,,.
@@ -999,14 +999,14 @@ dha. pa. 3-4,,,‘‘’’.,.
 -,.
 ,,.
 –
-654.Hanassa ghāto ṇānubandheka. 591; rū. 544; nī. 1195.
+654.ka. 591; rū. 544; nī. 1195.
 .
 ,,,.
 -,.
 -,,,.
 -,,,.
 –
-655.Hanā jekhāka. 481; rū. 524; nī. 967, 969? ‘…chakhā’ (bahūsu) ‘chekhā’ (katthaci).
+655.ka. 481; rū. 524; nī. 967, 969? ‘…chakhā’ (bahūsu) ‘chekhā’ (katthaci).
 ,,.
 ,,,,,,,,.
 ,,,,,,,.
@@ -1016,20 +1016,20 @@ dha. pa. 3-4,,,‘‘’’.,.
 ,,.
 -,.
 ,–
-656.Āīādīsu harassā.
+656..
 ,,.
 -,dha. pa. 3-4,,,,gavesitabbaṃ,,,,,,,‘‘’’jā. 2.18.22,,,,,,,,,,,,apa. thera 1.2.84,,.
 ,,.
 –
-657.Harassa cāhaṅa sse‘yāssa cāhaṅa ssena’ (bahūsu).
+657.‘yāssa cāhaṅa ssena’ (bahūsu).
 .
 -,jā. 2.22.1759.,,,,,,dha. pa. 379.,,,.
 ,‘‘saṃ. ni. 1.185,therīgā. 121,’’jā. 2.22.1931.
 -,,,.
 -,,,,.
-658.Ādismā sarācaṃ. 5.1.3; pā. 6.1.2.
+658.caṃ. 5.1.3; pā. 6.1.2.
 ,,.
-659.Loponādibyañjanassacaṃ. 6.2.112; pā. 7.4.60.
+659.caṃ. 6.2.112; pā. 7.4.60.
 .
 ,.
 ‘’‘’,‘’,‘’,,,,,,.
@@ -1045,8 +1045,8 @@ Bhūvādigaṇo niṭṭhito.
 Rudhādigaṇa
 .
 ‘’,,,,.
-Chida, bhida, bhuja, muca, yuja, rica, rudha, lipa, vida, sica, subha.
-660.Mañca rudhādīnaṃka. 446; rū. 509; nī. 926; caṃ. 1.1.93; pā. 3.1.78.
+,,,,,,,,,,.
+660.ka. 446; rū. 509; nī. 926; caṃ. 1.1.93; pā. 3.1.78.
 ,,,,,,,,,.
 .
 -,,.
@@ -1100,13 +1100,13 @@ Chida, bhida, bhuja, muca, yuja, rica, rudha, lipa, vida, sica, subha.
 -,,,,pāci. 140.
 -,jā. 2.22.2132.,,,jā. 1.5.51,,,,,.
 .-.‘’.
-661.Ṇo niggahītassaka. 490; rū. 518; nī. 982.
+661.ka. 490; rū. 518; nī. 982.
 ..
 ,,,,,,.
 -,.
 ‘’,,,,.
 -,,,.
-662.Gahassa gheppoka. 489; rū. 519; nī. 901.
+662.ka. 489; rū. 519; nī. 901.
 ,,.
 ,.
 -,.
@@ -1117,8 +1117,8 @@ Rudhādigaṇo niṭṭhito.
 Divādigaṇa
 .
 .
-Muca, vica, yuja, luja, vija, gada, pada, mada, vida, idha, kudha, gidha, budha, yudha, vidha, sidha, sudha mana, hana, kupa, dīpa, lupa, vapa, supa, divu, sivu, tasa, tusa, disa, dusa, sisa, susa, daha, naha, muha.
-663.Divādīhi yakaka. 447; rū. 510; nī. 928; caṃ. 1.1.87; pā. 3.1.69.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+663.ka. 447; rū. 510; nī. 928; caṃ. 1.1.87; pā. 3.1.69.
 .
 .
 -,,,..
@@ -1140,7 +1140,7 @@ Muca, vica, yuja, luja, vija, gada, pada, mada, vida, idha, kudha, gidha, budha,
 -,,,,.
 ,,,,,,mahāva. 67,.
 -,,,,,,.
-664.Kvaci vikaraṇānaṃka. 517; rū. 488; nī. 1105.
+664.ka. 517; rū. 488; nī. 1105.
 .
 ,,,saṃ. ni. 5.1081,,.
 -,,.
@@ -1198,11 +1198,11 @@ Muca, vica, yuja, luja, vija, gada, pada, mada, vida, idha, kudha, gidha, budha,
 Divādigaṇo niṭṭhito.
 Svādigaṇa
 .
-Gi, ci, mi, vu, su, hi, āpa, saka.
+,,,,,,,.
 ‘’.
-665.Svādito kṇoka. 448; rū. 512; nī. 929; caṃ. 1.1.95; pā. 3.1.74; ‘svādīhi…’ (bahūsu).
+665.ka. 448; rū. 512; nī. 929; caṃ. 1.1.95; pā. 3.1.74; ‘svādīhi…’ (bahūsu).
 ,.
-666.Na te kānubandhanāgamesu.
+666..
 ’,,.
 ,.
 -,,,,.
@@ -1220,7 +1220,7 @@ Gi, ci, mi, vu, su, hi, āpa, saka.
 -,.
 ,,,,,,,,,,,,,,.
 -,.
-667.Tesu suto kṇokṇānaṃ roṭaka. 517; rū. 488; nī. 1105.
+667.ka. 517; rū. 488; nī. 1105.
 ,,.‘’,.
 ,,,,,,,.
 -,,,,,,,,,,,..
@@ -1228,7 +1228,7 @@ Gi, ci, mi, vu, su, hi, āpa, saka.
 -,,,.
 -,,‘’,,pārā. 297; mahāva. 198,.
 -–
-668.Sakāpānaṃ kukku kṇeka. 517; rū. 488; nī. 1105; ‘‘…kukakū ṇe’’ (bahūsu).
+668.ka. 517; rū. 488; nī. 1105; ‘‘…kukakū ṇe’’ (bahūsu).
 ,,.
 ,,.
 ,,.
@@ -1241,10 +1241,10 @@ Gi, ci, mi, vu, su, hi, āpa, saka.
 -,,.
 ?,.
 -,,,.
-669.Sakā kṇāssa kho īādo‘…ṇāssa kha…’’ (bahūsu).
+669.‘…ṇāssa kha…’’ (bahūsu).
 .
 ,,,.
-670.Sse vāka. 517; rū. 488; nī. 1105.
+670.ka. 517; rū. 488; nī. 1105.
 .
 ,,,,,,,,.
 ‘’,,,,.
@@ -1252,44 +1252,44 @@ Gi, ci, mi, vu, su, hi, āpa, saka.
 Svādigaṇo niṭṭhito.
 Kyādigaṇa
 .
-Kī, ji, ñā, dhū, pu, bhū, mā, mū, lū.
-671.Kyādīhi kṇāka. 449; rū. 513; nī. 930; caṃ. 1.1.101 …pe… 3.1.81.
+,,,,,,,,.
+671.ka. 449; rū. 513; nī. 930; caṃ. 1.1.101 …pe… 3.1.81.
 .
-672.Kṇāknāsu rassoka. 517; rū. 488; nī. 1105; caṃ. 6.1.108; pā. 7.3.80.
+672.ka. 517; rū. 488; nī. 1105; caṃ. 6.1.108; pā. 7.3.80.
 .
 -,,,,.
 -,,,,.
 -,,,.
-673.Jyādīhi knāka. 449; rū. 513; nī. 930.
+673.ka. 449; rū. 513; nī. 930.
 .
 ,.
 -,,,.
 -,,,,,,,,,,,,,.
 -.
-674.Ñāssa ne jāka. 470; rū. 514; nī. 950; caṃ. 6.1.107; pā. 7.3.70, 79.
+674.ka. 470; rū. 514; nī. 950; caṃ. 6.1.107; pā. 7.3.70, 79.
 .
 ,,,,,,,,.
 -,,,,,,,,.
 -,,,,,,,.
 -,,.
-675.Ñāssa sanāssa nāyo timhika. 509; rū. 516; nī. 1022.
+675.ka. 509; rū. 516; nī. 1022.
 ,,.
 .dī. ni. 2.41-44..‘‘’’visuddhi 1.174.
 -,,,,,.
 -.
 ‘‘’’jā. 2.22.7.
-676.Eyyassiyāñā vāka. 508; rū. 515; nī. 1021.
+676.ka. 508; rū. 515; nī. 1021.
 ,,,,,,,.
 .
-677.Ñāmhi jaṃka. 470; rū. 514; nī. 950.
+677.ka. 470; rū. 514; nī. 950.
 .
 ,.
 .‘‘su. ni. 127; vibha. 894 ‘jaññā’ti,gavesitabbaṃ,’’jā. 2.22.1301.‘,,,’.
-678.Īssatyādīsu knālopoka. 517; rū. 488; nī. 1105.
+678.ka. 517; rū. 488; nī. 1105.
 .
 ,,,,,,,,,,,,,,,,,,,,,,.
 -,.
-679.Ssassa hi kammeka. 517; rū. 488; nī. 1105.
+679.ka. 517; rū. 488; nī. 1105.
 .
 .‘‘,’’jā. 2.17.197.,.
 -,,,.
@@ -1308,8 +1308,8 @@ Kī, ji, ñā, dhū, pu, bhū, mā, mū, lū.
 Kyādigaṇo niṭṭhito.
 Tanādigaṇa
 .
-Āpa, kara, tana, saka.
-680.Tanāditvoka. 451; rū. 520; nī. 932; caṃ. 1.1.97; pā. 3.1.79.
+,,,.
+680.ka. 451; rū. 520; nī. 932; caṃ. 1.1.97; pā. 3.1.79.
 .
 .
 -.,,.
@@ -1320,35 +1320,35 @@ Tanādigaṇa
 -,.
 ‘’,,,,,.
 -,,,,,,,.
-681.Karassa sossa kuṃka. 511; rū. 521; nī. 1124.
+681.ka. 511; rū. 521; nī. 1124.
 -,.
 ,,‘‘jā. 1.3.126,’’jā. 2.22.1752.
-682.Karotissa khoka. 594; rū. 582; nī. 1198.
+682.ka. 594; rū. 582; nī. 1198.
 .
 ,,,.
 -,.
 -,.
 ,,.
 -,.
-683.Karassa sossa kubbakurukayirāka. 511-2; rū. 521-2; nī. 1077-8-9-10; caṃ. 5.2.103; pā. 6.4.110.
+683.ka. 511-2; rū. 521-2; nī. 1077-8-9-10; caṃ. 5.2.103; pā. 6.4.110.
 -,,,,,.
 ,,.
 -,,,,,,,,,,,,.
 ,,,,,dī. ni. 2.318,.
 ,,,,.
-684.Ṭāka. 517; rū. 488; nī. 1105.
+684.ka. 517; rū. 488; nī. 1105.
 .
 ,dha. pa. 118,dha. pa. 118.
-685.Kayireyyasseyyumādīnaṃka. 517; rū. 488; nī. 1083-4-5-6-7.
+685.ka. 517; rū. 488; nī. 1083-4-5-6-7.
 .
 ,,,,,,,,,.
-686.Ethassāka. 517; rū. 488; nī. 1082.
+686.ka. 517; rū. 488; nī. 1082.
 -.
 ,dha. pa. 28,dha. pa. 313; saṃ. ni. 1.89.
 -,,,,,,,,,,,,,,,,,,,,,,,,,,.
-687.Kā īādīsuka. 491; rū. 523; nī. 983.
+687.ka. 491; rū. 523; nī. 983.
 .
-688.Dīghā īssaka. 517; rū. 488; nī. 1105.
+688.ka. 517; rū. 488; nī. 1105.
 ,,.
 ,,,,,,.
 ,,‘‘’’jā. 2.22.564.,.gavesitabbaṃ,,udā. 44.,,,.,jā. 1.4.53..‘‘,’’jā. 2.20.94.,,.‘‘,’’jā. 2.17.134.
@@ -1360,25 +1360,25 @@ Tanādigaṇa
 -,.
 -,.
 -.
-689.Ovikaraṇassu parachakkeka. 511; rū. 521; nī. 1024.
+689.ka. 511; rū. 521; nī. 1024.
 .
 ,.
 ‘’-.
-690.Pubbachakke vā kvacika. 511; rū. 521; nī. 1024.
+690.ka. 511; rū. 521; nī. 1024.
 .
 ,.
 ?.
 ?.
 -,.
-691.Tanassā vāka. 517; rū. 488; nī. 1105.
+691.ka. 517; rū. 488; nī. 1105.
 -.
 ,,,.‘‘’,’’jā. 1.6.84.,.
 -,,,,,,.
 Tanādigaṇo niṭṭhito.
 Curādigaṇa
 .
-Āpa, kamu, gaṇa, ghaṭa, cinta, ceta, cura, dhara, pāla, pūja, manta, māna, vida.
-692.Curādīhiṇika. 452; rū. 525; nī. 933; caṃ. 1.1.45; pā. 3.1.25; ‘curādito ṇi’ (bahūsu).
+,,,,,,,,,,,,.
+692.ka. 452; rū. 525; nī. 933; caṃ. 1.1.45; pā. 3.1.25; ‘curādito ṇi’ (bahūsu).
 .
 ,.
 -,,.
@@ -1409,12 +1409,12 @@ Curādigaṇo niṭṭhito.
 Vikaraṇapaccayarāsi niṭṭhito.
 Sāmañña kha, cha, sarāsi
 .
-dhātupaccayā,,,,.
-Tija, māna, kita, gupa, badha.
-693.Tijamānehi khasā khamāvīmaṃsāsuka. 433; rū. 528; nī. 906-9; caṃ. 1.1.17, 28; pā. 3.1.5.
+,,,,.
+,,,,.
+693.ka. 433; rū. 528; nī. 906-9; caṃ. 1.1.17, 28; pā. 3.1.5.
 ,,.
 -,.
-694.Khachasānamekassaraṃ dveka. 458; rū. 461; nī. 939; caṃ. 5.1.1; pā. 6.1.1, 9; ‘…mekasarodi…’ (bahūsu).
+694.ka. 458; rū. 461; nī. 939; caṃ. 5.1.1; pā. 6.1.1, 9; ‘…mekasarodi…’ (bahūsu).
 ,,‘,’‘’-,‘’.‘’,‘’,.
 ,.
 -.
@@ -1424,7 +1424,7 @@ Tija, māna, kita, gupa, badha.
 ?-,,.
 -.‘‘’’ma. ni. 3.276.
 -,.‘’‘,’–
-695.Mānassa vī parassa ca maṃka. 463-7; rū. 532-3; nī. 944.
+695.ka. 463-7; rū. 532-3; nī. 944.
 ,.
 ,.
 -,.
@@ -1432,10 +1432,10 @@ Tija, māna, kita, gupa, badha.
 -,.
 ?-,,,,.
 -.
-696.Kitā tikicchāsaṃsayesu choka. 433; rū. 528; nī. 906-9; caṃ. 1.1.18; pā. 3.1.5 kā.
+696.ka. 433; rū. 528; nī. 906-9; caṃ. 1.1.18; pā. 3.1.5 kā.
 .
 ‘,’–
-697.Kitassāsaṃsayeti vāka. 463; rū. 532; nī. 944.
+697.ka. 463; rū. 532; nī. 944.
 .‘’,.
 ,.,jā. 2.22.408.
 -,.
@@ -1445,87 +1445,87 @@ Tija, māna, kita, gupa, badha.
 ,–
 -,,,.
 -.
-698.Nindāyaṃ gupabadhā bassa bho caka. 433; rū. 528; caṃ. 1.1.19, 20; pā. 3.1.5, 6 kā.
+698.ka. 433; rū. 528; caṃ. 1.1.19, 20; pā. 3.1.5, 6 kā.
 ,,..
-699.Gupissika. 465; rū. 463; nī. 946; ‘gupissussa’ (bahūsu).
+699.ka. 465; rū. 463; nī. 946; ‘gupissussa’ (bahūsu).
 -.,,.
 ,.
 -,.
 -,,,.,.
 ?-,,.
 -,–
-700.Khachasessika. 465; rū. 463; nī. 946; ‘khachasesvassi’ (bahūsu).
+700.ka. 465; rū. 463; nī. 946; ‘khachasesvassi’ (bahūsu).
 ,,,,.
 ,..
 ?-,,,.jā. 1.12.8.
 -,,,.
 Iti sāmañña kha, cha, sarāsi.
 Tumicchatthe khachasarāsi
-701.Tuṃsmā lopo cicchāyaṃ teka. 434; rū. 534; nī. 910; caṃ. 1.1.22; pā. 3.1.7.
+701.ka. 434; rū. 534; nī. 910; caṃ. 1.1.22; pā. 3.1.7.
 ,,,.,,.,‘’,‘‘,,’’.
-Bhuja, ghasa, hana, ji, hara, pā, su.
+,,,,,,.
 -,,,,,,,,,,,,,,,,,,,,,,,,,.
 -,–,,,,,,,,,,.
 -,–,,‘’,.
-702.Parassa ghaṃ se.
+702..
 .
 ,.
 -,–,.
-703.Jiharānaṃ gīka. 462, 474; rū. 467, 535; nī. 943-954.
+703.ka. 462, 474; rū. 467, 535; nī. 943-954.
 ,.
 ,,,.
 -,,,,,,,.
 -,–,,‘’,,,,,.
 -,–,sussūsati (bahūsu),,,,,,,,,,,.
 –,–
-704.Na punacaṃ. 5.1.6.
+704.caṃ. 5.1.6.
 ,‘’.
 ,.,,,.
 Iti tumicchatthe kha, cha, sa rāsi.
 Nāmadhāturāsi
 –
-705.Īyo kammāka. 437; rū. 538; nī. 912; caṃ. 1.1.23, 24; pā. 3.1.8, 9.
+705.ka. 437; rū. 538; nī. 912; caṃ. 1.1.23, 24; pā. 3.1.8, 9.
 ,‘’,.
 ,,,,,,,.,,,,,.
 –
-706.Upamāṇācāreka. 436; rū. 537; nī. 912; caṃ. 1.1.25; pā. 3.1.10.
+706.ka. 436; rū. 537; nī. 912; caṃ. 1.1.25; pā. 3.1.10.
 ,.
 ,.
 -,,,,,,,.,.
 –
-707.Ādhārāka. 436; rū. 537; nī. 912; caṃ. 1.1.26; pā. 3.1.10.
+707.ka. 436; rū. 537; nī. 912; caṃ. 1.1.26; pā. 3.1.10.
 .
 ,,,.
 ,..
 –
-708.Kattutāyoka. 435; rū. 536; nī. 911; caṃ. 1.1.27; pā. 3.1.11.
+708.ka. 435; rū. 536; nī. 911; caṃ. 1.1.27; pā. 3.1.11.
 ..
 ,,,.,,,,.
 –
-709.Jhattheka. 435; rū. 536; nī. 911; caṃ. 1.1.30; pā. 3.1.12, 13.
-jhattho..
+709.ka. 435; rū. 536; nī. 911; caṃ. 1.1.30; pā. 3.1.12, 13.
+..
 ,,,,.,,,,,.
 ?.
 –
-710.Saddādīhi karotika. 435; rū. 536; nī. 911; caṃ. 1.1.36; pā. 3.1.17, 18; ‘saddādīni’ (bahūsu).
+710.ka. 435; rū. 536; nī. 911; caṃ. 1.1.36; pā. 3.1.17, 18; ‘saddādīni’ (bahūsu).
 .
 ,,,,,,,,,,,,,,,,,,,,,,,,.,.
 –
-711.Namotvassocaṃ. 1.1.37; pā. 3.1.19.
+711.caṃ. 1.1.37; pā. 3.1.19.
 .
 ,.
 –
-712.Dhātvatthe nāmasmipā. 3.1.21, 25.
+712.pā. 3.1.21, 25.
 ..‘’.
 ,.
 ‘’.‘’,,,,,,,,,,,,,,,,,,.
 -,.‘‘’’.
 –
-713.Saccādīhāpisaṃyuttanikāye; rū. 540; nī. 914; pā. 3.1.25.
+713.saṃyuttanikāye; rū. 540; nī. 914; pā. 3.1.25.
 .
 ,,,,,,,,,,,,,.
 ,‘’.
-714.Yathiṭṭhaṃ syādinoka. 458; rū. 461; nī. 939; caṃ. 5.1.8; pā. 6.1.3.
+714.ka. 458; rū. 461; nī. 939; caṃ. 5.1.8; pā. 6.1.3.
 ,.‘‘’’.’,.‘’.
 -.
 -.

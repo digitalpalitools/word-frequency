@@ -4,7 +4,7 @@ cittacetasikā dhammā tesaṃ dāni yathārahaṃ
  vedanāhetuto kiccadvārālambaṇavatthuto
 cittuppādavaseneva saṅgaho nāma nīyate
 
- tattha  tāva tividhā vedanā sukhaṃ dukkhaṃ adukkhamasukhā ceti sukhaṃ dukkhaṃ somanassaṃ domanassaṃ upekkhāti ca bhedena pana pañcadhā hoti
+ tattha vedanāsaṅgahe tāva tividhā vedanā sukhaṃ dukkhaṃ adukkhamasukhā ceti sukhaṃ dukkhaṃ somanassaṃ domanassaṃ upekkhāti ca bhedena pana pañcadhā hoti
  tattha sukhasahagataṃ kusalavipākaṃ kāyaviññāṇamekameva tathā dukkhasahagataṃ akusalavipākaṃ
  somanassasahagatacittāni  pana lobhamūlāni cattāri dvādasa kāmāvacarasobhanāni sukhasantīraṇahasanāni ca dveti aṭṭhārasa kāmāvacarasomanassasahagatacittāni ceva paṭhamadutiyatatiyacatutthajjhānasaṅkhātāni  catucattālīsa mahaggatalokuttaracittāni ceti dvāsaṭṭhividhāni bhavanti
  domanassasahagatacittāni pana dve paṭighasampayuttacittāneva
@@ -14,7 +14,7 @@ somanassaṃ domanassamitibhedena pañcadhā
  sukhamekattha dukkhañca domanassaṃ dvaye ṭhitaṃ
 dvāsaṭṭhīsu somanassaṃ pañcapaññāsaketarā
 
- hetū nāma lobho doso moho alobho adoso amoho cāti chabbidhā bhavanti
+hetusaṅgahe hetū nāma lobho doso moho alobho adoso amoho cāti chabbidhā bhavanti
  tattha pañcadvārāvajjanadvipañcaviññāṇasampaṭicchanasantīraṇavoṭṭhabbanahasanavasena ahetukacittāni nāma
  sesāni sabbānipi ekasattati cittāni sahetukāneva
  tatthāpi dve momūhacittāni ekahetukāni
@@ -27,7 +27,7 @@ kusalābyākatā tathā
  ahetukāṭṭhārasekahetukā dve dvāvīsati
 dvihetukā matā sattacattālīsatihetukā
 
- kiccāni nāma paṭisandhibhavaṅgāvajjanadassanasavanaghāyanasāyanaphusanasampaṭicchanasantīraṇavoṭṭhabbanajavanatadārammaṇacutivasena cuddasavidhāni bhavanti
+kiccasaṅgahe kiccāni nāma paṭisandhibhavaṅgāvajjanadassanasavanaghāyanasāyanaphusanasampaṭicchanasantīraṇavoṭṭhabbanajavanatadārammaṇacutivasena cuddasavidhāni bhavanti
  paṭisandhibhavaṅgāvajjanapañcaviññāṇaṭhānādivasena pana tesaṃ dasadhā ṭhānabhedo veditabbo
  tattha dve upekkhāsahagatasantīraṇāni ceva aṭṭha mahāvipākāni ca nava rūpārūpavipākāni ceti ekūnavīsati cittāni paṭisandhibhavaṅgacutikiccāni nāma
  āvajjanakiccāni pana dve
@@ -47,7 +47,7 @@ dasadhā ṭhānabhedena cittuppādā pakāsitā
  aṭṭhasaṭṭhi tathā dve ca navāṭṭha dve yathākkamaṃ
 ekadviticatupañcakiccaṭhānāni niddise
 
- dvārāni nāma cakkhudvāraṃ sotadvāraṃ ghānadvāraṃ jivhādvāraṃ kāyadvāraṃ manodvārañceti chabbidhāni bhavanti
+dvārasaṅgahe dvārāni nāma cakkhudvāraṃ sotadvāraṃ ghānadvāraṃ jivhādvāraṃ kāyadvāraṃ manodvārañceti chabbidhāni bhavanti
  tattha cakkhumeva cakkhudvāraṃ
  tathā sotādayo sotadvārādīni
  manodvāraṃ  pana bhavaṅganti pavuccati
@@ -64,7 +64,7 @@ chadvārikavimuttāni vimuttāni ca sabbathā
 chattiṃsati tathā tīṇi ekatiṃsa yathākkamaṃ
 dasadhā navadhā ceti pañcadhā paridīpaye
 
- ārammaṇāni nāma rūpārammaṇaṃ saddārammaṇaṃ gandhārammaṇaṃ rasārammaṇaṃ phoṭṭhabbārammaṇaṃ dhammārammaṇañceti chabbidhāni bhavanti
+ālambaṇasaṅgahe ārammaṇāni nāma rūpārammaṇaṃ saddārammaṇaṃ gandhārammaṇaṃ rasārammaṇaṃ phoṭṭhabbārammaṇaṃ dhammārammaṇañceti chabbidhāni bhavanti
  tattha rūpameva rūpārammaṇaṃ tathā saddādayo saddārammaṇādīni
  dhammārammaṇaṃ pana pasādasukhumarūpacittacetasikanibbānapaññattivasena chadhā saṅgayhati
  tattha cakkhudvārikacittānaṃ sabbesampi rūpameva ārammaṇaṃ tañca paccuppannaṃ tathā sotadvārikacittādīnampi saddādīni tāni ca paccuppannāniyeva
@@ -84,7 +84,7 @@ ekavīsati vohāre aṭṭha nibbānagocare
 vīsānuttaramuttamhi  aggamaggaphalujjhite
 pañca sabbattha chacceti sattadhā tattha saṅgaho
 
- vatthūni nāma cakkhusotaghānajivhākāyahadayavatthu ceti chabbidhāni bhavanti
+vatthusaṅgahe vatthūni nāma cakkhusotaghānajivhākāyahadayavatthu ceti chabbidhāni bhavanti
  tāni kāmaloke sabbānipi labbhanti
  rūpaloke pana ghānādittayaṃ natthi
  arūpaloke pana sabbānipi na saṃvijjanti

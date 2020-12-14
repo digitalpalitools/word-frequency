@@ -97,7 +97,7 @@ Kammavibhāgo
 ,.
 359.
 ;
-,kāmāvacarikaṃ.
+,.
 360.
 -;
 ,.
@@ -179,7 +179,7 @@ Kammavibhāgo
 ,;
 ,.
 386.
-Rūpāvacarikaṃ-;
+-;
 ,.
 387.
 ,
@@ -187,25 +187,25 @@ Rūpāvacarikaṃ-;
 ,
 .
 388.
-Kasiṇāni dasī,;
+,;
 ,.
 389.
 ,;
-,asubhaṃ dasadhā.
+,.
 390.
 ,;
 ,.
 391.
 ,;
-,dasadhānussatī.
+,.
 392.
 ,;
-,appamaññā.
+,.
 393.
-Āhārepaṭikkūla-saññe;
-Catudhātuvavatthānaṃ,.
+-;
+,.
 394.
-Cattāroruppakā,;
+,;
 ,.
 395.
 ,;
@@ -288,7 +288,7 @@ Cattāroruppakā,;
 ,;
 ,.
 421.
-Arūpāvacarakammaṃ,;
+,;
 ,.
 422.
 ,;
@@ -307,7 +307,7 @@ Arūpāvacarakammaṃ,;
 ,.
 427.
 ,;
-Kammaṃ lokuttaraṃ,.
+,.
 428.
 ,;
 ,.
@@ -318,11 +318,11 @@ Kammaṃ lokuttaraṃ,.
 ,;
 ,.
 431.
-Bhūmi,;
+,;
 ,.
 432.
 ,;
-,bhava.
+,.
 433.
 -
 ;
@@ -336,9 +336,9 @@ Bhūmi,;
 ,.
 436.
 ,;
-,yoni.
+,.
 437.
-Gatiyo,;
+,;
 ,.
 438.
 ,;
@@ -353,11 +353,11 @@ Gatiyo,;
 -;
 -.
 442.
-Viññāṇaṭṭhitiyo,;
+,;
 ,.
 443.
 ,;
-,sattāvāsā.
+,.
 444.
 ,;
 -.

@@ -62,7 +62,7 @@ Maggāmaggañāṇadassanavisuddhiniddeso
 ,;
 ,.
 1282.
-,obhāso;
+,;
 ,.
 1283.
 ,;
@@ -73,10 +73,10 @@ Maggāmaggañāṇadassanavisuddhiniddeso
 ,
 .
 1285.
-Pīti,;
+,;
 ,.
 1286.
-,passaddhī;
+,;
 ,.
 1287.
 ,;
@@ -93,7 +93,7 @@ Pīti,;
 ‘‘,;
 ,’’.
 1291.
-Ñāṇādayo,;
+,;
 ,.
 1292.
 ,
@@ -111,7 +111,7 @@ Pīti,;
 ,.
 1296.
 ,;
-Maggāmaggesuñāṇa,.
+,.
 1297.
 ,
 ;

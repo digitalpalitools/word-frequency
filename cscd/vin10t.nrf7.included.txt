@@ -542,43 +542,43 @@ bhūtārocanakañceva corivuṭṭhāpanampi ca
 terasete samuṭṭhānanayā viññūhi cintitā
 
  tattha yā tu catutthena samuṭṭhānena jāyate
- ayanti paridīpitā
+ādipārājikuṭṭhānā ayanti paridīpitā
 
  sacittakehi  tīheva samuṭṭhānehi yā pana
-jāyate sā panuddiṭṭhā 
+jāyate sā panuddiṭṭhā adinnādānapubbakā
 
  samuṭṭhānehi yāpatti jātucchahipi jāyate
- nāmāti paridīpitā
+sañcarittasamuṭṭhānā nāmāti paridīpitā
 
  chaṭṭheneva samuṭṭhāti samuṭṭhānena yā pana
-samuṭṭhānavasenāyaṃ vuttā 
+samuṭṭhānavasenāyaṃ vuttā samanubhāsanā
 
  tatiyacchaṭṭhatoyeva samuṭṭhāti hi yā pana
-samuṭṭhānavasenāyaṃ papadā matā
+samuṭṭhānavasenāyaṃ kathinupapadā matā
 
  jāyate yā panāpatti kāyato kāyacittato
-ayadisamuṭṭhānāti dīpitā
+ayameḷakalomādisamuṭṭhānāti dīpitā
 
  jāyate yā panāpatti vācato vācacittato
-ayaṃ tu ti vuccati
+ayaṃ tu padasodhammasamuṭṭhānāti vuccati
 
  kāyato kāyavācamhā catutthacchaṭṭhatopi ca
-jāyate sā panati sūcitā
+jāyate sā panaddhānasamuṭṭhānāti sūcitā
 
  catutthacchaṭṭhatoyeva samuṭṭhāti hi yā pana
- ayanti paridīpitā
+theyyasatthasamuṭṭhānā ayanti paridīpitā
 
  pañcameneva yā cettha samuṭṭhānena jāyate
-samuṭṭhānavasenāyaṃ 
+samuṭṭhānavasenāyaṃ dhammadesanasaññitā
 
  acittakehi  tīheva samuṭṭhānehi yā siyā
-samuṭṭhānavasenāyaṃ 
+samuṭṭhānavasenāyaṃ bhūtārocanapubbakā
 
  pañcamacchaṭṭhatoyeva yā samuṭṭhānato siyā
-ayaṃ tu paṭhitā samuṭṭhitā
+ayaṃ tu paṭhitā corivuṭṭhāpanasamuṭṭhitā
 
  dutiyā tatiyamhā ca pañcamacchaṭṭhatopi yā
-jāyate  ayaṃ siyā
+jāyate ananuññātasamuṭṭhānā ayaṃ siyā
 
  paṭhamaṃ dutiyaṃ tattha catutthaṃ navamampi ca
 dasamaṃ dvādasamañcāti samuṭṭhānaṃ sacittakaṃ
@@ -1037,7 +1037,7 @@ gimheyeva na sesesu vasse no itaradvaye
 puṇṇamādivasasmiñhi kattikassa tu pacchime
 
  taṃ apaccuddharitvāva hemanteyeva netare
-āpajjatīti niddiṭṭhaṃ  tu
+āpajjatīti niddiṭṭhaṃ kurundaṭṭhakathāya tu
 
  atirekamāso =11 sesoti
 pariyesanto ca gimhike
@@ -1828,7 +1828,7 @@ mātaraṃ pitaraṃ hantvā nānantariyakaṃ phuse
 kathaṃ kammaṃ akammaṃ taṃ saṅgho sāpattiko siyā
 
  vuttaṃ tu paṇḍakādīnaṃ sandhāya upasampadaṃ
-anāpattissa kammaṃ tu sandhāyāti 
+anāpattissa kammaṃ tu sandhāyāti kurundiyaṃ
 
  kappabindukataṃ rattaṃ cīvaraṃ tu adhiṭṭhitaṃ
 kathamassa siyāpatti sevamānassa dukkaṭaṃ
@@ -2138,7 +2138,7 @@ tikadvayanti sabbattha yojetabbamidaṃ pana
  pubbe vuttanayaṃ yañca yañca uttānamevidha
 taṃ sabbaṃ pana vajjetvā karissāmatthajotanaṃ
 
- nāma yaṃ yaṃ tu bhikkhumārabbha bhikkhuniṃ
+puggalo nāma yaṃ yaṃ tu bhikkhumārabbha bhikkhuniṃ
 sikkhāpadaṃ tu paññattaṃ ayaṃ vuccati puggalo
 
  tevīsatividhā te ca sudinnadhaniyādayo
@@ -2147,10 +2147,10 @@ bhikkhūnaṃ pātimokkhasmiṃ ādikammikapuggalā
  bhikkhunīnaṃ tathā pātimokkhasmiṃ ādikammikā
 thullanandādayo satta sabbe tiṃsa bhavanti hi
 
-ti puggalasseva tassa tassa ca sabbaso
+vatthūti puggalasseva tassa tassa ca sabbaso
 vatthuno tassa tasseva ajjhācāro pavuccati
 
- kevalā  pana  mūlabhūtā tatheva sā
+ kevalā  pana paññatti mūlabhūtā tatheva sā
 anvanuppannasabbatthapadesapadapubbikā
 
  sādhāraṇā ca paññatti tathāsādhāraṇāpi ca
@@ -2160,42 +2160,42 @@ ekatoubhatopubbā evaṃ navavidhā siyā
 adinnaṃ ādiyeyyāti paññatticcevamādikā
 
  hoti  antamaso bhikkhu tiracchānagatāyapi
-iccevamādikā sabbā  dīpitā
+iccevamādikā sabbā anupaññatti dīpitā
 
- tathā anuppanne tu vajjake
+ tathānuppannapaññatti anuppanne tu vajjake
 aṭṭhannaṃ garudhammānaṃ vasenevāgatā hi sā
 
  cammattharaṇakañceva saguṇaṅguṇupāhanaṃ
 tatheva ca dhuvanhānaṃ pañcavaggūpasampadā
 
- esā  nāmāti hi catubbidhā
+ esā padesapaññatti nāmāti hi catubbidhā
 vuttā majjhimadesasmiṃyeva hoti na aññato
 
- ito sesā hi ti pakāsitā
+ ito sesā hi sabbatthapaññattīti pakāsitā
 atthato ekamevettha sādhāraṇadukādikaṃ
 
- panāpatti hoti pi ca
-ti ca nāmesā ñeyyā āṇāpanā pana
+sāṇattikā panāpatti hoti nāṇattikāpi ca
+āṇattīti ca nāmesā ñeyyā āṇāpanā pana
 
  āpattīnaṃ tu sabbāsaṃ sabbasikkhāpadesupi
 sabbo panaṅgabhedo hi viññātabbo vibhāvinā
 
  kāyenapi ca vācāya yā karontassa jāyate
-ayaṃ  nāma pārājikā viya
+ayaṃ kriyasamuṭṭhānā nāma pārājikā viya
 
  kāyavācāhi kattabbaṃ akarontassa hoti yā
-sā  paṭhame kathine viya
+sā cākriyasamuṭṭhānā paṭhame kathine viya
 
  karontassākarontassa bhikkhuno hoti yā pana
-sā  hoti cīvaraggahaṇe viya
+sā kriyākriyato hoti cīvaraggahaṇe viya
 
  siyā pana karontassa akarontassa yā siyā
-sā  hoti rūpiyuggahaṇe viya
+sā kriyākriyato hoti rūpiyuggahaṇe viya
 
  tathā  siyā karontassa
 yā karoto akubbato
 siyā kiriyato ceva
-sā pi ca
+sā kriyākriyatopi ca
 
  sabbā cāpattiyo saññā
 vasena duvidhā siyuṃ
@@ -2203,27 +2203,27 @@ saññāvimokkhā nosaññā
 vimokkhāti pakāsitā
 
  vītikkamanasaññāya abhāvena yato pana
-vimuccati ayaṃ ti pakāsitā
+vimuccati ayaṃ saññāvimokkhāti pakāsitā
 
- itarā pana ti pakāsitā
+ itarā pana nosaññāvimokkhāti pakāsitā
 puna sabbāva cittassa vasena duvidhā siyuṃ
 
  sacittakā acittāti sucittena pakāsitā
 sacittakasamuṭṭhānavasena pana yā siyā
 
- ayaṃ  nāma āpatti paridīpitā
-sacittakehi vā missavasenāya
+ ayaṃ sacittakā nāma āpatti paridīpitā
+sacittakehi vā missavasenāyamacittakā
 
  sabbā cāpattiyo vajjavasena duvidhā rutā
 suvijjenānavajjena lokapaṇṇattivajjato
 
  yassā sacittake pakkhe cittaṃ akusalaṃ siyā
-ti nāmāyaṃ sesā 
+lokavajjāti nāmāyaṃ sesā paṇṇattivajjakā
 
  sabbā cāpattiyo kammavasena tividhā siyuṃ
- tathā tadubhayampi ca
+kāyakammaṃ vacīkammaṃ tathā tadubhayampi ca
 
-nti nāmetaṃ kusalāditikadvayaṃ
+tikadvayanti nāmetaṃ kusalāditikadvayaṃ
 kusalākusalacitto vā tathābyākatamānaso
 
  hutvā  āpajjatāpattiṃ āpajjanto na aññathā
@@ -2445,10 +2445,10 @@ dve tayo anusāvetuṃ vaṭṭatīti ca niddise
  ñattiyā kappanā ceva tathā vippakatampi ca
 atītakaraṇañceti tayo kammassa saṅgahā
 
- nāma dadeyyaccevamādikā
-deti saṅgho karotīti ādi  siyā
+ñattiyākappanā nāma dadeyyaccevamādikā
+deti saṅgho karotīti ādi vippakataṃ siyā
 
- dinnaṃ kataṃ paniccādi  siyā
+ dinnaṃ kataṃ paniccādi atītakaraṇaṃ siyā
 saṅgayhanti hi sabbāni kammānetehi tīhipi
 
  saṅghe salākagāhena kammenapi ca kevalaṃ
@@ -2528,7 +2528,7 @@ vidhinā paṭunā paṭunā yatinā
 pariyāpuṇitabbamidaṃ satataṃ
 
 
- racito  suddhacittena dhīmatā
+ racito buddhadattena suddhacittena dhīmatā
 suciraṭṭhitikāmena sāsanassa mahesino
 
  antarenantarāyaṃ tu yathā siddhimupāgato
@@ -2544,12 +2544,12 @@ tāva tiṭṭhatu saddhammo gotamassa mahesino
 patiṭṭhitā guṇā yasmiṃ ratanānīva sāgare
 
  vinayācārayuttena tena sakkacca sādaraṃ
-yācito  therena thiracetasā
+yācito saṅghapālena therena thiracetasā
 
  suciraṭṭhitikāmena  vinayassa mahesino
 bhikkhūnaṃ pāṭavatthāya vinayassa vinicchaye
 
- akāsiṃ  paramaṃ etaṃ  nāma nāmato
+ akāsiṃ  paramaṃ etaṃ uttaraṃ nāma nāmato
 savane sādaraṃ katvā sikkhitabbo tato ayaṃ
 
  paññāsādhikasaṅkhyāni navagāthāsatāni hi
@@ -2557,5 +2557,5 @@ gaṇanā uttarassāyaṃ chandasānuṭṭhubhena tu
 
  gāthā catusahassāni satañca ūnavīsati
 pamāṇato imā vuttā vinayassa vinicchayeti
-iti tambapaṇṇiyena paramaveyyākaraṇena tipiṭakanayavidhikusalena paramakavijanahadayapadumavanavikasanakarena kavivaravasabhena paramaratikaravaramadhuravacanuggārena uragapurena  racito uttaravinicchayo samattoti
+iti tambapaṇṇiyena paramaveyyākaraṇena tipiṭakanayavidhikusalena paramakavijanahadayapadumavanavikasanakarena kavivaravasabhena paramaratikaravaramadhuravacanuggārena uragapurena buddhadattena racito uttaravinicchayo samattoti
 

@@ -4,7 +4,7 @@ Theragāthā-aṭṭhakathā
 (Dutiyo bhāgo)
 4. Catukkanipāto
 1. Nāgasamālattheragāthāvaṇṇanā
-Alaṅkatā.?.nāgasamālo.,‘‘,’’.apadāne(apa. thera 2.46.37-48)–
+.?..,‘‘,’’.(apa. thera 2.46.37-48)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -38,13 +38,13 @@ Alaṅkatā.?.nāgasamālo.,‘‘,’’.apadāne(apa. thera 2.46.37-48)–
 ‘‘,;
 ,’’.–
 .
-alaṅkatā.Suvasanā.Mālinī.Candanussadā.Majjhe mahāpathe nārī, tūriye naccati naṭṭakī,.
-Piṇḍikāyā.Paviṭṭhoha.Gacchanto naṃ udikkhisa.?Maccupāsaṃva oḍḍita,.
-Tato.Me.Manasīkāro yoniso udapajjathā‘‘’’.Ādīnavo pāturahū..Nibbidā samatiṭṭhathā,,.
-Tato.Cittaṃ vimucci me..,..
+....,,.
+...?,.
+..‘‘’’...,,.
+...,..
 Nāgasamālattheragāthāvaṇṇanā niṭṭhitā.
 2. Bhaguttheragāthāvaṇṇanā
-Ahaṃ middhenā.?.bhagū.apadāne(apa. thera 2.46.49-57)–
+.?..(apa. thera 2.46.49-57)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -72,13 +72,13 @@ Ahaṃ middhenā.?.bhagū.apadāne(apa. thera 2.46.49-57)–
 ‘‘,;
 ,’’.–
 .
-middhena pakato.Vihārā.Upanikkhami.Tattheva papatiṃ chamā.Gattāni parimajjitvā.Punapāruyha caṅkama‘‘’’.Ajjhattaṃ susamāhito...
+.....‘‘’’....
 Bhaguttheragāthāvaṇṇanā niṭṭhitā.
 3. Sabhiyattheragāthāvaṇṇanā
-Parecā.?.–‘‘,,.,’’..
+.?.–‘‘,,.,’’..
 .–‘‘,,,,’’..
-.,.,,,..,–‘‘’’.....sabhiyo...Sabhiyasuttavaṇṇanāyaṃ(su. ni. aṭṭha. 2. sabhiyasuttavaṇṇanā)‘‘’’.
-,.sabhiyasutte(su. ni. sabhiyasuttaṃ)..apadāne(apa. thera 2.46.27-31)–
+.,.,,,..,–‘‘’’........(su. ni. aṭṭha. 2. sabhiyasuttavaṇṇanā)‘‘’’.
+,.(su. ni. sabhiyasuttaṃ)..(apa. thera 2.46.27-31)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -98,15 +98,15 @@ Parecā.?.–‘‘,,.,’’..
 ‘‘,;
 ,’’.–
 .
-pare–‘‘’’‘‘’’.‘‘’’.Ye ca tattha vijānantī–‘‘’’.Tato sammanti medhagā..pare cā,‘‘’’,,,.
-Yadā.Avijānantā,.Iriyantyamarā viyā.Vijānanti ca ye dhammaṃ, āturesu anāturā,,.
-Yaṃkiñci sithilaṃ kamma.Saṃkiliṭṭha,.Saṅkassara,–‘‘’’,,‘‘’’.Na taṃ hotī....
-Gāravonūpalabbhatī.Ārakā hoti saddhammā,,,.–‘‘’’.?‘‘Nabhaṃ puthaviyā yathā’’..–
+–‘‘’’‘‘’’.‘‘’’.–‘‘’’...,‘‘’’,,,.
+.,..,,,.
+.,.,–‘‘’’,,‘‘’’.....
+.,,,.–‘‘’’.?‘‘’’..–
 ‘‘,;
 ,’’.(jā. 2.21.414);
 Sabhiyattheragāthāvaṇṇanā niṭṭhitā.
 4. Nandakattheragāthāvaṇṇanā
-Dhiratthū.?,..,nandako.apadāne(apa. thera 2.46.22-26)–
+.?,..,.(apa. thera 2.46.22-26)–
 ‘‘;
 ,.
 ‘‘,;
@@ -125,15 +125,15 @@ Dhiratthū.?,..,nandako.apadāne(apa. thera 2.46.22-26)–
 282.
 ‘‘,;
 ,’’.–;
-dhī,ratthū-,.Pūre.Pūre.Duggandhe.Mārapakkhe,..‘‘’’.Avassute.navasotāni te kāye, yāni sandanti sabbadā‘‘’’(su. ni. 199).
-mā purāṇaṃ amaññittho,‘‘’’.Māsādesi tathāgate,,,..Saggepi te na rajjanti, kimaṅgaṃ pana mānuse,,,.
-Ye ca khobālā,dummedhā,dummantī,mohapārutātādisā,tattha,mārakhittamhi bandhane,rajjanti.
-Virājitāyesaṃrāgodosoavijjā cavirājitā,chinnasuttāabandhanā tatthana rajjanti..
+,-,....,..‘‘’’..,‘‘’’(su. ni. 199).
+,‘‘’’.,,,..,,,,.
+,,,,,,.
+,..
 Nandakattheragāthāvaṇṇanā niṭṭhitā.
 5. Jambukattheragāthāvaṇṇanā
-Pañcapaññāsā.?..,‘‘,,’’.–‘‘,,’’.,..
+.?..,‘‘,,’’.–‘‘,,’’.,..
 ,,,,..,,,,‘‘’’,‘‘’’.
-,..dhammapade‘‘’’(dha. pa. aṭṭha. 1.jambukattheravatthu).‘‘’’–
+,..‘‘’’(dha. pa. aṭṭha. 1.jambukattheravatthu).‘‘’’–
 283.
 ‘‘,;
 ,.
@@ -147,9 +147,9 @@ Pañcapaññāsā.?..,‘‘,,’’.–‘‘,,’’.,..
 ‘‘,;
 ,’’.–
 .
-pañcapaññāsavassāni, rajojallamadhārayi,.Bhuñjanto māsikaṃ bhattaalocayi.
-Ekapādenaaṭṭhāsiṃ, āsanaṃ parivajjayi,.Uddesa..Na sādiyi.
-Etādisaṃ karitvāna, bahuṃ duggatigāmina.Vuyhamānomahoghenā,buddhaṃ saraṇamāgama‘‘’’,‘‘’’.Saraṇagamanaṃ passa, passa dhammasudhammata,.‘‘Tisso vijjā’’(apa. thera 2.46.17-21)–
+,,..
+,,....
+,.,‘‘’’,‘‘’’.,,.‘‘’’(apa. thera 2.46.17-21)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -157,7 +157,7 @@ Etādisaṃ karitvāna, bahuṃ duggatigāmina.Vuyhamānomahoghenā,buddhaṃ sa
 ‘‘…pe…’’.
 Jambukattheragāthāvaṇṇanā niṭṭhitā.
 6. Senakattheragāthāvaṇṇanā
-Svāgataṃ vatā.?.,senako...‘‘gayāphaggū’’.,..apadāne(apa. thera 2.46.9-16)–
+.?.,...‘‘’’.,..(apa. thera 2.46.9-16)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -183,13 +183,13 @@ Svāgataṃ vatā.?.,senako...‘‘gayāphaggū’’.,..apadāne(apa. thera 2.
 ‘‘,;
 ,’’.–
 .
-svāgataṃ vata me āsī..Gayāya.Gayaphagguyā‘‘’’.‘‘Ya’’.ya.Addasāsi.Sambuddha.Desentaṃ dhammamuttama.
-Mahappabha.Gaṇācariya.aggappattaṃ.,vināyakaṃ.,sadevakassa lokassa jinaṃ,atuladassanaṃ.
-,mahānāgaṃ.mahāvīraṃ. Mahājuti.anāsavaṃ.sabbāsavaparikkhīṇaṃ.,‘‘’’‘‘’’.–‘‘’’.satthāraṃ,akutobhayaṃ,,.
-.–saṃkiliṭṭhaṃ.diṭṭhisandānena,bandhitaṃ,sabbaganthe hi maṃ senakaṃ,vimocayi vata so bhagavā.
+...‘‘’’.‘‘’’.....
+...,.,,.
+,.....,‘‘’’‘‘’’.–‘‘’’.,,,.
+.–.,,,.
 Senakattheragāthāvaṇṇanā niṭṭhitā.
 7. Sambhūtattheragāthāvaṇṇanā
-Yo dandhakāle.?..sambhūto.apadāne(apa. thera 2.52.28-36)–
+.?...(apa. thera 2.52.28-36)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -217,12 +217,12 @@ Yo dandhakāle.?..sambhūto.apadāne(apa. thera 2.52.28-36)–
 ‘‘,;
 ,’’.–
 .
-yo dandhakāle taratī–‘‘,’’,.Taraṇīye ca dandhaye,–‘‘’’,.Ayonisaṃvidhānenābālo,,dukkhaṃ.
-Tassatthā parihāyantīkāḷapakkhe candimā,parihāyanti.‘‘’’.Āyasakyaṃpappoti.Mittehi ca virujjhatī‘‘,’’‘‘’’.
+–‘‘,’’,.,–‘‘’’,.,,.
+,.‘‘’’..‘‘,’’‘‘’’.
 .–‘‘’’....
 Sambhūtattheragāthāvaṇṇanā niṭṭhitā.
 8. Rāhulattheragāthāvaṇṇanā
-Ubhayenā.?.rāhulo,(mahāva. 105)..apadāne(apa. thera 1.2.68-85)–
+.?.,(mahāva. 105)..(apa. thera 1.2.68-85)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -272,14 +272,14 @@ Ubhayenā.?.rāhulo,(mahāva. 105)..apadāne(apa. thera 1.2.68-85)–
 ‘‘,;
 ,’’.–
 .
-ubhayeneva sampanno,.Rāhulabhaddoti maṃ vidū‘‘’’.‘‘,’’‘‘’’.–‘‘’’.Bhaddo.
-‘‘yañcamhī’’.ya.Ca-.Amhi putto buddhassā.Dhammesū,.Cakkhumā.
-–‘‘yañca me āsavā khīṇā’’.dakkhiṇeyyo.Amataddaso..
-,‘‘kāmandhā’’.kāmandhā.‘‘’’(cūḷani. ajitamāṇavapucchāniddesa 8).Jālapacchannā.Taṇhāchadanachāditā.Pamattabandhunā baddhā, macchāva kumināmukhe.
-Taṃkāmaṃujjhitvāmārassa bandhanaṃ chetvā,samūlaṃ,taṇhaṃ abbuyha,sītibhūto,asmi.
+,.‘‘’’.‘‘,’’‘‘’’.–‘‘’’..
+‘‘’’..-..,..
+–‘‘’’....
+,‘‘’’..‘‘’’(cūḷani. ajitamāṇavapucchāniddesa 8)...,.
+,,,,.
 Rāhulattheragāthāvaṇṇanā niṭṭhitā.
 9. Candanattheragāthāvaṇṇanā
-Jātarūpenā.?.candano..–‘‘’’.‘‘’’.apadāne(apa. thera 2.52.37-43)–
+.?...–‘‘’’.‘‘’’.(apa. thera 2.52.37-43)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -303,11 +303,11 @@ Jātarūpenā.?.candano..–‘‘’’.‘‘’’.apadāne(apa. thera 2.52.3
 ‘‘,;
 ,’’.–
 .
-jātarūpena sañchannā,.Dāsīgaṇapurakkhatā.Aṅkena puttamādāyā‘‘’’.
-Āyanti.Sakaputtassa mātara,..Yoniso udapajjathā‘‘,’’..
+,..‘‘’’.
+.,..‘‘,’’..
 Candanattheragāthāvaṇṇanā niṭṭhitā.
 10. Dhammikattheragāthāvaṇṇanā
-Dhammo have.?‘‘’’.dhammiko....‘‘,’’–‘‘,’’(jā. 1.1.74)–
+.?‘‘’’.....‘‘,’’–‘‘,’’(jā. 1.1.74)–
 303.
 ‘‘,;
 ,.
@@ -321,10 +321,10 @@ Dhammo have.?‘‘’’.dhammiko....‘‘,’’–‘‘,’’(jā. 1.1.74)
 ‘‘,;
 ,
 ’’.–;
-dhammo.Rakkhatī,.Dhammacāri.Suciṇṇo.Sukha.āvahati,.Esānisaṃso dhamme suciṇṇe, na duggatiṃ gacchati dhammacārī.
-,,‘‘’’‘‘na hi dhammo’’.adhammo.Samavipākino.
-Tasmā,.Chanda.Iti modamāno sugatena tādinā.‘‘dhamme ṭhitā’’.–sāvakādhamme ṭhitā dhīrānīyanti,.
-.apadāne(apa. thera 2.52.44-50)–
+.,....,.,.
+,,‘‘’’‘‘’’...
+,...‘‘’’.–,.
+.(apa. thera 2.52.44-50)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -335,10 +335,10 @@ Tasmā,.Chanda.Iti modamāno sugatena tādinā.‘‘dhamme ṭhitā’’.–s�
 ,.
 ‘‘…pe…’’.
 ..
-vipphoṭito,.Gaṇḍamūlo..‘‘,,’’(saṃ. ni. 4.103; a. ni. 6.23; 8.56; 9.15; cūḷani. khaggavisāṇasuttaniddesa 137),,,taṇhājālo samūhato.So khīṇasaṃsāro na catthi kiñcana,.Cando yathā dosinā puṇṇamāsiya.
+,...‘‘,,’’(saṃ. ni. 4.103; a. ni. 6.23; 8.56; 9.15; cūḷani. khaggavisāṇasuttaniddesa 137),,,.,..
 Dhammikattheragāthāvaṇṇanā niṭṭhitā.
 11. Sappakattheragāthāvaṇṇanā
-Yadābalākā.?.sappako.apadāne(apa. thera 2.52.78-83)–
+.?..(apa. thera 2.52.78-83)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -360,14 +360,14 @@ Yadābalākā.?.sappako.apadāne(apa. thera 2.52.78-83)–
 ‘‘,;
 ,
 ’’.–;
-yadā.Balākā.Sucipaṇḍaracchadā.Kāḷassa meghassa bhayena tajjitā.Palehitī.Ālaya.Ālayesinī.Tadā nadī ajakaraṇī rameti ma.
-Suvisuddhapaṇḍarā,.Pariyesatī.Leṇa.Aleṇadassinī.,pariyesati leṇa.
-Kaṃ nu tattha…pe… pacchatomamapacchatoāpagākūlaṃtahiṃ tahiṃjambuyo tatthakaṃna ramenti nu,.
-Tāmatamadasaṅghasuppahīnā,,,,.Bhekā,mandavatī,panādayanti.Nājjagirinadīhi vippavāsasamayoti,khemā ajakaraṇī.sivā.,.
+........
+,....,.
+…pe…,.
+,,,,.,,.,..,.
 ..
 Sappakattheragāthāvaṇṇanā niṭṭhitā.
 12. Muditattheragāthāvaṇṇanā
-Pabbaji.?.mudito...‘‘’’.‘‘,,’’‘‘’’–‘‘,,,’’..–‘‘’’.apadāne(apa. thera 1.36.30-33)–
+.?....‘‘’’.‘‘,,’’‘‘’’–‘‘,,,’’..–‘‘’’.(apa. thera 1.36.30-33)–
 ‘‘,;
 ,.
 ‘‘,;
@@ -389,7 +389,7 @@ Pabbaji.?.mudito...‘‘’’.‘‘,,’’‘‘’’–‘‘,,,’’..�
 ‘‘,;
 ,’’.–
 .
-jīvikattho.‘‘’’.Laddhāna upasampada.Tato saddhaṃ paṭilabhi,,,,–‘‘,,’’.Daḷhavīriyo parakkami,.
-,‘‘kāma’’.kāmabhijjatu. Ayaṃ kāyo,,.Maṃsapesī visīyaru,.Ubho jaṇṇukasandhīhi, jaṅghāyo papatantu me.‘‘’’,..
+.‘‘’’..,,,,–‘‘,,’’.,.
+,‘‘’’..,,.,.,.‘‘’’,..
 Muditattheragāthāvaṇṇanā niṭṭhitā.
 Catukkanipātavaṇṇanā niṭṭhitā.

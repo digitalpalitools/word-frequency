@@ -4,7 +4,7 @@
 2..
 ,.
 Vedanāsaṅgaho
-3.vedanāsaṅgahe,.
+3.,.
 4.,.
 5.,,.
 6..
@@ -14,7 +14,7 @@ Vedanāsaṅgaho
 9.,.
 ,.
 Hetusaṅgaho
-10.Hetusaṅgahe.
+10..
 11..
 12..
 13..
@@ -27,7 +27,7 @@ Hetusaṅgaho
 17..
 .
 Kiccasaṅgaho
-18.Kiccasaṅgahe.
+18..
 19..
 20..
 21..
@@ -47,7 +47,7 @@ Kiccasaṅgaho
 34.,.
 .
 Dvārasaṅgaho
-35.Dvārasaṅgahe.
+35..
 36..
 37..
 38..
@@ -64,7 +64,7 @@ Dvārasaṅgaho
 ,;
 ,.
 Ālambaṇasaṅgaho
-48.Ālambaṇasaṅgahe.
+48..
 49.,.
 50..
 51.,.,.
@@ -84,7 +84,7 @@ Dvārasaṅgaho
 ,;
 ,.
 Vatthusaṅgaho
-64.Vatthusaṅgahe.
+64..
 65..
 66..
 67..

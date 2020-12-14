@@ -62,7 +62,7 @@ tathā vippaṭipannassa upaklesā na jāyare
  sammāva paṭipannassa yuttayogassa bhikkhuno
 sadā vipassakasseva uppajjanti kirassu te
 
- vipassanāya obhāso ti pavuccati
+ vipassanāya obhāso obhāsoti pavuccati
 tasmiṃ pana samuppanne yogāvacarabhikkhu so
 
  maggappatto phalappatto ahamasmīti gaṇhati
@@ -73,10 +73,10 @@ okkantā nāma hoti sā
 obhāsameva so bhikkhu
 assādento nisīdati
 
- vippassanāpīti tassa tasmiṃ khaṇe pana
+pīti vippassanāpīti tassa tasmiṃ khaṇe pana
 tadā pañcavidhā pīti jāyante khuddikādikā
 
- vipassanāya passaddhi ti pavuccati
+ vipassanāya passaddhi passaddhīti pavuccati
 yogino kāyacittāni passaddhāneva honti hi
 
  lahūni  ca mudūneva kammaññāneva honti hi
@@ -93,7 +93,7 @@ amānusī rati hoti sammā dhammaṃ vipassato
  yato yato sammasati khandhānaṃ udayabbayaṃ
 labhatī pītipāmojjaṃ amataṃ taṃ vijānatanti
 
- upaklesā ñeyyā vuttanayenidha
+ñāṇādayo upaklesā ñeyyā vuttanayenidha
 ete dasa upaklesā vajjanīyāva yoginā
 
  etthobhāsādayo dhammā
@@ -111,7 +111,7 @@ maggo vipassanāñāṇaṃ iccevaṃ pana paṇḍito
 tassa cevaṃ ayaṃ maggo nāyaṃ maggoti yogino
 
  maggāmaggañca viññāya ṭhitañāṇamidaṃ pana
-nti bhūriñāṇena desitaṃ
+maggāmaggesuñāṇanti bhūriñāṇena desitaṃ
 
  maggāmaggañāṇadassanesu  kovidā
 sārāsāravedino samāhitāhitā

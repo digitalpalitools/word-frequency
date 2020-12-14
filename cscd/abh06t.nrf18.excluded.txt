@@ -35,15 +35,15 @@ Diṭṭhivisuddhiniddeso
 1180.
 ,;
 ,.
-Katidhā–
+–
 1181.
-kadhā,
-dvidhā;
+,
+;
 ,
 .
 1182.
 ,;
-Tividhā,.
+,.
 1183.
 ,;
 ,.
@@ -54,7 +54,7 @@ Tividhā,.
 ,;
 ,.
 1186.
-,catudhā;
+,;
 ,.
 1187.
 ,;
@@ -71,12 +71,12 @@ Tividhā,.
 1191.
 ,;
 ,.
-Kathaṃ bhāvetabbā–
+–
 1192.
 ,;
 ,.
 1193.
-Sīlaṃ cittavisuddhi,;
+,;
 ,.
 1194.
 ,;
@@ -89,19 +89,19 @@ Sīlaṃ cittavisuddhi,;
 ,.
 1197.
 ,;
-,rūpakkhandho.
+,.
 1198.
 ,;
-,vedanākkhandhatā.
+,.
 1199.
 ,;
-,saññākkhandho.
+,.
 1200.
 ,;
-,saṅkhārakkhandhatā.
+,.
 1201.
 ,;
-,viññāṇakkhandhatā.
+,.
 1202.
 ,;
 ,.
@@ -179,7 +179,7 @@ Sīlaṃ cittavisuddhi,;
 ,.
 1224.
 ,;
-,‘‘diṭṭhisuddhī’’.
+,‘‘’’.
 1225.
 ,;
 ,.

@@ -1,7 +1,7 @@
 ﻿
 
 
- visayaggāhaṃ taṃ pākāpākadato dudhā
+cittaṃ visayaggāhaṃ taṃ pākāpākadato dudhā
 kusalākusalaṃ pubbaṃ paramabyākataṃ mataṃ
 
  kusalaṃ  tattha kāmādibhūmito catudhā siyā
@@ -11,7 +11,7 @@ aṭṭha pañca cattāri ca cattāri kamato kathaṃ
 sasaṅkhāramanañcekaṃ tathā hīnamatidvayaṃ
 
  tathopekkhāmatiyuttaṃ matihīnanti aṭṭhadhā
-ttha bhijjate vedanādito
+kāmāvacarapuññettha bhijjate vedanādito
 
  dānaṃ  sīlañca bhāvanā pattidānānumodanā
 veyyāvaccāpacāyañca desanā suti diṭṭhiju
@@ -41,7 +41,7 @@ rūpāpāye pavatteva paccate anurūpato
 ādi cārādipītādisukhādīhi paraṃ tayaṃ
 
  upekkhekaggatāyantamāruppañcevamaṅgato 
-pañcadhā  tu hotārammaṇato pana
+pañcadhā rūpapuññaṃ tu hotārammaṇato pana
 
  ādissāsubhamantassu
 pekkhā mettādayo tayo
@@ -49,7 +49,7 @@ pekkhā mettādayo tayo
 sassāsakasiṇāni tu
 
  nabhatammanatassuññataccittacatugocare
-kamenātikkamā hoti catubbidhaṃ
+kamenātikkamāruppapuññaṃ hoti catubbidhaṃ
 
  amalaṃ  santimārabbha hoti taṃ maggayogato
 catudhā pādakajjhānabhedato puna vīsati
@@ -78,10 +78,10 @@ mūlato tividhaṃ lobhadosamohavasā siyā
 sasaṅkhāramanañcekaṃ hīnadiṭṭhidvayaṃ tathā
 
  upekkhādiṭṭhiyuttampi tathā diṭṭhiviyuttakaṃ
-vedanādiṭṭhiādīhi vamaṭṭhadhā
+vedanādiṭṭhiādīhi lobhamūlevamaṭṭhadhā
 
- sadukkhadosāsaṅkhāraṃ itaraṃ 
-mpi sopekkhaṃ kaṅkhuddhaccayutaṃ dvidhā
+ sadukkhadosāsaṅkhāraṃ itaraṃ dosamūlakaṃ
+mohamūlampi sopekkhaṃ kaṅkhuddhaccayutaṃ dvidhā
 
  tattha dosadvayaṃ vatthuṃ nissāyevitare pana
 nissāya vā na vā honti vadhādisahitā kathaṃ
@@ -137,13 +137,13 @@ vuttiyā na phale pupphaṃ yathā chinnalatā phalaṃ
 na phale vattamānampi moghapupphaṃ phalaṃ yathā
 
  tisatta dvicha chattiṃsa catupañca yathākkamaṃ
-puññaṃ pāpaṃ phalaṃ kriyā 
+puññaṃ pāpaṃ phalaṃ kriyā ekūnanavutīvidhaṃ
 
  sandhi bhavaṅgamāvajjaṃ dassanādikapañcakaṃ
 gahatīraṇavoṭṭhabbajavataggocaraṃ cuti
 
  iti esaṃ dvisattannaṃ kiccavuttivasādhunā
- chadvāre saṅkhepā vuccate kathaṃ
+cittappavatti chadvāre saṅkhepā vuccate kathaṃ
 
  kāme  sarāginaṃ kammanimittādi cutikkhaṇe
 khāyate manasoyeva sesānaṃ kammagocaro
@@ -200,7 +200,7 @@ sattakkhattuṃ javo kāme tamhā tadanurūpato
 javā mahante voṭṭhabbā paritte nitare manaṃ
 
  voṭṭhabbassa paritte tu dvattikkhattuṃ javo viya
-vadanti vuttiṃ taṃ  anāsevanato na hi
+vadanti vuttiṃ taṃ pāṭhe anāsevanato na hi
 
  niyamopidha cittassa kammādiniyamo viya
 ñeyyo ambopamādīhi dassetvā taṃ sudīpaye

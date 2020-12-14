@@ -13,7 +13,7 @@ vipassanāya sotasmiṃ patitattā vipassanā
  pothujjanikagottaṃ vā abhibhuyya pavattito
 gottaṃ vuccati nibbānaṃ tato bhavati gotrabhu
 
- ñāṇaṃ catūsu maggesu 
+ ñāṇaṃ catūsu maggesu ñāṇadassanasuddhikaṃ
 tattha taṃ paṭhamaṃ maggaṃ sampādetuṃ panicchatā
 
  aññaṃ  kiñcipi kātabbaṃ bhikkhunā tena natthi taṃ
@@ -59,7 +59,7 @@ sabbaverabhayānettha niccaṃ vūpasameti ca
 ānisaṃse anekepi pavattayati yogino
 
  dāyakenānisaṃsānaṃ anekesamanena ca
-ādimaggena saṃyuttaṃ ñāṇanti 
+ādimaggena saṃyuttaṃ ñāṇanti ñāṇadassanaṃ
 
 
  tassevānantaraṃ tassa vipākā dvepi tīṇi vā
@@ -79,7 +79,7 @@ catutthaṃ hoti gotrabhu
  pañcamaṃ maggacittañca phalāni dve tato pana
 sattacittaparamāva ekāvajjanavīthi hi
 
- ettāvatā paneso hi ti vuccati
+ ettāvatā paneso hi sotāpannoti vuccati
 phalassa pariyosāne bhavaṅgottaraṇaṃ siyā
 
  tato bhavaṅgaṃ chinditvā maggapekkhanahetukaṃ
@@ -107,13 +107,13 @@ tassevaṃ paṭipannassa heṭṭhā vuttanayena tu
 ekāvajjanavārasmiṃ gotrabhussa anantaraṃ
 
  byāpādakāmarāgānaṃ tanubhāvaṃ tu sādhayaṃ
-yaṃ jāyate dutiyo pana
+sakadāgāmimaggoyaṃ jāyate dutiyo pana
 
 
  imassāpi ca ñāṇassa heṭṭhā vuttanayenidha
 phalacittāni ñeyyāni viññunā dvepi tīṇi vā
 
- ettāvatā paneso hi  nāmayaṃ
+ ettāvatā paneso hi sakadāgāmi nāmayaṃ
 sakideva imaṃ lokaṃ āgantvāntakaro bhave
 
  heṭṭhā vuttanayeneva pañcadhā paccavekkhaṇaṃ
@@ -132,17 +132,17 @@ tassevaṃ paṭipannassa heṭṭhā vuttanayena tu
 ekāvajjanavīthimhi gotrabhussa anantaraṃ
 
  byāpādakāmarāgānaṃ mūlaghātaṃ tu sādhayaṃ
-tassāyaṃ jāyate tatiyo pana
+tassānāgāmimaggoyaṃ jāyate tatiyo pana
 
 
  imassāpi ca ñāṇassa heṭṭhā vuttanayenidha
 pavatti phalacittānaṃ veditabbā vibhāvinā
 
- ettāvatā panesopi hoti nāmayaṃ
+ ettāvatā panesopi hotināgāmi nāmayaṃ
 tattheva parinibbāyī anāvattisabhāvato
 
  heṭṭhā  vuttanayeneva pañcadhā paccavekkhaṇaṃ
-evaṃ so paccavekkhitvā riyasāvako
+evaṃ so paccavekkhitvā anāgāmiriyasāvako
 
  yogamārabhate dhīro catutthāya ca bhūmiyā
 pattiyārūparāgādipahānāya ca paṇḍito
@@ -156,7 +156,7 @@ tassevaṃ paṭipannassa heṭṭhā vuttanayena tu
  tato  saṅkhārupekkhāya avasāne tatheva ca
 ekāvajjanavārasmiṃ gotrabhussa anantaraṃ
 
- tassāyaṃ
+ tassārahattamaggoyaṃ
 jāyate tu tato paraṃ
 rūparāgādidosānaṃ
 viddhaṃsāya karo pana
@@ -166,7 +166,7 @@ viddhaṃsāya karo pana
 pavatti phalacittānaṃ veditabbā vibhāvinā
 
  ettāvatā paneso hi
- nāma aṭṭhamo
+arahā nāma aṭṭhamo
 ariyo puggalo hoti
 mahākhīṇāsavo ayaṃ
 
@@ -175,7 +175,7 @@ khīṇasaṃyojano muni
 sadevakassa lokassa
 dakkhiṇeyyo anuttaro
 
- ettāvatā catassopi 
+ ettāvatā catassopi ñāṇadassanasuddhiyo
 hitatthāya ca bhikkhūnaṃ saṅkhepeneva dassitā
 
  saddhena sammā pana bhāvanīyā

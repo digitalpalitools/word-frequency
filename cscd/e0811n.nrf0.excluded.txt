@@ -7,7 +7,7 @@ Ratanattayappaṇāma
 ,.
 Nimitta
 2.
-Rāma, sammā’’,;
+,’’,;
 ,.
 Abhidhānādikaṃ
 3.
@@ -20,16 +20,16 @@ Abhidhānādikaṃ
 ,’;
 ,’.
 6.
-Kabba, nāṭaka,;
+,,;
 ’,.
 7.
 ’,’;
 ,’’.
 8.
-Bandho,,;
-Pajja gajja vimissānaṃ,’.
+,,;
+,’.
 9.
-Nibandho’nibandho,;
+’,;
 ’,.
 10.
 ‘‘ambhoja’’nti padaṃ pāḷiyaṃ natthi, vārijavācakaṃ, sakkaṭaganthato anītaṃ,;
@@ -41,8 +41,8 @@ Nibandho’nibandho,;
 ,’;
 ,’’.
 13.
-,sadda, ttha;
-bandha’,.
+,,;
+’,.
 14.
 ,’;
 ,.
@@ -53,7 +53,7 @@ bandha’,.
 ’’,;
 ,.
 17.
-Pade vākye tadatthe,;
+,;
 ’,’.
 Padadosa uddesa
 18.
@@ -70,22 +70,22 @@ Vākyatthadosauddesa
 ,.
 Padadosaniddesa
 21.
-Viruddhatthantaraṃ,’;
-,visado.
+,’;
+,.
 22.
-,jhattha;
-Obhāsitā’sesadiso,’.
+,;
+’,’.
 23.
 ’’,’;
-,’piyā.
+,’.
 24.
-,yamakā;
+,;
 ’,.
 25.
 ,;
-,yamakaṃ.
+,.
 26.
-Abyapetaṃ byapeta’ñña,’;
+’,’;
 ,,,,.
 Abyapeta paṭhamapādādi yamakaṃ
 27.
@@ -110,117 +110,117 @@ Abyapeta catukkapādādi yamakaṃ
 ,;
 ,.
 33.
-Yamakaṃpahelīpaheḷi (ka.),’;
+paheḷi (ka.),’;
 ,.
 34.
 ,;
-virodhipadaṃ’,.
+’,.
 35.
-,neyya;
-dhavalā,.
+,;
+,.
 36.
 ,;
 ’,.
 37.
-visesanāpekkhaṃ,;
-,cakkhunā.
+,;
+,.
 38.
-,hīnatthaṃ;
-Nippabhī kata khajjoto,.
+,;
+,.
 39.
-,anattha;
-hi,pi ca.
+,;
+,.
 Vākyadosa niddesa
 40.
 ,;
-mekatthaṃ’bhāti, vārido vārido ayaṃ.
+’,.
 Yathā ca
 41.
 ,’;
 ’,.
 42.
-,bhaggarīti;
-Kāpi paññā, kopi paguṇo, pakatīpi aho tava.
+,;
+,,.
 43.
 ,;
-byākiṇṇa,.
+,.
 44.
-Bahuguṇe paṇamati, dujjanānaṃ pyayaṃ jano;
-Hitaṃ pamudito niccaṃ, sugataṃ samanussaraṃ.
+,;
+,.
 45.
-’,gāmmaṃ’’;
+’,’’;
 ,’?
 46.
 ,;
-gāmmaṃ’,yābhavato piyā.
+’,.
 47.
 ,;
-,yatihīna.
+,.
 48.
-sabbatthapādante, vuttaḍḍhe;
-,padamajjhe.
+,;
+,.
 Tatthodāharaṇapaccudāharaṇāni yathā
 49.
-cāmi, karavaṇṇaṃ;
-siñca, tiva.
+,;
+,.
 50.
 ,;
 ’,’’’.
 51.
-Cā’,;
-Pā,.
+’,;
+,.
 Sabbatthodāharaṇāni yathā
 52.
-sabbo, pamā’tītaṃ;
-patta, sso’pamā.
+,’;
+,’.
 53.
-vandā, mya’nantamati;
-paññā ca mettā ca, nissīmā.
+,’;
+,.
 Cādipādīsu paccudāharaṇāni yathā
 54.
-mahāpaññā, ca;
-pa, varaṃ’.
+,;
+,’.
 55.
-,kamaccuta;
-Khettaṃ vā dehi gāmaṃ vā, desaṃ vā mama sobhanaṃ.
+,;
+,.
 56.
-,ativuttaṃ;
-Atisambādha mākāsa, metissā thanajambhane.
+,;
+,.
 57.
-’,apetatthakaṃ;
-Gāviputto balibaddho, tiṇaṃ khādī pivī jalaṃ.
+’,;
+,.
 58.
-,bandhapharusaṃ;
-Kharā khilā parikkhīṇā, khette khittaṃ phalatya’laṃ.
+,;
+,’.
 Vākyatthadosa niddesa
 59.
-,’pakkamādinaṃ;
+,’;
 ,’.
 Tatthā’pakkamaṃ yathā
 60.
-Bhāvanā, dāna, sīlāni,’;
-Bhoga, saggādi, nibbāna,.
+,,,’;
+,,,.
 Ocityahīnaṃ yathā
 61.
-Pūjanīyataro loke, aha meko nirantaraṃ;
-Mayekasmiṃ guṇā sabbe, yato samuditā ahuṃ.
+,;
+,.
 Yathā ca
 62.
-Yācito’haṃ kathaṃ nāma, na dajjāmya’pi jīvitaṃ;
-Tathāpi puttadānena, vedhate hadayaṃ mama.
+’,’;
+,.
 Bhaggarīti yathā
 63.
-Itthīnaṃ dujjanāna,;
-Vise siṅgimhi nadiyaṃ, roge rājakulamhi.
+,;
+,.
 Sasaṃsayaṃ yathā
 64.
 ,;
-’’,go.
+’’,.
 65.
-,gāmmaṃ;
-vīriyavā’,paraṃ hantvā.
+,;
+’,.
 66.
-Duṭṭhālaṅkaraṇaṃtvethaṃ (?),’;
+tvethaṃ (?),’;
 ’,.
 67.
 ’’,

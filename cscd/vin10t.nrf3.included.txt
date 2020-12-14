@@ -352,13 +352,13 @@ baddhā nāma siyā sīmā sā tisampattisaṃyutā
 iti baddhā tidhā vuttā abaddhāpi tidhā matā
 
  gāmato udakukkhepā sattabbhantaratopi ca
-tattha gāmaparicchedo ti vuccati
+tattha gāmaparicchedo gāmasīmāti vuccati
 
  jātassare samudde vā nadiyā vā samantato
-majjhimassudakukkhepo saññito
+majjhimassudakukkhepo udakukkhepasaññito
 
  agāmake araññe tu sattevabbhantarā pana
-samantato ayaṃ sīmā nāmikā
+samantato ayaṃ sīmā sattabbhantaranāmikā
 
  ekaṃ abbhantaraṃ vuttaṃ aṭṭhavīsatihatthakaṃ
 guḷukkhepanayeneva udakukkhepakā matā
@@ -708,22 +708,22 @@ gonisādīti kappiyā catasso honti bhūmiyo
 kappiyaṃ pana kattabbaṃ sahaseyyappahonakaṃ
 
  ṭhapetvā bhikkhumaññehi dinnaṃ kappiyabhūmiyā
-atthāya santakaṃ tesaṃ gehaṃ vidaṃ
+atthāya santakaṃ tesaṃ gehaṃ gahapatevidaṃ
 
- sā hi  nāma yā hi saṅghena sammatā
+ sā hi sammutikā nāma yā hi saṅghena sammatā
 kammavācamavatvā vā vaṭṭatevāpalokanaṃ
 
  paṭhamiṭṭhakapāsāṇathambhādiṭṭhapane pana
 kappiyakuṭiṃ karomāti vadantehi samantato
 
  ukkhipitvā ṭhapentesu āmasitvā paresu vā
-sayamevukkhipitvā vā ṭhapeyyu
+sayamevukkhipitvā vā ṭhapeyyussāvanantikā
 
  iṭṭhakādipatiṭṭhānaṃ  bhikkhūnaṃ vadataṃ pana
 vācāya pariyosānaṃ samakālaṃ tu vaṭṭati
 
  ārāmo aparikkhitto sakalo bhuyyatopi vā
-duvidhopi ca viññūhi ti vuccati
+duvidhopi ca viññūhi gonisādīti vuccati
 
  etā  pana catassopi honti kappiyabhūmiyo
 ettha pakkañca vutthañca sabbaṃ vaṭṭati āmisaṃ
@@ -830,7 +830,7 @@ khomādīni cha vuttāni cīvarāni cha bhūmiyo
 palibodho ca uddhāro ānisaṃsā panaṭṭhime
 
  dhovanañca vicāro ca chedanaṃ bandhanampi ca
-sibbanaṃ rajanaṃ kappaṃ nti vuccati
+sibbanaṃ rajanaṃ kappaṃ pubbakiccanti vuccati
 
  saṅghāṭi uttarāsaṅgo atho antaravāsako
 paccuddhāro adhiṭṭhānaṃ atthāropesameva tu
@@ -839,37 +839,37 @@ paccuddhāro adhiṭṭhānaṃ atthāropesameva tu
 savanāsā ca sīmā ca sahubbhāroti aṭṭhimā
 
  katacīvaramādāya āvāse nirapekkhako
-atikkantāya sīmāya hoti 
+atikkantāya sīmāya hoti pakkamanantikā
 
  ānisaṃsamathādāya vihāre anapekkhako
 gantvā pana vihāraṃ so aññaṃ sukhavihārikaṃ
 
  tattha  taṃ viharantova karoti yadi cīvaraṃ
-niṭṭhite cīvare tasmiṃ ti vuccati
+niṭṭhite cīvare tasmiṃ niṭṭhānantāti vuccati
 
  cīvaraṃ na karissāmi na paccessaṃ tamassamaṃ
-evaṃ tu dhuranikkhepe  matā
+evaṃ tu dhuranikkhepe sanniṭṭhānantikā matā
 
  kathinacchādanaṃ laddhā na paccessanti ce gato
-karontasseva naṭṭhaṃ vā daḍḍhaṃ vā 
+karontasseva naṭṭhaṃ vā daḍḍhaṃ vā nāsanantikā
 
  laddhānisaṃso sāpekkho bahisīmaṃ gato pana
-suṇāti cantarubbhāraṃ sā hoti 
+suṇāti cantarubbhāraṃ sā hoti savanantikā
 
  cīvarāsāya pakkanto bahisīmaṃ gato pana
 dassāmi cīvaraṃ tuyhaṃ vutto savati kenaci
 
  puna vutte na sakkomi dātunti tava cīvaraṃ
-āsāya chinnamattāya  matā
+āsāya chinnamattāya āsāvacchedikā matā
 
  vassaṃvuṭṭhavihāramhā  vihāraññaṃ gato siyā
 āgacchaṃ antarāmagge taduddhāramatikkame
 
- tassa so kathinuddhāro  mato
+ tassa so kathinuddhāro sīmātikkantiko mato
 kathinānisaṃsamādāya sāpekkhova sace gato
 
  sambhuṇāti punāgantvā kathinuddhārameva ce
-tassa so kathinuddhāro ti vuccati
+tassa so kathinuddhāro sahubbhāroti vuccati
 
  pakkamanañca niṭṭhānaṃ sanniṭṭhānañca sīmato
 cattāro puggalādhīnā saṅghādhīnantarubbharo
@@ -894,29 +894,29 @@ sīmāya deti katikā bhikkhāpaññattiyā tathā
  saṅghassa ubhatosaṅghe vassaṃvuṭṭhassa deti ca
 ādissa puggalassāti aṭṭhimā pana mātikā
 
- tattha ti antosīmaṃ gatehi tu
+ tattha sīmāya detīti antosīmaṃ gatehi tu
 bhikkhūhi bhājetabbanti vaṇṇitaṃ varavaṇṇinā
 
- ye vihārā ekalābhakā
+katikāya ca dinnaṃ ye vihārā ekalābhakā
 ettha dinnañca sabbehi bhājetabbanti vuccati
 
  saṅghassa dhuvakārā hi yattha karīyanti tattha ca
- dinnaṃ vuttaṃ mahesinā
+bhikkhāpaññattiyā dinnaṃ dinnaṃ vuttaṃ mahesinā
 
- pana yaṃ dinnaṃ ujubhūtena cetasā
+saṅghassa pana yaṃ dinnaṃ ujubhūtena cetasā
 tañhi sammukhibhūtena bhājetabbanti vuccati
 
- muddissa deti saddhāya cīvaraṃ
+ubhatosaṅgha muddissa deti saddhāya cīvaraṃ
 thokā vā bahu vā bhikkhū samabhāgova vaṭṭati
 
- cīvaraṃ deti yaṃ pana
+vassaṃvuṭṭhassa saṅghassa cīvaraṃ deti yaṃ pana
 taṃ tasmiṃ vuṭṭhavassena bhājetabbanti vaṇṇitaṃ
 
- yāguyā pana bhatte vā  ce pana
+ yāguyā pana bhatte vā detiādissa ce pana
 cīvaraṃ tattha tattheva yojetabbaṃ vijānatā
 
  puggalaṃ pana uddissa cīvaraṃ yaṃ tu dīyati
- nāma dānaṃ taṃ tu pavuccati
+puggalodissakaṃ nāma dānaṃ taṃ tu pavuccati
 
  sahadhammikesu yo koci pañcasvapi mamaccaye
 ayaṃ mayhaṃ parikkhāro mātuyā pitunopi vā

@@ -1,15 +1,15 @@
 ﻿
 
- nāmāyaṃ gantho piṭakattayasārabhūto sakalaloke paṭipattidīpakaganthānaṃ aggo hoti seṭṭho pamukho pāmokkho uttamo pavaro cāti viññūhi pasattho tattha hi saṅgītittayārūḷhassa tepiṭakabuddhavacanassa atthaṃ saṃkhipitvā sikkhattayasaṅgahitaṃ brahmacariyaṃ paripuṇṇaṃ pakāsitaṃ suvisadañca evaṃ pasatthassetassa visuddhimaggassa pi bhavitabbameva tasmādāni tampakāsanatthamidaṃ pañhakammaṃ vuccati 
-so panesa  kena kato kadā kato kattha kato kasmā kato kimatthaṃ kato kiṃ nissāya kato kena pakārena kato kissa sakalaloke patthaṭoti
-tattha ti ācariyavarena tepiṭakasaṅgahaṭṭhakathākārena kato
-ti amhākaṃ bhagavato sammāsambuddhassa sakalalokanāthassa parinibbutikālato pacchā dasame vassasatake  kato
-ti sīhaḷadīpe anurādhapure mahāvihāre kato
-ti visuddhikāmānaṃ sādhujanānaṃ tadadhigamupāyaṃ sammāpaṭipattinayaṃ ñāpetukāmatāsaṅkhātena attano ajjhāsayena sañcoditattā  ca ajjhesitattā kato
-ettha pana ṭhatvā ācariyabuddhaghosattherassa uppatti kathetabbā sā ca   sattatiṃsamaparicchede pannarasādhikadvisatagāthāto  paṭṭhāya bāttiṃsāya gāthāhi pakāsitāyeva kathaṃ 
+visuddhimaggo nāmāyaṃ gantho piṭakattayasārabhūto sakalaloke paṭipattidīpakaganthānaṃ aggo hoti seṭṭho pamukho pāmokkho uttamo pavaro cāti viññūhi pasattho tattha hi saṅgītittayārūḷhassa tepiṭakabuddhavacanassa atthaṃ saṃkhipitvā sikkhattayasaṅgahitaṃ brahmacariyaṃ paripuṇṇaṃ pakāsitaṃ suvisadañca evaṃ pasatthassetassa visuddhimaggassa nidānakathāyapi bhavitabbameva tasmādāni tampakāsanatthamidaṃ pañhakammaṃ vuccati 
+so panesa visuddhimaggo kena kato kadā kato kattha kato kasmā kato kimatthaṃ kato kiṃ nissāya kato kena pakārena kato kissa sakalaloke patthaṭoti
+tattha kena katoti ācariyabuddhaghosattheravarena tepiṭakasaṅgahaṭṭhakathākārena kato
+kadā katoti amhākaṃ bhagavato sammāsambuddhassa sakalalokanāthassa parinibbutikālato pacchā dasame vassasatake  kato
+kattha katoti sīhaḷadīpe anurādhapure mahāvihāre kato
+kasmā katoti visuddhikāmānaṃ sādhujanānaṃ tadadhigamupāyaṃ sammāpaṭipattinayaṃ ñāpetukāmatāsaṅkhātena attano ajjhāsayena sañcoditattā saṅghapālattherena ca ajjhesitattā kato
+ettha pana ṭhatvā ācariyabuddhaghosattherassa uppatti kathetabbā sā ca mahāvaṃse  sattatiṃsamaparicchede pannarasādhikadvisatagāthāto  paṭṭhāya bāttiṃsāya gāthāhi pakāsitāyeva kathaṃ 
 
 
-mhi  jāto 
+bodhimaṇḍasamīpamhi  jāto brāhmaṇamāṇavo
 vijjāsippakalāvedī tīsu vedesu pāragū
 
  sammā viññātasamayo sabbavādavisārado
@@ -18,7 +18,7 @@ vādatthī jambudīpamhi āhiṇḍanto pavādiko
  vihāramekamāgamma rattiṃ pātañjalīmataṃ
 parivatteti sampuṇṇapadaṃ suparimaṇḍalaṃ
 
- tattheko  nāma mahāthero vijāniya
+ tattheko revato nāma mahāthero vijāniya
 mahāpañño ayaṃ satto dametuṃ vaṭṭatīti so
 
  ko nu gadrabharāvena viravantoti abravi
@@ -37,18 +37,18 @@ dehi metaṃti vutte hi gaṇha pabbajja taṃiti
 ekāyano ayaṃ maggo iti pacchā tamaggahi
 
  buddhassa viya gambhīraghosattā naṃ viyākaruṃ
-ti ghoso hi buddho viya mahītale
+buddhaghosoti ghoso hi buddho viya mahītale
 
- tattha  nāma katvā pakaraṇaṃ tadā
-dhammasaṅgaṇiyākāsi kacchaṃ so 
+ tattha ñāṇodayaṃ nāma katvā pakaraṇaṃ tadā
+dhammasaṅgaṇiyākāsi kacchaṃ so aṭṭhasāliniṃ
 
-ñceva  kātuṃ ārabhi buddhimā
+parittaṭṭhakathañceva  kātuṃ ārabhi buddhimā
 taṃ disvā revato thero idaṃ vacanamabravi
 
  pāḷimattaṃ idhānītaṃ natthi aṭṭhakathā idha 
 tathācariyavādā ca bhinnarūpā na vijjare
 
- sīhaḷaṭṭhakathā suddhā  matīmatā
+ sīhaḷaṭṭhakathā suddhā mahindena matīmatā
 saṅgītittayamārūḷhaṃ sammāsambuddhadesitaṃ
 
  sāriputtādigītañca kathāmaggaṃ samekkhiya
@@ -61,7 +61,7 @@ parivattehi sā hoti sabbalokahitāvahā
 dīpaṃ āgā imasseva  rañño kāle mahāmati
 
  mahāvihāraṃ sampatto vihāraṃ sabbasādhunaṃ
-mahāpadhānagharaṃ gantvā  santikā
+mahāpadhānagharaṃ gantvā saṅghapālassa santikā
 
  sīhaḷaṭṭhakathaṃ sutvā theravādañca sabbaso
 dhammassāmissa esova adhippāyoti nicchiya
@@ -73,7 +73,7 @@ potthake detha sabbeti āha vīmaṃsituṃ sa taṃ
 ettha dassehi taṃ disvā sabbe demāti potthake 
 
  piṭakattayamettheva saddhiṃ aṭṭhakathāya so
- nāmākā saṅgahetvā samāsato
+visuddhimaggaṃ nāmākā saṅgahetvā samāsato
 
  tato saṅghaṃ samūhetvā sambuddhamatakovidaṃ
 mahābodhisamīpamhi so taṃ vācetu mārabhi
@@ -91,7 +91,7 @@ ganthato atthato vāpi pubbāparavasena vā
 aññathattamahū neva potthakesupi tīsupi
 
  atha  ugghosayī saṅgho tuṭṭhahaṭṭho visesato
-nissaṃsayaṃsa  iti vatvā punappunaṃ
+nissaṃsayaṃsa metteyyo iti vatvā punappunaṃ
 
  saddhiṃ aṭṭhakathāyādā potthake piṭakattaye
 ganthākare vasanto so vihāre dūrasaṅkare
@@ -103,5 +103,5 @@ sabbesaṃ mūlabhāsāya māgadhāya niruttiyā
 theriyācariyā sabbe pāḷiṃ viya tamaggahuṃ
 
  atha kattabbakiccesu gatesu pariniṭṭhitiṃ
-vandituṃ so  jambudīpaṃ upāgamīti 
-ayañca pana mahāvaṃsakathā 1950  kharistavasse  romakkharena mudditassa visuddhimaggapotthakassa purecārikakathāyaṃ anekānettha atthi vicāretabbānīti vatvā nāmakena vicakkhaṇena vicāritā tamettha yuttāyuttavicinanāya dassetvā anuvicāraṇampissa karissāma
+vandituṃ so mahābodhiṃ jambudīpaṃ upāgamīti 
+ayañca pana mahāvaṃsakathā 1950  kharistavasse hābadamahāvijjālayamuddaṇayante romakkharena mudditassa visuddhimaggapotthakassa purecārikakathāyaṃ anekānettha atthi vicāretabbānīti vatvā dhammānandakosambīnāmakena vicakkhaṇena vicāritā tamettha yuttāyuttavicinanāya dassetvā anuvicāraṇampissa karissāma

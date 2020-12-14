@@ -1,10 +1,10 @@
 ﻿
 
 
- paramatthañca sammutiñcāti dve tahiṃ
-thaddhabhāvādinā ñeyyaṃ saccaṃ taṃ 
+saccāni paramatthañca sammutiñcāti dve tahiṃ
+thaddhabhāvādinā ñeyyaṃ saccaṃ taṃ paramatthakaṃ
 
- sannivesavisesādiñeyyaṃ  taṃ dvayaṃ
+ sannivesavisesādiñeyyaṃ sammuti taṃ dvayaṃ
 bhāvasaṅketasiddhīnaṃ tathattā saccamīritaṃ
 
  paramattho sanibbānapañcakkhandhettha rāsito
@@ -13,14 +13,14 @@ khandhattho ca samāsetvā vuttotītādibhedanaṃ
  vedanādīsupekasmiṃ khandhasaddo tu ruḷhiyā
 samuddādekadese tu samuddādiravo yathā
 
- tattha sītādiruppattā  bhvāpānalānilaṃ
- kathinadavatāpacanīraṇabhāvakaṃ
+ tattha sītādiruppattā rūpaṃ bhvāpānalānilaṃ
+bhūtaṃ kathinadavatāpacanīraṇabhāvakaṃ
 
  cakkhu  sotañca ghānañca jivhā kāyo pabhā ravo
 gandho rasojā itthī ca pumā vatthu ca jīvitaṃ
 
  khaṃ jāti jaratā bhaṅgo rūpassa lahutā tathā
-mudukammaññatā kāyavacīviññatti 
+mudukammaññatā kāyavacīviññatti bhūtikaṃ
 
  cakkhādī daṭṭhukāmādihetukammajabhūtikā
 pasādā rūpasaddādī cakkhuñāṇādigocarā
@@ -44,7 +44,7 @@ vikāro kāyaviññatti rūpatthambhādikāraṇaṃ
 vacīviññattupādinnaghaṭṭanasseva kāraṇaṃ
 
  rūpamabyākataṃ sabbaṃ vippayuttamahetukaṃ
-anālambaṃ parittādi iti  naye
+anālambaṃ parittādi iti ekavidhaṃ naye
 
  ajjhattikāni cakkhādī pañceteva pasādakā
 vatthunā vatthu tāneva dvārā viññattibhī saha
@@ -62,7 +62,7 @@ bhūtaṃ taṃ tu vinibbhogamitaranti viniddise
 phoṭṭhabbamāpavajjaṃ tu bhūtaṃ kāme na cetaraṃ
 
  sekkhasappaṭighāsekkhapaṭighaṃ dvayavajjitaṃ
-vaṇṇaṃ taditaraṃ thūlaṃ sukhumañceti taṃ 
+vaṇṇaṃ taditaraṃ thūlaṃ sukhumañceti taṃ tidhā
 
  kammajākammajaṃnevakammākammajato tidhā
 cittojautujādīnaṃ vasenāpi tidhā tathā
@@ -82,38 +82,38 @@ paricchedādikaṃ rūpaṃ tajjātimanatikkamā
  kammacittānalāhārapaccayānaṃ vasenidha
 ñeyyā pavatti rūpassa piṇḍānañca vasā kathaṃ
 
- sendriyaṃ vatthu viññatti  ravo
- lahutādittayaṃ 
+kammajaṃ sendriyaṃ vatthu viññatti cittajā ravo
+cittaggijo lahutādittayaṃ cittānalannajaṃ
 
- aṭṭhakaṃ jāti cākāso  jaratā khayaṃ
- tappākabhedaṃ hi taṃ dvayaṃ
+ aṭṭhakaṃ jāti cākāso catujā jaratā khayaṃ
+kutoci neva jātaṃ tappākabhedaṃ hi taṃ dvayaṃ
 
  jātiyāpi na jātattaṃ kutociṭṭhakathānayā
 lakkhaṇābhāvato tassā sati tasmiṃ na niṭṭhiti
 
- kammacittānalannehi  nava ca satta ca
+ kammacittānalannehi piṇḍā nava ca satta ca
 cattāro dve ca viññeyyā sajīve dve ajīvake
 
  aṭṭhakaṃ  jīvitenāyunavakaṃ bhāvavatthunā
-cakkhādī pañca dasakā kalāpā 
+cakkhādī pañca dasakā kalāpā nava kammajā
 
  suddhaṭṭhaviññattiyuttanavakopi ca dasako
 suddhasaddena navako lahutādidasekako
 
  viññattilahutādīhi puna dvādasa terasa
- iti viññeyyā kalāpā 
+cittajā iti viññeyyā kalāpā satta vā cha vā
 
  suddhaṭṭhaṃ  saddanavakaṃ lahutādidasekakaṃ
-saddenalahutādīhi 
+saddenalahutādīhi caturotujakaṇṇikā
 
- suddhaṭṭhalahutādīhi time nava
-satta cattāri dve ceti 
+ suddhaṭṭhalahutādīhi annajā dvetime nava
+satta cattāri dve ceti kalāpā vīsatī dvibhi
 
  tayaṭṭhakā ca cattāro navakā dasakā nava
 tayo dveko ca ekena dasa dvīhi ca tīhi ca
 
  catunnampi ca dhātūnaṃ adhikaṃsavasenidha
-tha viññeyyo kammacittānalannajo
+rūpabhedotha viññeyyo kammacittānalannajo
 
  kesādimatthaluṅgantā pathavaṃsāti vīsati
 pittādimuttakantā te jalaṃsā dvādasīritā
@@ -155,7 +155,7 @@ dasakā navakā ceva aṭṭhakā ca siyuṃ kamā
 paripuṇṇindriye rūpaṃ nipphannaṃ dhātubhedato
 
  cittuppāde siyuṃ rūpahetū kammādayo pana
-ṭhiti na  cittassa na bhaṅge rūpasambhavo
+ṭhiti na pāṭhe cittassa na bhaṅge rūpasambhavo
 
  aññathattaṃ ṭhitassāti vuttattāva ṭhitikkhaṇaṃ
 atthīti ce pabandhena ṭhiti tattha pavuccati
@@ -198,7 +198,7 @@ vuttaṃ upaparikkhitvā gahetabbaṃ vijānatā
  rūpe jīvitachakkañca cakkhādisattakattayaṃ
 pañca cha utucittehi pañca chāsaññinaṃ bhave
 
- pañcadhātvādiniyamā  gandharasojanaṃ
+ pañcadhātvādiniyamā pāṭhe gandharasojanaṃ
 nuppatti tattha bhūtānaṃ aphoṭṭhabbapavattinaṃ
 
  thaddhuṇhīraṇabhāvova natthi dhātvādikiccato

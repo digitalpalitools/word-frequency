@@ -9,9 +9,9 @@ Dhammā uddesaṃ āgacchanti.
 1...,,,,.–‘‘,,,,’’
 .;–‘‘,,,,,,’’?‘‘,,;’’.…pe…–‘‘,,,,’’
 .–‘‘,,,,,,’’?‘‘,’’.…pe…,,,,,,,,…pe…,,–
-2.‘‘Sampajānamusāvāde pācittiya’’.
-3.Sampajānamusāvādo,,,,,–,,,,,,,.
-Adiṭṭhaṃ.Assutaṃ.Amutaṃ,,.Aviññātaṃ.Diṭṭhaṃ.Sutaṃ.Mutaṃ,,.Viññātaṃ.
+2.‘‘’’.
+3.,,,,,–,,,,,,,.
+..,,....,,..
 4.‘‘’’–‘‘’’,‘‘’’,‘‘’’.
 ‘‘’’–‘‘’’,‘‘’’,‘‘’’,.
 ‘‘’’–‘‘’’,‘‘’’,‘‘’’,,.
@@ -30,7 +30,7 @@ Adiṭṭhaṃ.Assutaṃ.Amutaṃ,,.Aviññātaṃ.Diṭṭhaṃ.Sutaṃ.Mutaṃ
 ‘‘’’…pe…‘‘’’…pe…‘‘’’…pe…‘‘’’…pe…‘‘’’…pe…‘‘’’…pe….
 9.,,…pe…,,…pe…,,…pe…,,……pe……pe…;…pe…;…pe…;…pe…;.
 10.…pe……pe……pe……pe…,–‘‘’’,‘‘’’,‘‘’’,,,,.
-11.,davāya bhaṇati, ravāya bhaṇati (syā.).‘‘Davā bhaṇati.Ravā bhaṇati‘’’’.,.
+11.,davāya bhaṇati, ravāya bhaṇati (syā.).‘‘.‘’’’.,.
 Musāvādasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Omasavādasikkhāpadaṃ
 12..bhaṇḍentā (itipi)–,,,,,,,,;.…pe…–‘‘–,,,,,,,,;’’
@@ -40,18 +40,18 @@ jā. 1.1.28 nandivisālajātakepi, tattha pana manuññasaddo dissati‘‘,,;
 ,;
 ,,.
 ‘‘,,.?,,…pe….‘‘,,–
-14.‘‘Omasavāde pācittiya’’.
-15.Omasavādo–,,,,,,,,,.
-Jāti–.Hīnā–,,,,..Ukkaṭṭhā–,..
-Nāmaṃ–.Hīnaṃ–,,,,,,.Ukkaṭṭhaṃ–,,,,.
-Gottaṃ–.Hīnaṃ–,,,.Ukkaṭṭhaṃ–,,,,,.
-Kammaṃ–.Hīnaṃ–,,,.Ukkaṭṭhaṃ–,,,..
-Sippaṃ–.Hīnaṃ–,,,,,..Ukkaṭṭhaṃ–,,,,.
-ābādhā,.
-Liṅgaṃ–.Hīnaṃ–,,,,.Ukkaṭṭhaṃ–,,,..
-kilesā.
-āpattiyo.,.
-Akkoso–.Hīno–,,,,,;,,,,.Ukkaṭṭho–,,,,,,,.
+14.‘‘’’.
+15.–,,,,,,,,,.
+–.–,,,,..–,..
+–.–,,,,,,.–,,,,.
+–.–,,,.–,,,,,.
+–.–,,,.–,,,..
+–.–,,,,,..–,,,,.
+,.
+–.–,,,,.–,,,..
+.
+.,.
+–.–,,,,,;,,,,.–,,,,,,,.
 16.,–‘‘,,,,’’vadetīti uddeso. bhaṇatīti vitthāro (vajirabuddhi),,.
 ,–‘‘,,,,’’,,.
 ,–‘‘,’’,,.
@@ -119,10 +119,10 @@ Akkoso–.Hīno–,,,,,;,,,,.Ukkaṭṭho–,,,,,,,.
 Omasavādasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Pesuññasikkhāpadaṃ
 36..;,;,.,.…pe…–‘‘,,;,,’’.…pe…‘‘,,,,,,?,’’?‘‘,’’.…pe…,,,,,.,,.…pe…,,–
-37.‘‘Bhikkhupesuññe pācittiya’’.
-38.Pesuññaṃ–.–,,,,,,,,,.
-Jāti–.Hīnā–..Ukkaṭṭhā–.…pe….
-Akkoso–.Hīno–,,,,,;;,..Ukkaṭṭho–,,,,;;..
+37.‘‘’’.
+38.–.–,,,,,,,,,.
+–.–..–.…pe….
+–.–,,,,,;;,..–,,,,;;..
 39.–‘‘‘’’’.,.
 –‘‘‘’’’.,.
 –‘‘‘’’’.,.
@@ -158,30 +158,30 @@ Akkoso–.Hīno–,,,,,;;,..Ukkaṭṭho–,,,,;;..
 Pesuññasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Padasodhammasikkhāpadaṃ
 44....…pe…–‘‘’’.…pe…‘‘,,;’’?‘‘,’’.…pe…,,,,…pe…,,–
-45.‘‘Yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya pācittiya’’.
-46.Yopanā…pe…bhikkhū…pe….
-Anupasampanno.
-Padaso,,,.
-Padaṃ.Anupadaṃ.Anvakkharaṃ‘‘’’,‘‘’’.Anubyañjanaṃ‘‘’’,‘‘’’.
+45.‘‘’’.
+46.…pe……pe….
+.
+,,,.
+..‘‘’’,‘‘’’.‘‘’’,‘‘’’.
 ,,,–padaso dhammo (itipi).
-Dhammo,,,,,.
-Vāceyyā,.,.
+,,,,,.
+,.,.
 47.,.,.,.
 ,.,.,.
 48.,,,,,.
 Padasodhammasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Sahaseyyasikkhāpadaṃ
 49....,,,,.–‘‘’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu anupasampannena sahaseyyaṃ kappeyya pācittiya’’.
+‘‘’’.
 .
 50....–‘‘,,–‘’.,,’’..;..‘‘’’?‘‘,,’’.‘‘,,’’?.–‘‘,,.,,–
-51.‘‘Yo pana bhikkhu anupasampannena uttaridirattatirattaṃ sahaseyyaṃ kappeyya, pācittiya’’.
-52.Yo panā…pe…bhikkhū…pe….
-Anupasampanno.
-Uttaridirattatiratta.
-Sahā.
-Seyyā,,,.
-Seyyaṃ kappeyyā,,,.,,.,.,.
+51.‘‘,’’.
+52.…pe……pe….
+.
+.
+.
+,,,.
+,,,.,,.,.,.
 53.,.,.,.
 ,.,.,.,.
 54.,,,,,vasati, sabbaacchanne sabbaaparicchanne, (sī.),,,,,,,.
@@ -190,12 +190,12 @@ Sahaseyyasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 55..ettha ambaṭṭhasuttādiṭīkā oloketabbā..;–‘‘,,,’’.‘‘,’’.;–‘‘,,’’.‘‘;,’’.;–‘‘,,,’’.‘‘,’’..;–‘‘,,.,,’’..;–‘‘,,,.,,’’..…pe…–‘‘,,,.,,sampaṭicchatu (syā.)’’....–‘‘,.––’’–‘‘,,.,,’’.‘‘,,.,,,.,,’’.
 ,..–––‘‘,,,,,,,,–,.,,.’’.
 .…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-56.‘‘Yo pana bhikkhu mātugāmena sahaseyyaṃ kappeyya pācittiya’’.
-57.Yo panā…pe…bhikkhū…pe….
-Mātugāmo,yakkhinī (ka.),,;,.
-Sahā.
-Seyyā,,,.
-Seyyaṃ kappeyyā,,.,.,.,.
+56.‘‘’’.
+57.…pe……pe….
+,yakkhinī (ka.),,;,.
+.
+,,,.
+,,.,.,.,.
 58.,.,.,.
 ,.,.,.,.,.
 59.,anāpatti sabbaacchanne sabbaaparicchanne, (sī.),,,,,,,.
@@ -204,20 +204,20 @@ Dutiyasahaseyyasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 60..,..,.;.–‘‘’’?
 ;.–‘‘’’?.–‘‘,’’?‘‘,,’’.‘‘’’?‘‘’’.–‘‘’’?
 .…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,.,…pe…,,–
-‘‘Yo pana bhikkhu mātugāmassa dhammaṃ deseyya pācittiya’’.
+‘‘’’.
 .
 61.–‘‘’’.‘‘,,’’.‘‘,’’.‘‘,,’’..–‘‘’’..–‘‘,,.,,–
-‘‘Yo pana bhikkhū mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, pācittiya’’.
+‘‘,’’.
 .
 62.–‘‘’’.…pe…–‘‘’’
 …pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-63.‘‘Yo pana bhikkhu mātugāmassa uttarichappañcavācāhi dhammaṃ deseyya, aññatra viññunā purisaviggahena, pācittiya’’.
-64.Yo panā…pe…bhikkhū…pe….
-Mātugāmo;;,.
-Uttarichappañcavācāhī.
-Dhammo,,,,,.
-Deseyyā,.,.
-Aññatra viññunā purisaviggahenā.,.
+63.‘‘,,’’.
+64.…pe……pe….
+;;,.
+.
+,,,,,.
+,.,.
+.,.
 65.,,.,,.,,.
 ,,.,.,.,.
 66.,,,,,,,,,,.
@@ -227,89 +227,89 @@ Dhammadesanāsikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 –‘‘…pe…’’.–‘‘,,,,’’.,.attanā pivanti (syā. ka.),..
 68...;....–‘‘,,,,,’’?‘‘,.,,,’’.,.,.,..–,.
 –‘‘,,,’’?.‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-69.‘‘Yo pana bhikkhu anupasampannassa uttarimanussadhammaṃ āroceyya bhūtasmiṃ, pācittiya’’.
-70.Yo panā…pe…bhikkhū…pe….
-Anupasampanno,.
-pārā. 198Uttarimanussadhammo,,,,,,,,,.
-pārā. 199Jhāna,,,.
-pārā. 199Vimokkho,,.
-pārā. 199Samādhī,,.
-pārā. 199Samāpattī,,.
-pārā. 199Ñāṇadassana.
-pārā. 199Maggabhāvanā,,,,,,.
-pārā. 199Phalasacchikiriyā,,,arahattaphalassa (syā.).
-pārā. 199Kilesappahāna,,.
-pārā. 199Vinīvaraṇatā cittassā,,.
-pārā. 199Suññāgāre abhiratī,,,.
-71.Āroceyyā–‘‘’’.
-Āroceyyā–‘‘’’.
-Āroceyyā–‘‘’’.
-Āroceyyā–‘‘’’.
-Āroceyyā–‘‘’’.
-Āroceyyā–‘‘’’.
-Āroceyyā–‘‘……,,;,;’’.
-Āroceyyā–‘‘……………,,;,;’’.
-Āroceyyā–‘‘……,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘……,,;,;’’.
-Āroceyyā–‘‘…,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘………,,;,;arahattaphalaṃ (syā.)’’.
-Āroceyyā–‘‘……,,,,,,’’.
-Āroceyyā–‘‘……’’.
-Āroceyyā–‘‘………,,;,;’’.
-72.Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘…,,;,;’’.
-Āroceyyā–‘‘……………,,;,;’’.
-Āroceyyā–‘‘……,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘…pe……,,;,;’’.
-Āroceyyā–‘‘,…,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘………arahattaphalañca (syā.),,;arahattaphalassa (syā.),;’’.
-Āroceyyā–‘‘,,………,,,,,,’’.
-Āroceyyā–‘‘,,………’’.
-73.Āroceyyā–‘‘…,,;,;’’.
-Āroceyyā–‘‘…pe…’’.
-Āroceyyā–‘‘,,;,;’’…pe….
+69.‘‘,’’.
+70.…pe……pe….
+,.
+pārā. 198,,,,,,,,,.
+pārā. 199,,,.
+pārā. 199,,.
+pārā. 199,,.
+pārā. 199,,.
+pārā. 199.
+pārā. 199,,,,,,.
+pārā. 199,,,arahattaphalassa (syā.).
+pārā. 199,,.
+pārā. 199,,.
+pārā. 199,,,.
+71.–‘‘’’.
+–‘‘’’.
+–‘‘’’.
+–‘‘’’.
+–‘‘’’.
+–‘‘’’.
+–‘‘……,,;,;’’.
+–‘‘……………,,;,;’’.
+–‘‘……,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘……,,;,;’’.
+–‘‘…,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘………,,;,;arahattaphalaṃ (syā.)’’.
+–‘‘……,,,,,,’’.
+–‘‘……’’.
+–‘‘………,,;,;’’.
+72.–‘‘,,;,;’’.
+–‘‘…,,;,;’’.
+–‘‘……………,,;,;’’.
+–‘‘……,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘…pe……,,;,;’’.
+–‘‘,…,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘,,;,;’’.
+–‘‘………arahattaphalañca (syā.),,;arahattaphalassa (syā.),;’’.
+–‘‘,,………,,,,,,’’.
+–‘‘,,………’’.
+73.–‘‘…,,;,;’’.
+–‘‘…pe…’’.
+–‘‘,,;,;’’…pe….
 Mūlaṃ saṃkhittaṃ.
-Āroceyyā–‘‘,,,;,,;,’’…pe….
-Āroceyyā–‘‘,’’…pe….
-Āroceyyā–‘‘arahattaphalañca (syā.)…pe…,,,,,,,,,,’’.
-74.Āroceyyā–‘‘’’‘‘’’,.
-Āroceyyā–‘‘’’‘‘…pe…,,,,,,,,,,,,,,,,,,,,,arahattaphalaṃ (syā.)…pe…,,,,,;,,;,,’’,.
-Āroceyyā–‘‘’’…pe…‘‘’’,…pe….
-Āroceyyā–‘‘’’–‘‘’’,…pe….
+–‘‘,,,;,,;,’’…pe….
+–‘‘,’’…pe….
+–‘‘arahattaphalañca (syā.)…pe…,,,,,,,,,,’’.
+74.–‘‘’’‘‘’’,.
+–‘‘’’‘‘…pe…,,,,,,,,,,,,,,,,,,,,,arahattaphalaṃ (syā.)…pe…,,,,,;,,;,,’’,.
+–‘‘’’…pe…‘‘’’,…pe….
+–‘‘’’–‘‘’’,…pe….
 Mūlaṃ saṃkhittaṃ.
-Āroceyyā–‘‘’’–‘‘’’,…pe….
-Āroceyyā–‘‘’’–‘‘’’,…pe….
-Āroceyyā–‘‘…pe…’’–‘‘’’,.
-Āroceyyā–‘‘…pe…’’–‘‘’’,…pe….
-75.Āroceyyā–‘‘,,;,;’’.
-Āroceyyā–‘‘…pe…,,;,;’’.
-Āroceyyā–‘‘…pe…,,;,;’’.
-Āroceyyā–‘‘…pe…,,;,;’’.
-Āroceyyā–‘‘…pe…,,,,,,,,,,arahattaphalaṃ (syā.)…pe…,…pe…,,,,,,,,;,,’’.
-Āroceyyā–‘‘…pe…,,;,;’’.
-Āroceyyā–‘‘,,,,,;,;’’.
-76.Āroceyyā–‘‘…pe…,,,,,;,;’’.
-Āroceyyā–‘‘…pe…,,,,,;,;’’.
+–‘‘’’–‘‘’’,…pe….
+–‘‘’’–‘‘’’,…pe….
+–‘‘…pe…’’–‘‘’’,.
+–‘‘…pe…’’–‘‘’’,…pe….
+75.–‘‘,,;,;’’.
+–‘‘…pe…,,;,;’’.
+–‘‘…pe…,,;,;’’.
+–‘‘…pe…,,;,;’’.
+–‘‘…pe…,,,,,,,,,,arahattaphalaṃ (syā.)…pe…,…pe…,,,,,,,,;,,’’.
+–‘‘…pe…,,;,;’’.
+–‘‘,,,,,;,;’’.
+76.–‘‘…pe…,,,,,;,;’’.
+–‘‘…pe…,,,,,;,;’’.
 77.,,.
 Bhūtārocanasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Duṭṭhullārocanasikkhāpadaṃ
 78.......–‘‘,,;...’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-79.‘‘Yo pana bhikkhu bhikkhussa duṭṭhullaṃ āpattiṃ anupasampannassa āroceyya, aññatra bhikkhusammutiyā bhikkhusammatiyā (syā.), pācittiya’’.
-80.Yo panā…pe…bhikkhū…pe….
-Bhikkhussā.
-Duṭṭhullā–,.
-Anupasampanno.
-Āroceyyā.
-Aññatra bhikkhusammutiyā.
+79.‘‘,bhikkhusammatiyā (syā.),’’.
+80.…pe……pe….
+.
+–,.
+.
+.
+.
 ,.,,,.
-Āpattipariyantā–‘‘’’.
-Kulapariyantā–‘‘’’.Āpattipariyantā ca kulapariyantā ca,–‘‘’’.Neva āpattipariyantā na kulapariyantā,–‘‘’’.
+–‘‘’’.
+–‘‘’’.,–‘‘’’.,–‘‘’’.
 81.,,.
 ,,.
 ,,,.
@@ -326,13 +326,13 @@ Kulapariyantā–‘‘’’.Āpattipariyantā ca kulapariyantā ca,–‘‘�
 Duṭṭhullārocanasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Pathavīkhaṇanasikkhāpadaṃ
 84..āḷavikā (syā.).–‘‘’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,.,,…pe…,,–
-85.‘‘Yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā, pācittiya’’.
-86.Yo panā…pe…bhikkhū…pe….
-Pathavī–.
-Jātā–,,..,.
-Ajātā–,,,,,..,.
-Khaṇeyyā,.
-Khaṇāpeyyā,.,.
+85.‘‘,’’.
+86.…pe……pe….
+–.
+–,,..,.
+–,,,,,..,.
+,.
+,.,.
 87.,,,.
 ,,,.
 ,,,.
@@ -347,13 +347,13 @@ Tassuddānaṃ –
 1. Bhūtagāmasikkhāpadaṃ
 89....–‘‘,,’’.,.–‘‘’’.–‘‘.’’.;.‘‘,,.,,,,,.,,’’.–‘‘’’
 .…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,,,…pe…,,–
-90.‘‘Bhūtagāmapātabyatāya pācittiya’’.
-91.Bhūtagāmo–,,,,bījabījañceva (itipi).
-Mūlabījaṃ–,,,,,,,,,,.
-Khandhabījaṃ–,,,,,,,,.
-Phaḷubījaṃ–,,,,,.
-Aggabījaṃ–,,,,,.
-Bījabījaṃ–,,,,.
+90.‘‘’’.
+91.–,,,,bījabījañceva (itipi).
+–,,,,,,,,,,.
+–,,,,,,,,.
+–,,,,,.
+–,,,,,.
+–,,,,.
 92.,,,.,,,.,,,..,.,.
 93.–‘‘,,,,’’,,,,,.
 Bhūtagāmasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
@@ -363,74 +363,74 @@ Bhūtagāmasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘,,...,;,.
 ‘‘.,,’’.
 …pe…,,–
-‘‘Aññavādake pācittiya’’.
+‘‘’’.
 .
 96.‘‘–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe……pe…–‘‘,,.,,.–
 97.‘‘,,..,..
 ‘‘,,...,;,.
 ‘‘.,,’’.
 …pe…,,–
-98.‘‘Aññavādake vihesake pācittiya’’.
-99.Aññavādako–‘‘,,,,,’’..
-Vihesako..
+98.‘‘’’.
+99.–‘‘,,,,,’’..
+..
 100.–‘‘,,,,,’’,.,.–‘‘,,,,,’’,.,.
 101.,.,.,.,.,.,.
 102.,;‘‘’’;‘‘’’;‘‘’’;,.
 Aññavādakasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Ujjhāpanakasikkhāpadaṃ
 103...mettiyabhūmmajakā (sī. syā.)..–‘‘,’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Ujjhāpanake pācittiya’’.
+‘‘’’.
 .
 104.–‘‘’’,‘‘’’vihesissantīti (itipi)–‘‘,’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-105.‘‘Ujjhāpanake khiyyanake pācittiya’’.
-106.Ujjhāpanakaṃ,,,,....
+105.‘‘’’.
+106.,,,,....
 ,.,,,,.,,,,.,.,..
 107.,,.
 Ujjhāpanakasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Paṭhamasenāsanasikkhāpadaṃ
 108..,..…pe…–‘‘,,’’…pe…,,…pe…,,–
-109.‘‘Yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā bhisiṃ vā kocchaṃ vā ajjhokāse  santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiya’’.
+109.‘‘,,’’.
 .
 110...–‘‘,,vasituṃ avassikasaṃkete (itipi)’’.
-111.Yo panā…pe…bhikkhū…pe….
-Saṅghikaṃ.
-Mañco–,,,.
-Pīṭhaṃ–,,,.
-Bhisi–,,,,.
-Kocchaṃ–babbajamayaṃ (sī.).
-Santharitvā.
-Santharāpetvā.,.,santhatassa (itipi).
-Taṃ pakkamanto neva uddhareyyā.
-Na uddharāpeyyā.
-Anāpucchaṃ vā gaccheyyā.
+111.…pe……pe….
+.
+–,,,.
+–,,,.
+–,,,,.
+–babbajamayaṃ (sī.).
+.
+.,.,santhatassa (itipi).
+.
+.
+.
 112.,.…pe…,,.
 ,,.,.,.,..
 113.,,,,,,,.
 Paṭhamasenāsanasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Dutiyasenāsanasikkhāpadaṃ
 114...,.,..…pe…–‘‘,,’’…pe…‘‘,,,,’’?‘‘,’’.…pe…,,,,,,…pe…,,–
-115.‘‘Yo pana bhikkhu saṅghike vihāre seyyaṃ santharitvā vā santharāpetvā vā taṃ pakkamanto neva uddhareyya na uddharāpeyya, anāpucchaṃ vā gaccheyya, pācittiya’’.
-116.Yo panā…pe…bhikkhū…pe….
-Saṅghiko.
-Seyyaṃ,,,,,,,,.
-Santharitvā.
-Santharāpetvā.
-Taṃ pakkamanto neva uddhareyyā.
-Na uddharāpeyyā.
-Anāpucchaṃ vā gaccheyyā..,,.,,.,,.
+115.‘‘,,’’.
+116.…pe……pe….
+.
+,,,,,,,,.
+.
+.
+.
+.
+..,,.,,.,,.
 117.,,.,,.
 ,.,...
 118.,,,,,,,,.
 Dutiyasenāsanasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Anupakhajjasikkhāpadaṃ
 119..,ettha te iti kammapadaṃ ūnaṃ viya dissati.–‘‘’’?–.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-120.‘‘Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya – yassa sambādho bhavissati so pakkamissatī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiya’’.
-121.Yo panā…pe…bhikkhū…pe…..
-Saṅghiko.
-Jānāti,,.
-Anupakhajjā.
-Seyyaṃ kappeyyā,.,.
-Etadeva paccayaṃ karitvā anañña.
+120.‘‘–’,,’’.
+121.…pe……pe…..
+.
+,,.
+.
+,.,.
+.
 122.,.,.,.
 ,.,.,.,.,.,...
 123.,,,,.
@@ -438,13 +438,13 @@ Anupakhajjasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Nikkaḍḍhanasikkhāpadaṃ
 124..–‘‘’’..–‘‘,,.’’–‘‘,;’’.
 –‘‘,’’.‘‘,,paṭigacceva (sī.),’’.‘‘,,’’?‘‘,’’.‘‘,’’.‘‘,,.,’’.‘‘,’’..–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,?,,…pe…,,–
-125.‘‘Yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiya’’.
-126.Yo panā…pe…bhikkhū…pe….
-Bhikkhu.
-Kupito anattamano.
-Saṅghiko.
-Nikkaḍḍheyyā,.,.,.
-Nikkaḍḍhāpeyyā,dukkaṭassa (katthaci).,.
+125.‘‘,’’.
+126.…pe……pe….
+.
+.
+.
+,.,.,.
+,dukkaṭassa (katthaci).,.
 127.,.,.,.
 ,.,.,.,.,.
 ,.,...
@@ -452,39 +452,39 @@ Nikkaḍḍhāpeyyā,dukkaṭassa (katthaci).,.
 Nikkaḍḍhanasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Vehāsakuṭisikkhāpadaṃ
 129..?.viharanti, eko heṭṭhā (?),..patitvā (syā.)..–‘‘,,’’?.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-130.‘‘Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃvā abhinisīdeyya vā abhinipajjeyya vā, pācittiya’’.
-131.Yo panā…pe…bhikkhū…pe….
-Saṅghiko.
-Vehāsakuṭi.
-Āhaccapādakomañco.Āhaccapādakaṃpīṭhaṃ.
-Abhinisīdeyyā,.
-Abhinipajjeyyā,.
+130.‘‘,’’.
+131.…pe……pe….
+.
+.
+..
+,.
+,.
 132.,.…pe…,.
 ,.,.,.,.
 133.–,,,,,.
 Vehāsakuṭisikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Mahallakavihārasikkhāpadaṃ
 134...,...–‘‘’’.…pe…–‘‘,,’’…pe…‘‘,,,,’’?‘‘,’’.…pe…,,,,,,…pe…,,–
-135.‘‘Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāvadvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāya appaharite ṭhitena adhiṭṭhātabbaṃ. Tato ce uttariṃ appaharitepi ṭhito adhiṭṭhaheyya pācittiya’’.
-136.Mahallako.
-Vihāro.
-Kārayamānenā.
-Yāva dvārakosāpīṭhasaṃghāṭassa (itipi), piṭṭhisaṅghāṭassa (syā.).
-Aggaḷaṭṭhapanāyā.
-Ālokasandhiparikammāyā.
-Dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabba–.,...
-137.Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyyā......
+135.‘‘.’’.
+136..
+.
+.
+pīṭhasaṃghāṭassa (itipi), piṭṭhisaṅghāṭassa (syā.).
+.
+.
+–.,...
+137.......
 ,.,.,.
 ,.,.,.
 138.,,,,,,,,,.
 Mahallakavihārasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Sappāṇakasikkhāpadaṃ
 139...…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-140.‘‘Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiya’’.
-141.Yo panā…pe…bhikkhū…pe….
-Jānātijānaṃ nāma (syā.).
-Siñceyyā,.
-Siñcāpeyyā,āpatti dukkaṭassa (katthaci).,.
+140.‘‘,’’.
+141.…pe……pe….
+jānaṃ nāma (syā.).
+,.
+,āpatti dukkaṭassa (katthaci).,.
 142.,.,.,.,.,.,.
 143.,,,,.
 Sappāṇakasikkhāpadaṃ niṭṭhitaṃ dasamaṃ.
@@ -502,15 +502,15 @@ Tassuddānaṃ –
 ‘‘…pe…–,,..,;,.
 ‘‘.,,’’.
 …pe…,,–
-146.‘‘Yo pana bhikkhu asammato bhikkhuniyo ovadeyya pācittiya’’.
+146.‘‘’’.
 .
 147..–‘‘,,.,’’.–‘‘,,..’’.
 ;.–‘‘’’.;.–‘‘,,’’?‘‘,,’’.
 …pe….–‘‘,,’’?‘‘,’’.…pe…,,,,…pe……pe…–‘‘,,.,,;,;;;;;pana taṃ (?);–,,’’.
-148.Yo panā…pe…bhikkhū…pe….
-Asammato.
-Bhikkhuniyo.
-Ovadeyyā,.,.,.
+148.…pe……pe….
+.
+.
+,.,.,.
 149...–‘‘,’’?‘‘’’,‘‘,,’’?‘‘’’,‘‘,,’’niyyātetabbo (itipi).‘‘’’,.‘‘;.;.paccāsiṃsitabbā (itipi),…pe…;…pe…;…pe…;…pe…;…pe…,;’’.
 ‘‘’’,.‘‘’’,.,.
 150.,.,.,.
@@ -533,38 +533,38 @@ udā. 37‘‘,;
 ,’’.
 –‘‘–,’’.,taññeva (itipi).–‘‘,,’’.–.
 .–‘‘;’’..…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-154.‘‘Sammatopi  ce bhikkhu atthaṅgate sūriye bhikkhuniyo ovadeyya, pācittiya’’.
-155.Sammato.
-Atthaṅgate sūriye.
-Bhikkhunī.
-Ovadeyyā,.
+154.‘‘,’’.
+155..
+.
+.
+,.
 156.,.,.,.
 ,.,.,.,.
 157.,,‘‘’’,,,,,,,.
 Atthaṅgatasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Bhikkhunupassayasikkhāpadaṃ
 158...–‘‘,’’.‘‘yaṃ hi (ka.),,,’’.–‘‘’’chabbaggiyā bhikkhuniyo ovādaṃ na gacchissantīti (sī.).…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, pācittiya’’.
+‘‘,’’.
 .
 159..;–‘‘,,’’?‘‘,,’’.‘‘,’’.‘‘,,’’.;.–‘‘,,’’?‘‘,,..–‘‘’’,.’’..–‘‘,,.,,–
-160.‘‘Yo pana bhikkhu bhikkhunupassayaṃ upasaṅkamitvā bhikkhuniyo ovadeyya, aññatra samayā, pācittiyaṃ . Tatthāyaṃ samayo. Gilānā hoti bhikkhunī – ayaṃ tattha samayo’’.
-161.Yo panā…pe…bhikkhū…pe….
-Bhikkhunupassayo.
-Upasaṅkamitvā.
-Bhikkhunī.
-Ovadeyyā,.
-Aññatra samayā.
-Gilānā.
+160.‘‘,,..–’’.
+161.…pe……pe….
+.
+.
+.
+,.
+.
+.
 162.,.,.,.
 ,.,.,.,.,.
 163.,,,‘‘’’,,,,,,.
 Bhikkhunupassayasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Āmisasikkhāpadaṃ
 164...–‘‘;’’.…pe…–‘‘–‘;’’’…pe…‘‘,,–‘;’’’?‘‘,’’.…pe…,,–;,,…pe…,,–
-165.‘‘Yo pana bhikkhu evaṃ vadeyya – ‘āmisahetu therā bhikkhū bhikkhuniyo ovandatī’ti, pācittiya’’.
-166.Yo panā…pe…bhikkhū…pe….
-Āmisahetū.
-Evaṃ vadeyyā–‘‘’’,.
+165.‘‘–‘’,’’.
+166.…pe……pe….
+.
+–‘‘’’,.
 167.,.,.,.
 –‘‘…pe…’’,.–‘‘’’,.,.,.,.
 168.,,.
@@ -572,15 +572,15 @@ Evaṃ vadeyyā–‘‘’’,.
 5. Cīvaradānasikkhāpadaṃ
 169....–‘‘,,’’.–‘‘,’’...;.–‘‘,,paṭiviṃso (sī.), paṭiviso (itipi);’’?‘‘,’’.
 ..–‘‘,,’’..…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.‘‘,,’’?‘‘,’’.‘‘,,.,,,,…pe…,,–
-‘‘Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, pācittiya’’.
+‘‘,’’.
 .
 170.pārivaṭṭakaṃ (itipi).–‘‘’’..–‘‘,,.,,,,–,,.,,–
-171.‘‘Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ dadeyya, aññatra pārivattakā, pācittiya’’.
-172.Yo panā…pe…bhikkhū…pe….
-Aññātikā.
-Bhikkhunī.
-Cīvaraṃvikappanupagapacchimaṃ (sī.).
-Aññatra pārivattakā,.
+171.‘‘,,’’.
+172.…pe……pe….
+.
+.
+vikappanupagapacchimaṃ (sī.).
+,.
 173.,,.,,.,,.
 ,,.,.,.,.
 174.,,,,,,,,,.
@@ -588,50 +588,50 @@ Cīvaradānasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Cīvarasibbanasikkhāpadaṃ
 175..paṭṭho (sī. syā.).;–‘‘,,’’..;–‘‘,,’’?‘‘,,’’..–‘‘,’’
 –‘‘’’?‘‘’’.‘‘,’’.…pe…–‘‘’’…pe…,,’’?‘‘,’’.‘‘,,’’?‘‘,’’.‘‘,,.,,,,…pe…,,–
-176.‘‘Yo pana bhikkhu aññātikāya bhikkhuniyā cīvaraṃ sibbeyya vā sibbāpeyya vā, pācittiya’’.
-177.Yo panā…pe…bhikkhū…pe….
-Aññātikā.
-Bhikkhunī.
-Cīvaraṃ.
-Sibbeyyā.
-Sibbāpeyyā,.,.
+176.‘‘,’’.
+177.…pe……pe….
+.
+.
+.
+.
+,.,.
 178.,.,.,.
 ,.,.,.,.
 179.,,,,,.
 Cīvarasibbanasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Saṃvidhānasikkhāpadaṃ
 180...–‘‘,’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,.
-‘‘Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiya’’.
+‘‘,,’’.
 .
 181..–‘‘’’.‘‘,,.’’.‘‘,,.’’.....–‘‘,,.,,–
-182.‘‘Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Satthagamanīyo hoti maggo sāsaṅkasammato sappaṭibhayo – ayaṃ tattha samayo’’.
-183.Yo panā…pe…bhikkhū…pe….
-Bhikkhunī.
-Saddhi.
-Saṃvidhāyā–‘‘,,;,,;’’,.
-Antamaso gāmantarampī,.,.
-Aññatra samayā.
-Satthagamanīyo.
-Sāsaṅkaṃyasmiṃ magge (?),,,,.
-Sappaṭibhayaṃ,,,–‘‘’’.
+182.‘‘,,,..–’’.
+183.…pe……pe….
+.
+.
+–‘‘,,;,,;’’,.
+,.,.
+.
+.
+yasmiṃ magge (?),,,,.
+,,,–‘‘’’.
 184.,,,.,,,.,,,,.
 ,.,.,.,.
 185.,,,,,,,.
 Saṃvidhānasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Nāvābhiruhanasikkhāpadaṃ
 186..ekanāvaṃ (syā.).–‘‘ekanāvāya (syā.),’’.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃekanāvaṃ (syā.)abhiruheyya, uddhaṃgāminiṃ vā adhogāminiṃvā, pācittiya’’.
+‘‘ekanāvaṃ (syā.),,’’.
 .
 187..uttaritabbā (syā.).–‘‘’’.‘‘,,;’’.‘‘,,.’’.....–‘‘,,.,,–
-188.‘‘Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya ekaṃ nāvaṃ abhiruheyya uddhaṃgāminiṃ vā adhogāminiṃ vā, aññatra tiriyaṃ taraṇāya, pācittiya’’.
-189.Yo panā…pe…bhikkhū…pe….
-Bhikkhunī.
-Saddhi.
-Saṃvidhāyā‘‘,,;,,;’’.
+188.‘‘,,’’.
+189.…pe……pe….
+.
+.
+‘‘,,;,,;’’.
 ,.,.,.
-Uddhaṃgāmini.
-Adhogāmini.
-Aññatra tiriyaṃ taraṇāyā.
+.
+.
+.
 ,.,.
 190.,,.,,.,,.
 ,,.,.,.,,.
@@ -640,30 +640,30 @@ Nāvābhiruhanasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Paripācitasikkhāpadaṃ
 192....;–‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘’’.‘‘,,’’?
 ‘‘,,’’?‘‘kaṭamorakatissako (sī.) katamorakatissako (syā.)’’.,.‘‘,,’’.‘‘,,;’’.,.…pe…–‘‘’’…pe…‘‘,,’’?‘‘,’’.…pe…,,.,,…pe…,,–
-‘‘Yopana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya, pācittiya’’.
+‘‘,’’.
 .
 193..–‘‘’’.–‘‘,,’’.–‘‘’’.,...–‘‘,,.,,–
-194.‘‘Yo pana bhikkhu jānaṃ bhikkhuniparipācitaṃ piṇḍapātaṃ bhuñjeyya, aññatra pubbe gihisamārambhā, pācittiya’’.
-195.Yo panā…pe…bhikkhū…pe….
-Jānāti.
-Bhikkhunī.
-Paripāceti–‘‘,,,,,,’’.
-Piṇḍapāto.
-Aññatra pubbe gihisamārambhā.
-Gihisamārambho.
+194.‘‘,,’’.
+195.…pe……pe….
+.
+.
+–‘‘,,,,,,’’.
+.
+.
+.
 ,.,.
 196.,,.,,.,,.,,.,.,.,.
 197.,,,,,.
 Paripācitasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Rahonisajjasikkhāpadaṃ
 198...,..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,…pe…,,–
-199.‘‘Yo pana bhikkhu bhikkhuniyā saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiya’’.
-200.Yo panā…pe…bhikkhū…pe….
-Bhikkhunī.
-Saddhi.
-Eko ekāyā.
-pāci. 286, 291; pārā. 445,454Raho...
-Nisajjaṃkappeyyā,.
+199.‘‘,’’.
+200.…pe……pe….
+.
+.
+.
+pāci. 286, 291; pārā. 445,454...
+,.
 ,.,.
 201.,.,.,.
 ,.,.,.
@@ -677,50 +677,50 @@ Tassuddānaṃ –
 1. Āvasathapiṇḍasikkhāpadaṃ
 203....–‘‘’’.…pe….–‘‘’’,..–‘‘;’’.
 .…pe…–…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttariṃ bhuñjeyya, pācittiya’’.
+‘‘.,’’.
 .
 204..–‘‘’’.,.–‘‘,’’.–‘‘’’;...–‘‘,,.,,–
-205.‘‘Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiya’’.
-206.Agilāno.
-Gilāno.
-Āvasathapiṇḍo–..‘’,..
+205.‘‘.,’’.
+206..
+.
+–..‘’,..
 207.,.,.,.
 ,..,.
 208.,,,,,,,,,.
 Āvasathapiṇḍasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Gaṇabhojanasikkhāpadaṃ
 209...–‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Gaṇabhojane pācittiya’’.
+‘‘’’.
 .
 210..–‘‘’’..–‘‘,,.,,–
-‘‘Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..–’’.
 .
 211.–‘‘’’.–‘‘’’..…pe…,,.,,–
-‘‘Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,–’’.
 .
 212..–‘‘’’.…pe…,,.,,–
-‘‘Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,–’’.
 .
 213..–‘‘,,;’’.–‘‘,,’’.–‘‘’’.…pe…,,.,,–
-‘‘Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,,–’’.
 .
 214..–‘‘,,;’’.–‘‘,,’’.–‘‘’’.…pe…,,.,,–
-‘‘Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,,,–’’.
 .
 215...–‘‘’’.…pe…,,.,,–
-‘‘Gaṇabhojane , aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,,,,–’’.
 .
 216..;–‘‘,,’’.‘‘,,’’.‘‘’’.–‘‘’’.–‘‘’’.;,.–‘‘,;.’’...–‘‘,,.,,–
-217.Gaṇabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo – ayaṃ tattha samayo’’.
-218.Gaṇabhojanaṃ..
-Aññatra samayā.
-Gilānasamayophālitā (syā. ka.).‘‘’’.
-Cīvaradānasamayo,.‘‘’’.
-Cīvarakārasamayo.‘‘’’.
-Addhānagamanasamayo‘‘’’,,.
-Nāvābhiruhanasamayo‘‘’’,,.
-Mahāsamayo,.‘‘’’.
-Samaṇabhattasamayo.‘‘’’.
+217.,,..,,,,,,–’’.
+218...
+.
+phālitā (syā. ka.).‘‘’’.
+,.‘‘’’.
+.‘‘’’.
+‘‘’’,,.
+‘‘’’,,.
+,.‘‘’’.
+.‘‘’’.
 ‘‘’’,..
 219.,,,.,,,.,,,.
 ,.,.,.
@@ -732,23 +732,23 @@ Gaṇabhojanasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 ;..–‘‘,,.,,’’.‘‘,,‘’..
 ,,’’.‘‘,,.,;’’.
 –‘‘’’?.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Paramparabhojanepācittiya’’.
+‘‘’’.
 .
 222..;–‘‘,’’.‘‘,,’’.ussūrena (ka.)...–‘‘,,.,,–
-‘‘Paramparabhojane,aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..–’’.
 .
 223.paṭiyādāpetvā (itipi)–‘‘’’.–‘‘’’..…pe…,,.,,–
-‘‘Paramparabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,–’’.
 .
 224..–‘‘’’.…pe…,,.,,–
-225.‘‘Paramparabhojane, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Gilānasamayo, cīvaradānasamayo, cīvarakārasamayo – ayaṃ tattha samayo’’.
+225.‘‘,,..,,–’’.
 .
 226.;...‘‘patigaṇhāhi (sī.),’’.‘‘,,’’.‘‘,’’.–‘‘,,bhattapaccāsaṃ vikappetvā (syā.).,,–‘’’’.
-227.Paramparabhojanaṃ,,.
-Aññatra samayā.
-Gilānasamayo.‘‘’’.
-Cīvaradānasamayo,.‘‘’’.
-Cīvarakārasamayo.‘‘’’.
+227.,,.
+.
+.‘‘’’.
+,.‘‘’’.
+.‘‘’’.
 ‘‘’’,..
 228.,,,.,,,.,,,.
 ,.,.,.
@@ -758,18 +758,18 @@ Paramparabhojanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 230.....–‘‘,’’.‘‘’’pūpaṃ (ṇvādimoggallāne)........–‘‘,’’.‘‘’’........–‘‘,.,’’..........
 –‘‘’’..;.;.–‘‘’’?..
 231.........–‘‘,,,.’’.‘‘nāyya (syā.),’’..–‘‘’’...–‘‘,,–,…pe….,,–
-232.‘‘Bhikkhuṃ paneva kulaṃ upagataṃ pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya, ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā tato ce uttari paṭiggaṇheyya pācittiyaṃ. Dvattipattapūre  paṭiggahetvā tato nīharitvā bhikkhūhi saddhiṃ saṃvibhajitabbaṃ. Ayaṃ tattha sāmīcī’’.
-233.Bhikkhuṃ paneva kulaṃ upagata–,,,.
-Upagata.
-Pūvaṃ.
-Manthaṃ.
-Abhihaṭṭhuṃ pavāreyyā.
-Ākaṅkhamānenā.
-Dvattipattapūrā paṭiggahetabbā.
-Tatoce uttari paṭigaṇheyyā,.
-Dvattipattapūre paṭiggahetvā–‘‘,’’.,.,.
-Tatonīharitvā bhikkhūhi saddhiṃ saṃvibhajitabba.
-Ayaṃ tattha sāmīcī.
+232.‘‘,..’’.
+233.–,,,.
+.
+.
+.
+.
+.
+.
+,.
+–‘‘,’’.,.,.
+.
+.
 234.,.,.,.
 ,.,.,.
 235.,,,,,,,,,.
@@ -777,17 +777,17 @@ Kāṇamātusikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Paṭhamapavāraṇāsikkhāpadaṃ
 236....paṭivisake (yojanā)–‘‘.,’’.–‘‘,ayya (syā.),?’’
 –‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu bhuttāvī pavārito khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiya’’.
+‘‘,’’.
 .
 237.....–‘‘,,’’?.‘‘,’’.‘‘,’’.–‘‘,.,,–‘‘’’.,,–
-238.‘‘Yopana bhikkhu bhuttāvī pavārito anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiya’’.
-239.Yo panā…pe…bhikkhū…pe….
-Bhuttāvī.
-Pavārito,,,.
-Anatirittaṃ,,,,,,‘‘,’’–.
-Atirittaṃ,,,,,,‘‘’’,–.
-Khādanīyaṃ–.
-Bhojanīyaṃ–,,,,.
+238.‘‘,’’.
+239.…pe……pe….
+.
+,,,.
+,,,,,,‘‘,’’–.
+,,,,,,‘‘’’,–.
+–.
+–,,,,.
 ‘‘’’,.
 240.,.,.,.
 ,..,.,.,.
@@ -796,27 +796,27 @@ Paṭhamapavāraṇāsikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Dutiyapavāraṇāsikkhāpadaṃ
 242....–‘‘,,’’.....upanandho (ka.);–‘‘,’’.‘‘,,’’.‘‘,,,’’..–‘‘tvaṃ hi (syā.),,’’.‘‘,,’’.‘‘,,’’.
 .…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…–
-243.‘‘Yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ anatirittena khādanīyena vā bhojanīyena vā abhihaṭṭhuṃ pavāreyya – ‘handa, bhikkhu, khāda vā bhuñja vā’ti, jānaṃ āsādanāpekkho, bhuttasmiṃ, pācittiya’’.
-244.Yo panā…pe…bhikkhū…pe….
-Bhikkhu.
-Bhuttāvī,.
-Pavārito,,,.
-Anatirittaṃ,,,,,,‘‘’’,–.
-Khādanīyaṃ–.
-Bhojanīyaṃ–,,,,.
-Abhihaṭṭhuṃ pavāreyyā.
-Jānāti,,.
-Āsādanāpekkho‘‘’’,.‘‘’’,...
+243.‘‘–‘,,’,,,’’.
+244.…pe……pe….
+.
+,.
+,,,.
+,,,,,,‘‘’’,–.
+–.
+–,,,,.
+.
+,,.
+‘‘’’,.‘‘’’,...
 245.,.,.,.,.‘‘’’,..,.,.,.
 246.,‘‘’’,,,‘‘’’,,.
 Dutiyapavāraṇāsikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Vikālabhojanasikkhāpadaṃ
 247.....–‘‘,’’.‘‘,,’’?.‘‘,,’’?‘‘’’.–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-248.Yopana bhikkhu vikāle khādanīyaṃvā bhojanīyaṃ vā khādeyya vā bhuñjeyya vā, pācittiya’’.
-249.Yopanā…pe…bhikkhū…pe….
-Vikālo.
-Khādanīyaṃ–.
-Bhojanīyaṃ–,,,,.
+248.,’’.
+249.…pe……pe….
+.
+–.
+–,,,,.
 ‘‘’’,..
 250.,.,.,.
 ,..,.,.,.
@@ -824,11 +824,11 @@ Bhojanīyaṃ–,,,,.
 Vikālabhojanasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Sannidhikārakasikkhāpadaṃ
 252..belaṭṭhisīso (sī.) veḷaṭṭhasīso (syā.)..,,.–‘‘,,’’?.‘‘,,’’?‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-253.‘‘Yopana bhikkhu sannidhikārakaṃ khādanīyaṃ vā bhojanīyaṃ vākhādeyya vā bhuñjeyya vā, pācittiya’’.
-254.Yopanā…pe…bhikkhū…pe….
-Sannidhikārakaṃ.
-Khādanīyaṃ–.
-Bhojanīyaṃ–,,,,.
+253.‘‘,’’.
+254.…pe……pe….
+.
+–.
+–,,,,.
 ‘‘’’,..
 255.,.,.,.
 ,..,.,.,.
@@ -836,23 +836,23 @@ Bhojanīyaṃ–,,,,.
 Sannidhikārakasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Paṇītabhojanasikkhāpadaṃ
 257...–‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yāni kho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni attano atthāya viññāpetvābhuñjeyya, pācittiya’’.
+‘‘,–.,’’.
 .
 258..–‘‘,’’?‘‘,,,;‘‘’’,’’..–‘‘,,.,,–
-259.‘‘Yānikho pana tāni paṇītabhojanāni, seyyathidaṃ – sappi navanītaṃ telaṃ madhu phāṇitaṃ maccho maṃsaṃ khīraṃ dadhi. Yo pana bhikkhu evarūpāni paṇītabhojanāni agilāno attano atthāya viññāpetvā bhuñjeyya, pācittiya’’.
-260.Yāni kho pana tāni paṇītabhojanānīsappi,.
-Navanītaṃ.
-Telaṃ.
-Madhu.
-Phāṇitaṃ.
-Macchoudakacaro (syā. ka.).
-Maṃsaṃ,.
-Khīraṃ,,.
-Dadhi.
-Yopanā…pe…bhikkhū…pe….
-Evarūpāni paṇītabhojanānī.
-Agilāno.
-Gilāno.
+259.‘‘,–.,’’.
+260.,.
+.
+.
+.
+.
+udakacaro (syā. ka.).
+,.
+,,.
+.
+…pe……pe….
+.
+.
+.
 ,payoge payoge (ka.).‘‘’’,..
 261.,.,.,.
 ,.,..
@@ -860,15 +860,15 @@ Gilāno.
 Paṇītabhojanasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Dantaponasikkhāpadaṃ
 263...,bhuñjati (syā.).–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yopana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, pācittiya’’.
+‘‘,’’.
 .
 264.udakadantapoṇe (syā. ka.).…pe…‘‘,,.,,–
-265.‘‘Yo pana bhikkhu adinnaṃ mukhadvāraṃ āhāraṃ āhareyya, aññatra udakadantaponā, pācittiya’’.
-266.Yo panā…pe…bhikkhū…pe….
-Adinnaṃ.
-Dinnaṃ,.
-Āhāro,.
-Aññatra udakadantaponā.
+265.‘‘,,’’.
+266.…pe……pe….
+.
+,.
+,.
+.
 ‘‘’’,..
 267.,,.,,.,,.
 ,.,.,.
@@ -882,28 +882,28 @@ Tassuddānaṃ –
 1. Acelakasikkhāpadaṃ
 269....‘‘,’’.‘‘’’.–‘‘’’.‘‘,’’.…pe….–‘‘’’.‘‘,’’.‘‘’’....–‘‘,,’’?‘‘,’’.
 .;.–‘‘,,.,,’’...–‘‘,,–,…pe…,.,,–
-270.‘‘Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā  sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya, pācittiya’’.
-271.Yo panā…pe…bhikkhū…pe….
-Acelako.
-Paribbājako.
-Paribbājikā.
-Khādanīyaṃ–.
-Bhojanīyaṃ–,,,,.
-Dadeyyā,.
+270.‘‘,’’.
+271.…pe……pe….
+.
+.
+.
+–.
+–,,,,.
+,.
 272.,.,.,.
 ,.,.,.,.
 273.,,,,.
 Acelakasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Uyyojanasikkhāpadaṃ
 274..–‘‘,’’.–‘‘,,’’.,,..…pe…–‘‘–‘,’’’…pe…,,–‘‘,’’?‘‘,’’.…pe…,,–‘‘,’’,,…pe…,,–
-275.‘‘Yo pana bhikkhu bhikkhuṃ – ‘‘ehāvuso, gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya – ‘gacchāvuso, na me tayā saddhiṃ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiya’’.
-276.Yo panā,…pe…bhikkhū…pe….
-Bhikkhu.
-Ehāvuso, gāmaṃ vā nigamaṃ vā,.
-Tassa dāpetvā.
-Adāpetvā.
-Uyyojeyyā–‘‘,,’’,..,.
-Etadeva paccayaṃ karitvā anañña.
+275.‘‘–‘‘,’–‘,,’,,’’.
+276.,…pe……pe….
+.
+,,.
+.
+.
+–‘‘,,’’,..,.
+.
 277.,.,.,.
 ,.,.,.,.,.,.
 278.‘‘’’,‘‘’’,‘‘’’,‘‘’’,,,,.
@@ -911,37 +911,37 @@ Uyyojanasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Sabhojanasikkhāpadaṃ
 279..sayanīghare (syā.).;.–‘‘’’..–‘‘,,’’.–‘‘’’,–‘‘,,’’.…pe…–‘‘,,’’.–‘‘,,’’.
 –‘‘,,..’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-280.‘‘Yo pana bhikkhu sabhojane kule anupakhajja nisajjaṃ kappeyya, pācittiya’’.
-281.Yo panā…pe…bhikkhū…pe….
-Sabhojanaṃ,,.
-Anupakhajjā.
-Nisajjaṃ kappeyyāpiṭṭhisaṅghāṭassa (syā.),.,.
+280.‘‘,’’.
+281.…pe……pe….
+,,.
+.
+piṭṭhisaṅghāṭassa (syā.),.,.
 282.,.,.,.
 ,.,.,.
 283.,,,,,,,.
 Sabhojanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Rahopaṭicchannasikkhāpadaṃ
 284...–‘‘’’.…pe…–…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-285.‘‘Yopana bhikkhu mātugāmena saddhiṃ raho paṭicchanne āsane nisajjaṃ kappeyya, pācittiya’’.
-286.Yopanā…pe…bhikkhū…pe….
-Mātugāmo,,,.
-Saddhi.
-pāci. 200,291; pārā. 445,454Raho...
-pārā. 445Paṭicchannaṃkuḍḍena (sī. syā.)koṭṭhaḷiyā (sī. syā.) kotthaḷikāya (ka.),.
-Nisajjaṃ kappeyyā,.,.,.
+285.‘‘,’’.
+286.…pe……pe….
+,,,.
+.
+pāci. 200,291; pārā. 445,454...
+pārā. 445kuḍḍena (sī. syā.)koṭṭhaḷiyā (sī. syā.) kotthaḷikāya (ka.),.
+,.,.,.
 287.,.,.,.
 ,.,.,.,.
 288.,,,,,.
 Rahopaṭicchannasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Rahonisajjasikkhāpadaṃ
 289...–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-290.‘‘Yo pana bhikkhu mātugāmena saddhiṃ eko ekāya raho nisajjaṃ kappeyya, pācittiya’’.
-291.Yo panā…pe…bhikkhū…pe….
-Mātugāmo,,.
-Saddhi.
-Ekoekāyā.
-pāci. 200,286; pārā. 445,454Raho,.Cakkhussa raho.Sotassa raho.
-Nisajjaṃ kappeyyā,.,.,.
+290.‘‘,’’.
+291.…pe……pe….
+,,.
+.
+.
+pāci. 200,286; pārā. 445,454,...
+,.,.,.
 292.,.,.,.
 tiracchānagatāya vā manussaviggahitthiyā vā (ka.),.,.,.,.
 293.,,,,.
@@ -949,32 +949,32 @@ Rahonisajjasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Cārittasikkhāpadaṃ
 294....,.–‘‘’’.‘‘,,’’.…pe…–‘‘,;’’.‘‘,,.,,’’.
 ..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ kulesu cārittaṃ āpajjeyya, pācittiya’’.
+‘‘,’’.
 .
 295.mahāva. 277–‘‘’’..–‘‘,,’’?‘‘,’’.‘‘,,’’..–‘‘,,’’.
 –‘‘’’,.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…–
-‘‘Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, pācittiya’’.
+‘‘,’’.
 .
 296...…pe…,,.,,–
-‘‘Yo pana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Cīvaradānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..–’’.
 .
 297.,..…pe…,,.,,–
-‘‘Yopana bhikkhu nimantito sabhatto samāno purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya , aññatra samayā, pācittiyaṃ.Tatthāyaṃ samayo. Cīvaradānasamayo, cīvarakārasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,–’’.
 .
 298.,..…pe…,,.,,–
-299.‘‘Yo pana bhikkhu nimantito sabhatto samāno santaṃ bhikkhuṃ anāpucchā purebhattaṃ vā pacchābhattaṃ vā kulesu cārittaṃ āpajjeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Cīvaradānasamayo, cīvarakārasamayo – ayaṃ tattha samayo’’.
-300.Yo panā…pe…bhikkhū…pe….
-Nimantito.
-Sabhatto.
-Santaṃ.
-Asantaṃ.
-Purebhattaṃ.
-Pacchābhattaṃaruṇuggamanepi (sī.).
-Kulaṃ–,,,.
-Kulesucārittaṃ āpajjeyyā.,.,.
-Aññatrasamayā.
-Cīvaradānasamayo,.
-Cīvarakārasamayo.
+299.‘‘,,..,–’’.
+300.…pe……pe….
+.
+.
+.
+.
+.
+aruṇuggamanepi (sī.).
+–,,,.
+.,.,.
+.
+,.
+.
 301.,,.,,.,,.
 ,.,.,.
 302.,,,,,,,,,,,,.
@@ -985,12 +985,12 @@ Cārittasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 305...;.–‘‘,,’’.‘‘,,,’’..…pe…,,.
 .–‘‘,,?’’?.–‘‘’’?–‘‘,,.,,’’.;–‘‘,,’’.‘‘,,..’’kāle harissathāti (syā.).
 …pe…–‘‘,,’’.‘‘,,..’’.‘‘,,,’’–‘‘–‘,,’’’.…pe…–‘‘–‘,,’’’…pe…,,–‘‘,,’’?‘‘,’’.…pe…,,–‘‘,’’,,…pe…,–
-306.‘‘Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā,aññatra punapavāraṇāya, aññatra niccapavāraṇāya; tato ce uttari sādiyeyya, pācittiya’’.
-307.Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā.
-Punapavāraṇāpi sāditabbā.
-Niccapavāraṇāpi sāditabbā.
-Tatoce uttari sādiyeyyā,,,.
-Bhesajjapariyantā–‘‘’’.Rattipariyantā–‘‘’’.Bhesajjapariyantā ca rattipariyantā ca–‘‘’’.Neva bhesajjapariyantā na rattipariyantā.
+306.‘‘,,;,’’.
+307..
+.
+.
+,,,.
+–‘‘’’.–‘‘’’.–‘‘’’..
 308.–,.–,,.–,,,.,.
 309.karaṇīye (sī. syā.),.,.,.,.,.
 ,.,.,.
@@ -998,36 +998,36 @@ Bhesajjapariyantā–‘‘’’.Rattipariyantā–‘‘’’.Bhesajjapariyan
 Mahānāmasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Uyyuttasenāsikkhāpadaṃ
 311.....–‘‘,,’’?‘‘’’mahārāja mahārājānaṃ mayaṃ daṭṭhukāmā (ka.).‘‘,,yuddhābhinandinā (ka.);’’?–‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yopana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, pācittiya’’.
+‘‘,’’.
 .
 312..–‘‘..’’.–‘‘–‘’..’’?.–‘‘,,.,,–
-313.‘‘Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya, aññatra tathārūpappaccayā, pācittiya’’.
-314.Yo panā…pe…bhikkhū…pe….
-Uyyuttā.
-Senā.,,,.,.,.,.
-Aññatra tathārūpappaccayā.
+313.‘‘,,’’.
+314.…pe……pe….
+.
+.,,,.,.,.,.
+.
 315.,,.,,.,,.
 ,.,.,.,.,.,.
 316.,,,,,,.
 Uyyuttasenāsikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Senāvāsasikkhāpadaṃ
 317...–‘‘,,’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-318.‘‘Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāya, dirattatirattaṃ tena bhikkhunā senāya vasitabbaṃ. Tato ce uttariṃ vaseyya, pācittiya’’.
-319.Siyā ca tassa bhikkhuno kocideva paccayo senaṃ gamanāyā.
-Dirattatirattaṃtena bhikkhunā senāya vasitabba.
-Tato ce uttari vaseyyā,.
+318.‘‘,.,’’.
+319..
+.
+,.
 320.,.,.,.
 ,.,.,.
 321.,,,,,,,,,.
 Senāvāsasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Uyyodhikasikkhāpadaṃ
 322....–‘‘,,,’’?.–‘‘,,’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-323.‘‘Dirattatirattaṃ ce bhikkhu senāya vasamāno uyyodhikaṃ vā balaggaṃ vā senābyūhaṃ vā anīkadassanaṃ vā gaccheyya, pācittiya’’.
-324.Dirattatirattaṃ ce bhikkhu senāya vasamāno.
-Uyyodhikaṃ.
-Balaggaṃ,,,.
-Senābyūhaṃ,,,.
-Anīkaṃ,,,.,,,.,.,.,.
+323.‘‘,’’.
+324..
+.
+,,,.
+,,,.
+,,,.,,,.,.,.,.
 ,.,.,.
 325.,,,,,,.
 Uyyodhikasikkhāpadaṃ niṭṭhitaṃ dasamaṃ.
@@ -1041,26 +1041,26 @@ Tassuddānaṃ –
 ..ambatitthakassa (sī.), ambatitthaṃ (syā.);..dukkhī dummano (sī. syā.)padhūpāsi (syā. ka.).padhūpāsi (syā. ka.).....–‘‘’’.
 .;.–‘‘,,,’’?–‘‘,,’’.–‘‘,,,,,’’..
 .–‘‘,,’’.‘‘,’’..–‘‘,,’’?‘‘,’’.‘‘,,’’?‘‘,’’.‘‘,,ḍeḍḍubhenāpi (sī. syā.)’’?‘‘,’’.‘‘,,’’?‘‘,’’.‘‘,,’’?‘‘,’’.‘‘,,.,,,,…pe…,,–
-327.‘‘Surāmerayapāne pācittiya’’.
-328.Surā.
-Merayo.
-Piveyyā,.
+327.‘‘’’.
+328..
+.
+,.
 ,.,.,.
 ,.,.,.
 329.,,,,,,,.
 Surāpānasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Aṅgulipatodakasikkhāpadaṃ
 330....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-331.‘‘Aṅgulipatodake pācittiya’’.
-332.Aṅgulipatodakoaṅgulipatodako nāma aṅguliyāpi tudanti (syā.)hassādhippāyo (sī. syā.),.,.,.,.
+331.‘‘’’.
+332.aṅgulipatodako nāma aṅguliyāpi tudanti (syā.)hassādhippāyo (sī. syā.),.,.,.,.
 ,.,.,.,.,.,.
 333.,.,.,.,.,.,.,.,.,.,.
 334.,,,.
 Aṅgulipatodakasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Hasadhammasikkhāpadaṃ
 335.....–‘‘,,’’.‘‘,,.’’.–‘‘,’’?–‘‘,,’’.;–‘‘,,’’.‘‘,,’’.‘‘,,’’.…pe…,,,,…pe…,,–
-336.‘‘Udakehasadhammehassadhamme (sī. syā.)pācittiya’’.
-337.Udake hasadhammo,.
+336.‘‘hassadhamme (sī. syā.)’’.
+337.,.
 338.,.,.,.
 ,.,.,.,.
 ,.,.,.
@@ -1068,10 +1068,10 @@ Aṅgulipatodakasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 Hasadhammasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Anādariyasikkhāpadaṃ
 340...–‘‘,.’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-341.‘‘Anādariye pācittiya’’.
-342.Anādariyaṃ–.
-Puggalānādariyaṃ–‘‘,’’,.
-Dhammānādariyaṃ‘‘’’,,.
+341.‘‘’’.
+342.–.
+–‘‘,’’,.
+‘‘’’,,.
 343.,.,.,.
 –‘‘’’,.–‘‘’’,.
 .,.,.
@@ -1079,112 +1079,112 @@ Dhammānādariyaṃ‘‘’’,,.
 Anādariyasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Bhiṃsāpanasikkhāpadaṃ
 345....–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-346.‘‘Yo pana bhikkhu bhikkhuṃ bhiṃsāpeyya, pācittiya’’.
-347.Yo panā…pe…bhikkhū…pe….
-Bhikkhu.
-Bhiṃsāpeyyā.,..,.
+346.‘‘,’’.
+347.…pe……pe….
+.
+.,..,.
 348.,.,.‘,.
 .,..,.,.,.,.
 349.,,,.
 Bhiṃsāpanasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Jotikasikkhāpadaṃ
 350.suṃsumāragire (sī. syā.) saṃsumāragire (ka.)....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā, pācittiya’’.
+‘‘,’’.
 .
 351..–‘‘,,’’?‘‘,,;.‘‘’’,’’.…pe…,,.,,–
-‘‘Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyyavā samādahāpeyya vā, pācittiya’’.
+‘‘,’’.
 .
 352..…pe…,,.,,–
-353.‘‘Yo pana bhikkhu agilāno visibbanāpekkho jotiṃ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiya’’.
-354.Yo panā…pe…bhikkhū…pe….
-Agilāno.
-Gilāno.
-Visibbanāpekkho.
-Joti.
-Samādaheyyā,.
-Samādahāpeyyā,.,.
-Aññatra tathā rūpappaccayā.
+353.‘‘,,’’.
+354.…pe……pe….
+.
+.
+.
+.
+,.
+,.,.
+.
 355.,,.,,.,,.
 ,.,.,.,.
 356.,,,,,,.
 Jotikasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Nahānasikkhāpadaṃ
 357...atha kho (sī. syā.)‘‘’’–‘‘’’..,,;.–‘‘,,’’?...–‘‘,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, pācittiya’’.
+‘‘,’’.
 .
 358.,..…pe…,,.,,–
-‘‘Yopana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānantigimhānaṃ (itipi)vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo pariḷāhasamayo – ayaṃ tattha samayo’’.
+‘‘,,..gimhānaṃ (itipi)–’’.
 .
 359..–‘‘,,’’?‘‘,,,;‘‘’’,’’.…pe…,,.,,–
-‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānantigimhānaṃ (itipi)vassānassapaṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo – ayaṃ tattha samayo’’.
+‘‘,,..gimhānaṃ (itipi),,–’’.
 .
 360....…pe…,,.,,–
-‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,,–’’.
 .
 361....…pe…,,.,,–
-‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo – ayaṃ tattha samayo’’.
+‘‘,,..,,,,–’’.
 .
 362...,..…pe…,,.,,–
-363.‘‘Yo pana bhikkhu orenaddhamāsaṃ nahāyeyya, aññatra samayā, pācittiyaṃ. Tatthāyaṃ samayo. Diyaḍḍho māso seso gimhānanti vassānassa paṭhamo māso iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo– ayaṃ tattha samayo’’.
-364.Yo panā…pe…bhikkhū…pe….
-Orenaddhamāsa.
-Nahāyeyyā,.,.
-Aññatrasamayā.
-Uṇhasamayo.Pariḷāhasamayo‘‘’’.
-Gilānasamayo..
-Kammasamayo.‘‘’’.
-Addhānagamanasamayo‘‘’’,,.
-Vātavuṭṭhisamayo,.‘‘’’.
+363.‘‘,,..,,,,,–’’.
+364.…pe……pe….
+.
+,.,.
+.
+.‘‘’’.
+..
+.‘‘’’.
+‘‘’’,,.
+,.‘‘’’.
 365.,,,.,,,.,,,.
 ,.,.,.
 366.,,,,,,,.
 Nahānasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Dubbaṇṇakaraṇasikkhāpadaṃ
 367....–‘‘,,’’..–‘‘’’..–‘‘,,–,…pe…,.,,–
-368.‘‘Navaṃ pana bhikkhunā cīvaralābhena tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabbaṃ – nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā. Anādāce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃnavaṃ cīvaraṃ paribhuñjeyya, pācittiya’’.
-369.Navaṃ.
-Cīvaraṃ.
-Tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇaṃ ādātabba.
-Nīlaṃ–,.
-Kaddamo.
-Kāḷasāmaṃkāḷakaṃ (sī. syā.).
-Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇakaraṇānaṃ aññataraṃ dubbaṇṇakaraṇa,.
+368.‘‘–.,’’.
+369..
+.
+.
+–,.
+.
+kāḷakaṃ (sī. syā.).
+,.
 370.,.,.,.
 ,.,.,.
 371.,,,,,,.
 Dubbaṇṇakaraṇasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Vikappanasikkhāpadaṃ
 372..apaccuddhārakaṃ (sī. syā.).–‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-373.‘‘Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṃ cīvaraṃ vikappetvā appaccuddhāraṇaṃapaccuddhārakaṃ (sī. syā.)paribhuñjeyya, pācittiya’’.
-374.Yo panā…pe…bhikkhū…pe….
-Bhikkhussā.
-Bhikkhunī.
-Sikkhamānā.
-Sāmaṇero.
-Sāmaṇerī.
-Sāma.
-Cīvaraṃ.
-Vikappanā–.
-Sammukhāvikappanā‘‘’’.
-Parammukhāvikappanā‘‘’’.–‘‘’’?‘‘’’.–‘‘,’’.
-Appaccuddhāraṇaṃ,,.
+373.‘‘apaccuddhārakaṃ (sī. syā.),’’.
+374.…pe……pe….
+.
+.
+.
+.
+.
+.
+.
+–.
+‘‘’’.
+‘‘’’.–‘‘’’?‘‘’’.–‘‘,’’.
+,,.
 375.,.,.,.
 ,.,.,.,.
 376.,,,.
 Vikappanasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Cīvaraapanidhānasikkhāpadaṃ
 377....–‘‘,’’.,.–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-378.‘‘Yopana bhikkhu bhikkhussa pattaṃ vā cīvaraṃ vā nisīdanaṃ vā sūcigharaṃ vā kāyabandhanaṃ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, pācittiya’’.
-379.Yopanā…pe…bhikkhū…pe….
-Bhikkhussā.
-Patto–,.
-Cīvaraṃ,.
-Nisīdanaṃ.
-Sūcigharaṃ.
-Kāyabandhanaṃ–,.
-Apanidheyya vā,.
-Apanidhāpeyya vā,.Apanidhāpeyya vā,.,.
-Antamaso hasāpekkhopī.
+378.‘‘,,’’.
+379.…pe……pe….
+.
+–,.
+,.
+.
+.
+–,.
+,.
+,.,.,.
+.
 380.,,.…pe…,,.
 ,,.,,.,.,.,.
 381.,,‘‘’’,,.
@@ -1196,42 +1196,42 @@ toyañca (itipi),;
 7. Sappāṇakavaggo
 1. Sañciccasikkhāpadaṃ
 382..,..–‘‘,,’’?‘‘,.’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-383.‘‘Yopana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya, pācittiya’’.
-384.Yo panā…pe…bhikkhū…pe….
-Sañciccā.
-Pāṇo.
-Jīvitā voropeyyā,.
+383.‘‘,’’.
+384.…pe……pe….
+.
+.
+,.
 385.,.,.,.,.,.,.
 386.,,,,,.
 Sañciccasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Sappāṇakasikkhāpadaṃ
 387...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-388.‘‘Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya, pācittiya’’.
-389.Yo panā…pe…bhikkhū…pe….
-Jānāti,.‘‘’’,‘‘’’,.
+388.‘‘,’’.
+389.…pe……pe….
+,.‘‘’’,‘‘’’,.
 390.,.,.,.,.,.,.
 391.‘‘’’,‘‘’’,‘‘’’,,.
 Sappāṇakasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Ukkoṭanasikkhāpadaṃ
 392..–‘‘’’.…pe…–‘‘’’…pe…,,’’?‘‘,’’.…pe…,,,,…pe…,,–
-393.‘‘Yo pana bhikkhu jānaṃ yathādhammaṃ nihatādhikaraṇaṃ punakammāya ukkoṭeyya, pācittiya’’.
-394.Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Yathādhammaṃ,.
-Adhikaraṇaṃ–,,,.
-Punakammāya ukkoṭeyyā‘‘’’,.
+393.‘‘,’’.
+394.…pe……pe….
+,,.
+,.
+–,,,.
+‘‘’’,.
 395.,.,.,.,.,.,.
 396.‘‘’’,,.
 Ukkoṭanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Duṭṭhullasikkhāpadaṃ
 397..–‘‘,,.’’...–‘‘,,,,,vedayāmahaṃ (syā.),,’’’’.
 ‘‘,,’’?‘‘’’.‘‘,,āpajji (?)’’.‘‘,,’’?‘‘’’..…pe…–‘‘’’…pe…,,.‘‘,’’.…pe…,,,,…pe…,,–
-398.‘‘Yopana bhikkhu bhikkhussa jānaṃ duṭṭhullaṃ āpattiṃ paṭicchādeyya, pācittiya’’.
-399.Yopanā…pe…bhikkhū…pe….
-Bhikkhussā.
-Jānāti,.
-Duṭṭhullā.
-Paṭicchādeyyā‘‘,,,’’,.
+398.‘‘,’’.
+399.…pe……pe….
+.
+,.
+.
+‘‘,,,’’,.
 400.,.,.,.,.,.,.,.,.
 401.–‘‘’’,‘‘’’,‘‘’’,,,‘‘’’,,.
 Duṭṭhullasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
@@ -1239,34 +1239,34 @@ Duṭṭhullasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 402..idaṃ vatthu mahāva. 99..–‘‘’’?–‘‘,,’’.–‘‘,.,’’.–‘‘,.,’’.–‘‘,..,,’’.
 .;–‘‘,,’’.‘‘,,,’’.–‘‘’’.–‘‘’’...–‘‘,,’’.–‘‘,,.,.,.,.,’’.–‘‘,,’’..
 .–‘‘,,’’?.–‘‘,,’’?‘‘,’’.…pe…,,,,.,,…pe….,,…pe…,,–
-403.‘‘Yo pana bhikkhu jānaṃ ūnavīsativassaṃ puggalaṃ upasampādeyya, so ca puggalo anupasampanno,te ca bhikkhū gārayhā, idaṃ tasmiṃ pācittiya’’.
-404.Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Ūnavīsativasso.
+403.‘‘,,,’’.
+404.…pe……pe….
+,,.
+.
 ‘‘’’,sammanati (ka.),.....
 405.,.,.,.,.,.,.
 406.,,,.
 Ūnavīsativassasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Theyyasatthasikkhāpadaṃ
 407...–‘‘’’.‘‘,,’’.‘‘’’.kammikā (sī. syā.)–‘‘’’..–‘‘,,’’?..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-408.‘‘Yopana bhikkhu jānaṃ theyyasatthenasaddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiya’’.
-409.Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Theyyasattho,.
-Saddhi.
-Saṃvidhāyā–‘‘,;,,’’,.
-Antamaso gāmantarampī..
+408.‘‘,,’’.
+409.…pe……pe….
+,,.
+,.
+.
+–‘‘,;,,’’,.
+..
 410.,,.,,.,,.,,.,.,..
 411.,,,,,.
 Theyyasatthasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Saṃvidhānasikkhāpadaṃ
 412...–‘‘,,’’?‘‘,,’’.‘‘’’.‘‘,’’.–‘‘apayyā (sī. syā.)’’?‘‘,’’...–‘‘;,;;,’’...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,,–
-413.‘‘Yo pana bhikkhu mātugāmena saddhiṃ saṃvidhāya ekaddhānamaggaṃ paṭipajjeyya, antamaso gāmantarampi, pācittiya’’.
-414.Yo panā…pe…bhikkhū…pe….
-Mātugāmo,.
-Saddhi.
-Saṃvidhāyā–‘‘,,,,’’,.
-Antamaso gāmantarampī..
+413.‘‘,,’’.
+414.…pe……pe….
+,.
+.
+–‘‘,,,,’’,.
+..
 415.,,.,,.,,.
 ,.,,.,.,.,.
 416.,,,,,.
@@ -1276,11 +1276,11 @@ Saṃvidhānasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘,,..abbhācikkhanaṃ (itipi)..,..,.,.…pe……………………,’’.
 –‘‘,,,–‘,’’’.,;.–‘‘,,–‘’’’?‘‘,,–‘’’’.
 ,,?,,..,.…pe………………………,.,,,,.,,.,,…pe….,,–
-418.‘‘Yo pana bhikkhu evaṃ vadeyya – ‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṃ antarāyāyā’ti so bhikkhu bhikkhūhi evamassa vacanīyo – ‘māyasmā evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya, anekapariyāyenāvuso, antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā’ti. Evañca evañca pana (ka.) so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya, so bhikkhu bhikkhūhi yāvatatiyaṃ samanubhāsitabbo tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya, iccetaṃ kusalaṃ, no ce paṭinissajjeyya, pācittiya’’.
-419.Yo panā…pe…bhikkhū…pe….
-Evaṃ vadeyyā–‘‘,’’.
-Sobhikkhū.
-Bhikkhūhī.–‘‘,,,,.’’...,;,.,.saṅghamajjhampi–‘‘,,,,.’’...,.,..,,.–
+418.‘‘–‘,,’–‘,,,,,,’.evañca pana (ka.),.,,,’’.
+419.…pe……pe….
+–‘‘,’’.
+.
+.–‘‘,,,,.’’...,;,.,.–‘‘,,,,.’’...,.,..,,.–
 420.‘‘,,.–‘,,’..,–..
 ‘‘,,.–‘,,’...,,;,.
 ‘‘…pe…–‘‘,,.–‘’...,,;,.
@@ -1292,15 +1292,15 @@ Bhikkhūhī.–‘‘,,,,.’’...,;,.,.saṅghamajjhampi–‘‘,,,,.’’..
 Ariṭṭhasikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Ukkhittasambhogasikkhāpadaṃ
 423..bhikkhunā gaddhabādhipubbena (?).…pe…–bhikkhunā gaddhabādhipubbena (?)…pe…,,bhikkhunā gaddhabādhipubbena (?)?‘‘,’’.…pe…,,bhikkhunā gaddhabādhipubbane (?),,…pe…,,–
-424.‘‘Yopana bhikkhu jānaṃ tathāvādinā bhikkhunā akaṭānudhammena taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ sambhuñjeyya vā saṃvaseyya vā saha vā seyyaṃkappeyya, pācittiya’’.
-425.Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Tathāvādinā–‘‘,,’’.
-Akaṭānudhammo.
-Taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhi.
-Sambhuñjeyya vā–.Āmisasambhogo,.Dhammasambhogo,,.,.
-Saṃvaseyyavā,.
-Sahavā seyyaṃ kappeyyā,.,.,.,.
+424.‘‘,’’.
+425.…pe……pe….
+,,.
+–‘‘,,’’.
+.
+.
+–.,.,,.,.
+,.
+,.,.,.,.
 426.,.,.,.,.,.,.
 427.,,,,.
 Ukkhittasambhogasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
@@ -1310,19 +1310,19 @@ Ukkhittasambhogasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 ,;.–‘‘,,–‘,’’’?‘‘,,–‘’’’.
 ‘‘,,?,,,?,.…pe…,.,,.,,.,,…pe…’’.…pe…–‘‘,,.,,–,,..’’..
 .…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-429.‘‘Samaṇuddesopi ce evaṃ vadeyya – ‘tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṃ antarāyāyā’ti, so samaṇuddeso bhikkhūhi evamassa vacanīyo – ‘māvuso samaṇuddesa, evaṃ avaca, mā bhagavantaṃ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṃ, na hi bhagavā evaṃ vadeyya. Anekapariyāyenāvuso samaṇuddesa, antarāyikā dhammā antarāyikā vuttā bhagavatā. Alañca pana te paṭisevato antarāyāyā’ti. Evañca evañca pana (ka.) so samaṇuddeso bhikkhūhi vuccamāno tatheva paggaṇheyya, so samaṇuddeso bhikkhūhi evamassa vacanīyo – ‘ajjatagge te, āvuso samaṇuddesa, na ceva so bhagavā satthā apadisitabbo. Yampi caññe samaṇuddesā labhanti bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ sāpi te natthi. Cara pire vinassā’ti. Yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ upalāpeyya vā upaṭṭhāpeyya vā sambhuñjeyya vā saha vā seyyaṃ kappeyya, pācittiya’’.
-430.Samaṇuddeso.
-Evaṃvadeyyā–‘‘,,’’.
-Sosamaṇuddeso.
-Bhikkhūhī,–‘‘,,....,.’’.……pe…,–‘‘,,..’’.
-Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Tathānāsita.
-Samaṇuddeso.
-Upalāpeyya vā,.
-Upaṭṭhāpeyya vā,.
-Sambhuñjeyya vā–.Āmisasambhogo,.Dhammasambhogo,,.,.
-Sahavā seyyaṃ kappeyyā,.,.,.,.
+429.‘‘–‘,’,–‘,,,,.,.’.evañca pana (ka.),–‘,,..’.,’’.
+430..
+–‘‘,,’’.
+.
+,–‘‘,,....,.’’.……pe…,–‘‘,,..’’.
+…pe……pe….
+,,.
+.
+.
+,.
+,.
+–.,.,,.,.
+,.,.,.,.
 431.,.,.,.,.,.,.
 432.,,,.
 Kaṇṭakasikkhāpadaṃ niṭṭhitaṃ dasamaṃ.
@@ -1334,38 +1334,38 @@ Tassuddānaṃ –
 8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadaṃ
 433...–‘‘,.’’.–‘‘,,’’.…pe…–‘‘–,,’’…pe…,,–‘‘,,’’?‘‘,’’.…pe…,,–‘‘,,’’.,,…pe…,,–
-434.‘‘Yo pana bhikkhu bhikkhūhi sahadhammikaṃ vuccamāno evaṃ vadeyya  – ‘na tāvāhaṃ, āvuso, etasmiṃ sikkhāpade sikkhissāmi yāva na aññaṃ bhikkhuṃ byattaṃ vinayadharaṃ paripucchāmī’ti, pācittiyaṃ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ. Ayaṃ tattha sāmīcī’’.
-435.Yo panā…pe…bhikkhū…pe….
-Bhikkhūhī.
-Sahadhammikaṃ.vadeyya (ka.)–‘‘,,’’imāni padāni syā. potthake na dissanti.imāni padāni syā. potthake na dissanti,.
+434.‘‘–‘,,’,.,,.’’.
+435.…pe……pe….
+.
+.vadeyya (ka.)–‘‘,,’’imāni padāni syā. potthake na dissanti.imāni padāni syā. potthake na dissanti,.
 436.,.,.,.
 –‘‘’’,‘‘,,’’,.
 –‘‘’’,‘‘,,’’,.,.,.,.
-Sikkhamānenā.
-Aññātabba.
-Paripucchitabba‘‘,,;’’?
-Paripañhitabba.
-Ayaṃ tattha sāmīcī.
+.
+.
+‘‘,,;’’?
+.
+.
 437.‘‘’’,,.
 Sahadhammikasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Vilekhanasikkhāpadaṃ
 438..idaṃ vatthu cūḷava. 320,,,.bhikkhū bhagavā (syā. ka.)–‘‘,,,.,,’’,.
 –‘‘,,..,,’’.–‘‘,’’…pe…–…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-439.‘‘Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya – ‘kiṃ panimehi khuddānukhuddakehi  sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṃvattantī’ti, sikkhāpadavivaṇṇake pācittiya’’.
-440.Yo panā…pe…bhikkhū…pe….
-Pātimokkhe uddissamāne.
-Evaṃvadeyyā–‘‘,.‘‘,,,.,,,,,’’,.
+439.‘‘–‘,’,’’.
+440.…pe……pe….
+.
+–‘‘,.‘‘,,,.,,,,,’’,.
 441.,.,.,.
 ,.,.,.,.,.
 442.,‘‘,’’,,.
 Vilekhanasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Mohanasikkhāpadaṃ
 443..‘‘’’–‘‘,’’.…pe…–‘‘–,’’…pe…,,–‘‘,’’?‘‘,’’.…pe…,,–‘‘,’’,,…pe…,,–
-444.‘‘Yo pana bhikkhu anvaddhamāsaṃpātimokkhe uddissamāne evaṃ vadeyya – ‘idāneva kho ahaṃ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṃ uddesaṃ āgacchatī’ti. Tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinnapubbaṃ iminā bhikkhunā dvattikkhattuṃ pātimokkhe uddissamāne, ko pana vādo bhiyyo bhiyyoti (syā.), na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṃ āpanno tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo – ‘tassa te, āvuso, alābhā, tassa te dulladdhaṃ, yaṃ tvaṃ pātimokkhe uddissamāne na sādhukaṃ aṭṭhiṃ katvā aṭṭhikatvā (syā. ka.) manasi karosī’ti. Idaṃ tasmiṃ mohanake pācittiya’’.
-445.Yopanā…pe…bhikkhū…pe….
-Anvaddhamāsa.
-Pātimokkhe uddissamāne.
-Evaṃvadeyyā–‘‘’’–‘‘,’’,.
+444.‘‘–‘,’.,bhiyyoti (syā.),,,–‘,,,,aṭṭhikatvā (syā. ka.)’.’’.
+445.…pe……pe….
+.
+.
+–‘‘’’–‘‘,’’,.
 ,,,,,.,,.–
 446.‘‘,,..,..
 ‘‘,,...,;,.
@@ -1377,102 +1377,102 @@ Evaṃvadeyyā–‘‘’’–‘‘,’’,.
 Mohanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Pahārasikkhāpadaṃ
 449....–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-450.‘‘Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya, pācittiya’’.
-451.Yo panā…pe…bhikkhū…pe….
-Bhikkhussā.
-Kupito anattamano.
-Pahāraṃ dadeyyā,.
+450.‘‘,’’.
+451.…pe……pe….
+.
+.
+,.
 452.,.,.,.
 ,.,.,.,.
 453.,,.
 Pahārasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Talasattikasikkhāpadaṃ
 454....–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-455.‘‘Yo pana bhikkhu bhikkhussa kupito anattamano talasattikaṃ uggireyya, pācittiya’’.
-456.Yopanā…pe…bhikkhū…pe….
-Bhikkhussā.
-Kupito anattamano.
-Talasattikaṃuggireyyā,.
+455.‘‘,’’.
+456.…pe……pe….
+.
+.
+,.
 457.,.,.,.
 ,.,.,.,.
 458.,,.
 Talasattikasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Amūlakasikkhāpadaṃ
 459...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-460.‘‘Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya, pācittiya’’.
-461.Yopanā…pe…bhikkhū…pe….
-Bhikkhu.
-Amūlakaṃ.
-Saṅghādisesenā.
-Anuddhaṃseyyā,.
+460.‘‘,’’.
+461.…pe……pe….
+.
+.
+.
+,.
 462.,.,.,.
 ,.,.,.,.,.
 463.,,,.
 Amūlakasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Sañciccasikkhāpadaṃ
 464..–‘‘,,–‘’..’’?.–‘‘,,’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,…pe…,,–
-465.‘‘Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya uppādeyya (itipi) – ‘itissa muhuttampi aphāsu bhavissatī’ti etadeva paccayaṃ karitvā anaññaṃ, pācittiya’’.
-466.Yo panā…pe…bhikkhū…pe….
-Bhikkhussā.
-Sañciccā.
-Kukkuccaṃ upadaheyyā‘‘,,,’’,.
-Etadevapaccayaṃ karitvā, anañña.
+465.‘‘uppādeyya (itipi)–‘’,’’.
+466.…pe……pe….
+.
+.
+‘‘,,,’’,.
+,.
 467.,.,.,.
 ,.,.,.,.
 468.‘‘,,,,,’’,,.
 Sañciccasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Upassutisikkhāpadaṃ
 469...–‘‘,,.’’.–‘‘,,’’?‘‘,,’’?‘‘upassuti (?)’’.…pe…–‘‘upassuti (?)’’…pe…,,upassuti (?)?‘‘,’’.…pe…,,upassuti (?),,…pe…,,–
-470.‘‘Yo pana bhikkhu bhikkhūnaṃ bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannānaṃ upassutiṃ tiṭṭheyya – ‘yaṃ ime bhaṇissanti taṃ sossāmī’ti etadeva paccayaṃ karitvā anaññaṃ, pācittiya’’.
-471.Yopanā…pe…bhikkhū…pe….
-Bhikkhūna.
-Bhaṇḍanajātānaṃ kalahajātānaṃ vivādāpannāna.
-Upassutiṃ tiṭṭheyyā‘‘’’,.,.,.,.,.,.,,,.
-Etadeva paccayaṃ karitvā anañña.
+470.‘‘–‘’,’’.
+471.…pe……pe….
+.
+.
+‘‘’’,.,.,.,.,.,.,,,.
+.
 472.,.,.,.
 ,.,.,.,.
 473.–‘‘vūpasamessāmi (sī.)’’,,.
 Upassutisikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Kammapaṭibāhanasikkhāpadaṃ
 474.....–‘‘,,,’’..–‘‘,,’’?‘‘,,’’.‘‘,,–‘‘’’.‘‘’’,’’.…pe…–‘‘khiyyadhammaṃ (itipi)’’…pe…,,khiyyadhammaṃ (itipi)?‘‘,’’.…pe…,,khiyyadhammaṃ (itipi),,…pe…,,–
-475.‘‘Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā pacchā khīyanadhammaṃ āpajjeyya, pācittiya’’.
-476.Yopanā…pe…bhikkhū…pe….
-Dhammikaṃkammaṃ,..
+475.‘‘,’’.
+476.…pe……pe….
+,..
 477.,.,.,.,.,.,.
 478.–‘‘’’,,.
 Kammapaṭibāhanasikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Chandaṃadatvāgamanasikkhāpadaṃ
 479....‘‘’’.–‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-480.‘‘Yo pana bhikkhu saṅghe vinicchayakathāya vattamānāya chandaṃ adatvā uṭṭhāyāsanā pakkameyya, pācittiya’’.
-481.Yopanā…pe…bhikkhū…pe….
-Saṅghe vinicchayakathā,,.
-Chandaṃ adatvā uṭṭhāyāsanā pakkameyyā–‘‘’’,...
+480.‘‘,’’.
+481.…pe……pe….
+,,.
+–‘‘’’,...
 482.,.,.,.,.,.,.
 483.–‘‘’’,‘‘’’,‘‘’’,,,,‘‘’’,,.
 Chandaṃ adatvā gamanasikkhāpadaṃ niṭṭhitaṃ dasamaṃ.
 11. Dubbalasikkhāpadaṃ
 484......–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,,…pe…,,–
-485.‘‘Yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā pacchā khīyanadhammaṃ āpajjeyya ‘yathāsanthutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī’ti, pācittiya’’.
-486.Yopanā…pe…bhikkhū…pe….
-Samaggo.
-Cīvaraṃ.
-Datvā.
-Yathāsanthutaṃ.
-Saṅghikaṃ.
-Lābho,,,.
-Pacchākhīyanadhammaṃ āpajjeyyā,.
+485.‘‘‘’,’’.
+486.…pe……pe….
+.
+.
+.
+.
+.
+,,,.
+,.
 487.,.,.,.
 ,.,.,.,.,.,.
 488.–‘‘’’,,.
 Dubbalasikkhāpadaṃ niṭṭhitaṃ ekādasamaṃ.
 12. Pariṇāmanasikkhāpadaṃ
 489.idaṃ vatthu pārā. 657.–‘‘’’.;–‘‘,’’.‘‘,,.’’.‘‘,,,bhaddā (ka.)..,?,’’..‘‘’’–‘‘,’’.‘‘,.’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-490.‘‘Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ puggalassa pariṇāmeyya, pācittiya’’.
-491.Yo panā…pe…bhikkhū…pe….
-Jānāti,,.
-Saṅghikaṃ.
-Lābho,,,.
-Pariṇataṃ‘‘’’,,.
+490.‘‘,’’.
+491.…pe……pe….
+,,.
+.
+,,,.
+‘‘’’,,.
 492.,.,.,.,.,.,.,.,.,.
 493.–‘‘’’–‘‘’’,,.
 Pariṇāmanasikkhāpadaṃ niṭṭhitaṃ dvādasamaṃ.
@@ -1496,136 +1496,136 @@ Tassuddānaṃ –
 ‘‘,,.–‘‘.’’.,,.
 ‘‘,,.–‘‘‘.’’.,,.
 ‘‘,,rajjanīyāni (ka.),.,,.,,’’.…pe…,,–
-498.‘‘Yo pana bhikkhu rañño khattiyassa muddhāvasittassa muddhābhisittassa (syā.) anikkhantarājake aniggataratanake pubbe appaṭisaṃvidito indakhīlaṃ atikkāmeyya, pācittiya’’.
-499.Yo panā…pe…bhikkhū…pe….
-Khattiyo,,.
-Muddhāvasitto.
-Anikkhantarājake.
-Aniggataratanake,.
-Pubbe appaṭisaṃvidito.
-Indakhīlo.
-Sayanigharaṃ,.
-Indakhīlaṃ atikkāmeyyā,.,.
+498.‘‘muddhābhisittassa (syā.),’’.
+499.…pe……pe….
+,,.
+.
+.
+,.
+.
+.
+,.
+,.,.
 500.,.,.,.
 ,.,.,.
 501.,,,,,,,,.
 Antepurasikkhāpadaṃ niṭṭhitaṃ paṭhamaṃ.
 2. Ratanasikkhāpadaṃ
 502....–‘‘,’’.–‘‘,,’’?‘‘,’’.–‘‘’’‘‘,,,’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiya’’.
+‘‘,’’.
 .
 503...‘‘’’–‘‘,’’–‘‘,,’’.;.....‘‘,,’’.–‘‘,,–‘‘’’.,,–
-‘‘Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā, aññatra ajjhārāmā, uggaṇheyya vā uggaṇhāpeyya vā, pācittiya’’.
+‘‘,,,’’.
 .
 504..–‘‘’’...;–‘‘,,’’..–‘‘,’’.–‘‘’’.–‘‘,,’’?..–‘‘,,–’’.,,–
-505.‘‘Yo pana bhikkhu ratanaṃ vā ratanasammataṃ vā, aññatra ajjhārāmā vā ajjhāvasathā vā, uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṃ. Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ – ‘yassa bhavissati so harissatī’ti. Ayaṃ tattha sāmīcī’’.
-506.Yo panā…pe…bhikkhū…pe….
-Ratanaṃlohitako (?).
-Ratanasammataṃ,.
-Aññatra ajjhārāmā vā ajjhāvasathā vā.
-Ajjhārāmo,.
-Ajjhāvasatho,.
-Uggaṇheyyā,.
-Uggaṇhāpeyyā,.
-Ratanaṃ vā pana bhikkhunā ratanasammataṃ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabba–‘‘’’.–‘‘,’’?,‘‘’’.,.,,.
-Ayaṃ tattha sāmīcī.
-507.–‘‘bhavissati so harissatī’’ti, ratanasammataṃ vissāsaṃ gaṇhāti,,,,.
+505.‘‘,,,.–‘’.’’.
+506.…pe……pe….
+lohitako (?).
+,.
+.
+,.
+,.
+,.
+,.
+–‘‘’’.–‘‘,’’?,‘‘’’.,.,,.
+.
+507.–‘‘’’,,,,,.
 Ratanasikkhāpadaṃ niṭṭhitaṃ dutiyaṃ.
 3. Vikālagāmappavisanasikkhāpadaṃ
 508..,–imā tiracchānakathāyo dī. 1.17; ma. ni. 2.223; saṃ. ni. ; a. ni. 10.69itthikathaṃ purisakathaṃ (ka.) majjhimapaṇṇāsaṭṭhakathā 156 piṭṭhe oloketabbā.–‘‘,–…pe…,’’
 .…pe…–‘‘,–…pe…’’…pe…,,,–…pe…?‘‘,’’.…pe…,,,–…pe…,,…pe…,,–
-‘‘Yopana bhikkhu vikāle gāmaṃ paviseyya, pācittiya’’.
+‘‘,’’.
 .
 509..–‘‘,’’.–‘‘’’....–‘‘,,.,,–
-‘‘Yopana bhikkhu anāpucchā vikāle gāmaṃ paviseyya, pācittiya’’.
+‘‘,’’.
 .
 510..–‘‘,’’.–‘‘’’....–‘‘,,.,,–
-‘‘Yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā vikāle gāmaṃ paviseyya, pācittiya’’.
+‘‘,’’.
 .
 511..‘‘’’.–‘‘’’…pe….–‘‘,,.,,–
-512.‘‘Yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā vikāle gāmaṃ paviseyya, aññatra tathārūpā accāyikā karaṇīyā, pācittiya’’.
-513.Yo panā…pe…bhikkhū…pe….
-Santo.
-Asanto.
-Vikālo.
-Gāmaṃ paviseyyā..
-Aññatra tathārūpā accāyikā karaṇīyā.
+512.‘‘,,’’.
+513.…pe……pe….
+.
+.
+.
+..
+.
 514.,,.,,.,,.
 ,.,.,.
 515.,,,,,,,,,,.
 Vikālagāmappavisanasikkhāpadaṃ niṭṭhitaṃ tatiyaṃ.
 4. Sūcigharasikkhāpadaṃ
 516..–‘‘’’....,,.–‘‘,,’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-517.‘‘Yo pana bhikkhu aṭṭhimayaṃ vā dantamayaṃ vā visāṇamayaṃ vā sūcigharaṃ kārāpeyya bhedanakaṃ, pācittiya’’.
-518.Yo panā…pe…bhikkhū…pe….
-Aṭṭhi.
-Danto.
-Visāṇaṃ.
-Kārāpeyyā,..
+517.‘‘,’’.
+518.…pe……pe….
+.
+.
+.
+,..
 519.,.pariyosāvāpeti (ka.),.,.pariyosāvāpeti (ka.),.
 ,.,.
 520.gaṇḍikāya (syā.),,vīṭhe (sī.), vīthe (syā.),,,,,,.
 Sūcigharasikkhāpadaṃ niṭṭhitaṃ catutthaṃ.
 5. Mañcapīṭhasikkhāpadaṃ
 521.....–‘‘,,’’.–‘‘,,’’.…pe…,,–
-522.‘‘Navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena aṭṭhaṅgulapādakaṃ kāretabbaṃ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā; taṃ atikkāmayato chedanakaṃ pācittiya’’.
-523.Navaṃ.
-Mañco–,,,.
-Pīṭhaṃ–,,,.
-Kārayamānenā.
-Aṭṭhaṅgulapādakaṃkāretabbaṃ sugataṅgulena, aññatra heṭṭhimāyaaṭaniyā;,,.
+522.‘‘,;’’.
+523..
+–,,,.
+–,,,.
+.
+,;,,.
 524.,.,.,.,.
 ,.,.
 525.,,,,.
 Mañcapīṭhasikkhāpadaṃ niṭṭhitaṃ pañcamaṃ.
 6. Tūlonaddhasikkhāpadaṃ
 526...–‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-527.‘‘Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūlonaddhaṃ kārāpeyya, uddālanakaṃ pācittiya’’.
-528.Yo panā…pe…bhikkhū…pe….
-Mañco–,,,.
-Pīṭhaṃ–,,,.
-Tūlaṃ–,,.
-Kārāpeyyā,..
+527.‘‘,’’.
+528.…pe……pe….
+–,,,.
+–,,,.
+–,,.
+,..
 529.,.,.,.,.
 ,.,.
 530.,,,,,,,,.
 Tūlonaddhasikkhāpadaṃ niṭṭhitaṃ chaṭṭhaṃ.
 7. Nisīdanasikkhāpadaṃ
 531...–‘‘’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-‘‘Nisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ. Tatridaṃ pamāṇaṃ – dīghaso dve vidatthiyo, sugatavidatthiyā; tiriyaṃ diyaḍḍhaṃ. Taṃ atikkāmayato chedanakaṃ pācittiya’’.
+‘‘.–,;.’’.
 .
 532...–‘‘,,;’’?‘‘,,’’.–‘‘,,.,,–
-533.‘‘Nisīdanaṃ pana bhikkhunā kārayamānena pamāṇikaṃ kāretabbaṃ. Tatridaṃ pamāṇaṃ – dīghaso dve vidatthiyo, sugatavidatthiyā; tiriyaṃ diyaḍḍhaṃ. Dasā vidatthi. Taṃ atikkāmayato chedanakaṃ pācittiya’’.
-534.Nisīdanaṃ.
-Kārayamānenā.–,;..,..
+533.‘‘.–,;..’’.
+534..
+.–,;..,..
 535.,.,.,.,.
 ,.,.
 536.,,,,,.
 Nisīdanasikkhāpadaṃ niṭṭhitaṃ sattamaṃ.
 8. Kaṇḍuppaṭicchādisikkhāpadaṃ
 537...–‘‘’’;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-538.‘‘Kaṇḍuppaṭicchādiṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā. Tatridaṃ pamāṇaṃ – dīghaso catasso vidatthiyo, sugatavidatthiyā; tiriyaṃ dve vidatthiyo. Taṃ atikkāmayato chedanakaṃ pācittiya’’.
-539.Kaṇḍuppaṭicchādi,.
-Kārayamānenā..–,;.,..
+538.‘‘.–,;.’’.
+539.,.
+..–,;.,..
 540.,.,.,.,.
 ,.,.
 541.,,,,,.
 Kaṇḍuppaṭicchādisikkhāpadaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Vassikasāṭikāsikkhāpadaṃ
 542...–‘‘’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-543.‘‘Vassikasāṭikaṃ pana bhikkhunā kārayamānena pamāṇikā kāretabbā. Tatridaṃ pamāṇaṃ – dīghaso cha vidatthiyo, sugatavidatthiyā; tiriyaṃ aḍḍhateyyā. Taṃ atikkāmayato chedanakaṃ pācittiya’’.
-544.Vassikasāṭikā.
-Kārayamānenā..–,;.,..
+543.‘‘.–,;.’’.
+544..
+..–,;.,..
 545.,.,.,.,.
 ,.,.
 546.,,,,,.
 Vassikasāṭikāsikkhāpadaṃ niṭṭhitaṃ navamaṃ.
 10. Nandasikkhāpadaṃ
 547..bhagavato (ka.)...–‘‘’’.upagataṃ sañjānitvā (syā.), upagate sañjānitvā (sī.)–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
-548.‘‘Yo pana bhikkhu sugatacīvarappamāṇaṃ cīvaraṃ kārāpeyya atirekaṃ vā, chedanakaṃ pācittiyaṃ . Tatridaṃ sugatassa sugatacīvarappamāṇaṃ – dīghaso nava vidatthiyo, sugatavidatthiyā; tiriyaṃ cha vidatthiyo. Idaṃ sugatassa sugatacīvarappamāṇa’’.
-549.Yo panā…pe…bhikkhū…pe….
-Sugatacīvarappamāṇaṃsugatacīvaraṃ (ka.),;.
-Kārāpeyyā,..
+548.‘‘,.–,;.’’.
+549.…pe……pe….
+sugatacīvaraṃ (ka.),;.
+,..
 550.,.,.,.,.
 ,.,.
 551.,,,,.

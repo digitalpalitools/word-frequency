@@ -5,7 +5,7 @@ Nissandaphalavibhāgo
 ,.
 1793.
 ,;
-,kicca.
+,.
 1794.
 ,;
 ,.
@@ -25,7 +25,7 @@ Nissandaphalavibhāgo
 ,;
 ,.
 1800.
-,paṭivedho;
+,;
 ,.
 1801.
 ,,
@@ -65,7 +65,7 @@ Nissandaphalavibhāgo
 -.
 1813.
 ,;
-Sattapuggalabhedañca,.
+,.
 1814.
 ,;
 ,.
@@ -91,19 +91,19 @@ Sattapuggalabhedañca,.
 ,
 ;
 ,
-Sotāpanno.
+.
 1822.
 ,;
-Sakadāgāmi,.
+,.
 1823.
 ,;
 ,.
 1824.
-Anāgāmī,arahā;
-,maggaṭṭhā.
+,;
+,.
 1825.
 ,;
-,aṭṭha cāriyapuggalā.
+,.
 1826.
 ,;
 ,.
@@ -112,22 +112,22 @@ Anāgāmī,arahā;
 ,.
 1828.
 ,;
-Klesahāni-.
+-.
 1829.
-Paṭisambhidā catasso,;
+,;
 ,.
 1830.
 ,;
-,attha.
+,.
 1831.
 ,;
-,dhammo.
+,.
 1832.
 ,;
-,niruttī.
+,.
 1833.
 -;
-,paṭibhānaṃ.
+,.
 1834.
 ,
 ;
@@ -140,7 +140,7 @@ Paṭisambhidā catasso,;
 ,;
 ,.
 1837.
-samāpatti,;
+,;
 ,.
 1838.
 ,;
@@ -159,7 +159,7 @@ samāpatti,;
 ,.
 1843.
 ,;
-,nirodho.
+,.
 1844.
 ,;
 ,.
@@ -182,7 +182,7 @@ Niṭṭhito ca sabbathāpi vipassanāvibhāgo.
 Nigamanakathā
 1848.
 ,;
-Nāmarūpaparicchedo,.
+,.
 1849.
 ,;
 ,.

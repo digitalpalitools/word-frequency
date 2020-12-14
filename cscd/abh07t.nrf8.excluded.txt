@@ -2,20 +2,20 @@
 1.,.
 ,.
 Samathakammaṭṭhānaṃ
-2.samathasaṅgahe,,,,,,.
+2.,,,,,,.
 Caritabhedo
 3..
 Bhāvanābhedo
 4..
 Nimittabhedo
 5..
-6.?dasa kasiṇāni.
-7.dasa asubhā.
-8.dasa anussatiyo.
-9.catasso appamaññāyo,.
-10.ekā saññā.
-11.ekaṃ vavatthānaṃ.
-12.cattāro āruppā.
+6.?.
+7..
+8..
+9.,.
+10..
+11..
+12..
 Sappāyabhedo
 13..
 14..
@@ -25,7 +25,7 @@ Sappāyabhedo
 18.,,.
 Ayamettha sappāyabhedo.
 Bhāvanābhedo
-19.Bhāvanāsu,,.
+19.,,.
 20..
 21..
 22..
@@ -34,7 +34,7 @@ Bhāvanābhedo
 25..
 Ayamettha bhāvanābhedo.
 Gocarabhedo
-26.Nimittesu.
+26..
 27.,.
 28.?,.
 29.,,,.
@@ -57,21 +57,21 @@ Ayamettha gocarabhedo.
 Niṭṭhito ca samathakammaṭṭhānanayo.
 Vipassanākammaṭṭhānaṃ
 Visuddhibhedo
-43.Vipassanākammaṭṭhāne.
+43..
 44..
 45..
 46..
 47.,,.
 48..
-49.?sīlavisuddhi.
-50.cittavisuddhi.
-51.diṭṭhivisuddhi.
-52.kaṅkhāvitaraṇavisuddhi.
+49.?.
+50..
+51..
+52..
 53.‘‘,,’’–
 ‘‘,;
 ’’.–
-maggāmaggañāṇadassanavisuddhi.
-54.paṭipadāñāṇadassanavisuddhi.
+.
+54..
 55.‘‘’’.
 56.,.
 57.,.
@@ -80,7 +80,7 @@ maggāmaggañāṇadassanavisuddhi.
 60.,.
 ,.
 ,;
-Ñāṇadassanavisuddhi,.
+,.
 Ayamettha visuddhibhedo.
 Vimokkhabhedo
 61..
@@ -92,14 +92,14 @@ Vimokkhabhedo
 67.,.
 Ayamettha vimokkhabhedo.
 Puggalabhedo
-68.sotāpanno.
-69.sakadāgāmī.
-70.anāgāmī.
-71.arahā.
+68..
+69..
+70..
+71..
 Ayamettha puggalabhedo.
 Samāpattibhedo
-72.Phalasamāpattivīthiyaṃ.
-73.Nirodhasamāpattisamāpajjanaṃ,,,.
+72..
+73.,,,.
 74.,,.
 Ayamettha samāpattibhedo.
 Niṭṭhito ca vipassanākammaṭṭhānanayo.
@@ -111,9 +111,9 @@ Navamo paricchedo.
 Nigamanaṃ
 (Ka),
 ;
-Nampa,
+,
 .
-(Kha)mūlasomaṃ;
+(Kha);
 ;
 ,
 .
@@ -133,21 +133,21 @@ Abhidhammatthavibhāvinīṭīkā
 (Ṅa),;
 ,.
 
-1.‘‘sammāsambuddha’’.
-‘‘…pe…’’ratanattayapaṇāmo,’’abhidheyyakaraṇappakārapakaraṇābhidhānāni,,.Payojanaṃ,.
-,.‘‘’’(pārā. aṭṭha. 1.ganthārambhakathā).,....samudāyattho.avayavattho–.
-sammā sambuddho,..‘‘’’(mahāva. 11; ma. ni. 1.285; 2.341; dha. pa. 353),,.‘‘’’.,.,atulo,,atulo.‘‘,,…pe…’’(a. ni. 4.34; 5.32; itivu. 90).
-.hetusampadā.Phalasampadā.,ñāṇasampadā.pahānasampadā.ānubhāvasampadā.rūpakāyasampadā.Sattūpakāro.,āsayo.payogo.
+1.‘‘’’.
+‘‘…pe…’’,’’,,.,.
+,.‘‘’’(pārā. aṭṭha. 1.ganthārambhakathā).,.....–.
+,..‘‘’’(mahāva. 11; ma. ni. 1.285; 2.341; dha. pa. 353),,.‘‘’’.,.,,,.‘‘,,…pe…’’(a. ni. 4.34; 5.32; itivu. 90).
+...,.....,..
 ‘‘’’,,‘‘’’,,.
-‘‘sasaddhammagaṇuttama’’.‘‘’’.
-,,,.,,,,.,,,,,,,sasaddhammagaṇuttamaṃ.
-Abhivādiyā,.Bhāsissa.,,,,abhidhammatthasaṅgahaṃ.
+‘‘’’.‘‘’’.
+,,,.,,,,.,,,,,,,.
+,..,,,,.
 
-2.,‘‘tattha vuttā’’.Tatthasabbathā,vuttāparamatthatocittaṃ,cetasikaṃ,,nibbānaṃcatudhā.,paramattho.
-cittaṃ,.‘‘’’(dha. sa. aṭṭha. 1 dhammudesavāraphassapañcamakarāsivaṇṇanā).,.cittaṃ.cittaṃ..,.,,..–
+2.,‘‘’’.,,,,.,.
+,.‘‘’’(dha. sa. aṭṭha. 1 dhammudesavāraphassapañcamakarāsivaṇṇanā).,....,.,,..–
 ‘‘,;
 ,;
 ,’’.
-cetasikaṃ.,.‘‘’’(dha. pa. 1-2),.cetasikaṃ.
-rūpaṃ,,.‘‘,’’(saṃ. ni. 3.79),.?.‘‘’’,,.,?,,,.
-,nibbānaṃ.
+.,.‘‘’’(dha. pa. 1-2),..
+,,.‘‘,’’(saṃ. ni. 3.79),.?.‘‘’’,,.,?,,,.
+,.

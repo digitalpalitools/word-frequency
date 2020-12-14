@@ -48,7 +48,7 @@ Kasiṇāsubhavibhāgo
 -
 .
 895.
-,dhutaṅgānīti terasa;
+,;
 -.
 896.
 ,;
@@ -102,7 +102,7 @@ Kasiṇāsubhavibhāgo
 -;
 ,.
 911.
-Ṭhānāniṭṭhārasetāni,;
+,;
 ,.
 912.
 ,;
@@ -126,7 +126,7 @@ Kasiṇāsubhavibhāgo
 ,;
 ,.
 919.
-,kāmā;
+,;
 ,.
 920.
 ,;
@@ -248,7 +248,7 @@ Kasiṇāsubhavibhāgo
 ,;
 ,.
 959.
-Iti sādīnavā,;
+,;
 ,.
 960.
 ,;

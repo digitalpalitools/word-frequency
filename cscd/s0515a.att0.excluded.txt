@@ -10,11 +10,7 @@ Mahāniddesa-aṭṭhakathā
 ,.
 ,;
 ,.
-Sāriputto,;
 ,;
-,.
-sāriputtaṃ,;
-,.
 ,;
 ,.
 ,;
@@ -23,12 +19,16 @@ sāriputtaṃ,;
 ,.
 ,;
 ,.
-,mahāniddesavaṇṇanaṃ;
+,;
 ,.
 ,;
-saddhammapajotikaṃ,.
-‘‘pāṭho visiṭṭho niddeso, taṃnāmavisesito cā’’–,...,.
-‘‘’’(pe. va. 802; jā. 1.4.54; netti. 120).sanaso,.‘‘’’(mahāva. 14; vibha. 203; ma. ni. 3.374; paṭi. ma. 2.30).‘‘’’(dha. sa. dukamātikā 109; su. ni. 878; mahāni. 107; cūḷani. ajitamāṇavapucchāniddeso 6; netti. 45)..,.‘‘’’.‘‘?,,.’’(vibha. 431; saṃ. ni. 5.813; dī. ni. 3.306; a. ni. 4.276)..‘‘?’’(vibha. 433)..‘‘,’’(dha. sa. 1)‘‘.’’.,‘‘,,,’’.
+,.
+,;
+,.
+,;
+,.
+‘‘,’’–,...,.
+‘‘’’(pe. va. 802; jā. 1.4.54; netti. 120).,.‘‘’’(mahāva. 14; vibha. 203; ma. ni. 3.374; paṭi. ma. 2.30).‘‘’’(dha. sa. dukamātikā 109; su. ni. 878; mahāni. 107; cūḷani. ajitamāṇavapucchāniddeso 6; netti. 45)..,.‘‘’’.‘‘?,,.’’(vibha. 431; saṃ. ni. 5.813; dī. ni. 3.306; a. ni. 4.276)..‘‘?’’(vibha. 433)..‘‘,’’(dha. sa. 1)‘‘.’’.,‘‘,,,’’.
 ,‘‘,,’’.‘‘‘,’’’.
 ,‘‘,,’’(mahāva. 54; saṃ. ni. 4.28).‘‘,,?,,,’’(mahāva. 54; saṃ. ni. 4.28)‘‘’’.
 ,‘‘’’(dha. sa. 1).‘‘?’’(dha. sa. 1).
@@ -43,7 +43,7 @@ saddhammapajotikaṃ,.
 ..–
 ‘‘,;
 ,’’.
-desakassā,.Hitānvito.,,,,,,–
+,..,,,,,,–
 ‘‘,;
 ,’’.(a. ni. 7.37; netti. 113);
 ‘‘,’’.
@@ -53,7 +53,7 @@ desakassā,.Hitānvito.,,,,,,–
 ‘‘;
 ,’’.–
 .
-,mahāniddesaṃ.
+,.
 ,.
 ,,.
 ‘‘,;

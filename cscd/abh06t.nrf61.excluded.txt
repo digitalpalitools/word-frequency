@@ -5,7 +5,7 @@
 ,.
 755.
 ;
-,kalāpā ekavīsati.
+,.
 756.
 -;
 ,.
@@ -14,7 +14,7 @@
 .
 758.
 ;
-Nave,.
+,.
 759.
 ,;
 ,.
@@ -25,17 +25,17 @@ Nave,.
 ;
 .
 762.
-,cha;
+,;
 ,.
 763.
 ,;
 ,.
 764.
 ,;
-,catudhāva.
+,.
 765.
 ,;
-,dve.
+,.
 766.
 ;
 ,.
@@ -52,8 +52,8 @@ Nave,.
 ,;
 ,.
 771.
-Dhammasaṅgaṇiyaṃ,;
-,paṭṭhāne.
+,;
+,.
 772.
 ,
 ;
@@ -79,10 +79,10 @@ Dhammasaṅgaṇiyaṃ,;
 ,.
 779.
 -;
-sattakā dvidhā.
+.
 780.
 ,;
-,chakkāpi sattadhā.
+,.
 781.
 ,
 ;
@@ -91,27 +91,27 @@ sattakā dvidhā.
 782.
 ,
 ;
-pañcakā,
-Navakā.
+,
+.
 783.
 ,;
 ,.
 784.
 -;
-,catukkā cha.
+,.
 785.
 ,
 ;
 ,
-tayo tikā.
+.
 786.
 ,;
-,dukātividhā.
+,.
 787.
 ,;
-,cattāro ekakā.
+,.
 788.
-Catuttiṃsa,;
+,;
 ,.
 789.
 ;

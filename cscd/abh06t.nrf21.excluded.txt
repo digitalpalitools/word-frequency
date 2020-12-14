@@ -2,7 +2,7 @@
 Paṭipadāñāṇadassanavisuddhiniddeso
 1298.
 ,;
-paṭipadāñāṇa-dassana.
+-.
 1299.
 ,;
 ,.
@@ -26,7 +26,7 @@ paṭipadāñāṇa-dassana.
 ,.
 1306.
 ,;
-Saccānulomañāṇa,.
+,.
 1307.
 ,;
 ,.
@@ -41,13 +41,13 @@ Saccānulomañāṇa,.
 ,.
 1311.
 ,;
-,parikamma.
+,.
 1312.
 ,;
-,upacāra.
+,.
 1313.
 ,;
-,anuloma.
+,.
 1314.
 ,;
 ,.
@@ -56,7 +56,7 @@ Saccānulomañāṇa,.
 -.
 1316.
 ‘‘,’’;
-,gotrabhu.
+,.
 1317.
 ,;
 ,.

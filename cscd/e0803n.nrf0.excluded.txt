@@ -12,8 +12,6 @@ Saddanītippakaraṇaṃ (padamālā)
 ,;
 ,.
 ,;
-,saddanīti.
-,;
 ,.
 ,;
 ,.
@@ -26,7 +24,9 @@ Saddanītippakaraṇaṃ (padamālā)
 ,;
 ,.
 ,;
-sadda-nītiṃ.
+,.
+,;
+-.
 -;
 ,.
 -;

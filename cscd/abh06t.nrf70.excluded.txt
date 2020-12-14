@@ -4,7 +4,7 @@
 ;
 ,.
 1115.
-Nāmapaññatti,;
+,;
 .
 1116.
 ;
@@ -86,16 +86,16 @@ Ekūnatiṃsatimo paricchedo.
 Niṭṭhito ca sabbathāpi paññattivibhāgo.
 Nigamanakathā
 1141.
-kañcivare,kāveri;
+,;
 ,.
 1142.
-Anuruddhena therena,;
-,tañja.
+,;
+,.
 1143.
-saṅghavisiṭṭhena,;
+,;
 ,.
 1144.
-,paramatthavinicchayaṃ;
+,;
 
 ,.
 Iti anuruddhācariyena racito

@@ -4,19 +4,19 @@
 2.,.
 ,.
 Rūpasamuddeso
-3.,duvidhampetaṃ rūpaṃ.
-4.?bhūtarūpaṃ.
-5.pasādarūpaṃ.
-6.gocararūpaṃ.
-7.bhāvarūpaṃ.
-8.hadayarūpaṃ.
-9.jīvitarūpaṃ.
-10.āhārarūpaṃ.
+3.,.
+4.?.
+5..
+6..
+7..
+8..
+9..
+10..
 11..
-12.paricchedarūpaṃ.
-13.viññattirūpaṃ.
-14.vikārarūpaṃ.
-15.lakkhaṇarūpaṃ.
+12..
+13..
+14..
+15..
 16..
 17.–
 ,;
@@ -26,20 +26,20 @@ Rūpasamuddeso
 Ayamettha rūpasamuddeso.
 Rūpavibhāgo
 18..
-19.?ajjhattikarūpaṃ,bāhirarūpaṃ.
-20.vatthurūpaṃ,avatthurūpaṃ.
-21.dvārarūpaṃ,.
-22.indriyarūpaṃ,anindriyarūpaṃ.
-23.oḷārikarūpaṃ santikerūpaṃ, sappaṭigharūpañca,sukhumarūpaṃ dūrerūpaṃ appaṭigharūpañca.
-24.upādinnarūpaṃ,anupādinnarūpaṃ.
-25.sanidassanarūpaṃ,anidassanarūpaṃ.
-26.,gocaraggāhikarūpaṃ,agocaraggāhikarūpaṃ.
-27.avinibbhogarūpaṃ,vinibbhogarūpaṃ.
+19.?,.
+20.,.
+21.,.
+22.,.
+23.,,.
+24.,.
+25.,.
+26.,,.
+27.,.
 28.-.
 ,.
 Ayamettha rūpavibhāgo.
 Rūpasamuṭṭhānanayo
-29.cattāri rūpasamuṭṭhānāni.
+29..
 30..
 31..
 32..
@@ -59,11 +59,11 @@ Rūpasamuṭṭhānanayo
 ,.
 Ayamettha rūpasamuṭṭhānanayo.
 Kalāpayojanā
-45.ekavīsati rūpakalāpā.
-46....nava kammasamuṭṭhānakalāpā.
-47.,,,,,cha cittasamuṭṭhānakalāpā.
-48.cattāro utusamuṭṭhānakalāpā.
-49.dveāhārasamuṭṭhānakalāpā.
+45..
+46.....
+47.,,,,,.
+48..
+49..
 50.,.
 51.-.
 ,.
@@ -87,7 +87,7 @@ Rūpapavattikkamo
 ,.
 Ayamettha rūpapavattikkamo.
 Nibbānabhedo
-62.Nibbānaṃ.
+62..
 63..
 64..
 65.,.

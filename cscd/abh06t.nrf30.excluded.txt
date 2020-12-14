@@ -29,7 +29,7 @@ Pakiṇṇakavibhāgo
 .
 220.
 ,;
-kiccabhedena,.
+,.
 221.
 -;
 ,.
@@ -79,7 +79,7 @@ kiccabhedena,.
 ,;
 ,.
 237.
-dvārabhedena,;
+,;
 ,.
 238.
 ;
@@ -107,7 +107,7 @@ dvārabhedena,;
 ,.
 246.
 ,;
-,mālambaṇe.
+,.
 247.
 -;
 ,.
@@ -127,7 +127,7 @@ dvārabhedena,;
 ,;
 ,.
 253.
-vatthubhedena,;
+,;
 ,.
 254.
 ,;
@@ -194,7 +194,7 @@ vatthubhedena,;
 ,.
 275.
 ,;
-bhūmibhedena,.
+,.
 276.
 ,;
 ,.
@@ -212,7 +212,7 @@ bhūmibhedena,.
 ,.
 281.
 ,;
-,puggalesu ayaṃ nayo.
+,.
 282.
 ,;
 ,.
@@ -221,7 +221,7 @@ bhūmibhedena,.
 ,.
 284.
 ,;
-,cutisandhinayaṃ naye.
+,.
 285.
 ,;
 ,.
@@ -306,7 +306,7 @@ bhūmibhedena,.
 ,.
 312.
 ,;
-Paraṃ saṅgaha,.
+,.
 313.
 -;
 ,.
@@ -329,8 +329,8 @@ Paraṃ saṅgaha,.
 ,;
 ,.
 319.
-,pubbasaṅgaho;
-ṭhānabhedo,.
+,;
+,.
 320.
 ,;
 ,.
@@ -345,7 +345,7 @@ Paraṃ saṅgaha,.
 ,.
 324.
 ,;
-,janakasaṅgaho.
+,.
 325.
 ,;
 ,.

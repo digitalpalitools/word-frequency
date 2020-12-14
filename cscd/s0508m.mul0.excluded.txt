@@ -118,7 +118,7 @@ dha. pa. 80, 145 dhammapadepi‘‘,damayanti (ka.);
 10. Ajitattheragāthā
 20.
 ‘‘,;
-,sampajāno’’patissatoti (sī. syā.);;
+,’’patissatoti (sī. syā.);;
 … Ajito thero ….
 Vaggo dutiyo niṭṭhito.
 –
@@ -139,12 +139,12 @@ sītavātakadditakalitā (sī.), sītavātakalitā (syā.),jhānaṃ (syā.), jh
 3. Gosālattheragāthā
 23.
 ‘‘,;
-,khandhānaṃ udayabbayaṃ;
+,;
 ,’’.
 … Gosālo thero….
 4. Sugandhattheragāthā
 24.
-‘‘,passa dhammasudhammataṃ;
+‘‘,;
 ,’’.
 … Sugandho thero….
 5. Nandiyattheragāthā
@@ -186,7 +186,7 @@ Vaggo tatiyo niṭṭhito.
 1. Gahvaratīriyattheragāthā
 31.
 ‘‘,;
-,sato tatrādhivāsaye’’ti.
+,’’.
 … Gahvaratīriyo thero….
 2. Suppiyattheragāthā
 32.
@@ -271,7 +271,7 @@ saṃ. ni. 1.239‘‘,;
 6. Samiddhittheragāthā
 46.
 ‘‘,;
-Sati paññā,;
+,;
 ,’’bādhayissasīti (sī.), byāthayissasīti (?).
 … Samiddhitthero….
 7. Ujjayattheragāthā
@@ -308,7 +308,7 @@ Vaggo pañcamo niṭṭhito.
 2. Subāhuttheragāthā
 52.
 ‘‘,;
-Cittaṃ susamāhitañca kāye,’’.
+,’’.
 … Subāhutthero….
 3. Valliyattheragāthā
 53.

@@ -10,8 +10,8 @@ Dasāvatthāvibhāgo
 ,;
 -.
 1645.
-vatthāpabhedena, dasadhāpi;
-,tidhā saṅgahitā.
+,;
+,.
 1646.
 ;
 ,.
@@ -20,16 +20,16 @@ vatthāpabhedena, dasadhāpi;
 .
 1648.
 ,;
-,vimokkhattaya.
+,.
 1649.
 ,;
 ,.
 1650.
-,sīlavisuddhiyā;
-,cittavisuddhiyaṃ.
+,;
+,.
 1651.
 ,;
-Diṭṭhikaṅkhāvitaraṇaṃ,.
+,.
 1652.
 ,;
 ,.
@@ -39,11 +39,11 @@ Diṭṭhikaṅkhāvitaraṇaṃ,.
 ,
 .
 1654.
-,rūpasattakato;
+,;
 ,.
 1655.
 ,;
-,nāmasattakato.
+,.
 1656.
 ,;
 ,.
@@ -58,7 +58,7 @@ Diṭṭhikaṅkhāvitaraṇaṃ,.
 ,.
 1660.
 ,;
-sammasana.
+.
 1661.
 ,;
 ,.
@@ -144,7 +144,7 @@ sammasana.
 ,.
 1686.
 ,;
-Maggāmaggavisuddhī,.
+,.
 1687.
 ;
 ,.
@@ -153,7 +153,7 @@ Maggāmaggavisuddhī,.
 ,.
 1689.
 ,;
-Udayabbayañāṇa,.
+,.
 1690.
 ,;
 ,.
@@ -194,7 +194,7 @@ Udayabbayañāṇa,.
 ,;
 ,.
 1703.
-Bhaṅgañāṇaṃ,;
+,;
 ,.
 1704.
 ,;
@@ -222,7 +222,7 @@ Bhaṅgañāṇaṃ,;
 ,.
 1712.
 ,;
-Bhayañāṇa,.
+,.
 1713.
 ,;
 .
@@ -271,7 +271,7 @@ Bhayañāṇa,.
 ;
 ,.
 1728.
-,ñāṇamādīnavaṃ;
+,;
 .
 1729.
 ,;
@@ -290,7 +290,7 @@ Bhayañāṇa,.
 ,.
 1734.
 ,;
-,nibbidāñāṇa.
+,.
 1735.
 ,;
 ,.
@@ -323,7 +323,7 @@ Bhayañāṇa,.
 ,.
 1745.
 ,;
-Muccitukamyatāñāṇa.
+.
 1746.
 ,;
 ,.
@@ -343,8 +343,8 @@ Muccitukamyatāñāṇa.
 ,;
 ,.
 1752.
-,paṭisaṅkhānupassanā-
-Ñāṇa,.
+,-
+,.
 1753.
 ,;
 ,.
@@ -380,7 +380,7 @@ Muccitukamyatāñāṇa.
 ,.
 1764.
 ,;
-?Saṅkhārupekkhāñāṇaṃ.
+?.
 1765.
 ,;
 ,.
@@ -412,7 +412,7 @@ Muccitukamyatāñāṇa.
 ,.
 1774.
 ,;
-,sānulomā.
+,.
 1775.
 ,;
 ,.
@@ -444,10 +444,10 @@ Muccitukamyatāñāṇa.
 -;
 ,.
 1785.
-maggo,;
+,;
 ,.
 1786.
-,phalāni;
+,;
 ,.
 1787.
 ,;

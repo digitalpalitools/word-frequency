@@ -1,30 +1,30 @@
 ﻿1. Savikaraṇākhyātavibhāga
-dhātū?,,,‘‘,’’,.dhātu.
-Dhātu,;
+?,,,‘‘,’’,..
+,;
 ,.
-‘‘’’dhātu‘‘’’pabbata,‘‘’’‘‘’’..?......a.kha cha sā.,.
-,paccayā;
+‘‘’’‘‘’’,‘‘’’‘‘’’..?........,.
+,;
 ,.
 ,;
 ,.
 ,;
 ,’.
-‘‘’’.?a,akārivaṇṇekārokāra,,ya,ṇu ṇā uṇā,nā,ppa ṇhā,o yira,ṇe ṇaya.
-Ai,eyo;
-Ṇu ṇā uṇānā ppa ṇhā-yirā ṇe ṇaya.
+‘‘’’.?,,,,,,,,.
+,;
+-.
 ,’;
 ,.
-,bhūvādigaṇo. Bhū,bhū.,‘‘’’bhū.pariabhi,upa parā pātu..
+,.,.,‘‘’’.,..
 Suddhakattukriyāpadaniddesa
-,,.pātu,‘‘’’āvi tirobhū,.U,,.,akammakāni..,,,,,,,.pari,bhū.,sakammakāni.,...
-bhavatī.Ubbhavatī.Samubbhavatī.Pabhavatī.pabhavatī,,,.Parābhavatī.Sambhavatī.Vibhavatī,.Bhoti sambhoti vibhotī‘‘’’.Pātubhavatī.Pātubbhavati pātubhotī‘‘’’...
-Paribhoti,.paribhoti paribhavatī,.Abhibhoti abhibhavatī.Adhibhoti adhibhavatī.Atibhoti atibhavatī.Anubhoti anubhavatī.Samanubhoti samanubhavatī.Abhisambhoti abhisambhavatī....
-A,;
+,,.,‘‘’’,.,,.,..,,,,,,,.,.,.,...
+....,,,...,.‘‘’’..‘‘’’...
+,.,..........
+,;
 ,.
 Ayaṃ suddhakattukriyāpadānaṃ niddeso.
 Hetukattukriyāpadaniddesa
 ,...,..,.
-bhāvetī,bhāvetī.Vibhāvetī,,vibhāvetī.Sambhāvetī.Paribhāvetī..paribhāvetī.E.Paribhāvāpetī,paribhāvāpetī.Abhibhāvāpetī.Anubhāvāpetī.
+,.,,......,...
 ,;
 ,.
 ,;
@@ -32,14 +32,14 @@ bhāvetī,bhāvetī.Vibhāvetī,,vibhāvetī.Sambhāvetī.Paribhāvetī..paribh�
 ,‘‘’’;
 ‘‘’’,;
 ,.
-,.?Paribhāvāpetī,paribhāvāpetī..,.
+,.?,..,.
 Ayaṃ hetukattukriyāpadānaṃ niddeso.
 Kammakriyāpadaniddesa
 ,....
-bhaviyate,bhaviyate.Vibhaviyate,,vibhaviyate.Paribhaviyate,paribhaviyate.Abhibhaviyate.Anubhaviyate.Paribhūyate‘‘’’.,.,.,.,.,.?,,,..,,..,.,,.
+,.,,.,...‘‘’’.,.,.,.,.,.?,,,..,,..,.,,.
 Ayaṃ kammuno kriyāpadānaṃ niddeso.
 Bhāvakriyāpadaniddesa
-,..ṭhīyate,.,.,,...‘‘’’‘‘’’,‘‘’’.‘‘’’.Saccasaṅkhepa,niddesapāḷiyaṃ,dhajaggasuttante’.
+,..,.,.,,...‘‘’’‘‘’’,‘‘’’.‘‘’’.,,’.
 ,,
 ‘‘’’,.
 ‘‘,’’;
@@ -52,19 +52,19 @@ Bhāvakriyāpadaniddesa
 ,;
 ,.
 ,,,,,,,.–
-Vibhaviyyatī,;
+,;
 ,.
 ,;
 -.
 ,‘‘’’;
 ,,.
-,vibhavati;
-ya,.
-,ya;
+,;
 ,.
-bhū,;
+,;
 ,.
-‘‘’’,ya;
+,;
+,.
+‘‘’’,;
 ,.
 ,;
 ,.
@@ -96,7 +96,7 @@ bhū,;
 ,;
 ,.
 Ayaṃ bhāvassa kriyāpadānaṃ niddeso.
-,,bhū,..,,....,.,....,,.,...
+,,,..,,....,.,....,,.,...
 ,;
 ,.
 ‘‘,;
@@ -111,13 +111,13 @@ Ayaṃ bhāvassa kriyāpadānaṃ niddeso.
 ..
 –
 ,;
-,bhū.
+,.
 ‘‘-’’;
 ,.
 ,;
 ,.
 ,;
-Bhū,.
+,.
 ‘‘,’’;
 ,.
 ,;
@@ -150,12 +150,12 @@ Bhū,.
 ,.
 ‘‘,’’;
 ‘‘,’’.
-bhavati,;
+,;
 ,.
 ,;
 ,.
 ‘‘,;
-’’,niddese.
+’’,.
 ‘‘’’,;
 ‘‘’’,.
 ,;
@@ -166,7 +166,7 @@ bhavati,;
 ,.
 ,;
 ,.
-Bhū,;
+,;
 ,.
 ,
 ;
