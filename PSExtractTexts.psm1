@@ -2,7 +2,7 @@ $rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
 
 $nodeBackList = "hi", "pb", "note"
 
-$wordBlackList = @() # "paṇṇāsakaṃ"
+$wordBlackList = @("paṇṇāsakaṃ")
 
 $sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…]"
   | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }

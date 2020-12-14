@@ -155,18 +155,18 @@ Describe "Get-TextFromNode" {
       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
-#     It "Lines with blacklisted words removed e.g. paṇṇāsakaṃ" {
-#       $text = @"
-# <p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> tīsu bhante paṇṇāsakesu mūlapaṇṇāsakaṃ nāma pāvacanaṃ dhammasaṃgāhakā mahātheravarā paṭhamaṃ saṃgāyiṃsu.</p>
-# "@
-#       $xml = Get-XmlNodeFromString -String $text
+    It "Lines with blacklisted words removed e.g. paṇṇāsakaṃ" {
+      $text = @"
+<p rend="bodytext"><hi rend="bold">Vissajjanā –</hi> tīsu bhante paṇṇāsakesu mūlapaṇṇāsakaṃ nāma pāvacanaṃ dhammasaṃgāhakā mahātheravarā paṭhamaṃ saṃgāyiṃsu.</p>
+"@
+      $xml = Get-XmlNodeFromString -String $text
 
-#       $expectedIncluded = ""
-#       $expectedExcluded = "Vissajjanā – tīsu bhante paṇṇāsakesu mūlapaṇṇāsakaṃ nāma pāvacanaṃ dhammasaṃgāhakā mahātheravarā paṭhamaṃ saṃgāyiṃsu."
+      $expectedIncluded = ""
+      $expectedExcluded = "Vissajjanā – tīsu bhante paṇṇāsakesu mūlapaṇṇāsakaṃ nāma pāvacanaṃ dhammasaṃgāhakā mahātheravarā paṭhamaṃ saṃgāyiṃsu."
 
-#       $xml.Node
-#       | Get-TextFromNode
-#       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
-#     }
+      $xml.Node
+      | Get-TextFromNode
+      | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
+    }
   }
 }
