@@ -49,7 +49,7 @@ Naggādubbaṇṇarūpāsī.,..
 ‘‘,;
 ,’’.
 104.abhikkantenā,.Vaṇṇenā.Obhāsentī disā sabbā.‘‘osadhī viya tārakā’’.,‘‘’’,.
-105.Kenā.,.Te.Etādiso,.Kena te idha mijjhatī.Uppajjantī.Bhogā‘‘’’.Ye kecī.‘‘’’.Manaso piyā,.
+105.Kenā-.,.Te.Etādiso,.Kena te idha mijjhatī.Uppajjantī.Bhogā‘‘’’.Ye kecī.‘‘’’.Manaso piyā,.
 106.Pucchāmī,.Ta.Devī,.‘‘’’.Manussabhūtā..,.
 –
 107.
@@ -110,7 +110,7 @@ Naggā dubbaṇṇarūpāsī...,.–‘‘,’’.‘‘’’,‘‘’’.‘�
 ‘‘,;
 ,.
 119.
-‘‘;
+‘‘-;
 ,.
 120.
 ‘‘,;
@@ -119,7 +119,7 @@ Naggā dubbaṇṇarūpāsī...,.–‘‘,’’.‘‘’’,‘‘’’.‘�
 ‘‘,;
 ,’’.–;
 117.ahaṃ te sakiyā mātā.Pubbe aññāsu jātīsū,,.Upapannā pettivisaya.Khuppipāsasamappitā,.
-118-119.Chaḍḍita,.Khipita.Kheḷa.Siṅghāṇika.Silesuma.Vasañca ḍayhamānāna.Vijātānañca lohita,.Vaṇikāna.Ya.Ghānasīsacchinnāna,.‘‘’’,.‘‘’’.Khudāparetā.Itthipurisanissita.
+118-119.Chaḍḍita,.Khipita.Kheḷa.Siṅghāṇika.Silesuma.Vasañca ḍayhamānāna.Vijātānañca lohita,-.Vaṇikāna.Ya.Ghānasīsacchinnāna,.‘‘’’,.‘‘’’.Khudāparetā.Itthipurisanissita.
 120-121.Pasūna.Aleṇā.Anagārā.Nīlamañcaparāyaṇā.nīlā,.Anvādisāhime,.Appeva nāma mucceyyaṃ, pubbalohitabhojanā.
 .‘‘,,’’..‘‘,’’‘‘’’.,....,.–
 122.
@@ -507,7 +507,7 @@ Naggo dubbaṇṇarūposī....,,,,..
 230-231.paṇṇāna.Erakaccha.Tatthā.Pure.Dhanapāloti maṃ vidū‘‘’’.‘‘asītī’’.asīti sakaṭavāhāna,..Pahūtaṃ me jātarūpa.
 232-233.Name dātuṃ piyaṃ ahū.Mā maṃ yācanakāddasu‘‘’’.Kadariyo.Paribhāsako.Dadantānaṃ karontāna,.Bahū jane.vārayissaṃ.
 234-236.Vipāko natthi dānassā.vipāko natthi dānassā,.Saṃyamassā.Kuto phala,.Ārāmānī.Papāyo.Dugge.Saṅkamanānī. Tato cuto.Pañcapaṇṇāsā.Yato kālaṅkato aha,.Nābhijānāmī.
-237-38.Yo saṃyamo so vināso,.‘‘’’.Petā hi kira jānantī,.‘‘’’,...–‘‘ahaṃ pure saṃyamissa’’.saṃyamissa.Bahuke dhane.
+237-38.Yo saṃyamo so vināso,.‘‘’’.Petā hi kira jānantī-,-.‘‘’’,...–‘‘ahaṃ pure saṃyamissa’’.saṃyamissa.Bahuke dhane.
 243.Ta.Vo.Bhaddaṃ vo.Yāvantettha samāgatā,.Āvī.Raho.Āvi vā,yadi vā rahopāpakaṃkammaṃ mākattha.
 244.Sace taṃ pāpakaṃ kammakarissatha,vā karotha,pamuttinatthi. Uppaccāpi palāyata.‘‘Upeccā’’,,.–
 ‘‘,;
@@ -1171,7 +1171,7 @@ Ahu rājā brahmadatto.....‘‘,,’’‘‘,,’’.
 ‘‘,;
 ,’’.–;
 383-4.tassā.Subhāsita,.Pabbajitā santā,.Mettacitta..Brahmalokūpapattiyā,..
-385-6.Gāmāgāma.Ābhāvetvā.‘‘Abhāvetvā’’,.Itthicittaṃ virājetvā.Brahmalokūpagā..
+385-6.Gāmāgāma.Ābhāvetvā.‘‘Abhāvetvā’’,-.Itthicittaṃ virājetvā.Brahmalokūpagā..
 ...
 Ubbaripetavatthuvaṇṇanā niṭṭhitā.
 Iti khuddaka-aṭṭhakathāya petavatthusmiṃ

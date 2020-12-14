@@ -91,7 +91,7 @@ anupacinantā.Pakkamantī,,,,,,.
 ,’’.–
 .
 gacche vā,,,,,.Maraṇaṃ vā,.,,,.Ruccate,.Sā katha,cetayānassa.
-Pakkhimā.Ubhinna.Yaṃ nāna.Kañcanadepiñchā,,.Tamasā.Gata,.na,‘‘’’.–,,.
+Pakkhimā.Ubhinna.Yaṃ nāna-.Kañcanadepiñchā,,.Tamasā.Gata,.na-,‘‘’’.–,,.
 Dhammo apacito santo.Atthaṃ dassetī.Apekkhāno.Dhammā cattha.Bhatti.dhammo.Yo mitto,.Viditā.Kāmaṃ karassū.Api tvevaṃ gate kāle.Paramasaṃvuta.
 Iccevaṃ mantayantāna‘‘,’’ariyāna.Paccadissathā.Āturāna.Abhisañcikkhā,,.Hitā.Na sañcalesumāsanā,.‘‘’’.
 Dhataraṭṭhe.Samuḍḍente.Āsajjā.Paccakamitthā‘‘,’’,.Āsajja baddhamāsīna.Adīnava.Vimato,.Paṇḍare,,.Pavaḍḍhakāye.Yaṃ nū.Na kurute disa,.Balī.Pakkhī.Ohāyā.Yantī.Avahīyasī.
@@ -232,7 +232,7 @@ Tassā.Sukhena cā.Ettheva hī.Evaṃ gato.Janayeyyātha maddava.Upāyana.Sabbas
 rājāna.Vakkaṅgo.Dhammena manusāsasī.Doso.Tavatthesū.Nāvakaṅkhantī,.Sādisī.Assavā.Puttarūpayasūpetā.Tava chandavasānugā,.
 –
 64.
-‘‘;
+‘‘-;
 ,.
 65.
 ‘‘,;
@@ -589,7 +589,7 @@ ta.Khema.Ghuṭṭha.Dasadhā.Ogayhā.Pahūtaṃ cādana.Idaṃ sutvānātavanti
 150.
 ‘‘,;
 ,’’.
-nāparajjhāmā,.Lobhāva maggahi.Paṇḍitātyatthā.Atthacintakā.Atthavati.Tathā.Vutto.Sumukha, maggahī,,ma.Aggahī.
+nāparajjhāmā,.Lobhāva maggahi.Paṇḍitātyatthā.Atthacintakā.Atthavati.Tathā.Vutto.Sumukha, maggahī,,ma-.Aggahī.
 ‘‘,’’–
 151.
 ‘‘,;
@@ -1054,7 +1054,7 @@ dhammenā.Ñāyenā.Na hi yācanā sudhā,.Taṃ ta.Yañcicchasī,,.Kañcanavell
 ,.
 268.
 ‘‘,’’.
-jutīmatā.Pāvisi yassama,ya.Udakavanta.Phala.Ariyapūjita.Rukkhaggahānā.Sobhañjanā.Loddamathopi paddhakā.Kekā ca bhaṅgā.Karerī.Uddālakā.Mucalindaketakā.Hareṇukā.Veḷukā.Keṇū.Tindukā.Cīnakā.Mocā.Sāliyo.Pavīhayo.Ābhūjino.Taṇḍulā.
+jutīmatā.Pāvisi yassama,ya-.Udakavanta.Phala.Ariyapūjita.Rukkhaggahānā.Sobhañjanā.Loddamathopi paddhakā.Kekā ca bhaṅgā.Karerī.Uddālakā.Mucalindaketakā.Hareṇukā.Veḷukā.Keṇū.Tindukā.Cīnakā.Mocā.Sāliyo.Pavīhayo.Ābhūjino.Taṇḍulā.
 Tassevā,,.Pokkharaṇī.Akakkasā.Apabbhārā.Appaṭigandhikā.Tatthā.Khemino.‘‘Siṅgū’’.Kuṇālakā.Citrā.Sikhaṇḍī,.Pānāya māyantī.Palāsādā.Gavajā.Gaṇino.Kaṇṇikā.Chamāgirī.Pupphavicitrasanthatā.Dijābhighuṭṭhā..
 –
 269.
@@ -1146,7 +1146,7 @@ Evamakkhāyatī.–..–‘‘,,,’’.–‘‘,,’’.‘‘’’?‘‘’
 ‘‘,,.,,,,,’’.......‘‘,’’.–‘‘’’.
 ‘‘,,’’.‘‘,’’.‘‘’’?‘‘,’’.‘‘,’’?‘‘,’’.,,.,..,..
 –‘‘,’’.,,,,,.–‘‘,’’?‘‘,,,,,.’’.‘‘,,’’?‘‘,,’’–
-‘‘,,,’’.
+‘‘,---,,’’.
 ‘‘,,,,,’’.
 ‘‘‘,’.
 ‘‘‘’.
@@ -1156,17 +1156,17 @@ Evamakkhāyatī.–..–‘‘,,,’’.–‘‘,,’’.‘‘’’?‘‘’
 ‘‘‘’.
 ‘‘,,,,,,,,,.
 ‘‘,,‘,’’’.
-–,.?.sabbosadhadharaṇidhare,.,..Nekapupphamālyavitate.Rurū.Uddārā.Biḷārā.Nelamaṇḍalaṃ.Mahāvarāhā,.Issamigā.Vātamigā.Pasadamigā.Purisālū.Kimpurisā.Amajjavamañjarīdharapahaṭṭhapupphaphusitaggānekapādapagaṇavitate.Vāraṇā.Celāvakā.Hemañca kanakañcā..Bho.Citto.
+–,.?.sabbosadhadharaṇidhare,.,..Nekapupphamālyavitate.Rurū.Uddārā.Biḷārā.Nelamaṇḍalaṃ.Mahāvarāhā,.Issamigā.Vātamigā.Pasadamigā.Purisālū.Kimpurisā-.Amajjavamañjarīdharapahaṭṭhapupphaphusitaggānekapādapagaṇavitate.Vāraṇā.Celāvakā.Hemañca kanakañcā..Bho.Citto.
 Aḍḍhuḍḍhānī,.Addhānapariyāyapathe.Ubbāhetthā.Upapphusī.Pahāraṃ adaṃsū‘‘’’.Saṅgamesī.Saṇhāhī.Sakhilāhī.Mañjūhī.Madhurāhī.Samudācarantiyo.Anekarukkhavividhavikatiphala.Ārāmeneva ārāma.Uyyānā.Nāḷikerasañcāriyenevā.Atisambhontī.
 Divasaṃ paribyūḷho.Apasādetī‘‘’’.‘‘’’.nassathā.Vinassathā.coriyo,dhuttiyo,asatiyo,lahucittāyo,katassa appaṭikārikāyo.
 ‘‘,,,’’...‘‘,,,’’–
 ‘‘,,’’.
 ,,,susukhumasunipuṇagirippabhavaharitupayantiyo,.
 ,–
-‘‘’’.
+‘‘-’’.
 uppala.Nalina.Satapatta.Sampatī.
 –
-‘‘–,,.
+‘‘---–,,.
 ‘‘,,.,,‘’.
 ‘‘‘,’.
 ‘‘‘’.
@@ -1180,7 +1180,7 @@ uppala.Nalina.Satapatta.Sampatī.
 ‘‘–‘,,,,’..
 ‘‘,,,.,,–‘,’.,–‘’.‘,,’.–‘,’,–‘,,’.‘,,’.
 ‘‘,,.,,’’.
-piyakā.Hasanāha,.Tirīṭī.Candanā.Oghavane.Devadārukacocagahane.Kaccikārā.Kaṇikārā.Kaṇṇikārā.Kiṃsukā.Yodhikā.Vanamallikamanaṅgaṇamanavajjabhaṇḍisurucirabhaginimālāmalyadhare.Dhanutakkārī.Tālīsā.Kacchavitate.Saṃkusumitalatā.Gaṇādhivuṭṭhe.Puṇṇamukho.phussakokilo. Vilāsitanayano.Mattakkho,,.
+piyakā.Hasanāha-,.Tirīṭī.Candanā.Oghavane.Devadārukacocagahane.Kaccikārā.Kaṇikārā.Kaṇṇikārā.Kiṃsukā.Yodhikā.Vanamallikamanaṅgaṇamanavajjabhaṇḍisurucirabhaginimālāmalyadhare.Dhanutakkārī.Tālīsā.Kacchavitate.Saṃkusumitalatā.Gaṇādhivuṭṭhe.Puṇṇamukho.phussakokilo. Vilāsitanayano.Mattakkho,,.
 Bhaginiyo.Paricareyyāthā..,.‘‘atha khalu, bho’’.Sammā.Āgammā.Labheyyāmā.Appeva nāmā,.Sujātāna.
 Nassā.Jammā.Viyatto.Jāyājinenā,..Tatoyevā‘‘’’,.
 Appeva nāmā,.Tumha.Appeva nāmā,..Tenupasaṅkamī,.Ha,‘‘,’’.‘‘’’‘‘haṃ sammā’’.Pāyāpesī.Paṭippassambhī.
@@ -1219,7 +1219,7 @@ gilānavuṭṭhita.Diṭṭhā mayā..,,‘‘,’’..‘‘’’.–‘‘,,
 ..,–‘‘,’’.–‘‘,,’’..‘‘,’’.
 .,..–‘‘,,’’,.–‘‘,’’...–‘‘,,’’–‘‘’’?‘‘,’’.‘‘’’?‘‘’’.‘‘,’’?‘‘,’’.‘‘,’’?‘‘’’.‘‘’’..
 –‘‘,,’’‘‘’’..‘‘diṭṭhā mayā’’.
-dvepitikā.Pañcapatikāyā,ya.Paṭibandhantiyā.Kabandhe,.Pañca maticcā.Khujjavāmanakenā.
+dvepitikā.Pañcapatikāyā,ya-.Paṭibandhantiyā.Kabandhe,.Pañca maticcā.Khujjavāmanakenā.
 ‘‘diṭṭhā’’.–,.‘‘’’..–‘‘’’–‘‘,,’’–‘‘,,’’.‘‘,,,’’.‘‘’’..
 –‘‘,,,,’’...‘‘’’.‘‘’’.‘‘’’..–‘‘,’’–‘‘,,,’’–‘‘’’–‘‘,’’.‘‘,,’’?‘‘’’...‘‘’’‘‘’’‘‘’’‘‘’’.‘‘’’‘‘,,’’‘‘’’–‘‘,,,,,,,’’.–‘‘,,,’’.‘‘,’’....‘‘diṭṭhā mayā’’.
 kākavatījātakavaṇṇanāyaṃ(jā. aṭṭha. 3.4.kākavatījātakavaṇṇanā)..‘‘diṭṭhā mayā’’.
@@ -1302,7 +1302,7 @@ Daliddatā.......,,.‘‘,’’.,,‘‘’’.Muddhapatta.
 Padosamāharatī,.Ārāmagamanasīlā‘‘’’.‘‘’’..Parakula.‘‘,,’’.Nillokanasīlā.Sadvāraṭṭhāyinī.
 Accācaratī,.Vijambhatī‘‘,’’‘‘’’.Vinamatī.Vilasatī.Vilajjatī,.Nakhenā,.Kaṭṭhenā.Dāraka.Kīḷatī,.Cumbanā.Dadātī.Yācatī.Anukarotī.Ucca.Nīca.Avicca.Vivicca.Naccenā..Jagghatī,.Kaccha.Upalikhatī.Sirasa.,.
 Paduṭṭhā veditabbā bhavatī,.Pavāsa‘‘,,’’.Anattha.Akicca.Paridahitvā.Parivattakajātā.Kuṅkumiyajātā,,,.Dukkhaṃ vedayatī.Vilomamācaratī.Nihatabhogā.Santhava.Nikkhantapādā.Sāmike.
-Sabbitthiyo.Labhamāne,.Nivātake.Khaṇaṃ vā rahovā.Kayiruṃ nūnū.Alatthā.,.Ārāmakarāsū.Aniggahāsū.Titthasamā,.
+Sabbitthiyo.Labhamāne,.Nivātake.Khaṇaṃ vā rahovā.Kayiruṃ nūnū-.Alatthā.,.Ārāmakarāsū.Aniggahāsū.Titthasamā,.
 .....,.....
 –‘‘’’.‘‘,’’.‘‘,,’’.‘‘,’’‘‘,,’’.–‘‘’’.–‘‘,’’?‘‘,,’’.‘‘,,,’’.‘‘,,’’?‘‘,,’’.
 ‘‘’’‘‘’’...‘‘’’.‘‘,,’’..‘‘’’..‘‘’’.‘‘’’,.–‘‘’’?‘‘’’.‘‘’’.‘‘’’.‘‘’’–‘‘,,’’.–‘‘,,.,,’’.
@@ -2019,7 +2019,7 @@ paṭissuṇāmā‘‘,,,,’’.
 478.
 ‘‘,;
 ,’’.
-tumhe ca vovo.
+tumhe ca vovo-.
 ‘‘,,’’...,‘‘,’’‘‘’’...,‘‘,’’..,.,.,.
 ‘‘’’‘‘’’‘‘,,’’.‘‘,,,’’.‘‘,,,’’.‘‘,,,‘,,’,‘’,,,,,’’‘‘’’.,‘‘,,,,,,’’‘‘’’‘‘,’’–
 479.

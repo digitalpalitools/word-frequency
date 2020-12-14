@@ -1,6 +1,6 @@
 ﻿1. Dhammasaṅgaṇīmātikā
 Tikapadatthavaṇṇanā
-abhidhammassa mātikāabhidhammo?.‘‘,(saṃ. ni. 4.87; 5.195, 1022; ma. ni. 3.384, 389),’’(saṃ. ni. 1.1; khu. pā. 5.1; su. ni. maṅgalasutta; vi. va. 857),,,,,,,‘‘’’.,,.‘‘’’.
+abhidhammassa mātikāabhidhammo?.-‘‘,(saṃ. ni. 4.87; 5.195, 1022; ma. ni. 3.384, 389),’’(saṃ. ni. 1.1; khu. pā. 5.1; su. ni. maṅgalasutta; vi. va. 857),,,,,,,‘‘’’.,,.‘‘’’.
 mātikā?..,,,,,,,‘‘’’.,,,.dhammasaṅgaṇippakaraṇe.,,,..
 vibhaṅgappakaraṇe,..
 dhātukathāpakaraṇaṃ‘‘’’.
@@ -18,9 +18,9 @@ Kusalattikavaṇṇanā
 ,;
 ,.
 atthatokusalā dhammākusala.‘‘,’’(jā. 1.15.246; 2.20.129).‘‘,,?,,’’(ma. ni. 2.361).‘‘’’(ma. ni. 2.87).‘‘’’(dha. sa. 431)..,..
-Dhamma.‘‘’’(a. ni. 4.102).‘‘’’(vibha. 720).‘‘,’’(theragā. 304).‘‘’’(dī. ni. 2.373),.
+Dhamma-.‘‘’’(a. ni. 4.102).‘‘’’(vibha. 720).‘‘,’’(theragā. 304).‘‘’’(dī. ni. 2.373),.
 –kusalā.,.,.,.,.,,.,,.akusalā,.abyākatā,.,,.
-,?,‘‘’’‘‘’’.,,‘‘’’.,.‘‘’’,...?,?,‘‘’’,,,,..,...
+,?,‘‘’’‘‘’’.,,‘‘’’.,.‘‘’’,...?,?,‘‘’’,,-,,.---.,...
 Kusalapadattho
 Bhūmibhedā–..
 Sampayogato..?,.,.,.,.,,,.,,,..
@@ -36,7 +36,7 @@ Uddesato ca dhammāna.,.–..
 ,;
 ,.
 ,;
-.
+-.
 ,;
 ,.
 ,;
@@ -79,7 +79,7 @@ tatramajjhattatā.,,,,..
 karuṇā,,.,,,.,,muditā.,,,.
 ?...,.kāyaduccaritavirati..,,,,..
 Saṅgahā,–.,,,.
-,,?.,‘‘’’..
+,,?.-,‘‘’’..
 –.manāyatanaṃ,dhammāyatana...manoviññāṇadhātu,dhammadhātū..
 .‘‘’’,.,?,,,.,,.,?,.‘‘’’(paṭṭhā. 1.1.15),‘‘’’..
 .‘‘’’,‘‘’’..
@@ -288,9 +288,9 @@ Vedanāttikādivaṇṇanā
 ‘‘…pe…’’,.,‘‘’’,,–
 ,;
 ,.
-‘‘’’.‘‘’’(dī. ni. 1.232; dha. sa. 165; vibha. 594).‘‘’’(dha. pa. 194).‘‘,,’’(saṃ. ni. 3.60).‘‘,,,’’(a. ni. 7.62; itivu. 22).‘‘,,,(ma. ni. 3.255).,’’(saṃ. ni. 1.11).‘‘’’(ma. ni. 1.82).‘‘’’(dha. pa. 203-204; ma. ni. 215, 217)..
-‘‘’’(ma. ni. 3.208)..‘‘’’(dī. ni. 1.232; dha. sa. 165; vibha. 594).‘‘’’(dī. ni. 2.387; vibha. 190).‘‘,,’’(saṃ. ni. 3.60).‘‘’’(dha. pa. 117).‘‘,,,’’(ma. ni. 3.250)..
-–,,sukhā,.dukkhā,.adukkhamasukhā,...vedanā.,–sampayuttā,?‘‘’’(kathā. 473)....padatthato.
+‘‘’’-.‘‘’’(dī. ni. 1.232; dha. sa. 165; vibha. 594).‘‘’’(dha. pa. 194).‘‘,,’’(saṃ. ni. 3.60).‘‘,,,’’(a. ni. 7.62; itivu. 22).‘‘,,,(ma. ni. 3.255).,’’(saṃ. ni. 1.11).‘‘’’(ma. ni. 1.82).‘‘’’(dha. pa. 203-204; ma. ni. 215, 217)..
+-‘‘’’(ma. ni. 3.208).-.‘‘’’(dī. ni. 1.232; dha. sa. 165; vibha. 594).‘‘’’(dī. ni. 2.387; vibha. 190).‘‘,,’’(saṃ. ni. 3.60).‘‘’’(dha. pa. 117).‘‘,,,’’(ma. ni. 3.250)..
+–,,sukhā,.dukkhā,.adukkhamasukhā,.-..vedanā.-,–sampayuttā,?‘‘’’(kathā. 473)....padatthato.
 Taṃsarūpā.,,.,..,.,.,.,..,,,,,...
 Navattabbavibhāgato‘‘’’‘‘’’‘‘’’.,..,.,.,‘‘’’,.,..,..
 Vedanāttikaṃ niṭṭhitaṃ.
@@ -332,7 +332,7 @@ atītārammaṇā..
 .khaṇapaccuppannaṃ..,,rūpasantati.arūpasantati,santatipaccuppanna.addhāpaccuppannaṃ.....,.,,,.,.,,,,,,.
 ,,.,,.,.‘‘,’’aṭṭhakathāsu,paṭṭhāne‘‘’’(paṭṭhā. 1.1.404).
 ,.,.,.,,,....
-‘‘’’ajjhattā..‘‘’’(dha. pa. 362).‘‘’’(dī. ni. 2.373).‘‘’’(ma. ni. 3.304).‘‘’’(ma. ni. 3.187),..,.,.
+‘‘’’ajjhattā.-.‘‘’’(dha. pa. 362).‘‘’’(dī. ni. 2.373).‘‘’’(ma. ni. 3.304).‘‘’’(ma. ni. 3.187),..,.,.
 ,,.,.‘‘,’’,..
 .,,,,,,.,,,.,...
 ,,sanidassanasappaṭighā,..,anidassanasappaṭighā,.,anidassanaappaṭighā,..
@@ -356,7 +356,7 @@ rūpino,,rūpino,.arūpino,..
 ,lokiyā,.lokuttarā,.,..
 Kenaciviññeyyā.Kenaci na viññeyyā..Padabhājanīyasmimpi‘‘,’’(dha. sa. 1101)‘‘,,,’’(dha. sa. 1101).,.......,.,.,.,.,...
 Cūḷantaradukā niṭṭhitā.
-āsavā,…pe…,.,āsavā,,.ā.āsavā.,.āsavā.no āsavā.
+āsavā,…pe…,.,āsavā,,.ā-.āsavā.,.āsavā.no āsavā.
 .kāmāsavo.Aṭṭhasāliniyaṃ‘‘’’(dha. sa. aṭṭha. 1102),‘‘,’’(dha. sa. aṭṭha. 1105),‘‘,’’.Pāḷiyaṃ‘‘’’(dha. sa. 1465),‘‘’’(paṭṭhā. 3.3.1),.‘‘’’(yama. 2.anusayayamaka.2),.,‘‘,’’,‘‘,’’.Padabhājanīye‘‘’’(dha. sa. 1103)aṭṭhasāliniyaṃ‘‘’’(dha. sa. a. 1103),,.mahāniddese–
 ‘‘?…pe…,,…pe….
 ‘‘?…pe……pe…’’(mahāni. 1).
@@ -422,7 +422,7 @@ ajjhattikā..bāhirā.,..
 ,upādā,.no upādā,..
 ,upādinnā.,anupādinnā...
 Mahantaradukā niṭṭhitā.
-upādānā,.‘‘’’.no upādānā..kāmupādānaṃ..attavādupādānaṃ...,..no upādānā..
+upādānā,.-‘‘’’.no upādānā..kāmupādānaṃ..attavādupādānaṃ...,..no upādānā..
 ..
 ,upādānasampayuttā.,,upādānavippayuttā.,,...
 upādānā ceva upādāniyā ca.upādāniyā ceva nocaupādānā....

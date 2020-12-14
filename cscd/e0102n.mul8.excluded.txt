@@ -38,13 +38,13 @@ Cattārīsākāraanupassanākathā
 ,
 ‘‘.’’(paṭi. ma. 3.38),
 ..
-698.?,aniccato.,dukkhato.,rogato.,,gaṇḍato.,,sallato.,,aghato.,ābādhato.,parato.palokato.ītito.,upaddavato.,bhayato.,,upasaggato.calato.pabhaṅguto.,addhuvato.,atāṇato.,aleṇato.asaraṇato.rittato.,.suññato.anattato.,ādīnavato,,,ādīnavato.vipariṇāmadhammato.,asārakato.aghamūlato.vadhakato.,vibhavato.sāsavato.saṅkhatato.mārāmisato.jāti-jarā-byādhi-maraṇadhammato.soka-paridevaupāyāsadhammato.saṃkilesikadhammato.
+698.?,aniccato.,dukkhato.,rogato.,,gaṇḍato.,,sallato.,,aghato.,ābādhato.,parato.palokato.ītito.,upaddavato.,bhayato.,,upasaggato.calato.pabhaṅguto.,addhuvato.,atāṇato.,aleṇato.asaraṇato.rittato.,.---suññato.anattato.,ādīnavato,,,ādīnavato.vipariṇāmadhammato.,asārakato.aghamūlato.vadhakato.,vibhavato.sāsavato.saṅkhatato.mārāmisato.--jāti-jarā-byādhi-maraṇadhammato.--soka-paridevaupāyāsadhammato.saṃkilesikadhammato.
 ,,,,,,,,,aniccānupassanāni.,,,,anattānupassanāni.,dukkhānupassanānī.
 ..
 Indriyatikkhakāraṇanavakakathā
 699.,‘‘–,,,,,,,,’’pathavīkasiṇaniddese,..
 Rūpanibbattipassanākārakathā
-700.–..,.,.
+700.–..--,.,.
 ,.–‘‘,,,,,’’(a. ni. 1.48)...,.,,.....
 ...,..
 701.,,,,,.kammaṃ.Kammasamuṭṭhānaṃ,.Kammapaccayaṃ,.Kammapaccayacittasamuṭṭhānaṃ.Kammapaccayaāhārasamuṭṭhānaṃ,.Kammapaccayautusamuṭṭhānaṃ,.kammajarūpassa nibbatti.
@@ -80,7 +80,7 @@ mandadasakaṃ,.khiḍḍādasakaṃ,.vaṇṇadasakaṃ,.baladasakaṃ,.paññ�
 uddharaṇaṃ.Atiharaṇaṃ.Vītiharaṇaṃ.Vossajjanaṃ.Sannikkhepanaṃ.Sannirumbhanaṃ.,..,...
 ?–‘‘,,,......’’..
 711..‘‘’’?‘‘,’’.‘‘,’’.‘‘,.’’.
-‘‘’’.‘‘’’.‘‘’’.‘‘’’,.‘‘’’,,.‘‘’’.
+‘‘’’.‘‘’’.‘‘’’.‘‘’’,-.‘‘’’,,.‘‘’’.
 712..āhāramayaṃ rūpaṃ.,,..‘‘.,’’.
 713.Utumayaṃ...‘‘.,’’.
 714.Kammajaṃ.,....
@@ -126,7 +126,7 @@ diṭṭhisamugghāṭanaṃ.mānasamugghāṭanaṃ.nikantipariyādānaṃ..
 arūpasattakavasenā..
 722.,.
 .,,,,,,,,,,,,,,,,,.
-,.‘‘,,’’.‘‘,,’’.‘‘,,’’(paṭi. ma. 1.227)..
+,--.‘‘,,’’.‘‘,,’’.‘‘,,’’(paṭi. ma. 1.227)..
 ...,,.
 ,‘‘.’’.
 Udayabbayañāṇakathā

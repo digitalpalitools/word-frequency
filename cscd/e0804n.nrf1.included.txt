@@ -1,6 +1,6 @@
 ﻿
 ito paraṃ vaggantā missakā ceva dhātuyo
-vakkhāmi dhātubhedādi-kusalassa matānugā
+vakkhāmi dhātubhedādikusalassa matānugā
 
  yāti yanti yātu yantu yeyya yeyyuṃ anupariyeyyuṃ yathāsambhavaṃ padamālā yojetabbā yanto puriso yantī itthī yantaṃ kulaṃ yānaṃ upayānaṃ uyyānaṃ iccādīni gaṇikassa panassa yāyati yāyantītiādīni rūpāni bhavanti
 tatra ntiādīsu yanti etenāti yānaṃ rathasakaṭādi upayanti etena issarassa vā piyamanāpassa vā santikaṃ gacchantīti  paṇṇākāraṃ upayānāni me dajjuṃ rājaputta tayi gateti ettha hi paṇṇākārāni upayānānīti  vuccanti sampannadassanīyapupphaphalāditāya uddhaṃ olokentā yanti gacchanti etthāti 
@@ -101,7 +101,7 @@ api ataramānānaṃ phalāsāva samijjhati
 vipakkabrahmacariyosmi evaṃ jānāhi gāmaṇīti
 ettha ajjhāsayo brahmacariyanti vutto iccevaṃ 
 dānaṃ veyyāvaṭiyañca sikkhā brahmavihārakā
-dhammakkhānaṃ methunatā-virati ca uposatho
+dhammakkhānaṃ methunatāvirati ca uposatho
 sadāresu ca santoso ariyamaggo ca sāsanaṃ
 ajjhāsayo cime saddena vuccare
  hurati
@@ -342,7 +342,7 @@ ettha pana sīlādayo guṇe esantīti  buddhādayo ariyā tāpasapabbajjāya ca
 ettha ti kasikārako ti nabhaṃ tañhi na kassatīti  kasituṃ vilekhituṃ na sakkāti attho imāni tadabhidhānāni 
 ākāso ambaraṃ abbhaṃ antalikkhamaghaṃ nabhaṃ
 vehāso gaganaṃ devo khamādiccapathopi ca
-tārāpatho ca nakkhatta-patho ravipathopi ca
+tārāpatho ca nakkhattapatho ravipathopi ca
 vehāyasaṃ vāyupatho apatho anilañjasaṃ
  kasati sisati jasati jhasati vasati masati masako omasati omasavādo disati jusati yūsati
 tattha ti vijjhati ti paresaṃ sūciyā viya vijjhanavādo ti makaso
@@ -660,7 +660,7 @@ agamāgami gacchanti ādibhedaṃ mane kare
 idāni nāmikapadāni vuccante  gato gantā gacchaṃ gacchantī gacchantaṃ kulaṃ sahagataṃ gati gamanaṃ gamo āgamo avagamo gantabbaṃ gamanīyaṃ gammaṃ gammamānaṃ gamiyamānaṃ go mātugāmo hiṅgu jagu indagū medhago iccādīni kārite  gacchāpeti gacchāpayati gaccheti gacchayati gammeti kamme  gammati gamiyati adhigammati adhigamiyati mantāditte gantuṃ gamituṃ gantvā gantvāna gamitvā gamitvāna gamiya gamiyāna gamma āgamma āgantvā adhigamma adhigantvā iccādīni  dhātussa pana sappo sappinī pīṭhasappī sappi iccādīni rūpāni bhavanti
 tattha saddo tabbhāve vokiṇṇe nissaye ārammaṇe saṃsaṭṭheti imesu atthesu dissati tattha yāyaṃ taṇhā ponobbhavikā nandirāgasahagatāti tabbhāve veditabbo nandirāgabhūtāti attho yāyaṃ bhikkhave vīmaṃsā kosajjasahagatā kosajjasampayuttāti vokiṇṇe veditabbo antarantarā uppajjamānena kosajjena vokiṇṇāti ayamettha attho aṭṭhikasaññāsahagataṃ satisambojjhaṅgaṃ bhāvetīti nissaye veditabbo aṭṭhikasaññaṃ nissāya aṭṭhikasaññaṃ bhāvetvā paṭiladdhanti attho lābhī hoti rūpasahagatānaṃ vā samāpattīnaṃ arūpasahagatānaṃ vāti ārammaṇe rūpārūpārammaṇānanti attho idaṃ sukhaṃ imāya pītiyā sahagataṃ sahajātaṃ sampayuttanti saṃsaṭṭhe imissā pītiyā saṃsaṭṭhanti attho etthetaṃ vuccati 
 tabbhāve ceva vokiṇṇe nissayārammaṇesu ca
-saṃsaṭṭhe ca -saddo dissati pañcasu
+saṃsaṭṭhe ca saddo dissati pañcasu
 ti gatigati nibbattigabhi ajjhāsayagati vibhavagati nipphattigati ñāṇagatīti bahuvidhā gati nāma
 tattha taṃ gatiṃ pecca gacchāmīti ca yassa gatiṃ na jānanti devā gandhabbamānusāti ca ayaṃ nāma imesaṃ  kho ahaṃ bhikkhūnaṃ sīlavantānaṃ neva jānāmi gatiṃvā agatiṃvāti ayaṃ  nāma evaṃ kho te ahaṃ brahme gatiñca jānāmi jutiñca jānāmīti ayaṃ  nāma vibhavo gati dhammānaṃ nibbānaṃ arahato gatīti ayaṃ  nāma dve gatiyo bhavanti anaññāti ayaṃ  nāma taṃ tattha gatimā dhibhimāti ca sundaraṃ nibbānaṃ gatoti ca ayaṃ  nāma etthetaṃ vuccati 
 gatigatyañca nibbatyaṃ vibhavajjhāsayesu ca
@@ -702,9 +702,9 @@ padānaṃ sadisattañca tathā visadisattanaṃ
 codanāparihārehi sahito catthanicchayo
 atthuddhārobhidhānañca liṅgattayavimissanaṃ
 abhidheyyakaliṅgesu savisesapadāni ca
-nānāpadabahuppada-samodhānañca dassitaṃ
+nānāpadabahuppadasamodhānañca dassitaṃ
 rūḷhīsaddādayo ceva suvibhattā anākulā
-sabbanāmaṃ sabbanāma-sadisāni padāni ca
+sabbanāmaṃ sabbanāmasadisāni padāni ca
 nānāpadehi yojetuṃ dassitāni yathārahaṃ
 mantāni ca rūpāni dyantāni ca viññūnaṃ
 piṭake pāṭavatthāya sabbametaṃ pakāsitaṃ

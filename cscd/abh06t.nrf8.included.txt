@@ -31,7 +31,7 @@ tassā suttānusāraṃva vīthicittapavattanaṃ
  sīse panassa vijjhitvā yūsapānaṃva cetaso
 ārammaṇesu daṭṭhabbaṃ javanassa pavattanaṃ
 
- punāgantvā  yathā sutta-jālamajjhe nipajjanaṃ
+ punāgantvā  yathā suttajālamajjhe nipajjanaṃ
 vatthuṃyeva ca nissāya cittassa parivattanaṃ
 
  idaṃ tu pana opammaṃ atthaṃ dīpeti kiṃ tu hi
@@ -44,19 +44,19 @@ tato hi paṭhamaṃyeva jāyatīti hi dīpitaṃ
 āgacchati tenāpāthaṃ ayamatthopi dīpito
 
  rūpaṃ cakkhupasādamhi ghaṭṭitvā taṅkhaṇe pana
-manodvāre tathāpātha-māgacchati nisaṃsayo
+manodvāre tathāpāthamāgacchati nisaṃsayo
 
  khago yathā hi rukkhagge nilīyantova sākhino
 sākhaṃ ghaṭṭeti tassīdha chāyā pharati bhūmiyaṃ
 
  sākhāya  ghaṭṭanacchāyā pharaṇāni ca sabbaso
-apubbācarimaṃ eka-kkhaṇasmiṃyeva jāyare
+apubbācarimaṃ ekakkhaṇasmiṃyeva jāyare
 
  evameva ca rūpassa pasādassa ca ghaṭṭanaṃ
 bhavaṅgacalanassāpi paccayattena atthato
 
  tatheva ca manodvāre āpāthagamanampi ca
-apubbācarimaṃ eka-kkhaṇasmiṃyeva hotiti
+apubbācarimaṃ ekakkhaṇasmiṃyeva hotiti
 
  tato bhavaṅgaṃ chinditvā cakkhudvāre yathākkamaṃ
 āvajjane samuppanne dassane sampaṭicchane
@@ -64,7 +64,7 @@ apubbācarimaṃ eka-kkhaṇasmiṃyeva hotiti
  santīraṇe samuppanne tato voṭṭhabbanepi ca
 kusalaṃ javanaṃ cittaṃ tathākusalameva vā
 
- eso eva nayo sota-dvārādīsupi viññunā
+ eso eva nayo sotadvārādīsupi viññunā
 avisesena viññeyyo saddādīnaṃ tu ghaṭṭane
 
  dovārikopamādīni  etassatthassa dīpane
@@ -140,7 +140,7 @@ kasmā na hoti ce tattha bījassābhāvato pana
 rūpādigocare tassa bhaveyya janakaṃ tu yaṃ
 
  cakkhuviññāṇakādīnaṃ  natthitāpajjatīti ce
-nindriyānaṃ pavattānu-bhāvato cittasambhavo
+nindriyānaṃ pavattānubhāvato cittasambhavo
 
  ekantena yathā cetaṃ tadārammaṇamānasaṃ
 nappavattati sabbampi rūpārūpabhavadvaye
@@ -178,7 +178,7 @@ tadārammaṇacittāni bhavanti anupubbato
  na  vijjati manodvāre ghaṭṭanārammaṇassa hi
 kathaṃ bhavaṅgato hoti vuṭṭhānaṃ pana cetaso
 
- manodvārepi āpātha-māgacchanteva gocarā
+ manodvārepi āpāthamāgacchanteva gocarā
 ghaṭṭanāya vinā tasmā cittānaṃ hoti sambhavo
 
  dvādasāpuññacittānaṃ  vipākā sattasattati

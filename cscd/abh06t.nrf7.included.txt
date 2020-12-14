@@ -53,7 +53,7 @@ jāyate javanaṃ hutvā paṭhamaṃ kāmamānasaṃ
 tadevārammaṇaṃ katvā teneva sadisaṃ puna
 
  vipākaṃ jāyate cittaṃ tadārammaṇasaññitaṃ
-sandhiyā tulyato mūla-bhavaṅganti pavuccate
+sandhiyā tulyato mūlabhavaṅganti pavuccate
 
  tañca santīraṇaṃ ettha dassanaṃ sampaṭicchanaṃ
 gaṇanūpagacittāni cattāreva bhavanti hi
@@ -76,7 +76,7 @@ tulyaṃ catutthaṃ pākaṃ tu tadārammaṇataṃ vaje
  āgantukabhavaṅgaṃ tu tadārammaṇanāmakaṃ
 purimāni cha pākāni iminā honti satta tu
 
- tasmiṃ dvāre yadā iṭṭha-majjhattārammaṇaṃ pana
+ tasmiṃ dvāre yadā iṭṭhamajjhattārammaṇaṃ pana
 āgacchati tadāpāthaṃ tadā vuttanayenidha
 
  ārammaṇavaseneva vedanā parivattati
@@ -100,13 +100,13 @@ samasaṭṭhi vipākāni uppajjanti na saṃsayo
  gahitāgahaṇenettha  cakkhudvāresu dvādasa
 sotaviññāṇakādīni cattārīti ca soḷasa
 
- evameva  sasaṅkhāra-tihetukusalenapi
-asaṅkhārasasaṅkhāru-pekkhāsahagatehipi
+ evameva  sasaṅkhāratihetukusalenapi
+asaṅkhārasasaṅkhārupekkhāsahagatehipi
 
  kamme āyūhite tesaṃ vipākehi ca tīhipi
 eseva ca nayo tehi dinnāya paṭisandhiyā
 
- paṭhamaṃ iṭṭhamajjhatta-gocarassa vasenidha
+ paṭhamaṃ iṭṭhamajjhattagocarassa vasenidha
 pavattiṃ pana dassetvā upekkhāsahitadvaye
 
  dassetabbā tappacchā tu iṭṭhasmiṃ gocare idha
@@ -131,9 +131,9 @@ hotīti hi ayaṃ vāro anupubbena āgato
 asaṅkhārikacittena kamme āyūhite pana
 
  tena  tulyena pākena gahitā paṭisandhi ce
-iṭṭhe ārammaṇe cakkhu-dvāre āpāthamāgate
+iṭṭhe ārammaṇe cakkhudvāre āpāthamāgate
 
- somanassayute ñāṇa-hīne kusalamānase
+ somanassayute ñāṇahīne kusalamānase
 sattakkhattuṃ javitvāna gate tasmiṃ duhetuke
 
  tadevārammaṇaṃ  katvā jāyate tadanantaraṃ
@@ -182,7 +182,7 @@ upekkhāsahitāhetu manoviññāṇadhātuyā
 kammaṃ duhetukaṃ hoti paṭisandhi ahetukā
 
  tassa buddhimupetassa iṭṭhamajjhattagocare
-āpāthamāgate cakkhu-dvāre puna ca dehino
+āpāthamāgate cakkhudvāre puna ca dehino
 
  duhetūnaṃ catunnampi puññānaṃ yassa kassaci
 javanassāvasānasmiṃ ahetukamidaṃ mano
@@ -196,7 +196,7 @@ upekkhāsahitaṃyeva hoti santīraṇampi ca
  tesu ekaṃ ṭhapetvāna gahitāgahaṇenidha
 gaṇanūpagacittāni tīṇiyeva bhavanti hi
 
- iṭṭhe  ārammaṇe cakkhu-dvāre āpāthamāgate
+ iṭṭhe  ārammaṇe cakkhudvāre āpāthamāgate
 tadā santīraṇañceva tadārammaṇamānasaṃ
 
  somanassayutaṃyeva gahetvā tesu ekakaṃ
@@ -226,7 +226,7 @@ pivatañca jalaṃ vāyuṃ phusataṃ mudumeva ca
  cakkhuviññāṇakādīni puññajāneva pañcapi
 santīraṇadvayaṃ ekā manodhātūti aṭṭhakaṃ
 
- ayaṃ tāva kathā iṭṭha-iṭṭhamajjhattagocare
+ ayaṃ tāva kathā iṭṭhaiṭṭhamajjhattagocare
 kāmāvacarapuññānaṃ javanānaṃ vasenidha
 
  niyamatthaṃ  tu yaṃ vuttaṃ tadārammaṇacetaso
@@ -235,13 +235,13 @@ kusalaṃ pana sandhāya taṃ vuttanti hi dīpitaṃ
  idhākusalacittesu somanassayutesupi
 iṭṭhe ārammaṇe tesu javitesu catūsupi
 
- somanassayutāhetu-manoviññāṇadhātu hi
+ somanassayutāhetumanoviññāṇadhātu hi
 tadārammaṇabhāvena jāyate tadanantaraṃ
 
  chasvākusalacittesu upekkhāya yutesu hi
 gocare iṭṭhamajjhatte javitesu anantaraṃ
 
- upekkhāsahitāhetu-manoviññāṇadhātu hi
+ upekkhāsahitāhetumanoviññāṇadhātu hi
 tadārammaṇabhāvena jāyate pana puññajā
 
  iṭṭhārammaṇayogasmiṃ  kaṅkhato uddhatassa vā
@@ -268,7 +268,7 @@ tattheva paṭisiddhaṃ tu tadārammaṇamānasaṃ
  tasmā  bhavaṅgapātova tadārammaṇameva vā
 na hoti kiṃ nu kātabbaṃ vada tvaṃ ābhidhammika
 
- upekkhāsahitāhetu-manoviññāṇadhātu tu
+ upekkhāsahitāhetumanoviññāṇadhātu tu
 puññāpuññavipākā hi tadārammaṇikā siyā
 
  āvajjanaṃ kimassāti natthi taṃ jāyate kathaṃ

@@ -29,7 +29,7 @@ tathā bhūmivibhāgena kāmabhūmādito kathaṃ
  asaṅkhāraṃ sasaṅkhāramiti bhinnaṃ punaṭṭhadhā
  kāme sugatisādhakaṃ
 
- takkacārapītisukha-cittassekaggatāyutaṃ 
+ takkacārapītisukhacittassekaggatāyutaṃ 
 paṭhamajjhānakusalaṃ pañcaṅgikamudāhaṭaṃ
 
  vitakkahīnaṃ dutiyaṃ jhānaṃ tu caturaṅgikaṃ
@@ -45,7 +45,7 @@ pañcamañca pakāsenti ubhayampi duvaṅgikaṃ
 viññāṇañcāyatananti dutiyaṃ tatiyaṃ tathā
 
  ākiñcaññāyatanaṃ tu catutthaṃ pana mānasaṃ
-nevasaññānāsaññāya-tanañceti catubbidhaṃ
+nevasaññānāsaññāyatanañceti catubbidhaṃ
 
  nāma upekkhekaggatāyutaṃ
 duvaṅgikamidaṃ sabbaṃ āruppabhavasādhakaṃ
@@ -77,7 +77,7 @@ vicikicchāsahagataṃ uddhaccasahitanti ca
  nāma caturāpāyasādhakā
 ete sugatiyañcāpi vipattiphaladāyakā
 
- cakkhusotaghānajivhā-kāyaviññāṇanāmakā
+ cakkhusotaghānajivhākāyaviññāṇanāmakā
 pañcaviññāṇayugaḷā yugaḷaṃ sampaṭicchanaṃ
 
  santīraṇadvayañceva upekkhāsahitaṃ tathā
@@ -89,7 +89,7 @@ kāyaviññāṇayugaḷaṃ sukhadukkhayutaṃ kamā
  somanassasahagataṃ yaṃ santīraṇamānasaṃ
 taṃ mevāhu  na vijjati
 
- pañcadvāramanodvāra-vasena duvidhaṃ pana
+ pañcadvāramanodvāravasena duvidhaṃ pana
 upekkhāvedanāyuttaṃ kriyāvajjananāmakaṃ
 
  somanassasahagataṃ hasituppādamānasaṃ
@@ -101,7 +101,7 @@ kriyacittāni tīṇīti
  sapuññehi  samānā ca mahāpākamahākriyā
 mahaggatakriyā pākā phalacittāni ca kamā
 
- itthamekūnanavuti-vidhaṃ  cittaṃ bhave tathā
+ itthamekūnanavutividhaṃ  cittaṃ bhave tathā
 ekanavutividhaṃ vā ekavīsasatampi vā
 
  takkacārapītisukhacittassekaggatāyutaṃ
@@ -129,7 +129,7 @@ catutthānuttaraṃ maggacittaṃ pañcavidhanti ca
 sesāni cekāsītīti ekavīsasataṃ bhave
 
  lokuttarānaṃ aṭṭhannaṃ iccevaṃ pañcadhā puna
-jhānaṅgamaggabojjhaṅga-vibhāgāya yathārahaṃ
+jhānaṅgamaggabojjhaṅgavibhāgāya yathārahaṃ
 
  pādakajjhānamāmaṭṭhajhānaṃ ajjhāsayo tathā
 vuṭṭhānagāminī ceva niyāmeti vipassanāti

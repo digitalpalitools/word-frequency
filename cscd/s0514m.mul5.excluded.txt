@@ -1877,7 +1877,7 @@ Nimijātakaṃ nemirājajātakaṃ (syā.) catutthaṃ.
 ‘‘,;
 ,pañcālīnaṃ (bahūsu).
 595.
-‘‘,;
+‘‘-,;
 ,.
 596.
 ‘‘,;
@@ -4412,7 +4412,7 @@ sarabhā (syā.),niṅka (sī. syā. pī.).
 ,valajā (sī.), vālajā (pī.).
 1416.
 ‘‘,;
-veḷuriyaphalakarodāyo (sī.),.
+-veḷuriyaphalakarodāyo (sī.),.
 1417.
 ‘‘,;
 ,.
@@ -4471,7 +4471,7 @@ Maṇikaṇḍaṃ nāma.
 ‘‘,;
 jiyyāma (sī. syā. pī.),.
 1435.
-‘‘,majjhā (ka.);
+‘‘--,majjhā (ka.);
 ,’’.
 1436.
 ‘‘,;

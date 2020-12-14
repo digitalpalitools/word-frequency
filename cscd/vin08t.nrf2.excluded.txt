@@ -46,11 +46,11 @@ Gaṇṭhike.Piḷakā.–
 ‘‘,;
 ,’’.
 samaṃ satapadādīna..Paṭṭassa pariyante vā.Paṭṭamukhepi vā,.Veṇī.‘‘’’.Saṅkhalika.‘‘’’.
-Paṭṭampī.aṭṭhakoṇādikavidhi,.Aṭṭhakoṇādika.‘‘’’‘‘’’,.‘‘’’.paṭṭa,.aṭṭhakoṇādika.Vidhi..Tatthā.Agghiyagadārūpa.Muggara.Ādi.
+Paṭṭampī.aṭṭhakoṇādikavidhi,.Aṭṭhakoṇādika.‘‘’’‘‘’’,.‘‘’’.paṭṭa,.aṭṭhakoṇādika.Vidhi..Tatthā.Agghiyagadārūpa.Muggara.Ādi-.
 Tatthā.Kakkaṭakakkhīnī.Uṭṭhāpentī.Tatthā.Suttā.Piḷakā.Duviññeyyāvā.‘‘’’(pārā. aṭṭha. 1.85).
 .Kaṇṇakoṇesu suttānī..‘‘,,‘’,’’(pārā. aṭṭha. 1.85).
 Sūcikammavikāraṃ vā,.Aññaṃ vā pana kiñcipī.Kātu.Kārāpetu.
-,.Kañjika.Piṭṭha.khali. Allikā.Ādi.,.
+,.Kañjika.Piṭṭha.khali. Allikā.Ādi-.,.
 Tatthā,gandhaṃ vātelaṃ vālākhaṃ vā. Kiñcī.Maṇinā.Aññenapi ca kenacī,.Doṇiyāna ghaṃsitabbaṃ..,..
 Gaṇṭhike.Lekhā vā.Piḷakā.Pāḷikaṇṇikabhedato.‘‘’’,.
 9.Patte vā thālake vāthālake.Na vaṭṭatī,.Telavaṇṇo,.Pattamaṇḍale.‘‘’’(cūḷava. 253)‘‘bhittikammaṃ na vaṭṭatī’’.‘‘,,’’(cūḷava. 253)‘‘makaradantakaṃ pana vaṭṭatī’’.–
@@ -72,7 +72,7 @@ Vidhe.(sārattha. ṭī. 2.85)‘‘’’.Aṭṭhamaṅgalāni,,,,,,,..Paricch
 ‘‘,;
 ,.
 ‘‘,;
-.
+-.
 ‘‘;
 .
 ;
@@ -91,20 +91,20 @@ Vidhe.(sārattha. ṭī. 2.85)‘‘’’.Aṭṭhamaṅgalāni,,,,,,,..Paricch
 ,.
 ‘‘,;
 ,.
-‘‘;
-.
+‘‘-;
+-.
 ‘‘,;
-’’.–
+-’’.–
 .
 tahiṃ tahi.Ta.,.Cittakampī.Akkhīnī.Tatthā.Uṭṭhāpetu.
 Ghaṭa.Deḍḍubhasīsaṃ vā..,macchakaṇṭakaṃ.,khajjūripattakākāraṃ.
-sūkarantaṃ.Tassa.,.Ādi,.‘‘’’(cūḷava. aṭṭha. 278).,..
+sūkarantaṃ.Tassa.,.Ādi-,.‘‘’’(cūḷava. aṭṭha. 278).,..
 Murajaṃ.Veṭhetvā.‘‘’’.Maddavīṇaṃ.Deḍḍubhakaṃ.Kalābukaṃ.Rajjuyo,.Na vaṭṭantī.Purimā dve.‘‘’’‘‘’’.‘‘’’.
 Pāmaṅgasaṇṭhānā.Ekarajjumaya‘‘’’..Tañcā.Ekampi ca na vaṭṭatī.
 .Vaṭṭati bandhitu,.‘‘,’’.‘‘’’,.
-Danta.Jatū.Saṅkhamaya.Vidhakā matāvedhikā,.Kāyabandhanavidhe.Vikāro.Tattha tatthā.Tu,.
+Danta-.Jatū.Saṅkhamaya.Vidhakā matāvedhikā,.Kāyabandhanavidhe.Vikāro.Tattha tatthā.Tu-,.
 11.Añjaniyaṃ‘‘’’na vaṭṭati. Sipāṭikāyā.–
-‘‘;
+‘‘-;
 ,.
 ‘‘,;
 ,.
@@ -115,12 +115,12 @@ Danta.Jatū.Saṅkhamaya.Vidhakā matāvedhikā,.Kāyabandhanavidhe.Vikāro.Tatt
 ‘‘,;
 ,’’.–
 .
-mālā…pe… cittitā.Janarañjanī.Aṭṭhaṃsā vāpīapi.Vaṇṇamaṭṭhā..,‘‘’’,.‘‘’’.
+mālā…pe… cittitā.Janarañjanī.Aṭṭhaṃsā vāpīapi-.Vaṇṇamaṭṭhā..,‘‘’’,.‘‘’’.
 12.Ārakaṇṭakāārakaṇṭake..Vaṭṭamaṇika.Añña.Pipphalike.Maṇika.Piḷaka..‘‘.‘’(pārā. aṭṭha. 1.85)’’.Ārakaṇṭako,āmaṇḍasārako.
-Valitaka.Tasmā taṃ vaṭṭatī,,,.daḷhīkammādīādi,,.–
+Valitaka.Tasmā taṃ vaṭṭatī,,,.daḷhīkammādīādi-,,.–
 ‘‘,;
 ,.
-‘‘;
+‘‘-;
 ,’’.
 maṇika.Pīḷaka.Pipphale.Ārakaṇṭake.Ṭhapetu.Yaṃ kiñcī.Daṇḍake.‘‘,’’.Paricchedalekhāmatta.Valitvā,.
 Uttarāraṇiyaṃ maṇḍala..ujukamevā,.Ubhosu passesu,..
@@ -133,7 +133,7 @@ Uttarāraṇiyaṃ maṇḍala..ujukamevā,.Ubhosu passesu,..
 ,.
 ‘‘,;
 ,’’.
-uttarāraṇī.Vāpīpi..dhanukaṃ.pelladaṇḍako.Saṇḍāse..Dvīsu passesū.Lohenā.Bandhituṃ vaṭṭatī.Saṇḍāse..Heṭṭhā.‘‘’’.Visāṇe.Nāḷiyaṃ vāpī.Api.Āmaṇḍasārake.Telabhājanake.Sabbaṃ vaṇṇamaṭṭhaṃ vaṭṭatī.
+uttarāraṇī.Vāpīpi-..dhanukaṃ.pelladaṇḍako.Saṇḍāse..Dvīsu passesū.Lohenā.Bandhituṃ vaṭṭatī.Saṇḍāse..Heṭṭhā.‘‘’’.Visāṇe.Nāḷiyaṃ vāpī.Api-.Āmaṇḍasārake.Telabhājanake.Sabbaṃ vaṇṇamaṭṭhaṃ vaṭṭatī.
 Bhūmattharaṇe.Pānīyaghaṭe.Sabbaṃ…pe… vaṭṭatī..,.(vajira. ṭī. pārājika 85)‘‘’’.,.‘‘’’.‘‘,’’.–
 ‘‘,;
 ,.
@@ -141,8 +141,8 @@ Bhūmattharaṇe.Pānīyaghaṭe.Sabbaṃ…pe… vaṭṭatī..,.(vajira. ṭī
 ,.
 ‘‘,;
 ,’’.
-14.‘‘senāsane panā’’.pana.,.‘‘senāsane kiñci paṭisedhetabbaṃ natthī’’.–
-‘‘;
+14.‘‘senāsane panā’’.pana-.,.‘‘senāsane kiñci paṭisedhetabbaṃ natthī’’.–
+‘‘-;
 ,.
 ‘‘;
 ;

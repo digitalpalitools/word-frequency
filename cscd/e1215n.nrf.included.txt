@@ -1589,7 +1589,7 @@ nisinnamatte yatirāja rāje
 tatthāgamuṃ dve vāṇijā khaṇena
 
  ussāhitā devavarena sammā
-sālohitā tassa tapussa-bhallikā
+sālohitā tassa tapussabhallikā
 manthañca sāduṃ madhupiṇḍikañca
 ādāya nāthaṃ idamabruvunte
 
@@ -1675,7 +1675,7 @@ pakkāmi tamhā bhavanaṃ khaṇena
 
  tato jino tena gahitanuñño
 desemi kasseti udikkhamāno
-āḷāra-udde samudikkha dhīro
+āḷāraudde samudikkha dhīro
 mantvāna tesaṃ aciraccutittaṃ
 
  kahannukhohaṃ varadhammacakkaṃ

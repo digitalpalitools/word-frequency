@@ -1,17 +1,17 @@
 ﻿Tanādayo 
 120.
-,
-(hi,)
-(bhavati)(tanu ādīni;)
+-,
+-(hi,)
+(bhavati)-(tanu ādīni;)
 Niccaṃ ṇeṇayantā curādayo.
 121.
 (dhātu),
 (puna);
 122.
 (vattate),
-’(ca);
+’-(ca);
 123.
-’,
+’-,
 (Punā’pi).
 124.
 ,
@@ -26,14 +26,14 @@ Niccaṃ ṇeṇayantā curādayo.
 (Atho),
 (Atho tu)’;
 128.
-(dve)’,
-;
+-(dve)’,
+-;
 129.
 (siyā),
 
-;
+-;
 130.
-(mīrito),
+-(mīrito),
 ;
 131.
 ,
@@ -86,14 +86,14 @@ Niccaṃ ṇeṇayantā curādayo.
 (dhātū)’’(vattatī’mecurādayo;)
 Samattā sattagaṇā.
 147.
-’,
-’;
+-’,
+-’;
 148.
-’’,
-’;
+-’’,
+’-;
 149.
-,
-;
+-,
+-;
 150.
 ,
 ;
@@ -102,17 +102,17 @@ Samattā sattagaṇā.
 Kaccāyana dhātumañjūsā samattā.
 Sācariyānusiṭṭhā  parisiṭṭhaparibhāsā
 1.
-’,
-’;
+-’,
+-’;
 2.
-’,
-’;
+-’,
+’-;
 3.
-’’’,
-’;
+’-’’,
+-’;
 4.
-’,
-;
+’-,
+-;
 5.
-,
-’;
+-,
+’-;

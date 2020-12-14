@@ -1877,7 +1877,7 @@ mātā ekādasī rañño pañcāliyaṃ pasāsati
  athetthekasataṃ  khatyā anuyantā yasassino
 acchinnaraṭṭhā byathitā pañcāliyaṃ  vasaṃ gatā
 
- yaṃvadā-takkarā rañño akāmā piyabhāṇino
+ yaṃvadātakkarā rañño akāmā piyabhāṇino
 pañcālamanuyāyanti akāmā vasino gatā
 
  tāya senāya mithilā tisandhiparivāritā
@@ -4412,7 +4412,7 @@ acchā savanti ambūni macchagumbanisevitā
 pāṭhīnā pāvusā macchā balajā  muñjarohitā
 
  nānādijagaṇākiṇṇā nānādumagaṇāyutā
-veḷuriyaka-rodāyo  maṇimhi passa nimmitaṃ
+veḷuriyakarodāyo  maṇimhi passa nimmitaṃ
 
  passettha  pokkharaṇiyo suvibhattā catuddisā
 nānādijagaṇākiṇṇā puthulomanisevitā
@@ -4471,7 +4471,7 @@ odhisuṅkaṃ mahārāja passa tvaṃ dvipaduttama
  upāgataṃ rāja mupehi lakkhaṃ netādisaṃ maṇiratanaṃ tavatthi
 dhammena jissāma  asāhasena jito ca no khippamavākarohi
 
- pañcāla  -paccuggata-sūrasena macchā  ca maddā saha kekakebhi
+ pañcāla  paccuggatasūrasena macchā  ca maddā saha kekakebhi
 passantu note asaṭhena yuddhaṃ na no sabhāyaṃ na karonti kiñci
 
  te pāvisuṃ akkhamadena mattā rājā kurūnaṃ puṇṇako cāpi yakkho

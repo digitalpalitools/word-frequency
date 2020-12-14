@@ -86,7 +86,7 @@ Avijjāvaggo chaṭṭho.
 8. Upavāṇasandiṭṭhikasuttavaṇṇanā
 70.rūpappaṭisaṃvedī,.Rūparāgappaṭisaṃvedī,.Sandiṭṭhiko.Noca rūparāgappaṭisaṃvedī,‘‘’’..
 9. Paṭhamachaphassāyatanasuttavaṇṇanā
-71.phassāyatanāna.Avusita.Ārakā.Etthāhaṃ, bhante, anassasa,,,.–‘‘‘’,’’,–‘‘’’.‘‘’’taṃ kiṃ maññasi bhikkhū.Sādhū.Esevanto dukkhassā,.
+71.phassāyatanāna.Avusita.Ārakā.Etthāhaṃ, bhante, anassasa,,,.–‘‘‘’,-’’,–‘‘’’.‘‘’’taṃ kiṃ maññasi bhikkhū.Sādhū.Esevanto dukkhassā,.
 10. Dutiyachaphassāyatanasuttavaṇṇanā
 72.anassasa,.Āyatiṃ apunabbhavāyā,.
 11. Tatiyachaphassāyatanasuttavaṇṇanā
@@ -100,7 +100,7 @@ Migajālavaggo sattamo.
 7. Dutiyaavijjāpahānasuttavaṇṇanā
 80.sabbe dhammā.Nālaṃ abhinivesāyā.Sabbanimittānī.Aññato passatī,..,.
 8. Sambahulabhikkhusuttavaṇṇanā
-81.idha nono...
+81.idha nono-...
 9. Lokapañhāsuttavaṇṇanā
 82.lujjatī..
 10. Phaggunapañhāsuttavaṇṇanā
@@ -255,7 +255,7 @@ Gahapativaggo terasamo.
 ,
 ’’.
 3. Paṭhamarūpārāmasuttavaṇṇanā
-136.rūpasammuditā.Dukkhā.Sukho.Kevalā.Yāvatatthīti vuccatī.Ete vo.Paccanīkamidaṃ hoti, sabbalokena passata,.,.Sukhato āhū.Sukhato vidū..
+136.rūpasammuditā.Dukkhā.Sukho.Kevalā.Yāvatatthīti vuccatī.Ete vo-.Paccanīkamidaṃ hoti, sabbalokena passata,.,.Sukhato āhū.Sukhato vidū..
 Sammūḷhetthā.Aviddasū.‘‘’’,‘‘’’.Nivutāna.Andhakāro apassata.?.
 Satañca vivaṭaṃ hoti, āloko passatāmivā.Santike na vijānanti, magā dhammassa akovidā..
 Māradheyyānupannehī.Konu aññatra ariyebhī.Sammadaññāya parinibbantī..
@@ -323,7 +323,7 @@ kālena kāla.Saṃvesetabbā.Aññataro vā aññataro vā.Yaṃ te ambho puris
 Chaṭṭho antaracaro vadhako‘‘,,,,’’.
 So passeyya suññaṃ gāma‘‘,,’’,.Rittakaññeva paviseyyā.Tucchakaṃ suññaka.Parimaseyyā‘‘,,,’’.
 Tamenaṃevaṃ vadeyyu,,‘‘’’,,.Idāni ambho purisā,,.Corā gāmaghātakā‘‘,’’.
-Udakaṇṇava.,,,,.Sāsaṅkaṃ sappaṭibhaya.Khemaṃ appaṭibhaya.Na cassa nāvā santāraṇī‘‘’’.Uttarasetu vā.Tiṭṭhati brāhmaṇo.?,.
+Udakaṇṇava.,,,,.Sāsaṅkaṃ sappaṭibhaya.Khemaṃ appaṭibhaya.Na cassa nāvā santāraṇī‘‘’’.Uttarasetu vā--.Tiṭṭhati brāhmaṇo.?,.
 ‘‘,’’.‘‘,’’.‘‘,,’’.‘‘,’’,.
 Upamā kho myāya–,.,.‘‘,,,’’‘‘’’‘‘,’’,.
 catunnetaṃ mahābhūtānaṃ adhivacanaṃ pathavīdhātuyā āpodhātuyā.,.,.,.–
@@ -408,9 +408,9 @@ Anissito.Aññamaheṭhayāno.Parinibbuto.Nūpavadeyya kañcī,,‘‘,,,,,,,,,�
 ,..,..
 amuṃmahantaṃ dārukkhandhaṃ gaṅgāya nadiyā sotena vuyhamāna.na thale ussīdissatī.Na manussaggāho gahessatī‘‘’’,,.Na amanussaggāho gahessatī‘‘,’’.
 Evameva kho–‘‘’’..
-.‘‘,‘’,‘’.,’’?..,..,.,‘‘,’’–‘‘,,,’’?‘‘,’’.,,,‘‘’’.,,??,,,..,.
+.‘‘,‘’,‘’.,’’?..,..,.,‘‘,’’–‘‘,,,’’?‘‘,’’.,,,‘‘’’.,,??-,,,..,.
 ...,,,.,,,.
-,‘‘,,,’’.‘‘,’’..
+,‘‘,,,’’-.‘‘,’’..
 .–‘‘,’’?–‘‘?,,’’.
 –‘‘,,’’.–‘‘.‘’,‘,’’’.–‘‘,’’.–‘‘,,’’.–‘‘.’’...
 .‘‘,,,,’’.,..
@@ -429,7 +429,7 @@ Evameva kho–‘‘’’..
 ,,‘‘,’’,,.,.,.
 .‘‘’’,,‘‘’’..
 Bhagavantaṃ etadavocā‘‘’’‘‘,’’.‘‘,’’.
-orimaṃ tīra.‘‘,’’‘‘,’’...
+orimaṃ tīra.‘‘-,’’‘‘,’’...
 ‘‘,’’‘‘’’,‘‘’’.,..
 Nandīrāgassetaṃ adhivacana,,,.‘‘’’.
 Asmimānassetaṃ adhivacana‘‘’’,,,,,.‘‘,’’.‘‘’’.
@@ -451,9 +451,9 @@ Telappadīpaṃ āropetvā.Yenabhagavā tenupasaṅkamiṃsū,‘‘,,,,’’.
 Athakho bhagavā nivāsetvā pattacīvaramādāya saddhiṃ bhikkhusaṅghena yena navaṃ santhāgāraṃ tenupasaṅkamī‘‘,,’’,,,,,,,..
 ..–.,,..
 ,,,,,,,,,,,,.
-,,....,,,.
+-,,....,,,.
 ,,,,..,,.
-,,,....padasahassena.–
+,,,.--...padasahassena.–
 ‘‘,;
 ,.
 ‘‘,

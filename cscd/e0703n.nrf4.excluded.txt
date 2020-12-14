@@ -13,7 +13,7 @@ Tatiyadhammasaṃgīti
 ’,;
 ,.
 5.
-;
+-;
 ,.
 6.
 ,;
@@ -64,7 +64,7 @@ Dhammāsokābhiseka
 ,.
 21.
 ,;
-.
+-.
 22.
 ,;
 ,.
@@ -191,10 +191,10 @@ Nigrodhasāmaṇera dassana
 ,;
 ,.
 62.
-’;
+’-;
 ,.
 63.
-;
+-;
 ,.
 64.
 ,’;
@@ -250,13 +250,13 @@ Sāsanappavesa
 ,’’;
 ’,’.
 81.
-;
-.
+-;
+-.
 82.
 ’,;
 ,.
 83.
-;
+-;
 ,.
 84.
 ,;
@@ -315,7 +315,7 @@ Moggaliputtatissatherādayo
 ,;
 .
 102.
-;
+-;
 ,.
 103.
 ’,;
@@ -332,7 +332,7 @@ Moggaliputtatissatherādayo
 ,
 .
 107.
-;
+-;
 ,.
 108.
 ,;
@@ -362,7 +362,7 @@ Moggaliputtatissatherādayo
 ,;
 ,.
 117.
-;
+-;
 ,.
 118.
 ,;
@@ -404,7 +404,7 @@ Moggaliputtatissatherādayo
 ,;
 ,.
 131.
-;
+-;
 ’,.
 132.
 ,;
@@ -462,7 +462,7 @@ Moggaliputtatissatherādayo
 ,.
 148.
 ,;
-.
+-.
 149.
 ’,;
 ,.
@@ -524,9 +524,9 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,.
 167.
 ,;
-.
+-.
 168.
-;
+-;
 ,.
 169.
 ,;
@@ -552,7 +552,7 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,;
 ,.
 176.
-;
+-;
 ,.
 177.
 ,;
@@ -567,7 +567,7 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,;
 ,.
 181.
-;
+-;
 ,.
 182.
 ’,;
@@ -620,7 +620,7 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,
 .
 198.
-;
+-;
 ,.
 199.
 ,;
@@ -629,7 +629,7 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,;
 ,.
 201.
-;
+-;
 ,.
 202.
 ,’;
@@ -645,7 +645,7 @@ Moggaliputtatissatherodayo niṭṭhīto.
 ,.
 206.
 ,;
-.
+-.
 207.
 ,’;
 ,.

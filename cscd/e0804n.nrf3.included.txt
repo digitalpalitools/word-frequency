@@ -23,7 +23,7 @@ tattha takkanaṃ  ūhananti vuttaṃ hoti evaṃ  atha vā vitakkenti etena say
  nakketi nakkayati vakketi vakkayati
  cakketi cakkayati cukketi cukkayati cakkaṃ nti kenaṭṭhena cakkaṃ cakketi byathati hiṃsatīti atthena cakkaṃ saddo 
 sampattiyaṃ lakkhaṇe ca rathaṅge iriyāpathe
-dāne ratnadhammakhura-cakkādīsu padissati
+dāne ratnadhammakhuracakkādīsu padissati
 cattārimāni bhikkhave cakkāni yehi samannāgatānaṃ devamanussānantiādīsu hi ayaṃ sampattiyaṃ dissati pādatalesu cakkāni jātānīti ettha lakkhaṇe cakkaṃva vahato padanti ettha rathaṅge catucakkaṃ navadvāranti ettha iriyāpathe dada bhuñja ca mā cappamādo cakkaṃ vattassu pāṇinanti ettha dāne dibbaṃ cakkaratanaṃ pāturahosīti ettha ratanacakke mayā pavattitaṃ cakkanti ettha dhammacakke icchāhatassa posassa cakkaṃ bhamati matthaketi ettha khuracakke khurapariyantena cepi cakkenāti ettha paharaṇacakke asanivicakkanti ettha asanimaṇḍaleti
  taṅketi taṅkayati
  thuti akketi akkayati akko ti sūriyo so hi mahājutitāya akkiyati abhitthaviyati tappasannehi janehīti  tathā hi tassa natthi sūriyasamā ābhā udetayaṃ cakkhumā ekarājātiādinā abhikkhuti dissati
@@ -258,7 +258,7 @@ ettha hi cittassa sarāgasadosādibhedabhinnattā sampayuttabhūmiārammaṇahī
 ettha ca vuttappakārānamatthānaṃ vinicchayo bavati kathaṃ yasmā yattha yattha yathā yathā attho labbhati tattha tattha tathā tathā gahetabbo tasmā yaṃ āsevanapaccayabhāvena cinoti yañca kammunā abhisaṅkhatattā citaṃ taṃ tena kāraṇena cittanti vuttaṃ yaṃ pana tathā na hoti taṃ parittakriyadvayaṃ antimajavanañca labbhamānacintanavicittatādivasena cittanti veditabbaṃ hasituppādo pana aññajavanagatikoyevāti
 imāni cittassa nāmāni 
 cittaṃ mano mānasañca viññāṇaṃ hadayaṃ manaṃ
-nāmānetāni vohāra-pathe vattanti pāyato
+nāmānetāni vohārapathe vattanti pāyato
 saddo  paññattiyaṃ viññāṇe vicitte cittakamme acchariyeti evamādīsu atthesu dissati ayañhi citto gahapati cittamāsotiādīsu paññattiyaṃ dissati cittaṃ mano mānasantiādīsu viññāṇe vicittavatthābharaṇātiādīsu vicitte diṭṭhaṃ vo bhikkhave caraṇaṃ nāma cittantiādīsu cittakamme iṅgha maddi nisāmehi cittarūpaṃva dissatītiādīsu acchariyeti
  ceteti cetayati ratto kho brāhmaṇa rāgena abhibhūto attabyābādhāyapi ceteti parabyābādhāyapi ceteti ubhayabyābādhāyapi ceteti ākaṅkhati cetayati taṃ nisedha jutindhara cetanā sañcetanā cetayitaṃ cetetvā cetayitvā sañcicca pāṇaṃ jīvitā voropeti
 tattha ti cetayatīti cetanā saddhiṃ attanā sampayuttadhamme ārammaṇe abhisandahatīti attho ti upasaggavasena padaṃ vaḍḍhitaṃ nti cetanākāro ti sayaṃ ñatvā cecca abhivitaritvāti attho imāni cetanāya nāmāni 
@@ -404,7 +404,7 @@ pāraṅgato na ca pacceti tādīti
 vitakke ca vidhāne ca paṭibhāge tatheva ca
 paññattiyaṃ tathā kāle paramāyumhi ca chedane
 samantabhāve vohāre abhisaddahanepi ca
-viniyoge ca vinaya-kriyāyaṃ lesakepi ca
+viniyoge ca vinayakriyāyaṃ lesakepi ca
 vikappantarakappesu taṇhādiṭṭhisvasaṅkhaye
 kappe ca evamādīsu saddo pavattati
  kampeti kampayati gacchatīti attho imāni calanatthe pavattahetukatturūpasadisāni bhavanti calanatthe hi ti dhātuyā kampatīti akammakasuddhakatturūpaṃ kampetītiādīni sakammakāni hetukatturūpāni idampi dutiyaṃ sallaṃ kampeti hadayaṃ mamāti akammakāya dhātuyā sakammakarūpadassanato
@@ -468,7 +468,7 @@ ko me vandati pādāni iddhiyā yasasā jalaṃ
 abhikkantena vaṇṇena sabbā obhāsayaṃ disāti
 ādīsu abhirūpe abhikkantaṃ bhantetiādīsu abbhanumodane iccevaṃ 
 khayasmiṃ sundare ceva atho abbhanumodane
-abhirūpe -saddo dissati sāsane
+abhirūpe saddo dissati sāsane
  pasaṃsā thometi thomayati thomito thomanā
  yameti yamayati yamo
  sāmeti sāmayati samā nisāmeti nisāmayati nisāmanaṃ paṭisāmeti paṭisāmayati paṭisāmanaṃ
@@ -498,7 +498,7 @@ samattāni
  pūreti pūrayati
  vareti varayati varo varaṃ varanto ete varānaṃ caturo varemi etaṃ sakka varaṃ vare
 tattha ti variyate varitabboti varo nti varetīti varaṃ icchanto patthentoti attho
-mahāmahārahaṃ sakya-muni nīvaraṇā raṇā
+mahāmahārahaṃ sakyamuni nīvaraṇā raṇā
 muttaṃ muttaṃ sudassanaṃ vande bodhivaraṃ varanti
 purāṇakaviracanāyaṃ varanti padassa viya evaṃ varetīti ti varemi icchāmi yācāmi kārite pavāretīti rūpaṃ icchāpetīti attho nisedhanatthe panidaṃ kāritaṃ na hoti
  sareti sarayati saro ti saddo
@@ -517,7 +517,7 @@ saddo pariyattihetuguṇanissattanijjīvatādīsu dissati ayañhi dhammaṃ pari
 na hi dhammo adhammo ca ubho samavipākino
 adhammo nirayaṃ neti dhammo pāpeti suggatinti
 ādīsu guṇe tasmiṃ kho pana samaye dhammā honti dhammesu dhammānupassī viharatītiādīsu nissattanijjīvatāyaṃ
-atha vā saddo sabhāvapaññāpuññapaññattiāpattipariyattinissattanijjīvatāvikāraguṇapacca- yapaccayuppannādīsu dissati ayañhi kusalā dhammā akusalā dhammā abyākatā dhammātiādīsu sabhāve dissati
+atha vā saddo sabhāvapaññāpuññapaññattiāpattipariyattinissattanijjīvatāvikāraguṇapacca yapaccayuppannādīsu dissati ayañhi kusalā dhammā akusalā dhammā abyākatā dhammātiādīsu sabhāve dissati
 yassete  caturo dhammā saddhassa gharamesino
 saccaṃ dhammo dhiti cāgo sa ve pecca na socatīti
 ādīsu paññāyaṃ
@@ -532,7 +532,7 @@ iccevaṃ
 pariyattipaccayesu guṇe nissattatāya ca
 sabhāve ceva paññāyaṃ puññe paññattiyampi ca
 āpattiyaṃ vikāre ca paccayuppannakepi ca
-saccasamādhipakati-ñeyyesu yuttiyampi ca
+saccasamādhipakatiñeyyesu yuttiyampi ca
 visaye ceva nibbāne saddo pavattati
 keci pana dhammasaddassa pavattivisayānaṃ dasadhāva paricchedaṃ vadanti
 ñeyyamagge ca nibbāne sabhāve atha jātiyaṃ

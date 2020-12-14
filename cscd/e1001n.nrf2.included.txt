@@ -49,7 +49,7 @@ samuṭṭhāpeti attānaṃ aṇuṃ aggiṃva sandhamaṃ
 tasmā mūḷhasahassesu pañño eko visesiyate
 
  bālā  issanti dummedhā guṇī niddosakārino
-garuko paṇḍito etasa-missaṃ tehyavidvā samo
+garuko paṇḍito etasamissaṃ tehyavidvā samo
 
  manuññameva  bhāseyya nāmanuññaṃ kudācanaṃ
 manuññaṃ bhāsamānassa garuṃ bhāraṃ udaddhari
@@ -123,7 +123,7 @@ tasmā puttañca sissañca tālaye na tu lālaye
  māgadhā pākatā ceva sakkatavohāropi ca
 etesu kovido pañño dhīro pāḷiṃ visodhaye
 
- sakkataṃ  pākatañceva-pabhaṃso ca pisācikī
+ sakkataṃ  pākatañcevapabhaṃso ca pisācikī
 māgadhī sorasenīva cha bhāsā parikittitā
 
  candanaṃ  sītalaṃ loke candikā sītalā tato
@@ -150,7 +150,7 @@ vuttā satasahassesu dātā bhavati vā na vā
  vidvattañca rājattañca neva tulyaṃ kadācipi
 sadese pūjito rājā vidvā sabbattha pūjito
 
- sataṃ  dīghāyukaṃ sabba-sattānaṃ sukhakāraṇaṃ
+ sataṃ  dīghāyukaṃ sabbasattānaṃ sukhakāraṇaṃ
 asataṃ pana sabbesaṃ dukkhahetu na saṃsayo
 
  paṇḍite sujane sante sabbepi sujanā janā
@@ -493,7 +493,7 @@ rājāva raṭṭhaṃ vijitaṃ pahāya
 eko care mātaṅgaraññeva nāgo
 
  sokaṭṭhānasahassāni  bhayaṭṭhānasatāni ca
-divase divase mūḷha-māvisanti na paṇḍitaṃ
+divase divase mūḷhamāvisanti na paṇḍitaṃ
 
  jalabindunipātena cirena pūrate ghaṭo
 tathā sakalavijjānaṃ dhammassa ca dhanassa ca
@@ -534,7 +534,7 @@ ravissāvisaye kiṃ na padīpassa pakāsanaṃ
 yoniso vicine dhammaṃ evaṃ tattha visujjhati
 
  kiṃ tena jātujātena mātuyobbannahārinā
-ārohati na yo saka-vaṃsaagge dhajo yathā
+ārohati na yo sakavaṃsaagge dhajo yathā
 
  sammā upaparikkhitvā akkharesu padesu ca
 coraghāto siyā sisso guru coraṭṭakārako

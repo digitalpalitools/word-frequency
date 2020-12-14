@@ -4,7 +4,7 @@
 methunaṃ paṭisevanto tisso āpattiyo phuse
 
  bhave pārājikaṃ khette yebhuyyakkhāyite pana
-thullaccayaṃ mukhe vaṭṭa-kate vuttaṃ tu dukkaṭaṃ
+thullaccayaṃ mukhe vaṭṭakate vuttaṃ tu dukkaṭaṃ
 
  adinnaṃ ādiyanto yo
 kati āpattiyo phuse
@@ -50,7 +50,7 @@ paṭibaddhena kāyena paṭibaddhe tu dukkaṭaṃ
 vaṇṇāvaṇṇaṃ vadaṃ dvinnaṃ maggānaṃ garukaṃ phuse
 
  vaṇṇādibhaññe ādissa ubbhajāṇumadhakkhakaṃ
-hoti thullaccayaṃ kāya-paṭibaddhe tu dukkaṭaṃ
+hoti thullaccayaṃ kāyapaṭibaddhe tu dukkaṭaṃ
 
  attakāmacariyāya vadato vaṇṇamitthiyā
 santike garukaṃ hoti sace jānāti sā pana
@@ -76,7 +76,7 @@ hoti thullaccayaṃ tasmiṃ piṇḍe garukamāgate
 anuddhaṃseti yo tassa tisso āpattiyo siyuṃ
 
  okāsaṃ na ca kāretvā hutvā cāvanacetano
-sace codeti saṅghādi-sesena saha dukkaṭaṃ
+sace codeti saṅghādisesena saha dukkaṭaṃ
 
  okāsaṃ pana kāretvā hutvā akkosacetano
 codeti omasavāde pācittiṃ paridīpaye
@@ -120,7 +120,7 @@ cīvaraṃ viññāpento dve bhikkhu āpattiyo phuse
 viññāpite ca nissaggi pācitti pariyāputā
 
  bhikkhu cīvaramaññātiṃ viññāpento taduttariṃ
-payoge dukkaṭaṃ viññā-pite nissaggiyaṃ phuse
+payoge dukkaṭaṃ viññāpite nissaggiyaṃ phuse
 
  aññātakaṃ kañci upāsakaṃ vā
 upāsikaṃ vā upasaṅkamitvā
@@ -186,7 +186,7 @@ vikappaṃ cīvare bhikkhu āpajjaṃ appavārito
  dve  panāpattiyo so hi āpajjati na saṃsayo
 payoge dukkaṭaṃ tassa lābhe nissaggiyaṃ siyā
 
- paṭiggahetvā acceka-saññitaṃ pana cīvaraṃ
+ paṭiggahetvā accekasaññitaṃ pana cīvaraṃ
 kālaṃ atikkamento taṃ ekaṃ nissaggiyaṃ phuse
 
  tiṇṇamaññataraṃ  vatthaṃ nidahitvā gharedhikaṃ
@@ -196,7 +196,7 @@ chārattato vinā tena vasaṃ nissaggiyaṃ phuse
 pariṇāmeti ce bhikkhu dve panāpattiyo phuse
 
  payoge dukkaṭaṃ hoti nissaggi pariṇāmite
-sabbattha appanāvāra-parihāni katā mayā
+sabbattha appanāvāraparihāni katā mayā
 
 
 
@@ -218,7 +218,7 @@ upasampannapesuññe sese āpatti dukkaṭaṃ
  padasonupasampannaṃ  dhammaṃ vāceti ce duve
 payoge dukkaṭaṃ pāde pāde pācittiyaṃ siyā
 
- tirattānupasampanna-sahaseyyāya uttariṃ
+ tirattānupasampannasahaseyyāya uttariṃ
 payoge dukkaṭaṃ vuttaṃ panne pācittiyaṃ siyā
 
  kappeti mātugāmena sahaseyyaṃ sace pana
@@ -244,7 +244,7 @@ payoge dukkaṭaṃ tassa pāte pācitti dīpitā
 aropite dukkaṭaṃ tu hoti pācitti ropite
 
  ujjhāpento paraṃ bhikkhuṃ dve panāpattiyo phuse
-payoge dukkaṭaṃ ujjhā-pite pācittiyaṃ siyā
+payoge dukkaṭaṃ ujjhāpite pācittiyaṃ siyā
 
  ajjhokāse tu mañcādiṃ santharitvāna saṅghikaṃ
 pakkamanto anāpucchā āpattiṃ duvidhaṃ phuse
@@ -280,7 +280,7 @@ payoge dukkaṭaṃ tassa pācittovadite siyā
  dutiye tatiye ceva catutthepi ca sabbaso
 paṭhamena samānāva āpattīnaṃ vibhāgatā
 
- cīvaraṃ bhikkhu aññāti-kāya dento duve phuse
+ cīvaraṃ bhikkhu aññātikāya dento duve phuse
 payoge dukkaṭaṃ vuttaṃ dinne pācittiyaṃ siyā
 
  aññātikabhikkhuniyā  bhikkhu sibbeyya cīvaraṃ
@@ -292,8 +292,8 @@ saṃvidhāya tu gacchanto phuse dve dukkaṭādayo
  nāvekaṃ abhirūhanto bhikkhu bhikkhuniyā saha
 saṃvidhāya phuse dvepi payoge dukkaṭādayo
 
- jānaṃ bhikkhuniyā piṇḍa-pātaṃ tu paripācitaṃ
-bhuñjanto duvidhāpatti-māpajjati na saṃsayo
+ jānaṃ bhikkhuniyā piṇḍapātaṃ tu paripācitaṃ
+bhuñjanto duvidhāpattimāpajjati na saṃsayo
 
  bhuñjissāmīti ce bhattaṃ paṭiggaṇhāti dukkaṭaṃ
 ajjhohārapayogesu pācitti paridīpitā
@@ -302,7 +302,7 @@ ajjhohārapayogesu pācitti paridīpitā
 kappento hi phuse dvepi payoge dukkaṭādayo
 
 
- taduttariṃ āvasatha-piṇḍaṃ tu paribhuñjato
+ taduttariṃ āvasathapiṇḍaṃ tu paribhuñjato
 anantarassa vaggassa navamena samo nayo
 
  dutiye  tatiye cāpi viseso natthi kocipi
@@ -343,7 +343,7 @@ kulesu pana cārittaṃ āpajjanto duve phuse
 dukkaṭaṃ piṭake vuttaṃ pācitti dutiyena tu
 
  taduttariṃ tu bhesajjaṃ viññāpento duve phuse
-payoge dukkaṭaṃ viññā-pite pācittiyaṃ siyā
+payoge dukkaṭaṃ viññāpite pācittiyaṃ siyā
 
  uyyuttaṃ  dassanatthāya gacchanto dve phuse balaṃ
 gacchato dukkaṭaṃ vuttaṃ hoti pācitti passato
@@ -368,13 +368,13 @@ dukkaṭaṃ gopphakā heṭṭhā pācittuparigopphake
 payoge dukkaṭaṃ vuttaṃ kate pācittiyaṃ siyā
 
  bhiṃsāpento have bhikkhu dve panāpattiyo phuse
-payoge dukkaṭaṃ bhiṃsā-pite pācittiyaṃ siyā
+payoge dukkaṭaṃ bhiṃsāpite pācittiyaṃ siyā
 
  jotiṃ samādahitvāna visibbento duve phuse
 payoge dukkaṭaṃ vuttaṃ pācittiyaṃ visīvite
 
  oraso addhamāsassa nhāyanto dve phuse have
-payoge dukkaṭaṃ nhāna-ssosāne itaraṃ siyā
+payoge dukkaṭaṃ nhānassosāne itaraṃ siyā
 
  dubbaṇṇakaraṇānaṃ tu tiṇṇamekamanādiya
 cīvaraṃ paribhuñjanto dve phuse dukkaṭādayo
@@ -392,7 +392,7 @@ payoge dukkaṭaṃ tasmiṃ sesāpanihite siyā
  anodissakamopātaṃ khaṇato hoti dukkaṭaṃ
 manusso marati tasmiṃ patitvā ce parājayo
 
- yakkho vāpi tiracchāna-gato manussaviggaho
+ yakkho vāpi tiracchānagato manussaviggaho
 patitvā maratī peto tassa thullaccayaṃ siyā
 
  tiracchānagate tasmiṃ nipatitvā mate pana
@@ -481,7 +481,7 @@ samaṇo pavisaṃ dose āpajjati duve pana
  paṭhamena ca pādena parikkhepaṃ atikkame
 dukkaṭaṃ tassa niddiṭṭhaṃ pācitti dutiyena tu
 
- aṭṭhidantavisāṇābhi-nibbattaṃ sūciyā gharaṃ
+ aṭṭhidantavisāṇābhinibbattaṃ sūciyā gharaṃ
 kārāpento phuse dvepi payoge dukkaṭādayo
 
  pamāṇātītamañcādiṃ  kārāpento duve phuse
@@ -512,14 +512,14 @@ kati āpattiyo honti catassova bhavanti hi
  methunaṃ paṭisevanto allokāsappavesane
 mate akkhāyite vāpi bhikkhu pārājikaṃ phuse
 
- thullaccayaṃ tu yebhuyya-kkhāyite dukkaṭaṃ tathā
+ thullaccayaṃ tu yebhuyyakkhāyite dukkaṭaṃ tathā
 mukhe vaṭṭakate vuttaṃ pācitti jatumaṭṭhake
 
  paññattā  kāyasaṃsaggaṃ samāpajjanapaccayā
 kati āpattiyo honti pañca āpattiyo siyuṃ
 
  avassutassa posassa tathā bhikkhuniyāpi ca
-pārājikamadhakkhādi-gahaṇaṃ sādiyantiyā
+pārājikamadhakkhādigahaṇaṃ sādiyantiyā
 
  kāyena phusato kāyaṃ bhikkhussa garukaṃ siyā
 kāyena kāyabaddhaṃ tu phusaṃ thullaccayaṃ siyā

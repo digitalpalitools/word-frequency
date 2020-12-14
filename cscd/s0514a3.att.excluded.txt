@@ -685,7 +685,7 @@ Micchākathā niṭṭhitā.
 939.
 ‘‘,;
 ,’’.
-vedajjhagatānariṭṭhā,,.Marīcidhamma..Pañña.Bhavanti dassāda,bhūnahuno,.Pariciṇṇo ca aggī.
+vedajjhagatānariṭṭhā,,.Marīcidhamma..Pañña.Bhavanti dassāda-,bhūnahuno,.Pariciṇṇo ca aggī.
 Sabbañca maccā,..,,,.,.Yogayutto.‘‘’’..
 Aggi manuppaviṭṭho.Nāmatthamāno.Nākammunā jāyati jātavedo.Susseyyu,.Bhoja.Dhūmasikhiṃ patāpava.Aṅgārikā.Loṇakarā.Sūdā.Sarīradāhā.Puñña.
 Ajjhenamaggi.Na kocī,.Lokāpacito samāno.Yadevā.Tadappasattha,,.Devesū.Milakkhū panā‘‘’’.Asaññakāya..
@@ -782,7 +782,7 @@ Annānibhutvā kuhakā kuhitvāsamecca,.
 Yogayogenā.Akāsiyā rājūhivānusiṭṭhā‘‘’’.Tadassā.Corasamā.Vajjhā.
 Bāhārasī.–,.‘‘’’.,.Samaṅgī.Hantā.Paramo.Brāhmaṇā.Tuccharūpā.Vañcanā,.
 Yathāpakārānī.Tiṭṭhaselā..Parivaṇṇayantā.
-Samantavede.Vahantī,.Na tena byāpannarasūdakā nāna..Kasmā,,.Dvirasaññu māhū,.
+Samantavede.Vahantī,.Na tena byāpannarasūdakā nāna-..Kasmā,,.Dvirasaññu māhū,.
 Purepuratthā.Kā kassa bhariyā.,.Mano manussa,.Tenāpi dhammenā.,‘‘,’’,.Evampī,vossaggavibhaṅgamāhu,,,‘‘’’.
 Sattadhā,,,,,.Vācākatā.Giddhikatā gahītā.Dummocayā.Kabyapathānupannā.,.Bālāna,.
 Porisiyaṃbalenā.–,,.Manussabhāvo ca gavaṃva pekkho,.?..,..
@@ -3493,7 +3493,7 @@ yaṃ māṇavotyābhivadī‘‘’’.Bhūmindharo.Sā nāgakaññā,.Piyāya 
 ‘‘,;
 ,’’.
 sīlamayassa sākhā.Atthe ca dhammecā.Ṭhito nipāko.Gavapphalo.Hatthigavāssachanno.Naccagītatūriyābhinādite.Ucchijja senaṃ puriso ahāsī...,.
-Mama paccayenā,vittā,.Tibbānī.Upāyanānī.Ye kecī.Muñcare.Unnaṅgalā māsamimaṃ karontū.Bhakkhayantū.Amajjapāa,.Puṇṇāhi thālāhī.Palissutāhī.Mahāpathaṃ nicca samavhayantū.Tibba.Yathā,.
+Mama paccayenā,vittā,.Tibbānī.Upāyanānī.Ye kecī.Muñcare.Unnaṅgalā māsamimaṃ karontū.Bhakkhayantū.Amajjapāa-,.Puṇṇāhi thālāhī.Palissutāhī.Mahāpathaṃ nicca samavhayantū.Tibba.Yathā,.
 –
 1651.
 ‘‘,;
@@ -4112,7 +4112,7 @@ Dethā.Vāruṇi‘‘’’,‘‘‘’’’.Vanibbake.Paṭipūjitā,.
 1810.
 ‘‘,;
 ,’’.
-te su mattāsu,.Mattā kilantāvā.Sampatantī.Acchecchuṃ vatā,vatā.Yathā.Atiyakkhā.Vassavarā.Vacanatthenā.Samhā raṭṭhā nirajjatī.Gāmaṇīyehī.Ājānīyevā.Gāmaṇīyehī.Illiyācāpadhāribhī.Dīpe athopi veyyagghe.Ekamekā rathe ṭhitā.
+te su mattāsu-,.Mattā kilantāvā.Sampatantī.Acchecchuṃ vatā,vatā.Yathā.Atiyakkhā.Vassavarā.Vacanatthenā.Samhā raṭṭhā nirajjatī.Gāmaṇīyehī.Ājānīyevā.Gāmaṇīyehī.Illiyācāpadhāribhī.Dīpe athopi veyyagghe.Ekamekā rathe ṭhitā.
 Nikkharajjūhī.Āḷārapamhā.Hasulā.Susaññā.Tanumajjhimā.‘‘’’,.Kaṃsupadhāraṇākaṃsa,.Padinnamhī.Sampakampathā.Yaṃ pañjalikato‘‘’’,,.Nirajjatī,.
 .‘‘’’.‘‘’’..–
 1811.
@@ -4191,7 +4191,7 @@ tamabravī.
 1831.
 ‘‘,;
 ,’’.
-tamabravī.Apare passa santāpe.Nadīnupanisevite,.Avisā.Api māsanna.Aghammigā,.Nadiṃ sotumbaraṃ patī.Yūthāna,.Dhenuva vacchagiddhāvā.Va.Sampatite.Ghore.Plavaṅgame.Akhettaññāyā.Bhavissate.Sivāya sutvānā.Muhu.Uttasayī.Saṇatevā.
+tamabravī.Apare passa santāpe.Nadīnupanisevite,.Avisā.Api māsanna.Aghammigā,.Nadiṃ sotumbaraṃ patī.Yūthāna,.Dhenuva vacchagiddhāvā.Va-.Sampatite.Ghore.Plavaṅgame.Akhettaññāyā.Bhavissate.Sivāya sutvānā.Muhu.Uttasayī.Saṇatevā.
 1832.
 ‘‘,;
 ,;
@@ -5384,7 +5384,7 @@ pumunā.Labbhā.Taṃ me dukkhataraṃ ito,.Rucchatī.Aḍḍharatte va ratte v�
 2157.
 ‘‘,;
 ,’’.
-kaṃ nvajjā.Uparucchantī.Saṃvesanākāle.Kone dassatī.Kathaṃ nu pathaṃ gacchantī.Pattikā.Anupāhanā.Gahessatī.Dāsidāsassā.Añño vā pana pesiyo,‘‘,’’.Ko lajjī,.Vārijassevā.Apassatoa,,.
+kaṃ nvajjā.Uparucchantī.Saṃvesanākāle.Kone dassatī.Kathaṃ nu pathaṃ gacchantī.Pattikā.Anupāhanā.Gahessatī.Dāsidāsassā.Añño vā pana pesiyo,‘‘,’’.Ko lajjī,.Vārijassevā.Apassatoa-,,.
 ‘‘,,’’.‘‘’’.–
 2158.
 ‘‘,;
@@ -5620,7 +5620,7 @@ api ratteva me mano.Migā.Iriṇe.Vivane.Dūtā.Suttā.Adu bahi no.Nevāsaṃ ke
 2224.
 ‘‘,;
 ,’’.
-idaṃ tato dukkhatara,,...‘‘’’,.Okkantasantaṃma.Dakkhisi no matano,.
+idaṃ tato dukkhatara,,...‘‘’’,.Okkantasantaṃma.Dakkhisi no matano-,.
 ‘‘’’–
 2225.
 ‘‘,;
@@ -5925,7 +5925,7 @@ Sakkapabbavaṇṇanā niṭṭhitā.
 Mahārājapabbavaṇṇanā
 ....,..‘‘’’..–....‘‘,,’’...–
 2303.
-‘‘,;
+‘‘,-;
 ,.
 2304.
 ‘‘,;

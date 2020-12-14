@@ -1,5 +1,5 @@
 ﻿Sabbasaṅkalananayakathāvaṇṇanā
-873.,,soḷasaparivārassa.Sabbaṃ saṅkalanaṃ naya.
+873.,-,soḷasaparivārassa.Sabbaṃ saṅkalanaṃ naya.
 875.Kāyikā chabbidhā,,,,,.
 Tathā vācasikāpi cā,,,,.
 Chādentassaca tisso,,.
@@ -23,7 +23,7 @@ Pañcasaṃsaggapaccayā,,,,.
 913.kittakā.
 915.Bhikkhubhikkhuniyā saddhi,..
 918..
-922.‘‘’’(pari. aṭṭha. 476 atthato samānaṃ)‘‘’’.‘‘’’aṭṭhakathāyaṃ.
+922.‘‘’’(pari. aṭṭha. 476 atthato samānaṃ)‘‘-’’.‘‘’’aṭṭhakathāyaṃ.
 923.Yāvatatiyaketatiyā,,yāvatatiyakā.
 926.‘‘Avassutassa…pe… kiñcī’’.‘‘Sabbaṃ maṃsaṃ akappiya’’.
 927.‘‘Viññāpetvāna…pe… bhojanampi cā’’.‘‘Lasuṇampi cā’’.‘‘’’.
@@ -77,7 +77,7 @@ Samattā.
 ,;
 sīvali,.
 ,;
-.
+-.
 Revato,;
 ,.
 ,;

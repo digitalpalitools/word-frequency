@@ -5,7 +5,7 @@
 payogāsayasampanno nibbānābhirato tato
 
  khandhāyatanadhātādippabhedehi  yathārahaṃ
-lakkhaṇapaccupaṭṭhāna-padaṭṭhānavibhāgato
+lakkhaṇapaccupaṭṭhānapadaṭṭhānavibhāgato
 
  pariggahetvā saṅkhāre nāmarūpaṃ yathākathaṃ
 vavatthapento tatthevamanupassati paññavā
@@ -34,7 +34,7 @@ samodhāneti saṅkhāre tattha tatthupapattiyā
  taṇhāsambhavamevetaṃ tasmā dukkhaṃ pavuccati
 tadappavatti nibbānaṃ maggo taṃpāpakoti ca
 
- catusaccavavatthāna-mukhenevampi paccaye
+ catusaccavavatthānamukhenevampi paccaye
 pariggaṇhanti ekacce saṅkhārānamathāpare
 
  ālokākāsavāyāpapathaviñcupanissayaṃ
@@ -74,7 +74,7 @@ taṇhupādānabhavāti atīte pañca hetavo
 avijjā saṅkhārā ceti paccuppannepi pañcake
 
  viññāṇādisarūpena dassitaṃ phalapañcakaṃ
-tathā tadeva jātādi-nāmenānāgatanti ca
+tathā tadeva jātādināmenānāgatanti ca
 
  atīte hetavo pañca idāni phalapañcakaṃ
 idāni hetavo pañca āyatiṃ phalapañcakaṃ
@@ -82,13 +82,13 @@ idāni hetavo pañca āyatiṃ phalapañcakaṃ
  hetuphalaṃ phalahetu puna hetuphalāni ca
 tisandhi catusaṅkhepaṃ vīsatākāramabravuṃ
 
- atthadhammapaṭivedha-desanānaṃ  yathārahaṃ
+ atthadhammapaṭivedhadesanānaṃ  yathārahaṃ
 gambhīrattā catunnampi catugambhīratā matā
 
  ekattanānattanayā abyāpāranayoparo
 tathevaṃdhammatā ceti nayā vuttā catubbidhā
 
- jarāmaraṇasokādi-pīḷitānamabhiṇhaso
+ jarāmaraṇasokādipīḷitānamabhiṇhaso
 āsavānaṃ samuppādā avijjā ca pavattati
 
  avijjāpaccayā honti saṅkhārāpi yathā pure
@@ -109,7 +109,7 @@ saṅkhepato ca vitthārā vividhākārabhedato
  janeti paccayuppanne avijjādipavattiyā
 avijjādinirodhena nirodheti ca sabbathā
 
- paccayappaccayuppanna-vaseneva pavattati
+ paccayappaccayuppannavaseneva pavattati
 saṃsāroyanti ekacce pariggaṇhanti paccaye
 
  samantapaṭṭhānamahāpakaraṇavibhāgato

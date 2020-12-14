@@ -1338,13 +1338,13 @@ pañcahi mahābhūtehi apeti
 pañcannaṃ mahābhūtānaṃ santakaṃ
 pañcasu mahābhūtesu patiṭṭhitaṃ
 
-pañca-mahābhūtā pana tiṭṭhanti
-pañca-abhibhavitāro tiṭṭhanti
-pañca-purisā pana tiṭṭhanti
-pañca-bhūmiyo pana honti
-pañca-kaññāyo pana tiṭṭhanti
-pañca-mahābhūtāni tiṭṭhanti
-pañca-cittāni uppajjanti
+pañcamahābhūtā pana tiṭṭhanti
+pañcaabhibhavitāro tiṭṭhanti
+pañcapurisā pana tiṭṭhanti
+pañcabhūmiyo pana honti
+pañcakaññāyo pana tiṭṭhanti
+pañcamahābhūtāni tiṭṭhanti
+pañcacittāni uppajjanti
 evaṃ sabbattha yojetabbaṃ
 
 
@@ -1390,13 +1390,13 @@ dasahi kaññāhi apeti koci
 dasannaṃ bhūtānaṃ santakaṃ hoti
 dasasu pana cittesu patiṭṭhitaṃ
 
-ekādasa-mahābhūtā tiṭṭhanti
-dvādasa-abhibhavitāro tiṭṭhanti
-terasa-purisā pana tiṭṭhanti
-cuddasa-bhūmiyo pana honti
-pañcadasa-kaññāyo pana tiṭṭhanti
-solasa-bhūtāni pana tiṭṭhanti
-sattarasa-cittāni uppajjanti
+ekādasamahābhūtā tiṭṭhanti
+dvādasaabhibhavitāro tiṭṭhanti
+terasapurisā pana tiṭṭhanti
+cuddasabhūmiyo pana honti
+pañcadasakaññāyo pana tiṭṭhanti
+solasabhūtāni pana tiṭṭhanti
+sattarasacittāni uppajjanti
 
 aṭṭhārasa mahābhūtā pana tiṭṭhanti
 aṭṭhārasa abhibhavitāro passati
@@ -1461,7 +1461,7 @@ vīsatiyā cittehi kammaṃ kataṃ
 vīsatiyaṃ cittesu patiṭṭhitaṃ
 vīsaṃ vīsaṃ vīsāya vīsāyaṃ
 tathā ekavīsa dvāvīsa bāvīsa
-tevīsa catuvīsa-iccādipi
+tevīsa catuvīsaiccādipi
 
 
 tiṃsa bhikkhavo tiṭṭhanti
@@ -1615,7 +1615,7 @@ pakoṭisatasahassānaṃ sataṃ koṭippakoṭi
 koṭippakoṭi satasahassānaṃ sataṃ nahutaṃ
 nahutasatasahassānaṃ sataṃ ninnahutaṃ
 ninnahutasatasahassānaṃ sataṃ akkhohiṇi
-aparo nayo-ekaṃ dasaṃ sataṃ sahassaṃ
+aparo nayoekaṃ dasaṃ sataṃ sahassaṃ
 dasasahassaṃ satasahassaṃ dasasatasahassaṃ
 koṭi pakoṭi koṭippakoṭi nahutaṃ
 ninnahutaṃ akkhohiṇīti evaṃ

@@ -58,11 +58,11 @@ gāthāyaṃ ti nimmitabuddho bhagavantaṃ pucchituṃ okāsaṃ kārāpesi nti
 ti  ettha  nāma pādasamudayo isīhi vuccamānā gāthātipi vuccati pādova niyatavaṇṇānupubbikānaṃ padānaṃ samūho taṃ  pavattayissāmīti atthoti āha ti ti adhikaraṇe bhummaṃ āmeḍitalopenāyaṃ niddesoti āha ti ti bhūmipaṭibaddhanivāsā  taṃ taṃ ṭhānaṃ nissitavanto nissāya vasamānā tehi saddhiṃ silokaṃ anukassāmīti adhippāyo nti iminā tesaṃ vivekavāsaṃ dasseti ti iminā bhāvanābhiyogaṃ
  pañcasatasaṅkhyattā paṭipakkhābhibhavanato tejussadatāya ca  pavivittatāya nti ekībhāvaṃ ti arahattamaggādhigamena pariyodātacittā hutvā suddhā na kevalaṃ sarīrasuddhiyāva ti ariyamaggappasādena visesato pasannā cittassa āvilabhāvakarānaṃ kilesānaṃ abhāvena 
 ti bhinnakilese bhikkhū ime dibbacakkhunā ete devakāye passantīti jānitvā ti dhammassavanapariyosāne ariyajātiyā jātattā nti idaṃ bhiyyo pañcasatetiādikaṃ sabbaṃ
-ti dibbacakkhuñāṇābhinīhāravasena vīriyaṃ ussāhaṃ akaṃsu tenāha na taṃ tehītiādi nti ta-kārassa ra-kārādesaṃ katvā vuttaṃ sattatinti attho sahassanti pana anuvattati sattatiyogena bahuvacanaṃ tenāha ti
+ti dibbacakkhuñāṇābhinīhāravasena vīriyaṃ ussāhaṃ akaṃsu tenāha na taṃ tehītiādi nti takārassa rakārādesaṃ katvā vuttaṃ sattatinti attho sahassanti pana anuvattati sattatiyogena bahuvacanaṃ tenāha ti
 nti antarahitaṃ taṃ pana ativiya mahantaṃ nāma hotīti āha nti
 ti  ñāṇacakkhunā visuṃ visuṃ avekkhitvā vavatthitvānātipi paṭhanti so evattho taṃ avekkhanaṃ nicchayakaraṇaṃ hotīti āha ti pubbe vuttagāthāsu tatiyagāthāya pacchimaddhaṃ catutthagāthāya purimaddhañca sandhāyāha ti
 vijānanampi  dassanaṃ evāti āha ti vācāyatapavattitabhāvato anupaṭipāṭiyāva kittayissāmīti vadati
- satta sahassāni saṅkhāyāti ti yakkhajātikā eva ti mahesakkhā ti vā mahānubhāvā ti mahappabhā ti atikkantavaṇṇā ti mahāparivārā ceva patthaṭakittisaddā ca -saddo samīpatthoti adhippāyenāha nti
+ satta sahassāni saṅkhāyāti ti yakkhajātikā eva ti mahesakkhā ti vā mahānubhāvā ti mahappabhā ti atikkantavaṇṇā ti mahāparivārā ceva patthaṭakittisaddā ca saddo samīpatthoti adhippāyenāha nti
 ti himavato samīpe ṭhitapabbate
 ti ete sattasahassā kāpilavatthavā chasahassā hemavatā tisahassā sātāgirāti yathāvuttā 
 ti rājagahanagarassa samīpe nti kumbhīraṃ
@@ -85,7 +85,7 @@ ti parikammaṃ katvā ti upacārajjhānena nibbattā appanājhānena pana nibba
  āpodevādayo yathāsakaṃ vaggavasena ṭhitattā  yāva karuṇākāyikā dasa ti nānāsabhāvavaṇṇavanto
 ti veṇḍu nāma devatā evaṃ  asamadevatā yamakadevatāti dve ayaniyoti vadanti tappamukhā dve devanikāyāti  candassa upanissayato vattamānā tassa purato ca pacchato ca passato ca dhāvanakadevā tenāha ti ti etthāpi eseva nayo kevalaṃ vātavāyanahetavo devatā  tathā kevalaṃ abbhapaṭalasañcaraṇahetavo  uṇhappavattihetavo  vassavalāhakā pana pajjunnasadisāti te idha na vuttā vasudevatā nāma eko devanikāyo tesaṃ pubbaṅgamattā  sakko
 ti ete veṇḍudevatādayo vāsavapariyosānā dasa devakāyā
-ti jalamaggīti ca sikhārivāti ca imāni  keci pana ma-kāro padasandhikaro jalāti ca aggīti ca sikhārivāti ca imāni tesaṃ nāmānīti vadanti ti tesu eva ariṭṭhakā rojāti ca vuttadevesu ekacce vaṇṇato umāpupphasadisāti evamattho gahetabbo aññathā ekādasa devakāyā siyuṃ
+ti jalamaggīti ca sikhārivāti ca imāni  keci pana makāro padasandhikaro jalāti ca aggīti ca sikhārivāti ca imāni tesaṃ nāmānīti vadanti ti tesu eva ariṭṭhakā rojāti ca vuttadevesu ekacce vaṇṇato umāpupphasadisāti evamattho gahetabbo aññathā ekādasa devakāyā siyuṃ
 ti  ete dasa sahabhūdevādayo vāsavanesipariyosānā dasa devakāyā teneva nikāyabhedavasena dasadhāva āgatā
 tiādi tesaṃ devānaṃ nikāyasamudāyagataṃ nāmaṃ evaṃ sesānampi
 ti ete samānādikā mahāpāragapariyosānā dasa devakāyā teneva nikāyabhedena dasadhā āgatā
@@ -100,6 +100,6 @@ ti teneva vasapavattanena sesabrahmānaṃ adhipatino
 vītarāgabhāvāvahassa dhammassavanassa antarāyakaraṇena  avītarāgā rāgena baddhā eva nāma hontīti vuttaṃ ti
 ti bheravaṃ mahantaṃ saddaṃ samuṭṭhapetvā
 idāni taṃ saddaṃ upamāya dassento ti ādimāha ti tasmiṃ samāgame kañci devataṃ mānusakaṃ vā attano  sayañca na attano vase ṭhito tenāha tiādi
-ti desanāsīsametaṃ sabbāyapi hi tattha samāgataparisāya mārasenā apakkantāva  tesaṃ lomamattampi na cālesuṃ kuto antarāyakaraṇaṃ iti yattakā tattha visesaṃ adhigacchiṃsu tesaṃ sabbesampi antarāyākaraṇavasena attho vibhāvetabbo vītarāgaggahaṇena vā sarāgavītarāgavibhāvino ca tattha saṅgahitāti veditabbaṃ  acchariyabbhutacittajāto kathañhi nāma tāva ghorataraṃ mahatiṃ vibhiṃsakaṃ mayi karontepi sabbe pime nibbikārā samāhitā eva kasmā vijitāvino ime uttamapurisāti tenāha tiādi yādiso ariyānaṃ dhammanissito  pamodo na kadāci tādiso anariyānaṃ hotīti sāsane bhūtehi ariyehi iccetaṃ vuttaṃ vi-saddena vinā kevalopi suta-saddo vikhyātatthavacano hoti sutadhammassātiādīsu  viyāti āha ti
+ti desanāsīsametaṃ sabbāyapi hi tattha samāgataparisāya mārasenā apakkantāva  tesaṃ lomamattampi na cālesuṃ kuto antarāyakaraṇaṃ iti yattakā tattha visesaṃ adhigacchiṃsu tesaṃ sabbesampi antarāyākaraṇavasena attho vibhāvetabbo vītarāgaggahaṇena vā sarāgavītarāgavibhāvino ca tattha saṅgahitāti veditabbaṃ  acchariyabbhutacittajāto kathañhi nāma tāva ghorataraṃ mahatiṃ vibhiṃsakaṃ mayi karontepi sabbe pime nibbikārā samāhitā eva kasmā vijitāvino ime uttamapurisāti tenāha tiādi yādiso ariyānaṃ dhammanissito  pamodo na kadāci tādiso anariyānaṃ hotīti sāsane bhūtehi ariyehi iccetaṃ vuttaṃ visaddena vinā kevalopi sutasaddo vikhyātatthavacano hoti sutadhammassātiādīsu  viyāti āha ti
 ti  dūre padese daharassa antarāyaṃ pariharantī nti avocāti
 

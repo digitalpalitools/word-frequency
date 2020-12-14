@@ -1113,7 +1113,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’’;
 ’.
 326.
-’’
+’’-
 ;
 ’,
 ’.
@@ -1439,7 +1439,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ,
 .
 422.
-
+-
 ;
 ,
 .
@@ -1646,4 +1646,4 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 .
 472.
 ’;
-.
+-.

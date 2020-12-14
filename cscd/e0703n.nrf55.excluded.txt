@@ -13,7 +13,7 @@ Anurādhapurābhigamano
 ,;
 ,.
 5.
-;
+-;
 ,.
 6.
 ,;
@@ -25,7 +25,7 @@ Anurādhapurābhigamano
 ,;
 ,’.
 9.
-;
+-;
 ,.
 10.
 ,;
@@ -47,7 +47,7 @@ Anurādhapurābhigamano
 ,.
 16.
 ,;
-.
+-.
 17.
 ,;
 ,.
@@ -56,10 +56,10 @@ Anurādhapurābhigamano
 ,.
 19.
 ,;
-’.
+’-.
 20.
 ,;
-.
+-.
 21.
 ,
 ,.
@@ -109,7 +109,7 @@ Anurādhapurābhigamano
 ,;
 ,.
 37.
-;
+-;
 ,.
 38.
 ,;
@@ -121,7 +121,7 @@ Anurādhapurābhigamano
 ,;
 ,.
 41.
-;
+-;
 ,.
 42.
 ,’;
@@ -134,10 +134,10 @@ Anurādhapurābhigamano
 ,.
 45.
 ,;
-.
+-.
 46.
 ,’;
-.
+-.
 47.
 ,;
 ,.
@@ -145,7 +145,7 @@ Anurādhapurābhigamano
 ,;
 ,’.
 49.
-;
+-;
 .
 50.
 ,;

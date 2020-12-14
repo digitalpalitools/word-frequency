@@ -2,7 +2,7 @@
 1. Paṭhamavaggo
 1. Lobhasuttavaṇṇanā
 1.ekadhammaṃ, bhikkhave, pajahathā.,.–,,,.,.,,,;,..
-–,suttanikkhepo.,,.,attajjhāsayo,.Parajjhāsaye..pucchāvasiko.,,aṭṭhuppattiko.,...,,,..
+–,suttanikkhepo.,,.,attajjhāsayo,.Parajjhāsaye..pucchāvasiko.,--,aṭṭhuppattiko.,...,,,..
 ,.,?..(dī. na. 1.1 ādayo).,.
 ,–,(su. ni. 921 ādayo; ma. ni. 1.64 ādayo),.
 ‘‘,’’,–,(ma. ni. 2.107 ādayo; 3.416 ādayo; saṃ. ni. 3.59; mahāva. 19-20),.
@@ -10,7 +10,7 @@
 ,–,,(ma. ni. 1.29; saṃ. ni. 2.63),.
 ..?.‘‘’’.
 ekadhammaṃ, bhikkhaveeka‘‘,’’(ma. ni. 3.27).‘‘’’(dī. ni. 1.228; pārā. 11).‘‘’’(dī. ni. 1.405).‘‘,,’’(a. ni. 8.29)..
-Dhamma.‘‘’’(a. ni. 5.73).‘‘’’(dī. ni. 1.299).‘‘’’(dī. ni. 2.13; 3.142).‘‘,’’(jā. 1.1.57).‘‘,,’’(dī. ni. 2.398).‘‘’’(jā. 1.10.102).‘‘’’(pārā. 444).‘‘’’(dha. sa. 121).‘‘’’(mahāni. 156; cūḷani. mogharājamāṇavapucchāniddesa 85).‘‘’’(dha. sa. tikamātikā 1)..ekadhamma.,.
+Dhamma-.‘‘’’(a. ni. 5.73).‘‘’’(dī. ni. 1.299).‘‘’’(dī. ni. 2.13; 3.142).‘‘,’’(jā. 1.1.57).‘‘,,’’(dī. ni. 2.398).‘‘’’(jā. 1.10.102).‘‘’’(pārā. 444).‘‘’’(dha. sa. 121).‘‘’’(mahāni. 156; cūḷani. mogharājamāṇavapucchāniddesa 85).‘‘’’(dha. sa. tikamātikā 1)..ekadhamma.,.
 Bhikkhave.,?..‘‘,’’.,‘‘’’..‘‘’’...
 ?.,,,,.,.
 Pajahathāpahānaṃ,,,,.,.–,,,,,,‘‘’’,,,,,,,,,,,tadaṅgappahānaṃ.
@@ -43,9 +43,9 @@ lobhaṃ pajahathā.,..lobhaṃ pajahathā.…pe….
 .‘‘,,,’’.
 ‘‘,,,’’?–,.,.,,,,.–.,,,,.‘‘’’....
 Tatthā.Eta..Iti vuccatī?.,.
-yena lobhena luddhāse, sattā gacchanti duggati.Se...
+yena lobhena luddhāse, sattā gacchanti duggati.Se.-..
 Taṃ lobhaṃ sammadaññāya, pajahanti vipassino,.Pahāyana punāyanti, imaṃ lokaṃ kudācana..
-Ayampi attho.Api..,..,..
+Ayampi attho.Api-..,..,..
 Paramatthadīpaniyā khuddakanikāya-aṭṭhakathāya
 Itivuttakavaṇṇanāya paṭhamasuttavaṇṇanā niṭṭhitā.
 2. Dosasuttavaṇṇanā
@@ -91,15 +91,15 @@ Pañcamasuttavaṇṇanā niṭṭhitā.
 6.māna.‘‘’’,,.,,.,,;,,;,,,,,,,.Pajahathā,,..Mattāse..
 .,.,,,,,,,..,antarāparinibbāyī.,upahaccaparinibbāyī.,asaṅkhāraparinibbāyī.,sasaṅkhāraparinibbāyī.,,..
 ,,,.?,.,.,.,,.
-,,.‘‘’’(pu. pa. 36)..,.,.,,,..
+,,.‘‘’’(pu. pa. 36).-.,.,.,,,..
 Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 7. Sabbapariññāsuttavaṇṇanā
-7.sabba..,;‘‘,,’’..,,,.‘‘’’(cūḷani. mogharājamāṇavapucchāniddesa 85).‘‘,,’’(ma. ni. 1.345).‘‘,,,…pe….’’(saṃ. ni. 4.23-25).‘‘,,’’(ma. ni. 1.1).,..‘‘’’.
+7.sabba.-.,;‘‘,,’’.-.,,,.‘‘’’(cūḷani. mogharājamāṇavapucchāniddesa 85).‘‘,,’’(ma. ni. 1.345).‘‘,,,…pe….’’(saṃ. ni. 4.23-25).‘‘,,’’(ma. ni. 1.1).,..‘‘’’.
 Anabhijāna‘‘,,,’’‘‘,,,,’’.Aparijāna.,–,,.?–‘‘,,.,,’’,,...?..?..
 ...,..,‘‘’’.
 Tattha cittaṃ avirājaya,;,.Appajaha.,..Abhabbo dukkhakkhayāyā,.
-Sabbañca khoca,kho..,.,..abhijāna.Virājaya.Pajaha.Bhabbo dukkhakkhayāyā.
-Yo sabbaṃ sabbato ñatvā.sabbato,.Sabbatthesu na rajjatī,.‘‘,’’.Sa vesa.Ve,.Sabbapariññā,.So,.Sabbadukkhamupaccagā,.
+Sabbañca khoca-,kho-..,.,..abhijāna.Virājaya.Pajaha.Bhabbo dukkhakkhayāyā.
+Yo sabbaṃ sabbato ñatvā.sabbato,.Sabbatthesu na rajjatī,.‘‘,’’.Sa vesa-.Ve-,.Sabbapariññā,.So,.Sabbadukkhamupaccagā,.
 Sattamasuttavaṇṇanā niṭṭhitā.
 8. Mānapariññāsuttavaṇṇanā
 8.,.mānupetā ayaṃ pajāpajā.Mānaganthā bhave ratā.‘‘’’.Mānaṃ aparijānantā.,‘‘’’.Āgantāro punabbhava.,.Ye ca mānaṃ pahantvāna, vimuttā mānasaṅkhaye.Te mānaganthābhibhuno, sabbadukkhamupaccagu,..
@@ -112,9 +112,9 @@ Paṭhamavaggavaṇṇanā niṭṭhitā.
 1-3. Mohapariññādisuttavaṇṇanā
 11-13.,.
 4. Avijjānīvaraṇasuttavaṇṇanā
-14.–‘‘nāhaṃ, bhikkhave’’na.Aha.Añña.Ekanīvaraṇampī.Samanupassāmī–.‘‘’’(a. ni. 4.200; paṭi. ma. 1.130).‘‘,’’(paṭi. ma. 3.35)..‘‘’’.–‘‘,,’’.
+14.–‘‘nāhaṃ, bhikkhave’’na-.Aha.Añña.Ekanīvaraṇampī.Samanupassāmī–.‘‘’’(a. ni. 4.200; paṭi. ma. 1.130).‘‘,’’(paṭi. ma. 3.35)..‘‘’’-.–‘‘,,’’.
 Yena nīvaraṇena nivutā pajā dīgharattaṃ sandhāvanti saṃsarantī,.,.,.,.,‘‘’’,..
-Yathayida.,.Avijjānīvaraṇa,..,.,,,,.,,,...
+Yathayida.-,.Avijjānīvaraṇa,..,.,,,,.,,,...
 Avijjānīvaraṇena hi, bhikkhave, nivutā pajā dīgharattaṃ sandhāvanti saṃsarantī.–‘‘,,’’,.,?..
 Natthañño.nivutā,.Ahoratta,.Yathāmohena āvutā,.Ye ca mohaṃ pahantvāna, tamokhandhaṃ padālayu,,.Na te puna saṃsarantī–
 ‘‘,;
@@ -175,7 +175,7 @@ Navamasuttavaṇṇanā niṭṭhitā.
 idhā.‘‘,’’(dī. ni. 2.369).‘‘,,’’(ma. ni. 1.139; a. ni. 4.241).‘‘,,’’(ma. ni. 1.30).‘‘’’(a. ni. 3.61)..Ekacca,.Puggala..Paduṭṭhacitta.paduṭṭhacitta.ekacca.,.,.Eva.Cetasā.Ceto.Pariccāpajānāmi.?,.
 Imamhicāyaṃ samaye,,..Yathābhataṃ nikkhitto evaṃ niraye,.Kāyassa bhedā.Paraṃ maraṇā.kāyassa bhedā.Paraṃ maraṇā.
 Apāya.apāyo;.duggati;.,vinipāto.nirayo..,..,..,...Upapajjantī.
-.Ñatvānā..‘‘’’,.Buddho, bhikkhūnaṃ santike..
+.Ñatvānā..-‘‘’’,.Buddho, bhikkhūnaṃ santike..
 Dasamasuttavaṇṇanā niṭṭhitā.
 Dutiyavaggavaṇṇanā niṭṭhitā.
 3. Tatiyavaggo
@@ -185,7 +185,7 @@ Paṭhamasuttavaṇṇanā niṭṭhitā.
 2. Mettasuttavaṇṇanā
 22.mā, bhikkhave, puññānamā.Puñña‘‘,,’’(dī. ni. 3.380).‘‘,,’’(saṃ. ni. 2.51).‘‘’’.‘‘,,–,,’’(itivu. 60; a. ni. 8.36)..Bhāyitthā,.‘‘,,,’’(a. ni. 4.33).‘‘,,’’(dī. ni. 2.318)..–,,,,,,,,,,..
 ‘‘sukhasseta’’.sukha‘‘,’’(dha. pa. 194).‘‘,,’’(saṃ. ni. 3.60).‘‘,,’’(ma. ni. 3.255).‘‘’’(dha. pa. 118).‘‘’’(ma. ni. 1.82).‘‘’’(dha. pa. 204; ma. ni. 2.215).‘‘’’(cūḷani. khaggavisāṇasuttaniddesa 125).‘‘,’’(saṃ. ni. 4.253; itivu. 53).‘‘,,,’’(ma. ni. 2.89).‘‘’’(peṭako. 23)..Iṭṭhassā,kantassa,piyassa,manāpassā.Yadidaṃ puññānī‘‘’’,,.,.
-‘‘abhijānāmi kho panāha’’.abhijānāmī,.Dīgharatta.Puññāna.Satta vassānī.Mettacitta,.,.,,,.,..Bhāvetvā,.Satta saṃvaṭṭavivaṭṭakappe..Imaṃ loka.Saṃvaṭṭamāne suda.Suda.‘‘’’.Kappe...–
+‘‘abhijānāmi kho panāha’’.abhijānāmī,.Dīgharatta.Puññāna.Satta vassānī.Mettacitta,.,.,,,.,..Bhāvetvā,.Satta saṃvaṭṭavivaṭṭakappe.--.Imaṃ loka.Saṃvaṭṭamāne suda.Suda.‘‘’’.Kappe...–
 ‘‘,’’.(jā. 1.2.190);
 ‘‘’’.Ābhassarūpago.Vivaṭṭamāne,.Suññaṃ brahmavimānaṃ upapajjāmī,,.Brahmā.mahābrahmā.abhibhū.anabhibhūto.Aññadatthū.Daso,,.vasavattī..‘‘sattavassāni…pe… vasavattī’’.
 ‘‘chattiṃsakkhattu’’.sakko ahosi.Rājā ahosirājā.,,,cakkavattī. Rājā,cakkavattī.dhammiko..dhammarājā.dhammiko,dhammarājā,cāturanto,.,vijitāvī.,janapadatthāvariyappatto.
@@ -202,7 +202,7 @@ Appamādo.?.–
 .,.‘‘’’.
 ‘‘’’,?.,.,,,,,.‘‘’’,.‘‘’’.?.–‘‘’’.–
 ‘‘,,,,;,,,,’’(ma. ni. 1.300).
-appamādaṃ pasaṃsantī,.?appamatto ubho atthe adhigaṇhāti paṇḍito.–‘‘,’’,.diṭṭhe dhamme ca yo attho‘‘,’’,.Yo cattho samparāyiko.Atthābhisamayā,,.abhisamayo,.dhīro.....–
+appamādaṃ pasaṃsantī,.?appamatto ubho atthe adhigaṇhāti paṇḍito.–‘‘,’’,.diṭṭhe dhamme ca yo attho‘‘,’’,.Yo cattho samparāyiko.Atthābhisamayā,,.abhisamayo,.dhīro.-....–
 ‘‘,;
 ,.
 ‘‘,;
@@ -248,7 +248,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 .,,opadhikāni..Puññakiriyavatthūnī.,,.,.Mettāya cetovimuttiyā.‘‘’’,‘‘’’..Kalaṃ nāgghanti soḷasi.–,,.Adhiggahetvā.Bhāsate.Tapate.Virocatī.,,.
 Seyyathāpī.Tārakarūpāna.Candiyā,,.Vassāna.Pacchime māse.Saradasamaye.‘‘’’.Viddhe,.‘‘vigatavalāhake’’.Deve.Nabhaṃ abbhussakkamāno.Tamagata.Abhivihaccā.Osadhitārakā,.
 –?–.,.,.‘‘’’..
-?.,,.,.,,.‘‘,’’,,,,,,‘‘,’’,.,...
+?.,,.,.,,.‘‘,’’,,,,,,‘‘,’’,.,.---..
 .,…pe…,,,,,.–
 ‘‘.,.…pe….,’’(a. ni. 9.20).
 .‘‘,,’’(dī. ni. 1.556; saṃ. ni. 4.360).,.,,.

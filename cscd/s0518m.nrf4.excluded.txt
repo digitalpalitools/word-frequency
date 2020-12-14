@@ -268,7 +268,7 @@ Samuddaṅgapañho dasamo.Samuddavaggo dutiyo.
 ,.
 3. Pathavīvaggo
 1. Pathavīaṅgapañho
-1.‘‘,‘’,’’?‘‘,,,,,.,,.
+1.‘‘,‘’,’’?‘‘,,-,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -285,7 +285,7 @@ Pathavīaṅgapañho paṭhamo.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
-,;
+,-;
 ,’’’.
 Āpaṅgapañho dutiyo.
 3. Tejaṅgapañho

@@ -33,7 +33,7 @@ Yatokho, vaccha, bhikkhuno,,.
 Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Mahāvacchasuttavaṇṇanā niṭṭhitā.
 4. Dīghanakhasuttavaṇṇanā
-201.Evaṃme suta.sūkarakhatāya....–‘‘,’’...
+201.Evaṃme suta.sūkarakhatāya....–‘‘,’’-...
 Dīghanakho.Upasaṅkamī?–‘‘,.,,’’..Ekamantaṃ ṭhito,.‘‘’’.
 Sabbaṃ me nakkhamatī,.‘‘’’.yāpi kho te.esāpi te diṭṭhi nakkhamatī.Esā ce me, bho gotama, diṭṭhi khameyyā,,.‘‘’’,.,.,‘‘’’.,..,.ato kho te, aggivessana,…pe… aññañca diṭṭhiṃ upādiyantī.ato,,,.Bahū hi bahutarā,.tanū hi tanutarā.Ye evamāhaṃsū.Tañceva diṭṭhiṃ nappajahanti, aññañca diṭṭhiṃ upādiyantī,.
 ,,..?‘‘’’‘‘,,’’..,.–‘‘,’’.
@@ -55,7 +55,7 @@ Na kenaci saṃvadatī‘‘’’,‘‘’’..Yañca loke vutta,.–
 –‘‘,’’(dī. ni. 1.440).
 206.Abhiññāpahānamāhā,,..
 Paṭisañcikkhato.Anupādāya āsavehi cittaṃ vimuccī.,,..
-,.–,,,,,.
+,.–,,----,,,.
 Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Dīghanakhasuttavaṇṇanā niṭṭhitā.
 5. Māgaṇḍiyasuttavaṇṇanā
@@ -82,7 +82,7 @@ Nippurisehī.,.,.–‘‘,’’.Tāya ratiyā ramamāno.
 ,’’.(jā. 2.21.389)–
 Samadhigayha tiṭṭhatī.
 –,,,.
-213.Sukhī.Serī.Sayaṃvasī,,,,.Yena kāmaṃgamo,,,.
+213.Sukhī.Serī.Sayaṃvasī,,,,.Yena kāmaṃgamo,--,,.
 –,,,,,,.
 214.Upahatindriyo.Upahatindriyā.,.
 215.Asucitarāni cevā,.Kācī,..
@@ -117,7 +117,7 @@ Akatena me ettha kata,.Etthā.Samasamā,.Sāmaññaṃ pattā.
 Pathavīkāyo,.Tatthā.Natthi hantā vā.Sattannaṃtveva kāyāna,.‘‘’’.Yonipamukhasatasahassānī.Pañca ca kammuno satānī,.Pañca ca kammāni tīṇi ca kammānī.pañca kammānī.Tīṇī.Kamme ca aḍḍhakamme cā,.Dvaṭṭhipaṭipadā.Dvaṭṭhantarakappā,.Chaḷābhijātiyo.
 Aṭṭha purisabhūmiyo...,.........
 Ekūnapaññāsaājīvasate.Paribbājakasate.Nāgāvāsasate.Vīse indriyasate.Tiṃse nirayasate.Rajodhātuyo..Satta saññīgabbhā.Asaññīgabbhā.Nigaṇṭhigabbhā,.Satta devā,.,.Satta pisācā,.
-Sarā..Pavuṭā.Papātā.Papātasatānī.Supinā.Supinasatānī.Mahākappino...,.
+Sarā.-----.Pavuṭā.Papātā.Papātasatānī.Supinā.Supinasatānī.Mahākappino...,.
 Sīlenā.Vatenā.Tapenā.‘‘’’.‘‘’’.Hevaṃ natthī..Doṇamite.Sukhadukkhe.Pariyantakate.Natthi hāyanavaḍḍhane.,.Ukkaṃsāvakaṃse,.seyyathāpi nāmā.suttaguḷe.Nibbeṭhiyamānameva paletī,..
 229.Kimida,suññaṃ me agāra.
 230.Anussaviko hotī.Anussavasacco.Piṭakasampadāyā.
@@ -183,7 +183,7 @@ Evameva kho–...‘‘’’.‘‘’’.
 Karaṇḍā,..‘‘’’,.,,,,..,.visuddhimagge..
 .....
 255.saṅkhadhamo.Appakasirenevā.Viññāpeyyā.‘‘’’.
-256.daharo.Yuvā.Maṇḍanakajātiko,,.Sakaṇika.,.,.
+256.-daharo.Yuvā.Maṇḍanakajātiko,,--.Sakaṇika-.,.,.
 259.Ayaṃ kho udāyi pañcamo dhammo.(ma. ni. 2.17 ādayo),.,..
 Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Mahāsakuludāyisuttavaṇṇanā niṭṭhitā.

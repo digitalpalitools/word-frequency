@@ -31,7 +31,7 @@ pañcaviññāṇajavanamanodhātuttikaṃ pana
  ekakiccāti bhāsanti aṭṭhasaṭṭhi vibhāvino
 iccevaṃ  cittuppādā vavatthitā
 
- cakkhusotaghānajivhā-kāyadhātu yathākkamaṃ
+ cakkhusotaghānajivhākāyadhātu yathākkamaṃ
 pañcadvārā bhavaṅgaṃ tu manodvāraṃ pavuccati
 
  ghānādayo  tayo rūpe pañca cakkhādayo tathā
@@ -43,7 +43,7 @@ dvārattayaṃ cha cittāni manodvāramarūpisu
  paṭisandhādibhūtā hi avasāne cutiṭṭhitā
 majjhe bhavaṅgaṃ chetvāna paccekaṃ vīthi jāyati
 
- rūpādārammaṇe cakkhu-pasādādimhi ghaṭṭite
+ rūpādārammaṇe cakkhupasādādimhi ghaṭṭite
 āvajjanādayo honti bhavaṅgadvicalā paraṃ
 
  pariṇāme bhavaṅgassa ālambe gahaṇārahe
@@ -56,7 +56,7 @@ voṭṭhabbakāmajavanaṃ tadālambaṇamānasaṃ
 catupaññāsa vitthārā pañcadvāre yathārahaṃ
 
  uppādaṭṭhitibhaṅgānaṃ vasā cittakkhaṇaṃ tayaṃ
-rūpānaṃ ṭhiti ekūna-paññāsañca duke dukaṃ
+rūpānaṃ ṭhiti ekūnapaññāsañca duke dukaṃ
 
  parittetiparitte ca mahantetimahantake
 voṭṭhabbamoghajavanaṃ tadālambanti taṃ kamā
@@ -64,7 +64,7 @@ voṭṭhabbamoghajavanaṃ tadālambanti taṃ kamā
  āvajjanañca javanaṃ manodvāre tu gocare
 vibhūte tu tadālambaṃ vitthārā sattasaṭṭhi te
 
- kāme javanasattāla-mbaṇānaṃ niyame sati
+ kāme javanasattālambaṇānaṃ niyame sati
 vibhūtetimahante ca tadālambaṇamīritaṃ
 
  pañcadvāre manodhātu paccekamhi yathākkamaṃ
@@ -109,7 +109,7 @@ sabbālambe pavattanti nibbāne nimmalā siyuṃ
  dutiyañca catutthañca āruppesu mahaggate
 mahaggataññe vohāre aya nayo
 
- cakkhusotaghānajivhā-kāyahadayavatthunā
+ cakkhusotaghānajivhākāyahadayavatthunā
 kāmaloke chavatthūni nissitā satta dhātuyo
 
  pañcaviññāṇadhātū  ca tāsaṃ pubbāparattayaṃ
@@ -122,7 +122,7 @@ arūpe tu anissāya dhātvekāva pavattati
 pañcaviññāṇayugaḷaṃ bhavatīti pakāsitaṃ
 
  kāmapākāni sesāni maggāvajjanamādito
-hasanaṃ paṭighārūpā-vacaraṃ vatthunissitaṃ
+hasanaṃ paṭighārūpāvacaraṃ vatthunissitaṃ
 
  dvecattālīsa  nissāya anissāya ca jāyare
 anissāya vipākāni āruppeti samīritaṃ
@@ -166,7 +166,7 @@ kāme sahetukā pākā tadālambaṇatopi ca
  yathāvuttaniyāmena bhūmīsvekāva jāyare
 cittuppādesu sabbattha na tvevāsaññino matā
 
- ghānajivhākāyadhātu-nissitaṃ mānasaṃ tathā
+ ghānajivhākāyadhātunissitaṃ mānasaṃ tathā
 paṭighadvayamiccevamaṭṭha honteva kāmisu
 
  cakkhusotañca viññāṇaṃ manodhātu ca tīraṇaṃ
@@ -176,7 +176,7 @@ kāmarūpesu jāyanti yathāsambhavato dasa
 uddhaccasahitañceti sabbatthetāni cuddasa
 
  kaṅkhitaṃ diṭṭhiyuttāni suddhāvāsavivajjite
-sitañca rūpajavana-māruppāpāyavajjite
+sitañca rūpajavanamāruppāpāyavajjite
 
  kāmakriyā sahetū ca uddhaṃ lokuttarattayaṃ
 catutthāruppajavanaṃ sabbatthāpāyavajjite
@@ -232,7 +232,7 @@ iṭṭhe tu puññapākāva yathāsambhavato siyuṃ
  pubbe  vuttanayeneva vīthicittāni yojaye
 pañcadvāre yathāyogaṃ manodvāre ca paṇḍito
 
- santīraṇatadālamba-miṭṭhālambe  pavattati
+ santīraṇatadālambamiṭṭhālambe  pavattati
 sukhitaṃ iṭṭhamajjhatte aniṭṭhe ca upekkhitaṃ
 
  sukhopetaṃ tadālambaṃ upekkhākriyato paraṃ
@@ -244,7 +244,7 @@ aññattha niyamo natthi tadālambapavattiyā
  somanassabhavaṅgassa javane domanassite
 tadālambe asambhonte upekkhātīraṇaṃ bhave
 
- parikammopacārānu-lomagotrabhuto paraṃ
+ parikammopacārānulomagotrabhuto paraṃ
 pañcamaṃ vā catutthaṃ vā javanaṃ hoti appanā
 
  catujhānaṃ sukhopetaṃ ñāṇayuttānanantaraṃ
@@ -253,7 +253,7 @@ upekkhāñāṇayuttānaṃ pañcamaṃ jāyate paraṃ
  puthujjanāna sekkhānaṃ kāmapuññatihetuto
 tihetukāmakriyato vītarāgānamappanā
 
- āvajjapañcaviññāṇa-sampaṭicchanatīraṇaṃ
+ āvajjapañcaviññāṇasampaṭicchanatīraṇaṃ
 paṭisandhicuti sabbā rūpārūpādikappanā
 
  nirodhā vuṭṭhahantassa upariṭṭhaphalaṃ dvayaṃ
@@ -279,10 +279,10 @@ vīthicittāvasāne tu bhavaṅgaṃ cuti vā bhave
 
 
  pañcadvārāvajjanato dasa cittāni dīpaye
-sesāvajjanato pañca-cattālīsanti bhāsitaṃ
+sesāvajjanato pañcacattālīsanti bhāsitaṃ
 
  pañcaviññāṇato pāpavipākā sampaṭicchanā
-paramekaṃ duve puñña-vipākā sampaṭicchanā
+paramekaṃ duve puññavipākā sampaṭicchanā
 
  santīraṇadvihetumhā pākā dvādasa jāyare
 tihetukāmapākamhā ekavīsati bhāsitaṃ
@@ -308,7 +308,7 @@ yathākkamaṃ pañcadasa āruppā paridīpaye
  phalamhā  cuddasevāhu maggamhā tu sakaṃ phalaṃ
 miccevaṃ vigaṇeyya visārado
 
- pañcadasamhādyāvajja-mekavīsatitoparaṃ 
+ pañcadasamhādyāvajjamekavīsatitoparaṃ 
 ekamhā pañcaviññāṇaṃ pañcamhā sampaṭicchanaṃ
 
  sukhasantīraṇaṃ hoti pañcavīsatito paraṃ

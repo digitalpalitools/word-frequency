@@ -99,7 +99,7 @@ Papātavaggo pañcamo.
 3. Jātarūpasuttavaṇṇanā
 1153.Jātarūpa.Rajata–,,,.,.
 4. Āmakadhaññasuttavaṇṇanā
-1154..,.
+1154.------.,.
 5. Āmakamaṃsasuttavaṇṇanā
 1155.Āmakamaṃsapaṭiggahaṇā,.
 6. Kumārikasuttavaṇṇanā
@@ -114,7 +114,7 @@ Papātavaggo pañcamo.
 4. Tulākūṭasuttavaṇṇanā
 1164.kūṭa.tulākūṭaṃ,,,.rūpakūṭaṃ,.Aṅgakūṭaṃ,.Gahaṇakūṭaṃ,.Paṭicchannakūṭaṃ,.
 Kaṃso,kaṃsakūṭaṃ.?.,,‘‘’’,,‘‘’’‘‘’’.
-Mānakūṭaṃ.hadayabhedo.‘‘’’,.Sikhābhedo.,.Rajjubhedo..
+Mānakūṭaṃ--.hadayabhedo.‘‘’’,.Sikhābhedo.,.Rajjubhedo..
 5. Ukkoṭanasuttavaṇṇanā
 1165.Ukkoṭanāukkoṭana.Vañcana.–.‘‘,,,’’?,.‘‘,’’,‘‘,,,’’..,,..,,.‘‘’’.
 Nikatī,.Sāciyogo.....
@@ -136,7 +136,7 @@ sāratthapakāsinī.
 .
 ‘‘;
 .
-‘‘;
+‘‘-;
 .
 ‘‘;
 .

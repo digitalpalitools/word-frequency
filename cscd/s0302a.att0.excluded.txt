@@ -8,7 +8,7 @@ Nidānavagga-aṭṭhakathā
 ?.,,,,...
 ,?..‘‘’’,,.
 Bhadante,.‘‘’’.‘‘’’.‘‘’’,‘‘’’.‘‘’’,‘‘’’.Te bhikkhū,.Bhagavato paccassosu,.Bhagavā etadavocā,.,.
-paṭiccasamuppādaṃ vo.,.–,,,.,–,attajjhāsayo.
+paṭiccasamuppādaṃ vo.,.–,,,.,–------,attajjhāsayo.
 ‘‘.’’(saṃ. ni. 4.121; ma. ni. 3.416),–,,,,,,,parajjhāsayo.
 ‘‘,,–(saṃ. ni. 5.202),,–,,,’’(saṃ. ni. 1.246; su. ni. 183).,,,,,,,,,,pucchāvasiko.
 ,–.,aṭṭhuppattiko.
@@ -18,8 +18,8 @@ paṭiccasamuppādaṃ vo.,.–,,,.,–,attajjhāsayo.
 ,.
 ,,.,..
 paṭiccasamuppāda...,.
-Vo.‘‘’’(ma. ni. 1.326; mahāva. 466).‘‘,,’’(ma. ni. 2.157).‘‘’’(ma. ni. 2.157).‘‘,,’’(ma. ni. 1.190).‘‘,,’’(ma. ni. 1.345).‘‘’’(ma. ni. 1.35)..Bhikkhave.Desessāmī.Taṃ suṇāthā.
-Sādhukaṃ manasi karothā..‘‘,,’’(a. ni. 4.257; saṃ. ni. 4.65; 5.381).‘‘,’’(ma. ni. 3.86).‘‘,’’(dī. ni. 3.349).
+Vo-----.‘‘’’(ma. ni. 1.326; mahāva. 466).‘‘,,’’(ma. ni. 2.157).‘‘’’(ma. ni. 2.157).‘‘,,’’(ma. ni. 1.190).‘‘,,’’(ma. ni. 1.345).‘‘’’(ma. ni. 1.35)..Bhikkhave.Desessāmī.Taṃ suṇāthā.
+Sādhukaṃ manasi karothā.----.‘‘,,’’(a. ni. 4.257; saṃ. ni. 4.65; 5.381).‘‘,’’(ma. ni. 3.86).‘‘,’’(dī. ni. 3.349).
 ‘‘,;
 ,’’.–
 (jā. 2.18.101).‘‘,,’’(a. ni. 5.192).,.‘‘,’’,‘‘’’‘‘’’.Manasi karothā..,.
@@ -43,8 +43,8 @@ Paṭhamapaṭiccasamuppādasuttavaṇṇanā niṭṭhitā.
 2. Vibhaṅgasuttavaṇṇanā
 2..–,.,.,,.
 –tesaṃ tesa.,..,‘‘’’.Tamhi tamhī.Sattanikāye.Jarā jīraṇatājarā.Jīraṇatā.Khaṇḍicca,.jarā,.Jīraṇatā,.Khaṇḍicca.Pālicca.Valittacatā...,,,..
-Āyuno saṃhāni indriyānaṃ paripāko..,‘‘’’.,,‘‘’’.
-.pākaṭajarā,paṭicchannajarā.,,‘‘’’..avīcijarā,.savīcijarā.
+Āyuno saṃhāni indriyānaṃ paripāko--..,‘‘’’.,,‘‘’’.
+.pākaṭajarā,paṭicchannajarā.,,‘‘’’..---avīcijarā,.savīcijarā.
 tesaṃ tesa.Cuti cavanatācutī,.Cavanatā.Bhedo.Antaradhāna.Maccu maraṇa,.,kālakiriyā..
 khandhānaṃ bhedo.,.,.,.,.?.,,,.‘‘’’.Iti ayañca jarā idañca maraṇaṃ, idaṃ vuccati, bhikkhave.
 jāti sañjātījāti,.sañjāti,.okkanti,..abhinibbatti,...
@@ -99,7 +99,7 @@ Phasso dutiyo.,.Manosañcetanā.Viññāṇa..,...,...–,,.,..
 ..
 ,..
 Kiṃnidānā.,‘‘’’,nidāna.,samudayo jāti pabhavo.–kiṃnidānā.kiṃsamudayā.kiṃjātikā.kiṃpabhavā.,‘‘’’..
-.?,,..,.
+.?,,.--.,.
 ,,,taṇhā cāyaṃ, bhikkhave, kiṃnidānā..?.
 ,,,.,,.
 ..,,,,‘‘’’,,.
@@ -324,7 +324,7 @@ Kuddālapiṭaka.Khaṇḍākhaṇḍikaṃ chindeyyā.–,,,,,,,,,,,,..
 ?...‘‘’’,,,..–‘‘,,,’’.–‘‘’’.
 Yāva gambhīroyāva.,.Gambhīrāvabhāso,..........,,,,.
 ‘‘,’’mā heva.
-mā hevaha,.‘‘’’.,,,,,.
+mā hevaha-,.‘‘’’.,,,,,.
 –.‘‘’’...‘‘’’‘‘’’...,,.
 ,,,..,,,...–‘‘,,’’.,..,,,,,,.–‘‘,,’’.,.
 .,,,,,,,..–‘‘.?’’...mā hevaṃ, ānanda, mā hevaṃ, ānandā.
@@ -372,7 +372,7 @@ tatra, bhikkhave, sutavā ariyasāvako.–,,.‘‘,’’,.‘‘’’.
 3. Puttamaṃsūpamasuttavaṇṇanā
 63.cattārome, bhikkhave, āhārā.,.?.,.‘‘’’.,‘‘,,’’?...
 ,.–
-‘‘.…pe…’’(udā. 14; saṃ. ni. 2.70).
+‘‘------.…pe…’’(udā. 14; saṃ. ni. 2.70).
 ‘‘,,,,,,,’’(dī. ni. 3.176).
 .–‘‘,.,’’?
 .–‘‘,.,.’’.–‘‘,.,..,’’..cattārome, bhikkhave, āhārā.

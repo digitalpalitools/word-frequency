@@ -10,16 +10,16 @@ bhavādīsu tathā tepi viññātabbā vibhāvinā
  tayo bhavā catasso ca yoniyo gatipañcakaṃ
 viññāṇaṭṭhitiyo satta sattāvāsā naveritā
 
- puññābhisaṅkhāra-saññitā aṭṭha cetanā
+ puññābhisaṅkhārasaññitā aṭṭha cetanā
 navannaṃ pākacittānaṃ kāme sugatiyaṃ pana
 
- nānākkhaṇikakammūpa-nissayapaccayehi ca
+ nānākkhaṇikakammūpanissayapaccayehi ca
 dvedhā hi paccayā tesaṃ bhavanti paṭisandhiyaṃ
 
- upekkhāsahitāhetu-manoviññāṇadhātuyā 
+ upekkhāsahitāhetumanoviññāṇadhātuyā 
 vinā parittapākānaṃ honti dvedhā pavattiyaṃ
 
- tāyeva cetanā rūpa-bhave dvedhāva paccayā
+ tāyeva cetanā rūpabhave dvedhāva paccayā
 pañcannaṃ pākacittānaṃ bhavanti hi pavattiyaṃ
 
  aṭṭhannaṃ tu parittānaṃ kāme duggatiyaṃ tathā
@@ -43,7 +43,7 @@ pavatte paccayā honti na honti paṭisandhiyaṃ
  viññāṇānaṃ catunnampi tesaṃ rūpabhave tathā
 pavatte paccayā honti na honti paṭisandhiyaṃ
 
- so  ca kāmabhaveniṭṭha-rūpādiupaladdhiyaṃ
+ so  ca kāmabhaveniṭṭharūpādiupaladdhiyaṃ
 aniṭṭharūpādayo pana brahmaloke na vijjare
 
  tathevāneñjasaṅkhāro  bhūmiyaṃ
@@ -55,13 +55,13 @@ yathā ca paccayā honti tathā ñeyyā vibhāvinā
  eseva ca nayo ñeyyo yoniādīsu tatridaṃ
 ādito pana paṭṭhāya mukhamattanidassanaṃ
 
- avisesena puññābhi-saṅkhāro dvibhavesupi
+ avisesena puññābhisaṅkhāro dvibhavesupi
 datvāna paṭisandhiṃ tu sabbapākaṃ janeti so
 
  tathā catūsu viññeyyo aṇḍajādīsu yonisu
 bahudevamanussānaṃ gatīsu dvīsu eva ca
 
- tathā nānattakāyādi-viññāṇānaṃ ṭhitīsupi
+ tathā nānattakāyādiviññāṇānaṃ ṭhitīsupi
 tathā vuttappakārasmiṃ sattāvāse catubbidhe
 
  evaṃ puññābhisaṅkhāro bhavādīsu yathārahaṃ
@@ -90,7 +90,7 @@ saṅkantibhāve asati paṭisandhi kathaṃ siyā
  natthi cittassa saṅkanti atītabhavato idha
 tato hetuṃ vinā tassa pātubhāvo na vijjati
 
- suladdhapaccayaṃ rūpā-rūpamattaṃ tu jāyati
+ suladdhapaccayaṃ rūpārūpamattaṃ tu jāyati
 uppajjamānamevaṃ tu labhitvā paccayaṃ pana
 
  bhavantaramupetīti samaññāya pavuccati
@@ -111,7 +111,7 @@ pubbānusevitaṃ kammaṃ puññaṃ vāpuññameva vā
  kammaṃ kammanimittaṃ vā ālambitvā pavattati
 evaṃ pavattamānaṃ taṃ viññāṇaṃ laddhapaccayaṃ
 
- avijjāya paṭicchannā-dīnave visaye pana
+ avijjāya paṭicchannādīnave visaye pana
 taṇhā nameti saṅkhārā khipanti sahajā pana
 
  na mīyamānaṃ taṇhāya taṃ santativasā pana
@@ -127,7 +127,7 @@ purimaṃ cavanaṃ ettha pacchimaṃ paṭisandhi tu
 kammādiñca vinā hetuṃ pātubhūtaṃ na ceva taṃ
 
  ettha cetassa cittassa purimā bhavato pana
-idhānāgamanetīta-bhavahetūhi sambhave
+idhānāgamanetītabhavahetūhi sambhave
 
  paṭighosadīpamuddādī bhavantettha nidassanā
 yathā āgantvā aññatra honti saddādihetukā
@@ -138,14 +138,14 @@ santānabandhato natthi ekatā vāpi nānatā
  sati santānabandhe tu ekantenekatā siyā
 khīrato dadhisambhūtaṃ na bhaveyya kadācipi
 
- athāpi pana ekanta-nānatā sā bhaveyya ce
+ athāpi pana ekantanānatā sā bhaveyya ce
 khīrasāmī naro neva dadhisāmī bhaveyya so
 
- tasmā ettha panekanta-ekatānānatāpi vā
+ tasmā ettha panekantaekatānānatāpi vā
 na ceva upagantabbā viññunā samayaññunā
 
- nanu evamasaṅkanti-pātubhāve tassa sati
-ye imasmiṃ manussatta-bhāve khandhābhisambhavā
+ nanu evamasaṅkantipātubhāve tassa sati
+ye imasmiṃ manussattabhāve khandhābhisambhavā
 
  tesaṃ idha niruddhattā kammassa phalahetuno
 paratthāgamato ceva idha tassa katassa hi
@@ -170,7 +170,7 @@ madhuro phalaso tassa hoti kālantare pana
 pāpuṇanti phalaṭṭhānaṃ evaṃ ñeyyamidampi ca
 
  bālakāle payuttena vijjāsipposadhādinā
-dīpetabbo ayaṃ vuddha-kālasmiṃ phaladāyinā
+dīpetabbo ayaṃ vuddhakālasmiṃ phaladāyinā
 
  evaṃ santepi taṃ kammaṃ vijjamānampi vā pana
 phalassa paccayo hoti atha vāvijjamānakaṃ

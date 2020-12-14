@@ -13,8 +13,8 @@ ti ettha gacchantopi parissayābhāvaṃ oloketuṃ labhatiyeva tathā gāme pū
 
 
  tatiyavagge patte saññā pattasaññā sā assa atthīti  attano bhājane upanibandhasaññī hutvāti attho byañjanaṃ pana anādiyitvā atthamattameva dassetuṃ ti vuttaṃ
-ti  ekā byañjanavikati yo koci suddho kañjikatakkādirasaoti keci -ggahaṇena yā kāci sūpeyyasākehi  katā byañjanavikati vuttā ti -saddena avasesā sabbāpi byañjanavikati saṅgahitāti daṭṭhabbaṃ teneva   vuttaṃ ṭhapetvā pana sūpaṃ avasesā sabbāpi sūpeyyā byañjanavikati rasaraso nāma hotīti
-nti adhiṭṭhānupagassa pattassa antomukhavaṭṭilekhaṃ anatikkāmetvā racitaṃ nti tasseva vevacanaṃ ti -saddena odanādimpi saṅgaṇhāti ti samantā okāsasabbhāvato cāliyamānaṃ heṭṭhā bhassati matthake thūpīkataṃ pūvameva vaṭaṃsakasadisattā nti vuttaṃ dīsupi eseva nayo
+ti  ekā byañjanavikati yo koci suddho kañjikatakkādirasaoti keci ggahaṇena yā kāci sūpeyyasākehi  katā byañjanavikati vuttā ti saddena avasesā sabbāpi byañjanavikati saṅgahitāti daṭṭhabbaṃ teneva   vuttaṃ ṭhapetvā pana sūpaṃ avasesā sabbāpi sūpeyyā byañjanavikati rasaraso nāma hotīti
+nti adhiṭṭhānupagassa pattassa antomukhavaṭṭilekhaṃ anatikkāmetvā racitaṃ nti tasseva vevacanaṃ ti saddena odanādimpi saṅgaṇhāti ti samantā okāsasabbhāvato cāliyamānaṃ heṭṭhā bhassati matthake thūpīkataṃ pūvameva vaṭaṃsakasadisattā nti vuttaṃ dīsupi eseva nayo
 yasmā samatittiko piṇḍapāto paṭiggahetabboti vacanaṃ piṇḍapāto sampuṇṇo paṭiggahetabboti dīpeti tasmā attano hatthagate patte piṇḍapāto diyyamāno thūpīkatopi ce hoti vaṭṭatīti dīpeti thūpīkataṃ piṇḍapātaṃ paṭiggaṇhāti āpatti dukkaṭassāti hi vacanaṃ paṭhamaṃ thūpīkataṃ piṇḍapātaṃ pacchā paṭiggaṇhato āpattīti dīpeti patte paṭiggaṇhato ca thūpīkataṃ hoti vaṭṭati athūpīkatassa paṭiggahitattā payogo pana natthi aññatra pubbadesāti  vuttaṃ taṃ na sārato paccetabbaṃ na thūpīkataṃ piṇḍapātaṃ paṭiggaṇhātīti vacanaṃ paṭhamaṃ thūpīkatasseva pacchā paṭiggaṇhanaṃ dīpeti na hi hatthagatepi patte diyyamānaṃ thūpīkataṃ gaṇhanto thūpīkataṃ piṇḍapātaṃ paṭiggaṇhanto nāma na hoti na ca tena samatittiko piṇḍapāto paṭiggahitoti sakkā viññātuṃ thūpīkatanti ca bhāvanapuṃsakaniddese gayhamāne ayamattho suṭṭhutaraṃ pākaṭoyevāti
 
 
@@ -23,7 +23,7 @@ yasmā samatittiko piṇḍapāto paṭiggahetabboti vacanaṃ piṇḍapāto sa
  ujjhāne saññā ujjhānasaññā sā assa atthīti  mayūraṇḍaṃ atimahantanti vacanato mayūraṇḍappamāṇo kabaḷo na vaṭṭati keci pana mayūraṇḍato mahanto na vaṭṭatīti vadanti taṃ na gahetabbaṃ nātimahantanti ca atimahantasseva paṭikkhittattā khuddake āpatti na dissati mayūraṇḍaṃ atimahantaṃ kukkuṭaṇḍaṃ atikhuddakaṃ tesaṃ vemajjhappamāṇoti iminā pana sāruppavasena khuddakampi paṭikkhipitvā paricchedo na dassitoti veditabbaṃ
 
 
- pañcamavagge nti ettha -saddo tadekadesesu aṅgulīsu daṭṭhabbo hatthamuddātiādīsu viya samudāye pavattavohārassa avayavepi vattanato ekaṅgulimpi mukhe pakkhipituṃ na vaṭṭati
+ pañcamavagge nti ettha saddo tadekadesesu aṅgulīsu daṭṭhabbo hatthamuddātiādīsu viya samudāye pavattavohārassa avayavepi vattanato ekaṅgulimpi mukhe pakkhipituṃ na vaṭṭati
 
 
  chaṭṭhavagge ti sītaṭṭo sītapīḷitoti vuttaṃ hoti ti parihāsavacanametaṃ silakañhi kañci disvā buddho ayanti voharanti
@@ -44,7 +44,7 @@ nti ayaṃ gāthāpi
 sālīnaṃ odanaṃ bhuñje suciṃ maṃsūpasecanaṃ
 tasmā etaṃ na sevāmi dhammaṃ isīhi sevitanti  
 evaṃ jātake āgatā tattha nti paṇḍaraṃ parisuddhaṃ nti nānappakārāya maṃsavikatiyā sittaṃ bhuñje bhuñjāmīti attho sesaṃ pākaṭameva
-ti dhi atthu nindā bhavatūti attho garahāma taṃ mayanti vuttaṃ hoti ti dhanalābhaṃ yasalābhañca sandhāya vadati ti vinipātanassa hetubhāvena ti yathāvutto duvidhopi lābho apāyasaṃvattanikatāya samparāye vinipātanahetubhāvena pavattanato sampati adhammacaraṇena pavattanato ca vutti nāma hotīti attho ti evarūpā dhanalābhayasalābhasaṅkhātā yā vutti ti -saddo sampiṇḍanattho nti upayogatthe paccattavacanaṃ taṃ icceva vā pāṭho ti pāsāṇādhivacanametaṃ
+ti dhi atthu nindā bhavatūti attho garahāma taṃ mayanti vuttaṃ hoti ti dhanalābhaṃ yasalābhañca sandhāya vadati ti vinipātanassa hetubhāvena ti yathāvutto duvidhopi lābho apāyasaṃvattanikatāya samparāye vinipātanahetubhāvena pavattanato sampati adhammacaraṇena pavattanato ca vutti nāma hotīti attho ti evarūpā dhanalābhayasalābhasaṅkhātā yā vutti ti saddo sampiṇḍanattho nti upayogatthe paccattavacanaṃ taṃ icceva vā pāṭho ti pāsāṇādhivacanametaṃ
 
 
 

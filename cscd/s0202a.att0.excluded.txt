@@ -10,11 +10,11 @@ Yāvañcidaida.Yāvā,,,,.Etaparamaṃyevā,,,.,.paṭipādito.,.,‘‘,,,’�
 2.Evametaṃ kandarakā.‘‘,,,,’’.
 Santi hi kandarakā.–‘‘,.,,,.’’‘‘’’‘‘’’.
 arahanto khīṇāsavā,..Santatasīlā.Santatavuttino,.,.
-Nipakā.Nipakavuttino,.,,.(vibha. 514),,,,,,,,,,,,,,,,,,,,,,,samaṇayakkho‘‘’’.,,,,,,,.
+Nipakā.Nipakavuttino,.,,.(vibha. 514),,,,,,,,,,,,,,,,,,,,,,,samaṇayakkho‘‘’’.,,,,,,,---.
 Suppatiṭṭhitacittā..,.
 3.Yāva supaññattā.Mayampi hi, bhante,.,,,…pe…,,,,,.Manussagahane,.Kasaṭasāṭheyyesupi.kasaṭatā,sāṭheyyatā.Sattānaṃ hitāhitaṃ jānātī.Yadidaṃ pasavo.Pahomī.Yāvatakena antarenā.Campaṃ gatāgataṃ karissatī.Sāṭheyyānī.Kūṭeyyānī.Vaṅkeyyānī.Jimheyyānī.Pātukarissatī..
 ,,,saṭho.,,,kūṭo.,,,vaṅko.,,,,,,,jimho...
-amhākaṃ pana, bhante.dāsā.Pessā.Kammakarā.Aññathāva kāyenā,,.,,,,,.‘‘’’,,,,.
+amhākaṃ pana, bhante.dāsā.Pessā.Kammakarā.Aññathāva kāyenā,,.,,---,,,.‘‘’’,,,,.
 4.Cattārome pessapuggalā.‘‘,,’’.,,..‘‘’’.‘‘’’.Santo.‘‘’’(vibha. 542).‘‘’’(ma. ni. 1.82).‘‘’’(jā. 2.21.413)..
 attantapo.attaparitāpanānuyogaṃ.parantapo.paraparitāpanānuyogaṃ.Diṭṭheva dhamme.Nicchāto,.nibbuto.sītibhūto.sukhapaṭisaṃvedī.Brahmabhūtena attanā.Cittaṃ ārādhetī,.
 5.Dukkhapaṭikkūla,.
@@ -38,11 +38,11 @@ Kimaṅgaṃ panāha;,.Paccekadussayugenaacchādesī.,.Pañcasatavihāra..
 Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
 3. Sekhasuttavaṇṇanā
-22.Evaṃme suta.navaṃ santhāgāra,.‘‘,,,,,’’,,santhāgāra.,.,,,.‘‘’’.‘‘,’’,.Acirakāritaṃ hotī.Samaṇena vā,‘‘’’‘‘’’.
+22.Evaṃme suta.navaṃ santhāgāra,.‘‘,,,,,’’,,santhāgāra.,.,,,.‘‘’’.‘‘,’’,.Acirakāritaṃ hotī--.Samaṇena vā,‘‘’’‘‘’’.
 Yena bhagavā tenupasaṅkamiṃsū‘‘,’’‘‘’’‘‘,,,,,,,’’.
 Yena santhāgāraṃ tenupasaṅkamiṃsū,.,..
-Sabbasanthariṃ santhāgāraṃ santharitvā,.‘‘’’,.‘‘’’.
-Āsanāni paññāpetvā,‘‘’’.‘‘’’.
+Sabbasanthariṃ santhāgāraṃ santharitvā,.‘‘’’,------.‘‘’’.
+Āsanāni paññāpetvā,--‘‘’’.‘‘’’.
 Udakamaṇika.Upaṭṭhapetvā,.‘‘’’.
 Telappadīpaṃ āropetvā.Yena bhagavā tenupasaṅkamiṃsū,‘‘,,,,’’.
 Athakho bhagavā nivāsetvā pattacīvaramādāya saddhiṃ bhikkhusaṅghena yena navaṃ santhāgāraṃ tenupasaṅkamī.‘‘,,’’..
@@ -101,11 +101,11 @@ Kāpilavatthavesakye bahudeva rattiṃ dhammiyā kathāyā..‘‘,..’’–
 Āyasmantaṃ ānandaṃ āmantesī...,.,,–‘‘’’..
 Sekho pāṭipado.,.?.,.,.,.,,,,,,.
 Piṭṭhi me āgilāyatī?,...,,.,.,..‘‘’’,.
-Saṅghāṭiṃ paññāpetvā‘‘,’’..Uṭṭhānasaññaṃ manasi karitvā.
+Saṅghāṭiṃ paññāpetvā---‘‘,’’..Uṭṭhānasaññaṃ manasi karitvā.
 23.Mahānāmaṃ sakkaṃ āmantesī,.Sīlasampanno,.Saddhammehī,.
 24.Kathañca mahānāmā.sīlasampanno‘‘,,’’.
 25.Kāyaduccaritenā,.,.Āraddhavīriyo.Pahānāyā.Upasampadāyā.Thāmavā.Daḷhaparakkamo.Anikkhittadhuro kusalesu dhammesū.Paramenā.Satinepakkenā.?.,.
-Cirakatampī.Cirabhāsitampī.Saritā anussaritā‘‘,.,.’’,..,.
+Cirakatampī.Cirabhāsitampī-----.Saritā anussaritā‘‘,.,.’’,..,.
 Udayatthagāminiyā.Ariyāyā.Paññāya samannāgato.Nibbedhikāyā,..‘‘’’.Sammā dukkhakkhayagāminiyā‘‘..’’.
 26.Abhicetasikāna.Diṭṭhadhammasukhavihārāna.Nikāmalābhī.Akicchalābhī.Akasiralābhī.,,,.,,,.
 27.Ayaṃvuccati mahānāma ariyasāvako sekho pāṭipado.Apuccaṇḍatāyā.Bhabbo abhinibbhidāyā.Sambodhāyā.Anuttarassa yogakkhemassā,.,.‘‘’’,‘‘’’...
@@ -124,7 +124,7 @@ Sekhasuttavaṇṇanā niṭṭhitā.
 ,,.
 ,.....,.,...,,,,...,.,..
 Āpaṇaṃnāmā..,..Yenaññataro vanasaṇḍo tenupasaṅkamī.Potaliyopi kho gahapatī.Sampannanivāsanapāvuraṇo,.Chattupāhanāhī.Āsanānī..Gahapativādenā.Samudācaratī.
-Bhagavantaṃ etadavocā‘‘,,’’.nacchanna.Nappatirūpa.Ākārā.ākārā,liṅgā,nimittā.Yathā taṃ gahapatissā,..,‘‘’’.
+Bhagavantaṃ etadavocā‘‘,,’’.nacchanna.Nappatirūpa.Ākārā.-ākārā,liṅgā,nimittā.Yathā taṃ gahapatissā,..,‘‘’’.
 Niyyāta.Anovādī anupavādī‘‘,,,’’.‘‘,,,,’’...Ghāsacchādanaparamoviharāmī,,.
 32.Giddhilobhopahātabbo.Anindārosa.Nindāroso.Vohārasamucchedāyāvohāro.–
 ‘‘,;
@@ -177,7 +177,7 @@ Abhivādetvā.,.?.,.Āgamā nu khvidhā.
 .‘‘,.,‘’.,....’’..
 Na kho te sandhiyatī.Purimena vā pacchima‘‘’’‘‘’’.Pacchimena vā purima.
 63.‘‘’’.cātuyāmasaṃvarasaṃvuto,,.,,.,,.,,.bhāvita.
-Sabbavārivārito,.,.sabbavārivārito.Sabbavāriyutto.Sabbavāridhuto.Sabbavāriphuṭo.Khuddake pāṇe saṅghātaṃ āpādetī...,..Kismiṃ paññapetī.Manodaṇḍasmi,.–‘‘‘,’,,’’.
+Sabbavārivārito,.,.sabbavārivārito.Sabbavāriyutto.Sabbavāridhuto.Sabbavāriphuṭo.Khuddake pāṇe saṅghātaṃ āpādetī..--.,..Kismiṃ paññapetī.Manodaṇḍasmi,.–‘‘‘,’,,’’.
 64.Iddhā.Phītā.Ākiṇṇamanussā.Pāṇā.Ekaṃ maṃsakhala.Puñja.Iddhimā.Cetovasippatto.Bhasmaṃkarissāmī.Kiñhi sobhati ekā chavā nāḷandā–‘‘,.,’’.
 65.Araññaṃ araññabhūta.Isīnaṃ manopadosenā...
 –daṇḍakīrañño..
@@ -221,7 +221,7 @@ kāliṅgāraññassa.
 .‘‘,.’’–‘‘,’’.–‘‘,,,,’’‘‘’’.
 –‘‘,,’’..–‘‘,’’..–‘‘,,,‘,’’’.
 –‘‘,’’.–‘‘,,,’’–‘‘,‘’’’.
-.–‘‘,’’.–‘‘,’’.
+.–‘‘,’’.–‘‘,----’’.
 –‘‘,,’’.‘‘’’.–‘‘,,’’..
 ‘‘’’.–‘‘,,,’’..–‘‘,’’.
 ..‘‘’’....–‘‘,’’...
@@ -384,7 +384,7 @@ Bahuvedanīyasuttavaṇṇanā niṭṭhitā.
 Tatrā.Kaliggaho.Dussamatto samādinno.Ekaṃsaṃ pharitvā tiṭṭhatī,‘‘’’.Riñcatī.
 96.Saddhammasaññattī.
 Kaṭaggaho.Susamatto samādinno.Ubhayaṃsaṃpharitvā tiṭṭhatī‘‘’’‘‘’’..
-97.Karoto.Kārayato.Chindato.Pacato.Socayato.Kilamato.Phandato phandāpayato.Pāṇamatipātayato..
+97.Karoto.Kārayato.Chindato.Pacato.Socayato.Kilamato-.Phandato phandāpayato.Pāṇamatipātayato..
 Sandhi.Nillopa.Ekāgārika.Paripanthetiṭṭhato.Karoto na karīyati pāpa,..Khurapariyantenā,.Ekaṃ maṃsakhala.Puñja.Tatonidāna.,hananto.,dadanto.
 yajanto.Damenā.Saṃyamenā.Saccavajjenā.Āgamo,....
 100.Natthi hetu natthi paccayo..Natthibalaṃ, natthi vīriyaṃ, natthi purisathāmo, natthi purisaparakkamo.

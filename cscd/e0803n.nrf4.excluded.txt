@@ -1,6 +1,6 @@
 ﻿4. Bhūdhātumayanāmikarūpavibhāga
 ‘‘’’,;
-.
+-.
 ,,;
 ,.
 ’,’;
@@ -58,11 +58,11 @@ Ubhū,u‘‘,’’.,go,.bhūtaparābhūtasambhūta.
 ?,,,.Peyyālo.,,,,,,,,,,,,,,,,,,,,,,,,,,peyyālo.,.bhū.,bhū.
 ,;
 ,.
-,,,,,,;
+,,,,,,-;
 ,.
 Ā icu,;
 ,o.
-,,,;
+,,-,;
 ,.
 ,;
 ,.
@@ -86,7 +86,7 @@ bhava–
 ,bhava.
 ,;
 ,bhava.
-;
+-;
 ,bhava.
 Abhavo.
 ,;
@@ -108,9 +108,9 @@ Pabhāvo,.‘‘,’’.Anubhavo,?.Ānubhāvo.‘‘’’.
 ,.
 ānubhāvo.‘‘’’.Parābhavo,.‘‘’’.‘‘’’..?.‘‘’’.Vibhavo.,..Vibhava‘‘,’’.–
 ,;
-’.
+-’.
 ’,’;
-.
+-.
 ,
 ;
 ,
@@ -119,7 +119,7 @@ Pabhāvo,.‘‘,’’.Anubhavo,?.Ānubhāvo.‘‘’’.
 ,.
 ,;
 ,.
-‘‘’’;
+‘‘’’-;
 ,.
 ’,’;
 ,’.
@@ -128,12 +128,12 @@ Pabhāvo,.‘‘,’’.Anubhavo,?.Ānubhāvo.‘‘’’.
 ’,;
 ,.
 Gotrabhū,;
-.
+-.
 Vibhavo..‘‘,’’..‘‘’’..‘‘’’.–
 ,;
 ,.
 ‘‘’’.‘‘’’..–
-;
+-;
 vibhava,.
 Pātubhāvo.Āvibhāvo,.Tirobhāvo,.Vinābhāvo,.Sotthibhāvo,,.Atthibhāvo.Natthibhāvo.O.
 abhibhavitā,.paribhavitā,anubhavitā,.samanubhavitā. Paccanubhavitā,‘‘.’’‘‘’’‘‘’’,‘‘’’..Ā.
@@ -161,7 +161,7 @@ Sayambhū.?.–
 ,;
 ,.
 ,;
-.
+-.
 ,;
 ,.
 ,;
@@ -171,34 +171,34 @@ Sayambhū.?.–
 ,
 .
 ,;
-.
-;
-.
+-.
+-;
+-.
 ’,;
 ,.
 ,’;
-.
+-.
 ,;
-.
-;
+-.
+-;
 ’,’.
 ,;
-.
+-.
 ,;
 ,.
 ,;
-.
+-.
 ,;
-.
+-.
 ,;
 ,.
-;
+-;
 ,.
 ,‘‘’’;
 ‘‘’’,.
 ‘‘,’’;
 ,.
-;
+-;
 ,.
 ,;
 ,.
@@ -245,7 +245,7 @@ Bhūmī,..‘‘’’.,–
 ,;
 ,’’.
 bhū ku go?
-;
+-;
 Bhū ku go,.
 Bhūtī.Vibhūtī,,,,‘‘.’’.I.
 Bhūrī.,,.,.Bhūrī‘‘’’.,,,‘‘,’’.,,‘‘’’.,.paṭisambhidāmagge‘‘,.…pe…,,..…pe…,,’’.‘‘’’‘‘’’bhū.,.–
@@ -253,7 +253,7 @@ Bhūrī.,,.,.Bhūrī‘‘’’.,,,‘‘,’’.,,‘‘’’.,.paṭisambhid
 ,.
 ,;
 ,.
-;
+-;
 ,;
 cābhidhammasmā,.
 ,;
@@ -262,11 +262,11 @@ cābhidhammasmā,.
 ,;
 ,.
 ‘‘’’,;
-.
+-.
 ‘‘’’,;
-.
+-.
 ,paramo;
-.
+-.
 ,anuttara;
 ,.
 ‘‘’’,;
@@ -285,22 +285,22 @@ bhūtaparābhūtasambhūta.bhū.
 –bhūta.,...‘‘,.,,’’.?,‘‘,,’’bhūta.Mahābhūta..?,,,,..–
 ,bhūta;
 ,.
-Bhūta sambhūta;
+Bhūta sambhūta-;
 ,.
 ‘‘,,,;
 ,,.
 ’’,;
 ,.
 Bhavitta.,‘‘,’’.
-‘‘’’‘‘’’;
+‘‘’’‘‘’’-;
 ,.
 Bhūna.‘‘,’’,‘‘’’.
 Bhavana.,‘‘’’.‘‘,’’.Parābhavana.Sambhavana.Vibhavana.Pātubhavana.Āvibhavana.Tirobhavana.Vinābhavana.Sotthibhavana.Paribhavana.Abhibhavana.Adhibhavana.Anubhavana.Samanubhavana.Paccanubhavana..
 Atthavibhāvī.dhammavibhāvi. I.
 Gotrabhū.,‘‘’’..,,‘‘’’,‘‘’’.–
-‘‘’’;
+‘‘’’-;
 ,.
-‘‘’’;
+‘‘’’-;
 ,.
 ,;
 ’,.

@@ -12,7 +12,7 @@ dānaṃ daṇḍissaraṃ nāma sadā dāpesi bhūpati
 
  ādipādo mahindo so
 vasanto rohaṇe tadā
-gahetuṃ rājinoraṭṭha-
+gahetuṃ rājinoraṭṭha
 mādāya balamāgato
 
  taṃ sutvā kupito rājā balaṃ pesesi attano
@@ -55,7 +55,7 @@ theriyānaṃ akāvāsaṃ thūpārāmassa pacchato
 tathā sāgalikānañca kassapasenanāmakaṃ
 
  hadayuṇhābhidhānaṃ so katvā cetiyapabbate
-pariveṇaṃ adādhamma-rucikānañca bhikkhūnaṃ
+pariveṇaṃ adādhammarucikānañca bhikkhūnaṃ
 
  ārāmikānaṃ bhikkhūnaṃ ārāmesu tahiṃ tahiṃ
 ekamekaṃ kuṭiṃ katvā dāpesi ca camūpati
@@ -70,7 +70,7 @@ paṃsukūlikabhikkhūnaṃ samuddagirināmakaṃ
 mahāvihāre bhikkhūnaṃ vane nivāsataṃ adā
 
  vihāresū ca jiṇṇesu navakammamakārayi
-dāpesi aggalaṃ sabba-bhikkhūnaṃ jiṇṇacīvare
+dāpesi aggalaṃ sabbabhikkhūnaṃ jiṇṇacīvare
 
  tissārāmaṃ karitvāna bhikkhūnīnamupassayaṃ
 maricavaṭṭimahābodhi parihāre nivesayi
@@ -124,7 +124,7 @@ yuttāyuttavicārāya nipuṇo nayakovido
 parappavādivātehi sabbehipi akampiyo
 
  māyāsāṭheyyamānādi pāpānañca agocaro
-guṇānaṃ ākaro sabba-ratanānaṃ vasāgaro
+guṇānaṃ ākaro sabbaratanānaṃ vasāgaro
 
  bhūmicando  narindo so vaṃse jātassa attano
 dappuḷassādīpādassa yuvarājapadaṃ adā
@@ -150,7 +150,7 @@ nisinno maṇḍape ramme nānāratanabhūsite
  nagarehi ca sabbehi bhikkhūhi parivārito
 buddhalilāya laṃkindo abhidhamma mabhāsayi
 
- soṇṇapaṭṭe likhāpetvā-bhidhammapiṭakaṃ tadā
+ soṇṇapaṭṭe likhāpetvābhidhammapiṭakaṃ tadā
 dhammasaṅgaṇikaṃ potthaṃ nānāratana bhūsitaṃ
 
  katvā nagaramajjhamhi kāretvā hemamuttamaṃ
@@ -190,7 +190,7 @@ adāsi sahagāmehi theriyānaṃ sanāmikaṃ
 pariveṇaṃ karitvāna sagāmaṃ sakanāmakaṃ
 
  upassayaṃ karitvāna sā eva padalañchane
-bhikkhūnīnaṃ adā thera-vaṃse sabbattha pūjite
+bhikkhūnīnaṃ adā theravaṃse sabbattha pūjite
 
  sakkasenāpati mātā devāraññaka bhikkhūnaṃ
 theravaṃsappadīpānaṃ akāvāsaṃ sanāmakaṃ
@@ -241,7 +241,7 @@ sutvā dayālubhāvena senaṃ āṇāpayī tato
 vaḍḍhesi tena taṃ puttaṃ katvā senāya nāyakaṃ
 
  nikāyattayavāsīhi parittaṃ nagare tadā
-kāretvā rogadubbuṭṭhi-bhayaṃ nāsesi jantunaṃ
+kāretvā rogadubbuṭṭhibhayaṃ nāsesi jantunaṃ
 
  sāsanassa ca lokassa santiṃ katvā anekadhā
 rājā so dasame vasse sukhena tidivaṃ gato

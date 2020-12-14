@@ -7,7 +7,7 @@ nāmaṃ rūpaṃ tu duvidhaṃ bhūtopādāyabhedato
  kāmabhūmādibhedena tattha cittaṃ catubbidhaṃ
 cetoyuttā dvipaññāsa dhammā cetasikā matā
 
- cakkhusotaghānajivhā-kāyaviññāṇadhātuyo
+ cakkhusotaghānajivhākāyaviññāṇadhātuyo
 sampaṭicchanacittañca tathā santīraṇadvayaṃ
 
  somanassasahagataṃ upekkhāsahitanti ca
@@ -41,7 +41,7 @@ hitvāhetukapāpāni sobhanāni tato paraṃ
 dvidhā ñāṇena saṃyuttaṃ vippayuttanti bheditaṃ
 
  asaṅkhāraṃ sasaṅkhāramiti bhinnaṃ panaṭṭhadhā
-sahetukāmāvacara-puññapākakriyā bhave
+sahetukāmāvacarapuññapākakriyā bhave
 
  kāme tevīsa pākāni puññāpuññāni vīsati
 ekādasa kriyā ceti catupaññāsa sabbathā
@@ -89,7 +89,7 @@ catutthasukhite pīti chandohetumhi momuhe
  chasaṭṭhi pañcapaññāsa ekādasa ca soḷasa
 sattati vīsati ceva tāni cittāni dīpaye
 
- mohāhirikānottappa-muddhaccaṃ  sabbapāpajaṃ
+ mohāhirikānottappamuddhaccaṃ  sabbapāpajaṃ
 issāmaccherakukkuccadosā tu paṭighe tathā
 
  lobho lobhe tu diṭṭhi ca diṭṭhiyutte viyuttake
@@ -196,7 +196,7 @@ cittamuttamamidaṃ pakāsitaṃ
 sādhu cetasi nidhāya paṇḍitā
 sādhu sāsanadharā bhavanti te
 
- buddhappavattamavagāhitabodhiñāṇa-
+ buddhappavattamavagāhitabodhiñāṇa
 miccābhidhammamavagāhitasabbadhammaṃ 
 ogayha nāmagatarāsimasesayitvā
 saṅgayha sabbamidha yojitamādarena

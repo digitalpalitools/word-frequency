@@ -6,7 +6,7 @@
 ‘‘’’..
 ,.,..,..,.....,.....–
 .,,.......
-..,........paṭiccasamuppādanayo...paṭṭhānanayo.
+..,.....-...paṭiccasamuppādanayo...paṭṭhānanayo.
 ..,...tabbhāvabhāvibhāvākāramattaṃ...Āhaccapaccayaṭṭhitiṃ ārabbhā...Ārabbhā.Vuccatī.
 Ubhayaṃ pana vomissitvā papañcenti ācariyā.......avijjāpaccayo..saṅkhārā.viññāṇaṃ..nāmaṃ.rūpaṃ.āyatanaṃ..phasso..vedanā..taṇhā...upādānaṃ...
 bhavo..jāti..jarā..soko..paridevo..dukkhaṃ.domanassaṃ.upāyāso...Eva..Etassakevalassadukkhakkhandhassā....
@@ -15,7 +15,7 @@ Saṅkhārā..................Viññāṇa..Nāmarūpa...
 ‘‘’’..
 Saḷāyatana...–
 .............
-Phassavedanādayopi.Taṇhupādānāni.Bhavo......Jātijarāmaraṇāni.sokonāma.paridevonāma.dukkhaṃnāma.domanassaṃnāma.upāyāsonāma.......avijjāpacca yāsaṅkhārā......Saṅkhārapaccayāviññāṇa.Viññāṇapaccayānāma rūpa.....nāmarūpapaccayā saḷāyatana..saḷāyatanapaccayāphasso.phassapaccayāvedanā.vedanāpaccayātaṇhā.,taṇhāpaccayāupādāna.upādānapaccayābhavo..–
+Phassavedanādayopi.Taṇhupādānāni.Bhavo...-...Jātijarāmaraṇāni.sokonāma.paridevonāma.dukkhaṃnāma.domanassaṃnāma.upāyāsonāma.......avijjāpacca yāsaṅkhārā......Saṅkhārapaccayāviññāṇa.Viññāṇapaccayānāma rūpa.....nāmarūpapaccayā saḷāyatana..saḷāyatanapaccayāphasso.phassapaccayāvedanā.vedanāpaccayātaṇhā.,taṇhāpaccayāupādāna.upādānapaccayābhavo..–
 ,.
 bhavapaccayājātī.jātipaccayājarāmaraṇa...Etthā.Tatthā....,..tayoaddhā.
 [227]vibhāvaniyaṃ
@@ -24,7 +24,7 @@ bhavapaccayājātī.jātipaccayājarāmaraṇa...Etthā.Tatthā....,..tayoaddhā
 .....sokādivacanaṃ panettha nissanda phalanidassana........avijjāsaṅkhāraggahaṇenā...Taṇhupādānabhavāpi gahitā bhavantī,.,.
 Vibhāvaniyaṃ
 ...
-..jātijarā.La. Gahita.Itikatvā.......tisandhi catusaṅkhepāca bhavantī.............kammabhavasaṅkhātobhave kadeso..
+..jātijarā.La. Gahita.Itikatvā.......tisandhi catusaṅkhepāca bhavantī.......-......kammabhavasaṅkhātobhave kadeso..
 [228]vibhāvaniyaṃ
 ‘‘’’..
 ..Avasesācā........avijjā taṇhāvasena dve mūlānī.,.........
@@ -36,8 +36,8 @@ Tesamevaca mūlānaṃ, nirodhena nirujjhatī.
 ......jarāmaraṇa mucchāyā....Āsavānaṃsamuppādāavijjāca pavaḍḍhati...–
 ,;
 ,.
-......,...,.............Icceva...
-.Anādika..,......,.............,..Paṭhapesī..
+.-.....,...,....-.........Icceva...
+.Anādika..,......,.........-.-...-,..Paṭhapesī..
 167.hetupaccayo.hetupaccayo,.,..............
 .ārammaṇapaccayo..adhipatipaccayo...,anantarapaccayo.samanantarapaccayo.......,......
 ,.,,sahajātapaccayo...aññamaññapaccayo....nissayapaccayo....upanissayo.,.,....
@@ -76,10 +76,10 @@ Pañcālambaṇānica pañcaviññāṇavīthiyā....,,,,,,,,,,,.....Ārammaṇa
 ...Sahajātānaṃnāmarūpāna.Aññamaññaṃ sahajāta rūpānañcā...paṭisandhikkhaṇe vatthuvipākā aññamañña....cittacetasikādhammāaññamañña.
 [235] Vibhāvaniyaṃ
 ‘‘..’’.....
-Chavatthūni sattannaṃ viññāṇadhātūna..,,.,...,.,..,,,..
+Chavatthūni sattannaṃ viññāṇadhātūna..,,.,...,.-,..,,,..
 .....,,.....,.......
 ......,.,....
-,..Kabaḷī kāro āhāro.,.,.–
+,..Kabaḷī kāro āhāro.,.-,.–
 ,.,
 ..Imassakāyassā.....cittacetasikādhammā sahajātarūpānaokkantikkhaṇevatthuvipākāna.
 Sabbathā..Rūpajīvitamiccaya......,.,...ārammaṇūpanissaya.La. Samodhānaṃ gacchantī.,....
@@ -111,7 +111,7 @@ Etthā.Sabbatthāpī....–
 Evamādibhedā.Paramatthato avijjamānāpī..Atthacchāyākārenā.,taṃtaṃupādāyā.Upanidhāyā.Parikappiyamānā..Saṅkhāyatī..Samaññāyatī.,,,,,nāma nāmakammā.....
 ......,,,,.,.,.vijjamānapaññatti.avijjamānapaññatti.tatthā.Etāya paññāpentī..vijjamānenaavijjamānapaññatti.avijjamānena vijjamāna paññatti.vijjamānenavijjamānapaññatti.avijjamānenaavijjamānapaññattiubhinna.
 .......vacīghosā nusārenā.atthāyassā.La. Tatopara.tatopara...
-sotaviññāṇavīthiyā..........–
+sotaviññāṇavīthiyā.-.........–
 ,;
 ,.
 ..

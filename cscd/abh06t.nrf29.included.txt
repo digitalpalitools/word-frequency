@@ -26,7 +26,7 @@ dvārālambābhisambandhā yantabandhāva yojitā
 gaṇhantā daḷhamālambaṃ maṇḍūkamiva pannago
 
  kāmataṇhā ca diṭṭhi ca  catubbidhā
-diṭṭhi diṭṭhisīlabbata-mattavādoti bheditā
+diṭṭhi diṭṭhisīlabbatamattavādoti bheditā
 
  kāyena kāyaṃ ganthentā duppamuñcānuveṭhino
 kathitā ti taṇhābyāpādadiṭṭhiyo
@@ -41,7 +41,7 @@ santānamaṇḍakosāva pariyonandhakāti ca
 avijjuddhaccakukkuccamiti  matā
 
  āgāḷhaṃ pariyādāya ogayhanuppavattino
-yopparogāva santāna-manusentīti bhāsitā
+yopparogāva santānamanusentīti bhāsitā
 
  kāmarāgo bhavarāgo paṭigho mānadiṭṭhiyo
 kaṅkhāvijjāti satteva cha dhammā matā
@@ -60,7 +60,7 @@ sahajāteklesentīti ti pakāsitā
 
  lobho doso ca moho ca
 diṭṭhi māno ca saṃsayo
-thināhirikanottappa-
+thināhirikanottappa
 muddhaccena siyuṃ dasa
 
  navasaṅgahitā ettha diṭṭhilobhā pakāsitā
@@ -69,7 +69,7 @@ sattasaṅgahitāvijjā paṭigho pañcasaṅgaho
  catusaṅgahitā kaṅkhā mānuddhaccā tisaṅgahā
 dukasaṅgahitaṃ thīnaṃ kukkuccamekasaṅgahaṃ
 
- dvidhāhirikanottappa-missāmacchariyaṃ tathā
+ dvidhāhirikanottappamissāmacchariyaṃ tathā
 iccevaṃ dasadhā vuttā 
 
  parāmāsāsavoghā ca yogupādānaganthato
@@ -78,7 +78,7 @@ nīvāraṇānusayato saṃyojanakilesato
  cuddaseva tu saṅkhepā sattapaññāsa bhedato
 yathādhammānusārena cittuppādesu yojaye
 
- tatopare noparāmā-sādibheditasaṅgahā
+ tatopare noparāmāsādibheditasaṅgahā
 cittaṃ cetasikaṃ rūpaṃ nibbānamiti dīpaye
 
  iccākusaladhammānaṃ ñatvā saṅgahamuttaraṃ
@@ -105,7 +105,7 @@ sammāsati samādhī ca micchādiṭṭhi ca sambhavā
  dvādasakkhātā nava dhammā sabhāvato
 
  attabhāvaṃ pavattentā ojaṭṭhamakavedanaṃ
-paṭisandhināmarūpa-māharantā yathākkamaṃ
+paṭisandhināmarūpamāharantā yathākkamaṃ
 
  kabaḷīkāro āhāro
 phasso sañcetanā tathā
@@ -121,7 +121,7 @@ vedanā jīvitaṃ cittaṃ aṭṭha rūpindriyāni ca
  kathaṃ jīvitamekaṃ tu sukhaṃ dukkhanti vedanā
 somanassaṃ domanassaṃ upekkhāti ca bheditā
 
- paññādimaggenaññāta-ññassāmītindriyaṃ bhave
+ paññādimaggenaññātaññassāmītindriyaṃ bhave
 majjhe aññindriya aññātāvindriyaṃ tathā
 
  soḷaseva  sabhāvena indriyaṭṭhavibhāgato
@@ -131,7 +131,7 @@ ti vuttāni bāvīsati vibhāvaye
 balavantasabhāvena  pakāsitā
 
  saddhā sati hirottappaṃ vīriyekaggatā tathā
-paññāhirikānottappa-miccevaṃ navadhā matā
+paññāhirikānottappamiccevaṃ navadhā matā
 
  jeṭṭhā pubbaṅgamaṭṭhena puññāpuññapavattiyaṃ
 paccayādhippateyyena sahajānaṃ yathārahaṃ
@@ -157,7 +157,7 @@ cittuppādapabhedesu yathāsambhavato kathaṃ
 aṭṭhārasāhetukāva momūhā ekahetukā
 
  sesā tu kusalā ñāṇaviyuttā ca dvihetukā
-cittuppādāpare satta-cattālīsa tihetukā
+cittuppādāpare sattacattālīsa tihetukā
 
  pañcaviññāṇamajjhānaṃ  dvijhānaṅgikamīritaṃ
 catutthapañcamajjhānaṃ tijhānaṃ tatiyaṃ matā
@@ -193,7 +193,7 @@ sitavoṭṭhabbanāpuññe pañcadhā kaṅkhite pana
 tihetukā sattabalā chabalā tu duhetukā
 
  catubalā akusalā kaṅkhitaṃ tibalaṃ mataṃ
-dvibalaṃ sitavoṭṭhabba-mabalaṃ sesamīritaṃ
+dvibalaṃ sitavoṭṭhabbamabalaṃ sesamīritaṃ
 
  javanedhipatīnaṃ  tu yo koceko tihetuke
 dvihetuke vā kusale vīmaṃsā nopalabbhati
@@ -222,12 +222,12 @@ yathāvuttānusārena yathāsambhavato naye
 tato ñeyyā visuddhā ca bodhipakkhiyasaṅgahā
 
  kāye ca vedanācitte dhammesu ca yathārahaṃ
-asubhaṃ dukkhamanicca-manattāti supaṭṭhitā
+asubhaṃ dukkhamaniccamanattāti supaṭṭhitā
 
  sammāsati paniccekā kiccagocarabhedato
 nāmena cattāroti pakāsitā
 
- uppannānuppannapāpa-pahānānuppādanāya ca
+ uppannānuppannapāpapahānānuppādanāya ca
 anuppannuppannehi vā nibbattiabhivuddhiyā
 
  padahantassa  vāyāmo kiccābhogavibhāgato

@@ -12,10 +12,10 @@
 ,
 ’(pi ca;)
 88.
-(Ubho dhātu),
-;
+(Ubho dhātu)-,
+-;
 89.
-,
+-,
 ;
 90.
 (vattate),
@@ -38,14 +38,14 @@
 (tudādayo;)
 
 96.
-(mu’ccanti)(ca,)
-(dvayaṃ)’;
+-(mu’ccanti)(ca,)
+-(dvayaṃ)’;
 97.
-,
+-,
 (’pi)
 98.
 ,
 (atho)(siyā;)
 99.
-(Duvepi)(pi,)
+(Duvepi)-(pi,)
 (dhātu)(khyāto);

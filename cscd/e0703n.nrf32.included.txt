@@ -132,13 +132,13 @@ paṇḍukābhayarājena titthārāmohi kārito
 vāsito ca tadā āsi ekavīsati rājusū
 
  taṃ disvā palāyantaṃ nigaṇṭhogirināmako
-palāyati mahākāḷa-sīhaḷoti bhusaṃ ravi
+palāyati mahākāḷasīhaḷoti bhusaṃ ravi
 
  taṃ sutvāna mahārājā siddhe mama manorathe
 vihāraṃ ettha kāressaṃ iccevaṃ cintayī tadā
 
  sagabbhaṃ anulādeviṃ aggahī rakkhiyā iti
-mahācūḷa mahānāga-kumārecāpī rakkhiye
+mahācūḷa mahānāgakumārecāpī rakkhiye
 
  rathassa lahubhāvatthaṃ ḍatvā cūḷāmaṇiṃsubhaṃ
 otāresi somadeviṃ tassanuññāya bhūpati
@@ -147,15 +147,15 @@ otāresi somadeviṃ tassanuññāya bhūpati
 gāhayitvāna nikkhanto saṅkito so parājaye
 
  asakkuṇitvā gāhetuṃ pattaṃ bhuttaṃ jinena taṃ
-palāyitvā vessagīri-vane abhiniyiyiso
+palāyitvā vessagīrivane abhiniyiyiso
 
- kutthikkulamahātissa-thero disvā tahaṃ tu taṃ
+ kutthikkulamahātissathero disvā tahaṃ tu taṃ
 bhattaṃ pādā anāmaṭṭhaṃ piṇḍadānaṃ vivajjiya
 
  atha  ketakipattamhi likhitvā haṭṭhamānaso
 saṅghabhogaṃ vihārassa tassa pādāmahīpati
 
- tato gantvā silāsobbha-kaṇḍakamhi vasī tato
+ tato gantvā silāsobbhakaṇḍakamhi vasī tato
 gantvāna mātuvelaṅge sālagalasamīpago
 
  tatthaddasa diṭṭhapubbaṃ theraṃ thero mahīpatiṃ
@@ -203,7 +203,7 @@ rājā nāmaṃ bhāvayitvā akāsi jinasaṅgahaṃ
  alattha aṭṭhāmacceca mahante yodhasammate
 parivāro mahāāsī parihāro ca rājino
 
- kumbhīlakamahātissa-thera disvā mahāyaso
+ kumbhīlakamahātissathera disvā mahāyaso
 acchagallavihāramhi buddhapūjamakārayi
 
  vatthuṃ sodhetumāruḷho akāsacetiyaṅgaṇaṃ
@@ -230,7 +230,7 @@ taṃ pavattiṃ nivedayuṃ
 damiḷehi vātha raññā iti puṭṭhā tu te pana
 
  rañño sakkāti āhaṃsu saññāpetvāna te iti
-ubho tissa mahātissa-therā ādāya te tato
+ubho tissa mahātissatherā ādāya te tato
 
  rājino santikaṃ netvā aññamaññaṃ khamāpayuṃ
 rājā ca te amaccā ca thero eva mayācayuṃ
@@ -296,7 +296,7 @@ paccayehi anunehi tena te bahavo ahuṃ
  theraṃ kulehī saṃsaṭṭhaṃ mahātissoti vissutaṃ
 kulasaṃsaṭṭha dosena saṅgho taṃ nīhari ito
 
- tassa sisso bahalamassu-
+ tassa sisso bahalamassu
 tissattheroti pissuto
 kuddhobhayagiriṃ gantvā
 vasi pakkhaṃ vahaṃ tahiṃ

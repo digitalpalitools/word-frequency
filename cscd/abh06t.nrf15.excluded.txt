@@ -59,7 +59,7 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 998.
-;
+-;
 ,.
 999.
 ,;
@@ -89,14 +89,14 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 1008.
-;
+-;
 ,.
 1009.
 ,;
 ,.
 1010.
 ,;
-.
+-.
 1011.
 ,;
 ‘‘’’,‘‘’’.
@@ -130,7 +130,7 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 1021.
-;
+-;
 ,.
 1022.
 ,;
@@ -139,7 +139,7 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 1024.
-‘‘’’;
+‘‘’’-;
 ,.
 1025.
 ,;
@@ -148,7 +148,7 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 1027.
-;
+-;
 ,.
 1028.
 ,;
@@ -161,7 +161,7 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,.
 1031.
 ,;
-‘‘’’.
+‘‘’’-.
 1032.
 ,;
 ,.
@@ -197,8 +197,8 @@ Arūpāvacarasamādhibhāvanāniddeso
 ,
 ’’.
 1041.
-;
-.
+-;
+-.
 1042.
 ,
 ;

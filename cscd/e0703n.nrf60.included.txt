@@ -16,7 +16,7 @@ dhītaro dve ca gantāna mahā nāmahulaṃ puraṃ
  samaggā nivasaṃ tattha kumārassa sikhāmahaṃ
 kāretvā parihārena vaḍḍhesi mahatā sadā
 
- tato so deviyā jeṭṭhaṃ-dhītaraṃ mittanāmikaṃ
+ tato so deviyā jeṭṭhaṃdhītaraṃ mittanāmikaṃ
 dātukāmo saputtassa sahāmaccehi mantayi
 
  kāliṅganvayasambhūtā pāyenakhalu bhūmipā
@@ -31,7 +31,7 @@ mayhaṃ eso nirālambo putto hehīti sabbathā
  tasmā me sunūno esā dātuṃ yuttā kumārikā
 evaṃ sati vatamhākaṃ vaḍḍhiyeva siyā iti
 
- devīpi sutvā taṃ sabba-mādiccanvaya maṇḍanā
+ devīpi sutvā taṃ sabbamādiccanvaya maṇḍanā
 sabbathā tamanicchanti idamāha mahīpatiṃ
 
  ghātetvā sakale yakkhe kumāro vijayavhayo
@@ -49,7 +49,7 @@ ariyanvaya sambhūta kumārena sahāmunā
  evaṃ so deviyā tāya nekaso vārayantiyā
 pasayhasaka putthassa taṃ kumārimadāpayi
 
- so anekaguṇodāra- bhariyānugato tato
+ so anekaguṇodāra bhariyānugato tato
 rañjayanto jane sabbe janakasantike vasi
 
  ekavīsatiṃ vassāni rajjaṃ vikkama bāhuso
@@ -85,23 +85,23 @@ ubhato mukhato tassa raṭṭhamajjhamupāgamuṃ
  pahiṇiṃsu ca te dūte tato gajabohuvhayo
 bhūmipālo nijāmacce sannipātiya mantayi
 
- veḷakkārabalaṃ sabba-mujupaccattikaṃ ahu
+ veḷakkārabalaṃ sabbamujupaccattikaṃ ahu
 rājāno dve ca no raṭṭhaṃ saṅgāmatthamupāgatā
 
  paṭhamaṃ tesu pakkhassa ekassa balino bhusaṃ
 mukhabhaṅge kate khippaṃ tato aññe susādhiyā
 
  iti nicchiya senaṅgaṃ sabbamādāya attano
-sirivallabharājābhi-mukhaṃ yuddhāyupāgami
+sirivallabharājābhimukhaṃ yuddhāyupāgami
 
  sirivallabharājāpi saṅgāma mahibhiṃsanaṃ
-pāto paṭṭhāya sāyanha-kālaṃ yāva pavattayaṃ
+pāto paṭṭhāya sāyanhakālaṃ yāva pavattayaṃ
 
  asakkuṇantobhibhavaṃ vidhātuṃ tassa kañcipi
 tatova so nivattitvā sakaṃ raṭṭhaṃ gato lahuṃ
 
- gajabāhussagokaṇṇa-sacivena parājito
-agā raṭṭhaṃ sakaṃ kitti-sirimeghopi bhūpati
+ gajabāhussagokaṇṇasacivena parājito
+agā raṭṭhaṃ sakaṃ kittisirimeghopi bhūpati
 
  gajabāhunarindopi saṅgāme tamhi kiñcipi
 parihānimasampatto punāgamma purantikaṃ
@@ -127,11 +127,11 @@ paccante īdise dese kathaṃ nāma vasissare
  jātadesañca me dāni yuvarājapabhogiyaṃ
 gamissāmīti niggañchi tamhā parijanatthito
 
- kamena santikaṃ saṅkha-nāyakatthalisaññino
-gāmassāgā ahiṃ kitti-sirimegho nisamma taṃ
+ kamena santikaṃ saṅkhanāyakatthalisaññino
+gāmassāgā ahiṃ kittisirimegho nisamma taṃ
 
- abhāvā rajja dāyāda-samānassatrajassa me
-ekākīhanti yo citta-santāpo santataṃ gato
+ abhāvā rajja dāyādasamānassatrajassa me
+ekākīhanti yo cittasantāpo santataṃ gato
 
  jeṭṭhaṃva bhātaraṃ mayhaṃ taṃ dehapaṭibimbakaṃ
 daṭṭhuṃ me sattataṃ puññaṃ mahantamuditaṃtica
@@ -140,7 +140,7 @@ daṭṭhuṃ me sattataṃ puññaṃ mahantamuditaṃtica
 alaṅkārā payitvāna toraṇādīhi nekadhā
 
  gantvā paṭipathaṃyeva baloghaparivārito
-narindo tithinakkhatta-visese subhasammate
+narindo tithinakkhattavisese subhasammate
 
  anaññasādhāraṇataṃ sampattehi guṇehi ca
 lakkhaṇehi ca sabbehi kalyāṇeyi susaṃyutaṃ
@@ -157,7 +157,7 @@ bherini dena pūrento disā dasa samantato
  pavisitvā puraṃ tattha alaṅkāre manorame
 dassayanto saputtassa pāvisi rājamandiraṃ
 
- laddhā  tato kañcukī-supakāra
+ laddhā  tato kañcukīsupakāra
 vagādineke paricārake so
 nānāguṇā rādhitamānasassa
 vasīsakāse pituno sukhena

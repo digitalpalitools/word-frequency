@@ -23,9 +23,9 @@ Saccavitthārakathā
 ,;
 ,.
 vibhāgato,.–‘‘,....’’(paṭi. ma. 2.8).‘‘’’(paṭi. ma. 2.11)...
-530.nibbacanatodu..Khaṃ.‘‘’’...dukkha.
-Saṃ-‘‘’’(dī. ni. 2.396; vibha. 199).U‘‘’’(dha. sa. 1; mahāva. 84).Aya..dukkhasamudaya.
-ni,rodha-.,,dukkhanirodha..
+530.nibbacanatodu-..Khaṃ-.‘‘’’...dukkha.
+Saṃ-‘‘’’(dī. ni. 2.396; vibha. 199).U-‘‘’’(dha. sa. 1; mahāva. 84).Aya-..dukkhasamudaya.
+ni-,rodha-.,,dukkhanirodha..
 ,..
 531.,ariyasaccānī.‘‘,,.…pe…,,.,’’..‘‘,,…pe…,’’(saṃ. ni. 5.1098)..–‘‘,,’’...–‘‘,,,’’(saṃ. ni. 5.1097).
 532.lakkhaṇādippabhedato?dukkhasaccaṃ,,.samudayasaccaṃ,,.nirodhasaccaṃ,,.maggasaccaṃ,,...
@@ -48,7 +48,7 @@ Evaṃ atthato vinicchayo veditabbo.
 537.Jātiādīnaṃ nicchayā‘‘,,,,,,,’’(vibha. 190),‘‘.,,,’’(vibha. 203),‘‘’’(vibha. 204),‘‘,.–…pe…’’(vibha. 205),.
 Dukkhaniddesakathā
 Jātiniddeso
-,jāti.‘‘’’(dī. ni. 1.244; pārā. 12).‘‘,,’’(a. ni. 3.71).‘‘’’(dhātu. 71).‘‘,,’’(mahāva. 124).‘‘,,’’(ma. ni. 3.207).‘‘’’(dī. ni. 1.331).‘‘,,’’(ma. ni. 2.351).
+,jāti-.‘‘’’(dī. ni. 1.244; pārā. 12).‘‘,,’’(a. ni. 3.71).‘‘’’(dhātu. 71).‘‘,,’’(mahāva. 124).‘‘,,’’(ma. ni. 3.207).‘‘’’(dī. ni. 1.331).‘‘,,’’(ma. ni. 2.351).
 538.,...,.
 ,,,.
 539.?..–,,,,,,.
@@ -70,11 +70,11 @@ pariyāyadukkhaṃ.nippariyāyadukkha.
 ;
 ,
 .
-
+-
 ;
 ,
 .
-
+-
 ;
 ,
 .
@@ -102,10 +102,10 @@ Jarāniddeso
 Ayaṃ jarāyaṃ vinicchayo.
 Maraṇaniddeso
 543.Maraṇampi dukkha,‘‘’’(dhātu. 71).,‘‘’’(su. ni. 581)...,,..–
-‘‘;
+‘‘-;
 ,;
 ,.
-;
+-;
 ,.
 ,;
 ,’’.
@@ -114,7 +114,7 @@ Sokādiniddesā
 544.soko..,,..–
 ‘‘,;
 ,.
-‘‘;
+‘‘-;
 ,’’.
 Ayaṃ soke vinicchayo.
 Paridevo
@@ -143,7 +143,7 @@ soko.paridevo.upāyāso.
 Appiyasampayogo
 549.Appiyasampayogo.,,..–
 ‘‘,;
-.
+-.
 ‘‘,;
 ,’’.
 Ayaṃ appiyasampayoge vinicchayo.
@@ -165,8 +165,8 @@ Pañcupādānakkhandhā
 552.Saṃkhittenapañcupādānakkhandhā dukkhā–
 ,;
 ,.
-;
-.
+-;
+-.
 ,,,,,.,,,,,,,,.,‘‘’’..
 Ayaṃ tāva dukkhaniddese nayo.
 Samudayaniddesakathā
@@ -201,7 +201,7 @@ sammāvācā.,,.sammākammanto.,,.,sammāājīvo.,,.
 ,’’.
 .
 564.Antogadhānaṃ pabhedā............
-565.Upamāto,,,.,,,.,,,.,,,.
+565.Upamāto,,,.,,,.,,,.---,---,---,--.
 566.Catukkato,,,..‘‘’’(saṃ. ni. 3.15),.,.,....
 567.suññato.–
 ‘‘,;
@@ -226,7 +226,7 @@ Ekavidhādivinicchayakathā
 .....,.,.
 ..?.,..,.
 .‘‘’’..
-,.,.,..
+,.,.-,..
 569.Sabhāgavisabhāgato.–
 ‘‘,,,,?,,,.,,.…pe…’’(saṃ. ni. 5.1115).
 .............

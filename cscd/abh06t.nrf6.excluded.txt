@@ -28,7 +28,7 @@
 ,.
 299.
 ,;
-.
+-.
 300.
 ,;
 ,.
@@ -95,7 +95,7 @@
 Parittārammaṇattikaṃ samattaṃ.
 321.
 ,;
-.
+-.
 322.
 ,;
 ,.
@@ -103,7 +103,7 @@ Parittārammaṇattikaṃ samattaṃ.
 ,;
 ,.
 324.
-;
+-;
 ,.
 325.
 ,;
@@ -135,10 +135,10 @@ Parittārammaṇattikaṃ samattaṃ.
 ,;
 ,.
 334.
-;
+-;
 ,.
 335.
-;
+-;
 ,.
 336.
 ,
@@ -176,7 +176,7 @@ Parittārammaṇattikaṃ samattaṃ.
 ,.
 346.
 ,;
-.
+-.
 347.
 ,;
 ,.
@@ -214,7 +214,7 @@ Parittārammaṇattikaṃ samattaṃ.
 ,;
 ,.
 359.
-;
+-;
 ,.
 360.
 ,;
@@ -230,7 +230,7 @@ Parittārammaṇattikaṃ samattaṃ.
 ,.
 364.
 ,;
-.
+-.
 365.
 ,;
 ,.

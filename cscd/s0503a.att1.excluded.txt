@@ -1,7 +1,7 @@
 ﻿1. Bodhivaggo
 1. Paṭhamabodhisuttavaṇṇanā
 1.‘‘evaṃ me suta’’,eva.Me.Uruvelāyaṃ viharatīvī,haratī.
-evaṃ.‘‘,’’(dha. pa. 53).‘‘,’’(a. ni. 4.122).‘‘,’’(a. ni. 3.66).‘‘’’(saṃ. ni. 1.187).‘‘,’’(dī. ni. 2.3; ma. ni. 1.1).‘‘,,’’(ma. ni. 1.398).‘‘,,,‘’,‘,’’’(dī. ni. 1.445).‘‘‘,,’?‘,’.‘’?‘,’.‘’?‘,’.‘,’?‘’?‘,,,’’’(a. ni. 3.66).‘‘’’(dī. ni. 1.286).‘‘(dī. ni. 1.182),’’.,..‘‘’’(a. ni. 1.48).
+evaṃ-.‘‘,’’(dha. pa. 53).‘‘,’’(a. ni. 4.122).‘‘,’’(a. ni. 3.66).‘‘’’(saṃ. ni. 1.187).‘‘,’’(dī. ni. 2.3; ma. ni. 1.1).‘‘,,’’(ma. ni. 1.398).‘‘,,,‘’,‘,’’’(dī. ni. 1.445).‘‘‘,,’?‘,’.‘’?‘,’.‘’?‘,’.‘,’?‘’?‘,,,’’’(a. ni. 3.66).‘‘’’(dī. ni. 1.286).‘‘(dī. ni. 1.182),’’.,..‘‘’’(a. ni. 1.48).
 ‘‘,’’.,..‘‘’’..‘‘’’.–
 ‘‘,;
 ,’’.–
@@ -22,9 +22,9 @@ vividhapāṭihāriyaṃ.,,.,,.,..‘‘,’’(cūḷani. pārāyanavagga, vatt
 ‘‘,’’‘‘,’’.
 ‘‘,,,,,,’’(a. ni. 1.219-223),‘‘,,,,’’(a. ni. 5.169).‘‘,,’’.Aññathā.,..
 Me.‘‘’’(saṃ. ni. 1.194; su. ni. 81).‘‘,,’’(saṃ. ni. 4.88; 5.382; a. ni. 4.257).‘‘,,’’(ma. ni. 1.29).‘‘,’’.
-,me,‘‘’’.
+,me,‘‘-’’.
 Sutasuta.,.
-‘‘’’.‘‘’’(udā. 11).‘‘’’(pāci. 657).‘‘’’(khu. pā. 7.12).‘‘’’(dha. pa. 181).‘‘’’(ma. ni. 1.241).‘‘’’(ma. ni. 1.339).‘‘’’‘‘’’.‘‘’’.‘‘’’.
+‘‘’’.‘‘’’(udā. 11).‘‘’’(pāci. 657).‘‘’’(khu. pā. 7.12).‘‘’’(dha. pa. 181).‘‘’’(ma. ni. 1.241).‘‘’’(ma. ni. 1.339).‘‘’’‘‘’’.-‘‘’’.‘‘’’.
 evaṃ,eva.Me..Suta..,.–,,,.,.,..
 eva.Me.Suta.–,,.
 eva..Me.Suta.,,.–,.
@@ -49,7 +49,7 @@ Samaya.Ekaṃ samaya.samaya–
 ,’’.(saṃ. ni. 1.129)–
 ..‘‘’’(ma. ni. 1.28)..‘‘’’(paṭi. ma. 2.8).,,...
 ....,...,.....,.,..
-...,.
+...,-.
 ,?,.‘‘’’,,‘‘’’.
 ,.,,,,‘‘’’.
 ‘‘’’(dha. sa. 1)‘‘,,’’(a. ni. 4.200),‘‘’’(pārā. 1),‘‘’’?,..,‘‘’’.,‘‘,’’.,..‘‘,’’,.,..
@@ -129,7 +129,7 @@ Etamatthaṃviditvā,.Tāyaṃ velāya.Imaṃ udānaṃ udānesī‘‘yadā hav
 Ayampiudāno vutto bhagavatā iti me suta.ayampī‘‘,’’,.Vutto.‘‘’’(ma. ni. 2.426).
 ‘‘,;
 ,’’.–
-(jā. 2.22.19).‘‘’’(pārā. 289).‘‘’’(cūḷava. 332).‘‘’’(pārā. 92).‘‘’’(dī. ni. 1.285).‘‘’’.‘‘‘,,,’’’(ma. ni. 1.30).,.Itī.Me suta.‘‘’’‘‘’’..evaṃ‘‘evaṃ me suta’’,itivuttakavaṇṇanāya.
+(jā. 2.22.19).‘‘’’(pārā. 289).‘‘’’(cūḷava. 332).‘‘’’(pārā. 92).‘‘’’(dī. ni. 1.285).‘‘’’.‘‘‘,,,’’’(ma. ni. 1.30).,.Itī.Me suta.‘‘’’‘‘’’..evaṃ-‘‘evaṃ me suta’’,itivuttakavaṇṇanāya.
 Paramatthadīpaniyā khuddakanikāyaṭṭhakathāya
 Udānasaṃvaṇṇanāpaṭhamabodhisuttavaṇṇanā niṭṭhitā.
 2. Dutiyabodhisuttavaṇṇanā
@@ -247,7 +247,7 @@ Saṃvejito‘‘,,,,,,’’,.Tāvadevā.Suppārakā pakkāmī.Sabbattha ekarat
 ?,‘‘’’.‘‘’’,....
 ‘‘,’’.‘‘’’.‘‘’’‘‘’’?‘‘’’.‘‘,,,’’.‘‘,,,,’’.‘‘tena kho pana samayena sambahulā bhikkhū abbhokāse caṅkamanti. Atha kho bāhiyo dārucīriyo yena te bhikkhū tenupasaṅkamī’’.
 kaha.Nū,kho,.Dassanakāmamhā.,,,,,,,.Taramānarūpo.
-Pāsādika.Pasādanīya.Santindriya.Santamānasa.Uttamadamathasamathamanuppatta.Danta.Gutta.Yatindriya.Nāga,,,.,,..
+Pāsādika.Pasādanīya-.Santindriya.Santamānasa.Uttamadamathasamathamanuppatta.Danta.Gutta.Yatindriya.Nāga,,,.,,..
 ‘‘’’‘‘,,’’.–‘‘bhagavato pādesirasā nipatitvā bhagavantaṃ etadavoca – ‘desetu me, bhante, bhagavā dhammaṃ, desetu sugato dhammaṃ, yaṃ mamassa dīgharattaṃ hitāya sukhāyā’’’.
 sugato,,,.,.?.,...–
 ‘‘,.…pe……pe…’’(cūḷani. mettagūmāṇavapucchāniddesa 27).

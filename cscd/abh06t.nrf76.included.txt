@@ -8,16 +8,16 @@ vuccate visayaggāhā sabba manaṃ
 sesaṃ lokuttaraṃ aṭṭha anuttarañcitī 
 
  lokapākakriyāhetū  cekahetūti sattahi
-tiṃsa nādhipati sādhi-pati sesātipī dvidhā
+tiṃsa nādhipati sādhipati sesātipī dvidhā
 
- chandacittīhavīmaṃsā-svekena matimā yutaṃ
+ chandacittīhavīmaṃsāsvekena matimā yutaṃ
 vinā vīmaṃsamekena ñāṇahīnamanaṃ yutaṃ
 
  parittānappamāṇāni mahaggatamanāniti
  chanava caṭṭha ca tinavā ca yathākkamaṃ
 
  dvipañca cittaṃ viññāṇaṃ tisso hi manodhātuyo
-chasattati manoñāṇa-dhātūti  puna
+chasattati manoñāṇadhātūti  puna
 
  ekārammaṇacittāni anabhiññaṃ mahaggataṃ
 amalaṃ pañcaviññāṇaṃ navapañca bhavantime
@@ -25,10 +25,10 @@ amalaṃ pañcaviññāṇaṃ navapañca bhavantime
  pañcālambaṃ manodhātu sābhiññaṃ kāmadhātujaṃ
 sesaṃ chārammaṇaṃ taṃ hi tecattālīsa saṅkhyato
 
- kāmapākadusā cādi-maggo cādikriyā duve
+ kāmapākadusā cādimaggo cādikriyā duve
 rūpā sabbetirūpe na tecattālīsa hontime
 
- vināva rūpenāruppa-vipākā caturo siyuṃ
+ vināva rūpenāruppavipākā caturo siyuṃ
 dvecattālīsa sesāni vattantubhayathāpi ca
 
 pi ahetvekadvihetukatihetuto
@@ -40,7 +40,7 @@ rūpiriyāpathaviññattikarāme caturaṭṭhakā
  chabbīsati javā sesā karā rūpiriyāpathe
 dvipañcamanavajjāni kāmarūpaphalāni ca
 
- ādikriyāti cekūna-vīsa rūpakarā ime
+ ādikriyāti cekūnavīsa rūpakarā ime
 sesā cuddasa bhinnāvacuti sandhi na tīṇipi
 
  ekakiccādito  tatthekakiccakā
@@ -67,14 +67,14 @@ te anantāmalaṃ puññaṃ majjhattañca mahaggataṃ
  sabbavāre sayañceti tepaññāsa tisatta ca
 tettiṃsa ca bhavantete rūpesu pana puññato
 
- tappākā ca matiyutta-kāmapākā sayaṃ dasa
+ tappākā ca matiyuttakāmapākā sayaṃ dasa
 āruppapuññato te ca sako pāko sayaṃ puna
 
  adhopākā ca antamhā tatiyañca phalantime
 dasekadvitipañcāhi maggā cekaṃ sakaṃ phalaṃ
 
  lobhamūlekahetūhi  antakāmasubhā viya
-satta dosadvayā kāma-bhavaṅgapekkhavā sayaṃ
+satta dosadvayā kāmabhavaṅgapekkhavā sayaṃ
 
  mahāpākatihetūhi sāvajjā sabbasandhiyo
 kāmaccutīhi sesāhi sāvajjā kāmasandhiyo
@@ -86,7 +86,7 @@ paṭicchā tīraṇāni dve itarā sakatīraṇaṃ
 rūpapākehi sāvajjā sandhiyohetuvajjitā
 
  arūpapākesvādimhā kāmapākā tihetukā
-antāvajjampi cāruppa-pākā ca nava hontime
+antāvajjampi cāruppapākā ca nava hontime
 
  dutiyādīhi teyeva adhopākaṃ vinā vinā
 phalā tihetukā pākā sayañceti catuddasa
@@ -95,7 +95,7 @@ phalā tihetukā pākā sayañceti catuddasa
 ñāṇayuttabhavaṅgāti dasa voṭṭhabbato pana
 
  kāme javā bhavaṅgā ca kāmarūpe sayampi vā
-navapañca sahetādi-kiriyadvayato pana
+navapañca sahetādikiriyadvayato pana
 
  sayaṃ bhavaṅgamatimā rūpe sātakriyāpi ca
 tappādakantimañceti bāvīsa tatiyā pana
@@ -119,7 +119,7 @@ imaṃ panettakehīti vuccateyaṃ nayodhunā
 maggā chahi phalādi dve sesā dve pana sattahi
 
  ekamhā dasa pañcahi paṭicchā sukhatīraṇaṃ
-kāme dosakriyāhīna-javehi gahato sakā
+kāme dosakriyāhīnajavehi gahato sakā
 
  kāme javā kriyāhīnā tadālambā savoṭṭhabbā
 sagahañceti tettiṃsacittehi paratīraṇā
@@ -228,7 +228,7 @@ cattāritarapāpe cha honti sesaduhetuke
 abalāni hi sesāni vīriyantaṃ balaṃ bhave
 
  ajhānaṅgāni  dvepañca takkantā hi tadaṅgatā
-jhāne pītiviratte ta-ppādake amale duve
+jhāne pītiviratte tappādake amale duve
 
  tatiye sāmale tīṇi cattāri dutiye tathā
 kāme nippītike cāpi pañcaṅgāni hi sesake
@@ -237,7 +237,7 @@ kāme nippītike cāpi pañcaṅgāni hi sesake
 duhetuketare suddhajjhāne ca dutiyādike
 
  cattāro pañca paṭhamajhānakāmatihetuke
-sattāmale dutiyādi-jhānike aṭṭha sesake
+sattāmale dutiyādijhānike aṭṭha sesake
 
  hetvantato hi maggassa amaggaṅgamahetukaṃ
 chamaggaṅgayutaṃ natthi balehipi ca pañcahi
@@ -260,7 +260,7 @@ vuccare  dāni dvepañce
 sabbagā satta jāyare
 
  takkacārādhimokkhehi teyeva jāyare dasa
-pañcaṭṭhānamanodhātu-pañcake sukhatīraṇe
+pañcaṭṭhānamanodhātupañcake sukhatīraṇe
 
  ete pītādhikā hāse vāyāmena ca dvādhikā
 voṭṭhabbanepi eteva dasekā pītivajjitā
@@ -277,7 +277,7 @@ diṭṭhipītidvayādhikā
 dvinavekūnavīsati
 
  pīticārappanāvajjā ādito yāva tiṃsime
-uppajjanti catutthādi-rūpārūpamanesu ve
+uppajjanti catutthādirūpārūpamanesu ve
 
  pīticāravitakkesu
 ekena dvititikkamā
@@ -335,12 +335,12 @@ doso issā ca maccheraṃ kukkuccañca bhavantime
 appavattinayo cāpi sakkā ñātuṃ vijānatā
 
  asmiṃ khandheva viññeyyo vedanādīsvayaṃ nayo
-ekadhādividho yutti-vasātenāviyogato
+ekadhādividho yuttivasātenāviyogato
 
  upamā pheṇupiṇḍo ca bubbuḷo migataṇhikā
 kadalī māyā viññeyyā khandhānaṃ tu yathākkamaṃ
 
- tesaṃ  vimaddāsahanakhaṇasobhappalobhana-
+ tesaṃ  vimaddāsahanakhaṇasobhappalobhana
 nisāravañcakattehi samānattaṃ samāhaṭaṃ
 
  te sāsavā upādānakkhandhā khandhāvanāsavā

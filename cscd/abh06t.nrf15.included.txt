@@ -59,7 +59,7 @@ catutthaṃ pañcamaṃ vāpi hoti āruppamānasaṃ
  puna bhāvetukāmena dutiyāruppamānasaṃ
 suciṇṇavasinā hutvā paṭhamāruppamānase
 
- āsannarūpāvacara-jjhānapaccatthikanti ca
+ āsannarūpāvacarajjhānapaccatthikanti ca
 dutiyāruppacittaṃva na ca santamidanti ca
 
  evamādīnavaṃ  disvā paṭhamāruppamānase
@@ -89,14 +89,14 @@ viññāṇānantamicceva vattabbaṃ panidaṃ siyā
  atha  bhāvetukāmena tatiyāruppamānasaṃ
 suciṇṇavasinā hutvā dutiyāruppamānase
 
- āsannapaṭhamāruppa-cittapaccatthikanti ca
+ āsannapaṭhamāruppacittapaccatthikanti ca
 tatiyāruppacittaṃva na ca santamidanti ca
 
  evamādīnavaṃ disvā dutiyāruppamānase
 nikantiṃ pariyādāya tatiyaṃ santato pana
 
  evaṃ manasi katvāna kātabbo manasā puna
-paṭhamāruppaviññāṇā-bhāvo tasseva suññato
+paṭhamāruppaviññāṇābhāvo tasseva suññato
 
  taṃ  panākāsaviññāṇaṃ akatvā manasā puna
 natthi natthīti vātena suññaṃ suññanti vā tato
@@ -130,7 +130,7 @@ gate saṅghe tu taṃ ṭhānaṃ suññamevānupassati
  puna bhāvetukāmena catutthāruppamānasaṃ
 suciṇṇavasinā hutvā tatiyāruppamānase
 
- āsannadutiyāruppa-cittapaccatthikanti ca
+ āsannadutiyāruppacittapaccatthikanti ca
 catutthāruppacittaṃva na ca santamidanti ca
 
  evamādīnavaṃ  disvā tatiyāruppamānase
@@ -139,7 +139,7 @@ nikantiṃ pariyādāya catutthaṃ santato pana
  evaṃ manasi katvāna puna tattheva dhīmatā
 abhāvārammaṇaṃ katvā sampavattamidaṃ mano
 
- santaṃ santamidaṃ citta-miccevaṃ taṃ punappunaṃ
+ santaṃ santamidaṃ cittamiccevaṃ taṃ punappunaṃ
 hoti āvajjitabbañca kātabbaṃ manasāpi ca
 
  tasmiṃ nimitte tassevaṃ vicārentassa mānasaṃ
@@ -148,7 +148,7 @@ sati tiṭṭhati bhiyyopi samādhiyati mānasaṃ
  āsevati ca bhāveti taṃ nimittaṃ punappunaṃ
 tassa cevaṃ karontassa satisampannacetaso
 
- tatiyāruppasaṅkhāta-khandhesu ca catūsupi
+ tatiyāruppasaṅkhātakhandhesu ca catūsupi
 catutthāruppaviññāṇaṃ taṃ panāppeti yogino
 
  appanāya  nayopettha heṭṭhā vuttanayūpamo
@@ -161,7 +161,7 @@ yā panābhāvamattampi katvā ṭhassati gocaraṃ
 santato ce manakkāro kathañca samatikkamo
 
  anāpajjitukāmattā  hoteva samatikkamo
-samāpajjāmahameta-miccābhogo na vijjati
+samāpajjāmahametamiccābhogo na vijjati
 
  santato taṃ karonto hi manasā sukhumaṃ paraṃ
 asaññaṃ pana dubbalyaṃ pāpuṇāti mahaggataṃ
@@ -197,8 +197,8 @@ pacchimā pacchimā idha
 upamā tattha viññeyyā
 pāsādatalasāṭikāti
 
- saṅkhepena mayāruppa-samāpattinayo ayaṃ
-dassito dassito suddha-dassinā piyadassinā
+ saṅkhepena mayāruppasamāpattinayo ayaṃ
+dassito dassito suddhadassinā piyadassinā
 
  rūpārūpajjhānasamāpattividhānaṃ 
 jānātimaṃ sārataraṃ yo pana bhikkhu

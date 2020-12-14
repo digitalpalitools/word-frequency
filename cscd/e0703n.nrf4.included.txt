@@ -13,7 +13,7 @@ niggahitā pāpabhikkhū sabbe dasasahassakā
  akaṃsācariyavādaṃ te mahāsaṃgītināmakā
 tato gokulikā jātā ekabbohārikāpi ca
 
- gokulikehi paṇṇatti-vādā bāhulikāpi ca
+ gokulikehi paṇṇattivādā bāhulikāpi ca
 cetiyavādā tesveva samatāsaṅghikā cha te
 
  punāpi theravādehi mahiṃsāsakabhikkhavo
@@ -64,7 +64,7 @@ asoko āsi tesaṃ tu puññatejobaliddhiko
 sakale jambudīpasmiṃ ekarajjamapāpuṇi
 
  jinanibbānato pacchā pure tassābhisekato
-sāṭṭhārasaṃ vassasata-dvayamevaṃ vijāniya
+sāṭṭhārasaṃ vassasatadvayamevaṃ vijāniya
 
  patvā catūhi vassehi ekarajjaṃ mahāyaso
 pure pāṭaliputtasmiṃ attānamabhisecayi
@@ -191,10 +191,10 @@ pattidānavaco tassa sutvā te cānumodisuṃ
  āpaṇā desikaṃ yātu devittaṃ tassa patthayi
 ādissamānasandhi ca rūpaṃ atimanoramaṃ
 
- asoko madhudosandhi-mittādevī tu ceṭikā
+ asoko madhudosandhimittādevī tu ceṭikā
 caṇḍālavādī nigrodho tisso so pāravādiko
 
- caṇḍālavādī caṇḍāla-gāme āsi yato tu so
+ caṇḍālavādī caṇḍālagāme āsi yato tu so
 patthesi mokkhaṃ mokkhañca satta vassova pāpuṇi
 
  niviṭṭhapemo  tasmiṃ so rājāti turito tato
@@ -250,13 +250,13 @@ byākāsi moggaliputto tissatthero tadassataṃ
  sutvāna caturāsīti dhammakkhandhāti sobravi
 pūjemi tehaṃ paccekaṃ vihārenāti bhūpati
 
- datvā tadā channavuti-dhanakoṭiṃ mahīpati
-puresu caturāsīti-sahassesu mahītale
+ datvā tadā channavutidhanakoṭiṃ mahīpati
+puresu caturāsītisahassesu mahītale
 
  tattha tattheva rājūhi vihāre ārabhāpayi
 sayaṃ asokārāmaṃ tu kārāpetuṃ samārabhi
 
- ratanattayanigrodha-gilānānanti sāsane
+ ratanattayanigrodhagilānānanti sāsane
 paccekaṃ satasahassaṃ so dāpesi dine dine
 
  dhanena buddhadinnena thūpapūjā anekadhā
@@ -315,7 +315,7 @@ manussesupapajjitvā tadupaddavaghātanaṃ
  adā paṭiññaṃ tesaṃ so sāsanujjotanatthiko
 siggavaṃ caṇḍavajjiñca avocuṃ dahare yati
 
- aṭṭhārasādikā vassa-satā upari hessati
+ aṭṭhārasādikā vassasatā upari hessati
 upaddavo sāsanassa na sambhossāma taṃ mayaṃ
 
  imaṃ tumhādhikaraṇaṃ nopagañchittha bhikkhavo
@@ -332,7 +332,7 @@ thero saddhivihāriko
 dāsako soṇako tassa
 dve therā soṇakassime
 
- ahu vesāliyaṃ pubbe-dāsako nāma sotthiyo
+ ahu vesāliyaṃ pubbedāsako nāma sotthiyo
 tisissasatajeṭṭho so vasaṃ ācariyantike
 
  dvādasavassikoyeva vedapāragato caraṃ
@@ -362,7 +362,7 @@ piṭakānuggahitāni yehi therassa santike
  kāsīsu kosalo nāma satthavāhasuto ahu
 giribbajaṃ vaṇijjāya gato mātāpitūhi so
 
- agā veḷuvanaṃ pañca-dasavaso kumārako
+ agā veḷuvanaṃ pañcadasavaso kumārako
 māṇavaṃ pañcapaññāsa parivāriya taṃ gatā
 
  sagaṇaṃ dāsakaṃ theraṃ tattha disvā pasīdiya
@@ -404,7 +404,7 @@ bhuñjimha bhuñjitabbanti āha bhojetha no api
  āha amhādise jāhe sakkā bhojayituṃ iti
 mātāpitu anuññāya so kumārotha siggavo
 
- caṇḍavajjī ca tepañca-satāni purisāpi ca
+ caṇḍavajjī ca tepañcasatāni purisāpi ca
 pabbajjitvopasampajjuṃ soṇattherassa santike
 
  upajjhāyantikeyeva te duve piṭakattayaṃ
@@ -462,7 +462,7 @@ tassa cittaṃ uppajjati na nirujjhatīti
 andhakāro viya ahu tassa so tamavoca so
 
  bhikkhuko nāma mantoti buddha mantoti so bravi
-dehīti vutte novesa-dhārino dammi taṃ iti
+dehīti vutte novesadhārino dammi taṃ iti
 
  mātāpitūhinuññāto mantatthāya sa pabbajji
 kammaṭṭhānamadā thero pabbājetvā yathārahaṃ
@@ -524,9 +524,9 @@ ajjeva pabbajissaṃti buddhiṃcākāsi buddhimā
 nivāretumasakkonto tamādāya mahīpati
 
  mahatā parivārena vihāramagamā sayaṃ
-pabbaji so mahādhamma-rakkhitattherasantike
+pabbaji so mahādhammarakkhitattherasantike
 
- saddhiṃ tena catusata-sahassāni narāpi ca
+ saddhiṃ tena catusatasahassāni narāpi ca
 anupabbajitānantu gaṇanā ca na vajjati
 
  bhāgineyyo narindassa aggi brahmāti vissuto
@@ -552,7 +552,7 @@ iddhiyā cāsu niṭṭhāsi asokārāmasavhayo
  janena paribhuttesu ṭhānesu ca tahiṃ tahiṃ
 cetiyāni akāresi ramaṇīyāni bhūpati
 
- purehi caturāsīti-sahassehi samantato
+ purehi caturāsītisahassehi samantato
 lekhe ekāhamānesuṃ vihārā niṭṭhitā iti
 
  lekhe sutvā mahārājā mahātejiddhi vikkamo
@@ -567,7 +567,7 @@ karontu gāmārāmānaṃ maggānañca vibhūsanaṃ
  vihāresu ca sabbesu bhikkhusaṅghassa sabbathā
 mahādānāni vattentu yathākālaṃ yathābalaṃ
 
- dīpamālā pumphamālā-laṅkārehi tahiṃ tahiṃ
+ dīpamālā pumphamālālaṅkārehi tahiṃ tahiṃ
 tūriyehi ca sabbehi upahāraṃ anekadhā
 
  uposathaṅgānādāya sabbe dhammaṃ suṇantu ca
@@ -620,7 +620,7 @@ pabbajjāpeti sāsane
 so sāsanassa dāyādo
 hoti no dāyako api
 
- atha sāsana dāyāda-bhāvamicchaṃ mahīpati
+ atha sāsana dāyādabhāvamicchaṃ mahīpati
 mahindaṃ saṅghamittañca ṭhite tatra apucchatha
 
  pabbajissatha kiṃ tātā pabbajjā mahatī matā
@@ -629,7 +629,7 @@ pituno vacanaṃ sutvā pitaraṃ te abhāsisuṃ
  ajjeva pabbajissāma sace tvaṃ deva icchasi
 amhañca lābho tumhañca pabbajjāya bhavissati
 
- uparājassa pabbajja-kālabho pabhutīhi so
+ uparājassa pabbajjakālabho pabhutīhi so
 sā cāpi aggibrahmassa pabbajjā katanicchayā
 
  uparajjaṃ mahīndassa dātukāmopi bhūpati
@@ -645,7 +645,7 @@ saṅghamittā rājadhītā aṭṭhārasasamā tadā
 pabbajjā sikkhādānañca tassā ca tadahu ahu
 
  upajjhāyo kumārassa ahu moggalisavhayo
-pabbājesi mahādeva-tthero majjhantiko pana
+pabbājesi mahādevatthero majjhantiko pana
 
  kammavācaṃ akā tasmiṃ sopasampadamaṇḍale
 arahattaṃ mahindo so patto sapaṭisambhidaṃ

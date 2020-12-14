@@ -7,7 +7,7 @@ mahaggatavipākā ca yathāsandhivavatthitā
  voṭṭhabbakāmapuññāni viyuttāni ca diṭṭhiyā
 uddhaccasahitañceti honti sabbattha cuddasa
 
- santīraṇamanodhātu-cakkhusotamanā  pana
+ santīraṇamanodhātucakkhusotamanā  pana
 dasa cittāni jāyanti sabbatthārūpavajjite
 
  diṭṭhigatasampayuttā vicikicchāyutā tathā
@@ -23,13 +23,13 @@ mahākriyā ca jāyanti terasāpāyavajjite
 sitarūpajavā honti arūpāpāyavajjite
 
  sotāpattiphalādīni suddhāpāyavivajjite
-paṭhamānuttaraṃ suddhā-pāyārūpavivajjite
+paṭhamānuttaraṃ suddhāpāyārūpavivajjite
 
  avatthābhūmibhūtattā na gayhanti anuttarā
 ekavokārabhūmi ca rūpamattā na gayhati
 
  sabhummā sabbabhummā ca ekadvittayavajjitā
-tathārūpasuddhāvāsa-brahmāpāyavasāti ca
+tathārūpasuddhāvāsabrahmāpāyavasāti ca
 
  mānasā  pañca koṭṭhāsā sattarasa catuddasa
 chattiṃsatekavīsā ca ekañceva yathākkamaṃ
@@ -38,7 +38,7 @@ chattiṃsatekavīsā ca ekañceva yathākkamaṃ
 catudhā tividhā ceva ekadhāti ca bhedato
 
  terasāpi ca koṭṭhāsā bhavantekatibhūmakā
-chasattekādasasatta-rasabhūmakamānasā
+chasattekādasasattarasabhūmakamānasā
 
  ekadvayaticatukkapañcakādhikavīsajā
 chabbīsatiṃsajā ceti yathānukkamato bhave
@@ -110,7 +110,7 @@ bhavantekūnatālīsa pañcattiṃsa ca rūpisu
 ariyā ceva aṭṭhāti dvādasannaṃ vasā siyuṃ
 
  chabbidhā cittakoṭṭhāsā ekapuggalikā tathā
-catupañcachasattaṭṭha-puggalaṭṭhāti cakkamā
+catupañcachasattaṭṭhapuggalaṭṭhāti cakkamā
 
  chabbīsa cuddasevātha terasa dve ca mānasā
 dasa sattādhikā ceva puna sattādhikā dasāti

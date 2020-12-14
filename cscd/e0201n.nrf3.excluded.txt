@@ -1,7 +1,7 @@
 ﻿4. Samāsakaṇḍa
 ..,,,,,.
 Abyayībhāvasamāsa
-.,,abyayībhāvo,,,,,,.
+.,,abyayībhāvo,,,,,-,.
 ,,,.
 331.Syādisyādinekatthaṃka. 316; rū. 331; nī. 675; caṃ. 2.2.1; pā. 2.1.4.
 .,‘’,,.
@@ -72,13 +72,13 @@ Dutiyātappurisa
 345.Amādika. 327; rū. 351; nī. 704; caṃ. 2.2.16.
 ,‘‘’’‘‘’’.,.
 ,,,,,.‘‘,’’‘‘,’’.
-,,,,,.
+,,-,,,.
 .,,.,..,,,,.,.,,,,.
 ,,,,,,,,,,,,.
 ,,,,,,,,,,,,,,,,,,,.
 Iti dutiyātappuriso.
 Tatiyātappurisa
-,,,,,,,,.
+,,,,,,,-,.
 .,,,,,,,,,.,,,,,,.
 .,,,,,,,,.,,.
 ,,.
@@ -183,7 +183,7 @@ Bahubbīhisamāsa
 ,,bahubbīhī.,,,..
 ,.
 ‘’,,,,,,,tagguṇasaṃviññāṇo.?,,,.
-‘’,.‘’,.‘’,..
+‘’,.‘’,.‘’-,..
 Atagguṇasaṃviññāṇo?,.,.
 Paṭhamābahubbīhi
 ,,,,,,.
@@ -215,7 +215,7 @@ Tatiyābahubbīhi
 ,..,,,,,.,...,.
 Iti tatiyābahubbīhi.
 Catutthībahubbīhi
-,,,‘’,,,,‘’.,,,.,,,‘’.
+,,,‘’-,,,,‘’.,,,.,,,‘’.
 ,,,,,,.,,.,.,.
 Iti catutthībahubbīhi.
 Pañcamībahubbīhi
@@ -381,7 +381,7 @@ Samāsantaapaccayarāsi
 ,,,.,.
 369.Saṅkhyāhika. 337; rū. 350; nī. 722; caṃ. 4.4.73; pā. 5.4.75.
 .
-,,,,,,,,,.,,.
+,,,,,,,,,.-,,.
 370.Nadīgodhāvarīnaṃka. 337; rū. 350; nī. 722; caṃ. 4.4.73; pā. 5.4.75.
 ,.
 ,,.
@@ -423,7 +423,7 @@ Iti samāsantaapaccayarāsi.
 Nānādesarāsi
 378.Uttarapadeka. 333-334; rū. 344-345; nī. 717-718.
 ..
-‘‘,,,’’,.
+‘‘,,,’’-,.
 379.Nakhādayoka. 328; rū. 352; nī. 708; caṃ. 5.2.95; pā. 6.3.75.
 .
 ’,‘’,,’,,,,,,,,,,.,‘’.
@@ -622,7 +622,7 @@ Saṅkhyārāsi
 ,,,,,,.,,.,,.,,.,,....
 .,,.,,.
 ..,,,.
-,,,,,,bhinī, bhanītipi dissanti,,,,,,,,,,,,,,.
+-,,,,,,bhinī, bhanītipi dissanti,,,,,,,,,,,,,,.
 ,,,,,,,,,.,,saṃ. ni. 1.181,,.
 ,.,,,,.ka. 394, 395; rū. 416, 417,,.
 ,,.

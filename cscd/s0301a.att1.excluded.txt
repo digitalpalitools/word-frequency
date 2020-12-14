@@ -6,12 +6,12 @@ saṃyuttāgamo,,,,.–
 ,’’.
 .sagāthāvaggo,oghataraṇasuttaṃ.‘‘’’.,.
 1.‘‘’’,eva.Me.Sāvatthiyaṃ viharatīvī,haratī.
-evaṃ.–‘‘,’’(dha. pa. 53).‘‘,’’(a. ni. 4.122).‘‘,’’(a. ni. 3.66).‘‘’’(saṃ. ni. 1.187).‘‘,’’(ma. ni. 1.1).‘‘,,’’(ma. ni. 1.398).‘‘,;–‘’.–‘,’’’(dī. ni. 1.445).‘‘,?,.?,.?,.,?,,,’’(a. ni. 3.66)..
+evaṃ----.–‘‘,’’(dha. pa. 53).‘‘,’’(a. ni. 4.122).‘‘,’’(a. ni. 3.66).‘‘’’(saṃ. ni. 1.187).‘‘,’’(ma. ni. 1.1).‘‘,,’’(ma. ni. 1.398).‘‘,;–‘’.–‘,’’’(dī. ni. 1.445).‘‘,?,.?,.?,.,?,,,’’(a. ni. 3.66)..
 evaṃ–?,.
 –‘‘,’’–‘‘,’’.
 –‘‘,,,,,,’’(a. ni. 1.220-223)–‘‘’’(a. ni. 5.169)–‘‘,,’’.
 Me.–‘‘’’(su. ni. 81).‘‘,,’’(saṃ. ni. 4.88).‘‘,,’’(ma. ni. 1.29).‘‘’’‘‘’’.
-Sutasuta.–‘‘’’.‘‘’’(udā. 11).‘‘’’(pāci. 657).‘‘’’(khu. pā. 7.12).‘‘’’(dha. pa. 181).‘‘’’(ma. ni. 1.241).‘‘’’(ma. ni. 1.339)..–‘‘,’’.–‘‘,’’.
+Sutasuta----.–‘‘’’.‘‘’’(udā. 11).‘‘’’(pāci. 657).‘‘’’(khu. pā. 7.12).‘‘’’(dha. pa. 181).‘‘’’(ma. ni. 1.241).‘‘’’(ma. ni. 1.339)..-–‘‘,’’.–‘‘,’’.
 eva.Me.Suta.eva.Me.Suta.–‘‘,,’’.
 eva.Me.Suta.–‘‘,’’.
 eva,.Eva.Me.Suta..
@@ -31,7 +31,7 @@ Eka.Samaya.Ekaṃ samaya.samaya–
 ‘‘’’(dī. ni. 1.447).‘‘,,’’(a. ni. 8.29).‘‘’’(pāci. 358).‘‘’’(dī. ni. 2.332).‘‘,,,,–‘,’.,,’’(ma. ni. 2.135).‘‘’’(ma. ni. 2.260).
 ‘‘,;
 ,’’.–
-(saṃ. ni. 1.129).‘‘’’(ma. ni. 1.28).‘‘’’(paṭi. ma. 2.8)...
+(saṃ. ni. 1.129).‘‘’’(ma. ni. 1.28).‘‘’’(paṭi. ma. 2.8)..---------.
 ,.‘‘’’,,‘‘’’.
 ..,,,,‘‘’’.
 ‘‘’’‘‘,,’’,‘‘’’,‘‘’’.,..,..
@@ -54,13 +54,13 @@ Jetavane.,‘‘’’..Anāthapiṇḍikassa ārāme‘‘’’.,(ma. ni. aṭ
 –,‘‘’’.,‘‘’’...
 ‘‘’’.‘‘,’’,,‘‘’’.,.
 Aññatarā devatā.‘‘,,’’‘‘’’.‘‘’’.,.
-Abhikkantāya rattiyā.‘‘,,,,,,,’’(a. ni. 8.20; cūḷava. 383).‘‘’’(a. ni. 4.100).
+Abhikkantāya rattiyā-.‘‘,,,,,,,’’(a. ni. 8.20; cūḷava. 383).‘‘’’(a. ni. 4.100).
 ‘‘,;
 ,’’.–
 (vi. va. 857).‘‘,’’(pārā. 15)..,...
-Abhikkantavaṇṇāabhikkanta,vaṇṇa.‘‘’’(su. ni. 553).‘‘,,’’(ma. ni. 2.77).‘‘,,’’(dī. ni. 3.115).‘‘,’’(saṃ. ni. 1.234).‘‘’’(saṃ. ni. 1.138).‘‘’’(pārā. 602).‘‘’’..,..,.,..‘‘’’.
-Kevalakappakevala.‘‘’’(pārā. 1).‘‘’’(mahāva. 43).‘‘’’(vibha. 225).‘‘’’(mahāva. 244).‘‘,,’’(a. ni. 4.243).‘‘’’(saṃ. ni. 3.57)..
-Kappa.‘‘,’’(ma. ni. 1.387).‘‘,,’’(cūḷava. 250).‘‘’’(ma. ni. 1.387).‘‘’’.‘‘’’(vi. va. 1094, 1101).‘‘’’(cūḷava. 446).‘‘’’(a. ni. 8.80).‘‘’’(saṃ. ni. 1.94)..kevalakappaṃ jetavana‘‘’’.
+Abhikkantavaṇṇāabhikkanta-,vaṇṇa-----.‘‘’’(su. ni. 553).‘‘,,’’(ma. ni. 2.77).‘‘,,’’(dī. ni. 3.115).‘‘,’’(saṃ. ni. 1.234).‘‘’’(saṃ. ni. 1.138).‘‘’’(pārā. 602).‘‘’’..,..,.,..‘‘’’.
+Kevalakappakevala--.‘‘’’(pārā. 1).‘‘’’(mahāva. 43).‘‘’’(vibha. 225).‘‘’’(mahāva. 244).‘‘,,’’(a. ni. 4.243).‘‘’’(saṃ. ni. 3.57)..
+Kappa-------.‘‘,’’(ma. ni. 1.387).‘‘,,’’(cūḷava. 250).‘‘’’(ma. ni. 1.387).‘‘’’.‘‘’’(vi. va. 1094, 1101).‘‘’’(cūḷava. 446).‘‘’’(a. ni. 8.80).‘‘’’(saṃ. ni. 1.94)..kevalakappaṃ jetavana‘‘’’.
 Obhāsetvā,.
 Yenā.Yena bhagavā tenupasaṅkamī‘‘,’’.,.?,.Upasaṅkamī.Upasaṅkamitvā..
 ,.Ekamanta–‘‘’’(a. ni. 4.70).,..Aṭṭhāsī.,,.
@@ -88,7 +88,7 @@ Nimokkhasuttavaṇṇanā niṭṭhitā.
 ,.
 ‘‘,;
 ,’’.(mahāni. 10);
-Jarūpanītassā,.Na santi tāṇā.Etaṃ bhaya,,.Puññāni kayirātha sukhāvahānī.‘‘’’.‘‘’’.‘‘’’..
+Jarūpanītassā,.Na santi tāṇā.Etaṃ bhaya,,.Puññāni kayirātha sukhāvahānī.‘‘’’.‘‘’’.‘‘------’’..
 –‘‘’’.lokāmisa.,...Santipekkho.
 Upanīyasuttavaṇṇanā niṭṭhitā.
 4. Accentisuttavaṇṇanā
@@ -124,7 +124,7 @@ Ye na passanti nandana.Naradevāna,.Tidasāna.Yasassina.
 Aññatarā devatā.Paccabhāsī‘‘,’’‘‘’’.Yathā arahataṃ vaco,.aniccā.aniccā vata saṅkhārā.Uppādavayadhammino.Uppajjitvā nirujjhantī.,..Tesaṃ vūpasamo sukho..
 Nandanasuttavaṇṇanā niṭṭhitā.
 2. Nandatisuttavaṇṇanā
-12.nandatī.Puttimā.,,..,‘‘’’.Gohi tathevā,.Upadhī hi narassa nandanā,upadhī–,,,.‘‘,’’(ma. ni. 1.166)‘‘’’.,,...,.Na hi so nandati yo nirūpadhī,..
+12.nandatī.Puttimā.,,..,‘‘’’.Gohi tathevā,.Upadhī hi narassa nandanā,upadhī–,,,.‘‘,’’(ma. ni. 1.166)‘‘’’.,,..---.,.Na hi so nandati yo nirūpadhī,..
 –‘‘,’’socatī.socati puttehī,..,.Upadhī hi narassa socanā,–
 ‘‘,;
 ,’’.(su. ni. 773)–
@@ -171,8 +171,8 @@ Abhutvā.Bhikkhasī.Mā taṃ kālo upaccagā..‘‘’’.mā upaccagā.
 Kālaṃ vohaṃ na jānāmīvo.Kālaṃ na jānāmī.–
 ‘‘,;
 ,’’.
-jīvitaṃ‘‘,’’.,…pe…,,.Byādhi‘‘,’’..Kālo,‘‘,’’..Dehanikkhepana,‘‘,’’.,.,.Gati,‘‘’’.,.‘‘’’.
-Channo kālo na dissatī.Tasmā,.Mā maṃ kālo upaccagā‘‘’’..,,,,,,,.
+jīvitaṃ‘‘,’’.,-------…pe…,,.Byādhi‘‘,’’..Kālo,‘‘,’’..Dehanikkhepana,‘‘,’’.,.,.Gati,‘‘’’.,.‘‘’’.
+Channo kālo na dissatī.Tasmā,.Mā maṃ kālo upaccagā‘‘’’..,,,,--,,,.
 Pathaviyaṃpatiṭṭhahitvā–‘‘,,’’,.,,daharo tva.susū.Kāḷakeso.Bhadrenā.,.,,,.,.
 Anikkīḷitāvīkāmesū,.Mā sandiṭṭhikaṃ hitvā…pe…–‘‘’’,.,.
 Na kho ahaṃ, āvuso,,.Kalikañca kho ahaṃ, āvuso,,.kālikā,sandiṭṭhika..,‘‘’’....,..
@@ -197,12 +197,12 @@ Nandanavaggo dutiyo.
 3. Sattivaggo
 1. Sattisuttavaṇṇanā
 21.sattiyā..Omaṭṭho..;;;..,.,.Paribbaje.
-?,.,,.
+?-,.,,.
 –,,.,....
 2. Phusatisuttavaṇṇanā
 22.nāphusantaṃ phusatī,..Phusantañca tatophuse,..Tasmā phusantaṃ phusati, appaduṭṭhapadosina,,,‘‘,’’,,.,.–‘‘,’’..
 3. Jaṭāsuttavaṇṇanā
-23.antojaṭājaṭā..antojaṭā bahijaṭā.jaṭāya jaṭitā pajā.,,.,taṃ taṃ gotama pucchāmī.Gotamā.Ko imaṃ vijaṭaye jaṭa,.
+23.antojaṭājaṭā..--antojaṭā bahijaṭā.jaṭāya jaṭitā pajā.,,.,taṃ taṃ gotama pucchāmī.Gotamā.Ko imaṃ vijaṭaye jaṭa,.
 sīle patiṭṭhāyā.sīle patiṭṭhāyā.‘‘’’..
 Naro.Sapañño.Cittaṃ paññañca bhāvaya.,.Ātāpī.‘‘’’,.Nipako,..Pārihāriyapaññā‘‘,’’..,,.
 Soimaṃ vijaṭaye jaṭa.,.
@@ -212,7 +212,7 @@ yesa.yattha nāmañcā.nāma.Paṭighaṃ rūpasaññā cā,..Etthesā chijjate 
 5. Arahantasuttavaṇṇanā
 25.katāvī.Ahaṃ vadāmī,‘‘,,,’’–‘‘‘’,,’’.
 Sāmañña.Kusalo.Vohāramattenā‘‘,’’.‘‘,,,’’,..
-–‘‘,’’yo hotī.mānaṃ nu kho.–‘‘’’,‘‘’’.vidhūpitā.Mānaganthassā.Maññata.,...
+–‘‘,’’yo hotī.mānaṃ nu kho.–‘‘’’,‘‘’’.vidhūpitā.Mānaganthassā.Maññata.---,...
 6. Pajjotasuttavaṇṇanā
 26.puṭṭhu.Kathaṃ jānemū.Divāratti.Tattha tatthā,.Esā ābhā.?,buddhābhā...
 7. Sarasuttavaṇṇanā
@@ -227,7 +227,7 @@ Sattivaggo tatiyo.
 4. Satullapakāyikavaggo
 1. Sabbhisuttavaṇṇanā
 31.satullapakāyikā.–.,..–‘‘’’..–‘‘,’’.?.,.,,,,,,.–‘‘,’’.,.,.,‘‘,’’,.
-sabbhirevā,..Samāsethā.,.Kubbethā.Santhava.,..Sata.Saddhamma,.Seyyo hotī.Na pāpiyo.Nāññato,.Sokamajjhe,.
+sabbhirevā,.-.Samāsethā.,.Kubbethā.Santhava.,--..Sata.Saddhamma,.Seyyo hotī.Na pāpiyo.Nāññato,.Sokamajjhe,.
 Ñātimajjhe virocatī.,–‘‘,,,,’’.‘‘’’,..‘‘,’’.‘‘,’’..‘‘,’’‘‘’’,.–‘‘,’’,‘‘,,’’–
 ‘‘,;
 ,.
@@ -285,7 +285,7 @@ Pāṇesupi sādhu saṃyamo..Aheṭhayaṃ cara.Parūpavādā.Bhayā.Dānā ca 
 ’’.
 Athettha dhīrā.Saṃyojanaṃ sabba.Akiñcana.Nānupatanti dukkhā.Iccāyasmāmogharājā,‘‘’’‘‘’’.idha vā huraṃ vā.Naruttamaṃ atthacaraṃ narāna,.Ye taṃ namassanti pasaṃsiyā te,,,.Bhikkhūti.Aññāya dhamma.Saṅgātigā tepi bhavantī.,..
 5. Ujjhānasaññisuttavaṇṇanā
-35.ujjhānasaññikā,.–‘‘,,,,,,,’’.‘‘’’.
+35.ujjhānasaññikā,.–‘‘--,,,,,,,’’.‘‘’’.
 Aññathā santa.Nikaccā,.Kitavassevā...Bhuttaṃ theyyena tassa ta.Parijānanti paṇḍitā.‘‘’’.
 nayida.yāyaṃ paṭipadā daḷhā.,.Na ve dhīrā pakubbantī,.
 Pathaviyaṃ patiṭṭhahitvā‘‘,’’.Accayo.No, bhante, accāgamā.Āsādetabba..,..Paṭiggaṇhātū.Āyatiṃ saṃvarāyā,.
@@ -420,7 +420,7 @@ Jarāvaggo chaṭṭho.
 64.kiṃ su saṃyojano?Vicāraṇa..Vitakkassa vicāraṇa..
 65...
 6. Attahatasuttavaṇṇanā
-66.kenassubbhāhato..Icchādhūpāyito..
+66.kenassubbhāhato.-.Icchādhūpāyito..
 7-9. Uḍḍitasuttādivaṇṇanā
 67.taṇhāya uḍḍito.,.Maccunā pihito,‘‘’’..
 68...
@@ -456,5 +456,5 @@ Vijjāuppatataṃ seṭṭhā‘‘,?’’.–‘‘,.’’?.vijjā uppatata.v
 81.araṇā.Vusita.Bhojissiya.Samaṇā..Vusitaṃ na nassatī.Parijānantī.Bhojissiya.Vandantī.Patiṭṭhita.Samaṇīdhā.Jātihīna.Khattiyā,..
 Chetvāvaggo aṭṭhamo.
 Iti sāratthappakāsiniyā
-
+-
 Devatāsaṃyuttavaṇṇanā niṭṭhitā.

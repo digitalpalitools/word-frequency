@@ -1,5 +1,5 @@
 ﻿
- parivāre mukhāgatā katthapaññattivārādayo aṭṭha vārā teyeva paccaya-saddena yojetvā vuttā aṭṭhapaccayavārāti vibhaṅgadvaye visuṃ visuṃ dassitā soḷasa parivārā assāti soḷasaparivāro tassa  nti sabbesaṃ vuttānaṃ saṅkalananayānaṃ saṅgahetabbato sabbaṃ saṅkalabhedanaṃ nayaṃ
+ parivāre mukhāgatā katthapaññattivārādayo aṭṭha vārā teyeva paccayasaddena yojetvā vuttā aṭṭhapaccayavārāti vibhaṅgadvaye visuṃ visuṃ dassitā soḷasa parivārā assāti soḷasaparivāro tassa  nti sabbesaṃ vuttānaṃ saṅkalananayānaṃ saṅgahetabbato sabbaṃ saṅkalabhedanaṃ nayaṃ
 ti paṭhamapārājikāpatti kuṭikaraṇe payoge dukkaṭāpatti ekaṃ piṇḍaṃ anāgate thullaccayāpatti tasmiṃ āgate saṅghādisesāpatti vikālabhojane pācittiyāpatti paṭhamapāṭidesanīyāpattīti chabbidhā
 ti catutthapārājikā kuṭiyā kārāpane pubbagatiyo padasodhammapācittiyaṃ davakamyatāya hīnena khuṃsanaṃ tassa dubbhāsitanti tathā chabbidhā
 ti bhikkhuniyā vajjapaṭicchādikāya pārājikaṃ bhikkhuno saṅghādisesachādane pācittiyaṃ attano duṭṭhullacchādane dukkaṭanti tisso ca
@@ -23,7 +23,7 @@ ti vissajji sambhavadhātu ti upakkamitvā mocane harite uccāraṃ passāvaṃ 
  kiṃ pamāṇametāsanti 
 nti ettha bhikkhūti sāmivacanappasaṅge paccattaṃ bhikkhunoti attho gāthābandhavasena vā vaṇṇalopo
  dutiyāya hatthapāsakaṃ
- yāvatatiyake tisso āpattiyoti  padassa niddese thullaccayaṃ siyā saṅgha-bhedakassānuvattinoti paṭhanti tiṇṇaṃ saṅghabhedānuvattākānaṃ kokālikādīnaṃ saṅghādisesoti  vuttattā tathā pāṭho na gahetabbo
+ yāvatatiyake tisso āpattiyoti  padassa niddese thullaccayaṃ siyā saṅghabhedakassānuvattinoti paṭhanti tiṇṇaṃ saṅghabhedānuvattākānaṃ kokālikādīnaṃ saṅghādisesoti  vuttattā tathā pāṭho na gahetabbo
 ti tiṇṇaṃ pūraṇī  kammavācā yāvatatiyāya kammavācāya pariyosāne āpajjitabbā āpatti  nāma
 ti idaṃ garukāpattiyā vatthudassanaṃ nti idaṃ thullaccayadukkaṭānaṃ vatthudassanaṃ
 ti idaṃ pāṭidesanīyavatthudassanaṃ ti idaṃ pācittiyavatthudassanaṃ ekato ajjhoharantiyāti padacchedo
@@ -77,7 +77,7 @@ puññavā ñāṇavā sīlī suhajjo muduko tathā
 yo sīhaḷārimaddesu candimā sūriyo viya
 pākaṭo tthero mahātejo mahāyaso
 tena nītā sīhaḷā yā idha pattā sudhīmatā
-esā saṃvaṇṇanā sīha-ḷakkharena sulikkhitā
+esā saṃvaṇṇanā sīhaḷakkharena sulikkhitā
  iti nāmena therena thiracetasā
 arimaddike rakkhantena parivattetvāna sādhukaṃ
 likhāpitā hitatthāya bhikkhūnaṃ arimaddike

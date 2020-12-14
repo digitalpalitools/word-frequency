@@ -161,7 +161,7 @@ Anutīracārī bhaddante...‘‘’’..‘‘’’..‘‘’’‘‘,,,,’
 29.
 ‘‘,;
 ,’’.
-sahāyamanudhāva ma,.–,.
+sahāyamanudhāva ma,-.–,.
 –
 30.
 ‘‘,;
@@ -342,7 +342,7 @@ yācako appiyo hotī,,‘‘’’,..Yāca.Adada.–,.Tasmā,,.Mā me videssanā
 58.
 ‘‘,;
 ,’’.
-yācanajīvāno,.–,,,.Puññaṃ labbhetī,.Na vedessantī‘‘’’,.,.Yācakamāgate,.Brahmacāri piyo mesī,,,.Bhaññamicchasī,,.
+yācanajīvāno,.–,,,.Puññaṃ labbhetī,.Na vedessantī‘‘’’,.,.Yācakamāgate-,.Brahmacāri piyo mesī,,,.Bhaññamicchasī,,.
 .‘‘,,,’’–
 59.
 ‘‘,;
@@ -605,7 +605,7 @@ Mama vikkamaporisa.Sukatantānī.,,‘‘’’.Dūtavippahitāni cā‘‘’�
 ‘‘,;
 ,’’.
 –yāvatāsīsatī,‘‘’’,tāvadevapavīṇati,atthāpāye.
-Katakalyāṇo.Katattho.Nāvabujjhatī,.Palujjantī.Ye honti abhipatthitā,..Katattho manubujjhatī,.Taṃ vo vadāmī.Ṭhassathā.
+Katakalyāṇo.Katattho.Nāvabujjhatī,.Palujjantī.Ye honti abhipatthitā,..Katattho manubujjhatī,-.Taṃ vo vadāmī.Ṭhassathā.
 ...
 –‘‘,,’’.
 Daḷhadhammajātakavaṇṇanā catutthā.
@@ -621,7 +621,7 @@ pure.Paccuḍḍetī.Araññe dūra.Āyato.
 106.
 ‘‘,;
 ,’’.
-ayaṃ vā.,.Allasiṅga.Vacchito,.Bhūmyā.Amarā vatā,‘‘’’.
+ayaṃ vā-.,.Allasiṅga.Vacchito,.Bhūmyā.Amarā vatā,‘‘’’.
 ‘‘,,’’–
 107.
 ‘‘,;
@@ -688,7 +688,7 @@ Tamena passāmiparena nāri..Āsītikaṃ nāvutikaṃva jaccā.Gopānasībhogga
 ‘‘,;
 ,’’.
 soha.Tamevānuvicintayanto.Evaṃ iti pekkhamāno‘‘,’’.Na gahe rame.Brahmacariyassa kālo,,.
-Rajjuvālambanī cesā,.?Yā gehe vasato rati,..–‘‘’’,,,.Etampi chetvānā,,pahāya vajanti,.
+Rajjuvālambanī cesā-,.?Yā gehe vasato rati,..–‘‘’’,,,.Etampi chetvānā,,pahāya vajanti,.
 .
 –‘‘,,’’.
 Susīmajātakavaṇṇanā chaṭṭhā.
@@ -904,7 +904,7 @@ socayissatī.Kantā.Gāme vasa.Aninditā.
 157.
 ‘‘,;
 ,’’.
-tayā maṃ asitāpaṅgī.–,.‘‘’’.
+tayā maṃ asitāpaṅgī.–,.--‘‘’’.
 ..‘‘,’’.‘‘,’’‘‘’’.‘‘’’‘‘,,,’’..‘‘’’.‘‘,’’.‘‘,’’.‘‘’’.,‘‘,’’.–
 158.
 ‘‘,;

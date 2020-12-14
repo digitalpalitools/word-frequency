@@ -1,6 +1,6 @@
 ﻿
 ito paraṃ pavakkhāmi sabbanāmañca tassamaṃ
-nāmañca yojitaṃ nānā-nāmeheva visesato
+nāmañca yojitaṃ nānānāmeheva visesato
 yāni honti tiliṅgāni anukūlāni yāni ca
 tiliṅgānaṃ visesena padānetāni nāmato
 sabbasādhāraṇakāni nāmānicceva atthato
@@ -95,7 +95,7 @@ atthova bhavate evaṃ suṭṭhu dhārehi paṇḍitāti
 atha vā yasmā  purisaṃ passati ne purise passatītiādinā padato aparattepi naṃ ne iccādīni padāni vuttāni tasmā tenāpi nayena padato aparānipi tāni kadāci siyuṃ mayaṃ pana pāḷinayānusārena tesaṃ pavattiṃ vadāma idaṃ ṭhānaṃ suṭṭhu vicāretabbaṃ
 ettha pana saddassa parapadehi saddhiṃ samāsopi veditabbo taṃputto taṃsadiso tanninno tappoṇo tappabbhāro tabbhūto tagguṇo tassadisoti
 saddassa samāsamhi saddhiṃ parapadehi ve
-niggahītāgamo pubba-pade dvittantu pacchime
+niggahītāgamo pubbapade dvittantu pacchime
 evaṃ saddassa samāso sallakkhitabbo
 idāni saddassa nāmikapadamālā vuccate 
 eso ete etaṃ ete etena etehi etebhi etassa etesaṃ etesānaṃ etasmā etamhā etehi etebhi etassa etesaṃ etesānaṃ etasmiṃ etamhi etesu idaṃ pulliṅgaṃ
@@ -103,7 +103,7 @@ etaṃ etāni etaṃ etāni sesaṃ pulliṅgasadisaṃ idaṃ napuṃsakaliṅg
 esā  etā etāyo etaṃ etā etāyo etāya etāhi etābhi etāya etissā etissāya etāsaṃ etāya etāhi etābhi etāya etissā etissāya etāsaṃ etāya etissaṃ etāsu idaṃ itthiliṅgaṃ evaṃ saddassa nāmikapadamālā bhavati
 parapadenettha saddhiṃ samāsopissa veditabbo etadatthāya lokasmiṃ nidhi nāma nidhiyyati etapparamāyeva devatā sannipatitā ahesuntiādīsu
 samāse saddassa saddhiṃ parapadehi ve
-niggahītāgamo pubba-pade hoti na hoti ca
+niggahītāgamo pubbapade hoti na hoti ca
 idāni saddassa nāmikapadamālā vuccate 
 ayaṃ ime imaṃ ime anena iminā ehi ebhi imehi imebhi assa imassa esaṃ esānaṃ imesaṃ imesānaṃ asmā imasmā imamhā ehi ebhi imehi imebhi assa imassa esaṃ esānaṃ imesaṃ imesānaṃ asmiṃ imasmiṃ amhi imamhi esu imesu idaṃ pulliṅgaṃ
 idaṃ imāni sesaṃ pulliṅgasadisaṃ idaṃ napuṃsakaliṅgaṃ
@@ -123,7 +123,7 @@ rūpavisesopettha veditabbo ke gandhabbe ca rakkhase nāge ke kimpurise ca mānu
 ko te balaṃ mahārāja itiādīsu pāḷisu
 kvasaddatthe vattatīti ñeyyā  iccayaṃ suti
 petaṃ  taṃ sāmamaddakkhiṃ ko nu tvaṃ sāma jīvasi
-iti pāṭhe saddā-bhidheyye vattatīti ca
+iti pāṭhe saddābhidheyye vattatīti ca
 etesu dvīsu atthesu diṭṭho  iccayaṃ ravo
 nipātoti gahetabbo sutisāmaññato ruto
 napuṃsakaliṅge kaṃ kāni kaṃ kāni sesaṃ pulliṅgasadisaṃ yojetabbaṃ atha vā kiṃ cittaṃ kiṃ rūpaṃ kiṃ parābhavato mukhaṃ kiṃ icchasītiādipayogadassanato pana kiṃ kāni kiṃ kānīti vatvā sesaṃ pulliṅgasadisaṃ yojetabbaṃ ayaṃ nayo yuttataro idaṃ napuṃsakaliṅgaṃ
@@ -140,7 +140,7 @@ tathā hi kiṃcitto tvaṃ bhikkhu kiṃkārapaṭissāvinītiādīsu saddo sar
 visuṃ padāvayavo vā hutvā dīhi vā pana
 yutto saddehi saddo diṭṭho sugatasāsane
 pāḷinayānusārena sesānaṃ sambhavopi ca
-ñeyyo viññūhi saddhamma-nayaññūhi pabhedatoti
+ñeyyo viññūhi saddhammanayaññūhi pabhedatoti
 idāni  sabbanāmikabhāve ṭhitehi saddehi samānasutikānaṃ aññesaṃ saddānaṃ nāmikapadamālāviseso vattabbo siyā so heṭṭhā liṅgattayamissakaparicchede vutto asabbanāmikattā pana nayeneva vibhatto tathā hi yadā saddo brahmavātakāyatthavācako saddo pana sirojalasukhatthavācako tadā tāni padāni asabbanāmikāni kasmā asaddamayattā sabbanāmikarūpasaṅkhātehi asādhāraṇarūpehi virahitattā pucchatthato atthantaravācakattā ca ettha pana samānasutivasena atthantaraviññāpanatthaṃ saddo saddoti ca vuttaṃ ekantato pana sabbanāmikatte saddoyeva suddhanāmatte saddoyevāti gahetabbaṃ iccevaṃ 
 kāye brahmani vāte ca sīse jalasukhesu ca
 saddo vattatī tīsu pumā tīsu napuṃsako
@@ -259,7 +259,7 @@ sāmyatthasampadānatthā sambhavanti yahiṃ duve
 tuyhaṃ mayhantime saddā te payogā na dullabhā
 tava mamātime saddā pāyā sāmimhi vattare
 sampadāne yahiṃ honti te payogā panappakā
-to to yhaṃ-yhaṃsaddāva sāsane
+to to yhaṃyhaṃsaddāva sāsane
 pāṭhe nekasahassamhi sāmiatthe pavattareti
 sabbāpi imā nītiyo paramasukhumā sududdasā vīrajātinā sādhukaṃ manasi kātabbā
 saddesu pana saddo paccattaupayogakaraṇasampadānasāmivacanapadapūraṇesu dissati kacci vo  anuruddhā samaggā sammodamānātiādīsu hi paccatte dissati gacchatha bhikkhave paṇāmemi votiādīsu upayoge na vo mama santike vatthabbantiādīsu karaṇe vanapatthapariyāyaṃ vo bhikkhave desessāmītiādīsu sampadāne sabbesaṃ vo sāriputtā subhāsitantiādīsu sāmivacane ye hi voariyā parisuddhā kāyakammantātiādīsu padapūraṇamatte etthetaṃ vuccati 

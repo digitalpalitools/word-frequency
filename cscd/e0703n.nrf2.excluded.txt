@@ -1,10 +1,10 @@
 ﻿Tatiya pariccheda
 Paṭhamadhammasaṃgīti
 1.
-’;
+-’;
 ,.
 2.
-;
+-;
 ,.
 3.
 ,;
@@ -13,7 +13,7 @@ Paṭhamadhammasaṃgīti
 ,;
 ,.
 5.
-;
+-;
 ,.
 6.
 ,;
@@ -35,7 +35,7 @@ Paṭhamadhammasaṃgīti
 ,.
 12.
 ,;
-.
+-.
 13.
 ,;
 ,.
@@ -68,7 +68,7 @@ Paṭhamadhammasaṃgīti
 ,.
 23.
 ’,;
-.
+-.
 24.
 ,;
 ,.
@@ -104,7 +104,7 @@ Paṭhamadhammasaṃgīti
 ,.
 35.
 ’,;
-.
+-.
 36.
 ,;
 ,.

@@ -68,7 +68,7 @@ Paramatthajotikāya khuddaka-aṭṭhakathāya
 Suttanipāta-aṭṭhakathāya puṇṇakasuttavaṇṇanā niṭṭhitā.
 4. Mettagūsuttavaṇṇanā
 1056.Pucchāmita.maññāmi taṃ vedaguṃ bhāvitatta‘‘’’‘‘’’.
-1057.Apucchasīa,.Pavakkhāmi yathā pajāna,.Upadhinidānā pabhavanti dukkhā.
+1057.Apucchasīa-,.Pavakkhāmi yathā pajāna,.Upadhinidānā pabhavanti dukkhā.
 1058.–yo ve avidvā.pajāna.Dukkhassajātippabhavānupassī‘‘’’.
 1059.Sokapariddavañcā.Tathā hi te vidito esa dhammo,.
 1060-61.Kittayissāmi te dhamma.Diṭṭhe dhamme,.Anītiha.Yaṃ viditvā‘‘’’.Tañcāhaṃ abhinandāmī.Dhammamuttama.
@@ -102,7 +102,7 @@ Suttanipāta-aṭṭhakathāya upasīvasuttavaṇṇanā niṭṭhitā.
 7. Nandasuttavaṇṇanā
 1084-5.Santiloke.–lokejanā‘‘’’,tayidaṃ kathaṃsūno muniṃ vadanti,,udāhujīvitenūpapanna‘‘na diṭṭhiyā’’.
 1086-7.‘‘’’‘‘ye kecime’’.anekarūpenā.Tattha yatā carantā..
-1088-90.‘‘’’,‘‘ye kecime’’..nivutā.Yesīdhā.su.Taṇhaṃ pariññāyā..
+1088-90.‘‘’’,‘‘ye kecime’’..nivutā.Yesīdhā.su-.Taṇhaṃ pariññāyā..
 ,‘‘etābhinandāmī’’..
 Paramatthajotikāya khuddaka-aṭṭhakathāya
 Suttanipāta-aṭṭhakathāya nandasuttavaṇṇanā niṭṭhitā.
@@ -200,7 +200,7 @@ Nigamanakathā
 ‘‘,;
 ,’’.
 (Pariyattippamāṇato catucattālīsamattā bhāṇavārā.)
-buddhaghosoparamatthajotikā–
+buddhaghosoparamatthajotikā-–
 ,;
 ,.
 ,;

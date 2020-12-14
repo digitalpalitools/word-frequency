@@ -57,10 +57,10 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 806.
 ,;
-.
+-.
 807.
 ,;
-.
+-.
 808.
 ,;
 ,.
@@ -72,10 +72,10 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 811.
 ,;
-.
+-.
 812.
-;
-.
+-;
+-.
 813.
 ,;
 ,.
@@ -84,7 +84,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 815.
 ,;
-.
+-.
 816.
 ,;
 ,.
@@ -108,9 +108,9 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 823.
 ,;
-.
+-.
 824.
-;
+-;
 ,.
 825.
 ,;
@@ -144,7 +144,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 835.
 ,;
-.
+-.
 836.
 ,;
 ,.
@@ -222,7 +222,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 861.
 ,;
-.
+-.
 862.
 ,;
 ,.
@@ -252,7 +252,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 871.
 ,;
-.
+-.
 872.
 ,;
 ,.
@@ -304,7 +304,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,;
 ,.
 888.
-;
+-;
 ,.
 889.
 ,;
@@ -320,7 +320,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 893.
 ,;
-.
+-.
 894.
 ,;
 ,.
@@ -367,7 +367,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 908.
 ,;
-.
+-.
 909.
 ,;
 ,.
@@ -388,7 +388,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ‘‘,’’.
 915.
 ,;
-‘‘’’.
+‘‘-’’.
 916.
 ,‘‘;
 ,’’.
@@ -460,7 +460,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 939.
 ‘‘’’,;
-.
+-.
 940.
 ,;
 ,.
@@ -502,7 +502,7 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 953.
 ‘‘’’,;
-.
+-.
 954.
 ,;
 ,.
@@ -580,6 +580,6 @@ Rūpāvacarasamādhibhāvanāniddeso
 ,.
 979.
 ,;
-.
+-.
 Iti abhidhammāvatāre rūpāvacarasamādhibhāvanāniddeso
 Nāma cuddasamo paricchedo.

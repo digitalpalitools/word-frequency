@@ -13,7 +13,7 @@ caturo caturopāye yo jayaṃ tattha so vasī
  coḷarājā suṇitvā taṃ puḷatthinagare ṭhitaṃ
 senāpatima pesesi datvāna balavāhanaṃ
 
- senindaṃ kājaraggāma-samīpaṃ samupāgataṃ
+ senindaṃ kājaraggāmasamīpaṃ samupāgataṃ
 duppasayhaṃ viditvāna giriduggamagā tato
 
  senindo kājaraggāmaṃ vilumpitvāna vegasā
@@ -25,7 +25,7 @@ mahatā balakāyena sippatthalakamāvasi
  rājā rāmaññavisaye rājino santikaṃ jane
 pesesi bahukesāraṃ dhanajātañcanappakaṃ
 
- vicittavatthakappūra-candanādīhi vatthūhi
+ vicittavatthakappūracandanādīhi vatthūhi
 paripuṇṇā ca nāvāyo nekātitthe samosaṭā
 
  dhanajā tehi nekehi karonto bhaṭasaṅgahaṃ
@@ -47,7 +47,7 @@ ghātento savase katvā rājāraṭṭhādhivāsino
 ajjhotthari saseno sa bhinno velovasāgaro
 
  rañño paccatthikā hutvā ravidevacalavhayā
-ubho damiḷaseninda-vasaṃ yātā mahabbalā
+ubho damiḷasenindavasaṃ yātā mahabbalā
 
  mahāpakkhabalopete te passiya camūpati
 rohaṇaṃ sakalaṃ khippaṃ maññittha sakahatthagaṃ
@@ -56,10 +56,10 @@ rohaṇaṃ sakalaṃ khippaṃ maññittha sakahatthagaṃ
 paluṭṭhapabbate duggaṃ pavidhāya tahiṃ vasī
 
  coḷasenā tadāselaṃ samantā samparikkhipi
-tatthobhayesaṃ senāna-mahū bhiṃsanakaṃ raṇaṃ
+tatthobhayesaṃ senānamahū bhiṃsanakaṃ raṇaṃ
 
  rañño bhaṭā vināsetvā sabbaṃ taṃ damiḷaṃ balaṃ
-palāyantaṃ mahācoḷa-sāmantañcānubandhiya
+palāyantaṃ mahācoḷasāmantañcānubandhiya
 
  gahetvāna siraṃ tassa gāmasmiṃ tambaviṭṭhike
 saddhiṃ vāhanayānehi sārabhūtadhanehi ca
@@ -109,7 +109,7 @@ sakalaṃ parivattesi guttahālakamaṇḍalaṃ
  khadiraṅgaṇiduggamhā palāpetvāna taṃ raṇe
 ṭhānā kubulagallā ca yujjhanto taṃ palāpayi
 
- vihāya puttadārādi-sabbaṃ nekadhanaṃ balaṃ
+ vihāya puttadārādisabbaṃ nekadhanaṃ balaṃ
 palāyamāno so raṭṭhaṃ coḷāyatta magālahuṃ
 
  tadā narissaro tata tassa sabbaṃ samādiya
@@ -121,7 +121,7 @@ purevasī susajjento balaṃ coḷehi yujjhituṃ
  tato rājā samavhāya sacīve dve mahabbale
 pesesi dikkhiṇaṃ passaṃ vasaṃ netuṃ tahiṃ jane
 
- sampesesi mahāmacca-yugalaṃ kakkhalaṃ vibhū
+ sampesesi mahāmaccayugalaṃ kakkhalaṃ vibhū
 coḷadappavināsāya tato velā mahāpathe
 
  pesitā dakkhiṇaṃ passaṃ amaccāme mahabbalā
@@ -134,10 +134,10 @@ tilagullaṃ mahāgallaṃ maṇḍagallakameva ca
 vattentā savase raṭṭhaṃ mahātitthamupāgatā
 
  pesitā sacivādvetu tato velā mahāpathe
-vilumpantā chagāmādi-khandhāvāre tahiṃ tahiṃ
+vilumpantā chagāmādikhandhāvāre tahiṃ tahiṃ
 
  pulatthinagarāsannaṃ kamenāgamma pesayuṃ
-dūte rājantikakhippa-māgantuṃ vaṭṭatītiha
+dūte rājantikakhippamāgantuṃ vaṭṭatītiha
 
  disāsā dvīsu yānehi sacivehi pavattitaṃ
 vikkamāti sayaṃ sutvā kālaññū so mahīpahi
@@ -145,7 +145,7 @@ vikkamāti sayaṃ sutvā kālaññū so mahīpahi
  sīghaṃ sannayha senaṅgaṃ samaggaṃ vidikovido
 ummūlanāyacoḷānaṃ purātamhābhinikkhami
 
- gacchaṃ gaṅgāya mahiya-ṅgaṇathūpantike vibhū
+ gacchaṃ gaṅgāya mahiyaṅgaṇathūpantike vibhū
 senānivesaṃ kāretvā kañcikālaṃ tahiṃ vasī
 
  kamenāgamma ṭhānaññū puḷatthinagarantike

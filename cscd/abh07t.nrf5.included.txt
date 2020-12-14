@@ -35,7 +35,7 @@ anipphannā dasa ceti aṭṭhavīsavidhaṃ bhave
  rūpāyatanaṃ  itaraṃ 
  cakkhādidvayaṃ asampattavasena ghānādittayaṃ sampattavasenāti pañcavidhampi  itaraṃ 
  vaṇṇo gandho raso ojā bhūtacatukkañceti aṭṭhavidhampi  itaraṃ 
- iccevamaṭṭhavīsati-vidhampi ca vicakkhaṇā
+ iccevamaṭṭhavīsatividhampi ca vicakkhaṇā
 ajjhattikādibhedena vibhajanti yathārahaṃ
 
 
@@ -54,7 +54,7 @@ ajjhattikādibhedena vibhajanti yathārahaṃ
  avinibbhogarūpāni ceva ākāsadhātu ca catūhi sambhūtāni
  lakkhaṇarūpāni na kutoci jāyanti
  aṭṭhārasa pannarasa terasa dvādasāti ca
-kammacittotukāhāra-jāni honti yathākkamaṃ
+kammacittotukāhārajāni honti yathākkamaṃ
  jāyamānādirūpānaṃ sabhāvattā hi kevalaṃ
 lakkhaṇāni na jāyanti kehicīti pakāsitaṃ
 
@@ -65,9 +65,9 @@ lakkhaṇāni na jāyanti kehicīti pakāsitaṃ
  suddhaṭṭhakaṃ saddanavakaṃ lahutādekādasakaṃ saddalahutādidvādasakañceti 
  suddhaṭṭhakaṃ lahutādekādasakañceti 
  tattha suddhaṭṭhakaṃ saddanavakañceti dve utusamuṭṭhānakalāpā bahiddhāpi labbhanti avasesā pana sabbepi ajjhattikamevāti
- kammacittotukāhāra-samuṭṭhānā yathākkamaṃ
+ kammacittotukāhārasamuṭṭhānā yathākkamaṃ
 nava cha caturo dveti kalāpā ekavīsati
-kalāpānaṃ pariccheda-lakkhaṇattā vicakkhaṇā
+kalāpānaṃ paricchedalakkhaṇattā vicakkhaṇā
 na kalāpaṅgamiccāhu ākāsaṃ lakkhaṇāni ca
 
 

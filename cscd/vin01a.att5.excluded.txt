@@ -37,7 +37,7 @@ Anissajjitvā paribhuñjati āpatti dukkaṭassā,...,‘‘’’(pārā. 570).
 ?Mahāpadumatthero–‘‘.’’.–‘‘,’’.Mahāpaccariyampi‘‘.’’.mahātissattheropi–‘‘,.,’’.Mahāpaccariyampi’’.
 ‘‘Vassikasāṭikā’’,...‘‘Nisīdanaṃ’’,,.‘‘Paccattharaṇa’’mpi,,,...‘‘Kaṇḍuppaṭicchādi’’,.,.‘‘Mukhapuñchanacoḷaṃ’’,,.‘‘’’.Parikkhāracoḷe,.Thavikāpi parissāvanampi‘‘’’.‘‘’’..Mahāpaccariyaṃ‘‘’’..
 ?,,,,,,,,.,,.,.,.,.,.,.Mahāsumatthero–‘‘,,’’.Karavīkatissatthero–‘‘,,.,’’.Andhakaṭṭhakathāyaṃmahāsumatthera‘‘’’...’’.
-,,,.....andhakaṭṭhakathāyaṃ‘‘’’‘‘’’,.
+,--,,.....andhakaṭṭhakathāyaṃ‘‘’’‘‘’’,.
 Karavīkatissatthera,,.Mahāsumatthera‘‘,’’.–‘‘’’..,,..
 aṭṭhakathāvādo,.?.sabbaaṭṭhakathāsu,..,.
 ,..,,,.,.,,.‘‘antodasāhaṃ adhiṭṭheti vikappetī’’.
@@ -177,7 +177,7 @@ Yatassa cīvaracetāpannaṃ ābhata...‘‘’’,,.Tatthā;.Na taṃ tassa bh
 ‘‘’’,–‘‘,,,,’’.,..–
 ,;
 ,.
-,.
+,-.
 ‘‘’’‘‘’’,,‘‘,’’.,;.,,.–‘‘,,’’,–‘‘’’.–‘‘’’.
 ‘‘’’,..?,–‘‘’’.,.‘‘’’,.
 ,,,.,,.,‘‘’’,,.,.,,.
@@ -251,7 +251,7 @@ paribhogā–,,,.
 .,.,.Mahāpaccariyaṃ,.,.,,.
 ;–,;.
 ,.,,,.‘‘’’,.
-,.,.
+-,.,.
 –.catunikāyikatissattherassamahātipiṭakattheromahārakkhitattheraṃ–‘‘,’’.‘‘,,’’.‘‘,’’.‘‘,,’’‘‘,,,’’..
 586.Rūpiye rūpiyasaññī.
 Rūpiye vematiko‘‘,’’.
@@ -309,7 +309,7 @@ Pattasikkhāpadavaṇṇanā niṭṭhitā.
 2. Ūnapañcabandhanasikkhāpadavaṇṇanā
 609.Tena samayenā.na yāpetī,,,,–‘‘,’’.
 612-3.Ūnapañcabandhanenā,,..,,‘‘’’.‘‘’’,,.,,‘‘’’.
-Dvaṅgulā rāji na hotī.Yassa dvaṅgulā rāji hotī,,.,...,.,.,.,.,,..
+Dvaṅgulā rāji na hotī.Yassa dvaṅgulā rāji hotī,-,.,...,.,.,.,.,,..
 ,,,.,,,,..
 615.Thero vattabbo‘‘,,,’’.Yo na gaṇheyyā.‘‘’’,.Pattapariyanto.
 Na adese,.,.‘‘,,’’khandhake.
@@ -330,15 +330,15 @@ Sannidhikārakaṃ paribhuñjitabbānī.?,.,.,.;.,.‘‘’’.,.,...
 ,...,,.,,,.,,,..
 ..,,,.,,..
 ,,,.,...,.
-....,...,.,...
-623.Vasātela‘‘,,,,,,,’’(mahāva. 262).‘‘’’.,.....
+...--.,...,.,...
+623.Vasātela‘‘,,,,,,,’’(mahāva. 262).‘‘’’.,..---------...
 ..,.,.–‘‘’’(mahāva. 262)...–
 ‘‘,,,,.,,,,.,,,,.,,,,’’.
 Upatissattheraṃ–‘‘,,’’?‘‘,’’..–‘‘,,’’?‘‘,,’’.–‘‘,,’’?‘‘’’.
 Mahāsumatthero–‘‘,’’.Mahāpadumatthero‘‘’’‘‘,’’‘‘’’.
 Madhu nāma makkhikāmadhū.,.,,.,.,.,..,,,.
 Phāṇitaṃ nāma ucchumhā nibbatta.,..,.,.,..,.,..,....‘‘’’mahāaṭṭhakathāyaṃ.
-Mahāpaccariyaṃ‘‘,’’‘‘’’,.,...,.,..,..,.
+Mahāpaccariyaṃ‘‘,’’‘‘’’,.,...,.,..,.-----.,.
 Tāni paṭiggahetvā,...odissaṃ nāma–,,,,,,.
 byādhiodissaṃ–‘‘,,’’(mahāva. 264),,..
 Puggalodissaṃ–‘‘,,.,,’’(cūḷava. 273),,.

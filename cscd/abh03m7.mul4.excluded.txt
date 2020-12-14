@@ -240,89 +240,89 @@ Suddhaṃ
 Hetusabhāgaṃ
 63.,,,,,,,,,.(10)
 Sāmaññaghaṭanā (2)
-..
+------.------.
 Saindriya-maggaghaṭanā (2)
-64...
+64.--------.---------.
 Sādhipati-indriya-maggaghaṭanā (2)
-65..
+65.-------------------.
 Ārammaṇasabhāgaṃ
 66.,.(2)
 Ārammaṇaghaṭanā (1)
-67..
+67.-.
 Adhipatisabhāgaṃ
 68.,,,,,,,,,,,,.(13)
 Pakiṇṇakaghaṭanā (1)
-69..
+69.--.
 Sahajātaghaṭanā (8)
-..
-..
-..
-..
+------.-------.
+--------.--------.
+--------.---------.
+---------.----------.
 Anantarasabhāgaṃ
 70.,,,,,.(6)
 Ghaṭanā (3)
-71....
+71.----.-----.----.
 Samanantarapaccayā (anantarasadisaṃ).
 Sahajātādisabhāgaṃ
 72.……,,,,,,,,,,,,.(13)
 Ghaṭanā (2)
-..
+-----.-----.
 Upanissayasabhāgaṃ
 73.,,,,,,,.(8)
 Ghaṭanā (5)
-74......
+74.--.---.-----.-.-----.
 Āsevanasabhāgaṃ
 75.,,,,.(5)
 Ghaṭanā (1)
-.
+-----.
 Kammasabhāgaṃ
 76.,,,,,,,,,,,,.(13)
 Pakiṇṇakaghaṭanā (2)
-..
+-.-----.
 Sahajātaghaṭanā (2)
-..
+-------.-------.
 Vipākasabhāgaṃ
 77.,,…pe…,,,,.(13)
 Ghaṭanā (1)
-.
+------.
 Āhārasabhāgaṃ
 78.,,,,,,,,,.(10)
 Ghaṭanā (8)
-..
-..
-..
-..
+------.------.
+------.-------.
+-------.------.
+--------.---------.
 Indriyasabhāgaṃ
 79.,,,,,,,,,,,.(12)
 Ghaṭanā (16)
-..
-..
-..
-..
-..
-..
-..
-..
+------.------.
+-------.-------.
+--------.---------.
+-------.-------.
+--------.---------.
+--------.---------.
+--------.-------.
+---------.----------.
 Jhānasabhāgaṃ
 80.,,,,,,,,.(9)
 Ghaṭanā (6)
-..
-..
-..
+------.------.
+-------.-------.
+--------.--------.
 Maggasabhāgaṃ
 81.,,,,,,,,,,.(11)
 Ghaṭanā (14)
-..
-..
-..
-..
-..
-..
-..
+------.------.
+-------.-------.
+-------.-------.
+--------.--------.
+--------.---------.
+--------.--------.
+---------.----------.
 Sampayuttasabhāgaṃ
 82.,,,,,,,,,,,,.(13)
 Ghaṭanā (2)
-..
+-----.-----.
 (Atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā…pe….)
 Pañhāvārassa anulomaṃ.
 Paccanīyuddhāro
@@ -352,7 +352,7 @@ Paccanīyaṃ.
 Hetusabhāgaṃ
 88.,,,,,,,,,,,,,,,,.
 Sāmaññaghaṭanā
-89.…pe….
+89.------…pe….
 (Yathā kusalattikassa anulomapaccanīyagaṇanā sajjhāyamaggena gaṇitā, evaṃ idampi gaṇetabbaṃ.)
 ,…pe…(saṃkhittaṃ).
 Anulomapaccanīyagaṇanā.
@@ -377,7 +377,7 @@ Noavigatadukaṃ
 Catukkaṃ
 ,,,,,,…pe….
 Catuvīsakaṃ (saupanissayaṃ)
-.
+----------------.
 Catuvīsakaṃ (sakammaṃ)
 …pe……pe……pe….
 (Yathā kusalattikassa paccanīyānulomagaṇanā sajjhāyamaggena gaṇitā, evaṃ gaṇetabbaṃ.)

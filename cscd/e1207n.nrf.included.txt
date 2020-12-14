@@ -1113,7 +1113,7 @@ maggattayāmatarasaṃ pāyenvā rasamuttamaṃ
  pabbajjamuttamaṃ datvā lokassatthāya bhikkhavo
 uyyojetvāna sambuddho cārikaṃ carathāti te
 
- gantvoruvelaṃ jaṭilānamanto-
+ gantvoruvelaṃ jaṭilānamanto
 jaṭā ca chetvāna jaṭā bahiddhā
 pāpetva aggañjasamuttamo te
 purakkhato induva tārakābhi
@@ -1439,7 +1439,7 @@ punnāgapūgādivirājamānaṃ
 manoramaṃ jetavanābhidhānaṃ
 kārāpayī seṭṭhi vihāraseṭṭhaṃ
 
- visālakelāsadharādharuttamā-
+ visālakelāsadharādharuttamā
 bhirāmapākāraphanindagopito
 janassa sabbābhimanatthasādhako
 vihāracintāmaṇi so virājite
@@ -1646,4 +1646,4 @@ pariveṇavare ramme vasatā santavuttinā
 therena racitaṃ etaṃ sabbha saṃsevitaṃ sadā
 
  bhave bhavedha gāthānaṃ tesattati catussataṃ
-ganthato pañcapaññāsā-dhikaṃ pañcasataṃ iti
+ganthato pañcapaññāsādhikaṃ pañcasataṃ iti

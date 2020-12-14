@@ -3,7 +3,7 @@ Paṭicchannaparivāsakathā
 236.‘‘garukāpattivuṭṭhāna’’.,,,,garukāpatti vuṭṭhānaṃ.?.‘‘parivāsamānattādīhi vinayakammehi garukāpattito vuṭṭhāna’’.,‘‘tividho parivāso’’.(cūḷava. aṭṭha. 75)‘‘–.‘,,,,’(mahāva. 86)appaṭicchannaparivāso.,.’’..
 237.Evaṃ yo yo āpanno hoti, tassa tassa nāmaṃ gahetvā kammavācā kātabbā‘‘,,,’’‘‘,’’‘‘’’‘‘’’.
 Māḷakasīmāyameva vattaṃ samādātabbaṃ,.?‘‘’’.,.Parivāsaṃ samādiyāmi, vattaṃ samādiyāmī.?‘‘,,’’.Samādiyitvā tattheva saṅghassa ārocetabbaṃ,.?,.
-.‘‘…pe…’’‘‘’’.Vediyāmahaṃ bhante, vediyatīti maṃ saṅgho dhāretū‘‘vediyāmī,’’(sārattha. ṭī. cūḷavagga 3.97).‘‘’’pi.(vajira. ṭī. cūḷavagga 97)‘‘,,’’.‘‘’’.(vi. vi. ṭī. cūḷavagga 2.97)‘‘vediyāmaha,,.’’.–
+.‘‘…pe…’’‘‘’’.Vediyāmahaṃ bhante, vediyatīti maṃ saṅgho dhāretū‘‘vediyāmī,’’(sārattha. ṭī. cūḷavagga 3.97).‘‘’’pi-.(vajira. ṭī. cūḷavagga 97)‘‘,,’’.‘‘’’.(vi. vi. ṭī. cūḷavagga 2.97)‘‘vediyāmaha,,.’’.–
 ‘‘,;
 ,’’.–
 .
@@ -44,7 +44,7 @@ catūhi pañcahi vā bhikkhūhi saddhi.Dve leḍḍupāte atikkamitvā.‘‘dve
 ,.,,.
 .ācariyanayo.,‘‘’’.
 ,?,,,.
-,,,?,,‘‘,,,,’’(cūḷava. 83).,‘‘,,,,’’(cūḷava. 81)..,‘‘’’(cūḷava. aṭṭha. 76).,‘‘,’’(pāci. 49).,,.
+,,,?,,‘‘,,,,’’(cūḷava. 83).,‘‘,,,,’’(cūḷava. 81).-.,‘‘’’(cūḷava. aṭṭha. 76).,‘‘,’’(pāci. 49).,,.
 ,‘‘’’?,,,.,,‘‘’’(cūḷava. aṭṭha. 102).
 ,‘‘’’,?,,,.‘‘’’(cūḷava. aṭṭha. 102).‘‘’’,?.,.(cūḷava. aṭṭha. 81)‘‘,,’’.‘‘’’,,.
 ‘‘’’.,?,,,,,.,.?.‘‘’’(cūḷava. aṭṭha. 90).,?,,,,,,..
@@ -52,13 +52,13 @@ catūhi pañcahi vā bhikkhūhi saddhi.Dve leḍḍupāte atikkamitvā.‘‘dve
 .–,,.,.‘‘na chamāya nisinne,’’(cūḷava. aṭṭha. 81).,,.
 –,,.?.?..‘‘,.,,,..,,’’(cūḷava. aṭṭha. 97).,.
 –.,,.‘‘–,,.’’(sārattha. ṭī. cūḷavagga 3.97).,..
-–atthibhāvaṃ sallakkhetvā.Ādi.,.(cūḷava. aṭṭha. 97)‘‘,’’.,.‘‘’’,,.
+–atthibhāvaṃ sallakkhetvā.Ādi-.,.(cūḷava. aṭṭha. 97)‘‘,’’.,.‘‘’’,,.
 ?,.,.(cūḷava. aṭṭha. 83)‘‘sahavāso.Vippavāso’’.,.,.
 –,,,.,.(cūḷava. 81)‘‘,,,,’’.(cūḷava. aṭṭha. 81)‘‘ekacchanne āvāse’’āvāso.Anāvāso.,‘,’.‘’.‘’,.,,,.,,.,,,.
 ,,,,,.?‘‘’’.–,,.,.
 ?.,.,,..,.,,,,,.
-–,.,,..,,.,,‘‘,,’’‘‘,,’’(cūḷava. 82)‘‘vuḍḍhatarenā…pe…,,’’(cūḷava. aṭṭha. 81).,,.
-‘‘,,’’(cūḷava. 76)‘‘,…pe…’’‘‘,,,,,’’(cūḷava. 92)‘‘vippavāso’’‘‘,’’‘‘atthibhāvaṃ sallakkhetvā,’’,,,‘‘’’,‘‘’’(cūḷava. aṭṭha. 102),.
+–,.,,-..,,.,,‘‘,,’’‘‘,,’’(cūḷava. 82)‘‘vuḍḍhatarenā…pe…,,’’(cūḷava. aṭṭha. 81).,,.
+‘‘,,’’(cūḷava. 76)‘‘,…pe…’’‘‘,,,,,’’(cūḷava. 92)‘‘vippavāso’’‘‘,’’‘‘atthibhāvaṃ sallakkhetvā,’’-,,,‘‘’’,‘‘’’(cūḷava. aṭṭha. 102),.
 .(vi. vi. ṭī. cūḷavagga 2.97)‘‘sopi kenaci kammena purearuṇe eva gacchatī.‘ayañcā’’’.‘‘,.,,’’,.,.(sārattha. ṭī. cūḷavagga 3.97)‘‘gumbena vā vatiyā vā paṭicchannaṭṭhāne’’.(vi. vi. ṭī. cūḷavagga 2.97)‘‘gumbena vā’’..,.
 –.‘‘,,’’(cūḷava. aṭṭha. 75)‘‘’’,‘‘’’.–,.‘‘,,’’(cūḷava. 75).(cūḷava. aṭṭha. 81)‘‘,’’‘‘vuṭṭhātabbaṃ, nimantetabbo,‘’,‘,’’’‘‘’’,.‘‘’’,‘‘,,’’,,.(vi. saṅga. aṭṭha. 237)‘‘,‘’.,‘’’’,‘‘’’.
 ,–,,,,,–,,,,‘‘’’,,,.(cūḷava. aṭṭha. 97)‘‘…pe…,’’.?.
@@ -94,14 +94,14 @@ Sace puna osārīyatī.‘‘’’.‘‘’’,–pakkhamānatta..‘‘’’
 .–‘‘’’,..,,.‘‘’’,.,,.,.,,‘‘’’.,..,,.,.,,.
 .‘‘,’’,.(cūḷava. aṭṭha. 102).–,,,.‘‘.‘,’’’,..
 Mānattavinicchayakathā niṭṭhitā.
-248.navakataraṃ pārivāsika..‘‘antamaso mūlāyapaṭikassanārahādīnampī’’.Antamaso mūlāyapaṭikassanārahādīnampīādi.,.Adhotapādaṭṭhapanaka,.Pādaghaṃsana.pādaghaṃsanaṃ,.‘‘,,’’(cūḷava. 269).Saddhivihārikānampi sādiyantassā.Vattaṃ karontī.‘‘’’.
+248.navakataraṃ pārivāsika..‘‘antamaso mūlāyapaṭikassanārahādīnampī’’.Antamaso mūlāyapaṭikassanārahādīnampīādi-.,.Adhotapādaṭṭhapanaka,.Pādaghaṃsana.pādaghaṃsanaṃ,.‘‘,,’’(cūḷava. 269).Saddhivihārikānampi sādiyantassā.Vattaṃ karontī.‘‘’’.
 Yo yo vuḍḍho.Navakatarassa sāditu.‘‘Pārisuddhiuposathe kariyamāne’’.Tatthevā.Attano pāḷiyā pavāretabba,.
 Oṇojanaṃ,.,.Yadi pana na gaṇhāti na vissajjetī,.
 Catussālabhatta.Hatthapāse ṭhitenā,.Mahāpeḷabhattepī.(cūḷava. 75).,.
 ‘‘’’‘‘añño’’.‘‘’’‘‘paṭibalassa vā bhikkhussa bhāro kātabbo’’..Savacanīya.Jeṭṭhakaṭṭhānaṃ na kātabba.‘‘pātimokkhuddesakenā’’.
 rajohatabhūmi,.Paccaya.Ekapasse ṭhatvā.Senāsanaṃ na labhatī.Assā.‘‘,’’,.,.Avisesenā.
 Obaddha.Sahavāso,..
-Pāpiṭṭhatarātipārājikāpattī...Kammanti pārivāsikakammavācā‘‘’’.Savacanīyantisa‘‘’’,,‘‘’’‘‘’’.,.Rajohatabhūmī.Paccaya.Senāsanaṃ na labhatī.Apaṇṇakapaṭipadā.Sace vāyamantopī.Avisesenā.Pañcavaṇṇachadanabandhanaṭṭhānesū.Obaddha,.Mañce vā pīṭhe vāvā..Na vattabhedadukkaṭa.Vattaṃ nikkhipāpetvā,.
+Pāpiṭṭhatarātipārājikāpattī...Kammanti pārivāsikakammavācā‘‘’’.Savacanīyantisa-‘‘’’,,‘‘’’‘‘’’.,.Rajohatabhūmī.Paccaya.Senāsanaṃ na labhatī.Apaṇṇakapaṭipadā.Sace vāyamantopī.Avisesenā.Pañcavaṇṇachadanabandhanaṭṭhānesū.Obaddha,.Mañce vā pīṭhe vāvā..Na vattabhedadukkaṭa.Vattaṃ nikkhipāpetvā,.
 ‘‘Senāsanaṃ na labhati..‘’.Samavassā.Attano attano navakatara.,..,’’(vajira. ṭī. cūḷavagga 76).
 ‘‘’’(cūḷava. 75),(cūḷava. aṭṭha. 75-84)‘‘’’.(vi. saṅga. aṭṭha. 248)‘‘’’‘‘,’’‘‘,,’’‘‘’’,.–‘‘,’’,,.‘‘,,’’,..
 Iti vinayasaṅgahasaṃvaṇṇanābhūte vinayālaṅkāre

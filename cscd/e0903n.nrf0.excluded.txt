@@ -101,7 +101,7 @@ Vissajjanā –.–
 .,‘‘,’’.
 ,;
 ,;
-,–
+,-–
 ,;
 ,–
 Rohitassasutta
@@ -133,7 +133,7 @@ Vissajjanā –.,,‘‘,’’.‘‘‘‘,’’.
 ,;
 ,.
 ,;
-,
+,-
 Pañcarājasutta
 Pucchā –.
 Vissajjanā –.‘‘’’.‘‘’’.
@@ -189,7 +189,7 @@ Vissajjanā –.–
 ,’’.
 .
 ,;
-,–
+,-–
 ,;
 ,.
 ,;
@@ -223,7 +223,7 @@ Vissajjanā –.–
 ,’’.
 .
 ,;
-,–
+,-–
 ,;
 ,.
 ,;
@@ -271,7 +271,7 @@ Vissajjanā –.–
 ,.
 .
 ,;
-,–
+,-–
 ,;
 ,.
 Vajirāsutta
@@ -288,7 +288,7 @@ Vissajjanā –.–
 ,.
 .
 ,;
-,–
+,-–
 ,;
 ,.
 Brahmasaṃyutta
@@ -308,25 +308,25 @@ Vissajjanā –..‘‘,’’.
 ,;
 ,.
 Aññaratabrahmasutta
-.
+-.
 Vissajjanā –.‘‘,’’.–
 ,;
 ,;
 .
 ,;
-,–
+,-–
 ,;
 ,;
 ,–
 ,;
-,–
+,-–
 Aruṇavatīsutta
 Pucchā –.
 Vissajjanā –‘‘.’’.
 ,;
 ,;
 ,;
-,–
+,-–
 Brāhmaṇasaṃyutta
 Dhanañjānīsutta
 Pucchā –.
@@ -464,7 +464,7 @@ Vissajjanā –.‘‘’’.–
 ,;
 ,.
 ,;
-,–
+,-–
 Mātuposakasutta
 Pucchā –.
 Vissajjanā –.‘‘,,’’,‘‘,,,’’.
@@ -544,7 +544,7 @@ Vissajjanā –.,–
 ’’.
 .
 ,;
-,–
+,-–
 Yakkhasaṃyutta
 Indakasutta
 Pucchā –.

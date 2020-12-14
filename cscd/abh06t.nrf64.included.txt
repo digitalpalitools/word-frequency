@@ -8,8 +8,8 @@ vuttā asaṅkhataṃ dāni nibbānanti pavuccati
  sīlavisuddhi ādimhi tato cittavisuddhi ca
 diṭṭhivisuddhināmā ca kaṅkhāvitaraṇāpi ca
 
- tato paraṃ maggāmagga-ñāṇadassananāmikā
-tathā paṭipadāñāṇa-dassanā ñāṇadassanaṃ
+ tato paraṃ maggāmaggañāṇadassananāmikā
+tathā paṭipadāñāṇadassanā ñāṇadassanaṃ
 
  iccānukkamato vuttā satta honti visuddhiyo
 sattamānuttarā tattha pubbabhāgā cha lokiyā
@@ -53,7 +53,7 @@ vuttā brahmavihārā ca ti tādinā
  catudhātupariggaho
 
  ākāsānañcāyatanaṃ viññāṇañcamathāparaṃ
-ākiñcaññaṃ tathā neva-saññānāsaññanāmakaṃ
+ākiñcaññaṃ tathā nevasaññānāsaññanāmakaṃ
 
  iccānukkamato vuttā arūpajjhānikā pana
  cattāropi pakittitā
@@ -86,10 +86,10 @@ upekkhāruppakā pañca upekkhājhānikāti ca
 parikammavasā tiṃsa cha koṭṭhāsā yathākkamaṃ
 
  pañcakādisukhopekkhā jhānabhedā catubbidhā
-ekaccatupañcajhāna-vasena tividhā siyuṃ
+ekaccatupañcajhānavasena tividhā siyuṃ
 
  rūpārūpavasā dve ca appanāto punekadhā
-iccevamappanā kamma-ṭṭhānabhedā samissitā
+iccevamappanā kammaṭṭhānabhedā samissitā
 
  dve ca saññāvavatthānā aṭṭhānussatiyoti ca
 sesā dasa pavuccanti upacārasamādhikā
@@ -113,7 +113,7 @@ pañcābhiññā hi appenti rūpasaddādigocare
 aniccadukkhānattāti bhūmidhamme vipassato
 
  tattha  ca pādakajjhānaṃ sammaṭṭhajjhānameva vā
-ajjhāsayo ca vuṭṭhāna-gāminī ca vipassanā
+ajjhāsayo ca vuṭṭhānagāminī ca vipassanā
 
  maggānaṃ jhānabhedāya yathāyogaṃ niyāmatā
 yathāsakaṃ phalānaṃ tu maggā honti niyāmatā

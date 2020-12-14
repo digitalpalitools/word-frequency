@@ -166,7 +166,7 @@ Vesālīnāma nagaratthi vajjīna.?.,,.‘‘’’.,.
 553.
 ‘‘,;
 ,’’.–
-.kasmiṃ padese.Yo majjā,.
+.kasmiṃ padese.Yo majjā,-.
 –
 554.
 ‘‘,;
@@ -857,7 +857,7 @@ bhoge‘‘’’.Saṃharimhā.Samena visamena cā,.Mayaṃ dukkhassa bhāginī
 Bhogasaṃharaṇapetivatthuvaṇṇanā niṭṭhitā.
 15. Seṭṭhiputtapetavatthuvaṇṇanā
 Saṭṭhivassasahassānī.?.‘‘’’..
-–..,.
+–.----.,.
 .‘‘’’‘‘,,’’.‘‘’’.–‘‘,,,?,’’..‘‘,,’’–
 802.
 ‘‘,;
@@ -872,7 +872,7 @@ Saṭṭhivassasahassānī.?.‘‘’’..
 ‘‘,;
 ,’’.–
 .
-802.saṭṭhivassasahassānī.,,‘‘,’’...kadā anto bhavissatī.
+802.saṭṭhivassasahassānī.,,‘‘,’’-...kadā anto bhavissatī.
 803.Tathā hī,,.
 804.Dujjīvita.Ye sante.Na dadamhase.‘‘santesu deyyadhammesu, dīpaṃ nākamha attano’’.
 805.Soha.Nūnā.Ito.Gantvā.Yoniṃ laddhāna mānusi.Vadaññū,.Sīlasampanno.Kāhāmi kusalaṃ bahu,.

@@ -43,13 +43,13 @@ evaṃ  cittaṃ viññātabbaṃ vibhāvinā
  heṭṭhā mayāpi niddiṭṭhā aṭṭhārasa ahetukā
 vicikicchuddhaccasaṃyuttaṃ ekahetumudīritaṃ
 
- kāme  dvādasadhā puñña-vipākakriyato pana
+ kāme  dvādasadhā puññavipākakriyato pana
 dasadhākusalā cāti bāvīsati duhetukā
 
- kāme  dvādasadhā puñña-vipākakriyato pana
+ kāme  dvādasadhā puññavipākakriyato pana
 sabbaṃ mahaggatañceva appamāṇaṃ tihetukaṃ
 
- rūpīriyāpathaviññatti-janakājanakādito
+ rūpīriyāpathaviññattijanakājanakādito
 evañcāpi hi taṃ cittaṃ hoti sabbaṃ 
 
  dvādasākusalā tattha kusalā kāmadhātuyā
@@ -73,7 +73,7 @@ puna dvepañcaviññāṇā vipākā ca arūpisu
  sabbesaṃ sandhicittañca cuticittañcārahato
 na karonti tikiccāni ime soḷasa mānasā
 
- ekadviticatuṭṭhāna-pañcaṭṭhānapabhedato
+ ekadviticatuṭṭhānapañcaṭṭhānapabhedato
  cittamakkhāsi pañcanimmalalocano
 
  kusalākusalā sabbe cittuppādā mahākriyā
@@ -89,7 +89,7 @@ ghāyane sāyane ṭhāne phusane paṭipāṭiyā
 aṭṭhasaṭṭhi bhavantete ekaṭṭhānikataṃ gatā
 
  puna dviṭṭhānikaṃ nāma cittadvayamudīritaṃ
-somanassayutaṃ pañca-dvāre santīraṇaṃ siyā
+somanassayutaṃ pañcadvāre santīraṇaṃ siyā
 
  tadārammaṇaṃ chadvāre balavārammaṇe sati
 tathā voṭṭhabbanaṃ hoti pañcadvāresu voṭṭhabo
@@ -104,9 +104,9 @@ mahaggatavipākā te nava tiṭṭhānikā matā
 tadārammaṇato ceva cutiṭṭhānavasena ca
 
  catuṭṭhānikacittāni  aṭṭha hontīti niddise
-kusalākusalapākaṃ tu-pekkhāsahagatadvayaṃ
+kusalākusalapākaṃ tupekkhāsahagatadvayaṃ
 
- santīraṇaṃ bhave pañca-dvāre chadvārikesu ca
+ santīraṇaṃ bhave pañcadvāre chadvārikesu ca
 tadārammaṇataṃ yāti balavārammaṇe sati
 
  paṭisandhibhavaṅgānaṃ cutiṭṭhānavasena ca
@@ -119,7 +119,7 @@ tikiccaṃ navakaṃ dve tu dvikiccā sesamekakaṃ
 santīraṇaṃ voṭṭhabbanaṃ javanaṃ bhavati sattamaṃ
 
  hoti taṃ channaṃ viññāṇānaṃ pabhedato
- sattaviññāṇa-dhātūnaṃ tu pabhedato
+ sattaviññāṇadhātūnaṃ tu pabhedato
 
  ekekārammaṇaṃ chakkaṃ pañcārammaṇabhedato
 chaḷārammaṇato ceva hoti  mano
@@ -130,7 +130,7 @@ rūpārammaṇikā dve tu dve dve saddādigocarā
  sabbaṃ mahaggataṃ cittaṃ pañcābhiññāvivajjitaṃ
 sabbaṃ lokuttarañceti ekekārammaṇaṃ bhave
 
- ekekārammaṇaṃ chakka-midaṃ ñeyyaṃ vibhāvinā
+ ekekārammaṇaṃ chakkamidaṃ ñeyyaṃ vibhāvinā
 pañcārammaṇikaṃ nāma manodhātuttayaṃ bhave
 
  kāmāvacaracittāni cattālīsaṃ tathekakaṃ
@@ -155,12 +155,12 @@ catudhā vibhajitvāna vade  ṭhitaṃ
 paṭisandhibhavaṅgassa cutiyāvajjanassa ca
 
  pañcannaṃ dassanādīnaṃ sampaṭicchanacetaso
-santīraṇassa voṭṭhabba-javanānaṃ vasena ca
+santīraṇassa voṭṭhabbajavanānaṃ vasena ca
 
  tadārammaṇacittassa tatheva ṭhānabhedato
 evaṃ cuddasadhā cittaṃ hotīti paridīpaye
 
- bhūmipuggalanānātta-vasena ca pavattito
+ bhūmipuggalanānāttavasena ca pavattito
  panidaṃ cittaṃ hotīti ca vibhāvaye
 
  ekavidhādinaye panimasmiṃ

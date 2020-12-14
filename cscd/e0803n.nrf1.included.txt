@@ -55,7 +55,7 @@ tasmā rūpaṃ vibhaviyyati rūpāni vibhaviyyanti tvaṃ vibhaviyyasi tumhe vi
 ti idaṃ kammapadasamānakaṃ
 na ca kammapadaṃ nāpi kammakattupadādikaṃ
 yadi kammapadaṃ etaṃ paccattavacanaṃ pana
-kammaṃ dīpeyya karaṇa-vacanaṃ kattudīpakaṃ
+kammaṃ dīpeyya karaṇavacanaṃ kattudīpakaṃ
 yadi kammakattupadaṃ pīyateti padaṃ viya
 siyā sakammakaṃ netaṃ tathā hotīti dīpaye
 yadi kattupadaṃ etaṃ padaṃ viya
@@ -71,7 +71,7 @@ dassayissāmahaṃ dāni sakkaccaṃ me nibodhatha
 tisso gacchatiiccatra kattāraṃ kattuno padaṃ
 dhammo desiyaticcatra kammaṃ tu kammuno padaṃ
 sarūpato pakāseti tasmā te pākaṭā ubho
-tathā vibhaviyyatīti-ādibhāvapadaṃ pana
+tathā vibhaviyyatītiādibhāvapadaṃ pana
 sarūpato na dīpeti kārakaṃ bhāvanāmakaṃ
 dabbabhūtaṃ tu kattāraṃ pakāseti sarūpato
 kattāraṃ pana dīpentaṃ kattusannissitampi taṃ
@@ -87,7 +87,7 @@ dhārentī āsanathālī kriyādhāroti kappitā
 tathā bhāvapadaṃ dhīrā kattāraṃ bhāvanissayaṃ
 dīpayantampi kappenti bhāvassa vācakaṃ iti
 keci  adabbabhūtassa bhāvassekattato bravuṃ
-bhāvedekavacovādi-purisasseva hotiti
+bhāvedekavacovādipurisasseva hotiti
 pāḷiṃ patvāna tesaṃ tu vacanaṃ appamāṇakaṃ
 te saṃkilesikā dhammā pahīyissanti iti hi
 pāṭho pāvacane diṭṭho tasmā evaṃ vademase
@@ -112,7 +112,7 @@ padānaṃ niddeso panati antiādīnaṃ tesaṃ tesaṃ vacanānamanurūpena yo
 idāni nopasaggākammikādivasena bhavatissa dhātussa vinicchayaṃ vadāma 
 nopasaggā akammā ca sopasaggā akammikā
 sopasaggā sakammā ca iti ti vibhāvitā
-idaṃ tu vacanaṃ dhamma-bhūto bhutvātiādisu
+idaṃ tu vacanaṃ dhammabhūto bhutvātiādisu
 pattānubhavanatthaṃ me vivajjetvā udīritaṃ
 etena pana atthena nopasaggasakammikaṃ
 gahetvā catudhā hoti iti ñeyyaṃ visesato
@@ -139,7 +139,7 @@ padassa ñāyate etaṃ akammakanti tīraye
 tiṭṭhati devadattoti vutte kenaci jantunā
 ṭhānaṃva buddhivisayo kammabhūtaṃ na kiñcipi
 sakammakapadaṃ tattha kattāraṃ kammameva ca
-pakāseti yathāyoga-miti viññū vibhāvaye
+pakāseti yathāyogamiti viññū vibhāvaye
 odanaṃ pacati poso odano paccate sayaṃ
 iccudāharaṇā ñeyyā avuttepi ayaṃ nayo
 akammakapadaṃ  nāma kattāraṃ bhāvameva ca

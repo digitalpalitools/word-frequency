@@ -1,8 +1,8 @@
 ﻿Pakiṇṇakathavivaraṇaṃ
 –’…pe…’.
 ?.
-.’..’.’.
-…pe…’.’...’.’.’’.,’’,.’,...’.’.
+.’.-.’.’.
+…pe…’.’..---.’.’.’’.,’’,.’,.----..’.’.
 ’.
 ’,
 .
@@ -28,7 +28,7 @@
 ‘’
 ‘,
 ;
-‘,
+‘-,
 ’;
 ‘’,
 ’;
@@ -36,26 +36,26 @@
 –
 ‘(?);
 ;’;
-‘,
+‘-,
 ;
 ‘,
 ;’
 .
-
-‘,
+-
+‘-,
 ;
 ;
 ,
 ;
 .
 ,.
-.;
+----.;
 ‘‘
 ,
-’’;
-....?
-.
-’’.
+--’’;
+--...--.?
+-.
+’-’.
 ’’.’.’.,..
 .’.’..
 ’..,’..
@@ -95,7 +95,7 @@
 ’’..
 ’.
 ’.
-’,,’’.
+’---,,’’.
 ’,,,,,.
 Anantakāyapañho catutho.
 ’.’?.
@@ -104,7 +104,7 @@ Anantakāyapañho catutho.
 ’;
 .,...
 ’.
-....
+..-.-.
 ’.
 ’.
 ’’,’’.’.
@@ -124,7 +124,7 @@ Vīriyalakkhaṇapañho ekādasamo.
 ’’.
 ’.
 .
-’.
+’---.
 .
 Satilakkhaṇapañho dvādasamo.
 ’.
@@ -148,7 +148,7 @@ Parīnibbānapañho catutho.
 ’.
 ’’’,.
 ’’’’’.
-(Kissa).
+(Kissa)-.
 ’.,.?’’.
 
 .,.
@@ -161,7 +161,7 @@ Parīnibbānapañho catutho.
 Nekkhamme nissitāni.
 Sukhavedanāpañho pañcamo.
 ,.
-.,,’..
+.,-,’..
 .
 .
 Nāmarūpapaṭisadahanapañehā chaṭṭho.
@@ -176,7 +176,7 @@ Nāmarūpapaṭisadahanapañehā chaṭṭho.
 Pubbākoṭi napaññāyana pañho dutiyo.
 .
 Koṭivaḍḍhanapañho tatiyo.
-..’..
+..’.-.
 Athi-keci-sañjānanapañho catutho.
 .’.
 ’.’..
@@ -203,7 +203,7 @@ Ettāvatā tecattāḷīsa pañhā samattā.
 ’.’.,’.’’..?
 ..
 Nānākammanibbattāyatanapañho paṭhamo.
-..’’.
+..----’’.
 Manussanānābhāvapañho dutiyo.
 ’?
 ’..’.
@@ -230,26 +230,26 @@ Sakkā buddhānuttarapañho tatiyo.
 .
 .?.’’.’’,.’’.,’.
 Puggalavedagupañho chaṭṭho.
-
+-
+.
+.
+-.
+.
+.
+.
+.
+.
+…pe…’...?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,---,,,,,,,,,,,,,,,,,,,,,..
 .
 .
 .
 .
 .
 .
+,--.
 .
 .
-…pe…’...?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,..
-.
-.
-.
-.
-.
-.
-,.
-.
-.
-’.’.’.’.’.’.’.’.’’.’.’.’.’.’.
+’.’--.’.’.’.’-.’.’---.’’.’.’.’.’.’.
 .
 .
 .
@@ -270,7 +270,7 @@ Puggalavedagupañho chaṭṭho.
 .
 .
 ..
-,’’..
+-,’’..
 ’..’.
 ’’,’’.?’.
 ’’.?’.
@@ -289,7 +289,7 @@ Puggalavedagupañho chaṭṭho.
 ’.’.
 ..
 ’’..
-’.
+’--.
 ’.
 .
 ’.
@@ -327,13 +327,13 @@ Puggalavedagupañho chaṭṭho.
 .
 ’.
 ’.
-’.’?
+’--.’?
 ’.
-’.’.
-’
+’-------.’.
+’-
 ’.
 ’.’
-.
+----.
 ’
 Sabbaññupañho dutiyo.
 ’.
@@ -343,8 +343,8 @@ Sabbaññupañho dutiyo.
 ;
 ,
 ;
-,
-’;
+--,
+---’;
 .
 …pe……pe….
 ’.
@@ -367,8 +367,8 @@ Sivirājadibbacakkhupañho pañcamo.
 ’’.
 ’.
 Gababhāvakkantipañho chaṭṭho.
-’.
-’.
+’-.
+’--.
 ..
 ’.
 Vassasatappamāṇapañho sattamo.
@@ -387,7 +387,7 @@ Vassasatappamāṇapañho sattamo.
 ‘
 ;
 ’;
-’..
+’--.---.
 ’.
 .
 ’.
@@ -403,7 +403,7 @@ Paṭisallānapañho navamo.
 Iddhibalakittanapañho dasamo.
 Dasapañhapaṭimaṇḍitaaṭṭhamavaggavaṇṇanā samattā.
 ,,,,,,,,,,,.
-…pe….
+…pe…---------.
 ’.
 ’.
 Khuddānukhuddakasamūhananapañho paṭhamo.
@@ -419,7 +419,7 @@ Sabbatasapañho tatiyo.
 ’.
 ..
 ’.
-’.
+’-.
 ’.
 ,.
 ’.
@@ -444,7 +444,7 @@ Aṭṭhapañhavanto dutiyavaggo.
 ’;
 .
 ’
-,
+-,
 ’;
 .
 ’...’.’.’..
@@ -535,7 +535,7 @@ Moggallāna nibbānapañho paṭhamo.
 Pātimokkhapihitapañho dutiyo.
 ’.
 ’.
-’..
+’..-
 ‘‘,
 ’’;
 Musāvādatarapañho tatiyo.
@@ -551,7 +551,7 @@ Kulavilokanapañho catutho.
 Attanipātanapañho pañcamo.
 ...
 .
-.
+-.
 ’.
 .
 ’.
@@ -563,7 +563,7 @@ Suvaṇṇasāmamettāvihārapañho chaṭṭho.
 ,.
 Bodhisattādhikasamapañho sattamo.
 ’.
-.’.
+.’-.
 ’.
 ’.
 ’.
@@ -589,7 +589,7 @@ Anuttarabhīsakkapañho tatiyo.
 ’.
 Anuppannamagguppādanapañho catutho.
 ,’.
-’.
+’.-
 ‘‘’,
 ;’’
 ’.
@@ -664,7 +664,7 @@ Parinibbutapāṭihāriyapañho sattamo.
 Sukhadukkhamissanibbānapaho navamo.
 ’..
 
-
+-
 
 .
 
@@ -688,7 +688,7 @@ Anumānapañho.
 ’.
 ’.
 .
-.
+---.
 .
 
 ’.
@@ -722,28 +722,28 @@ Dhūtaṅgapañhakathāsaṅkhātayogikathā samattā.
 Caturāsītipañhapaṭimaṇḍitameṇḍakapañhavaṇṇanā samattā.
 ..’’’.
 ;,,,’.,.
-’?’.
+’?----------’.
 
-’.
+’------.
 (Athasadassanā).
-(Guṇaparidīpanī)..
+(Guṇaparidīpanī).-------.
 (Niggahadesanā).
-(Sampahaṃsanā).
+(Sampahaṃsanā)---.
 (Cariyāvodānanidassanā).
-(Pucchāvissajjanā).
-(Anusāsanā)..
+(Pucchāvissajjanā)-.
+(Anusāsanā).----.
 (Puggalavisodhanā).
-(Ajjhāsayaparipūraṇā)..
-(Pavenisadassanakathā)..
-(Parappavādamaddanā)..
-(Upanissayapaccayanidassanā).–.
-(Tuṭṭhākārasadassanā)..
+(Ajjhāsayaparipūraṇā).--.
+(Pavenisadassanakathā).-.
+(Parappavādamaddanā).---.
+(Upanissayapaccayanidassanā).--–.
+(Tuṭṭhākārasadassanā).--.
 (Dhammasabhāvaguṇanidassanā).
 ’.
 ..
 (Sāpatattikathā)...
 (Anāpattikathā)..
-’
+-’
 .’.
 (Sammutikathā).’’.
 ’’?
@@ -776,8 +776,8 @@ Palāsajātakaṃ samattaṃ.
 ..‘‘.‘‘…pe…’’’’’..
 .’’.‘‘…pe…’’.
 ..
-,..‘‘.’’..
-,.’.’’’.’.
+,..‘‘.--’’..
+,.’.’-’’.’.
 ‘‘,’.’…pe….
 ’.
 ,,’.‘‘…pe…’’.
@@ -791,13 +791,13 @@ Palāsajātakaṃ samattaṃ.
 ,.’‘‘.‘‘’’.
 ,,.,’.‘‘,,.
 ,,.’’.‘‘’’.
+--
+-
+--
 
 
-
-
-
-
-
+--
+-
 
 .
 ?‘‘,..,.,.’’
@@ -813,7 +813,7 @@ Gāthāsarūpaṃ
 
 
 ’
-?
+?-
 ,
 ;
 ,
@@ -971,7 +971,7 @@ Milidapañhe ṭhitā bāvīsati gāthā samattā.
 ;
 ,
 ;
-
+-
 ,
 ;
 ,
@@ -1047,7 +1047,7 @@ Meṇḍakapañhe ṭhitā dvāsīti gāthā samattā.
 Milidappakaraṇe sabbā gāthā sampiṇḍitā caturādhikasatagāthā honti.
 Milidappakaraṇe sabbagāthāsarūpagahaṇaṃ samattaṃ.
 Saṃkhyāsarūpaṃ
-..,,,,,’.
+.----------------------.,,,,,’.
 ?.’.
 ?’.’.
 ?’
@@ -1073,7 +1073,7 @@ Saṃkhyāsarūpaṃ
 7.,,,,,,.
 ,,,,,,’.
 ‘‘,,,,
-’’;
+--’’;
 ’.
 8.…pe…’.
 …pe…’.
@@ -1125,7 +1125,7 @@ Saṃkhyāsarūpaṃ
 .
 28..,,,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,’.
-30.?,,,,.,,,,,,’,,,,,,,,,,,,,,,,,,,..
+30.?,,,,-.---,----,,--,,,’,--,,,,,----,,,,,,,,,,,,,..
 ,,,,,,,,.
 .
 ...
@@ -1156,7 +1156,7 @@ Milidapañhaṭīkā samattā.
 ’,
 
 ’’;
-’.
+------’.
 
 ,
 ’

@@ -27,20 +27,20 @@ issaro rohaṇekhilo
 mahā bhāgo mahā gāme
 rajjaṃ kāresi khattiyo
 
- kāresi so nāgamahā-vihāraṃ sakanāmakaṃ
+ kāresi so nāgamahāvihāraṃ sakanāmakaṃ
 uddhakandarakādī ca pihāre kārayī bahū
 
  yaṭṭhālaya katisso so tassa putto tadaccaye
 hattheva rajjaṃ kāresi tassa puttobhayo tathā
 
- goṭṭhābhayasuto kāka-vaṇṇatissoti vissuho
+ goṭṭhābhayasuto kākavaṇṇatissoti vissuho
 tadaccaye tattha rajjaṃ so akāresi khattiyo
 
  vihāradevi nāmāsi mahesī tassa rājino
 saddhassa saddhāsampannā dhītā kalyāṇi rājino
 
  kalyāṇiyaṃ narindo hi tisso nāmāsi khattiyo
-devisaññogajanita-ko potassa kaniṭṭhako
+devisaññogajanitako potassa kaniṭṭhako
 
  bhīto tato palāyitvā ayyauttiya nāmako
 aññattha vasi so deso tena taṃ nāmako ahu
@@ -66,7 +66,7 @@ attano dhītaraṃ yuddhaṃ deviṃ nāma surupiniṃ
  likhitvā rājadhītāti sovaṇṇakkhaliyā lahuṃ
 nisīdāpiya tattheva samuddasmiṃ vissajjayi
 
- okkantaṃ  taṃ tato laṃke-kākavaṇṇo mahīpati
+ okkantaṃ  taṃ tato laṃkekākavaṇṇo mahīpati
 abhisecayi tenāsi vihāropapadavhayā
 
  tissa mahāvihārañca tathā cittalapabbataṃ
@@ -168,7 +168,7 @@ nivedayitvāna attānaṃ assavegena pakkami
  sutvā rājā gahetuṃ taṃ mahā yodhānapesayi
 dutiyaṃ sammathaṃ assaṃ āruyha sonudhāpitaṃ
 
- so gumbanissito assa-piṭṭheyeva nisīdiya
+ so gumbanissito assapiṭṭheyeva nisīdiya
 entassa piṭṭhito tassa ubbayhāsiṃ pasārayi
 
  assavegenayantassa sīsaṃ chijja ubhohaye
@@ -199,13 +199,13 @@ iti rañño nivedasuṃ rājā tānāharāpayi
 dvādasa sahassasaṅkhaṃ bhikkhusaṅghaṃ nimantiya
 
  evaṃ cintesi yadime putto laṃkātalekhile
-rajjaṃ gahetvā sambuddha-sāsanaṃ jotayissati
+rajjaṃ gahetvā sambuddhasāsanaṃ jotayissati
 
  aṭṭhuttarasahassañca bhikkhavo pavisantu ca
 sabbe te uddhapattañca cīvaraṃ pārapantu ca
 
  paṭhamaṃ dakkhiṇaṃ pādaṃ ummāranto ṭhapentu ca
-ekacchattayutaṃ dhamma-karaṇaṃ nīharantu ca
+ekacchattayutaṃ dhammakaraṇaṃ nīharantu ca
 
  gotamo nāma thero ca patiggaṇhātu puttakaṃ
 so ca saraṇasikkhā yo detu sabbaṃ tathā ahu
@@ -222,7 +222,7 @@ saṅgamaṃ deviyā kāsi tena gabbhamagaṇhi sā
  kāle jātaṃ sutaṃ rājā tissanāmaṃ akārayi
 mahatā parihārena ubhato vaḍḍhiṃsu dārakā
 
- sitthappavesamaṅgala-kāle dvinnampi sādaro
+ sitthappavesamaṅgalakāle dvinnampi sādaro
 bhikkhusatānaṃ pañcanaṃ dāpayitvāna pāyasaṃ
 
  tehi upaḍḍhe bhuttamhi gahetvā thokathokakaṃ

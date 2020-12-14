@@ -12,7 +12,7 @@ ti tathānītapūvehi atthikena ukkaṭṭhapattappamāṇavasena gahetabbā mā
 
 
  nāma pañcaṅgikaṃ tesu asanaṃ paññāyattīti eteneva bhuttāvīti etassa siddhattā visuṃ atthasiddhi na dissati dissati ce aṅgānaṃ chakkattadassananti   likhitaṃ ti abhihaṭaṃ sandhāya vuttaṃ
-ti -kārena kuṇḍakaṃ sampiṇḍeti samapākabhajjitānaṃ pana ātapasukkhānaṃ vā kuṇḍakaṃ vā ye keci taṇḍulā vāti ettakameva vuttattā samapākabhajjitānaṃ vīhīnaṃ vīhipalāsānaṃ vā taṇḍulacuṇṇaṃ pavāreti tathā kharapākabhajjitānaṃ kuṇḍakampi pavāreti bhajjitasattuyo piṇḍetvā kato apakkasattumodakopi pavāretīti likhitaṃ sace avasiṭṭhaṃ natthi na pavāreti kasmā asanasaṅkhātassa vippakatabhojanassa abhāvato
+ti kārena kuṇḍakaṃ sampiṇḍeti samapākabhajjitānaṃ pana ātapasukkhānaṃ vā kuṇḍakaṃ vā ye keci taṇḍulā vāti ettakameva vuttattā samapākabhajjitānaṃ vīhīnaṃ vīhipalāsānaṃ vā taṇḍulacuṇṇaṃ pavāreti tathā kharapākabhajjitānaṃ kuṇḍakampi pavāreti bhajjitasattuyo piṇḍetvā kato apakkasattumodakopi pavāretīti likhitaṃ sace avasiṭṭhaṃ natthi na pavāreti kasmā asanasaṅkhātassa vippakatabhojanassa abhāvato
 akappiyamaṃsaṃ pana kiñcāpi paṭikkhipitabbaṭṭhāne ṭhitaṃ khādiyamānaṃ pana maṃsabhāvaṃ na jahāti tasmā pavāreti bhojanasālāya bhuñjanto ce attano apāpuṇanakoṭṭhāsaṃ abhihaṭaṃ paṭikkhipati na pavāreti kāmaṃ paṭikkhipati patte pana ārāmikā ākiranti taṃ bhuñjituṃ na vaṭṭati idañhi buddhappaṭikuṭṭhāya anesanāya uppanneyeva saṅkhaṃ gacchati yathā hi saṅghato laddhaṃ piṇḍaṃ dussīlo deti tañce paṭikkhipati na pavāreti evaṃsampadamidanti ca vibhāgo lajjī ce deti taṃ so na ajjhoharitukāmatāya paṭikkhipati pavāretīti ca samaṃsarasaṃ samaccharasanti āpajjanato maṃsarasanti vutte pana paṭikkhipato hoti maṃsassa rasaṃ nti ayaṃ viggaho nādhippetoti ca vuttaṃ bhattamissakaṃ yāguṃ āharitvā yāguṃ gaṇhathāti vadati na pavāreti bhattaṃ gaṇhathāti vutte pavāreti kasmā yenāpucchito tassa atthitāya ettha pana yāgumissakaṃ gaṇhathāti vadati tatra ce yāgu bahutarā vā hoti samasamā vā bhattaṃ mandaṃ na pavāreti yāgu ce mandā bhattaṃ bahutaraṃ pavāreti idañca sabbaaṭṭhakathāsu vuttattā na sakkā paṭikkhipituṃ kāraṇaṃ panettha duddasaṃ bhattamissakaṃ gaṇhathāti vadati tatra bhattaṃ bahutaraṃ vā samakaṃ vā appataraṃ vā hoti pavāreti eva bhattaṃ vā yāguṃ vā anāmasitvā missakaṃ gaṇhathāti vadati tatra ce bhattaṃ bahutaraṃ samakaṃ vā hoti pavāreti appataraṃ na pavāreti taṃ sabbaṃ vīmaṃsitabbanti
 nti ettha kappiyaṃ akārāpitehi kadaliphalādīhi saddhiṃ atirittaṃ kārāpetvāpi taṃ kadaliphalādiṃ ṭhapetvā avasesaṃ bhuñjituṃ vaṭṭati amissakarasattā puna tāni kappiyaṃ kārāpetvā aññasmiṃ bhājane ṭhapetvā  kāretvā bhuñjituṃ vaṭṭati kasmā pubbe tesu vinayakammassa anāruḷhattāti vadanti
 patte rajaṃ patitaṃ appaṭiggahitameva hoti tasmā paṭiggahetvāva bhikkhā gaṇhitabbā apaṭiggahetvā gaṇhato vinayadukkaṭanti  vuttattā etamaññesampi na vaṭṭatīti vadanti taṃ pana puna paṭiggahetvā bhuñjantassa anāpattīti etthāpi evameva imasmiṃ pana atirittaṃ kataṃ anatirittakataṃ hotīti etthāpi evameva imasmiṃ pana atirittaṃ kataṃ anatirittaṃ kataṃ hotītiādīhi upaparikkhitvā vinicchayo veditabboti dīpitaṃ nti idampi te adhikaṃ ito aññaṃ na lacchasīti attho
@@ -121,7 +121,7 @@ ti
 upajjhāyo sace sāmaṃ kammavācañca sāveti
 kammaṃ ruhati icceke neti vinayakovido
 dukkaṭaṃ  vihitaṃ yasmā ācariyassa gaṇassa ca
-tasmā bhinnāva ācariya-upajjhāyā visuṃ idhāti
+tasmā bhinnāva ācariyaupajjhāyā visuṃ idhāti
 
 
 idha ekatoupasampannā sikkhamānā sāmaṇerīti imā tissopi saṅgahaṃ gacchanti imāsaṃ pana tissannaṃ samayo rakkhati ayamimāsaṃ mātugāmassa ca visesoti veditabbaṃ

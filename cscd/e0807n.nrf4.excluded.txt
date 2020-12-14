@@ -16,7 +16,7 @@
 2. Vacchādito ṇāna+ṇāyanā
 .,,‘‘’’.,‘‘’’,‘‘’’.,,..,....,,...
 3. Kattikāvidhavādīhi ṇeyyaṇerā
-.,.,.,,,,,,...,.
+.,.,.,,,,,,.-.-.,.
 4. Ṇya diccādīhi
 .
 125. Saṃyoge kvaci
@@ -25,7 +25,7 @@
 ..,..
 ,‘‘’’.
 5. Ā ṇi
-..,,,,.,,.
+.-.,,,,.,,.
 6. Rājato ñño jātiyaṃ
 ..,.
 7. Khattā yi+yā
@@ -65,7 +65,7 @@
 24. Majjhāditvi+moti
 ,.,,,,,,,.
 25. Kaṇa+ṇeyya+ṇeyyaka+yi+yāti
-.,,,,,,,,.,,,,,,,.,,.,,,,.‘‘’’,.,..,,,,.
+.-,,,,,,,,.,,,,,,,.-,,.-,,,,.‘‘’’,.-,..-,,,,.
 26. Ṇiko
 .,.
 27. Ta+massa sippaṃ sīlaṃ paṇyaṃ paharaṇaṃ payojanaṃ
@@ -77,11 +77,11 @@
 30. Tassa saṃvattati
 .,..,,..
 31. Tato sambhūta+māgataṃ
-.‘‘’’‘‘’’,,....‘‘’’.,,‘‘’’,.,,.
+.‘‘’’‘‘’’,,....‘‘’’.-,,‘‘’’,.-,,.
 32. Tattha vasati vidito bhatto niyutto
-.,,,,...,..,.,.
+.,,,,...,..-,.-,.
 33. Tassi+daṃ
-.,,,,.,..,.
+.,,,,.-,..-,.
 34. Ṇo
 .,,,.
 35. Gavādīhi yo
@@ -95,11 +95,11 @@
 39. Hite reyyaṇa
 .,.
 40. Nindā+ññāta+ppa paṭibhāga rassa dayā saññāsu ko
-.,,,,.,.,.,,.‘‘,’’‘‘’’,.,,.,.,,.
+.-,,,,.-,.-,.-,,.‘‘,’’‘‘’’,.,,.-,.-,,.
 41. Ta+massa parimāṇaṃ ṇiko ca
 ,.‘‘’’.,,,,.,.
 42. Ya+te+tehi+ttako
-,.,,‘‘’’,.,.
+,.,,‘‘’’,.-,.
 43. Sabbā cā+vantu
 ,.,‘‘’’.,.
 44. Kimhā rati+rīva+rīvataka+rittakā
@@ -119,7 +119,7 @@
 50. Saṅkhyāya saccu+tī+sā+sa+dasantāyā+dhikā+smiṃ satasahasse ḍo
 ,,,..
 139. Ḍe satissa tissati
-.....,..
+....-.,.-.
 51. Tassa pūraṇe+kādasādito vā
 ...‘‘’’,.,,..
 52. Ma pañcādikatīhiti
@@ -142,12 +142,12 @@
 ,.
 ..,.,.,.,.
 ,,,,,,..,,.
-.,.,.
-,‘‘’’‘‘’’,.,.,,,,,,,,.,,,,,,,,,.,.,.,,,,,,,,,,,,..,.
-,,..
-,.,,,‘‘’’.,..
-,,,,.
-,,,,,.
+-.,.,.
+-,‘‘’’-‘‘’’,.,.,,,,,,,,.,,,,,,,,,.,.,.,,,,,,,,,,,,..,.
+-,,..
+-,.,,,‘‘’’.,..
+-,,,,.
+-,,,,,.
 ,.,.
 122. Sakattheti
 .,,.,,‘‘’’,.
@@ -176,13 +176,13 @@
 65. Tannissite llo
 .....
 66. Tassa vikārāvayavesu ṇa+ṇika+ṇeyya+mayā
-..,......,,,,,.‘‘’’,.
+..-,...-.-..-,,,,,.‘‘’’,.
 67. Jatuto ssaṇa vā
 .‘‘’’..
 123. Lopoti
-.‘‘,’’,,,.,.
+.‘‘,’’,-,,.,.
 68. Samūhe kaṇa+ṇa+ṇikā
-.,.,‘‘’’...,,,,,,.,.,.
+.-,.,‘‘’’...,,,,,,.-,.-,.
 69. Janādīhi tāti
 .,,,,,..
 .,‘‘’’‘‘’’.
@@ -208,7 +208,7 @@
 ,;
 ,.
 134. Āyussā+yasa mantumhi
-..,.,,.‘‘’’.‘‘’’,,,.
+..-,.,,.‘‘’’.‘‘’’,,,.
 79. Vantva+vaṇṇāti
 ...
 80. Daṇḍāditvi+ka+ī vāti
@@ -253,7 +253,7 @@
 94. Imi+yāti
 ,,,,,,,.(Atthyatthataddhitaṃ).
 95. To pañcamyā
-.,‘‘’’.,,.,,,,,,,,,,,.,,.
+.,‘‘’’.,,.,,,,,,,,,,,.-,,.
 96. Ito+te+tto kuto
 .,,.
 97. Abhyādīhiti
@@ -277,7 +277,7 @@
 106. Kadā kudā sadā+dhune+dāni
 .,,.
 107. Ajja sajjva+parajjve+tarahi karahā
-.,...,.,,.,..
+.,.-..,.,,.,..
 108. Sabbādīhi pakāre thā
 ,.,,.
 109. Katha+mitthaṃ

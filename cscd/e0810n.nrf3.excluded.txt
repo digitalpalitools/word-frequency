@@ -4,7 +4,7 @@
 692.,‘‘guṇi’’.–,,,,–,,.
 693-696.Subha.Subha,.Ruca,.Sādha,.manuññaṃ.,,manuññaṃ,‘‘’’,ā.Cara,,cāru.sundaraṃ, dara.Vagga,,vaggu..Kamu,.hārī,.Mana,,mañju, na.pesalaṃ, piyape,.Bhadi,.Vā,.Kala,.manāpaṃ,manāpaṃ, āpa,pā.laddhaṃ,,.subhaṃ,subhaṃ.
 Puṅgava,,ubha,uttamo. Vara,pavaro. Iṭṭhavuḍḍhajā,jeṭṭho.pamukho.anuttaro..pāvaro.mukhyo, iva.padhānaṃ,.pāmokkho,.paraṃ,.‘‘’’aggaññaṃ,‘‘’’aggaññaṃ. Uttaro uttama.paṇītaṃ, nī,.paramaṃ,paramaṃ,.pasattha,vuḍḍhaso, seyyo, seṭṭho,‘‘’’.gāmaṇi,‘‘’’,,gāmaṇi.sattamo, santa,santaso.visiṭṭho, sisa,.Ara,,i,ariyo.nāgo,,ga.,,,a,eko,eko,.usabho, usa,.Aja,,jago,,aggo.,mokkho,,takho. Mokkha,.puṅgavo,,,pusa,,sakho,.cuttamā.Amarakose,–
-‘‘’;
+‘‘-’;
 ,’’amara 21.59.
 –byagghā,‘‘,’’.Sīhā,ādivarāhapuṇḍarīkadhorayhasovīrā,‘‘,,,’’.
 697.,,,abyāsekaṃ, asecana,abyāsekaṃ, asecana.,.
@@ -223,7 +223,7 @@ samayo,.,samayo,,–.samayo,,‘‘’’.samayo,.abhisamayo,.abhisamayo,.,,,sam
 781-782.Rathaṅgaṃ.Lakkhaṇaṃ.‘‘’’su. ni. 562dhammacakke. Uracakkaṃ‘‘’’jā. 1.1.104; 1.5.100.‘‘’’saṃ. ni. 1.29iriyāpathacakke.‘‘,,,’’a. ni. 4.131sampatticakke.‘‘’’a. ni. 5.132cakkaratane. Maṇḍalaṃ‘‘’’‘‘’’dī. ni. 3.61; saṃ. ni. 2.162.Balaṃ.Kulālo,.Āṇāyaṃ‘‘’’jā. 1.7.149.Āyudhe.Dānaṃ.Rāsi..
 ‘‘,;
 ,.
-;
+-;
 ,’’vuttodaya 14-15 gāthā.
 783.
 ‘‘,
@@ -291,7 +291,7 @@ aṭṭhaṅguposathe.
 819.Parittāṇaṃ.Vatthumhi.Tallañchanaṃ.
 820.Lohamuggare.Tāḷādike.Kaṭhine.
 821.Makkhikā..khuddaṃ.Adhamo.Kapaṇo.
-822.Takke.Maraṇaliṅge.,ariṭṭhaṃ. Āsavo.Pheṇiladdumo‘‘’’.
+822.Takke.Maraṇaliṅge.,ariṭṭhaṃ. Āsavo.Pheṇiladdumo‘‘--’’.
 823.pīṭhikā.,.
 824.Mittākāre.,,,‘‘’’.
 825.Khandhe.Bhave.Nimittamhi.Vapu.
@@ -512,7 +512,7 @@ Paṭibimbe.Pabhāyaṃ.
 955..Sedajale.
 Kantane.Vikappe.Sajjane.
 956.Deso.Aṅga.‘‘’’.Aṅga.Vapumhiaṅgaṃ.aṅgaṃ.
-‘‘Aṅgaṃ’;
+‘‘Aṅgaṃ-’;
 ,’’’.–
 Nānatthasaṅgahe.
 Cetiyadume.
@@ -546,7 +546,7 @@ Ulloce.
 976.Apavagge.Sudhāyaṃ.
 ‘‘,;
 ,;
-’’medinīkosa 16.77-8 gāthāyampi.
+-’’medinīkosa 16.77-8 gāthāyampi.
 Nānatthasaṅgahe.Mohe.Timire.Saṅkhyā.Guṇe.
 977.Khare.Akāriye.Purise.Sukatepuññaṃ paṇḍake.Pavane.
 978.Asiniddho.Saṅge.
@@ -626,7 +626,7 @@ Gāthāddhavaṇṇanā niṭṭhitā.
 1043.Ucchaṅge.Lakkhaṇe.
 Diṭṭhobhāsesu,.
 1044.Sūraṃsūsu,.Dame.Mānaṃ.Sānu.
-1045.Tāpo.Sapace,sapaco. Pasu.Kuruṅgo.Ulūko.Indo.‘‘’’amarasīho.
+1045.Tāpo.Sapace,sapaco. Pasu.Kuruṅgo.Ulūko.Indo.‘‘-’’amarasīho.
 1046.Māṇavo.Attā.Sire.Tipumhi.
 1047.Bali.Hattho.Aṃsu.Dante.Vippe.Aṇḍaje.Pajje.Ānanaṃ.Ācāro.Dhaññaṅge.Sukhume.‘‘’’amarasīhenakaṇo.
 1048.Thūṇā.Jaḷattaṃ.Kummāso.Byañjanaṃ.Phoṭo.Kapolo.Mūlye.
@@ -641,7 +641,7 @@ Diṭṭhobhāsesu,.
 1057.Patthe.Nāḷe.Pipāsāyaṃ.Vutti.
 1058.Pāṇyaṅge.Cakkante.
 ‘‘,;
-’’.–
+-’’.–
 Vopālito.
 1059.Antare.‘‘’’vopālito. Thiratte.‘‘’’,.Save.
 1060.Nissaye.
@@ -676,7 +676,7 @@ Vopālito. Pupphe.Taddāme.Sakaṭe.Haye.
 1085.Sikhā.Piñchaṃ.Attani‘‘’’.Khepe.
 1086.Rūpe.Karīse.
 1087.Khaṇḍe.Paṇṇe.Kaṇḍe.Salākā.sucittaṃ,.Gate.‘‘Dhāva’’.Hāvo.Avijjāya.Mucchane.
-1088.Ghammajalaṃ.Pāke.Goḷe‘‘’’.Ucchumaye.Mitte,.Sahāye.Pabhū.So.
+1088.Ghammajalaṃ.Pāke.Goḷe‘‘-’’.Ucchumaye.Mitte,.Sahāye.Pabhū.So.
 1089.Kurūre.Parasmiṃ,.Atra,.Aṅko.aṅko. Apavādo.Dese.‘‘,’’vopālito.
 1090.Pajje.Vacībhede.Anvaye.Sarūpasmiṃ.talaṃ.
 1091.Vilagge.Vemajjhe.Kusumaṃ.Utu.Subbate.
@@ -697,11 +697,11 @@ Vopālito. Pupphe.Taddāme.Sakaṭe.Haye.
 ,’’.–
 Vopālito. Yajane.Accane.Dikkha.
 1105.,kārikā,,..Cihane.Thīraje.Pupphe.Vānare.
-1106.Adhare.Kharabhe‘‘’’.luddho. Āvile.
+1106.Adhare.Kharabhe‘‘--’’.luddho. Āvile.
 1107.Caramhi.
 1108.hāsagandhā,.Gandho.cāru. Khala,,,khalito.
 1109.Vakkale.Adhirohe.Vatthantaraṃ,.
-1110.Paṭihāre‘‘’’.Mukhe.Pete.Aparaṇṇaṃ.Kālo.
+1110.Paṭihāre‘‘-’’.Mukhe.Pete.Aparaṇṇaṃ.Kālo.
 1111.Dose.Ghāte.Migādo.Chagale.Arūpe.Avhaye.Darathe.Bhīti.
 1112.Bhāre.Sujādabbiyaṃ,indajāyāyaṃ.Vihāyase.
 1113.Maṇike.Ratane.Selo.Ārāme.
@@ -722,20 +722,20 @@ Vopālito. Yajane.Accane.Dikkha.
 ‘‘,’’vopālito. Peyye.Pītiyaṃ.‘‘’’vopālito. Iṇe,uddhāro. Ummāre.Eḷaka‘‘’’.
 1124.pahāro,.pahāro,,hāyano.Kuṇḍikāyaṃ‘‘’’.Āḷhake.Bhusamhi.
 1125.Āvāṭe.Caye.Kāsu,,upanisā.
-‘‘,’’vopālito. Poṭagale‘‘’’.Guṇetare.
+‘‘,’’vopālito. Poṭagale‘‘-’’.Guṇetare.
 1126.Yutte‘‘’’.Aṭṭāle‘‘’’.Aṭṭite‘‘’’.Aṭṭa,aṭṭa.Kānane.Uppattiyaṃ,.
 1127.Lāmake.Khandhe.Mūlaṃ.Upadā.,dasā. Ghāto.
 1128.Gabbe.Ghaṭanaṃ.Rāsi,ghaṭa.Abhihāre.Bandhane‘‘’’.
 1129.Thoke.,cāgo.,.‘‘’’.Gale.
 1130.sāhasaṃ. Paṭebhaṅgaṃ.‘‘’’.Chavake.
 1131.Anaṅge.Dume.
-‘‘’’vopālito. Pamātari.Veṭheveṭhanaṃ.
+‘‘-’’vopālito. Pamātari.Veṭheveṭhanaṃ.
 1132.Taṇḍuleyye.Ayye.Mutti.
 1133.Aṅke.Ākāre.Vappe.Taṭevappo,,,vappo.,sammuti.Akkhatalājāsu.
 1134.Yāge,satraṃ. Sasu,,satraṃ.,somo.
 ‘‘,
 ;
-
+-
 ’’.–
 Vopālito . Yugagehaṅge.saṅghāṭo.
 Gāthāpādavaṇṇanā niṭṭhitā.
@@ -795,7 +795,7 @@ Samāhāre.Anvācayo,.,.Itarītare.,.
 1190.Bhūsane.Vāraṇe.Pariyatti,alaṃ. Atho atha.
 1191..Svīkāre.Ādi..
 1192.Anuññā.Santānaṃ.Ālapanaṃ.Vatadayāyaṃhāsekhedevimhaye.
-1193.Vākyārambhe‘‘’’.Visāde.Yāva tāva tūyāvatāvasākalye..Māne.‘‘’’bhāguri. Avadhimhi.
+1193.Vākyārambhe‘‘’’.Visāde.Yāva tāva tūyāvatāvasākalye..Māne.‘‘-’’bhāguri. Avadhimhi.
 1194.Puratthāpāciyaṃ,puratthe,aggatopaṭhamepi.Pabandhe..Nikaṭe.Āgāmike.
 1195.Khaluvākyālaṅkāreavadhāraṇe eva,.Abhito,ādi,.Āsanne.Abhimukhe.Ubhayato.Sīghe.Sākalye.
 1196.Yadyapisaddatthe.Ekaṃsatthe.pana,.
@@ -837,7 +837,7 @@ Nigamanakathā
 .
 ,
 ;
-
+-
 .
 ,
 ;

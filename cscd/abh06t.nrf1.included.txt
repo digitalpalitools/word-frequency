@@ -27,7 +27,7 @@ kileso chandarāgova vatthu tebhūmavaṭṭakaṃ
 sijjhati duvidhopesa kāmo vo kārakadvaye
 
  yasmiṃ  pana padese so kāmoyaṃ duvidhopi ca
-sampattīnaṃ vasenāva-caratīti ca so pana
+sampattīnaṃ vasenāvacaratīti ca so pana
 
  padeso catupāyānaṃ channaṃ devānameva ca
 manussānaṃ vaseneva ekādasavidho pana
@@ -45,7 +45,7 @@ kāmāvacaramiccevaṃ kathitaṃ kāmaghātinā
 kāmāvacaramiccevaṃ pariyāpannanti tatra vā
 
  idaṃ aṭṭhavidhaṃ cittaṃ kāmāvacarasaññitaṃ
-dasapuññakriyavatthu-vaseneva pavattati
+dasapuññakriyavatthuvaseneva pavattati
 
  dānaṃ sīlaṃ bhāvanā pattidānaṃ
 veyyāvaccaṃ desanā cānumodo
@@ -55,7 +55,7 @@ diṭṭhijjuttaṃ saṃsuticcāpacāyo
  gacchanti saṅgahaṃ dāne pattidānānumodanā
 tathā sīlamaye puññe veyyāvaccāpacāyanā
 
- desanā savanaṃ diṭṭhi-ujukā bhāvanāmaye
+ desanā savanaṃ diṭṭhiujukā bhāvanāmaye
 puna tīṇeva sambhonti dasa puññakriyāpi ca
 
  sabbānussatipuññañca pasaṃsā saraṇattayaṃ
@@ -122,7 +122,7 @@ pañca sikkhāpadā vuttā kusalāti hi satthunā
  tathādhipatinopettha na santīti viniddise
 chandādīni dhuraṃ katvā anuppajjanato pana
 
- asaṅkhārasasaṅkhāra-vidhānaṃ pana puññato
+ asaṅkhārasasaṅkhāravidhānaṃ pana puññato
 ñeyyaṃ paccayato ceva vipākesu ca viññunā
 
  hīnādīnaṃ vipākattā puññānaṃ puññavādinā
@@ -133,7 +133,7 @@ jāyate kāmalokasmiṃ na panaññattha jāyate
 evaṃ tāva sahetukavipākacittaṃ veditabbaṃ
  pana alobhādihetuvirahitaṃ upekkhāsahagataṃ cakkhuviññāṇaṃ upekkhāsahagataṃ sotaviññāṇaṃ upekkhāsahagataṃ ghānaviññāṇaṃ upekkhāsahagataṃ jivhāviññāṇaṃ sukhasahagataṃ kāyaviññāṇaṃ upekkhāsahagataṃ ahetukamanodhātusampaṭicchanaṃ somanassasahagataṃ ahetukamanoviññāṇadhātusantīraṇaṃ  upekkhāsahagataṃ ahetukamanoviññāṇadhātusantīraṇanti idaṃ pana aṭṭhavidhaṃ ahetukavipākacittaṃ nāma
 idaṃ pana aṭṭhavidhaṃ niyatavatthukato ekavidhaṃ niyatāniyatārammaṇato duvidhaṃ tattha viññāṇapañcakaṃ niyatārammaṇaṃ sesattayaṃ aniyatārammaṇaṃ sukhasomanassupekkhāvedanāyogato tividhaṃ tattha sukhasahagataṃ kāyaviññāṇaṃ dviṭṭhānikaṃ santīraṇaṃ somanassupekkhāyuttaṃ sesamupekkhāyuttanti
-diṭṭhārammaṇasutārammaṇamutārammaṇadiṭṭhasutamutārammaṇadiṭṭha-sutamutaviññātārammaṇavasena pañcavidhaṃ tattha diṭṭhārammaṇaṃ cakkhuviññāṇaṃ sutārammaṇaṃ  sotaviññāṇaṃ mutārammaṇaṃ ghānajivhākāyaviññāṇattayaṃ diṭṭhasutamutārammaṇaṃ manodhātusampaṭicchanaṃ diṭṭhasutamutaviññātārammaṇaṃ sesamanoviññāṇadhātudvayanti
+diṭṭhārammaṇasutārammaṇamutārammaṇadiṭṭhasutamutārammaṇadiṭṭhasutamutaviññātārammaṇavasena pañcavidhaṃ tattha diṭṭhārammaṇaṃ cakkhuviññāṇaṃ sutārammaṇaṃ  sotaviññāṇaṃ mutārammaṇaṃ ghānajivhākāyaviññāṇattayaṃ diṭṭhasutamutārammaṇaṃ manodhātusampaṭicchanaṃ diṭṭhasutamutaviññātārammaṇaṃ sesamanoviññāṇadhātudvayanti
 vatthuto chabbidhaṃ kathaṃ cakkhuviññāṇassa cakkhumeva vatthu tathā sotaghānajivhākāyaviññāṇānaṃ sotaghānajivhākāyavatthu avasesattayassa hadayavatthumevāti
 ārammaṇato sattavidhaṃ hoti kathaṃ rūpārammaṇameva cakkhuviññāṇaṃ tathā saddagandharasaphoṭṭhabbārammaṇāni paṭipāṭiyā sotaghānajivhākāyaviññāṇāni rūpādipañcārammaṇā manodhātu sesamanoviññāṇadhātudvayaṃ chaḷārammaṇanti
 taṃ sabbaṃ pana ahetukavipākacittaṃ kiccato aṭṭhavidhaṃ hoti kathaṃ dassanakiccaṃ cakkhuviññāṇaṃ savanaghāyanasāyanaphusanasampaṭicchanasantīraṇatadārammaṇakiccāni avasesāni

@@ -85,7 +85,7 @@ sacittakā,.
 ,.
 209.
 ,;
-.
+-.
 210.
 ,;
 ,.
@@ -147,13 +147,13 @@ Cattārīsañca cattāri,.
 ,;
 Pañcatiṃseva,.
 229.
-;
+-;
 ,.
 230.
 ,;
 ,.
 231.
-;
+-;
 ,.
 232.
 ,katiṃsa;
@@ -172,7 +172,7 @@ Ekatiṃseva,.
 Sattavīsati,.
 237.
 ,;
-Chattiṃsa.
+Chattiṃsa-.
 238.
 ,;
 bāttiṃsa,.
@@ -184,7 +184,7 @@ Bāttiṃsa,.
 ,bāttiṃseva.
 241.
 ,aṭṭhavīsati;
-.
+-.
 242.
 ,;
 Pañcatiṃseva,.
@@ -265,7 +265,7 @@ Dvādaseva,;
 ,.
 268.
 ,;
-.
+-.
 269.
 ,;
 ,.
@@ -307,7 +307,7 @@ Dvādaseva,;
 ,.
 282.
 ,;
-.
+-.
 283.
 ,;
 ,.

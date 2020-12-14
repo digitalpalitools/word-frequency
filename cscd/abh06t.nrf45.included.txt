@@ -1,7 +1,7 @@
 ﻿
 
 
- paṭhamāvajjanaṃ pañca-dasannaṃ parato bhave
+ paṭhamāvajjanaṃ pañcadasannaṃ parato bhave
 dutiyāvajjanaṃ hoti ekavīsatito paraṃ
 
  ekamhā  pañcaviññāṇaṃ pañcamhā sampaṭicchanaṃ
@@ -19,7 +19,7 @@ tathekacattālīsamhā upekkhāya samāyutā
  honti  sattatito kāme sukhapākā tihetukā
 dvāsattatimhā jāyanti upekkhāsahitā pana
 
- ekūnasaṭṭhito rūpa-pākā pākā arūpino
+ ekūnasaṭṭhito rūpapākā pākā arūpino
 kamāṭṭhacattālīsamhā tathekadvitihīnato
 
  pubbasaṅgahamiccevaṃ vigaṇetvā vicakkhaṇo
@@ -49,19 +49,19 @@ tepaññāsa sukhopetā bhavantīti pakāsitaṃ
  tihetukāmakriyato catuvīsatipekkhakā
 sukhitamhā tu dīpeyya pañcavīsati paṇḍito
 
- dasarūpajavamhekā-dasadvādasa  terasa
+ dasarūpajavamhekādasadvādasa  terasa
 yathākkamaṃ pañcadasa āruppā paridīpaye
 
  phalamhā cuddasevāhu maggamhā tu sakaṃ phalaṃ
 paraṃ saṅgahamiccevaṃ vigaṇeyya visārado
 
- pubbāparasamodhāna-miti ñatvā tato paraṃ
+ pubbāparasamodhānamiti ñatvā tato paraṃ
 vatthuvīthisamodhānaṃ yathāsambhavamuddise
 
  pañca vatthūni nissāya kamato pañcamānasā
 tettiṃsa pana nissāya hadayaṃ mānasā siyuṃ
 
- kāmapākamanodhātu-hasituppādamānasā
+ kāmapākamanodhātuhasituppādamānasā
 dosamūlāni maggo ca rūpajjhānāva sabbathā
 
  dasāvasesāpuññāni kāmapuññamahākriyā
@@ -79,7 +79,7 @@ nissitānissitā sesā dvecattālīsa mānasā
  pañca cittappanā honti kamenekekavīthiyaṃ
 manodhātuttikaṃ nāma pañcadvārikamīritaṃ
 
- sukhatīraṇavoṭṭhabba-parittajavanā  pana
+ sukhatīraṇavoṭṭhabbaparittajavanā  pana
 ekatiṃsāpi jāyante chasu vīthīsu sambhavā
 
  mahāpākā panaṭṭhāpi upekkhātīraṇadvayaṃ
@@ -106,10 +106,10 @@ voṭṭhabbanamabhiññā ca tecattālīsa sambhavā
  chārammaṇesu hontīti aṭṭhadhā tividhā puna
 ekārammaṇacittāni pañcachārammaṇāni ca
 
- saṅkhepā mānasā pañca-cattālīsa tayo tathā
+ saṅkhepā mānasā pañcacattālīsa tayo tathā
 tecattālīsa ceveti sattadhāpi siyuṃ kathaṃ
 
- kāmapākamanodhātu-hasituppādamānasā
+ kāmapākamanodhātuhasituppādamānasā
 pañcavīsa yathāyogaṃ parittārammaṇā matā
 
  kasiṇugghāṭimākāsaṃ paṭhamāruppamānasaṃ
@@ -150,7 +150,7 @@ tekālikā navattabbā manodvāre yathārahaṃ
  ajjhattā ca bahiddhā ca pañcadvāresu gocarā
 manodvāre navattabbo natthibhāvopi labbhati
 
- pañcadvāresu pañcanna-mekameko ca gocaro
+ pañcadvāresu pañcannamekameko ca gocaro
 chāpi ārammaṇā honti manodvāramhi sabbathā
 
  pañcadvāresu gahitaṃ tadaññampi ca gocaraṃ

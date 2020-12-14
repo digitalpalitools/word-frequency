@@ -37,7 +37,7 @@ vā paro asarūpāti paralope sampatte tadapavādena pubbalopamāha
 
 pubbassarassa lopo hoti vacane ādesappaccayādibhūte ca sare pare saralope kate tu parasarassa pakatibhāvo hoti ettha ca saralopeti punaggahaṇaṃ imināva katasaralopanimitteyeva parassa vikāre sampatte pakatibhāvatthaṃ parasarassa pakatibhāvavidhānasāmatthiyato amādesappaccayādibhūte sare paretipi siddhaṃ
 tyādivibhattiyo cettha paccayattena gayhare
-ādiggahaṇamākhyāta-kitakesvāgamatthidaṃ
+ādiggahaṇamākhyātakitakesvāgamatthidaṃ
 paccayasāhacariyā cādeso pakatīparo
 padantassaralopo na tenabbhāhādike pare
 ggahaṇaṃ ādīsu saralopanivattanatthaṃ naye paraṃ yutteti paraṃ netabbaṃ puriso tiṭṭhati
@@ -238,7 +238,7 @@ pañcamiyaṃ
 amhatumhanturājabrahmattasakhasatthupituiccevamādīhi vacanaṃ va daṭṭhabbanti vacanassa nābhāvātideso  pana chabbidho
 vuttañca 
 byapadeso nimittañca taṃrūpaṃ taṃsabhāvatā
-suttañceva tathā kāri-yātidesoti chabbidhoti
+suttañceva tathā kāriyātidesoti chabbidhoti
 tatrāyaṃ dīsu pāṭhasāmatthiyato  sesaṃ tatiyāsamaṃ
 raññā apeti rājūhi rājūbhi rājehi rājebhi rañño rājino santakaṃ raññaṃ rājūnaṃ rājānaṃ
 rājassāti vattate
@@ -370,8 +370,8 @@ rassanti vattamāne
 smiṃ napuṃsakavajjitāni liṅgāni na rassamāpajjanteti rassattābhāvo lopo daṇḍī tiṭṭhati
 ti kiṃ sukhakāri dānaṃ
 ettha ca 
-visadāvisadākāra-vohārobhayamuttakā
-pumādijānane hetu-bhāvato liṅgamīritā
+visadāvisadākāravohārobhayamuttakā
+pumādijānane hetubhāvato liṅgamīritā
 lope daṇḍī tiṭṭhanti
 itaratra agho rassamiccādinā rassatte kate 
 jhato katarassāti ca vattate
@@ -538,7 +538,7 @@ sabbassa vā sabbattha sasmāsmiṃsaṃsāsvattanti ca vattate
 saddassa ca sabbasseva ttaṃ hoti vā iccetesu vacanesu sabbattha liṅgesu
 assa imassa esaṃ esānaṃ imesaṃ imesānaṃ asmā imasmā imamhā ehi ebhi imehi imebhi assa imassa esaṃ esānaṃ imesaṃ imesānaṃ asmiṃ imasmiṃ imamhi esu imesu
 itthiyaṃ mādesasilopā
-ayaṃ kaññā imā imāyo imaṃ imā imāyo imāya imāhi imābhi catutthiyaṃ ttaṃ kāra- desā  ca assāya imissāya assā imissā imāya imāsaṃ imāsānaṃ sattamiyaṃ assaṃ imissaṃ imissā vā tesu vuddhilopādinā vacanassa vā deso imāyaṃ imāsu sesaṃ ñeyyaṃ
+ayaṃ kaññā imā imāyo imaṃ imā imāyo imāya imāhi imābhi catutthiyaṃ ttaṃ kāra desā  ca assāya imissāya assā imissā imāya imāsaṃ imāsānaṃ sattamiyaṃ assaṃ imissaṃ imissā vā tesu vuddhilopādinā vacanassa vā deso imāyaṃ imāsu sesaṃ ñeyyaṃ
 napuṃsake  savibhattissa vāti ca vattate
 
 napuṃsake vattamānassa sabbasseva saddassa savibhattissa  hoti vā su paresu
@@ -595,7 +595,7 @@ itthiyaṃ catasso catasso mhi ñcāgamo tesu vuddhītiādinā caturukārassa k�
 napuṃsake cattāri cattāri sesaṃ pulliṅgasamaṃ
 tathā 
 nīlādiguṇanāmañca bahubbīhi ca taddhitaṃ
-sāmaññavutyatītādi-kitantaṃ vāccaliṅgikaṃ
+sāmaññavutyatītādikitantaṃ vāccaliṅgikaṃ
 etthedaṃ vuccate 
 eseso etamiti ca
 pasiddhi atthesu yesu lokassa
@@ -655,7 +655,7 @@ sabbesaṃ saddānaṃ savibhattīnaṃ padasmā paresaṃ ādesā honti yathāk
 ti kiṃ idaṃ cīvaraṃ tuyhaṃ vikappanatthāya dammi suṇātha vacanaṃ mama
 dhikārato cettha
 vo no te meti ye ime
-pādādo ca ca vā evā-
+pādādo ca ca vā evā
 diyoge ca na honti te
 yathā 
 na socāmi na rodāmi tava sutvāna māṇava

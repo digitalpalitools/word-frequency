@@ -496,7 +496,7 @@ katthacchatī.Kattha mupetī,.Vīthissa kā,.Kathaṃ vijānemu gati,.
 ‘‘,;
 ,’’.
 tatthevā.Pokkharaṇī.Sampupphitā.Ettha hi so.Uppalamālabhārī.Puṇḍarīkattacaṅgī.Āmodamāno.Sanniketa.Purakkhatvā.
-‘‘,’’.‘‘,’’‘‘,’’‘‘,,’’..,.
+‘‘,’’.‘‘,’’‘‘-------,’’‘‘,,’’..,.
 .‘‘,’’.,..,...
 –
 114.
@@ -692,7 +692,7 @@ maṃsakāja,.
 157.
 ‘‘,;
 ,’’.
-nāya,,‘‘’’,.Te sūsu.Pitā,,,.Na ta,,.
+nāya,,‘‘’’,.Te sūsu-.Pitā,,,.Na ta,,.
 ,‘‘,‘’,,’’–
 158.
 ‘‘,;
@@ -1008,7 +1008,7 @@ sammatatto‘‘’’.Bhāvitatto.
 ‘‘,;
 ,;
 ,’’.
-amaro.Paññāvidhā natthīna,.–,,,.paññāvidhā,.‘‘’’,.Saccenāalabbhaṃabyāharati,,..
+amaro.Paññāvidhā natthīna-,.–,,,.paññāvidhā,.‘‘’’,.Saccenāalabbhaṃabyāharati,,..
 Paramā.Nāssa tatiyo,,.Sahāyā vā.Sapakkhā.Tesampī,,.Bhariyā ce‘‘’’,.
 –
 272.
@@ -1222,7 +1222,7 @@ samaṇe brāhmaṇe.Sampannacaraṇe.,..Tiṇā latāni osajho..Indīvarīsāma
 ‘‘,;
 ,;
 ,’’.
-‘‘’’.–,,,,‘‘’’.‘‘’’,.
+-‘‘’’.–,,,,‘‘’’.‘‘’’,.
 ..,.,,,...–
 324.
 ‘‘,;
@@ -1297,7 +1297,7 @@ Appamādo....,..,.,.–‘‘,,,,’’.
 ‘‘,;
 ,’’.
 appamādo.Amatapada.Maccuno pada.,.Na mīyantī.Ye pamattā,,,,.?.‘‘,,,’’,.
-Madā,,..,,.,,mā mado bharatūsabhā,.Atthaṃ raṭṭha..Gāmino.Anagārā agārino,.Taṃ vuccate agha,,.,.
+Madā,,..,,.,,mā mado bharatūsabhā,.Atthaṃ raṭṭha.----.Gāmino.Anagārā agārino,.Taṃ vuccate agha,,.,.
 Nesa dhammo,,.Iddhaṃ phīta.Na te puttā,,.‘‘,,’’..Parijiṇṇa.Rājānaṃ vāpī,.Māniya‘‘’’.Upajīvantā.?.
 Sirī.Taca,,.Susaṃvihitakammanta.Abhivaḍḍhantī.Sausabhāmivā..Upassuti.Tatthā.
 ‘‘,’’..–

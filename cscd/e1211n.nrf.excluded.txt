@@ -1338,13 +1338,13 @@ Iti tatiyo pāṭho.
 
 .
 Tiliṅgarūpāni vuccante.
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
 .
 Iti catuttho pāṭho.
 Tiliṅgarūpāni vuccante.
@@ -1390,13 +1390,13 @@ Tiliṅgarūpāni vuccante.
 
 .
 Tiliṅgarūpāni vuccante.
-
-
-
-
-
-
-.
+-
+-
+-
+-
+-
+-
+-.
 Tiliṅgarūpāni  vuccante.
 
 
@@ -1461,7 +1461,7 @@ Napuṃsakaliṅgarūpāni.
 
 
 
-.
+-.
 Iti  tatiyo pāṭho.
 Pulliṅgarūpāni.
 
@@ -1615,7 +1615,7 @@ Iti  ekādasamo pāṭho.
 .
 
 .
-
+-
 
 
 

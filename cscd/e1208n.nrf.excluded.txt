@@ -76,14 +76,14 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ’;
 16.
-
+-
 ,
-’
+’-
 ;
 17.
 
 ’,
-’’
+’’-
 ’;
 18.
 
@@ -91,14 +91,14 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ;
 19.
-
+-
 ,
 
 ’;
 20.
-’
+’-
 ,
-’
+’-
 ;
 21.
 
@@ -106,7 +106,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ;
 22.
-’
+’-
 ;
 ’
 ;
@@ -136,12 +136,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ’’;
 28.
-
+-
 ,
-
+-
 
 29.
-
+-
 ’,
 
 ’;(Silesabandhanaṃ)
@@ -161,7 +161,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ;
 33.
-
+-
 ,
 
 ;
@@ -173,12 +173,12 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 35.
 
 ,
-
+-
 ’;
 36.
 
 ’,
-
+-
 ’;(Silesabandhanaṃ)
 37.
 
@@ -241,7 +241,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ’;
 49.
-’
+’-
 ,
 
 ;
@@ -253,7 +253,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 51.
 
 ,
-
+-
 ’;
 52.
 ’
@@ -261,7 +261,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ’;
 53.
-’
+’-
 ’,
 
 ’;
@@ -316,9 +316,9 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’
 ;
 64.
-
+-
 ,
-,
+,-
 ;
 65.
 
@@ -346,14 +346,14 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ;
 70.
-
+-
 ’,
-
+-
 ’;
 71.
-
+-
 ,
-’
+’-
 ;
 72.
 
@@ -373,7 +373,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 75.
 
 ,
-
+-
 ;
 76.
 ’
@@ -396,14 +396,14 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’
 ’;
 80.
-
+-
 ,
 
 ’;
 81.
 
 ’,
-
+-
 ’;
 82.
 
@@ -426,17 +426,17 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ’
 ;
 86.
-
+-
 ,
 
 ’;
 87.
-
+-
 ;
 
 ’;
 88.
-’’’
+’’’-
 ,
 ’
 ;
@@ -556,7 +556,7 @@ Paṭhamo saggo.
 ’
 ;()
 14.
-’’
+’’-
 ’,
 ’
 ;()
@@ -591,14 +591,14 @@ Paṭhamo saggo.
 ’
 ;()
 21.
-’’
+’’-
 ,
 ’
 ;()
 22.
 
 ’,
-’’
+’’-
 ’;()
 23.
 
@@ -606,7 +606,7 @@ Paṭhamo saggo.
 
 ;()
 24.
-
+-
 ,
 
 ;()
@@ -757,7 +757,7 @@ Paṭhamo saggo.
 ’
 ’’;()
 4.
-
+-
 ’,
 ’
 ;()
@@ -797,7 +797,7 @@ Paṭhamo saggo.
 
 ’’;()
 12.
-’
+’-
 ,
 
 ;()
@@ -837,14 +837,14 @@ Paṭhamo saggo.
 ’
 ’;()
 20.
-
+-
 ,
 
 ;()
 21.
 
 ,
-
+-
 ;()
 22.
 
@@ -857,7 +857,7 @@ Paṭhamo saggo.
 ’
 ’;()
 24.
-’
+’-
 ,
 
 ;()
@@ -877,14 +877,14 @@ Paṭhamo saggo.
 ’
 ’;()
 28.
-’
+’-
 ’,
 ’
 ;()
 29.
 ’
 ’,
-’
+’-
 ;()
 30.
 ’
@@ -894,7 +894,7 @@ Paṭhamo saggo.
 31.
 ’
 ,
-
+-
 ’;()
 32.
 
@@ -974,7 +974,7 @@ Paṭhamo saggo.
 47.
 
 ,
-
+-
 ;()
 48.
 
@@ -997,7 +997,7 @@ Paṭhamo saggo.
 ’
 ’;()
 52.
-’’
+’’-
 ,
 
 ;()
@@ -1077,7 +1077,7 @@ Paṭhamo saggo.
 ’’
 ’;()
 68.
-’
+’-
 ,
 
 ;()
@@ -1092,12 +1092,12 @@ Paṭhamo saggo.
 
 ;()
 71.
-’
+’-
 ,
 ’
 ;()
 72.
-
+-
 ,
 ’
 ;()
@@ -1117,14 +1117,14 @@ Paṭhamo saggo.
 ’
 ;()
 76.
-
+-
 ,
 ’
 ;()
 77.
-’’
+’’-
 ’,
-
+-
 ;()
 78.
 
@@ -1137,7 +1137,7 @@ Paṭhamo saggo.
 
 ;()
 80.
-’’
+’’-
 ,
 
 ;()
@@ -1194,7 +1194,7 @@ Paṭhamo saggo.
 91.
 
 ’,
-’
+’-
 ’;()
 92.
 
@@ -1203,7 +1203,7 @@ Paṭhamo saggo.
 ’’;()
 .
 1.
-
+-
 ,
 
 ;()
@@ -1245,7 +1245,7 @@ Paṭhamo saggo.
 9.
 
 ,
-’
+’-
 ’;()(Candakumāracariyaṃ)
 10.
 
@@ -1293,7 +1293,7 @@ Paṭhamo saggo.
 
 ;()(Mātaṅgacariyaṃ;)
 19.
-
+-
 ,
 
 ;()(Dhammādhamma devaputtacariyaṃ;)
@@ -1303,7 +1303,7 @@ Paṭhamo saggo.
 
 ;()(Alīnasattacariyaṃ;)
 21.
-
+-
 ,
 
 ’;()(Saṅkhapālacariyaṃ; Iti sīlapāramiṃ;)
@@ -1323,7 +1323,7 @@ Paṭhamo saggo.
 
 ;()(Ayogharacariyaṃ;)
 25.
-’
+’-
 ,
 
 ;()(Bhisacariyaṃ;)
@@ -1363,7 +1363,7 @@ Paṭhamo saggo.
 
 ;()(Dhammapāla cariyaṃ; Iti khantipāramī;)
 33.
-
+-
 ,
 
 ;()(Kapirāja cariyaṃ)
@@ -1373,19 +1373,19 @@ Paṭhamo saggo.
 
 ;()(Saccasavbhaya cariyaṃ;)
 35.
-
+-
 ’,
 
 ;()(Vaṭṭapotaka cariyaṃ;)
 36.
-
+-
 ’,
 
 ’;()(Maccharāja cariyaṃ;)
 37.
 
 ’,
-
+-
 ;()(Kaṇhādīpāyana cariyaṃ;)
 38.
 
@@ -1415,12 +1415,12 @@ Paṭhamo saggo.
 43.
 ’
 ’,
-’
+’-
 ;()
 44.
-
+-
 ,
-
+-
 ;()
 45.
 
@@ -1440,7 +1440,7 @@ Paṭhamo saggo.
 48.
 
 ’,
-
+-
 ;()
 49.
 
@@ -1448,7 +1448,7 @@ Paṭhamo saggo.
 ’
 ;()
 50.
-
+-
 ’,
 
 ;()
@@ -1613,7 +1613,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 2.
-
+-
 ,
 
 (vasantatilakā);()(Silesa bandhanaṃ;)
@@ -1648,19 +1648,19 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 9.
-
+-
 ,
 
 ;()
 10.
-
+-
 ,
 ’
 ;()
 11.
 
 ,
-
+-
 ;()
 12.
 
@@ -1678,9 +1678,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 15.
-
+-
 ,
-
+-
 ’;()
 16.
 
@@ -1748,7 +1748,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 29.
-
+-
 ,
 
 ;()
@@ -1758,7 +1758,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 31.
-
+-
 ,
 
 ;()(Sīlesabandhanaṃ)
@@ -1768,7 +1768,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 33.
-
+-
 ,
 
 ;()
@@ -1785,7 +1785,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 36.
 
 ,
-
+-
 ;()
 37.
 
@@ -1803,14 +1803,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 40.
-
+-
 ,
 
 ;()
 41.
 
 ,
-
+-
 ;()
 42.
 
@@ -1818,9 +1818,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 43.
-
+-
 ,
-’
+’-
 ;()
 44.
 
@@ -1870,7 +1870,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 53.
 
 ’,
-
+-
 ;()
 54.
 
@@ -1898,7 +1898,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 59.
-
+-
 ,
 
 ;()
@@ -1938,14 +1938,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 67.
-
+-
 ,
-
+-
 ;()
 68.
 
 ,
-
+-
 ;()
 69.
 
@@ -1953,7 +1953,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 70.
-
+-
 ,
 
 ;()
@@ -1965,22 +1965,22 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 72.
 
 ,
-
+-
 ;()
 73.
-
+-
 ,
 
 ;()
 74.
-
+-
 ,
 
 ’;()
 75.
-
+-
 ,
-
+-
 ;()
 76.
 
@@ -1995,7 +1995,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 78.
 
 ,
-
+-
 ’;()
 79.
 
@@ -2023,7 +2023,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 84.
-
+-
 ,
 
 ;()
@@ -2109,7 +2109,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ;()
 .
 1.
-’
+’-
 ’,
 (mālabhārinī)
 ;()
@@ -2126,25 +2126,25 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 4.
 
 ’,
-
+-
 ;()
 5.
-
+-
 ,
 
 ;()
 6.
-
+-
 ,
 
 ;()
 7.
-
+-
 ,,
-
+-
 ’;()
 8.
-
+-
 ’,
 
 ;()
@@ -2156,7 +2156,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 10.
 
 ,
-
+-
 ;()
 11.
 
@@ -2164,9 +2164,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 12.
-
+-
 ,
-
+-
 ;()
 13.
 
@@ -2191,7 +2191,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 17.
 
 ’,
-
+-
 ’’;()
 18.
 
@@ -2204,9 +2204,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 20.
-
+-
 ,
-’
+’-
 ;()
 21.
 ’
@@ -2214,7 +2214,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 22.
-
+-
 ’,
 ’
 ;()
@@ -2224,12 +2224,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 24.
-
+-
 ’,
 ’
 ;()
 25.
-
+-
 ’,
 
 ;()
@@ -2241,7 +2241,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 27.
 ’
 ,
-
+-
 ’;()
 28.
 
@@ -2251,21 +2251,21 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 29.
 
 ,
-
+-
 ;()
 30.
-
+-
 ,
 
 ’;()
 31.
-
+-
 ,
 ;()
 32.
 
 ,
-
+-
 ;()
 33.
 
@@ -2283,12 +2283,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 36.
-
+-
 ,
 
 ,()
 37.
-
+-
 ,
 ’
 ’;()
@@ -2298,7 +2298,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 39.
-
+-
 ’,
 
 ;()
@@ -2320,7 +2320,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 43.
 
 ,
-
+-
 ’’’;()(Abyapeta paṭhamadutiya pādādiyamakaṃ)
 44.
 ’’
@@ -2348,7 +2348,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()(Abyapeta paṭhamadutiya pādādiyamakaṃ)
 49.
-
+-
 ,
 
 ;()
@@ -2371,7 +2371,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 3.
 
 ,
-
+-
 ;()
 4.
 
@@ -2394,7 +2394,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 8.
-’
+’-
 ’,
 
 ;()
@@ -2449,7 +2449,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’’
 ’;()
 19.
-
+-
 ,
 ’
 ;(5)
@@ -2459,7 +2459,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ’;()
 21.
-
+-
 ,
 
 ’;()
@@ -2499,9 +2499,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 29.
-
+-
 ,
-
+-
 ;()
 30.
 
@@ -2516,10 +2516,10 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 32.
 
 ,
-
+-
 ;()
 33.
-
+-
 ,
 
 ;()
@@ -2551,7 +2551,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 39.
 
 ,
-
+-
 ;()
 40.
 
@@ -2614,7 +2614,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 52.
-
+-
 ,
 ’
 ’;()
@@ -2626,7 +2626,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 54.
 
 ,
-
+-
 ;()
 55.
 ’
@@ -2644,7 +2644,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 58.
-
+-
 ,
 
 ;()
@@ -2714,7 +2714,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 72.
-
+-
 ,
 
 ;()
@@ -2754,7 +2754,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 80.
-
+-
 ,
 ’
 ;()
@@ -2766,7 +2766,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 82.
 
 ,
-
+-
 ’;()
 83.
 
@@ -2786,7 +2786,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 86.
 ’
 ,
-
+-
 ;()
 87.
 
@@ -2804,7 +2804,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 90.
-
+-
 ,
 
 ;()
@@ -2834,14 +2834,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 96.
-
+-
 ,
 
 ;()
 97.
-’
+’-
 ,
-
+-
 ;()
 98.
 
@@ -2875,7 +2875,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 104.
 
 ,
-
+-
 ;()
 105.
 ’
@@ -2931,10 +2931,10 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 7.
 
 ,
-
+-
 ;()
 8.
-
+-
 ,
 
 ;(6)
@@ -2951,7 +2951,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 11.
 
 ,
-
+-
 ;()
 12.
 
@@ -2966,7 +2966,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 14.
 
 ,
-
+-
 ;()
 15.
 
@@ -2976,12 +2976,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 16.
 
 ’,
-
+-
 ;()
 17.
 
 ,
-
+-
 ;(6)
 18.
 
@@ -2991,12 +2991,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 19.
 ’
 ’,
-
+-
 ;()
 20.
 
 ’,
-’
+’-
 ;()
 21.
 
@@ -3009,7 +3009,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 23.
-’
+’-
 ,
 
 ;()
@@ -3034,14 +3034,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ;
 ()
 28.
-
+-
 ,
 
 ;()
 29.
 
 ,
-
+-
 ;()
 30.
 
@@ -3054,14 +3054,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 32.
-’
+’-
 ’,
 
 ’;()
 33.
 
 ,
-
+-
 ;()
 34.
 
@@ -3084,7 +3084,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’’;()
 38.
-
+-
 ,
 
 ;()
@@ -3099,7 +3099,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 41.
-’
+’-
 ,
 
 ;()
@@ -3134,7 +3134,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’’;()
 48.
-
+-
 ’,
 
 ;()
@@ -3196,7 +3196,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 10.
-’
+’-
 ’’,
 
 ’;()
@@ -3246,17 +3246,17 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 20.
-
+-
 ,
 
 ;()
 21.
-
+-
 ,
 
 ;()
 22.
-
+-
 ,
 
 ’;()
@@ -3271,17 +3271,17 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 25.
-
+-
 ,
 
 ’;()
 26.
 
 ,
-’
+’-
 ;()(Silesabandhanaṃ)
 27.
-
+-
 ,
 ’
 ;()
@@ -3298,7 +3298,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 30.
 
 ,
-
+-
 ’’;()
 29.
 
@@ -3316,7 +3316,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ’’’;()
 32.
-
+-
 ,
 
 ;()
@@ -3343,7 +3343,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 37.
 
 ,
-’
+’-
 ;()
 38.
 
@@ -3411,7 +3411,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’’;()
 51.
-
+-
 ,
 
 ;()
@@ -3451,7 +3451,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ,;()
 59.
-
+-
 ,
 
 ,;()
@@ -3533,7 +3533,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 75.
 
 ’,
-’
+’-
 ;()
 76.
 
@@ -3548,7 +3548,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 78.
 ’
 ,
-
+-
 ’;()
 79.
 
@@ -3576,12 +3576,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ’’;()
 84.
-
+-
 ’,
 
 ’;()
 85.
-
+-
 ’,
 
 ;()
@@ -3596,12 +3596,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 88.
-
+-
 ,
 ’
 ;()
 89.
-
+-
 ,
 
 ;()
@@ -3682,9 +3682,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 4.
-
+-
 ,
-
+-
 ;()
 5.
 
@@ -3692,7 +3692,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 6.
-
+-
 ’,
 ’
 ’;()
@@ -3702,7 +3702,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 8.
-
+-
 ,
 
 ;()
@@ -3712,7 +3712,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 10.
-
+-
 ,
 
 ’;()
@@ -3727,7 +3727,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 13.
-
+-
 ,
 
 ’’;()
@@ -3744,7 +3744,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 16.
 ’
 ’,
-
+-
 ’;()
 17.
 
@@ -3759,7 +3759,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 19.
 ’’
 ,
-
+-
 ’;()
 20.
 
@@ -3834,7 +3834,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 34.
 
 ’,
-
+-
 ;()
 35.
 
@@ -3957,7 +3957,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 59.
-’
+’-
 ,
 
 ;()
@@ -4028,7 +4028,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 74.
-
+-
 ,
 
 ;()
@@ -4038,7 +4038,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 76.
-
+-
 ’,
 ’
 ;()
@@ -4073,12 +4073,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 83.
-
+-
 ,
 
 ’;()
 84.
-?’
+?’-
 ,
 
 ’;()
@@ -4093,17 +4093,17 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 87.
-
+-
 ,
 
 ;()
 88.
-’’
+’’-
 ,
 
 ;()
 89.
-
+-
 ,
 
 ’;()
@@ -4165,9 +4165,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 101.
 
 ,
-’
+’-
 ;()
-’
+’-
 ’,
 ’
 ’’;()
@@ -4177,9 +4177,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 104.
-
+-
 ’,
-’
+’-
 ;()
 105.
 
@@ -4187,14 +4187,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 106.
-’’
+’’-
 ’,
-
+-
 ’;()
 107.
 
 ,
-
+-
 ;()
 108.
 
@@ -4253,7 +4253,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 7.
-
+-
 ’,
 ’
 ’;()
@@ -4280,7 +4280,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 12.
 
 ’,
-’
+’-
 ’’’;()
 13.
 
@@ -4313,7 +4313,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 19.
-
+-
 ,
 ’
 ;()
@@ -4328,7 +4328,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 22.
-
+-
 ,
 
 ’’;()
@@ -4358,9 +4358,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ’;()
 28.
-
+-
 ,
-
+-
 ;()
 29.
 
@@ -4368,12 +4368,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 30.
-
+-
 ,
 
 ;()
 31.
-’
+’-
 ,
 
 ;()
@@ -4410,7 +4410,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 38.
 
 ,
-’
+’-
 ()
 39.
 
@@ -4470,7 +4470,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 50.
 
 ;
-
+-
 ’;()
 51.
 
@@ -4495,20 +4495,20 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 55.
 
 ,
-
+-
 ;()
 56.
 
 ,
-
+-
 ;()
 57.
 
 ,
-
+-
 ;()
 58.
-’
+’-
 ,
 
 ;()
@@ -4518,7 +4518,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 60.
-
+-
 ,
 
 ;()
@@ -4530,10 +4530,10 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 62.
 
 ’,
-
+-
 ;()
 63.
-’
+’-
 ,
 ’
 ’;()
@@ -4560,7 +4560,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 68.
 
 ,
-
+-
 ’;()
 69.
 
@@ -4625,7 +4625,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 81.
 
 ,
-’
+’-
 ’;()
 82.
 
@@ -4640,7 +4640,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 84.
 
 ’,
-
+-
 ;()
 85.
 
@@ -4660,7 +4660,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 88.
 
 ,
-
+-
 ;()
 89.
 
@@ -4673,7 +4673,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 91.
-’
+’-
 ,
 ’’
 ’;()
@@ -4693,7 +4693,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 95.
-’
+’-
 ’,
 ’
 ;()
@@ -4720,7 +4720,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 100.
 
 ’,
-’
+’-
 ’;()
 101.
 
@@ -4730,10 +4730,10 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 102.
 
 ’,
-
+-
 ’;()
 103.
-
+-
 ,
 
 ;()
@@ -4746,7 +4746,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 2.
 
 ,
-
+-
 ’;()
 3.
 
@@ -4756,7 +4756,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 4.
 
 ,
-’
+’-
 ;()
 5.
 
@@ -4799,7 +4799,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 13.
-’
+’-
 ,
 
 ;()
@@ -4816,7 +4816,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 16.
 
 ,
-’
+’-
 ;()
 17.
 
@@ -4826,7 +4826,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 18.
 
 ,
-
+-
 ()
 19.
 
@@ -4834,7 +4834,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 20.
-
+-
 ,
 
 ;()
@@ -4851,7 +4851,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 23.
 
 ’’,
-
+-
 ;()
 24.
 
@@ -4864,14 +4864,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 26.
-
+-
 ,
 
 ;()
 27.
 
 ’,
-
+-
 ;()
 28.
 
@@ -4906,10 +4906,10 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 34.
 
 ,
-
+-
 ;()
 35.
-’
+’-
 ,
 
 ;()
@@ -5005,9 +5005,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’
 ;()
 4.
+-
 
-
-
+-
 ;()
 5.
 
@@ -5017,7 +5017,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 6.
 
 ,
-
+-
 ;()
 7.
 
@@ -5032,7 +5032,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 9.
 
 ,
-
+-
 ’’;()
 10.
 
@@ -5045,14 +5045,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 12.
-
+-
 ’,
-
+-
 ;()
 13.
-
+-
 ’,
-
+-
 ;()
 14.
 
@@ -5065,12 +5065,12 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 ’’
 ;()
 16.
-’
+’-
 ,
 
 ;()
 17.
-
+-
 ’,
 
 ;()
@@ -5090,7 +5090,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 21.
-
+-
 ,
 
 ’;()
@@ -5100,7 +5100,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 23.
-
+-
 ,
 ’
 ;()
@@ -5130,14 +5130,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 29.
-
+-
 ,
 
 ;()
 30.
 
 ,
-
+-
 ;()
 31.
 
@@ -5145,14 +5145,14 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 32.
-
+-
 ,
 
 ;()
 33.
-
+-
 ,
-
+-
 ;()
 34.
 
@@ -5185,7 +5185,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 40.
-
+-
 ,
 
 ;()
@@ -5205,9 +5205,9 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 
 ;()
 44.
-
+-
 ’,
-’
+’-
 ’;()
 45.
 
@@ -5237,7 +5237,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 50.
 
 ,
-
+-
 ;()
 .
 Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
@@ -5267,7 +5267,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 6.
-
+-
 ,
 
 ;()
@@ -5284,7 +5284,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 9.
 ’’
 ,
-
+-
 ;()
 10.
 
@@ -5299,7 +5299,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 12.
 
 ’,
-’
+’-
 ;()
 13.
 
@@ -5327,19 +5327,19 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 18.
-
+-
 ,
 
 ;()
 19.
 
 ’,
-
+-
 ;()
 20.
+-
 
-
-
+-
 ()
 21.
 
@@ -5354,12 +5354,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 23.
 
 ’,
-
+-
 ’’;()
 24.
 
 ,
-
+-
 ’;()
 25.
 
@@ -5367,7 +5367,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ’;()
 26.
-’
+’-
 ’,
 ’
 ’;()
@@ -5377,12 +5377,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 28.
-
+-
 ,
 
 ;()
 29.
-’
+’-
 ’,
 ’’’
 ;()
@@ -5397,7 +5397,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ’;()
 32.
-
+-
 ,
 
 ;()
@@ -5417,12 +5417,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ;()
 36.
-
+-
 ,
 ’
 ;()
 37.
-’
+’-
 ’’,
 ’
 ’;()
@@ -5439,7 +5439,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 40.
 
 ,
-’
+’-
 ;()
 41.
 ’
@@ -5469,22 +5469,22 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 46.
 
 ’
-
+-
 ’’()
 47.
-
+-
 ,
-
+-
 ;()
 48.
-
+-
 ,
 
 ;()
 49.
 
 ,
-
+-
 ;()
 50.
 
@@ -5585,7 +5585,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 7.
 ’
 ,
-’’
+’’-
 ’;()
 8.
 
@@ -5598,7 +5598,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 10.
-
+-
 ,
 
 ;()
@@ -5680,7 +5680,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 26.
 
 ,
-
+-
 ’;()
 27.
 
@@ -5693,7 +5693,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 29.
-’
+’-
 ’’,
 ’
 ’;()
@@ -5745,7 +5745,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 39.
 
 ’’,
-’
+’-
 ’;()
 40.
 
@@ -5758,9 +5758,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 42.
-’
+’-
 ,
-’’
+’’-
 ;()
 43.
 
@@ -5785,7 +5785,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 47.
 ’’
 ’,
-
+-
 ;()
 48.
 
@@ -5793,7 +5793,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 49.
-
+-
 ’,
 
 ;()
@@ -5820,7 +5820,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 54.
 
 ’’,
-
+-
 ;()
 55.
 ’
@@ -5855,7 +5855,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 61.
 ’
 ,
-
+-
 ;()
 62.
 
@@ -5883,7 +5883,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 67.
-’
+’-
 ’,
 
 ’;()
@@ -5928,7 +5928,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 76.
-
+-
 ’,
 
 ’;()
@@ -5995,7 +5995,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 89.
 ’
 ,
-
+-
 ;()
 90.
 
@@ -6003,14 +6003,14 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ’’;()
 91.
-
+-
 ,
 ’
 ;()
 92.
-
+-
 ’,
-
+-
 ’;()
 93.
 
@@ -6018,7 +6018,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’’
 ;()
 94.
-
+-
 ’,
 
 ’;()
@@ -6038,7 +6038,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 98.
-
+-
 ,
 
 ;()
@@ -6048,13 +6048,13 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ;()
 100.
-
+-
 ’,
 
 ;()
 .
 1.
-
+-
 ,
 (rathoddhatā)
 ;()
@@ -6099,14 +6099,14 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 10.
-
+-
 ,
-
+-
 ;()
 11.
-
+-
 ,
-’
+’-
 ;()
 12.
 
@@ -6116,25 +6116,25 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 13.
 
 ,
-
+-
 ;()
 14.
 ’
 ’,
-
+-
 ’;()
 15.
-
+-
 ,
-
+-
 ;()
 16.
-
+-
 ,
 
 ;()
 17.
-
+-
 ,
 
 ’;()
@@ -6146,7 +6146,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 19.
 
 ,
-
+-
 ’;()
 20.
 
@@ -6159,7 +6159,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 22.
-
+-
 ,
 ’
 ;()
@@ -6184,7 +6184,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 27.
-
+-
 ,
 
 ;()
@@ -6194,7 +6194,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 29.
-
+-
 ’,
 
 ’;()
@@ -6204,27 +6204,27 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 31.
-
+-
 ,
 
 ;()
 32.
-
+-
 ,
-
+-
 ;()
 33.
-
+-
 ,
 
 ;()
 34.
-
+-
 ,
-
+-
 ;()
 35.
-
+-
 ,
 
 ’’;()
@@ -6256,10 +6256,10 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 41.
 
 ,
-
+-
 ;()
 42.
-
+-
 ,
 
 ;()
@@ -6309,7 +6309,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ,
 
 ;()
-,
+-,
 
 ;()
 3.
@@ -6318,12 +6318,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 4.
-
+-
 ,
 
 ;()
 5.
-’
+’-
 ,
 
 ;()
@@ -6333,22 +6333,22 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 7.
-
+-
 ,
 
 ;()
 8.
-
+-
 ,
 
 ;()
 9.
-
+-
 ,
 
 ;()
 10.
-
+-
 ,
 ’
 ;()
@@ -6363,9 +6363,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 13.
-
+-
 ,
-
+-
 ’;()
 14.
 
@@ -6400,7 +6400,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 20.
 
 ’,
-
+-
 ;()
 21.
 
@@ -6453,12 +6453,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ;()
 31.
-
+-
 ’,
 ’
 ;()
 32.
-’
+’-
 ’,
 
 ;()
@@ -6478,17 +6478,17 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 36.
-
+-
 ,
 ’
 ;()
 37.
 
 ’,
-
+-
 ;()
 38.
-
+-
 ,
 
 ;()
@@ -6500,7 +6500,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 40.
 
 ’,
-
+-
 ;()
 41.
 
@@ -6508,7 +6508,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 42.
-
+-
 ’,
 
 ;()
@@ -6573,9 +6573,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 55.
-
+-
 ’,
-
+-
 ’;()
 56.
 
@@ -6665,7 +6665,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 73.
 
 ,
-
+-
 ;()
 74.
 
@@ -6675,7 +6675,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 75.
 
 ,
-
+-
 ;()
 76.
 
@@ -6688,7 +6688,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 78.
-’
+’-
 ,
 
 ;()
@@ -6700,12 +6700,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 80.
 
 ,
-
+-
 ’;()
 81.
 
 ,
-
+-
 ’;()
 82.
 
@@ -6739,7 +6739,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 4.
-
+-
 ,
 ’
 ()
@@ -6749,12 +6749,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 6.
-
+-
 ,
-
+-
 ;()
 7.
-
+-
 ,
 
 ;()
@@ -6799,12 +6799,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 16.
-
+-
 ,
 
 ;()
 17.
-
+-
 ,
 
 ;()
@@ -6836,7 +6836,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 23.
 
 ’,
-
+-
 ;()
 24.
 
@@ -6849,7 +6849,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 26.
-
+-
 ,
 
 ;()
@@ -6861,17 +6861,17 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 28.
 ’
 ’,
-
+-
 ;()
 29.
-
+-
 ,
 
 ;()
 30.
 
 ,
-
+-
 ;()
 31.
 
@@ -6879,7 +6879,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 32.
-
+-
 ,
 
 ;()
@@ -6889,9 +6889,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 34.
-
+-
 ,
-
+-
 ;()
 35.
 
@@ -6987,17 +6987,17 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 3.
 ’
 ,
-
+-
 ;()
 4.
 
 ,
-
+-
 ;()
 5.
 
 ,
-’
+’-
 ;()
 6.
 
@@ -7010,7 +7010,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 8.
-
+-
 ,
 
 ;()
@@ -7030,12 +7030,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 12.
-
+-
 ,
 ’
 ;()
 13.
-
+-
 ,
 
 ;()
@@ -7060,7 +7060,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 18.
-’
+’-
 ,
 
 ;()
@@ -7074,7 +7074,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;
 1.
-
+-
 ,
 
 ;()
@@ -7084,19 +7084,19 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ;(1)
 3.
-’
+’-
 
 
 ;()
 4.
-
+-
 ,
 
 ;()
 5.
 ’
 ’,
-
+-
 ;()
 6.
 
@@ -7104,14 +7104,14 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ’
 ’;()
 7.
-
+-
 ,
 ’
 ’;()
 8.
 
 ’,
-
+-
 ;()
 9.
 
@@ -7121,17 +7121,17 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 10.
 ’
 ’,
-
+-
 ’;()
 11.
-’’
+’’-
 ’,
 ’’
 ’;()
 12.
 
 ,
-
+-
 ’;()
 13.
 
@@ -7144,9 +7144,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 15.
-
+-
 ,
-
+-
 ;()
 16.
 
@@ -7161,7 +7161,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 18.
 
 ,
-’’
+’’-
 ’;()
 19.
 ’
@@ -7169,7 +7169,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 20.
-’
+’-
 ,
 
 ’;()
@@ -7181,7 +7181,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 22.
 ’
 ’’,
-’
+’-
 ;()
 23.
 
@@ -7221,12 +7221,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 30.
 ’
 ,
-’
+’-
 ;()
 31.
 
 ’,
-’
+’-
 ;()
 32.
 ’
@@ -7246,7 +7246,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 35.
 ’
 ,
-’
+’-
 ;()
 36.
 
@@ -7284,7 +7284,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 43.
-
+-
 ,
 
 ;()
@@ -7296,7 +7296,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 45.
 
 ,
-
+-
 ;()
 46.
 
@@ -7321,7 +7321,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 50.
 
 ,
-
+-
 ;()
 51.
 
@@ -7329,9 +7329,9 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 52.
-
+-
 ,
-
+-
 ’;()
 53.
 
@@ -7349,24 +7349,24 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 56.
-
+-
 ’,
 ’
 ’;()
 57.
-’’
+’’-
 ’’,
 
 ;()
 58.
-
+-
 ,
 
 ()
 59.
-
+-
 ,
-
+-
 ;()
 60.
 
@@ -7376,10 +7376,10 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 61.
 
 ,
-
+-
 ;()
 62.
-’
+’-
 ,
 
 ;()
@@ -7411,7 +7411,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 68.
 ’’
 ,
-
+-
 ;()
 69.
 
@@ -7426,7 +7426,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 71.
 
 ’,
-
+-
 ;()
 72.
 
@@ -7449,12 +7449,12 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 76.
-
+-
 ,
 
 ;()
 77.
-
+-
 ,
 
 ;()
@@ -7469,7 +7469,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ;()
 80.
-
+-
 ’,
 
 ’;()
@@ -7479,7 +7479,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 82.
-’
+’-
 ’,
 
 ;()
@@ -7494,7 +7494,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 
 ’;()
 85.
-
+-
 ,
 
 ;()
@@ -7512,7 +7512,7 @@ Sobhanagamanattā sugatoti.
 (Dutavilambita)’
 ;()
 2.
-
+-
 ’,
 
 ;()
@@ -7524,7 +7524,7 @@ Sobhanagamanattā sugatoti.
 4.
 
 ’,
-
+-
 ;()
 5.
 
@@ -7532,12 +7532,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 6.
-
+-
 ,
 
 ;()
 7.
-
+-
 ’,
 
 ;()
@@ -7577,22 +7577,22 @@ Sobhanagamanattā sugatoti.
 
 ;()
 15.
-
+-
 ,
 
 ;()
 16.
-
+-
 ,
 
 ;()
 17.
-
+-
 ,
 
 ;()
 18.
-
+-
 ,
 
 ;()
@@ -7602,12 +7602,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 20.
-
+-
 ,
 
 ;()
 21.
-
+-
 ,
 
 ;()
@@ -7617,7 +7617,7 @@ Sobhanagamanattā sugatoti.
 
 ;()
 23.
-’
+’-
 ,
 
 ;()
@@ -7647,7 +7647,7 @@ Sobhanagamanattā sugatoti.
 
 ;()
 29.
-
+-
 ,
 
 ;()
@@ -7667,12 +7667,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 33.
-
+-
 ’,
 
 ;()
 34.
-
+-
 ,
 
 ;()
@@ -7682,7 +7682,7 @@ Sobhanagamanattā sugatoti.
 ’’
 ;()
 36.
-
+-
 ,
 
 ;()
@@ -7694,7 +7694,7 @@ Sobhanagamanattā sugatoti.
 38.
 ’
 ,
-
+-
 ;()
 39.
 
@@ -7712,7 +7712,7 @@ Sobhanagamanattā sugatoti.
 ’
 ’;()
 42.
-
+-
 ,
 ’
 ;()
@@ -7732,12 +7732,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 46.
-
+-
 ,
 
 ;()
 47.
-
+-
 ,
 
 ;()
@@ -7797,7 +7797,7 @@ Sobhanagamanattā sugatoti.
 
 ;()
 59.
-
+-
 ,
 
 ;()
@@ -7819,12 +7819,12 @@ Sobhanagamanattā sugatoti.
 ..
 ..
 1.
-(dodhaka)
+(dodhaka)-
 ’,
 ’
 ;()
 2.
-
+-
 ,
 
 ;()
@@ -7834,12 +7834,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 4.
-
+-
 ,
 ’
 ;()
 5.
-
+-
 ,
 
 ;()
@@ -7849,7 +7849,7 @@ Sobhanagamanattā sugatoti.
 
 ;()
 7.
-
+-
 ,
 
 ,()
@@ -7864,12 +7864,12 @@ Sobhanagamanattā sugatoti.
 
 ;()
 10.
-
+-
 ,
 
 ;()
 11.
-
+-
 ,
 ’
 ;()
@@ -7879,17 +7879,17 @@ Sobhanagamanattā sugatoti.
 
 ;()
 13.
-
+-
 ,
 
 ;()
 14.
-
+-
 ,
 
 ;()
 15.
-’
+’-
 
 ’
 ;()
@@ -7904,17 +7904,17 @@ Sobhanagamanattā sugatoti.
 
 ;()
 18.
-
+-
 ,
 
 ;()
 19.
-
+-
 ,
 
 ;()
 20.
-
+-
 ,
 
 ;()
@@ -7934,17 +7934,17 @@ Sobhanagamanattā sugatoti.
 
 ;()
 24.
-
+-
 ,
 
 ;()
 25.
-
+-
 ,
 
 ;()
 26.
-’
+’-
 ,
 
 ;()
@@ -7976,12 +7976,12 @@ Sobhanagamanattā sugatoti.
 
 (rucirā)’;()
 2.
-
+-
 ’,
 
 ;()
 3.
-
+-
 ,
 ’
 ’;()
@@ -8028,7 +8028,7 @@ Sobhanagamanattā sugatoti.
 12.
 ’
 ,
-
+-
 ;()
 13.
 
@@ -8076,7 +8076,7 @@ Sobhanagamanattā sugatoti.
 ’
 ’;()
 22.
-
+-
 ,
 
 ’;()
@@ -8116,7 +8116,7 @@ Sobhanagamanattā sugatoti.
 
 ’;()
 30.
-’’
+’’-
 ,
 ’
 ’;()
@@ -8191,24 +8191,24 @@ Sobhanagamanattā sugatoti.
 13.
 ’’
 ’,
-’’
+’’-
 ;()
 14.
-’
+’-
 ’,
 ’’’’
 ;()
 .
 .
 1.
-
+-
 (toṭaka)’,
 ’
 ;()
 2.
-
+-
 ,
-’
+’-
 ’;()
 3.
 
@@ -8216,7 +8216,7 @@ Sobhanagamanattā sugatoti.
 ’
 ;()
 4.
-
+-
 ’,
 ’
 ’;()
@@ -8226,14 +8226,14 @@ Sobhanagamanattā sugatoti.
 ’
 ’;()
 6.
-’
+’-
 ’,
 
 ’;()
 7.
-’
+’-
 ,
-
+-
 ’;()
 8.
 
@@ -8247,17 +8247,17 @@ Sobhanagamanattā sugatoti.
 
 ’;()
 10.
-
+-
 ,
 
 ’;()
 11.
-
+-
 ’,
 ’
 ’;()
 12.
-’
+’-
 ’,
 ’’
 ’;()
@@ -8272,7 +8272,7 @@ Sobhanagamanattā sugatoti.
 
 ’;()
 15.
-
+-
 ’’,
 
 ’;()
@@ -8284,25 +8284,25 @@ Sobhanagamanattā sugatoti.
 17.
 
 ,
-
+-
 ’;()
 18.
 
 ,
-’
+’-
 ’;()
 19.
-
+-
 ,
 
 ’;()
 20.
-’
+’-
 ,
 
 ;()
 21.
-
+-
 ,
 
 ’;()
@@ -8312,17 +8312,17 @@ Sobhanagamanattā sugatoti.
 
 ’;()
 23.
-
+-
 ,
 
 ’;
 24.
-
+-
 ,
 
 ’;()
 25.
-
+-
 ,
 
 ;()
@@ -8332,7 +8332,7 @@ Sobhanagamanattā sugatoti.
 
 ;()
 27.
-’
+’-
 ,
 
 ’;()
@@ -8394,17 +8394,17 @@ Athamahāniddesāgatanayo vuccate.
 
 ;()
 39.
-
+-
 ,
 
 ;()
 40.
 
 ,
-’
+’-
 ’;()
 41.
-
+-
 ,
 
 ;()
@@ -8415,10 +8415,10 @@ Athamahāniddesāgatanayo vuccate.
 43.
 
 ,
-’
+’-
 ;()
 44.
-
+-
 ’,
 
 ;()
@@ -8454,7 +8454,7 @@ Athamahāniddesāgatanayo vuccate.
 ;()
 Athaṭīkāgatanayovuccate.
 51.
-
+-
 
 ’
 ’’;()
@@ -8464,12 +8464,12 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 53.
-
+-
 ,
 
 ;()
 54.
-’
+’-
 ,
 
 ;()
@@ -8484,14 +8484,14 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 57.
-
+-
 ,
 ’
 ;()
 58.
 ’
 ,
-
+-
 ’’;()
 59.
 
@@ -8519,7 +8519,7 @@ Athaṭīkāgatanayovuccate.
 ’
 ’;()
 64.
-
+-
 ’,
 
 ;()
@@ -8534,9 +8534,9 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 67.
-
+-
 ,
-
+-
 ;()
 68.
 
@@ -8549,7 +8549,7 @@ Athaṭīkāgatanayovuccate.
 ’
 ;()
 70.
-’
+’-
 ,
 
 ’;()
@@ -8569,17 +8569,17 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 74.
-’
+’-
 ,
 ’
 ’;()
 75.
-
+-
 ,
-?
+?-
 ;()
 76.
-
+-
 ,
 ’
 ;()
@@ -8589,14 +8589,14 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 78.
-’
+’-
 ,
-’
+’-
 ;()
 79.
 
 ’,
-
+-
 ’’;()
 80.
 
@@ -8606,7 +8606,7 @@ Athaṭīkāgatanayovuccate.
 81.
 
 ,
-
+-
 ;()
 82.
 
@@ -8614,12 +8614,12 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 83.
-’
+’-
 ,
-’
+’-
 ;()
 84.
-’’
+’’-
 ,
 
 ;()
@@ -8629,19 +8629,19 @@ Athaṭīkāgatanayovuccate.
 ’
 ’;()
 86.
-
+-
 ’,
 
 ;()
 87.
 
 ’’’,
-
+-
 ;()
 88.
 ’
 ,
-
+-
 ;()
 89.
 ’
@@ -8664,7 +8664,7 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 93.
-’
+’-
 ’,
 ’
 ,()
@@ -8674,7 +8674,7 @@ Athaṭīkāgatanayovuccate.
 
 ;()
 95.
-’
+’-
 ,
 ’
 ’;()
@@ -8686,7 +8686,7 @@ Athaṭīkāgatanayovuccate.
 97.
 
 ,
-’
+’-
 ;()
 98.
 
@@ -8699,7 +8699,7 @@ Athaṭīkāgatanayovuccate.
 ’’
 ;()
 100.
-’
+’-
 ’,
 ’’
 ;()
@@ -8826,7 +8826,7 @@ Sattavīsatimosaggo.
 
 ’;()
 10.
-
+-
 ,
 
 ;()
@@ -8886,7 +8886,7 @@ Sattavīsatimosaggo.
 
 ;()
 22.
-’
+’-
 ’,
 
 ;()
@@ -8896,14 +8896,14 @@ Sattavīsatimosaggo.
 
 ;()
 24.
-
+-
 ,
 
 ’;()
 25.
 
 ’;
-
+-
 ;()
 26.
 
@@ -8921,7 +8921,7 @@ Sattavīsatimosaggo.
 
 ;()
 29.
-’
+’-
 ’’,
 
 ;()
@@ -8936,7 +8936,7 @@ Sattavīsatimosaggo.
 
 ;()
 32.
-
+-
 ,
 ’
 ;()
@@ -8946,7 +8946,7 @@ Sattavīsatimosaggo.
 
 ;()
 34.
-
+-
 ,
 
 ’;()
@@ -8968,7 +8968,7 @@ Sattavīsatimosaggo.
 38.
 
 ,
-
+-
 ;()
 39.
 ’
@@ -8988,7 +8988,7 @@ Sattavīsatimosaggo.
 42.
 
 ’,
-’
+’-
 ;()
 43.
 
@@ -9018,7 +9018,7 @@ Sattavīsatimosaggo.
 48.
 ’’
 ’,
-’
+’-
 ’;()
 49.
 
@@ -9043,7 +9043,7 @@ Sattavīsatimosaggo.
 53.
 
 ,
-
+-
 ;()
 54.
 
@@ -9126,7 +9126,7 @@ Sattavīsatimosaggo.
 
 ’’()
 70.
-’
+’-
 ,
 
 ;()
@@ -9139,7 +9139,7 @@ Sattavīsatimosaggo.
 2.
 ’
 ,
-
+-
 ’;()
 3.
 
@@ -9187,7 +9187,7 @@ Sattavīsatimosaggo.
 ’
 ’’;()
 12.
-’
+’-
 ’’,
 
 ;()
@@ -9340,10 +9340,10 @@ Sattavīsatimosaggo.
 42.
 
 ,
-
+-
 ’;()
 43.
-
+-
 ,
 
 ’;()
@@ -9353,7 +9353,7 @@ Sattavīsatimosaggo.
 
 ()
 45.
-
+-
 ’,
 
 ’’;()
@@ -9380,7 +9380,7 @@ Sattavīsatimosaggo.
 50.
 
 ’,
-
+-
 ’;()
 51.
 
@@ -9428,12 +9428,12 @@ Sattavīsatimosaggo.
 
 ;()
 60.
-
+-
 ’;
 
 ;()
 61.
-’
+’-
 ,
 ’
 ’’’;()
@@ -9448,7 +9448,7 @@ Sattavīsatimosaggo.
 
 ;()
 64.
-’’
+’’-
 ,
 ’
 ’;()
@@ -9503,27 +9503,27 @@ Sattavīsatimosaggo.
 ’’
 ;()
 75.
-
+-
 ’,
 
 ;()
 76.
 
 ,
-
+-
 ’;()
 77.
 
 ,
-
+-
 ;()
 78.
-
+-
 ,
 ’
 ’;()
 79.
-
+-
 ’,
 
 ;()
@@ -9566,7 +9566,7 @@ Sattavīsatimosaggo.
 4.
 
 ’,
-’
+’-
 ;()
 5.
 
@@ -9579,7 +9579,7 @@ Sattavīsatimosaggo.
 ’’
 ;()
 7.
-
+-
 ,
 
 ;()
@@ -9604,7 +9604,7 @@ Sattavīsatimosaggo.
 
 ’;()
 12.
-
+-
 ,
 
 ;()
@@ -9619,7 +9619,7 @@ Sattavīsatimosaggo.
 
 ;()
 15.
-
+-
 ,
 ’
 ;()
@@ -9649,7 +9649,7 @@ Sattavīsatimosaggo.
 
 ;()
 21.
-’
+’-
 ,
 
 ;()
@@ -9659,7 +9659,7 @@ Sattavīsatimosaggo.
 ’
 ;()
 23.
-’
+’-
 ,
 ’
 ’;()
@@ -9669,7 +9669,7 @@ Sattavīsatimosaggo.
 ’
 ’’’;()
 25.
-
+-
 ,
 
 ;()
@@ -9696,12 +9696,12 @@ Sattavīsatimosaggo.
 30.
 
 
-
+-
 ;()
 31.
 
 ,
-
+-
 ;()
 32.
 
@@ -9714,7 +9714,7 @@ Sattavīsatimosaggo.
 
 ;()
 34.
-
+-
 ,
 
 ;()
@@ -9726,7 +9726,7 @@ Sattavīsatimosaggo.
 36.
 
 ,
-’
+’-
 ;()
 37.
 
@@ -9734,7 +9734,7 @@ Sattavīsatimosaggo.
 
 ’;()
 38.
-
+-
 ’,
 ’
 ;()
@@ -9754,12 +9754,12 @@ Sattavīsatimosaggo.
 ’
 ;()
 42.
-
+-
 ,
 
 ;()
 43.
-
+-
 ’,
 
 ;()
@@ -9776,12 +9776,12 @@ Sattavīsatimosaggo.
 46.
 
 ,
-
+-
 ;()
 47.
 ’
 ,
-
+-
 ;()
 48.
 
@@ -9791,7 +9791,7 @@ Sattavīsatimosaggo.
 49.
 
 ,
-
+-
 ;()
 50.
 ’
@@ -9804,22 +9804,22 @@ Sattavīsatimosaggo.
 
 ;()
 52.
-’
+’-
 
 
 ;()
 53.
-
+-
 ’,
 
 ’;()
 54.
-
+-
 ,
 
 ;()
 55.
-’
+’-
 ,
 ’
 ;()
@@ -9831,7 +9831,7 @@ Sattavīsatimosaggo.
 57.
 
 ’,
-
+-
 ;()
 58.
 
@@ -9849,29 +9849,29 @@ Sattavīsatimosaggo.
 
 ;()
 61.
-
+-
 ,
-
+-
 ;()
 62.
-’
+’-
 ,
 ’
 ;()
 63.
-
+-
 ,
-
+-
 ;()
 64.
 
 ,
-’
+’-
 ;()
 65.
 
 ,
-
+-
 ’;()
 66.
 
@@ -9884,17 +9884,17 @@ Sattavīsatimosaggo.
 
 ;()
 68.
-’
+’-
 ,
 
 ;()
 69.
-
+-
 ,
-
+-
 ;()
 70.
-’
+’-
 ,
 
 ;()

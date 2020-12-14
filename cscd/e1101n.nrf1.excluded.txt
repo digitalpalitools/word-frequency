@@ -341,7 +341,7 @@ Tiṇṇaṃ janānaṃ vatthuṃ tatiyaṃ.
 ;
 ,
 .
-,,,,.,,,..
+-,,,,.,,,..
 4.
 ,;
 ,.
@@ -519,7 +519,7 @@ Vessāmittāpa vatthuṃ sattamaṃ.
 2.
 ,;
 ,.
-..,,...,....,.,.,..,,...,..,.....,,,,,..,..
+..,,...,....,.,.,..,-,...,..,.....,,,,,..,..
 3.
 ,;
 ,.
@@ -577,7 +577,7 @@ Mahāmandhātuvatthuṃ aṭṭhamaṃ.
 .
 Buddhavammavāṇijakassa vatthuṃ navamaṃ.
 10. Rūpadeviyā vatthumhi ayamānupubbīkathā
-.,.....,...,....,,.,,,.,.,.
+.,.....,...,....-,,.,,,.,.,.
 1.
 ,
 ;

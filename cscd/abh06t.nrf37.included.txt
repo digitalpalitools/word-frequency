@@ -16,7 +16,7 @@ klesahānī yathāyogaṃ catasso paṭisambhidā
  tividhā  ca samāpatti nirodhā ca tathāparā
 nissandaphalamiccāhu tassā sāsanakovidā
 
- vipassanābhāvanāya-miti bhāsanti paṇḍitā
+ vipassanābhāvanāyamiti bhāsanti paṇḍitā
 tamidāni pavakkhāmi yathānukkamato kathaṃ
 
  bhūmidhamme  pariggayha vicinantassa yogino
@@ -34,7 +34,7 @@ pariññātīraṇā nāma dutiyā bhūmi bhāsitā
  pahānapariññā bhūmi tatiyāhu tatoparaṃ
 bhaṅgādiñāṇamiccevaṃ tividhā  matā
 
- khaṇasantatiaddhāna-vasenettha samīritā
+ khaṇasantatiaddhānavasenettha samīritā
 aniccā dukkhānattāti tividhā
 
  diṭṭhikaṅkhāvitaraṇā maggāmaggapaṭippadā
@@ -86,7 +86,7 @@ maggāmaggavisuddhīti ñāṇadassanamīritaṃ
 pahātumīhamānānaṃ niyyānapaṭipattito
 
  upaklesavisuddho hi punadevodayabbayaṃ
-adhiṭṭhahitvā bhaṅgādi-ñāṇehi paṭipajjati
+adhiṭṭhahitvā bhaṅgādiñāṇehi paṭipajjati
 
  tathā  cābhinavuppanne bhijjamāne vipassato
 saṃvegakaḍḍhitaṃ ñāṇaṃ bhaṅgādimanutiṭṭhati
@@ -101,7 +101,7 @@ aniccā dukkhānattāti bhāveyya tividhā kathaṃ
 aniccā ca pabhaṅgū ca palujjanti cavanti ca
 
  addhuvā ca asārā ca vibhavā ca vināsino
-saṅkhatā vipariṇāma-dhammā ittarakālikā
+saṅkhatā vipariṇāmadhammā ittarakālikā
 
  khayadhammā vayadhammā lahukālappavattino
 tāvakālikadhammā ca parittaṭṭhitikā tathā
@@ -115,7 +115,7 @@ jiyyamānāva tiṭṭhanti jiṇṇā bhaṅgaparāyaṇā
  ahutvāyevuppajjanti na kutocipi āgatā
 hutvā antaradhāyanti na tu katthaci sañcitā
 
- taṃ taṃ paccayasāmaggi-mattalābhāya nissitā
+ taṃ taṃ paccayasāmaggimattalābhāya nissitā
 nirodhadhammā jāyanti jātā byanti bhavanti te
 
  yathā nadī pabbateyyā yathā dīpasikhā tathā
@@ -135,7 +135,7 @@ sāsavādīnavītitā
 aleṇāsaraṇātāṇā
 vadhakā mārakāmisā
 
- jātidhammā jarābyādhi-
+ jātidhammā jarābyādhi
 sokopāyāsabhāgino
 paridevasabhāvā ca
 saṃklesā dukkhabhāgino
@@ -164,7 +164,7 @@ iriyāpathasañchannā nopatiṭṭhanti dukkhato
  saṅkhāresu  panetesu vedanāssādarodhino
 sāva sandulasambaddhā sammohaparivāritā
 
- aduṃ dukkhamidaṃ dukkha-miti saṃsāracārino
+ aduṃ dukkhamidaṃ dukkhamiti saṃsāracārino
 dukkhahetumajānantā sambhamanti aviddasu
 
  sukhākāramapassantā dukkhabhāranipīḷitā
@@ -185,7 +185,7 @@ anattāsassatantā ca īhābhogavivajjitā
  payojanamadhiṭṭhāya na tu byāpārayanti ca
 paccayapaccayuppannā janetuṃ vātha jāyituṃ
 
- tathāpi hetusāmaggi-sambhave sambhavanti te
+ tathāpi hetusāmaggisambhave sambhavanti te
 tabbhāvabhāvibhāvena aññamaññapavattitā
 
  ajāyituṃ na sakkonti sati paccayasambhave
@@ -359,7 +359,7 @@ jahatāyūhanaṃ tattha putte sūtipajā viya
  anavattitabhāvānaṃ aññathattaṃ vipassato
 vikārapariṇāmesu dhuvasaññā virajjati
 
- ālambañca tadālamba-ñāṇabhaṅgañca bhāvayaṃ
+ ālambañca tadālambañāṇabhaṅgañca bhāvayaṃ
 sārādānābhinivesaṃ adhipaññāya muccati
 
  iccāniccānimittā ca nirodhā ca khayā vayā

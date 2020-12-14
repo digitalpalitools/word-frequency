@@ -2,7 +2,7 @@
 Mahā thūpasādhana lābho
 1.
 ,;
-.
+-.
 2.
 ,;
 ,.
@@ -49,7 +49,7 @@ Mahā thūpasādhana lābho
 ,;
 ,.
 17.
-;
+-;
 ,.
 18.
 ,;
@@ -127,7 +127,7 @@ Mahā thūpasādhana lābho
 ‘‘,’’.
 42.
 ;
-’.
+-’.
 43.
 ,;
 ,.

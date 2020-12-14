@@ -33,14 +33,14 @@ bhayamantarato jātaṃ taṃ jano nāvabujjhati
  khuradhāraṃ lihantāva gilantāva hutāsanaṃ
 tittalābuṃva khādantā gaṇhantādittamāyudhaṃ
 
- byāpādamattasambhava-mattaghaññāya  kevalaṃ
+ byāpādamattasambhavamattaghaññāya  kevalaṃ
 upalāḷenti dummedhā ghoramāsīvisaṃ yathā
 
  dosatejena rukkhova susirāruḷhapāvako
 antonudayhamānāpi vipphandanti vighātino
 
  nāvabujjhanti dummedhā cetosaṅkappavāyunā
-ukkāmukhāmivāditta-mujjalantā punappunaṃ
+ukkāmukhāmivādittamujjalantā punappunaṃ
 
  bhayamaggasamāruḷhā khemamaggavirodhino
 byāpannā kibbisākiṇṇā atthadvayavirodhino
@@ -54,7 +54,7 @@ khippaṃ lakkhiṃ pariccattā yasobhogehi dhaṃsare
  duppaṭippāditārambhā kodhasaṅkhobhamohitā
 dhammāmatarasassādaṃ na vindanti aviddasu
 
- bahvādīnavamicceva-manto byādhimivuṭṭhitaṃ
+ bahvādīnavamiccevamanto byādhimivuṭṭhitaṃ
 jātānalamivucchaṅge ajjhupekkhanti dujjanā
 
  codayamānā dukkhehi klesāciṇṇamalīmahā
@@ -64,7 +64,7 @@ pāpakammehi pūrentā senti maccupathe ciraṃ
 vāḷamigaṃva dhāvantaṃ āvisantaṃva rakkhasaṃ
 
  pāvakaṃva  paribyuḷhaṃ bhāyamānassa yogino
-sotthibhāvāya khemanta-mupaññattaṃ mahesinā
+sotthibhāvāya khemantamupaññattaṃ mahesinā
 
  mātā kalyāṇadhammānaṃ khamā nāma mahiddhikā
 samappavatti sattesu sabbasampattisādhikā
@@ -75,10 +75,10 @@ sokopāyāsanāsanaṃ
 upanāhavimocanaṃ
 
  vaṇṇakittisamuṭṭhānaṃ guṇamūlābhisevanaṃ
-apārutamukhaṃveta-matthadvayasamiddhiyā
+apārutamukhaṃvetamatthadvayasamiddhiyā
 
- vighātapariyādāna-māsavānamasesato
-paṭipassambhanaṃ ceto-pītikaraṇacandanaṃ
+ vighātapariyādānamāsavānamasesato
+paṭipassambhanaṃ cetopītikaraṇacandanaṃ
 
  sabbadukkhasamugghāti sukhupaṭṭhānamuttamaṃ
 byasanodayavicchedo bhayabheravaniggamo
@@ -92,17 +92,17 @@ dvārāvāpuraṇañcetaṃ devalokūpapattiyā
  paññāsīlasamādhānaṃ paṭipattivisodhano
 piyaṅkaro sommabhāvo dullabho bahupatthito
 
- klesasaṅkhobhavikkhepa-vipphandapaṭibandhanaṃ
-titikkhāguṇamakkhāta-mārakkhavidhimattano
+ klesasaṅkhobhavikkhepavipphandapaṭibandhanaṃ
+titikkhāguṇamakkhātamārakkhavidhimattano
 
- vihiṃsāratisārambha-paṭirodhavimocanaṃ
+ vihiṃsāratisārambhapaṭirodhavimocanaṃ
 verikibbisaviddhaṃsī lokānuggahakāraṇaṃ
 
  dhammapajjotakaraṇaṃ  saṃyogamalasodhanaṃ
 sammohatimiruddhāri sampattipaṭipādanaṃ
 
  iccattatthaṃ paratthañca sampādetvā khamāparo
-sādheti sabbasampatti-midha ceva parattha ca
+sādheti sabbasampattimidha ceva parattha ca
 
  titikkhāguṇasampanno  pāṇabhūtānukampako
 anākulitakammanto sorato sakhilo suci
@@ -140,7 +140,7 @@ modantu suhitā sabbe mā kiñci pāpamāgamā
 guṇabhūsitasantānā āyuṃ pālentanāmayaṃ
 
  sammādiṭṭhiṃ  purodhāya saddhammapaṭipattiyā
-ārādhentu hitopāya-maccantaṃ sukhasādhanaṃ
+ārādhentu hitopāyamaccantaṃ sukhasādhanaṃ
 
  iti nānappakārena sattesu hitamānasaṃ
 mātāva piyaputtamhi pavatteyya nirantaraṃ
@@ -157,7 +157,7 @@ sattapaññattimārabbha samādhiyati mānasaṃ
  tato anīgho ekaggo upasantamanoratho
 jhānattikaṃ catukkaṃ vā mettācetovimuttiyā
 
- bhūmidesadisāsatta-bhedabhinnesu odhiso
+ bhūmidesadisāsattabhedabhinnesu odhiso
 yathāsambhavamappeti sabbasattesvanodhiso
 
  tadevamekasattamhi paricchedaniyāmato
@@ -165,10 +165,10 @@ bahukesu ca sattesu sabbesu ca pavattati
 
  tathāsevitasantāno
 mettācetovimuttiyā
-yoga-
+yoga
 mārabheyya tato paraṃ
 
- sattānaṃ  dukkhitākāra-māvajjitvāna yoniso
+ sattānaṃ  dukkhitākāramāvajjitvāna yoniso
 aho dukkhā vimuccantu sabbe sattāti cintayaṃ
 
  kathaṃ māṇavakoyañca bhayabheravakampito
@@ -309,7 +309,7 @@ apakkhapātupekkhāya samaṃ pharati yoniso
  aññāṇupekkhā nikkhanto anurodhaṃ virājiya
 mettāyamiva pāpeti pañcamajjhānamappanaṃ
 
- appamaññā  catasseva-mācikkhi vadataṃ varo
+ appamaññā  catassevamācikkhi vadataṃ varo
 mahāpurisadhorayho hitakāmo mahāmuni
 
  na liṅgavisabhāgamhi ādikammikayoginā
@@ -396,7 +396,7 @@ sovaggikā sukhāhārā lokārakkhā niruttarā
 appamaññā tato tāsu na pamajjeyya paṇḍito
 
  paṭikkūlaṃ  panāhāre bhāvento saññamuttamaṃ
-kabaḷīkāramāhāra-mannapānādisaṅgahaṃ
+kabaḷīkāramāhāramannapānādisaṅgahaṃ
 
  asitaṃ khāyitaṃ pītaṃ sāyitañca rahogato
 paṭikkūlanti cinteyya gamanādivasā kathaṃ
@@ -425,7 +425,7 @@ vaḍḍheti kesalomādiṃ nānākuṇapasañcayaṃ
  vipaccantamathopetamanekopaddavāvahaṃ
 kuṭṭhagaṇḍakilāsādimahābyādhisatodayaṃ
 
- pūtibhūtañca taṃ pakka-manekadvārasañcitaṃ
+ pūtibhūtañca taṃ pakkamanekadvārasañcitaṃ
 medapiṇḍaṃva kuthitaṃ parissavati santataṃ
 
  yena pūtigato kāyo niccaṃ duggandhavāyiko
@@ -448,15 +448,15 @@ kliṭṭhakammāni dummedhā karontā dukkhabhāgino
  tattha cittavirāgāya kiṃ pakkaphalasannibhe
 rasassādapiyākāre ghorādīnavasañcite
 
- bhāventassa paṭikkūla-saññamevaṃ vibhāvino
+ bhāventassa paṭikkūlasaññamevaṃ vibhāvino
 upacārapathaṃ patvā cittaṃ hoti samāhitaṃ
 
- soyaṃ  passambhitāhāra-
+ soyaṃ  passambhitāhāra
 visado so vicakkhaṇo
 madappamādanikkhanto
 rasassādanirālayo
 
- limpento viya bhesajja-makkharabbhañjako yathā
+ limpento viya bhesajjamakkharabbhañjako yathā
 puttamaṃsaṃva khādanto āhāraṃ paribhuñjati
 
  ariyavaṃsānupajāto
@@ -560,13 +560,13 @@ mappeti ākāsānantagocare
 āsannarūpāvacarajjhānapaccatthikanti taṃ
 
  nikantiṃ pariyādāya tamhā ākāsagocarā
-appetuṃ dutiyāruppa-matisantanti gacchati
+appetuṃ dutiyāruppamatisantanti gacchati
 
- paṭhamāruppaviññāṇa-manantaṃ pharato tato
+ paṭhamāruppaviññāṇamanantaṃ pharato tato
 mappeti viññāṇānantagocare
 
- paṭhamāruppaviññāṇa-mabhāvento tato paraṃ
-appeti -mākiñcaññamhi gocare
+ paṭhamāruppaviññāṇamabhāvento tato paraṃ
+appeti mākiñcaññamhi gocare
 
  tato ca tatiyāruppaṃ santametanti passato
 mappeti tatiyāruppagocare

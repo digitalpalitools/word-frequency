@@ -401,7 +401,7 @@ Sīlavaggo dutiyo.
 .
 Ñātametaṃkuruṅgassā.‘‘,,,’’.‘‘,,’’.,.‘‘,,,,’’.
 ....‘‘’’‘‘,’’.
-.‘‘,’’‘‘,,,’’–
+.‘‘,’’‘‘,-,,’’–
 21.
 ‘‘,;
 ,’’.
@@ -508,7 +508,7 @@ Manuññamevabhāseyyā.,..‘‘’’‘‘’’‘‘,,’’.
 ‘‘,;
 ,;
 ,’’.
-manuññameva bhāseyyā.Garuṃ bhāraṃ udaddharī,,.
+manuññameva bhāseyyā.Garuṃ bhāraṃ udaddharī,,-.
 ‘‘’’–‘‘,’’.
 Nandivisālajātakavaṇṇanā aṭṭhamā.
 
@@ -563,7 +563,7 @@ kulāvakā.Mātalī.Simbalismi.Īsāmukhena parivajjayassū,.Kāmaṃ cajāma as
 ..‘‘’’..–
 ‘‘,;
 ,’’.(saṃ. ni. aṭṭha. 1.1.247);
-.,.,...uraga.,.Karoṭi.,,.Payassahāri.,.Madanayuta.,.Caturo ca mahantā,.,,..
+.,.,...uraga-.,.Karoṭi-.,,.Payassahāri-.,.Madanayuta-.,.Caturo ca mahantā,.,,..
 ,,.,.,.
 .‘‘,’’‘‘,,’’..‘‘’’,‘‘’’,,‘‘’’.‘‘,’’..
 ‘‘’’‘‘,’’.‘‘,’’.‘‘,’’?‘‘,’’.‘‘,’’.‘‘’’.‘‘’’‘‘,’’.‘‘,’’?‘‘,’’.‘‘’’.
@@ -578,7 +578,7 @@ Rudaṃ manuñña.devadhammajātake(jā. 1.1.6).‘‘’’.‘‘,’’.‘�
 32.
 ‘‘,;
 ,’’.
-rudaṃ manuñña,,.Rucirā ca piṭṭhī.Veḷuriyavaṇṇūpanibhā.Byāmamattānī.Pekhuṇānī.Naccena te dhītaraṃ no dadāmī...
+rudaṃ manuñña--,,.Rucirā ca piṭṭhī.Veḷuriyavaṇṇūpanibhā.Byāmamattānī.Pekhuṇānī.Naccena te dhītaraṃ no dadāmī...
 ‘‘,,,’’–‘‘,’’.
 Naccajātakavaṇṇanā dutiyā.
 
@@ -1047,7 +1047,7 @@ Māsu nandi icchati ma.,,,.,,.,.–‘‘,,’’.,,,.,.‘‘,‘’,’’.
 64.
 ‘‘,;
 ,’’.
-mā su nandi icchati masu,‘‘,’’.Mā su soci na micchatī‘‘’’,,.Thīnaṃ bhāvo durājāno.?Macchassevodake gata,,,‘‘’’.,.
+mā su nandi icchati masu-,‘‘,’’.Mā su soci na micchatī‘‘’’,,.Thīnaṃ bhāvo durājāno.?Macchassevodake gata,,,‘‘’’.,.
 ..‘‘’’.‘‘’’.
 ,,–‘‘,’’.
 Durājānajātakavaṇṇanā catutthā.
@@ -1208,7 +1208,7 @@ Abhitthanayapajjunnā.,,...
 75.
 ‘‘,;
 ,’’.
-abhitthanaya pajjunnā,.–,.Nidhiṃ kākassa nāsayā,‘‘’’,.Kākaṃ sokāya randhehī,,.,,mañca sokā pamocayāca,.
+abhitthanaya pajjunnā,.–,.Nidhiṃ kākassa nāsayā,‘‘’’,.Kākaṃ sokāya randhehī,,.,,mañca sokā pamocayāca-,.
 .
 ‘‘,,,’’–‘‘,,’’.
 Macchajātakavaṇṇanā pañcamā.
@@ -1375,7 +1375,7 @@ Kāḷakaṇṇijātakavaṇṇanā tatiyā.
 84.
 ‘‘,;
 ,’’.
-ārogyamicche paramañca lābha.,..,,.,.,,,...Sīlañcā..Vuddhānumata..Sutañcā..Dhammānuvattī cā..Alīnatā cā..Atthassa dvārā pamukhā chaḷete,.
+ārogyamicche paramañca lābha-.,..,,.,.,,,...Sīlañcā..Vuddhānumata..Sutañcā..Dhammānuvattī cā..Alīnatā cā..Atthassa dvārā pamukhā chaḷete,.
 ...
 –‘‘,’’.
 Atthassadvārajātakavaṇṇanā catutthā.
@@ -1588,7 +1588,7 @@ Jīvakañcamataṃ disvā..‘‘,,,’’‘‘,’’.‘‘,,’’.–‘‘
 97.
 ‘‘,;
 ,’’.
-punarāgato,.
+punarāgato,-.
 ‘‘,,,’’–‘‘,,’’.
 Nāmasiddhijātakavaṇṇanā sattamā.
 
@@ -1825,7 +1825,7 @@ Vaṭṭajātakavaṇṇanā aṭṭhamā.
 Amātāpitarasaṃvaddho..‘‘,,,’’,,.‘‘,’’.‘‘,,’’‘‘’’‘‘,,,,’’.
 .,....‘‘’’,.,..‘‘,’’‘‘’’.‘‘’’–
 119.
-‘‘,;
+‘‘-,;
 ,’’.
 amātāpitarasaṃvaddho.Anācerakule vasa,.Nāyaṃ kālaṃ akālaṃ vā‘‘,’’,..
 –‘‘,,’’.
@@ -2207,7 +2207,7 @@ Nāhaṃpunaṃ na ca puna....‘‘’’.,.,.‘‘,’’.‘‘’’.‘‘
 148.
 ‘‘,;
 ,’’.
-na cāpi apunappuna.–,hatthibondiṃ na pavekkhāmi.?Tathā hi bhayatajjito,.
+na cāpi apunappuna-.–,hatthibondiṃ na pavekkhāmi.?Tathā hi bhayatajjito,.
 ..
 ‘‘,’’.,,,..
 Siṅgālajātakavaṇṇanā aṭṭhamā.

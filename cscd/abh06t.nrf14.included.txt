@@ -57,10 +57,10 @@ saddhābuddhivitakkānaṃ vasena chabbidhaṃ mataṃ
 tehi attho na catthīti na mayā idha dassitā
 
  asubhā  ca dasevettha tathā kāyagatāsati
-ekādasa ime rāga-caritassānukūlatā
+ekādasa ime rāgacaritassānukūlatā
 
  catasso appamaññāyo savaṇṇakasiṇā ime
-aṭṭheva ca sadā dosa-caritassānukūlatā
+aṭṭheva ca sadā dosacaritassānukūlatā
 
  taṃ mohacaritassettha vitakkacaritassa ca
 anukūlanti niddiṭṭhaṃ ānāpānaṃ panekakaṃ
@@ -72,10 +72,10 @@ maraṇūpasamāyuttā satimāhāranissitā
 ime pana ca cattāro anukūlāti dīpitā
 
  cattāropi ca āruppā sesāni kasiṇāni ca
-anukūlā ime sabba-caritānanti vaṇṇitā
+anukūlā ime sabbacaritānanti vaṇṇitā
 
- idaṃ sabbaṃ panekanta-vipaccanīkabhāvato
-atisappāyato vutta-miti ñeyyaṃ vibhāvinā
+ idaṃ sabbaṃ panekantavipaccanīkabhāvato
+atisappāyato vuttamiti ñeyyaṃ vibhāvinā
 
  kammaṭṭhānāni sabbāni cattālīsāti niddise
 kasiṇāni dasa ceva asubhānussatī dasa
@@ -84,7 +84,7 @@ kasiṇāni dasa ceva asubhānussatī dasa
 catudhātuvavatthānaṃ saññā cāhāratā iti
 
  kammaṭṭhānesu etesu upacāravahā kati
-ānāpānasatiṃ kāya-gataṃ hitvā panaṭṭhapi
+ānāpānasatiṃ kāyagataṃ hitvā panaṭṭhapi
 
  sesānussatiyo saññā vavatthānanti terasa
 upacāravahā vuttā sesā te appanāvahā
@@ -108,9 +108,9 @@ na ca vaḍḍhaniyā sesā bhavanti asubhādayo
 ānāpānasatī ceva tathā kāyagatāsati
 
  paṭibhāganimittāni  honti ārammaṇāni hi
-sesāneva paṭibhāga-nimittārammaṇā siyuṃ
+sesāneva paṭibhāganimittārammaṇā siyuṃ
 
- asubhāni dasāhāra-saññā kāyagatāsati
+ asubhāni dasāhārasaññā kāyagatāsati
 devesu nappavattanti dvādasetāni sabbadā
 
  tāni dvādasa cetāni ānāpānasatīpi ca
@@ -144,7 +144,7 @@ tayo brahmavihārāpi catukkassa bhavanti tu
 tathā catutthamāruppaṃ nirodhassāti dīpitaṃ
 
  sabbāni ca panetāni cattālīsavidhāni tu
-vipassanābhavasampatti-sukhānaṃ paccayā siyuṃ
+vipassanābhavasampattisukhānaṃ paccayā siyuṃ
 
  kammaṭṭhānaṃ  gahetvāna ācariyassa santike
 vasantassa kathetabbaṃ āgatassāgatakkhaṇe
@@ -222,7 +222,7 @@ yāvuggahanimittaṃ tu nuppajjati ca tāva so
 yadā pana nimīletvā āvajjantassa yogino
 
  yathā ummīlitekāle tathāpāthaṃ tu yāti ce
-taduggahanimittaṃ ta-muppannanti pavuccati
+taduggahanimittaṃ tamuppannanti pavuccati
 
  nimitte  pana sañjāte tato pabhuti yoginā
 nisīditabbaṃ no cevaṃ tasmiṃ ṭhāne vijānatā
@@ -252,7 +252,7 @@ vikkhambhanti ca sabbāni pañca nīvaraṇānipi
 paṭibhāganimittampi uppajjati ca yogino
 
  ko panāyaṃ viseso hi imassa purimassa vā
-thavikā nīhatādāsa-maṇḍalaṃ viya majjitaṃ
+thavikā nīhatādāsamaṇḍalaṃ viya majjitaṃ
 
  meghato viya nikkhantaṃ sampuṇṇacandamaṇḍalaṃ
 paṭibhāganimittaṃ taṃ balākā viya toyade
@@ -304,7 +304,7 @@ na cireneva kālena hoti bhikkhussa appanā
  yassappanā na hoteva evampi paṭipajjato
 appanāya ca kosallaṃ sammā sampādaye budho
 
- appanāya hi kosalla-midaṃ dasavidhaṃ idha
+ appanāya hi kosallamidaṃ dasavidhaṃ idha
 ganthavitthārabhītena mayā vissajjitanti ca
 
  evañhi  sampādayato appanākosallaṃ pana
@@ -320,7 +320,7 @@ samataṃ vīriyasseva yojayetha punappunaṃ
 accāraddhaṃ nisedhetvā samameva pavattaye
 
  līnatuddhatabhāvehi mocayitvāna mānasaṃ
-paṭibhāganimittābhi-mukhaṃ taṃ paṭipādaye
+paṭibhāganimittābhimukhaṃ taṃ paṭipādaye
 
  evaṃ nimittābhimukhaṃ paṭipādayato pana
 idānevappanā tassa sā samijjhissatīti ca
@@ -367,7 +367,7 @@ na sakkotīti appetuṃ veditabbaṃ vibhāvinā
 tato bhavaṅgapātova hotīti paridīpitaṃ
 
  tato bhavaṅgaṃ chinditvā paccavekkhaṇahetukaṃ
-āvajjanaṃ tato jhāna-paccavekkhaṇamānasaṃ
+āvajjanaṃ tato jhānapaccavekkhaṇamānasaṃ
 
  kāmacchando  ca byāpādo thinamiddhañca uddhato
 kukkuccaṃ vicikicchā ca pahīnā pañcime pana
@@ -388,7 +388,7 @@ byāpādassa tato pīti paṭipakkhāti bhāsitā
 vitakko thinamiddhassa paṭipakkhoti vaṇṇito
 
  avūpasantabhāvassa sayañcevātisantato
-sukhaṃ uddhaccakukkucca-dvayassa paṭipakkhakaṃ
+sukhaṃ uddhaccakukkuccadvayassa paṭipakkhakaṃ
 
  matiyā anurūpattā anumajjanalakkhaṇo
 vicāro vicikicchāya paṭipakkhoti dīpito
@@ -460,7 +460,7 @@ sesamaṅgattayaṃ tassa santamevopatiṭṭhati
 santaṅgapaṭilābhāya nimittaṃ tu tadeva ca
 
  pathavī pathaviccevaṃ karoto manasā puna
-idāni dutiyajjhāna-muppajjissati taṃ iti
+idāni dutiyajjhānamuppajjissati taṃ iti
 
  bhavaṅgaṃ pana pacchijja pathavīkasiṇaṃ pana
 tadevārammaṇaṃ katvā manodvāramhi yogino
@@ -502,7 +502,7 @@ thūlato pītupaṭṭhāti sukhādi santato pana
 santaṅgapaṭilābhāya nimittaṃ tu tadeva ca
 
  pathavī pathaviccevaṃ karoto manasā puna
-idāni tatiyaṃ jhāna-muppajjissati taṃ iti
+idāni tatiyaṃ jhānamuppajjissati taṃ iti
 
  bhavaṅgaṃ manupacchijja pathavīkasiṇaṃ pana
 tadevārammaṇaṃ katvā manodvāramhi yogino
@@ -580,6 +580,6 @@ paṭhamaṃ paṭhamaṃyeva ayamettha visesatā
 nātivitthārato cāyaṃ rūpāvacarabhāvanā
 
  sumadhuravarataravacano kaṃ nu janaṃ neva rañjayati
-atinisitavisadabuddhi-pasādajana vedanīyoyaṃ
+atinisitavisadabuddhipasādajana vedanīyoyaṃ
 
 

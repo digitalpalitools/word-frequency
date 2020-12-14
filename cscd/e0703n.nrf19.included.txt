@@ -52,7 +52,7 @@ sapabbatavihāresu sā mahindaguhā ahu
  mahāvihāraṃ paṭhamaṃ dutiyaṃ cetiyavhayaṃ
 thūpārāmaṃ tu tatiyaṃ thūpapubbaṅgamaṃ subhaṃ
 
- catutthaṃ tu mahābodhi-patiṭṭhāpanameva ca
+ catutthaṃ tu mahābodhipatiṭṭhāpanameva ca
 thūpaṭhānīyabhūtassa pañcamaṃ pana sādhukaṃ
 
  mahācetiyaṭhānamhi silāthūpassa cāruno
@@ -73,7 +73,7 @@ sabbupakaraṇūpetaṃ sampattaparicārikaṃ
  tathā bhikkhusahassassa saparikkhāramuttamaṃ
 pavāraṇāya dānañca anuvassakameva ca
 
- nāgadīpe jambukola-vihāraṃ ta mhipaṭṭane
+ nāgadīpe jambukolavihāraṃ ta mhipaṭṭane
 tissamahāvihārañca pācīnārāma meva ca
 
  iti etāni kammāni laṃkājanahitatthiko
@@ -139,7 +139,7 @@ cetiyañcettha kāresi gāhā petvāna dhātuyo
  upaḍḍhadhātuṃ  gāhetvā cetiye pabbatepi ca
 sabbesu ca vihāresu thūpe kāresi khattiyo
 
- isino dehanikkhepa-kataṭhānañhi tassa taṃ
+ isino dehanikkhepakataṭhānañhi tassa taṃ
 vuccate bahumānena isibhūmaṅganaṃ iti
 
  tato pabhutyariyānaṃ samantā yojanattaye
@@ -155,7 +155,7 @@ vassamhi navame kheme hatthāḷhakaupassaye
 therassa viya sattāhaṃ pūjāsakkāra muttamaṃ
 
  sabbā alaṅkatā laṃkā therassa viya āsi ca
-kūṭāgāragataṃ theri-dehaṃ sattadinaccaye
+kūṭāgāragataṃ theridehaṃ sattadinaccaye
 
  nikkhāmetvāna nagaraṃ thūparāma puratthato
 cittasālā samīpamhi mahābodhipa dassaye

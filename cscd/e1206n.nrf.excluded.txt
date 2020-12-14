@@ -39,7 +39,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 9.‘‘.,’’.
 10.‘‘.‘‘’’.
 11...
-12.?,,,,,,.
+12.?-,,,,,,.
 13.
 ,
 ;
@@ -197,7 +197,7 @@ Iti rajjābhiseka paricchedo catuttho.
 .
 .
 Iti pāramitāsiṃsana paricchedo pañcamo.
-56.
+56.-
 ,
 ;
 ,
@@ -297,7 +297,7 @@ Iti abhinikkhamanaparicchedo sattamo.
 .
 .
 92..‘‘’’,’’.
-
+-
 93.
 ,
 ;
@@ -308,7 +308,7 @@ Iti abhinikkhamanaparicchedo sattamo.
 ,
 ;
 ,
-
+-
 ‘‘,’’.‘‘’’.
 95.‘‘’’.,’’.,.
 96.

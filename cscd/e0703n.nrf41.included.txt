@@ -41,7 +41,7 @@ rājā dvisvāti nibinno yāva mando na hessati
 saddhiṃ puttena āruyha hatthiṃsannaddhavāhano
 
  thokeneva balenāgā pācinatissapabbataṃ
-evaṃ ubhayato cūḷa-saṅgāme paccupaṭṭhite
+evaṃ ubhayato cūḷasaṅgāme paccupaṭṭhite
 
  senāpatisamittaddu yuddhamārabhi pacchato
 putto disvā narindassa ghātessāmi imaṃ iti
@@ -61,10 +61,10 @@ so taṃ ussāpayichattaṃ ṭhatvāpabbatamuddhani
  tadā rājabalaṃ rājā nunamesoti cintiya
 gantvā taṃ parivāresi rājā āsi tadekako
 
- hatthikkhandhā tadoruyha-puttaṃmaccañca sohadaṃ
+ hatthikkhandhā tadoruyhaputtaṃmaccañca sohadaṃ
 upāvisi samīpamhi merumajjarakānanaṃ
 
- moggallāno tato laddha-jayo vāhanamādiya
+ moggallāno tato laddhajayo vāhanamādiya
 senāpatiṃca mittadduṃ tassa puttañca pāpinaṃ
 
  upāgamma puraṃ rājā āsī laṅkā talādhipo
@@ -98,7 +98,7 @@ sāsanaṃ tassa pesesuṃ rājā sutvā visesato
 tato sīhagiriṃnetvā tissaṅkaṃ nirupaddavaṃ
 
  sīsaṃ gaṇhatha tattheva rañño ca tanayassa ca
-amaccaṃ pana jīvanta-māneyyātha mamantikaṃ
+amaccaṃ pana jīvantamāneyyātha mamantikaṃ
 
  manussā evamāṇattā te gahetvā tayojane
 netvā sīhagiriṃkātuṃ yathāvuttamupakkamuṃ
@@ -151,7 +151,7 @@ loṇakkhettañca pādāsi saṅghassa tisatādhikaṃ
  kārapiṭṭhimhi kāresi moggallāna vihārakaṃ
 vihārā piṭṭhigāmañca sagāmaṃ vaṭagāmakaṃ
 
- tathā cetiyagehañca-kāsi rakkhavihārake
+ tathā cetiyagehañcakāsi rakkhavihārake
 vihāraṃ naṃ bahunnaṃ so bhogagāme bahū adā
 
  evaṃ puññānī sokāsi appameyyāni bhūmipo
@@ -181,7 +181,7 @@ pabhijjitvā palāyittha rājāpacchā palāyi so
  disvā ekākinaṃ yantaṃ sīhapabbatasantike
 asiggāho mahārājaṃ mārayittha saparisaṃ
 
- ohīnaṃ pacchato jeṭṭha-tissampi pana mārituṃ
+ ohīnaṃ pacchato jeṭṭhatissampi pana mārituṃ
 sāsanaṃ tassa pesesi ehi rājā bhavāhīti
 
  so taññatvā palāyitvā nivatto malayaṃ agā
@@ -247,8 +247,8 @@ bhikkhū te akkhamāpetvā dakkhiṇaṃ desamajjhagā
  tassa so mahatā phuṭṭho rogena marisajjukaṃ
 evaṃ navahi vassehi pariccaji mahītalaṃ
 
- tassa putto tato agga-bodhi nāmo kumārako
-āsi rājāsirisaṅgha-bodhināmena visuto
+ tassa putto tato aggabodhi nāmo kumārako
+āsi rājāsirisaṅghabodhināmena visuto
 
  kaṇiṭṭhaṃ bhātaraṃ māṇaṃ oparajjebhisañciya
 tassādā dakkhiṇaṃ desaṃ sayoggabalavāhanaṃ
@@ -259,8 +259,8 @@ raṭṭhaṃ dhammena pālesi saṅghañca bahumānayi
  jeṭṭhatissotha taṃ sabbaṃ suṇitvā malaye ṭhito
 ariṭṭhaṃ girimāgamma saṅgahesi mahājanaṃ
 
- katvā hatthagate pubba-dakkhiṇe susamānase
-kamena puramāgantu-mārabhittha mahābalo
+ katvā hatthagate pubbadakkhiṇe susamānase
+kamena puramāgantumārabhittha mahābalo
 
  dāṭhāsiva  mamaccañca gahetuṃ pacchimaṃ disaṃ
 pesayitvā sayaṃ gāme vasittha siripiṭṭhike
@@ -302,7 +302,7 @@ gaṅgāmāti vihārassa kehetaṃ gāmakaṃ adā
 mayettikassapāvāse sahanna nagaraṃ adā
 
  kāḷavāpi vihārassa udavhaṃ gāmamādisi
-ete caññeca so bhoga-gāmehi paripūrayi
+ete caññeca so bhogagāmehi paripūrayi
 
  jiṇṇaṃ satasahassehi tīhi so paṭisaṅkhari
 bhikkhūnaṃ dīpavāsīnaṃ ticīvaramadāsi ca
@@ -349,7 +349,7 @@ ehi rañño mahākāraṃ dassehīti niyojito
  nisajja purato tassā chinditvā sīsamattano
 khipitvā churikaṃ āha evaṃ devo mato iti
 
- sā taṃ disvā-tisokena phāletvā hadayaṃ matā
+ sā taṃ disvātisokena phāletvā hadayaṃ matā
 evaṃ pañcahi māsehi rājā so tidivaṃ gato
 
  evaṃ  vijitasaṅgāmo sattavo abhimaddiya
@@ -389,7 +389,7 @@ ahu dāṭhopatissoti visuto dharaṇī tale
 aññamaññaṃ palāpesuṃ evaṃ te antarantarā
 
  evaṃ ubhinnaṃ rājūnaṃ saṅgāmenābhipīḷito
-loko upadduto-sabbo vihīnadhanadhaññavā
+loko upaddutosabbo vihīnadhanadhaññavā
 
  dāṭhopatisso nāsesi sabbaṃ pubbakarājūnaṃ
 gaṇhī tīsu nikāyesu sāraṃ dhātugharesu ca
@@ -406,7 +406,7 @@ rājagehā nijhāpesuṃ saddhiṃ dhātugharena te
  pacchā vippaṭisārī so desetuṃ pāpamattano
 kāresi saha bhogena sākavatthuvihārakaṃ
 
- bhāgineyyopi ratana-dāṭho iti jane suto
+ bhāgineyyopi ratanadāṭho iti jane suto
 mahādīpādo hutvāna sabhogo tamupaṭṭhahi
 
  aggabodhimhi sampatte rajjaṃ yuddhabalena ca
@@ -457,7 +457,7 @@ mahāniṭṭhilagāmañca paccayatthāya tassadā
  atha dāthopatisso so jambudīpā idhāgato
 mahantaṃ balamādāya karonto tena āhavaṃ
 
- kassapena susannaddha-vāhanena tato mari
+ kassapena susannaddhavāhanena tato mari
 dvādasāsuṃ kiretassa rājabhūtassa hāyanā
 
  tassa dāṭhopatissassa bhāgineyyo sanāmako

@@ -14,7 +14,7 @@ tathatā,avitathatā,anaññathatā,idappaccayatā.
 ‘‘,,,’’(saṃ. ni. 2.15)‘‘’’,....‘‘’’.
 Gambhīranayāsambhavato‘‘,,’’(dī. ni. 2.95; saṃ. ni. 2.60).,..,.
 575.Saddabhedato.,‘‘’’(saṃ. ni. 2.43).,.
-–‘‘‘’’’,.?,.‘‘,,.,,…pe…,,’’(saṃ. ni. 2.1).,.,.
+–‘‘-‘’’’,.?,.‘‘,,.,,…pe…,,’’(saṃ. ni. 2.1).-,.,.
 576.‘‘,bhāvo,.’’,.?.‘‘,,,,,…pe…,’’(dī. ni. 2.98 ādayo),.‘‘’’,.
 577.‘‘’’,.,
 ,;
@@ -63,10 +63,10 @@ desanābhedato,.
 587.Atthato.,,.avijjā.,avijjā.,,,,avijjā.avijjā.avijjā.,avijjā.avijjā.
 ,paccayo. Paṭiccā.Etī...avijjāpaccayā.
 saṅkhārā.,.,avijjāpaccayā saṅkhārā..
-,,,.‘‘’’(dī. ni. 2.221, 272; saṃ. ni. 1.186)saṅkhatasaṅkhārā.abhisaṅkhatasaṅkhārā,‘‘’’(dī. ni. 2.221; 272; saṃ. ni. 1.186)..abhisaṅkharaṇakasaṅkhāro,‘‘,,’’(saṃ. ni. 2.51).payogābhisaṅkhāro,‘‘,’’(a. ni. 3.15).
-,‘‘,,,,’’(ma. ni. 1.464).,,.
+,,,-.‘‘’’(dī. ni. 2.221, 272; saṃ. ni. 1.186)saṅkhatasaṅkhārā.abhisaṅkhatasaṅkhārā,‘‘’’(dī. ni. 2.221; 272; saṃ. ni. 1.186)..abhisaṅkharaṇakasaṅkhāro,‘‘,,’’(saṃ. ni. 2.51).payogābhisaṅkhāro,‘‘,’’(a. ni. 3.15).
+,‘‘,,,,’’(ma. ni. 1.464)-.,,.
 viññāṇaṃ.nāmaṃ.rūpaṃ.āyatanaṃ.phasso.vedanā.taṇhā.upādānaṃ.bhavo.jāti.jarā.maraṇaṃ.soko.paridevo.dukkhaṃ.dukkhaṃ.domanassaṃ.upāyāso.
-Sambhavantī.,.‘‘’’,...
+Sambhavantī.,-.‘‘’’,...
 Eva.,.Etassā.Kevalassā,.Dukkhakkhandhassā,,.Samudayo.Hotī..
 588.Lakkhaṇādito.–avijjā,,,.saṅkhārā,,,.viññāṇaṃ,,,,.nāmaṃ,,,.rūpaṃ,,,.saḷāyatanaṃ,,,.phasso,,,.vedanā,,,.taṇhā,,,.upādānaṃ,,,.bhavo,,,...
 589.Ekavidhādito.......
@@ -126,18 +126,18 @@ Anekadhā pana paresa.?,,,,.
 Pacchimānaṃ sā ekadhā paccayo matā..
 617.–,?,,.,‘‘’’?.?–
 ,;
-.
+-.
 ,....‘‘,’’,,.
 ,,.‘‘’’...‘‘’’(a. ni. 10.60).,.‘‘,,,’’.,.‘‘’’(saṃ. ni. 2.52)‘‘’’(ma. ni. 1.104),‘‘,,’’,..
 618.–?.?–
 ,;
 ,.
 .,.,.,...
-,.,.,,.,.
+,.,.,,---.,.
 ,,.‘‘,’’.
 619.–
 ,;
-.
+-.
 ,;
 ,.
 ,.Cutiyā‘‘’’‘‘,’’.
@@ -185,19 +185,19 @@ Apuññābhisaṅkhārapaccayā,,.–
 625.‘‘’’......
 ,..
 ‘‘’’,,,‘‘’’,‘‘’’,,.,..
-626.,,,,.,...
+626.--,,,,.,...
 ..
 627..,...
 628.,
 ,;
 ,.
 ..‘‘’’(paṭṭhā. 1.1.423)..
-–......
+–..--....
 629.,
 ,;
 ,.
-Missaṃ dvidhā bhāvabhedā,.,.
-Sabhāvaṃtattha ca dvidhā,.
+Missaṃ dvidhā bhāvabhedā,.-,-.
+Sabhāvaṃtattha ca dvidhā-,.
 Dve vā tayo vā dasakā omato ādinā sahā‘‘’’,,,...
 630.,
 ,;
@@ -207,7 +207,7 @@ devesu cā,...,
 ,.
 .,.....
 631.,
-;
+-;
 ,.
 ,,.
 ?..............
@@ -220,7 +220,7 @@ devesu cā,...,
 633.
 ,;
 ,.
-,..
+,---.---.
 santānabandhato natthi ekatā nāpi nānatā.,.,..,..
 634.–,,,,.–
 ,;
@@ -245,7 +245,7 @@ santānabandhato natthi ekatā nāpi nānatā.,.,..,..
 ,.,.,..
 .
 ,,..
-637.–.,,..,,,,.
+637.–.,,--..,,,,.
 ,,,,,,,,.
 ,,,,,,,,,.,
 ,;
@@ -322,7 +322,7 @@ Saḷāyatanapaccayāphassapadavitthārakathā
 642.–
 ,;
 ,.
-,,,,,.,,.
+,,,,,.,,-.
 ,,
 ,;
 ,.
@@ -355,7 +355,7 @@ Vedanāpaccayātaṇhāpadavitthārakathā
 ‘‘.…………’’(vibha. 232).
 ,,.,kāmataṇhā.‘‘’’,bhavataṇhā..‘‘’’,vibhavataṇhā....
 ,.,,.,.
-..
+----..
 ,;
 ,.
 Ekadhā.,
@@ -393,7 +393,7 @@ Saṅgahato.......,,....
 650.Yaṃ yassa paccayo cevā,.?...,..
 –‘‘,’’‘‘’’,.,....
 ‘‘’’......
-‘‘’’.....
+‘‘’’...-----..
 ‘‘’’,....
 ‘‘’’,....
 ‘‘’’,....,.
@@ -434,7 +434,7 @@ Bhavacakkakathā
 mūla.,.,.,.,,,.,,,.
 tayo kālā.‘‘,’’dve.aṭṭha.dve.
 654.,
-‘‘;
+‘‘-;
 ,’’.
 .
 ..hetuphalahetupubbakatisandhī.

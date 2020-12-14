@@ -7,7 +7,7 @@ Nāmattayavibhāgo
 ,;
 ,.
 5.
-;
+-;
 ,.
 6.
 ,;
@@ -41,7 +41,7 @@ Nāmattayavibhāgo
 ,.
 16.
 ;
-.
+-.
 17.
 ,;
 ,.
@@ -89,7 +89,7 @@ Nāmattayavibhāgo
 ,;
 ,.
 32.
-;
+-;
 .
 33.
 ,;
@@ -196,7 +196,7 @@ Nāmattayavibhāgo
 ,
 .
 66.
-
+-
 ;
 ,
 .

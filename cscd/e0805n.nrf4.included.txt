@@ -68,7 +68,7 @@ vuddhādisarassa vāsaṃyogantassa saṇe cāti vattamāne
 
 iccebhesaṃ ādisarānaṃ asaṃyogantānaṃ mā vuddhi hoti saṇe tatreva vuddhi āgamo hoti ca ṭhāneti ekāravuddhāgamo
 ṭhāneti vacanā cettha namādesabhūtato
-hi pubbeva eo-vuddhiyo honti āgamā
+hi pubbeva eovuddhiyo honti āgamā
 kārassa dvibhāvo
 veyyākaraṇiko nyāyamadhīteti neyyāyiko evaṃ takkiko vediko nemittiko kāyena kato payogo kāyiko kāyena kataṃ kammaṃ kāyikaṃ vacasā kataṃ kammaṃ vācasikaṃ evaṃ mānasikaṃ ettha ca sasare vāgamoti sutte vavatthitasaddena paccaye parepi gamo therehi katā saṅgīti therikā evaṃ pañcasatikā sattasatikā ettha ṇavaṇikādisutte anuvattitaggahaṇena īpaccayo na hoti
  sarīre sannidhānā vedanā sārīrikā sārīrikaṃ dukkhaṃ evaṃ mānasikā mānasikaṃ
@@ -96,7 +96,7 @@ saṇe yūnamāgamo ṭhāneti ca vattate
 
 iccetesaṃ ādisarānaṃ ttañca hoti kārappaccaye pare saddena kārāgamo ca ṭhāneti kārassa ttaṃ
 ṭhānādhikārato āttaṃ isūsabhaujādinaṃ
-isissa tu rikārāga-mo cāttānantare bhave
+isissa tu rikārāgamo cāttānantare bhave
 ārisyaṃ usabhassa idaṃ āsabhaṃ ṭhānaṃ āsabhī vācā
 ggahaṇena pana avidūrabhavo tatra bhavo tatra jāto tato āgato so assa nivāso tassa issaro kattikādīhi niyutto māso sāssa devatā tamaveccādhīte tassa visayo deso tasmiṃ dese atthi tena nibbattaṃ taṃ arahati tassa vikāro tamassa parimāṇanti iccevamādīsvatthesu ca ppaccayo yathā  vidisāya avidūre bhavo vediso gāmo udumbarassa avidūre bhavaṃ odumbaraṃ vimānaṃ
  manasi bhavaṃ mānasaṃ sukhaṃ sāgamo sare bhavo sāraso sakuṇo sārasā sakuṇī sārasaṃ pupphaṃ  urasi bhavo oraso putto urasi saṃvaḍḍhitattā mitte bhavā mettā mettī vā pure bhavā porī vācā
@@ -230,7 +230,7 @@ iccetesaṃ iccādesā honti ppaccaye pare dutiyo puriso dutiyā dutiyaṃ eva�
 
 tesaṃ catutthadutiyatatiyānaṃ aḍḍhūpapadānaṃ aḍḍhūpapadena saha desā honti
 ettha ca 
-aḍḍhūpapadapādāna-sāmatthā aḍḍhapubbakā
+aḍḍhūpapadapādānasāmatthā aḍḍhapubbakā
 saddena gayhante catutthadutiyādayo
 aḍḍhena catuttho aḍḍhuḍḍho aḍḍhena dutiyo divaḍḍho diyaḍḍho aḍḍhena tatiyo aḍḍhatiyo
 ekañca dasa cāti atthe dvandasamāse ekena adhikā dasāti atthe tappurisasamāse vā kate saṅkhyāneti vattamāne dvekaṭṭhānamākāro vāti ttaṃ vavatthitavibhāsatthoyaṃ saddo
@@ -266,7 +266,7 @@ gaṇane dasassa sambandhīnaṃ  katekasesānaṃ yathākkamaṃ  iccādesā ho
 saṅkhyānaṃ vā anteti ca vattate
 
 tāsaṃ saṅkhyānamante kārāgamo hoti vā vavatthitavibhāsatthoyaṃ saddo
-vibhāsā vīsa tiṃsāna-mante hoti tiāgamo
+vibhāsā vīsa tiṃsānamante hoti tiāgamo
 aññattha na ca hoteva vavatthitavibhāsato
 byañjane cāti niggahītalopo puna taddhitattā nāmabyapadese dyuppatti bhikkhūnaṃ vīsati vīsaṃ vā vīsati bhikkhū vīsaṃ vā iccādi vīsatimo tathā ekavīsati kusalacittāni ekavīsaṃ vā ekavīsatimo bāvīsati bāvīsaṃ vā bāvīsatimo dvāvīsati dvāvīsaṃ vā dvāvīsatimo tevīsati tevīsaṃ vā tevīsatimo catuvīsati catuvīsaṃ vā catuvīsatimo paṇṇavīsati paṇṇavīsaṃ vā paṇṇavīsatimo pañcavīsati pañcavīsaṃ vā pañcavīsatimo chabbīsati  chabbīsaṃ vā chabbīsatimo sattavīsati sattavīsaṃ vā sattavīsatimo aṭṭhavīsati aṭṭhavīsaṃ vā aṭṭhavīsatimo ekūnatiṃsati ekūnatiṃsaṃvā ekūnatiṃsatimo
 dasa ca dasa ca dasa cāti dasa dasa dasāti vattabbe ekasese kate gaṇane dasassātiādinā mādesā kvacādinā rassattaṃ niggahītāgamo ca sesaṃ vīsatisamaṃ tiṃsati tiṃsaṃ tiṃsa vassāni niggahītalopo tiṃsaṃ tiṃsāya iccādi ekatiṃsati ekatiṃsaṃ vā bāttiṃsaṃ dvattiṃsaṃ tettiṃsaṃ iccādi
@@ -286,7 +286,7 @@ yadanupapannā nipātanā sijjhantīti vattate
 
 yāsaṃ pana saṅkhyānaṃ aniddiṭṭhanāmadheyyānaṃ yāni rūpāni tāni sakehi nāmehi nipaccante satasahassānaṃ sataṃ koṭi itthiliṅgā ekavacanantā ca vaggabhede bahuvacanañca bhavati koṭisatasahassānaṃ sataṃ pakoṭi pakoṭisatasahassānaṃ sataṃ koṭippakoṭi evaṃ nahutaṃ ninnahutaṃ akkhobhinī bindu abbudaṃ nirabbudaṃ ahahaṃ ababaṃ aṭaṭaṃ sogandhikaṃ uppalaṃ kumudaṃ puṇḍarīkaṃ padumaṃ kathānaṃ mahākathānaṃ asaṅkhyeyyanti
 iccevaṃ ṭhānato ṭhānaṃ satalakkhaguṇaṃ mataṃ
-koṭippabhutinaṃ vīsa-saṅkhyānañca yathākkamaṃ
+koṭippabhutinaṃ vīsasaṅkhyānañca yathākkamaṃ
 dve parimāṇāni etassāti viggahe 
 
 iccevamādito gaṇanato ppaccayo hoti anekatthe dviko rāsi dvikaṃ evaṃ tikaṃ catukkaṃ pañcakaṃ chakkaṃ sattakaṃ aṭṭhakaṃ navakaṃ dasakaṃ paṇṇāsakaṃ satakaṃ sahassakaṃ iccādi
@@ -313,7 +313,7 @@ imasmā jja siyā kāle samānāparato jju ca
 imasaddassakāro ca samānassa ca so siyā
 imasmiṃ kāle imasmiṃ divase vā ajja samāne kāle sajju aparasmiṃdivase aparajju nipātehi ppaccayo ajja bhavaṃ ajjatanaṃ ajja bhavā ajjatanī sve bhavaṃ svātanaṃ evaṃ purātanaṃ hiyyo bhavaṃ hiyyattanaṃ hiyyo bhavā hiyyattanī iccādi
 
-sāmaññavuttibhāvatthā-byayato taddhitaṃ tidhā
-tatrādi catudhāpaccā-nekatthassatthisaṅkhyāto
+sāmaññavuttibhāvatthābyayato taddhitaṃ tidhā
+tatrādi catudhāpaccānekatthassatthisaṅkhyāto
 
 

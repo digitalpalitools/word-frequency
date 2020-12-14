@@ -35,7 +35,7 @@ pulatthimhi;
 4.
 
 ;
-
+-
 .
 5.
 ;
@@ -59,8 +59,8 @@ pulatthimhi;
 ,coḷakulantike;
 ,.
 10.
-;
-Sāriputtamahāthera.
+-;
+Sāriputtamahāthera-.
 11.
 ,;
 ,sumedhenā.
@@ -81,7 +81,7 @@ buddhanāgatthero,;
 ;
 .
 16.
-
+-
 ;
 ;
 .

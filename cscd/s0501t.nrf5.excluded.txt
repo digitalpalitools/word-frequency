@@ -3,8 +3,8 @@
 ‘‘,,‘?’’’–
 .,‘‘’’‘‘tattha katamaṃ sāsanapaṭṭhāna’’.Tatthā.Sāsana.Paṭṭhāna,.–‘‘saṃkilesabhāgiyaṃ sutta’’.sāsana,paṭṭhānaṃ,sāsanapaṭṭhānaṃ.sāsanapaṭṭhānaṃ.–
 ‘‘,,,,,,,,,,,,,,,’’–
-.‘‘,’’‘‘tattha saṃkileso tividho taṇhāsaṃkileso diṭṭhisaṃkileso duccaritasaṃkileso’’.Tatthā.‘‘’’‘‘tattha taṇhāsaṃkileso samathena visujjhatī’’.Tatthā.‘‘’’‘‘so samatho samādhikkhandho’’.‘‘’’‘‘diṭṭhisaṃkileso vipassanāya visujjhatī’’.‘‘’’‘‘sā vipassanā paññākkhandho’’.‘‘’’‘‘duccaritasaṃkileso sucaritena visujjhatī’’.‘‘’’‘‘taṃ sucaritaṃ sīlakkhandho’’.‘‘’’‘‘tassa sīle patiṭṭhitassā’’.Sīlepatiṭṭhitassabhavesuāsatti,evaṃsāya.Evaṃassaayaṃ,ca.Tatrāupapattiyā saṃvattatī.
-‘‘,’’‘‘imāni cattāri suttānī’’.,,,,..Tāniyeva..,aṭṭhakathāyaṃ(netti. aṭṭha. 89).
+.‘‘,’’‘‘tattha saṃkileso tividho taṇhāsaṃkileso diṭṭhisaṃkileso duccaritasaṃkileso’’.Tatthā.‘‘’’‘‘tattha taṇhāsaṃkileso samathena visujjhatī’’.Tatthā.‘‘’’‘‘so samatho samādhikkhandho’’.‘‘’’‘‘diṭṭhisaṃkileso vipassanāya visujjhatī’’.‘‘’’‘‘sā vipassanā paññākkhandho’’.‘‘’’‘‘duccaritasaṃkileso sucaritena visujjhatī’’.‘‘’’‘‘taṃ sucaritaṃ sīlakkhandho’’.‘‘’’‘‘tassa sīle patiṭṭhitassā’’.Sīlepatiṭṭhitassabhavesuāsatti,evaṃsāya.Evaṃassaayaṃ,ca-.Tatrāupapattiyā saṃvattatī.
+‘‘,’’‘‘imāni cattāri suttānī’’.,,,,..Tāniyeva.-------.,aṭṭhakathāyaṃ(netti. aṭṭha. 89).
 ‘‘,’’‘‘imehi soḷasahi suttehī’’.suttaṃ.gāthāya,veyyākaraṇena.suttena.
 90.‘‘’’‘‘tattha katamaṃ saṃkilesabhāgiyaṃ sutta’’.Tatthā.
 ‘‘,;
@@ -51,7 +51,7 @@ idha,.Imamhi,,hi,,,so,me.
 ,.
 ‘‘,;
 ,’’.–
-Idaṃ.dukkhassa,vodukkhaṃ,mākattha.,upeccapipalāyataṃvodukkhāpamutti.
+Idaṃ.dukkhassa-,vodukkhaṃ,mākattha.,upeccapipalāyataṃvodukkhāpamutti.
 ‘‘,;
 ,.
 ‘‘,;
@@ -135,7 +135,7 @@ hitāhitāsīhiimehi,me.
 ‘‘,’’,yathā yathā,tathā.Ayaṃ.Idaṃ…pe….
 ‘‘sikhī’’.sikhiddhedhamme.
 Tasmiṃbaliṃ.Assa.taṃtasseva.
-So‘‘’’.Dadāsī.taṃbuddhaṃ,tato.,,.Idaṃ…pe….
+So‘‘’’.Dadāsī-.taṃbuddhaṃ,tato.,,.Idaṃ…pe….
 Brahmadattassasuvibhattaṃ,mahāpathaṃākiṇṇaṃ,,.
 ,upariṭṭhaṃsambuddhaṃ,yaṃvijjatha,.
 Yato ca,puṇṇamāsī,tato caariṭṭhassa.
@@ -196,7 +196,7 @@ attanāavedi,atharūpāarūpāsukhadukkhā.
 Ettha,udakena.Yamhisaccaṃ,dhammo,,;ṭīkāyaṃ.
 dhammāhave,vidhūpayaṃ.‘‘’’‘‘sūriyova obhāsayamantalikkha’’.,.
 yogāniakiñcano iriyati.Apahānadhammaṃtevijjapattaṃ,.
-Ājāniyaṃjātibalanisedhaṃ‘‘’’idha,.Nidhāna.
+Ājāniyaṃjātibalanisedhaṃ‘‘’’idha,.Nidhāna-.
 te,te,te,.
 ,.Nesaṃdhamme.
 dehaṃ.
@@ -225,7 +225,7 @@ Abhedi,paribhedi.Itiayaṃasekkho.Idaṃ‘‘’’.
 Ayaṃlokosantāpajātophassaparetorodaṃ.?‘‘,’’,‘‘’’‘‘attato yena yena hi maññantī’’.,tatoaññathātaṃhi.
 Aññathābhāvī,,.Taṃhi,,.‘‘’’‘‘bhavasatto’’.Bhavasattobhavameva.Yaṃ,bhayaṃ.Yassa,dukkhaṃ.Itiayaṃsaṃkileso.
 ,‘‘’’‘‘bhavavippahānāya kho’’.Bhavavippahānāya kho panabrahmacariyaṃ.Itiayaṃnibbedho.
-‘‘’’,,‘‘’’‘‘ye hi keci samaṇā vā’’.Hi.bhavenabhavassa,bhavenabhavassa,bhavasmā.
+‘‘’’,,‘‘’’‘‘ye hi keci samaṇā vā’’.Hi-.bhavenabhavassa,bhavenabhavassa,bhavasmā.
 ‘‘’’‘‘ye vā panā’’.vibhavenabhavassa,bhavasmā.‘‘’’‘‘upadhiṃ hī’’.dukkhaṃupadhiṃhi,.Itiayaṃsaṃkileso.
 ‘‘’’,‘‘’’‘‘sabbupādānakkhayā’’.Sabbupādānakkhayādukkhassa.Itiayaṃnibbedho.
 ‘‘’’‘‘lokamima’’.Puthūparetaṃbhūtarataṃbhūtaṃ.Ye keci bhavā,,,sabbadhi‘‘’’sabbatthatāya,sabbe teaniccādukkhāvipariṇāmadhammā.Itiayaṃsaṃkileso.
@@ -315,7 +315,7 @@ Antakenajahatotassa,,,assa.
 samparāyikaṃnicayaṃ.,.Idaṃ‘‘’’paravacanaṃ.‘‘,,’’sakavacanaṃ.Idaṃ.(10)
 118.idaṃ,idaṃ,idaṃ,idaṃ,,imedhammāgahitāgahitāgahitā,idaṃidaṃtesaṃ,.Iti idaṃ‘‘’’vissajjanīyaṃ.
 ‘‘’’ekaṃseneva.‘‘’’ekaṃseneva.‘‘’’ekaṃseneva‘‘’’.‘‘’’.‘‘’’.‘‘’’‘‘’’,.Idaṃ‘‘’’vissajjanīyaṃ.
-temanasāvicintitaṃna jaññā.tena jaññā.Kasiṇāpina jaññā.Kasiṇāpī‘‘’’‘‘’’.‘‘yaṃ ākaṅkhati,taṃkiṃ’’.Idaṃ‘‘’’avissajjanīyaṃ.
+temanasāvicintitaṃna jaññā.tena jaññā.Kasiṇāpina jaññā.Kasiṇāpī‘‘’’-‘‘’’.‘‘yaṃ ākaṅkhati,taṃkiṃ’’.Idaṃ‘‘’’avissajjanīyaṃ.
 sīlakkhandheettako,samādhikkhandheettako,paññākkhandheettako,vimuttikkhandheettako,vimuttiñāṇadassanakkhandheettako,iriyāyaṃettako,pabhāveettako,hitesitāyaṃettako,karuṇāyaṃettako,iddhiyaṃettako.Idaṃ‘‘’’avissajjanīyaṃ.
 ,uppādā,,,,.‘‘’’.Idaṃ‘‘’’avissajjanīyaṃ.
 Buddhavisayo,puggalaparoparaññutā.,,,,,,,.‘‘’’avissajjanīyaṃ.‘‘Na paññāyatī’’,.‘‘’’‘‘duvidhā buddhānaṃ bhagavantānaṃ desanā’’.attūpanāyikā.parūpanāyikā.‘‘,’’‘‘na paññāyatī’’.‘‘’’,‘‘natthi buddhānaṃ bhagavantānaṃ avijānanā’’.‘‘’’,aṭṭhakathāyaṃ‘‘,’’(netti. aṭṭha. 118).

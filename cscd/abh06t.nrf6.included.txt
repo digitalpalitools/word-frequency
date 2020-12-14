@@ -28,7 +28,7 @@ sova catusamuṭṭhāno rasārammaṇanāmako
 phoṭṭhabbaṃ catusambhūtaṃ phoṭṭhabbārammaṇaṃ mataṃ
 
  sabbaṃ nāmañca rūpañca hitvā rūpādipañcakaṃ
-lakkhaṇāni ca paññatti-dhammārammaṇasaññitaṃ
+lakkhaṇāni ca paññattidhammārammaṇasaññitaṃ
 
  chārammaṇāni  labbhanti kāmāvacarabhūmiyaṃ
 tīṇi rūpe panārūpe dhammārammaṇamekakaṃ
@@ -95,7 +95,7 @@ navattabbārammaṇānīti viññeyyāni vibhāvinā
 
 
  dutiyāruppacittañca  catutthāruppamānasaṃ
-chabbidhaṃ pana ekanta-atītārammaṇaṃ siyā
+chabbidhaṃ pana ekantaatītārammaṇaṃ siyā
 
  viññāṇānaṃ dvipañcannaṃ manodhātuttayassa ca
 pañca rūpādayo dhammā paccuppannāva gocarā
@@ -103,7 +103,7 @@ pañca rūpādayo dhammā paccuppannāva gocarā
  aṭṭha  kāmamahāpākā santīraṇattayampi ca
 hasituppādacittanti dvādasete tu mānasā
 
- siyātītārammaṇā paccu-ppannānāgatagocarā
+ siyātītārammaṇā paccuppannānāgatagocarā
 kusalākusalā kāme kriyato nava mānasā
 
  abhiññāmānasā dvepi siyātītādigocarā
@@ -135,10 +135,10 @@ arahattaphalaṃ maggaṃ kātuṃ sakkonti gocaraṃ
  cattāro ñāṇasaṃyuttā kriyā voṭṭhabbanampi ca
 kriyābhiññā manodhātu cha ca sakkonti gocaraṃ
 
- cattāro  ñāṇasaṃyuttā-bhiññācittañca puññato
+ cattāro  ñāṇasaṃyuttābhiññācittañca puññato
 nārahattaṃ phalaṃ maggaṃ kātuṃ sakkonti gocaraṃ
 
- kasmā arahato magga-cittaṃ vā phalamānasaṃ
+ kasmā arahato maggacittaṃ vā phalamānasaṃ
 puthujjanā vā sekkhā vā na sakkonti hi jānituṃ
 
  puthujjano na jānāti
@@ -176,7 +176,7 @@ imesaṃ aṭṭharāsīnaṃ hotārammaṇapaccayo
 rūpato pañcamassāpi kusalassa kriyassa ca
 
  catunnaṃ pana rāsīnaṃ hoti ārammaṇaṃ sadā
-tathevākusalaṃ kāma-rūpāvacarato pana
+tathevākusalaṃ kāmarūpāvacarato pana
 
  kusalassa kriyassāpi tathevākusalassa ca
 kāmāvacarapākānaṃ channaṃ rāsīnamīritaṃ
@@ -214,7 +214,7 @@ kāmāvacarapuññassa tatheva kusalassa ca
  abhiññādvayacittassa kāmapākakriyassa ca
 channaṃ rāsīnametesaṃ hotārammaṇapaccayo
 
- nibbānārammaṇaṃ kāma-rūpāvacarato pana
+ nibbānārammaṇaṃ kāmarūpāvacarato pana
 kusalassubhayassāpi kāmarūpakriyassa ca
 
  apariyāpannato ceva phalassa kusalassa ca
@@ -230,7 +230,7 @@ navannaṃ pana rāsīnaṃ hotārammaṇapaccayo
 pañcārammaṇikā nāma cittuppādā tayo matā
 
  idhekacattālīseva chaḷārammaṇikā matā
-kāmāvacaracittāna-mayamārammaṇakkamo
+kāmāvacaracittānamayamārammaṇakkamo
 
  pañcābhiññā vivajjetvā rūpārūpā anāsavā
 cittuppādā ime sabbe dhammārammaṇagocarā

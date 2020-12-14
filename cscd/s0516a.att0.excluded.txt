@@ -98,7 +98,7 @@ Na hi etehi yānehī,‘‘’’.,,,(dha. pa. aṭṭha. 2.322; mahāni. aṭ�
 Vidhāsu na vikampantī.Vippamuttā punabbhavā.Dantabhūmiṃ anuppattā.Te loke vijitāvino(saṃ. ni. aṭṭha. 2.3.76; mahāni. aṭṭha. 90).
 Yassindriyāni bhāvitānī.Ajjhattañca bahiddhā cā.Sabbaloke.Nibbijjha imaṃ parañca loka.Kālaṃ kaṅkhati bhāvito sa danto(su. ni. aṭṭha. 2.522; mahāni. aṭṭha. 90).
 Yesaṃ dhammānaṃ ādito samudāgamanaṃ paññāyatī.Atthaṅgamato nirodho.Kammasannissito vipāko.Nāmasannissitaṃ rūpa.Jātiyā anugata.Jarāya anusaṭa.Byādhinā abhibhūta.Maraṇena abbhāhata.Atāṇa.Aleṇa,.Asaraṇa,.Asaraṇībhūta,.
-19.Apucchasīa,.Pavakkhāmi yathā pajāna,.Upadhinidānā pabhavanti dukkhā.
+19.Apucchasīa-,.Pavakkhāmi yathā pajāna,.Upadhinidānā pabhavanti dukkhā.
 Taṇhūpadhī.diṭṭhūpadhi.kilesūpadhi.kammūpadhi.duccaritūpadhi.āhārūpadhi.paṭighūpadhi.catasso upādinnadhātuyo upadhī.cha ajjhattikāni āyatanāni upadhī.cha viññāṇakāyā upadhī. Sabbampi dukkhaṃ dukkhamanaṭṭhenā.
 20.–yo ve avidvā.pajāna.Dukkhassa jātippabhavānupassī‘‘’’..
 21.Sokapariddavañcā.Tathā hi te vidito esa dhammo,.
@@ -169,7 +169,7 @@ aṭṭhasamāpattiñāṇena vā.Pañcābhiññāñāṇena vā.
 48.‘‘’’‘‘ye kecime’’.anekarūpenā.Tattha yatā carantā.
 49..
 50.‘‘’’,‘‘ye kecime’’..
-51.nivutā.Ye sīdhā,.Taṇhaṃ pariññāyā..
+51.nivutā.Ye sīdhā,-.Taṇhaṃ pariññāyā..
 52.,etābhinandāmī..
 Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
 Nandamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
@@ -193,7 +193,7 @@ Todeyyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 10. Kappamāṇavasuttaniddesavaṇṇanā
 61.–majjhe sarasmi.Tiṭṭhata.Yathāyidaṃ nāparaṃ siyā.
 Āgamana.Gamana.Gamanāgamana.Kāla.Gatī.Bhavābhavo.Cuti cā.Upapatti cā.Nibbatti cā.Bhedo cā.Jāti cā.Jarā cā.Maraṇañcā.Purimāpi koṭi na paññāyatī.pacchimāpi koṭi.
-Ettakā jātiyo.Vaṭṭaṃ vattī.Tato paraṃ na vattatī.Hevaṃ natthī.Hi.Anamataggoya.
+Ettakā jātiyo.Vaṭṭaṃ vattī.Tato paraṃ na vattatī.Hevaṃ natthī.Hi-.Anamataggoya.
 Avijjānīvaraṇāna.Taṇhāsaṃyojanāna.Sandhāvata.Saṃsarata.Dukkhaṃ paccanubhūta.Tibba.Byasana.Kaṭasī vaḍḍhitā.Alamevā.Sabbasaṅkhāresū.Nibbinditu.Virajjitu.Vimuccitu.Vaṭṭaṃ vattissatī.Tato paraṃ na vattissatī.Jātibhaye.Jarābhayā.
 62-3...akiñcana.Anādāna,.Anāpara,.
 64.na te mārassa paddhagū.
@@ -244,8 +244,8 @@ lokavidū..–
 ,;
 ,.
 ,;
-.
-;
+-.
+-;
 ,;
 ,.(visuddhi. 1.137; dha. sa. aṭṭha. 584);
 ,,,,,,.–
@@ -284,7 +284,7 @@ Bhadrāvudhasuttaniddesavaṇṇanā niṭṭhitā.
 13. Udayamāṇavasuttaniddesavaṇṇanā
 74.–aññāvimokkha.
 Paṭhamenapi jhānena jhāyī.Dutiyenā.Tatiyenā.Catutthenā.Savitakkasavicārenapi jhānena jhāyī.Avitakkavicāramattenā.Avitakkaavicārenā.Sappītikenā.Nippītikenā.Sātasahagatenā.Upekkhāsahagatenā.Suññatenapī.Animittenapī.Appaṇihitenapī.Lokiyenapī.
-Lokuttarenapī.Jhānarato.Ekattamanuyutto.Sadatthagaruko,kada...,‘‘’’.Arajo.Virajo.Nirajo,‘‘’’,.Rajāpagato.Rajavippahīno.Rajavippayutto.
+Lokuttarenapī.Jhānarato.Ekattamanuyutto.Sadatthagaruko,ka-da-...,‘‘’’.Arajo.Virajo.Nirajo,‘‘’’,.Rajāpagato.Rajavippahīno.Rajavippayutto.
 Pāsāṇake cetiye.Sabbossukkapaṭippassaddhattā,āsīno.
 Kiccākicca‘‘,’’.Karaṇīyākaraṇīya,.Pahīna.Vasippatto.
 75.,.pahānaṃ kāmacchandāna,..
@@ -306,7 +306,7 @@ So tato cuto amutra udapādi.Tatrāpāsi.Evaṃnāmo.
 –amutrāsi.So tato cuto.idhūpapanno.Tatrāpāsi.So tato cuto idhūpapanno.
 Iti.Sākāraṃ sauddesa,.‘‘’’,‘‘’’.,.Pubbenivāsa.,.,,...Paresaṃ atīta.
 Mahāpadāniyasuttanta(dī. ni. 2.1 ādayo).Mahāsudassaniyasuttanta(dī. ni. 2.241 ādayo).Mahāgovindiyasuttanta(dī. ni. 2.293 ādayo).Māghadeviyasuttanta(ma. ni. 2.308 ādayo).Satānusāriññāṇaṃ hotī.
-Yāvatakaṃ ākaṅkhatī,..,.Bodhija.Ñāṇaṃ uppajjatī.Ayamantimā jātī‘‘,’’(dī. ni. 2.31).Indriyaparopariyattañāṇa‘‘’’.‘‘’’ro‘‘’’.,,,,.‘‘’’,,.Avariyānī.–,.Oparānī,‘‘’’(a. ni. 4.5; su. ni. 479).‘‘’’(paṭi. ma. aṭṭha. 1.1.68).
+Yāvatakaṃ ākaṅkhatī,..,.Bodhija.Ñāṇaṃ uppajjatī.Ayamantimā jātī‘‘,’’(dī. ni. 2.31).Indriyaparopariyattañāṇa‘‘’’.‘‘’’ro-‘‘’’.,,,,.‘‘’’,,.Avariyānī.–,.Oparānī,‘‘’’(a. ni. 4.5; su. ni. 479).‘‘’’(paṭi. ma. aṭṭha. 1.1.68).
 Tathāgatassā,.,.Tathāgatabala.,...–
 ‘‘,;
 ,’’.(ma. ni. aṭṭha. 1.148; saṃ. ni. aṭṭha. 2.2.22; a. ni. aṭṭha. 3.10.21; vibha. aṭṭha. 760; udā. aṭṭha. 75; paṭi. ma. aṭṭha. 2.2.44);
@@ -361,10 +361,10 @@ Tathāgatena abhisambuddha–,‘‘’’.,,,,‘‘’’.,‘‘’’.
 ,,,,,,,,.Tasmā tathāgatoti vuccatī,.‘‘’’,.(dī. ni. aṭṭha. 3.188; a. ni. aṭṭha. 2.4.23).
 ‘‘,,,,,,,’’–
 ,,…pe…,,,,,.–‘‘,,…pe…,’’..
-–,..
+–,.--.
 ‘‘,…pe…’’,,,,.,.
 Abhibhū anabhibhūto..Aññadatthū.daso..
-–,?..(dī. ni. aṭṭha. 1.7).
+–,?..--(dī. ni. aṭṭha. 1.7).
 Idhatthaññeva jānāti kammābhisaṅkhāravasenā.Kāyassa bhedā paraṃ maraṇā.Apāya.duggati.vinipāto.nirayo.apāyaṃ…pe… nirayaṃ. Upapajjissatī.Tiracchānayoni,,.Pettivisaya,.,manussesu.kammābhisaṅkhāravasenā.
 Āsavānaṃ khayā.Anāsavaṃ cetovimutti.Paññāvimutti.,.,.,.
 Ākiñcaññāyatanaṃ dhimuttanti vimokkhenā?.?,,.dhimutta..Tatrādhimutta.Tadadhimutta.Tadādhipateyya.Rūpādhimutto.Kulādhimutto.Lābhādhimutto.Dhīvarādhimutto.Suttantādhimutto.Āraññakaṅgādhimutto.Paṭhamajjhānādhimutto.
@@ -378,7 +378,7 @@ Posālamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 86.Ayaṃ loko.Paro loko.Sadevako.‘‘’’‘‘’’..
 87.Evaṃ abhikkantadassāvi,.
 88.Suññato lokaṃ avekkhassū.Attānudiṭṭhiṃ ūhaccā.
-Lujjatī.cakkhu..rūpā,.,cakkhuviññāṇaṃ.cakkhusamphasso. Cakkhusamphassapaccayā.Vedayita,.sukhaṃ,,.,sukhaṃ.dukkhaṃ.,.adukkhamasukhaṃ. Ma.,,.
+Lujjatī.cakkhu..rūpā,.,cakkhuviññāṇaṃ.cakkhusamphasso. Cakkhusamphassapaccayā.Vedayita,.sukhaṃ,,.,sukhaṃ.dukkhaṃ.,.adukkhamasukhaṃ. Ma-.,,.
 sotaṃ,.saddā,.ghānaṃ,.gandhā,.jivhā,jivhā..rasā,.
 kāyo..,.phoṭṭhabbā.mano,.dhammā. Mano.Dhammā.Manoviññāṇa.Manosamphasso,..
 Avasiyapavattasallakkhaṇavasena vā.Rūpe vaso na labbhatī.Vedanā.

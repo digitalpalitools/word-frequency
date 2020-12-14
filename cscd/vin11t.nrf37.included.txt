@@ -19,7 +19,7 @@ porāṇakassa nīlakahāpaṇassāti vuttavacanassa porāṇake ratanasuttābhi
 ca viseso dassito
 taṃ pana suvaṇṇamāsakavasena aḍḍhatiyamāsakaṃ hoti pañcamāsakena ca bhagavatā pārājikaṃ paññattaṃ tasmā tassa yathāvuttalakkhaṇassa kahāpaṇassa sabbadesesu alabbhamānattā sabbadesasādhāraṇena tassa missakakahāpaṇassa pañcamāsapādagghanakena suvaṇṇeneva pārājikavatthumhi niyamite sabbadesavāsīnaṃ upakārāya hotīti evaṃ suvaṇṇeneva pārājikavatthuparicchedo kato ayameva niyamo  sīhaḷācariyavādehi sāroti gahito tasmā sikkhāgarukehi sabbattha pesalehi vinayadharehi ayameva vinicchayo sārato paccetabbo honti cettha 
 hemarajatatambehi satthe niddiṭṭhalakkhaṇaṃ
-ahāpetvā kato vīsa-māso nīlakahāpaṇo
+ahāpetvā kato vīsamāso nīlakahāpaṇo
 hemapādaṃ sajjhupādaṃ tambapādadvayañhi so
 missetvā rūpamappetvā kātuṃ satthesu dassito
 ti vuccate doso niddosattā tathīrito
@@ -65,7 +65,7 @@ ti anuññātapayogato atirekābhinipphādanapayoge ti cīvarassa paṭilābhe
 
  kosiyavaggassa  sikkhāpadesu dve dve āpattiyoti yojanā ti karaṇakārāpanapayoge ti katvā vā kāretvā vā pariniṭṭhāpane
  gahetvā eḷakalomānīti padacchedo nti atikkamanto
-ti aññātikāya bhikkhuniyā dhovāpeti eḷalomakanti padacchedo nti  eḷakalomāni niruttinayena ka-kārassa vipariyāyo ti dhovāpanapayoge
+ti aññātikāya bhikkhuniyā dhovāpeti eḷalomakanti padacchedo nti  eḷakalomāni niruttinayena kakārassa vipariyāyo ti dhovāpanapayoge
 ti paṭiggaṇhanapayoge
 nti  nānappakāraṃ nti samāpajjanto bhikkhu ti saṃvohāre samāpanne sati ti samāpajjanapayoge
 ti kayavikkayāpajjanapayoge ti tasmiṃ bhaṇḍe attano santakabhāvaṃ nīte
@@ -100,7 +100,7 @@ ti  akappiyapathaviṃ khaṇissāmīti kudāla pariyesanādisabbapayogeti
 ti vikopento ti bhūtagāmassa ti vikopane
  aññavādakavihesakānaṃ ekayoganiddiṭṭhattā tattha vuttanayeneva vihesake ca ñātuṃ sakkāti tattha visuṃ āpattibhedo na vutto
 nti aññaṃ saṅghena sammatasenāsanapaññāpakādikaṃ upasampannaṃ ti tassa ayasaṃ uppādetukāmatāya bhikkhūhi avajānāpetuṃ chandāya itthannāmo idaṃ nāma karotītiādīni vatvā avaññāya olokāpento lāmakato vā cintāpento ti ujjhāpanatthāya tassa avaṇṇabhaṇanādike pubbapayoge
- saṅghike  vihāre pubbūpagataṃ bhikkhuṃ  jānanto anupakhajja seyyaṃ kappeti tassevaṃ seyyaṃ ti yojanā ti ettha aluttasamāso -saddena seyyākappane pācittiyaṃ saṅgaṇhāti
+ saṅghike  vihāre pubbūpagataṃ bhikkhuṃ  jānanto anupakhajja seyyaṃ kappeti tassevaṃ seyyaṃ ti yojanā ti ettha aluttasamāso saddena seyyākappane pācittiyaṃ saṅgaṇhāti
 ti nikkaḍḍhatha imantiādike āṇattike vā yāhi yāhītiādike vācasike vā hatthena tassa aṅgaparāmasanādivasena kate kāyike vā nikkaḍḍhanapayoge nti pācittiyaṃ
  vehāsakuṭiyā uparīti padacchedo ti ettha mañce vā pīṭhe vāti seso nti nisīdanto ti payoge dukkaṭaṃ nipajjāya pācittiyanti imā āpattiyo phuseti attho
  assa pajjassa paṭhamapādaṃ dasakkharapādakaṃ chandovicitiyaṃ vuttagāthā gāthāchando atītadvayanti iminā chandovicitilakkhaṇena gāthāchandattā ti ettha akkharadvayaṃ  adhikaṃ vuttanti daṭṭhabbaṃ ti adhiṭṭhānapayoge ti dvattipariyāyānaṃ upari adhiṭṭhāne kate
@@ -109,7 +109,7 @@ ti siñcanasiñcāpanapayoge ti siñcanakiriyapariyosāne
  dukkaṭaṃ phuseti yojanā ovadite pācitti siyāti yojanā
  vibhāgoyeva 
  bhikkhuniyā aññatra pārivattakā cīvaraṃ  bhikkhu  āpattiyo phuseti yojanā ti dānapayoge
- nāvaṃ ekanti padacchedo ti abhiruhaṇapayoge ti -saddena abhiruḷhe pācittiyaṃ saṅgaṇhāti
+ nāvaṃ ekanti padacchedo ti abhiruhaṇapayoge ti saddena abhiruḷhe pācittiyaṃ saṅgaṇhāti
  duvidhaṃ āpattinti padacchedo
  bhikkhuniyā saddhiṃ raho nisajjaṃ kappento bhikkhu payogedukkaṭādayo  āpattiyo phuseti yojanā
 
@@ -119,13 +119,13 @@ nti abhiharitvā
 ti abhiharantassa ti vinayapiṭake
 ti ettha dasame apīti padacchedo
 
-ti -saddena paribbājakassa vā paribbājikāya vāti  vutte saṅgaṇhāti nti -saddena khādanīyaṃ saṅgaṇhāti ti sahatthā dānapayoge
+ti saddena paribbājakassa vā paribbājikāya vāti  vutte saṅgaṇhāti nti saddena khādanīyaṃ saṅgaṇhāti ti sahatthā dānapayoge
  kiñci āmisaṃ ti uyyojanapayoge nti tasmiṃ bhikkhumhi uyyojite pācitti siyāti yojanā
 ti indakhīlātikkame
 nti tato paricchinnarattipariyantato vā paricchinnabhesajjapariyantato vā uttariṃ
  uyyuttaṃ dassanatthāya gacchanto dve āpattiyo phuseti yojanā
 
-nti merayaṃ niruttinayena a-kārassa e-kāro ya-kārassa ca dvittaṃ meraya-saddapariyāyo vā -saddo ti bhikkhu
+nti merayaṃ niruttinayena akārassa ekāro yakārassa ca dvittaṃ merayasaddapariyāyo vā saddo ti bhikkhu
  bhikkhu  aṅgulipatodenāti padacchedo ti hāsāpanapayoge ti hāsāpentassa
  gopphakā  udake dukkaṭaṃ gopphakato upari  udakaṃ tasmiṃ gopphakato adhikappamāṇe udaketi attho
 nti  puggalānādariyaṃ dhammānādariyaṃ vā ti anādariyavasena pavatte kāyapayoge vā vacīpayoge vā  anādariye
@@ -134,7 +134,7 @@ nti aggiṃ ti jāletvā ti iminā phalūpacārena kāraṇaṃ vuttaṃ visibba
 ti cuṇṇamattikābhisaṅkharaṇādisabbapayoge nti pācittiyaṃ
 nti kaṃsanīlapattanīlakaddamasaṅkhātānaṃ tiṇṇaṃ dubbaṇṇakaraṇānaṃ  aññataraṃ  adatvā nti navacīvaraṃ
  natthi etassa uddhāranti anuddhāro taṃ anuddhāranti vattabbe gāthābandhavasena rassattaṃ akatapaccuddhāranti attho
-ti apanetvā nidhento nikkhipento nti -saddena cīvaranisīdanasūcigharakāyabandhanānaṃ gahaṇaṃ ti apanidhānapayoge  pattādike pañcavidhe parikkhāre apanihite  pācittiyāpatti siyāti yojanā
+ti apanetvā nidhento nikkhipento nti saddena cīvaranisīdanasūcigharakāyabandhanānaṃ gahaṇaṃ ti apanidhānapayoge  pattādike pañcavidhe parikkhāre apanihite  pācittiyāpatti siyāti yojanā
 
 ti  pātimokkhasaṃvarasīlasaṅkhātaṃ tapodhanamassāti tapodhano bhikkhu
  opāte
@@ -174,8 +174,8 @@ ti sabbesu catūsu
 
  sekhiyakathā uttānatthāyeva
 
- parivāre paṭhamaṃ dassitasoḷasavārappabhede mahāvibhaṅge paṭhamaṃ pārājikaṃ kattha paññattantiādippabhedo  katthapaññattivāro  methunaṃ dhammaṃ paṭisevanto kati āpattiyo āpajjatītiādippabhedo  katāpattivāro methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajantītiādippabhedo  vipattivāro methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitātiādippabhedo  saṅgahavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhahantītiādippabhedo  samuṭṭhānavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇantiādippabhedo  adhikaraṇavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ samathānaṃ katihi samathehi sammantītiādippabhedo  samathavāro tadanantaro imehi sattahi vārehi misso  aṭṭhamo samuccayavāroti imesu aṭṭhasu vāresu ādibhūte katthapaññattināmadheyye appanāvāre saṅgahetabbānaṃ nidānādisattarasalakkhaṇānaṃ ubhayavibhaṅgasādhāraṇato upari vakkhamānattā taṃ vāraṃ ṭhapetvā tadanantaraṃ asādhāraṇaṃ katāpattivāraṃ sekhiyāvasānaṃ pāḷikkamānurūpaṃ dassetvā tadanantarā vipattivārādayo cha vārā ubhayavibhaṅgasādhāraṇato vakkhamānāti katvā tepi ṭhapetvā ime paccayasaddena ayojetvā dassitā aṭṭheva vārā puna methunaṃ dhammaṃ paṭisevanapaccayā pārājikaṃ kattha paññattantiādinā  paccaya-saddaṃ yojetvā dassitā apare aṭṭha vārā yojitāti tatthāpi dutiyaṃ katāpattipaccayavāraṃ iminā katāpattivārena ekaparicchedaṃ katvā dassetumāha tiādi ti paṭisevanahetunā
-ti  jīvamānasarīre tiṇṇaṃ maggānaṃ aññatarasmiṃ magge allokāsappavesane mate akkhāyite vā -saddena yebhuyyaakkhāyite pavesane pavesananimittaṃ  dhammaṃ  bhikkhu pārājikaṃ phuseti sambandho
+ parivāre paṭhamaṃ dassitasoḷasavārappabhede mahāvibhaṅge paṭhamaṃ pārājikaṃ kattha paññattantiādippabhedo  katthapaññattivāro  methunaṃ dhammaṃ paṭisevanto kati āpattiyo āpajjatītiādippabhedo  katāpattivāro methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ vipattīnaṃ kati vipattiyo bhajantītiādippabhedo  vipattivāro methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ āpattikkhandhānaṃ katihi āpattikkhandhehi saṅgahitātiādippabhedo  saṅgahavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo channaṃ āpattisamuṭṭhānānaṃ katihi samuṭṭhānehi samuṭṭhahantītiādippabhedo  samuṭṭhānavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo catunnaṃ adhikaraṇānaṃ katamaṃ adhikaraṇantiādippabhedo  adhikaraṇavāro methunaṃ dhammaṃ paṭisevantassa āpattiyo sattannaṃ samathānaṃ katihi samathehi sammantītiādippabhedo  samathavāro tadanantaro imehi sattahi vārehi misso  aṭṭhamo samuccayavāroti imesu aṭṭhasu vāresu ādibhūte katthapaññattināmadheyye appanāvāre saṅgahetabbānaṃ nidānādisattarasalakkhaṇānaṃ ubhayavibhaṅgasādhāraṇato upari vakkhamānattā taṃ vāraṃ ṭhapetvā tadanantaraṃ asādhāraṇaṃ katāpattivāraṃ sekhiyāvasānaṃ pāḷikkamānurūpaṃ dassetvā tadanantarā vipattivārādayo cha vārā ubhayavibhaṅgasādhāraṇato vakkhamānāti katvā tepi ṭhapetvā ime paccayasaddena ayojetvā dassitā aṭṭheva vārā puna methunaṃ dhammaṃ paṭisevanapaccayā pārājikaṃ kattha paññattantiādinā  paccayasaddaṃ yojetvā dassitā apare aṭṭha vārā yojitāti tatthāpi dutiyaṃ katāpattipaccayavāraṃ iminā katāpattivārena ekaparicchedaṃ katvā dassetumāha tiādi ti paṭisevanahetunā
+ti  jīvamānasarīre tiṇṇaṃ maggānaṃ aññatarasmiṃ magge allokāsappavesane mate akkhāyite vā saddena yebhuyyaakkhāyite pavesane pavesananimittaṃ  dhammaṃ  bhikkhu pārājikaṃ phuseti sambandho
  tathā yebhuyyakkhāyite upaḍḍhakkhāyite ca methunaṃ dhammaṃ paṭisevanto bhikkhu thullaccayaṃ phuseti yojanā vaṭṭakate mukhe dukkaṭaṃ vuttanti sambandho ti bhikkhuniyā jatumaṭṭhake dinne pācitti vuttāti sambandho
 ti kāyasaṃsaggarāgena tintassa ti gahaṇakiriyāsambandhe sāmivacanaṃ ti attasambandhe sāmivacanaṃ attanoti seso avassutena posena attano adhakkhakādigahaṇaṃ sādiyantiyā tathā avassutāya bhikkhuniyā pārājikanti yojanā
 ti attano kāyena nti mātugāmassa kāyaṃ ti kāyasaṃsaggarāgena phusato nti etthāpi eseva nayo

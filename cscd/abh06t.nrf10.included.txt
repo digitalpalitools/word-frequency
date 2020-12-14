@@ -19,9 +19,9 @@ mahābhūtena desitā
 vañcakattā abhūtena ti saññitā
 
  cakkhu  sotañca ghānañca jivhā kāyo ca rūpatā
-saddo gandho raso itthi-purisindriyajīvitaṃ
+saddo gandho raso itthipurisindriyajīvitaṃ
 
- vatthumāhāratā kāya-vacīviññattiyo duve
+ vatthumāhāratā kāyavacīviññattiyo duve
 ākāso ceva rūpassa lahutādittayampi ca
 
  upacayo santatirūpaṃ jaratāniccatāpi ca
@@ -184,11 +184,11 @@ purisabhāvalakkhaṇaṃ purisindriyaṃ purisoti pakāsanarasaṃ purisaliṅg
 nti 
 
  jīvitindriyaniddese vattabbaṃ yaṃ siyā idha
-arūpajīvite vutta-nayeneva ca taṃ vade
+arūpajīvite vuttanayeneva ca taṃ vade
 lakkhaṇādīni  panassa evaṃ veditabbāni sahajarūpaparipālanalakkhaṇaṃ jīvitindriyaṃ tesaṃ pavattanarasaṃ tesameva ṭhapanapaccupaṭṭhānaṃ yāpayitabbabhūtapadaṭṭhānanti
  hadayavatthu
 
- yaṃ nissāya manodhātu-manoviññāṇadhātuyo
+ yaṃ nissāya manodhātumanoviññāṇadhātuyo
 vattanti pañcavokāre taṃ vatthūti pavuccati
 manodhātumanoviññāṇadhātūnaṃ  nissayalakkhaṇaṃ hadayavatthu tāsañceva dhātūnaṃ ādhāraṇarasaṃ ubbāhanapaccupaṭṭhānaṃ
 ti kabaḷīkāro āhāro ojaṭṭhamakaṃ rūpaṃ āharatīti āhāro
@@ -292,7 +292,7 @@ eteheva ca rūpāni jāyanti na panaññato
 aṭṭhindriyāni vatthuñca viññattidvayameva ca
 
  aṭṭhindriyāni vatthuñca ekanteneva kammajā
-cittajaṃyeva viññatti-dvayaṃ vuttaṃ mahesinā
+cittajaṃyeva viññattidvayaṃ vuttaṃ mahesinā
 
  cittena utunā ceva saddo dvīhi samuṭṭhito
 utuāhāracittehi lahutādittayaṃ kataṃ
@@ -380,7 +380,7 @@ tathā kāyappasādoti sabbaṭṭhānāti vaṇṇitā
 cakkhukāyapasādānaṃ ekattaṃ upapajjati
 
  aññaṃ pana ca aññasmiṃ na catthi paramatthato
-tasmā kāyindriyaṃ cakkhu-pasādena na saṅkaraṃ
+tasmā kāyindriyaṃ cakkhupasādena na saṅkaraṃ
 
  aññamaññāvinibbhogavasena  tu pavattito
 tesaṃ ṭhānantaraṃ vattuṃ na sakkā samayaññunā
@@ -414,7 +414,7 @@ taṃ bārasavidhaṃ rūpaṃ oḷārikamudīritaṃ
  sesāni pana rūpāni sukhumāni tu soḷasa
 kammajaṃ tu upādinnaṃ anupādinnamaññathā
 evañca duvidhaṃ hoti
-puna  sanidassanasappaṭighaanidassanasappaṭigha- anidassanaappaṭighabhedato ca kammajākammajanevakammajānākammajabhedato ca  tattha rūpāyatanaṃ sanidassanasappaṭighaṃ ekādasavidhaṃ sesoḷārikarūpaṃ anidassanasappaṭighaṃ sesaṃ soḷasavidhaṃ sukhumarūpaṃ anidassanaappaṭighaṃ kammato jātaṃ kammajaṃ aṭṭhindriyāni vatthu ca kammajaṃ tadaññappaccayā jātaṃ akammajaṃ nakutoci jātaṃ nevakammajānākammajaṃ jaratā aniccatā ca evaṃ tividhaṃ hoti
+puna  sanidassanasappaṭighaanidassanasappaṭigha anidassanaappaṭighabhedato ca kammajākammajanevakammajānākammajabhedato ca  tattha rūpāyatanaṃ sanidassanasappaṭighaṃ ekādasavidhaṃ sesoḷārikarūpaṃ anidassanasappaṭighaṃ sesaṃ soḷasavidhaṃ sukhumarūpaṃ anidassanaappaṭighaṃ kammato jātaṃ kammajaṃ aṭṭhindriyāni vatthu ca kammajaṃ tadaññappaccayā jātaṃ akammajaṃ nakutoci jātaṃ nevakammajānākammajaṃ jaratā aniccatā ca evaṃ tividhaṃ hoti
 puna diṭṭhasutamutaviññātavasena ca dvārañceva vatthu ca dvārameva hutvā na vatthu ca vatthumeva hutvā na dvārañca neva dvārañca na vatthu cāti evaṃ bhedato ca dvārañcevindriyañca dvāraṃyeva hutvā nevindriyañca indriyameva hutvā na dvārañca neva dvārañca nevindriyañcāti evaṃ  bhedato ca vatthu ceva indriyañca indriyameva hutvā na vatthu ca vatthumeva hutvā nevindriyañca nevindriyaṃ na vatthu ceti evaṃ bhedato ca 
 tattha  diṭṭhaṃ nāma rūpāyatanaṃ sutaṃ nāma saddāyatanaṃ mutaṃ nāma gandharasaphoṭṭhabbāyatanattayaṃ viññātaṃ nāma avasesacakkhāyatanādipañcakaṃ soḷasavidhaṃ sukhumarūpañca cakkhāyatanādipañcakaṃ dvārañceva vatthu ca viññattidvayaṃ dvārameva hoti na vatthu hadayavatthu vatthumeva hoti na dvāraṃ sesaṃ sabbaṃ rūpaṃ neva dvāraṃ na vatthu ca tatiyacatukke indriyameva hutvā na dvāranti itthindriyapurisindriyajīvitindriyāni imāni hi indriyāneva honti na dvārāni sesamanantaracatukke vuttanayeneva veditabbaṃ catutthacatukke tatiyapadaṃ hadayavatthuṃ sandhāya vuttaṃ sesaṃ vuttanayameva evaṃ catubbidhaṃ hotīti veditabbaṃ
 puna ekajadvijatijacatujanakutocijātabhedato dvārindriyaṃ vatthu ca dvārameva hutvā nevindriyaṃ na vatthu ca vatthumeva hutvā nevindriyaṃ na dvārañca indriyameva hutvā na vatthu na dvārañca nevindriyaṃ  na vatthu na dvārañcāti evaṃ pabhedato 
@@ -448,7 +448,7 @@ uppattiṃ pana rūpānaṃ paṭisandhipavattisu
  bhummavajjesu  devesu niraye nijjhāmataṇhike
 yoniyo purimā tisso na santīti viniddise
 
- sese gatittaye bhumma-devesupi ca yoniyo
+ sese gatittaye bhummadevesupi ca yoniyo
 catasso ca bhavantīti veditabbā vibhāvinā
 
  gabbhaseyyakasattassa paṭisandhikkhaṇe pana
@@ -475,14 +475,14 @@ kāmāvacaradevānaṃ niccaṃ rūpāni sattati
  cakkhu  sotañca ghānañca jivhā kāyo ca vatthu ca
 bhāvo cāti hi sattannaṃ dasakānaṃ vasā pana
 
- brahmānaṃ rūpinaṃ cakkhu-sotavatthuvasā pana
+ brahmānaṃ rūpinaṃ cakkhusotavatthuvasā pana
 dasakāni ca tīṇeva navakaṃ jīvitassa ca
 
  catunnaṃ tu kalāpānaṃ vasena pana rūpinaṃ
 cattālīseva rūpāni ekūnāni bhavanti hi
 
  jīvitanavakeneva  asaññuppatti dīpitā
-jaccandhabadhirāghāna-rahite tu napuṃsake
+jaccandhabadhirāghānarahite tu napuṃsake
 
  vatthuno kāyajivhānaṃ vasā tiṃsāvakaṃsato
 ukkaṃsassāvakaṃsassa antare anurūpato

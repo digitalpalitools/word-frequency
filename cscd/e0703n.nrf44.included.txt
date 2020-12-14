@@ -33,7 +33,7 @@ māṇavammassa pādāsi maññanto aññameva taṃ
  so taṃ gahetvā cintesi sakhaṃ pesa narādhipo
 ucchiṭṭhaṃ nāma kiṃ hoti sattānaṃ paramatthato
 
- tasmā yuttaṃ mayāpātu-mīti cintiya taṃ pivi
+ tasmā yuttaṃ mayāpātumīti cintiya taṃ pivi
 evaṃ honti mahussāhā detukāmāhi buddhino
 
  rājāpi disvā taṃ bhīto tassapī tāva sesakaṃ
@@ -63,7 +63,7 @@ saṅgahesi kimatthaṃ maṃ samānattena attano
  tasmā yuttaṃ mayā gantuṃ sahasaṅgāma maṇḍalaṃ
 sukhañhi saddhiṃ tenettha jīvitaṃ maraṇaṃpi vā
 
- evaṃ cintiya sannaddha-balo hatthivaraṃ gato
+ evaṃ cintiya sannaddhabalo hatthivaraṃ gato
 gantvā dassesi attānaṃ so taṃ saṅgāma maṇḍale
 
  narasīhova taṃ disvā haṭṭhatuṭṭho samuggiri
@@ -166,7 +166,7 @@ uttaraṃ desamādāya katvā hatthagataṃ janaṃ
 potthakuṭṭhopi taṃ sutvā paccuggañchi mahābalo
 
  saṃgacchiṃsu ubho senā bhinnavelāva sāgarā
-māṇavammo tato hatthi-māruyha gahitāyudho
+māṇavammo tato hatthimāruyha gahitāyudho
 
  potthakuṭṭhañca rājānaṃ dvedhā katvā palāpayi
 hatthadāṭhaṃ palāyantaṃ disvā janapadā narā

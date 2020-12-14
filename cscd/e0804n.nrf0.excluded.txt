@@ -3,7 +3,7 @@ Saddanītippakaraṇaṃ
 Dhātumālā
 15. Saravaggapañcakantika suddhassaradhātu
 ,;
-.
+-.
 ,;
 ,’.
 I gatiyaṃ.,...kāyagamanaṃ,ñāṇagamanaṃ,‘‘’’‘‘’’,‘‘’’,‘‘’’,,.‘‘’’‘‘’’..‘‘’’..
@@ -19,14 +19,14 @@ itāya.Iti.–‘‘’’,.,.‘‘’’.
 Etī.‘‘’’ā.,āie.‘‘.’’‘‘,’’.,.itī,etī..?,.,?.,.–
 I gatiya,;
 ,.
-;
+-;
 ‘‘’’,.
 ,;
 ,.
 ‘‘’’,;
 ,.
 ‘‘,’’;
-,‘‘’’.
+,‘‘’’-.
 ,,.suttanipātaṭṭhakathāyaṃ‘‘,’’.
 itiito–iti.‘‘’’.‘‘,.,,’’.‘‘’’.‘‘’’.‘‘,.,.,’’.‘‘.,’’.‘‘,’’..‘‘’’iti.,,.–
 ,ito;
@@ -36,20 +36,20 @@ Ima,;
 ,;
 ,.
 samayaayai e ayasamaya.itīi‘‘,’’etya..tya,bhūvādi–
-A;
+A-;
 Bhavati rundhatā,.
 ’’,;
 ,.
-Ātya;
-‘‘’’.
-I;
-‘‘’’.
-Utyasuti;
+Ātya-;
+‘‘-’’.
+I-;
+‘‘’’-.
+Utya-suti;
 ,.
-Etya;
+Etya-;
 ‘‘,’’.
-Otya;
-‘‘’’;
+Otya-;
+‘‘’’-;
 ,;
 ,.
 ‘‘’’,;
@@ -130,7 +130,7 @@ Hikka abyattasadde. Abyattasaddo.,.‘‘ubhayatobhāsā’’..‘‘,,,’’.
 Imāni kakārantadhāturūpāni.
 Khakārantadhātu
 Khā pakathane khyā.Pakathanaṃ.,.Ākhā,ā,.....ka......,..‘‘’’‘‘’’‘‘’’.,,.saṅkhā–saṅkhā.‘‘’’.‘‘’’.‘‘’’.‘‘’’.–
-‘‘;
+‘‘-;
 Saṅkhā,’’.
 Khi khaye..iiyyā,.‘‘,’’.khayo.,..Kha,kha.
 Khi nivāse.,.iīya iyyā.divādi...khīyatī.Kha.Khaya.Rājakkhaya.–
@@ -273,10 +273,10 @@ Añca byayagatiyaṃ. Byayagati..
 Yāca yācanāyaṃ.......,,,..,,,..,,,.,,.,,,,,,,.tu.
 Paca pāke..‘‘Ubhayatobhāsā’’.‘‘’’vaca,paca.‘‘’’.‘‘’’‘‘’’‘‘.’’.‘‘bhūvādi,‘’‘’’’,‘‘’’,.,.‘‘’’.
 ‘‘’’,.,.‘‘’’.
-sayaṃ,.,,‘‘,’’sayaṃ.‘‘’’‘‘’’divādi.Pacadivādi?,,,pacadivādi.dhammapālācariya anuruddhācariyādivādi–
+sayaṃ,.,,‘‘,’’sayaṃ.‘‘’’‘‘’’divādi.Pacadivādi?,,,pacadivādi.dhammapālācariya anuruddhācariyādivādi–-
 ,;
 ,.
-
+-
 ..curādibhūvādibhūbhūvādidivādipaca.,–
 ,;
 ,pacabhidā.
@@ -323,15 +323,15 @@ Vacchuvapavaca,vutta;
 ,.
 –vutta‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’,
 ‘‘,;
-;
+-;
 ,vutta’’.
 –vutta.–
 ‘‘,;
 ,’’
 .‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘,’’.‘‘,,’’.–
-Vapa vatu vacchuvaca;
+Vapa vatu vacchuvaca-;
 ,vutta.
-;
+-;
 ,;
 ,;
 Taccha tanukaraṇe...
@@ -363,7 +363,7 @@ Tuja hiṃsāyaṃ..
 Tuji balane ca. Balanaṃ.ca..
 Gaja kuji muji gajja....,.,......gajo.–
 ,;
-’.
+-’.
 ,;
 ,.
 Caja cāge......,..
@@ -620,17 +620,17 @@ Thī,itthī;
 Thī,itthī.
 ,;
 ‘‘,,’’.
-‘‘’’;
+‘‘’’-;
 ,.
 ,;
 .
 –
 ,;
-.
+-.
 ,’;
 ,.
 ,;
-.
+-.
 gorīdārikā.kaññā..kumārīkumārikā.yuvatītaruṇīmāṇavikā.therīmahallikā..
 ,.‘‘,’’‘‘’’dārikā,kaññā.kaññā,dārikā.‘‘,’’‘‘,’’dārikā,kumārikā.kumārī,dārikā.‘‘’’‘‘,’’,,.
 –‘‘’’,‘‘,’’,‘‘,’’‘‘’’?.,,..‘‘’’kumārako.Udānaṭṭhakathāyaṃ‘‘,kumārakā, bālā,yuvāno’’.
@@ -682,7 +682,7 @@ datta,.
 ‘‘,’’;
 dinna,.
 ‘‘’’,;
-.
+-.
 –
 ‘‘,
 .
@@ -744,10 +744,10 @@ Idi paramissariye.,.
 indo.indo.indo.–
 ,;
 ,.
-;
+-;
 ,.
 ,;
-;
+-;
 ,.
 ..–
 ,‘‘’’.,‘‘’’.,‘‘’’.,‘‘’’.,‘‘’’.,‘‘’’.,‘‘’’.
@@ -779,8 +779,8 @@ Cadi hilādane dittiyañca. Hilādanaṃ.Ditti..,.
 ,;
 ,.
 ,;
-;
-.
+-;
+-.
 Tadi cetāyaṃ...
 Kadi kaladi avhāne rodane ca.,.,,.
 Kalidi paridevane..
@@ -843,7 +843,7 @@ Vada viyattiyaṃ vācāyaṃ.,.,,,.,,,...‘‘’’vajjatī.‘‘’’,,‘
 ‘‘,,’’tu.
 vādo.vajjaṃ,?.,‘‘’’.vadanaṃ,.–
 ,;
-.
+-.
 vadatī.vadatī,.vajjatī.
 ,,.,.,.,.,.,.
 ,.,,.,.,.,.,.
@@ -1008,7 +1008,7 @@ Pū pavane..,.putto.Kiyā‘‘’’.
 ,.
 puññaṃ.puññaṃ.puññaṃ.puññaṃ.
 ,;
-.
+-.
 Pe gatiyaṃ.,.,.,.,.
 Pevuddhiyaṃ.,.apāyo.Aya,,apāyo,.
 Pe sosane.,..nipako,,.
@@ -1080,7 +1080,7 @@ Yabha methune.methūnaṃ,yabha...
 –
 ,;
 ,.
-;
+-;
 ,’.
 Sibha vibha katthane...
 Debhaabhi dabhi sadde.....
@@ -1104,7 +1104,7 @@ vīriyārambho.Ārambha.
 ,’’
 .‘‘’’.‘‘,’’.‘‘,’’.‘‘’’.‘‘’’.–
 ,;
-ārambha;
+ārambha-;
 Labha lābhe.,.,,,.
 Subha dittiyaṃ..,,.
 Khubha sañcalane.,.,.,.
@@ -1115,7 +1115,7 @@ Dabhi ganthane...
 Rubhi nivāraṇe.,.,.
 Ubha ubbha umbha pūraṇe............‘‘..’’.
 keṭubha.,kiṭaubha.ubbhaṃ,.Cariyāpiṭakepi,?‘‘,’’.accubbha.Akkhumbha.Kumbho,,.‘‘’’.
-Kumbha;
+Kumbha-;
 ,.
 Bhakārantadhāturūpāni.
 Makārantadhātu

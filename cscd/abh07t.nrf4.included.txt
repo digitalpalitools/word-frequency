@@ -27,7 +27,7 @@ sesaṭṭhānesu labbhanti ariyānariyāpi ca
  sā panāyaṃ dasavidhāpi kāmāvacarapaṭisandhicceva saṅkhaṃ gacchati
  tesu  catunnaṃ apāyānaṃ manussānaṃ vinipātikāsurānañca āyuppamāṇagaṇanāya niyamo natthi
  cātumahārājikānaṃ pana devānaṃ dibbāni pañcavassasatāni āyuppamāṇaṃ manussagaṇanāya navutivassasatasahassappamāṇaṃ hoti tato catugguṇaṃ tāvatiṃsānaṃ tato catugguṇaṃ yāmānaṃ tato catugguṇaṃ tusitānaṃ tato catugguṇaṃ nimmānaratīnaṃ tato catugguṇaṃ paranimmitavasavattīnaṃ
- navasatañcekavīsa-vassānaṃ koṭiyo tathā
+ navasatañcekavīsavassānaṃ koṭiyo tathā
 vassasatasahassāni saṭṭhi ca vasavattisu
  paṭhamajjhānavipākaṃ  paṭhamajjhānabhūmiyaṃ paṭisandhibhavaṅgacutivasena pavattati
  tathā dutiyajjhānavipākaṃ tatiyajjhānavipākañca dutiyajjhānabhūmiyaṃ
@@ -82,8 +82,8 @@ ekameva tathevekavisayañcekajātiyaṃ
  tatthāpi tihetukamukkaṭṭhaṃ kusalaṃ tihetukaṃ paṭisandhiṃ datvā pavatte soḷasa vipākāni vipaccati
  tihetukamomakaṃ dvihetukamukkaṭṭhañca kusalaṃ dvihetukaṃ paṭisandhiṃ datvā pavatte tihetukarahitāni dvādasa vipākāni vipaccati
  dvihetukamomakaṃ pana kusalaṃ ahetukameva paṭisandhiṃ deti pavatte ca ahetukavipākāneva vipaccati
- asaṅkhāraṃ sasaṅkhāra-vipākāni na paccati
-sasaṅkhāramasaṅkhāra-vipākānīti kecana
+ asaṅkhāraṃ sasaṅkhāravipākāni na paccati
+sasaṅkhāramasaṅkhāravipākānīti kecana
 tesaṃ dvādasa pākāni dasāṭṭha ca yathākkamaṃ
 yathāvuttānusārena yathāsambhavamuddise
  rūpāvacarakusalaṃ  pana paṭhamajjhānaṃ parittaṃ bhāvetvā brahmapārisajjesu uppajjati

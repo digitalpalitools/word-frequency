@@ -19,7 +19,7 @@ Sikkhābhājanavinicchaye‘‘’’.‘‘’’.sāmaṇerasikkhāya–
 .
 ,....–
 ‘‘,;
-.
+-.
 ,;
 ,.
 ‘Elā’,;
@@ -65,7 +65,7 @@ Saṅghādisesakathāvaṇṇanā niṭṭhitā.
 Kathinavaggavaṇṇanā paṭhamā.
 45.ādīsu pañcasu.Payoge.Lābhe.
 46.‘‘’’.Atikkama.
-47.Aññāyā.‘‘’’.Eḷalomaka..Payoge.
+47.Aññāyā.‘‘’’.Eḷalomaka.-.Payoge.
 48.Payoge.
 49.Nānākāra.Samāpajja.Samāpanne.Payoge.
 50.Payoge.Tasmiṃ kate.
@@ -100,7 +100,7 @@ Musāvādavaggavaṇṇanā paṭhamā.
 76.Pātento.Tassā.Pāte.
 77..
 78.Para.Ujjhāpento‘‘’’,.Payoge.
-83.jānaṃ,kappayato.Payogedukkaṭādayo.Ādi.
+83.jānaṃ,kappayato.Payogedukkaṭādayo.Ādi-.
 84.Payoge‘‘’’‘‘’’.Sesa.
 85.‘‘’’.Āhaccapādake‘‘’’.Sīda.Dukkaṭādayo,.
 86.,‘‘’’adhiṭṭhitvā dvattipariyāye.Payoge.Adhiṭṭhite.
@@ -109,7 +109,7 @@ Bhūtagāmavaggavaṇṇanā dutiyā.
 88...
 89.vibhāgatā.
 90.Aññātikāyadentoduve.Payoge.
-93.‘‘’’.Payoge.Dukkaṭādayoādi.
+93.‘‘’’.Payoge.Dukkaṭādayoādi-.
 94.‘‘’’.
 96.dvepi.
 Ovādavaggavaṇṇanā tatiyā.
@@ -119,13 +119,13 @@ Ovādavaggavaṇṇanā tatiyā.
 102.Tassā.Piṭake.
 103.Dasamepī‘‘’’.
 Bhojanavaggavaṇṇanā catutthā.
-104.Acelakādinoādi‘‘’’(pāci. 270).Bhojanādikaādi.Payoge.
+104.Acelakādinoādi-‘‘’’(pāci. 270).Bhojanādikaādi-.Payoge.
 105.Dāpetvā vā adāpetvā vā.Payoge.Tasmi..
 109.Ummārātikkame.
 110.Taduttari.
 111..
 Acelakavaggavaṇṇanā pañcamā.
-114.Mereyya.,.mereyya.Munī.
+114.Mereyya.--,-.-mereyya-.Munī.
 115.‘‘’’.Payoge.Tassā.
 116.heṭṭhā.uparigopphakaṃ,,,.
 117.Anādariya,.Payoge.Kate.
@@ -134,7 +134,7 @@ Acelakavaggavaṇṇanā pañcamā.
 120.Payoge.Itara.
 121.Tiṇṇaṃ dubbaṇṇakaraṇāna.Ekaṃanādiya.Cīvara.
 122.,,.
-123.Apanidhento.Pattādikaādi.Payoge.Tasmiṃ.sesā.
+123.Apanidhento.Pattādikaādi-.Payoge.Tasmiṃ.sesā.
 Surāpānavaggavaṇṇanā chaṭṭhā.
 124.Tapodhano,.
 125.Tasmiṃ.
@@ -174,8 +174,8 @@ Pācittiyakathāvaṇṇanā niṭṭhitā.
 Pāṭidesanīyakathāvaṇṇanā.
 161..
 Sekhiyakathāvaṇṇanā.
-162.‘‘’’(pari. 1),‘‘’’(pari. 157),‘‘’’(pari. 182),‘‘’’(pari. 182),‘‘’’(pari. 184),‘‘’’(pari. 185),‘‘’’(pari. 186),,‘‘’’(pari. 188)‘‘paññattā’’.Paṭisevanapaccayā.
-163.Allokāsappavesane.pimethunaṃpaṭisevanto.
+162.‘‘’’(pari. 1),‘‘’’(pari. 157),‘‘’’(pari. 182),‘‘’’(pari. 182),‘‘’’(pari. 184),‘‘’’(pari. 185),‘‘’’(pari. 186),,‘‘’’(pari. 188)-‘‘paññattā’’.Paṭisevanapaccayā.
+163.Allokāsappavesane.pi-methunaṃpaṭisevanto.
 164.,..Jatumaṭṭhake.
 166.Avassutassā.Posassā.Bhikkhuniyā.‘‘’’..
 167.Kāyenā.Kāya.Phusato.Kāyena kāyabaddha.

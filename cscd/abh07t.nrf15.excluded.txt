@@ -2,7 +2,7 @@
 1.Salakkhaṇāvatthudhammā,yathāyogaṃsamuccayaṃ.
 2.akusalasaṅgaho.missakasaṅgaho,bodhipakkhiyasaṅgaho.sabbasaṅgaho.
 Akusalasaṅgahavaṇṇanā
-3.,āsavā.āsavā.ā,.‘‘’’mariyādo.‘‘’’abhividhi..,.,.kāmāsavo,.bhavāsavo..,,.diṭṭhāsavo.,,,,avijjāsavo.
+3.,āsavā.āsavā.ā-,.‘‘’’mariyādo.‘‘’’abhividhi..,.,.kāmāsavo,.bhavāsavo..,,.diṭṭhāsavo.,,,,avijjāsavo.
 4.,‘‘’’,oghā,‘‘’’.
 5.,,yogā,.
 6.,kāyaganthā.,,parāmāso.‘‘,’’idaṃ saccābhiniveso.
@@ -17,10 +17,10 @@ Akusalasaṅgahavaṇṇanā
 12.,kilesā.
 13.Kāmabhavanāmenā.Tathāpavatta.
 14.vatthuto.Tathā upādānā.Nīvaraṇā aṭṭha siyuṃ.Anusayā chaḷeva honti.Nava saṃyojanā matā,.,.Itipāpānaṃ.–
-;
-;
+-;
+-;
 .
-;
+-;
 ,.
 Akusalasaṅgahavaṇṇanā niṭṭhitā.
 Missakasaṅgahavaṇṇanā
@@ -58,7 +58,7 @@ Sabbasaṅgahavaṇṇanā
 45.dhātuyo.,,,,,,dhātuyo.–
 ‘‘,;
 ,;
-’’.
+-’’.
 ‘‘cakkhudhātū’’..
 46.,ariyasaccāni.,,.,,,,.–
 ‘‘,;

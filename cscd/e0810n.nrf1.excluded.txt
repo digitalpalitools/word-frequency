@@ -103,13 +103,13 @@ Khippā.?javā,sīghā,‘‘passati (ka.),’’,‘‘,’’.‘‘,’’?.k
 42-43..tinayanaggidaḍḍhattā (ka.)aviggaho.kāmo,a.manobhū.madano.antako.vasavattī.,pāpimā.,,pajāpati.,pamattabandhu.kaṇho.māro.namuci.,,,,,,,,,,,.
 tassa.,taṇhā, sa,.aratī.ragā. Tassa..‘‘’’,‘‘,’’.
 44..,,yamarājā.,,vesāyī.,‘‘’’,,,vesāyī,.yamo.,,,,,.Assa..
-.,.vepacittisaṃ. ni. aṭṭha. 1.1.256.pulomo,,pulomo.‘‘’’nānatthasaṅgahe...,,kimpuriso.kinnaro.,.
+.,.vepacittisaṃ. ni. aṭṭha. 1.1.256.pulomo,,pulomo.‘‘-’’nānatthasaṅgahe...,,kimpuriso.kinnaro.,.
 45-46..,antalikkhaṃ, ralo.,antalikkhaṃ.khaṃ,.ādiccapatho.abbhaṃ.gaganaṃ,,go.ambaraṃ,.Haya,vehāso, yaso,vehāso.anilapatho.ākāso,ākāso.nabhaṃ,nabhaṃ,,nabhaṃ.vehāyasaṃ,.,tārāpatho.surapatho.aghaṃ, hanagho.,.
 47-48.Meghādye.megho.valāhako, vārivo, valopāṇini 6.3.109; moggallānapañcikā 1.47; nīti-sutta 1340, 1343.devo.pajjunno,.ambudharo.ghano, hagho.dhārādharo.jīmūto, vana,jīmūto, vita,jīvitajīpāṇini 6.3.109; moggallānapañcikā 1.47; nīti-sutta 1340, 1343..vārivāho.ambudo.abbhaṃ,,pabo.
 .vassaṃ, vassa.vassanavuṭṭhiyo.
 .,ta,sateritā.akkhaṇā.vijju.vijjutā.acirappabhā.
 49..meghanādo.dhanitaṃthanitaṃ (sī.),dhana.gajjitaṃ, gajja.rasitaṃ. Ādisabbatra napuṃsakebhāve to, ādinā svanitadhanitādayo (cintāmaṇiṭīkā), ādinā dhanitaharādarāsādayo (byākhyāsudhāṭīkā)..indāvudhaṃ, indadhanu.vātakkhittambu,.sīkaro,sīkaro, cako, aro,sīkaro, aī,kā.
-50..,āsāro.dhārā.sampāto, saṃvegato jaladhārānaṃ sambhūya patanaṃ dhārāsampāto, sara gatiyaṃ ghau iti āsāro (cintāmaṇiṭīkā)..karakā,karakā,‘‘,’’ruddo, kara.‘‘’’nānatthasaṅgahe.,ghanopalaṃ.duddinaṃ,duddina,duddina,.
+50..,āsāro.dhārā.sampāto, saṃvegato jaladhārānaṃ sambhūya patanaṃ dhārāsampāto, sara gatiyaṃ ghau iti āsāro (cintāmaṇiṭīkā)..karakā,karakā,‘‘,’’ruddo, kara.‘‘-’’nānatthasaṅgahe.,ghanopalaṃ.duddinaṃ,duddina,duddina,.
 51-52..Dhara,apā.pidhānaṃ, a.apadhāraṇaṃ.tirodhānaṃ.antaradhānaṃ,.apidhānaṃ.apā.chādanaṃ.,.
 .indu.cando.nakkhattarājā.,somo,somo, ma.,nisākaro.,,,,osadhīso.himaraṃsi.sasaṅko.candimā. I.sasī.sasī, ī.sītaraṃsi.nisānātho.uḷurājā.mā, mā,.,,,,,,,,,,.
 53-54.soḷasamo,kala,kalā..bimbaṃ. Manava,bo,,namo, vabo, bimba.maṇḍalaṃ,,,bimbo anitthī, maṇḍalaṃ tīsu (amara 3.15).
@@ -168,7 +168,7 @@ sabbapaṭipadattā (ka.).,,,,.–
 ’,.
 ,;
 ,.
-,;
+,-;
 ,’’.
 .‘‘’’..
 ,,,,,,.,,,.Khākāsambara...–.–.–.–.–..–
@@ -226,7 +226,7 @@ vitthāro bharatamunikate nāṭyasatthe catuttha ajjhāye passitabboaṅgavikkh
 102.nāṭyarasā.,subodhālaṅkārassa mahāsāmiṭīkāya 352 gāthāvaṇṇanāyampi.
 103.,‘‘posasse’’.paṭiccaposassapihāposepaṭiccapihā,,siṅgāro.,.,.,.
 104.uttamapakatippāyo,.itthipurisahetuko.,.–
-;
+-;
 ,.
 ,.–
 ‘‘,
@@ -241,15 +241,15 @@ iṭṭhanāsadhanāpāya (cintāmaṇiṭīkā),
 .
 vīro...
 abbhuto.
-;
-jālavijjādidassanā (ka.);
+-;
+-jālavijjādidassanā (ka.);
 ,.
 hāso.
 ,;
 ,.
 bhayānako.
-;
-.
+-;
+-.
 ,;
 ,.
 santo.
@@ -259,13 +259,13 @@ bībhaccho.
 ,;
 ,.
 ruddaṃ.
-,;
+,-;
 ,.
 ,.ratanakosa.–
-‘‘;
+‘‘-;
 ’,’’.
 Amarakose–
-‘‘;
+‘‘-;
 ’’amara 7.17.
 .?–
 ,
@@ -274,7 +274,7 @@ Amarakose–
 .
 ,....
 Rabhaso–
-‘‘;
+‘‘-;
 ’,’’.
 –
 ‘‘,
@@ -310,7 +310,7 @@ Sāttiko.–
 sāttikā.
 ṭhāyī. Byabhicārī.,,.sāttiko.anubhāvo‘‘’’.
 sambhogaratyā,.–
-‘‘;
+‘‘-;
 ,’’.
 Viyogassa–
 ,
@@ -320,18 +320,18 @@ Viyogassa–
 ,
 .
 Hāsassa,.
-
+-
 ;
 ,
 .
 bhayānako.
 Ruddassa.
-Vīro’
+Vīro’-
 ;
 ,
 .
 Bībhacchassa–
-
+-
 ;
 ,
 ’.
@@ -490,7 +490,7 @@ Tāpā.Tapa, dhupa,tāpo,.,,,kukkuccaṃ.pacchātāpo.anutāpo. Sara,vippaṭis�
 ‘‘,;
 ,.
 ,thīnaṃ ceṭṭhā (ka.);
-’’.
+-’’.
 ,,vilāso, vilasa.lalitaṃ, lala,.,līlā, lala,lala,.,helā,hila,.vibbhamo.vicchitti, chidi,..Kilakiñcitābyākhyāsudhāṭīkāṭīppaṇe.
 175..Hasa,.,.Miha.,mhi,mhi,mihisyā,sitaṃ..
 ,;

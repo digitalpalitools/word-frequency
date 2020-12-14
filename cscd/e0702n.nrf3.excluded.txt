@@ -24,11 +24,11 @@ Idaṃ rāmaññaraṭṭhe tatiyaṃ sāsanassa patiṭṭhānaṃ.
 ....
 ..,.
 .,,..
-,,,.
+,-,,.
 ..,–,,,,.
 .....
 ..,.
-..,,...,...
+..,-,...,...
 ...
 Idaṃ rāmaññaraṭṭhe catutthaṃ sāsanassa patiṭṭhānaṃ.
 ..
@@ -39,8 +39,8 @@ Idaṃ rāmaññaraṭṭhe chaṭṭhaṃ sāsanassa patiṭṭhānaṃ.
 ..
 ,,.,.
 .
-,–,.,,,.
-,,,,,,,,,,...
+,–,.,-,,.
+,-,,,,,,,,,...
 ..
 ..
 ..

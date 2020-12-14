@@ -72,7 +72,7 @@ Saṃvarā pahātabbāsavā
 22.‘‘,,?,,.,,,.…pe……pe……pe……pe….,,,.
 ‘‘,,,.,,.
 Paṭisevanā pahātabbāsavā
-23.‘‘,,?,,–‘,,siriṃsapa (sī. syā. pī.),’.
+23.‘‘,,?,,–‘,,-siriṃsapa (sī. syā. pī.),’.
 ‘‘–‘,,,,,,,,’cāti (sī.).
 ‘‘–‘,,,’.
 ‘‘–‘,’abyāpajjhaparamatāya (sī. syā. pī.), abyāpajjaparamatāya (ka.).
@@ -95,7 +95,7 @@ Sabbāsavasuttaṃ niṭṭhitaṃ dutiyaṃ.
 3. Dhammadāyādasuttaṃ
 29.–.–‘‘’’.‘‘’’.–
 ‘‘,,,.–‘,’.,,,ādissā (sī. syā. pī.)–‘,’;–‘,’.,,,,–‘,’;–‘,’.,,,.–‘,’.
-30.‘‘,,;chaḍḍiyadhammo (sī. syā. pī.).jighacchādubballa (sī. pī.).–‘,,;.,,sace tumhe na bhuñjissatha (sī. syā. pī.),,’.–‘;.,,’.–‘,,,’.,.rattidivaṃ (ka.)’’..–‘;.,,.paṭivinetvā (sī. syā. pī.)’..,,,.?,,.,,,.–‘,’’’.
+30.‘‘,,;chaḍḍiyadhammo (sī. syā. pī.).-jighacchādubballa (sī. pī.).–‘,,;.,,sace tumhe na bhuñjissatha (sī. syā. pī.),,’.–‘;.,,’.–‘,,,’.,.rattidivaṃ (ka.)’’..–‘;.,,.paṭivinetvā (sī. syā. pī.)’..,,,.?,,.,,,.–‘,’’’.
 .vatvā (sī. pī.) evamīdisesu ṭhānesu.
 31.–‘‘’’.‘‘’’.–
 ‘‘,,,’’?‘‘,,.;’’.‘‘,,,’’.‘‘’’.–
@@ -225,10 +225,10 @@ Vatthasuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘‘,’.‘,’.‘vecikicchī (sī. pī. ka.),’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘,’.‘anottappī (ka.),’.‘,’.‘,’.‘,’.‘,’.‘,’.
 84.‘‘,,bahūpakāraṃ (ka.),,,‘,’.‘,’…‘,’.
 85.‘‘,,,maggo tassāssa (sī. syā. pī.);,,,;,,,,,,,,,,,,,,,,,,,,,.
-‘‘,,,,,,,,,,amāyāvitā (ka.),,,,,,,,,,,,,.
-86.‘‘,,adhobhāvaṅgamanīyā (sī. syā. pī.),uparibhāvaṅgamanīyā (sī. syā. pī.),,,uparibhāvāya (sī. syā. ka.),…pe….
+‘‘,,,,,,,,,,amāyāvitā (ka.),,,,,,,,,,,,,---.
+86.‘‘,,adhobhāvaṅgamanīyā (sī. syā. pī.),uparibhāvaṅgamanīyā (sī. syā. pī.),,,uparibhāvāya (sī. syā. ka.),…pe…----.
 87.‘‘,,.,,.,,.,,.,,,...................
-‘‘........................
+‘‘.......................----.
 88.‘‘,,,,,,.,,,.‘,,,,,,,’–’’.
 ..
 ,;

@@ -2,7 +2,7 @@
 1. Paṭhamavaggo
 1. Daharasuttavaṇṇanā
 112.bhagavatā saddhiṃ sammodī,..–‘‘,,,,’’,sammodanīyaṃ,sāraṇīyaṃ.,.,,bhavampi no.
-bhavampī,.‘‘’’,.,.yaṃ hi taṃ mahārājā.ahaṃ hi mahārājā.Samaṇabrāhmaṇā,.Saṅghinosaṅghino.gaṇino.gaṇācariyā. Ñātā.‘‘’’yasassino. Titthakarā.Sādhusammatā‘‘’’.Bahujanassā.Pūraṇo.Pūraṇo.,makkhalī.gosālo.Nāṭaputto.Belaṭṭhaputto.Kaccāyano.ajito kesakambalo.
+bhavampī-,.‘‘’’,.,.yaṃ hi taṃ mahārājā.ahaṃ hi mahārājā.Samaṇabrāhmaṇā,.Saṅghinosaṅghino.gaṇino.gaṇācariyā. Ñātā.‘‘’’yasassino. Titthakarā.Sādhusammatā‘‘’’.Bahujanassā.Pūraṇo.Pūraṇo.,makkhalī.gosālo.Nāṭaputto.Belaṭṭhaputto.Kaccāyano.ajito kesakambalo.
 Tepi mayā.‘‘’’–‘‘,,,’’.‘‘’’–‘‘’’.‘‘’’–‘‘’’.
 –‘‘’’.,‘‘,…pe…’’.‘‘’’.,‘‘.’’,.‘‘’’.,.
 ‘‘’’‘‘,’’.–‘‘‘’,‘’,’’‘’..–‘‘’’?‘‘’’,–‘‘,’’‘’,,,.‘’–‘’,.kiṃ pana bhavaṃ gotamo daharo ceva jātiyā, navo ca pabbajjāyā.ki.‘‘’’,?.
@@ -13,10 +13,10 @@ Uccāvacehī.Vaṇṇehī.,,,,.Āsajjā.Bāla,.
 Pahūtabhakkha..Jālina.Pāvaka..Kaṇhavattani,,‘‘’’.
 Mahā hutvānā..Jāyantitattha pārohā.Pārohā.,‘‘’’.pārohā. Ahorattānamaccaye..
 Bhikkhu ḍahati tejasā.,.,..Na tassa puttā pasavo,.Dāyādā vindare dhana.Tālāvatthū bhavanti te,.
-Tasmā,.Sammadeva samācare.?,,‘‘.’’?.,...,.,sammadeva samācare.
+Tasmā,.Sammadeva samācare.?,,-‘‘.’’?.,...,.,sammadeva samācare.
 Etadavocā‘‘’’.abhikkanta,.‘‘,,’’.‘‘,,’’.
 .nikkujjita,.Ukkujjeyyā.Paṭicchanna.Vivareyyā.Mūḷhassā.Maggaṃ ācikkheyyā‘‘’’.Andhakāre.–,,,,,,,.
-esāha.esāha.Bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañcā.Upāsakaṃ maṃ, bhante, bhagavā dhāretū‘’,.Ajjatagge.,,.Pāṇupeta,,..
+esāha.esāha.Bhagavantaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañcā.Upāsakaṃ maṃ, bhante, bhagavā dhāretū‘’,.Ajjatagge.,-,.Pāṇupeta,,..
 2. Purisasuttavaṇṇanā
 113.abhivādetvā.Ajjhatta,.Lobhā,,.Hiṃsantī.Attasambhūtā.Tacasāraṃva samphala,..
 3. Jarāmaraṇasuttavaṇṇanā
@@ -38,7 +38,7 @@ jīrantī.Rājarathā.Sucittā.Atho sarīrampi jaraṃ upetī?.Santo have sabbhi
 9. Yaññasuttavaṇṇanā
 120.thūṇūpanītānī,.Parikammāni karontī.?.‘‘’’..‘‘’’..‘‘’’.‘‘,,’’‘‘’’.‘‘,,.,’’..
 ,‘‘‘’‘’’’..,,,.
-.,..,,,..
+.,..-,-,-,-..
 .‘‘,,’’?,‘‘’’.–‘‘,,,,,’’,‘‘,,,,’’.?‘‘,.’’.
 ,‘‘’’..‘‘’’.–‘‘,,,’’....‘‘’’.....–‘‘,,’’.–‘‘,,,.‘,,,’’’.,,..–,,.
 –
@@ -58,7 +58,7 @@ jīrantī.Rājarathā.Sucittā.Atho sarīrampi jaraṃ upetī?.Santo have sabbhi
 ‘‘,;
 ,’’.(dha. pa. 60);
 .Etamatthaṃ viditvā.
-Assamedha–,.sassamedhaṃ,.purisamedhaṃ,.sammāpāsaṃ.,,.‘‘’’,...niraggaḷa..
+Assamedha–,.sassamedhaṃ,.-purisamedhaṃ,.sammāpāsaṃ.,,.‘‘’’,...niraggaḷa..
 .assamedho..purisamedho..sammāpāso..vājapeyyo..niraggaḷo..Mahārambhā.Sammaggatā.Nirārambhā.Yajanti anukula,,..
 10. Bandhanasuttavaṇṇanā
 121.idha, bhante, raññā...‘‘’’.‘‘’’...‘‘,’’.–‘‘’’.–‘‘’’...‘‘’’..–‘‘,,,’’–
@@ -106,7 +106,7 @@ Mā hevaṃ, ānandā,,,,,.Sakalameva hidaṃ, ānanda, brahmacariyaṃ, yadida�
 Idhā.Sammādiṭṭhiṃ bhāvetī–........
 .–,,.,..,,,,,,.
 ,..,..,...
-‘‘’’bhāveti vivekanissita.Bhāvetī,,.Vivekanissita,.Viveko.,..Vivekanissita.,,,.virāganissitā..
+‘‘’’bhāveti vivekanissita.Bhāvetī,,.Vivekanissita,.Viveko.,---..Vivekanissita.,,,.virāganissitā..
 .pariccāgavossaggo,.Pakkhandanavossaggo,,.,.
 Vossaggapariṇāmi,.,,..
 Āgammā.Jātidhammā.Tasmā,.Handā.Appamādaṃ pasaṃsantī,.Atthābhisamayā..
@@ -146,5 +146,5 @@ Aññatra dhammacariyāyā,,–samacariyā.Ārocemī.Paṭivedayāmī.Adhivattat
 Nabhaṃ āhaccā.Evaṃ jarā ca maccu cā,‘‘’’.Tasmā,.Saddhaṃ nivesaye,..
 Tatiyo vaggo.
 Iti sāratthappakāsiniyā
-
+-
 Kosalasaṃyuttavaṇṇanā niṭṭhitā.

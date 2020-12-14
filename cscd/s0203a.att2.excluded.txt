@@ -15,7 +15,7 @@ Cūḷasuññatasuttavaṇṇanā niṭṭhitā.
 2. Mahāsuññatasuttavaṇṇanā
 185.Evaṃme suta.kāḷakhemakassā,.Vihāro.Sambahulāni senāsanānī,…pe…,.
 Sambahulānu kho,,...
-–,,.nirayo,,,.Tiracchānayoniyaṃ,..Petanagarāni..Asurabhavanaṃ..Manussaloke,..Bhummadevatā.,,.
+–,,-.nirayo,,,.Tiracchānayoniyaṃ,..Petanagarāni..Asurabhavanaṃ..Manussaloke,..Bhummadevatā.,,.
 –‘‘,’’.–‘‘‘’,,.,.,’’..‘‘,’’...
 186.Ghaṭāyā.Vihāre.Cīvarakamma,,.....Cīvarakārasamayo no–‘‘,.,’’;.–‘‘,,,’’.
 Na kho, ānandā,,,,..saṅgaṇikā.Gaṇo.,..Nekkhammasukha.Pavivekasukhampi.upasamasukhaṃ.sambodhisukhaṃ. Nikāmalābhī.Akicchalābhī.Akasiralābhī.
@@ -57,7 +57,7 @@ Evaṃvimuttā.vikkhambhanavimuttī.tadaṅgavimuttī.samucchedavimuttī.paṭip
 Aṭṭhāsī,.?.,,.–‘‘,,’’.
 200.Yāvatāyuka?...,,.
 Sato sampajāno tusitā kāyā cavitvā mātukucchiṃ okkamatī.–‘‘’’–,,,,.
-mālā..Vatthesu.,sedā.vivaṇṇatā,,..ukkaṇṭhitā,,.
+mālā.-.Vatthesu.,sedā.vivaṇṇatā,,..ukkaṇṭhitā,,.
 ,,,,.,,,.,–‘‘,’’.,–‘‘’’.‘‘’’.–‘‘,.,’’.
 pañcamahāvilokanaṃ.‘‘,’’..?,,‘‘’’,,...?,.....‘‘’’kālaṃ.
 dīpaṃ–‘‘,’’.
@@ -65,7 +65,7 @@ dīpaṃ–‘‘,’’.
 kulaṃ–‘‘,,,’’.
 mātaraṃ–‘‘,,..’’–‘‘’’.
 pañcamahāvilokanaṃ–‘‘’’‘‘’’..–‘‘,’’..
-,.,.‘‘,’’.–‘‘,.,.,,,’’..‘‘’’.
+,.,.‘‘,’’.–‘‘,.,.,,,’’.----.‘‘’’.
 .–‘‘.,,.,.
 .,.–‘‘’’.–‘‘,,,,.,.,’’..
 sato sampajāno..
@@ -86,14 +86,14 @@ Purisesū.,.,.,,.‘‘’’.
 Pañcannaṃ kāmaguṇāna‘‘’’,.‘‘’’,,.
 204.Akilantakāyā,,.Tirokucchigata..?.‘‘’’,,.,..,.,.seyyathāpī...
 205.Kālaṃkarotīti na vijātabhāvapaccayā, āyuparikkhayeneva. Bodhisattena vasitaṭṭhānañhi cetiyakuṭisadisaṃ hoti aññesaṃ,,.?.,,.,..
-Nava vā dasa vā.,.,.
+Nava vā dasa vā-.,.,.
 Ṭhitāvā......,...
 Devā naṃ paṭhamaṃ paṭiggaṇhantī.?.–....–‘‘’’.
 206.Cattāro naṃ devaputtā.Paṭiggahetvā.Mahesakkho.
 Visadova nikkhamatī,,.Udenā.Kenaci asucinā,...
 Udakassa dhārā.,...
 207.Sampatijāto.,.,,,.
-Setamhi chatte anudhāriyamāne...,.,..–
+Setamhi chatte anudhāriyamāne...,.----,..–
 ‘‘,
 ;
 ,
@@ -103,7 +103,7 @@ Sabbā ca disā,.,.–‘‘,’’.,,,.Āsabhi.Aggo..Ayamantimā jāti, natthi 
 ..,.,.,.,,,,,,.,,,,,,,,,,,,.
 ,,.,,,,,,,,,,.
 ,,,,,,,,,,,,,,..
-–‘‘,,?,?,?,?,’’?.–‘‘,.,.,.,.,’’.‘‘’’..
+–‘‘,,?,?,?,?,’’?.-–‘‘,.,.,.,.,’’.‘‘’’..
 Viditā.,,.,,‘‘’’..
 Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 Acchariyaabbhutasuttavaṇṇanā niṭṭhitā.
@@ -228,7 +228,7 @@ svāgata.,.,.,.‘‘’’,.‘‘,’’‘‘’’.rājā cakkavattī evamā
 ...
 ,.,.dakkhiṇasamuddaṃ ajjhogāhetvā…pe… evarūpaṃ cakkaratanaṃ pātubhavatī.
 Hatthiratanavaṇṇanā
-258.‘‘’’.,.,.‘‘’’.,..puna caparaṃ, bhikkhave…pe… nāgarājā.
+258.-‘‘’’.,--.,.‘‘’’.,..puna caparaṃ, bhikkhave…pe… nāgarājā.
 .‘‘,’’.,...,.,hatthiratanaṃ.disvāna rañño cakkavattissa…pe… evarūpaṃ hatthiratanaṃ pātubhavatī.
 Assaratanavaṇṇanā
 .,kāḷasīsomuñjakeso vehāsaṅgamo..assaratanaṃpuna capara.
@@ -272,7 +272,7 @@ Tatiyaṃ devadūta–‘‘,,,,,,.,.,,’’..
 Kukkulanirayo,.
 Āropentī.,.
 Vāteritānī.Hatthampi chindantī.,,.
-Khārodakā nadī.,.So tattha dukkhā tibbā kharā.,,,,.
+Khārodakā nadī.-,.So tattha dukkhā tibbā kharā.,,,,.
 270.Tattenaayosaṅkunā,,,.mahāniraye.,,,,.
 ,–‘‘,’’.,,.,,,...
 271.Hīnakāyūpagā.Upādāne.Jātimaraṇasambhave.Anupādā.Jātimaraṇasaṅkhaye.

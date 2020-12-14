@@ -56,7 +56,7 @@ Hetū.
 ,;
 ,.
 550.
-;
+-;
 ,.
 551.
 ,
@@ -69,7 +69,7 @@ Hetū.
 ,
 .
 553.
-;
+-;
 ,.
 554.
 ,;
@@ -117,7 +117,7 @@ Hetū.
 ,.
 568.
 ,;
-Jhānindriyamaggabala.
+Jhānindriyamaggabala-.
 569.
 ,;
 ,.
@@ -146,7 +146,7 @@ Jhānindriyamaggabala.
 ,;
 ,pañcadhā.
 578.
-;
+-;
 ,.
 579.
 ,;
@@ -188,7 +188,7 @@ Jhānindriyamaggabala.
 Chabbidho,;
 ,.
 592.
-;
+-;
 Catuvīsati,.
 Iti cetasikavibhāge cittuppādakathā niṭṭhitā.
 Soḷasamo paricchedo.

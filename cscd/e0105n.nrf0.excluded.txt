@@ -10,13 +10,13 @@ Kasmā kato,saṅghapālattherena.
 Mahāvaṃsa-buddhaghosakathā
 215.
 Bodhimaṇḍasamīpa,brāhmaṇamāṇavo;
-,.
+---,.
 216.
 ,;
 ,.
 217.
 ’,;
-.
+-.
 218.
 revato,;
 ‘‘,’’,.
@@ -27,7 +27,7 @@ revato,;
 ‘‘’’,;
 ,.
 221.
-‘‘’’;
+‘‘-’’;
 ’’,’’.
 222.
 ‘‘’’’,‘‘’’’;
@@ -36,7 +36,7 @@ revato,;
 ,;
 ,’.
 224.
-;
+-;
 Buddhaghoso,.
 225.
 ñāṇodayaṃñāṇodayaṃ nāmapakaraṇaṃ idāni kuhiñcipi na dissati;,;
@@ -104,4 +104,4 @@ Visuddhimaggaṃ’,.
 246.
 ,;
 mahābodhiṃ,’’so mahābodhi vandituṃ jambudīpaṃ upāgamīti idaṃ vacanaṃ purimavacanehi asaṃsaṭṭhaṃ viya hoti; pubbe hi ‘‘ācariyabuddhaghoso bodhimaṇḍasamīpe jāto’’ti ca, ‘‘sīhaḷadīpaṃ gantvā sīhaḷaṭṭhakathāyo māgadhabhāsāya parivattehīti tassācariyena revatattherena vutto’’ti ca vuttaṃ; tasmā idhāpi ācariyabuddhaghosassa pavatti tadanurūpā ‘‘tā bhāsāparivattitaṭṭhakathāyo ādāya sāsanujjotanatthaṃ jambudīpaṃ upāgamī’’ti evamādinā sāsanujjotanamūlikā eva bhavituṃ arahati, na pana mahābodhivandanamūlikāti.
-hābadamahāvijjālayamuddaṇayante‘‘’’dhammānandakosambī..
+-hābadamahāvijjālayamuddaṇayante‘‘’’dhammānandakosambī..

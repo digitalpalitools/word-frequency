@@ -27,13 +27,13 @@ Bhūvādi,.
 ‘‘,;
 ’’,kyādīna.
 ‘‘,;
-’’gahādi.
+’’-gahādi.
 ‘‘,;
-’’’tanādi.
+’’’-tanādi.
 ‘‘,;
 ’’,curādi.
 ,;
-.
+-.
 ,;
 ,.
 sakammakā,gamibhakkhā;
@@ -62,7 +62,7 @@ yuyātā-pābhālādī karā.
 ,.
 ,;
 Āivaṇṇauvaṇṇanta-eo.
-Avaṇṇivaṇṇuvaṇṇante;
+Avaṇṇivaṇṇuvaṇṇante-;
 ,.
 ,;
 ,iu.
@@ -79,7 +79,7 @@ Ralava,sahaḷa;
 tettiṃsadhā,.
 ḍhaṇaḷā,;
 ,ḍhaṇaḷā.
-Iti;
+Iti-;
 ,iti.
 Pacibhikkhichidikhādi, karoti bhavati gami;
 Gatigacchatihotī,.
@@ -107,7 +107,7 @@ Khāda,khanu;
 Khani,dhākhaṃ;
 Khandha,.
 ‘‘’’khandho,khandho,khandho,khandho,.–
-Khandha;
+Khandha-;
 ,.
 sammohavinodaniyaṃ–khandha.‘‘‘‘’‘’‘’‘’,’’.,,,,,.,,,.‘‘’’.‘‘’’.‘‘…pe…’’..,..‘‘,’’..‘‘rūpakkhandho,vedanākkhandho’’.‘‘.,’’‘‘’’.
 Āyata,āyū;
@@ -118,13 +118,13 @@ Tanutani,āyatana.
 ,;
 ,’;
 Vidividehi,a;
-Antavirahitaju.
+Antavirahita-ju.
 Avijjā,.
 ,aladdhabba,avijjā,,avijjā.,,,,avijjā.avijjā,avijjā,,avijjā.
 aṭṭhakathāyaṃ‘‘’’,,.abhidhammaṭīkāyaṃ–
 ‘‘‘’,‘,’,,.‘’,‘’,,‘,’avijajaavijjā’’.
 Araha,arahaṃ;
-Arārūhana.
+Arārūhana-.
 Raharahi,;
 ,.
 araha.–
@@ -172,7 +172,7 @@ Para,parū;
 Mumaja,mayamunami.
 mi,;
 parama,.
-parama;
+parama-;
 pāramī,.
 Pāra,majamu;
 Mayamuna,mimi.
@@ -182,10 +182,10 @@ paramapāramī.para,parapāramaja.
 .,,pāramī,.,,,,pāramī,.,,,,,,,,,pāramī,.
 –,,,,pāramitā.,,,,,,,,pāramitā,..
 Kara,kira;
-Kaṃrudhi;
+Kaṃrudhi-;
 Karuṇā,.
 karuṇā.karuṇā.,karuṇā.
-Vidividhavida;
+Vidividhavida-;
 Vijjā,.
 vijjā.vijjā.vijjā.
 Medha,medhā;
@@ -295,7 +295,7 @@ Dvigaṇikatte subha sobhe..Subha pahāre..‘‘’’kaccāyanamate,.,.,,,...B
 Paca pāke......,.–
 ,;
 ,–
-‘‘’’pacati..‘‘..’’.‘‘paca pāke’,‘’divādi,‘’’’.–‘‘chidi dvidhākaraṇe, bhidi vidāraṇe’’rudhādi‘‘,’’divādi‘‘,’’,bhūvādipaca‘‘’’divādi‘‘,’’.
+‘‘-’’pacati..‘‘..’’.‘‘paca pāke’,‘’divādi,‘’’’.–‘‘chidi dvidhākaraṇe, bhidi vidāraṇe’’rudhādi‘‘,’’divādi‘‘,’’,bhūvādipaca‘‘’’divādi‘‘,’’.
 ‘‘‘’‘‘’‘’divādi‘’,‘,’.‘,’’’.,,‘‘’’‘‘’’.‘‘’’yaya.‘‘’’ya‘‘’’.‘’’.‘‘’’‘‘’’.‘‘’’.‘‘’’.,.‘‘’’,‘‘,’’‘‘,’’..–,.bhūvādidivādi..
 Tegaṇikatte su pasave.,.Su savane.,.Su hiṃsāyaṃ..bhūvādisvādikiyādi.,.....–
 Bhvādirudhādi,svādidivādi;
@@ -310,7 +310,7 @@ Duhikaravahipucchi, yāci bhikkhi ca nibrūti;
 Bhaṇivadivacibhāsi, sāsidahināthadhātu.
 Rudhi ji ci,;
 ,.
-’;
+-’;
 ,.
 duhā,;
 ,’.

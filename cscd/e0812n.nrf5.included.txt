@@ -13,7 +13,7 @@
 iccādi  yathāvuttā  ālasiyauggatājigucchāvajjitā ye saṅkāussukkādayo bhāvā taṃbyañjakā tadanurūpā anubhāvā ca ayogādike siṅgāre yathā yathā yuñjanti tādisiyāva yuttiyā nibandhā  ratiṃ samposayanti yevamevaṃ posito siṅgāro nāma raso sampajjate sopi tidhāti sambandho tattha  nāma pubbe asaṅgatānaṃ anurāgena saṅgamamicchantānaṃ itthipurisānamasaṅgamo atisayaviruḷhapemānamubhinnampi sileso  balavakāmāvesavisesānaṃ kāmīnaṃ dassanādisamañjanaṃ 
  idāni  ratiyā puṭṭhakāraṇaṃ puṭṭhapayogañca dasseti iccādinā  niddiṭṭhabyabhicārībhāvesu ratyānurūpabyabhicārībhāvo tappakāsako anubhāvo ceti ime dve  hetubhūtāya ayogavippayogasambhogasaṅkhatānaṃ tiṇṇaṃ siṅgārānaṃ anukūlatthena ratiyā viruddhattā ālasiyauggajigucchādike parivajjetvā saṅkāussukkādīnaṃ ratyānukūlabhāvānaṃ vasena yathāyogaṃ  kavīhi bandhā  ratiṃ  yathā tappakāsanena pūrenti sajjenti evaṃ sajjito ratisiṅgāro nāma raso hoti  sāmaññena niddiṭṭhasiṅgārarasopi  siṅgārānaṃ  bhedena tidhā bhavatīti tattha  nāma pubbe aññamaññasaṅgamarahitānaṃ abhinavānurāgabalena saṅgamaṃ patthentānaṃ thīpumānaṃ asaṅgamo  nāma saṅgamātisayena viruḷhapemānaṃ thīpumānaṃ aññamaññavisileso  nāma balavakāmataṇhāvisesavasena yuttānaṃ kāminikāmukānaṃ aññamaññaṃ dassanādiassādo bhāvo ca anubhāvo ceti ca ayogo ca vippayogo ca sambhogo ceti ca vākyaṃ
 imamalaṅkāraṃ karontena ācariyasaṅgharakkhitamahāsāmipādena pana paramamadhurasaddhammāmataluddhasuddhasantānānaṃ tapodhanānaṃ aññarasāvabodhane payojanābhāvepi lokiyesu tesu tesu vohāresu asammohatthaṃ siṅgārādinavavidharasānaṃ lakkhaṇamattasseva dassitattā tadanurūpalakkhiyapariggahe asati lakkhaṇāvabodhassa subyattābhāvato vuttalakkhaṇāvabodhatthaṃ taṃtaṃlakkhaṇakathanānantaraṃ tassa tassa lakkhiyassa mukhamattaṃ dassetabbaṃ hoti heṭṭhā rāgānatabbhutasarojamukhaṃ dharāyātiādinā niddiṭṭhasambhogasiṅgārarasābhāseneva hasābhāsādīnaṃ aṭṭhannaṃ  rasābhāsarūpassa bhāvābhāsassa vibhāvābhāsassa anubhāvābhāsassa ca ñātabbattā siṅgārarasassa lakkhiyamevaṃ veditabbaṃ
-gītassarena upakaḍḍhiya nettarasmi-
+gītassarena upakaḍḍhiya nettarasmi
 bandhaṃ karaṃva vivasañca karaggahena
 yā tādisepi viniyojayi dukkare maṃ
  adhigatā vidhinā mayajjāti
@@ -83,11 +83,11 @@ bho manussabhakkhena yakkhena  gahito asi assassa  vāladhiṃ gahetvā idāneva
 ccādi  sattusantāpakārī tejo  paramaṇḍalakkamantaṃ te ādayo yesaṃ balāvikkhepādīnaṃ  paṭipuggalagatānaṃ vibhāvānaṃ tehi jāto  rasattamāpanno vīro rasoti saññito ayaṃ vīro raṇadānadayāyogā tividho bhave yuddhavīro dānavīro dayāvīroti  yuddhakaraṇādayo eva tattha anubhāvā bhavanti dhitimatiuggatādayo byabhicārino bhavantīti
  idāni vīrarasabhedaṃ posanakkamañca dasseti iccādinā  aññarājūnaṃ daṇḍajatejasaṅkhatapatāpo tesameva paramaṇḍalakkamanasaṅkhātavikkamo phalabhedo cetiādīhi uppanno ussāho  vīrarasoti  kavīhi ñāto ayaṃ vīraraso  yuddhacāgakaruṇāyogena hetubhūtena tividho bhave  raṇadānadayā eva imā anubhāvā nāma honti  dhitimatiuggatagabbādayo byabhicārino bhāvā hontīti yuddhavīradānavīradayāvīravasena vīraraso tividho hoti patāpo ca vikkamo ceti ca te ādi yesamiti ca raṇo ca dānañca dayā ceti ca tāhi yogoti ca tayo vidhā pakārā assāti ca dhiti ca mati ceti ca tā ādi yesamiti ca vākyaṃ
 vīrarasassa udāharaṇamevaṃ daṭṭhabbaṃ 
-viññāpetvā kuveraṃ sumahati-
+viññāpetvā kuveraṃ sumahati
 mapi cekovakumbhaṇḍasenaṃ
 uttāsetvā gahetvā maṇiratanavaraṃ
 lakkhamādhāya jūte
-jetvā korabyarājaṃ sacivaratana-
+jetvā korabyarājaṃ sacivaratana
 muddhacca raññaṃ satamhā
 etthānetvādiyissaṃ suyuvatiratanaṃ
 ko mametthatthi bhāroti
@@ -117,9 +117,9 @@ bhoto muhuṃ muhumapassi sa puṇṇakohanti
 iccādi rudhirantādīhi pūtikimiādīhi virāgato ca jātā  garahā kamena khobhano ubbegī karuṇāyuto ca bībhaccho bhavati nāsāvikunanamukhacchadanādīhi anubhāvehi saṅkāvegādīhi byabhicārīhi ca assa posanaṃ bhavatīti
  idāni bībhaccharasassa posanakkamaṃ dasseti iccādinā  rattantaguṇādīhi ca  pūtikimiādīhi ca  virattabhāvena cāti imehi tīhi vibhāvehi hetubhūtehi uppajjamānā jigucchā  rudhirādīnaṃ tiṇṇaṃ vibhāvānaṃ paṭipāṭiyā  anavaṭṭhāno asamāhito  ubbegavā  sokarūpena sahito cāti evaṃ bībhaccho raso nāma hoti  nāsasaṅkocanamukhapidahanādīhi anubhāvehi ca  ca saṅkāāvegādīhi byabhicārībhāvehi ca karaṇabhūtehi  bībhaccharasassa posanaṃ hotīti rudhirādīsu tīsu padesu khobhanādīsu tīsu ca gamyamānattā avuttopi saddo yojetabbo tasmā khobhanādīhi tīhi yuttova bībhaccharaso nāmāti daṭṭhabbo rudhiraṃ ādi yesaṃ antādīnamiti ca pūtiādi yesaṃ kimiādīnamiti ca ubbego assa bībhacchassa atthīti ca karuṇena āyutoti ca nāsāya vikunanaṃ saṅkocanamiti ca taṃ ādi yesaṃ mukhacchādanādīnamiti ca saṅkā ādi yesaṃ āvegādīnamiti ca vākyaṃ
 imassa bībhacchassodāharaṇamevaṃ veditabbaṃ 
-yakkhā maccakaraṅkakaṅkanadharā ye nimmitā puṇṇake-
+yakkhā maccakaraṅkakaṅkanadharā ye nimmitā puṇṇake
 nuttaṃsīkatapāṇipallavadharā hārīkatantoragā
-littā lohitakuṅkumehi vidhurenete pivantā vasā-
+littā lohitakuṅkumehi vidhurenete pivantā vasā
 majjaṃ sīsakapālapātihi pure dhuttā viyopekkhitāti
  yakkhena nimmitā  manussaṭṭhisaṅkhātakarabhūsanadhārino  matthakamālikatahatthatalasaṅkhatapallavadhārino  muttāhārīkatamanussantasaṅkhātauragasampayuttā  rudhirasaṅkhātakuṅkumakakkehi littā  sīsakapālasaṅkhātehi sarāvehi  vasāsaṅkhātasuraṃ  abhimukhe pivantā ye yakkhā siyuṃ ete yakkhā  paṇḍitena  nagare surādhuttā viya upekkhitā hontīti iha littā lohitakuṅkumehīti ca uttaṃsīkatapāṇipallavadharāti ca  hārīkatantoragāti ca imehi cittakkhobhakāraṇabhūto rudhirādivibhāvo ca maccakaraṅkakaṅkanaroti ca sīsakapālapātihi vasāmajjaṃ pivantāti ca imehi ubbegavantasabhāvassa hetubhūto pūtyādivibhāvo ca pakāsito karuṇāyutasabhāvassa kāraṇabhūtavirajjanavibhāvo ca nāsāvikunanādianubhāvo ca saṅkāvegādibyabhicārībhāvo ca bībhacchasaṅkhātaṭhāyībhāvo cāti ime sabbe vākyasāmatthiyena gammāti veditabbā
 
@@ -133,7 +133,7 @@ majjaṃ sīsakapālapātihi pure dhuttā viyopekkhitāti
 ccādi  lokātivuttīhi māyādibbagehārāmādīhi padatthehi jāto ayaṃ  cittavikārasaṅkhāto ṭhāyībhāvo abbhuto raso nāma sedaassusādhuvādaromañcādayo tassa anubhāvā siyuṃ tāsādayo byabhicārino hontīti
  idāni vimhayarasassa posanakkamaṃ dasseti iccādinā  lokaṭṭhitimatikkamma pavattehi māyādibbabhavanaārāmavimānādipadatthehi hetubhūtehi uppajjamāno ayaṃ  cittabyāpanasaṅkhāto ṭhāyībhāvo  abbhutaraso nāma bhave sedassusādhuvādādayo  abbhutarasassa anubhāvā siyuṃ tāsāvegadhitippaññā  abbhutarasavisaye byabhicārino bhāvā hontīti atikkantā lokamiti ca te ca te padatthā ceti ca sādhuiti vādoti ca sedo ca assu ca sādhuvādo ceti ca te ādi yesaṃ romañcādīnamiti ca tāso ca āvego ca dhiti ca paññā ceti ca vākyaṃ
 imassa abbhutarasassodāharaṇamevaṃ daṭṭhabbaṃ 
-sa puṇṇakenāhaṭanekabhiṃsane-
+sa puṇṇakenāhaṭanekabhiṃsane
 svaho naṭeneva suniccalocalā
 nipātito tena avaṃsiropataṃ
 asantasaṃ taṃ mini diṭṭhiyaṭṭhiyāti
