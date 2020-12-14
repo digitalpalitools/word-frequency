@@ -81,8 +81,8 @@ Describe "Get-TextFromNode" {
       $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!.a,1??2'‘3;4'’'’'’'’5–6-7…8</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $expectedIncluded = " hello world!a123456-78"
-      $expectedExcluded = "2..,??‘;’’’’–…"
+      $expectedIncluded = " hello world!a12345678"
+      $expectedExcluded = "2..,??‘;’’’’–-…"
 
       $xml.Node
       | Get-TextFromNode
@@ -135,8 +135,8 @@ Describe "Get-TextFromNode" {
       $text = '<p rend="bodytext">string1 .,?'‘ string2 ;'’–-… string3</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $expectedIncluded = "string1  string2 - string3"
-      $expectedExcluded = ".,?‘;’–…"
+      $expectedIncluded = "string1  string2  string3"
+      $expectedExcluded = ".,?‘;’–-…"
 
       $xml.Node
       | Get-TextFromNode
