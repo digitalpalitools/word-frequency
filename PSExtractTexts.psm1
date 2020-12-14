@@ -7,6 +7,25 @@ $wordBlackList = @() # "paṇṇāsakaṃ"
 $sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…]"
   | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }
 
+function Add-NodeToAppropriateList {
+  param(
+    [ref]
+    $IncludedNodes,
+    [ref]
+    $ExcludedNodes,
+    [Parameter(ValueFromPipeline = $true)]
+    $Node
+  )
+
+  if ($nodeBackList -inotcontains $Node.Name) {
+    $IncludedNodes.Value.Add($Node) | Out-Null
+    $ExcludedNodes.Value.Add($null) | Out-Null
+  } else {
+    $IncludedNodes.Value.Add($null) | Out-Null
+    $ExcludedNodes.Value.Add($Node) | Out-Null
+  }
+}
+
 function Get-TextFromNode {
   [CmdletBinding()]
   param (
@@ -27,20 +46,28 @@ function Get-TextFromNode {
     }
 
     [array] $childNodes = $Node.ChildNodes
-    $includedSubNodes = [object[]]::new($childNodes.Length)
-    $excludedSubNodes = [object[]]::new($childNodes.Length)
+    $includedSubNodes = [Collections.ArrayList]@()
+    $excludedSubNodes = [Collections.ArrayList]@()
 
     for ($i=0; $i -lt $childNodes.Length; $i++) {
-      if ($nodeBackList -notcontains $childNodes[$i].Name) {
-        $includedSubNodes[$i] = $childNodes[$i]
+      $childNode = $childNodes[$i]
+      if ($childNode.Name -ieq "hixxx" -and $childNode.rend -ieq "boldxxx") {
+        [array] $grandChildNodes = $childNode.ChildNodes
+        for ($j=0; $j -lt $grandChildNodes.Length; $j++) {
+          $grandChildNodes[$j] | Add-NodeToAppropriateList ([ref]$includedSubNodes) ([ref]$excludedSubNodes)
+        }
       } else {
-        $excludedSubNodes[$i] = $childNodes[$i]
+        $childNodes[$i] | Add-NodeToAppropriateList ([ref]$includedSubNodes) ([ref]$excludedSubNodes)
       }
     }
 
     [array] $includedSubNodeTexts = $includedSubNodes | ForEach-Object { "$($_.InnerText)" }
     [array] $excludedSubNodeTexts = $excludedSubNodes | ForEach-Object { "$($_.InnerText)" }
-    for ($i=0; $i -lt $childNodes.Length; $i++) {
+    if ($includedSubNodeTexts.Length -ne $excludedSubNodeTexts.Length) {
+      throw 'Something went wrong: includedSubNodeTexts and excludedSubNodeTexts are not of same length!'
+    }
+    $subNodeTextsLength = $includedSubNodeTexts.Length # NOTE: Also equal to $excludedSubNodeTexts.Length
+    for ($i=0; $i -lt $subNodeTextsLength; $i++) {
       $text = $includedSubNodeTexts[$i]
       $includedSubNodeTexts[$i] = ""
       while ($text) {

@@ -105,14 +105,24 @@ Describe "Get-TextFromNode" {
       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
 
+    # It "Sub tags excluded - nested case" {
+    #   $text = '<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi><hi rend="bold">Aṭṭha <pb ed="V" n="0.0116" /> puggalā –</hi></p>'
+    #   $xml = Get-XmlNodeFromString -String $text
+
+    #   $expectedIncluded = "aṭṭha  puggalā "
+    #   $expectedExcluded = "14.–"
+
+    #   $xml.Node
+    #   | Get-TextFromNode
+    #   | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
+    # }
+
     It "Sub tags excluded - nested case" {
       $text = '<p rend="bodytext" n="14"><hi rend="paranum">14</hi><hi rend="dot">.</hi><hi rend="bold">Aṭṭha <pb ed="V" n="0.0116" /> puggalā –</hi></p>'
       $xml = Get-XmlNodeFromString -String $text
 
       $expectedIncluded = ""
-      $expectedExcluded = @"
-14.Aṭṭha  puggalā –
-"@
+      $expectedExcluded = "14.Aṭṭha  puggalā –"
 
       $xml.Node
       | Get-TextFromNode
@@ -142,6 +152,20 @@ Describe "Get-TextFromNode" {
       | Get-TextFromNode
       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
     }
+
+#     It "Lines with nested node excluded e.g. note within hi.bold" {
+#       $text = @"
+# <p rend="gathalast">x y z; <hi rend="bold">Yato puññena te senti <note>sentu (ka.)</note>, jenapādambujadvaye</hi> x.</p>
+# "@
+#       $xml = Get-XmlNodeFromString -String $text
+
+#       $expectedIncluded = "x y z yato puññena te senti  jenapādambujadvaye x"
+#       $expectedExcluded = ";sentu (ka.),."
+
+#       $xml.Node
+#       | Get-TextFromNode
+#       | Test-Output $text $xml.Node $expectedIncluded $expectedExcluded
+#     }
 
 #     It "Lines with blacklisted words removed e.g. paṇṇāsakaṃ" {
 #       $text = @"
