@@ -2,6 +2,8 @@ $rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
 
 $nodeBackList = "hi", "pb", "note"
 
+$wordBlackList = @() # "paṇṇāsakaṃ"
+
 $sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…]"
   | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }
 
@@ -14,12 +16,17 @@ function Get-TextFromNode {
   )
 
   Process {
-    if ($_.rend -in $rendBlackList) {
-      , @("", (($_.ChildNodes | ForEach-Object { $_.InnerText }) -join ""))
+    if ($Node.rend -in $rendBlackList) {
+      , @("", $Node.InnerText)
       return
     }
 
-    [array] $childNodes = $_.ChildNodes
+    if ($wordBlackList | Where-Object { $Node.InnerText -imatch $_ } | Select-Object -First 1) {
+      , @("", $Node.InnerText)
+      return
+    }
+
+    [array] $childNodes = $Node.ChildNodes
     $includedSubNodes = [object[]]::new($childNodes.Length)
     $excludedSubNodes = [object[]]::new($childNodes.Length)
 
