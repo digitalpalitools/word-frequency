@@ -51,7 +51,7 @@ function Get-TextFromNode {
 
     for ($i=0; $i -lt $childNodes.Length; $i++) {
       $childNode = $childNodes[$i]
-      if ($childNode.Name -ieq "hixxx" -and $childNode.rend -ieq "boldxxx") {
+      if ($childNode.Name -ieq "hi" -and $childNode.rend -ieq "bold") {
         [array] $grandChildNodes = $childNode.ChildNodes
         for ($j=0; $j -lt $grandChildNodes.Length; $j++) {
           $grandChildNodes[$j] | Add-NodeToAppropriateList ([ref]$includedSubNodes) ([ref]$excludedSubNodes)
