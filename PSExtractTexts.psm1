@@ -1,8 +1,23 @@
-$rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title"
+<#
+- Types of munging:
+  - Blacklisted line tag excluded
+  - Line tag with blacklisted workd excluded
+  - Child tags excluded (e.g. note)
+  - Nested child tags excluded
+  - Parts of line exlucded (e.g. /\(.*\)/, ...pe...)
+  - Characters nuked
+  - ToLowerCase
+
+- #TODO:
+  - here's pattern to exclude, the vagga always ends with "tassuddānaṃ " (recitation of this) and a reciters verse. exclude that and whatever comes below it, normally 2-4 lines of verse
+
+#>
+
+$rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title", "subsubhead"
 
 $nodeBackList = "hi", "pb", "note"
 
-$wordBlackList = @("paṇṇāsakaṃ")
+$wordBlackList = @("partho") # NOTE: This feature is currently not needed but keeping it around for a bit longer.
 
 $sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…]"
   | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }
