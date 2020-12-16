@@ -16,4 +16,15 @@ jobs:
           Install-Module -Name Pester -RequiredVersion 5.0.4 -confirm:$false -Force
           Invoke-Pester -Path "." -Output Detailed -CI
         shell: pwsh
-
+      - uses: actions/setup-ruby@v1
+      - name: Notify DPT on Discord
+        if: always()
+        env:
+          JOB_STATUS: ${{ job.status }}
+          WEBHOOK_URL: ${{ secrets.DISCORD_DPT_WF_WEBHOOK_URL }}
+          HOOK_OS_NAME: ${{ runner.os }}
+          WORKFLOW_NAME: ${{ github.workflow }}
+        run: |
+          git clone https://github.com/DiscordHooks/github-actions-discord-webhook.git webhook
+          bash webhook/send.sh $JOB_STATUS $WEBHOOK_URL
+        shell: bash
