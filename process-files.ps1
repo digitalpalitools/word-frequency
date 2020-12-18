@@ -7,7 +7,9 @@
   $Segment,
   [Parameter(Mandatory)]
   $TotalSegments,
-  $Filter = "*"
+  $Filter = "*",
+  [Switch]
+  $OriginalTextOnly
 )
 
 Import-Module "$PSScriptRoot\PSExtractTexts.psm1" -Force
@@ -43,6 +45,8 @@ function ProcessFile {
   param(
     $SrcRoot,
     $DstRoot,
+    [Switch]
+    $OriginalTextOnly,
     [Parameter(ValueFromPipeline = $true)]
     $FilePath
   )
@@ -60,39 +64,45 @@ function ProcessFile {
 
     Write-Host "[$($nodes.Length) nodes]`t" -NoNewline
 
-    $includedLines = @()
-    $excludedLines = @()
-    $nodes
-    | ForEach-Object { $_.Node } `
-    | Get-TextFromNode `
-    | ForEach-Object {
-      $includedLines += $_[0]
-      $excludedLines += $_[1]
-    }
-
     [array] $textLines = $nodes | ForEach-Object { $_.Node.InnerText }
 
-    $textFilePath = "$dstFilePath.txt"
+    $textFilePath = "$dstFilePath.original.txt"
     $textLines | Out-File -FilePath $textFilePath -Encoding utf8BOM
 
-    $includedFilePath = "$dstFilePath.included.txt"
-    $includedLines | Out-File -FilePath $includedFilePath -Encoding utf8BOM
+    if (-not $OriginalTextOnly) {
+      $includedLines = @()
+      $excludedLines = @()
+      $nodes
+      | ForEach-Object { $_.Node } `
+      | Get-TextFromNode `
+      | ForEach-Object {
+        $includedLines += $_[0]
+        $excludedLines += $_[1]
+      }
 
-    $excludedFilePath = "$dstFilePath.excluded.txt"
-    $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8BOM
+      $includedFilePath = "$dstFilePath.included.txt"
+      $includedLines | Out-File -FilePath $includedFilePath -Encoding utf8BOM
 
-    $failures = CheckLines $textLines $includedLines $excludedLines
-    if ($failures -ne "") {
-      Write-Host "[$($includedLines.Length)/$($excludedLines.Length) lines]`t" -NoNewline
-      Write-Host "[Check failed] [$failures]" -ForegroundColor Red -NoNewline
-      Write-Host (" [{0:mm\:ss\.fff}]s" -f ([datetime]::Now - $now))
-      $False
+      $excludedFilePath = "$dstFilePath.excluded.txt"
+      $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8BOM
+
+      $failures = CheckLines $textLines $includedLines $excludedLines
+      if ($failures -ne "") {
+        Write-Host "[$($includedLines.Length)/$($excludedLines.Length) lines]`t" -NoNewline
+        Write-Host "[Check failed] [$failures]" -ForegroundColor Red -NoNewline
+        Write-Host (" [{0:mm\:ss\.fff}]s" -f ([datetime]::Now - $now))
+        $False
+      } else {
+        Write-Host "[$($includedLines.Length) lines]`t" -NoNewline
+        Write-Host "[Checked]" -ForegroundColor Green -NoNewline
+        Write-Host (" [{0:mm\:ss\.fff}]" -f ([datetime]::Now - $now)) -NoNewline
+        $True
+      }
     } else {
-      Write-Host "[$($includedLines.Length) lines]`t" -NoNewline
-      Write-Host "[Checked]" -ForegroundColor Green -NoNewline
-      Write-Host (" [{0:mm\:ss\.fff}]" -f ([datetime]::Now - $now))
       $True
     }
+
+    Write-Host ""
 
     $fileNumber = $fileNumber + 1
   }
@@ -104,7 +114,9 @@ function ProcessSegment {
     $DstDir,
     $Segment,
     $TotalSegments,
-    $Filter = "*"
+    $Filter = "*",
+    [Switch]
+    $OriginalTextOnly
   )
 
   $now = [datetime]::Now
@@ -126,7 +138,7 @@ function ProcessSegment {
 
   $results =
     $files[$firstFile..$lastFile]
-    | ProcessFile $SrcDir $DstDir
+    | ProcessFile $SrcDir $DstDir -OriginalTextOnly:$OriginalTextOnly
   $failedCount = ($results | Where-Object { -not $_ }).Length
   Write-Host ("Summary: Duration {0:mm\:ss\.fff} Total {1}" -f ([datetime]::Now - $now), $results.Length) -ForegroundColor White -NoNewline
   Write-Host (" Completed {0}" -f ($results.Length - $failedCount)) -ForegroundColor Green -NoNewline
@@ -139,4 +151,4 @@ function ProcessSegment {
 # dir "D:\src\dpt\cst\cscd\vin07t.nrf9.xml" | ProcessFile $SrcDir $DstDir # Has 1 node
 # dir "D:\src\dpt\cst\cscd\s0201m.mul0.xml" | ProcessFile $SrcDir $DstDir
 
-ProcessSegment $SrcDir $DstDir $Segment $TotalSegments $Filter
+ProcessSegment $SrcDir $DstDir $Segment $TotalSegments $Filter -OriginalTextOnly:$OriginalTextOnly
