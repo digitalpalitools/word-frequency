@@ -19,7 +19,7 @@ $nodeBackList = "hi", "pb", "note"
 
 $wordBlackList = @("partho") # NOTE: This feature is currently not needed but keeping it around for a bit longer.
 
-$sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…]"
+$sequencesToRemove = "…pe…", "\([^()]*\)", "[.,?‘;’–\-…!]"
   | ForEach-Object { [Text.RegularExpressions.Regex]::new("^($_)", [Text.RegularExpressions.RegexOptions]::Compiled -bOr [Text.RegularExpressions.RegexOptions]::IgnoreCase) }
 
 function Add-NodeToAppropriateList {

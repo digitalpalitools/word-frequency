@@ -44,8 +44,8 @@ Describe "Get-TextFromNode" {
       $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $expectedIncluded = " hello world!"
-      $expectedExcluded = "2."
+      $expectedIncluded = " hello world"
+      $expectedExcluded = "2.!"
 
       $xml.Node
       | Get-TextFromNode
@@ -53,11 +53,11 @@ Describe "Get-TextFromNode" {
     }
 
     It "Sub tags as well as special characters excluded" {
-      $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!.a,1??2'‘3;4'’'’'’'’5–6-7…8</p>'
+      $text = '<p rend="bodytext" n="2"><hi rend="paranum">2</hi><hi rend="dot">.</hi> Hello World!.a,1??2'‘3;4'’'’'’'’5!–6-7…8</p>'
       $xml = Get-XmlNodeFromString -String $text
 
-      $expectedIncluded = " hello world!a12345678"
-      $expectedExcluded = "2..,??‘;’’’’–-…"
+      $expectedIncluded = " hello worlda12345678"
+      $expectedExcluded = "2.!.,??‘;’’’’!–-…"
 
       $xml.Node
       | Get-TextFromNode
