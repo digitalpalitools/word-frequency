@@ -31,7 +31,7 @@
 ‘‘,,‘’,‘’,‘’,‘’.?,,,,.
 ‘‘,,‘’…pe…‘’’’..
 9. Viggāhikakathāsuttaṃ
-1079.‘‘,,kathetha (sī. syā. kaṃ.)–‘,.,.,.,.aciṇṇaṃ (syā. kaṃ. pī.).,.,’.?,,.
+1079.‘‘,,kathetha (sī. syā. kaṃ.)–‘,.!,.,.,.aciṇṇaṃ (syā. kaṃ. pī.).,.,’.?,,.
 ‘‘,,‘’,‘’,‘’,‘’…pe…’’..
 10. Tiracchānakathāsuttaṃ
 1080.‘‘,,,–,,,itthikathaṃ purisakathaṃ (syā. kaṃ. pī. ka.),,.?,,.
@@ -55,7 +55,7 @@ Samādhivaggo paṭhamo.
 –‘‘,’’.
 –‘‘’’.–‘‘,’’.…pe……pe……pe……pe……pe…–‘‘’’.
 (tena layena)( ) natthi (sī. syā. kaṃ.).,.
-–‘‘,,,,,’’‘’..
+–‘‘,,,,,’’!‘’..
 2. Tathāgatasuttaṃ
 1082.‘‘‘’,,,,,,.‘’,…pe….‘’,,,,,,.
 ‘‘‘’,,,,,.‘’,,…pe….‘’,,,,,,.
@@ -77,12 +77,12 @@ Samādhivaggo paṭhamo.
 ‘‘,,‘’…pe…‘’’’..
 5. Paṭhamadhāraṇasuttaṃ
 1085.‘‘,,’’?–‘‘,,’’.‘‘,,’’?‘‘,,;,,;,,;,,.,,’’.
-‘‘,,,.,,,;dukkhasamudayo (syā. kaṃ.),,,;dukkhanirodho (syā. kaṃ.),,,;dukkhanirodhagāminipaṭipadaṃ (pī.), dukkhanirodhagāminiṃ paṭipadaṃ (ka.),,,.,,.
+‘‘,!,,.,,,;dukkhasamudayo (syā. kaṃ.),,,;dukkhanirodho (syā. kaṃ.),,,;dukkhanirodhagāminipaṭipadaṃ (pī.), dukkhanirodhagāminiṃ paṭipadaṃ (ka.),,,.,,.
 ‘‘,,‘’…pe…‘’’’..
 6. Dutiyadhāraṇasuttaṃ
 1086.‘‘,,’’?–‘‘,,’’.
 ‘‘,,’’?‘‘,,.,,–‘.’–.,,…pe…,,.,,–‘.’–.,,’’.
-‘‘,,,.,,,.,,–‘.’–.,…pe…,…pe…,,,.,,–‘.’–.,,.
+‘‘,!,,.,,,.,,–‘.’–.,…pe…,…pe…,,,.,,–‘.’–.,,.
 ‘‘,,‘’…pe…‘’’’..
 7. Avijjāsuttaṃ
 1087.–‘‘‘,’,.,,;’’?‘‘,,,,,–,,;’’.
@@ -205,8 +205,8 @@ Sīsapāvanavaggo catuttho.
 ,.
 5. Papātavaggo
 1. Lokacintāsuttaṃ
-1111..–‘‘,,‘’;.,,caturaṅginisenaṃ (ka.)bhisamūlālaṃ (pī. ka.).–‘,’’’.
-‘‘,,–‘,,,’’’.‘‘,,?’’?‘‘,,‘’;.,,.,,.’’.‘‘,,.’’.
+1111..–‘‘,,‘’;.,,caturaṅginisenaṃ (ka.)bhisamūlālaṃ (pī. ka.).–‘,!’’’.
+‘‘,,–‘,,,!’’’.‘‘,,?’’?‘‘,,‘’;.,,.,,.’’.‘‘,,.’’.
 ‘‘,,,.,,.,,,.,,.
 ‘‘,,–‘’‘’,‘’‘’,‘’‘’,‘’‘’,‘’,‘’.?,,.
 ‘‘,,‘’…pe…‘’.?,,.
@@ -218,7 +218,7 @@ Sīsapāvanavaggo catuttho.
 ‘‘,,‘’…pe…‘’’’..
 3. Mahāpariḷāhasuttaṃ
 1113.‘‘,,.,;;.…pe……pe…,;;’’.
-–‘‘,,,,,,,’’?‘‘,,’’.
+–‘‘,,,,,!,,’’?‘‘,,’’.
 ‘‘,,’’?‘‘,,‘’…pe…‘’,…pe……pe……pe…,,,..‘’’’.
 ‘‘,,‘’…pe…‘’.…pe……pe……pe…,,,..‘’’’.
 ‘‘,,‘’…pe…‘’’’..
@@ -235,7 +235,7 @@ Sīsapāvanavaggo catuttho.
 ‘‘,‘’…pe…‘’’’..
 6. Andhakārasuttaṃ
 1116.‘‘,,,’’.
-–‘‘,,,,,,,’’?‘‘,,’’.
+–‘‘,,,,,!,,’’?‘‘,,’’.
 ‘‘,,’’?‘‘,,‘’…pe…‘’,…pe……pe……pe…,,,..‘’’’.
 ‘‘,,‘’…pe…‘’,…pe……pe……pe…,,,..‘’’’.
 ‘‘,,‘’…pe…‘’’’..

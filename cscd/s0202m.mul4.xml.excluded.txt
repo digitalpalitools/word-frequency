@@ -44,12 +44,12 @@
 ‘‘.
 ‘‘.
 ‘‘’’.
-‘‘?’’
+‘‘?’’!
 389...methileyyakā (sī. pī.)–‘‘,,,.–‘..,.’’’.
 ;;,;;;.
 390.–‘‘,,,’’..–‘‘’’.–‘‘,,;–‘,,’.–‘,,,,,,,.,,,–;–;–.’’’.
 ‘‘,’’;..–‘‘,,;–‘,,,,,,,.,,,–;–;–.’’’.‘‘,,’’.;–‘‘.’’.
-391...oramattha (syā. kaṃ. pī.), oramatha, oramati (ka.), atha naṃ (sī.), oramiyāti pana tvāpaccayantatathasaṃvaṇṇanānurūpaṃ visodhitapadaṃ.–‘‘,.’’.
+391...oramattha (syā. kaṃ. pī.), oramatha, oramati (ka.), atha naṃ (sī.), oramiyāti pana tvāpaccayantatathasaṃvaṇṇanānurūpaṃ visodhitapadaṃ.–‘‘,!.’’.
 ;...,.–,.–
 ‘‘,;
 ,.
@@ -77,8 +77,8 @@
 ‘‘,;
 ,;
 ,’’.
-,,,–‘‘,,;,,’’.–‘‘,,,’’.–‘‘,,’’..
-395.,–,,;.,–,,,.,–‘‘’’.–‘‘,,,,,,,,––...’’...–‘‘,,’’.
+,,,–‘‘,,;,,’’.–‘‘,,,!’’.–‘‘,,’’..
+395.,–,,;.,–,,,.,–‘‘’’.–‘‘,,,!,,,,,––...’’...–‘‘,,’’.
 ;....;.–‘‘,,.,’’?‘‘,,,.,,,,’’.
 ..
 Brahmāyusuttaṃ niṭṭhitaṃ paṭhamaṃ.
@@ -159,11 +159,11 @@ Selasuttaṃ niṭṭhitaṃ dutiyaṃ.
 402.;..–‘‘,,–‘,;,;,;’.’’?‘‘dissante (sī. syā. kaṃ. pī.),,.–‘,;,;,;’’’.‘‘,–‘,…pe…’’’.
 403.‘‘,,–‘–;,’’’?‘‘,,–‘–;,’’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
 404.‘‘,,,?…pe…,’’?‘‘,.,,.,…pe…,…pe…,…pe…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
-405.‘‘,,,no ca (ka.),’’?‘‘,,,.,…pe…,…pe…,…pe…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
-406.‘‘,,,,’’?‘‘,,,;,…,…,…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
-407.‘‘,,,,,’’?‘‘,,,,,…,…,…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
+405.‘‘,,,no ca (ka.),’’?‘‘,!,,.,…pe…,…pe…,…pe…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
+406.‘‘,,,,’’?‘‘,!,,;,…,…,…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
+407.‘‘,,,,,’’?‘‘,!,,,,…,…,…,,’’.‘‘,,,–‘,…pe…’’’?‘‘,–‘,…pe…’’’.
 408.‘‘,,–‘,uppannā sālassa vā (sī. pī.),,.veṇakulā (sī. pī.), veṇukulā (syā. kaṃ.),,,’.
-‘‘,,yo ca nu kho (syā. kaṃ. ka.),,ca (sī. pī.)vaṇṇimā (syā. kaṃ. pī. ka.),;,,’’?‘‘,yo so (sī. pī.),,,so cassa (sī. pī.), sopissa (syā. kaṃ.),;,,,.,,,’’.‘‘,,,–‘,;,;,;’’’?‘‘,–‘,…pe…’’’.
+‘‘,,yo ca nu kho (syā. kaṃ. ka.),,ca (sī. pī.)vaṇṇimā (syā. kaṃ. pī. ka.),;,,’’?‘‘,!yo so (sī. pī.),,,so cassa (sī. pī.), sopissa (syā. kaṃ.),;,,,.,,,’’.‘‘,,,–‘,;,;,;’’’?‘‘,–‘,…pe…’’’.
 409.‘‘,,,;,,‘’‘’’’?‘‘,,,,‘’‘’’’.
 ‘‘,,,;,,‘’‘’’’?‘‘,,,,‘’‘’’’.
 ‘‘,saṃyojeyya (ka.),;,,‘’‘’’’?‘‘vekurañjāya hi so (sī. pī.), so kumāraṇḍupi so (syā. kaṃ.), vekulajo hi so (?),,.,,;’’.
@@ -210,7 +210,7 @@ Assalāyanasuttaṃ niṭṭhitaṃ tatiyaṃ.
 ‘‘.–‘…pe…,.…pe…,’..
 ‘‘.‘’,‘’,‘’,‘’;‘’,‘’,‘’,‘’.,,..‘,,,’.
 ‘‘,,,.’’.
-421.,–‘‘,,,,,,,,––..’’.‘‘,,.’’.‘‘,,’’?‘‘,,’’.
+421.,–‘‘,,,!,,,,,––..’’.‘‘,,.’’.‘‘,,’’?‘‘,,’’.
 ‘‘sace hi (sī. syā. kaṃ. pī.),,,.sace (sī. pī.), sace hi (syā. kaṃ.),,………,.yojanasatepi (sī. syā. kaṃ. pī.),,,.
 ‘‘,,,..,,,’’.‘‘,,’’?‘‘,,’’.‘‘,,’’.‘‘’’.‘‘,,,,’’.‘‘.,,’’..‘’.
 Ghoṭamukhasuttaṃ niṭṭhitaṃ catutthaṃ.
@@ -434,7 +434,7 @@ vasalo (syā. kaṃ. ka.),brāhmaṇo (syā. kaṃ. ka.).
 ,.
 ‘‘,;
 ,’’.
-461.,–‘‘,,,,,,,,––..’’.
+461.,–‘‘,,,!,,,,,––..’’.
 Vāseṭṭhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 9. Subhasuttaṃ
 462.–..–‘‘,–‘’.’’?‘‘,,.,,’’.;..–‘‘,,–‘,’.’’?
@@ -464,7 +464,7 @@ Vāseṭṭhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,,,’’?‘‘,,,’’.‘‘,,.,,,,.,,nissaṭṭhatiṇakaṭṭhupādānaṃ paṭicca (sī. pī. ka.),,.
 ‘‘,,?,,…pe….,,.,,…pe….,,.
 469.‘‘,,,kamettha (ka. sī. syā. kaṃ. pī.)’’?‘‘,,,’’.
-‘‘,,.–‘’.tatthekassa (pī.)–‘,’.,,,.‘,’–.,,’’?‘‘,,–‘’.anukampajātikaṃyeva (syā. kaṃ. ka.)’’.‘‘,,,–’’.‘‘,,–’’.
+‘‘,,.–‘’.tatthekassa (pī.)–‘!,’.,,,.‘,’–.,,’’?‘‘,,–‘’.anukampajātikaṃyeva (syā. kaṃ. ka.)’’.‘‘,,,–’’.‘‘,,–’’.
 ‘‘,,,–’’?‘‘,,,.,,,;,,,.,,………;,,……….,,,’’.
 ‘‘,,–.,,.‘’,,.,–.,,…pe……pe……pe….‘’,,.,–.,,,–’’.
 470.,–‘‘,–‘’’’.
@@ -477,7 +477,7 @@ Vāseṭṭhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,–‘’.’’.
 ‘‘,,,,’’.‘‘’’.–
 471.‘‘,,?,,,,,;.,,,.,,evameva kho māṇava evaṃ bhāvitāya mettāya (sī. syā. kaṃ. pī. dī. ni. 1.556) tathāpi idha pāṭhoyeva upamāya saṃsandiyamāno paripuṇṇo viya dissati;,…pe…,,evameva kho māṇava evaṃ bhāvitāya mettāya (sī. syā. kaṃ. pī. dī. ni. 1.556) tathāpi idha pāṭhoyeva upamāya saṃsandiyamāno paripuṇṇo viya dissati,.,,.‘‘,,…pe……pe…,,,;.,,,.,,;,…pe…,,,.,,’’.
-472.,–‘‘,,,,,,,,––...,,,;’’.‘‘,,’’..
+472.,–‘‘,,,!,,,,,––...,,,;’’.‘‘,,’’..
 vaḷabhīrathena (sī.)..–‘‘,’’?‘‘,,’’.‘‘,,’’?‘‘,,?’’.‘‘,,’’.‘‘,,?.,,;–’’.
 ,–‘‘,’’.
 Subhasuttaṃ niṭṭhitaṃ navamaṃ.
@@ -509,7 +509,7 @@ Subhasuttaṃ niṭṭhitaṃ navamaṃ.
 484.‘‘.…pe…,,,,;,;.
 ‘‘.‘’,‘’,‘’,‘’;‘’,‘’,‘’,‘’.,,..‘,,,’.,,,,;,;’’.
 485.,–‘‘aṭṭhita vata (sī. syā. kaṃ. pī.),sappurisa vata (sī. syā. kaṃ. pī.);.,,’’adhidevāti (ka.) evaṃ sabbesu ‘atthi devā’tipadesu?‘‘kho panetaṃ (syā. kaṃ. ka.),,–’’atthi devāti (sī. syā. kaṃ. pī.), atidevāti (?) evaṃ sabbesu ‘adhidevā’tipadesu.‘‘,,‘’‘,,’.,,’’?‘‘‘’,,‘’,‘’ṭhānaso viditā me viditāti (sī. syā. kaṃ. pī.), ṭhānaso me viditā atidevāti (?);gantuṃ (ka.), gantuṃ vā (syā. kaṃ.)–‘’’’.‘‘’’gotamo ādikeneva byākāsīti (ka.), gotamo atthi devāti na byākāsīti (?)?‘‘,,–‘’’’.
-486.,–‘‘,,,,,,,,––..’’.
+486.,–‘‘,,,!,,,,,––..’’.
 Saṅgāravasuttaṃ niṭṭhitaṃ dasamaṃ.
 Brāhmaṇavaggo niṭṭhito pañcamo.
 –

@@ -1821,7 +1821,7 @@ Iti sattama sattāhaṃ.
 518.
 
 ,
-’
+’!
 ;
 519.
 
@@ -2027,7 +2027,7 @@ Iti laṅkāya paṭhamā’gamanaṃ.
 559.
 ’
 ,
-’
+!!’
 ’;
 560.
 
@@ -2138,7 +2138,7 @@ Iti laṅkāya paṭhamā’gamanaṃ.
 
 ,
 ’’
-;
+!;
 582.
 
 ,
@@ -2160,12 +2160,12 @@ Iti laṅkāya paṭhamā’gamanaṃ.
 
 ;
 586.
-
+!
 ’,
 
 ;
 587.
-
+!
 ’,
 
 ;
@@ -2928,7 +2928,7 @@ Kalyāṇi desāgamanaṃ.
 
 ,
 ’’
-;
+!;
 776.
 
 ,
@@ -3033,7 +3033,7 @@ Kalyāṇi desāgamanaṃ.
 
 ’
 ’
-;
+!!;
 Iti samantakūṭa vaṇṇanā niṭṭhitā.
 Grantha samāptiya.
 1.

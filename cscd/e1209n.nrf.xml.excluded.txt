@@ -129,7 +129,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ,
 
-
+!
 
 ,
 
@@ -338,7 +338,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ,
 
-
+!
 69.
 
 ,
@@ -498,4 +498,4 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ,
 
-;
+!!;

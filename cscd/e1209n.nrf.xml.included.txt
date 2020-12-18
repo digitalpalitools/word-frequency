@@ -129,7 +129,7 @@ jāto naro supina saṃgama sannibhesu
  niccāturaṃ jagadidaṃ sabhayaṃ sasokaṃ
 disvā ca kodhamadamohajarābhibhūtaṃ
 ubbegamattamapi yassa na vijjatī ce
-so dāruṇona maraṇaṃ vata taṃ dhiratthu!
+so dāruṇona maraṇaṃ vata taṃ dhiratthu
 bho bho na passatha jarāsidharañhi maccu
 māhaññamānamakhilaṃ satataṃ tilokaṃ
 kiṃ niddayā nayatha vītabhayā tiyāmaṃ
@@ -338,7 +338,7 @@ kāmaṃ bhaveyyu kimu bandhusutā ca dārā
  dehaṃ yathā navamukhaṃ kimisaṅghagehaṃ
 maṃsaṭṭhisedarudhirākalilaṃ vigandhaṃ
 posenti ye vividhapāpamihācaritvā
-te mohitā maraṇadhammamaho vatevaṃ!
+te mohitā maraṇadhammamaho vatevaṃ
 
  gaṇḍūpame vividharoga nivāsabhūte
 kāye sadā rudhiramuttakarīsapuṇṇe
@@ -498,4 +498,4 @@ ko buddhimā anavaraṃ na bhajeyya dhammaṃ
  evampi dullabhataraṃ vibhave suladdhā
 maccheradosa viratā ubhayatthakāmā
 saddhādidhammasahitā satatappamattā
-bho! bho! karotha amatādhigamāya puññaṃ
+bho bho karotha amatādhigamāya puññaṃ

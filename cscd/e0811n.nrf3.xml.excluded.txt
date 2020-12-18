@@ -92,7 +92,7 @@ Niddesa
 ,,,;
 ,’.
 193.
-’,;
+’,!;
 ’,.
 194.
 ‘‘,;
@@ -107,7 +107,7 @@ Niddesa
 ’,’’’;
 ,.
 198.
-‘‘’’,’;
+‘‘’’,’!;
 ’’’’,.
 199.
 ‘‘’’,;
@@ -166,7 +166,7 @@ Asesavatthuvisayaasamāsa
 ,’’.
 Asesavatthuvisayamissaka
 216.
-,’;
+,!’;
 ’,.
 217.
 ,;
@@ -264,14 +264,14 @@ Hi rahita visesaṭṭha
 ’,.
 Hi sahita visesaṭṭha
 243.
-’,;
+’,!;
 ,.
 244.
 ,;
 ’’’,.
 Vāccaekabyatireka
 245.
-,;
+,!;
 ,’.
 Vācca ubhayabyatireka
 246.
@@ -280,7 +280,7 @@ Vācca ubhayabyatireka
 Gamma ekabyatireka
 247.
 ,;
-,.
+!,.
 Gammaubhayabyatireka
 248.
 ,;
@@ -316,23 +316,23 @@ Abhāvakicco kārakahetu.
 Bhāvakicco ñāpakahetu.
 257.
 ’,;
-,’?
+!,’?
 Ayuttakārī cittahetu.
 258.
 ,’;
-,’.
+!,’.
 Yuttakārī cittahetu.
 259.
 ,;
 ‘’,.
 260.
-,;
+,!;
 ,.
 261.
 ,;
 ’’,.
 262.
-,;
+,!;
 ’,’.
 263.
 ’,’;
@@ -367,7 +367,7 @@ Kriyāparikappanā
 ,.
 Guṇaparikappanā
 272.
-,;
+!,;
 ’’,.
 273.
 ,,,,,;
@@ -375,7 +375,7 @@ Guṇaparikappanā
 Gammaparikappanā
 274.
 ,;
-,.
+!,.
 275.
 ,;
 ’,.
@@ -387,13 +387,13 @@ Gammaparikappanā
 ‘,’.
 278.
 ’,’;
-,.
+!,.
 279.
 ,;
 ’,.
 280.
 ’,’;
-,?
+!,?
 281.
 ’,,,;
 ,.
@@ -411,7 +411,7 @@ tatā (ka.),
 ’,.
 Jātivisesavutti.
 285.
-,,;
+,,!;
 ,.
 Guṇavisesavutti
 286.
@@ -460,7 +460,7 @@ Niyamavantasilesa
 Niyamakkhepasilesa
 298.
 ’’,;
-’,’.
+’,!’.
 Avirodhisilesa
 299.
 ’,’;
@@ -474,7 +474,7 @@ Virodhisilesa
 Ocityasamposakapadasilesa
 301.
 ’,;
-,.
+,!.
 302.
 ,;
 ,.
@@ -579,7 +579,7 @@ Guṇasahavutti
 Aṅgaṅgībhāvamissa
 332.
 ,;
-,’.
+!,’.
 Sadisa bala bhāva missa
 333.
 ,;

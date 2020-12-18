@@ -2,11 +2,11 @@
 1. Caṇḍasuttaṃ
 353..;.–‘‘,,,yena midhekacco caṇḍoteva (sī. pī.).,,,yena midhekacco suratoteva (sī. pī.)’’?‘‘,,.,...,...,..,,,’’.
 ‘‘,,.,...,...,..,,’’.
-,–‘‘,,,,,,,,–;.,,.’’..
+,–‘‘,,,!,,,,,–;.,,.’’..
 2. Tālapuṭasuttaṃ
 354..tālaputto (sī. syā. kaṃ.);.–‘‘,,–‘,’.’’?‘‘,,.’’.–‘‘,,–‘,’.’’?‘‘,,.’’.–‘‘,,–‘,’.’’?
 ‘‘,,nālatthaṃ (syā. kaṃ. pī. ka.)–‘,,,’..,,..,,..,,...–‘,’,.,,–’’.
-,,,.‘‘,,–‘,,;’’’.‘‘,,;,,–‘’’’.‘‘,,,,,,,,–;.,,.,,,’’.,.…pe…..
+,,,.‘‘,,–‘,,;’’’.‘‘,,;,,–‘’’’.‘‘,,,!,,,,,–;.,,.,,,’’.,.…pe…..
 3. Yodhājīvasuttaṃ
 355.;…pe…–‘‘,,–‘,,’.’’?‘‘,,;’’.…pe…–‘‘,,–‘,,’.’’?
 ‘‘,,–‘,,;’..,,,hīnaṃ (sī. pī.)–‘’.;.–‘,’,.,,–’’.
@@ -45,18 +45,18 @@
 9. Kulasuttaṃ
 361...
 ..;.–‘‘,,.–‘’’’.
-‘‘,,’’?‘‘,,;–‘,,anudayaṃ (syā. kaṃ. pī. ka.),,’?,,–‘,,,,’,–‘,,?,,’,,sakkhiti (sī.) ma. ni. 2.83,’’.‘‘,’’;.–
+‘‘,,’’?‘‘,,;–‘,,anudayaṃ (syā. kaṃ. pī. ka.),,’?,,–‘,,,,’,–‘,,?,,’!,,sakkhiti (sī.) ma. ni. 2.83,’’.‘‘,’’;.–
 ‘‘,,,,’’?‘‘,,,,’’.‘‘,,?,,’’.‘‘,,ekanavuto kappo (syā. kaṃ.), ekanavutikappo (pī.),.,.,,,.,,,,nihitaṃ vā nādhigacchanti (sī. pī.),,kulānaṃ vā kulaṅgāro (sī.),,.,,,.,,,–‘,,’,,,’’.,–‘‘,,,…pe…’’..
 10. Maṇicūḷakasuttaṃ
-362..–‘‘,,’’
+362..–‘‘,,’’!
 .–‘‘ayyā (sī. pī.).,,,’’..;.–‘‘,,–‘,,’.,,,–‘.,,,’.,,.,,,,,’’?
 ‘‘,,,,,.,,,,,.,,,.( )(tassapi jātarūparajataṃ kappati,) (syā. kaṃ.),,,.,,–,,,pariyesitabbo’’ti (?).,,‘’’’..
 11. Bhadrakasuttaṃ
 363..;.–‘‘,,’’.‘‘ahañca (syā. kaṃ. ka.),,–‘’,,.ahañca (syā. kaṃ. ka.),,–‘’,,.,,.,;’’.‘‘,’’.–
-‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘,,’’.‘‘,,,’’?‘‘,,,.,,,’’.‘‘,,–‘uppajjati (sabbattha)..,.’’’.‘‘,,,subhāsitamidaṃ (sī. pī.),,yaṅkiñci atītamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassāti, yaṅkiñci anāgatamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjissati sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassā’’ti (syā. kaṃ.)–‘,.’.‘‘yaṅkiñci atītamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dūkkhassāti, yaṅkiñci anāgatamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjissati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassā’’ti (syā. kaṃ),,āvesane (?).,,uyyojesiṃ (ka.)–‘,,’.,,,–‘’’’ābādhayethāti (syā. kaṃ. pī. ka.).
+‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘,,’’.‘‘,,,’’?‘‘,,,.,,,’’.‘‘,,–‘uppajjati (sabbattha)..,.’’’.‘‘,,,!subhāsitamidaṃ (sī. pī.),,yaṅkiñci atītamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassāti, yaṅkiñci anāgatamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjissati sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassā’’ti (syā. kaṃ.)–‘,.’.‘‘yaṅkiñci atītamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dūkkhassāti, yaṅkiñci anāgatamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjissati, sabbantaṃ chandamūlakaṃ chandanidānaṃ, chando hi mūlaṃ dukkhassā’’ti (syā. kaṃ),,āvesane (?).,,uyyojesiṃ (ka.)–‘,,’.,,,–‘’’’ābādhayethāti (syā. kaṃ. pī. ka.).
 ‘‘,,’’?‘‘,,,’’.‘‘,,–‘,.’’’.
 ‘‘,,ciravāsissa mātā (sī. pī.),,’’?‘‘,’’.‘‘,,–‘’’’?‘‘,’’.
-‘‘,,’’?‘‘,,,’’‘‘,,–‘,.’’’..
+‘‘,,’’?‘‘,,,’’!‘‘,,–‘,.’’’..
 12. Rāsiyasuttaṃ
 364.;.–‘‘,,‘,’upakkosati upavadatīti (dī. ni. 1.381).,,–‘,’,,,,,,’’?‘‘,,–‘,’,,’’.
 ‘‘,,–,.,,–.,,–?,–…pe….,,–.
@@ -83,19 +83,19 @@
 ,–‘‘,…pe…’’..
 13. Pāṭaliyasuttaṃ
 365.uttarakaṃ nāma (sī.).;.–‘‘,–‘’.,,–‘’,,,,,,?,,’’.‘‘,,–‘’,,,,,,,–‘,’.,,–‘’,–‘’.,’’.,,;,–
-‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘,,,tāni ca pahātuṃ (syā. kaṃ.), tāni ca yātuṃ (katthaci), tāni cāvahātuṃ (?),,,’’.‘‘,,’’?‘‘,,;’’.‘‘,,–‘,’,’’?‘‘,,,,.,’’.‘‘,,–‘,’,–‘,’?,,,,’’.
+‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘,,,tāni ca pahātuṃ (syā. kaṃ.), tāni ca yātuṃ (katthaci), tāni cāvahātuṃ (?),,,’’.‘‘,,’’?‘‘,,;’’.‘‘,,–‘,’,’’?‘‘,!,,,.,’’.‘‘,,–‘,’,–‘,’?,,,,’’.
 ‘‘,,,,.,,,,.,,,,.,,,,.,,,,.,,,,.,,,,.,,,,.,,,,.,,,,.
 ‘‘,,–‘,.,.,.,’’’.
-‘‘,,sunahāto (sī. syā. kaṃ. pī.).–‘’?–‘..,’’’.
-‘‘,,rathikāya rathikaṃ (sī.),,.–‘,’chijjatīti (katthaci)?–‘,’’’.
+‘‘,,sunahāto (sī. syā. kaṃ. pī.).–‘!’?–‘!..,’’’.
+‘‘,,rathikāya rathikaṃ (sī.),,.–‘!,’chijjatīti (katthaci)?–‘!,’’’.
 ‘‘,,’’?‘‘,,’’.‘‘,,–‘,’,’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.
-‘‘,,…pe….–‘…pe…’?–‘pasayha adinnaṃ ratanaṃ ādiyi (ka.)..…pe…’’’.
-‘‘,,…pe…–‘…pe…’?–‘.’.,,’’?‘‘,,’’.‘‘,,–‘,’,…pe…’’?‘‘,’’.
-‘‘,,…pe….–‘…pe…’?–‘..…pe…’’’.
-‘‘,,…pe….–‘…pe…’?–‘,’.,,’’?‘‘,,’’.‘‘,,–‘,’,…pe…’’?‘‘,’’.
-‘‘,,.–‘’?–‘..’’’.
-‘‘,,.–‘,,’?–‘,’.,,’’?‘‘,,’’.‘‘,,–‘,’,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.
-‘‘,,,,,.,,,.,.,,,’’.
+‘‘,,…pe….–‘!…pe…’?–‘!pasayha adinnaṃ ratanaṃ ādiyi (ka.)..…pe…’’’.
+‘‘,,…pe…–‘!…pe…’?–‘!.’.,,’’?‘‘,,’’.‘‘,,–‘,’,…pe…’’?‘‘,’’.
+‘‘,,…pe….–‘!…pe…’?–‘!..…pe…’’’.
+‘‘,,…pe….–‘!…pe…’?–‘!,’.,,’’?‘‘,,’’.‘‘,,–‘,’,…pe…’’?‘‘,’’.
+‘‘,,.–‘!’?–‘!..’’’.
+‘‘,,.–‘!,,’?–‘!,’.,,’’?‘‘,,’’.‘‘,,–‘,’,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.
+‘‘,,,!,,.,,,.,.,,,’’.
 ‘‘–‘,,,.,,,,,’’’.
 ‘‘–‘,,,,,,,,,,’’’.
 ‘‘–‘,,,,,,,,,,,,,,.,,.,,.,,.,’’’.

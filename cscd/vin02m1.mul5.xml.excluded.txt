@@ -3,8 +3,8 @@
 Ime kho panāyyāyo sattarasa saṅghādisesā
 Dhammā uddesaṃ āgacchanti.
 678..uddositaṃ (sī. syā.).–,..–‘‘,’’.–‘‘,.’’.–‘‘,’’.–‘‘,.’’.–‘‘,’’.–‘‘,’’––‘‘’’.pāpuṇi (syā.).–‘‘,’’.
-–‘‘,,’’.‘‘’’.–‘‘,,’’?–‘‘api nvayyā (syā.), api nāyyo (ka.)’’?–‘‘’’.–‘‘.’’..–‘‘’’.
-..–‘‘,,.’’.…pe…–‘‘’’…pe…,,.‘‘,’’.…pe…,,,,…pe…,,–
+–‘‘,,’’.‘‘’’.–‘‘,,’’?–‘‘api nvayyā (syā.), api nāyyo (ka.)’’?–‘‘’’.–‘‘.’’!..–‘‘’’.
+..–‘‘,,.’’!.…pe…–‘‘’’!…pe…,,.‘‘,’’.…pe…,,!,,…pe…,,–
 679.‘‘kammakarena (sī. syā.),’’.
 680.…pe……pe….
 .
@@ -21,7 +21,7 @@ Dhammā uddesaṃ āgacchanti.
 Paṭhamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 2. Dutiyasaṅghādisesasikkhāpadaṃ
 682...–‘‘,’’...–‘‘,,’’.‘‘’’?‘‘,’’.‘‘’’.–‘‘’’.......
-;–‘‘,,.’’.‘‘,,’’.‘‘,,’’.‘‘,,,.,’’.–‘‘’’.…pe…–‘‘’’…pe…,,pabbājesīti (ka.)?‘‘,’’.…pe…,,,,…pe…,,–
+;–‘‘,,.’’.‘‘,,’’.‘‘,,’’.‘‘,,,.,’’.–‘‘’’!.…pe…–‘‘’’!…pe…,,pabbājesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 683.‘‘,’’.
 684.…pe……pe….
 ,.
@@ -43,17 +43,17 @@ Paṭhamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 686.,,,,.
 Dutiyasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 3. Tatiyasaṅghādisesasikkhāpadaṃ
-687..gāmake (syā.).–‘‘,’’‘‘,,’’.‘‘,.’’.–‘‘,,,’’?‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
+687..gāmake (syā.).–‘‘,’’!‘‘,,’’.‘‘,.’’.–‘‘,,,’’?‘‘,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 ‘‘,’’.
 .
-688...–‘‘,,’’.‘‘,’’....–‘‘,,’’?‘‘,,,’’?‘‘,’’..…pe…–‘‘’’.…pe…,,’’?‘‘,’’.…pe…,,,,…pe…,,–
+688...–‘‘,,’’.‘‘,’’....–‘‘,,’’?‘‘,!,,’’?‘‘,’’..…pe…–‘‘’’!.…pe…,,’’?‘‘,’’.…pe…,,!,,…pe…,,–
 ‘‘,,’’.
 .
 689.gantvā (ka.)....–‘‘;,’’,..–‘‘’’.
-.–‘‘,,’’?‘‘,,’’..…pe…–‘‘’’…pe…,,vippavasīti (ka.)?‘‘,’’.…pe…,,,,…pe…,,–
+.–‘‘,,’’?‘‘,,’’..…pe…–‘‘’’…pe…,,vippavasīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 ‘‘,,,’’.
 .
-690..ohiyitvā (ka.)...–‘‘,,,’’?‘‘,’’.…pe…–…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
+690..ohiyitvā (ka.)...–‘‘,,,’’?‘‘,’’.…pe…–…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 691.‘‘,,,,’’.
 692.…pe……pe….
 ,.
@@ -69,7 +69,7 @@ Dutiyasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 Tatiyasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 4. Catutthasaṅghādisesasikkhāpadaṃ
 694.....–‘‘’’,adassanena (ka.)...–‘‘,,’’?‘‘,,’’.‘‘,,’’?‘‘,,–‘‘,’’,adassanena (ka.)’’.
-–‘‘,..’’,.…pe…–‘‘’’…pe…,,osāresīti (ka.)?‘‘,’’.…pe…,,,,…pe…,,–
+–‘‘,..’’,.…pe…–‘‘’’…pe…,,osāresīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 695.‘‘,’’.
 696.…pe……pe….
 .
@@ -88,7 +88,7 @@ adassanena vā appaṭikammena vā appaṭinissaggena vā (ka.), adassane vā ap
 698.,,,,,.
 Catutthasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 5. Pañcamasaṅghādisesasikkhāpadaṃ
-699....;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,…pe…,,–
+699....;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 700.‘‘,’’.
 701.…pe……pe….
 .
@@ -107,7 +107,7 @@ Catutthasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 Pañcamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 6. Chaṭṭhasaṅghādisesasikkhāpadaṃ
 704.....–‘‘,,’’?‘‘,’’.‘‘,,’’?‘‘,,’’.‘‘,,,.,,,’’.
-…pe…–‘‘–‘,,,.,,’’…pe…,,–‘‘,,,,’’?‘‘,’’.…pe…,,–‘‘,,;,,’’.,,…pe…,,–
+…pe…–‘‘–‘,,,.,,’’…pe…,,–‘‘,,!,,’’?‘‘,’’.…pe…,,–‘‘,,;,,’’.,,…pe…,,–
 705.‘‘–‘,,,.,,’,’’.
 706.…pe……pe….
 –‘‘,,,.,,’’,.‘‘’’,...
@@ -120,15 +120,15 @@ Pañcamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 708.‘‘’’,‘‘’’,‘‘’’,,.
 Chaṭṭhasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 7. Sattamasaṅghādisesasikkhāpadaṃ
-709..–‘‘,,,.,’’.…pe…–‘‘caṇḍakāḷī bhikkhunī (ka.)–…pe….,’’…pe…,,–‘‘…pe….,,’’?‘‘,’’.…pe…,,–‘‘…pe….,,’’,,…pe…,,–
-710.‘‘–‘,,,.,’,–‘,–,,,.,,,;’.,.;,’’.
+709..–‘‘,,,.,’’.…pe…–‘‘caṇḍakāḷī bhikkhunī (ka.)–…pe….,’’…pe…,,–‘‘…pe….,,’’?‘‘,’’.…pe…,,–‘‘…pe….,,’’!,,…pe…,,–
+710.‘‘–‘,,,.!,’,–‘,–,,,.!,,,;’.,.;,’’.
 711.…pe……pe….
 .
-–‘‘…pe….,’’.
+–‘‘…pe….!,’’.
 ..
-–‘‘,–‘…pe….,’.,;’’...,.,.–‘‘,–‘…pe….,’.,;’’...,..,,.–
-712.‘‘,,.–‘,,,.’..,..
-‘‘,,.–‘…pe….,’...,;,.
+–‘‘,–‘…pe….!,’.,;’’...,.,.–‘‘,–‘…pe….!,’.,;’’...,..,,.–
+712.‘‘,,.–‘,,,.!’..,..
+‘‘,,.–‘…pe….!,’...,;,.
 ‘‘…pe……pe….
 ‘‘.,,’’.
 ...,.
@@ -141,7 +141,7 @@ Chaṭṭhasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 714.,,,.
 Sattamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 8. Aṭṭhamasaṅghādisesasikkhāpadaṃ
-715..–‘‘,,,’’.…pe…–‘‘–…pe…’’…pe…,,–‘‘…pe…’’?‘‘,’’.…pe…,,–‘‘…pe…’’,,…pe…,,–
+715..–‘‘,,,’’.…pe…–‘‘–…pe…’’…pe…,,–‘‘…pe…’’?‘‘,’’.…pe…,,–‘‘…pe…’’!,,…pe…,,–
 716.‘‘–‘,,,’,–‘,–.,,,’.,.,;,’’.
 717.…pe……pe….
 –,,,.
@@ -165,7 +165,7 @@ Sattamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 720.,,,.
 Aṭṭhamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 9. Navamasaṅghādisesasikkhāpadaṃ
-721..,,.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,,,…pe…,,–
+721..,,.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,,,!,,…pe…,,–
 722.‘‘,,.–‘,..’.,.,;,’’.
 723..
 .
@@ -191,7 +191,7 @@ Aṭṭhamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 726.,,,.
 Navamasaṅghādisesasikkhāpadaṃ niṭṭhitaṃ.
 10. Dasamasaṅghādisesasikkhāpadaṃ
-727..–‘‘,..,,..tumheyeva (syā.)vebhassā (sī. syā.)–‘,,..’’’.…pe…––,..…pe….…pe…,,–..,,..–,,..?‘‘’’.…pe…,,–,..…pe….,,…pe…,–
+727..–‘‘,..,,..tumheyeva (syā.)vebhassā (sī. syā.)–‘,,..’’’.…pe…––,..…pe….…pe…,,–..,,..–,,..?‘‘’’.…pe…,,–,..…pe….!,,…pe…,–
 728.‘‘–‘,..,,..–,,..’.–‘,,–,..,,..–,,..’.,.,;,’’.
 729.…pe……pe….
 –‘‘,..,,.’’.

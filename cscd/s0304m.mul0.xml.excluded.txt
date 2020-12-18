@@ -17,17 +17,17 @@ Saḷāyatanavaggo
 6. Bāhirānattasuttaṃ
 6.‘‘,,.‘,,’.………….‘,,’.…pe…’’..
 7. Ajjhattāniccātītānāgatasuttaṃ
-7.‘‘,,;,,;;.……;,,;;.…pe…;,,;;’’..
+7.‘‘,,;!,,;;.……;!,,;;.…pe…;!,,;;’’..
 8. Ajjhattadukkhātītānāgatasuttaṃ
-8.‘‘,,;,,;;.…pe……pe…;,,;;.…pe…;,,;;’’..
+8.‘‘,,;!,,;;.…pe……pe…;!,,;;.…pe…;!,,;;’’..
 9. Ajjhattānattātītānāgatasuttaṃ
-9.‘‘,,;,,;;.…pe……pe…;,,;;.…pe…;,,;;’’..
+9.‘‘,,;!,,;;.…pe……pe…;!,,;;.…pe…;!,,;;’’..
 10. Bāhirāniccātītānāgatasuttaṃ
-10.‘‘,,;,,;;.…………;,,;;’’..
+10.‘‘,,;!,,;;.…………;!,,;;’’..
 11. Bāhiradukkhātītānāgatasuttaṃ
-11.‘‘,,;,,;;’’….…..
+11.‘‘,,;!,,;;’’….…..
 12. Bāhirānattātītānāgatasuttaṃ
-12.‘‘,,;,,;;.…………;,,;;’’..
+12.‘‘,,;!,,;;.…………;!,,;;’’..
 Aniccavaggo paṭhamo.
 –
 ,;
@@ -229,7 +229,7 @@ Avijjāvaggo chaṭṭho.
 ‘‘,,,,,,…pe……pe…,,,,’’..
 7. Upasenaāsīvisasuttaṃ
 69...–‘‘,,.;’’.
-,–‘‘.–‘,,.;’’’.‘‘,,–‘…pe……’.,,.,,–‘…pe……pe…’.,,,’’
+,–‘‘.–‘,,.;’’’.‘‘,,–‘…pe……’.,,.,,–‘…pe……pe…’.,,,’’!
 ‘‘.–‘…pe……pe…’’’..;..
 8. Upavāṇasandiṭṭhikasuttaṃ
 70.…pe…–‘‘‘,’,,.,,,’’?
@@ -294,7 +294,7 @@ Migajālavaggo sattamo.
 ‘‘,,’’.
 ‘‘,,,,,’’?
 ‘‘,,’’.
-‘‘,,,.,,.,’’?
+‘‘,!,,.,,.,’’?
 ‘‘,’’.
 ‘‘…pe……………’’?
 ‘‘,’’.
@@ -312,7 +312,7 @@ Migajālavaggo sattamo.
 ‘‘,,’’.
 ‘‘,,,,,’’?
 ‘‘,,’’.
-‘‘,,,.,,.
+‘‘,!,,.,,.
 ‘‘,,’’?
 ‘‘,’’.
 ‘‘…pe……………………’’?
@@ -419,7 +419,7 @@ Gilānavaggo aṭṭhamo.
 ‘‘,,,–‘,,’.,,;,,’’.
 ‘‘,,,,,’’?
 ‘‘,,,–‘,’.,,;,,’’.
-‘‘,,,.,,’’.
+‘‘,!,,.,,’’.
 ...paṭipādesi (sī. pī.), paṭidesesi (syā. kaṃ.)....
 …pe…–‘‘,,,.’’?
 ‘‘,,kulaputto ahosi (sabbattha),saccavādī (syā. kaṃ. ka.),viheṭhesi (sī. syā. kaṃ.).,,’’..
@@ -454,9 +454,9 @@ Gilānavaggo aṭṭhamo.
 92.‘‘,,..,,?,,,,,–,,.
 ‘‘,,–‘’,...?,,’’..
 10. Dutiyadvayasuttaṃ
-93.‘‘,,.,,?.....,.,,,,,..,.,,,,,,..…pe….
-‘‘.vipariṇāminī aññathābhāvinī (?)....,.,,,,,,..,.,,,,,,,..…pe….
-‘‘.....,.,,,,,,..,.,,,,,,,..,,’’..
+93.‘‘,,.,,?.....,.,,!,,,..,.,,!,,,,..…pe….
+‘‘.vipariṇāminī aññathābhāvinī (?)....,.,,,!,,,..,.,,,!,,,,..…pe….
+‘‘.....,.,,,!,,,..,.,,,!,,,,..,,’’..
 Channavaggo navamo.
 –
 ,;
@@ -499,7 +499,7 @@ Channavaggo navamo.
 bhavatha (sī. syā. kaṃ.)’’.;
 2. Mālukyaputtasuttaṃ
 95.māluṅkyaputto (sī.)…pe…–‘‘,,,’’.
-‘‘,,,,’’.
+‘‘,,!,,’’.
 ‘‘,,.,,,,.’’.
 ‘‘,,,,?’’?‘‘,’’.
 ‘‘,,?’’?‘‘,’’.
@@ -569,7 +569,7 @@ bhavatha (sī. syā. kaṃ.)’’.;
 ‘‘,;
 ,;
 ,’’.
-‘‘,,’’.‘‘,,,–
+‘‘,,’’.‘‘,!,,–
 ‘‘,;
 ,.
 ‘‘,;
@@ -712,7 +712,7 @@ Yogakkhemivaggo ekādasamo.
 ‘‘,,–‘,,,,.,,’,,,.,,–.,?,,.,…,…,,.,…,,.,,–.,,–‘,,,,.,,’,,,..’’.
 ‘‘’’;.–
 ‘‘,,–‘,,,,.,,’.,,–‘,,–,,,,.,,’.?,,–‘,..;’.,,;.,,’’.
-‘‘,,;,,,,,.,’’..
+‘‘,,;,,!,,,.,’’..
 4. Kāmaguṇasuttaṃ
 117.‘‘,,–‘,’.,,–‘,’.,,,.,,,.,,,,…pe…,,…pe…,,’’..
 –‘‘,,–‘,,,,…pe…,,…pe…,,’.’’?
@@ -724,7 +724,7 @@ Yogakkhemivaggo ekādasamo.
 ‘‘,,–‘,,,,…pe…,,’.,,.,,–‘,,,,,…pe…,,’.,,–‘,,,,…pe…,,’.,,.;.’’.
 ‘‘’’;.–
 ‘‘,,–‘,,,,…pe…,,…pe…,,’,,,–‘,,–,,,,…pe…,,’.‘’?,,–‘,..;’.,,;.,,,,’’.
-‘‘,,;,,,,,..’’..
+‘‘,,;,,!,,,..’’..
 5. Sakkapañhasuttaṃ
 118..;.–‘‘,,,?,,,’’?
 ‘‘,,,...,,…pe….
@@ -817,7 +817,7 @@ Lokakāmaguṇavaggo dvādasamo.
 ‘‘loḷaṃ (syā. kaṃ.),,.,,.,,,…pe…’’?
 ‘‘,,–‘,,–nahāru (sī. syā. kaṃ. pī.)aṭṭhimiñjā (sī.)’.,,,…pe…’’.‘‘,,,.,,,.,,manasi karissāmāti (sī. syā. kaṃ. pī.)subhato vā (sī.), subhato ca (syā. kaṃ.).,,…pe…’’?
 ‘‘,,–‘,,.,.,.;.…pe…………,.,.;’.,,,’’.
-‘‘,;,yāva subhāsitamidaṃ (sī.),,.,,,,.,ahampi bho (sī. pī.),,,,,,.,,,,,,,.,;,,,nikujjitaṃ (pī.),,,,;.,,,,.’’..
+‘‘,;,!yāva subhāsitamidaṃ (sī.),,.,,,,.,ahampi bho (sī. pī.),,,,,,.,,,,,,,.,;,!,,nikujjitaṃ (pī.),,,,;.,,,,.’’..
 5. Soṇasuttaṃ
 128..;.–‘‘,,,?,,,’’?(Yathā purimasuttantaṃ, evaṃ vitthāretabbaṃ).,,,..
 6. Ghositasuttaṃ
@@ -849,24 +849,24 @@ Lokakāmaguṇavaggo dvādasamo.
 ‘‘,;
 ,;
 ,’’.
-;–‘‘,mantaṃ (ka.),’’?,.–‘‘akkoseyyaṃ virujjheyyaṃ (syā. kaṃ. ka.).’’.
+;–‘‘!,mantaṃ (ka.),’’?,.–‘‘akkoseyyaṃ virujjheyyaṃ (syā. kaṃ. ka.).’’.
 ;..–‘‘,,’’?‘‘,,’’.‘‘’’?‘‘,,’’.‘‘’’?‘‘,,–
 ‘‘,
 ;…Pe…;
 ,
 ’’.
 ‘‘,,’’.
-‘‘‘’aguttadvāro aguttadvāroti (ka.).,,’’?‘‘,,,,anupaṭṭhitāya satiyā (syā. kaṃ. pī. ka.) upari āsīvisavagge avassutasutte pana ‘‘anupaṭṭhitakāyassatī’’tveva sabbattha dissati,.…………,,,.,,’’.‘‘,;,.
+‘‘‘’aguttadvāro aguttadvāroti (ka.).,,’’?‘‘,,,,anupaṭṭhitāya satiyā (syā. kaṃ. pī. ka.) upari āsīvisavagge avassutasutte pana ‘‘anupaṭṭhitakāyassatī’’tveva sabbattha dissati,.…………,,,.,,’’.‘‘,;,!.
 ‘‘‘’.,,’’?‘‘,,,,,.…………,,,,.,,’’.
-‘‘,;,.,;,,,,,,,;.,,,,..;.,’’..
+‘‘,;,!.,;,!,,,,,,;.,,,,..;.,’’..
 10. Verahaccānisuttaṃ
-133..;...;–‘‘,,bhoti jāneyya (sī. pī. ka.), bhotī jāneyya (syā. kaṃ.),’’.
+133..;...;–‘‘,,bhoti jāneyya (sī. pī. ka.), bhotī jāneyya (syā. kaṃ.)!,’’.
 ‘‘,,’’.‘‘’’;–‘‘,,,’’..;..–‘‘,,’’.‘‘,,’’pakkāmi (syā. kaṃ. pī.).
-;...;–‘‘,,,’’.
+;...;–‘‘,,!,’’.
 ‘‘,,.‘,,’‘,,’’’.‘‘,,–‘,,’.’’.‘‘,,’’.‘‘,’’;–‘‘’’..
 ;..–‘‘,,,’’?
 ‘‘,,,…pe…,…pe….,’’.
-,–‘‘,;,,,,,,,;.,,,,.’’..
+,–‘‘,;,!,,,,,,;.,,,,.’’..
 Gahapativaggo terasamo.
 –
 ,;
@@ -901,17 +901,17 @@ Gahapativaggo terasamo.
 6. Dutiyanatumhākaṃsuttaṃ
 139.‘‘,,,..,,?,,;..…………;..,,…pe…,,;.’’..
 7. Ajjhattāniccahetusuttaṃ
-140.‘‘,,.,,.,,…pe….,.,,…pe….,,,.,,,,…pe……pe…;;.‘,,,’’’..
+140.‘‘,,.,,.,,…pe….,.,,…pe….,,,.,,!,,…pe……pe…;;.‘,,,’’’..
 8. Ajjhattadukkhahetusuttaṃ
-141.‘‘,,.,.,,…pe….,,.,,…pe….,.,,…pe…‘,,,’’’..
+141.‘‘,,.,.,,…pe….,,.,,…pe….,.,,!…pe…‘,,,’’’..
 9. Ajjhattānattahetusuttaṃ
-142.‘‘,,.,,.,,…pe….,.,,…pe….,.,,…pe…‘,,,’’’..
+142.‘‘,,.,,.,,…pe….,.,,…pe….,.,,!…pe…‘,,,’’’..
 10. Bāhirāniccahetusuttaṃ
-143.‘‘,,.,,.,,………….,,.,,…pe…‘,,,’’’..
+143.‘‘,,.,,.,,!………….,,.,,!…pe…‘,,,’’’..
 11. Bāhiradukkhahetusuttaṃ
-144.‘‘,,.,,.,,………….,,.,,…pe…‘,,,’’’..
+144.‘‘,,.,,.,,!………….,,.,,!…pe…‘,,,’’’..
 12. Bāhirānattahetusuttaṃ
-145.‘‘,,.,,.,,………….,,.,,,,,………….;;.‘,,,’’’..
+145.‘‘,,.,,.,,!………….,,.,,!,,,………….;;.‘,,,’’’..
 Devadahavaggo cuddasamo.
 –
 ,;
@@ -1089,18 +1089,18 @@ na pamāṇameti (sī. syā. kaṃ. pī.),,’’.;
 ‘‘,,..,,…pe….
 ‘‘,,…pe….,,.,,,’’..
 4. Khīrarukkhopamasuttaṃ
-231.‘‘,,,,,,,;?,,,,,,,,…pe….
+231.‘‘,,,,,,,;!?,,,,,,,,…pe….
 ‘‘,,…pe….
-‘‘,,,,,,,,;?,,,,,,,,.
+‘‘,,,,,,,,;!?,,,,,,,,.
 ‘‘,,.bhindeyya (syā. kaṃ. sī. aṭṭha.), abhindeyya (katthaci)’’?‘‘,’’.‘‘’’?‘‘,,’’.
-‘‘,,,,,,,,;?,,,,,,,…pe….
+‘‘,,,,,,,,;!?,,,,,,,…pe….
 ‘‘,,…pe….
-‘‘,,,,,,,,;?,,,,,,,.
-‘‘,,,,,,,,;?,,,,,,,…pe….
-‘‘,,…pe…,,,,,,;?,,,,,,,.,,.’’?‘‘,’’.‘‘’’?‘‘,,’’.
-‘‘,,,,,,,,;?,,,,,,,…pe….
+‘‘,,,,,,,,;!?,,,,,,,.
+‘‘,,,,,,,,;!?,,,,,,,…pe….
+‘‘,,…pe…,,,,,,;!?,,,,,,,.,,.’’?‘‘,’’.‘‘’’?‘‘,,’’.
+‘‘,,,,,,,,;!?,,,,,,,…pe….
 ‘‘,,…pe….
-‘‘,,,,,,,,,;?,,,,,,,’’..
+‘‘,,,,,,,,,;!?,,,,,,,’’..
 5. Koṭṭhikasuttaṃ
 232..;..–
 ‘‘,,,…pe…,…pe…,’’?
@@ -1125,7 +1125,7 @@ na pamāṇameti (sī. syā. kaṃ. pī.),,’’.;
 ‘‘,,’’?‘‘’’.‘‘,,,,.’’?‘‘,’’.‘‘,,–‘’’’…pe….
 ‘‘,’’?‘‘’’.‘‘,,,,’’?‘‘,’’.‘‘,,–‘’’’…pe….
 ‘‘,’’?‘‘’’.‘‘,,,,,’’?‘‘,’’.‘‘,,–‘’’’.
-‘‘,,.akukkuṭakajātaṃ (syā. kaṃ.), akukkajaṭajātaṃ (ka.).;;vinibbhujjeyya (pī.), vinibbhajjeyya (syā. kaṃ.).,,,.evaṃ samanupassanto (syā. kaṃ. ka.)...‘,,,’’’..
+‘‘,,.akukkuṭakajātaṃ (syā. kaṃ.), akukkajaṭajātaṃ (ka.).;;vinibbhujjeyya (pī.), vinibbhajjeyya (syā. kaṃ.).,!,,.evaṃ samanupassanto (syā. kaṃ. ka.)...‘,,,’’’..
 8. Ādittapariyāyasuttaṃ
 235.‘‘,,..,,,?,,sañjotibhūtāya (syā. kaṃ.),.nimittassādagadhitaṃ (syā. kaṃ. ka.) ma. ni. 3.316-317,,,,,–,.,,.
 ‘‘,,,.,,,,,–.,,.
@@ -1200,7 +1200,7 @@ Samuddavaggo aṭṭharasamo.
 ‘‘,,.,labhetha (ka.),;…pe……pe……pe……pe……,.,,,,…pe……pe…,,.,,;,;,;,;,;,.,,,,,,,,,anadhibhūto (sī. syā. kaṃ. ka.).,,.
 ‘‘,?,,,,…pe……pe…,,,.,…pe….,,,…pe……pe…,,.
 ‘‘,,.,,…pe………………,,.,,,,…pe…,,.,,;,;,;,;,;,.,,,,,,,,anadhibhūto kehici kilesehi (ka.),.,,’’.
-–‘‘,,,’’.
+–‘‘,!,,’’.
 ....
 7. Dukkhadhammasuttaṃ
 244.,,.,,,.,.
