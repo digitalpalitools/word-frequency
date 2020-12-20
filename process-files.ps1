@@ -41,6 +41,28 @@ function CheckLines {
   return ""
 }
 
+function GenerateOriginalFile {
+  param(
+    $DstFilePathPrefix,
+    [Parameter(ValueFromPipeline = $true)]
+    [array]
+    $Nodes
+  )
+
+  Process {
+    [array] $originalLines =
+      $Nodes
+      | ForEach-Object {
+        [xml] $xml = $_.Node.OuterXml -ireplace '<note>([^<>]*)</note>','<note>⟪ $1 ⟫</note>'
+        $xml.p.InnerText
+      }
+    $originalFilePath = "$DstFilePathPrefix.original.txt"
+    $originalLines | Out-File -FilePath $originalFilePath -Encoding utf8BOM
+
+    $originalLines | ForEach-Object { $_.Replace("⟪ ", "").Replace(" ⟫", "") }
+  }
+}
+
 function ProcessFile {
   param(
     $SrcRoot,
@@ -58,16 +80,13 @@ function ProcessFile {
   Process {
     $now = [datetime]::Now
     Write-Host ("... ... [{0,3}] {1}... `t" -f @($fileNumber, $FilePath)) -NoNewline
-    $dstFilePath = $FilePath.ToLower().Replace($SrcRoot.ToLower(), $DstRoot)
+    $DstFilePathPrefix = $FilePath.ToLower().Replace($SrcRoot.ToLower(), $DstRoot)
 
     [array] $nodes = Select-Xml -Path $FilePath -XPath "//body/p"
 
     Write-Host "[$($nodes.Length) nodes]`t" -NoNewline
 
-    [array] $textLines = $nodes | ForEach-Object { $_.Node.InnerText }
-
-    $textFilePath = "$dstFilePath.original.txt"
-    $textLines | Out-File -FilePath $textFilePath -Encoding utf8BOM
+    [array] $originalLines = ,$nodes | GenerateOriginalFile $DstFilePathPrefix
 
     if (-not $OriginalTextOnly) {
       $includedLines = @()
@@ -80,13 +99,13 @@ function ProcessFile {
         $excludedLines += $_[1]
       }
 
-      $includedFilePath = "$dstFilePath.included.txt"
+      $includedFilePath = "$DstFilePathPrefix.included.txt"
       $includedLines | Out-File -FilePath $includedFilePath -Encoding utf8BOM
 
-      $excludedFilePath = "$dstFilePath.excluded.txt"
+      $excludedFilePath = "$DstFilePathPrefix.excluded.txt"
       $excludedLines | Out-File -FilePath $excludedFilePath -Encoding utf8BOM
 
-      $failures = CheckLines $textLines $includedLines $excludedLines
+      $failures = CheckLines $originalLines $includedLines $excludedLines
       if ($failures -ne "") {
         Write-Host "[$($includedLines.Length)/$($excludedLines.Length) lines]`t" -NoNewline
         Write-Host "[Check failed] [$failures]" -ForegroundColor Red -NoNewline
