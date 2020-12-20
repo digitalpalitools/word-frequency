@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Aṭṭhasālinī nāma
 Dhammasaṅgaṇī-aṭṭhakathā
@@ -239,7 +239,7 @@ Nidānakathā
 ..–
 ,;
 ,.
-Jambudīpā idhāgatāti (pari. 3, 8).
+(pari. 3, 8).
 ..
 Sumedhakathā
 ,,–
@@ -642,7 +642,7 @@ Sumedhakathā
 ,.
 ,;
 ,.
-Sumedhakathā niṭṭhitā.
+.
 ,;
 ,.
 ,;
@@ -827,4 +827,4 @@ Sumedhakathā niṭṭhitā.
 ,‘’,,,,,,,,,,,,,,,,,,,,‘’,,,,,..
 ,,,‘‘’,,,,,...(ma. ni. 1.274)(su. ni. 407 ādayo).
 ,,...‘,’..
-Nidānakathā niṭṭhitā.
+.

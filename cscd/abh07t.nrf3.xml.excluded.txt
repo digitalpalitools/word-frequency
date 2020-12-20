@@ -22,13 +22,13 @@ Pañcadvāravīthi
 15.,.
 16.,.
 ,.
-Ayamettha pañcadvāre vīthicittappavattinayo.
+.
 Manodvāravīthi parittajavanavāro
 17.,,.
 18.,.
 19.,.
 -;
-Ayamettha parittajavanavāro.
+.
 Appanājavanavāro
 20.,.
 21.,,.
@@ -37,7 +37,7 @@ Appanājavanavāro
 ,.
 24.,.
 ,.
-Ayamettha manodvāre vīthicittappavattinayo.
+.
 Tadārammaṇaniyamo
 25..
 26..
@@ -46,7 +46,7 @@ Tadārammaṇaniyamo
 29..
 30..
 ,.
-Ayamettha tadārammaṇaniyamo.
+.
 Javananiyamo
 31..
 32..
@@ -58,7 +58,7 @@ Javananiyamo
 38..
 39.,.
 ,.
-Ayamettha javananiyamo.
+.
 Puggalabhedo
 40..
 41..
@@ -70,7 +70,7 @@ Puggalabhedo
 47..
 48..
 ,.
-Ayamettha puggalabhedo.
+.
 Bhūmivibhāgo
 49..
 50..
@@ -79,7 +79,7 @@ Bhūmivibhāgo
 53..
 54.,.
 ,.
-Ayamettha bhūmivibhāgo.
+.
 55..
-Iti abhidhammatthasaṅgahe vīthisaṅgahavibhāgo nāma
-Catuttho paricchedo.
+
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Paṭṭhānapāḷi
 (Dutiyo bhāgo)
@@ -116,7 +116,7 @@ Suddhaṃ
 Dukaṃ
 …pe…(saṃkhittaṃ).
 (Yathā kusalattike gaṇanā, evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -232,7 +232,7 @@ Suddhaṃ
 Nahetudukaṃ
 46.,,,,,,,,…pe…,,,…pe…(saṃkhittaṃ).
 ,.
-Paṭiccavāro.
+.
 2. Sahajātavāro
 (Sahajātavāropi paṭiccavārasadiso kātabbo.)
 3. Paccayavāro
@@ -254,7 +254,7 @@ Hetupaccayo
 …pe…,.…pe….(4)
 …pe……pe……pe…,…pe……pe….(5)
 (Avasesesu dvīsu ghaṭanesu pavatti paṭisandhi vitthāretabbā.)
-Hetupaccayo.
+.
 ..,,.
 2. Paccayapaccanīyaṃ
 49.–,..
@@ -290,11 +290,11 @@ Suddhaṃ
 56.,,,,,,,,,,,,,,.
 3. Paccayānulomapaccanīyaṃ
 57.…pe….
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 58.,,,,,,,,,…pe….
-Paccanīyānulomaṃ.
-Paccayavāro.
+.
+.
 4. Nissayavāro
 (Nissayampi ninnānaṃ)
 5. Saṃsaṭṭhavāro
@@ -314,18 +314,18 @@ Hetupaccayo
 (Hetupaccayaṃ anumajjantena sabbe paccayā vitthāretabbā).
 Suddhaṃ
 62.,.
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 .
 63.,,,,,,,,,.
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Dukaṃ
 64.…pe…(saṃkhittaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 65.…pe…,,…pe…,,…pe….
-Paccanīyānulomaṃ
+
 6. Sampayuttavāro
 (Sampayuttavāropi vitthāretabbo).
 7. Pañhāvāro
@@ -678,7 +678,7 @@ Natthivigatāvigatapaccayā
 Suddhaṃ
 138.,,,,,,,,,,,,,,,,,,,,,,,.
 (Ghaṭanā kusalattikasadisāyeva. Pañhāvāragaṇanaṃ evaṃ asammohantena gaṇetabbaṃ.)
-Anulomaṃ.
+.
 Paccanīyuddhāro
 139.……….(1)
 ……….(2)
@@ -715,21 +715,21 @@ Paccanīyuddhāro
 ….(6)
 ….(1)
 ……….(2)
-Paccanīyuddhāro.
+.
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
 145.,,,,,,,,,,,,,,,,.
 (Paccanīyaṃ gaṇentena imāni padāni anumajjantena gaṇetabbāni.)
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 146.,,,,,,,,,.
 (Anulomapaccanīyagaṇanā iminā kāraṇena gaṇetabbā.)
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 147.,,,,,,,,,,,,,,,,,,,,,,.
 (Paccanīyānulomaṃ iminā kāraṇena vibhajitabbaṃ.)
-Paccanīyānulomaṃ.
-Vitakkattikaṃ niṭṭhitaṃ.
+.
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Yamakapāḷi (dutiyo bhāgo)
 6. Saṅkhārayamakaṃ
@@ -62,8 +62,8 @@ Yamakapāḷi (dutiyo bhāgo)
 (Kha)?
 (Ka)?
 (Kha)?
-Paṇṇattiuddesavāro.
-Paṇṇattivāro.
+.
+.
 (Kha) niddeso
 1. Padasodhanavāro
 (Ka) anulomaṃ
@@ -146,7 +146,7 @@ Paṇṇattivāro.
 ,..
 (Kha)?
 ,..
-Paṇṇattiniddesavāro.
+.
 2. Pavattivāro 1. uppādavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -433,7 +433,7 @@ Paṇṇattiniddesavāro.
 ,..
 (Kha)?
 ,..
-Uppādavāro.
+.
 2. Nirodhavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -664,7 +664,7 @@ Uppādavāro.
 ,..
 (Kha)?
 ,..
-Nirodhavāro.
+.
 2. Pavatti 3. uppādanirodhavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -810,12 +810,12 @@ Nirodhavāro.
 ,..
 (Kha)?.
 ,.
-Uppādanirodhavāro.
+.
 3. Pariññāvāro
 1-6. Paccuppannavārādi
 159.(Ka)?.
 (Kha)?.
 (Yathā khandhayamake pariññāvāraṃ vibhattaṃ evaṃ saṅkhārayamakepi pariññāvāraṃ vibhajitabbaṃ.)
-Pariññāvāro.
-Saṅkhārayamakaṃ niṭṭhitaṃ.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+.
+

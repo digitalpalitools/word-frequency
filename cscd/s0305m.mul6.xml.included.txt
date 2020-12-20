@@ -40,7 +40,7 @@ bhāsitā kho panesā bhante bhagavatā vācā  na tāvāhaṃ pāpima parinibb�
 evaṃ vutte bhagavā māraṃ pāpimantaṃ etadavoca  appossukko tvaṃ pāpima hohi na ciraṃ  tathāgatassa parinibbānaṃ bhavissati ito tiṇṇaṃ māsānaṃ accayena tathāgato parinibbāyissatīti atha kho bhagavā cāpāle cetiye sato sampajāno āyusaṅkhāraṃ ossaji ossaṭṭhe ca  bhagavatā āyusaṅkhāre mahābhūmicālo ahosi bhiṃsanako lomahaṃso devadundubhiyo  ca phaliṃsu atha kho bhagavā etamatthaṃ viditvā tāyaṃ velāyaṃ imaṃ udānaṃ udānesi 
 tulamatulañca  sambhavaṃ bhavasaṅkhāramavassaji muni
 ajjhattarato samāhito abhindi kavacamivattasambhavanti dasamaṃ
-
+cāpālavaggo paṭhamo
 tassuddānaṃ 
 apārāpi viraddho ca ariyā nibbidāpi ca
 padesaṃ samattaṃ bhikkhu buddhaṃ ñāṇañca cetiyanti
@@ -123,7 +123,7 @@ katamā  ca bhikkhave atippaggahitā vīmaṃsā yā bhikkhave vīmaṃsā uddha
 katamā ca bhikkhave ajjhattaṃ saṃkhittā vīmaṃsā yā bhikkhave vīmaṃsā thinamiddhasahagatā thinamiddhasampayuttā  ayaṃ vuccati bhikkhave ajjhattaṃ saṃkhittā vīmaṃsā
 katamā ca bhikkhave bahiddhā vikkhittā vīmaṃsā yā bhikkhave vīmaṃsā bahiddhā pañca kāmaguṇe ārabbha anuvikkhittā anuvisaṭā  ayaṃ vuccati bhikkhave bahiddhā  vikkhittā vīmaṃsā evaṃ kho bhikkhave bhikkhu vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti evaṃ bhāvitā kho bhikkhave cattāro iddhipādā evaṃ bahulīkatā mahapphalā honti mahānisaṃsā
 evaṃ bhāvitesu kho bhikkhave bhikkhu catūsu iddhipādesu evaṃ bahulīkatesu anekavihitaṃ iddhividhaṃ paccanubhoti  ekopi hutvā bahudhā hoti bahudhāpi hutvā eko hoti yāva brahmalokāpi  kāyena vasaṃ vatteti evaṃ bhāvitesu kho bhikkhave bhikkhu catūsu iddhipādesu evaṃ bahulīkatesu āsavānaṃ khayā anāsavaṃ cetovimuttiṃ  paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatīti dasamaṃ
-
+pāsādakampanavaggo dutiyo
 tassuddānaṃ 
 pubbaṃ mahapphalaṃ chandaṃ moggallānañca uṇṇābhaṃ
 dve samaṇabrāhmaṇā bhikkhu desanā vibhaṅgena cāti
@@ -181,7 +181,7 @@ imesañca pana bhikkhave catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatatt�
 katamesaṃ catunnaṃ idha bhikkhave tathāgato chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti  iti me chando na ca atilīno bhavissati na ca atippaggahito bhavissati na ca ajjhattaṃ saṃkhitto bhavissati na ca bahiddhā vikkhitto bhavissati pacchāpuresaññī ca viharati  yathā pure tathā pacchā yathā pacchā tathā pure yathā adho tathā uddhaṃ yathā uddhaṃ tathā adho yathā divā tathā rattiṃ yathā rattiṃ tathā divā iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti vīriyasamādhi cittasamādhi vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti  iti me vīmaṃsā  na ca atilīnā bhavissati na ca atipaggahitā bhavissati na ca ajjhattaṃ saṃkhittā bhavissati na ca bahiddhā vikkhittā bhavissati pacchāpuresaññī ca viharati  yathā pure tathā pacchā yathā pacchā tathā pure yathā adho tathā uddhaṃ yathā uddhaṃ tathā adho yathā divā tathā rattiṃ yathā rattiṃ tathā divā iti vivaṭena cetasā apariyonaddhena sappabhāsaṃ cittaṃ bhāveti imesaṃ kho bhikkhave catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā tathāgato evaṃmahiddhiko  evaṃmahānubhāvo
 imesañca pana bhikkhave catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā tathāgato anekavihitaṃ iddhividhaṃ paccanubhoti  ekopi hutvā bahudhā hoti  yāva brahmalokāpi kāyena vasaṃ vatteti imesañca pana bhikkhave catunnaṃ iddhipādānaṃ bhāvitattā bahulīkatattā tathāgato āsavānaṃ  khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharatīti dvādasamaṃ
 
-
+ayoguḷavaggo tatiyo
 tassuddānaṃ 
 maggo ayoguḷo bhikkhu suddhikañcāpi dve phalā
 dve cānandā duve bhikkhū moggallāno tathāgatoti
@@ -189,19 +189,19 @@ dve cānandā duve bhikkhū moggallāno tathāgatoti
 
  seyyathāpi  bhikkhave gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā evameva kho bhikkhave bhikkhu cattāro iddhipāde bhāvento cattāro iddhipāde bahulīkaronto  nibbānaninno hoti nibbānapoṇo nibbānapabbhāro kathañca bhikkhave bhikkhu cattāro iddhipāde bhāvento cattāro iddhipāde bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro idha bhikkhave bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti vīriyasamādhi cittasamādhi vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti
 evaṃ kho bhikkhave bhikkhu cattāro iddhipāde  bhāvento cattāro iddhipāde bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāroti dvādasamaṃ
-
+gaṅgāpeyyālavaggo catuttho
 tassuddānaṃ 
 cha pācīnato ninnā cha ninnā ca samuddato
 dvete cha dvādasa honti vaggo tena pavuccatīti
-
+appamādavaggo vitthāretabbo
 tassuddānaṃ 
 tathāgataṃ  padaṃ kūṭaṃ mūlaṃ sāro ca vassikaṃ
 rājā candimasūriyā vatthena dasamaṃ padanti
-
+balakaraṇīyavaggo  vitthāretabbo
 tassuddānaṃ 
 balaṃ bījañca nāgo ca rukkho kumbhena sūkiyā
 ākāsena ca dve meghā nāvā āgantukā nadīti
-
+esanāvaggo vitthāretabbo
 tassuddānaṃ 
 esanā  vidhā āsavo bhavo ca dukkhatā tisso
 khilaṃ malañca nīgho ca vedanā taṇhā tasinā cāti
@@ -209,8 +209,8 @@ khilaṃ malañca nīgho ca vedanā taṇhā tasinā cāti
 
  pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni katamāni pañca  rūparāgo arūparāgo māno uddhaccaṃ avijjā  imāni kho bhikkhave pañcuddhambhāgiyāni saṃyojanāni imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya cattāro iddhipādā bhāvetabbā katame cattāro idha bhikkhave bhikkhu chandasamādhippadhānasaṅkhārasamannāgataṃ  iddhipādaṃ bhāveti vīriyasamādhi cittasamādhi   vīmaṃsāsamādhippadhānasaṅkhārasamannāgataṃ iddhipādaṃ bhāveti imesaṃ kho bhikkhave pañcannaṃ uddhambhāgiyānaṃ saṃyojanānaṃ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro iddhipādā bhāvetabbāti
 (yathā  maggasaṃyuttaṃ tathā vitthāretabbaṃ)
-
+oghavaggo aṭṭhamo
 tassuddānaṃ 
 ogho yogo upādānaṃ ganthā anusayena ca
 kāmaguṇā nīvaraṇā khandhā oruddhambhāgiyāti
-
+iddhipādasaṃyuttaṃ sattamaṃ

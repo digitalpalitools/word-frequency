@@ -3,44 +3,44 @@
 ....–‘‘’’.....‘‘,,’’.
 1...,,,..
 2.,....
-Bhāgineyyupālittheraapadānavaṇṇanā samattā.
+.
 2. Soṇakoḷivisattheraapadānavaṇṇanā
 ....,..
 25..,....
 35.,.
 52.,,..
-Koḷivisattheraapadānavaṇṇanā samattā.
+.
 3. Kāḷigodhāputtabhaddiyattheraapadānavaṇṇanā
 .....
 54...,,,.,.,..
 55...
 58...
-Kāḷigodhāputtabhaddiyattheraapadānavaṇṇanā samattā.
+.
 4. Sanniṭṭhāpakattheraapadānavaṇṇanā
 .......
 70..,...
 72.,,,,..
-Sanniṭṭhāpakattheraapadānavaṇṇanā samattā.
+.
 5. Pañcahatthiyattheraapadānavaṇṇanā
 .......
 77....,..
-Pañcahatthiyattheraapadānavaṇṇanā samattā.
+.
 6. Padumacchadaniyattheraapadānavaṇṇanā
 ...,.
 83..,..
-Padumacchadaniyattheraapadānavaṇṇanā samattā.
+.
 7. Sayanadāyakattheraapadānavaṇṇanā
 .....
 88...
-Sayanadāyakattheraapadānavaṇṇanā samattā.
+.
 8. Caṅkamanadāyakattheraapadānavaṇṇanā
 ..,‘‘’’..
 93..,,..
-Caṅkamanadāyakattheraapadānavaṇṇanā samattā.
+.
 9. Subhaddattheraapadānavaṇṇanā
 .....
 101...…pe….
-Pañcamabhāṇavāravaṇṇanā samattā.
+.
 115...,...
 116.....
 118.--.,..
@@ -49,7 +49,7 @@ Pañcamabhāṇavāravaṇṇanā samattā.
 121.‘‘’’...‘‘’’..
 122..
 123.,,..
-Subhaddattheraapadānavaṇṇanā samattā.
+.
 10. Cundattheraapadānavaṇṇanā
 ...‘‘’’....
 125....
@@ -57,5 +57,5 @@ Subhaddattheraapadānavaṇṇanā samattā.
 139..,,.
 140..
 141...
-Cundattheraapadānavaṇṇanā samattā.
-Pañcamavaggavaṇṇanā samattā.
+.
+.

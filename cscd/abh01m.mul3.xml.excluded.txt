@@ -74,7 +74,7 @@ Tikanikkhepaṃ
 1056.?–.
 1057.?,,,,,,,,–.
 1058.?,,,;;–.
-Tikaṃ.
+.
 Dukanikkhepaṃ
 Hetugocchakaṃ
 1059.?,,,,,.
@@ -82,12 +82,12 @@ Hetugocchakaṃ
 1061.?–.
 1062.?–.
 1063.?,,,,,,,,–.
-Ime tayo kusalahetū.
+.
 1064.?,,.
 1065.?nandirāgo (sī.)sibbanī (sī.)āyūhanī (sī. syā.)āsiṃsanā āsiṃsitattaṃ (sī. syā.)puñcikatā (syā.) pucchikatā (sī.)–.
 1066.?,,,…pe……pe…,…pe……pe…,.–.
 1067.?,,,,,,,,–.
-Ime tayo akusalahetū.
+.
 1068.?–.
 1069.?,,–.
 1070.?,–.
@@ -97,7 +97,7 @@ Ime tayo akusalahetū.
 1074.?–.
 1075.?…pe…–.
 1076.?,,,,,,,,–.
-Ime tayo kusalahetū.
+.
 1077.?–.–.
 1078.?,,,,;…pe…;,–.
 1079.?…pe…–.
@@ -130,7 +130,7 @@ Cūḷantaradukaṃ
 1104.?bhavacchando (sī. syā.)–.
 1105.?,,,,,,,,,;–..
 1106.?,,,,,,,–.
-Ime dhammā āsavā.
+.
 1107.?,,,…pe…;–.
 1108.?,,;…pe…–.
 1109.?,–.
@@ -142,7 +142,7 @@ Ime dhammā āsavā.
 1115.?,…pe…–.
 1116.?,,,…pe…–.
 1117.?,,–.
-Nikkhepakaṇḍe paṭhamabhāṇavāro.
+.
 Saṃyojanagocchakaṃ
 1118.?–,,,,,,,,,.
 1119.?–.
@@ -155,7 +155,7 @@ Saṃyojanagocchakaṃ
 1126.?ussuyā ussuyanā ussuyitattaṃ (ka.)–.
 1127.?–,,,,.–.
 1128.?,,,,,,,–.
-Ime dhammā saṃyojanā.
+.
 1129.?,,,;…pe…;,–.
 1130.?,,;…pe…–.
 1131.?,,–.
@@ -173,7 +173,7 @@ Ganthagocchakaṃ
 1142.?,,,…pe……pe…,…pe……pe…,.–.
 1143.?,,–.
 1144.?,;,;,;,;,;,;,;,;,;,–..
-Ime dhammā ganthā.
+.
 1145.?,,,;…pe…;,–.
 1146.?,,;…pe…–.
 1147.?,,–.
@@ -201,7 +201,7 @@ Nīvaraṇagocchakaṃ
 1166.?,,,.–.,–.
 1167.?,,,,,,,.–.
 1168.?,,,,,,,–.
-Ime dhammā nīvaraṇā.
+.
 1169.?,,,;…pe…;,–.
 1170.?,,;…pe…–.
 1171.?,,–.
@@ -216,7 +216,7 @@ Ime dhammā nīvaraṇā.
 Parāmāsagocchakaṃ
 1180.?.
 1181.?,,,,,,,,,–..
-Ime dhammā parāmāsā.
+.
 1182.?,,,;…pe…;,–.
 1183.?,,;…pe…–.
 1184.?,,–.
@@ -261,7 +261,7 @@ Upādānagocchakaṃ
 1221.?,,,,,,,,,samaggatā (ka.),––..
 1222.?,,––.
 1223.?,,,.…pe……pe……pe…,,.–.
-Ime dhammā upādānā.
+.
 1224.?,,,;…pe…;,–.
 1225.?,,;…pe…–.
 1226.?,,–.
@@ -273,7 +273,7 @@ Ime dhammā upādānā.
 1232.?,…pe…–.
 1233.?,,;…pe…–.
 1234.?,,–.
-Nikkhepakaṇḍe dutiyabhāṇavāro.
+.
 Kilesagocchakaṃ
 1235.?–,,,,,,,,,.
 1236.?–.
@@ -286,7 +286,7 @@ Kilesagocchakaṃ
 1243.?–.
 1244.?,–.
 1245.?,–.
-Ime dhammā kilesā.
+.
 1246.?,,,;…pe…;,–.
 1247.?,,;…pe…–.
 1248.?,,–.
@@ -345,7 +345,7 @@ Piṭṭhidukaṃ
 1300.?,,–.
 1301.?,,;,…pe…,,,–.
 1302.?,,,;…pe…,,–.
-Abhidhammadukaṃ.
+.
 Suttantikadukanikkhepaṃ
 1303.?–.
 1304.?–.
@@ -428,4 +428,4 @@ Suttantikadukanikkhepaṃ
 1381.––cittassa ca (sī. syā.),.
 1382.–.
 1383.–.
-Nikkhepakaṇḍaṃ niṭṭhitaṃ.
+.

@@ -11,7 +11,7 @@
 109.,‘‘’’..‘‘’’..‘‘’’.‘‘’’..
 111..‘‘’’..,.-.
 112.,‘‘…pe…’’..,,,...
-Ambalaṭṭhikarāhulovādasuttavaṇṇanāya līnatthappakāsanā
+
 .
 2. Mahārāhulovādasuttavaṇṇanā
 113.,..–‘‘,,’’(saṃ. ni. aṭṭha. 3.4.243; udā. aṭṭha. 76; sārattha. ṭī. mahāvagga 3.285).‘‘’’.,.
@@ -29,7 +29,7 @@ Ambalaṭṭhikarāhulovādasuttavaṇṇanāya līnatthappakāsanā
 119.,,?.‘‘’’...
 120.‘‘’’..‘‘’’.
 121...,.
-Mahārāhulovādasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Cūḷamālukyasuttavaṇṇanā
 122.‘‘’’,,.,–‘‘’’.,,,,,.–‘‘,’’.,.,..,,.,.‘‘,,’’(udā. aṭṭha. 54; dī. ni. ṭī. 1.76-77).
 .,,......,‘‘’’..
@@ -37,7 +37,7 @@ Mahārāhulovādasuttavaṇṇanāya līnatthappakāsanā samattā.
 126.....,...‘‘’’,.
 127..
 128.,‘‘’’.‘‘’’‘‘’’.‘‘’’...
-Cūḷamālukyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Mahāmālukyasuttavaṇṇanā
 129.,,--.‘‘’’.,,.,.,..,‘‘’’,.
 ,,.‘‘’’...,.‘‘’’....
@@ -48,7 +48,7 @@ Cūḷamālukyasuttavaṇṇanāya līnatthappakāsanā samattā.
 .‘‘’’..,.‘‘’’.
 .,,..‘‘’’.,.,,.
 .‘‘’’.–,,,..‘‘’’,.
-Mahāmālukyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Bhaddālisuttavaṇṇanā
 134.,,,,.‘‘’’.‘‘,,’’.,...‘‘’’..‘‘,’’.,.
 135.,,..–‘‘’’...‘‘’’.
@@ -75,7 +75,7 @@ Mahāmālukyasuttavaṇṇanāya līnatthappakāsanā samattā.
 ....
 .‘‘’’.
 ..‘‘’’,‘‘’’.?,.‘‘’’,‘‘’’.,.‘‘’’.
-Bhaddālisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Laṭukikopamasuttavaṇṇanā
 148.......
 149.,‘‘’’..
@@ -94,7 +94,7 @@ Bhaddālisuttavaṇṇanāya līnatthappakāsanā samattā.
 155.‘‘’’..........
 156.‘‘’’.,..‘‘’’(dī. ni. 1.244-245; ma. ni. 1.384-386; pārā. 12-13).
 -–‘‘,’’(dī. ni. 2.272; saṃ. ni. 2.124, 128, 134, 143),.‘‘’’..,,,,.‘‘’’.‘‘’’.,.
-Laṭukikopamasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Cātumasuttavaṇṇanā
 157.,....
 ..,.
@@ -107,7 +107,7 @@ Laṭukikopamasuttavaṇṇanāya līnatthappakāsanā samattā.
 164.,,.‘‘’’.
 165....–‘‘’’.
 ,,,,‘‘’’..,,(visuddhi. 1.9).....,‘‘’’..
-Cātumasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Naḷakapānasuttavaṇṇanā
 166.,,,‘‘’’,‘‘’’.‘‘’’..
 .‘‘’’‘‘’’‘‘’’.…pe…..
@@ -117,14 +117,14 @@ Cātumasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘’’–‘‘’’,....‘‘’’.
 168...
 169.‘‘’’..,.....
-Naḷakapānasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Goliyānisuttavaṇṇanā
 173..,‘‘’’.‘‘’’,.‘‘’’..,.,.,,.‘‘’’..‘‘’’.
 .‘‘’’.
 .‘‘’’.,,‘‘’’...
 ,...
 ,–‘‘’’...‘‘’’.,‘‘’’..
-Goliyānisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Kīṭāgirisuttavaṇṇanā
 174........-,.
 175..‘‘’’,.,.‘‘’’.‘‘’’.
@@ -150,5 +150,5 @@ Goliyānisuttavaṇṇanāya līnatthappakāsanā samattā.
 183...‘‘’’.,-............
 184.,,..‘‘,,’’.
 .,..,,.,....–‘‘’’..
-Kīṭāgirisuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca bhikkhuvaggavaṇṇanā.
+.
+.

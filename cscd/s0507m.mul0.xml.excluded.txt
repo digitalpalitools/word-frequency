@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Petavatthupāḷi
 1. Uragavaggo
@@ -12,7 +12,7 @@ Petavatthupāḷi
 3.
 ‘‘,;
 gamati (ka.),’’.
-Khettūpamapetavatthu paṭhamaṃ.
+.
 2. Sūkaramukhapetavatthu
 4.
 ‘‘,;
@@ -23,7 +23,7 @@ Khettūpamapetavatthu paṭhamaṃ.
 6.
 ‘‘tāhaṃ (ka.),;
 ,’’.
-Sūkaramukhapetavatthu dutiyaṃ.
+.
 3. Pūtimukhapetavatthu
 7.
 ‘‘,;
@@ -36,7 +36,7 @@ Sūkaramukhapetavatthu dutiyaṃ.
 ;
 ‘,
 ’’’.
-Pūtimukhapetavatthu tatiyaṃ.
+.
 4. Piṭṭhadhītalikapetavatthu
 10.
 ‘‘,;
@@ -52,7 +52,7 @@ Pūtimukhapetavatthu tatiyaṃ.
 13.
 ‘‘,;
 ,’’.
-Piṭṭhadhītalikapetavatthu catutthaṃ.
+.
 5. Tirokuṭṭapetavatthu
 14.
 khu. pā. 7.1 khuddakapāṭhe‘‘tirokuḍḍesu (sī. syā. pī.),;
@@ -92,7 +92,7 @@ khu. pā. 7.1 khuddakapāṭhe‘‘tirokuḍḍesu (sī. syā. pī.),;
 25.
 ‘‘,;
 ,’’.
-Tirokuṭṭapetavatthu pañcamaṃ.
+.
 6. Pañcaputtakhādapetivatthu
 26.
 ‘‘,;
@@ -122,7 +122,7 @@ makkhikāparikiṇṇā ca (sī.),’’.
 34.
 ‘‘vipākaṃ (syā. ka.),;
 ,’’.
-Pañcaputtakhādapetivatthu pañcaputtakhādapetavatthu (sī. syā. pī.) evamuparipi chaṭṭhaṃ.
+pañcaputtakhādapetavatthu (sī. syā. pī.) evamuparipi.
 7. Sattaputtakhādapetivatthu
 35.
 ‘‘,;
@@ -157,7 +157,7 @@ Pañcaputtakhādapetivatthu pañcaputtakhādapetavatthu (sī. syā. pī.) evamup
 45.
 ‘‘,;
 ,’’.
-Sattaputtakhādapetivatthu sattamaṃ.
+.
 8. Goṇapetavatthu
 46.
 ‘‘,;
@@ -183,7 +183,7 @@ bālova (ka.),’’.
 53.
 ,;
 ,.
-Goṇapetavatthu aṭṭhamaṃ.
+.
 9. Mahāpesakārapetivatthu
 54.
 ‘‘,;
@@ -198,7 +198,7 @@ kiṭakā (ka.),’’.
 ‘‘‘,;
 ,’;
 ,’’.
-Mahāpesakārapetivatthu navamaṃ.
+.
 10. Khallāṭiyapetivatthu
 58.
 ‘‘,;
@@ -246,7 +246,7 @@ ma. ni. 3.250, 267; a. ni. 3.36; pe. va. 240, 693‘‘,;
 72.
 ‘‘,;
 ,’’.
-Khallāṭiyapetivatthu dasamaṃ.
+.
 11. Nāgapetavatthu
 73.
 ‘‘purato ca (syā.),;
@@ -285,7 +285,7 @@ viditvā (sī.),.
 84.
 ‘‘,;
 ,’’.
-Nāgapetavatthu ekādasamaṃ.
+.
 12. Uragapetavatthu
 85.
 ‘‘,;
@@ -317,8 +317,8 @@ Nāgapetavatthu ekādasamaṃ.
 94.
 ‘‘,;
 ,’’.
-Uragapetavatthu dvādasamaṃ.
-Uragavaggo paṭhamo niṭṭhito.
+.
+.
 –
 ,;
 ,;

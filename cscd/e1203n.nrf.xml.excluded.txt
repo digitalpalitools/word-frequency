@@ -1,5 +1,5 @@
 ﻿Dāṭhāvaṃso 
- Namo tassa bhagavato arahato sammāsambuddhassa
+
 1.
 ,
 ;
@@ -309,7 +309,7 @@
 ;
 ,
 .
-Paṭhamo paricchedo.
+.
 63.
 ,
 .
@@ -686,7 +686,7 @@ Paṭhamo paricchedo.
 ;
 ,
 .
-Dutiyo paricchedo
+
 187.
 ;
 ’.
@@ -980,7 +980,7 @@ Dutiyo paricchedo
 ;
 ,
 .
-Tatiyo paricchedo.
+.
 284.
 ,
 ;
@@ -1260,7 +1260,7 @@ Tatiyo paricchedo.
 ;
 ,
 .
-Catuttho paricchedo.
+.
 340.
 ,
 ;
@@ -1605,7 +1605,7 @@ Catuttho paricchedo.
 ’;
 ’,
 .
-Pañcamo paricchedo.
+.
 409.
 ,
 ;

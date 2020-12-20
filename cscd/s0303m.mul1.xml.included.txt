@@ -24,7 +24,7 @@ pariññeyye ca rādha dhamme desessāmi pariññañca pariññātāviṃ puggal
  sāvatthinidānaṃ ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca  rūpe kho rādha yo chando yo rāgo yā nandī yā taṇhā taṃ pajahatha evaṃ taṃ rūpaṃ pahīnaṃ bhavissati ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃkataṃ āyatiṃ anuppādadhammaṃ vedanāya yo  chando yo rāgo yā nandī yā taṇhā taṃ pajahatha  evaṃ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā saññāya saṅkhāresu yo chando yo rāgo yā nandī yā taṇhā taṃ pajahatha evaṃ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā viññāṇe  yo chando yo rāgo yā nandī yā taṇhā taṃ pajahatha evaṃ taṃ viññāṇaṃ pahīnaṃ bhavissati anuppādadhammanti navamaṃ
 
  sāvatthinidānaṃ ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca  rūpe kho rādha yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahatha evaṃ taṃ rūpaṃ pahīnaṃ bhavissati ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃkataṃ āyatiṃ anuppādadhammaṃ vedanāya yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahatha evaṃ sā vedanā pahīnā  bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā saññāya saṅkhāresu yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahatha evaṃ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṃkatā āyatiṃ anuppādadhammā viññāṇe  yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahatha evaṃ taṃ viññāṇaṃ pahīnaṃ bhavissati ucchinnamūlaṃ tālāvatthukataṃ anabhāvaṃkataṃ āyatiṃ anuppādadhammanti dasamaṃ
-
+rādhasaṃyuttassa paṭhamo vaggo
 tassuddānaṃ 
 māro satto bhavanetti pariññeyyā samaṇā duve
 sotāpanno arahā ca chandarāgāpare duveti
@@ -53,7 +53,7 @@ sotāpanno arahā ca chandarāgāpare duveti
  sāvatthinidānaṃ  ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca  samudayadhammo samudayadhammoti bhante vuccati katamo nu kho bhante samudayadhammoti rūpaṃ kho rādha samudayadhammo vedanā samudayadhammo saññā samudayadhammo saṅkhārā samudayadhammo viññāṇaṃ samudayadhammo evaṃ passaṃ nāparaṃ itthattāyāti pajānātīti ekādasamaṃ
 
  sāvatthinidānaṃ ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca  nirodhadhammo nirodhadhammoti  bhante vuccati katamo nu kho bhante nirodhadhammoti rūpaṃ kho rādha nirodhadhammo vedanā nirodhadhammo saññā nirodhadhammo saṅkhārā nirodhadhammo viññāṇaṃ nirodhadhammo evaṃ passaṃ nāparaṃ itthattāyāti pajānātīti dvādasamaṃ
-
+rādhasaṃyuttassa dutiyo vaggo
 tassuddānaṃ 
 māro  ca māradhammo ca aniccena apare duve
 dukkhena ca duve vuttā anattena  tatheva ca
@@ -75,7 +75,7 @@ yo kho rādha māro tatra te chando pahātabbo rāgo pahātabbo chandarāgo pah�
 
  sāvatthinidānaṃ ekamantaṃ nisinno kho āyasmā rādho bhagavantaṃ etadavoca  sādhu me bhante bhagavā saṃkhittena dhammaṃ desetu yamahaṃ bhagavato dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyanti
 yo  kho rādha nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabbo ko ca rādha nirodhadhammo rūpaṃ kho rādha nirodhadhammo tatra te chando pahātabbo vedanā nirodhadhammo tatra te chando pahātabbo saññā nirodhadhammo tatra te chando pahātabbo saṅkhārā nirodhadhammo tatra te chando pahātabbo viññāṇaṃ nirodhadhammo tatra te chando pahātabbo yo kho rādha nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabboti 
-
+āyācanavaggo tatiyo
 tassuddānaṃ 
 māro  ca māradhammo ca aniccena apare duve
 dukkhena ca duve vuttā anattena tatheva ca
@@ -95,9 +95,9 @@ khayavayasamudayaṃ nirodhadhammena dvādasāti
  yo  kho rādha samudayadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo  pahātabbo
 
  sāvatthinidānaṃ ekamantaṃ nisinnaṃ kho āyasmantaṃ rādhaṃ bhagavā etadavoca  yo kho rādha nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabbo ko ca rādha nirodhadhammo rūpaṃ  kho rādha nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabbo vedanā saññā saṅkhārā viññāṇaṃ nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabbo yo kho rādha nirodhadhammo tatra te chando pahātabbo rāgo pahātabbo chandarāgo pahātabboti
-
+upanisinnavaggo catuttho
 tassuddānaṃ 
 māro ca māradhammo ca aniccena apare duve
 dukkhena ca duve vuttā anattena tatheva ca
 khayavayasamudayaṃ nirodhadhammena dvādasāti
-
+rādhasaṃyuttaṃ samattaṃ

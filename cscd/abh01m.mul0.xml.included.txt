@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 
@@ -69,7 +69,7 @@
   sanidassanasappaṭighā dhammā
  anidassanasappaṭighā dhammā
  anidassanaappaṭighā  dhammā
-
+tikamātikā
 
 
   hetū  dhammā
@@ -84,7 +84,7 @@
  hetusampayuttā ceva dhammā na ca hetū
   na hetū kho pana dhammā sahetukāpi
  ahetukāpi
-
+hetugocchakaṃ
 
   sappaccayā dhammā
  appaccayā dhammā
@@ -100,7 +100,7 @@
  lokuttarā dhammā
   kenaci viññeyyā dhammā
  kenaci na viññeyyā dhammā
-
+cūḷantaradukaṃ
 
   āsavā dhammā
  no āsavā dhammā
@@ -114,7 +114,7 @@
  āsavasampayuttā ceva dhammā no ca āsavā
   āsavavippayuttā kho pana dhammā sāsavāpi
  anāsavāpi
-
+āsavagocchakaṃ
 
   saṃyojanā dhammā
  no saṃyojanā dhammā
@@ -128,7 +128,7 @@
  saṃyojanasampayuttā ceva dhammā no ca saṃyojanā
   saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi
  asaṃyojaniyāpi
-
+saṃyojanagocchakaṃ
 
   ganthā  dhammā
  no ganthā dhammā
@@ -142,7 +142,7 @@
  ganthasampayuttā ceva dhammā no ca ganthā
   ganthavippayuttā  kho pana dhammā ganthaniyāpi
  aganthaniyāpi
-
+ganthagocchakaṃ
 
   oghā dhammā
  no oghā dhammā
@@ -156,7 +156,7 @@
  oghasampayuttā ceva dhammā no ca oghā
   oghavippayuttā kho pana dhammā oghaniyāpi
  anoghaniyāpi
-
+oghagocchakaṃ
 
   yogā dhammā
  no yogā dhammā
@@ -170,7 +170,7 @@
  yogasampayuttā ceva dhammā no ca yogā
   yogavippayuttā kho pana dhammā yoganiyāpi
  ayoganiyāpi
-
+yogagocchakaṃ
 
   nīvaraṇā dhammā
  no nīvaraṇā dhammā
@@ -184,7 +184,7 @@
  nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā
   nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi
  anīvaraṇiyāpi 
-
+nīvaraṇagocchakaṃ
 
   parāmāsā  dhammā
  no parāmāsā dhammā
@@ -196,7 +196,7 @@
  parāmaṭṭhā ceva dhammā no ca parāmāsā
   parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi
  aparāmaṭṭhāpi
-
+parāmāsagocchakaṃ
 
   sārammaṇā dhammā
  anārammaṇā dhammā
@@ -226,7 +226,7 @@
  no upādā dhammā
   upādiṇṇā  dhammā
  anupādiṇṇā dhammā
-
+mahantaradukaṃ
 
   upādānā  dhammā
  no upādānā dhammā
@@ -240,7 +240,7 @@
  upādānasampayuttā ceva dhammā no ca upādānā
   upādānavippayuttā  kho pana dhammā upādāniyāpi
  anupādāniyāpi
-
+upādānagocchakaṃ
 
   kilesā  dhammā
  no kilesā dhammā
@@ -258,7 +258,7 @@
  kilesasampayuttā ceva dhammā no ca kilesā
   kilesavippayuttā kho pana dhammā saṃkilesikāpi
  asaṃkilesikāpi
-
+kilesagocchakaṃ
 
   dassanena  pahātabbā dhammā
  na dassanena pahātabbā dhammā
@@ -296,8 +296,8 @@
  anuttarā dhammā
   saraṇā dhammā
  araṇā dhammā
-
-
+piṭṭhidukaṃ
+abhidhammadukamātikā
 
   vijjābhāgino  dhammā
  avijjābhāgino dhammā
@@ -383,5 +383,5 @@
  vimutti ca
   khaye ñāṇaṃ
  anuppāde ñāṇanti
-
-
+suttantikadukamātikā 
+mātikā niṭṭhitā

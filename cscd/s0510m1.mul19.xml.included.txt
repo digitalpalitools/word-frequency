@@ -16,7 +16,7 @@ sattaratanasampanno cakkavattī mahabbalo
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā tamālapupphiyo thero imā gāthāyo abhāsitthāti
-
+tamālapupphiyattherassāpadānaṃ paṭhamaṃ
 
 
  yadā  vanavāsī  isi tiṇaṃ lāyati satthuno
@@ -36,7 +36,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā tiṇasanthārako thero imā gāthāyo abhāsitthāti
-
+tiṇasanthārakattherassāpadānaṃ dutiyaṃ
 
 
  phussassa  kho bhagavato thūpo āsi mahāvane
@@ -53,7 +53,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā khaṇḍaphulliyo thero imā gāthāyo abhāsitthāti
-
+khaṇḍapulliyattherassāpadānaṃ tatiyaṃ
 
 
  tivarāyaṃ  pure ramme rājuyyānaṃ ahu tadā
@@ -73,7 +73,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā asokapūjako thero imā gāthāyo abhāsitthāti
-
+asokapūjakattherassāpadānaṃ catutthaṃ
 
 
  aṅkolaṃ pupphitaṃ disvā mālāvaraṃ sakosakaṃ 
@@ -90,7 +90,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā aṅkolako thero imā gāthāyo abhāsitthāti
-
+aṅkolakattherassāpadānaṃ pañcamaṃ
 
 
  nagare  dvāravatiyā mālāvaccho mamaṃ ahu
@@ -113,7 +113,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā kisalayapūjako thero imā gāthāyo abhāsitthāti
-
+kisalayapūjakattherassāpadānaṃ chaṭṭhaṃ
 
 
  giriduggacaro āsiṃ makkaṭo thāmavegiko
@@ -136,7 +136,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā tindukadāyako thero imā gāthāyo abhāsitthāti
-
+tindukadāyakattherassāpadānaṃ sattamaṃ
 
 
  sumedho nāma bhagavā lokajeṭṭho narāsabho
@@ -153,7 +153,7 @@ sattaratanasampanno eko āsiṃ mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā muṭṭhipūjako thero imā gāthāyo abhāsitthāti
-
+muṭṭhipūjakattherassāpadānaṃ aṭṭhamaṃ
 
 
  sumaṅgaloti nāmena sayambhū aparājito
@@ -173,7 +173,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā kiṃkaṇikapupphiyo thero imā gāthāyo abhāsitthāti
-
+kiṃkaṇikapupphiyattherassāpadānaṃ navamaṃ
 
 
  padumuttaro nāma jino āhutīnaṃ paṭiggaho
@@ -190,8 +190,8 @@ samittanandano nāma cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā yūthikapupphiyo thero imā gāthāyo abhāsitthāti
-
-
+yūthikapupphiyattherassāpadānaṃ dasamaṃ
+tamālapupphiyavaggo vīsatimo
 tassuddānaṃ  
 tamālatiṇasanthāro  khaṇḍaphulli asokiyo
 aṅkolakī kisalayo tinduko nelapupphiyo
@@ -201,5 +201,5 @@ bhikkhādāyī  parivāro sereyyo sobhito tathā
 chattañca bandhujīvī ca supāricariyopi ca
 kumudo kuṭajo ceva tamāli dasamo kato
 chasatāni ca gāthāni chasaṭṭhi ca tatuttari
-
-
+bhikkhāvaggadasakaṃ
+dutiyasatakaṃ samattaṃ

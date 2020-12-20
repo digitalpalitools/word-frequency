@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Dīghanikāye
 Pāthikavaggaṭīkā
 1. Pāthikasuttavaṇṇanā
@@ -38,7 +38,7 @@ Iddhipāṭihāriyakathāvaṇṇanā
 21.,,‘‘’’..,,‘‘’’.,.‘‘’’.
 22..‘‘’’.,.
 23.,.
-Paṭhamabhāṇavāravaṇṇanā niṭṭhitā.
+.
 25..
 26..,.‘‘…pe…’’.
 27....,.-,‘‘’’.,.,‘‘’’,,‘‘’’.‘‘’’..‘‘’’..,.‘‘’’.
@@ -60,4 +60,4 @@ Aggaññapaññattikathāvaṇṇanā
 47.,‘‘’’.,‘‘,’’.‘‘’’.,..‘‘’’..,,.‘‘’’,‘‘’’.,.
 48.,‘‘’’,‘‘…pe…’’...,.
 ..
-Pāthikasuttavaṇṇanāya līnatthappakāsanā.
+.

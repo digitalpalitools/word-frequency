@@ -548,7 +548,7 @@ indriyā cakkhundriyaṃ
  na indriyā na cakkhu  na indriyā na aññātāvī
   na aññātāvī na indriyaṃ
  na indriyā na cakkhu  na indriyā na aññaṃ
-
+paṇṇattiuddesavāro
 
 
 
@@ -1358,7 +1358,7 @@ aññātāviṃ ṭhapetvā avasesā indriyā na aññātāvī indriyā aññāt
  na aññātāvī na indriyanti
 aññātāviṃ ṭhapetvā avasesā indriyā na aññātāvī indriyā aññātāviñca indriye ca ṭhapetvā avasesā na ceva aññātāvī na ca indriyā
  na indriyā na aññindriyanti āmantā
-
+paṇṇattiniddesavāro
 
 
 
@@ -4074,7 +4074,7 @@ pacchimacittasamaṅgīnaṃ tesaṃ tattha manindriyaṃ na uppajjissati no ca 
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha paññindriyaṃ na uppajjittha no ca tesaṃ tattha manindriyaṃ na uppajjissati asaññasattānaṃ tesaṃ tattha paññindriyañca na uppajjittha manindriyañca na uppajjissati
  yassa vā pana yattha manindriyaṃ  na uppajjissati tassa tattha paññindriyaṃ na uppajjitthāti
 pacchimacittasamaṅgīnaṃ tesaṃ tattha manindriyaṃ na uppajjissati no ca tesaṃ tattha paññindriyaṃ na uppajjittha asaññasattānaṃ tesaṃ tattha manindriyañca na uppajjissati paññindriyañca na uppajjittha 
-
+pavattivāro niṭṭhito
 
 
 
@@ -4460,6 +4460,6 @@ arahā aññātāvindriyaṃ na sacchikarissati no ca anaññātaññassāmītin
 aṭṭha puggalā aññindriyaṃ na bhāvittha no ca aññātāvindriyaṃ na sacchikarissanti ye puthujjanā maggaṃ na paṭilabhissanti  te aññindriyañca na bhāvittha aññātāvindriyañca na sacchikarissanti
  yo vā pana aññātāvindriyaṃ na sacchikarissati so aññindriyaṃ na bhāvitthāti
 arahā aññātāvindriyaṃ na sacchikarissati no ca aññindriyaṃ na bhāvittha ye puthujjanā maggaṃ na paṭilabhissanti te aññātāvindriyañca na sacchikarissanti aññindriyañca na bhāvittha 
-
-
-
+pariññāvāro
+indriyayamakaṃ niṭṭhitaṃ
+yamakapakaraṇaṃ niṭṭhitaṃ

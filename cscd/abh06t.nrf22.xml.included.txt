@@ -60,7 +60,7 @@ sabbaverabhayānettha niccaṃ vūpasameti ca
 
  dāyakenānisaṃsānaṃ anekesamanena ca
 ādimaggena saṃyuttaṃ ñāṇanti ñāṇadassanaṃ
-
+paṭhamamaggañāṇaṃ
 
  tassevānantaraṃ tassa vipākā dvepi tīṇi vā
 phalacittāni jāyante na jāyante tato paraṃ
@@ -108,7 +108,7 @@ ekāvajjanavārasmiṃ gotrabhussa anantaraṃ
 
  byāpādakāmarāgānaṃ tanubhāvaṃ tu sādhayaṃ
 sakadāgāmimaggoyaṃ jāyate dutiyo pana
-
+dutiyamaggañāṇaṃ
 
  imassāpi ca ñāṇassa heṭṭhā vuttanayenidha
 phalacittāni ñeyyāni viññunā dvepi tīṇi vā
@@ -133,7 +133,7 @@ ekāvajjanavīthimhi gotrabhussa anantaraṃ
 
  byāpādakāmarāgānaṃ mūlaghātaṃ tu sādhayaṃ
 tassānāgāmimaggoyaṃ jāyate tatiyo pana
-
+tatiyamaggañāṇaṃ
 
  imassāpi ca ñāṇassa heṭṭhā vuttanayenidha
 pavatti phalacittānaṃ veditabbā vibhāvinā
@@ -160,7 +160,7 @@ ekāvajjanavārasmiṃ gotrabhussa anantaraṃ
 jāyate tu tato paraṃ
 rūparāgādidosānaṃ
 viddhaṃsāya karo pana
-
+catutthamaggañāṇaṃ
 
  imassāpi ca ñāṇassa heṭṭhā vuttanayenidha
 pavatti phalacittānaṃ veditabbā vibhāvinā
@@ -182,5 +182,5 @@ hitatthāya ca bhikkhūnaṃ saṅkhepeneva dassitā
 ariyāya paññāya ca bhāvanāya
 visuddhikāmena tapodhanena
 bhavakkhayaṃ patthayatā budhena
-
-
+iti abhidhammāvatāre ñāṇadassanavisuddhiniddeso nāma
+bāvīsatimo paricchedo

@@ -686,7 +686,7 @@ vittaṃ (sī. ka.),.
 ‘‘,;
 ,’’.
 .
-Pilindavacchattherassāpadānaṃ paṭhamaṃ.
+.
 2. Selattheraapadānaṃ
 208.
 ‘‘,;
@@ -817,7 +817,7 @@ sampattīhi (syā. ka.),.
 250.
 ‘‘,;
 ,.
-Pannarasamaṃ bhāṇavāraṃ.
+.
 251.
 ‘‘,;
 ,.
@@ -975,7 +975,7 @@ Pannarasamaṃ bhāṇavāraṃ.
 303.
 ‘‘…pe…’’.
 .
-Selattherassāpadānaṃ dutiyaṃ.
+.
 3. Sabbakittikattheraapadānaṃ
 304.
 ‘‘jotantaṃ (sī.),jotitaṃ (syā.);
@@ -1063,7 +1063,7 @@ vusito (sī.),.
 332.
 ‘‘…pe…’’.
 .
-Sabbakittikattherassāpadānaṃ tatiyaṃ.
+.
 4. Madhudāyakattheraapadānaṃ
 333.
 ‘‘,;
@@ -1124,7 +1124,7 @@ Sabbakittikattherassāpadānaṃ tatiyaṃ.
 352.
 ‘‘…pe…’’.
 .
-Madhudāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Padumakūṭāgāriyattheraapadānaṃ
 353.
 ‘‘,;
@@ -1224,7 +1224,7 @@ vasantamhi (sī.), vasatopi (?),.
 385.
 ‘‘…pe…’’.
 .
-Padumakūṭāgāriyattherassāpadānaṃ pañcamaṃ.
+.
 6. Bākulattheraapadānaṃ
 386.
 ‘‘,;
@@ -1324,7 +1324,7 @@ bakkulo (sī. syā.),.
 418.
 ‘‘…pe…’’.
 bakkulo (sī. syā.);
-Bākulattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Girimānandattheraapadānaṃ
 419.
 ‘‘,;
@@ -1415,7 +1415,7 @@ dibbagandhena sampannaṃ (sī. syā.),.
 448.
 ‘‘…pe…’’.
 .
-Girimānandattherassāpadānaṃ sattamaṃ.
+.
 8. Saḷalamaṇḍapiyattheraapadānaṃ
 449.
 ‘‘,;
@@ -1436,7 +1436,7 @@ Girimānandattherassāpadānaṃ sattamaṃ.
 455.
 ‘‘…pe…’’.
 .
-Saḷalamaṇḍapiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sabbadāyakattheraapadānaṃ
 456.
 ‘‘,;
@@ -1520,7 +1520,7 @@ Saḷalamaṇḍapiyattherassāpadānaṃ aṭṭhamaṃ.
 483.
 ‘‘…pe…’’.
 .
-Sabbadāyakattherassāpadānaṃ navamaṃ.
+.
 10. Ajitattheraapadānaṃ
 484.
 ‘‘,;
@@ -1570,7 +1570,7 @@ cittamāpajji (sī.), cittamāpajjiṃ (syā.),.
 499.
 ‘‘‘,;
 ,.
-Soḷasamaṃ bhāṇavāraṃ.
+.
 500.
 ‘‘‘,;
 ,.
@@ -1629,8 +1629,8 @@ aṭṭhadīpaphalena hi; upaṭṭhissantimaṃ jantuṃ (syā.), aṭṭha dī
 519.
 ‘‘…pe…’’.
 .
-Ajitattherassāpadānaṃ dasamaṃ.
-Pilindavacchavaggo cattālīsamo.
+.
+.
 –
 ,;
 ,.
@@ -1641,5 +1641,5 @@ Pilindavacchavaggo cattālīsamo.
 ,.
 evameva dissati,;
 ,.
-Padumavaggadasakaṃ.
-Catutthasatakaṃ samattaṃ.
+.
+.

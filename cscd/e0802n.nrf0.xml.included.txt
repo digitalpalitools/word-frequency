@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
  1 attho  akkharasaññāto
@@ -12,7 +12,7 @@
  11 parasamaññā payoge
  12 pubbamadhoṭhitamassaraṃ sarena viyojaye
  14 naye paraṃ yutte
-
+iti sandhikappe paṭhamo kaṇḍo
  13 sarā  sare lopaṃ
  15 vā paro asarūpo
  16 kvacāsavaṇṇaṃ lutte
@@ -24,7 +24,7 @@
  27 do dhassa ca
  22 ivaṇṇo yaṃ navā
  28 evādissa ri pubbo ca rasso
-
+iti sandhikappe dutiyo kaṇḍo
  36 sarā pakati byañjane
  35 sare kvaci
  37 dīghaṃ
@@ -32,7 +32,7 @@
  39 lopañca tatrākāro
  40 para dvebhāvo ṭhāne
  42 vagge ghosāghosānaṃ tatiyapaṭhamā
-
+iti sandhikappe tatiyo kaṇḍo
  58 aṃ  byañjane niggahitaṃ
  49 vaggantaṃ vā vagge
  50 ehe ñaṃ
@@ -45,7 +45,7 @@
  54 byañjane ca
  55 paro vā saro
  56 byañjano ca visaññogo
-
+iti sandhikappe catuttho kaṇḍo
  32 gosare puthassāgamo kvaci
  33 pāssa canto rasso
  24 abbho abhi
@@ -56,8 +56,8 @@
  44 puthassu byañjane
  45 o avassa
  59 anupadiṭṭhānaṃ vuttayogato
-
-
+iti sandhikappe pañcamo kaṇḍo
+sandhisuttaṃ niṭṭhitaṃ
 
  60 jinavacanayuttaṃ hi
  61 liṅgañca nippajjate
@@ -127,7 +127,7 @@
  124 jhalato sassa no vā
  146 ghapato ca yonaṃ lopo
  115 lato vokāro ca
-
+iti nāmakappe paṭhamo kaṇḍo
  243 amhassa  mamaṃ savibhattissa se
  233 mayaṃ yomhi paṭhame
  99 ntussa nto
@@ -169,7 +169,7 @@
  143 susmimā  vā
  139 u nāmhi ca
  197 akammantassa ca
-
+iti nāmakappe dutiyo kaṇḍo
  244 tumhamhehi namākaṃ
  237 vā yvappaṭhamo
  240 sassaṃ
@@ -220,7 +220,7 @@
  166 āro rassamikāre
  168 pitādīnamasimhi
  239 tayātayinaṃ takāro tvattaṃ vā
-
+iti nāmakappe tatiyo kaṇḍo
  126 attanto hismimanattaṃ
  129 tato smiṃ ni
  127 sassano
@@ -257,7 +257,7 @@
  72 akārapitādyantānamā
  152 jhalapā rassaṃ
  73 ākāro vā
-
+iti nāmakappe catuttho kaṇḍo
  261 tvādayo vibhattisaññāyo
  260 kvaci to pañcamyatthe
  266 tratha sattamiyā sabbanāmehi
@@ -282,8 +282,8 @@
  397 vantumantuvīnañca lopo
  41 yavataṃ talaṇadakārānaṃ byañjanāni calañajakārattaṃ
  120 amha tumha ntu rāja brahmatta sakha satthu pitādīhi smā nāva
-
-
+iti nāmakappe pañcamo kaṇḍo
+nāmasuttaṃ niṭṭhitaṃ
 
  88 yasmā  dapetiṃ bhayamādatte vā tadapādānaṃ 
  309 dhātunāmānamupasaggayogādīsvapi ca
@@ -330,8 +330,8 @@
  327 kālabhāvesu ca
  328 upadhyādhikissaravacane
  329 maṇḍitussukkesu tatiyā ca
-
-
+iti nāmakappe kārakakappo chaṭṭho kaṇḍo
+kārakasuttaṃ niṭṭhitaṃ
 
  331 nāmāna samāso yuttattho
  332 tesaṃ vibhattiyo lopā ca
@@ -361,8 +361,8 @@
  336 aṃvibhattīnamakārantā abyāyitāvā
  337 saro rasso napuṃsake
  338 aññasmā lopo ca
-
-
+iti nāmakappe samāsakappo sattamo kaṇḍo
+samāsasutthaṃ niṭṭhitaṃ
 
  361 vā ṇāpacce
  366 ṇāyana ṇāna vacchādito
@@ -426,8 +426,8 @@
  354 kvacādimajjhuttarānaṃ dīgharassa paccayesu ca
  370 tesu vuddhi lopāgama vikāra viparitādesā ca
  365 ayuvaṇṇānañcāyo vuddhi
-
-
+iti nāmakappe taddhitakappo aṭṭhamo kaṇḍo
+taddhitasuttaṃ niṭṭhitaṃ
 
  429 atha  pubbānivibhattīnaṃ cha parassapadāni
  439 parāṇuttanopadāni
@@ -455,7 +455,7 @@
  472 ssavissantī ssati ssanti ssasi ssatha ssāmi ssāma ssate ssante ssase ssavhe ssaṃ ssāmhe
  474 kālātipatti ssā ssaṃsu sse ssatha ssaṃ ssāmā ssatha ssisu ssase ssavhe ssiṃ ssāmhase
  428 hiyyattanī sattamī pañcamī vattamānā sabbadhātukaṃ
-
+iti ākhyātakappe paṭhamo kaṇḍo
  362 dhātuliṅgehi parā paccayā
  528 tijagupakitamānehi khachasā vā
  534 bhujaghasaharasupādīhitumicchatthesu
@@ -482,7 +482,7 @@
  530 dhātuppaccayehi  vibhattiyo
  420 kattari parassapadaṃ
  424 bhūvādayo dhātavo
-
+iti ākhyātakappe dutiyo kaṇḍo
  461 kvacādivaṇṇānamekassarānaṃ dvebhāvo
  462 pubbo bbhāso
  506 rasso
@@ -507,7 +507,7 @@
  452 hi lopaṃ vā
  490 hotissare hohe bhavissantimhi ssassa ca
  524 karassa sappaccayassa kāho
-
+iti ākhyātakappe tatiyo kaṇḍo
  508 dādantassaṃ mimesu
  527 asaṃyogantassa vuddhi kārite
  542 ghaṭādīnaṃ vā
@@ -550,8 +550,8 @@
  425 dhātussanto lopo nekasarassa
  476 isuyamūnamanto ccho vā
  526 kāritānaṃ ṇo lopaṃ
-
-
+iti ākhyātakappe catuttho kaṇḍo
+ākhyātasuttaṃ niṭṭhitaṃ
 
  561 dhātuyā kammādimhi ṇo
  565 saññāyama nu
@@ -579,7 +579,7 @@
  596 nandādīhi yu
  597 kattukaraṇapadesesu ca
  550 rahādito ṇa
-
+iti kibbidhānakappe paṭhamo kaṇḍo
  549 ṇādayo  tekālikā
  598 saññāyaṃ dādhāto i
  609 ti kiccāsiṭṭhe
@@ -601,7 +601,7 @@
  576 mānādīhi  rātu
  610 āgamā tuko
  611 bhabbe ika
-
+iti kibbidhānakappe dutiyo kaṇḍo
  624 paccayādaniṭṭhā nipātanā sijjhanti
  625 sāsadisato tassa riṭṭho ca
  626 sādisanta puccha bhanja hantādīhi ṭṭho
@@ -621,7 +621,7 @@
  632 rakāro ca
  ṭhāpānamiī  ca
  621 hantehi ho hassa ḷo vā adahanahānaṃ
-
+iti kibbidhānakappe tatiyo kaṇḍo
  579 ṇamhi ranjassa jo bhāvakaraṇesu
  544 hanassa ghāto
  503 vadho vā sabbattha
@@ -639,7 +639,7 @@
  684 akkharehi kāra
  547 yathāgamamikāro
  642 dadhantato yo kvaci
-
+iti kibbidhānakappe catuttho kaṇḍo
  578 niggahita saṃyogādi no
  623 sabbattha ge hī
  484 sadassa sīdatthaṃ
@@ -657,8 +657,8 @@
  553 kāritaṃ  viya ṇānubandho
  570 anakā yu ṇvūnaṃ
  554 ka gā ca jānaṃ
-
-
+iti kibbidhānakappe pañcamo kaṇḍo
+kibbidhānasuttaṃ niṭṭhitaṃ
 
  563 kattari kitta
  605 bhāvakammesu kiccattakkhatthā
@@ -710,6 +710,6 @@
  681 hanādīhi nu ṇu tavo
  682 kuṭādīhi ṭho
  683 manupūrasuṇādīhi ussanusisā
-
-
+iti kibbidhānakappe uṇādikappo chaṭṭho kaṇḍo
+uṇādisuttaṃ niṭṭhitaṃ
 

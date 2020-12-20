@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 [ka]
@@ -73,7 +73,7 @@ yā ca pana parasmiṃ sakkataganthe paresaṃ vā veyyākaraṇānaṃ samaññ
 parasmiṃ paresaṃ vā samaññā parasamaññā veyyākaraṇe veyyākaraṇamadhītānaṃ vā samaññātyattho payujjanaṃ payogo viniyogo
 tattha vaggānaṃ paṭhamadutiyā sakāro ca aghosā vaggānaṃ tatiyacatutthapañcamā ya ra lava ha ḷā cāti ekavīsati ghosā nāma
 ettha ca vaggānaṃ dutiyacatutthā dhanitātipi vuccanti itare sithilāti vināso lopo rassassarā sakadīghehi aññamaññaṃ savaṇṇā nāma ye sarūpātipi vuccanti sarānantaritāni  byañjanāni saṃyogo dhātuppaccayavibhattivajjitamatthavaṃ liṅgaṃ vibhatyantaṃ padaṃ iccevamādi
-
+iti saññāvidhānaṃ
 
 atha sarasandhi vuccate
 loka aggapuggalo paññā indriyaṃ tīṇi imāni no hi etaṃ bhikkhunī ovādo mātu upaṭṭhānaṃ sametu āyasmā abhibhū āyatanaṃ dhanā me atthi sabbe eva tayo assu dhammā asanto ettha na dissanti itīdha sarādisaññāyaṃ sabbasandhikaraṇaṭṭhāne byañjanaviyojanatthaṃ paribhāsamāha
@@ -199,7 +199,7 @@ tathā sarato ivevesu chandānurakkhaṇe nakkhattarājāriva tārakānaṃ vijj
 vāti kiṃ dvādhiṭṭhitaṃ pātvākāsi punapi
 lakāro chasaṅkhyāhi laḷānamaviseso cha abhiññā chaḷabhiññā chaḷaṅgaṃ chaḷāsīti chaḷaṃsā saḷāyatanaṃ
 vāti kiṃ cha abhiññā
-
+iti sarasandhividhānaṃ niṭṭhitaṃ
 
 atha  itthiliṅgāni vuccante
 akāranto itthiliṅgasaddo appasiddho
@@ -246,7 +246,7 @@ gassa ghate cāti ekāre sampatte
 na ammādito
 ammā annāiccevamādito parassa gassa ālapanekavacanassa na ekārattaṃ hoti ākāro vāti rassattaṃ
 bhoti amma bhoti ammā bhotiyo ammā ammāyo evaṃ annā annā annāyo bhoti anna bhoti annā bhotiyo annā annāyo ambā  ambā ambāyo bhoti amba bhoti ambā bhotiyo ambā ambāyo iccādi
-
+ākārantaṃ
 ikāranto itthiliṅgo rattisaddo
 tatheva syādyuppatti silopo ratti
 bahuvacane saññā ivaṇṇuvaṇṇāti ca vattate
@@ -272,7 +272,7 @@ bhūmi jāti pīti sūti nandi sandhi sāṇi koṭi
 diṭṭhi vuḍḍhi tuṭṭhi yaṭṭhi pāḷi āḷi nāḷi keḷi
 sati mati gati cuti dhiti yuvati vikati
 rati ruci rasmi asani vasani osadhi aṅguli dhūli dundubhi doṇi aṭavi chavi ādīni ikārantanāmāni
-
+ikārantaṃ
 īkāranto  itthiliṅgo itthīsaddo
 itthaitīdha itthiyaṃ paccayoti ca vattate
 nadādito vā ī
@@ -318,7 +318,7 @@ patisaddassa anto attamāpajjate inīppaccaye pare tatheva parasare lutte pubbo 
 tatheva rājasaddato inī saralopapakatibhāvā rājinī īkārantesu daṇḍīsaddato inī saralopādi daṇḍinī daṇḍinī daṇḍiniyo evaṃ hatthinī medhāvinī tapassinī piyabhāṇinī iccādi
 pokkharinī itīdha tesu vuddhītiādinā ikāranakārānaṃ akāraṇakārādesā pokkharaṇī pokkharaṇī tato yonamo tūti sutte tuggahaṇena yonamokāro  ca īkārassa yakāro yavatamiccādisutte kāraggahaṇena ṇyassa ñakāro dvittaṃ pokkharañño pokkharaṇiyo vā iccādi
 vādhikāro anuttasamuccayattho tena vidū yakkhāditopi inī paracittavidunī saraloparassattāni paracittavidunī paracittaviduniyo yakkhinī yakkhiniyo sīhinī sīhiniyo iccādi
-
+īkārantaṃ
 ukāranto itthiliṅgo yāgusaddo
 tassa rattisaddasseva rūpanayo amādesādiabhāvova viseso
 yāgu yāgū yāguyo he yāgu he yāgū yāguyo yāguṃ yāgū yāguyo yāguyā yāgūhi yāgūbhi yāguhi yāgubhi yāguyā yāgūnaṃ yāgunaṃ yāguyā yāgūhi yāgūbhi yāguhi yāgubhi yāguyā yāgūnaṃ yāgunaṃ yāguyaṃ yāguyā yāgūsu yāgusu
@@ -326,17 +326,17 @@ evaṃ dhātu dhenu kāsu daddu kacchu kaṇḍu rajju kareṇu piyaṅgu sassu�
 mātusaddassa bhedo tassa pitusaddasseva rūpanayo ārattamiti bhāvaniddesena ārādesābhāve pato yāti yādesova viseso
 mātā mātaro bhoti māta bhoti mātā bhotiyo mātaro mātaraṃ mātare mātaro mātarā mātuyā matyā tesu vuddhītiādinā ukāralopo  rassattañca mātarehi mātarebhi mātūhi mātūbhi mātuhi mātubhi mātu mātussa mātuyā mātarānaṃ mātānaṃ mātūnaṃ mātunaṃ mātarā mātuyā mātarehi mātarebhi mātūhi mātūbhi mātu mātussa mātuyā mātarānaṃ mātānaṃ mātūnaṃ mātunaṃ mātari mātaresu mātūsu mātusu
 evaṃ dhītā dhītaro duhitā duhitaro iccādi
-
+ukārantaṃ
 ūkāranto itthiliṅgo jambūsaddo
 jambū jambū jambuyo he jambu he jambū jambuyo jambuṃ jambū jambuyo iccādi itthīsaddasamaṃ
 evaṃ vadhū ca sarabhū sarabū sutanū camū
 vāmūrū nāganāsūrū samāni khalu jambuyā
-
+ūkārantaṃ
 okāranto itthiliṅgo gosaddo
 tassa pulliṅgagosaddasseva rūpanayo
 kaññā ratti nadī itthī mātulānī ca bhikkhunī
 daṇḍinī yāgu mātā ca jambū gotitthisaṅgaho
-
+itthiliṅgaṃ niṭṭhitaṃ
 
 atha  napuṃsakaliṅgāni vuccante
 akāranto napuṃsakaliṅgo cittasaddo
@@ -377,13 +377,13 @@ aṃ napuṃsake
 napuṃsake vattamānassa liṅgassa sambandhino ntuppaccayassa savibhattissa aṃ hoti simhi vibhattimhi guṇavaṃ cittaṃ
 yomhi ntussanto yosu cāti attaṃ ikāro ca guṇavanti guṇavantāni sesaṃ ñeyyaṃ
 gacchanta si simhi gacchantādīnaṃ ntasaddo amiti aṃ gacchaṃ gacchantaṃ gacchantā gacchantāni
-
+akārantaṃ
 ākāranto napuṃsakaliṅgo assaddhāsaddo
 assaddhāiti ṭhite 
 samāsassāti adhikicca saro rasso napuṃsaketi samāsantassa rassattaṃ samāsattā nāmabyapadeso syādyuppatti sesaṃ cittasamaṃ
 assaddhaṃ kulaṃ assaddhā assaddhāni kulāni iccādi
 tathā mukhanāsikāsaddo tassa dvandekattā sabbatthekavacanameva mukhanāsikaṃ he mukhanāsika mukhanāsikaṃ mukhanāsikena iccādi
-
+ākārantaṃ
 ikāranto  napuṃsakaliṅgo aṭṭhisaddo
 syādyuppatti silopo aṭṭhi
 vāti vattate
@@ -391,25 +391,25 @@ yonaṃ ni napuṃsakehi
 napuṃsakaliṅgehi paresaṃ sabbesaṃ yonaṃ ni hoti vā
 aṭṭhīni aññattha niccaṃ yolopo dīgho ca aṭṭhī tathā he aṭṭhi he aṭṭhī aṭṭhīni aṭṭhiṃ aṭṭhī aṭṭhīni aṭṭhinā iccādi aggisaddasamaṃ
 evaṃ satthi dadhi vāri akkhi acchi acci iccādīni
-
+ikārantaṃ
 īkāranto napuṃsakaliṅgo sukhakārīsaddo
 sukhabhārī si itīdha anapuṃsakattābhāvā sismimpi agho rassamiccādinā rassattaṃ silopo sukhakāri dānaṃ sukhakārī sukhakārīni he sukhakāri he sukhakārī he sukhakārīni sukhakārinaṃ sukhakāriṃ sukhakārī sukhakārīni
 sesaṃ daṇḍīsaddasamaṃ evaṃ sīghayāyīādīni
-
+īkārantaṃ
 ukāranto napuṃsakaliṅgo āyusaddo tassa aṭṭhisaddasseva rūpanayo
 āyu āyū āyūni he āyu he āyū he āyūni āyuṃ āyū āyūni āyunā āyusāti  manogaṇādittā siddhaṃ āyūhi āyūbhi āyuno āyussa āyūnamiccādi
 evaṃ cakkhu vasu dhanu dāru tipu madhu hiṅgu siggu vatthu matthu jatu ambu assuādīni
-
+ukārantaṃ
 ūkāranto napuṃsakaliṅgo gotrabhūsaddo
 gotrabhū si napuṃsakattā rassattaṃ silopo gotrabhu cittaṃ gotrabhū gotrabhūni he gotrabhu he gotrabhū he gotrabhūni gotrabhuṃ gotrabhū gotrabhūni gotrabhunā iccādi pulliṅge abhibhūsaddasamaṃ
 evaṃ abhibhū sayambhū dhammaññūādīni
-
+ūkārantaṃ
 okāranto napuṃsakaliṅgo cittagosaddo
 cittā gāvo assa kulassāti atthe bahubbīhisamāse kate saro rasso napuṃsaketi okārassa ṭhānappayatanāsannattā rassattamukāro syādyuppatti silopo cittagu kulaṃ cittagū cittagūni iccādi āyusaddasamaṃ
-
+okārantaṃ
 cittaṃ kammañca assaddhamathaṭṭhi sukhakāri ca
 āyu gotrabhū dhammaññū cittagūti napuṃsake
-
+napuṃsakaliṅgaṃ niṭṭhitaṃ
 
 atha  sabbanāmāni vuccante
 sabba katara katama ubhaya itara añña aññatara aññatama pubba para apara dakkhiṇa uttara adhara ya ta eta ima amu kiṃ eka ubha dvi ti catu tumha amha iti sattavīsati sabbanāmāni tāni sabbanāmattā tiliṅgāni
@@ -502,7 +502,7 @@ nāmapadantaikārukāresu  gāthāhi ajjhabhāsi pupphāni āhariṃsu satthu ad
 kvacīti kiṃ manasākāsi
 sarā pakati byañjane
 sarā kho byañjane pare pakatirūpā hontīti yebhuyyena dīgharassalopehi vikārābhāvo yathā  accayo paccayo bhāsati vā karoti vā vedanākkhandho bhāgyavā bhadro kasāmiva dīyati tuṇhībhūto so dhammaṃ deseti
-
+iti pakatisandhividhānaṃ niṭṭhitaṃ
 
 atha byañjanasandhi vuccate
 byañjaneti adhikāro sarā kvacīti ca vattate
@@ -623,7 +623,7 @@ etesaṃ manogaṇādīnamanto ottamāpajjate vibhattilope kate
 manomayaṃ ayomayaṃ evaṃ manoseṭṭhā ayopatto tapodhano tamonudo siroruho tejokasiṇaṃ rajojallaṃ ahorattaṃ rahogato
 ādisaddena āpodhātu vāyodhātu
 sīhagatiyā vādhikārato idha na bhavati manamattena manacchaṭṭhānaṃ ayakapallaṃ tamavinodano manaāyatanaṃ
-
+iti byañjanasandhividhānaṃ niṭṭhitaṃ
 
 atha  niggahītasandhi vuccate
 taṇhaṃ karo raṇaṃ jaho saṃ ṭhito jutiṃ dharo saṃ mato itīdha niggahītanti adhikāro byañjaneti vattate
@@ -687,10 +687,10 @@ anupadiṭṭhānaṃ vuttayogato
 ye idha amhehi visesato na upadiṭṭhā upasagganipātādayo tesaṃ vuttayogato vuttanayena sarasandhādīsu vuttanayānusārena rūpasiddhi veditabbā
 tena do dhassa cāti sutte casaddena pariyādīnaṃ rahanādivaṇṇassa vipariyayo yavādīhi yathā  pariyudāhāsi payirudāhāsi ariyassa ayirassa bahvābādho bavhābādho na abhineyya anabhineyya
 taṃ imināpi jānāthāti ettha paro vā saroti sare lutte tatrākāroti yogavibhāgena akāro niggahītassa dakāro tadamināpi jānātha iccādi
-
+iti niggahītasandhividhānaṃ niṭṭhitaṃ
 saññāvidhānaṃ sarasandhi sandhi
 nisedhanaṃ byañjanasandhi sandhi
 yo niggahītassa ca sandhikappe
 sunicchayo sopi mayettha vutto
-
-
+iti rūpasiddhiyaṃ sandhikaṇḍo
+paṭhamo

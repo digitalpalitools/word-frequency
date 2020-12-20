@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Sāratthadīpanī-ṭīkā (paṭhamo bhāgo)
 Ganthārambhakathā
@@ -129,7 +129,7 @@ Ganthārambhakathāvaṇṇanā
 ‘‘,,‘’..,,,’’(pārā. aṭṭha. 1.45 bhikkhupadabhājanīyavaṇṇanā).
 ,.‘‘’’,.
 .‘‘’’.,...‘‘’’..‘‘’’.,..–,,.
-Ganthārambhakathāvaṇṇanā niṭṭhitā.
+.
 Bāhiranidānakathā
 ‘‘’’‘‘’’..-...,‘‘’’....
 ‘‘’’.–‘‘’’,,,,,,‘‘’’.‘‘’’‘‘’’‘‘,‘’’’‘‘’’.‘‘’’.
@@ -439,8 +439,8 @@ Paṭhamamahāsaṅgītikathāvaṇṇanā
 .‘‘’’‘‘,,’’‘‘’’‘‘,,’’‘‘’’‘‘,,’’‘‘,,’’..
 ..,.,.‘‘’’..
 .,.,.,.
-Iti samantapāsādikāya vinayaṭṭhakathāya sāratthadīpaniyaṃ
-Paṭhamamahāsaṅgītikathāvaṇṇanā samattā.
+
+.
 Dutiyasaṅgītikathāvaṇṇanā
 ‘‘’’..‘‘’’‘‘’’,,,..,.
 ,,...,..‘‘’’..‘‘’’,..,.,..,.,.,..
@@ -456,8 +456,8 @@ Dutiyasaṅgītikathāvaṇṇanā
 .‘‘’’.?.,.?‘‘,’’.‘‘’’‘‘‘,,’(dī. ni. 3.337; a. ni. 8.35; saṃ. ni. 4.352)’’.
 ,...‘‘’’.‘‘’’...,.‘‘’’....,,.
 ‘‘’’..‘‘,’’‘‘’’.,..‘‘’’‘‘’’‘‘,’’..
-Iti samantapāsādikāya vinayaṭṭhakathāya sāratthadīpaniyaṃ
-Dutiyasaṅgītikathāvaṇṇanā samattā.
+
+.
 Tatiyasaṅgītikathāvaṇṇanā
 ,..,.,.
 ...,,,...,.–
@@ -603,10 +603,10 @@ Tatiyasaṅgītikathāvaṇṇanā
 .‘‘’’,‘‘’’‘‘’’.‘‘,,,,.,,,,’’.‘‘,’’(dī. ni. 1.82).
 ‘‘,’’(dī. ni. 1.85).,,.
 ,..,..‘‘,’’(dī. ni. 1.94).,.
-Vibhajjavādīti verañjakaṇḍe āgatanayeneva venayikādibhāvaṃ vibhajja vadatīti vibhajjavādī.
+.
 ‘‘,,’’‘‘’’.,,‘‘’’,,.,.,,,.
-Iti samantapāsādikāya vinayaṭṭhakathāya sāratthadīpaniyaṃ
-Tatiyasaṅgītikathāvaṇṇanā samattā.
+
+.
 Ācariyaparamparakathāvaṇṇanā
 ‘‘’’,‘‘’’.....‘‘’’......,,,.,,.,.......
 ,.‘‘’’‘‘’’...,.
@@ -792,7 +792,7 @@ Tatiyasaṅgītikathāvaṇṇanā samattā.
 ,.
 ‘‘,’’.–
 .
-Ācariyaparamparakathāvaṇṇanā niṭṭhitā.
+.
 Vinayānisaṃsakathāvaṇṇanā
 ‘‘’’‘‘’’‘‘’’..........
 .‘‘’’(vibha. 511).,.
@@ -811,6 +811,6 @@ Vinayānisaṃsakathāvaṇṇanā
 ...,.‘‘,,,’’(dī. ni. 2.216)‘‘’’.‘‘,,,’’(dī. ni. 2.214)‘‘’’‘‘,’’.‘‘’’.,....
 (pari. aṭṭha. 366),,,..........,.......,.,.
 ,..,‘‘,’’..‘‘’’.,..,–,.,..‘‘…pe…’’..
-Vinayānisaṃsakathāvaṇṇanā niṭṭhitā.
-Iti samantapāsādikāya vinayaṭṭhakathāya sāratthadīpaniyaṃ
-Bāhiranidānavaṇṇanā samattā.
+.
+
+.

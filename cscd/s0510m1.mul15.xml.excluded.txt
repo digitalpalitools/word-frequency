@@ -19,7 +19,7 @@ vanasmiṃ jhāyamānaṃ taṃ (sī. syā.),.
 ‘‘,;
 ,’’.
 .
-Bandhujīvakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Tambapupphiyattheraapadānaṃ
 7.
 ‘‘,;
@@ -45,7 +45,7 @@ Bandhujīvakattherassāpadānaṃ paṭhamaṃ.
 14.
 ‘‘…pe…’’.
 .
-Tambapupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Vīthisammajjakattheraapadānaṃ
 15.
 ‘‘,sitaraṃsiṃva (sī. syā.);
@@ -65,7 +65,7 @@ Tambapupphiyattherassāpadānaṃ dutiyaṃ.
 20.
 ‘‘…pe…’’.
 .
-Vīthisammajjakattherassāpadānaṃ tatiyaṃ.
+.
 4. Kakkārupupphapūjakattheraapadānaṃ
 21.
 ‘‘,;
@@ -79,7 +79,7 @@ Vīthisammajjakattherassāpadānaṃ tatiyaṃ.
 24.
 ‘‘…pe…’’.
 .
-Kakkārupupphapūjakattherassāpadānaṃ catutthaṃ.
+.
 5. Mandāravapupphapūjakattheraapadānaṃ
 25.
 ‘‘,;
@@ -96,7 +96,7 @@ Kakkārupupphapūjakattherassāpadānaṃ catutthaṃ.
 29.
 ‘‘…pe…’’.
 .
-Mandāravapupphapūjakattherassāpadānaṃ pañcamaṃ.
+.
 6. Kadambapupphiyattheraapadānaṃ
 30.
 ‘‘,;
@@ -113,7 +113,7 @@ Mandāravapupphapūjakattherassāpadānaṃ pañcamaṃ.
 34.
 ‘‘…pe…’’.
 ;
-Kadambapupphiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Tiṇasūlakattheraapadānaṃ
 35.
 ‘‘,;
@@ -127,7 +127,7 @@ Kadambapupphiyattherassāpadānaṃ chaṭṭhaṃ.
 38.
 ‘‘…pe…’’.
 .
-Tiṇasūlakattherassāpadānaṃ sattamaṃ.
+.
 8. Nāgapupphiyattheraapadānaṃ
 39.
 ‘‘,;
@@ -150,7 +150,7 @@ Tiṇasūlakattherassāpadānaṃ sattamaṃ.
 45.
 ‘‘…pe…’’.
 .
-Nāgapupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Punnāgapupphiyattheraapadānaṃ
 46.
 ‘‘,;
@@ -167,7 +167,7 @@ Nāgapupphiyattherassāpadānaṃ aṭṭhamaṃ.
 50.
 ‘‘…pe…’’.
 .
-Punnāgapupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Kumudadāyakattheraapadānaṃ
 51.
 ‘‘,;
@@ -190,8 +190,8 @@ Punnāgapupphiyattherassāpadānaṃ navamaṃ.
 57.
 ‘‘…pe…’’.
 .
-Kumudadāyakattherassāpadānaṃ dasamaṃ.
-Bandhujīvakavaggo soḷasamo.
+.
+.
 –
 ,;
 ,;

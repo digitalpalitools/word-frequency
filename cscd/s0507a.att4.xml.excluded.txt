@@ -354,10 +354,10 @@
 601.......
 602...‘‘,’’..,.
 ...
-Ambasakkarapetavatthuvaṇṇanā niṭṭhitā.
+.
 2. Serīsakapetavatthuvaṇṇanā
 604-57..,,(vi. va. aṭṭha. 1227 serīsakavimānavaṇṇanā),.
-Serīsakapetavatthuvaṇṇanā niṭṭhitā.
+.
 3. Nandakapetavatthuvaṇṇanā
 .?.‘‘’’...‘‘’’,.–‘‘,‘’.,,’’..
 ..,.,..‘‘’’..–
@@ -562,10 +562,10 @@ Serīsakapetavatthuvaṇṇanā niṭṭhitā.
 709-12.‘‘’’‘‘’’.
 ,,...‘‘’’.,.
 713...,.,,.
-Nandakapetavatthuvaṇṇanā niṭṭhitā.
+.
 4. Revatīpetavatthuvaṇṇanā
 714-36.,,.,,(vi. va. aṭṭha. 860 revatīvimānavaṇṇanā).‘‘’’.
-Revatīpetavatthuvaṇṇanā niṭṭhitā.
+.
 5. Ucchupetavatthuvaṇṇanā
 .?..‘‘’’..,.‘‘,’’..
 ,.‘‘’’,.
@@ -605,7 +605,7 @@ Revatīpetavatthuvaṇṇanā niṭṭhitā.
 740-4.........,...
 745.,,,,.
 ...,.
-Ucchupetavatthuvaṇṇanā niṭṭhitā.
+.
 6. Kumārapetavatthuvaṇṇanā
 ...‘‘’’.‘‘’’–
 746.
@@ -639,7 +639,7 @@ Ucchupetavatthuvaṇṇanā niṭṭhitā.
 751.,.,.
 752.,..
 ..
-Kumārapetavatthuvaṇṇanā niṭṭhitā.
+.
 7. Rājaputtapetavatthuvaṇṇanā
 ..‘‘’’.,.‘‘,’’–
 753.
@@ -698,7 +698,7 @@ Kumārapetavatthuvaṇṇanā niṭṭhitā.
 762..,‘‘’’..
 763.......
 ..
-Rājaputtapetavatthuvaṇṇanā niṭṭhitā.
+.
 8. Gūthakhādakapetavatthuvaṇṇanā
 ......,.–
 766.
@@ -737,10 +737,10 @@ Rājaputtapetavatthuvaṇṇanā niṭṭhitā.
 772...,,...
 773.,,...,.
 ‘‘’’.,....
-Gūthakhādakapetavatthuvaṇṇanā niṭṭhitā.
+.
 9. Gūthakhādakapetivatthuvaṇṇanā
 774-81...,..
-Gūthakhādakapetivatthuvaṇṇānā niṭṭhitā.
+.
 10. Gaṇapetavatthuvaṇṇanā
 ..–
 782.
@@ -785,7 +785,7 @@ Gūthakhādakapetivatthuvaṇṇānā niṭṭhitā.
 789...
 790....
 ...
-Gaṇapetavatthuvaṇṇanā niṭṭhitā.
+.
 11. Pāṭaliputtapetavatthuvaṇṇanā
 ....,..‘‘’’.,....
 –‘‘,,,’’.–
@@ -803,7 +803,7 @@ Gaṇapetavatthuvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 .‘‘.,,’’.....
-Pāṭaliputtapetavatthuvaṇṇanā niṭṭhitā.
+.
 12. Ambavanapetavatthuvaṇṇanā
 ..,.,.,....
 ..‘‘,.,,,,,,’’.–‘‘’’..,.
@@ -833,7 +833,7 @@ Pāṭaliputtapetavatthuvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(udā. 18; jā. 1.1.100)–
 .....
-Ambavanapetavatthuvaṇṇanā niṭṭhitā.
+.
 13. Akkharukkhapetavatthuvaṇṇanā
 .?..‘‘’’.
 .–
@@ -842,7 +842,7 @@ Ambavanapetavatthuvaṇṇanā niṭṭhitā.
 ,’’.–
 .,,..‘‘’’,.,.,..
 ...
-Akkharukkhapetavatthuvaṇṇanā niṭṭhitā.
+.
 14. Bhogasaṃharaṇapetivatthuvaṇṇanā
 .?..–
 801.
@@ -854,7 +854,7 @@ Akkharukkhapetavatthuvaṇṇanā niṭṭhitā.
 .
 ‘‘’’..,.,.
 ,.
-Bhogasaṃharaṇapetivatthuvaṇṇanā niṭṭhitā.
+.
 15. Seṭṭhiputtapetavatthuvaṇṇanā
 .?.‘‘’’..
 –.----.,.
@@ -877,7 +877,7 @@ Bhogasaṃharaṇapetivatthuvaṇṇanā niṭṭhitā.
 804....‘‘,’’.
 805......,..,.
 ,..
-Seṭṭhiputtapetavatthuvaṇṇanā niṭṭhitā.
+.
 16. Saṭṭhikūṭapetavatthuvaṇṇanā
 .,..
 –‘‘’’?‘‘,’’.–‘‘,,’’?‘‘,’’....–‘‘,,,,’’..,.
@@ -923,10 +923,10 @@ Seṭṭhiputtapetavatthuvaṇṇanā niṭṭhitā.
 ,’’.–
 ..,..
 .,.
-Saṭṭhikūṭapetavatthuvaṇṇanā niṭṭhitā.
-Iti khuddaka-aṭṭhakathāya petavatthusmiṃ
+.
+-
 
-Catutthassa mahāvaggassa atthasaṃvaṇṇanā niṭṭhitā.
+.
 Nigamanakathā
 –
 ,;
@@ -949,6 +949,6 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Iti badaratitthavihāravāsinā munivarayatinā
+
 .
-Petavatthu-aṭṭhakathā samattā.
+-.

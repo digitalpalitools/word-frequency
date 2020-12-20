@@ -7,7 +7,7 @@
 10. Tiracchānakathāsuttavaṇṇanā
 1080.,.,.---..,....
 .‘‘’’.‘‘’’.–‘‘’’..,.
-Samādhivaggavaṇṇanā niṭṭhitā.
+.
 2. Dhammacakkappavattanavaggo
 1. Dhammacakkappavattanasuttavaṇṇanā
 1081.‘‘‘’‘’‘’’’.
@@ -20,7 +20,7 @@ Samādhivaggavaṇṇanā niṭṭhitā.
 1089....,,,‘‘’’....‘‘’’..,,.,....‘‘’’.
 10. Tathasuttavaṇṇanā
 1090..‘‘’’....‘‘’’..‘‘’’.
-Dhammacakkappavattanavaggavaṇṇanā niṭṭhitā.
+.
 3. Koṭigāmavaggo
 1. Koṭigāmasuttavaṇṇanā
 1091...
@@ -32,7 +32,7 @@ Dhammacakkappavattanavaggavaṇṇanā niṭṭhitā.
 1098..
 10. Gavampatisuttavaṇṇanā
 1100..
-Koṭigāmavaggavaṇṇanā niṭṭhitā.
+.
 4. Sīsapāvanavaggo
 3. Daṇḍasuttavaṇṇanā
 1101..
@@ -42,7 +42,7 @@ Koṭigāmavaggavaṇṇanā niṭṭhitā.
 1109..‘‘’’.,.
 10. Vādatthikasuttavaṇṇanā
 1110...
-Sīsapāvanavaggavaṇṇanā niṭṭhitā.
+.
 5. Papātavaggo
 1. Lokacintāsuttavaṇṇanā
 1111..‘‘’’,.-..
@@ -53,7 +53,7 @@ Sīsapāvanavaggavaṇṇanā niṭṭhitā.
 1115.,..‘‘’’..‘‘’’.........,...
 8. Dutiyachiggaḷayugasuttavaṇṇanā
 1118......,‘‘’’.
-Papātavaggavaṇṇanā niṭṭhitā.
+.
 6. Abhisamayavaggavaṇṇanā
 1121.,.
 7. Paṭhamaāmakadhaññapeyyālavaggo
@@ -89,12 +89,12 @@ Papātavaggavaṇṇanā niṭṭhitā.
 ......
 6-11. Chedanasuttādivaṇṇanā
 1166-71.,.-‘‘’’.‘‘’’,..
-Āmakadhaññapeyyālavaggavaṇṇanā niṭṭhitā.
+.
 Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Mahāvaggavaṇṇanāya līnatthappakāsanā niṭṭhitā.
+.
 Nigamanakathāvaṇṇanā
 .‘‘’’..-.
 ..‘‘’’.‘‘’’‘‘’’...
-Ettāvatā sāratthappakāsiniyā
-Saṃyuttanikāya-aṭṭhakathāya līnatthappakāsanā niṭṭhitā.
-Saṃyuttaṭīkā samattā.
+
+-.
+.

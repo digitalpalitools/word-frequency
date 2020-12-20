@@ -59,7 +59,7 @@ Hetu-ārammaṇapaccayā
 15...(2)
 ..(2)(Saṃkhittaṃ.)
 16.…pe….
-Hetugocchakaṃ niṭṭhitaṃ.
+.
 7. Sappaccayadukaṃ
 1-7. Paṭiccavārādi
 17..
@@ -103,7 +103,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 ….
 ….(Saṃkhittaṃ.)
 …pe….(Sabbattha vitthāro.)
-Cūḷantaradukaṃ niṭṭhitaṃ.
+.
 14. Āsavadukaṃ
 1-7. Paṭiccavārādi
 28....(3)
@@ -140,7 +140,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 .(1)
 .(Saṃkhittaṃ.)
 ,…pe…..
-Āsavagocchakaṃ niṭṭhitaṃ.
+.
 20. Saññojanadukaṃ
 34....(3)
 ...(3)
@@ -171,7 +171,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 .(1)
 .(1)(Saṃkhittaṃ.)
 …pe….(Sabbattha vitthāro.)
-Saññojanagocchakaṃ niṭṭhitaṃ.
+.
 26. Ganthadukaṃ
 40....(3)
 ...(3)
@@ -202,11 +202,11 @@ Saññojanagocchakaṃ niṭṭhitaṃ.
 .(1)
 .(1)(Saṃkhittaṃ.)
 ,…pe….(Sabbattha vitthāro.)
-Ganthagocchakaṃ niṭṭhitaṃ.
+.
 32-49. Oghādidukāni
 46.…pe……pe….
 47.…pe….(Nīvaraṇagocchake āmasanaṃ saññojanagocchake āmasanasadisaṃ.)
-Nīvaraṇagocchakaṃ niṭṭhitaṃ.
+.
 50-54. Parāmāsādidukāni
 48..(Saṃkhittaṃ.)
 49..(Saṃkhittaṃ.)
@@ -218,7 +218,7 @@ Nīvaraṇagocchakaṃ niṭṭhitaṃ.
 .(1)
 .(1)
 ,…pe…..
-Parāmāsagocchakaṃ niṭṭhitaṃ.
+.
 55. Sārammaṇadukaṃ
 53....(3)
 ...(3)
@@ -268,7 +268,7 @@ Parāmāsagocchakaṃ niṭṭhitaṃ.
 ...(3)
 .(1)(Saṃkhittaṃ.)
 .(Sabbattha vitthāro.)
-Mahantaradukaṃ niṭṭhitaṃ.
+.
 69-74. Upādānagocchakaṃ
 67..(Saṃkhittaṃ.)
 75. Kilesadukaṃ
@@ -401,5 +401,5 @@ Mahantaradukaṃ niṭṭhitaṃ.
 ….
 ..(Saṃkhittaṃ.)
 .
-Piṭṭhidukaṃ niṭṭhitaṃ.
-Dhammapaccanīye dukapaṭṭhānaṃ niṭṭhitaṃ.
+.
+.

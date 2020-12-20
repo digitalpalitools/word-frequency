@@ -19,7 +19,7 @@ pavanā (syā.),vānā nibbānamāgataṃ (syā.).
 ‘‘,;
 ,’’.
 .
-Bhikkhadāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ñāṇasaññikattheraapadānaṃ
 7.
 ‘‘,;
@@ -39,7 +39,7 @@ Bhikkhadāyakattherassāpadānaṃ paṭhamaṃ.
 12.
 ‘‘…pe…’’.
 .
-Ñāṇasaññikattherassāpadānaṃ dutiyaṃ.
+.
 3. Uppalahatthiyattheraapadānaṃ
 13.
 ‘‘,;
@@ -59,7 +59,7 @@ Bhikkhadāyakattherassāpadānaṃ paṭhamaṃ.
 18.
 ‘‘…pe…’’.
 .
-Uppalahatthiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Padapūjakattheraapadānaṃ
 19.
 ‘‘,;
@@ -76,7 +76,7 @@ Uppalahatthiyattherassāpadānaṃ tatiyaṃ.
 23.
 ‘‘…pe…’’.
 .
-Padapūjakattherassāpadānaṃ catutthaṃ.
+.
 5. Muṭṭhipupphiyattheraapadānaṃ
 24.
 ‘‘,;
@@ -93,7 +93,7 @@ Padapūjakattherassāpadānaṃ catutthaṃ.
 28.
 ‘‘…pe…’’.
 .
-Muṭṭhipupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Udakapūjakattheraapadānaṃ
 29.
 ‘‘,;
@@ -116,7 +116,7 @@ Muṭṭhipupphiyattherassāpadānaṃ pañcamaṃ.
 35.
 ‘‘…pe…’’.
 .
-Udakapūjakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Naḷamāliyattheraapadānaṃ
 36.
 ‘‘,;
@@ -151,8 +151,8 @@ Udakapūjakattherassāpadānaṃ chaṭṭhaṃ.
 46.
 ‘‘…pe…’’.
 .
-Naḷamāliyattherassāpadānaṃ sattamaṃ.
-Sattamabhāṇavāraṃ.
+.
+.
 8. Āsanupaṭṭhāhakattheraapadānaṃ
 47.
 ‘‘,;
@@ -172,7 +172,7 @@ sandiṭṭhāpemi (ka.),.
 52.
 ‘‘…pe…’’.
 .
-Āsanupaṭṭhāhakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Biḷālidāyakattheraapadānaṃ
 53.
 ‘‘,;
@@ -201,7 +201,7 @@ sandiṭṭhāpemi (ka.),.
 61.
 ‘‘…pe…’’.
 .
-Biḷālidāyakattherassāpadānaṃ navamaṃ.
+.
 10. Reṇupūjakattheraapadānaṃ
 62.
 ‘‘,;
@@ -218,8 +218,8 @@ Biḷālidāyakattherassāpadānaṃ navamaṃ.
 66.
 ‘‘…pe…’’.
 .
-Reṇupūjakattherassāpadānaṃ dasamaṃ.
-Bhikkhadāyivaggo ekādasamo.
+.
+.
 –
 ,;
 ,;

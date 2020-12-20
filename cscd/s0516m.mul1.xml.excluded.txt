@@ -107,7 +107,7 @@ pajjotakatena (ka.) su. ni. 519,
 ‘‘,;
 ,’’.
 ,–‘‘’’..,–‘‘,’’.
-Ajitamāṇavapucchāniddeso paṭhamo.
+.
 2. Tissametteyyamāṇavapucchāniddeso
 9.
 ,
@@ -152,7 +152,7 @@ passa saṃ. ni. 5.377–‘‘’,,.,,’’?‘‘,,,.
 ‘‘,;
 ,’’.
 ,–‘‘’’...–‘‘,’’.
-Tissametteyyamāṇavapucchāniddeso dutiyo.
+.
 3. Puṇṇakamāṇavapucchāniddeso
 12.
 ,
@@ -260,7 +260,7 @@ tapparassa (syā.),.
 ;
 ,’’.
 …pe…–‘‘,’’.
-Puṇṇakamāṇavapucchāniddeso tatiyo.
+.
 4. Mettagūmāṇavapucchāniddeso
 18.
 ,
@@ -447,7 +447,7 @@ jātu (syā.)indagū (syā.).…pe…–.
 ‘‘,;
 ,’’.
 …pe…,,.
-Mettagūmāṇavapucchāniddeso catuttho.
+.
 5. Dhotakamāṇavapucchāniddeso
 30.
 ,
@@ -547,7 +547,7 @@ natthi… syā. … potthake,–.haliddena (syā.)nīlena (syā.)akiliyamāno (s
 ;
 ,’’.
 …pe…,,.
-Dhotakamāṇavapucchāniddeso pañcamo.
+.
 6. Upasīvamāṇavapucchāniddeso
 38.
 ,
@@ -641,7 +641,7 @@ yena rāgena (syā. ka.) mahāni. 94,,,,,,,–aniṭṭhāgatoti (ka.),.–,–.
 ;
 ,’’.
 …pe…–,,.
-Upasīvamāṇavapucchāniddeso chaṭṭho.
+.
 7. Nandamāṇavapucchāniddeso
 46.
 ,
@@ -759,7 +759,7 @@ anekavidhavatta kutūhalamaṅgalena (syā.)–.
 ,.
 ,;
 ’’.
-Nandamāṇavapucchāniddeso sattamo.
+.
 8. Hemakamāṇavapucchāniddeso
 53.
 ,
@@ -804,7 +804,7 @@ tathāgatasāsanā devasāsanā (ka.)–.
 ‘‘,;
 ,’’.
 …pe…,.
-Hemakamāṇavapucchāniddeso aṭṭhamo.
+.
 9. Todeyyamāṇavapucchāniddeso
 57.
 ,
@@ -849,7 +849,7 @@ Hemakamāṇavapucchāniddeso aṭṭhamo.
 ‘‘,;
 ,.
 …pe…,.
-Todeyyamāṇavapucchāniddeso navamo.
+.
 10. Kappamāṇavapucchāniddeso
 61.
 ,
@@ -902,7 +902,7 @@ paṭṭhā paṭṭhacarā (syā. ka.);–.–
 ‘‘,;
 ,’’.
 …pe…,.
-Kappamāṇavapucchāniddeso dasamo.
+.
 11. Jatukaṇṇimāṇavapucchāniddeso
 65.
 ,
@@ -960,7 +960,7 @@ suriyo (syā.).jarā (syā.).gamanapathe (syā.) aṭṭhakathā oloketabbā,…
 ‘‘,;
 ,’’.
 …pe…,.
-Jatukaṇṇimāṇavapucchāniddeso ekādasamo.
+.
 12. Bhadrāvudhamāṇavapucchāniddeso
 70.
 ,
@@ -1007,7 +1007,7 @@ Jatukaṇṇimāṇavapucchāniddeso ekādasamo.
 ‘‘,;
 ,’’.
 …pe…,.
-Bhadrāvudhamāṇavapucchāniddeso dvādasamo.
+.
 13. Udayamāṇavapucchāniddeso
 74.
 ,
@@ -1096,7 +1096,7 @@ na ajjhosāya tiṭṭhati (syā.),;,;,.idaṃ padaṃ natthi syā. potthake,;�
 ‘‘,;
 ,’’.
 …pe…,,.
-Udayamāṇavapucchāniddeso terasamo.
+.
 14. Posālamāṇavapucchāniddeso
 81.
 ,
@@ -1168,7 +1168,7 @@ idhaṭṭhaññeva (syā.)–‘‘’’.–‘‘’’.–‘‘’’.–�
 ,;
 ,’’.
 …pe…,,.
-Posālamāṇavapucchāniddeso cuddasamo.
+.
 15. Mogharājamāṇavapucchāniddeso
 85.
 ,
@@ -1257,7 +1257,7 @@ passa saṃ. ni. 4.246–‘‘,,,,,,.tassa bhikkhuno rūpaṃ (syā.),…pe…�
 ,;
 ,’’.
 …pe…,,.
-Mogharājamāṇavapucchāniddeso pannarasamo.
+.
 16. Piṅgiyamāṇavapucchāniddeso
 89.
 vivaṇṇo (syā.),
@@ -1311,7 +1311,7 @@ antarāya (syā. ka.),;
 ;
 ,’’.
 ,–‘‘’’.–‘‘’’.–‘‘,’’.
-Piṅgiyamāṇavapucchāniddeso siṅgiyapañhaṃ (ka.) soḷasamo.
+siṅgiyapañhaṃ (ka.).
 17. Pārāyanatthutigāthāniddeso
 93.,paricāritasoḷasannaṃ (syā. ka.).
 .…pe…,–..–.siṅgiyo (ka.)paricāriko (syā. ka.).tena (ka.)–.,–.
@@ -1377,7 +1377,7 @@ addho (ka.),;
 ..…pe…..…pe…–.–
 ‘‘,;
 ,’’.
-Pārāyanatthutigāthāniddeso sattarasamo.
+.
 18. Pārāyanānugītigāthāniddeso
 102.
 ,
@@ -1586,5 +1586,5 @@ atideve (ka.),parovaraṃ (sī. aṭṭha.);
 ..–.–
 ‘‘,;
 ,’’.
-Pārāyanānugītigāthāniddeso aṭṭhārasamo.
-Pārāyanavaggo samatto.
+.
+.

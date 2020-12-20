@@ -90,10 +90,10 @@ Suddhaṃ
 1-4. Paccayānulomādi
 23.–…pe…;…pe….
 24.,,(sabbattha ekaṃ),.
-Anulomaṃ.
+.
 25.–…pe……pe…(saṃkhittaṃ).
 26.,,,,,,,,,.
-Paccanīyaṃ.
+.
 6. Sampayuttavāro
 (Evaṃ itare dve gaṇanāpi sampayuttavārāpi kātabbā.)
 7. Pañhāvāro
@@ -167,7 +167,7 @@ Suddhaṃ
 48.,…pe…,,…pe…,,,,.
 4. Paccayapaccanīyānulomaṃ
 49.,,(anulomamātikā kātabbā)…pe….
-Sārammaṇadukaṃ niṭṭhitaṃ.
+.
 56. Cittadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -208,7 +208,7 @@ Napurejātapaccayādi
 –;….(2)
 –,…pe….(3)
 –,…pe…,;;,.(1)
-Napacchājātapaccayā… naāsevanapaccayā….
+…….
 Nakammapaccayo
 57.–.(1)
 –;………pe….(1)
@@ -351,7 +351,7 @@ Paccanīyuddhāro
 90.…pe…,,(sabbattha tīṇi),,,,,.
 4. Paccayapaccanīyānulomaṃ
 91.,(anulomamātikā kātabbā).
-Cittadukaṃ niṭṭhitaṃ.
+.
 57. Cetasikadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -530,7 +530,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 137.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 138.……….(1)
 ………….(2)
@@ -548,7 +548,7 @@ Paccanīyuddhāro
 142.,,,,,(sabbattha tīṇi),,,,,.
 4. Paccayapaccanīyānulomaṃ
 143.,(anulomamātikā kātabbā)…pe….
-Cetasikadukaṃ niṭṭhitaṃ.
+.
 58. Cittasampayuttadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -633,7 +633,7 @@ Suddhaṃ
 ,,(sabbattha ekaṃ),.
 ,,,,,,,,,.
 6. Sampayuttavāro
-(Evaṃ  itare dve gaṇanāpi sampayuttavāropi kātabbo.)
+.
 7. Pañhāvāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -687,7 +687,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 179.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 180.……….(1)
 …….(2)
@@ -704,7 +704,7 @@ Suddhaṃ
 183.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
 184.,(anulomamātikā kātabbā)…pe….
-Cittasampayuttadukaṃ niṭṭhitaṃ.
+.
 59. Cittasaṃsaṭṭhadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -712,7 +712,7 @@ Cittasampayuttadukaṃ niṭṭhitaṃ.
 185.–,…pe……pe….(1)
 –;…pe….(2)
 ,.
-Cittasaṃsaṭṭhadukaṃ niṭṭhitaṃ.
+.
 60. Cittasamuṭṭhānadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -741,7 +741,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 192.,,,,,,,,,,,,,,,,,(sabbattha nava),.
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -897,7 +897,7 @@ Atthipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 232.,,,,,,,,,,,,,(sabbattha nava),,,,,…pe….
-Anulomaṃ.
+.
 Paccanīyuddhāro
 233.…………….(1)
 ……………….(2)
@@ -915,7 +915,7 @@ Paccanīyuddhāro
 237.,,,,,…pe…,,,,.
 4. Paccayapaccanīyānulomaṃ
 238.,(anulomagaṇanā kātabbā)…pe….
-Cittasamuṭṭhānadukaṃ niṭṭhitaṃ.
+.
 61. Cittasahabhūdukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -949,7 +949,7 @@ Najhānapaccayo
 Suddhaṃ
 246.,,,,,,,,,,,,,,,,,,,(evaṃ itare dvepi gaṇanā kātabbā).
 2. Sahajātavāro
-(Sahajātavāropi  paṭiccavārasadiso.)
+.
 3. Paccayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -989,7 +989,7 @@ Suddhaṃ
 256.–;…pe….(1)
 –,…pe……pe…(saṃkhittaṃ).(2)
 ,(sabbattha pañca),.
-Anulomaṃ.
+.
 (tīṇi, moho),,,,,,,,,.
 6. Sampayuttavāro
 (Itare dve gaṇanāpi sampayuttavāropi sabbaṃ kātabbaṃ.)
@@ -1043,7 +1043,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 270.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 271.……….(1)
 ………….(2)
@@ -1061,11 +1061,11 @@ Paccanīyuddhāro
 275.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
 276.,(anulomamātikā kātabbā).
-Cittasahabhūdukaṃ niṭṭhitaṃ.
+.
 62. Cittānuparivattidukaṃ
 1. Paṭiccavāro
 277.–,…pe……pe…(yathā cittasahabhūdukaṃ evaṃ imaṃ dukaṃ kātabbaṃ, ninnānākaraṇaṃ).
-Cittānuparivattidukaṃ niṭṭhitaṃ.
+.
 63. Cittasaṃsaṭṭhasamuṭṭhānadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -1084,7 +1084,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 281.,,,,,,,,,,,,(sabbattha nava),.
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -1199,7 +1199,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 309.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 310.……….(1)
 ………….(2)
@@ -1217,17 +1217,17 @@ Paccanīyuddhāro
 314.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
 315.,(sabbattha nava, anulomamātikā).
-Cittasaṃsaṭṭhasamuṭṭhānadukaṃ niṭṭhitaṃ.
+.
 64. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ
 1. Paṭiccavāro
 Hetupaccayo
 316.–,…pe……pe…(yathā cittasaṃsaṭṭhasamuṭṭhānadukaṃ, evaṃ imampi dukaṃ, ninnānākaraṇaṃ).
-Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ niṭṭhitaṃ.
+.
 65. Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ
 1. Paṭiccavāro
 Hetupaccayo
 317.–,…pe……pe…(yathā cittasaṃsaṭṭhasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ).
-Cittasaṃsaṭṭhasamuṭṭhānānuparivattidukaṃ niṭṭhitaṃ.
+.
 66. Ajjhattikadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -1410,7 +1410,7 @@ Atthipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 363.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 364.………….(1)
 ………….(2)
@@ -1428,7 +1428,7 @@ Paccanīyuddhāro
 368.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
 369.,(anulomamātikā kātabbā)…pe….
-Ajjhattikadukaṃ niṭṭhitaṃ.
+.
 67. Upādādukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -1525,7 +1525,7 @@ Nahetupaccayādi
 389.–…pe…,;…pe….(1)
 –…pe……pe……pe……pe…(yāva asaññasattā)(tīṇipi paṭiccasadisā, ninnānākaraṇā).(3)
 –…pe……pe……pe……pe……pe……pe….(1)
-Naārammaṇapaccayā tīṇi, naāsevanapaccayā pañca.
+,.
 Nakammapaccayādi
 390.–.(1)
 –;…pe….(1)
@@ -1545,15 +1545,15 @@ Najhānapaccayādi
 Suddhaṃ
 392.,,…pe…,,,,,,,,,.
 4. Nissayavāro
-(Evaṃ  itare dve gaṇanāpi nissayavāropi kātabbo.)
+.
 5. Saṃsaṭṭhavāro
 1-4. Paccayānulomādi
 393.–…pe…;…pe…(saṃkhittaṃ).
 ,,(sabbattha ekaṃ),.
-Anulomaṃ.
+.
 –…pe……pe……pe…(saṃkhittaṃ).
 ,,,,,,,,,.
-Paccanīyaṃ.
+.
 6. Sampayuttavāro
 (Itare dve gaṇanāpi sampayuttavāropi kātabbo.)
 7. Pañhāvāro
@@ -1583,7 +1583,7 @@ Purejātapaccayo
 –,.;.(1)
 Pacchājātāsevanapaccayā
 400.–.(Mūlaṃ pucchitabbaṃ).(Mūlaṃ pucchitabbaṃ).(3)
-Āsevanapaccayena paccayo… ekaṃ.
+….
 Kammapaccayo
 401.–,.–;…pe….–.(1)
 –,.–;…pe….–.(2)
@@ -1618,7 +1618,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 410.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 411.….(1)
 …………….(2)
@@ -1637,7 +1637,7 @@ Suddhaṃ
 414.,,,,,(sabbattha tīṇi),,,,.
 4. Paccayapaccanīyānulomaṃ
 415.,…pe…(anulomamātikā vitthāretabbā)…pe….
-Upādādukaṃ niṭṭhitaṃ.
+.
 68. Upādinnadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -1750,13 +1750,13 @@ Suddhaṃ
 443.–…pe……pe……pe….
 –…pe……pe….(1)
 ,,,,,,,,,,,,…pe….
-Anulomaṃ.
+.
 444.–…pe……pe……pe….(1)
 –…pe……pe….(1)
 ,,,,,,,,,.
-Paccanīyaṃ.
+.
 6. Sampayuttavāro
-(Evaṃ  itare dve gaṇanāpi sampayuttavāropi kātabbā.)
+.
 7. Pañhāvāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -1863,5 +1863,5 @@ Suddhaṃ
 470.…pe…,,,,,.
 4. Paccayapaccanīyānulomaṃ
 471.,(anulomamātikā kātabbā)…pe….
-Upādinnadukaṃ niṭṭhitaṃ.
-Mahantaradukaṃ niṭṭhitaṃ.
+.
+.

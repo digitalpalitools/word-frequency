@@ -23,7 +23,7 @@ Sappāyabhedo
 16..
 17..
 18.,,.
-Ayamettha sappāyabhedo.
+.
 Bhāvanābhedo
 19.,,.
 20..
@@ -32,7 +32,7 @@ Bhāvanābhedo
 23..
 24..
 25..
-Ayamettha bhāvanābhedo.
+.
 Gocarabhedo
 26..
 27.,.
@@ -53,8 +53,8 @@ Gocarabhedo
 42.–
 ,;
 ,.
-Ayamettha gocarabhedo.
-Niṭṭhito ca samathakammaṭṭhānanayo.
+.
+.
 Vipassanākammaṭṭhānaṃ
 Visuddhibhedo
 43..
@@ -81,7 +81,7 @@ Visuddhibhedo
 ,.
 ,;
 ,.
-Ayamettha visuddhibhedo.
+.
 Vimokkhabhedo
 61..
 62..
@@ -90,24 +90,24 @@ Vimokkhabhedo
 65.,.
 66.,,.
 67.,.
-Ayamettha vimokkhabhedo.
+.
 Puggalabhedo
 68..
 69..
 70..
 71..
-Ayamettha puggalabhedo.
+.
 Samāpattibhedo
 72..
 73.,,,.
 74.,,.
-Ayamettha samāpattibhedo.
-Niṭṭhito ca vipassanākammaṭṭhānanayo.
+.
+.
 Uyyojanaṃ
 75.,.
 ,.
-Iti abhidhammatthasaṅgahe kammaṭṭhānasaṅgahavibhāgo nāma
-Navamo paricchedo.
+
+.
 Nigamanaṃ
 (Ka),
 ;
@@ -117,9 +117,9 @@ Nigamanaṃ
 ;
 ,
 .
-Iti anuruddhācariyena racitaṃ
-Abhidhammatthasaṅgahaṃ nāma pakaraṇaṃ.
- Namo tassa bhagavato arahato sammāsambuddhassa.
+
+.
+.
 Abhidhammatthavibhāvinīṭīkā
 Ganthārambhakathā
 (Ka),;

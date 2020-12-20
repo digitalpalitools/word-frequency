@@ -103,7 +103,7 @@ Paṭhamakaṇḍa
 549,..
 .
 ,...
-Iti kibbidhānakappe paṭhamo kaṇḍo.
+.
 Dutiyakaṇḍa
 550,..
 .
@@ -168,7 +168,7 @@ Dutiyakaṇḍa
 ,.
 570,..
 .,.
-Iti kibbidhānakappe dutiyo kaṇḍo.
+.
 Tatiyakaṇḍa
 571,.,
 ,.
@@ -244,7 +244,7 @@ Tatiyakaṇḍa
 ,.
 .,..
 ?,.
-Iti kibbidhānakappe tatiyo kaṇḍo.
+.
 Catutthakaṇḍa
 590,..
 .
@@ -303,7 +303,7 @@ Catutthakaṇḍa
 ,.
 ?.
 ?.
-Iti kibbidhānakappe catuttho kaṇḍo.
+.
 Pañcamakaṇḍa
 607,..
 .
@@ -362,5 +362,5 @@ Pañcamakaṇḍa
 623,..
 .
 ,.
-Iti kibbidhānakappe pañcamo kaṇḍo.
-Kitakappo niṭṭhito.
+.
+.

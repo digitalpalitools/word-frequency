@@ -19,7 +19,7 @@ aṃiti  akārato paraṃ yo bindu sūyate taṃ niggahītaṃ nāma
 bindu  cūḷāmaṇākāro niggahītanti vuccate
 kevalassā ppayogattā akāro sannidhīyate
  a kavagga hā kaṇḍajā i cavagga yā tālujā u pavaggā oṭṭhajā ṭavagga ra ḷā muddhajā tavagga la sā dantajā e kaṇṭhatālujo o kaṇṭhoṭṭhajo vo dantoṭṭhajo
-
+saññā
 
  loka  aggoityasmiṃ  pubbamadhoṭhita massaraṃ sarena viyojayeti pubbabyañjanaṃ sarato puthakkātabbaṃ
 sarā sare lopaṃ
@@ -65,7 +65,7 @@ vāti kiṃ cha abhiññā putha eva pā eva
 ettha sare kvacīti sarānaṃ pakati hoti sassarūpameva na vikārotyattho
  abhi  uggatotyatra 
 abbho abhīti abhissa abbho abbhuggato
-
+sarasandhi
 
  byañjanetyadhikāro kvacītveva so bhikkhu kacci nu tvaṃ jānema tantīha 
 lopañca tatrākāro
@@ -77,7 +77,7 @@ vagge ghosāghosānaṃ catutthadutiyānaṃ tabbagge tatiyapaṭhamā honti yat
  para  sahassaṃ atippakhotīha  kvaci o byañjaneti okārāgamo parosahassaṃ gāgame ca atippagokho
  ava naddhātyatra  o avasseti kvaci avassa o onaddhā
 kvacīti kiṃ avasussatu
-
+byañjanasandhi
 
  niggahītantyadhikāro  kiṃ kato saṃ jāto saṃ ṭhito taṃ dhanaṃ taṃ mittantiha 
 vaggantaṃ vā vagge
@@ -107,7 +107,7 @@ binduto paro saro vā lupyate bījaṃva
  evaṃ assetīha 
 byañjano ca visaññogo
 binduto pare sare lutte saṃyogo byañjano vinaṭṭhasaṃyogo hotīti pubbasalopo evaṃsa
-
+niggahītasandhi
 
 anupadiṭṭhānaṃ vuttayogato
 idhāniddiṭṭhā  sandhayo vuttānusārena ñe yyā yathā  yadi evaṃ bodhi aṅgātīha  yādese iminā suttena dayakārasaṃyogassa jo dhayakārasaṃyogassa jho dvitte  yajjevaṃ bojjhaṅgā
@@ -137,4 +137,4 @@ dīgho saṃyogādipubbo rasso ca garu lahu tu rasso yathā ā assa aṃ a
 
  evamaññāpi  viññeyyā saṃhitā tantiyā hitā
 saṃhitāti ca vaṇṇānaṃ sannidhabyavadhānato
-
+vomissakasandhi

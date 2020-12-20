@@ -41,15 +41,15 @@ Kāyakammadvārakathāvaṇṇanā
 ..,.‘‘’’.…pe….,‘‘’’‘‘’’..‘‘’’......,.,,‘‘’’.‘‘’’.‘‘’’,‘‘’’‘‘’’.,,...
 .…pe…..,.,...,‘‘’’‘‘’’.
 ...,.‘‘’’....
-Kāyakammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Vacīkammadvārakathāvaṇṇanā
 ‘‘,.,,,’’(saṃ. ni. 1.213; su. ni. subhāsitasutta),‘‘’’....‘‘’’.‘‘’’(dha. sa. 636)‘‘’’,‘‘…pe…’’.
 ‘‘’’.‘‘’’....‘‘’’‘‘’’..‘‘’’.‘‘’’.
 ...‘‘’’.,.‘‘’’,.
-Vacīkammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Manokammadvārakathāvaṇṇanā
 ‘‘’’‘‘’’‘‘’’‘‘,’’.,.,,‘‘’’.,...‘‘’’.
-Manokammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Kammakathāvaṇṇanā
 .‘‘’’‘‘’’..‘‘’’...‘‘’’,‘‘’’.‘‘’’,‘‘’’.,‘‘’’..‘‘’’‘‘…pe…’’...
 ‘‘’’.
@@ -59,7 +59,7 @@ Kammakathāvaṇṇanā
 ‘‘’’.‘‘’’,?,‘‘’’.
 ‘‘,‘’‘…pe…’’’.,,..,,..‘‘’’,.‘‘’’..‘‘,,’’(kathā. 539).‘‘’’.‘‘’’..,,,,‘‘,’’.‘‘…pe…’’‘‘…pe…’’.,..
 .‘‘,,’’(kathā. 539)‘‘’’.‘‘’’,,,‘‘’’‘‘’’.‘‘’’,‘‘’’.
-Kammakathāvaṇṇanā niṭṭhitā.
+.
 ,‘‘’’,.,‘‘’’...‘‘’’,.
 ..‘‘’’.‘‘’’,..‘‘’’.....
 .‘‘’’....‘‘’’(dha. sa. aṭṭha. kammapathasaṃsandanakathā)‘‘’’‘‘’’..
@@ -78,7 +78,7 @@ Kammapathasaṃsandanakathāvaṇṇanā
 .,,,,,,.....‘‘’’.
 …pe…‘‘’’,..–‘‘’’.--‘‘’’..-.-‘‘’’.‘‘’’.
 ‘‘’’.‘‘-’’....,,.-.‘‘’’.,...
-Dvārakathāvaṇṇanā niṭṭhitā.
+.
 -.…pe….
 Dhammuddesavārakathā
 Phassapañcamakarāsivaṇṇanā
@@ -118,7 +118,7 @@ Passaddhādiyugalavaṇṇanā
 Yevāpanakavaṇṇanā
 .‘‘,’’.,..‘‘’’...
 ....,..‘‘,’’(saṃ. ni. 4.93).,‘‘’’.
-Dhammuddesavārakathāvaṇṇanā niṭṭhitā.
+.
 Kāmāvacarakusalaṃ
 Niddesavārakathāvaṇṇanā
 2...‘‘,’’‘‘’’.,,.-.,.,.‘‘’’,..,,‘‘’’.‘‘’’.-‘‘’’‘‘’’.‘‘’’(dha. pa. 272)‘‘’’.
@@ -137,18 +137,18 @@ Niddesavārakathāvaṇṇanā
 44-45..
 46-47..
 50-51....
-Niddesavārakathāvaṇṇanā niṭṭhitā.
+.
 Koṭṭhāsavārakathāvaṇṇanā
 58-120..,..,‘‘’’....‘‘’’‘‘’’..
 .,..,,‘‘’’.,,..‘‘’’‘‘’’.
 ,.‘‘…pe…’’.‘‘’’.-‘‘’’..,‘‘’’..
-Koṭṭhāsavārakathāvaṇṇanā niṭṭhitā.
+.
 Suññatavārādivaṇṇanā
 121-145..
 146..
 156-159...
 ,..
-Kāmāvacarakusalavaṇṇanā niṭṭhitā.
+.
 Rūpāvacarakusalaṃ
 Catukkanayo
 Paṭhamajjhānakathāvaṇṇanā
@@ -166,7 +166,7 @@ Dutiyajjhānakathāvaṇṇanā
 Tatiyajjhānakathāvaṇṇanā
 163.‘‘’’.,.‘‘’’(paṭi. ma. 1.57),‘‘’’........‘‘’’...,.‘‘’’.‘‘’’..
 ..
-Catukkanayavaṇṇanā niṭṭhitā.
+.
 Pañcakanayavaṇṇanā
 167..,.–‘‘’’(mahāni. 156; cūḷani. mogharājamāṇavapucchāniddesa 85; paṭi. 3.5)..‘‘’’.....-,.‘‘’’..
 ?,‘‘’’....
@@ -176,24 +176,24 @@ Paṭipadācatukkādivaṇṇanā
 186.‘‘’’..
 Kasiṇakathāvaṇṇanā
 203....‘‘’’‘‘’’.
-Kasiṇakathāvaṇṇanā niṭṭhitā.
+.
 Abhibhāyatanakathāvaṇṇanā
 204.,..‘‘’’.,,.,..…pe…,.
 ,..‘‘,’’.,‘‘’’...‘‘’’..?.,.
 .-..‘‘’’?‘‘’’...?,.?.‘‘’’,‘‘’’.‘‘’’‘‘’’,.
 ‘‘’’..‘‘’’,‘‘’’..‘‘’’..,‘‘’’.,.
 ,.,‘‘’’‘‘’’.‘‘’’.‘‘’’(a. ni. 8.65)...,..‘‘’’..‘‘’’..
-Abhibhāyatanakathāvaṇṇanā niṭṭhitā.
+.
 Vimokkhakathāvaṇṇanā
 248.‘‘’’.,‘‘’’..‘‘’’(dha. sa. 160 ādayo; vibha. 625)‘‘’’.‘‘’’.‘‘’’(dha. sa. 499).‘‘’’(dī. ni. 3.360; a. ni. 10.25).
-Vimokkhakathāvaṇṇanā niṭṭhitā.
+.
 Brahmavihārakathāvaṇṇanā
 251.,,(vibha. aṭṭha. 947).‘‘’’.,?,‘‘’’.
-Brahmavihārakathāvaṇṇanā niṭṭhitā.
+.
 Asubhakathāvaṇṇanā
 263.‘‘’’(dī. ni. 2.379; ma. ni. 1.112).,?,.‘‘’’.‘‘’’.
-Asubhakathāvaṇṇanā niṭṭhitā.
-Rūpāvacarakusalavaṇṇanā niṭṭhitā.
+.
+.
 Arūpāvacarakusalakathāvaṇṇanā
 265...-..-.
 …pe….,‘‘’’..
@@ -201,10 +201,10 @@ Arūpāvacarakusalakathāvaṇṇanā
 .?.‘‘’’.,‘‘’’‘‘’’..
 266...
 268.‘‘’’.,...‘‘’’‘‘’’.‘‘’’‘‘’’.
-Arūpāvacarakusalakathāvaṇṇanā niṭṭhitā.
+.
 Tebhūmakakusalavaṇṇanā
 269..,‘‘’’..‘‘’’.,,.,,.,,.,,.,,..,.
-Tebhūmakakusalavaṇṇanā niṭṭhitā.
+.
 Lokuttarakusalavaṇṇanā
 277.‘‘’’(paṭi. ma. 2.43),‘‘’’‘‘’’...-.,‘‘…pe…’’.
 ....‘‘’’......,‘‘’’,.,.,,,‘‘…pe…’’.‘‘’’...,‘‘’’.‘‘…pe…’’.
@@ -228,13 +228,13 @@ Pakiṇṇakakathāvaṇṇanā
 ‘‘’’...‘‘‘’’’‘‘’’..
 …pe…,.,.
 ,.,..,.–.‘‘’’(khu. pā. 6.9; su. ni. 232),..‘‘’’,.,‘‘’’.(dha. sa. aṭṭha. 350 lokuttarakusalapakiṇṇakakathā)‘‘,’’,‘‘,’’.
-Lokuttarakusalapakiṇṇakakathāvaṇṇanā niṭṭhitā.
+.
 Paṭhamamaggavīsatimahānayavaṇṇanā
 357.,‘‘’’‘‘’’.
 358..‘‘’’..,,‘‘’’..,..
 Catumagganayasahassavaṇṇanā
 362...…pe…,,..‘‘’’....,,,‘‘’’.
-Kusalakathāvaṇṇanā niṭṭhitā.
+.
 Akusalapadaṃ
 Dhammuddesavāro
 Paṭhamacittavaṇṇanā
@@ -242,7 +242,7 @@ Paṭhamacittavaṇṇanā
 ‘‘’’..,..‘‘’’..‘‘’’...‘‘’’(ma. ni. 1.26; a. ni. 4.14; 6.58).
 ...
 ........‘‘’’.-.‘‘’’.,.‘‘’’(vajira. ṭī. 17-18 verañjakaṇḍavaṇṇanā)‘‘’’.
-Dhammuddesavārakathāvaṇṇanā niṭṭhitā.
+.
 Niddesavārakathāvaṇṇanā
 390.,,..
 Tatiyacittavaṇṇanā
@@ -263,7 +263,7 @@ Dvādasamacittavaṇṇanā
 ‘‘’’(paṭṭhā. 2.8.86)‘‘,’’,‘‘’’(paṭṭhā. 2.8.89),‘‘’’....‘‘,’’(paṭṭhā. 2.8.71).
 .‘‘’’.‘‘’’.,,..…pe…,…pe…..
 ‘‘’’.‘‘’’.‘‘’’.-.,.‘‘’’.‘‘’’.,‘‘’’.‘‘‘’(vibha. 725-726)’’.,.
-Akusalapadavaṇṇanā niṭṭhitā.
+.
 Abyākatapadaṃ
 Ahetukakusalavipākavaṇṇanā
 431.…pe…-‘‘’’‘‘’’.‘‘’’,.‘‘’’..‘‘’’..‘‘’’...
@@ -273,7 +273,7 @@ Ahetukakusalavipākavaṇṇanā
 455...‘‘’’,‘‘’’...‘‘’’,?.‘‘’’‘‘’’.,,‘‘’’‘‘’’...
 ,,,‘‘’’...,.‘‘’’(paṭṭhā. 1.1.431),‘‘’’(paṭṭhā. 1.1.431).‘‘,’’(paṭṭhā. 1.1.98),‘‘’’.,.
 469...,‘‘’’..
-Ahetukakusalavipākavaṇṇanā niṭṭhitā.
+.
 Aṭṭhamahāvipākacittavaṇṇanā
 498.‘‘’’(dha. sa. aṭṭha. manokammadvārakathā)...‘‘’’.,,‘‘’’.,‘‘’’..-.
 Vipākuddhārakathāvaṇṇanā
@@ -293,19 +293,19 @@ Vipākuddhārakathāvaṇṇanā
 ‘‘..,’’.,..‘‘’’(dha. sa. aṭṭha. 429)..‘‘’’,‘‘’’.
 .‘‘’’(paṭṭhā. 3.1.98).
 .,,..‘‘’’.‘‘’’(paṭṭhā. 3.1.102)‘‘,’’.
-Kāmāvacarakusalavipākavaṇṇanā niṭṭhitā.
+.
 Rūpāvacarārūpāvacaravipākakathāvaṇṇanā
 499....‘‘,’’..
-Rūpāvacarārūpāvacaravipākakathāvaṇṇanā niṭṭhitā.
+.
 Lokuttaravipākakathāvaṇṇanā
 505.,‘‘’’..,.‘‘’’.…pe….‘‘’’‘‘’’..,.
 555.‘‘?’’(dha. sa. 1295, 1609)‘‘’’(dha. sa. 1610),‘‘’’...,.
-Lokuttaravipākakathāvaṇṇanā niṭṭhitā.
+.
 Kiriyābyākatakathāvaṇṇanā
 568...‘‘’’.,.,.‘‘…pe…’’....
 ,,.‘‘’’,‘‘’’..,‘‘’’.,.,.
 .‘‘’’-.,‘‘’’.‘‘’’.-.
 574.‘‘…pe…’’.‘‘’’.
 577.,,..
-Kiriyābyākatakathāvaṇṇanā niṭṭhitā.
-Cittuppādakaṇḍavaṇṇanā niṭṭhitā.
+.
+.

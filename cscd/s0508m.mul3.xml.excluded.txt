@@ -12,7 +12,7 @@
 270.
 ‘‘,;
 ,’’.
-… Nāgasamālo thero….
+…….
 2. Bhaguttheragāthā
 271.
 ‘‘,;
@@ -26,7 +26,7 @@
 274.
 ‘‘,;
 ,’’.
-… Bhagutthero….
+…….
 3. Sabhiyattheragāthā
 275.
 dha. pa. 6 dhammapadepi‘‘,;
@@ -40,7 +40,7 @@ dha. pa. 6 dhammapadepi‘‘,;
 278.
 ‘‘,;
 ,’’.
-… Sabhiyo thero….
+…….
 4. Nandakattheragāthā
 279.
 ‘‘,;
@@ -54,7 +54,7 @@ dha. pa. 6 dhammapadepi‘‘,;
 282.
 ‘‘,;
 ,’’.
-… Nandako thero….
+…….
 5. Jambukattheragāthā
 283.
 ‘‘,;
@@ -68,7 +68,7 @@ dha. pa. 6 dhammapadepi‘‘,;
 286.
 ‘‘,;
 ,’’.
-… Jambuko thero….
+…….
 6. Senakattheragāthā
 287.
 ‘‘,;
@@ -82,7 +82,7 @@ dha. pa. 6 dhammapadepi‘‘,;
 290.
 ‘‘,sandhitaṃ (sī. syā.), sanditaṃ (pī. sī. aṭṭha.);
 ,’’.
-… Senako thero….
+…….
 7. Sambhūtattheragāthā
 291.
 ‘‘,;
@@ -96,7 +96,7 @@ ayoniso (syā.),.
 294.
 ‘‘,;
 ,’’.
-… Sambhūto thero….
+…….
 8. Rāhulattheragāthā
 295.
 ‘‘,;
@@ -110,7 +110,7 @@ ayoniso (syā.),.
 298.
 ‘‘,;
 ,’’.
-… Rāhulo thero….
+…….
 9. Candanattheragāthā
 299.
 ‘‘pacchannā (sī.),;
@@ -124,7 +124,7 @@ ayoniso (syā.),.
 302.
 ‘‘,;
 ,’’.
-… Candano thero….
+…….
 10. Dhammikattheragāthā
 303.
 jā. 1.10.102 jātakepi‘‘,;
@@ -139,7 +139,7 @@ jā. 1.15.385‘‘,;
 ‘‘,;
 ,
 ’’.
-… Dhammiko thero….
+…….
 11. Sappakattheragāthā
 307.
 ‘‘,;
@@ -155,7 +155,7 @@ jā. 1.15.385‘‘,;
 ;
 ‘,
 ’’’.
-… Sappako thero….
+…….
 12. Muditattheragāthā
 311.
 ‘‘,;
@@ -169,8 +169,8 @@ jā. 1.15.385‘‘,;
 314.
 ‘‘,;
 ,’’.
-… Mudito thero….
-Catukkanipāto niṭṭhito.
+…….
+.
 –
 ,;
 ,.

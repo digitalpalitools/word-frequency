@@ -73,7 +73,7 @@ paropaññāsa ānanda ñātike upāsakā kālaṅkatā pañcannaṃ orambhāgiy
 anacchariyaṃ kho panetaṃ ānanda yaṃ manussabhūto kālaṃ kareyya tasmiṃ tasmiṃ ce maṃ kālaṅkate upasaṅkamitvā etamatthaṃ paṭipucchissatha vihesā pesā ānanda assa tathāgatassa tasmātihānanda dhammādāsaṃ nāma dhammapariyāyaṃ desessāmi yena samannāgato ariyasāvako ākaṅkhamāno attanāva attānaṃ byākareyya  khīṇanirayomhi  khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo
 katamo ca so ānanda dhammādāso dhammapariyāyo yena samannāgato ariyasāvako ākaṅkhamāno attanāva attānaṃ byākareyya  khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo khīṇāpāyaduggativinipāto sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇo
 idhānanda  ariyasāvako buddhe aveccappasādena samannāgato hoti  itipi so bhagavā satthā devamanussānaṃ buddho bhagavāti dhamme saṅghe ariyakantehi sīlehi samannāgato hoti akhaṇḍehi samādhisaṃvattanikehi ayaṃ kho so ānanda dhammādāso dhammapariyāyo yena samannāgato ariyasāvako ākaṅkhamāno attanāva  attānaṃ byākareyya  khīṇanirayomhi khīṇatiracchānayoni khīṇapettivisayo  khīṇāpāyaduggativinipāto sotāpannohamasmi avinipātadhammo niyato sambodhiparāyaṇoti dasamaṃ
-
+veḷudvāravaggo paṭhamo
 tassuddānaṃ 
 rājā ogadhadīghāvu sāriputtāpare duve
 thapatī veḷudvāreyyā giñjakāvasathe tayoti
@@ -112,7 +112,7 @@ sādhu kho mārisa moggallāna buddhe aveccappasādena samannāgamanaṃ hoti  i
  atha kho bhagavā  seyyathāpi nāma balavā puriso samiñjitaṃ vā bāhaṃ pasāreyya pasāritaṃ vā bāhaṃ samiñjeyya evameva  jetavane antarahito devesu tāvatiṃsesu pāturahosi atha  kho sambahulā tāvatiṃsakāyikā devatāyo yena bhagavā tenupasaṅkamiṃsu upasaṅkamitvā  bhagavantaṃ abhivādetvā  ekamantaṃ aṭṭhaṃsu ekamantaṃ ṭhitā kho tā devatāyo bhagavā etadavoca 
 sādhu kho āvuso buddhe aveccappasādena samannāgamanaṃ hoti  itipi so bhagavā satthā devamanussānaṃ buddho bhagavāti buddhe aveccappasādena samannāgamanahetu kho āvuso evamidhekacce sattā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā sādhu kho āvuso  dhamme saṅghe ariyakantehi sīlehi samannāgamanaṃ hoti akhaṇḍehi samādhisaṃvattanikehi ariyakantehi sīlehi samannāgamanahetu kho āvuso evamidhekacce sattā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇāti
 sādhu kho mārisa buddhe aveccappasādena samannāgamanaṃ hoti  itipi so bhagavā satthā devamanussānaṃ buddho bhagavāti buddhe aveccappasādena samannāgamanahetu kho mārisa evamayaṃ pajā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā sādhu kho mārisa dhamme saṅghe ariyakantehi sīlehi samannāgamanaṃ hoti akhaṇḍehi samādhisaṃvattanikehi ariyakantehi sīlehi samannāgamanahetu kho mārisa evamayaṃ pajā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇāti dasamaṃ
-
+rājakārāmavaggo dutiyo
 tassuddānaṃ 
 sahassabrāhmaṇānanda  duggati apare duve
 mittāmaccā duve vuttā tayo ca devacārikāti
@@ -210,7 +210,7 @@ yato kho gahapati ariyasāvakassa imāni pañca bhayāni verāni vūpasantāni h
 catūhi  kho nandaka dhammehi samannāgato ariyasāvako sotāpanno  hoti avinipātadhammo niyato sambodhiparāyaṇo katamehi catūhi idha nandaka ariyasāvako buddhe aveccappasādena samannāgato hoti  itipi so bhagavā satthā devamanussānaṃ buddho bhagavāti dhamme saṅghe ariyakantehi sīlehi samannāgato hoti akhaṇḍehi samādhisaṃvattanikehi imehi kho nandaka catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo
 imehi ca pana nandaka catūhi dhammehi samannāgato ariyasāvako āyunā saṃyutto hoti dibbenapi mānusenapi vaṇṇena saṃyutto hoti dibbenapi mānusenapi sukhena saṃyutto hoti dibbenapi mānusenapi yasena saṃyutto hoti dibbenapi mānusenapi ādhipateyyena saṃyutto hoti dibbenapi mānusenapi taṃ kho panāhaṃ nandaka  nāññassa samaṇassa vā brāhmaṇassa vā sutvā vadāmi api ca yadeva mayā sāmaṃ ñātaṃ sāmaṃ diṭṭhaṃ sāmaṃ viditaṃ tadevāhaṃ vadāmīti
 evaṃ  vutte aññataro puriso nandakaṃ licchavimahāmattaṃ etadavoca  nahānakālo bhanteti alaṃ dāni bhaṇe etena bāhirena nahānena alamidaṃ ajjhattaṃ nahānaṃ bhavissati yadidaṃ  bhagavati pasādoti dasamaṃ
-
+saraṇānivaggo tatiyo
 tassuddānaṃ 
 mahānāmena dve vuttā godhā ca saraṇā duve
 duve anāthapiṇḍikā duve verabhayena ca
@@ -262,7 +262,7 @@ kathañca nandiya ariyasāvako pamādavihārī hoti idha nandiya ariyasāvako bu
 puna caparaṃ nandiya ariyasāvako dhamme saṅghe ariyakantehi sīlehi samannāgato hoti  akhaṇḍehi samādhisaṃvattanikehi so tehi ariyakantehi sīlehi santuṭṭho na uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya tassa evaṃ pamattassa viharato pāmojjaṃ na hoti pāmojje asati pīti na hoti pītiyā asati passaddhi na hoti passaddhiyā asati dukkhaṃ viharati dukkhino cittaṃ na samādhiyati  asamāhite citte dhammā na pātubhavanti dhammānaṃ apātubhāvā pamādavihārī tveva saṅkhyaṃ gacchati evaṃ kho nandiya ariyasāvako pamādavihārī hoti
 kathañca nandiya ariyasāvako appamādavihārī hoti idha nandiya ariyasāvako buddhe aveccappasādena samannāgato hoti  itipi so bhagavā satthā devamanussānaṃ buddho bhagavāti so tena buddhe aveccappasādena asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya tassa evaṃ appamattassa viharato pāmojjaṃ jāyati pamuditassa  pīti jāyati pītimanassa kāyo passambhati passaddhakāyo sukhaṃ vediyati sukhino cittaṃ samādhiyati samāhite citte dhammā pātubhavanti dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati 
 puna caparaṃ nandiya ariyasāvako dhamme saṅghe ariyakantehi sīlehi samannāgato hoti akhaṇḍehi samādhisaṃvattanikehi so tehi ariyakantehi sīlehi asantuṭṭho uttari vāyamati divā pavivekāya rattiṃ paṭisallānāya  tassa evaṃ appamattassa viharato pāmojjaṃ jāyati pamuditassa pīti jāyati pītimanassa kāyo passambhati passaddhakāyo sukhaṃ vediyati sukhino cittaṃ samādhiyati samāhite citte dhammā pātubhavanti dhammānaṃ pātubhāvā appamādavihārī tveva saṅkhyaṃ gacchati evaṃ kho nandiya ariyasāvako appamādavihārī hotīti dasamaṃ
-
+puññābhisandavaggo catuttho
 tassuddānaṃ 
 abhisandā tayo vuttā duve devapadāni ca
 sabhāgataṃ mahānāmo vassaṃ kāḷī ca nandiyāti
@@ -325,7 +325,7 @@ katamehi catūhi idha bhaddiya ariyasāvako buddhe dhamme saṅghe ariyakantehi 
 katamehi catūhi idha mahānāma ariyasāvako buddhe dhamme saṅghe ariyakantehi sīlehi samannāgato hoti akhaṇḍehi samādhisaṃvattanikehi imehi kho mahānāma catūhi dhammehi samannāgato ariyasāvako sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇoti navamaṃ
 
  cattārimāni  bhikkhave sotāpattiyaṅgāni katamāni cattāri sappurisasaṃsevo saddhammassavanaṃ yonisomanasikāro dhammānudhammappaṭipatti  imāni kho bhikkhave cattāri sotāpattiyaṅgānīti dasamaṃ
-
+sagāthakapuññābhisandavaggo pañcamo
 tassuddānaṃ 
 abhisandā tayo vuttā duve mahaddhanena ca
 suddhaṃ nandiyaṃ bhaddiyaṃ mahānāmaṅgena te dasāti
@@ -372,7 +372,7 @@ so ce evaṃ vadeyya  brahmalokā me cittaṃ vuṭṭhitaṃ sakkāyanirodhe ci
   paññāvuddhiyā   saṃvattantīti dasamaṃ
 
   paññāvepullāya saṃvattantīti ekādasamaṃ
-
+sappaññavaggo chaṭṭho
 tassuddānaṃ 
 sagāthakaṃ  vassaṃvutthaṃ dhammadinnañca gilānaṃ
 caturo phalā paṭilābho vuddhi vepullatāya cāti
@@ -403,8 +403,8 @@ caturo phalā paṭilābho vuddhi vepullatāya cāti
    tikkhapaññatā saṃvattantīti dvādasamaṃ
 
   nibbedhikapaññatā saṃvattanti katame cattāro sappurisasaṃsevo saddhammassavanaṃ yonisomanasikāro dhammānudhammappaṭipatti  ime  kho bhikkhave cattāro dhammā bhāvitā bahulīkatā nibbedhikapaññatāya saṃvattantīti terasamaṃ
-
+mahāpaññavaggo sattamo
 tassuddānaṃ 
 mahā  puthu vipulagambhīraṃ appamattabhūribāhullaṃ
 sīghalahuhāsajavana tikkhanibbedhikāya cāti
-
+sotāpattisaṃyuttaṃ ekādasamaṃ

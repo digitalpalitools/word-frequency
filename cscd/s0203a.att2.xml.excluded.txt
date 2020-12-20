@@ -10,8 +10,8 @@
 182......,.
 183..,..…pe….
 184....,.,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷasuññatasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Mahāsuññatasuttavaṇṇanā
 185..,..,…pe…,.
 ,,...
@@ -44,8 +44,8 @@ Cūḷasuññatasuttavaṇṇanā niṭṭhitā.
 196.,,,....
 ..
 ,,...‘‘’’.,.,..,.,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāsuññatasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Acchariyaabbhutasuttavaṇṇanā
 197........,.,.,.,.....,,.,.
 .......
@@ -105,8 +105,8 @@ Mahāsuññatasuttavaṇṇanā niṭṭhitā.
 ,,,,,,,,,,,,,,..
 –‘‘,,?,?,?,?,’’?.-–‘‘,.,.,.,.,’’.‘‘’’..
 .,,.,,‘‘’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Acchariyaabbhutasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Bākulasuttavaṇṇanā
 209..,..,.‘‘’’...,.,.....
 ,‘‘’’..,.,–‘‘’’.–‘‘,’’.,,.
@@ -123,8 +123,8 @@ Acchariyaabbhutasuttavaṇṇanā niṭṭhitā.
 ..?,.,.
 212.,..
 ,.,,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bākulasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Dantabhūmisuttavaṇṇanā
 213....
 .,....
@@ -138,12 +138,12 @@ Bākulasuttavaṇṇanā niṭṭhitā.
 ...
 219...
 222.,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Dantabhūmisuttavaṇṇanā niṭṭhitā.
+
+.
 6. Bhūmijasuttavaṇṇanā
 223......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bhūmijasuttavaṇṇanā niṭṭhitā.
+
+.
 7. Anuruddhasuttavaṇṇanā
 230..,...
 231..,...,,,.‘‘’’,,,.,.
@@ -156,8 +156,8 @@ Bhūmijasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Anuruddhasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Upakkilesasuttavaṇṇanā
 236..,–‘‘,,,,’’.‘‘,’’.‘‘’’‘‘’’.,–‘‘,’’,.
 ,,.?.‘‘’’.,.–‘‘,’’‘‘,,’’.‘‘,‘’,’’.‘‘,,.,,.’’..–‘‘,’’.‘‘’’..
@@ -185,7 +185,7 @@ Anuruddhasuttavaṇṇanā niṭṭhitā.
 245.......
 ?.,...
 
-Upakkilesasuttavaṇṇanā niṭṭhitā.
+.
 9. Bālapaṇḍitasuttavaṇṇanā
 246........,.,...
 248..,,....,,.
@@ -247,8 +247,8 @@ Pariṇāyakaratanavaṇṇanā
 ..,...…pe…..
 259..
 260...,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bālapaṇḍitasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Devadūtasuttavaṇṇanā
 261...
 262.,.,,,.,,.,.,,.
@@ -277,6 +277,6 @@ Bālapaṇḍitasuttavaṇṇanā niṭṭhitā.
 ,–‘‘,’’.,,.,,,...
 271......
 ..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Devadūtasuttavaṇṇanā niṭṭhitā.
-Tatiyavaggavaṇṇanā niṭṭhitā.
+
+.
+.

@@ -13,7 +13,7 @@ Indriyavitthārakathā
 528.....–
 ,;
 ,.
-Idaṃ indriyānaṃ vitthārakathāmukhaṃ.
+.
 Saccavitthārakathā
 529.–,,,.–
 ,;
@@ -40,7 +40,7 @@ Saccavitthārakathā
 ,.
 ,;
 ,.
-Evaṃ atthato vinicchayo veditabbo.
+.
 534.?-.–‘‘’’(dha. pa. 224).‘‘’’(jā. 2.21.433).‘‘’’(su. ni. 891).‘‘’’(su. ni. 890).‘‘’’(vibha. 216)..
 535.?.,.–‘‘,,‘,.’’’.–‘‘,,‘,’’’(saṃ. ni. 5.1086).
 ,..,,.
@@ -90,7 +90,7 @@ Jātiniddeso
 ;
 ,
 .
-Ayaṃ tāva jātiyaṃ vinicchayo.
+.
 Jarāniddeso
 542.,,.,,..,.–
 ‘‘,;
@@ -99,7 +99,7 @@ Jarāniddeso
 ,.
 ‘‘,;
 ,’’.
-Ayaṃ jarāyaṃ vinicchayo.
+.
 Maraṇaniddeso
 543.,‘‘’’(dhātu. 71).,‘‘’’(su. ni. 581)...,,..–
 ‘‘-;
@@ -109,36 +109,36 @@ Maraṇaniddeso
 ,.
 ,;
 ,’’.
-Ayaṃ maraṇe vinicchayo.
+.
 Sokādiniddesā
 544...,,..–
 ‘‘,;
 ,.
 ‘‘-;
 ,’’.
-Ayaṃ soke vinicchayo.
+.
 Paridevo
 545..,,..–
 ‘‘,
 ;
 ,
 ’’.
-Ayaṃ parideve vinicchayo.
+.
 Dukkhaṃ
 546.,,,..–
 ‘‘,;
 ,’’.
-Ayaṃ dukkhe vinicchayo.
+.
 Domanassaṃ
 547..,,..,,,,,,,,.–
 ‘‘,;
 ,’’.
-Ayaṃ domanasse vinicchayo.
+.
 Upāyāso
 548...,,..–
 ‘‘,;
 ,’’.
-Ayaṃ upāyāse vinicchayo.
+.
 ...
 Appiyasampayogo
 549..,,..–
@@ -146,21 +146,21 @@ Appiyasampayogo
 -.
 ‘‘,;
 ,’’.
-Ayaṃ appiyasampayoge vinicchayo.
+.
 Piyavippayogo
 550..,,..–
 ‘‘,
 ;
 ,
 ’’.
-Ayaṃ piyavippayoge vinicchayo.
+.
 Icchitālābho
 551.‘‘’’(dī. ni. 2.398; vibha. 201),.,,..–
 ‘‘,;
 ,.
 ‘‘,;
 ,’’.
-Ayaṃ icchitālābhe vinicchayo.
+.
 Pañcupādānakkhandhā
 552.–
 ,;
@@ -168,10 +168,10 @@ Pañcupādānakkhandhā
 -;
 -.
 ,,,,,.,,,,,,,,.,‘‘’’..
-Ayaṃ tāva dukkhaniddese nayo.
+.
 Samudayaniddesakathā
 553..,.,.,.,...
-Ayaṃ samudayaniddese nayo.
+.
 Nirodhaniddesakathā
 554.,?.,.–
 ‘‘,
@@ -190,7 +190,7 @@ Nibbānakathā
 .,..,..,.
 561.,..,,.,,.
 ,.‘‘,,’’.
-Idaṃ dukkhanirodhaniddese vinicchayakathāmukhaṃ.
+.
 Magganiddesakathā
 562.,..,,..,,.
 .,,..,,.,.,,.
@@ -214,7 +214,7 @@ Magganiddesakathā
 ,.,,.,.–
 ‘‘,;
 ,’’.
-Evaṃ tāva suññato vinicchayo veditabbo.
+.
 Ekavidhādivinicchayakathā
 568......
 ......
@@ -232,7 +232,7 @@ Ekavidhādivinicchayakathā
 .............
 ,;
 ,.
-Iti sādhujanapāmojjatthāya kate visuddhimagge
-Paññābhāvanādhikāre
-Indriyasaccaniddeso nāma
-Soḷasamo paricchedo.
+
+
+
+.

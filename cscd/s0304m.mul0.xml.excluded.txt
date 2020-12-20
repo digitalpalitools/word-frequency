@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāyo
 Saḷāyatanavaggo
 1. Saḷāyatanasaṃyuttaṃ
@@ -28,7 +28,7 @@ Saḷāyatanavaggo
 11.‘‘,,;!,,;;’’….…..
 12. Bāhirānattātītānāgatasuttaṃ
 12.‘‘,,;!,,;;.…………;!,,;;’’..
-Aniccavaggo paṭhamo.
+.
 –
 ,;
 ,.
@@ -63,7 +63,7 @@ Aniccavaggo paṭhamo.
 10. Dutiyadukkhuppādasuttaṃ
 22.‘‘,,,,,.…pe…………,,,.
 ‘‘,,,,,.…pe…………,,,’’..
-Yamakavaggo dutiyo.
+.
 –
 ,;
 ,;
@@ -117,7 +117,7 @@ Yamakavaggo dutiyo.
 ‘‘,–‘,,’’’?
 ‘‘,’’.
 ‘‘,,,,,.…pe…,…pe….,,,..;;.‘,,,’.,,’’..
-Sabbavaggo tatiyo.
+.
 –
 ,;
 ,;
@@ -134,7 +134,7 @@ Sabbavaggo tatiyo.
 40.‘‘,,…pe…..
 41.‘‘,,…pe…..
 42.‘‘,,…pe…..
-Jātidhammavaggo catuttho.
+.
 –
 ,;
 ,.
@@ -151,12 +151,12 @@ Jātidhammavaggo catuttho.
 51.‘‘,,…pe…..
 10. Upassaṭṭhasuttaṃ
 52.‘‘,,upasaṭṭhaṃ (ka.).,,?,,,,,.…pe…,,,..…,,,..,,,,,.…pe…,,,..;;.‘,,,’’’..
-Sabbaaniccavaggo pañcamo.
+.
 –
 ,;
 ,abhiññeyyaṃ pariññeyyaṃ (sī. syā. kaṃ.), abhiññātaṃ pariññeyyaṃ (pī. ka.);
 ,.
-Saḷāyatanavagge paṭhamapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
@@ -201,7 +201,7 @@ Saḷāyatanavagge paṭhamapaṇṇāsako samatto.
 ‘‘,–‘,,’’’?
 ‘‘,’’.
 ‘‘,,,,,.…pe…,,,,…pe…,,,..;;.‘,,,’.,,’’..
-Avijjāvaggo chaṭṭho.
+.
 –
 ,;
 ,;
@@ -277,7 +277,7 @@ Avijjāvaggo chaṭṭho.
 ‘‘,–‘,,’’’?
 ‘‘,’’.
 ‘‘,,,,,,,.;;.‘,,,’’’..
-Migajālavaggo sattamo.
+.
 –
 ,;
 ,.
@@ -353,7 +353,7 @@ Migajālavaggo sattamo.
 83.…pe…–
 ‘‘,,,…pe…,,,…pe…,,,’’?
 ‘‘,,,…pe…,,,…pe…,,,’’..
-Gilānavaggo aṭṭhamo.
+.
 –
 ,;
 ,.
@@ -457,7 +457,7 @@ Gilānavaggo aṭṭhamo.
 93.‘‘,,.,,?.....,.,,!,,,..,.,,!,,,,..…pe….
 ‘‘.vipariṇāminī aññathābhāvinī (?)....,.,,,!,,,..,.,,,!,,,,..…pe….
 ‘‘.....,.,,,!,,,..,.,,,!,,,,..,,’’..
-Channavaggo navamo.
+.
 –
 ,;
 ,.
@@ -615,15 +615,15 @@ bhavatha (sī. syā. kaṃ.)’’.;
 ‘‘,,?,,;,,.
 ‘‘,,?,,.,,.,,;,,.
 ‘‘,,–‘,,’.,,‘’,‘’;‘’.,,–‘,,’’’..
-Saḷavaggo dasamo.
+.
 –
 ,;
 ,.
-Saḷāyatanavagge dutiyapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
-Paṭhamasatakaṃ.
+.
 11. Yogakkhemivaggo
 1. Yogakkhemisuttaṃ
 104..‘‘,,..,,?,,..,‘’…pe…,,..,‘’.,,’’..
@@ -684,7 +684,7 @@ Paṭhamasatakaṃ.
 113.ñātike (sī. syā. kaṃ.).–‘‘..;;;;;..…pe…..;;;;;.’’.
 ‘‘..;.;;;.…pe……pe…..;.;…pe…’’.
 upassutiṃ (sī. ka.)..–‘‘,,’’?‘‘,’’.‘‘,,.,,.,,.,,’’..
-Yogakkhemivaggo ekādasamo.
+.
 –
 ,;
 ,.
@@ -798,7 +798,7 @@ Yogakkhemivaggo ekādasamo.
 122.‘‘,,..,,,?,,.,,.,…pe…,,…pe…,,.,,.’’..
 10. Upādāniyadhammasuttaṃ
 123.‘‘,,..,,,?,,.,,.,…pe…,,…pe…,,.,,.’’..
-Lokakāmaguṇavaggo dvādasamo.
+.
 –
 ,;
 ,;
@@ -867,7 +867,7 @@ Lokakāmaguṇavaggo dvādasamo.
 ;..–‘‘,,,’’?
 ‘‘,,,…pe…,…pe….,’’.
 ,–‘‘,;,!,,,,,,;.,,,,.’’..
-Gahapativaggo terasamo.
+.
 –
 ,;
 ,.
@@ -912,7 +912,7 @@ Gahapativaggo terasamo.
 144.‘‘,,.,,.,,!………….,,.,,!…pe…‘,,,’’’..
 12. Bāhirānattahetusuttaṃ
 145.‘‘,,.,,.,,!………….,,.,,!,,,………….;;.‘,,,’’’..
-Devadahavaggo cuddasamo.
+.
 –
 ,;
 ,.
@@ -962,11 +962,11 @@ Devadahavaggo cuddasamo.
 10. Dhammakathikapucchasuttaṃ
 155.…pe…–‘‘‘,’,,.,,’’?
 ‘‘,,‘’.,,,‘’.,,,‘’…pe…,,,‘’…pe…,,,‘’.,,,‘’.,,,‘’’’..
-Navapurāṇavaggo pañcadasamo.
+.
 –
 ,;
 ,.
-Saḷāyatanavagge tatiyapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
@@ -997,7 +997,7 @@ Saḷāyatanavagge tatiyapaṇṇāsako samatto.
 166.…pe…–‘‘,,’’?‘‘,,...…pe….,,’’..
 12. Attānudiṭṭhipahānasuttaṃ
 167.…pe…–‘‘,,’’?‘‘,,....…pe……pe….………’’..
-Nandikkhayavaggo soḷasamo.
+.
 –
 ,;
 ,.
@@ -1062,12 +1062,12 @@ Nandikkhayavaggo soḷasamo.
 226.‘‘,,.………….…pe…’’.
 60. Bāhirāyatanaanattasuttaṃ
 227.‘‘,,.………….…pe…’’.
-Saṭṭhipeyyālavaggo sattarasamo.
+.
 –
 ,;
 ,;
 ,.
-Suttantāni saṭṭhi.
+.
 18. Samuddavaggo
 1. Paṭhamasamuddasuttaṃ
 228.‘‘‘,’,,.,,.,,.,,;.,,,;…pe…,,;.,,,;…pe…,,;.,,,;’’.…pe…–
@@ -1146,7 +1146,7 @@ na pamāṇameti (sī. syā. kaṃ. pī.),,’’.;
 10. Dutiyahatthapādopamasuttaṃ
 237.‘‘,,;;;.,,…pe……pe……pe….
 ‘‘,,;;;.,,…pe……pe…’’..
-Samuddavaggo aṭṭharasamo.
+.
 –
 ,;
 ,;
@@ -1241,12 +1241,12 @@ pañhāveyyākaraṇena (syā. kaṃ. ka.),;–‘‘,,’’?‘‘,,,,,’’.
 ‘‘‘’,,,‘’,‘’…pe…‘’…‘’…‘’…‘’…‘’…‘’.,,,,.,,‘aphandiyamānena (syā. kaṃ. ka.)’–,,.
 ‘‘‘’,,,‘’,‘’…pe…‘’…‘’…‘’…‘’…‘’…‘’.,,,,.,,‘’–,,.
 ‘‘‘’,,,‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’.,,,,.,,‘’–,,’’..
-Āsīvisavaggo ekūnavīsatimo.
+.
 –
 ,;
 ,.
-Saḷāyatanavagge catutthapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
-Saḷāyatanasaṃyuttaṃ samattaṃ.
+.

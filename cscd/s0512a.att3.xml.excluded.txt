@@ -30,7 +30,7 @@
 .
 ,,.
 ,,,,,,,,,...‘‘,…pe…’’.
-Yudhañjayacariyāvaṇṇanā niṭṭhitā.
+.
 2. Somanassacariyāvaṇṇanā
 7..‘‘’’..‘‘’’.
 8..,..,,....
@@ -81,7 +81,7 @@ Yudhañjayacariyāvaṇṇanā niṭṭhitā.
 ..
 ,,,.
 (cariyā. 3.1 ādayo)..,,,,.
-Somanassacariyāvaṇṇanā niṭṭhitā.
+.
 3. Ayogharacariyāvaṇṇanā
 24..‘‘’’.
 25-6.‘‘’’..‘‘,’’‘‘,’’..‘‘’’...
@@ -100,7 +100,7 @@ Somanassacariyāvaṇṇanā niṭṭhitā.
 ,.(cariyā. 1.37 ādayo).
 ,,.
 .
-Ayogharacariyāvaṇṇanā niṭṭhitā.
+.
 4. Bhisacariyāvaṇṇanā
 34.
 ,‘‘’’.,.
@@ -177,7 +177,7 @@ Ayogharacariyāvaṇṇanā niṭṭhitā.
 ,,.,.,...?.,..,,?...
 ,,,,,,,,.
 ..
-Bhisacariyāvaṇṇanā niṭṭhitā.
+.
 5. Soṇapaṇḍitacariyāvaṇṇanā
 42......–‘‘’’,.
 .‘‘’’..‘‘’’.‘‘’’–‘‘,,’’.
@@ -226,8 +226,8 @@ Bhisacariyāvaṇṇanā niṭṭhitā.
 ,.‘‘’’..‘‘’’..
 ,,,,,.
 ,.,,,.
-Soṇapaṇḍitacariyāvaṇṇanā niṭṭhitā.
-Nekkhammapāramī niṭṭhitā.
+.
+.
 6. Temiyacariyāvaṇṇanā
 48.,,‘‘’’.,,‘‘’’.
 49...,.,,.
@@ -295,8 +295,8 @@ Nekkhammapāramī niṭṭhitā.
 ‘‘’’‘‘’’‘‘’’.....,.
 ....,,,,.
 ,..
-Temiyacariyāvaṇṇanā niṭṭhitā.
-Adhiṭṭhānapāramī niṭṭhitā.
+.
+.
 7. Kapirājacariyāvaṇṇanā
 67...
 ..,....
@@ -323,7 +323,7 @@ Adhiṭṭhānapāramī niṭṭhitā.
 ...,‘‘’’.,‘‘’’.,.,,,..,,.
 .,,.
 .,,,,.
-Kapirājacariyāvaṇṇanā niṭṭhitā.
+.
 8. Saccatāpasacariyāvaṇṇanā
 ,...
 .‘‘’’....
@@ -334,7 +334,7 @@ Kapirājacariyāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 ..
-Saccatāpasacariyāvaṇṇanā niṭṭhitā.
+.
 9. Vaṭṭapotakacariyāvaṇṇanā
 72.–,.
 73....
@@ -362,7 +362,7 @@ Saccatāpasacariyāvaṇṇanā niṭṭhitā.
 .
 ,.
 ..
-Vaṭṭapotakacariyāvaṇṇanā niṭṭhitā.
+.
 10. Maccharājacariyāvaṇṇanā
 83.,,....,,,..
 84...,.
@@ -384,7 +384,7 @@ Vaṭṭapotakacariyāvaṇṇanā niṭṭhitā.
 .
 ,,.
 .,,,,.
-Maccharājacariyāvaṇṇanā niṭṭhitā.
+.
 11. Kaṇhadīpāyanacariyāvaṇṇanā
 92..‘‘’’.,....
 ?.?..,,‘‘’’.,,,.–
@@ -437,7 +437,7 @@ Maccharājacariyāvaṇṇanā niṭṭhitā.
 ‘‘’’.
 ,,,,.
 ,..
-Kaṇhadīpāyanacariyāvaṇṇanā niṭṭhitā.
+.
 12. Mahāsutasomacariyāvaṇṇanā
 105...‘‘’’..‘‘’’.
 ‘‘’’‘‘,’’‘‘’’‘‘’’‘‘’’‘‘’’.
@@ -496,8 +496,8 @@ Kaṇhadīpāyanacariyāvaṇṇanā niṭṭhitā.
 ..
 ,,,,,,.
 .(cariyā aṭṭha. 2.74 ādayo).
-Mahāsutasomacariyāvaṇṇanā niṭṭhitā.
-Saccapāramī niṭṭhitā.
+.
+.
 13. Suvaṇṇasāmacariyāvaṇṇanā
 111...–..‘‘’’...‘‘’’.....
 ‘‘,,,’’.‘‘’’.‘‘’’.,.....
@@ -526,7 +526,7 @@ Saccapāramī niṭṭhitā.
 ‘‘,’’(jā. 2.22.411-412)...
 ,,,,,.
 .,,,,,.
-Suvaṇṇasāmacariyāvaṇṇanā niṭṭhitā.
+.
 14. Ekarājacariyāvaṇṇanā
 114..
 .‘‘’’...
@@ -554,8 +554,8 @@ Suvaṇṇasāmacariyāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(jā. 1.4.12);
 ,..
-Ekarājacariyāvaṇṇanā niṭṭhitā.
-Mettāpāramī niṭṭhitā.
+.
+.
 15. Mahālomahaṃsacariyāvaṇṇanā
 119.‘‘’’–
 ‘‘’’–‘‘,’’.
@@ -568,9 +568,9 @@ Mettāpāramī niṭṭhitā.
 122.,‘‘’’.
 .,....‘‘’’.
 ‘‘’’,,,,,,,,,..,,,,,,,,.
-Mahālomahaṃsacariyāvaṇṇanā niṭṭhitā.
-Upekkhāpāramī niṭṭhitā.
-Tatiyavaggassa atthavaṇṇanā niṭṭhitā.
+.
+.
+.
 Uddānagāthāvaṇṇanā
 ‘‘’’.(cariyā. 3.34 ādayo).(cariyā. 3.42 ādayo ).(cariyā. 3.48 ādayo).(cariyā. 3.119 ādayo).,,,.,‘‘’’.
 ....,.
@@ -858,6 +858,6 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Iti badaratitthavihāravāsinā ācariyadhammapālena
 
-Cariyāpiṭakavaṇṇanā niṭṭhitā.
+
+.

@@ -37,7 +37,7 @@
 ‘‘,;
 ,’’.
 .
-Sīhāsanadāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekatthambhikattheraapadānaṃ
 13.
 ‘‘,;
@@ -82,7 +82,7 @@ sabbametaṃ (syā.),.
 ‘‘,;
 ,’’.
 .
-Ekatthambhikattherassāpadānaṃ dutiyaṃ.
+.
 3. Nandattheraapadānaṃ
 27.
 ‘‘,;
@@ -109,7 +109,7 @@ Ekatthambhikattherassāpadānaṃ dutiyaṃ.
 ‘‘,;
 ,’’.
 .
-Nandattherassāpadānaṃ tatiyaṃ.
+.
 4. Cūḷapanthakattheraapadānaṃ
 35.
 ‘‘,;
@@ -172,7 +172,7 @@ nāmena (sī. ka.),.
 ‘‘,;
 ,’’.
 cullapanthako (sī. syā.).
-Cūḷapanthakattherassāpadānaṃ catutthaṃ.
+.
 5. Pilindavacchattheraapadānaṃ
 55.
 ‘‘,;
@@ -214,7 +214,7 @@ rājīsi (syā. ka.),.
 ‘‘,;
 ,’’.
 pilindivaccho (sī.).
-Pilindavacchattherassāpadānaṃ pañcamaṃ.
+.
 6. Rāhulattheraapadānaṃ
 68.
 ‘‘,;
@@ -271,7 +271,7 @@ Pilindavacchattherassāpadānaṃ pañcamaṃ.
 ‘‘,;
 ,’’.
 .
-Rāhulattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Upasenavaṅgantaputtattheraapadānaṃ
 86.
 ‘‘,;
@@ -308,8 +308,8 @@ idaṃ pādadvayaṃ theragāthāaṭṭhakathāyameva dissati.
 ‘‘,;
 ,’’.
 .
-Upasenavaṅgantaputtattherassāpadānaṃ sattamaṃ.
-Tatiyabhāṇavāraṃ.
+.
+.
 8. Raṭṭhapālattheraapadānaṃ
 97.
 ‘‘,;
@@ -357,7 +357,7 @@ mahābhattaṃ (sī.), mahoghañca (ka.), mahādānaṃ (?),.
 ‘‘,;
 ,’’.
 .
-Raṭṭhapālattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sopākattheraapadānaṃ
 112.
 ‘‘sevayantassa (sī. ka.),;
@@ -396,7 +396,7 @@ paññapetvāna (syā. aṭṭha),.
 ‘‘,;
 ,’’.
 .
-Sopākattherassāpadānaṃ navamaṃ.
+.
 10. Sumaṅgalattheraapadānaṃ
 124.
 ‘‘,;
@@ -450,10 +450,10 @@ Sopākattherassāpadānaṃ navamaṃ.
 ‘‘,;
 ,’’.
 .
-Sumaṅgalattherassāpadānaṃ dasamaṃ.
+.
 –
 ,;
 ,.
 ,;
 ,.
-Sīhāsaniyavaggo dutiyo.
+.

@@ -22,7 +22,7 @@
 .
 .
 ,..
-Aññatarātherīgāthāvaṇṇanā niṭṭhitā.
+.
 2. Vimalātherīgāthāvaṇṇanā
 ....‘‘’’..,–
 72.
@@ -46,7 +46,7 @@ Aññatarātherīgāthāvaṇṇanā niṭṭhitā.
 ,.,.
 …pe….
 ...
-Vimalātherīgāthāvaṇṇanā niṭṭhitā.
+.
 3. Sīhātherīgāthāvaṇṇanā
 ..‘‘’’..‘‘,’’,,..–
 77.
@@ -69,7 +69,7 @@ Vimalātherīgāthāvaṇṇanā niṭṭhitā.
 ,.,.
 ...,.
 .,.–‘‘,’’,.,.
-Sīhātherīgāthāvaṇṇanā niṭṭhitā.
+.
 4. Sundarīnandātherīgāthāvaṇṇanā
 .,..,.–‘‘,,,,,,’’,..‘‘,’’.–.–
 82.
@@ -201,7 +201,7 @@ Sīhātherīgāthāvaṇṇanā niṭṭhitā.
 …pe…‘‘’’,,.
 ‘‘’’.–,.
 ,,.
-Sundarīnandātherīgāthāvaṇṇanā niṭṭhitā.
+.
 5. Nanduttarātherīgāthāvaṇṇanā
 .,,–
 87.
@@ -224,7 +224,7 @@ Sundarīnandātherīgāthāvaṇṇanā niṭṭhitā.
 ...‘‘’’...
 ‘‘.’’....
 ..,..
-Nanduttarātherīgāthāvaṇṇanā niṭṭhitā.
+.
 6. Mittākāḷītherīgāthāvaṇṇanā
 .–
 92.
@@ -247,7 +247,7 @@ Nanduttarātherīgāthāvaṇṇanā niṭṭhitā.
 .,‘‘’’.,..
 ..‘‘’’..,,.
 .‘‘’’.‘‘’’(paṭi. ma. 1.50),..
-Mittākāḷītherīgāthāvaṇṇanā niṭṭhitā.
+.
 7. Sakulātherīgāthāvaṇṇanā
 .,......(apa. therī 2.3.131-165)–
 ‘‘,;
@@ -337,7 +337,7 @@ Mittākāḷītherīgāthāvaṇṇanā niṭṭhitā.
 ...
 .,,.
 ....,..
-Sakulātherīgāthāvaṇṇanā niṭṭhitā.
+.
 8. Soṇātherīgāthāvaṇṇanā
 .,,.,..‘‘’’..‘‘’’‘‘’’‘‘’’..–
 ‘‘,;
@@ -406,7 +406,7 @@ Sakulātherīgāthāvaṇṇanā niṭṭhitā.
 ,.,..
 ..,..
 ,‘‘’’...
-Soṇātherīgāthāvaṇṇanā niṭṭhitā.
+.
 9. Bhaddākuṇḍalakesātherīgāthāvaṇṇanā
 .,,,..,,,;,.
 ..,‘‘,’’,.‘‘’’‘‘’’.
@@ -546,7 +546,7 @@ Soṇātherīgāthāvaṇṇanā niṭṭhitā.
 ..,,‘‘,,’’..
 .,.
 ,‘‘’’..
-Bhaddākuṇḍalakesātherīgāthāvaṇṇanā niṭṭhitā.
+.
 10. Paṭācārātherīgāthāvaṇṇanā
 .,,..,...‘‘,,’’‘‘,’’‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’....
 –,..,‘‘,’’....,,‘‘,,’’‘‘’’,‘‘’’.
@@ -672,7 +672,7 @@ Bhaddākuṇḍalakesātherīgāthāvaṇṇanā niṭṭhitā.
 .‘‘’’.–.
 ‘‘,’’,,,,,.,,,..–‘‘…pe…’’..
 ...,‘‘’’.,–‘‘,’’.
-Paṭācārātherīgāthāvaṇṇanā niṭṭhitā.
+.
 11. Tiṃsamattātherīgāthāvaṇṇanā
 ..–
 117.
@@ -699,7 +699,7 @@ Paṭācārātherīgāthāvaṇṇanā niṭṭhitā.
 .
 ,,.
 ,‘‘’’.,,.‘‘’’.,.
-Tiṃsamattātherīgāthāvaṇṇanā niṭṭhitā.
+.
 12. Candātherīgāthāvaṇṇanā
 ...........–
 122.
@@ -722,5 +722,5 @@ Tiṃsamattātherīgāthāvaṇṇanā niṭṭhitā.
 ....
 .,.
 ,...
-Candātherīgāthāvaṇṇanā niṭṭhitā.
-Pañcakanipātavaṇṇanā niṭṭhitā.
+.
+.

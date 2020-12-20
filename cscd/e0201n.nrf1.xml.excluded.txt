@@ -36,7 +36,7 @@ Vibhattirāsi
 69.ka. 312; rū. 94, 319; nī. 630; caṃ. 2.1.88; pā. 2.3.36; 1.3.45.
 .
 ,.
-Vibhattirāsi niṭṭhito.
+.
 Itthipaccayarāsi
 70.ka. 237; rū. 176; nī. 466; caṃ. 2.3.15; pā. 4.1.4.
 ..
@@ -94,7 +94,7 @@ Itthipaccayarāsi
 –,,,,.
 –,,,,,,,,,,,,,,,,,,,,.,.
 ‘’.‘’.
-Itthipaccayarāsi niṭṭhito.
+.
 Ākārantitthiliṅgarāsi
 ,,,,,..
 82.ka. 220; rū. 74; nī. 447.
@@ -149,7 +149,7 @@ Itthipaccayarāsi niṭṭhito.
 ,‘’.
 ,a. ni. 7.53,,-.,‘‘’’..,-,.
 ,,,.
-Ākārantitthiliṅgarāsi niṭṭhito.
+.
 Ikārantitthiliṅgarāsi
 ‘’.,.
 ‘’–
@@ -181,7 +181,7 @@ rū. 84 piṭṭhe-.
 ,.
 khu. pā. 6.2; jā. 1.9.92,,,,,,-,,,jā. 2.22.105,jā. 2.22.2174,jā. 2.22.1689,,su. ni. 142-,jā. 1.1.38,saṃ. ni. 1.250.
 saṃ. ni. 1.98,,jā. 2.22.1522,,,,,jā. 2.18.61-,.‘,’jā. 2.22.29.‘’jā. 2.22.1347,,,,,,,,.
-Ikārantitthiliṅgarāsi niṭṭhito.
+.
 Īkārantitthiliṅgarāsi
 96.ka. 85; rū. 150; nī. 239 moga-du. 66; sismiṃ (bahūsu).
 .
@@ -204,17 +204,17 @@ Ikārantitthiliṅgarāsi niṭṭhito.
 .
 saṃ. ni. 3.224,jā. 2.22.1414,,jā. 2.22.537,.
 vi. va. 863,,jā. 1.10.101,,jā. 1.3.124,jā. 1.16.178,,,jā. 2.18.70,.jā. 2.22.2111..,,.,,,,,,,ve traraññā, (nissaya).
-Īkārantitthiliṅgarāsi niṭṭhito.
+.
 Ukārantitthiliṅgarāsi
 ,,,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,,,,..
 ,.
 ,,,.
-Ukārantitthiliṅgarāsi niṭṭhito.
+.
 Ūkārantitthiliṅgarāsi
 ,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,..
 ,vi. va. 634jā. 1.1.63,.
-Ūkārantitthiliṅgarāsi niṭṭhito.
+.
 Okārantarāsi
 .,..
 ,-,.
@@ -238,8 +238,8 @@ Okārantarāsi
 ,,,jā. 1.1.77..ma. ni. 1.352 (thokaṃ visadisaṃ).
 ,su. ni. 298,,,,,.ma. ni. 1.351jā. 1.12.39.,ma. ni. 1.350,,,su. ni. 298.,,,jā. 1.4.135; 2.18.104.,,,,,.
 .
-Iti okārantarāsi.
-Itthiliṅgarāsi niṭṭhito.
+.
+.
 Pulliṅgarāsi
 Akāranta pulliṅgapurisādirāsi
 .
@@ -278,7 +278,7 @@ khu. pā. 6.13; su. ni. 236,‘‘,..’’jā. 2.22.1352.dī. ni. 1.168,,,kath�
 .
 -.
 ,.,.,..
-Purisādirāsi niṭṭhito.
+.
 Manogaṇarāsi
 ,,,,.
 115.ka. 181-2, 184; rū. 95-97; nī. 373-4, 376-7.
@@ -292,7 +292,7 @@ jā. 1.10.11,pārā. 18,,,ma. ni. 2.400.
 dī. ni. 2.3,,apa. thera 1.41.82,,.
 ,,,,,,,,,,,,,,,saṃ. ni. 1.112.
 ,,.,pārā. 452,,.
-Manogaṇarāsi niṭṭhito.
+.
 Manādigaṇarāsi
 116..
 .
@@ -309,7 +309,7 @@ Manādigaṇarāsi
 ,,,,,,,,,,,,,,,.
 ‘‘pāci. 45,’’dī. ni. 2.378.
 ,,,a. ni. 3.29,jā. 2.22.4,a. ni. 4.62,su. ni. 1137.
-Iti manādigaṇarāsi.
+.
 Guṇavādigaṇarāsi
 119.ka. 124; rū. 98; nī. 299.
 .
@@ -343,7 +343,7 @@ dha. pa. 304,.
 ‘‘’’apa. thera 2.47.59.,,,,.
 ,‘‘,’’bu. vaṃ. 21.10‘‘,’’theragā. 1052‘‘’’‘‘,’’apa. therī 2.2.389.
 ,pārā. 194,a. ni. 5.114,,jā. aṭṭha. 2.3.36,su. ni. 887 (saṃsuddhapaññā kusalā mutīmā).
-Iti guṇavādigaṇarāsi.
+.
 Gacchantādigaṇarāsi
 127.ka. 186; rū. 107; nī. 382-4; ‘tassaṃ’ (bahūsu).
 ..
@@ -372,7 +372,7 @@ Gacchantādigaṇarāsi
 .
 ,,,,,,,,,,,,,,,,,,,,,,.,dha. pa. 304,a. ni. 4.85,su. ni. 91.
 ,dha. pa. 61,.
-Iti gacchantādigaṇarāsi.
+.
 Rājādiyuvādigaṇarāsi
 132.ka. 189; rū. 113; nī. 390-1.
 .
@@ -492,8 +492,8 @@ rū. 66,nī. pada. 220.,,,saṃ. ni. 1.259.
 ‘‘,su. ni. 445,’’..,.
 ,,,.
 ,.
-Iti rājādiyuvādigaṇarāsi.
-Akārantapulliṅgaṃ niṭṭhitaṃ.
+.
+.
 Ākārantapulliṅgarāsi
 ‘’,.
 ‘’,‘’,.
@@ -512,7 +512,7 @@ sakko (amarakosa, 1-145 gāthāyaṃ).
 ,,.‘‘’’saṃ. ni. 1.209.,,,,,,,...,.‘‘’’jā. 2.22.300‘‘’’dī. ni. 1.258.
 ,,,,,,,..‘‘’’ma. ni. 2.426.
 .,,,,,,,,,,…pe…,nīti. pada. 217,.
-Iti ākārantapulliṅgarāsi.
+.
 Ikārantapulliṅgarāsi
 ‘’,.
 165.ka. 118; rū. 146; nī. 293.
@@ -565,7 +565,7 @@ Ikārantapulliṅgarāsi
 .
 ,jā. 1.10.78.,,,’jā. 2.22.190.
 ,jā. 2.19.96,,,theragā. 1182.
-Ikārantapulliṅgarāsi niṭṭhito.
+.
 Īkārantapulliṅgarāsi
 ‘’’,‘’,,,,,‘’,.‘’,.
 –
@@ -590,7 +590,7 @@ Ikārantapulliṅgarāsi niṭṭhito.
 ,a. ni. 6.37,’’.‘’,‘’,‘’,‘’.
 ,,dha. pa. 197,,.‘’.
 ,..,‘‘a. ni. 8.10,itivu. 93,jā. 2.22.1721,jā. 2.22.1727,jā. 2.22.195,dī. ni. 2.282,,jā. 2.21.111,,apa. therī 2.3.137,,’’saṃ. ni. 1.136.‘’.‘‘’’jā. 2.19.96.
-Īkārantapulliṅgarāsi niṭṭhito.
+.
 Ukārantapulliṅgarāsi
 Bhikkhādigaṇarāsi
 ‘’,.,.
@@ -621,7 +621,7 @@ Bhikkhādigaṇarāsi
 ,,,,,.
 ‘‘jā. 2.22.1632,jā. 2.22.1641,’’jā. 2.22.1634.
 ,‘‘,,,’’,‘‘,dha. pa. 139,’’.‘’,‘’,‘’,‘’,‘’,‘’.,.
-Iti bhikkhādigaṇarāsi.
+.
 Satthādigaṇarāsi
 Satthādirāsi
 182.ka. 299; rū. 158; nī. 411.
@@ -662,7 +662,7 @@ Satthādirāsi
 ,,‘‘’’jā. 1.10.28.
 ,.‘‘,’’jā. 2.21.48,.
 nī. 430,jā. 1.4.133,,,,.
-Iti satthādirāsi.
+.
 Pitādirāsi
 .
 193.ka. 209; rū. 168; nī. 425; ‘pitādīnamanatvādīnaṃ’ (bahūsu).
@@ -676,9 +676,9 @@ Pitādirāsi
 ,,,.,,,,..,.
 ,jā. 2.22.29.jā. 2.18.61,,jā. 2.18.59,.
 ,.
-Iti pitādirāsi.
-Iti satthādigaṇarāsi.
-Ukārantapulliṅgarāsi niṭṭhito.
+.
+.
+.
 Ūkārantapulliṅgarāsi
 ‘’,.‘’,.
 –
@@ -691,9 +691,9 @@ Ukārantapulliṅgarāsi niṭṭhito.
 .
 ,..
 ,,,,,.,,.,,.
-Ūkārantapulliṅgarāsi niṭṭhito.
+.
 ,.
-Pulliṅgarāsi niṭṭhito.
+.
 Napuṃsakaliṅgarāsi
 
 .,,,.
@@ -707,7 +707,7 @@ Napuṃsakaliṅgarāsi
 ,.
 ,,,,,,,,..
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-Iti cittādirāsi.
+.
 Kammādirāsi
 –
 198.ka. 103; rū. 79; nī. 271.
@@ -718,7 +718,7 @@ Kammādirāsi
 .
 ,,,..
 .,.‘‘,’’jā. 1.16.1‘‘,’’jā. 1.13.83‘‘’’‘‘,’’.,,,,,,.‘’,‘’,‘’,‘’.
-Iti kammādirāsi.
+.
 200.ka. 125; rū. 198; nī. 300; ‘aṃṅaṃ napuṃsake’ (bahūsu)?.
 ..
 .
@@ -727,7 +727,7 @@ Iti kammādirāsi.
 ‘’,,,,,,,,,,,,..
 ,.
 ,,.
-Iti akārantanapuṃsakarāsi.
+.
 Ikārantanapuṃsakarāsi
 ,.
 201.ka. 217; rū. 199; nī. 444.
@@ -736,13 +736,13 @@ Ikārantanapuṃsakarāsi
 ,,,.
 ,,,,.
 ,,,,.
-Iti ikārantanapuṃsakarāsi.
+.
 Īkārantanapuṃsakarāsi
 ‘’,,,.
 ‘’,,,,,,,,,,,..
 ,,,,,,,,,.
 ,,,,.
-Iti īkārantanapuṃsakarāsi.
+.
 Ukārantanapuṃsakarāsi
 ,‘’,,,,,,,,,,..
 ,‘‘dī. ni. 2.369,jā. 1.15.205,,’’.
@@ -750,11 +750,11 @@ Ukārantanapuṃsakarāsi
 202.ka. 217; rū. 199; nī. 444; ‘ambādīhi’ (bahūsu).
 ,.
 ,..,,.
-Iti ukārantanapuṃsakarāsi.
+.
 Ūkārantanapuṃsakarāsi
 ,,,,,,,,,,,..,.
-Iti ūkārantanapuṃsakarāsi.
-Napuṃsakaliṅgarāsi niṭṭhito.
+.
+.
 Sabbādirāsi
 .
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,..
@@ -811,7 +811,7 @@ Sabbādirāsi
 ,,,,,..
 ,,,,,,,,,,,,,,,,,,,,,,,,,..
 ‘‘’’pārā. 73,.,.
-Iti sabbādiaṭṭhakarāsi.
+.
 ,,,,,,,,,,,,,,,,,,.
 211.ka. 164; rū. 200; nī. 347; caṃ. 2.1.15; pā. 1.1.34.
 .
@@ -833,7 +833,7 @@ Iti sabbādiaṭṭhakarāsi.
 .
 ,,,,,,,,,.
 ,,,,,,,,,,,,,,.
-Iti pubbādichakkarāsi.
+.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,,,,,,,,,,,,,,,.
 ,,,..
@@ -1001,7 +1001,7 @@ Saṅkhyārāsi
 ,,.
 ,.,,,,,,,.
 .,..
-Saṅkhyārāsi niṭṭhito.
+.
 252.ka. 149; rū. 232; nī. 319; ‘simhahaṃ’ (bahūsu).
 .
 .
@@ -1085,7 +1085,7 @@ jā. 1.4.147,.
 274.caṃ. 6.3.26; pā. 8.1.74.
 .
 ,.
-Sabbādirāsi niṭṭhito.
+.
 Vibhattipaccayantarāsi
 .
 .
@@ -1129,7 +1129,7 @@ su. ni. 275,,jā. 1.9.58.
 284.ka. 251, 227-8-9; rū. 226, 270-1-2; nī. 500, 456-7, 460.
 ,..
 ,.saṃ. ni. 2.63.,,-.
-Iti sāmaññasattamyantarāsi.
+.
 .
 285.ka. 257; rū. 276; nī. 505.
 ,,,,.
@@ -1143,7 +1143,7 @@ Iti sāmaññasattamyantarāsi.
 -‘’.,dha. pa. 71,–‘’.
 ,.
 ,.,,,,,-,,,.,,-.
-Vibhattipaccayantarāsi niṭṭhito.
+.
 Abyayapadāni
 Upasaggapadarāsi
 .
@@ -1213,7 +1213,7 @@ Upasaggapadarāsi
 –
 -,,.-,.-..-.-.-.-.-.-..
 ,,,.
-Iti upasaggapadarāsi.
+.
 Nipātapadarāsi
 .,’.
 .,.....
@@ -1223,5 +1223,5 @@ Tvādipaccayantapadarāsi
 ,,,,,,,,,,,,,,,,,,,.,.,,,.
 ,.
 -.
-Iti niruttidīpaniyā nāma moggallānadīpaniyā
-Nāmakaṇḍo niṭṭhito.
+
+.

@@ -19,7 +19,7 @@
 ....
 …pe…,,--,,,,,,,,.-.(dī. ni. 2.381; ma. ni. 1.114).-.
 .‘‘-’’,.,,.,(dha. sa. 121)‘‘’’..
-Ambapālisuttavaṇṇanā niṭṭhitā.
+.
 2. Satisuttavaṇṇanā
 368..,‘‘’’.,–‘‘’’.–‘‘’’.,..,,‘‘’’......
 .–‘‘’’...,.
@@ -57,7 +57,7 @@ Ambapālisuttavaṇṇanā niṭṭhitā.
 ,.‘‘’’.,.–,,,,,,,..–‘‘,,,,,’’,,..
 ,,,–‘‘,‘’,‘’,’’,,.,,..
 ...-.,...‘‘’’..
-Satisuttavaṇṇanā niṭṭhitā.
+.
 3. Bhikkhusuttavaṇṇanā
 369.‘‘,,’’,,‘‘’’–‘‘,’’.,,‘‘’’.
 4. Sālasuttavaṇṇanā
@@ -82,7 +82,7 @@ Satisuttavaṇṇanā niṭṭhitā.
 .,..,‘‘’’-..‘‘’’...
 .,...‘‘’’.......
 .‘‘’’‘‘’’.
-Ambapālivaggavaṇṇanā niṭṭhitā.
+.
 2. Nālandavaggo
 2. Nālandasuttavaṇṇanā
 378.‘‘’’.
@@ -119,7 +119,7 @@ Ambapālivaggavaṇṇanā niṭṭhitā.
 10. Janapadakalyāṇīsuttavaṇṇanā
 386..‘‘’’.‘‘’’..,,...,..,.‘‘’’...,........
 –‘‘’’,,......,...–,,,,,.‘‘…pe…’’‘‘’’.
-Nālandavaggavaṇṇanā niṭṭhitā.
+.
 3. Sīlaṭṭhitivaggo
 1-2. Sīlasuttādivaṇṇanā
 387-388...–‘‘’’..–‘‘’’.
@@ -131,10 +131,10 @@ Nālandavaggavaṇṇanā niṭṭhitā.
 393..
 8-10. Lokasuttādivaṇṇanā
 394-396.,.‘‘’’‘‘’’....
-Sīlaṭṭhitivaggavaṇṇanā niṭṭhitā.
+.
 4. Ananussutavaggavaṇṇanā
 397-407...,..‘‘,,’’.‘‘’’.
-Ananussutavaggavaṇṇanā niṭṭhitā.
+.
 5. Amatavaggo
 2. Samudayasuttavaṇṇanā
 408.,.
@@ -145,5 +145,5 @@ Ananussutavaggavaṇṇanā niṭṭhitā.
 ,..‘‘’’..–‘‘’’.,..‘‘’’...-,–‘‘’’.,–‘‘’’..–‘‘’’.‘‘’’,‘‘’’.
 7. Duccaritasuttavaṇṇanā
 413.‘‘’’.‘‘’’...‘‘’’.,,,‘‘’’.
-Amatavaggavaṇṇanā niṭṭhitā.
-Satipaṭṭhānasaṃyuttavaṇṇanā niṭṭhitā.
+.
+.

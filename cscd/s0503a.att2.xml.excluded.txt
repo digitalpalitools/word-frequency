@@ -7,7 +7,7 @@
 ..
 ...,,.,...
 .?,,,..,,‘‘’’..
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Rājasuttavaṇṇanā
 12.‘‘’’,.,...‘‘’’.,,,,‘‘’’.....,..,,,..
 .,...–..‘‘,’’.,,,,,,,,,,,,,,,,,,,,,,,....,......
@@ -35,14 +35,14 @@ Paṭhamasuttavaṇṇanā niṭṭhitā.
 ‘‘,,,,.,,,.,,,,,,,,.
 ‘‘?,,‘…...’.…pe…’.…pe…’.…pe…..,,,,’’(saṃ. ni. 5.997).
 ,.
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Daṇḍasuttavaṇṇanā
 13..‘‘,’’(a. ni. 6.44; 10.75),‘‘,’’(saṃ. ni. 1.228).‘‘,,’’(ma. ni. 2.149).‘‘’’(udā. 20).‘‘’’.‘‘,,’’(pārā. 231)..,.‘‘’’.‘‘’’,..
 .‘‘’’‘‘,’’‘‘,’’..‘‘’’.
 ‘‘’’.,.‘‘’’.‘‘’’.
 ..,..–,,,.
 ‘‘,’’,,,.‘‘’’..
-Tatiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Sakkārasuttavaṇṇanā
 14.‘‘’’.‘‘’’.‘‘,,,,’’..(mahāva. 282).,.–
 ‘‘,,,,,,,,’’(dī. ni. 3.176).
@@ -55,7 +55,7 @@ Tatiyasuttavaṇṇanā niṭṭhitā.
 ,.‘‘,,,,’’.?,.,.‘‘,,,’’.
 ‘‘’’.,..
 ,‘‘’’.,.,..
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Upāsakasuttavaṇṇanā
 15.,.,,...,.–‘‘,,,’’.
 ..,.–,.,.....,.,.,..,.
@@ -65,13 +65,13 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(dha. pa. 62)–
 .
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Gabbhinīsuttavaṇṇanā
 16.......,...,..‘‘’’.,,.,.-‘‘’’(mahāva. 286; dī. ni. 2.152; udā. 76).,.‘‘.’’.,,.‘‘,,,’’.
 ..‘‘’’......,,.
 ‘‘,’’.
 .?,,–‘‘’’,,,..‘‘’’...
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Ekaputtakasuttavaṇṇanā
 17.,,,.,.,.,,.
 ‘‘’’.‘‘’’.
@@ -85,7 +85,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(dha. pa. 21)–
 .
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Suppavāsāsuttavaṇṇanā
 18...
 ,,.,.,.,..–‘‘’’.
@@ -264,7 +264,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 .,..‘‘’’‘‘’’...
 ..
 ....–,.
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Visākhāsuttavaṇṇanā
 19...
 –‘‘’’...,.
@@ -274,7 +274,7 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 ..,.,,,.,.,‘‘’’.
 ‘‘’’.–.?.,...,.
 ,.‘‘’’.,.‘‘’’(dha. pa. 203-204)..?,.
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Bhaddiyasuttavaṇṇanā
 20..,,‘‘’’.,‘‘’’..,.(cūḷava. 330-331).,.‘‘,,,’’(a. ni. 1.193).
 ‘‘’’....,‘‘’’.
@@ -290,5 +290,5 @@ Navamasuttavaṇṇanā niṭṭhitā.
 ..
 .‘‘’’(saṃ. ni. 1.228),‘‘’’(mahāva. 346),‘‘’’(udā. 13, 44),‘‘’’(itivu. 88; mahāni. 5),.‘‘’’.
 ,.,.,.,.,.,.-...,,.,..
-Dasamasuttavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca mucalindavaggavaṇṇanā.
+.
+.

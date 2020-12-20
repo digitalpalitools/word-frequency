@@ -28,7 +28,7 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sobhito thero imā gāthāyo abhāsitthāti
-
+sobhitattherassāpadānaṃ paṭhamaṃ
 
 
  vinatā  nadiyā  tīre pilakkhu  phalito ahu
@@ -51,7 +51,7 @@ sattaratanasampannā cakkavattī mahapphalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sudassano thero imā gāthāyo abhāsitthāti
-
+sudassanattherassāpadānaṃ dutiyaṃ
 
 
  candabhāgānadītīre ahosiṃ kinnaro tadā
@@ -80,8 +80,8 @@ rohaṇī nāma  nāmena cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā candanapūjanako thero imā gāthāyo abhāsitthāti
-
-
+candanapūjanakattherassāpadānaṃ tatiyaṃ
+aṭṭhamabhāṇavāraṃ
 
 
  sunando  nāma nāmena brāhmaṇo mantapāragū
@@ -107,7 +107,7 @@ ambaraṃsasanāmā te cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā pupphacchadaniyo thero imā gāthāyo abhāsitthāti
-
+pupphacchadaniyattherassāpadānaṃ catutthaṃ
 
 
  himavantassāvidūre vasabho nāma pabbato
@@ -130,7 +130,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā rahosaññako thero imā gāthāyo abhāsitthāti
-
+rahosaññakattherassāpadānaṃ pañcamaṃ
 
 
  kaṇikāraṃva jotantaṃ nisinnaṃ pabbatantare
@@ -150,7 +150,7 @@ sattaratanasampanno cakkavattī  mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā campakapupphiyo thero imā gāthāyo abhāsitthāti
-
+campakapupphiyattherassāpadānaṃ chaṭṭhaṃ
 
 
  visālamāḷe  āsīno addasaṃ lokanāyakaṃ
@@ -176,7 +176,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā atthasandassako thero imā gāthāyo abhāsitthāti
-
+atthasandassakattherassāpadānaṃ sattamaṃ
 
 
  nārado iti me nāmaṃ  kesavo iti maṃ vidū
@@ -193,7 +193,7 @@ amittatāpano nāma cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ekapasādaniyo thero imā gāthāyo abhāsitthāti
-
+ekapasādaniyattherassāpadānaṃ aṭṭhamaṃ
 
 
  migarājā tadā āsiṃ abhijāto sukesarī
@@ -213,7 +213,7 @@ tayo āsiṃsu rājāno cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sālapupphadāyako thero imā gāthāyo abhāsitthāti
-
+sālapupphadāyakattherassāpadānaṃ navamaṃ
 
 
  pārāvato  tadā āsiṃ paraṃ anuparodhako
@@ -236,8 +236,8 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā piyālaphaladāyako thero imā gāthāyo abhāsitthāti
-
-
+piyālaphaladāyakattherassāpadānaṃ dasamaṃ
+sobhitavaggo cuddasamo
 tassuddānaṃ 
 sobhitasudassano ca candano pupphachadano
 raho campakapupphī ca atthasandassakena ca

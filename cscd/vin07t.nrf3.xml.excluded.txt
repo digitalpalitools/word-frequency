@@ -20,7 +20,7 @@
 266.,.
 ,.
 267..,‘‘’’.‘‘’’.,,.
-Sukkavissaṭṭhisikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Kāyasaṃsaggasikkhāpadavaṇṇanā
 269.,,‘‘’’.
 ‘‘’’,.‘‘’’.
@@ -31,7 +31,7 @@ Sukkavissaṭṭhisikkhāpadavaṇṇanā niṭṭhitā.
 .,.
 ..,..?‘‘’’.(pārā. 276),‘‘’’.‘‘’’.‘‘’’,..
 279....,,.‘‘,’’.-.,.,.
-Padabhājanīyavaṇṇanānayo.
+.
 281.,‘‘’’...‘‘’’..
 .....,.,..,.,,.‘‘’’.
 ‘‘’’.,......
@@ -43,7 +43,7 @@ Padabhājanīyavaṇṇanānayo.
 ‘‘.’’(sārattha. ṭī. 2.281).‘‘’’,‘‘’’..,...
 ....
 282..‘‘’’,‘‘’’...,,,,.
-Kāyasaṃsaggasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Duṭṭhullavācāsikkhāpadavaṇṇanā
 285..,.,.
 ..,(pārā. 289).
@@ -55,14 +55,14 @@ Kāyasaṃsaggasikkhāpadavaṇṇanā niṭṭhitā.
 288.,(pārā. 289).(pārā. 289),.?,.,.,,,.,,,..
 288...
 ,.,,,,.
-Duṭṭhullavācāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Attakāmapāricariyasikkhāpadavaṇṇanā
 290.,.‘‘’’......‘‘’’,‘‘’’....
 291.,.‘‘,,,’’(pārā. 292),,..,..
 ‘‘’’.–‘‘’’,‘‘’’..‘‘’’--.
 .(pārā. 285)‘‘’’,,.
 ‘‘’’,..,,,,.
-Attakāmapāricariyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Sañcarittasikkhāpadavaṇṇanā
 296......
 ,.,.
@@ -84,7 +84,7 @@ Attakāmapāricariyasikkhāpadavaṇṇanā niṭṭhitā.
 ..,‘‘’’,,.
 .‘‘’’.‘‘’’.,,..
 341.,.,.-,‘‘’’,‘‘’’.,,,,,.
-Sañcarittasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Kuṭikārasikkhāpadavaṇṇanā
 342....‘‘’’(dī. ni. 1.10, 194)..,.,.‘‘,’’.,.
 .‘‘’’..
@@ -112,11 +112,11 @@ Sañcarittasikkhāpadavaṇṇanā niṭṭhitā.
 …pe….,....,‘‘,,’’.‘‘’’..,,.
 ‘‘’’.–,‘‘’’,,,.‘‘,‘’,’’.‘‘…pe…’’‘‘’’,..
 ...,,,,,,.
-Kuṭikārasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Vihārakārasikkhāpadavaṇṇanā
 365.‘‘’’.‘‘’’..
 366...-,‘‘,’’.
-Vihārakārasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Paṭhamaduṭṭhadosasikkhāpadavaṇṇanā
 380...
 .,..
@@ -158,14 +158,14 @@ Vihārakārasikkhāpadavaṇṇanā niṭṭhitā.
 389....,.…pe….
 .,,-‘‘-’’.
 .‘‘’’..,,,,,‘‘’’,.
-Paṭhamaduṭṭhadosasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Dutiyaduṭṭhadosasikkhāpadavaṇṇanā
 391...,.,,,.‘‘’’.,.‘‘’’.‘‘’’,.‘‘’’..‘‘’’.
 393.…pe…‘‘,’’(pārā. 407).,‘‘…pe…’’.
 ‘‘’’(pārā. aṭṭha. 2.393).,‘‘’’.‘‘’’.
 395....
 408.‘‘’’.,.
-Dutiyaduṭṭhadosasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Paṭhamasaṅghabhedasikkhāpadavaṇṇanā
 410..,...‘‘,,’’(mahāva. 204),‘‘’’(pārā. 409).
 .,,.,,,,...,,.‘‘,’’.
@@ -176,15 +176,15 @@ Dutiyaduṭṭhadosasikkhāpadavaṇṇanā niṭṭhitā.
 ‘‘’’(visuddhi. 1.42; pārā. aṭṭha. 1.45)‘‘’’,..,..
 416.‘‘’’..‘‘’’..‘‘,,’’(cūḷava. 273)....
 ‘‘’’.‘‘’’.‘‘’’,‘‘’’,.,,,.
-Paṭhamasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā.
+.
 11. Dutiyasaṅghabhedasikkhāpadavaṇṇanā
 418.,‘‘’’..
-Dutiyasaṅghabhedasikkhāpadavaṇṇanā niṭṭhitā.
+.
 12. Dubbacasikkhāpadavaṇṇanā
 424..-,‘‘’’..
 426.....‘‘’’...‘‘‘’,,,,’’.
 ‘‘’’(mahāva. 134)‘‘’’.,,.
-Dubbacasikkhāpadavaṇṇanā niṭṭhitā.
+.
 13. Kuladūsakasikkhāpadavaṇṇanā
 431..‘‘’’,,.‘‘’’‘‘’’.
 .,.,.‘‘’’.
@@ -211,8 +211,8 @@ Dubbacasikkhāpadavaṇṇanā niṭṭhitā.
 .‘‘’’‘‘’’.
 ...
 .‘‘’’.‘‘’’..,..
-Kuladūsakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 Nigamanavaṇṇanā
 442..,.,.‘‘’’.‘‘’’,,‘‘’’,.…pe…,.,..
-Iti samantapāsādikāya vinayaṭṭhakathāya vimativinodaniyaṃ
-Terasakavaṇṇanānayo niṭṭhito.
+
+.

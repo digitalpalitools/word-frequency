@@ -59,8 +59,8 @@ Padabhājanī
 56.?–.
 57.?–.
 –.
-Padabhājanīyaṃ.
-Paṭhamabhāṇavāro.
+.
+.
 Koṭṭhāsavāro
 58.,,,,,,,,,,,,,,,,,,,,,,;–.
 59.?,,,.
@@ -68,20 +68,20 @@ Koṭṭhāsavāro
 61.?–.
 62.?;thapetvā (ka.)–.
 63.?–.
-Ime tasmiṃ samaye cattāro khandhā honti.
+.
 64.?.
 65.?–.
 66.?,,–.
-Imāni tasmiṃ samaye dvāyatanāni honti.
+.
 67.?,.
 68.?–.
 69.?,,–.
-Imā tasmiṃ samaye dve dhātuyo honti.
+.
 70.?,,.
 71.?–.
 72.?–.
 73.?–.
-Ime tasmiṃ samaye tayo āhārā honti.
+.
 74.?,,,,,,,.
 75.?–.
 76.?–.
@@ -91,21 +91,21 @@ Ime tasmiṃ samaye tayo āhārā honti.
 80.?–.
 81.?–.
 82.?–.
-Imāni tasmiṃ samaye aṭṭhindriyāni honti.
+.
 83.?,,,,.
 84.?–.
 85.?–.
 86.?–.
 87.?–.
 88.?–.
-Idaṃ tasmiṃ samaye pañcaṅgikaṃ jhānaṃ hoti.
+.
 89.?,,,,.
 90.?–.
 91.?–.
 92.?–.
 93.?–.
 94.?–.
-Ayaṃ tasmiṃ samaye pañcaṅgiko maggo hoti.
+.
 95.?,,,,,,.
 96.?–.
 97.?–.
@@ -114,12 +114,12 @@ Ayaṃ tasmiṃ samaye pañcaṅgiko maggo hoti.
 100.?–.
 101.?–.
 102.?–.
-Imāni tasmiṃ samaye satta balāni honti.
+.
 103.?,,.
 104.?–.
 105.?–.
 106.?…pe…–.
-Ime tasmiṃ samaye tayo hetū honti.
+.
 107.?–.
 108.?–.
 109.?–.
@@ -135,7 +135,7 @@ Ime tasmiṃ samaye tayo hetū honti.
 119.?,,–.
 120.?,,–.
 –.
-Koṭṭhāsavāro.
+.
 Suññatavāro
 121.,,,,,,,,,,,,,,,,,,,,,,,;–.
 122.?,,,–.
@@ -163,16 +163,16 @@ Suññatavāro
 144.?,,–.
 145.?,,–.
 –.
-Suññatavāro.
-Paṭhamaṃ cittaṃ.
+.
+.
 146.?…pe…,…pe……pe….
-Dutiyaṃ cittaṃ.
+.
 147.?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;–…pe….
 ,,,,,,,,,…pe…,;–…pe….
 148.?;–…pe….
-Tatiyaṃ cittaṃ.
+.
 149.?…pe…,…pe……pe….
-Catutthaṃ cittaṃ.
+.
 150.?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;–.
 151.?–.
 152.?–…pe….
@@ -181,18 +181,18 @@ Catutthaṃ cittaṃ.
 ,,,,,,,,,…pe…,;–…pe….
 155.?.
 –…pe….
-Pañcamaṃ cittaṃ.
+.
 156.?…pe…,…pe……pe….
-Chaṭṭhaṃ cittaṃ.
+.
 157.?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;–…pe….
 ,,,,,,,,,…pe…,;–…pe….
 158.?.
 –…pe….
-Sattamaṃ cittaṃ.
+.
 159.?…pe…,…pe……pe….
-Aṭṭhamaṃ cittaṃ.
-Aṭṭha kāmāvacaramahākusalacittāni.
-Dutiyabhāṇavāro.
+.
+.
+.
 Rūpāvacarakusalaṃ
 Catukkanayo
 160.?paṭhamajjhānaṃ (sī.),…pe……pe….
@@ -205,7 +205,7 @@ Catukkanayo
 165.?catutthajjhānaṃ (sī.),,,,,,,,,,,,,,,,…pe…,;–…pe….
 ,,,,,,,,,…pe…,;–…pe….
 166.?…pe…;–…pe….
-Catukkanayo.
+.
 Pañcakanayo
 167.?…pe…–…pe……pe….
 168.?,,,,,,,,,,,,,,,,,,,…pe…,;–…pe….
@@ -220,21 +220,21 @@ Pañcakanayo
 174.?…pe…pañcamajjhānaṃ (sī.),,,,,,,,,,,,,,,,,…pe…,;–…pe….
 ,,,,,,,,,…pe…,;–…pe….
 175.?…pe…;–…pe….
-Pañcakanayo.
+.
 Catasso paṭipadā
 176.?…pe…dukkhāpaṭipadaṃ (bahūsu),…pe……pe….
 177.?…pe…,…pe……pe….
 178.?…pe…sukhāpaṭipadaṃ (bahūsu),…pe……pe….
 179.?…pe…,…pe……pe……pe….
 180.?…pe……pe……pe……pe……pe……pe……pe……pe…–…pe……pe….
-Catasso paṭipadā.
+.
 Cattāri ārammaṇāni
 181.?…pe…,…pe……pe….
 182.?…pe…–…pe……pe….
 183.?…pe…,…pe……pe….
 184.?…pe…,…pe……pe….
 185.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Cattāri ārammaṇāni.
+.
 Soḷasakkhattukaṃ
 186.?…pe…,…pe……pe….
 187.?…pe…,…pe……pe….
@@ -253,10 +253,10 @@ Soḷasakkhattukaṃ
 200.?…pe…,…pe……pe….
 201.?…pe…,…pe……pe….
 202.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…–…pe……pe….
-Soḷasakkhattukaṃ.
+.
 Aṭṭhakasiṇaṃ soḷasakkhattukaṃ
 203.?…pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Aṭṭhakasiṇaṃ soḷasakkhattukaṃ.
+.
 Abhibhāyatanāni parittāni
 204.?…pe…,…pe……pe….
 205.?,…pe……pe……pe……pe……pe…,…pe……pe….
@@ -266,12 +266,12 @@ Catasso paṭipadā
 208.?,…pe…,…pe……pe….
 209.?,…pe…,…pe……pe….
 210.?,…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Catasso paṭipadā.
+.
 Dve ārammaṇāni
 211.?,…pe…,…pe……pe….
 212.?,…pe…,…pe……pe….
 213.?,…pe……pe……pe……pe……pe……pe…,…pe……pe….
-Dve ārammaṇāni.
+.
 Aṭṭhakkhattukaṃ
 214.?,…pe…,…pe……pe….
 215.?,…pe…,…pe……pe….
@@ -282,11 +282,11 @@ Aṭṭhakkhattukaṃ
 220.?,…pe…,…pe……pe….
 221.?,…pe…,…pe……pe….
 222.?,…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Aṭṭhakkhattukaṃ.
+.
 Idampi aṭṭhakkhattukaṃ
 223.?,…pe…,…pe……pe….
 224.?,…pe……pe……pe……pe……pe…,…pe……pe….
-Idampi aṭṭhakkhattukaṃ.
+.
 Appamāṇāni
 225.?,…pe…,…pe……pe….
 226.?,…pe……pe……pe……pe……pe…,…pe……pe….
@@ -296,12 +296,12 @@ Catasso paṭipadā
 229.?,…pe…,…pe……pe….
 230.?,…pe…,…pe……pe….
 231.?,…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Catasso paṭipadā.
+.
 Dve ārammaṇāni
 232.?,…pe…,…pe……pe….
 233.?,…pe…,…pe……pe….
 234.?,…pe……pe……pe……pe……pe……pe…,…pe……pe….
-Dve ārammaṇāni.
+.
 Aparampi aṭṭhakkhattukaṃ
 235.?,…pe…,…pe……pe….
 236.?,…pe…,…pe……pe….
@@ -312,19 +312,19 @@ Aparampi aṭṭhakkhattukaṃ
 241.?,…pe…,…pe……pe….
 242.?,…pe…,…pe……pe….
 243.?,…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Aparampi aṭṭhakkhattukaṃ.
+.
 Idampi aṭṭhakkhattukaṃ
 244.?,…pe…,…pe……pe….
 245.?,…pe……pe……pe……pe……pe…,…pe……pe….
-Idampi aṭṭhakkhattukaṃ.
+.
 246.?,…pe…,…pe……pe….
 247.?…pe……pe…,…pe…,…pe……pe….
-Imānipi abhibhāyatanāni soḷasakkhattukāni.
+.
 Tīṇi vimokkhāni soḷasakkhattukāni
 248.?…pe…,…pe……pe….
 249.?…pe…,…pe……pe….
 250.?…pe…,…pe……pe….
-Imānipi tīṇi vimokkhāni soḷasakkhattukāni.
+.
 Cattāri brahmavihārajhānāni soḷasakkhattukāni
 251.?…pe…,…pe……pe….
 252.?…pe…,…pe……pe….
@@ -338,35 +338,35 @@ Cattāri brahmavihārajhānāni soḷasakkhattukāni
 260.?…pe…,…pe……pe….
 261.?…pe……pe……pe……pe…,…pe……pe….
 262.?…pe…,…pe……pe….
-Cattāri brahmavihārajhānāni brahmavihārajjhānāni (sī. syā.) soḷasakkhattukāni.
+brahmavihārajjhānāni (sī. syā.).
 Asubhajhānaṃ soḷasakkhattukaṃ
 263.?…pe…,…pe……pe….
 264.?…pe……pe……pe……pe……pe……pe……pe……pe…puḷuvakasaññāsahagataṃ (ka.)…pe…,…pe……pe….
-Asubhajhānaṃ asubhajjhānaṃ (sī. syā.) soḷasakkhattukaṃ.
-Rūpāvacarakusalaṃ.
+asubhajjhānaṃ (sī. syā.).
+.
 Arūpāvacarakusalaṃ
 Cattāri arūpajhānāni arūpajjhānāni (sī. syā.) soḷasakkhattukāni
 265.?…pe…,…pe……pe….
 266.?…pe…,…pe……pe….
 267.?…pe…,…pe……pe….
 268.?…pe…,…pe……pe….
-Cattāri arūpajhānāni soḷasakkhattukāni.
-Arūpāvacarakusalaṃ.
+.
+.
 Tebhūmakakusalaṃ
 Kāmāvacarakusalaṃ
 269.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 270.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Kāmāvacarakusalaṃ.
+.
 Rūpāvacarakusalaṃ
 271.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 272.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Rūpāvacarakusalaṃ.
+.
 Arūpāvacarakusalaṃ
 273.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 274.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 275.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 276.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Arūpāvacarakusalaṃ.
+.
 Lokuttarakusalaṃ
 Suddhikapaṭipadā
 277.?…pe…,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;–.
@@ -436,46 +436,46 @@ Suddhikapaṭipadā
 340.?…pe…,…pe……pe….
 341.?…pe…,…pe……pe….
 342.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suddhikapaṭipadā.
+.
 Suññataṃ
 343.?…pe…,…pe……pe….
 344.?…pe……pe……pe……pe……pe…,…pe……pe….
-Suññataṃ.
+.
 Suññatamūlakapaṭipadā
 345.?…pe…,…pe……pe….
 346.?…pe…,…pe……pe….
 347.?…pe…,…pe……pe….
 348.?…pe…,…pe……pe….
 349.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suññatamūlakapaṭipadā.
+.
 Appaṇihitaṃ
 350.?…pe…,…pe……pe….
 351.?…pe……pe……pe……pe……pe…,…pe……pe….
-Appaṇihitaṃ.
+.
 Appaṇihitamūlakapaṭipadā
 352.?…pe…,…pe……pe….
 353.?…pe…,…pe……pe….
 354.?…pe…,…pe……pe….
 355.?…pe…,…pe……pe….
 356.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Appaṇihitamūlakapaṭipadā.
+.
 Vīsati mahānayā
 357.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Vīsati mahānayā.
+.
 Adhipati
 358.?…pe……pe……pe……pe…,…pe……pe….
 359.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 360.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Adhipati.
-Paṭhamo maggo.
+.
+.
 361.?…pe…,…pe……pe……pe….
-Dutiyo maggo.
+.
 362.?…pe…,…pe……pe……pe….
-Tatiyo maggo.
+.
 363.?…pe…,…pe……pe……pe……pe….
 364.?,…pe……pe…–.
-Catuttho maggo.
-Lokuttaraṃ cittaṃ.
+.
+.
 Dvādasa akusalāni
 365.?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;–.
 366.?–.
@@ -550,7 +550,7 @@ Dvādasa akusalāni
 429.?–…pe…–.
 ,,,,,,,,,…pe…,;–…pe….
 430.?;–…pe….
-Dvādasa akusalacittāni.
+.
 Abyākatavipāko
 Kusalavipākapañcaviññāṇāni
 431.?,,,,,,,,,,;–.
@@ -579,7 +579,7 @@ Kusalavipākapañcaviññāṇāni
 453.?–;–.
 ,,,,,…pe…,,;–…pe….
 454.?;–…pe….
-Kusalavipākāni pañcaviññāṇāni.
+.
 Kusalavipākamanodhātu
 455.?…pe…,,,,,,,,,,,,;–.
 456.?–.
@@ -596,7 +596,7 @@ Kusalavipākamanodhātu
 467.?–;–.
 ,,,,,…pe…,,;–…pe….
 468.?;–…pe….
-Kusalavipākā manodhātu.
+.
 Kusalavipākamanoviññāṇadhātusomanassasahagatā
 469.?…pe…,,,,,,,,,,,,,;–.
 470.?–.
@@ -614,7 +614,7 @@ Kusalavipākamanoviññāṇadhātusomanassasahagatā
 482.?–;–.
 ,,,,,…pe…,,;–…pe….
 483.?;–…pe….
-Kusalavipākā manoviññāṇadhātu somanassasahagatā.
+.
 Kusalavipākamanoviññāṇadhātuupekkhāsahagatā
 484.?…pe…,,,,,,,,,,,,;–.
 485.?–.
@@ -631,20 +631,20 @@ Kusalavipākamanoviññāṇadhātuupekkhāsahagatā
 496.?–;–.
 ,,,,,…pe…,,;–…pe….
 497.?;–…pe….
-Kusalavipākā upekkhāsahagatā manoviññāṇadhātu.
+.
 Aṭṭhamahāvipākā
 498.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe……pe……pe……pe….
-Aṭṭhamahāvipākā.
+.
 Rūpāvacaravipākā
 499.?…pe…,…pe……pe….…pe…,…pe……pe….
 500.?…pe……pe……pe……pe……pe…,…pe……pe….…pe…,…pe……pe….
-Rūpāvacaravipākā.
+.
 Arūpāvacaravipākā
 501.?…pe…,…pe……pe….…pe…,…pe……pe….
 502.?…pe…,…pe……pe….…pe…,…pe……pe….
 503.?…pe…,…pe……pe….…pe…,…pe……pe….
 504.?…pe…,…pe……pe….…pe…,…pe……pe….
-Arūpāvacaravipākā.
+.
 Lokuttaravipāka-paṭhamamaggavipākā
 Suddhikapaṭipadā
 505.?…pe…,…pe……pe….…pe…,…pe……pe……pe….
@@ -652,49 +652,49 @@ Suddhikapaṭipadā
 507.?…pe…,…pe……pe….…pe…,…pe……pe……pe….
 508.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 509.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suddhikapaṭipadā.
+.
 Suddhikasuññataṃ
 510.?…pe…,…pe……pe….…pe…,…pe……pe….
 511.?…pe…,…pe……pe….…pe…,…pe……pe….
 512.?…pe…,…pe……pe….…pe…,…pe……pe….
 513.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suddhikasuññataṃ.
+.
 Suññatapaṭipadā
 514.?…pe…,…pe……pe….…pe…,…pe……pe….
 515.?…pe…,…pe……pe….…pe…,…pe……pe….
 516.?…pe…,…pe……pe….…pe…,…pe……pe….
 517.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 518.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suññatapaṭipadā.
+.
 Suddhikaappaṇihitaṃ
 519.?…pe…,…pe……pe….…pe…,…pe……pe….
 520.?…pe…,…pe……pe….…pe…,…pe……pe….
 521.?…pe…,…pe……pe….…pe…,…pe……pe….
 522.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Suddhikaappaṇihitaṃ.
+.
 Appaṇihitapaṭipadā
 523.?…pe…,…pe……pe….…pe…,…pe……pe….
 524.?…pe…,…pe……pe….…pe…,…pe……pe….
 525.?…pe…,…pe……pe….…pe…,…pe……pe….
 526.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 527.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Appaṇihitapaṭipadā.
+.
 Vīsati mahānayā
 528.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe……pe……pe……pe…,…pe……pe….
-Vīsati mahānayā.
+.
 Chandādhipateyyasuddhikapaṭipadā
 529.?…pe…,…pe……pe….…pe…,…pe……pe….
 530.?…pe…,…pe……pe….…pe…,…pe……pe….
 531.?…pe…,…pe……pe….…pe…,…pe……pe….
 532.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 533.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Chandādhipateyyasuddhikapaṭipadā.
+.
 Chandādhipateyyasuddhikasuññatā
 534.?…pe…,…pe……pe….…pe…,…pe……pe….
 535.?…pe…,…pe……pe….…pe…,…pe……pe….
 536.?…pe…,…pe……pe….…pe…,…pe……pe….
 537.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
-Chandādhipateyyasuddhikasuññatā.
+.
 538.?…pe…,…pe……pe….…pe…,…pe……pe….
 539.?…pe…,…pe……pe….…pe…,…pe……pe….
 540.?…pe…,…pe……pe….…pe…,…pe……pe….
@@ -710,13 +710,13 @@ Chandādhipateyyasuddhikasuññatā.
 550.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 551.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….
 552.?…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe….…pe……pe……pe……pe……pe……pe…,…pe……pe….
-Paṭhamamaggavipāko.
+.
 Dutiyādimaggavipāko
 553.?…pe……pe……pe…,…pe……pe……pe….…pe…,…pe……pe……pe…–.
 554.?–…pe….
 555.?–…pe…–.
-Dutiyādimaggavipāko.
-Lokuttaravipāko.
+.
+.
 Akusalavipākaabyākataṃ
 Akusalavipākapañcaviññāṇāni
 556.?…pe……pe……pe……pe…,,,,,,,,,,;–.
@@ -726,24 +726,24 @@ Akusalavipākapañcaviññāṇāni
 560.?–…pe…–.
 ,,,,,…pe…,,;–…pe….
 561.?;–…pe….
-Akusalavipākapañcaviññāṇāni.
+.
 Akusalavipākamanodhātu
 562.?…pe…,,,,,,,,,,,,;–…pe….
 ,,,,,…pe…,,;–…pe….
 563.?;–…pe….
-Akusalavipākā manodhātu.
+.
 Akusalavipākamanoviññāṇadhātu
 564.?…pe…,,,,,,,,,,,,;–…pe….
 ,,,,,…pe…,,;–…pe….
 565.?;–…pe….
-Akusalavipākā manoviññāṇadhātu.
-Vipākā abyākatā.
+.
+.
 Ahetukakiriyāabyākataṃ
 Kiriyāmanodhātu
 566.?…pe…,,,,,,,,,,,,;–…pe….
 ,,,,,…pe…,,;–…pe….
 567.?;–…pe….
-Kiriyā manodhātu.
+.
 Kiriyāmanoviññāṇadhātusomanassasahagatā
 568.?…pe…,,,,,,,,,,,,,,,;–.
 569.?–…pe….
@@ -752,25 +752,25 @@ Kiriyāmanoviññāṇadhātusomanassasahagatā
 572.?–…pe…–.
 ,,,,,…pe…,,;–…pe….
 573.?;–…pe….
-Kiriyā manoviññāṇadhātu somanassasahagatā.
+.
 Kiriyāmanoviññāṇadhātuupekkhāsahagatā
 574.?…pe…,,,,,,,,,,,,,;–…pe….
 ,,,,,…pe…,,;–…pe….
 575.?;–…pe….
-Kiriyā manoviññāṇadhātu upekkhāsahagatā.
-Ahetukā kiriyā abyākatā.
+.
+.
 Sahetukakāmāvacarakiriyā
 576.?…pe……pe……pe……pe……pe……pe……pe……pe…,…pe……pe……pe……pe……pe….
-Sahetukā kāmāvacarakiriyā.
+.
 Rūpāvacarakiriyā
 577.?…pe…,…pe……pe….
 578.?…pe……pe……pe……pe……pe…,…pe……pe….
-Rūpāvacarakiriyā.
+.
 Arūpāvacarakiriyā
 579.?…pe……pe……pe….
 580.?…pe…,…pe……pe….
 581.?…pe…,…pe……pe….
 582.?…pe…,…pe……pe……pe……pe……pe……pe….
-Arūpāvacarakiriyā.
-Kiriyā abyākatā.
-Cittuppādakaṇḍaṃ niṭṭhitaṃ.
+.
+.
+.

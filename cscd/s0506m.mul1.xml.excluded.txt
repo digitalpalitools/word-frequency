@@ -13,7 +13,7 @@
 860.
 ‘‘,;
 ,’’.
-Maṇḍūkadevaputtavimānaṃ paṭhamaṃ.
+.
 2. Revatīvimānavatthu
 861.
 dha. pa. 219 dhammapade‘‘,;
@@ -93,7 +93,7 @@ iccevaṃ (syā. ka.),;
 885.
 ‘‘,;
 ,’’.
-Revatīvimānaṃ dutiyaṃ.
+.
 3. Chattamāṇavakavimānavatthu
 886.
 ‘‘,;
@@ -170,7 +170,7 @@ punapi (?),.
 909.
 ‘‘yedha (sī. syā. pī.), ye idha (ka.),;
 ,’’.
-Chattamāṇavakavimānaṃ tatiyaṃ.
+.
 4. Kakkaṭakarasadāyakavimānavatthu
 910.
 ‘‘,;
@@ -196,7 +196,7 @@ Chattamāṇavakavimānaṃ tatiyaṃ.
 917.
 ‘‘,;
 ,’’.
-Kakkaṭakarasadāyakavimānaṃ catutthaṃ.
+.
 (Anantaraṃ pañcavimānaṃ yathā kakkaṭakarasadāyakavimānaṃ tathā vitthāretabbaṃ)
 5. Dvārapālavimānavatthu
 918.
@@ -215,7 +215,7 @@ Kakkaṭakarasadāyakavimānaṃ catutthaṃ.
 ,.
 924.
 ‘‘…pe…’’.
-Dvārapālavimānaṃ pañcamaṃ.
+.
 6. Paṭhamakaraṇīyavimānavatthu
 926.
 ‘‘,;
@@ -236,7 +236,7 @@ Dvārapālavimānaṃ pañcamaṃ.
 ,ahuṃ (sī.).
 933.
 ‘‘…pe…’’.
-Paṭhamakaraṇīyavimānaṃ chaṭṭhaṃ.
+.
 7. Dutiyakaraṇīyavimānavatthu
 935.
 ‘‘,;
@@ -257,7 +257,7 @@ Paṭhamakaraṇīyavimānaṃ chaṭṭhaṃ.
 942.
 ‘‘…pe…
 ’’.
-Dutiyakaraṇīyavimānaṃ sattamaṃ.
+.
 8. Paṭhamasūcivimānavatthu
 944.
 ‘‘,;
@@ -275,7 +275,7 @@ Dutiyakaraṇīyavimānaṃ sattamaṃ.
 .
 950.
 ‘‘…pe…’’.
-Paṭhamasūcivimānaṃ aṭṭhamaṃ.
+.
 9. Dutiyasūcivimānavatthu
 952.
 ‘‘,;
@@ -294,7 +294,7 @@ Paṭhamasūcivimānaṃ aṭṭhamaṃ.
 ,.
 959.
 ‘‘…pe…’’.
-Dutiyasūcivimānaṃ navamaṃ.
+.
 10. Paṭhamanāgavimānavatthu
 961.
 ‘‘,;
@@ -313,7 +313,7 @@ gajaṃ varaṃ (syā.),.
 ,.
 966.
 ‘‘…pe…’’.
-Paṭhamanāgavimānaṃ dasamaṃ.
+.
 11. Dutiyanāgavimānavatthu
 968.
 ‘‘,;
@@ -332,7 +332,7 @@ Paṭhamanāgavimānaṃ dasamaṃ.
 ,.
 974.
 ‘‘…pe…’’.
-Dutiyanāgavimānaṃ ekādasamaṃ.
+.
 12. Tatiyanāgavimānavatthu
 976.
 ‘‘,;
@@ -349,7 +349,7 @@ Dutiyanāgavimānaṃ ekādasamaṃ.
 980.
 ‘‘,;
 ,’’.
-Tatiyanāgavimānaṃ dvādasamaṃ.
+.
 13. Cūḷarathavimānavatthu
 981.
 ‘‘,;
@@ -453,7 +453,7 @@ kovida (ka.),’’.
 1014.
 ‘‘nandanopavane (sī.), nandane pavane (syā. ka.),;
 ,’’.
-Cūḷarathavimānaṃ terasamaṃ.
+.
 14. Mahārathavimānavatthu
 1015.
 ‘‘,;
@@ -555,13 +555,13 @@ uposathaṃ kiṃ va (syā.),kiṃ (syā.).
 1047.
 kathā. 799‘‘nayimasmiṃ vā loke parasmiṃ (kathāvatthu 799), nayimasmi loke va parasmi (?),;
 yamāhuneyyānaṃ (ka.),’’.
-Mahārathavimānaṃ cuddasamaṃ.
-Mahārathavaggo pañcamo niṭṭhito.
+.
+.
 –
 ,;
 ,;
 .
-Bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ.
+.
 6. Pāyāsivaggo
 1. Paṭhamaagāriyavimānavatthu
 1048.
@@ -578,7 +578,7 @@ Bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ.
 ,.
 1052.
 ‘‘…pe…’’.
-Paṭhamaagāriyavimānaṃ paṭhamaṃ.
+.
 2. Dutiyaagāriyavimānavatthu
 1054.
 ‘‘,;
@@ -593,7 +593,7 @@ Paṭhamaagāriyavimānaṃ paṭhamaṃ.
 ,.
 1058.
 ‘‘…pe…’’.
-Dutiyaagāriyavimānaṃ dutiyaṃ.
+.
 3. Phaladāyakavimānavatthu
 1060.
 ‘‘,;
@@ -618,7 +618,7 @@ modati (sī. syā. pī.)tattha (ka.),.
 1067.
 ‘‘…pe…
 ’’.
-Phaladāyakavimānaṃ tatiyaṃ.
+.
 4. Paṭhamaupassayadāyakavimānavatthu
 1069.
 ‘‘,;
@@ -633,14 +633,14 @@ Phaladāyakavimānaṃ tatiyaṃ.
 ,.
 1073.
 ‘‘…pe…’’.
-Paṭhamaupassayadāyakavimānaṃ catutthaṃ.
+.
 5. Dutiyaupassayadāyakavimānavatthu
 1075.
 …pe….
 (Yathā purimavimānaṃ tathā vitthāretabbaṃ).
 1079.
 ‘‘…pe…’’.
-Dutiyaupassayadāyakavimānaṃ pañcamaṃ.
+.
 6. Bhikkhādāyakavimānavatthu
 1081.
 ‘‘,;
@@ -655,7 +655,7 @@ Dutiyaupassayadāyakavimānaṃ pañcamaṃ.
 ,.
 1085.
 ‘‘…pe…’’.
-Bhikkhādāyakavimānaṃ chaṭṭhaṃ.
+.
 7. Yavapālakavimānavatthu
 1087.
 ‘‘…pe…’’.
@@ -669,7 +669,7 @@ Bhikkhādāyakavimānaṃ chaṭṭhaṃ.
 ,.
 1092.
 ‘‘…pe…’’.
-Yavapālakavimānaṃ sattamaṃ.
+.
 8. Paṭhamakuṇḍalīvimānavatthu
 1094.
 ‘‘,;
@@ -688,7 +688,7 @@ Yavapālakavimānaṃ sattamaṃ.
 ,.
 1099.
 ‘‘…pe…’’.
-Paṭhamakuṇḍalīvimānaṃ aṭṭhamaṃ.
+.
 9. Dutiyakuṇḍalīvimānavatthu
 1101.
 ‘‘,;
@@ -707,7 +707,7 @@ Paṭhamakuṇḍalīvimānaṃ aṭṭhamaṃ.
 ,.
 1106.
 ‘‘…pe…’’.
-Dutiyakuṇḍalīvimānaṃ navamaṃ.
+.
 10. (Uttara) pāyāsivimānavatthu
 1108.
 ‘‘,;
@@ -723,7 +723,7 @@ Dutiyakuṇḍalīvimānaṃ navamaṃ.
 ,.
 1112.
 ‘‘….…’’.
-(Uttara) pāyāsivimānaṃ uttaravimānaṃ (sī. syā. aṭṭha.) dasamaṃ.
+(Uttara)uttaravimānaṃ (sī. syā. aṭṭha.).
 .
 –
 ,;
@@ -745,7 +745,7 @@ abhariṃ (sī. syā.),;
 ,.
 1118.
 ‘‘…pe…’’.
-Cittalatāvimānaṃ paṭhamaṃ.
+.
 2. Nandanavimānavatthu
 1120.
 ‘‘nandanaṃ cittalataṃ (sī. syā. ka.), nandavanaṃ (ka.),;
@@ -761,7 +761,7 @@ Cittalatāvimānaṃ paṭhamaṃ.
 ,.
 1124.
 ‘‘…pe…’’.
-Nandanavimānaṃ dutiyaṃ.
+.
 3. Maṇithūṇavimānavatthu
 1126.
 ‘‘,;
@@ -779,7 +779,7 @@ Nandanavimānaṃ dutiyaṃ.
 ,.
 1132.
 ‘‘…pe…’’.
-Maṇithūṇavimānaṃ tatiyaṃ.
+.
 4. Suvaṇṇavimānavatthu
 1134.
 ‘‘,;
@@ -817,7 +817,7 @@ hemajālakapacchannaṃ (sī.),kiṅkaṇika (syā. ka.), kiṅkiṇika (pī.).
 1145.
 ‘‘nandane pavane (sī. syā.),;
 ,’’.
-Suvaṇṇavimānaṃ catutthaṃ.
+.
 5. Ambavimānavatthu
 1146.
 ‘‘,;
@@ -853,7 +853,7 @@ sādhukaṃ (ka.),.
 1158.
 ‘‘,;
 ,’’.
-Ambavimānaṃ pañcamaṃ.
+.
 6. Gopālavimānavatthu
 1159.
 ‘‘,;
@@ -890,7 +890,7 @@ mamānukampiyā (pī. ka.), mamānukampāya (syā.),.
 1170.
 ‘‘,;
 ,’’.
-Gopālavimānaṃ chaṭṭhaṃ.
+.
 7. Kaṇḍakavimānavatthu
 1171.
 ‘‘,;
@@ -975,7 +975,7 @@ Gopālavimānaṃ chaṭṭhaṃ.
 1198.
 ,;
 ,tatthevantaradhāyatīti (ka.).
-Kaṇḍakavimānaṃ sattamaṃ.
+.
 8. Anekavaṇṇavimānavatthu
 1199.
 ‘‘,;
@@ -1001,7 +1001,7 @@ pūjaneyyassa (syā. ka.),.
 1206.
 ‘‘,;
 ,’’.
-Anekavaṇṇavimānaṃ aṭṭhamaṃ.
+.
 9. Maṭṭhakuṇḍalīvimānavatthu
 1207.
 pe. va. 186‘‘maṭṭakuṇḍalī (sī.),;
@@ -1066,7 +1066,7 @@ uposathakammañca (ka.),’’.
 1227.
 ‘‘,;
 ,’’.
-Maṭṭhakuṇḍalīvimānaṃ navamaṃ.
+.
 10. Serīsakavimānavatthu
 1228.
 pe. va. 604,;
@@ -1248,7 +1248,7 @@ purakkhipitvā (sī.);
 ;
 ,
 sukhino (pī. ka.).
-Serīsakavimānaṃ dasamaṃ.
+.
 11. Sunikkhittavimānavatthu
 1282.
 ‘‘,;
@@ -1278,11 +1278,11 @@ Serīsakavimānaṃ dasamaṃ.
 ;
 ,
 ’’.
-Sunikkhittavimānaṃ ekādasamaṃ.
-Sunikkhittavaggo sattamo niṭṭhito.
+.
+.
 –
 ,;
 ,;
 .
-Bhāṇavāraṃ catutthaṃ niṭṭhitaṃ.
-Vimānavatthupāḷi niṭṭhitā.
+.
+.

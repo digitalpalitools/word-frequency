@@ -208,7 +208,7 @@ ucchinno saha raṭṭhena majjhāraññaṃ tadā ahu
 susukhaṃ vata jīvāma verinesu averinoti
 evamādayo payogā veditabbā ayaṃ nayo daṇḍīpadādīsupi labbhateva samānagatikattā daṇḍīpadādīnaṃ vajjadassīpadādīhi tasmā upayogaṭṭhāne daṇḍiṃ daṇḍinaṃ daṇḍino daṇḍineti yojetabbaṃ bhummaṭṭhāne daṇḍismiṃ daṇḍimhi daṇḍini daṇḍine daṇḍīsu daṇḍinesūti yojetabbaṃ esa nayo gāmaṇī senānīiccādīni vajjetvā yathārahaṃ īkārantapulliṅgesu netabbo
 savinicchayoyaṃ īkārantapulliṅgānaṃ pakatirūpassa nāmikapadamālāvibhāgo
-
+īkārantatāpakatikaṃ īkārantapulliṅgaṃ niṭṭhitaṃ
 idāni bhūdhātumayānaṃ ukārantapulliṅgānaṃ appasiddhattā aññesaṃ ukārantapulliṅgānaṃ vasena pakatirūpassa nāmikapadamālaṃ pūressāma katamāni tāni bhikkhu hetu setu ketu rāhu bhāṇu khāṇu saṅku ucchu veḷu maccu jantu sindhu bandhu ruru neru sattu babbu paṭu bindu garuiccādīni
 bhikkhu bhikkhū bhikkhavo bhikkhuṃ bhikkhū bhikkhavo bhikkhunā bhikkhūhi bhikkhūbhi bhikkhussa bhikkhuno bhikkhūnaṃ bhikkhunā bhikkhusmā bhikkhumhā bhikkhūhi bhikkhūbhi bhikkhussa bhikkhuno bhikkhūnaṃ bhikkhusmiṃ bhikkhumhi bhikkhūsu bho bhikkhu bhavanto bhikkhū bhikkhave bhikkhavo bhikkhuādīni aññāni ca taṃsadisāni evaṃ ñeyyāni
 ayampi  panettha viseso ñeyyo  hetu hetū hetuyo hetavo hetuṃ hetū hetuyo hetavo bho hetu bhavanto hetū hetave hetavo sesaṃ bhikkhusamaṃ
@@ -220,15 +220,15 @@ yato pavattate sandhivisayāvisayesu taṃ
 bhikkhavoti padaṃ diṭṭhaṃ gāthāyañceva cuṇṇiye
 padasmimpi ca sandhissa visayevāti niddiseti
 savinicchayoyaṃ ukārantapulliṅgānaṃ pakatirūpassa nāmikapadamālāvibhāgo
-
+ukārantatāpakatikaṃ ukārantapulliṅgaṃ niṭṭhitaṃ
 idāni pana sayambhūiccetassa pakatirūpassa taṃsadisānañca nāmikapadamālaṃ kathayāma 
 sayambhū  sayambhū sayambhuvo sayambhuṃ sayambhū sayambhuvo sayambhunā sayambhūhi sayambhūbhi sayambhussa sayambhuno sayambhūnaṃ sayambhunā sayambhusmā sayambhumhā sayambhūhi sayambhūbhi sayambhussa sayambhuno sayambhūnaṃ sayambhusmiṃ sayambhumhi sayambhūsu bho sayambhu bho sayambhū bhavanto sayambhū sayambhuvo evaṃ pabhū abhibhūvibhū iccādīnipi
 sabbaññū sabbaññū sabbaññuno sabbaññuṃ sabbaññū sabbaññuno bho sabbaññu bhavanto sabbaññū sabbaññuno sesāsu vibhattīsu padāni bhikkhusadisāni bhavanti evaṃ vidū viññū kataññū maggaññū dhammaññū atthaññū kālaññū rattaññū mattaññū vadaññū avadaññū iccādīni
 tatra ye ca laddhā manussattaṃ vadaññū vītamaccharāti ettha vadaññūti paccattabahuvacanassa dassanato sayambhū sabbaññū iccādīnampi paccattopayogabahuvacanattaṃ gahetabbaṃ apica vidū viññūtiādīsu paracittavidunīti itthiliṅgadassanato itthiliṅge vattabbe vidunī vidunī viduniyo viduniṃ vidunī viduniyo viduniyāti itthinayena padamālā kātabbā tathā viññū paṭibalā subhāsitadubbhāsitaṃ duṭṭhullāduṭṭhullaṃ ājānitunti ettha viññūti itthiliṅgadassanato kodhanā akataññū ca pisuṇā mittabhedikāti ettha ca akataññūti itthiliṅgadassanatopi viññū viññū viññuyo viññuṃ viññū viññuyo viññuyāti ca kataññū kataññū kataññuyo kataññuṃ kataññū kataññuyo kataññuyāti ca jambūnayena padamālā kātabbā evaṃ maggaññū dhammaññūiccādīsupi sayambhūti pade pana  sayambhu ñāṇaṃ gotrabhu cittanti dassanato napuṃsakaliṅgatte vattabbe sayambhu sayambhū sayambhūni sayambhuṃ sayambhū sayambhūnīti napuṃsake āyunayopi gahetabbo esa nayo sesesupi yathārahaṃ gahetabbo
 savinicchayoyaṃ ūkārantapulliṅgānaṃ pakatirūpassa nāmikapadamālāvibhāgo
-
-
-
+ūkārantatāpakatikaṃ ūkārantapulliṅgaṃ niṭṭhitaṃ
+iti sabbathāpi pulliṅgānaṃ pakatirūpassa
+nāmikapadamālāvibhāgo samatto
 yasmā panāyaṃ samattopi pāvacanādīsu yaṃ yaṃ ṭhānaṃ sotūnaṃ sammuyhanaṭṭhānaṃ dissati tattha tattha sotūnamanuggahāya codanāsodhanāvasena saṃsayaṃ samugghāṭetvā puna vattabbo hoti tasmā kiñci padesamettha kathayāma
 yaṃ kira bho pāḷiyaṃ saññate brahmacārayo apace brahmacārayoti ca rūpaṃ ikārantassa aggisaddassa aggayoti rūpamiva vuttaṃ taṃ tathā avatvā īkārantassa daṇḍīsaddassa daṇḍinoti rūpamiva brahmacārinoicceva vattabbanti saccaṃ tattha brahmaṃ caratīti brahmacāri yathā munātīti munīti evaṃ ikārantavasena icchitattā munayo aggayoti rūpāni viya brahmacārayoti rūpaṃ bhavati aññattha pana brahmaṃ caraṇasīloti brahmacārī yathā dukkaṭaṃ kammaṃ karaṇasīloti dukkaṭakammakārīti evaṃ tassīlatthaṃ gahetvā īkārantavasena gahaṇe dukkaṭakammakārinoti rūpamiva daṇḍo assa atthīti daṇḍīti īkārantassa saddassa daṇḍinoti rūpamiva ca brahmacārinoti rūpaṃ bhavati tathā hi ime hi nāma dhammacārino samacārino brahmacārino saccavādino  sīlavanto kalyāṇadhammā paṭijānissantīti pāḷi dissati evaṃ ikārantavasena brahmacārayoti paccattopayogālapanabahuvacanarūpaṃ yujjati puna īkārantavasena brahmacārinoti paccattopayogālapanabahuvacanarūpampi yujjati tasmā brahmacāri brahmacārī brahmacārayoti agginayena brahmacārī brahmacārī brahmacārinoti daṇḍīnayena ca padamālā gahetabbā
 yaṃ pana āyasmā buddhaghoso yathā sobhanti yatino sīlabhūsanabhūsitāti ettha yatisaddassa ikārantassa aggisaddassa aggayoti rūpaṃ viya yatayoti rūpaṃ avatvā kasmā īkārantassa daṇḍīsaddassa daṇḍinoti rūpaṃ viya yatinoti rūpaṃ dasseti nanvesā pamādalekhā viya dissati yathā hi kukkuṭā maṇayo daṇḍā sivayo deva te kuddhāti pāḷigatiyā upaparikkhiyamānāya yatayoti rūpeneva bhavitabbaṃ ikārantattāti nāyaṃ pamādalekhā vadanasīlo vādīti ettha viya tassīlatthaṃ gahetvā īkārantavasena yojane niddosattā tasmā yatanasīlo yatīti evaṃ tassīlatthaṃ cetasi sannidhāya īkārantavasena yatinoti sampadānasāmīnamekavacanasadisaṃ paccattabahuvacanarūpaṃ bhadantena buddhaghosena dassitanti daṭṭhabbaṃ upayogālapanabahuvacanarūpampi tādisameva
@@ -248,9 +248,9 @@ imaṃ saddanītiṃ sunītiṃ vicittaṃ
 sapaññehi sammā parīpālanīyaṃ
 sadā suṭṭhu cinteti vāceti yo so
 naro ñāṇavitthinnataṃ yāti seṭṭhaṃ
-
-
-
-
-
-
+iti navaṅge sāṭṭhakathe piṭakattaye byappathagatīsu viññūnaṃ
+kosallatthāya kate saddanītippakaraṇe
+savinicchayo niggahītantādipulliṅgānaṃ
+pakatirūpassa nāmikapadamālāvibhāgo
+sattamo paricchedo
+sabbathāpi pulliṅgaṃ samattaṃ

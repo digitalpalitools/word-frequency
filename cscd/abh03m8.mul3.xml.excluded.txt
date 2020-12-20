@@ -54,7 +54,7 @@ Aññamaññapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 16.,,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -108,14 +108,14 @@ Navippayuttapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 32.,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 33.,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 34.,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Paṭiccavāro.
+.
+.
 2. Sahajātavāro
 (Sahajātavāro paṭiccavārasadiso.)
 3. Paccayavāro
@@ -195,7 +195,7 @@ Atthipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 51.,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -225,16 +225,16 @@ Navipākapaccayādi
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 60.,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 61.,,,,,,,,,,,,,,( evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 62.,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Paccayavāro.
+.
+.
 4. Nissayavāro
 (Nissayavāro paccayavārasadiso.)
 5. Saṃsaṭṭhavāro
@@ -267,7 +267,7 @@ Sahajātapaccayādi
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 69.,,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -279,14 +279,14 @@ Naadhipatipaccayādi
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 72.,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 73.,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 74.,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Saṃsaṭṭhavāro.
+.
+.
 6. Sampayuttavāro
 (Sampayuttavāro saṃsaṭṭhavārasadiso).
 7. Pañhāvāro
@@ -432,7 +432,7 @@ Atthipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 107.,,,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 Paccanīyuddhāro
 108.…….(1)
 ………….(2)
@@ -463,14 +463,14 @@ Paccanīyuddhāro
 2. Saṅkhyāvāro
 Suddhaṃ
 113.,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 114.,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 115.,,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Pañhāvāro.
-Dassanenapahātabbahetukattikaṃ niṭṭhitaṃ.
+.
+.
+.

@@ -37,7 +37,7 @@
 ‘‘,;
 ,’’.
 .
-Yasavatīpamukhaaṭṭhārasabhikkhunīsahassāpadānaṃ paṭhamaṃ.
+.
 2. Caturāsītibhikkhunīsahassaapadānaṃ
 13.
 ‘‘,brāhmaṇakulasambhavā (syā. ka.);
@@ -169,7 +169,7 @@ cikkhallaṃ bhūmiṃ gamanaṃ (syā.),.
 56.
 ‘‘…pe…’’.
 .
-Caturāsītibhikkhunīsahassāpadānaṃ dutiyaṃ.
+.
 3. Uppaladāyikātherīapadānaṃ
 57.
 ‘‘,;
@@ -244,7 +244,7 @@ sattamiṃrattimapattā (sī. syā. pī.),.
 81.
 ‘‘…pe…’’.
 .
-Uppaladāyikātheriyāpadānaṃ tatiyaṃ.
+.
 4. Siṅgālamātutherīapadānaṃ
 82.
 ‘‘,;
@@ -333,7 +333,7 @@ sigālakassa (sī. pī.),’.
 110.
 ‘‘…pe…’’.
 .
-Siṅgālamātutheriyāpadānaṃ catutthaṃ.
+.
 5. Sukkātherīapadānaṃ
 111.
 ‘‘,;
@@ -429,8 +429,8 @@ narasaddūlo (sī. syā. pī.),.
 142.
 ‘‘…pe…’’.
 .
-Sukkātheriyāpadānaṃ pañcamaṃ.
-Pañcamaṃ bhāṇavāraṃ.
+.
+.
 6. Abhirūpanandātherīapadānaṃ
 143.
 ‘‘,;
@@ -505,7 +505,7 @@ Pañcamaṃ bhāṇavāraṃ.
 167.
 ‘‘…pe…’’.
 .
-Abhirūpanandātheriyāpadānaṃ chaṭṭhaṃ.
+.
 7. Aḍḍhakāsitherīapadānaṃ
 168.
 ‘‘,;
@@ -553,7 +553,7 @@ Abhirūpanandātheriyāpadānaṃ chaṭṭhaṃ.
 183.
 ‘‘…pe…’’.
 .
-Aḍḍhakāsitheriyāpadānaṃ sattamaṃ.
+.
 8. Puṇṇikātherīapadānaṃ
 184.
 ‘‘,;
@@ -613,7 +613,7 @@ susaṃviggo (syā.),.
 203.
 ‘‘…pe…’’.
 .
-Puṇṇikātheriyāpadānaṃ aṭṭhamaṃ.
+.
 9. Ambapālitherīapadānaṃ
 204.
 ‘‘,;
@@ -660,9 +660,9 @@ Puṇṇikātheriyāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 219.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ ambapāli bhikkhunī imā gāthāyo
+
 .
-Ambapālitheriyāpadānaṃ navamaṃ.
+.
 10. Pesalātherīapadānaṃ
 220.
 ‘‘,;
@@ -707,8 +707,8 @@ naṃ (syā.),.
 ‘‘,;
 ,’’.
 selā (syā. pī.).
-Pesalātheriyāpadānaṃ dasamaṃ.
-Khattiyāvaggo catuttho.
+.
+.
 –
 ,;
 ,.
@@ -719,5 +719,5 @@ Khattiyāvaggo catuttho.
 ,.
 ,;
 ,.
-Therikāpadānaṃ samattaṃ.
-Apadānapāḷi samattā.
+.
+.

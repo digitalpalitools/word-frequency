@@ -9,7 +9,7 @@
 221.
 ‘‘,;
 nahātako (sī. aṭṭha.),’’.
-… Aṅgaṇikabhāradvājo thero….
+…….
 2. Paccayattheragāthā
 222.
 ‘‘,,
@@ -20,7 +20,7 @@ nahātako (sī. aṭṭha.),’’.
 224.
 ‘‘,;
 ,’’.
-… Paccayo thero….
+…….
 3. Bākulattheragāthā
 225.
 ‘‘,;
@@ -31,7 +31,7 @@ nahātako (sī. aṭṭha.),’’.
 227.
 ‘‘,;
 ,’’.
-… Bākulo bākkulo (sī.) thero….
+…bākkulo (sī.)….
 4. Dhaniyattheragāthā
 228.
 ‘‘,;
@@ -42,7 +42,7 @@ nahātako (sī. aṭṭha.),’’.
 230.
 ‘‘,;
 ,’’.
-… Dhaniyo thero….
+…….
 5. Mātaṅgaputtattheragāthā
 231.
 ‘‘,;
@@ -53,7 +53,7 @@ nahātako (sī. aṭṭha.),’’.
 233.
 ‘‘,;
 ,’’.
-… Mātaṅgaputto thero….
+…….
 6. Khujjasobhitattheragāthā
 234.
 ‘‘,;
@@ -64,7 +64,7 @@ nahātako (sī. aṭṭha.),’’.
 236.
 ‘‘,;
 ,’’.
-… Khujjasobhito thero….
+…….
 7. Vāraṇattheragāthā
 237.
 ‘‘,;
@@ -75,7 +75,7 @@ nahātako (sī. aṭṭha.),’’.
 239.
 ‘‘,;
 ,’’.
-… Vāraṇo thero….
+…….
 8. Vassikattheragāthā
 240.
 ‘‘,;
@@ -86,7 +86,7 @@ nahātako (sī. aṭṭha.),’’.
 242.
 ‘‘,;
 ,’’.
-… Vassiko passiko (sī. syā. pī.) thero….
+…passiko (sī. syā. pī.)….
 9. Yasojattheragāthā
 243.
 ‘‘,;
@@ -97,7 +97,7 @@ nahātako (sī. aṭṭha.),’’.
 245.
 ‘‘,;
 ,’’.
-… Yasojo thero….
+…….
 10. Sāṭimattiyattheragāthā
 246.
 ‘‘,;
@@ -108,7 +108,7 @@ nahātako (sī. aṭṭha.),’’.
 248.
 ‘‘,;
 ,jaṅghābalaṃ (sī.)’’.
-… Sāṭimattiyo thero….
+…….
 11. Upālittheragāthā
 249.
 ‘‘,;
@@ -119,7 +119,7 @@ nahātako (sī. aṭṭha.),’’.
 251.
 ‘‘,;
 ,’’.
-… Upālitthero….
+…….
 12. Uttarapālattheragāthā
 252.
 ‘‘,;
@@ -130,7 +130,7 @@ nahātako (sī. aṭṭha.),’’.
 254.
 ‘‘,vidālitā (sī. pī. aṭṭha.);
 ,’’.
-… Uttarapālo thero….
+…….
 13. Abhibhūtattheragāthā
 255.
 ‘‘,;
@@ -141,7 +141,7 @@ saṃ. ni. 1.185‘‘ārabhatha (sī. syā.), ārabbhatha (ka.),;
 257.
 ‘‘,vihessati (syā. pī.);
 ,’’.
-… Abhibhūto thero….
+…….
 14. Gotamattheragāthā
 258.
 ‘‘,;
@@ -152,7 +152,7 @@ saṃ. ni. 1.185‘‘ārabhatha (sī. syā.), ārabbhatha (ka.),;
 260.
 ‘‘,;
 ,’’.
-… Gotamo thero….
+…….
 15. Hāritattheragāthā
 261.
 ‘‘,;
@@ -163,7 +163,7 @@ saṃ. ni. 1.185‘‘ārabhatha (sī. syā.), ārabbhatha (ka.),;
 263.
 ‘‘,;
 ,’’.
-… Hārito thero….
+…….
 16. Vimalattheragāthā
 264.
 ‘‘,;
@@ -175,8 +175,8 @@ saṃ. ni. 1.185‘‘ārabhatha (sī. syā.), ārabbhatha (ka.),;
 266.
 ‘‘,;
 ,’’.
-… Vimalo thero….
-Tikanipāto niṭṭhito.
+…….
+.
 –
 ,;
 ,.

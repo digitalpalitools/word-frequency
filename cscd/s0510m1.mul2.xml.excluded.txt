@@ -157,7 +157,7 @@ majjhantikeva (sabbattha),.
 ‘‘,;
 ,’’.
 .
-Subhūtittherassāpadānaṃ paṭhamaṃ.
+.
 2. Upavānattheraapadānaṃ
 52.
 ‘‘,;
@@ -324,7 +324,7 @@ tīṇi yojanamubbiddhaṃ (sī. ka.),.
 ‘‘,;
 ,’’.
 .
-Upavānattherassāpadānaṃ dutiyaṃ.
+.
 3. Tisaraṇagamaniyattheraapadānaṃ
 106.
 ‘‘bandhumatiyā (aṭṭha.),mātupaṭṭhāyako (sī.), mātupaṭṭhānako (syā.);
@@ -411,7 +411,7 @@ atthaṃ (syā.),.
 ‘‘,;
 ,’’.
 .
-Tisaraṇagamaniyattherassāpadānaṃ tatiyaṃ.
+.
 4. Pañcasīlasamādāniyattheraapadānaṃ
 134.
 ‘‘,;
@@ -477,7 +477,7 @@ dibbaṃ sukhaṃ (sī.),.
 ‘‘,;
 ,’’.
 .
-Pañcasīlasamādāniyattherassāpadānaṃ catutthaṃ.
+.
 5. Annasaṃsāvakattheraapadānaṃ
 155.
 ‘‘,;
@@ -498,7 +498,7 @@ nātho (sī.),.
 ‘‘,;
 ,’’.
 .
-Annasaṃsāvakattherassāpadānaṃ pañcamaṃ.
+.
 6. Dhūpadāyakattheraapadānaṃ
 161.
 ‘‘,;
@@ -513,7 +513,7 @@ Annasaṃsāvakattherassāpadānaṃ pañcamaṃ.
 ‘‘,;
 ,’’.
 .
-Dhūpadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Pulinapūjakattheraapadānaṃ
 165.
 ‘‘,;
@@ -528,7 +528,7 @@ chaḍḍetvā (sī. syā.),.
 ‘‘,;
 ,’’.
 .
-Pulinapūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Uttiyattheraapadānaṃ
 169.
 ‘‘,;
@@ -564,7 +564,7 @@ sabhojanapasutāhaṃ (syā. ka.),.
 ‘‘,;
 ,’’.
 uttiriyo (sī.).
-Uttiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Ekañjalikattheraapadānaṃ
 180.
 ‘‘,;
@@ -579,7 +579,7 @@ Uttiyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘,;
 ,’’.
 .
-Ekañjalikattherassāpadānaṃ navamaṃ.
+.
 10. Khomadāyakattheraapadānaṃ
 184.
 ‘‘,;
@@ -597,11 +597,11 @@ Ekañjalikattherassāpadānaṃ navamaṃ.
 ‘‘,;
 ,’’.
 .
-Khomadāyakattherassāpadānaṃ dasamaṃ.
+.
 –
 ,;
 ,;
 ,;
 ,.
-Subhūtivaggo tatiyo.
-Catutthabhāṇavāraṃ.
+.
+.

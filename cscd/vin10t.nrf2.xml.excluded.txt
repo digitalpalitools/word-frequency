@@ -75,7 +75,7 @@ Pārājikakathā
 1988.
 -;
 ,.
-Ubbhajāṇumaṇḍalakathā.
+.
 1989.
 ,;
 ‘‘,’’.
@@ -85,7 +85,7 @@ Ubbhajāṇumaṇḍalakathā.
 1991.
 ,;
 ,.
-Vajjapaṭicchādikathā.
+.
 1992.
 ,;
 ,.
@@ -101,7 +101,7 @@ Vajjapaṭicchādikathā.
 1996.
 ,;
 ,.
-Ukkhittānuvattikakathā.
+.
 1997.
 ,;
 -.
@@ -141,11 +141,11 @@ Ukkhittānuvattikakathā.
 2009.
 -;
 ,.
-Aṭṭhavatthukakathā.
+.
 2010.
 ,;
 ,.
-Pārājikakathā niṭṭhitā.
+.
 Saṅghādisesakathā
 2011.
 ;
@@ -188,7 +188,7 @@ Saṅghādisesakathā
 2023.
 ,-;
 ,.
-Aṭṭakārikathā.
+.
 2024.
 ,;
 ,.
@@ -216,7 +216,7 @@ Aṭṭakārikathā.
 2032.
 ,;
 ,.
-Corivuṭṭhāpanakathā.
+.
 2033.
 ,;
 ,.
@@ -337,7 +337,7 @@ Corivuṭṭhāpanakathā.
 2072.
 ,;
 ,.
-Gāmantaragamanakathā.
+.
 2073.
 ,;
 ,,.
@@ -353,7 +353,7 @@ Gāmantaragamanakathā.
 2077.
 ,;
 ,.
-Catutthaṃ.
+.
 2078.
 ,;
 ,.
@@ -377,7 +377,7 @@ Catutthaṃ.
 2084.
 -;
 ,.
-Pañcamaṃ.
+.
 2085.
 ,;
 ,.
@@ -396,19 +396,19 @@ Pañcamaṃ.
 2090.
 -;
 ,.
-Chaṭṭhaṃ.
+.
 2091.
 -;
 ,.
-Sattamaṭṭhamāni.
+.
 2092.
 ,;
 ,.
-Navamadasamāni.
+.
 2093.
 ,;
 ,.
-Saṅghādisesakathā.
+.
 Nissaggiyakathā
 2094.
 ,;
@@ -422,7 +422,7 @@ Nissaggiyakathā
 2097.
 ,;
 ,.
-Paṭhamaṃ.
+.
 2098.
 ,;
 ‘‘,’’.
@@ -441,7 +441,7 @@ Paṭhamaṃ.
 2103.
 ,;
 ,.
-Dutiyaṃ.
+.
 2104.
 ,;
 ,.
@@ -454,7 +454,7 @@ Dutiyaṃ.
 2107.
 ,;
 ,.
-Tatiyaṃ.
+.
 2108.
 ,;
 ,.
@@ -467,7 +467,7 @@ Tatiyaṃ.
 2111.
 ,;
 ,.
-Catutthaṃ.
+.
 2112.
 ,;
 ,.
@@ -477,7 +477,7 @@ Catutthaṃ.
 2114.
 ,;
 ,.
-Pañcamaṃ.
+.
 2115.
 ,;
 ,.
@@ -490,15 +490,15 @@ Pañcamaṃ.
 2118.
 ,;
 ,.
-Chaṭṭhasattamāni.
+.
 2119.
 ,;
 ‘‘-’’.
 2120.
 ,;
 ,.
-Aṭṭhamanavamadasamāni.
-Paṭhamo vaggo.
+.
+.
 2121.
 ,;
 ,.
@@ -514,18 +514,18 @@ Paṭhamo vaggo.
 2125.
 ,;
 ,.
-Ekādasamaṃ.
+.
 2126.
 -;
 ,.
 2127.
 ,;
 ,.
-Dvādasamaṃ.
+.
 2128.
 ,;
 ,.
-Nissaggiyakathā.
+.
 Pācittiyakathā
 2129.
 ,;
@@ -551,7 +551,7 @@ Pācittiyakathā
 2136.
 ,;
 ,.
-Paṭhamaṃ.
+.
 2137.
 ,;
 ,.
@@ -561,14 +561,14 @@ Paṭhamaṃ.
 2139.
 ,;
 -.
-Dutiyaṃ.
+.
 2140.
 -;
 ,.
 2141.
 ,;
 ,.
-Tatiyaṃ.
+.
 2142.
 ,;
 ,.
@@ -581,7 +581,7 @@ Tatiyaṃ.
 2145.
 ,;
 ,.
-Catutthaṃ.
+.
 2146.
 ,;
 ,.
@@ -600,7 +600,7 @@ Catutthaṃ.
 2151.
 -;
 ,.
-Pañcamaṃ.
+.
 2152.
 ,;
 ,.
@@ -616,7 +616,7 @@ Pañcamaṃ.
 2156.
 ,;
 ,.
-Chaṭṭhaṃ.
+.
 2157.
 ,;
 ,.
@@ -653,7 +653,7 @@ Chaṭṭhaṃ.
 2168.
 ,;
 ,.
-Sattamaṃ.
+.
 2169.
 ,;
 ,.
@@ -672,7 +672,7 @@ Sattamaṃ.
 2174.
 ,;
 ,.
-Aṭṭhamaṃ.
+.
 2175.
 -;
 ,.
@@ -697,7 +697,7 @@ Aṭṭhamaṃ.
 2182.
 ,;
 ,.
-Navamaṃ.
+.
 2183.
 ,;
 ,.
@@ -731,8 +731,8 @@ Navamaṃ.
 2193.
 ,;
 -.
-Dasamaṃ.
-Lasuṇavaggo paṭhamo.
+.
+.
 2194.
 ,;
 ,.
@@ -748,15 +748,15 @@ Lasuṇavaggo paṭhamo.
 2198.
 -;
 ,.
-Paṭhamaṃ.
+.
 2199.
 ‘‘,’’;
 ,.
-Dutiyaṃ.
+.
 2200.
 ,;
 ,.
-Tatiyacatutthāni.
+.
 2201.
 ,;
 ,.
@@ -769,21 +769,21 @@ Tatiyacatutthāni.
 2204.
 ,;
 ,.
-Pañcamaṃ.
+.
 2205.
 ,;
 ,.
 2206.
 ,;
 ,.
-Chaṭṭhaṃ.
+.
 2207.
 ,;
 ,.
-Sattamaṭṭhamāni.
+.
 2208.
 ,;
-Abhisapeyya pācitti, vācato vācato siyā
+,
 2209.
 ,;
 ‘‘,’’.
@@ -793,15 +793,15 @@ Abhisapeyya pācitti, vācato vācato siyā
 2211.
 -;
 ,.
-Navamaṃ.
+.
 2212.
 ,;
 ,.
 2213.
 ,;
 ,.
-Dasamaṃ.
-Andhakāravaggo dutiyo.
+.
+.
 2214.
 ;
 ;
@@ -810,11 +810,11 @@ Andhakāravaggo dutiyo.
 2215.
 -;
 ,.
-Paṭhamaṃ.
+.
 2216.
 ,;
 ,.
-Dutiyaṃ.
+.
 2217.
 ,;
 ,.
@@ -830,7 +830,7 @@ Dutiyaṃ.
 2221.
 ,;
 ,.
-Tatiyaṃ.
+.
 2222.
 -;
 ,.
@@ -843,7 +843,7 @@ Tatiyaṃ.
 2225.
 ,;
 ,.
-Catutthaṃ.
+.
 2226.
 ,;
 ,.
@@ -853,7 +853,7 @@ Catutthaṃ.
 2228.
 -;
 ,.
-Pañcamaṃ.
+.
 2229.
 ,;
 ,.
@@ -863,7 +863,7 @@ Pañcamaṃ.
 2231.
 ,;
 ,.
-Chaṭṭhaṃ.
+.
 2232.
 ,;
 ,.
@@ -873,7 +873,7 @@ Chaṭṭhaṃ.
 2234.
 -;
 ,.
-Sattamaṃ.
+.
 2235.
 ,;
 ,.
@@ -886,7 +886,7 @@ Sattamaṃ.
 2238.
 -;
 ,.
-Aṭṭhamaṃ.
+.
 2239.
 ,;
 ,.
@@ -896,7 +896,7 @@ Aṭṭhamaṃ.
 2241.
 ,;
 ,.
-Navamaṃ.
+.
 2242.
 ,;
 ,.
@@ -912,8 +912,8 @@ Navamaṃ.
 2246.
 ,;
 ,.
-Dasamaṃ.
-Naggavaggo tatiyo.
+.
+.
 2247.
 ,;
 ,.
@@ -923,7 +923,7 @@ Naggavaggo tatiyo.
 2249.
 ,,;
 ,.
-Paṭhamaṃ.
+.
 2250.
 ,;
 ,.
@@ -933,7 +933,7 @@ Paṭhamaṃ.
 2252.
 ,;
 ,.
-Dutiyaṃ.
+.
 2253.
 ,;
 ,.
@@ -951,7 +951,7 @@ Dutiyaṃ.
 2257.
 ,;
 -.
-Tatiyaṃ.
+.
 2258.
 ,;
 ,.
@@ -961,7 +961,7 @@ Tatiyaṃ.
 2260.
 ,;
 ,.
-Catutthaṃ.
+.
 2261.
 ,;
 ,.
@@ -980,11 +980,11 @@ Catutthaṃ.
 2266.
 ,;
 ,.
-Pañcamaṃ.
+.
 2267.
 ,;
 ,.
-Chaṭṭhaṃ.
+.
 2268.
 -;
 ,.
@@ -994,11 +994,11 @@ Chaṭṭhaṃ.
 2270.
 ,;
 ,.
-Sattamaṃ.
+.
 2271.
 ,;
 ,.
-Aṭṭhamanavamāni.
+.
 2272.
 ,‘‘’’;
 ,.
@@ -1017,8 +1017,8 @@ Aṭṭhamanavamāni.
 2277.
 ,;
 ,.
-Dasamaṃ.
-Tuvaṭṭavaggo catuttho.
+.
+.
 2278.
 ,;
 ,.
@@ -1034,7 +1034,7 @@ Tuvaṭṭavaggo catuttho.
 2282.
 -;
 ,.
-Paṭhamaṃ.
+.
 2283.
 ,;
 ,.
@@ -1046,7 +1046,7 @@ Paṭhamaṃ.
 2285.
 ,;
 -.
-Dutiyaṃ.
+.
 2286.
 ,;
 ,.
@@ -1056,7 +1056,7 @@ Dutiyaṃ.
 2288.
 ,;
 ,.
-Tatiyaṃ.
+.
 2289.
 ,;
 ,.
@@ -1072,14 +1072,14 @@ Tatiyaṃ.
 2293.
 ,;
 ,.
-Catutthaṃ.
+.
 2294.
 ,;
 ,.
 2295.
 ,;
 ,;
-Pañcamaṃ.
+.
 2296.
 ,;
 ,.
@@ -1092,7 +1092,7 @@ Pañcamaṃ.
 2299.
 ,;
 ,.
-Chaṭṭhaṃ.
+.
 2300.
 ,;
 ,.
@@ -1105,7 +1105,7 @@ Chaṭṭhaṃ.
 2303.
 -;
 ,.
-Sattamaṃ.
+.
 2304.
 ,;
 ,.
@@ -1121,7 +1121,7 @@ Sattamaṃ.
 2308.
 ,;
 ,.
-Aṭṭhamaṃ.
+.
 2309.
 ,;
 -.
@@ -1131,12 +1131,12 @@ Aṭṭhamaṃ.
 2311.
 ,;
 ,.
-Navamaṃ.
+.
 2312.
 ,;
 ,.
-Dasamaṃ.
-Cittāgāravaggo pañcamo.
+.
+.
 2313.
 ,;
 ,.
@@ -1158,7 +1158,7 @@ Cittāgāravaggo pañcamo.
 2319.
 -;
 ,.
-Paṭhamaṃ.
+.
 2320.
 ,;
 ,.
@@ -1167,14 +1167,14 @@ Paṭhamaṃ.
 ;
 ;
 .
-Dutiyaṃ.
+.
 2322.
 ,;
 ,.
 2323.
 ,;
 ,.
-Tatiyaṃ.
+.
 2324.
 ,;
 ,.
@@ -1201,14 +1201,14 @@ Tatiyaṃ.
 2331.
 ,;
 ,.
-Catutthaṃ.
+.
 2332.
 ,;
 ,.
 2333.
 ,;
 ,.
-Pañcamaṃ.
+.
 2334.
 ,;
 ,.
@@ -1223,7 +1223,7 @@ Pañcamaṃ.
 ;
 ;
 .
-Chaṭṭhaṃ.
+.
 2338.
 ,;
 ‘‘’’,.
@@ -1233,14 +1233,14 @@ Chaṭṭhaṃ.
 2340.
 ,;
 -.
-Sattamaṃ.
+.
 2341.
 ‘‘,’’;
 ,.
 2342.
 ,;
 ,.
-Aṭṭhamaṃ.
+.
 2343.
 ‘‘,’’;
 ,.
@@ -1250,7 +1250,7 @@ Aṭṭhamaṃ.
 2345.
 ,;
 -.
-Navamaṃ.
+.
 2346.
 ,;
 ,.
@@ -1272,8 +1272,8 @@ Navamaṃ.
 2352.
 -;
 ,.
-Dasamaṃ.
-Ārāmavaggo chaṭṭho.
+.
+.
 2353.
 ,;
 ,.
@@ -1286,11 +1286,11 @@ Dasamaṃ.
 2356.
 ,;
 ,.
-Paṭhamaṃ.
+.
 2357.
 ,;
 ,.
-Dutiyaṃ.
+.
 2358.
 ,;
 ,.
@@ -1303,7 +1303,7 @@ Dutiyaṃ.
 2361.
 ,;
 ,.
-Tatiyaṃ.
+.
 2362.
 ,;
 ,.
@@ -1313,22 +1313,22 @@ Tatiyaṃ.
 2364.
 ,;
 ,.
-Catutthaṃ.
+.
 2365.
 ,;
 ,.
 2366.
 ,;
 ,.
-Pañcamaṃ.
+.
 2367.
 -;
 ,.
-Chaṭṭhasattamāni.
+.
 2368.
 ,;
 ,.
-Aṭṭhamaṃ.
+.
 2369.
 ,;
 ,.
@@ -1341,7 +1341,7 @@ Aṭṭhamaṃ.
 2372.
 ,;
 ,.
-Navamaṃ.
+.
 2373.
 ,;
 ,.
@@ -1351,8 +1351,8 @@ Navamaṃ.
 2375.
 ,;
 -.
-Dasamaṃ.
-Gabbhinivaggo sattamo.
+.
+.
 2376.
 ,;
 ,.
@@ -1377,25 +1377,25 @@ Gabbhinivaggo sattamo.
 2383.
 ,;
 ‘‘’’,.
-Tatiyaṃ.
+.
 2384.
 ,;
 ,.
 2385.
 ,;
 ,.
-Catutthaṃ.
+.
 2386.
 ,;
 ,.
-Pañcamaṃ.
+.
 2387.
 ,‘‘’’;
 ,.
 2388.
 -;
 ,.
-Chaṭṭhaṃ.
+.
 2389.
 ,;
 ‘‘’’,.
@@ -1405,14 +1405,14 @@ Chaṭṭhaṃ.
 2391.
 -;
 ,.
-Sattamaṃ.
+.
 2392.
 ,;
 ,.
 2393.
 ,;
 ,.
-Aṭṭhamanavamāni.
+.
 2394.
 ,;
 ,.
@@ -1425,19 +1425,19 @@ Aṭṭhamanavamāni.
 2397.
 ,;
 ,.
-Dasamaṃ.
+.
 2398.
 ,;
 -.
 2399.
 ,;
 ,.
-Ekādasamaṃ.
+.
 2400.
 ,;
 ,.
-Dvādasamaterasamāni.
-Kumārībhūtavaggo aṭṭhamo.
+.
+.
 2401.
 ,;
 ,.
@@ -1459,14 +1459,14 @@ Kumārībhūtavaggo aṭṭhamo.
 2407.
 ,;
 ,.
-Paṭhamaṃ.
+.
 2408.
 ,;
 ,.
 2409.
 ,;
 ,.
-Dutiyaṃ.
+.
 2410.
 ,;
 ,.
@@ -1479,14 +1479,14 @@ Dutiyaṃ.
 2413.
 ,;
 ,.
-Tatiyaṃ.
+.
 2414.
 ,;
 ,.
 2415.
 ,;
 ,.
-Catutthaṃ.
+.
 2416.
 ,;
 ,.
@@ -1496,7 +1496,7 @@ Catutthaṃ.
 2418.
 ,;
 ,.
-Pañcamachaṭṭhāni.
+.
 2419.
 ,;
 ,.
@@ -1509,7 +1509,7 @@ Pañcamachaṭṭhāni.
 2422.
 ,;
 ,.
-Sattamaṭṭhamanavamadasamāni.
+.
 2423.
 ,;
 ,.
@@ -1519,14 +1519,14 @@ Sattamaṭṭhamanavamadasamāni.
 2425.
 ,;
 ,.
-Ekādasamaṃ.
+.
 2426.
 ,;
 ,.
 2427.
 ,;
 -.
-Dvādasamaṃ.
+.
 2428.
 ,;
 ,.
@@ -1539,9 +1539,9 @@ Dvādasamaṃ.
 2431.
 ,;
 ,.
-Terasamaṃ.
-Chattupāhanavaggo navamo.
-Iti vinayavinicchaye pācittiyakathā niṭṭhitā.
+.
+.
+.
 Pāṭidesanīyakathā
 2432.
 ,;
@@ -1555,20 +1555,20 @@ Pāṭidesanīyakathā
 2435.
 -;
 ,.
-Paṭhamaṃ.
+.
 2436.
 ,;
 ,.
 2437.
 ,;
 ,.
-Iti vinayavinicchaye
-Pāṭidesanīyakathā niṭṭhitā.
+
+.
 2438.
 ,;
 ,.
-Iti vinayavinicchaye
-Sikkhākaraṇīyakathā niṭṭhitā.
+
+.
 2439.
 ;
 ;
@@ -1592,6 +1592,6 @@ Sikkhākaraṇīyakathā niṭṭhitā.
 ;
 ;
 .
-Iti vinayavinicchaye
-Bhikkhunīvibhaṅgakathā niṭṭhitā.
+
+.
 Khandhakakathā

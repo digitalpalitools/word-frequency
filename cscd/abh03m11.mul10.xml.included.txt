@@ -123,7 +123,7 @@ hetu ceva sahetuko kusalo ca sahetuko ceva na ca hetu kusalo  ca dhammā nahetus
  nahetuṃ  sahetukaṃ kusalaṃ dhammaṃ paṭicca nahetu nasahetuko nakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 nahetuṃ sahetukaṃ akusalaṃ dhammaṃ paṭicca nahetu nasahetuko naakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 nahetuṃ ahetukaṃ abyākataṃ dhammaṃ paccayā nahetu naahetuko naabyākato dhammo uppajjati hetupaccayā  hetuyā ekaṃ
-
+hetugocchakaṃ niṭṭhitaṃ
 
  sappaccayaṃ  kusalaṃ dhammaṃ paṭicca naappaccayo nakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 sappaccayaṃ akusalaṃ dhammaṃ paṭicca naappaccayo naakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
@@ -146,7 +146,7 @@ lokiyaṃ abyākataṃ dhammaṃ paccayā nalokiyo naabyākato dhammo uppajjati 
  kenaci viññeyyaṃ kusalaṃ dhammaṃ paṭicca nakenaci viññeyyo nakusalo dhammo uppajjati hetupaccayā hetuyā nava
 kenaci  viññeyyaṃ akusalaṃ dhammaṃ paṭicca nakenaci viññeyyo naakusalo dhammo uppajjati hetupaccayā hetuyā nava
 kenaci viññeyyaṃ abyākataṃ dhammaṃ paccayā nakenaci viññeyyo naabyākato dhammo uppajjati hetupaccayā hetuyā nava
-
+cūḷantaradukaṃ niṭṭhitaṃ
 
  noāsavaṃ  kusalaṃ dhammaṃ paṭicca noāsavo nakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 āsavaṃ akusalaṃ dhammaṃ paṭicca noāsavo naakusalo dhammo uppajjati hetupaccayā hetuyā tīṇi
@@ -169,7 +169,7 @@ sāsavañceva no ca āsavaṃ abyākataṃ dhammaṃ paccayā naanāsavo ceva na
 āsavavippayuttaṃ anāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto naanāsavo nakusalo dhammo uppajjati hetupaccayā ekaṃ
 āsavavippayuttaṃ  sāsavaṃ akusalaṃ dhammaṃ paṭicca āsavavippayutto naanāsavo naakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 āsavavippayuttaṃ sāsavaṃ abyākataṃ dhammaṃ paccayā āsavavippayutto nasāsavo naabyākato dhammo uppajjati hetupaccayā āsavavippayuttaṃ  sāsavaṃ abyākataṃ dhammaṃ paccayā āsavavippayutto naanāsavo naabyākato dhammo uppajjati hetupaccayā hetuyā dve
-
+āsavagocchakaṃ niṭṭhitaṃ
 
  nosaññojanaṃ kusalaṃ dhammaṃ paṭicca nosaññojano nakusalo dhammo uppajjati hetupaccayā noganthaṃ kusalaṃ dhammaṃ paṭicca nogantho nakusalo dhammo uppajjati hetupaccayā nooghaṃ kusalaṃ dhammaṃ paṭicca noogho nakusalo dhammo uppajjati hetupaccayā noyogaṃ kusalaṃ dhammaṃ paṭicca noyogo nakusalo dhammo uppajjati hetupaccayā nonīvaraṇaṃ kusalaṃ dhammaṃ paṭicca nonīvaraṇo nakusalo dhammo uppajjati hetupaccayā noparāmāsaṃ kusalaṃ dhammaṃ paṭicca noparāmāso nakusalo dhammo uppajjati hetupaccayā
 
@@ -217,7 +217,7 @@ noupādā akusalaṃ dhammaṃ paṭicca nanoupādā naakusalo dhammo uppajjati 
 
  anupādinnaṃ kusalaṃ dhammaṃ paṭicca naupādinno nakusalo dhammo  uppajjati hetupaccayā hetuyā ekaṃ
 anupādinnaṃ  akusalaṃ dhammaṃ paṭicca naupādinno naakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ 
-
+mahantaradukaṃ niṭṭhitaṃ
 
  noupādānaṃ kusalaṃ dhammaṃ paṭicca noupādāno nakusalo dhammo uppajjati hetupaccayā hetuyā ekaṃ
 upādānaṃ  akusalaṃ dhammaṃ paṭicca noupādāno naakusalo dhammo uppajjati hetupaccayā hetuyā tīṇi
@@ -375,4 +375,4 @@ hetuyā dve adhipatiyā dve avigate tīṇi
 
  saraṇo anidassanaappaṭigho dhammo nasaraṇassa naanidassanaappaṭighassa dhammassa sahajātapaccayena paccayo pacchājātapaccayena paccayo kammapaccayena paccayo  nahetuyā tīṇi naārammaṇe tīṇi noavigate tīṇi
 
-
+dhammānulomapaccanīye dukatikapaṭṭhānaṃ niṭṭhitaṃ

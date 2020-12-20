@@ -99,9 +99,9 @@ sabbapāṇīnaṃ (sī.),.
 33.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā lakuṇḍabhaddiyo thero imā gāthāyo
+
 .
-Lakuṇḍabhaddiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Kaṅkhārevatattheraapadānaṃ
 34.
 ‘‘,;
@@ -160,9 +160,9 @@ Lakuṇḍabhaddiyattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 53.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kaṅkhārevato thero imā gāthāyo
+
 .
-Kaṅkhārevatattherassāpadānaṃ dutiyaṃ.
+.
 3. Sīvalittheraapadānaṃ
 54.
 ‘‘,;
@@ -287,9 +287,9 @@ sussarena mahāvīro (sī. pī.),.
 ‘‘…pe….
 95.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sīvalithero imā gāthāyo
+
 .
-Sīvalittherassāpadānaṃ tatiyaṃ.
+.
 4. Vaṅgīsattheraapadānaṃ
 96.
 ‘‘,;
@@ -375,7 +375,7 @@ vaggussaro (syā. pī.),.
 123.
 ‘‘,;
 ,mathaddasaṃ (sī. pī.), ca addasaṃ (syā.).
-Pañcavīsatimaṃ bhāṇavāraṃ.
+.
 124.
 ‘‘,;
 ,nirikkhataṃ (sī. pī.), udikkhataṃ (syā.).
@@ -431,9 +431,9 @@ kavicittoti (syā. pī.),.
 ‘‘…pe….
 142.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā vaṅgīso thero imā gāthāyo
+
 .
-Vaṅgīsattherassāpadānaṃ catutthaṃ.
+.
 5. Nandakattheraapadānaṃ
 143.
 ‘‘,;
@@ -498,9 +498,9 @@ mohapaṅkamhi (sī. syā.), mohamaggamhi (pī.),.
 ‘‘…pe….
 164.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā nandako thero imā gāthāyo
+
 .
-Nandakattherassāpadānaṃ pañcamaṃ.
+.
 6. Kāḷudāyittheraapadānaṃ
 165.
 ‘‘,;
@@ -589,9 +589,9 @@ māgadagiriṃ (sī.), maṅgalāgiriṃ (pī.),.
 ‘‘…pe….
 194.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kāḷudāyithero imā gāthāyo
+
 .
-Kāḷudāyittherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Abhayattheraapadānaṃ
 195.
 ‘‘,;
@@ -680,9 +680,9 @@ vadataṃ (sī. pī.), pavaraṃ (syā.),.
 ‘‘…pe….
 224.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā abhayo thero imā gāthāyo
+
 .
-Abhayattherassāpadānaṃ sattamaṃ.
+.
 8. Lomasakaṅgiyattheraapadānaṃ
 225.
 ‘‘,;
@@ -759,9 +759,9 @@ saṅkaraṃ (ka.),.
 ‘‘…pe….
 250.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā lomasakaṅgiyo lomasaṅkhiyo (syā. ka.) thero imā gāthāyo
+lomasaṅkhiyo (syā. ka.)
 .
-Lomasakaṅgiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Vanavacchattheraapadānaṃ
 251.
 ‘‘,;
@@ -823,9 +823,9 @@ Lomasakaṅgiyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 271.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā vanavaccho thero imā gāthāyo
+
 .
-Vanavacchattherassāpadānaṃ navamaṃ.
+.
 10. Cūḷasugandhattheraapadānaṃ
 272.
 ‘‘,;
@@ -936,8 +936,8 @@ sesaṃ (syā.),.
 308.
 ‘‘…pe…’’.
 ;
-Cūḷasugandhattherassāpadānaṃ dasamaṃ.
-Bhaddiyavaggo pañcapaññāsamo.
+.
+.
 –
 ,;
 ,.

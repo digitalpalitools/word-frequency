@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddasikkhā-mūlasikkhā
 Khuddasikkhā
 Ganthārambhakathā
@@ -847,7 +847,7 @@ Ganthārambhakathā
 ;
 ;
 ,.
-Paṭhamabhāṇavāraṃ niṭṭhitaṃ.
+.
 34. Pathavīniddeso
 –
 242.
@@ -1615,5 +1615,5 @@ Nigamanakathā
 476.
 ,;
 ,.
-Khuddasikkhā niṭṭhitā.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+

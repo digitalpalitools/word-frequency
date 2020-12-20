@@ -92,7 +92,7 @@
 406.,...
 407...,..
 ..
-Abhijjamānapetavatthuvaṇṇanā niṭṭhitā.
+.
 2. Sāṇavāsittherapetavatthuvaṇṇanā
 .‘‘’’‘‘’’.‘‘,’’...
 .,.,,,..
@@ -213,7 +213,7 @@ Abhijjamānapetavatthuvaṇṇanā niṭṭhitā.
 435-6...,...
 437-8.,.,...
 .‘‘,’’..
-Sāṇavāsittherapetavatthuvaṇṇanā niṭṭhitā.
+.
 3. Rathakārapetivatthuvaṇṇanā
 ...,.
 ..‘‘’’....–
@@ -255,7 +255,7 @@ Sāṇavāsittherapetavatthuvaṇṇanā niṭṭhitā.
 ’’.–
 ........
 ,.‘‘’’.....
-Rathakārapetivatthuvaṇṇanā niṭṭhitā.
+.
 4. Bhusapetavatthuvaṇṇanā
 ...‘‘’’.‘‘,’’.‘‘’’‘‘,’’.
 .,.,,.
@@ -284,7 +284,7 @@ Rathakārapetivatthuvaṇṇanā niṭṭhitā.
 449-50......‘‘’’.
 451-2.......
 ...
-Bhusapetavatthuvaṇṇanā niṭṭhitā.
+.
 5. Kumārapetavatthuvaṇṇanā
 .?.–‘‘,’’.‘‘,’’‘‘,’’.‘‘’’..‘‘’’.-..
 .‘‘,’’.‘‘,,’’‘‘,,’’–
@@ -340,7 +340,7 @@ Bhusapetavatthuvaṇṇanā niṭṭhitā.
 461.......
 462.,.
 463......
-Kumārapetavatthuvaṇṇanā niṭṭhitā.
+.
 6. Seriṇīpetivatthuvaṇṇanā
 .....‘‘’’‘‘’’,.
 ...–
@@ -403,7 +403,7 @@ Kumārapetavatthuvaṇṇanā niṭṭhitā.
 ,’’.–
 ..
 .,,...
-Seriṇīpetivatthuvaṇṇanā niṭṭhitā.
+.
 7. Migaluddakapetavatthuvaṇṇanā
 ..,‘‘,,’’..
 ,.–
@@ -450,7 +450,7 @@ Seriṇīpetivatthuvaṇṇanā niṭṭhitā.
 ....
 487.–.,‘‘’’,.
 ...
-Migaluddakapetavatthuvaṇṇanā niṭṭhitā.
+.
 8. Dutiyamigaluddakapetavatthuvaṇṇanā
 ..–‘‘,,,’’..–‘‘,,,’’.
 ..,.,..–‘‘,,,’’,‘‘,,’’..–
@@ -490,7 +490,7 @@ Migaluddakapetavatthuvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.–
 ..
-Dutiyamigaluddakapetavatthuvaṇṇanā niṭṭhitā.
+.
 9. Kūṭavinicchayikapetavatthuvaṇṇanā
 .,.–‘‘,’’?‘‘’’‘‘,’’.–‘‘,,’’?‘‘,,,’’.
 –‘‘,’’.‘‘’’...–
@@ -525,7 +525,7 @@ Dutiyamigaluddakapetavatthuvaṇṇanā niṭṭhitā.
 500.,....,.
 503....
 504.....,..
-Kūṭavinicchayikapetavatthuvaṇṇanā niṭṭhitā.
+.
 10. Dhātuvivaṇṇapetavatthuvaṇṇanā
 ..,.‘‘’’.‘‘’’...
 ,..–
@@ -569,7 +569,7 @@ Kūṭavinicchayikapetavatthuvaṇṇanā niṭṭhitā.
 515..,,,,.
 516.‘‘’’..
 .
-Dhātuvivaṇṇapetavatthuvaṇṇanā niṭṭhitā.
-Iti khuddaka-aṭṭhakathāya petavatthusmiṃ
+.
+-
 
-Tatiyassa cūḷavaggassa atthasaṃvaṇṇanā niṭṭhitā.
+.

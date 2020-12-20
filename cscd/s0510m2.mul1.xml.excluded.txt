@@ -36,9 +36,9 @@
 12.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā ekavihāriko thero imā gāthāyo
+
 .
-Ekavihārikattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekasaṅkhiyattheraapadānaṃ
 13.
 ‘‘,;
@@ -76,9 +76,9 @@ Ekavihārikattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 25.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ekasaṅkhiyo thero imā gāthāyo
+
 .
-Ekasaṅkhiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Pāṭihīrasaññakattheraapadānaṃ
 26.
 ‘‘,;
@@ -104,9 +104,9 @@ panādiṃsu (pī.),.
 ‘‘…pe….
 34.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā pāṭihīrasaññako thero imā gāthāyo
+
 .
-Pāṭihīrasaññakattherassāpadānaṃ tatiyaṃ.
+.
 4. Ñāṇatthavikattheraapadānaṃ
 35.
 ‘‘,;
@@ -132,9 +132,9 @@ Pāṭihīrasaññakattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 43.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ñāṇatthaviko thero imā gāthāyo
+
 .
-Ñāṇatthavikattherassāpadānaṃ catutthaṃ.
+.
 5. Ucchukhaṇḍikattheraapadānaṃ
 44.
 ‘‘,;
@@ -151,9 +151,9 @@ Itthaṃ sudaṃ āyasmā ñāṇatthaviko thero imā gāthāyo
 ‘‘…pe….
 49.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ucchukhaṇḍiko thero imā gāthāyo
+
 .
-Ucchukhaṇḍikattherassāpadānaṃ pañcamaṃ.
+.
 6. Kaḷambadāyakattheraapadānaṃ
 50.
 ‘‘,;
@@ -167,9 +167,9 @@ Ucchukhaṇḍikattherassāpadānaṃ pañcamaṃ.
 ‘‘…pe….
 54.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kaḷambadāyako thero imā gāthāyo
+
 .
-Kaḷambadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ambāṭakadāyakattheraapadānaṃ
 55.
 ‘‘,;
@@ -183,9 +183,9 @@ Kaḷambadāyakattherassāpadānaṃ chaṭṭhaṃ.
 ‘‘…pe….
 59.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ambāṭakadāyako thero imā gāthāyo
+
 .
-Ambāṭakadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Harītakadāyakattheraapadānaṃ
 60.
 ‘‘,;
@@ -220,9 +220,9 @@ Ambāṭakadāyakattherassāpadānaṃ sattamaṃ.
 ‘‘…pe….
 71.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā harītakadāyako thero imā gāthāyo
+
 .
-Harītakadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Ambapiṇḍiyattheraapadānaṃ
 72.
 ‘‘,;
@@ -248,9 +248,9 @@ Harītakadāyakattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 80.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ambapiṇḍiyo thero imā gāthāyo
+
 .
-Ambapiṇḍiyattherassāpadānaṃ navamaṃ.
+.
 10. Ambaphaliyattheraapadānaṃ
 81.
 ‘‘,;
@@ -271,8 +271,8 @@ Ambapiṇḍiyattherassāpadānaṃ navamaṃ.
 87.
 ‘‘…pe…’’.
 ;
-Ambaphaliyattherassāpadānaṃ dasamaṃ.
-Ekavihārivaggo catucattālīsamo.
+.
+.
 –
 ,;
 ,.

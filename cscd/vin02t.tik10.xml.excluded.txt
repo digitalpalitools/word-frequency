@@ -5,7 +5,7 @@ Sannipātānujānanādikathāvaṇṇanā
 135..(kaṅkhā. aṭṭha. nidānavaṇṇanā)‘‘,’’.‘‘’’.?‘‘’’.,,.
 ,-..‘‘’’..
 ..
-Sannipātānujānanādikathāvaṇṇanā niṭṭhitā.
+.
 Sīmānujānanakathāvaṇṇanā
 138...,.,..,..,.
 ..,...,.,.,.‘‘,’’...
@@ -15,7 +15,7 @@ Sīmānujānanakathāvaṇṇanā
 .,.,.,.,.,.
 .......,.‘‘’’,...
 140....‘‘…pe…’’.....,.,..,‘‘’’...
-Sīmānujānanakathāvaṇṇanā niṭṭhitā.
+.
 Uposathāgārādikathāvaṇṇanā
 142.‘‘’’..‘‘’’‘‘’’‘‘…pe…’’..
 Avippavāsasīmānujānanakathāvaṇṇanā
@@ -27,13 +27,13 @@ Gāmasīmādikathāvaṇṇanā
 ..‘‘’’‘‘’’,......
 ,..,.
 148...,.,..,.,,.
-Gāmasīmādikathāvaṇṇanā niṭṭhitā.
+.
 Uposathabhedādikathāvaṇṇanā
 149.,.,.‘‘’’.,,,‘‘’’.
 Pātimokkhuddesakathāvaṇṇanā
 150.‘‘’’‘‘’’‘‘,’’.(kaṅkhā. aṭṭha. nidānavaṇṇanā)‘‘,…pe…,‘’’’...‘‘’’.‘‘’’‘‘’’.,,.
 ....‘‘’’..‘‘’’,.....
-Pātimokkhuddesakathāvaṇṇanā niṭṭhitā.
+.
 Pātimokkhuddesakaajjhesanādikathāvaṇṇanā
 155..,,.,,,..,.
 Pakkhagaṇanādiuggahaṇānujānanakathāvaṇṇanā
@@ -49,11 +49,11 @@ Saṅghuposathādikathāvaṇṇanā
 .,.‘‘,,’’(mahāva. 183).,.,‘‘’’..
 ‘‘,,’’(mahāva. 154),‘‘,,’’(mahāva. 183),.,.,,...
 -‘‘’’.(kaṅkhā. aṭṭha. nidānavaṇṇanā)‘‘’’.
-Saṅghuposathādikathāvaṇṇanā niṭṭhitā.
+.
 Āpattipaṭikammavidhikathāvaṇṇanā
 169.‘‘,,,,’’,‘‘’’‘‘…pe…’’.,‘‘,’’.
 ‘‘’’.‘‘,,’’.‘‘,,,,’’.‘‘’’,,.‘‘’’,.‘‘’’.‘‘,…pe…’’,‘‘,.,’’,.‘‘’’.
-Āpattipaṭikammavidhikathāvaṇṇanā niṭṭhitā.
+.
 Liṅgādidassanakathāvaṇṇanā
 179......‘‘’’.‘‘’’.
 180..‘‘’’.
@@ -61,4 +61,4 @@ Nagantabbagantabbavārakathāvaṇṇanā
 181..,,...
 Vajjanīyapuggalasandassanakathāvaṇṇanā
 183.,,..
-Uposathakkhandhakavaṇṇanā niṭṭhitā.
+.

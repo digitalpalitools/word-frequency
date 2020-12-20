@@ -23,8 +23,8 @@
 .,.,.
 ,,.,,.‘‘,’’.,.,.
 97...,,,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Anupadasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Chabbisodhanasuttavaṇṇanā
 98..,..,...,.,..
 99.....,..,,...
@@ -42,8 +42,8 @@ Anupadasuttavaṇṇanā niṭṭhitā.
 .?..,.
 –..,...?,,.?.
 ...,.,.,.,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Chabbisodhanasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Sappurisadhammasuttavaṇṇanā
 105.....,,,..‘‘’’...
 .‘‘’’.....
@@ -51,8 +51,8 @@ Chabbisodhanasuttavaṇṇanā niṭṭhitā.
 107...,.,.
 108.,.,.
 ,,.....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Sappurisadhammasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Sevitabbāsevitabbasuttavaṇṇanā
 109..,,,...?.
 113..
@@ -62,8 +62,8 @@ Sappurisadhammasuttavaṇṇanā niṭṭhitā.
 ..,,,,,..,,..,.,.
 119.,,,,,,‘‘’’..
 ,?,,.,,.,.,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Sevitabbāsevitabbasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Bahudhātukasuttavaṇṇanā
 124.....–‘‘’’...‘‘’’,,..‘‘,’’,...
 ,...‘‘’’,,....,,.
@@ -136,8 +136,8 @@ Sevitabbāsevitabbasuttavaṇṇanā niṭṭhitā.
 132.‘‘.’’.
 –
 ,‘‘,,,,,’’,.,.,.,,.,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bahudhātukasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Isigilisuttavaṇṇanā
 133..,...
 ,.,..
@@ -153,8 +153,8 @@ Bahudhātukasuttavaṇṇanā niṭṭhitā.
 ,.,...
 ......
 ..‘‘’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Isigilisuttavaṇṇanā niṭṭhitā.
+
+.
 7. Mahācattārīsakasuttavaṇṇanā
 136..,‘‘’’....
 ..;.,,,,,.
@@ -172,8 +172,8 @@ Isigilisuttavaṇṇanā niṭṭhitā.
 .‘‘’’.‘‘’’.‘‘,,’’.‘‘’’..
 143.........,‘‘,,’’,,.,..
 ,,,,.,,,....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahācattārīsakasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Ānāpānassatisuttavaṇṇanā
 144....
 ...
@@ -190,8 +190,8 @@ Mahācattārīsakasuttavaṇṇanā niṭṭhitā.
 150.....,..
 ,,,,,,.‘‘’’,‘‘’’,,.?.
 152..,,,.,.‘‘,,,,,’’.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Ānāpānassatisuttavaṇṇanā niṭṭhitā.
+
+.
 9. Kāyagatāsatisuttavaṇṇanā
 153-4....,...,..
 …pe…,,.
@@ -200,8 +200,8 @@ Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
 157...
 158.....?..
 ......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kāyagatāsatisuttavaṇṇanā niṭṭhitā.
+
+.
 10. Saṅkhārupapattisuttavaṇṇanā
 160..,,,.
 161.......,,.,,.,.,..
@@ -212,6 +212,6 @@ Kāyagatāsatisuttavaṇṇanā niṭṭhitā.
 –‘‘’’.,.,..
 169.,,...
 .?,,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Saṅkhārupapattisuttavaṇṇanā niṭṭhitā.
-Dutiyavaggavaṇṇanā niṭṭhitā.
+
+.
+.

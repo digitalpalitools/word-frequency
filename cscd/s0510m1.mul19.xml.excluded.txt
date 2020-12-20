@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Tamālapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Tiṇasanthārakattheraapadānaṃ
 6.
 ‘‘yaṃ dāyavāsiko (sī.),;
@@ -36,7 +36,7 @@ tattha (syā.),.
 11.
 ‘‘…pe…’’.
 .
-Tiṇasanthārakattherassāpadānaṃ dutiyaṃ.
+.
 3. Khaṇḍapulliyattheraapadānaṃ
 12.
 ‘‘,;
@@ -53,7 +53,7 @@ Tiṇasanthārakattherassāpadānaṃ dutiyaṃ.
 16.
 ‘‘…pe…’’.
 .
-Khaṇḍapulliyattherassāpadānaṃ tatiyaṃ.
+.
 4. Asokapūjakattheraapadānaṃ
 17.
 ‘‘tipurāyaṃ (syā.),;
@@ -73,7 +73,7 @@ nisinno (ka.),.
 22.
 ‘‘…pe…’’.
 .
-Asokapūjakattherassāpadānaṃ catutthaṃ.
+.
 5. Aṅkolakattheraapadānaṃ
 23.
 ‘‘,samogadhaṃ (syā.);
@@ -90,7 +90,7 @@ Asokapūjakattherassāpadānaṃ catutthaṃ.
 27.
 ‘‘…pe…’’.
 .
-Aṅkolakattherassāpadānaṃ pañcamaṃ.
+.
 6. Kisalayapūjakattheraapadānaṃ
 28.
 ‘‘,;
@@ -113,7 +113,7 @@ sohaṃ disvāna taṃ iddhiṃ (sī. syā.),.
 34.
 ‘‘…pe…’’.
 .
-Kisalayapūjakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Tindukadāyakattheraapadānaṃ
 35.
 ‘‘,;
@@ -136,7 +136,7 @@ Kisalayapūjakattherassāpadānaṃ chaṭṭhaṃ.
 41.
 ‘‘…pe…’’.
 .
-Tindukadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Muṭṭhipūjakattheraapadānaṃ
 42.
 ‘‘,;
@@ -153,7 +153,7 @@ Tindukadāyakattherassāpadānaṃ sattamaṃ.
 46.
 ‘‘…pe…’’.
 .
-Muṭṭhipūjakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Kiṃkaṇikapupphiyattheraapadānaṃ
 47.
 ‘‘,;
@@ -173,7 +173,7 @@ Muṭṭhipūjakattherassāpadānaṃ aṭṭhamaṃ.
 52.
 ‘‘…pe…’’.
 .
-Kiṃkaṇikapupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Yūthikapupphiyattheraapadānaṃ
 53.
 ‘‘,;
@@ -190,8 +190,8 @@ Kiṃkaṇikapupphiyattherassāpadānaṃ navamaṃ.
 57.
 ‘‘…pe…’’.
 ;
-Yūthikapupphiyattherassāpadānaṃ dasamaṃ.
-Tamālapupphiyavaggo vīsatimo.
+.
+.
 –
 ,;
 ,;
@@ -201,5 +201,5 @@ Tamālapupphiyavaggo vīsatimo.
 ,.
 ,;
 ,.
-Bhikkhāvaggadasakaṃ.
-Dutiyasatakaṃ samattaṃ.
+.
+.

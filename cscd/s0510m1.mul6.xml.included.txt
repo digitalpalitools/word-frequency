@@ -19,7 +19,7 @@ sattaratanasampanno catudīpamhi issaro
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sakacintaniyo thero imā gāthāyo abhāsitthāti
-
+sakacintaniyattherassāpadānaṃ paṭhamaṃ
 
 
  vihārā abhinikkhamma abbhuṭṭhahiya  caṅkame
@@ -39,7 +39,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā avopupphiyo thero imā gāthāyo abhāsitthāti
-
+avopupphiyattherassāpadānaṃ dutiyaṃ
 
 
  sindhuyā  nadiyā tīre cakkavāko ahaṃ tadā
@@ -62,7 +62,7 @@ kappe sattarase āsuṃ cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā paccāgamaniyo thero imā gāthāyo abhāsitthāti
-
+paccāgamaniyattherassāpadānaṃ tatiyaṃ
 
 
  usabhaṃ  pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ
@@ -91,7 +91,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā parappasādako thero imā gāthāyo abhāsitthāti
-
+parappasādakattherassāpadānaṃ catutthaṃ
 
 
  vessabhū nāma nāmena isīnaṃ tatiyo ahu
@@ -114,7 +114,7 @@ kappamhi cuddase  āsuṃ cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā bhisadāyako thero imā gāthāyo abhāsitthāti
-
+bhisadāyakattherassāpadānaṃ pañcamaṃ
 
 
  giriduggacaro  āsiṃ abhijātova kesarī
@@ -143,7 +143,7 @@ saṭṭhimhito kappasate duve varuṇanāmakā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sucintito thero imā gāthāyo abhāsitthāti
-
+sucintitattherassāpadānaṃ chaṭṭhaṃ
 
 
  pakkhijāto  tadā āsiṃ supaṇṇo garuḷādhipo
@@ -169,7 +169,7 @@ chattiṃsatimhi āsiṃsu kappamhi manujādhipā
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā vatthadāyako thero imā gāthāyo abhāsitthāti
-
+vatthadāyakattherassāpadānaṃ sattamaṃ
 
 
  anomadassī  bhagavā nisinno pabbatantare
@@ -198,7 +198,7 @@ catuddasa te rājāno cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā ambadāyako thero imā gāthāyo abhāsitthāti
-
+ambadāyakattherassāpadānaṃ aṭṭhamaṃ
 
 
  sumano  nāma nāmena mālākāro ahaṃ tadā
@@ -218,7 +218,7 @@ sattaratanasampannā rājāno cakkavattino
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sumano thero imā gāthāyo abhāsitthāti
-
+sumanattherassāpadānaṃ navamaṃ
 
 
  abhītarūpaṃ  sīhaṃva garuḷaggaṃva pakkhinaṃ
@@ -241,8 +241,8 @@ sattaratanasampannā pañcāsuṃ cakkavattino
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā pupphacaṅkoṭiyo thero imā gāthāyo abhāsitthāti
-
-
+pupphacaṅkoṭiyattherassāpadānaṃ dasamaṃ
+sakacintaniyavaggo sattamo
 tassuddānaṃ 
 sakacintī  avopupphī sapaccāgamanena ca
 parappasādī bhisado sucinti vatthadāyako

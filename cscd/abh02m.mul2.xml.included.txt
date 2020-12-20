@@ -12,7 +12,7 @@ tattha katamā bāhirā vāyodhātu yaṃ bāhiraṃ vāyo vāyogataṃ thambhit
  tattha katamā ākāsadhātu ākāsadhātudvayaṃ  atthi ajjhattikā atthi bāhirā tattha katamā ajjhattikā ākāsadhātu yaṃ  ajjhattaṃ paccattaṃ ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ maṃsalohitehi ajjhattaṃ upādinnaṃ seyyathidaṃ  kaṇṇacchiddaṃ nāsacchiddaṃ mukhadvāraṃ yena ca asitapītakhāyitasāyitaṃ ajjhoharati yattha ca asitapītakhāyitasāyitaṃ santiṭṭhati yena ca asitapītakhāyitasāyitaṃ adhobhāgaṃ nikkhamati yaṃ vā panaññampi atthi ajjhattaṃ paccattaṃ ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ maṃsalohitehi ajjhattaṃ upādinnaṃ  ayaṃ vuccati ajjhattikā ākāsadhātu
 tattha katamā bāhirā ākāsadhātu yaṃ bāhiraṃ ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro  vivaragataṃ  asamphuṭṭhaṃ catūhi mahābhūtehi  bahiddhā anupādinnaṃ  ayaṃ vuccati bāhirā ākāsadhātu yā ca ajjhattikā ākāsadhātu yā ca bāhirā ākāsadhātu tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā  ayaṃ vuccati ākāsadhātu
  tattha katamā viññāṇadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manoviññāṇadhātu  ayaṃ vuccati viññāṇadhātu
-
+imā cha dhātuyo
  aparāpi cha dhātuyo  sukhadhātu dukkhadhātu somanassadhātu domanassadhātu upekkhādhātu avijjādhātu
  tattha katamā sukhadhātu yaṃ kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā  ayaṃ vuccati sukhadhātu
 tattha katamā  dukkhadhātu yaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā  ayaṃ vuccati dukkhadhātu
@@ -20,7 +20,7 @@ tattha katamā somanassadhātu yaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ c
 tattha katamā domanassadhātu yaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā  ayaṃ vuccati domanassadhātu
 tattha katamā upekkhādhātu yaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ  vedayitaṃ cetosamphassajā adukkhamasukhā vedanā  ayaṃ vuccati upekkhādhātu
 tattha katamā avijjādhātu yaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṅgāhaṇā apariyogāhaṇā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ  moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ  avijjālaṅgī moho akusalamūlaṃ  ayaṃ vuccati avijjādhātu
-
+imā cha dhātuyo
  aparāpi cha dhātuyo  kāmadhātu byāpādadhātu vihiṃsādhātu nekkhammadhātu abyāpādadhātu avihiṃsādhātu
  tattha katamā kāmadhātu kāmapaṭisaṃyutto takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo  ayaṃ vuccati kāmadhātu heṭṭhato avīcinirayaṃ pariyantaṃ karitvā uparito paranimmitavasavattī deve anto karitvā yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā khandhadhātuāyatanā rūpā  vedanā saññā saṅkhārā viññāṇaṃ  ayaṃ vuccati  kāmadhātu
 tattha katamā byāpādadhātu byāpādapaṭisaṃyutto takko vitakko micchāsaṅkappo  ayaṃ vuccati byāpādadhātu dasasu vā āghātavatthūsu cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa  ayaṃ vuccati byāpādadhātu
@@ -28,9 +28,9 @@ tattha katamā vihiṃsādhātu vihiṃsāpaṭisaṃyutto takko vitakko micchā
 tattha katamā nekkhammadhātu nekkhammapaṭisaṃyutto takko vitakko sammāsaṅkappo  ayaṃ vuccati nekkhammadhātu sabbepi kusalā dhammā nekkhammadhātu
 tattha  katamā abyāpādadhātu abyāpādapaṭisaṃyutto takko vitakko sammāsaṅkappo  ayaṃ vuccati abyāpādadhātu yā sattesu metti mettāyanā mettāyitattaṃ mettācetovimutti  ayaṃ vuccati abyāpādadhātu
 tattha katamā avihiṃsādhātu avihiṃsāpaṭisaṃyutto takko vitakko saṅkappo appanā byappanā  cetaso abhiniropanā sammāsaṅkappo  ayaṃ vuccati avihiṃsādhātu  yā sattesu karuṇā karuṇāyanā karuṇāyitattaṃ karuṇācetovimutti  ayaṃ vuccati avihiṃsādhātu
-
+imā cha dhātuyo
 iti imāni tīṇi chakkāni tadekajjhaṃ abhisaññūhitvā abhisaṅkhipitvā aṭṭhārasa dhātuyo honti
-
+suttantabhājanīyaṃ
 
  aṭṭhārasa dhātuyo  cakkhudhātu rūpadhātu cakkhuviññāṇadhātu sotadhātu saddadhātu sotaviññāṇadhātu ghānadhātu gandhadhātu ghānaviññāṇadhātu jivhādhātu rasadhātu jivhāviññāṇadhātu  kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu
  tattha katamā cakkhudhātu yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo suñño gāmopeso  ayaṃ vuccati cakkhudhātu
@@ -56,7 +56,7 @@ tattha katamo saṅkhārakkhandho ekavidhena saṅkhārakkhandho  cittasampayutt
 tattha katamaṃ rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ itthindriyaṃ kabaḷīkāro āhāro  idaṃ vuccati rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ
 tattha katamā asaṅkhatā dhātu rāgakkhayo dosakkhayo mohakkhayo  ayaṃ vuccati asaṅkhatā dhātu ayaṃ vuccati dhammadhātu
 tattha  katamā manoviññāṇadhātu cakkhuviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu manodhātuyā uppajjitvā niruddhasamanantarā  uppajjati cittaṃ mano mānasaṃ tajjāmanoviññāṇadhātu sotaviññāṇadhātuyā ghānaviññāṇadhātuyā   jivhāviññāṇadhātuyā kāyaviññāṇadhātuyā uppajjitvā niruddhasamanantarā uppajjati manodhātu manodhātuyāpi uppajjitvā niruddhasamanantarā uppajjati cittaṃ mano mānasaṃ tajjāmanoviññāṇadhātu manañca paṭicca dhamme ca uppajjati cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu  ayaṃ vuccati manoviññāṇadhātu
-
+abhidhammabhājanīyaṃ
 
 aṭṭhārasa dhātuyo  cakkhudhātu rūpadhātu cakkhuviññāṇadhātu sotadhātu saddadhātu sotaviññāṇadhātu ghānadhātu gandhadhātu ghānaviññāṇadhātu jivhādhātu rasadhātu jivhāviññāṇadhātu kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu manodhātu dhammadhātu manoviññāṇadhātu
  aṭṭhārasannaṃ dhātūnaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
@@ -88,5 +88,5 @@ soḷasa dhātuyo na vattabbā  kilesā ceva saṃkiliṭṭhā cātipi saṃkil
 soḷasa dhātuyo na dassanena pahātabbā dve dhātuyo siyā dassanena pahātabbā siyā na dassanena pahātabbā soḷasa dhātuyo na bhāvanāya pahātabbā dve dhātuyo siyā bhāvanāya pahātabbā siyā na bhāvanāya pahātabbā soḷasa dhātuyo na dassanena pahātabbahetukā dve dhātuyo siyā dassanena pahātabbahetukā siyā na dassanena pahātabbahetukā soḷasa dhātuyo na bhāvanāya pahātabbahetukā dve dhātuyo siyā bhāvanāya pahātabbahetukā siyā na bhāvanāya pahātabbahetukā
 pannarasa dhātuyo avitakkā manodhātu savitakkā dve dhātuyo siyā savitakkā siyā  avitakkā pannarasa dhātuyo avicārā manodhātu savicārā dve dhātuyo siyā savicārā siyā avicārā soḷasa dhātuyo appītikā dve dhātuyo siyā sappītikā siyā appītikā soḷasa dhātuyo na pītisahagatā dve dhātuyo siyā pītisahagatā siyā na pītisahagatā pannarasa dhātuyo na sukhasahagatā tisso dhātuyo siyā sukhasahagatā siyā na sukhasahagatā ekādasa dhātuyo na upekkhāsahagatā pañca dhātuyo upekkhāsahagatā dve dhātuyo siyā  upekkhāsahagatā siyā na upekkhāsahagatā
 soḷasa dhātuyo kāmāvacarā dve dhātuyo siyā kāmāvacarā siyā na kāmāvacarā soḷasa dhātuyo na rūpāvacarā dve dhātuyo siyā rūpāvacarā siyā na rūpāvacarā soḷasa dhātuyo na arūpāvacarā dve  dhātuyo siyā arūpāvacarā siyā na arūpāvacarā soḷasa dhātuyo pariyāpannā dve dhātuyo siyā pariyāpannā siyā apariyāpannā soḷasa dhātuyo aniyyānikā dve dhātuyo siyā niyyānikā siyā aniyyānikā soḷasa dhātuyo aniyatā dve dhātuyo siyā niyatā siyā aniyatā soḷasa dhātuyo sauttarā dve dhātuyo siyā sauttarā siyā anuttarā soḷasa  dhātuyo araṇā dve dhātuyo siyā saraṇā siyā araṇāti
-
-
+pañhāpucchakaṃ
+dhātuvibhaṅgo niṭṭhito

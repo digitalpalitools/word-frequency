@@ -10,7 +10,7 @@
 183.‘‘,,,,..–‘’.‘’.,,..‘,,,’.–‘,,,–’.‘’,‘’,‘’,‘–’.,‘’.,,.
 184.‘‘,,,.ye (sī. pī.),,,.ye (sī. pī.),,,.,,‘’viharissāmīti (pī. ka.)–te (ka.),,’’.
 ..
-Cūḷasuññatasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Mahāsuññatasuttaṃ
 185.–.....–‘‘.’’.
 186..;.–‘‘,,.’’?‘‘,,..,,’’.
@@ -36,7 +36,7 @@ Cūḷasuññatasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘,,?,–‘,’.,,,.,,,.
 ‘‘,,,..,,.,,;,,pavayha pavayha (sī. pī.), paggayha paggayha ānanda vakkhāmi (ka.).’’.
 ..
-Mahāsuññatasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Acchariyaabbhutasuttaṃ
 197.–.–‘‘,,,,,anussarissati jānissati (ka.)–‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’’’!,–‘‘,,;,,’’..
 198.;.–‘‘,,,’’?‘‘,,–‘,,,,,–,………..……’!,,–‘,,,,,’.,,;’’.
@@ -78,7 +78,7 @@ Mahāsuññatasuttaṃ niṭṭhitaṃ dutiyaṃ.
 212.‘‘,,,’’.,.––.‘,,,’..
 apāpuraṇaṃ (sī. syā. kaṃ. pī.)–‘‘,.’’.‘‘–‘,;’,’’.
 .‘‘,’’.
-Bākulasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Dantabhūmisuttaṃ
 213.–..;..–
 ‘‘,–‘’.‘,,,.’.‘’.‘,,.,,,;,’.‘.’.‘,,.,;,,’.‘.ājāneyyāmi (ka.),;,tiṭṭheyyāmi (ka.),’’’.
@@ -105,7 +105,7 @@ Bākulasuttaṃ niṭṭhitaṃ catutthaṃ.
 222.‘‘,,,‘adantaṃ maraṇaṃ (ka.)’;,,.,,,‘’;,,,‘’;,,.,,,‘’.
 ‘‘,,,‘’;,,…,,,‘’;,,,‘’;,,.,,,‘’’’.
 ..
-Dantabhūmisuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Bhūmijasuttaṃ
 223.–.;.;..–‘‘,,–‘,carati, abhabbo (sī. pī.) evamuparipi ekavacaneneva dissati;āsañca anāsañca cepi (aṭṭha.),;,;,’.kiṃvādī kiṃdiṭṭhī (syā. kaṃ. ka.)’’?‘‘,,,.–‘,;,;,;,.,;,;,;,’.,,,.’’.‘‘evaṃvādī evaṃdiṭṭhī (syā. kaṃ. ka.),buddhānaṃ (ka.) muddhānantimuddhaṃ, matthakanti attho’’..
 224.;.–‘‘,,;.,,;..,,–‘,,–,;…pe…,;,’.‘’?,,–‘,,,.–,;,;,;,.,;…pe……pe…,.,,,.’.‘,’.‘,,,,,’’’?
@@ -120,7 +120,7 @@ Dantabhūmisuttaṃ niṭṭhitaṃ pañcamaṃ.
 ‘‘,,;( )(bhabbo aggissa adhigamāya) (sabbattha)…..…,.?,,.,,…pe…,;,;,;,.?,,.
 ‘‘,,,’’.‘‘,,,’’?
 ..
-Bhūmijasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Anuruddhasuttaṃ
 229.–.–‘‘,,;vandāhi, evañca vadehi (sī. pī.)–‘,,’;evañca vadeti (sī. pī.)–‘,,;,,;,,pañcakaṅgo thapati (sī. pī.)’’’.‘‘,’’;.–‘‘,,,–‘,,;,,;,,’’’..
 230.;...–
@@ -142,7 +142,7 @@ Bhūmijasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 ‘‘,,.upamāyamidhekacce (ka.).,,.;,,‘’,,,...,,.;,,‘’.,,...,,,’’.
 235.,–‘‘,!,,–‘’‘’;,,‘,’.,,–‘’’’.‘‘,,,–‘,,’’’.
 ,–‘‘,,,,pajahasi (ka.),yampimaṃ (sī. syā. kaṃ. pī.)’’.
-Anuruddhasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Upakkilesasuttaṃ
 236.–..;.–‘‘,,.,,’’..;–‘‘,,,,,’’.
 ,–‘‘,!;,,;’’.–‘‘,,,,,’’.–‘‘,!;,,;’’.–‘‘,,,,,’’.–‘‘,,;,,;’’.
@@ -197,7 +197,7 @@ bhaddiyo (ma. ni. 2.166 naḷakapānekimbilo (sī. syā. kaṃ. pī.)..–‘‘
 244.,,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–,‘’–.
 245.‘‘,,–‘.,’bhāvesinti (sī. syā. kaṃ.).,,bhāvemi (ka.),,,,,,.,,,,,,,,.,.,’’.
 ..
-Upakkilesasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Bālapaṇḍitasuttaṃ
 246.–.–‘‘’’.‘‘’’.–
 ‘‘,,.?,,.no cedaṃ (saṃ. ni. 3.27-28),,na tena naṃ (ka.), na naṃ (?)–‘’?,,–‘’.,,.,,,rathiyāya (bahūsu),;.,,,,,,,,,–‘,saṃvijjante te ca (sī. syā. kaṃ. pī.),’.,,.
@@ -245,7 +245,7 @@ Upakkilesasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 260.–‘‘,,–’’?‘‘,,;;;’’.‘‘,,;;’’.
 ‘‘,,,–.,.,,.,,,.,,;,,.,,.,,’’.
 ..
-Bālapaṇḍitasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Devadūtasuttaṃ
 261.–.–‘‘’’.‘‘’’.–
 ‘‘,,sandhidvārā (ka.),;,,,–‘;.;.;.;.;’’’.
@@ -295,8 +295,8 @@ Bālapaṇḍitasuttaṃ niṭṭhitaṃ navamaṃ.
 ,.
 ‘‘,;
 ,sabbadukkhā (ka.)’’.
-Devadūtasuttaṃ niṭṭhitaṃ dasamaṃ.
-Suññatavaggo niṭṭhito tatiyo.
+.
+.
 –
 ,;
 ,;

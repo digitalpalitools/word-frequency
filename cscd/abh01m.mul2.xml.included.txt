@@ -4,8 +4,8 @@
 
 
  tattha katamaṃ sabbaṃ rūpaṃ cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāya rūpaṃ  idaṃ vuccati sabbaṃ rūpaṃ sabbaṃ rūpaṃ na hetu ahetukaṃ hetuvippayuttaṃ sappaccayaṃ  saṅkhataṃ rūpaṃ  lokiyaṃ sāsavaṃ saṃyojaniyaṃ ganthaniyaṃ oghaniyaṃ yoganiyaṃ nīvaraṇiyaṃ parāmaṭṭhaṃ upādāniyaṃ saṃkilesikaṃ abyākataṃ anārammaṇaṃ acetasikaṃ cittavippayuttaṃ nevavipākanavipākadhammadhammaṃ asaṃkiliṭṭhasaṃkilesikaṃ na savitakkasavicāraṃ na avitakkavicāramattaṃ avitakkaavicāraṃ na pītisahagataṃ na sukhasahagataṃ na upekkhāsahagataṃ neva dassanena na bhāvanāya pahātabbaṃ neva dassanena na bhāvanāya pahātabbahetukaṃ neva ācayagāmi na apacayagāmi nevasekkhanāsekkhaṃ parittaṃ kāmāvacaraṃ na rūpāvacaraṃ na  arūpāvacaraṃ pariyāpannaṃ no apariyāpannaṃ aniyataṃ aniyyānikaṃ uppannaṃ chahi viññāṇehi viññeyyaṃ aniccaṃ jarābhibhūtaṃ
-
-
+evaṃ ekavidhena rūpasaṅgaho
+ekakaṃ
 
 duvidhena  rūpasaṅgaho 
 atthi rūpaṃ upādā atthi rūpaṃ no upādā
@@ -46,8 +46,8 @@ atthi rūpaṃ rūpassa santati atthi rūpaṃ rūpassa na santati
 atthi  rūpaṃ rūpassa jaratā atthi rūpaṃ rūpassa na jaratā
 atthi rūpaṃ rūpassa aniccatā atthi rūpaṃ rūpassa na aniccatā
 atthi rūpaṃ kabaḷīkāro āhāro atthi rūpaṃ na kabaḷīkāro āhāro
-
-
+evaṃ duvidhena rūpasaṅgaho
+dukaṃ
 
 tividhena  rūpasaṅgaho 
  yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ upādā yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi upādā atthi no upādā
@@ -88,8 +88,8 @@ yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ rūpassa na santati yaṃ taṃ rūpa�
 yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ rūpassa na jaratā yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi rūpassa jaratā atthi rūpassa na jaratā
 yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ rūpassa na aniccatā yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi rūpassa aniccatā atthi rūpassa na aniccatā
 yaṃ taṃ rūpaṃ ajjhattikaṃ taṃ na kabaḷīkāro āhāro yaṃ taṃ rūpaṃ bāhiraṃ taṃ atthi kabaḷīkāro āhāro atthi na kabaḷīkāro āhāro
-
-
+evaṃ tividhena rūpasaṅgaho
+tikaṃ
 
 catubbidhena  rūpasaṅgaho 
  yaṃ taṃ rūpaṃ upādā taṃ atthi upādiṇṇaṃ atthi anupādiṇṇaṃ yaṃ taṃ rūpaṃ no upādā taṃ atthi upādiṇṇaṃ atthi anupādiṇṇaṃ
@@ -113,50 +113,50 @@ yaṃ taṃ rūpaṃ indriyaṃ taṃ atthi oḷārikaṃ atthi sukhumaṃ yaṃ
 yaṃ  taṃ rūpaṃ indriyaṃ taṃ atthi dūre atthi santike yaṃ taṃ rūpaṃ na indriyaṃ taṃ atthi dūre atthi santike
 yaṃ taṃ rūpaṃ mahābhūtaṃ taṃ atthi oḷārikaṃ atthi sukhumaṃ yaṃ taṃ rūpaṃ na mahābhūtaṃ taṃ atthi oḷārikaṃ atthi sukhumaṃ
 yaṃ taṃ rūpaṃ mahābhūtaṃ taṃ atthi dūre atthi  santike yaṃ taṃ rūpaṃ na mahābhūtaṃ taṃ atthi dūre atthi santike
-
-
-
+diṭṭhaṃ sutaṃ mutaṃ viññātaṃ rūpaṃ
+evaṃ catubbidhena rūpasaṅgaho
+catukkaṃ
 
 pañcavidhena  rūpasaṅgaho 
  pathavīdhātu āpodhātu tejodhātu vāyodhātu yañca rūpaṃ upādā
-
-
+evaṃ pañcavidhena rūpasaṅgaho
+pañcakaṃ
 
 chabbidhena rūpasaṅgaho 
  cakkhuviññeyyaṃ  rūpaṃ sotaviññeyyaṃ rūpaṃ ghānaviññeyyaṃ rūpaṃ jivhāviññeyyaṃ rūpaṃ kāyaviññeyyaṃ rūpaṃ manoviññeyyaṃ rūpaṃ
-
-
+evaṃ chabbidhena rūpasaṅgaho
+chakkaṃ
 
 sattavidhena rūpasaṅgaho 
  cakkhuviññeyyaṃ rūpaṃ sotaviññeyyaṃ rūpaṃ ghānaviññeyyaṃ rūpaṃ jivhāviññeyyaṃ rūpaṃ kāyaviññeyyaṃ rūpaṃ manodhātuviññeyyaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ
-
-
+evaṃ sattavidhena rūpasaṅgaho
+sattakaṃ
 
 aṭṭhavidhena rūpasaṅgaho 
  cakkhuviññeyyaṃ rūpaṃ sotaviññeyyaṃ rūpaṃ ghānaviññeyyaṃ rūpaṃ jivhāviññeyyaṃ rūpaṃ kāyaviññeyyaṃ rūpaṃ atthi sukhasamphassaṃ atthi dukkhasamphassaṃ manodhātuviññeyyaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ
-
-
+evaṃ aṭṭhavidhena rūpasaṅgaho
+aṭṭhakaṃ
 
 navavidhena  rūpasaṅgaho 
  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ yañca rūpaṃ na indriyaṃ
-
-
+evaṃ navavidhena rūpasaṅgaho
+navakaṃ
 
 dasavidhena  rūpasaṅgaho 
  cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ na indriyaṃ rūpaṃ atthi sappaṭighaṃ atthi appaṭighaṃ
-
-
+evaṃ dasavidhena rūpasaṅgaho
+dasakaṃ
 
 ekādasavidhena rūpasaṅgaho 
  cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ  gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ yañca rūpaṃ anidassanaappaṭighaṃ  dhammāyatanapariyāpannaṃ
-
-
-
+evaṃ ekādasavidhena rūpasaṅgaho
+ekādasakaṃ
+mātikā
 
 
  sabbaṃ  rūpaṃ na hetumeva ahetukameva hetuvippayuttameva sappaccayameva saṅkhatameva rūpameva lokiyameva sāsavameva saṃyojaniyameva ganthaniyameva oghaniyameva yoganiyameva nīvaraṇiyameva parāmaṭṭhameva upādāniyameva saṃkilesikameva abyākatameva anārammaṇameva acetasikameva cittavippayuttameva nevavipākanavipākadhammadhammameva asaṃkiliṭṭhasaṃkilesikameva na savitakkasavicārameva na avitakkavicāramattameva avitakkaavicārameva  na pītisahagatameva na sukhasahagatameva na upekkhāsahagatameva neva dassanena na bhāvanāya pahātabbameva neva dassanena na bhāvanāya pahātabbahetukameva neva ācayagāmi na apacayagāmimeva nevasekkhanāsekkhameva parittameva kāmāvacarameva na rūpāvacarameva na arūpāvacarameva pariyāpannameva no apariyāpannameva aniyatameva aniyyānikameva uppannaṃ chahi viññāṇehi viññeyyameva aniccameva jarābhibhūtameva
-
-
+evaṃ ekavidhena rūpasaṅgaho
+ekakaniddeso
 
 
  katamaṃ  taṃ rūpaṃ upādā cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ kāyaviññatti vacīviññatti ākāsadhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati rūpassa jaratā rūpassa aniccatā kabaḷīkāro āhāro
@@ -210,16 +210,16 @@ ekādasavidhena rūpasaṅgaho
  katamaṃ taṃ rūpaṃ rūpassa jaratā yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko  idaṃ taṃ rūpaṃ rūpassa jaratā
  katamaṃ taṃ rūpaṃ rūpassa aniccatā yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ  idaṃ taṃ rūpaṃ rūpassa aniccatā
  katamaṃ  taṃ rūpaṃ kabaḷīkāro āhāro odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ  sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ yāya ojāya sattā yāpenti  idaṃ taṃ rūpaṃ kabaḷīkāro āhāro
-
-
-
+idaṃ taṃ rūpaṃ upādā
+upādābhājanīyaṃ
+rūpakaṇḍe paṭhamabhāṇavāro
  katamaṃ  taṃ rūpaṃ no upādā phoṭṭhabbāyatanaṃ āpodhātu
  katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ yaṃ phoṭṭhabbaṃ anidassanaṃ sappaṭighaṃ kāyena anidassanena sappaṭighena phusi vā phusati vā phusissati vā phuse vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā  idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ
  katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ yamhi phoṭṭhabbamhi anidassanamhi sappaṭighamhi kāyo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā  idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ
  katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ yo phoṭṭhabbo anidassano sappaṭigho kāyamhi anidassanamhi  sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā  idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ
  katamaṃ  taṃ rūpaṃ phoṭṭhabbāyatanaṃ pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphassajā vedanā saññā cetanā kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā yaṃ phoṭṭhabbārammaṇo kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā yaṃ phoṭṭhabbārammaṇā kāyaṃ nissāya kāyasamphassajā vedanā saññā cetanā kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā  idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ
  katamaṃ  taṃ rūpaṃ āpodhātu yaṃ  āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa  idaṃ taṃ rūpaṃ āpodhātu
-
+idaṃ taṃ rūpaṃ no upādā
  katamaṃ  taṃ rūpaṃ upādiṇṇaṃ cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ upādiṇṇaṃ
  katamaṃ taṃ rūpaṃ anupādiṇṇaṃ saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ anupādiṇṇaṃ
  katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ cakkhāyatanaṃ kāyāyatanaṃ itthindriyaṃ  purisindriyaṃ jīvitindriyaṃ yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ
@@ -312,8 +312,8 @@ ekādasavidhena rūpasaṅgaho
  katamaṃ taṃ rūpaṃ rūpassa na aniccatā cakkhāyatanaṃ kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ rūpassa na aniccatā
  katamaṃ taṃ rūpaṃ kabaḷīkāro āhāro odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ yāya ojāya sattā yāpenti  idaṃ taṃ rūpaṃ kabaḷīkāro āhāro
  katamaṃ  taṃ rūpaṃ na kabaḷīkāro āhāro cakkhāyatanaṃ rūpassa aniccatā  idaṃ taṃ rūpaṃ na kabaḷīkāro āhāro
-
-
+evaṃ duvidhena rūpasaṅgaho
+dukaniddeso
 
  katamaṃ taṃ rūpaṃ ajjhattikaṃ upādā cakkhāyatanaṃ kāyāyatanaṃ  idaṃ taṃ rūpaṃ ajjhattikaṃ upādā
  katamaṃ taṃ rūpaṃ bāhiraṃ upādā rūpāyatanaṃ kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ bāhiraṃ upādā
@@ -453,8 +453,8 @@ ekādasavidhena rūpasaṅgaho
  katamaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro cakkhāyatanaṃ kāyāyatanaṃ  idaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro 
  katamaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi  janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ yāya ojāya sattā yāpenti  idaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro
  katamaṃ  taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro rūpāyatanaṃ rūpassa aniccatā  idaṃ taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro
-
-
+evaṃ tividhena rūpasaṅgaho
+tikaniddeso
 
  katamaṃ taṃ rūpaṃ upādā upādiṇṇaṃ cakkhāyatanaṃ kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ upādā upādiṇṇaṃ
  katamaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā  rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ
@@ -541,47 +541,47 @@ ekādasavidhena rūpasaṅgaho
  katamaṃ taṃ rūpaṃ na mahābhūtaṃ dūre itthindriyaṃ  kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ na mahābhūtaṃ dūre
  katamaṃ  taṃ rūpaṃ na mahābhūtaṃ santike cakkhāyatanaṃ rasāyatanaṃ  idaṃ taṃ rūpaṃ na mahābhūtaṃ santike
  rūpāyatanaṃ diṭṭhaṃ saddāyatanaṃ sutaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ mutaṃ sabbaṃ rūpaṃ manasā viññātaṃ rūpaṃ
-
-
+evaṃ catubbidhena rūpasaṅgaho
+catukkaṃ
 
  katamaṃ taṃ rūpaṃ pathavīdhātu yaṃ kakkhaḷaṃ kharagataṃ  kakkhaḷattaṃ kakkhaḷabhāvo ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā  idaṃ taṃ rūpaṃ pathavīdhātu
  katamaṃ  taṃ rūpaṃ āpodhātu yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā  idaṃ taṃ rūpaṃ āpodhātu
  katamaṃ  taṃ rūpaṃ tejodhātu yaṃ tejo tejogataṃ usmā usmāgataṃ usumaṃ usumagataṃ ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā  idaṃ taṃ rūpaṃ tejodhātu
  katamaṃ taṃ rūpaṃ vāyodhātu yaṃ vāyo vāyogataṃ thambhitattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā  idaṃ taṃ rūpaṃ vāyodhātu
  katamaṃ taṃ rūpaṃ upādā cakkhāyatanaṃ kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ upādā
-
-
+evaṃ pañcavidhena rūpasaṅgaho
+pañcakaṃ
 
  rūpāyatanaṃ  cakkhuviññeyyaṃ rūpaṃ saddāyatanaṃ sotaviññeyyaṃ rūpaṃ gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ sabbaṃ rūpaṃ manoviññeyyaṃ rūpaṃ
-
-
+evaṃ chabbidhena rūpasaṅgaho
+chakkaṃ
 
  rūpāyatanaṃ  cakkhuviññeyyaṃ rūpaṃ saddāyatanaṃ sotaviññeyyaṃ rūpaṃ gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ
-
-
+evaṃ sattavidhena rūpasaṅgaho
+sattakaṃ
 
  rūpāyatanaṃ  cakkhuviññeyyaṃ rūpaṃ saddāyatanaṃ sotaviññeyyaṃ rūpaṃ gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ manāpiyo phoṭṭhabbo sukhasamphasso kāyaviññeyyaṃ rūpaṃ amanāpiyo phoṭṭhabbo dukkhasamphasso kāyaviññeyyaṃ rūpaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ
-
-
+evaṃ aṭṭhavidhena rūpasaṅgaho
+aṭṭhakaṃ
 
  katamaṃ taṃ rūpaṃ cakkhundriyaṃ yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo suñño gāmo peso  idaṃ taṃ rūpaṃ cakkhundriyaṃ 
  katamaṃ taṃ rūpaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ   itthindriyaṃ purisindriyaṃ jīvitindriyaṃ yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ  idaṃ taṃ rūpaṃ jīvitindriyaṃ
  katamaṃ taṃ rūpaṃ na indriyaṃ rūpāyatanaṃ kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ na indriyaṃ
-
-
+evaṃ navavidhena rūpasaṅgaho
+navakaṃ
 
  katamaṃ  taṃ rūpaṃ cakkhundriyaṃ yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo suñño gāmo peso  idaṃ taṃ rūpaṃ cakkhundriyaṃ
  katamaṃ taṃ rūpaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ yo tesaṃ rūpīnaṃ dhammānaṃ  āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ  idaṃ taṃ rūpaṃ jīvitindriyaṃ
  katamaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ rūpāyatanaṃ phoṭṭhabbāyatanaṃ  idaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ
  katamaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ kāyaviññatti kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ
-
-
+evaṃ dasavidhena rūpasaṅgaho
+dasakaṃ
 
  katamaṃ  taṃ rūpaṃ cakkhāyatanaṃ yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo suñño gāmo peso  idaṃ taṃ rūpaṃ cakkhāyatanaṃ 
  katamaṃ taṃ rūpaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ pathavīdhātu phoṭṭhabbadhātu pesā  idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ
  katamaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ itthindriyaṃ kabaḷīkāro āhāro  idaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ
-
-
-
-
-
+evaṃ ekādasavidhena rūpasaṅgaho
+ekādasakaṃ
+aṭṭhamabhāṇavāro
+rūpavibhatti
+rūpakaṇḍaṃ niṭṭhitaṃ

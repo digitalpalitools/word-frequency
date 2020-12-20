@@ -323,7 +323,7 @@ Pulliṅga
 ‘‘’’.
 ,,,,,,,,,.
 ,.
-Akārantaṃ.
+.
 .
 ,,.
 –
@@ -331,7 +331,7 @@ Akārantaṃ.
 ...
 ,,,,,,,,,,,,,,.
 .
-Ākārantaṃ.
+.
 .,,
 ‘‘,,’’.
 145..
@@ -361,7 +361,7 @@ Akārantaṃ.
 ,
 .
 .
-Ikārantaṃ.
+.
 .
 ‘‘’’–
 ‘‘’’.
@@ -404,7 +404,7 @@ Ikārantaṃ.
 .
 ,,,,,.
 ...
-Īkārantaṃ.
+.
 .
 ,..
 ‘‘’’,‘‘’’..
@@ -466,7 +466,7 @@ Ikārantaṃ.
 .,.–,,,,,.
 ,.,,,,,.,,,,,,,,,.
 ,.
-Ukārantaṃ.
+.
 .
 ,.,.
 ‘‘’’,..,,.
@@ -474,7 +474,7 @@ Ukārantaṃ.
 ,,,..,.
 .,,‘‘’’..,,,,.
 .
-Ūkārantaṃ.
+.
 .
 .
 ,,.
@@ -499,10 +499,10 @@ Ukārantaṃ.
 ,..,.
 ‘‘’’.‘‘’’..
 ,,,,,.
-Okārantaṃ.
+.
 ,’;
 ’,.
-Pulliṅgaṃ niṭṭhitaṃ.
+.
 ,,,,,.
 ‘‘’’.,.,,,,.
 ‘‘’’‘‘’’‘‘’’.
@@ -601,7 +601,7 @@ Pulliṅgaṃ niṭṭhitaṃ.
 ;
 ,
 .
-Tiliṅgaṃ niṭṭhitaṃ.
+.
 Aliṅganāma
 .
 .‘‘’’.
@@ -715,7 +715,7 @@ Aliṅganāma
 ?.
 ,‘‘’’
 ,,,,,,,,.
-Aliṅganāmaṃ niṭṭhitaṃ.
+.
 Vibhattippaccayavidhāna
 .
 ,,.
@@ -784,7 +784,7 @@ Vibhattippaccayavidhāna
 ..
 281..
 .,..
-Vibhattippaccayavidhānaṃ niṭṭhitaṃ.
+.
 Opasaggikapada
 .
 .
@@ -820,7 +820,7 @@ Opasaggikapada
 ,,,,,,,,,,,,,,,,,,,.,,,,.
 ,;
 ,.
-Opasaggikapadaṃ niṭṭhitaṃ.
+.
 Nepātikapada
 .
 ’’’.
@@ -895,7 +895,7 @@ Nepātikapada
 –
 ‘‘,;
 ,’’.
-Nepātikapadaṃ niṭṭhitaṃ.
+.
 ,;
 ,.
-Iti padarūpasiddhiyaṃ nāmakaṇḍo dutiyo.
+.

@@ -64,7 +64,7 @@ adesayī (sī.),;
 241.
 ,;
 ,.
-Ratanasuttaṃ paṭhamaṃ niṭṭhitaṃ.
+.
 2. Āmagandhasuttaṃ
 242.
 ‘‘,;
@@ -110,7 +110,7 @@ ajjhena kujjaṃ (sī. pī.),.
 255.
 ,;
 ,.
-Āmagandhasuttaṃ dutiyaṃ niṭṭhitaṃ.
+.
 3. Hirisuttaṃ
 256.
 ,sakhāhamasmi (sī. syā. kaṃ. pī.);
@@ -127,7 +127,7 @@ atthanvayaṃ (ka.),;
 260.
 ,;
 ,.
-Hirisuttaṃ tatiyaṃ niṭṭhitaṃ.
+.
 4. Maṅgalasuttaṃ
 –.;.–
 261.
@@ -166,7 +166,7 @@ dhammasavaṇaṃ (katthaci), dhammasavanaṃ (sī. ka.),.
 272.
 ‘‘,;
 ,’’.
-Maṅgalasuttaṃ catutthaṃ niṭṭhitaṃ.
+.
 5. Sūcilomasuttaṃ
 –..–‘‘’’.‘‘,.yāva jānāmi (sī. pī.)yadi vā samaṇo (syā.),’’yadi vā samaṇakoti (sī. syā. pī.).
 ;..–‘‘,’’?‘‘,,;’’.
@@ -184,7 +184,7 @@ Maṅgalasuttaṃ catutthaṃ niṭṭhitaṃ.
 275.
 ‘‘,;
 ,’’.
-Sūcilomasuttaṃ pañcamaṃ niṭṭhitaṃ.
+.
 6. Dhammacariyasuttaṃ
 276.
 ,;
@@ -216,7 +216,7 @@ palāse (ka.),;
 285.
 ,;
 ,.
-Dhammacariyasuttaṃ kapilasuttaṃ (aṭṭha.) chaṭṭhaṃ niṭṭhitaṃ.
+kapilasuttaṃ (aṭṭha.).
 7. Brāhmaṇadhammikasuttaṃ
 –.;..–‘‘,,’’?‘‘,,’’.‘‘,’’.‘‘,,,,’’.‘‘,’’.–
 286.
@@ -323,7 +323,7 @@ Dhammacariyasuttaṃ kapilasuttaṃ (aṭṭha.) chaṭṭhaṃ niṭṭhitaṃ.
 ‘‘,;
 nirākatvā (?) yathā anirākatajjhānoti,’’.
 ,–‘‘,….…’’.
-Brāhmaṇadhammikasuttaṃ sattamaṃ niṭṭhitaṃ.
+.
 8. Nāvāsuttaṃ
 318.
 ,;
@@ -349,7 +349,7 @@ Brāhmaṇadhammikasuttaṃ sattamaṃ niṭṭhitaṃ.
 325.
 ,;
 ,so sukhaṃ (sī.).
-Nāvāsuttaṃ aṭṭhamaṃ niṭṭhitaṃ.
+.
 9. Kiṃsīlasuttaṃ
 326.
 ‘‘,;
@@ -374,7 +374,7 @@ sārambha kakkassa kasāva mucchaṃ (syā. pī.),.
 ;
 ,
 ’’.
-Kiṃsīlasuttaṃ navamaṃ niṭṭhitaṃ.
+.
 10. Uṭṭhānasuttaṃ
 333.
 ,;
@@ -389,7 +389,7 @@ Kiṃsīlasuttaṃ navamaṃ niṭṭhitaṃ.
 336.
 ,;
 ,abbūḷhe (syā. pī.), abbuhe (ka. aṭṭha.).
-Uṭṭhānasuttaṃ dasamaṃ niṭṭhitaṃ.
+.
 11. Rāhulasuttaṃ
 337.
 ‘‘,;
@@ -416,7 +416,7 @@ okkādhāro (syā. ka.),’’tava (sī. aṭṭha.).
 ‘‘,;
 ,’’.
 .
-Rāhulasuttaṃ ekādasamaṃ niṭṭhitaṃ.
+.
 12. Nigrodhakappasuttaṃ
 –..–‘‘’’?;.–‘‘,,–‘,’’’.–
 345.
@@ -469,7 +469,7 @@ taṇhāya (ka.);
 360.
 ‘‘,;
 ,’’.
-Nigrodhakappasuttaṃ dvādasamaṃ niṭṭhitaṃ.
+.
 13. Sammāparibbājanīyasuttaṃ
 361.
 ‘‘,
@@ -526,7 +526,7 @@ parikkhayā (pī.),’’.
 377.
 ‘‘,;
 sabbasaṃyojaniye ca vītivatto (sī. syā. pī.),’’.
-Sammāparibbājanīyasuttaṃ terasamaṃ niṭṭhitaṃ.
+.
 14. Dhammikasuttaṃ
 –.;.–
 378.
@@ -616,8 +616,8 @@ na heso (sī.),.
 406.
 ‘‘,;
 ,’’.
-Dhammikasuttaṃ cuddasamaṃ niṭṭhitaṃ.
-Cūḷavaggo dutiyo niṭṭhito.
+.
+.
 –
 ,;
 kapilo brāhmaṇopi ca (syā. ka.),.

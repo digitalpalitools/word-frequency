@@ -30,7 +30,7 @@
 ;
 ,
 .
-Ayaṃ paṭhamasaṅgītikathā saṅkhepo.
+.
 .,,,,,,,,,.
 .,,,..,.....
 .
@@ -47,7 +47,7 @@ Ayaṃ paṭhamasaṅgītikathā saṅkhepo.
 ;
 ,
 ;
-Ayaṃ dutiyasaṅgītikathāsaṅkhepo.
+.
 ..,,,.
 ...,.
 ,.,,....
@@ -67,7 +67,7 @@ Ayaṃ dutiyasaṅgītikathāsaṅkhepo.
 ;
 ,
 .
-Ayaṃ tatiyasaṅgītikathāsaṅkhepo.
+.
 ..-,,,,,,,,....
 ....,,.,..
 .,....
@@ -91,5 +91,5 @@ Ayaṃ tatiyasaṅgītikathāsaṅkhepo.
 ,,.
 ,.
 ...
-Iti sāsanavaṃse navaṭṭhānāgatasāsanavaṃsakathāmaggo
-Nāma paṭhamo paricchedo.
+
+.

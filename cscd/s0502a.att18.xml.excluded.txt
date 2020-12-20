@@ -29,7 +29,7 @@
 ,
 ’’.
 ,,..,.‘‘,,’’...,..,.,..
-Goghātakaputtavatthu paṭhamaṃ.
+.
 2. Aññatarabrāhmaṇavatthu
 .
 ...‘‘’’.‘‘’’.
@@ -39,7 +39,7 @@ Goghātakaputtavatthu paṭhamaṃ.
 ,’’.
 ...,,,,.
 ,.
-Aññatarabrāhmaṇavatthu dutiyaṃ.
+.
 3. Tissattheravatthu
 .
 ..‘‘’’.‘‘,’’..‘‘,.,,,’’.‘‘,,’’?.,‘‘,,’’..
@@ -52,7 +52,7 @@ Aññatarabrāhmaṇavatthu dutiyaṃ.
 ’’.
 ..‘‘’’,.–,.
 .
-Tissattheravatthu tatiyaṃ.
+.
 4. Lāludāyittheravatthu
 .
 ,...‘‘,’’.‘‘,’’,‘‘,’’,‘‘,’’..
@@ -68,7 +68,7 @@ Tissattheravatthu tatiyaṃ.
 ,’’.
 ,‘‘’’.,‘‘’’.,‘‘’’.,,,‘‘’’..
 .
-Lāludāyittheravatthu catutthaṃ.
+.
 5. Aññatarakulaputtavatthu
 .
 ..‘‘,,’’.,‘‘,‘,’,’’–
@@ -84,7 +84,7 @@ Lāludāyittheravatthu catutthaṃ.
 .,‘‘,’’..‘‘’’..‘‘’’,.–‘‘’’...
 ...,,.
 .
-Aññatarakulaputtavatthu pañcamaṃ.
+.
 6. Cūḷasārivatthu
 .
 ,‘‘,,,,’’...,‘‘,,’’–
@@ -100,7 +100,7 @@ Aññatarakulaputtavatthu pañcamaṃ.
 ..‘‘,’’‘‘,’’...,.
 .‘‘’’.....
 .
-Cūḷasārivatthu chaṭṭhaṃ.
+.
 7. Pañcaupāsakavatthu
 .
 ,.‘‘,’’.‘‘’’–
@@ -115,7 +115,7 @@ Cūḷasārivatthu chaṭṭhaṃ.
 ,’’.
 ......,,,.,...,....
 ,.
-Pañcaupāsakavatthu sattamaṃ.
+.
 8. Tissadaharavatthu
 .
 ,.‘‘’’,‘‘’’.‘‘’’,‘‘,,’’.‘‘’’..‘‘’’,‘‘,’’‘‘’’.–‘‘.’’?‘‘,’’,‘‘,,’’.‘‘,,’’..
@@ -132,7 +132,7 @@ Pañcaupāsakavatthu sattamaṃ.
 ,’’.
 .,.‘‘,’’..,.
 .
-Tissadaharavatthu aṭṭhamaṃ.
+.
 9. Pañcaupāsakavatthu
 .
 .‘‘,,,,,’’..,,,,.
@@ -144,7 +144,7 @@ Tissadaharavatthu aṭṭhamaṃ.
 ,’’.
 .,..,,.
 ,.
-Pañcaupāsakavatthu navamaṃ.
+.
 10. Meṇḍakaseṭṭhivatthu
 .
 ,,,,,..?..,..
@@ -170,7 +170,7 @@ Pañcaupāsakavatthu navamaṃ.
 ,’’.
 ,..,,.,.
 .
-Meṇḍakaseṭṭhivatthu dasamaṃ.
+.
 11. Ujjhānasaññittheravatthu
 .
 ‘‘,’’.‘‘,,’’.,‘‘,.,,’’–
@@ -179,7 +179,7 @@ Meṇḍakaseṭṭhivatthu dasamaṃ.
 ,’’.
 ,..
 .
-Ujjhānasaññittheravatthu ekādasamaṃ.
+.
 12. Subhaddaparibbājakavatthu
 .
 ..‘‘‘’,,’’,‘‘,,’’,‘‘,,,’’.–
@@ -191,6 +191,6 @@ Ujjhānasaññittheravatthu ekādasamaṃ.
 ,’’.
 ......,.
 ,.
-Subhaddaparibbājakavatthu dvādasamaṃ.
-Malavaggavaṇṇanā niṭṭhitā.
-Aṭṭhārasamo vaggo.
+.
+.
+.

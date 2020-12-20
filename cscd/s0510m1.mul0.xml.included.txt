@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 
@@ -252,7 +252,7 @@ sambuddhe arahante ca vandamānā namassatha
  evaṃ acintiyā buddhā buddhadhammā acintiyā
 acintiye pasannānaṃ vipāko hoti acintiyo
 itthaṃ sudaṃ bhagavā attano buddhacariyaṃ sambhāvayamāno buddhāpadāniyaṃ  nāma dhammapariyāyaṃ abhāsitthāti
-
+buddhāpadānaṃ samattaṃ
 
 atha  paccekabuddhāpadānaṃ suṇātha 
 
@@ -429,7 +429,7 @@ tā sakyasīhena naruttamena pakāsitā dhammavijānanatthaṃ
 
  lokānukampāya  imāni tesaṃ paccekabuddhāna vikubbitāni
 saṃvegasaṅgamativaḍḍhanatthaṃ sayambhusīhena pakāsitānīti
-
+paccekabuddhāpadānaṃ samattaṃ
 
 atha therāpadānaṃ suṇātha 
 
@@ -834,7 +834,7 @@ asaṅkhatena rittāse sārena kadalī yathā
 
  pacchime bhavasampatte brahmabandhu ahosahaṃ
 mahābhogaṃ chaḍḍetvāna pabbajiṃ anagāriyaṃ
-
+paṭhamabhāṇavāraṃ
 
  ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū
 brāhmaṇo sañcayo  nāma tassa mūle vasāmahaṃ
@@ -1139,7 +1139,7 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sāriputto thero imā gāthāyo
 abhāsitthāti
-
+sāriputtattherassāpadānaṃ paṭhamaṃ
 
 
  anomadassī bhagavā lokajeṭṭho narāsabho
@@ -1211,7 +1211,7 @@ tāhaṃ bhūmimanuppatto pattomhi āsavakkhayaṃ
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā mahāmoggallāno thero imā gāthāyo abhāsitthāti
-
+mahāmoggallānattherassāpadānaṃ dutiyaṃ
 
 
  padumuttarassa  bhagavato lokajeṭṭhassa tādino
@@ -1283,7 +1283,7 @@ asītikoṭiyo hitvā hiraññassāpi pabbajiṃ
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā mahākassapo thero imā gāthāyo abhāsitthāti
-
+mahākassapattherassāpadānaṃ tatiyaṃ
 
 
  sumedhaṃ  bhagavantāhaṃ lokajeṭṭhaṃ narāsabhaṃ
@@ -1325,7 +1325,7 @@ tassa dīpo mayā dinno vippasannena cetasā
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā anuruddho thero imā gāthāyo abhāsitthāti
-
+anuruddhattherassāpadānaṃ catutthaṃ
 
 
  ajjhāyako mantadharo tiṇṇaṃ vedāna pāragū
@@ -1351,7 +1351,7 @@ sattaratanasampannā catudīpamhi issarā
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā puṇṇo mantāṇiputto thero imā gāthāyo abhāsitthāti
-
+puṇṇamantāṇiputtattherassāpadānaṃ pañcamaṃ
 
 
  nagare haṃsavatiyā sujāto nāma brāhmaṇo
@@ -1582,7 +1582,7 @@ gajjasi dhammameghena bhārato parimuccahaṃ
 
  suññataṃ  animittañca tathāppaṇihitampi ca
 caturo ca phale sabbe dhammevaṃ vijanayiṃ  ahaṃ
-
+dutiyabhāṇavāraṃ
 
  aparimeyyupādāya patthemi tava sāsanaṃ
 so me attho anuppatto santipadamanuttaraṃ
@@ -1823,7 +1823,7 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā upāli thero imā gāthāyo abhāsitthāti
-
+upālittherassāpadānaṃ chaṭṭhaṃ
 
 
  padumuttarasambuddhaṃ lokajeṭṭhaṃ vināyakaṃ
@@ -1878,7 +1878,7 @@ sabbāsave pariññāya viharāmi anāsavo
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā aññāsikoṇḍañño  thero imā
 gāthāyo abhāsitthāti
-
+aññāsikoṇḍaññattherassāpadānaṃ sattamaṃ
 
 
  padumuttaro nāma jino sayambhū aggapuggalo
@@ -1926,7 +1926,7 @@ sabbāsave pariññāya nibbāyissatināsavo
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā piṇḍolabhāradvājo thero imā gāthāyo abhāsitthāti
-
+piṇḍolabhāradvājattherassāpadānaṃ aṭṭhamaṃ
 
 
  gaṅgā bhāgīrathī nāma himavantā pabhāvitā
@@ -1977,7 +1977,7 @@ vanavāsibhikkhūnaggaṃ paññapesi mahāmati
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā khadiravaniyo revato thero imā gāthāyo abhāsitthāti
-
+khadiravaniyarevatattherassāpadānaṃ navamaṃ
 
 
  ārāmadvārā  nikkhamma padumuttaro mahāmuni
@@ -2040,10 +2040,10 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ānando thero imā gāthāyo abhāsitthāti
-
+ānandattherassāpadānaṃ dasamaṃ
 tassuddānaṃ 
 buddho  paccekabuddho ca sāriputto ca kolito
 kassapo anuruddho ca puṇṇatthero upāli ca
 aññāsikoṇḍañño piṇḍolo revatānandapaṇḍito
 chasatāni ca paññāsa gāthāyo sabbapiṇḍitā
-
+apadāne buddhavaggo paṭhamo

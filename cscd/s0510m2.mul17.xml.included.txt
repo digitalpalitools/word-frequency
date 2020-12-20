@@ -37,7 +37,7 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ yasavatīpamukhāni khattiyakaññābhikkhuniyo aṭṭhārasasahassāni bhagavato sammukhā imā gāthāyo abhāsitthāti
-
+yasavatīpamukhaaṭṭhārasabhikkhunīsahassāpadānaṃ paṭhamaṃ
 
 
  cullāsītisahassāni  brāhmaññakulasambhavā 
@@ -169,7 +169,7 @@ upanenti sadā amhe sahassāni tato tato
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ caturāsītibrāhmaṇakaññābhikkhunīsahassāni bhagavato sammukhā imā gāthāyo abhāsitthāti
-
+caturāsītibhikkhunīsahassāpadānaṃ dutiyaṃ
 
 
  nagare aruṇavatiyā aruṇo nāma khattiyo
@@ -244,7 +244,7 @@ sabbāsavaparikkhīṇā natthi dāni punabbhavo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ uppaladāyikā bhikkhunī bhagavato sammukhā imā gāthāyo abhāsitthāti
-
+uppaladāyikātheriyāpadānaṃ tatiyaṃ
 
 
  padumuttaro  nāma jino sabbadhammāna pāragū
@@ -333,7 +333,7 @@ sabbāsavaparikkhīṇā natthi dāni punabbhavo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ siṅgālamātā bhikkhunī imā gāthāyo abhāsitthāti
-
+siṅgālamātutheriyāpadānaṃ catutthaṃ
 
 
  ekanavutito  kappe vipassī nāma nāyako
@@ -429,8 +429,8 @@ sabbāsavaparikkhīṇā natthi dāni punabbhavo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ sukkā bhikkhunī imā gāthāyo abhāsitthāti
-
-
+sukkātheriyāpadānaṃ pañcamaṃ
+pañcamaṃ bhāṇavāraṃ
 
 
  ekanavutito kappe vipassī nāma nāyako
@@ -505,7 +505,7 @@ sabbāsavaparikkhīṇā  natthi dāni punabbhavo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ abhirūpanandā bhikkhunī imā gāthāyo abhāsitthāti
-
+abhirūpanandātheriyāpadānaṃ chaṭṭhaṃ
 
 
  imamhi bhaddake kappe brahmabandhu mahāyaso
@@ -553,7 +553,7 @@ sabbāsavaparikkhīṇā natthi dāni punabbhavo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ aḍḍhakāsi bhikkhunī imā gāthāyo abhāsitthāti
-
+aḍḍhakāsitheriyāpadānaṃ sattamaṃ
 
 
  vipassino bhagavato sikhino vessabhussa ca
@@ -613,7 +613,7 @@ mānena nīcakulajā na hi kammaṃ vinassati
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ puṇṇikā bhikkhunī imā gāthāyo abhāsitthāti
-
+puṇṇikātheriyāpadānaṃ aṭṭhamaṃ
 
 
  yo  raṃsiphusitāveḷo phusso nāma mahāmuni
@@ -660,9 +660,9 @@ sabbāsavaparikkhīṇā natthi dāni punabbhavo
  svāgataṃ  vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ ambapāli bhikkhunī imā gāthāyo
 abhāsitthāti
-
+ambapālitheriyāpadānaṃ navamaṃ
 
 
  imamhi bhaddake kappe brahmabandhu mahāyaso
@@ -707,8 +707,8 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ pesalā  bhikkhunī imā gāthāyo abhāsitthāti
-
-
+pesalātheriyāpadānaṃ dasamaṃ
+khattiyāvaggo catuttho
 tassuddānaṃ 
 khattiyā  brāhmaṇī ceva tathā uppaladāyikā
 siṅgālamātā sukkā ca abhirūpā aḍḍhakāsikā
@@ -719,5 +719,5 @@ sumedhā ekūposathā kuṇḍalakesī khattiyā
 sahassaṃ tisatā gāthā sattatālīsa piṇḍitā
 saha uddānagāthāhi gaṇitāyo vibhāvibhi
 sahassaṃ tisataṃ gāthā sattapaññāsameva cāti
-
-
+therikāpadānaṃ samattaṃ
+apadānapāḷi samattā

@@ -163,7 +163,7 @@ pāṇini 5.4.67,,.
 .,,....,,,.
 757...,,,....,,.
 .,,....,,,,.,.,,..
-Visesyādhīnavaggavaṇṇanā niṭṭhitā.
+.
 2. Saṃkiṇṇavaggavaṇṇanā
 758.,,,,,,‘‘’’.–..,.
 ,,,,,,,,..
@@ -213,7 +213,7 @@ Visesyādhīnavaggavaṇṇanā niṭṭhitā.
 ..,..,,.
 776..,,..,.,.
 ...,.
-Saṃkiṇṇavaggavaṇṇanā niṭṭhitā.
+.
 3. Anekatthavaggavaṇṇanā
 777.,,.,.
 778.‘‘’’.‘‘’’dī. ni. 1.447.‘‘,’’.‘‘’’ma. ni. 2.135.‘‘’’a. ni. 8.29.‘‘’’.‘‘’’dī. ni. 1.1.‘‘’’ma. ni. 1.28.‘‘’’saṃ. ni. 1.129.‘‘’’ma. ni. 2.208.
@@ -310,7 +310,7 @@ Saṃkiṇṇavaggavaṇṇanā niṭṭhitā.
 839....
 840.‘‘’’,,‘‘’’..,.
 841....
-Gāthānekatthavaggavaṇṇanā niṭṭhitā.
+.
 842.,,..
 .
 843...
@@ -620,7 +620,7 @@ tikaṇḍasesa 3.3.125.
 1038.....
 1039.....
 1040....
-Gāthāddhavaṇṇanā niṭṭhitā.
+.
 1041......
 1042........
 1043...
@@ -738,8 +738,8 @@ Gāthāddhavaṇṇanā niṭṭhitā.
 -
 ’’.–
 ...
-Gāthāpādavaṇṇanā niṭṭhitā.
-Anekatthavaggavaṇṇanā niṭṭhitā.
+.
+.
 4. Abyayavaggavaṇṇanā
 1136-1137..,....
 1138......‘‘,’’..‘‘,’’..,..,...
@@ -809,7 +809,7 @@ Anekatthavaggavaṇṇanā niṭṭhitā.
 1202-1203.‘‘’’.,.–,.–‘‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,’’..
 ‘‘,;
 ,’’.
-Abyayavaggavaṇṇanā niṭṭhitā.
+.
 .
 Nigamanavaṇṇanā
 1.‘‘’’.
@@ -843,4 +843,4 @@ Nigamanakathā
 ;
 ,
 .
-Abhidhānappadīpikāṭīkā niṭṭhitā.
+.

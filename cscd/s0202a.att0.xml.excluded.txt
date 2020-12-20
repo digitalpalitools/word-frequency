@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāye
 Majjhimapaṇṇāsa-aṭṭhakathā
 1. Gahapativaggo
@@ -21,8 +21,8 @@ Majjhimapaṇṇāsa-aṭṭhakathā
 6.,.,.,.,.,,.–,,.–,,,.,.,,?.,.‘‘’’..,.
 8.,......
 9..........,.,......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kandarakasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Aṭṭhakanāgarasuttavaṇṇanā
 17..,.,...
 18.…pe…,,,,.,,,,,,,,,.,,,..
@@ -35,8 +35,8 @@ Kandarakasuttavaṇṇanā niṭṭhitā.
 21....,‘‘’’.‘‘’’.‘‘,’’.,.
 ,.,,..
 ;,..,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Sekhasuttavaṇṇanā
 22..,.‘‘,,,,,’’,,.,.,,,.‘‘’’.‘‘,’’,.--.,‘‘’’‘‘’’.
 ‘‘,’’‘‘’’‘‘,,,,,,,’’.
@@ -116,8 +116,8 @@ Aṭṭhakanāgarasuttavaṇṇanā niṭṭhitā.
 ‘,;
 ,’’’.(dī. ni. 1.277)–
 .,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Sekhasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Potaliyasuttavaṇṇanā
 31..,,.,.–...,..
 ...,,..,.,..,,.
@@ -143,8 +143,8 @@ Kāmādīnavakathāvaṇṇanā
 48...
 49..
 50.,.....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Potaliyasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Jīvakasuttavaṇṇanā
 51....‘‘?.?..,’’(mahāva. 328)....
 –‘‘,,,’’..–‘‘’’.
@@ -160,8 +160,8 @@ Potaliyasuttavaṇṇanā niṭṭhitā.
 54.‘‘,,’’..
 55..,.‘‘,’’,‘‘,,’’.
 ...,–‘‘,’’.‘‘,’’‘‘,’’,..,,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Jīvakasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Upālisuttavaṇṇanā
 56....,,....,.
 ...,,,.,,,..‘‘’’.
@@ -329,8 +329,8 @@ Jīvakasuttavaṇṇanā niṭṭhitā.
 ...‘‘’’....‘‘’’.
 77..–‘‘,’’...,...
 –‘‘,,’’...,,..,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Upālisuttavaṇṇanā niṭṭhitā.
+
+.
 7. Kukkuravatikasuttavaṇṇanā
 78........,.,...
 ,..,‘‘’’‘’.......
@@ -351,8 +351,8 @@ Upālisuttavaṇṇanā niṭṭhitā.
 –‘‘,,’’.,.–‘‘,,’’...–‘‘’’.
 ............,..…pe….
 ‘‘’’..,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kukkuravatikasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Abhayarājakumārasuttavaṇṇanā
 83..........
 ,–‘‘,,’’.–‘‘,’’.–‘‘,,’’.‘‘,’’.‘‘,,’’.
@@ -366,16 +366,16 @@ Kukkuravatikasuttavaṇṇanā niṭṭhitā.
 –‘‘,,’’.,–,,,..,,.,....,,.,,,,.‘‘’’...
 ,..,....
 87.....,.,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Abhayarājakumārasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Bahuvedanīyasuttavaṇṇanā
 88......
 89..,...,,,‘‘’’,,,,,,,,,.
 90.,,.,..
 ..,.....,.
 91.....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bahuvedanīyasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Apaṇṇakasuttavaṇṇanā
 92...
 93.?.,.‘‘’’?,.‘‘,,‘’’’...‘‘,,‘’’’.‘‘?‘’’’.,,...‘‘’’...
@@ -398,6 +398,6 @@ Bahuvedanīyasuttavaṇṇanā niṭṭhitā.
 103......,.–‘‘,..,,,.’’.,,.–‘‘,..,.,.’’.
 104.......,.–‘‘,..,.,’’.,,.–‘‘,,.,.,’’.–‘‘,’’...
 105..,,....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Apaṇṇakasuttavaṇṇanā niṭṭhitā.
-Paṭhamavaggavaṇṇanā niṭṭhitā.
+
+.
+.

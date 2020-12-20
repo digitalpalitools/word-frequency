@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Suttanipāta-aṭṭhakathā
 (Paṭhamo bhāgo)
@@ -131,8 +131,8 @@ Ganthārambhakathā
 ‘‘,;
 ,’’.–
 ..‘‘,’’.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya uragasuttavaṇṇanā niṭṭhitā.
+-
+-.
 2. Dhaniyasuttavaṇṇanā
 18..?..–..,,.,..,,...,.,,,..,,.,,.
 ,,..,,,,,,,,‘‘’’.
@@ -194,8 +194,8 @@ Suttanipāta-aṭṭhakathāya uragasuttavaṇṇanā niṭṭhitā.
 ,‘‘’’.–,,,.‘‘,’’(ma. ni. 1.166).,,...,‘‘’’–‘‘’’.–,,‘‘,,,,,.,’’.
 ‘‘,’’.–,,.
 34.‘‘’’‘‘’’‘‘’’..–,,‘‘’’.,,,,.–.,.?.,‘‘,’’.,,,,.…pe….‘‘,’’..,,.,........
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya dhaniyasuttavaṇṇanā niṭṭhitā.
+-
+-.
 3. Khaggavisāṇasuttavaṇṇanā
 .?–,,,.,,,..,,,.
 ,–.–‘‘;,;’’..–
@@ -252,7 +252,7 @@ Suttanipāta-aṭṭhakathāya dhaniyasuttavaṇṇanā niṭṭhitā.
 –,,.,..
 ––‘‘,,’’?‘‘’’‘‘’’–‘‘,,,’’.–‘‘’’.–,?,.‘‘,,’’‘‘’’–‘‘’’..
 ,,,,,,..–,,.,.,..,,,,,.,..-.,.,‘‘’’..,,,,.
-Paṭhamagāthāvaṇṇanā samattā.
+.
 36.?,,,,.‘‘’’,,.,.,,.
 ‘‘’’‘‘’’..–‘‘’’.‘‘,,,,,,’’...,,.–‘‘’’..‘‘,’’.‘‘,’’‘‘,’’.,,,–‘‘,’’?‘‘’’.
 ‘‘,’’....‘‘’’‘‘,’’.,.‘‘,,’’?‘‘,’’.
@@ -263,7 +263,7 @@ Paṭhamagāthāvaṇṇanā samattā.
 ......
 ,.,,,.‘‘’’.,.
 –‘‘,’’.–‘‘,,’’?–‘‘,,’’.‘‘’’‘‘’’.,,...
-Saṃsaggagāthāvaṇṇanā samattā.
+.
 37.?‘‘,’’.‘‘’’....–‘‘’’..‘‘,’’.–
 ‘‘,;
 ,’’.
@@ -277,13 +277,13 @@ Saṃsaggagāthāvaṇṇanā samattā.
 ‘‘,,–,,,’’(dī. ni. 3.263).
 .....
 ,..‘‘,,’’.‘‘,,’’..,.–.,,...–‘‘’’..
-Mittasuhajjagāthāvaṇṇanā samattā.
+.
 38.?.,.,,,‘‘’’.‘‘’’‘‘,,,’’..‘‘’’..
 ‘‘,’’.‘‘,,’’.‘‘,‘’’’?‘‘,’’.–‘‘,,,.,,’’.–‘‘’’.–
 ‘‘,;
 ,’’.
 ..,,.,..,....?,,...
-Vaṃsakaḷīragāthāvaṇṇanā samattā.
+.
 39.?,,.....,..–‘‘,,,..,.,,’’.–‘‘,,,,’’.‘‘’’..‘‘,’’.‘‘’’..
 ‘‘’’‘‘’’,..,,,,,,,,‘‘,,,’’.‘‘,,’’.‘‘,,,’’.‘‘,’’.
 ,,‘‘’’.–
@@ -301,15 +301,15 @@ Vaṃsakaḷīragāthāvaṇṇanā samattā.
 ,...,,..,.,.–
 ‘‘,,,,,.?,,;,,…pe….,,,’’(ma. ni. 1.287; cūḷani. khaggavisāṇasuttaniddesa 125).
 ....,..?‘‘,’’....
-Migaaraññagāthāvaṇṇanā samattā.
+.
 40.?.,.‘‘,’’..,,,,..,...–‘‘,,’’.‘‘’’.‘‘’’,,,.‘‘’’.–
 ‘‘,;
 ,’’.
 –,,,‘‘,’’,,,..
-Āmantanāgāthāvaṇṇanā samattā.
+.
 41.?.....‘‘’’.,.‘‘’’..‘‘,’’...
 .–,.,,,,.,,....,.
-Khiḍḍāratigāthāvaṇṇanā samattā.
+.
 42.?.,.,,.,,.‘‘,,’’.‘‘,’’‘‘’’‘‘’’.
 ‘‘,’’.,.‘‘’’.‘‘,,’’.‘‘,’’?‘‘,’’.‘‘,’’?‘‘,,,,,,’’.
 ‘‘,,’’.–‘‘,.,’’.‘‘’’‘‘,,,’’..
@@ -317,19 +317,19 @@ Khiḍḍāratigāthāvaṇṇanā samattā.
 ‘‘,;
 ,’’.
 ,‘‘’’(dī. ni. 3.308; a. ni. 4.125; cūḷani. khaggavisāṇasuttaniddesa 128)..,.,,,...?,,.,....
-Cātuddisagāthāvaṇṇanā samattā.
+.
 43.?.‘‘,,,’’.‘‘,,’’....‘‘’’.‘‘,,,,,’’..‘‘’’......‘‘,,’’.
 –‘‘,,,,’’.‘‘’’.‘‘’’‘‘,’’.‘‘’’,‘‘’’..,.‘‘’’.‘‘,,,’’.–
 ‘‘,;
 ,’’.
 .–,,...
-Dussaṅgahagāthāvaṇṇanā samattā.
+.
 44.?.‘‘’’..,....‘‘’’.‘‘,....‘,’’’‘‘,’’.‘‘’’.‘‘,’’‘‘’’–
 ‘‘,;
 ,’’.
 ..,‘‘’’.......
 –‘‘’’..
-Koviḷāragāthāvaṇṇanā samattā. Paṭhamo vaggo niṭṭhito.
+..
 45-46.?.,...–‘‘,,,,’’...,,,.–‘‘,,,,,,,’’.
 ‘‘,,,’’.‘‘’’..‘‘,’’‘‘,,,,’’....‘‘,’’.‘‘’’.‘‘’’.–‘‘,,’’‘‘,,,’’..
 ‘‘,’’..–‘‘,,,,,,,’’..–
@@ -338,120 +338,120 @@ Koviḷāragāthāvaṇṇanā samattā. Paṭhamo vaggo niṭṭhito.
 ‘‘,;
 ,’’.
 .....,‘‘’’(ma. ni. 2.184; a. ni. 2.5; mahāni. 196)..‘‘’’,.,,..
-Sahāyagāthāvaṇṇanā samattā.
+.
 47.,.–,,.‘‘’’.‘‘,,’’.‘‘,‘’’’?‘‘,’’.‘‘’’...‘‘,’’...‘‘’’,,..‘‘,’’,,–
 ‘‘,;
 ,’’.
 ..–,,.?.?,....
-Anavajjabhojigāthāvaṇṇanā samattā.
+.
 48.?..,,.‘‘,’’..‘‘’’.,..‘‘,’’.–‘‘,’’.‘‘,’’.‘‘’’..‘‘,,’’..
 –.‘‘’’..,..–‘‘,’’..
-Suvaṇṇavalayagāthāvaṇṇanā samattā.
+.
 49.?‘‘,’’.‘‘,,,,,’’...–‘‘,,’’.‘‘,,,’’...‘‘,,,’’.‘‘,’’..
 ,‘‘’’.,‘‘,,,’’.‘‘,’’.‘‘,’’,..‘‘,,,,,,,,,,’’..,...
 –‘‘,,,’’.‘‘,’’..‘‘,’’.‘‘,,,’’.,‘‘’’...,.‘‘’’...,,,.,,,–
 ‘‘,;
 ,’’.
 .–,,,;...
-Āyatibhayagāthāvaṇṇanā samattā.
+.
 50.?...‘‘’’...‘‘,,,,’’..‘‘,.,.,’’..,..,.,.....–
 ‘‘,;
 ,’’.
 .,.....,.,....
-Kāmagāthāvaṇṇanā samattā.
+.
 51.?..‘‘’’..,,,,.,....,,,,,,.
 ‘‘,;
 ,’’.
 ,..,..;;,..,,......
-Ītigāthāvaṇṇanā samattā.
+.
 52.?..,..,.–‘‘,.;’’.–‘‘,,,’’..,,.
 ‘‘,;
 ,’’.
 ,;.....
-Sītālukagāthāvaṇṇanā samattā.
+.
 53.?..,....–‘‘,,’’...‘‘’’..‘‘’’.‘‘’’‘‘,,’’.‘‘’’..‘‘,,’’.
 ‘‘,,.,’’.,‘‘’’.‘‘’’–
 ‘‘,;
 ,’’.
 ..,.,,.,,,.,.,.,.
-Nāgagāthāvaṇṇanā samattā.
+.
 54.?..‘‘’’..,.,,,,.,,,...–‘‘,’’.‘‘,’’.‘‘’’‘‘’’.‘‘,’’.‘‘’’.
 ‘‘’’?‘‘’’.‘‘’’.‘‘,,’’‘‘,,,;,‘’’’.–‘‘,,’’.‘‘,,,’’–
 ‘‘,’’.–
 ,..‘‘,’’..,,.‘‘’’.
 –.,,‘‘’’(khu. pā. 5.11; su. ni. 270)..‘‘’’(dha. sa. 30)...‘‘’’..,,..
-Aṭṭhānagāthāvaṇṇanā samattā.
-Dutiyo vaggo niṭṭhito.
+.
+.
 55.?–‘‘,,’’.–‘‘’’?‘‘,’’.–‘‘’’?‘‘’’.‘‘,’’‘‘,’’.–
 ‘‘,;
 ,’’.
 –..,..,.....‘‘,’’.,.,,,,..
-Diṭṭhivisūkagāthāvaṇṇanā samattā.
+.
 56.?‘‘’’...‘‘,’’.‘‘’’–‘‘–‘’’’.,‘‘,’’..‘‘’’.‘‘’’.‘‘’’.‘‘,’’,,,–
 ‘‘,;
 ,’’.
 .,,.‘‘’’.,..,,.,..,.–
 ‘‘,?,,,.,?,,’’(vibha. 924).
 ,.,..,...
-Nillolupagāthāvaṇṇanā samattā.
+.
 57.?‘‘,,’’.‘‘,,,’’.–‘‘,,’’?‘‘,,’’.‘‘,,,,’’.‘‘,’’‘‘’’..‘‘,’’.‘‘,,’’.–
 ‘‘,;
 ,’’.
 –,,,..,.,.,.,,,.
-Pāpasahāyagāthāvaṇṇanā samattā.
+.
 58.?.–‘‘’’?–‘‘,,’’.–‘‘,,,’’,,,,‘‘,,’’.‘‘,,’’.‘‘,,’’.,.‘‘,,,,,’’.
 ‘‘‘’,,’’.‘‘’’‘‘’’–‘‘.,,,,’’.‘‘’’,,–
 ‘‘,;
 ,’’.
 –,.....,.,.,...–‘‘’’(ma. ni. 1.18; saṃ. ni. 2.20),.
-Bahussutagāthāvaṇṇanā samattā.
+.
 59.?..,,....–‘‘,.,,’’–
 ‘‘,;
 ,’’.
 ...–‘‘’’(saṃ. ni. 3.60).,.,,,.–,.,....
-Vibhūsanaṭṭhānagāthāvaṇṇanā samattā.
+.
 60.?.–‘‘.,’’–
 ‘‘,;
 ,’’.
 .....
-Puttadāragāthāvaṇṇanā samattā.
+.
 61.?..,,..‘‘’’.–‘‘’’....,–‘‘,,,’’–
 ‘‘,;
 ,’’.
 –..,,.‘‘,,,’’(ma. ni. 1.166).‘‘,,?,,,,’’(ma. ni. 1.167)..,.‘‘’’...
-Saṅgagāthāvaṇṇanā samattā.
+.
 62.?.,.....‘‘,,’’?..‘‘’’.–‘‘’’.,–
 ‘‘,;
 ,’’.
 .,,.,..,,..
-Sandālanagāthāvaṇṇanā samattā.
+.
 63.?.–,..‘‘,’’–
 ‘‘,;
 ,’’.
 ,...,,..,.,...,..
-Okkhittacakkhugāthāvaṇṇanā samattā.
+.
 64.?..‘‘’’....‘‘,,’’.–‘‘,,.,.,,’’.–
 ‘‘,;
 ,’’.
 ..
-Pāricchattakagāthāvaṇṇanā samattā.
-Tatiyo vaggo niṭṭhito.
+.
+.
 65.?....,.‘‘,,.’’–
 ‘‘,;
 ,’’.
 .,.‘‘,’’.,.,....,.,..
-Rasagedhagāthāvaṇṇanā samattā.
+.
 66.?.–
 ‘‘,;
 ,’’.
 ..,‘‘’’..,.,...,...
-Āvaraṇagāthāvaṇṇanā samattā.
+.
 67.?.–
 ‘‘,;
 ,’’.
 ,.....,.
 –,.‘‘’’.,..,,,.–‘‘’’(saṃ. ni. 5.510).(dha. sa. aṭṭha. 165)...
-Vipiṭṭhikatvāgāthāvaṇṇanā samattā.
+.
 68.?,.‘‘,’’–‘‘’’.–‘‘,,’’?–‘‘,,’’?‘‘,’’.‘‘,.,,,,’’..–‘‘,,,,’’.‘‘,,,,,’’.
 ‘‘’’–‘‘,,,,,,’’?–‘‘,,’’.–‘‘,,’’?–‘‘,,,,,’’.‘‘’’.
 ‘‘,’’.–‘‘,;,,’’...,.‘‘’’,.,,,,–‘‘’’.‘‘’’..
@@ -459,36 +459,36 @@ Vipiṭṭhikatvāgāthāvaṇṇanā samattā.
 ‘‘,;
 ,’’.
 ..,....‘‘’’(ma. ni. 2.184; a. ni. 2.5; mahāni. 196),‘‘,’’..,,‘‘’’.,,....
-Āraddhavīriyagāthāvaṇṇanā samattā.
+.
 69.?,.,..,,..,,..,,..,,.‘‘’’‘‘’’..
-Paṭisallānagāthāvaṇṇanā samattā.
+.
 70.?.,,...–‘‘,,’’.‘‘’’.–‘‘,,’’‘‘’’–
 ‘‘,;
 ,’’.
 ,...,.......,,.‘‘’’.‘‘,’’(su. ni. 1044; cūḷani. ajitamāṇavapucchāniddesa 7)..
-Taṇhakkhayagāthāvaṇṇanā samattā.
+.
 71.?.‘‘’’..‘‘’’.‘‘’’..,.‘‘,’’–‘‘,’’.,,–‘‘’’.
 –‘‘,’’.‘‘,’’,,–
 ‘‘,;
 ,’’.
 –,,,...,..,,,.,.,,.,,,.,,....,...
-Asantasantagāthāvaṇṇanā samattā.
+.
 72.?,,...‘‘’’.....‘‘’’.,..,,–‘‘,,’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘,’’?‘‘,,’’.‘‘,,’’?‘‘,,’’.‘‘,’’..–
 ‘‘,;
 ,’’.
 ...,,,,,.,.–‘‘’’,‘‘’’....
-Dāṭhabalīgāthāvaṇṇanā samattā.
+.
 73.?.‘‘’’,–
 ,;
 ,’’.
 ‘‘’’.‘‘’’.‘‘’’.‘‘’’.,..‘‘,,’’.
 ,.,,‘‘’’,....–‘‘’’.,(dha. sa. aṭṭha. 251)..
-Appamaññāgāthāvaṇṇanā samattā.
+.
 74.?.‘‘,,’’.,,,,–
 ‘‘,;
 ,’’.
 ...,..
-Jīvitasaṅkhayagāthāvaṇṇanā samattā.
+.
 75.?.,..‘‘,’’.,.‘‘’’?.‘‘’’.‘‘,,’’–‘‘’’.–‘‘,’’?.....‘‘,’’–
 ‘‘,;
 ,’’.
@@ -498,11 +498,11 @@ Jīvitasaṅkhayagāthāvaṇṇanā samattā.
 ,
 ’’.(dī. ni. 3.265)–
 .,,.,,...
-Kāraṇatthagāthāvaṇṇanā samattā.
-Catuttho vaggo niṭṭhito ekādasahi gāthāhi.
+.
+.
 ..
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya khaggavisāṇasuttavaṇṇanā niṭṭhitā.
+-
+-.
 4. Kasibhāradvājasuttavaṇṇanā
 .?‘‘,’’,,,.
 ‘‘,’’?–,,,,,,,.–;.,,,,,,,,‘‘’’.–‘‘,,,,’’,.
@@ -568,8 +568,8 @@ Suttanipāta-aṭṭhakathāya khaggavisāṇasuttavaṇṇanā niṭṭhitā.
 ,,,,..,,....,..,...,..…pe…..
 ,?–,,.,..
 ,....,.....
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya kasibhāradvājasuttavaṇṇanā niṭṭhitā.
+-
+-.
 5. Cundasuttavaṇṇanā
 83..?...‘‘;’’(dī. ni. 2.189),.
 ..,..,,‘‘’’.‘‘,’’‘‘’’.
@@ -591,8 +591,8 @@ Suttanipāta-aṭṭhakathāya kasibhāradvājasuttavaṇṇanā niṭṭhitā.
 ...,.‘‘’’.‘‘,,,,,,’’(ma. ni. 3.146)‘‘’’.‘‘,’’(su. ni. 284)‘‘’’.‘‘,,,,’’,,‘‘’’.
 90.‘‘’’‘‘’’.–,,,‘‘’’,,.–,‘‘’’,,,.
 ‘‘’’‘‘’’.–,‘‘’’.?,?–,,...
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya cundasuttavaṇṇanā niṭṭhitā.
+-
+-.
 6. Parābhavasuttavaṇṇanā
 .?–‘‘,.,’’....
 ‘‘’’.‘‘’’,‘‘’’,‘‘’’.‘‘’’,.
@@ -626,8 +626,8 @@ Suttanipāta-aṭṭhakathāya cundasuttavaṇṇanā niṭṭhitā.
 ,.
 ‘‘,;
 ,’’.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya parābhavasuttavaṇṇanā niṭṭhitā.
+-
+-.
 7. Aggikabhāradvājasuttavaṇṇanā
 ,‘‘’’.?.‘‘,’’,,.‘‘’’,‘‘’’.
 ,.–,.‘‘’’...‘‘’’‘‘’’.,...,‘‘’’...‘‘’’.
@@ -691,8 +691,8 @@ Suttanipāta-aṭṭhakathāya parābhavasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .–,‘‘’’,,,,,,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya aggikabhāradvājasuttavaṇṇanā niṭṭhitā.
+-
+-.
 8. Mettasuttavaṇṇanā
 .?...
 –..,,,,,.
@@ -761,8 +761,8 @@ Suttanipāta-aṭṭhakathāya aggikabhāradvājasuttavaṇṇanā niṭṭhitā
 ;
 ,
 .
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya mettasuttavaṇṇanā niṭṭhitā.
+-
+-.
 9. Hemavatasuttavaṇṇanā
 .?.‘‘’’.‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’.‘‘’’.
 ‘‘’’.–...,‘‘’’‘‘’’.,.
@@ -823,8 +823,8 @@ Suttanipāta-aṭṭhakathāya mettasuttavaṇṇanā niṭṭhitā.
 180..,,..,.?,.
 181...,.
 182...,‘‘,’’.‘‘’’-..
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya hemavatasuttavaṇṇanā niṭṭhitā.
+-
+-.
 10. Āḷavakasuttavaṇṇanā
 .?.‘‘,’’.,?–,.‘‘’’.,‘‘’’,.
 –‘‘,’’.,..,,,‘‘’’...–‘‘,’’.‘‘,,’’.‘‘,’’.
@@ -894,8 +894,8 @@ Suttanipāta-aṭṭhakathāya hemavatasuttavaṇṇanā niṭṭhitā.
 …pe……pe…’’.
 –‘‘’’.,‘‘’’.‘‘’’.‘‘,’’.‘‘’’..
 .‘‘,,’’.‘‘,,,’’...‘‘,,’’..‘‘,,’’(a ni. 1.251).
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya āḷavakasuttavaṇṇanā niṭṭhitā.
+-
+-.
 11. Vijayasuttavaṇṇanā
 .‘‘’’.?,.,,,,..,..‘‘,,’’,.?...‘‘,’’,.
 ‘‘’’..‘‘,’’..‘‘’’–
@@ -943,8 +943,8 @@ Suttanipāta-aṭṭhakathāya āḷavakasuttavaṇṇanā niṭṭhitā.
 207-208.‘‘’’.,,,,‘‘’’.
 ...,.–‘‘’’‘‘’’‘‘’’,,.
 –‘‘,,’’..,,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya vijayasuttavaṇṇanā niṭṭhitā.
+-
+-.
 12. Munisuttavaṇṇanā
 209..?,–..,.,,,.,,,.,..‘‘,,,’’‘‘,,’’(a. ni. 5.55)‘‘,–
 ‘‘,;
@@ -994,7 +994,7 @@ Suttanipāta-aṭṭhakathāya vijayasuttavaṇṇanā niṭṭhitā.
 –,,,,.‘‘’’,.?,.,,.,,.,.,.,.,.?
 223.?–‘‘,’’.‘‘,’’‘‘,,,’’.
 –,.,.,.,..?.,.‘‘’’.,.?
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya munisuttavaṇṇanā niṭṭhitā.
-Niṭṭhito ca paṭhamo vaggo atthavaṇṇanānayato, nāmena
+-
+-.
+,
 .

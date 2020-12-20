@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 
@@ -87,11 +87,11 @@ pasādaguṇasaṃyuttaṃ yamakaṃ mata medisaṃ
 
 abyapetaṃ byapetañña māvuttānekavaṇṇajaṃ
 yamakaṃ tañca pādāna mādi majjha nta gocaraṃ
-
+abyapeta paṭhamapādādi yamakaṃ
 
  sujanāsujanā sabbe guṇenāpi vivekino
 vivekaṃ na samāyanti avivekijanantike
-
+abyapeta paṭhama dutiya pādādi yamakaṃ
 
  kusalākusalā sabbe pabalāpabalā thavā
 no yātā yāvahosittaṃ sukhadukkhappadā siyuṃ
@@ -99,7 +99,7 @@ abyapeta paṭhama dutiya tatiyapādādi yamakaṃ
 
  sādaraṃ sā daraṃ hantu vihitā vihitā mayā
 vandanā vandanāmāna bhājane ratanattaye
-
+abyapeta catukkapādādi yamakaṃ
 
  kamalaṃ kamalaṃ kattuṃ vanado vanadombaraṃ
 sugato sugato lokaṃ sahitaṃ sa hitaṃ karaṃ
@@ -134,7 +134,7 @@ yathā hi vande buddhassa pādapaṅkeruhaṃ pi ca
 
  saddato atthato vuttaṃ yattha bhiyyopi vuccati
 ta mekatthaṃ yathābhāti vārido vārido ayaṃ
-
+yathā ca
 
  titthiyaṅkurabījāni jahaṃ diṭṭhigatāniha
 pasādeti pasanneso mahāmuni mahājane
@@ -159,7 +159,7 @@ yaṃ tāya hīnaṃ taṃ vuttaṃ yatihīnanti sā pana
 
  yati sabbatthapādante vuttaḍḍhe ca visesato
 pubbāparānekavaṇṇa padamajjhepi katthaci
-
+tatthodāharaṇapaccudāharaṇāni yathā
 
  taṃ name sirasā cāmi karavaṇṇaṃ tathāgataṃ
 sakalāpi disā siñca tiva soṇṇarasehi yo
@@ -169,14 +169,14 @@ aññathā tvaññathā tattha yādesādi parādiva
 
 cādī pubbapadantāva niccaṃ pubbapadassitā
 pādayo niccasambandhā parādīva parena tu
-
+sabbatthodāharaṇāni yathā
 
  name taṃ sirasā sabbo pamātītaṃ tathāgataṃ
 yassa lokaggataṃ patta ssopamā na hi yujjati
 
  munindaṃ taṃ sadā vandā myanantamati muttamaṃ
 yassa paññā ca mettā ca nissīmāti vijambhati
-
+cādipādīsu paccudāharaṇāni yathā
 
  mahāmettā mahāpaññā ca yattha paramodayā
 paṇamāmi jinaṃ taṃ pa varaṃ varaguṇālayaṃ
@@ -196,23 +196,23 @@ kharā khilā parikkhīṇā khette khittaṃ phalatyalaṃ
 
  ñeyyaṃ lakkhaṇa manvattha vasenāpakkamādinaṃ
 udāharaṇa metesaṃ dāni sandassayāmyahaṃ
-
+tatthāpakkamaṃ yathā
 
 bhāvanā dāna sīlāni sammā sampāditāniha
 bhoga saggādi nibbāna sādhanāni na saṃsayo
-
+ocityahīnaṃ yathā
 
 pūjanīyataro loke aha meko nirantaraṃ
 mayekasmiṃ guṇā sabbe yato samuditā ahuṃ
-
+yathā ca
 
 yācitohaṃ kathaṃ nāma na dajjāmyapi jīvitaṃ
 tathāpi puttadānena vedhate hadayaṃ mama
-
+bhaggarīti yathā
 
 itthīnaṃ dujjanānañca vissāso nopapajjate
 vise siṅgimhi nadiyaṃ roge rājakulamhi ca
-
+sasaṃsayaṃ yathā
 
  munindacandimā loka saralolavilocano
 jano vakkantapanthova gopadassanapīṇito
@@ -227,6 +227,6 @@ tassālaṅkāraniddese rūpa māvi bhavissati
 dosāna mesaṃ pavaro vibhāgo
 esovalaṃ bodhayituṃ kavīnaṃ
 tamatthi ce khedakaraṃ parampi
-
-
-
+iti saṅgharakkhitamahāsāmiviracite subodhālaṅkāre
+dosāvabodho nāma
+paṭhamo paricchedo

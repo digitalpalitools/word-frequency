@@ -49,15 +49,15 @@ Kāyakammadvārakathāvaṇṇanā
 –,,.,.,.,.,‘‘’’.,.,,,.,.
 ..,.‘‘’’..
 ,.,,..‘‘’’..
-Kāyakammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Vacīkammadvārakathāvaṇṇanā
 ,,,,,..,.‘‘’’(dha. sa. 636).
 .‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’....‘‘’’.,.,...
 …pe…..,.,..
-Vacīkammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Manokammadvārakathāvaṇṇanā
 ,.‘‘,’’...,,..
-Manokammadvārakathāvaṇṇanā niṭṭhitā.
+.
 Kammakathāvaṇṇanā
 ,.,.,..,..,..‘‘,…pe…’’(ma. ni. 3.300; kathā. 539).,..,,,,‘‘’’(dha. sa. aṭṭha. 1 kāyakammadvāra).
 .,.‘‘’’(saṃ. ni. 1.116; dha. pa. 361),..,.
@@ -66,7 +66,7 @@ Kammakathāvaṇṇanā
 ,.,,..,.
 .,...‘‘,,’’,‘‘’’.,.
 ‘‘,,’’(kathā. 539)‘‘’’,‘‘’’...
-Kammakathāvaṇṇanā niṭṭhitā.
+.
 .....‘‘’’(dha. pa. 360),,.,......
 .....‘‘’’‘‘’’.,,.
 .,‘‘’’.,..,.
@@ -74,7 +74,7 @@ Akusalakammapathakathāvaṇṇanā
 ,.....
 ...,...........
 ,.?,.,,.,.‘‘’’‘‘’’.‘‘’’..
-Akusalakammapathakathāvaṇṇanā niṭṭhitā.
+.
 Kusalakammapathakathāvaṇṇanā
 ‘‘’’,.‘‘’’....‘‘’’.…pe…..
 Kammapathasaṃsandanakathāvaṇṇanā
@@ -83,8 +83,8 @@ Kammapathasaṃsandanakathāvaṇṇanā
 ‘‘’’.‘‘’’‘‘’’,‘‘’’.‘‘’’(dha. sa. 1 kammakathā; mahāni. aṭṭha. 86)..‘‘’’‘‘’’‘‘’’...
 ,,.‘‘’’?.?.–.-,.?,.,‘‘’’.,,.
 ,.‘‘,’’,‘‘’’..,..‘‘,’’,,..‘‘’’..,..,‘‘’’..,..
-Kammapathasaṃsandanakathāvaṇṇanā niṭṭhitā.
-Dvārakathāvaṇṇanā niṭṭhitā.
+.
+.
 ‘‘…pe…’’‘‘’’.?,.‘‘…pe…’’‘‘’’.‘‘…pe…’’‘‘’’‘‘’’.‘‘’’...‘‘‘…pe…’’’..
 Dhammuddesavārakathā
 Phassapañcamakarāsivaṇṇanā
@@ -94,12 +94,12 @@ Phassapañcamakarāsivaṇṇanā
 .,…pe…,…pe….…pe…,..,..
 ..,...
 ...‘‘’’,.…pe….,..,‘‘’’--,...,,,.,,,,,.
-Phassapañcamakarāsivaṇṇanā niṭṭhitā.
+.
 Jhānaṅgarāsivaṇṇanā
 .‘‘’’..,,,..,.....
 ,.........
 ...,....
-Jhānaṅgarāsivaṇṇanā niṭṭhitā.
+.
 Indriyarāsivaṇṇanā
 .‘‘’’..,.‘‘,’’.......,...,,.
 ,..,,,,,,,…pe….
@@ -107,7 +107,7 @@ Indriyarāsivaṇṇanā
 ...,‘‘’’(ma. ni. 1.204, 400; 3.421, 425)..,.
 ,,.,.
 .,‘‘’’......
-Indriyarāsivaṇṇanā niṭṭhitā.
+.
 Maggaṅgarāsivaṇṇanā
 ..
 Balarāsivaṇṇanā
@@ -123,5 +123,5 @@ Passaddhādiyugalavaṇṇanā
 Yevāpanakavaṇṇanā
 ..,.,...,.........
 ...,.,‘‘’’.‘‘’’.‘‘’’...,‘‘’’.‘‘’’.
-Yevāpanakavaṇṇanā niṭṭhitā.
-Dhammuddesavārakathāvaṇṇanā niṭṭhitā.
+.
+.

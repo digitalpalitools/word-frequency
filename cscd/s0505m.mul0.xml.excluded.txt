@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Suttanipātapāḷi
 1. Uragavaggo
@@ -54,7 +54,7 @@ yo ve (syā.),osadhebhi (ka.);
 17.
 ,;
 ,.
-Uragasuttaṃ paṭhamaṃ niṭṭhitaṃ.
+.
 2. Dhaniyasuttaṃ
 18.
 ‘‘,(iti dhaniyo gopo)
@@ -121,7 +121,7 @@ gomiko (sī. pī.), gopiko (syā. kaṃ.), gopiyo (ka.);
 ‘‘,(iti bhagavā)
 ;
 ,’’.
-Dhaniyasuttaṃ dutiyaṃ niṭṭhitaṃ.
+.
 3. Khaggavisāṇasuttaṃ
 35.
 ,;
@@ -246,7 +246,7 @@ alimpamāno (sī. syā. ka.),.
 75.
 ,;
 ,.
-Khaggavisāṇasuttaṃ tatiyaṃ niṭṭhitaṃ.
+.
 4. Kasibhāradvājasuttaṃ
 –dakkhiṇagirismiṃ (ka.)....;.
 .–‘‘,,;.,,;’’.
@@ -278,7 +278,7 @@ pāyāsaṃ (sabbattha)–‘‘.;amatapphalampi (saṃ. ni. 1.197)’’.
 .sandhūmāyati sampadhūmāyati (syā.).divasasantatto (sī. syā. kaṃ. pī.);.
 ;–‘‘,,,!,,,,,,dakkhintīti (sī. syā. kaṃ. pī.);.,,’’.
 ,.–,–.‘‘,,,’’.aññataro ca kho (sī. pī.), aññataro kho (syā. kaṃ. ka.).
-Kasibhāradvājasuttaṃ catutthaṃ niṭṭhitaṃ.
+.
 5. Cundasuttaṃ
 83.
 ‘‘,(iti cundo kammāraputto)
@@ -308,7 +308,7 @@ dipaduttamaṃ (sī. syā. kaṃ. pī.),’’.
 ‘‘,;
 sabbe ne tādisāti (sī. syā. pī.),;
 ,’’.
-Cundasuttaṃ pañcamaṃ niṭṭhitaṃ.
+.
 6. Parābhavasuttaṃ
 –.;.–
 91.
@@ -386,7 +386,7 @@ dissati (sī. pī.),’’.
 115.
 ‘‘,;
 ,’’.
-Parābhavasuttaṃ chaṭṭhaṃ niṭṭhitaṃ.
+.
 7. Vasalasuttaṃ
 –....
 .–‘‘atreva (syā. ka.),;,;,’’.
@@ -475,7 +475,7 @@ sapāko (?),.
 ‘‘,;
 ,’’.
 ,–‘‘,…pe…’’.
-Vasalasuttaṃ sattamaṃ niṭṭhitaṃ.
+.
 8. Mettasuttaṃ
 143.
 ,;
@@ -507,7 +507,7 @@ vā (sī. syā. kaṃ. pī.),vigatamiddho (bahūsu);
 152.
 ,;
 vineyya (sī. syā. pī.),.
-Mettasuttaṃ aṭṭhamaṃ niṭṭhitaṃ.
+.
 9. Hemavatasuttaṃ
 153.
 ‘‘,(iti sātāgiro yakkho)
@@ -612,7 +612,7 @@ ajjhattasaññī (syā. kaṃ. ka.),.
 182.
 ‘‘,;
 ,’’.
-Hemavatasuttaṃ navamaṃ niṭṭhitaṃ.
+.
 10. Āḷavakasuttaṃ
 –.;–‘‘,’’.‘‘’’.‘‘,’’.‘‘’’.
 …pe…–‘‘,’’.‘‘’’.‘‘,’’.‘‘’’.
@@ -656,7 +656,7 @@ aṭṭhinhārūhi saṃyutto (syā. ka.),.
 194.
 ‘‘,;
 ,’’.
-Āḷavakasuttaṃ dasamaṃ niṭṭhitaṃ.
+.
 11. Vijayasuttaṃ
 195.
 ,;
@@ -700,7 +700,7 @@ dipādakoyaṃ (sī. syā. kaṃ. pī.),parihīrati (sī. syā. kaṃ. pī.);
 208.
 ,unnametave (?);
 ,.
-Vijayasuttaṃ ekādasamaṃ niṭṭhitaṃ.
+.
 12. Munisuttaṃ
 209.
 sandhavato (ka.),;
@@ -749,7 +749,7 @@ na roseti (syā.),.
 223.
 nīlagivo (syā.),;
 ,.
-Munisuttaṃ dvādasamaṃ niṭṭhitaṃ.Uragavaggo paṭhamo niṭṭhito.
+..
 –
 ,;
 ,.

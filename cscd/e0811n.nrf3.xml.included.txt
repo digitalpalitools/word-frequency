@@ -5,7 +5,7 @@ accantakantā kantā  va vuccante te tatodhunā
 
 sabhāva vaṅkavuttīnaṃ bhedā dvidhā alaṃkriyā
 paṭhamā tattha vatthūnaṃ nānāvatthāvibhāvinī
-
+yathā
 
 līlā vikanti subhago disā thira vilokano
 bodhisattaṅkuro bhāsaṃ viroci vāca māsabhiṃ
@@ -238,15 +238,15 @@ akkhepo nāma soyañca tidhā kālappabhedato
 
  ekākī nekasenaṃ taṃ māraṃ sa vijayī jino
 kathaṃ ta mathavā tassa pāramībala mīdisaṃ
-
+atītakkhepo
 
  kiṃ cittejāsamugghātaṃ apattosmīti khijjase
 paṇāmo nanu so yeva sakimpi sugate gato
-
+vattamānakkhepo
 
  saccaṃ na te gamissanti sivaṃ sujanagocaraṃ
 micchādiṭṭhi parikkanta  mānasā ye sudujjanā
-
+anāgatakkhepo
 
  ñeyyo atthantaranyāso yo ññavākyatthasādhano
 sabbabyāpī visesaṭṭho hivisiṭṭhassa bhedato
@@ -305,23 +305,23 @@ bhedānantā idaṃ tesaṃ mukhamatta nidassanaṃ
 
  paramatthapakāseka rasā sabbamanoharā
 munino desanāyaṃ me kāmaṃ toseti mānasaṃ
-
+bhāvakicco kārakahetu
 
  dhīrehi saha saṃvāsā saddhammassābhiyogato
 niggahenindriyānañca dukkhassupasamo siyā
-
+abhāvakicco kārakahetu
 
  munindacanda saṃvādi kantabhāvopasobhinā
 mukheneva subodhaṃ te manaṃ pāpābhinissaṭaṃ
-
+bhāvakicco ñāpakahetu
 
  sādhuhatthāravindāni saṅkocayati te kathaṃ
 muninda caraṇadvanda rāgabālātapo phusaṃ
-
+ayuttakārī cittahetu
 
  saṅkocayanti jantūnaṃ pāṇipaṅkeruhāniha
 muninda caraṇadvanda nakha candāna maṃsavo
-
+yuttakārī cittahetu
 
  uddiṭṭhānaṃ padatthānaṃ anuddeso yathākkamaṃ
 saṅkhyānamiti niddiṭṭhaṃ yathāsaṅkhyaṃ kamopi ca
@@ -400,20 +400,20 @@ vekalladassanaṃ yatra viseso nāma yaṃ bhave
 
  na rathā na ca mātaṅgā na hayā na padātayo
 jito mārāri muninā sambhārāvajjanena hi
-
+dabbavisesavutti
 
  na baddhā bhūkuṭi neva phurito dasanacchado
 mārāribhaṅgaṃ cākāsi muni vīro varo sayaṃ
-
+kriyāvisesavutti
 
  na disāsu byāttā  raṃsi
 nāloko lokapatthaṭo
 tathāpyandhatamaharaṃ paraṃ sādhusubhāsitaṃ
-
+jātivisesavutti
 
  na kharaṃ na hi vā thaddhaṃ muninda vacanaṃ tava
 tathāpi gāḷhaṃ khaṇati nimmūlaṃ janatāmadaṃ
-
+guṇavisesavutti
 
  dassīyatetirittaṃ  tu sūravīrattanaṃ yahiṃ
 vadanti viññūvacanaṃ ruḷhāhaṅkāra mīdisaṃ
@@ -426,15 +426,15 @@ abhinnapadavākyādi vasā tedhāya mīrito
 
  andhatamaharo hārī samāruḷho mahodayaṃ
 rājate raṃsimālīyaṃ bhagavā bodhayaṃ jane
-
+abhinnapadavākyasileso
 
  sāradāmalakābhāso samānīta parikkhayo
 kumudākarasambodho pīṇeti janataṃ sudhī
-
+bhinnapadavākyasileso
 
  samāhitattavinayo ahīna mada maddano
 sugato visadaṃ pātu pāṇinaṃ so vināyako
-
+bhinnābhinnapadavākyasileso
 
  viruddhā viruddhā bhinna kammā niyamavā paro
 niyamakkhepavacano avirodhi virodhyapi
@@ -601,6 +601,6 @@ sañcumbayanti satatāhita sambhamena
 saṅkhepato nigaditoya malaṅkatīnaṃ
 bhedoparūpari kavīhi vikappiyānaṃ
 ko nāma passitu malaṃ khalu tāsa mantaṃ
-
-
-
+iti saṅgharakkhitamahāsāmi viracite subodhālaṅkāre
+atthālaṅkārāvabodho nāma
+catuttho paricchedo

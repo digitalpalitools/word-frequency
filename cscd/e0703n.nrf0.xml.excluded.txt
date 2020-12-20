@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Mahāvaṃsapāḷi
 Pathamapariccheda
 Mahiyaṅgaṇāgamanaṃ
@@ -131,7 +131,7 @@ Mahiyaṅgaṇāgamanaṃ
 43.
 ,;
 ,.
-Mahiyaṅgaṇāgamanaṃ niṭṭhitaṃ.
+.
 Nāgadīpāgamana
 44.
 ,;
@@ -214,7 +214,7 @@ Nāgadīpāgamana
 70.
 ,;
 ,.
-Nāgadīpāgamanaṃ
+
 Kalyāṇāgamanaṃ
 71.
 ,
@@ -262,7 +262,7 @@ Kalyāṇāgamanaṃ
 ;
 ;
 .
-Kalyāṇāgamanaṃ
-Sujanappasādasaṃvegatthāya kate mahāvaṃse
-Tathāgatābhigamanaṃ nāma
-Paṭhamo paricchedo.
+
+
+
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāye
 Uparipaṇṇāsapāḷi
 1. Devadahavaggo
@@ -45,7 +45,7 @@ Uparipaṇṇāsapāḷi
 20.‘‘,,;,,.,,;,,.,,;,,.,,;,,.,,;,,.
 ‘‘,,,;,.,,,;,.,,,;,.,,,;,.,,,;,.,,.,,’’.
 ..
-Devadahasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Pañcattayasuttaṃ pañcāyatanasutta (ka.)
 21.–.–‘‘’’.‘‘’’.–‘‘,,adhimuttipadāni (syā. kaṃ. ka.).‘’–;‘’–;‘’–;paññāpenti (sī. syā. kaṃ. pī.),.paraṃ maraṇā. iti imāni (ka.),,.paraṃ maraṇā. iti imāni (ka.),–.
 22.‘‘,,,,,,,,,,,evaṃ (ka.)panetesaṃ (syā. kaṃ.).,,pajānāti (sī. syā. kaṃ. pī.) aṭṭhakathā oloketabbā.,,,,,,,,maraṇāti (ka.),–.‘’.‘’–.
@@ -62,7 +62,7 @@ Devadahasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 33.‘‘,,,,,,,–‘,,’.,,.,,,,,–‘,,’;.,,,,,.–‘,,’.‘’–.
 ‘‘,,–anupādāvimokkho. tayidaṃ bhikkhave tathāgatena anuttaraṃ santivarapadaṃ abhisambuddhaṃ, yadidaṃ channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimokkhoti (sī. syā. kaṃ. pī.)’’anupādāvimokkho. tayidaṃ bhikkhave tathāgatena anuttaraṃ santivarapadaṃ abhisambuddhaṃ, yadidaṃ channaṃ phassāyatanaṃ samudayañca atthaṅgamañca assādañca adīnavañca nissaraṇañca yathābhūtaṃ viditvā anupādāvimokkhoti (sī. syā. kaṃ. pī.).
 ..
-Pañcattayasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Kintisuttaṃ
 34.–kusinārāyaṃ (sī.).–‘‘’’.‘‘’’.–‘‘,,–‘,,,’’’?‘‘,,–‘,,,’’’.
 ‘‘,,–‘…pe…’;atha kinti vo (sī. pī.), atha kiñcarahi vo (ka.),,’’?‘‘,,–‘;’’’.‘‘evaṃ (sī. pī.),,–‘;’’’.
@@ -79,7 +79,7 @@ Pañcattayasuttaṃ niṭṭhitaṃ dutiyaṃ.
 ‘‘,–‘,,,’.,,–‘,,.,’.,,–‘,,’’’.
 ‘‘,,–‘’?,,–‘,,,,.,’.,,,,,’’.
 ..
-Kintisuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Sāmagāmasuttaṃ
 41.–.nāthaputto (sī. pī.)kālakato (sī. syā. kaṃ. pī.).dveḷhakajātā (syā. kaṃ. ka.)–‘‘,.!,.,.,.aviciṇṇaṃ (sī. pī.)..,;’’.vadhoyeveko (syā. kaṃ. ka.).nibbindarūpā (syā. kaṃ. ka.).
 42.vassaṃvuttho (sī. syā. kaṃ. pī.);.–‘‘,,.…pe…’’.,–‘‘,,.,,;’’.‘‘,’’.
@@ -107,7 +107,7 @@ Kintisuttaṃ niṭṭhitaṃ tatiyaṃ.
 ‘‘,,––..,,.
 ‘‘,,,,,’’?‘‘,’’.‘‘,.’’.
 ..
-Sāmagāmasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Sunakkhattasuttaṃ
 55.–.–‘‘‘,,,’’’.–‘‘–‘,,,’’’.;.–‘‘,–‘–,,,’’’.‘‘,,–‘,,,’’’,,,?
 56.‘‘,,–‘,,,’’’.‘‘,adhimānena (?).,,;,,–‘’deseyyanti (pī. ka.).,,–‘’..,,–‘’’’.‘‘,,.’’.‘‘,,;’’.‘‘,’’.–
@@ -126,7 +126,7 @@ Sāmagāmasuttaṃ niṭṭhitaṃ catutthaṃ.
 65.‘‘,,.–,,;,,;,,;,,;,,;,,.
 ‘‘,,‘’––.,,;..,,–‘’’’?‘‘,’’.‘‘,,‘’––.,,āsiviso (ka.)..,,yuñjeyya (ka.)–‘’’’?‘‘,’’.‘‘,,‘’––’’.
 ..
-Sunakkhattasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Āneñjasappāyasuttaṃ
 66.–.–‘‘’’.‘‘’’.–‘‘,,.,,.,;,–,mārasseva (ka.),,...,,–‘,;,–,,,.,...’....,,’’.
 67.‘‘,,–‘,;,;(sabbaṃ rūpaṃ)( ) natthi sī. pī. potthakesu,’....,,.
@@ -139,7 +139,7 @@ Sunakkhattasuttaṃ niṭṭhitaṃ pañcamaṃ.
 72.‘‘,–‘,;,;,–’..,,..,,’’.
 73.‘‘,,,!,,.,,’’?‘‘,–‘,;,;,;,;,,–..,,,,,,,.,,,.,,,.,,.’’’.
 ..
-Āneñjasappāyasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Gaṇakamoggallānasuttaṃ
 74.–.gaṇakamoggalāno (ka.);..–
 ‘‘,,–,,–,,–issatte (ka.).,,–.,,–‘,,,,,,,,,’;,,,.,,’’?
@@ -159,7 +159,7 @@ Sunakkhattasuttaṃ niṭṭhitaṃ pañcamaṃ.
 ‘‘,.
 ‘‘,,,;,;,;.
 ‘‘,,,!,,,,,–‘’;..’’.
-Gaṇakamoggallānasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Gopakamoggallānasuttaṃ
 79.–...–‘‘.,’’.
 ,..–‘‘...,’’...–‘‘,,’’?‘‘,,.,,,,,,,;’’..
@@ -187,7 +187,7 @@ Gaṇakamoggallānasuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘,,?,,.…pe…….,,’’.
 ‘‘,,,.,,,;’’.‘‘,,’’..
 –‘‘’’.‘‘,,–‘,,.,,,,,,,.’’’.
-Gopakamoggallānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Mahāpuṇṇamasuttaṃ
 85.–..–
 ‘‘,,,’’.‘‘,,’’.
@@ -204,7 +204,7 @@ Gopakamoggallānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 90.–‘‘,,,,,,;kathamattānaṃ (saṃ. ni. 3.82)’’?–‘‘,,–‘,,,,,,;’.paṭicca vinītā (sī. pī.), paṭipucchāmi vinītā (syā. kaṃ.),,’’.
 ‘‘,,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,–‘,,’’’?‘‘,’’.‘‘,,………’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,–‘,,’’’?‘‘,’’.‘‘,,–‘,,’.………–‘,,’.,,,,,,;,..‘,,,’’’.
 ...
-Mahāpuṇṇamasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Cūḷapuṇṇamasuttaṃ
 91.–..–‘‘,,–‘’’’?‘‘,’’.‘‘,;,,–‘’.,,–‘’’’?‘‘,’’.‘‘,;,,–‘’.,,,asappurisabhattī (sabbattha),,,,,asappurisadiṭṭhī (sabbattha);’’.
 ‘‘,,?,,,,,,,,.,,.
@@ -227,8 +227,8 @@ Mahāpuṇṇamasuttaṃ niṭṭhitaṃ navamaṃ.
 ‘‘,,?,,,,,,.,,.
 ‘‘,,,,,,,,;.,,?’’.
 ..
-Cūḷapuṇṇamasuttaṃ niṭṭhitaṃ dasamaṃ.
-Devadahavaggo niṭṭhito paṭhamo.
+.
+.
 –
 ,--;
 ---.

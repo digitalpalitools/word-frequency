@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Ākāsukkhipiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Telamakkhiyattheraapadānaṃ
 6.
 ‘‘,;
@@ -30,7 +30,7 @@
 9.
 ‘‘…pe…’’.
 .
-Telamakkhiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Aḍḍhacandiyattheraapadānaṃ
 10.
 ‘‘,;
@@ -44,7 +44,7 @@ Telamakkhiyattherassāpadānaṃ dutiyaṃ.
 13.
 ‘‘…pe…’’.
 .
-Aḍḍhacandiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Padīpadāyakattheraapadānaṃ
 14.
 ‘‘,;
@@ -58,7 +58,7 @@ Aḍḍhacandiyattherassāpadānaṃ tatiyaṃ.
 17.
 ‘‘…pe…’’.
 apaṇṇadīpiyo (sī. ka.).
-Padīpadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Biḷālidāyakattheraapadānaṃ
 18.
 ‘‘,;
@@ -75,7 +75,7 @@ Padīpadāyakattherassāpadānaṃ catutthaṃ.
 22.
 ‘‘…pe…’’.
 .
-Biḷālidāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Macchadāyakattheraapadānaṃ
 23.
 ‘‘,;
@@ -86,7 +86,7 @@ Biḷālidāyakattherassāpadānaṃ pañcamaṃ.
 25.
 ‘‘…pe…’’.
 .
-Macchadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Javahaṃsakattheraapadānaṃ
 26.
 ‘‘,;
@@ -100,7 +100,7 @@ Macchadāyakattherassāpadānaṃ chaṭṭhaṃ.
 29.
 ‘‘…pe…’’.
 .
-Javahaṃsakattherassāpadānaṃ sattamaṃ.
+.
 8. Saḷalapupphiyattheraapadānaṃ
 30.
 ‘‘,;
@@ -114,7 +114,7 @@ Javahaṃsakattherassāpadānaṃ sattamaṃ.
 33.
 ‘‘…pe…’’.
 .
-Saḷalapupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Upāgatāsayattheraapadānaṃ
 34.
 ‘‘,;
@@ -131,7 +131,7 @@ Saḷalapupphiyattherassāpadānaṃ aṭṭhamaṃ.
 38.
 ‘‘…pe…’’.
 upāgatahāsaniyo (syā.), upāgatāhāsaniyo (ka.).
-Upāgatāsayattherassāpadānaṃ navamaṃ.
+.
 10. Taraṇiyattheraapadānaṃ
 39.
 ‘‘,;
@@ -145,8 +145,8 @@ Upāgatāsayattherassāpadānaṃ navamaṃ.
 42.
 ‘‘…pe…’’.
 .
-Taraṇiyattherassāpadānaṃ dasamaṃ.
-Padumukkhipavaggo sattavīsatimo.
+.
+.
 –
 ,;
 ,;

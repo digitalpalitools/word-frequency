@@ -37,7 +37,7 @@ parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo  uppajjati adhipati
 
 
  hetuyā terasa ārammaṇe pañca adhipatiyā nava anantare pañca samanantare pañca sahajāte terasa aññamaññe satta nissaye terasa upanissaye pañca purejāte tīṇi āsevane tīṇi kamme terasa vipāke terasa āhāre indriye jhāne magge terasa sampayutte pañca vippayutte terasa atthiyā terasa natthiyā pañca vigate pañca avigate terasa
-
+anulomaṃ
 
 
 
@@ -106,14 +106,14 @@ appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati navippayuttapacc
 
 
  nahetuyā ekaṃ naārammaṇe pañca naadhipatiyā dasa naanantare pañca nasamanantare pañca naaññamaññe naupanissaye pañca napurejāte dvādasa napacchājāte terasa naāsevane terasa nakamme tīṇi navipāke nava naāhāre ekaṃ naindriye najhāne namagge ekaṃ nasampayutte pañca navippayutte tīṇi nonatthiyā pañca novigate pañca 
-
+paccanīyaṃ
 
  hetupaccayā  naārammaṇe pañca naadhipatiyā dasa naanantare pañca nasamanantare naaññamaññe naupanissaye pañca napurejāte  dvādasa napacchājāte terasa naāsevane  terasa nakamme tīṇi navipāke nava nasampayutte pañca navippayutte tīṇi nonatthiyā pañca novigate pañca 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā ārammaṇe ekaṃ anantare ekaṃ vigate ekaṃ avigate ekaṃ 
-
-
+paccanīyānulomaṃ
+paṭiccavāro
 
 
 
@@ -138,7 +138,7 @@ parittañca mahaggatañca dhammaṃ paccayā paritto dhammo uppajjati hetupaccay
 
 
  hetuyā sattarasa ārammaṇe satta adhipatiyā sattarasa anantare satta samanantare satta sahajāte sattarasa aññamaññe nava nissaye sattarasa upanissaye satta purejāte satta āsevane satta kamme sattarasa vipāke sattarasa āhāre sattarasa indriye jhāne magge sattarasa sampayutte satta vippayutte sattarasa atthiyā sattarasa natthiyā satta vigate satta avigate sattarasa 
-
+anulomaṃ
 
 
 
@@ -163,14 +163,14 @@ parittañca mahaggatañca dhammaṃ paccayā paritto ca mahaggato ca dhammā upp
 
 
  nahetuyā ekaṃ naārammaṇe pañca naadhipatiyā dvādasa naanantare pañca nasamanantare naaññamaññe naupanissaye pañca napurejāte dvādasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa naāhāre naindriye najhāne namagge ekaṃ nasampayutte pañca navippayutte tīṇi nonatthiyā  pañca novigate pañca 
-
+paccanīyaṃ
 
  hetupaccayā  naārammaṇe pañca naadhipatiyā dvādasa naanantare pañca nasamanantare pañca naaññamaññe pañca naupanissaye pañca napurejāte dvādasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa nasampayutte pañca navippayutte tīṇi nonatthiyā pañca novigate pañca 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā ārammaṇe ekaṃ anantare samanantare sahajāte vigate avigate ekaṃ 
-
-
+paccanīyānulomaṃ
+paccayavāro
 
 
 
@@ -185,7 +185,7 @@ appamāṇaṃ  dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati hetupacca
 
 
  hetuyā  tīṇi ārammaṇe tīṇi adhipatiyā tīṇi avigate tīṇi 
-
+anulomaṃ
 
 
 
@@ -217,16 +217,16 @@ appamāṇaṃ  dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati navippayu
 
 
  nahetuyā  ekaṃ naadhipatiyā tīṇi napurejāte tīṇi napacchājāte tīṇi naāsevane tīṇi nakamme tīṇi navipāke tīṇi najhāne ekaṃ namagge ekaṃ navippayutte tīṇi 
-
+paccanīyaṃ
 
  hetupaccayā naadhipatiyā tīṇi napurejāte napacchājāte naāsevane nakamme navipāke navippayutte tīṇi 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā  ārammaṇe ekaṃ anantare ekaṃ avigate eka 
+paccanīyānulomaṃ
+saṃsaṭṭhavāro
 
-
-
-
+(sampayuttavāro  saṃsaṭṭhavārasadiso)
 
 
 
@@ -353,7 +353,7 @@ paritto ca mahaggato ca dhammā mahaggatassa dhammassa atthipaccayena paccayo  s
 
 
  hetuyā  satta ārammaṇe satta adhipatiyā satta anantare nava samanantare nava sahajāte ekādasa aññamaññe satta nissaye terasa upanissaye nava purejāte tīṇi pacchājāte tīṇi āsevane cattāri kamme satta vipāke āhāre indriye jhāne magge satta sampayutte tīṇi vippayutte pañca atthiyā terasa natthiyā nava vigate nava avigate terasa 
-
+anulomaṃ
 
  paritto  dhammo parittassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo purejātapaccayena paccayo pacchājātapaccayena paccayo kammapaccayena paccayo āhārapaccayena paccayo indriyapaccayena paccayo 
 paritto dhammo mahaggatassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo purejātapaccayena paccayo 
@@ -373,13 +373,13 @@ paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātaṃ purejātaṃ
 
 
  nahetuyā  pannarasa naārammaṇe pannarasa naadhipatiyā naanantare nasamanantare pannarasa nasahajāte dvādasa naaññamaññe dvādasa nanissaye dvādasa naupanissaye cuddasa napurejāte  cuddasa napacchājāte pannarasa naāsevane pannarasa namagge pannarasa nasampayutte dvādasa navippayutte dasa noatthiyā dasa nonatthiyā pannarasa novigate pannarasa noavigate dasa 
-
+paccanīyaṃ
 
 
  hetupaccayā  naārammaṇe satta naadhipatiyā naanantare nasamanantare satta naaññamaññe tīṇi naupanissaye satta napurejāte satta namagge satta nasampayutte tīṇi navippayutte tīṇi nonatthiyā satta novigate satta 
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā ārammaṇe satta adhipatiyā satta anantare nava samanantare nava sahajāte ekādasa aññamaññe satta nissaye terasa upanissaye nava purejāte tīṇi pacchājāte  tīṇi āsevane cattāri kamme satta magge satta sampayutte tīṇi vippayutte pañca atthiyā terasa natthiyā nava vigate nava avigate terasa
-
-
+paccanīyānulomaṃ
+parittattikaṃ niṭṭhitaṃ

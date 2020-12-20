@@ -28,7 +28,7 @@
 ‘‘,;
 ,’’.
 .
-Sobhitattherassāpadānaṃ paṭhamaṃ.
+.
 2. Sudassanattheraapadānaṃ
 10.
 ‘‘vitthatāya nadiyā (syā.),pilakkho (sī. theragāthā aṭṭha.);
@@ -51,7 +51,7 @@ taṃ saññaṃ (syā.), taṃ puññaṃ (ka.),.
 16.
 ‘‘…pe…’’.
 .
-Sudassanattherassāpadānaṃ dutiyaṃ.
+.
 3. Candanapūjanakattheraapadānaṃ
 17.
 ‘‘,;
@@ -80,8 +80,8 @@ rohitā nāma (sī.), rohiṇī nāma (syā.),.
 25.
 ‘‘…pe…’’.
 ;
-Candanapūjanakattherassāpadānaṃ tatiyaṃ.
-Aṭṭhamabhāṇavāraṃ.
+.
+.
 4. Pupphacchadaniyattheraapadānaṃ
 26.
 ‘‘,;
@@ -107,7 +107,7 @@ Aṭṭhamabhāṇavāraṃ.
 33.
 ‘‘…pe…’’.
 .
-Pupphacchadaniyattherassāpadānaṃ catutthaṃ.
+.
 5. Rahosaññakattheraapadānaṃ
 34.
 ‘‘,;
@@ -130,7 +130,7 @@ pavesanto (ka.),.
 40.
 ‘‘…pe…’’.
 .
-Rahosaññakattherassāpadānaṃ pañcamaṃ.
+.
 6. Campakapupphiyattheraapadānaṃ
 41.
 ‘‘,;
@@ -150,7 +150,7 @@ Rahosaññakattherassāpadānaṃ pañcamaṃ.
 46.
 ‘‘…pe…’’.
 ;
-Campakapupphiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Atthasandassakattheraapadānaṃ
 47.
 ‘‘,;
@@ -176,7 +176,7 @@ vikopetuṃ (sī. syā.),.
 54.
 ‘‘…pe…’’.
 .
-Atthasandassakattherassāpadānaṃ sattamaṃ.
+.
 8. Ekapasādaniyattheraapadānaṃ
 55.
 ‘‘nārado iti nāmena (syā. ka.) upari tevīsatimavagge pana chaṭṭhāpadāne ‘‘me nāmaṃ‘‘icceva dissati,;
@@ -193,7 +193,7 @@ Atthasandassakattherassāpadānaṃ sattamaṃ.
 59.
 ‘‘…pe…’’.
 .
-Ekapasādaniyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sālapupphadāyakattheraapadānaṃ
 60.
 ‘‘,;
@@ -213,7 +213,7 @@ Ekapasādaniyattherassāpadānaṃ aṭṭhamaṃ.
 65.
 ‘‘…pe…’’.
 .
-Sālapupphadāyakattherassāpadānaṃ navamaṃ.
+.
 10. Piyālaphaladāyakattheraapadānaṃ
 66.
 ‘‘parodhako (syā.),;
@@ -236,8 +236,8 @@ Sālapupphadāyakattherassāpadānaṃ navamaṃ.
 72.
 ‘‘…pe…’’.
 .
-Piyālaphaladāyakattherassāpadānaṃ dasamaṃ.
-Sobhitavaggo cuddasamo.
+.
+.
 –
 ,;
 ,.

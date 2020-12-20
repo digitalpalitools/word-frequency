@@ -49,7 +49,7 @@ Paṭhamakaṇḍa
 11,..
 ..
 ?,..
-Iti sandhikappe paṭhamo kaṇḍo.
+.
 Dutiyakaṇḍa
 12,..
 .
@@ -106,7 +106,7 @@ Dutiyakaṇḍa
 ,.
 ,.
 ?,.
-Iti sandhikappe dutiyo kaṇḍo.
+.
 Tatiyakaṇḍa
 23,..
 .
@@ -135,7 +135,7 @@ Tatiyakaṇḍa
 .
 ,,,.
 ?.
-Iti sandhikappe tatiyo kaṇḍo.
+.
 Catutthakaṇḍa
 30,..
 .
@@ -190,7 +190,7 @@ Catutthakaṇḍa
 ,.
 ?.
 ,.,.
-Iti sandhikappe catuttho kaṇḍo.
+.
 Pañcamakaṇḍa
 42,..
 .
@@ -228,5 +228,5 @@ Pañcamakaṇḍa
 .
 ,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,,,,,,,,,,,,..
-Iti sandhikappe pañcamo kaṇḍo.
-Sandhikappo niṭṭhito.
+.
+.

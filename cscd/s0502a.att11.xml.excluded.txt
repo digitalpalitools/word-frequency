@@ -9,7 +9,7 @@
 .–?..
 .
 .–‘‘,.’’.‘‘,,.’’‘‘,,’’(jā. 1.16.33 ādayo).
-Visākhāya sahāyikānaṃ vatthu paṭhamaṃ.
+.
 2. Sirimāvatthu
 .
 .–
@@ -24,7 +24,7 @@ Visākhāya sahāyikānaṃ vatthu paṭhamaṃ.
 ,’’.
 ,......,,.
 ,.
-Sirimāvatthu dutiyaṃ.
+.
 3. Uttarātherīvatthu
 .
 .,.,‘‘,’’–
@@ -33,7 +33,7 @@ Sirimāvatthu dutiyaṃ.
 ,’’.
 –,,‘‘’’,‘‘’’,,,.?.
 ,.
-Uttarātherīvatthu tatiyaṃ.
+.
 4. Sambahulaadhimānikabhikkhuvatthu
 .
 ‘‘,’’.–‘‘,,’’..‘‘’’‘‘’’,.‘‘,,’’–
@@ -42,7 +42,7 @@ Uttarātherīvatthu tatiyaṃ.
 ,’’.
 ...,.
 .
-Sambahulaadhimānikabhikkhuvatthu catutthaṃ.
+.
 5. Janapadakalyāṇī rūpanandātherīvatthu
 .
 –‘‘,,,,,’’.,,.‘‘‘,………’’’....
@@ -60,7 +60,7 @@ Sambahulaadhimānikabhikkhuvatthu catutthaṃ.
 ,’’.
 –,.,.
 ,.
-Janapadakalyāṇī rūpanandātherīvatthu pañcamaṃ.
+.
 6. Mallikādevīvatthu
 .
 ....‘‘,,’’.,..,.,,,.‘‘,’’.,,,..‘‘,,,’’.‘‘,,’’‘‘,’’.
@@ -73,7 +73,7 @@ Janapadakalyāṇī rūpanandātherīvatthu pañcamaṃ.
 ’’.
 ..,...
 .
-Mallikādevīvatthu chaṭṭhaṃ.
+.
 7. Lāḷudāyittheravatthu
 .
 ‘‘’’(khu. pā. 7.1; pe. va. 14),‘‘’’(khu. pā. 5.7; su. ni. 266)‘‘’’(khu. pā. 6.3; su. ni. 226).‘‘’’‘‘’’.–‘‘,,,’’.‘‘,,,’’–
@@ -90,7 +90,7 @@ Mallikādevīvatthu chaṭṭhaṃ.
 ,’’.
 ...,,,,,,,,,‘‘’’,,.,.
 .
-Lāḷudāyittheravatthu sattamaṃ.
+.
 8. Udānavatthu
 .
 –
@@ -102,7 +102,7 @@ Lāḷudāyittheravatthu sattamaṃ.
 ,;
 ,’’.
 ,,..,........
-Udānavatthu aṭṭhamaṃ.
+.
 9. Mahādhanaseṭṭhiputtavatthu
 .
 .–‘‘,,’’........–‘‘,,’’.‘‘,,’’.–‘‘’’.,..,.‘‘’’...‘‘,,,,,.,’’‘‘,,’’.,...,..
@@ -115,6 +115,6 @@ Udānavatthu aṭṭhamaṃ.
 ,’’.
 ...–,,..,.–,,.–‘‘’’.‘‘’’.
 .
-Mahādhanaseṭṭhiputtavatthu navamaṃ.
-Jarāvaggavaṇṇanā niṭṭhitā.
-Ekādasamo vaggo.
+.
+.
+.

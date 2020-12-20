@@ -1,5 +1,5 @@
 ﻿Jinavaṃsadīpaṃ 
-Namo tassa bhagavato arahato sammāsambuddhassa
+
 1.
 ’’
 ,
@@ -490,7 +490,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 
 ;(Pādanta yamakaṃ)
 .
-Paṭhamo saggo.
+.
 1.
 (Mandā’kkantā)
 ’,
@@ -1606,7 +1606,7 @@ Paṭhamo saggo.
 
 ;()
 .
-Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
+.
 1.
 
 ’’,
@@ -5240,7 +5240,7 @@ Jinavaṃsadīpe dūrenidāna bhāgo paṭhamo.
 -
 ;()
 .
-Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
+.
 1.
 
 ,
@@ -7505,7 +7505,7 @@ Jinavaṃsadīpe avidure nidānabhāgo dutiyo.
 ()
 .
 .
-Sobhanagamanattā sugatoti.
+.
 1.
 
 ,
@@ -8367,7 +8367,7 @@ Sobhanagamanattā sugatoti.
 ’,
 
 ’;()
-Athamahāniddesāgatanayo vuccate.
+.
 34.
 
 ,
@@ -8452,7 +8452,7 @@ Athamahāniddesāgatanayo vuccate.
 ,
 
 ;()
-Athaṭīkāgatanayovuccate.
+.
 51.
 -
 
@@ -8779,7 +8779,7 @@ Athaṭīkāgatanayovuccate.
 ,
 ’;()
 
-Sattavīsatimosaggo.
+.
 1.
 
 ,
@@ -9904,4 +9904,4 @@ Sattavīsatimosaggo.
 
 ;()
 .
-Sātireko santikenidānabhāgo tatiyo.
+.

@@ -14,7 +14,7 @@ Paññattivārayojanā
 .‘‘’’‘‘’’,‘‘’’‘‘’’.‘‘’’.......‘‘’’.,.
 .,,.‘‘’’...‘‘’’..,.,..(pāṇinī 108 dhātupāṭhe)‘‘’’.‘‘’’.‘‘’’.
 3.‘‘’’.....
-Iti mahāvibhaṅge paññattivāravaṇṇanāya yojanā samattā.
+.
 Katāpattivārādivaṇṇanā
 157.,.‘‘’’...,.
 188.,......,..,..
@@ -53,7 +53,7 @@ Theyyasatthasamuṭṭhānavaṇṇanā
 266.,.‘‘’’.,‘‘’’.
 Dhammadesanāsamuṭṭhānavaṇṇanā
 267.,.....,.,..,,..,.,.‘‘’’.
-Iti samuṭṭhānasīsavaṇṇanāya yojanā samattā.
+.
 Antarapeyyāla katipucchāvāravaṇṇanā
 271..‘‘’’.
 ,..,.‘‘’’.‘‘’’.‘‘’’.,‘‘’’‘‘…pe…’’..,....,.......‘‘’’,.,.‘‘’’‘‘’’...
@@ -68,7 +68,7 @@ Antarapeyyāla katipucchāvāravaṇṇanā
 .‘‘’’.,.‘‘…pe…’’.‘‘…pe…’’......(dī. ni. aṭṭha. 2.141; ma. ni. aṭṭha. 2.492; a. ni. aṭṭha. 3.6.11)...,‘‘’’...,‘‘’’...
 ‘‘’’.,.,....‘‘’’.........,.‘‘’’...‘‘’’..‘‘’’.....‘‘’’.,,,.‘‘’’.
 ‘‘’’‘‘’’‘‘’’.‘‘’’.,....,...,,‘‘’’..
-Iti katipucchāvāravaṇṇanāya yojanā samattā.
+.
 Khandhakapucchāvāro
 Pucchāvissajjanāvaṇṇanā
 320..‘‘’’,....‘‘’’.‘‘’’(pāci. 402-403; mahāva. 124).‘‘’’..‘‘’’,‘‘’’....‘‘,’’.
@@ -79,7 +79,7 @@ Pucchāvissajjanāvaṇṇanā
 ..
 ....
 .‘‘’’..‘‘’’‘‘’’.‘‘’’‘‘’’..,‘‘’’,‘‘’’.‘‘’’..
-Iti khandhakapucchāvaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo
 Ekuttarikanayo ekakavāravaṇṇanā
 321.‘‘…pe…’’..‘‘’’..,..,‘‘’’...,..
@@ -89,7 +89,7 @@ Ekuttarikanayo ekakavāravaṇṇanā
 ‘‘’’.,...,..,..
 ‘‘’’.‘‘’’,..,.(cūḷava. 401),,,.‘‘’’.
 .,..,....(pāci. aṭṭha. 428).‘‘’’.
-Iti ekakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo dukavāravaṇṇanā
 322.............
 ...
@@ -100,7 +100,7 @@ Ekuttarikanayo dukavāravaṇṇanā
 ‘‘’’...,,,..‘‘’’.‘‘’’.‘‘’’,‘‘’’..‘‘’’..,.
 ,‘‘’’..‘‘’’.‘‘’’......‘‘’’.‘‘’’.....
 .‘‘’’..‘‘’’.‘‘’’.‘‘’’..
-Iti dukavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo tikavāravaṇṇanā
 323.,..‘‘’’.,..‘‘’’‘‘’’..
 .........,...
@@ -116,7 +116,7 @@ Ekuttarikanayo tikavāravaṇṇanā
 ‘‘’’‘‘’’‘‘’’.-‘‘’’...‘‘’’‘‘’’‘‘’’..‘‘’’.
 ..........
 ‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’..‘‘’’..‘‘,’’..‘‘’’‘‘’’..
-Iti tikavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo catukkavāravaṇṇanā
 324..........
 ‘‘’’‘‘’’....
@@ -133,7 +133,7 @@ Ekuttarikanayo catukkavāravaṇṇanā
 ....
 ..........
 ‘‘’’.,‘‘’’....
-Iti catukkavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo pañcakavāravaṇṇanā
 325.‘‘’’.....,...,..‘‘’’....,.‘‘’’.‘‘’’.‘‘’’,‘‘’’.,.,‘‘’’,.
 ,,,‘‘’’..
@@ -148,50 +148,50 @@ Ekuttarikanayo pañcakavāravaṇṇanā
 ‘‘’’.‘‘’’.,,..,.‘‘’’.
 ,,.
 ,,.‘‘’’..‘‘’’‘‘’’..‘‘’’..
-Iti pañcakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo chakkavāravaṇṇanā
 326......
 .....
 ‘‘’’.....
-Iti chakkavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo sattakavāravaṇṇanā
 327...
 .‘‘’’‘‘’’.‘‘’’,‘‘’’...
-Iti sattakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo aṭṭhakavāravaṇṇanā
 328.‘‘’’.‘‘…pe…’’,‘‘’’..
 .‘‘’’‘‘’’..‘‘’’‘‘’’.,..,..
 ..–,,,,,.
 ,,..
 ..‘‘’’‘‘’’....
-Iti aṭṭhakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo navakavāravaṇṇanā
 329.‘‘,’’(dī. ni. 3.340; aṭṭha. ni. 9.29-30).,...,.......‘‘’’..‘‘’’,...,......‘‘’’,,,…pe….‘‘’’‘‘’’.‘‘’’.,..
 .,.,.......
-Iti navakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo dasakavāravaṇṇanā
 330...‘‘’’‘‘’’(dha. sa. 1221; ma. ni. 94.225; 3.91, 116; saṃ. ni. 3.210; a. ni. 10.176).‘‘’’(dī. ni. 1.31; ma. ni. 1.269)‘‘’’(ma. ni. 1.269)..
 .......
 ..
-Iti dasakavāravaṇṇanāya yojanā samattā.
+.
 Ekuttarikanayo ekādasakavāravaṇṇanā
 331....‘‘’’(cūḷava. 423)......
 ,.,,......‘‘’’‘‘’’.(a. ni. 11.6).
 ‘‘’’.‘‘’’,‘‘’’.‘‘’’..,....,‘‘’’.‘‘’’.‘‘’’...‘‘’’.‘‘’’‘‘’’..‘‘’’....‘‘’’‘‘’’.‘‘’’,‘‘’’‘‘’’,‘‘’’..
-Iti ekādasakavāravaṇṇanāpariyosānāya
-Ekuttarikavaṇṇanāya
-Yojanā samattā.
+
+
+.
 Uposathādipucchāvissajjanā
 332.....‘‘’’(mahāva. 210).?‘‘’’.,.,.‘‘’’‘‘’’..
-Iti uposathādipucchāvissajjanavaṇṇanāya yojanā
+
 .
 Atthavasapakaraṇavaṇṇanā
 334....‘‘’’.‘‘’’.
 .,,.,.‘‘’’‘‘’’.,,,.(pārā. aṭṭha. 1.39).‘‘’’..,.,.,....,,..,.,.
 ...‘‘’’,..
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 
-Yojanā samattā.
+
+.
 Paṭhamagāthāsaṅgaṇikaṃ
 Sattanagaresu paññattasikkhāpadavaṇṇanā
 335.‘‘’’..‘‘’’,.‘‘’’.‘‘’’‘‘’’.‘‘’’..‘‘’’....
@@ -225,7 +225,7 @@ Pārājikādiāpattivaṇṇanā
 .,.‘‘’’.
 ‘‘’’...‘‘’’.‘‘’’‘‘’’..‘‘’’...‘‘’’‘‘’’,‘‘’’..
 .‘‘’’.‘‘’’...‘‘’’‘‘’’,...‘‘’’.‘‘’’...‘‘’’......‘‘’’.‘‘’’‘‘’’..
-Iti paṭhamagāthāsaṅgaṇikavaṇṇanāya yojanā samattā.
+.
 Adhikaraṇabhedaṃ
 Ukkoṭanabhedādivaṇṇanā
 340...‘‘’’.‘‘’’..
@@ -254,7 +254,7 @@ Sattasamathanidānavaṇṇanā
 353.‘‘’’,‘‘’’..,...‘‘’’.,.‘‘’’......‘‘’’.....,..‘‘’’(mahāva. 127).‘‘’’(paṭṭhā. 1.1.423)..
 Sattasamathanānātthādivaṇṇanā
 354..‘‘’’,....
-Iti adhikaraṇabhedavaṇṇanāya yojanā samattā.
+.
 Dutiyagāthāsaṅgaṇikaṃ
 Codanādipucchāvissajjanāvaṇṇanā
 359.‘‘’’....‘‘’’..
@@ -268,17 +268,17 @@ Codanādipucchāvissajjanāvaṇṇanā
 ‘‘’’.....‘‘’’.,.
 ,,‘‘’’.‘‘’’.
 ..‘‘’’(dha. sa. 1221).‘‘’’(dī. ni. 1.31; ma. ni. 1.269)..
-Iti dutiyagāthāsaṅgaṇikavaṇṇanāya yojanā samattā.
+.
 Codanākaṇḍaṃ
 Anuvijjakakiccavaṇṇanā
 360-1...............‘‘’’...
-Iti anuvijjakakiccavaṇṇanāya yojanā samattā.
+.
 Codakapucchāvissajjanā
 362-3.‘‘’’.‘‘’’..‘‘’’..‘‘’’..‘‘’’.‘‘’’‘‘’’‘‘’’‘‘’’.,.,..‘‘’’....
 ..‘‘’’.,.‘‘’’,..…pe….,.,.‘‘’’....
 ,‘‘’’.‘‘’’...,‘‘’’.
 ...
-Iti codanākaṇḍavaṇṇanāya yojanā samattā.
+.
 Cūḷasaṅgāmaṃ
 Anuvijjakassa paṭipattivaṇṇanā
 365.,‘‘…pe…’’.,,.(saddanītidhātumālāyaṃ 18 makārantadhātu)..‘‘’’.,....‘‘’’.....‘‘’’.‘‘’’.‘‘’’..‘‘’’..,,‘‘’’.,,.‘‘’’..,..‘‘’’.,.‘‘’’,.‘‘’’.,.‘‘’’.,‘‘’’.,.‘‘’’.
@@ -289,7 +289,7 @@ Anuvijjakassa paṭipattivaṇṇanā
 ‘‘’’‘‘’’.....‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’..‘‘’’..‘‘’’..‘‘’’.‘‘’’‘‘’’,‘‘’’‘‘’’.,..,.......‘‘’’.,.‘‘’’.,.‘‘’’.,.‘‘’’‘‘’’.‘‘’’(mahāva. 11),‘‘’’.‘‘’’.,.‘‘’’‘‘’’.,,.‘‘’’.
 367.…pe….,..‘‘’’‘‘’’‘‘’’.‘‘’’....‘‘’’‘‘’’,,.‘‘’’....
 ,...‘‘’’.....‘‘’’.‘‘…pe…’’.‘‘’’.,‘‘’’..‘‘’’.‘‘’’.
-Iti cūḷasaṅgāmavaṇṇanāya yojanā samattā.
+.
 Mahāsaṅgāmaṃ
 Voharantena jānitabbādivaṇṇanā
 368-74..‘‘’’..,.
@@ -299,7 +299,7 @@ Agatiagantabbavaṇṇanā
 382.‘‘’’.
 393.‘‘’’‘‘’’‘‘’’...
 394.‘‘’’‘‘’’.‘‘’’‘‘’’.,..
-Iti mahāsaṅgāmavaṇṇanāya yojanā samattā.
+.
 Kathinabhedaṃ
 Kathinaatthatādivaṇṇanā
 403...
@@ -313,9 +313,9 @@ Kathinādijānitabbavibhāgavaṇṇanā
 412.‘‘’’....‘‘’’.‘‘’’......
 ‘‘’’..
 416....,.......
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Paññattivaggavaṇṇanāya
-Yojanā samattā.
+
+
+.
 Upālipañcakaṃ
 Anissitavaggavaṇṇanā
 417.‘‘’’‘‘’’.,..‘‘’’...
@@ -335,30 +335,30 @@ Vohāravaggavaṇṇanā
 ‘‘’’...,...,.......
 ‘‘’’.‘‘’’.
 ‘‘’’.(dī. ni. 2.187 ādayo; a. ni. 4.180)....
-Iti
+
 --
-Yojanā samattā.
+.
 Diṭṭhāvikammavaggavaṇṇanā
 425.,‘‘’’.‘‘’’,.‘‘’’.‘‘’’..,.
 …pe…..,,.‘‘’’..‘‘’’..
 ,..,.‘‘’’.
 430..,...‘‘’’.‘‘’’.
 432.,‘‘’’.‘‘’’....
-Iti diṭṭhāvikammavaggavaṇṇanāya yojanā samattā.
+.
 Musāvādavaggavaṇṇanā
 444.‘‘’’,‘‘,’’.‘‘’’.‘‘’’,.‘‘’’,.
 ‘‘’’.‘‘’’..‘‘’’...,..‘‘’’..‘‘…pe…’’...
-Iti musāvādavaggavaṇṇanāya yojanā samattā.
+.
 Bhikkhunovādavaggavaṇṇanā
 450.,‘‘’’.‘‘’’...
 451.‘‘’’‘‘’’.
 454.,‘‘…pe…’’.‘‘’’.‘‘’’‘‘’’‘‘’’..
 ‘‘’’.‘‘’’,,..‘‘’’...‘‘’’,,,...
-Iti bhikkhunovādavaggavaṇṇanāya yojanā samattā.
+.
 Ubbāhikavaggavaṇṇanā
 455.‘‘’’.,,(pari. aṭṭha. 485; vi. saṅga. aṭṭha. 252).,..‘‘’’.
 ..‘‘’’.
-Iti ubbāhikavaggavaṇṇanāya yojanā samattā.
+.
 Adhikaraṇavūpasamavaggavaṇṇanā
 457.‘‘…pe…’’..
 458.‘‘’’.‘‘’’...…pe…......
@@ -372,8 +372,8 @@ Saṅghabhedavaggadvayavaṇṇanā
 Kathinatthāravaggavaṇṇanā
 467.‘‘’’...,‘‘’’....‘‘’’.
 ,...‘‘’’...,..
-Iti kathinatthāravaggavaṇṇanāya yojanā samattā.
-Niṭṭhitā ca upālipañcakavaṇṇanāya yojanā.
+.
+.
 Āpattisamuṭṭhānavaṇṇanā
 470.‘‘’’.....‘‘’’(dha. pa. 354)‘‘,’’(saṃ. ni. 1.42).,..
 473...
@@ -411,7 +411,7 @@ Aparadutiyagāthāsaṅgaṇikaṃ
 ‘‘’’.‘‘’’.‘‘’’.,.‘‘’’.‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’..–,..‘‘’’.‘‘’’..‘‘’’......,,.‘‘’’.‘‘’’‘‘’’.‘‘’’.
 ,,,,..
 .
-Iti gāthāsaṅgaṇikavaṇṇanāya yojanā samattā.
+.
 Sedamocikagāthā
 (1) Avippavāsapañhāvaṇṇanā
 479.,,.‘‘’’.‘‘’’..(saddanītidhātumālāyaṃ 16 hakārantadhātu; abhidhānappadīpikāyaṃ 115 gāthāyaṃ),.‘‘’’,....
@@ -442,7 +442,7 @@ Sedamocikagāthā
 .
 ‘‘,’’‘‘’’..‘‘’’.,,..,‘‘’’.‘‘’’.‘‘’’..
 .‘‘’’.
-Iti sedamocikagāthāvaṇṇanāya yojanā samattā.
+.
 Pañcavaggo
 Kammavaggavaṇṇanā
 482.‘‘’’..,,.,,..‘‘’’.
@@ -507,21 +507,21 @@ Apalokanakammakathā
 ..
 .
 497.‘‘’’..‘‘’’.
-Iti kammavaggavaṇṇanāya yojanā samattā.
+.
 Atthavasavaggādivaṇṇanā
 498.‘‘’’‘‘’’,...,‘‘’’....‘‘’’...‘‘’’..‘‘’’....
-Iti atthavasavaggavaṇṇanāya yojanā samattā.
+.
 499.,.‘‘,’’.‘‘’’.
 500...‘‘’’‘‘’’..‘‘’’‘‘’’..
-Iti ānisaṃsavaggavaṇṇanāya yojanā samattā.
+.
 501..‘‘’’.‘‘’’‘‘,’’.‘‘’’....‘‘’’..
 .
 ..
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
+
 .
 ,.,.,.
-Iti parivāravaṇṇanāya yojanā samattā.
-Niṭṭhitā ca pācityādivaṇṇanāya yojanāti.
+.
+.
 ;
 ,.
 Nigamanakathāvaṇṇanā
@@ -548,7 +548,7 @@ Nigamanakathāvaṇṇanā
 ,.,,.,,,.,,,,‘‘’’.,.,,.,,.,,,.,,,,.
 ,,,.,,.
 ‘‘’’,.
-Iti nigamanassa atthayojanā samattā.
+.
 Nigamanakathā
 –
 ,;
@@ -564,5 +564,5 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Iti bhadantajāgarattherena katā
-Pācityādivaṇṇanāya yojanā samattā.
+
+.

@@ -85,7 +85,7 @@
 ‘‘,;
 ,’’.
 .
-Yasattherassāpadānaṃ paṭhamaṃ.
+.
 2. Nadīkassapattheraapadānaṃ
 29.
 ‘‘,;
@@ -103,9 +103,9 @@ Yasattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 34.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā nadīkassapo thero imā gāthāyo
+
 .
-Nadīkassapattherassāpadānaṃ dutiyaṃ.
+.
 3. Gayākassapattheraapadānaṃ
 35.
 ‘‘ajinavattaṃ nivattohaṃ (sī.),;
@@ -125,9 +125,9 @@ Nadīkassapattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 41.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā gayākassapo thero imā gāthāyo
+
 .
-Gayākassapattherassāpadānaṃ tatiyaṃ.
+.
 4. Kimilattheraapadānaṃ
 42.
 ‘‘,;
@@ -147,9 +147,9 @@ Gayākassapattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 48.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kimilo kimbilo (sī.) thero imā gāthāyo
+kimbilo (sī.)
 .
-Kimilattherassāpadānaṃ catutthaṃ.
+.
 5. Vajjīputtattheraapadānaṃ
 49.
 ‘‘,;
@@ -166,9 +166,9 @@ Kimilattherassāpadānaṃ catutthaṃ.
 ‘‘…pe….
 54.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā vajjīputto thero imā gāthāyo
+
 .
-Vajjīputtattherassāpadānaṃ pañcamaṃ.
+.
 6. Uttarattheraapadānaṃ
 55.
 ‘‘,;
@@ -283,9 +283,9 @@ mahesakkho (ka.),;
 ‘‘…pe….
 92.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā uttaro thero imā gāthāyo
+
 .
-Uttarattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Aparauttarattheraapadānaṃ
 93.
 ‘‘,;
@@ -299,9 +299,9 @@ Uttarattherassāpadānaṃ chaṭṭhaṃ.
 ‘‘…pe….
 97.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā aparauttaratthero imā gāthāyo
+
 .
-Aparassa uttarattherassāpadānaṃ sattamaṃ.
+.
 8. Bhaddajittheraapadānaṃ
 98.
 ‘‘,;
@@ -357,9 +357,9 @@ Aparassa uttarattherassāpadānaṃ sattamaṃ.
 ‘‘…pe….
 116.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā bhaddajitthero imā gāthāyo
+
 .
-Bhaddajittherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sivakattheraapadānaṃ
 117.
 ‘‘,;
@@ -373,9 +373,9 @@ Bhaddajittherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 121.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sivakatthero imā gāthāyo
+
 .
-Sivakattherassāpadānaṃ navamaṃ.
+.
 10. Upavānattheraapadānaṃ
 122.
 ‘‘,;
@@ -545,9 +545,9 @@ Sivakattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 178.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā upavānatthero imā gāthāyo
+
 .
-Upavānattherassāpadānaṃ dasamaṃ.
+.
 11. Raṭṭhapālattheraapadānaṃ
 179.
 ‘‘,;
@@ -597,17 +597,17 @@ mahagghañca (sī.), mayā bhattaṃ (ka.) apa. thera 1.2.99,.
 ‘‘…pe….
 195.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā raṭṭhapālo thero imā gāthāyo
+
 .
-Raṭṭhapālattherassāpadānaṃ ekādasamaṃ.
-Yasavaggo chapaññāsamo.
+.
+.
 –
 ,;
 ,;
 ,.
-Therāpadānaṃ samattaṃ.
-Ettāvatā buddhāpadānañca paccekāpadānañca therāpadānañca
 .
- Namo tassa bhagavato arahato sammāsambuddhassa
+
+.
+
 Khuddakanikāye
 Therīapadānapāḷi

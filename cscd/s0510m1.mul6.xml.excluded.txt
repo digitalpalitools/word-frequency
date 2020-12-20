@@ -19,7 +19,7 @@
 ‘‘,;
 ,’’.
 .
-Sakacintaniyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Avopupphiyattheraapadānaṃ
 7.
 ‘‘,abbhuṭṭhāsi ca (syā. ka.);
@@ -39,7 +39,7 @@ Sakacintaniyattherassāpadānaṃ paṭhamaṃ.
 12.
 ‘‘…pe…’’.
 .
-Avopupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Paccāgamaniyattheraapadānaṃ
 13.
 ‘‘,;
@@ -62,7 +62,7 @@ Avopupphiyattherassāpadānaṃ dutiyaṃ.
 19.
 ‘‘…pe…’’.
 .
-Paccāgamaniyattherassāpadānaṃ tatiyaṃ.
+.
 4. Parappasādakattheraapadānaṃ
 20.
 ‘‘,;
@@ -91,7 +91,7 @@ sugatīsu susumpattiṃ (sī. syā.),.
 28.
 ‘‘…pe…’’.
 .
-Parappasādakattherassāpadānaṃ catutthaṃ.
+.
 5. Bhisadāyakattheraapadānaṃ
 29.
 ‘‘,;
@@ -114,7 +114,7 @@ terase (sī. syā.),.
 35.
 ‘‘…pe…’’.
 .
-Bhisadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Sucintitattheraapadānaṃ
 36.
 ‘‘,;
@@ -143,7 +143,7 @@ Bhisadāyakattherassāpadānaṃ pañcamaṃ.
 44.
 ‘‘…pe…’’.
 .
-Sucintitattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Vatthadāyakattheraapadānaṃ
 45.
 ‘‘,;
@@ -169,7 +169,7 @@ Sucintitattherassāpadānaṃ chaṭṭhaṃ.
 52.
 ‘‘…pe…’’.
 .
-Vatthadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Ambadāyakattheraapadānaṃ
 53.
 ‘‘,;
@@ -198,7 +198,7 @@ anomaṃ amitaṃ (sī.), anomamadhitaṃ (syā.),.
 61.
 ‘‘…pe…’’.
 .
-Ambadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sumanattheraapadānaṃ
 62.
 ‘‘,;
@@ -218,7 +218,7 @@ Ambadāyakattherassāpadānaṃ aṭṭhamaṃ.
 67.
 ‘‘…pe…’’.
 .
-Sumanattherassāpadānaṃ navamaṃ.
+.
 10. Pupphacaṅkoṭiyattheraapadānaṃ
 68.
 ‘‘,;
@@ -241,8 +241,8 @@ Sumanattherassāpadānaṃ navamaṃ.
 74.
 ‘‘…pe…’’.
 .
-Pupphacaṅkoṭiyattherassāpadānaṃ dasamaṃ.
-Sakacintaniyavaggo sattamo.
+.
+.
 –
 ,;
 ,.

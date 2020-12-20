@@ -53,7 +53,7 @@ ajjhattarato samāhito abhindi kavacamivattasambhavanti
 tulamatulañca sambhavanti tulasaṅkhataṃ atulasaṅkhataṃ tattha ye saṅkhatā tulaṃ te dve dhammā assādo ca ādīnavo ca tulitā bhavanti ettako kāmesu assādo ettako ādīnavo imassa idaṃ nissaraṇanti iti nibbānaṃ pajānāti dvīhi kāraṇehi atulaṃ na ca sakkā tulayituṃ ettakaṃ etaṃ netaṃ paramatthīti tena atulaṃ atha pāpuṇā ratanaṃ karitvā acchariyabhāvena  atulaṃ tattha kusalassa ca abhisambhavā jānanā passanā ayaṃ amoho yaṃ tattha ñātā osiraṇā bhavasaṅkhārānaṃ ayaṃ alobho yaṃ ajjhattarato samāhitoti vikkhepapaṭisaṃharaṇā ayaṃ adoso iti imāni tīṇi kusalamūlāni tulamatulasambhavanti  ayaṃ amoho yo bhavasaṅkhārānaṃ samosaraṇaṃ lobho sammāsamādhīnaṃ assādo ayaṃ hetu yaṃ ajjhattarato avijjaṇḍakosaṃ sambhedo ayaṃ nissando sā pavatti imāni tīṇi niddiṭṭhāni kusalamūlāni hetuto ca nissandato ca phalato ca
 ettāvatā esā pavatti ca nivatti ca akusalamūlehi pavattati kusalamūlehi nivattatīti imehi ca tīhi sabbaṃ akusalamūlaṃ samosaraṇaṃ gacchati so dhamme vā vacanato niddiṭṭho taṇhāti vā kodhoti vā asampajaññanti vā anusayoti vā makkhoti vā paḷāsoti vā assatīti vā issāti vā macchariyanti vā aññāṇanti vā tehi ye ca vatthūhi niddisitabbaṃ yassimāni dve vacanāni dhammapadāni niddiṭṭhāni na so atthi kilesā yo imesu navasu padesu samodhānaṃ samosaraṇaṃ gacchati ayaṃ kileso na ca lobho na ca doso na ca moho
 yathā akusalamūlāni evaṃ kusalāni paṭikkhepena niddisitabbāni
-
+idaṃ amohādhiṭṭhānaṃ
  tattha  katamaṃ kāyakammādhiṭṭhānaṃ
 kāyena kusalaṃ kare assa kāyena saṃvuto
 kāyaduccaritaṃ hitvā kāyena sucaritaṃ care
@@ -79,7 +79,7 @@ saṅghe pasādo yassatthi ujubhūtañca dassanaṃ
 adaliddoti taṃ āhu amoghaṃ tassa jīvitaṃ
 saddhā ve nandikā ārādhiko no tassa saddhoti
 sabbaṃ siyāti bhagavantaṃ tathārūpo dhammasampasādo
-
+idaṃ saddhindriyādhiṭṭhānaṃ
 tattha katamaṃ vīriyādhiṭṭhānaṃ
 ārambhatha  nikkamatha yuñjatha buddhasāsane
 dhunātha maccuno senaṃ naḷāgāraṃva kuñjaro
@@ -119,6 +119,6 @@ satīmato sadā bhaddaṃ satipaṭṭhānabhāvanā
 ākaṅkhato ca anaññāṇaṃ ye ca tīṇi samādhayo
 paññā  hi seṭṭhā lokasmiṃ tisso paññā pakāsitā
 avītarāgo kāmesu tatheva pañcindriyā
-
-
-
+iti therassa mahākaccāyanassa
+jambuvanavāsino peṭakopadese
+tatiyabhūmi suttādhiṭṭhānaṃ nāma

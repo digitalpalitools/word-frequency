@@ -25,7 +25,7 @@ Adhammakammādidvādasakakathā
 50.‘‘’’.,,..
 51...‘‘’’.‘‘’’(bu. vaṃ. 2.101).‘‘’’‘‘’’.‘‘’’.‘‘,,’’.‘‘’’.‘‘’’‘‘’’...
 65...,.
-Iti kammakkhandhakavaṇṇanāya yojanā samattā.
+.
 2. Pārivāsikakkhandhakaṃ
 1. Pārivāsikavattakathā
 75.‘‘’’.‘‘’’..,,.......,.‘‘’’.....,..
@@ -60,7 +60,7 @@ Iti kammakkhandhakavaṇṇanāya yojanā samattā.
 87.,.
 4. Mānattācārikavattakathā
 92.(pāci. 217 ādayo)‘‘’’..
-Iti pārivāsikakkhandhakavaṇṇanāya yojanā samattā.
+.
 3. Samuccayakkhandhakaṃ
 1. Sukkavissaṭṭhikathā
 .,..,...‘‘’’‘‘’’...…pe….......
@@ -130,7 +130,7 @@ Suddhantaparivāsādikathā
 8. Dvebhikkhuvāraekādasakādikathā
 181...‘‘’’.
 184..‘‘’’.‘‘’’.
-Iti samuccayakkhandhakavaṇṇanāya yojanā samattā.
+.
 4. Samathakkhandhakaṃ
 1. Sammukhāvinayakathā
 186-7....‘‘’’‘‘’’,...‘‘’’...‘‘’’.,...‘‘’’.‘‘’’‘‘…pe…’’.‘‘’’.,...
@@ -174,7 +174,7 @@ Tividhasalākaggāhakathā
 ............
 Tassapāpiyasikāvinayakathā
 238...,..‘‘’’..........
-Iti samathakkhandhakavaṇṇanāya yojanā samattā.
+.
 5. Khuddakavatthukkhandhakaṃ
 Khuddakavatthukathā
 243...,‘‘’’.‘‘’’(pārā. 193; pāci. 67).,‘‘’’.
@@ -233,7 +233,7 @@ Khuddakavatthukathā
 288.‘‘’’..
 289.‘‘’’..
 293.,..‘‘’’...‘‘’’(cūḷava. aṭṭha. 269)..‘‘’’...
-Iti khuddakavatthukkhandhakavaṇṇanāya yojanā samattā.
+.
 6. Senāsanakkhandhakaṃ
 Vihārānujānanakathā
 294.,,‘‘’’.,.‘‘’’.....,,.,,.‘‘’’.
@@ -372,7 +372,7 @@ Uddesabhattakathā
 ....‘‘’’‘‘’’.
 ...,.‘‘’’‘‘’’,‘‘’’.
 .‘‘’’,...‘‘’’.
-Iti uddesabhattakathāya yojanā samattā.
+.
 Nimantanabhattakathā
 .‘‘’’.‘‘’’‘‘’’..‘‘’’...‘‘’’.
 .....
@@ -416,9 +416,9 @@ Pakkhikabhattādikathā
 ..,.,‘‘’’.
 .‘‘’’‘‘’’...,.‘‘,’’.
 ....–,.
-Iti paccayabhājanīyakathāya yojanā samattā.
+.
 ..
-Iti senāsanakkhandhakavaṇṇanāya yojanā samattā.
+.
 7. Saṅghabhedakakkhandhakaṃ
 Chasakyapabbajjākathā
 330.‘‘’’...,..‘‘’’‘‘’’.‘‘’’..‘‘’’...‘‘’’.,.‘‘’’..,,‘‘’’...‘‘’’.‘‘’’.
@@ -456,7 +456,7 @@ Upālipañhākathā
 .–,.
 ‘‘’’..,.
 ‘‘’’.‘‘’’.,..‘‘’’.‘‘,’’..‘‘’’‘‘’’....‘‘’’.‘‘’’(pari. 458)..,.‘‘’’.....
-Iti saṅghabhedakakkhandhakavaṇṇanāya yojanā samattā.
+.
 8. Vattakkhandhakaṃ
 1. Āgantukavattakathā
 357.‘‘’’.‘‘’’‘‘’’,.‘‘’’.‘‘’’.‘‘’’.…pe…‘‘’’‘‘’’.‘‘…pe…’’.‘‘’’.‘‘’’.‘‘’’.,..‘‘’’..
@@ -487,7 +487,7 @@ Iti saṅghabhedakakkhandhakavaṇṇanāya yojanā samattā.
 374....‘‘’’,‘‘’’..
 ,...
 ‘‘’’.‘‘’’(pāṇinī 977 dhātupāṭhe; saddanītidhātumālāyaṃ 15 dakārantadhātu)‘‘’’....
-Iti vattakkhandhakavaṇṇanāya yojanā samattā.
+.
 9. Pātimokkhaṭṭhapanakkhandhakaṃ
 1. Pātimokkhuddesayācanakathā
 383.,.‘‘(jā. aṭṭha. 3.4.1)’’,.,,,‘‘’’.‘‘’’.‘‘’’.,..,.‘‘’’,.‘‘’’.‘‘’’...‘‘’’‘‘’’.-,‘‘’’(saddanītisuttamālāya 893 sutte)...‘‘’’(saddanītidhātumālāyaṃ 18 makārantadhātu).
@@ -513,7 +513,7 @@ Iti vattakkhandhakavaṇṇanāya yojanā samattā.
 10. Codakacuditakapaṭisaṃyuttakathā
 401.‘‘’’.‘‘’’.‘‘’’.,.,.‘‘’’...‘‘,’’.....‘‘’’..
 ‘‘’’.‘‘’’.,...
-Iti pātimokkhaṭṭhapanakkhandhakavaṇṇanāya yojanā samattā.
+.
 10. Bhikkhunikkhandhakaṃ
 Mahāpajāpatigotamīvatthukathā
 402.‘‘’’.‘‘’’.,,....,.
@@ -545,12 +545,12 @@ Bhikkhunīupasampadānujānanakathā
 ..‘‘’’....,‘‘’’‘‘’’..‘‘’’,..,.
 435.‘‘’’....‘‘’’,.
 436...
-Iti bhikkhunikkhandhakavaṇṇanāya yojanā samattā.
+.
 11. Pañcasatikakkhandhakaṃ
 1. Khuddānukhuddakasikkhāpadakathā
 441.‘‘…pe…’’..,.,.‘‘’’.
 443.‘‘’’.‘‘’’‘‘,’’..,..‘‘…pe…’’.‘‘’’....‘‘’’..
-Iti pañcasatikakkhandhakavaṇṇanāya yojanā samattā.
+.
 12. Sattasatikakkhandhakaṃ
 Dasavatthukathā
 447.‘‘’’....
@@ -560,14 +560,14 @@ Dasavatthukathā
 ‘‘’’(mahāva. 305).....,.,..,....‘‘’’.
 ‘‘’’..‘‘…pe…(mahāva. 141)’’...‘‘’’.‘‘’’.
 ..,....‘‘’’(pāci. 533)..
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Sattasatikakkhandhakavaṇṇanāya
-Yojanā samattā.
+
+
+.
 .,.,..-,,.
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Cūḷavaggasaṃvaṇṇanāya
-Yojanā samattā.
+
+
+.
 ,;
 ,.
- Namo tassa bhagavato arahato sammāsambuddhassa
+
 Pācityādiyojanā

@@ -164,7 +164,7 @@ Mātikā
 620.‘‘’’.
 621.‘‘’’.
 622.‘‘’’.‘‘’’.
-Suttantabhājanīyaṃ.
+.
 2. Abhidhammabhājanīyaṃ
 1. Rūpāvacarakusalaṃ
 623.–,,,.
@@ -172,13 +172,13 @@ Suttantabhājanīyaṃ.
 ?…pe…,–,,.‘‘’’..
 ?…pe…,–,.‘‘’’..
 ?…pe…,–,.‘‘’’..
-Catukkaṃ.
+.
 625.…pe…,–,,,,.‘‘’’..
 ,–,,,.‘‘’’..
 …pe…,–,,.‘‘’’..
 …pe…,–,.‘‘’’..
 …pe…,–,.‘‘’’..
-Pañcakaṃ.
+.
 2. Arūpāvacarakusalaṃ
 626.…pe…,–,.‘‘’’..
 3. Lokuttarakusalaṃ
@@ -187,13 +187,13 @@ Pañcakaṃ.
 ?…pe…,–,,.‘‘’’..
 ?…pe…,–,.‘‘’’..
 ?…pe…,–,.‘‘’’..
-Catukkaṃ.
+.
 629.…pe…,–,,,,.‘‘’’..
 ,.‘‘’’..
 …pe…,–,,.‘‘’’..
 …pe…,–,.‘‘’’..
 …pe…,–,.‘‘’’..
-Pañcakaṃ.
+.
 4. Rūpāvacaravipākā
 630.–,,,.
 631.?…pe…,…pe…..…pe…,–,,,,.‘‘’’..
@@ -209,7 +209,7 @@ Pañcakaṃ.
 636.?…pe…,–,,,,.‘‘’’..
 ?…pe……pe……pe……pe……pe…,–,.‘‘’’..
 637.…pe…,–,.‘‘’’..
-Abhidhammabhājanīyaṃ.
+.
 3. Pañhāpucchakaṃ
 638.–…pe……pe…,–‘‘’’…pe….
 639.,,…pe…,?
@@ -221,5 +221,5 @@ Abhidhammabhājanīyaṃ.
 ,,,,‘‘’’,,‘‘’’.‘‘’’,.,.
 …pe……pe……pe……pe……pe……pe…,,,,,,,,,,,,,,.
 …pe……pe…,,,.–,.–,.–,.–,.–,.–,,,,,,,,,,,,,,,,.
-Pañhāpucchakaṃ.
-Jhānavibhaṅgo niṭṭhito.
+.
+.

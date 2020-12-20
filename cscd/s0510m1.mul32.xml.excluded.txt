@@ -19,7 +19,7 @@
 ‘‘,;
 ,.
 .
-Umāpupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Pulinapūjakattheraapadānaṃ
 7.
 ‘‘,;
@@ -39,7 +39,7 @@ Umāpupphiyattherassāpadānaṃ paṭhamaṃ.
 12.
 ‘‘…pe…’’.
 .
-Pulinapūjakattherassāpadānaṃ dutiyaṃ.
+.
 3. Hāsajanakattheraapadānaṃ
 13.
 ‘‘paṃsukūlikaṃ (syā. ka.),;
@@ -53,7 +53,7 @@ Pulinapūjakattherassāpadānaṃ dutiyaṃ.
 16.
 ‘‘…pe…’’.
 .
-Hāsajanakattherassāpadānaṃ tatiyaṃ.
+.
 4. Yaññasāmikattheraapadānaṃ
 17.
 ‘‘,;
@@ -88,7 +88,7 @@ tārasmīhi upanītāni (ka.), sārasmiṃhi upanītāni (syā.),.
 27.
 ‘‘…pe…’’.
 .
-Yaññasāmikattherassāpadānaṃ catutthaṃ.
+.
 5. Nimittasaññakattheraapadānaṃ
 28.
 ‘‘,;
@@ -108,7 +108,7 @@ Yaññasāmikattherassāpadānaṃ catutthaṃ.
 33.
 ‘‘…pe…’’.
 .
-Nimittasaññakattherassāpadānaṃ pañcamaṃ.
+.
 6. Annasaṃsāvakattheraapadānaṃ
 34.
 ‘‘,;
@@ -125,7 +125,7 @@ Nimittasaññakattherassāpadānaṃ pañcamaṃ.
 38.
 ‘‘…pe…’’.
 ;
-Annasaṃsāvakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Nigguṇḍipupphiyattheraapadānaṃ
 39.
 ‘‘,;
@@ -154,7 +154,7 @@ Annasaṃsāvakattherassāpadānaṃ chaṭṭhaṃ.
 47.
 ‘‘,;
 ,.
-Dvādasamaṃ bhāṇavāraṃ.
+.
 48.
 ‘‘,;
 ,.
@@ -203,7 +203,7 @@ Dvādasamaṃ bhāṇavāraṃ.
 63.
 ‘‘…pe…’’.
 .
-Nigguṇḍipupphiyattherassāpadānaṃ sattamaṃ.
+.
 8. Sumanāveḷiyattheraapadānaṃ
 64.
 ‘‘,;
@@ -232,7 +232,7 @@ anubhosiṃ (sī.),.
 72.
 ‘‘…pe…’’.
 .
-Sumanāveḷiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Pupphacchattiyattheraapadānaṃ
 73.
 ‘‘,;
@@ -261,7 +261,7 @@ Sumanāveḷiyattherassāpadānaṃ aṭṭhamaṃ.
 81.
 ‘‘…pe…’’.
 .
-Pupphacchattiyattherassāpadānaṃ navamaṃ.
+.
 10. Saparivārachattadāyakattheraapadānaṃ
 82.
 ‘‘,;
@@ -335,8 +335,8 @@ vassati (sī. syā.), vasseti (?).
 105.
 ‘‘…pe…’’.
 .
-Saparivārachattadāyakattherassāpadānaṃ dasamaṃ.
-Umāpupphiyavaggo tettiṃsatimo.
+.
+.
 –
 ,;
 ,;

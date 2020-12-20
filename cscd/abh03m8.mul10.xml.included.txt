@@ -25,7 +25,7 @@ maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipa
 
 
  hetuyā  sattarasa ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa 
-
+anulomaṃ
 
 
 
@@ -79,16 +79,16 @@ maggahetukañca  maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajj
 
 
  nahetuyā  ekaṃ naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke sattarasa namagge ekaṃ navippayutte sattarasa 
-
+paccanīyaṃ
 
 
  hetupaccayā naadhipatiyā sattarasa napurejāte sattarasa napacchājāte sattarasa naāsevane nava nakamme sattarasa navipāke navippayutte sattarasa 
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā  ārammaṇe ekaṃ anantare ekaṃ samanantare ekaṃ jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ 
-
-
+paccayānulomaṃ
+paṭiccavāro
 
 (sahajātavāropi  paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadiso)
 
@@ -174,7 +174,7 @@ maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo
 
 
  hetuyā sattarasa ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa 
-
+anulomaṃ
 
  maggārammaṇo dhammo maggārammaṇassa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
 maggārammaṇo  dhammo maggādhipatissa dhammassa sahajātapaccayena paccayo upanissayapaccayena paccayo 
@@ -201,13 +201,13 @@ maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dh
 
 
  nahetuyā ekavīsa naārammaṇe sattarasa  naadhipatiyā  ekavīsa naanantare nasamanantare nasahajāte naaññamaññe nanissaye naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge nasampayutte navippayutte noatthiyā nonatthiyā novigate noavigate ekavīsa 
-
+paccanīyaṃ
 
 
  hetupaccayā  naārammaṇe sattarasa naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge navippayutte nonatthiyā novigate sattarasa 
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā  ārammaṇe nava adhipatiyā ekavīsa anantare nava samanantare nava sahajāte sattarasa aññamaññe sattarasa nissaye sattarasa upanissaye ekavīsa āsevane nava kamme sattarasa āhāre sattarasa indriye jhāne magge sampayutte sattarasa atthiyā sattarasa natthiyā nava vigate nava avigate sattarasa 
-
-
+paccanīyānulomaṃ
+maggārammaṇattikaṃ niṭṭhitaṃ

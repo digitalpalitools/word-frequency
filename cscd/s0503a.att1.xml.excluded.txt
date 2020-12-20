@@ -130,15 +130,15 @@
 ‘‘,;
 ,’’.–
 (jā. 2.22.19).‘‘’’(pārā. 289).‘‘’’(cūḷava. 332).‘‘’’(pārā. 92).‘‘’’(dī. ni. 1.285).‘‘’’.‘‘‘,,,’’’(ma. ni. 1.30).,...‘‘’’‘‘’’..-‘‘’’,.
-Paramatthadīpaniyā khuddakanikāyaṭṭhakathāya
-Udānasaṃvaṇṇanāpaṭhamabodhisuttavaṇṇanā niṭṭhitā.
+
+.
 2. Dutiyabodhisuttavaṇṇanā
 2.‘‘’’.,.‘‘’’..,.‘‘,’’‘‘,,,’’.,,,.,.
 ,‘‘’’.,.,..,...,‘‘’’‘‘’’.,.
 ‘‘,’’,‘‘…pe…’’.‘‘,…pe…’’,..
 ‘‘’’,.‘‘’’.
 –,.,..
-Dutiyabodhisuttavaṇṇanā niṭṭhitā.
+.
 3. Tatiyabodhisuttavaṇṇanā
 3.,.,?.??‘‘’’,....–‘‘,’’..‘‘,,’’.
 .,..,..
@@ -146,7 +146,7 @@ Dutiyabodhisuttavaṇṇanā niṭṭhitā.
 –,,,‘‘’’(su. ni. 438; mahāni. 28; cūḷani. nandamāṇavapucchāniddesa 47).?,,.
 ,,.?.‘‘’’,..
 ‘‘’’(mahāva. 1)‘‘,,’’,.,.
-Tatiyabodhisuttavaṇṇanā niṭṭhitā.
+.
 4. Huṃhuṅkasuttavaṇṇanā
 4.,‘‘’’.‘‘,’’.–,,.,‘’.,.‘‘’’.
 ....
@@ -158,7 +158,7 @@ Tatiyabodhisuttavaṇṇanā niṭṭhitā.
 ,.,..
 ,.?..,.,,..
 ,.,,,,,.,‘‘’’.,,,,,.
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Brāhmaṇasuttavaṇṇanā
 5..,,..–..
 ‘‘,;
@@ -171,7 +171,7 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 .‘‘,,,,,’’.,.‘‘’’.,...‘‘,,,’’‘‘’’...–‘‘,’’(dha. pa. 388).‘‘’’.
 ..
 ,.,,,,.....,,,.,,,.,.
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Mahākassapasuttavaṇṇanā
 6..‘‘’’.‘‘’’.?.,..,‘‘’’.,‘‘’’.,‘‘’’..‘‘’’.,.‘‘’’,.‘‘’’.,.
 ,‘‘’’.,‘‘’’..,.,.,.,.–
@@ -184,7 +184,7 @@ Pañcamasuttavaṇṇanā niṭṭhitā.
 ,.......?‘‘’’.
 ,..
 ,,,..,...‘‘’’(dha. pa. 49)..,,....,.....
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Ajakalāpakasuttavaṇṇanā
 7..‘‘’’.,,‘‘’’.–.,,‘‘’’.,,.‘‘’’..
 .‘‘,,,,,’’....–‘‘’’.
@@ -200,7 +200,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 .‘‘’’,..‘‘’’....
 .,,,,,,.
 .‘‘’’.
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Saṅgāmajisuttavaṇṇanā
 8..,.‘‘’’‘‘’’‘‘’’..
 ,.,.‘‘’’.‘‘’’?‘‘,,’’.‘‘,,’’.‘‘,,,’’.,‘‘,’’.(ma. ni. 2.293 ādayo).
@@ -211,7 +211,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 ,...,,,....
 ..
 ,....,‘‘’’...
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Jaṭilasuttavaṇṇanā
 9..‘‘’’,.,‘‘’’.,,.–‘‘’’.
 .‘‘’’.....
@@ -221,7 +221,7 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 ..
 .‘‘’’.,..?.,,,,.?.,,,.‘‘’’.
 ,‘‘’’....,,,.?.‘‘(su. ni. 455),(saṃ. ni. 1.246; su. ni. 184),,(su. ni. 455),’’(jā. 2.21.433).‘‘,(dha. pa. 176),’’(dha. pa. 306).
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Bāhiyasuttavaṇṇanā
 10....,,?
 –‘‘,,’’.,..
@@ -283,5 +283,5 @@ Navamasuttavaṇṇanā niṭṭhitā.
 ,..
 ,,.?......,‘‘’’..
 ,‘‘’’.‘‘’’,.,.,.,.‘‘’’......‘‘’’.
-Dasamasuttavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca bodhivaggavaṇṇanā.
+.
+.

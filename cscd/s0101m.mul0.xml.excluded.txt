@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Dīghanikāyo
 Sīlakkhandhavaggapāḷi
 1. Brahmajālasuttaṃ
@@ -37,7 +37,7 @@ naccagītavāditavisukadassanā (ka.)….
 ….
 sāviyogā (syā. kaṃ. ka.)….
 ’–,,.
-Cūḷasīlaṃ niṭṭhitaṃ.
+.
 Majjhimasīlaṃ
 11.‘‘‘,seyyathīdaṃ (sī. syā.)–pañcamaṃ iti vā (sī. syā. ka.);’–,,.
 12.‘‘‘,–’–,,.
@@ -49,7 +49,7 @@ Majjhimasīlaṃ
 18.‘‘‘,–,,,,,,,,,,,,,’–,,.
 19.‘‘‘,–,,,,,‘‘,,,’’’–,,.
 20.‘‘‘,,lābhena lābhaṃ nijigiṃ bhitāro (sī. syā.), lābhena ca lābhaṃ nijigīsitāro (pī.)iti vā, iti (syā. kaṃ. ka.)’–,,.
-Majjhimasīlaṃ niṭṭhitaṃ.
+.
 Mahāsīlaṃ
 21.‘‘‘,–khettavijjā (bahūsu)’–,,.
 22.‘‘‘,–mahisalakkhaṇaṃ (sī. syā. kaṃ. pī.)’–,,.
@@ -59,7 +59,7 @@ Mahāsīlaṃ
 26.‘‘‘,–’–,,.
 27.‘‘‘,–’–,,.
 ‘‘,,,.
-Mahāsīlaṃ niṭṭhitaṃ.
+.
 Pubbantakappikā
 28.‘‘,,,,.,,,,?
 29.‘‘,,,adhivuttipadāni (sī. pī.).?
@@ -75,7 +75,7 @@ Sassatavādo
 35.‘‘,,.,,,,;.
 36.‘‘,,–‘’,,;pajānaṃ (?) dī. ni. 3.36 pāḷiaṭṭhakathā passitabbaṃ,.,,.
 37.‘‘,,,,.
-Paṭhamabhāṇavāro.
+.
 Ekaccasassatavādo
 38.‘‘,,.?
 39.‘‘,,,..,.
@@ -123,7 +123,7 @@ Adhiccasamuppannavādo
 71.‘‘,,.,,,,,.
 72.‘‘,,–‘’.,,,.,,.
 73.‘‘,,,,.
-Dutiyabhāṇavāro.
+.
 Aparantakappikā
 74.‘‘,,,catucattālīsāya (syā. kaṃ.).?
 Saññīvādo
@@ -213,4 +213,4 @@ Vivaṭṭakathādi
 ‘‘,,vaṇṭūpanibandhanāni (sī. pī.), vaṇḍapaṭibaddhāni (ka.),;,,,,,’’.
 148.–‘‘,,,,,,’’?‘‘,,,,,,’’..
 149..sahassī (katthaci).
-Brahmajālasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.

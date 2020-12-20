@@ -9,7 +9,7 @@
 182.‘‘’’,,‘‘’’...
 183..–‘‘’’.,,.,,.,,....
 184.,.,,,,‘‘’’...
-Cūḷasuññatasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Mahāsuññatasuttavaṇṇanā
 185.,.-..
 ,‘‘’’‘‘’’.,.‘‘’’,‘‘’’,-–‘‘-’’.,‘‘’’,‘‘,,’’(ma. ni. 3.185),,.–‘‘’’(pārā. 16).‘‘’’.
@@ -34,7 +34,7 @@ Cūḷasuññatasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..,.;.‘‘’’.
 196.‘‘’’.,,.‘‘’’..
 .–‘‘’’......
-Mahāsuññatasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Acchariyabbhutasuttavaṇṇanā
 197.,,,,‘‘’’..,‘‘’’..–‘‘’’...,.–‘‘’’.,.
 ......,–‘‘’’.‘‘’’.
@@ -76,7 +76,7 @@ Mahāsuññatasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..‘‘’’....,..,.
 ‘‘’’.,..‘‘’’.,,,,...,..;;…pe….
 .,.‘‘’’...,.,..
-Acchariyabbhutasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Bākulasuttavaṇṇanā
 209.‘‘’’--,-,,‘‘’’....,..,,...
 ...,...–‘‘’’...
@@ -86,7 +86,7 @@ Acchariyabbhutasuttavaṇṇanāya līnatthappakāsanā samattā.
 .,‘‘…pe…’’..
 ,.,.‘‘’’.
 212....
-Bākulasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Dantabhūmisuttavaṇṇanā
 213.,.,‘‘’’..
 214.,,.
@@ -96,10 +96,10 @@ Bākulasuttavaṇṇanāya līnatthappakāsanā samattā.
 217....,‘‘’’....
 219...
 222.,‘‘,’’,‘‘’’..
-Dantabhūmisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Bhūmijasuttavaṇṇanā
 223.,‘‘,’’,...,.,,,,,,,;,.–‘‘’’..
-Bhūmijasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Anuruddhasuttavaṇṇanā
 230.,‘‘’’..,,,.,‘‘’’.
 231.,,‘‘’’.…pe…..,.,‘‘’’.............,..
@@ -107,7 +107,7 @@ Bhūmijasuttavaṇṇanāya līnatthappakāsanā samattā.
 ....‘‘’’.
 234.‘‘’’.,–‘‘’’..
 235..,,..,..
-Anuruddhasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Upakkilesasuttavaṇṇanā
 236.,.,,.
 ..,,.
@@ -126,7 +126,7 @@ Anuruddhasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘’’.,‘‘’’.‘‘’’.‘‘’’...
 245.,.,.,.
 ..,.,‘‘’’,‘‘’’...,‘‘’’.,‘‘’’..
-Upakkilesasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Bālapaṇḍitasuttavaṇṇanā
 246.....‘‘’’..,,....‘‘’’...‘‘’’..
 248.,,–‘‘’’.–‘‘’’.
@@ -167,7 +167,7 @@ Gahapatiratanavaṇṇanā
 Pariṇāyakaratanavaṇṇanā
 .
 260..‘‘’’...
-Bālapaṇḍitasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Devadūtasuttavaṇṇanā
 261.-‘‘…pe…’’.(ma. ni. 1.432; ma. ni. aṭṭha. 1.432).‘‘’’(visuddhi. 2.397),‘‘’’.
 262..,.,‘‘’’..
@@ -194,5 +194,5 @@ Bālapaṇḍitasuttavaṇṇanāya līnatthappakāsanā samattā.
 270.,.....
 271...‘‘’’.,–‘‘’’..‘‘’’.
 .
-Devadūtasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca suññatavaggavaṇṇanā.
+.
+.

@@ -31,7 +31,7 @@ sattaratanasampannā cakkavattī mahabbalā
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā mahāparivārako thero imā gāthāyo abhāsitthāti
-
+mahāparivārakattherassāpadānaṃ paṭhamaṃ
 
 
  atthadassī  jinavaro lokajeṭṭho narāsabho
@@ -60,7 +60,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā sumaṅgalo thero imā gāthāyo abhāsitthāti
-
+sumaṅgalattherassāpadānaṃ dutiyaṃ
 
 
  ubhinnaṃ devarājūnaṃ saṅgāmo samupaṭṭhito
@@ -95,7 +95,7 @@ tiṃsakappasahassamhi rājāno cakkavattino
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā saraṇagamaniyo thero imā gāthāyo abhāsitthāti
-
+saraṇagamaniyattherassāpadānaṃ tatiyaṃ
 
 
  varuṇo nāma nāmena devarājā ahaṃ tadā
@@ -124,7 +124,7 @@ sattaratanasampannā pañcakappasate ito
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ekāsaniyo thero imā gāthāyo abhāsitthāti
-
+ekāsaniyattherassāpadānaṃ catutthaṃ
 
 
  vipassī  nāma bhagavā lokajeṭṭho narāsabho
@@ -153,7 +153,7 @@ tetālīse ito kappe cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā suvaṇṇapupphiyo thero imā gāthāyo abhāsitthāti
-
+suvaṇṇapupphiyattherassāpadānaṃ pañcamaṃ
 
 
  vasāmi  rājāyatane sāmacco saparijjano
@@ -179,7 +179,7 @@ uggatā nāma nāmena cakkavattī mahabbalā
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā citakapūjako thero imā gāthāyo abhāsitthāti
-
+citakapūjakattherassāpadānaṃ chaṭṭhaṃ
 
 
  yadā  vipassī lokaggo āyusaṅkhāramossaji
@@ -208,7 +208,7 @@ samito nāma nāmena cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā buddhasaññako thero imā gāthāyo abhāsitthāti
-
+buddhasaññakattherassāpadānaṃ sattamaṃ
 
 
  padumuttarabuddhassa sāvakā vanacārino
@@ -228,7 +228,7 @@ sattaratanasampannā pañcakappasate ito
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā maggasaññako thero imā gāthāyo abhāsitthāti
-
+maggasaññakattherassāpadānaṃ aṭṭhamaṃ
 
 
  atthadassimhi sugate nibbute samanantarā
@@ -260,7 +260,7 @@ sattaratanasampannā cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā paccupaṭṭhānasaññako thero imā gāthāyo abhāsitthāti
-
+paccupaṭṭhānasaññakattherassāpadānaṃ navamaṃ
 
 
  jāyantassa  vipassissa āloko vipulo ahu
@@ -290,8 +290,8 @@ ito tatiyakappamhi cakkavattī mahabbalā
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā jātipūjako thero imā gāthāyo abhāsitthāti
-
-
+jātipūjakattherassāpadānaṃ dasamaṃ
+mahāparivāravaggo dvādasamo
 tassuddānaṃ 
 parivārasumaṅgalā saraṇāsanapupphiyā
 citapūjī buddhasaññī maggupaṭṭhānajātinā

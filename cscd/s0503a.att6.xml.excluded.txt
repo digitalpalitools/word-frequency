@@ -17,7 +17,7 @@
 ..?‘‘‘,’’’.‘‘,’’.,..,..
 ,.,,.,.,.,........‘‘,,’’.
 ...‘‘,’’,‘‘’’(ma. ni. 2.81; a. ni. 4.233).,.,,‘‘’’,.‘‘’’.
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Sattajaṭilasuttavaṇṇanā
 52.,......,...
 ,,,,,.?.‘‘,,.‘’‘’,,’’...‘‘,‘’,,’’..‘‘‘’,,‘’’,,,’’‘‘’’.
@@ -30,7 +30,7 @@ Paṭhamasuttavaṇṇanā niṭṭhitā.
 ‘‘’’.‘‘,’’‘‘,,’’.....,.,....,...
 ..
 ,,..?.‘‘’’,.‘‘’’..,,..,,,.
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Paccavekkhaṇasuttavaṇṇanā
 53.-----‘‘,’’.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,‘‘,’’.,..
@@ -48,7 +48,7 @@ Dutiyasuttavaṇṇanā niṭṭhitā.
 ,.,.‘‘’’,.,.,..
 ,,,,,..–‘‘’’.
 .,.
-Tatiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Paṭhamanānātitthiyasuttavaṇṇanā
 54.,.‘‘’’.,..
 ‘‘’’,,,..,,‘‘’’(udā. 55).,.‘‘’’.‘‘’’,,.,,..
@@ -65,7 +65,7 @@ Tatiyasuttavaṇṇanā niṭṭhitā.
 .–,,‘‘’’‘‘’’,..
 ,.
 ,,‘‘’’,‘‘’’....,‘‘,’’..,.?‘‘,’’,..
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Dutiyanānātitthiyasuttavaṇṇanā
 55..–
 ‘‘.………’’.
@@ -74,19 +74,19 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 ,‘‘’’..
 ,.
 ,.–,.,,...
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Tatiyanānātitthiyasuttavaṇṇanā
 56...
 ‘‘’’...?,.,,.,.,.,,.,,.,,.,.‘‘’’.,‘‘’’.
 ,‘‘’’..,,...
 ,,‘‘’’.‘‘,’’.,.,‘‘’’,.
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Subhūtisuttavaṇṇanā
 57..,‘‘,,’’(a. ni. 1.201).‘‘’’.–‘‘…pe…’’.
 .‘‘’’.,.‘‘’’,.–‘‘‘’’’.
 .
 ,.,...,,‘‘’’..,,.‘‘’’,..
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Gaṇikāsuttavaṇṇanā
 58........‘‘’’..‘‘,’’.–‘‘’’..,.
 ..
@@ -97,7 +97,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 ‘‘’’.‘‘’’(pu. pa. 208; a. ni. 9.43)...,,.–‘‘’’.,.
 ,.‘‘,’’,..
 ‘‘’’,.,.‘‘,,’’.‘‘,’’,.,,.
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Upātidhāvantisuttavaṇṇanā
 59..,.‘‘’’.‘‘’’..–‘‘’’...
 ,,?,.–‘‘’’(dī. ni. 1.159).‘‘’’,..
@@ -105,7 +105,7 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 ,‘‘’’.‘‘’’.,,.‘‘’’,...,.,.
 .
 ,.,‘‘’’..,‘‘’’‘‘’’,,.
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Uppajjantisuttavaṇṇanā
 60..,,.,,,,,,.,.,.
 ,,.
@@ -113,5 +113,5 @@ Navamasuttavaṇṇanā niṭṭhitā.
 ,,.
 .‘‘’’..,,.
 ,‘‘’’,.,,,.,,.?,..‘‘’’..
-Dasamasuttavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca jaccandhavaggavaṇṇanā.
+.
+.

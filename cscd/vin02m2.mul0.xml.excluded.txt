@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Mahāvaggapāḷi
 1. Mahākhandhako
@@ -21,7 +21,7 @@ Mahāvaggapāḷi
 ;
 ;
 suriyova (sī. syā. kaṃ.)’’.
-Bodhikathā niṭṭhitā.
+.
 2. Ajapālakathā
 4.udā. 4,....–‘‘,,,brāhmaṇakārakā (ka.) brāhmaṇakarāṇā (?)’’?–
 netti. 103;
@@ -29,17 +29,17 @@ netti. 103;
 ;
 ;
 ’’.
-Ajapālakathā niṭṭhitā.
+.
 3. Mucalindakathā
 5.udā. 11,.,.–‘‘,,’’…siriṃ sapa… (sī. syā. kaṃ.)..–
 kathā. 338 kathāvatthupāḷiyampi‘‘,;
 ,.
 kathā. 338 kathāvatthupāḷiyampi‘‘,;
 ,’’.
-Mucalindakathā niṭṭhitā.
+.
 4. Rājāyatanakathā
 6.,.tapassu (sī.).–‘‘,,;;’’.,.–‘‘,,,’’.–‘‘.’’?–‘‘,,’’.,.(onītapattapāṇiṃ viditvā bhagavato pādesu sirasā nipatitvā bhagavantaṃ)( ) sī. syā. potthakesu natthi–‘‘,,,’’..
-Rājāyatanakathā niṭṭhitā.
+.
 5. Brahmayācanakathā
 7.ayaṃ brahmayācanakathā dī. ni. 2.64 ādayo; ma. ni. 1.281 ādayo; ma. ni. 2.336 ādayo; saṃ. ni. 1.172 ādayo..–‘‘..;.,,,’’.–
 ‘‘,;
@@ -110,7 +110,7 @@ desetu (ka.);
 ;
 ’’.
 ‘‘’’.
-Brahmayācanakathā niṭṭhitā.
+.
 6. Pañcavaggiyakathā
 10.ma. ni. 1.284 ādayo; ma. ni. 2.339 ādayo–‘‘?’’?–‘‘;,’’.–‘‘,,’’.–‘‘’’.–‘‘;,’’.–‘‘?’’?–‘‘uddako (sī. syā.);,’’.–‘‘,,’’.–‘‘’’.–‘‘;,’’
 –‘‘?’’?–‘‘,;’’.–‘‘’’?..
@@ -151,22 +151,22 @@ saṃ. ni. 3.59 ādayo‘‘,,.,,,,–‘,’.,,,,–‘,’.,.,,,,–‘,’.,,
 22.‘‘,,yaṃ dūre vā (syā.),–,,–.,–,,–.,–,,–.,–,,–.,–,,–.
 23.‘‘,,,,,,;;;,‘,,,’’’.
 24..abhinanduṃ (syā.)...
-Pañcavaggiyakathā niṭṭhitā.
-Paṭhamabhāṇavāro.
+.
+.
 7. Pabbajjākathā
 25..–,,.vassike pāsāde vassike cattāro māse (sī.).paṭigacceva (sī.),,.–,,,,,,.,.–‘‘,’’.
 .–..–..
 26..,.–‘‘,’’.–‘‘,,,.,,’’.–,,.,–,,.,,,,,–,,,.,–,.
 27.,–‘‘,,’’..,anugamā (sī. syā.).,–‘‘’’..,–‘‘,,’’?,,,.–.,–,,.,,,,,,–,,,.–,.–‘‘,,,,,,nikujjitaṃ (ka.),,,––.,,,,.’’..
 28..–‘‘.,;’’..,–‘‘,,paridevī (ka.),’’..–‘‘,,?.,,’’?‘‘,’’.‘‘,,..,,’’.‘‘,,,,,,.,,’’...–‘‘,,,’’.‘‘’’–‘‘,’’...
-Yasassa pabbajjā niṭṭhitā.
+.
 29.,.,.,–,,.,,,,,–,,,.,–,.–‘‘,,,…pe…,,,,.’’..
 ,,..
 30.–,,,–.–‘‘,,’’.te cattāro janā (ka.),.,.–‘‘,,–,,,.ime cattāro (ka.)’’.,–,,,,,‘‘,’’.–‘‘,,,’’.‘‘’’–‘‘,’’.....
-Catugihisahāyakapabbajjā niṭṭhitā.
+.
 31.–.–‘‘,,’’.,.,.–‘‘,,.’’.,–.,,,,,.–‘‘,,,’’.‘‘’’–‘‘,’’.....
-Paññāsagihisahāyakapabbajjā niṭṭhitā.
-Niṭṭhitā ca pabbajjākathā.
+.
+.
 8. Mārakathā
 32.saṃ. ni. 1.141 mārasaṃyuttepi–‘‘,,,.,,,.,,..,,.,,.,,’’.
 33.,–
@@ -178,26 +178,26 @@ saṃ. ni. 1.151 mārasaṃyuttepi‘‘,;
 ,.
 saṃ. ni. 1.1151 mārasaṃyuttepi‘‘,;
 ,’’.
-Atha kho māro pāpimā – jānāti maṃ bhagavā, jānāti maṃ sugatoti dukkhī dummano
+–,
 .
-Mārakathā niṭṭhitā.
+.
 9. Pabbajjūpasampadākathā
 34.–..–‘‘–..–,,’’.–‘‘,,–‘,,,,’’’,,,.,,–
 ohāretvā (ka.),,,,,,–,,;,,;,,’’.‘‘,,’’.
-Tīhi saraṇagamanehi upasampadākathā niṭṭhitā.
+.
 10. Dutiyamārakathā
 35.vassaṃvuttho (sī.)saṃ. ni. 1.155–‘‘,,,.,,,’’.,–
 ‘‘,;
 mārabandhanabaddhosi (sī. syā.),’’.
 ‘‘,;
 mārabandhanamuttomhi (sī. syā.),’’.
-Atha kho māro pāpimā – jānāti maṃ bhagavā, jānāti maṃ sugatoti dukkhī dummano
+–,
 .
-Dutiyamārakathā niṭṭhitā.
+.
 11. Bhaddavaggiyavatthu
 36..,..;..,,.,–‘‘,,’’?‘‘,,’’?‘‘,,.;.,,.,,,,’’.‘‘,,–,’’?‘‘,,’’.‘‘,,,’’.‘‘,’’.,–,,,,,‘‘,’’.–‘‘,,,’’.‘‘’’–‘‘,’’..
-Bhaddavaggiyasahāyakānaṃ vatthu niṭṭhitaṃ.
-Dutiyabhāṇavāro.
+.
+.
 12. Uruvelapāṭihāriyakathā
 37..–,,.,.,.,.,–‘‘,,,’’?‘‘,,,,’’.–‘‘,,,’’?‘‘,,,,’’.–‘‘,,,’’?‘‘,,,,’’.‘‘,,,’’.‘‘,,’’..
 38.,dukkhī dummano (sī. syā.)pakhūpāsi (ka.).–‘‘’’.....–‘‘’’.–‘‘,,pariyādiṇṇo (ka.)’’.–‘‘,,’’.
@@ -235,15 +235,15 @@ iddhimato panuṭṭhitā (sī.);
 ‘‘;
 ’’.
 –‘‘,,,te upaṭṭhāmi (itipi)’’.
-Paṭhamaṃ pāṭihāriyaṃ.
+.
 40..,.,–‘‘,,.,,,‘‘’’.‘‘,,’’.–‘‘,,’’..
-Dutiyaṃ pāṭihāriyaṃ.
+.
 41.,,.,–‘‘,,.,,,,’’?‘‘,,’’.–‘‘,,’’..
-Tatiyaṃ pāṭihāriyaṃ.
+.
 42.,,.,–‘‘,,.,,,,’’?‘‘,,’’.–‘‘,,’’..
-Catutthaṃ pāṭihāriyaṃ.
+.
 43.,.–‘‘,.,,.’’..,–‘‘,,.,,?–?paṭiviṃso (sī.), paṭiviso (syā.)’’.,,–‘‘‘,,,,,’.,,’’.–‘‘,,’’..
-Pañcamaṃ pāṭihāriyaṃ.
+.
 44..–‘‘’’?–‘‘,,’’.–‘‘’’?–,,.–‘‘ahaṃ paṃsukūlaṃ (ka.)’’?–,,.–‘‘’’?–,,.,–‘‘,,.,,,..?,’’.,,.,,–‘‘’’?,,–‘‘,,’’..,,–‘‘’’?,,–‘‘,,’’..,,–‘‘’’?,,–‘‘,,’’..,,–‘‘’’?,,–‘‘,,’’..–‘‘,,’’..
 ,–‘‘,,’’.‘‘,,’’‘’,.,–‘‘,,?,’’.‘‘,,‘’,.,,.’’.‘‘,,,tvaṃyevetaṃ āharasi, tvaṃyevetaṃ (sī. syā.)’’.–‘‘,‘’,,’’..
 45.,–‘‘,,’’.,,‘’,…pe……pe……pe….,–‘‘,,?,’’.‘‘,,.,,sugandhikaṃ (ka.).(Sace ākaṅkhasi gaṇhā’’ti. ‘‘Alaṃ, mahāsamaṇa, tvaṃyeva taṃ arahasi, tvaṃyeva taṃ gaṇhā’’ti)( ) sī. syā. potthakesu natthi.–‘‘,,’’.
@@ -260,8 +260,8 @@ Pañcamaṃ pāṭihāriyaṃ.
 saṃ. ni. 4.29‘‘,,.,,?,,,,.?,.,,,,.?,.,,,,.?,.,,,.?,.,,,.?,.,,,.?,.
 ‘‘,,,,,,,.,…pe…,…pe…,…pe…,…pe…,,,,,,,.,,,’’.
 .
-Ādittapariyāyasuttaṃ niṭṭhitaṃ.
-Uruvelapāṭihāriyaṃ tatiyabhāṇavāro niṭṭhito.
+.
+.
 13. Bimbisārasamāgamakathā
 55.,..laṭṭhivanuyyāne (syā.).–.bhavantaṃ (ka.)–bhagavāti (ka.)....
 dvādasaniyutehi (yojanā),.,,,,,.dvādasaniyutānaṃ (yojanā)–‘‘,’’?–
@@ -300,7 +300,7 @@ parivārako (ka.),’’.
 ‘‘,;
 ,’’.
 59.,..cūḷava. 307–‘‘?,,,appakiṇṇaṃ (sī. syā.), abbhokiṇṇaṃ (ka.),,,’’.–‘‘.’’.–‘‘,,’’...–‘‘,,’’.
-Bimbisārasamāgamakathā niṭṭhitā.
+.
 14. Sāriputtamoggallānapabbajjākathā
 60.sañjayo (sī. syā.)..–,.,..–‘‘,.–‘,,,,’’’?–‘‘,.,’’..,,.–‘‘,,,.,,,,’’?‘‘,,,,’’.‘‘,’’?‘‘,,,,,’’.–‘‘,–
 ‘‘,;
@@ -326,7 +326,7 @@ bhagavāte (ka),–‘‘,,,.’’.
 ,.
 ,;
 ,.
-Atha kho sāriputtamoggallānā yena bhagavā tenupasaṅkamiṃsu , upasaṅkamitvā
+,
 –‘‘,,,’’.‘‘’’–‘‘,’’..
 Abhiññātānaṃ pabbajjā
 63..–,,,,sañjeyyāni (sī.), sañjayāni (syā.)..–
@@ -345,8 +345,8 @@ nīyamānānaṃ (ka.),ussuyā (ka.)’’.
 ‘‘,;
 ,’’.
 ,.
-Sāriputtamoggallānapabbajjākathā niṭṭhitā.
-Catutthabhāṇavāro niṭṭhito.
+.
+.
 15. Upajjhāyavattakathā
 64.idaṃ padaṃ sī. syā. potthakesu natthi;te manussānaṃ (ka.),,,;;.–‘‘;,,,,;;’’.
 .,–‘‘;,,,,;;’’.…pe….
@@ -367,7 +367,7 @@ Catutthabhāṇavāro niṭṭhito.
 ‘‘,,,.,,,.,,,.,–.,–.,–.,–.niyasaṃ (ka.),–.,–,,,.
 ‘‘,,–.,,–.,,–.rajetabbaṃ (sī. syā.),,–.rajentena (sī. syā.),.
 ‘‘,;,;,;chettabbā (sī.), cheditabbā (ka.),;,;veyyāvaccaṃ (katthaci),;,;,;;;.,;’’.
-Upajjhāyavattaṃ niṭṭhitaṃ.
+.
 16. Saddhivihārikavattakathā
 67.cūḷava. 378 ādayo‘‘,,.–
 ‘‘,,.,,,–.,,,–.,,,–.
@@ -383,7 +383,7 @@ Upajjhāyavattaṃ niṭṭhitaṃ.
 ‘‘,.,.,.,.,.,.,.,.
 ‘‘,,,.,,,.,,,.,–.,–.,–.,–.,,–,.,,–,,,.
 ‘‘,,–.,,–.,,–.,,,–...,,’’.
-Saddhivihārikavattaṃ niṭṭhitaṃ.
+.
 17. Paṇāmitakathā
 68..…pe…–‘‘’’.…pe…,,?.…pe…,,…pe……pe…–‘‘,,.,’’...,,.,,–‘‘’’,‘‘’’,‘‘’’,‘‘’’,,,,;,,,.
 ..,,...,,.,.
@@ -407,9 +407,9 @@ Saddhivihārikavattaṃ niṭṭhitaṃ.
 ‘‘…pe……pe….
 ‘‘.,,’’.
 73.adhiṭṭhitā (ka.).–‘‘,.’’....–‘‘,,’’.–‘‘,,.,’’.‘‘,,’’?‘‘’’.…pe…–.…pe…,,?.…pe…‘‘,,.,,’’…pe……pe…–‘‘,,–,;–,,,,,,.,;–,,,,,.,;–,,,,.,;–,,,,’’.
-Paṇāmitakathā niṭṭhitā.
-Upajjhāyavattabhāṇavāro niṭṭhito pañcamo.
-Pañcamabhāṇavāro
+.
+.
+
 18. Ācariyavattakathā
 74...–‘‘,,,abhirameyyañcāhaṃ (sī.), abhirameyyaṃ svāhaṃ (ka.).,,;’’..,,.,.,,.
 ..,,.,.,,.
@@ -432,7 +432,7 @@ Pañcamabhāṇavāro
 ‘‘,,,.,,,.,,,.,–.,–.,–.,–.,,–,.,,–,,,.
 ‘‘,,–.,,–.,,–.,,–.,.
 ‘‘,;;;;;;;;;;;;;;.,,.,,’’.
-Ācariyavattaṃ niṭṭhitaṃ.
+.
 19. Antevāsikavattakathā
 79.cūḷava. 381-382‘‘,,.–
 ‘‘,,.,,,–.,,,–.,,,–.
@@ -449,8 +449,8 @@ Pañcamabhāṇavāro
 ‘‘,.,.,.,.,.,.,.,.
 ‘‘,,,.,,,.,,,.,–,.,–.,–.,–.,,–,.,,–,,,.
 ‘‘,–‘’,–.,–‘’,–.,–‘’,–.,–‘’,–.,.,,’’.
-Antevāsikavattaṃ niṭṭhitaṃ.
-Chaṭṭhabhāṇavāro.
+.
+.
 20. Paṇāmanā khamāpanā
 80.…pe……pe…,,.,..…pe…,,.,,–,,,.,,,;,,,.
 ..,,...,,.,.
@@ -462,15 +462,15 @@ Chaṭṭhabhāṇavāro.
 ‘‘,,.,,,,–,,.
 ‘‘,,,.,,,,–,,,.
 ‘‘,,,.,,,,–,,,’’.
-Paṇāmanā khamāpanā niṭṭhitā.
+.
 21. Bālaabyattavatthu
 82.,,.,.,.,.,.…pe…–‘‘,,.,,,’’.…pe…,,,,…pe…,.…pe……pe…–‘‘,,.,.,,’’.
-Bālaabyattavatthu niṭṭhitaṃ.
+.
 22. Nissayapaṭippassaddhikathā
 83...
 ‘‘,,–,,,,.,,.
 ‘‘,,–,,,,,.,,’’.
-Nissapaṭippassaddhikathā niṭṭhitā.
+.
 23. Upasampādetabbapañcakaṃ
 84.‘‘,,,,.na asekhena (ka.),,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
@@ -488,7 +488,7 @@ Nissapaṭippassaddhikathā niṭṭhitā.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,’’.
-Upasampādetabbapañcakaṃ niṭṭhitaṃ.
+.
 24. Upasampādetabbachakkaṃ
 85.‘‘,,,,.,,,,,–,,,,.
 ‘‘,,,,.,,,,,–,,,,.
@@ -504,7 +504,7 @@ Upasampādetabbapañcakaṃ niṭṭhitaṃ.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,,–,,,,.
 ‘‘,,,,.,,,,,–,,,,’’.
-Upasampādetabbachakkaṃ niṭṭhitaṃ.
+.
 25. Aññatitthiyapubbakathā
 86.yo so pasuraparibbājako aññatitthiyapubbo (ka.)...,,,.,,,,.,,––‘‘,,;,,;,,’’.
 ,,–‘‘,,.,,’’...–
@@ -522,54 +522,54 @@ Upasampādetabbachakkaṃ niṭṭhitaṃ.
 ‘‘,,,,,,.,,.
 ‘‘,,,,.,,.,,.,,.,,.
 ‘‘,,,.,.,,,,.?,,.,,,,.,,’’.
-Aññatitthiyapubbakathā niṭṭhitā.
-Sattamabhāṇavāro.
+.
+.
 26. Pañcābādhavatthu
 88.–,,,,.–‘‘,,’’.‘‘,;;’’.‘‘,,;;,,,’’.‘‘,;’’.–‘‘,..,’’..,..–,,..
 89.–‘‘,,’’.‘‘,,,;’’.‘‘,,,;,,’’.‘‘,,,’’.–‘‘,..,.sohaṃ (bahūsu, vimativinodanīṭīkā oloketabbā)’’..,.,..,–‘‘,,’’?‘‘,’’.‘‘,,’’?.–‘‘bhaddantā (ka.)’’.,.–‘‘,,’’...–‘‘,,.,’’.
-Pañcābādhavatthu niṭṭhitaṃ.
+.
 27. Rājabhaṭavatthu
 90..–‘‘,,’’.‘‘,’’.–‘‘,.’’?–‘‘.,’’..,.–‘‘,,’’?‘‘,,’’.–‘‘’’..–‘‘,,,’’?‘‘,,,anusāvakassa (ka.),’’.,.–‘‘,,..,,’’...–‘‘,,.,’’.
-Rājabhaṭavatthu niṭṭhitaṃ.
+.
 28. Aṅgulimālacoravatthu
 91..,,,,,.–‘‘’’..…pe…,,.,.
-Aṅgulimālacoravatthu niṭṭhitaṃ.
+.
 29. Kārabhedakacoravatthu
 92.–‘‘,;,’’...–‘‘.,’’.–‘‘,.–‘‘,;,’’.–‘‘,.’’..,,.,.
-Kārabhedakacoravatthu niṭṭhitaṃ.
+.
 30. Likhitakacoravatthu
 93..–,.–‘‘.,’’.–‘‘,.‘‘,,,’’.–‘‘,.’’..,,.,.
-Likhitakacoravatthu niṭṭhitaṃ.
+.
 31. Kasāhatavatthu
 94..–‘‘’’..,,.,.
-Kasāhatavatthu niṭṭhitaṃ.
+.
 32. Lakkhaṇāhatavatthu
 95..–‘‘’’..,,.,.
-Lakkhaṇāhatavatthu niṭṭhitaṃ.
+.
 33. Iṇāyikavatthu
 96..–‘‘.,’’.–‘‘,.–‘‘,;,’’.–‘‘..’’..,,.,.
-Iṇāyikavatthu niṭṭhitaṃ.
+.
 34. Dāsavatthu
 97..ayyikā (ka.), ayirakā (sī.)–‘‘.,’’.–‘‘,,‘‘,,,’’.–‘‘,.’’..,,.,.
-Dāsavatthu niṭṭhitaṃ.
+.
 35. Kammārabhaṇḍuvatthu
 98..–‘‘,,’’?–‘‘’’,–‘‘’’.–‘‘,.–‘’,–‘’.’’...,,.
-Kammārabhaṇḍuvatthu niṭṭhitaṃ.
+.
 36. Upālidārakavatthu
 99.idaṃ vatthu pāci. 402 ādayo..–‘‘,’’?–‘‘,,’’.–‘‘,.,,’’.–‘‘,.,,’’.–‘‘,.,.,,’’.
 .,–‘‘,,’’.‘‘,,,’’.–‘‘’’.–‘‘’’–...–‘‘,,’’.–‘‘,,.,,;,’’.‘‘,,’’;.
 .–‘‘,,’’?…pe…‘‘,,’’?‘‘,’’.…pe…‘‘,,.,,.,,,.,,,…pe……pe…–‘‘,,.,’’.
-Upālidārakavatthu niṭṭhitaṃ.
+.
 37. Ahivātakarogavatthu
 100....–‘‘,,;,,’’.–‘‘.’’...,,.,.
 ,....–‘‘‘’..’’?.,,?,.–‘‘,,’’.
-Ahivātakarogavatthu niṭṭhitaṃ.
+.
 38. Kaṇṭakavatthu
 101.–..–‘‘’’..,,.,.
-Kaṇṭakavatthu niṭṭhitaṃ.
+.
 39. Āhundarikavatthu
 102.,,.–‘‘,’’...–‘‘,apāpuraṇaṃ (ka.)–‘‘.,’’.,,–‘.,’’’.–‘‘,,,.,,,,.,;,.,,’’..
-Āhundarikavatthu niṭṭhitaṃ.
+.
 40. Nissayamuccanakakathā
 103..–‘‘,,’’?.–‘‘,,,.
 ‘‘,,.,–,,.
@@ -582,8 +582,8 @@ Kaṇṭakavatthu niṭṭhitaṃ.
 ‘‘,,.,,,,–,,.
 ‘‘,,.,,,,–,,.
 ‘‘,,.,,,,–,,.
-Nissayamuccanakakathā niṭṭhitā.
-Pañcakadasavāro niṭṭhito.
+.
+.
 104.‘‘,,.,,,,,–,,.
 ‘‘,,.,,,,,–,,.
 ‘‘,,.,,,,,–,,.
@@ -592,28 +592,28 @@ Pañcakadasavāro niṭṭhito.
 ‘‘,,.,,,,,–,,.
 ‘‘,,.,,,,,–,,.
 ‘‘,,.,,,,,–,,’’.
-Abhayūvarabhāṇavāro niṭṭhito aṭṭhamo.
-Aṭṭhamabhāṇavāro.
+.
+.
 41. Rāhulavatthu
 105....,.–‘‘,,.gacchassa (syā.),’’.,,–‘‘,,’’..–‘‘,,;,,’’.–‘‘,,’’.‘‘,,’’?–‘‘,,.,,––,,;,,;,,.,,’’..
 ,.–‘‘,,’’.‘‘,,’’.‘‘,,,’’.‘‘,’’.‘‘,,,,.,,,,,,,.,,’’...–‘‘,,.,’’.
 ...–‘‘’’.–‘‘‘’..’’?.,,,.
-Rāhulavatthu niṭṭhitaṃ.
+.
 42. Sikkhāpadakathā
 106.–‘‘,’’?…pe…,,,–veramaṇi, veramaṇiṃ (ka.),,,,,,,,,.,,,.
-Sikkhāpadakathā niṭṭhitā.
+.
 43. Daṇḍakammavatthu
 107..–‘‘’’.…pe…,,.,,,,–,,.
 –‘‘’’?.,,.
 .,,..,,.,.,,,,.
 .–‘‘,,;,,’’.–‘‘,.’’.–‘‘’’..,,.,.
-Daṇḍakammavatthu niṭṭhitaṃ.
+.
 44. Anāpucchāvaraṇavatthu
 108..–kahaṃ (ka.).–‘‘,,’’.–‘‘’’..,,.,.
-Anāpucchāvaraṇavatthu niṭṭhitaṃ.
+.
 45. Apalāḷanavatthu
 ...,,.,.
-Apalāḷanavatthu niṭṭhitaṃ.
+.
 46. Kaṇṭakasāmaṇeravatthu
 .–‘‘’’..,,.,,,,,,,,,–,,.
 47. Paṇḍakavatthu
@@ -644,11 +644,11 @@ Apalāḷanavatthu niṭṭhitaṃ.
 ...–..,,.,.
 ...–..,,.,.
 ...–..,,.,.
-Naupasampādetabbekavīsativāro niṭṭhito.
+.
 57. Napabbājetabbadvattiṃsavāro
 119.…pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe……pe….…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,.,.
-Napabbājetabbadvattiṃsavāro niṭṭhito.
-Dāyajjabhāṇavāro niṭṭhito navamo.
+.
+.
 58. Alajjīnissayavatthūni
 120...,,.,.
 ...,,.,.
@@ -683,27 +683,27 @@ Dāyajjabhāṇavāro niṭṭhito navamo.
 ‘‘–,,.,,...,;,.
 ‘‘–,,.,,...,;,.
 ‘‘.,,’’.
-Upasampadākammaṃ niṭṭhitaṃ.
+.
 64. Cattāro nissayā
 128.,,,,ācikkhitabbā, cattāri akaraṇīyāni ācikkhitabbāni. (ka.)–
 ‘‘..–,,,,,,.
 ‘‘..–,,,,,.
 ‘‘..–,,,,.
 ‘‘..–,,,,’’.
-Cattāro nissayā niṭṭhitā.
+.
 65. Cattāri akaraṇīyāni
 129...–‘‘’’?‘‘,’’.‘‘;,’’..–‘‘,,’’?..,,,–
 ‘‘,.,.,..
 ‘‘,.,.,..
 ‘‘,.,,.,..
 ‘‘,‘’.,.,.’’.
-Cattāri akaraṇīyāni niṭṭhitāni.
+.
 66. Āpattiyā adassane ukkhittakavatthūni
 130....
 ,,..–‘‘’’?,.,.–‘‘’’?,.,.–‘‘’’?,.,.–‘‘passāhi (sī.)’’?,.,..
 ,,..–‘‘’’?,.,.–‘‘’’?,.,.–‘‘’’?,.,.–‘‘’’.,...
 ,,..–‘‘’’?,.,.–‘‘’’?,.,.–‘‘’’?,.,.–‘‘’’.,.,..
-Mahākhandhako paṭhamo.
+.
 67. Tassuddānaṃ
 131.
 ,;
@@ -760,5 +760,5 @@ saṅgāhanāhetuṃ (ka.),;
 ,.
 ,;
 ,.
-Imamhi khandhake vatthūni ekasatañca dvāsattati.
-Mahākhandhako niṭṭhito.
+.
+.

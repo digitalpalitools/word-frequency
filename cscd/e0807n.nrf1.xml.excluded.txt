@@ -245,7 +245,7 @@
 ,..,.
 189. Vattahā sa+naṃnaṃ no+nānaṃ
 ..
-Akārantaṃ.
+.
 ,
 64. Ekavacana+yosva+ghonaṃ
 ,.‘‘’’,..–
@@ -256,7 +256,7 @@ Akārantaṃ.
 .‘‘’’.–
 130. Ge vā
 ..
-Ākārantaṃ.
+.
 .–
 93. Yosu jhissa pume
 .,,.,...
@@ -287,7 +287,7 @@ Akārantaṃ.
 ..,.,..
 183. Ne smino kvaci
 .,...
-Ikārantaṃ.
+.
 ,.‘‘’’‘‘’’..
 75. Yonaṃ no+ne pume
 ..
@@ -305,7 +305,7 @@ Ikārantaṃ.
 ,;(Vācī, rū)
 ,;
 ,.
-Īkārantaṃ.
+.
 ,.–
 83. Lā yonaṃ vo pume
 .
@@ -356,12 +356,12 @@ Ikārantaṃ.
 ,..
 ,.
 .
-Ukārantaṃ.
+.
 ..‘‘’’‘‘’’,,‘‘’’,‘‘.‘‘’’,.,...‘‘’’,,.,.
 85. Kūto
 ..‘‘’’,‘‘’’..,.
 .‘‘’’‘‘’’‘‘’’.
-Ūkārantaṃ.
+.
 ,,..
 67. Gossā+ga+si+hi+naṃsu gāva+gavā
 .
@@ -379,8 +379,8 @@ Ukārantaṃ.
 ..,..
 -;
 ,.
-Okārantaṃ.
-Iti pulliṅgaṃ.
+.
+.
 ,.
 1,11. Ghā
 .‘‘’’..‘‘’’,,.‘‘’’.,.
@@ -405,7 +405,7 @@ Iti pulliṅgaṃ.
 ‘‘’’–
 62. Rasso vā
 ....‘‘’’.‘‘’’..
-Ākārantaṃ.
+.
 ,–
 1,10. Pi+tthiyaṃ
 .
@@ -420,7 +420,7 @@ Iti pulliṅgaṃ.
 ,.
 55. Ratyādīhi ṭo smino
 .,..
-Ikārantaṃ.
+.
 ,.‘‘’’.‘‘’’,.‘‘’’..‘‘’’.,.
 73. Yaṃ pito
 .,.‘‘’’.,.,.,.–
@@ -432,17 +432,17 @@ Ikārantaṃ.
 ,.,.–
 167. Najjā dhayāsvāma
 ..‘‘’’.‘‘’’,,.-.
-Īkārantaṃ.
+.
 ,.,.,.,.,.,..
 ‘‘’’,.
 ,.,.,.,‘‘’’,,,.,‘’,,.‘‘’’.,...
-Ukārantaṃ.
+.
 .‘‘’’,.‘‘’’,.,.,.,.,.
 ,;
 ,.
-Ūkārantaṃ.
+.
 ,.
-Itthiliṅgaṃ.
+.
 ,–
 111. Aṃ napuṃsake
 ..
@@ -470,17 +470,17 @@ Itthiliṅgaṃ.
 .,..
 ‘‘’’,,‘‘’’.,,...‘‘’’,..
 ,.‘‘’’.,,.,.,...
-Akārantaṃ.
+.
 ,.
 113. Jhalā vā
 ..‘‘’’,.,.,...
-Ikārantaṃ.
+.
 ,‘‘’’..‘‘’’,.‘‘’’.,...
-Īkārantaṃ.
+.
 ,....
-Ukārantaṃ.
+.
 ,..,.,..
-Ūkārantaṃ.
+.
 -;
 -.
 ,;
@@ -489,7 +489,7 @@ Ukārantaṃ.
 ;
 ,
 .
-Napuṃsakaliṅgaṃ.
+.
 ,
 ,.‘‘’’..–
 ,;
@@ -777,7 +777,7 @@ Saṅkhyākaṇḍa
 .,‘‘’’..
 ,;
 ,.
-Opasaggikapadaṃ.
+.
 .
 -.-.,,,,,.‘‘’’‘‘’’-..
 ,,,,,,,,,,,,,,,,,,,,,,,,,,(evaṃ, rū).-.-,.,,.-.-,.-,,.-..-,.(Visāda, sambhavesu, rū)..
@@ -787,7 +787,7 @@ Opasaggikapadaṃ.
 ,;
 ,.
 .
-Nepātikapadaṃ.
+.
 ,;
 ,.
-Iti payogasiddhiyaṃ nāmakaṇḍo dutiyo.
+.

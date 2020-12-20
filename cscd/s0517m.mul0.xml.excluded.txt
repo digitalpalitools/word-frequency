@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Paṭisambhidāmaggapāḷi
 1. Mahāvaggo
@@ -77,7 +77,7 @@ Mātikā
 72..
 73..
 .;.
-Mātikā niṭṭhitā.
+.
 1. Ñāṇakathā
 1. Sutamayañāṇaniddeso
 1.?
@@ -132,7 +132,7 @@ Mātikā niṭṭhitā.
 ...............
 ...............
 ,.,.,.,.,.,.,.,.,.,.,’’.,.,.,.,.
-Paṭhamabhāṇavāro.
+.
 11.;;paripūraṇaṭṭho (ka.), paripūriṭṭho (sī. aṭṭha.);;;;;;;;;;;;;nivattanaṭṭho (ka.);;;;;;;;;;;yuganandhanaṭṭho (ka.);;hetaṭṭho (syā.);;.
 12.;;;;;;;;;;;;.
 ;;;;.
@@ -160,7 +160,7 @@ Paṭhamabhāṇavāro.
 ;;;;;;;.
 20.;;;;;;;;.
 .,.–‘‘,’’.
-Dutiyabhāṇavāro.
+.
 21.‘‘’’,?
 –.–.–.–.–.–.–.–.–.–.
 ‘‘,,.,,?,,;;;;,.;…pe…,…;…;…pe…;…;;,.’’…pe………………pe…….,.
@@ -174,7 +174,7 @@ Dutiyabhāṇavāro.
 –.–.–.–.–.–.–.–.–.–.
 24.–,.;.–;;,....;;;.–,,,,.;;;;.
 ‘‘,,.,,?,,;;;;,.;…pe…;…;…;…;…;…;,.’’,,,,.…pe……pe…..,.–‘‘,’’.
-Tatiyabhāṇavāro.
+.
 25.‘‘’’,?
 –.–.–.–.–sammāsamādhī (syā.).–.–.–.–.–.
 26.–,.–,,.,,.,,..
@@ -192,7 +192,7 @@ Tatiyabhāṇavāro.
 ?–.–…pe…–..
 ?–.–…pe…–..
 ,,,,,…pe……pe…..,.–‘‘,’’.
-Catutthabhāṇavāro.
+.
 29.‘‘’’,?
 –.–.–.–.–.–.–.–.–.–.
 ‘‘,,.,,?,,;;;;,.;…pe…;…;…;…;;;;,’’.,,,,.…pe……pe….phusitā (syā.).,.–‘‘,’’.
@@ -229,7 +229,7 @@ Catutthabhāṇavāro.
 ?,…pe……pe…–.
 ?.…pe……pe…–.
 ?..,–‘‘’’....,.–‘‘,,,’’,..
-Sutamayañāṇaniddeso paṭhamo.
+.
 2. Sīlamayañāṇaniddeso
 37.?–,,,,.
 ?–.?–.?sekhapariyante (ka.)–.?–.?–.
@@ -253,12 +253,12 @@ paṭhamajjhānena (syā.) evamīdisesu ṭhānesu…pe………………….
 …pe…………………………………………….
 …pe………,,,,.,,,,,,,,,,,,.
 42..,.,..,.,.,.,,,,,,,,,,,,,..–‘‘’’.
-Sīlamayañāṇaniddeso dutiyo.
+.
 3. Samādhibhāvanāmayañāṇaniddeso
 43.?–.–,.–,,.–,,,.–,,,,paccavekkhanānimittaṃ (ka.).
 –,,,,,.–,,,,kallitakusalatā (syā. ka.),,.–,…pe……………….–,,;,,;,,.–,…pe…………………puḷuvaka saññāvasena (ka.)…..
 44.,–,,,,,,,,,,,,,,,,,,,,,,,,,,..,.–‘‘’’.
-Samādhibhāvanāmayañāṇaniddeso tatiyo.
+.
 4. Dhammaṭṭhitiñāṇaniddeso
 45.?.,.–.….,.–.
 …pe……………………….,.–.….,.–.
@@ -269,7 +269,7 @@ Samādhibhāvanāmayañāṇaniddeso tatiyo.
 ,.–.…,.–.
 ,…pe…,…,…,…,…,…,…,…,…,.–.…,.–.
 47.,,,,..,,,,..,,,..,,,,...,.–‘‘’’.
-Dhammaṭṭhitiñāṇaniddeso catuttho.
+.
 5. Sammasanañāṇaniddeso
 48.?
 ,,,.
@@ -278,7 +278,7 @@ Dhammaṭṭhitiñāṇaniddeso catuttho.
 ,.…pe……pe……pe……pe……pe…,,.
 .…pe……………pe….
 ,.…,.,…pe…,…pe…,…pe…,…pe…,…pe…,…pe…,…pe…,…pe…,…pe…,.…,.,.–‘‘’’.
-Sammasanañāṇaniddeso pañcamo.
+.
 6. Udayabbayañāṇaniddeso
 49.?,,,.…pe……………pe…,,,.
 50.,,?,;.
@@ -290,7 +290,7 @@ Sammasanañāṇaniddeso pañcamo.
 …pe……pe…?–..–.–...
 ?–.–.–.–....
 ,,.,.–‘‘’’.rūpakkhandhā (syā.).,,–saṅkhārāti sesā (syā.)..
-Udayabbayañāṇaniddeso chaṭṭho.
+.
 7. Bhaṅgānupassanāñāṇaniddeso
 51.?..,?,.,.,.,,,.,.,.
 52........
@@ -305,7 +305,7 @@ Udayabbayañāṇaniddeso chaṭṭho.
 ,catūsu ca (syā.);
 ,.
 ,.–‘‘’’.
-Bhaṅgānupassanāñāṇaniddeso sattamo.
+.
 8. Ādīnavañāṇaniddeso
 53.?–.–.…pe……pe……………………………–.
 –.–…pe…–.
@@ -327,7 +327,7 @@ Bhaṅgānupassanāñāṇaniddeso sattamo.
 ,;
 ,.
 ,.–‘‘’’.
-Ādīnavañāṇaniddeso aṭṭhamo.
+.
 9. Saṅkhārupekkhāñāṇaniddeso
 54.muccitukamyatāpaṭisaṅkhāsantiṭṭhanā (ka.)?uppādamuñcitukamyatā… (syā.),,…pe………………………………pe….
 –.–…pe…–.
@@ -356,7 +356,7 @@ Bhaṅgānupassanāñāṇaniddeso sattamo.
 ,;
 ,.
 ,.–‘‘’’.
-Saṅkhārupekkhāñāṇaniddeso navamo.
+.
 10. Gotrabhuñāṇaniddeso
 59.?–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–…pe…–.
 –.–.–…pe…–.
@@ -375,7 +375,7 @@ vuṭṭhitvā (syā. ka.)–.–.–.–.–.–.–.–.–.–.–.–.–.�
 ,;
 ,.
 ,.–‘‘’’.
-Gotrabhuñāṇaniddeso dasamo.
+.
 11. Maggañāṇaniddeso
 61.?,,.–‘‘’’.,,.–‘‘’’.
 ,,.–‘‘’’.
@@ -397,7 +397,7 @@ Gotrabhuñāṇaniddeso dasamo.
 ,;
 ,.
 ,.–‘‘’’.
-Maggañāṇaniddeso ekādasamo.
+.
 12. Phalañāṇaniddeso
 63.?,,...
 ,...
@@ -410,13 +410,13 @@ Maggañāṇaniddeso ekādasamo.
 …pe…,,...
 …pe…,,...
 …pe…,,...,.–‘‘’’.
-Phalañāṇaniddeso dvādasamo.
+.
 13. Vimuttiñāṇaniddeso
 64.?,,,,..,.–‘‘’’.
 ,,,–..,.–‘‘’’.
 ,,,–..,.–‘‘’’.
 ,,,,,,,–..,.–‘‘’’.,.–‘‘’’.
-Vimuttiñāṇaniddeso terasamo.
+.
 14. Paccavekkhaṇañāṇaniddeso
 65.?........
 .......
@@ -427,21 +427,21 @@ Vimuttiñāṇaniddeso terasamo.
 .…pe…..........,.
 …pe……pe……pe……pe……pe….…pe….,.
 …pe….…pe….,.,.–‘‘’’.
-Paccavekkhaṇañāṇaniddeso cuddasamo.
+.
 15. Vatthunānattañāṇaniddeso
 66.??,,,,,.
 ?,,,,,,.,.,,.,;,;,;,;,;,;,.,,,,,,..
 ?…pe….?…pe….?,,,,,.,.,,.,…pe…,.…pe…..
 ?,,,,,,.,.,,.,;,…pe…,.,…pe…..
 ?,,,,,.,.,,.,;,;,;,;,;,;,.,,,,,,...,.–‘‘’’.
-Vatthunānattañāṇaniddeso pannarasamo.
+.
 16. Gocaranānattañāṇaniddeso
 67.??,,,,,.
 ?,,,,,.,.,..,;,;,;,;,;,;,.,,,,,,..
 ?…pe…,,.,.,,.,…pe….
 ?,…pe….?,…pe….?,,,,.…pe….
 ?,,,,,.,.,,.,;,;,;,;,;,;,…pe…,,,,,,..,.–‘‘’’.
-Gocaranānattañāṇaniddeso soḷasamo.
+.
 17. Cariyānānattañāṇaniddeso
 68.?–,,.
 ?,,abhiniropanavipākamanodhātu (syā.),.,,,.,ghāyanattho (syā. ka.),,.,,,.,,,.,,,.
@@ -451,14 +451,14 @@ Gocaranānattañāṇaniddeso soḷasamo.
 70.?–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–.–..
 71.?;.;.;.…pe…………………………………;..........
 ?–.–…pe…–.–.–.–.…pe…………………………………–.–.–.–..,,.,.–‘‘’’.
-Cariyānānattañāṇaniddeso sattarasamo.
+.
 18. Bhūminānattañāṇaniddeso
 72.?–,,,.?paranimmitavasavattideve (ka.)–.
 ?–.
 ?–.
 ?–..
 ,,,,,,,,,,,–.,.–‘‘’’.
-Bhūminānattañāṇaniddeso aṭṭhārasamo.
+.
 19. Dhammanānattañāṇaniddeso
 73.??,,.,.,.,.
 ,,?,,–,,.
@@ -470,10 +470,10 @@ Bhūminānattañāṇaniddeso aṭṭhārasamo.
 74..,,,,.‘‘’’,‘‘’’,‘‘’’,‘‘’’.,,,,.‘‘’’,‘‘’’,‘‘’’,‘‘’’.…pe….
 …pe……pe……pe………………pe……pe……pe…,,,,.‘‘’’,‘‘’’,‘‘’’,‘‘’’..
 –,,,,,,,–.,.–‘‘’’.
-Dhammanānattañāṇaniddeso ekūnavīsatimo.
+.
 20-24. Ñāṇapañcakaniddeso
 75.,,,,?,.,.,.,.,.,.–‘‘,,,,’’.
-Ñāṇapañcakaniddeso catuvīsatimo.
+.
 25-28. Paṭisambhidāñāṇaniddeso
 76.,,,?,,,,.,,,,.,.–‘‘’’.
 ,,,,.,,,,.,.‘‘’’.
@@ -491,7 +491,7 @@ pañca (?),pañca (?),dasa (?).,,.,.–‘‘’’.
 ,,,,,,,.,,,,,,,..–‘‘’’.
 ,.,.,.–‘‘’’.
 ,.,,.,.–‘‘’’.,.–‘‘...’’.
-Paṭisambhidāñāṇaniddeso aṭṭhavīsatimo.
+.
 29-31. Ñāṇattayaniddeso
 78.,,?–.–.–.
 –.–.–.
@@ -502,21 +502,21 @@ Paṭisambhidāñāṇaniddeso aṭṭhavīsatimo.
 …pe……………pe…–.–.–.
 –.–.–.
 ,–.,–.,–.,,.,,.,,.,.–‘‘,,’’.
-Ñāṇattayaniddeso ekatiṃsatimo.
+.
 32. Ānantarikasamādhiñāṇaniddeso
 80.?...,..–‘‘’’.
 ?,,,.?,,,..,,..,,..,..
 …pe………………………………………………………………………………………………………………….
 81.…pe………………………………………………………pe……………….,.,..–‘‘’’.
 ?,,,.?,,,..,,..,,..,..,.–‘‘’’.
-Ānantarikasamādhiñāṇaniddeso dvattiṃsatimo.
+.
 33. Araṇavihārañāṇaniddeso
 82.?,,,,,;…pe……………pe…,,.
 ...
 ...
 ....…pe….
 ?–.–.–.–.–.–.–.–..,.–‘‘’’.
-Araṇavihārañāṇaniddeso tettiṃsatimo.
+.
 34. Nirodhasamāpattiñāṇaniddeso
 83.?
 –,.?...…pe…..
@@ -528,51 +528,51 @@ Araṇavihārañāṇaniddeso tettiṃsatimo.
 85.?,,,,…pe……….…pe…–.
 .,,,,.;–.;–.;–.;–.;–.
 …pe…;–.…pe………;–..,.–‘‘’’.
-Nirodhasamāpattiñāṇaniddeso catuttiṃsatimo.
+.
 35. Parinibbānañāṇaniddeso
 86.?,,,,…pe…………pe….
 ,.…pe…………,..,.–‘‘’’.
-Parinibbānañāṇaniddeso pañcatiṃsatimo.
+.
 36. Samasīsaṭṭhañāṇaniddeso
 87.?–,,,,,,,,,........…pe….
 .......…pe….
 .......…pe….
 .......…pe….
 –,,,,,,,,,,,,.,.–‘‘’’.
-Samasīsaṭṭhañāṇaniddeso chattiṃsatimo.
+.
 37. Sallekhaṭṭhañāṇaniddeso
 88.puthunānattekattatejapariyādāne (ka.)?–,,,…pe…………………………………………….
 ,.,.,.,.,.,.,.,…pe…,.
 –,,,,......
 ,.,.,.,.,.,.,.,…pe…,.,.–‘‘’’.
-Sallekhaṭṭhañāṇaniddeso sattatiṃsatimo.
+.
 38. Vīriyārambhañāṇaniddeso
 89.?....
 ...…pe….
 .…pe…..,.–‘‘’’.
-Vīriyārambhañāṇaniddeso aṭṭhatiṃsatimo.
+.
 39. Atthasandassanañāṇaniddeso
 90.?,,,,,,,,,.
 ,,.…pe……………pe…,,.
 .......…pe….,.–‘‘’’.
-Atthasandassanañāṇaniddeso navatiṃsatimo.
+.
 40. Dassanavisuddhiñāṇaniddeso
 91.?…pe….
 .,,,,,,,,,,,–.
 ,…pe…,.
 ....
 ;.;.;.;.,.–‘‘’’.
-Dassanavisuddhiñāṇaniddeso cattālīsamo.
+.
 41. Khantiñāṇaniddeso
 92.?,,.–.…pe……………pe…,,.–.,.–‘‘’’.
-Khantiñāṇaniddeso ekacattālīsamo.
+.
 42. Pariyogāhaṇañāṇaniddeso
 93.?,,.–.…pe……………pe…,,.–.,.–‘‘’’.
-Pariyogāhaṇañāṇaniddeso dvecattālīsamo.
+.
 43. Padesavihārañāṇaniddeso
 94.?,.,.,.,…pe…,.,.,.,.,.
 ,,,.,,,.,,,.,,,.,.,.–‘‘’’.
-Padesavihārañāṇaniddeso tecattālīsamo.
+.
 44-49. Chavivaṭṭañāṇaniddeso
 95.?–.–.–.–.–.–.–.–…pe…–.,.–‘‘’’.
 96.?,.–.,.–.,.–…pe…,.–.,.–‘‘’’.
@@ -582,24 +582,24 @@ Padesavihārañāṇaniddeso tecattālīsamo.
 100.?–.–.–.–.
 ,,,,,.–.–.–.–.–.–.
 ,.,..,.,.,.,.,.,.,.,.–‘‘’’.
-Chavivaṭṭañāṇaniddeso navacattālīsamo.
+.
 50. Iddhividhañāṇaniddeso
 101.?,,,.,.,,,,,;...
 102.,;;tirokuḍḍaṃ (syā.),;,;,;caṅkamati (syā.) dī. ni. 1.238 passitabbāparimasati (syā.);.,.–‘‘’’.
-Iddhividhañāṇaniddeso paññāsamo.
+.
 51. Sotadhātuvisuddhiñāṇaniddeso
 103.?…pe……….,.,,,,,,,,,,,,,,,..–.,.–‘‘’’.
-Sotadhātuvisuddhiñāṇaniddeso ekapaññāsamo.
+.
 52. Cetopariyañāṇaniddeso
 104.?,…pe……pe….,.,–‘‘,,’’..–‘‘’’,‘‘’’,…pe…………………………………‘‘.,.–‘‘’’.
-Cetopariyañāṇaniddeso dvepaññāsamo.
+.
 53. Pubbenivāsānussatiñāṇaniddeso
 105.?…pe…–‘‘,,–,,,,,,,,,,;’’.
 .,–,,–‘‘,;,’’..,.–‘‘’’.
-Pubbenivāsānussatiñāṇaniddeso tepaññāsamo.
+.
 54. Dibbacakkhuñāṇaniddeso
 106.?,…pe……pe….,.,,–‘‘,’’...,–‘‘,,,,,;.,,,;’’.,.,.–‘‘’’.
-Dibbacakkhuñāṇaniddeso catupaññāsamo.
+.
 55. Āsavakkhayañāṇaniddeso
 107.??.
 ,,?–.–,,,,,.–.
@@ -608,18 +608,18 @@ Dibbacakkhuñāṇaniddeso catupaññāsamo.
 …pe……pe……pe……pe……pe….,,,,,.,,,,,,,..
 ,,,,,,,.,,,.,,,,,,,...
 ?,,,.?,,,..,,..,,..,..,.–‘‘’’.
-Āsavakkhayañāṇaniddeso pañcapaññāsamo.
+.
 56-63. Saccañāṇacatukkadvayaniddeso
 108.,,,?;;;.,.–‘‘,,,’’.
 109.,,,?,,,.
 ?–.…pe……pe……pe…–.,.–‘‘,,,’’.
-Saccañāṇacatukkadvayaniddeso tesaṭṭhimo.
+.
 64-67. Suddhikapaṭisambhidāñāṇaniddeso
 110.,,,?,,,.,,,,,,.
 ,,,.,,,.
 ,,,.,,,.
 ,,,.,,,.,,,.,.–‘‘,,,’’.
-Suddhikapaṭisambhidāñāṇaniddeso sattasaṭṭhimo.
+.
 68. Indriyaparopariyattañāṇaniddeso
 111.?.
 ,.,.,.,.,.
@@ -630,7 +630,7 @@ Suddhikapaṭisambhidāñāṇaniddeso sattasaṭṭhimo.
 112.–,,,,,,.
 –.–,.–.–.–.–.–.–.–.–.–.–.
 ,,,.,.–.
-Indriyaparopariyattañāṇaniddeso aṭṭhasaṭṭhimo.
+.
 69. Āsayānusayañāṇaniddeso
 113.?,,,,.katamo ca (syā. ka.)?‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’..
 ,.–‘‘’’.–‘‘’’.–‘‘’’.–‘‘’’.( ) etthantare pāṭhā natthi syāmapotthake, evamuparipi–‘‘’’.–‘‘(abyāpādagaruko abyāpādāsayo abyāpādādhimutto’’ti. Abyāpādaṃ sevantaññeva jānāti – ‘‘ayaṃ puggalo abyāpādagaruko abyāpādāsayo abyāpādādhimutto’’ti. Abyāpādaṃ sevantaññeva jānāti – ‘‘ayaṃ puggalo byāpādagaruko byāpādāsayo byāpādādhimutto’’ti. Thinamiddhaṃ sevantaññeva jānāti)–‘‘’’.–‘‘’’.–‘‘(ālokasaññāgaruko ālokasaññāsayo ālokasaññādhimutto’’ti. Ālokasaññaṃ sevantaññeva jānāti – ‘‘ayaṃ puggalo thinamiddhagaruko thinamiddhāsayo thinamiddhādhimutto’’ti.).
@@ -639,11 +639,11 @@ Indriyaparopariyattañāṇaniddeso aṭṭhasaṭṭhimo.
 115.?,...;.;..
 ?,,,,–.
 ?,,,,–..
-Āsayānusayañāṇaniddeso navasaṭṭhimo.
+.
 70. Yamakapāṭihīrañāṇaniddeso
 116.?.,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,;,.
 –,,,,mañjeṭṭhānaṃ (syā. ka.),,.,.,.,.,.,.,.,..
-Yamakapāṭihīrañāṇaniddeso sattatimo.
+.
 71. Mahākaruṇāñāṇaniddeso
 117.?.–.–.–.kummaggaṃ paṭipanno (syā.)–.–.attāṇo (syā.)–.,–.–.–…pe…–…pe…–…pe…–…pe….
 –…pe…,;,–…pe…;,–…pe…tantākulajāto (syā.)guḷāguṇṭhikajāto (syā.), gulāguṇḍikajāto (ka. sī. aṭṭha.) dī. ni. 2.95 passitabbā–…pe…–…pe…;,–…pe….
@@ -655,7 +655,7 @@ Yamakapāṭihīrañāṇaniddeso sattatimo.
 –…pe…–…pe…vipathaṃ pakkhanto (syā.);,–…pe…;,–…pe….
 118.–…pe…–…pe…–…pe…gaṇṭhehi (syā.)–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…uṇṇato (syā. ka.)–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–.–.
 ,,;,;,;,;,;,,,,,–..
-Mahākaruṇāñāṇaniddeso ekasattatimo.
+.
 72-73. Sabbaññutañāṇaniddeso
 119.?–.–anāvaraṇaṃ ñāṇaṃ (syā.) evamuparipi.
 120.–.–.–.–.–.–.
@@ -677,8 +677,8 @@ Mahākaruṇāñāṇaniddeso ekasattatimo.
 ,,,,,;–.–.
 ,;
 ,.
-Sabbaññutañāṇaniddeso tesattatimo.
-Ñāṇakathā niṭṭhitā.
+.
+.
 2. Diṭṭhikathā
 122.,,,,,?
 ......
@@ -708,7 +708,7 @@ Sabbaññutañāṇaniddeso tesattatimo.
 –.,…pe…,,.?.,.?.…pe…,,.?.
 …pe…–.
 ,.?,–.,?,,,,,,,,–,..
-Assādadiṭṭhiniddeso paṭhamo.
+.
 2. Attānudiṭṭhiniddeso
 130.?,;…pe……pe……pe….
 131.?–‘‘,;,’’..‘‘,’’–.–‘‘,;,’’...,.,.–.…pe….…pe…,.
@@ -732,22 +732,22 @@ Assādadiṭṭhiniddeso paṭhamo.
 ?……….–‘‘.’’...–‘‘,.,.’’..……….–‘‘.’’...,.,.–.…pe…,..
 ?……….–‘‘.’’...–‘‘,;,.’’..……….–‘‘.’’...,.,.–.…pe…,..
 ?……….–‘‘.’’...–‘‘,.,.’’..……….–‘‘.’’...,.,.–.…pe…,...
-Attānudiṭṭhiniddeso dutiyo.
+.
 3. Micchādiṭṭhiniddeso
 136.?‘‘’’–vatthuṃ (syā.) evamuparipi.micchādiṭṭhābhinivesaparāmāso (syā.).,.,.–.…pe…,.‘‘’’–…pe…‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’–…‘‘samaggatā (ka.),,’’–..,.,.–.…pe……pe…,..
-Micchādiṭṭhiniddeso tatiyo.
+.
 4. Sakkāyadiṭṭhiniddeso
 137.?,.……….
 ?…pe….‘‘,;,’’–.…pe….…pe….…pe…,.…pe….
-Sakkāyadiṭṭhiniddeso catuttho.
+.
 5. Sassatadiṭṭhiniddeso
 138.?.…pe……….
 ?……….–‘‘.’’...–‘‘,;,.’’..…pe….…pe…,.…pe….
-Sassatadiṭṭhiniddeso pañcamo.
+.
 6. Ucchedadiṭṭhiniddeso
 139.?,,,,.
 ?…pe….‘‘,;,’’–.…pe….…pe…,.…pe….
-Ucchedadiṭṭhiniddeso chaṭṭho.
+.
 7. Antaggāhikādiṭṭhiniddeso
 140.?‘‘’’–?‘‘’’–?‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’–…‘‘’’…pe…’’…‘‘’’…‘‘’’–?
 ‘‘’’–…pe…‘‘’’–.
@@ -771,28 +771,28 @@ Ucchedadiṭṭhiniddeso chaṭṭho.
 …pe……….–.–…pe…‘‘’’–.
 ‘‘’’–?.–.–.,,,.–‘‘’’–.…pe…,.
 …pe……….–.–.,.,.–‘‘’’–.…pe…,.‘‘’’–..
-Antaggāhikādiṭṭhiniddeso sattamo.
+.
 8. Pubbantānudiṭṭhiniddeso
 141.?,,,,–.
-Pubbantānudiṭṭhiniddeso aṭṭhamo.
+.
 9. Aparantānudiṭṭhiniddeso
 142.?,,,,–.
-Aparantānudiṭṭhiniddeso navamo.
+.
 10-12. Saññojanikādidiṭṭhiniddeso
 143.?…pe…–.
 144.‘‘’’–?–.–.,.,.–‘‘’’–.…pe…,.
 …pe……pe……pe……pe……pe……pe………pe…–.–.,.,.–‘‘’’–.…pe…,.‘‘’’–.
 145.‘‘’’–?–.–.,.,.–‘‘’’–.…pe…,.
 …pe……pe……pe……pe……pe……pe……pe……pe…..,.,.–‘‘’’–.…pe…,.‘‘’’–.
-Saññojanikādidiṭṭhiniddeso dvādasamo.
+.
 13. Attavādapaṭisaṃyuttadiṭṭhiniddeso
 146.?…pe……………pe….
 ?…pe….‘‘,;,’’–.‘‘,;,’’–.…pe….…pe…,.…pe….
-Attavādapaṭisaṃyuttadiṭṭhiniddeso terasamo.
+.
 14. Lokavādapaṭisaṃyuttadiṭṭhiniddeso
 147.?–.,.,,.–.…pe…,.
 …pe……pe…………….,.,.–.…pe…,..
-Lokavādapaṭisaṃyuttadiṭṭhiniddeso cuddasamo.
+.
 15-16. Bhava-vibhavadiṭṭhiniddeso
 148...,?…pe…?
 ,.,..,...
@@ -824,18 +824,18 @@ Lokavādapaṭisaṃyuttadiṭṭhiniddeso cuddasamo.
 ‘‘,,,.,.?,,,,–.
 ‘‘?,,,,,–.
 ‘‘,,,..’’.
-Bhavavibhavadiṭṭhiniddeso soḷasamo.
-Diṭṭhikathā niṭṭhitā.
+.
+.
 3. Ānāpānassatikathā
 1. Gaṇanavāra
 152.ānāpānasatisamādhiṃ (sī. aṭṭha.)–paribandhe (ka.),,,,satokārīsu (syā.),,,,,,.
 ,?,.,.,.,.,.,.,.,.,.
-Gaṇanavāro paṭhamo.
+.
 2. Soḷasañāṇaniddeso
 153.,.?,,,,,,,.
 ,?,,,,,,,.
 ,?.?...–....–....–....–....–....–....–....–..
-Soḷasañāṇaniddeso dutiyo.
+.
 3. Upakkilesañāṇaniddeso
 Paṭhamacchakkaṃ
 154.?......
@@ -871,7 +871,7 @@ Tatiyacchakkaṃ
 ,;
 ,.
 .
-Upakkilesañāṇaniddeso tatiyo.
+.
 4. Vodānañāṇaniddeso
 158.?;–.;–.;–.;–.;–.;–..
 ?,,,.,,,–,,.
@@ -907,8 +907,8 @@ Upakkilesañāṇaniddeso tatiyo.
 162.?–.–....vikatitāya (syā.)..nirupakkilesasaṅkhātena (syā.).–.–.–.–.–.–.–.,,,,,,,.–.,,…pe….
 ...–…pe…–......…pe…..
 ,.,.,.rāhupāṇā (syā.)virocati (syā.),.–..
-Vodānañāṇaniddeso catuttho.
-Bhāṇavāro.
+.
+.
 5. Satokāriñāṇaniddeso
 163.?..‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.…pe……………………………‘‘’’.‘‘’’.
 164.,,,,,,,,,.–‘‘’’...tiṇasaṇṭharo (syā.)palāsasanṭharo (syā.),..āgāranti (syā.)..panidhito (syā.).....–‘‘’’.
@@ -950,7 +950,7 @@ assāsapassāsā (syā.),,.,.,.,.,,,,,,,,,,,,,,.
 ,,,;..,;..–‘‘’’.
 …pe….…pe….,,,.,;,;.…pe…,…pe……pe…–‘‘’’.
 ,,.
-Bhāṇavāro.
+.
 Dutiyacatukkaniddeso
 172.‘‘’’‘‘’’??..…pe…,,,,,.–.
 ?....…pe……………..,…pe…………………………………..
@@ -995,7 +995,7 @@ Catutthacatukkaniddeso
 ,,…pe…;……….
 ?…pe…–‘‘’’.
 ..
-Satokāriñāṇaniddeso pañcamo.
+.
 6. Ñāṇarāsichakkaniddeso
 183.?,…pe…,..
 ?,,,,,…pe…,,,..
@@ -1003,8 +1003,8 @@ Satokāriñāṇaniddeso pañcamo.
 ?,…pe…,–.
 ?,…pe…,–.
 ?,,…pe…,,,…pe…,,,…pe…,,,,…pe…,,,,,,...
-Ñāṇarāsichakkaniddeso chaṭṭho.
-Ānāpānassatikathā ānāpānakathā (syā. ka.) niṭṭhitā.
+.
+ānāpānakathā (syā. ka.).
 4. Indriyakathā
 1. Paṭhamasuttantaniddeso
 184.–.–‘‘’’.‘‘’’‘‘bhaddante’’ti (ka.).–
@@ -1014,7 +1014,7 @@ Satokāriñāṇaniddeso pañcamo.
 ?.;.;.;.;.;..
 186.,?.;.;.;.;.,,,.;.
 ;?;.?,–.?,,–.;.
-Suttantaniddeso paṭhamo.
+.
 2. Dutiyasuttantaniddeso
 187..‘‘,,.?,,,,.,,,,,ceva (ka.) saṃ. ni. 5.476,;āyasmanto saṃ. ni. 5.476.ye keci kho (syā.), ye hi keci kho (ka.) saṃ. ni. 5.476 passitabbā,,,,;’’.
 188.;?;?,?;?;?
@@ -1048,8 +1048,8 @@ Ga. nissaraṇaniddeso
 ,,,,,,,,,,,,.,,,,.
 ,,,,.
 ;.
-Suttantaniddeso dutiyo.
-Paṭhamabhāṇavāro.
+.
+.
 3. Tatiyasuttantaniddeso
 194.saṃ. ni. 5.478-479 passitabbā.‘‘,,.?,,,,.,,?–.,,?–.,,?–.,,?–.,,?–’’.
 ?????
@@ -1076,7 +1076,7 @@ Ga. cāravihāraniddeso
 ,,,,.
 ,,,,.
 ,,,,.,,,,.,,,,.....–.–...
-Suttantaniddeso tatiyo.
+.
 4. Catutthasuttantaniddeso
 198.paripuṇṇanidānaṃ (syā. ka.).‘‘,,.?,,,,–,,.?–,,,’’.
 Ka. ādhipateyyaṭṭhaniddeso
@@ -1088,14 +1088,14 @@ Kha. ādivisodhanaṭṭhaniddeso
 Ga. adhimattaṭṭhaniddeso
 201.?–.–.–.–.–.–.–.–.–.–.–.–.–.vossajjati (syā. ka.)–.–.–,.–.–..
 …pe……………–…pe……pe…………pe………pe………pe………pe……pe………pe………………–.–.–.–.–.–.–.–.–.–.–.–ekarasaṭṭhena bhāvanāvasena (syā. ka.) aṭṭhakathā oloketabbo.–.–.–.–,.–.–...
-Dutiyabhāṇavāro.
+.
 Gha. adhiṭṭhānaṭṭhaniddeso
 202.?–.–…pe….
 Ṅa. pariyādānaṭṭhaniddeso
 ?,.,.,.,.,....…pe…..
 Ca. patiṭṭhāpakaṭṭhaniddeso
 203.?,.,.,.,.,.,.,.,.,…pe…,..
-Suttantaniddeso catuttho.
+.
 5. Indriyasamodhānaṃ
 204.???...
 ?,,,,,,–.
@@ -1127,9 +1127,9 @@ Suttantaniddeso catuttho.
 .
 –.–.–.–.–.–.–.–.–.–.–.–.
 ,,,.,..
-Indriyasamodhāno pañcamo.
-Tatiyabhāṇavāro.
-Indriyakathā niṭṭhitā.
+.
+.
+.
 5. Vimokkhakathā
 1. Uddeso
 209..‘‘,,.?,,–,,.
@@ -1192,7 +1192,7 @@ Indriyakathā niṭṭhitā.
 ..........
 ?,,–.ekūpādānā (sī. aṭṭha.)?–.imā ekupādānā (syā.)?,,–.?–.?–.?,,,–.?,,,–.?,,–.?–.?,,–.
 ,,,––,,.,,,––.,––,,,–.
-Vimokkhakathāya paṭhamabhāṇavāro.
+.
 219..paricchedaparivaṭṭumato (syā.),,–.
 ???,,.
 ???...
@@ -1223,7 +1223,7 @@ Vimokkhakathāya paṭhamabhāṇavāro.
 ,,,.
 ??..,,,..,,.
 ??,.,,,.,,,,..,,.
-Dutiyabhāṇavāro.
+.
 223.???...
 ???...
 ???...
@@ -1271,8 +1271,8 @@ Dutiyabhāṇavāro.
 ,,,.,.,.,..
 ?,,,,,…pe……,,,,,.
 ?,,…pe……………,,,,,.
-Tatiyabhāṇavāro.
-Vimokkhakathā niṭṭhitā.
+.
+.
 6. Gatikathā
 231.????
 ....
@@ -1288,7 +1288,7 @@ Vimokkhakathā niṭṭhitā.
 ?;.–.;.–.;.–‘‘,’’.
 ,,,.,,.,,,.,,,.,,,.,,,.,,,.,,,.,,,.,,,.,,,..
 ?;.–‘‘…pe…’’.
-Gatikathā niṭṭhitā.
+.
 7. Kammakathā
 234.,.,.,.,.,.,.
 ,.,.,.,.
@@ -1302,7 +1302,7 @@ Gatikathā niṭṭhitā.
 …pe……pe……pe……pe……pe……pe……pe…,.,.,.,.,.,.
 ,.,.,.,.
 ,.,.
-Kammakathā niṭṭhitā.
+.
 8. Vipallāsakathā
 236..‘‘,a. ni. 4.49 passitabbā,.?,,.,,.,,.,,.,,.
 ‘‘,,.?,,.,,.,,.,,.,,’’.
@@ -1318,7 +1318,7 @@ attasaññino (syā.) a. ni. 4.49 passitabbā,;
 ‘‘,;
 ,’’.
 ,.,?.,,..,,..,.,.
-Vipallāsakathā niṭṭhitā.
+.
 9. Maggakathā
 237.?,,,,,,,uttariṃ paṭivedhāya (syā.),,.
 ,,,,,,,,,.
@@ -1331,7 +1331,7 @@ Vipallāsakathā niṭṭhitā.
 ,,,,,,,.,,,,,,.
 ,,,,.,,,,.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-Maggakathā niṭṭhitā.
+.
 10. Maṇḍapeyyakathā
 238.‘‘,,.tividho maṇḍo (bahūsu) aṭṭhakathā oloketabbā.,,’’.
 ?uttānikammaṃ (ka.),…pe………………–.
@@ -1350,11 +1350,11 @@ Maggakathā niṭṭhitā.
 ………….
 ………….
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
-Catutthabhāṇavāro.
-Maṇḍapeyyakathā niṭṭhitā.
-Mahāvaggo paṭhamo.
+.
+.
+.
 –
 ,;
 ,.
-Esa nikāyadharehi ṭhapito, asamo assamo (syā.) paṭhamo pavaro
+,assamo (syā.)
 varamaggoti (syā.).

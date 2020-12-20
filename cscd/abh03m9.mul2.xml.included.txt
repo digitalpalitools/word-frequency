@@ -16,7 +16,7 @@ noāsavaṃ dhammaṃ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupac
 
 
  hetuyā nava ārammaṇe nava  vipāke ekaṃ āhāre nava avigate nava
-
+anulomaṃ
 
 
 
@@ -30,15 +30,15 @@ noāsavaṃ  dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā
 
 
  nahetuyā  dve naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi naaññamaññe tīṇi naupanissaye tīṇi napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte tīṇi navippayutte nava nonatthiyā tīṇi novigate tīṇi
-
+paccanīyaṃ
 
 
  hetupaccayā naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi naaññamaññe tīṇi naupanissaye tīṇi napurejāte nava napacchājāte nava naāsevane nava nakamme tīṇi navipāke nava nasampayutte tīṇi navippayutte nava nonatthiyā tīṇi novigate tīṇi
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā  ārammaṇe dve anantare dve vipāke ekaṃ magge ekaṃ avigate dve
-
+paccanīyānulomaṃ
 
 
 
@@ -55,7 +55,7 @@ noāsavaṃ dhammaṃ paccayā āsavo ca noāsavo ca dhammā uppajjanti hetupacc
 
 
  hetuyā nava ārammaṇe nava adhipatiyā nava vipāke ekaṃ avigate nava
-
+anulomaṃ
 
 
 
@@ -156,7 +156,7 @@ noāsavo  dhammo āsavassa ca noāsavassa ca dhammassa atthipaccayena paccayo  s
 
 
  hetuyā  satta ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte nava aññamaññe nava nissaye nava upanissaye  nava purejāte tīṇi pacchājāte tīṇi āsevane nava kamme tīṇi vipāke ekaṃ āhāre tīṇi magge nava sampayutte nava vippayutte pañca atthiyā nava natthiyā nava vigate nava avigate nava
-
+anulomaṃ
 
  āsavo  dhammo āsavassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo 
 āsavo dhammo noāsavassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo pacchājātapaccayena paccayo 
@@ -170,16 +170,16 @@ noāsavo dhammo āsavassa ca noāsavassa ca dhammassa ārammaṇapaccayena pacca
 
 
  nahetuyā nava naārammaṇe nava naadhipatiyā nava  noavigate nava
-
+paccanīyaṃ
 
 
  hetupaccayā naārammaṇe satta naadhipatiyā satta naanantare satta nasamanantare satta naaññamaññe tīṇi naupanissaye satta  namagge satta nasampayutte tīṇi navippayutte satta nonatthiyā satta novigate satta
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā  ārammaṇe nava adhipatiyā nava  avigate nava
-
-
+paccanīyānulomaṃ
+āsavadukaṃ niṭṭhitaṃ
 
 
 
@@ -189,7 +189,7 @@ anāsavaṃ dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccayā  anāsave 
 anāsavaṃ dhammaṃ paṭicca sāsavo ca anāsavo ca dhammā uppajjanti hetupaccayā  anāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe 
 sāsavañca anāsavañca dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccayā  anāsave khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ 
 (yathā  cūḷantaraduke lokiyadukaṃ evaṃ kātabbaṃ ninnānākaraṇaṃ)
-
+sāsavadukaṃ niṭṭhitaṃ
 
 
 
@@ -223,7 +223,7 @@ sāsavañca anāsavañca dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccay
 
 
  hetuyā  nava ārammaṇe cha adhipatiyā nava anantare cha samanantare cha sahajāte nava aññamaññe cha nissaye nava upanissaye cha purejāte cha āsevane cha kamme nava vipāke ekaṃ  āhāre nava indriye nava jhāne nava magge nava sampayutte cha vippayutte nava atthiyā nava natthiyā cha vigate cha avigate nava
-
+anulomaṃ
 
 
 
@@ -253,11 +253,11 @@ sāsavañca anāsavañca dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccay
 
 
  nahetuyā dve naārammaṇe tīṇi naadhipatiyā nava naanantare tīṇi nasamanantare tīṇi naaññamaññe tīṇi naupanissaye tīṇi napurejāte satta napacchājāte nava naāsevane nava nakamme cattāri navipāke nava naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte tīṇi navippayutte cha nonatthiyā tīṇi novigate tīṇi
-
+paccanīyaṃ
 
 
  hetupaccayā  naārammaṇe tīṇi napurejāte cha navipāke nava nasampayutte tīṇi navippayutte cattāri nonatthiyā tīṇi novigate tīṇi
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā ārammaṇe dve anantare dve samanantare dve kamme dve vipāke ekaṃ āhāre dve magge ekaṃ  sampayutte dve vippayutte dve avigate dve
@@ -285,7 +285,7 @@ sāsavañca anāsavañca dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccay
 
 
  hetuyā  nava ārammaṇe nava  kamme nava vipāke ekaṃ avigate nava
-
+anulomaṃ
 
 
 
@@ -421,8 +421,8 @@ nahetuyā dve naadhipatiyā cha napurejāte cha napacchājāte cha naāsevane ch
 
 
  nahetupaccayā  ārammaṇe nava adhipatiyā pañca avigate nava
-
-
+paccanīyānulomaṃ
+āsavasampayuttadukaṃ niṭṭhitaṃ
 
 
 
@@ -454,7 +454,7 @@ sāsavo ceva no ca āsavo dhammo āsavassa ceva sāsavassa ca sāsavassa ceva no
 āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā sāsavassa ceva no ca āsavassa dhammassa anantarapaccayena paccayo  purimā purimā āsavā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ sāsavānañceva no ca āsavānaṃ khandhānaṃ anantarapaccayena paccayo āsavā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo 
 āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā āsavassa ceva sāsavassa ca sāsavassa ceva no ca āsavassa ca dhammassa anantarapaccayena paccayo  purimā purimā āsavā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ āsavānaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo  
 
-
+āsavasāsavadukaṃ niṭṭhitaṃ
 
 
 
@@ -474,7 +474,7 @@ sāsavo ceva no ca āsavo dhammo āsavassa ceva sāsavassa ca sāsavassa ceva no
 
 
  hetuyā  nava ārammaṇe nava adhipatiyā nava  kamme nava  āhāre nava avigate nava
-
+anulomaṃ
 
 
 
@@ -522,12 +522,12 @@ adhipatipaccayā  anantarapaccayā  samanantarapaccayā sahajātapaccayā añña
  hetupaccayā  naārammaṇe cattāri nasamanantare cattāri naupanissaye cattāri namagge cattāri navippayutte cattāri nonatthiyā cattāri novigate cattāri
 
  nahetupaccayā ārammaṇe nava adhipatiyā nava  avigate nava
-
+āsavaāsavasampayuttadukaṃ niṭṭhitaṃ
 
 
 
  āsavavippayuttaṃ  sāsavaṃ dhammaṃ paṭicca āsavavippayutto sāsavo dhammo uppajjati hetupaccayā  āsavavippayuttaṃ sāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ dve khandhe paṭisandhikkhaṇe   khandhe paṭicca vatthu vatthuṃ paṭicca khandhā ekaṃ mahābhūtaṃ 
 āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca āsavavippayutto anāsavo dhammo uppajjati hetupaccayā tīṇi
 
-
-
+āsavavippayuttasāsavadukaṃ niṭṭhitaṃ
+āsavagocchakaṃ niṭṭhitaṃ

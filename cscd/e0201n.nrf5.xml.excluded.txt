@@ -110,7 +110,7 @@ jā. 2.22.1617.
 ,,,.
 ,.
 ,,,,,.
-Iti suddhakatturūpaṃ.
+.
 Suddhabhāvakammarūpa
 568.ka. 440; rū. 445; nī. 920; caṃ. 1.1.80; pā. 3.1.67.
 ,,.
@@ -132,7 +132,7 @@ Suddhabhāvakammarūpa
 ‘’,‘’,‘’’’.,,,.
 ,,,,’,,,,.
 ,,,,.
-Iti suddhabhāvakammarūpāni.
+.
 Hetukatturūpa
 571.ka. 438; rū. 540; nī. 914.
 ,..
@@ -150,7 +150,7 @@ Hetukatturūpa
 ,,.
 ,,.
 ,,,,,,.
-Iti hetukatturūpāni.
+.
 Tyādi
 ‘…’,.
 574.ka. 442; rū. 448; nī. 922.
@@ -179,7 +179,7 @@ saṃ. ni. 1.249,saṃ. ni. 1.249,dī. ni. 3.246,,jā. 1.15.348,jā. 2.22.2369,j
 -,jā. 2.22.331.-bu. vaṃ. 2.109,bu. vaṃ. 2.81.
 -,dha. pa. 2dha. sa. aṭṭha. 1,dha. sa. aṭṭha. 1,.
 -,,.
-Iti tyādi.
+.
 Tvādi
 .
 575.ka. 424; rū. 450; nī. 897; caṃ. 1.3.122; pā. 3.3.162.
@@ -219,7 +219,7 @@ su. ni. 1036.
 ,,,.
 ,.-,.-,.,.
 ‘’,,.
-Iti tvādi.
+.
 Eyyādi
 .
 577.eyyavho (moggallānādīsu)ka. 416; rū. 454; nī. 880; caṃ. 1.3.120; pā. 3.3.156.
@@ -274,7 +274,7 @@ saṃ. ni. 1.23.
 -,.
 -,jā. 1.8.78.,jā. 1.8.79.
 -,dī. ni. 3.136.
-Iti eyyādi.
+.
 Hiyyattanī
 .
 584.ka. 418; rū. 456; nī. 886; caṃ. 1.2.77; pā. 3.2.111.
@@ -288,7 +288,7 @@ Hiyyattanī
 ,,.
 ‘’,,,,,,,,,,.
 -,jā. 2.22.1672,jā. 2.22.328,jā. 2.22.328,theragā. 172,theragā. 273,jā. 1.15.286.-,.
-Iti hiyyattanī.
+.
 Ajjattanī
 .
 587.ka. 419; rū. 469; nī. 887.
@@ -335,7 +335,7 @@ Ajjattanī
 ‘’.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,.
 ,,,.
-Iti ajjattanī.
+.
 Parokkhā
 .
 596.ka. 417; rū. 460; nī. 887; caṃ. 1.2.81; pā. 3.2.115.
@@ -356,7 +356,7 @@ Parokkhā
 ,,.
 ‘’,,,,,,,,,,.
 ‘’,‘,’.
-Iti parokkhā.
+.
 Ssatyādi
 .
 601.ka. 421; rū. 473; nī. 892; caṃ. 1.3.2; pā. 3.3.13.
@@ -376,7 +376,7 @@ Ssatyādi
 ,,,.
 ,‘’,,.
 ,.
-Iti ssatyādi.
+.
 Ssādi
 .
 604.ka. 422; rū. 475; nī. 895; caṃ. 1.3.107; pā. 3.3.139; eyyādo vātipattiyaṃ (bahūsu).
@@ -386,9 +386,9 @@ Ssādi
 -,.
 ‘’,‘’,,,,,,,,,,,,,,,,,,,,,,,,.
 ‘’,-,,,.‘’-,.
-Itissādi.
-Bhūdhāturūpaṃ niṭṭhitaṃ.
-Aṭṭhavibhattuppattirāsi niṭṭhito.
+.
+.
+.
 Bhūvādigaṇa
 Sarantadhātu
 Ākārantadhāturūpa
@@ -495,7 +495,7 @@ Sarantadhātu
 ‘‘’’jā. 1.5.36,,,,,,,,jā. 2.22.673.
 -,,,.
 ,,,.
-Iti bhūvādigaṇe ākārantadhāturūpaṃ.
+.
 Ivaṇṇantadhāturūpa
 -,-,,-,-,-,-,-,-,-.
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
@@ -539,7 +539,7 @@ Ivaṇṇantadhāturūpa
 -,,,,,,jā. 1.2.93.
 -,.
 ,,.,jā. 2.20.17.
-Iti bhūvādigaṇe ivaṇṇantadhārūpaṃ.
+.
 Uvaṇṇantadhāturūpa
 -,-,-,-,-,-,-,-,-,-,-,-.
 ,‘’,,‘’.
@@ -609,7 +609,7 @@ Uvaṇṇantadhāturūpa
 ,jā. 2.17.14.su. ni. 28,jā. 1.11.31,.
 ,,,.
 -,jā. 1.15.197,jā. 1.8.2.theragā. 719.jā. 1.14.27..dī. ni. 2.207.
-Iti bhūvādigaṇe uvaṇṇantadhāturūpaṃ.
+.
 Edantadhāturūpa
 -,-,-’,-,-,-’,-,-,,-,,-,-,-,-,-,-,-,-,-.
 ,.,,,.
@@ -655,8 +655,8 @@ pārā. 363.‘’‘’.
 -,,.
 -,,.
 ‘‘,,,,,,,,,’’.
-Iti bhūvādigaṇe edantadhāturūpaṃ.
-Bhūvādigaṇe sarantadhātūnaṃ tyādyantarūpāni niṭṭhitāni.
+.
+.
 Byañjanantadhātu
 Avuddhikarūpa
 Tudādigaṇa
@@ -698,7 +698,7 @@ Tudādigaṇa
 -.
 ,.‘’,,,.ma. ni. 1.60.
 -,,,,,,,.
-Iti tudādigaṇo.
+.
 Savuddhikarūpa
 .
 -,-,-,,-,-,-,,-,-,-,-,-,-,,-,-,-,,-’,-,.
@@ -1041,7 +1041,7 @@ dha. pa. 3-4,,,‘‘’’.,.
 -,,.
 -,,.
 ,,,.,,,,,,,,,,,,,,,,,,.
-Bhūvādigaṇo niṭṭhito.
+.
 Rudhādigaṇa
 .
 ‘’,,,,.
@@ -1113,7 +1113,7 @@ Rudhādigaṇa
 -,.
 ,,,,,,.,,.
 -,,,.
-Rudhādigaṇo niṭṭhito.
+.
 Divādigaṇa
 .
 .
@@ -1195,7 +1195,7 @@ Divādigaṇa
 -,,.
 -,,,,.jā. 2.22.2185.
 -,.
-Divādigaṇo niṭṭhito.
+.
 Svādigaṇa
 .
 ,,,,,,,.
@@ -1249,7 +1249,7 @@ Svādigaṇa
 ,,,,,,,,.
 ‘’,,,,.
 -,,,.
-Svādigaṇo niṭṭhito.
+.
 Kyādigaṇa
 .
 ,,,,,,,,.
@@ -1305,7 +1305,7 @@ Kyādigaṇa
 -,.
 -,.
 -.
-Kyādigaṇo niṭṭhito.
+.
 Tanādigaṇa
 .
 ,,,.
@@ -1374,7 +1374,7 @@ Tanādigaṇa
 -.
 ,,,.‘‘’,’’jā. 1.6.84.,.
 -,,,,,,.
-Tanādigaṇo niṭṭhito.
+.
 Curādigaṇa
 .
 ,,,,,,,,,,,,.
@@ -1405,8 +1405,8 @@ Curādigaṇa
 -,,,,.
 -,,,,.
 ,,,,,,,,.
-Curādigaṇo niṭṭhito.
-Vikaraṇapaccayarāsi niṭṭhito.
+.
+.
 Sāmañña kha, cha, sarāsi
 .
 ,,,,.
@@ -1459,7 +1459,7 @@ Sāmañña kha, cha, sarāsi
 ,..
 ?-,,,.jā. 1.12.8.
 -,,,.
-Iti sāmañña kha, cha, sarāsi.
+,,.
 Tumicchatthe khachasarāsi
 701.ka. 434; rū. 534; nī. 910; caṃ. 1.1.22; pā. 3.1.7.
 ,,,.,,.,‘’,‘‘,,’’.
@@ -1481,7 +1481,7 @@ Tumicchatthe khachasarāsi
 704.caṃ. 5.1.6.
 ,‘’.
 ,.,,,.
-Iti tumicchatthe kha, cha, sa rāsi.
+,,.
 Nāmadhāturāsi
 –
 705.ka. 437; rū. 538; nī. 912; caṃ. 1.1.23, 24; pā. 3.1.8, 9.
@@ -1530,7 +1530,7 @@ Nāmadhāturāsi
 -.
 -.
 ,,,.
-Iti nāmadhāturāsi.
-Iti niruttidīpaniyā nāma moggallānadīpaniyā
-Tyādikaṇḍo nāma ākhyātakaṇḍo
-Niṭṭhito.
+.
+
+
+.

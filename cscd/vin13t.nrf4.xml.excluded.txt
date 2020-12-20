@@ -26,7 +26,7 @@ Ganthārambhakathāvaṇṇanā
 ,,.‘‘’’‘‘’’.,,.....,....
 9.‘‘’’.,.
 ‘‘’’(pārā. 198)...‘‘,’’.,.‘‘’’.,.,..,.,..
-Pārājikaniddesavaṇṇanā niṭṭhitā.
+.
 2. Garukāpattiniddesavaṇṇanā
 10.‘‘’’.,,,..
 .,,,,.,,.,,,.,.,,,..‘‘,’’,.,,,.
@@ -38,7 +38,7 @@ Pārājikaniddesavaṇṇanā niṭṭhitā.
 14.‘‘’’.,.‘‘,,‘’’(pārā. 305),‘‘,,‘’’(pārā. 326-327 thokaṃ visadisaṃ).‘‘’’‘‘’’‘‘’’..‘‘’’-.‘‘’’,.,,..
 15.‘‘’’...‘‘,,’’..,,,,,.,...,,,,,,..
 16.‘‘’’.,.?,‘‘,’’‘‘,,’’,...
-Garukāpattiniddesavaṇṇanā niṭṭhitā.
+.
 3. Nissaggiyaniddesavaṇṇanā
 17.‘‘’’.,.,,.....
 .–‘‘,,’’(mahāva. 358).,..?‘‘’’,.‘‘’’,‘‘’’,.‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’,.‘‘’’.‘‘’’,‘‘,’’..
@@ -56,7 +56,7 @@ Garukāpattiniddesavaṇṇanā niṭṭhitā.
 27...,.,,,,..
 28....,,..
 29.,....‘‘’’.,,..
-Nissaggiyaniddesavaṇṇanā niṭṭhitā.
+.
 4. Pācittiyaniddesavaṇṇanā
 30.‘‘’’.,,..,,.
 31..
@@ -78,7 +78,7 @@ Nissaggiyaniddesavaṇṇanā niṭṭhitā.
 50.,.,.,,..
 51.‘‘’’,.,....
 52.,,..‘‘’’‘‘’’.,.,.,...
-Pācittiyaniddesavaṇṇanā niṭṭhitā.
+.
 5. Pakiṇṇakaniddesavaṇṇanā
 53.‘‘’’.,.,,,,.
 54.-,....,.........
@@ -116,7 +116,7 @@ Pācittiyaniddesavaṇṇanā niṭṭhitā.
 93..,..
 94.‘‘’’,.,.
 95.,...,.‘‘’’‘‘’’,.
-Pakiṇṇakaniddesavaṇṇanā niṭṭhitā.
+.
 6. Vattādikaṇḍaniddesavaṇṇanā
 96.‘‘’’..,.
 97.,,.
@@ -136,7 +136,7 @@ Pakiṇṇakaniddesavaṇṇanā niṭṭhitā.
 114.,,.
 115....
 116....
-Vattādikaṇḍaniddesavaṇṇanā niṭṭhitā.
+.
 Nigamanakathā
 ,;
 ,.
@@ -148,4 +148,4 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Mūlasikkhā-ṭīkā samattā.
+-.

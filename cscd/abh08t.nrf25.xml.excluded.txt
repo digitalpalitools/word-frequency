@@ -120,7 +120,7 @@ Kāmāvacarakusalavaṇṇanā
 ,’’.
 27.,‘‘’’.–,,,,,.,?,.
 ‘‘’’,,,‘‘’’.,.,.,.,.,.,.,,,,,‘‘’’.,,..,,,,,,,,,,.‘‘’’.,,.,,..–‘‘,’’.
-Kāmāvacarakusalavaṇṇanā niṭṭhitā.
+.
 Rūpāvacarakusalavaṇṇanā
 ,‘‘’’.,...
 .,,.,,.,,.,,.
@@ -169,7 +169,7 @@ Rūpāvacarakusalavaṇṇanā
 ,...,..‘‘’’.‘‘’’,,‘‘’’,,.‘‘’’(paṭi. ma. 1.212)..
 .,,.,,,.,,.,.‘‘…pe…’’.
 ,‘‘’’.,..
-Rūpāvacarakusalavaṇṇanā niṭṭhitā.
+.
 Arūpāvacarakusalavaṇṇanā
 ‘‘’’....,,,.,..‘‘’’‘‘’’.‘‘,’’,,.‘‘’’,..‘‘’’.,.?,,,..
 ,‘‘’’.,,.–
@@ -185,7 +185,7 @@ Arūpāvacarakusalavaṇṇanā
 …pe…,..,..
 …pe…,,,.‘‘’’?..‘‘’’.,.,,,,.
 …pe…‘‘,’’.,,,.
-Arūpāvacarakusalavaṇṇanā niṭṭhitā.
+.
 Lokuttarakusalavaṇṇanā
 ‘‘’’.,–...,,,.,,,.,,.,.‘‘,,,’’(a. ni. 4.34; itivu. 90).
 ,.
@@ -223,13 +223,13 @@ Lokuttarakusalavaṇṇanā
 ,...,?,,.
 .–,.,?.,...
 …pe…..
-Lokuttarakusalavaṇṇanā niṭṭhitā.
+.
 Catubhūmakakusalavaṇṇanā
 28.‘‘’’..‘‘’’.
 29...‘‘’’...,.–
 ‘‘,’’.
 ,.
-Catubhūmakakusalavaṇṇanā niṭṭhitā.
+.
 Akusalavaṇṇanā
 ‘‘’’,‘‘’’.‘‘’’‘‘’’...?....,.,,.,.
 ,‘‘…pe…’’.,‘‘’’.,‘‘’’..–
@@ -247,7 +247,7 @@ Akusalavaṇṇanā
 ,.,,,.,‘‘’’..,.,..,,.,.
 ,.,.,,,‘‘…pe…’’.‘‘’’.
 31.,..–,,.
-Akusalavaṇṇanā niṭṭhitā.
+.
 Abyākatavaṇṇanā
 ,.,,,,,...,.....‘‘’’,.
 ..
@@ -277,7 +277,7 @@ Abyākatavaṇṇanā
 ,,.,.‘‘’’.‘‘’’...
 ‘‘’’.,.,,.,...,,‘‘’’.,.,..,....,.-.‘‘,-’’...
 43..‘‘’’.
-Kāmāvacaravipākavaṇṇanā niṭṭhitā.
+.
 Rūpāvacarārūpāvacaravipākavaṇṇanā
 ,..
 .
@@ -290,21 +290,21 @@ Rūpāvacarārūpāvacaravipākavaṇṇanā
 45-6..,,,.,.,‘‘’’..,‘‘’’.
 47..,-.,..?.‘‘’’‘‘‘,,’(a. ni. 8.35)’’,..
 48-9.‘‘’’.,.,.,.‘‘’’..
-Rūpāvacarārūpāvacaravipākavaṇṇanā niṭṭhitā.
+.
 Lokuttaravipākavaṇṇanā
 ‘‘’’‘‘’’,...,‘‘’’.
 50-1..‘‘’’,..‘‘’’?,,.,..,...‘‘’’‘‘’’..?,,.
 52-3..,,.…pe…,‘‘’’.
-Lokuttaravipākavaṇṇanā niṭṭhitā.
+.
 Akusalavipākavaṇṇanā
 ,,‘‘’’.,...,.…pe…,..,?.,.,.
 ,...
 54....
 ‘‘’’.
-Akusalavipākavaṇṇanā niṭṭhitā.
+.
 Vipākacittavaṇṇanā
 55.,,.,,.
-Vipākacittavaṇṇanā niṭṭhitā.
+.
 ,.
 ,.,,,.,,..,?–,...
 ,,,.,,,.,,,.
@@ -318,6 +318,6 @@ Vipākacittavaṇṇanā niṭṭhitā.
 61..,.,.–‘‘’’(su. ni. 719),.
 62.…pe…,,,,,,…pe….,,…pe….....,...,…pe….,…pe….…pe….
 64-6.,.,.,‘‘’’,.,.,....,,.
-Iti abhidhammatthavikāsiniyā nāma
-Abhidhammāvatārasaṃvaṇṇanāya
-Cittaniddesavaṇṇanā niṭṭhitā.
+
+
+.

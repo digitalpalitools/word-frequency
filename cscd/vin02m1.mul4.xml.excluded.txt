@@ -38,7 +38,7 @@
 ,.,.,.,.
 ,.,.,.
 663.,,,,,,,.
-Paṭhamapārājikaṃ samattaṃ bhikkhunivibhaṅge sikkhāpadagaṇanā bhikkhūhi§asādhāraṇavasena pakāsitāti veditabbā.
+bhikkhunivibhaṅge sikkhāpadagaṇanā bhikkhūhi§asādhāraṇavasena pakāsitāti veditabbā.
 2. Dutiyapārājikaṃ
 664.....–‘‘,,.’’?‘‘,’’.‘‘,,’’?‘‘,,,.,,’’?…pe…–‘‘’’!.ye te bhikkhū…pe… (?).–‘‘,,paṭicodesi… ārocesīti (ka.)’’paṭicodesi… ārocesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 665.‘‘,,–‘,,,’,’’.
@@ -54,7 +54,7 @@ Paṭhamapārājikaṃ samattaṃ bhikkhunivibhaṅge sikkhāpadagaṇanā bhikk
 ,..
 ....
 667.‘‘’’,‘‘’’,‘‘’’,,,,…pe….
-Dutiyapārājikaṃ samattaṃ.
+.
 3. Tatiyapārājikaṃ
 668...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 669.‘‘,–‘,,,,’.,.,.,’’.
@@ -80,7 +80,7 @@ adassanena vā appaṭikammena vā appaṭinissaggena vā (ka.), adassane vā ap
 672.,.,.,.
 ,.,.,.
 673.,,…pe….
-Tatiyapārājikaṃ samattaṃ.
+.
 4. Catutthapārājikaṃ
 674..,,,,,,,.…pe…–‘‘,,,,,,,’’…pe…,,,,,,,,,?‘‘,’’.…pe…,,,,,,,,,!,,…pe…,,–
 675.‘‘,,,,,,,,’’.
@@ -100,6 +100,6 @@ Tatiyapārājikaṃ samattaṃ.
 ..
 ....
 677.,,,,,,,.
-Catutthapārājikaṃ samattaṃ.
+.
 ,,.,,.–‘‘’’?–‘‘’’?–‘‘’’?,,.
-Bhikkhunivibhaṅge pārājikakaṇḍaṃ niṭṭhitaṃ.
+.

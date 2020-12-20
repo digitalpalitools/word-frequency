@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Jātaka-aṭṭhakathā
 Catuttho bhāgo
@@ -50,7 +50,7 @@ Catuttho bhāgo
 ,..–,,,.‘‘’’..,,.
 ,.
 –‘‘,’’.
-Catudvārajātakavaṇṇanā paṭhamā.
+.
 
 .
 ..‘‘,,,’’.‘‘,,,,’’.
@@ -122,11 +122,11 @@ Catudvārajātakavaṇṇanā paṭhamā.
 .,.-..–,,.
 ,‘‘,’’.,.‘‘’’..
 ‘‘,’’–‘‘,’’.
-Kaṇhajātakavaṇṇanā dutiyā.
+.
 
 .
 24-38..
-Catuposathikajātakavaṇṇanā tatiyā.
+.
 
 .
 .....,,..‘‘,,,,,’’.
@@ -184,7 +184,7 @@ Catuposathikajātakavaṇṇanā tatiyā.
 .
 ,.
 ,,.
-Saṅkhajātakavaṇṇanā catutthā.
+.
 
 .
 .,,.‘‘’’‘‘’’‘‘,,,’’.
@@ -245,7 +245,7 @@ Saṅkhajātakavaṇṇanā catutthā.
 ‘‘,,’’....
 ,.
 ,,.
-Cūḷabodhijātakavaṇṇanā pañcamā.
+.
 
 .
 .(jā. 2.20.1 ādayo).‘‘’’‘‘’’‘‘,,’’.
@@ -315,7 +315,7 @@ Cūḷabodhijātakavaṇṇanā pañcamā.
 ..,,,.
 ‘‘,,,’’.–‘‘,,’’.‘‘’’–‘‘,,,’’..,..
 ,.,,,,.
-Kaṇhadīpāyanajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .‘‘,,,,,’’‘‘’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -365,7 +365,7 @@ Kaṇhadīpāyanajātakavaṇṇanā chaṭṭhā.
 ‘‘,;
 ,’’.
 ‘‘,,’’–‘‘,,’’.
-Nigrodhajātakavaṇṇanā sattamā.
+.
 
 .
 ..–‘‘,,,’’.‘‘,,,,’’...‘‘’’,.‘‘,,’’.
@@ -421,7 +421,7 @@ Nigrodhajātakavaṇṇanā sattamā.
 ,..
 ...
 ,.,.
-Takkalajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .‘‘,‘’’’.‘‘,’’‘‘,,,‘’’’.‘‘,‘’‘’,’’.
@@ -474,7 +474,7 @@ Takkalajātakavaṇṇanā aṭṭhamā.
 ...,,..,,.
 ‘‘,,’’‘‘,,’’.
 ,.,,,.
-Mahādhammapālajātakavaṇṇanā navamā.
+.
 
 .
 .‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -519,7 +519,7 @@ Mahādhammapālajātakavaṇṇanā navamā.
 ,.-....,.
 ‘‘,’’..
 ‘‘’’–‘‘,’’.
-Kukkuṭajātakavaṇṇanā dasamā.
+.
 
 .
 ..,,‘‘,’’....‘‘,,’’‘‘,’’‘‘,‘’’’.
@@ -568,7 +568,7 @@ Kukkuṭajātakavaṇṇanā dasamā.
 ,’’.
 ‘‘,,,,,,,’’..
 ,..
-Maṭṭhakuṇḍalījātakavaṇṇanā ekādasamā.
+.
 
 .
 .,,,..‘‘,,’’‘‘’’‘‘’’‘‘,’’‘‘,,,’’.
@@ -623,7 +623,7 @@ Maṭṭhakuṇḍalījātakavaṇṇanā ekādasamā.
 ‘‘,’’.–‘‘’’..‘‘,,’’.‘‘,‘’,’’.‘‘,,,,,’’.
 ‘‘,’’?‘‘’’.‘‘’’.‘‘’’.‘‘,,,,.,,,,,’’,.‘‘,,‘’’’.‘‘,,’’...
 ‘‘,,,,’’–‘‘,,,,,’’.
-Bilārakosiyajātakavaṇṇanā dvādasamā.
+.
 
 .
 .‘‘,’’,..‘‘’’‘‘,’’‘‘,,’’.
@@ -667,11 +667,11 @@ Bilārakosiyajātakavaṇṇanā dvādasamā.
 .......,.......
 ,.‘‘,’’.
 ,.,,.
-Cakkavākajātakavaṇṇanā terasamā.
+.
 
 .
 145-154.(jā. 2.22.590 ādayo).
-Bhūripaññajātakavaṇṇanā cuddasamā.
+.
 
 .
 (khu. pā. 5.1 ādayo).‘‘’’.‘‘‘’,’’.‘‘.,,’’.‘‘’’.‘‘,.‘’,‘’‘’,‘’‘’,’’.‘‘’’.‘‘,.,,’’.‘‘’’.,‘‘’’.
@@ -723,7 +723,7 @@ Bhūripaññajātakavaṇṇanā cuddasamā.
 ,.
 ......
 ‘‘,,,’’–‘‘,,’’.
-Mahāmaṅgalajātakavaṇṇanā pannarasamā.
+.
 
 .
 ..‘‘,,’’‘‘,’’‘‘,’’.
@@ -803,11 +803,11 @@ Mahāmaṅgalajātakavaṇṇanā pannarasamā.
 ‘‘’’......,..‘‘’’.‘‘,’’..‘‘’’.
 ‘‘’’‘‘’’.‘‘,,’’‘‘’’‘‘,’’‘‘,’’‘‘,,’’.,.‘‘,,’’..
 ‘‘,,’’,.,,,.
-Ghaṭapaṇḍitajātakavaṇṇanā soḷasamā.
-Iti soḷasajātakapaṭimaṇḍitassa
-Dasakanipātajātakassa atthavaṇṇanā niṭṭhitā.
+.
+
+.
 –
 ,;
 -;
 ,.
-Dasakanipātavaṇṇanā niṭṭhitā.
+.

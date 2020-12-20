@@ -1,8 +1,8 @@
 ﻿4. Pācittiyakaṇḍaṃ (bhikkhunīvibhaṅgo)
 1. Lasuṇavaggo
 1. Paṭhamasikkhāpadaṃ
-Ime kho panāyyāyo chasaṭṭhisatā pācittiyā
-Dhammā uddesaṃ āgacchanti.
+
+.
 793..–‘‘,’’.–‘‘,’’...–‘‘,,’’.‘‘..’’..–‘‘’’!.…pe…–‘‘’’…pe…,,harāpesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…–
 ‘‘,,.–,,.,,...,,‘‘’’..,,.’’.
 jā. 1.1.136 suvaṇṇahaṃsajātakepi‘‘,;
@@ -15,7 +15,7 @@ jā. 1.1.136 suvaṇṇahaṃsajātakepi‘‘,;
 796.,.,.,.
 ,.,.,.
 797.,,,,,,,,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 798...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 799.‘‘,’’.
@@ -23,20 +23,20 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ,.,.
 801.,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 802...–‘‘,,’’?‘‘,,’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 803.‘‘’’.
 804.,.
 805.,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 806..aññataro purāṇarājorodho bhikkhunīsu pabbajito (syā.).;–‘‘,,.’’?‘‘,’’.‘‘,,’’?..–‘‘’’?–‘‘’’.…pe…–‘‘’’…pe…,,ādiyīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 807.‘‘jatumaṭṭake (sī.)’’.
 808..
 ,.
 809.,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 810..;–‘‘,,’’.–‘‘’’,..–‘‘,,’’.–‘‘’’..…pe…–…pe…,,’’ādiyīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 811.‘‘.’’.
@@ -47,7 +47,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 813.,.,.,.
 ,.,.,.
 814.,,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 815......–‘‘,,.’’.‘‘,’’–.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 816.‘‘,’’.
@@ -60,7 +60,7 @@ Pañcamasikkhāpadaṃ niṭṭhitaṃ.
 818.,.,.,.
 ,.,.,.,.,.,.
 819.,,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 820..–‘‘,’’...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 821.‘‘,’’.
@@ -72,7 +72,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 ..
 ‘‘’’,..
 823.,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 824..‘‘’’..–‘‘.!’’!..–‘‘,,’’?‘‘,,.’’.‘‘,,.’’...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 825.‘‘,’’.
@@ -86,7 +86,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ,.,.
 827.,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 828....–‘‘’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 829.‘‘,’’.
@@ -100,7 +100,7 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 831.,.,.,.
 ,.,.,.
 832.,chaḍḍitakhette (?) aṭṭhakathā oloketabbā,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 833....–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 834.‘‘,’’.
@@ -108,8 +108,8 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 ...
 836.,.,.,.,.,.,.
 837.,,,,,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Lasuṇavaggo paṭhamo.
+.
+.
 2. Andhakāravaggo
 1. Paṭhamasikkhāpadaṃ
 838....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -122,7 +122,7 @@ Lasuṇavaggo paṭhamo.
 ,.
 ,.,.
 841.yā kāci viññū dutiyā (syā.),,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 842...–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 843.‘‘,’’.
@@ -134,7 +134,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ,.,.
 845.,,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 846...–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 847.‘‘,’’.
@@ -146,7 +146,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ,.,.
 849.,,,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 850...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 851.‘‘,’’.
@@ -160,7 +160,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 ,...
 .,.
 853.,,,,,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 854...;..–‘‘,,’’?‘‘,,’’.‘‘,’’...…pe…–‘‘’’…pe…,,pakkamīti (ka.)?‘‘,’’.…pe…,!,,…pe…,,–
 855.‘‘,’’.
@@ -172,7 +172,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 857.,.,.,.
 .,.,.,.
 858.,,,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 859....–‘‘’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 860.‘‘,’’.
@@ -186,7 +186,7 @@ Pañcamasikkhāpadaṃ niṭṭhitaṃ.
 862.,.,.,.
 .,.,.,.
 863.,,,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 864...–‘‘,,’’.–‘‘’’.–‘‘’’?‘‘,’’.‘‘’’,..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 865.‘‘,’’.
@@ -198,7 +198,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 867.,.,.,.
 ,.,.,.
 868.,,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 869...–‘‘,,,’’.–‘‘,,’’.…pe…–‘‘’’…pe…,,ujjhāpesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 870.‘‘,’’.
@@ -209,7 +209,7 @@ uggahitena (ka.).
 872.,.,.,.
 ,.,.,.,.
 873.,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 874..–‘‘,,’’?–‘‘,,–‘,’?,,,,,;,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 875.‘‘,’’.
@@ -218,15 +218,15 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 877.,.,.,.
 ,.,.,.,.,.
 878.,,,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 879...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 880.‘‘,’’.
 881.…pe……pe….
 .,.,.,.
 882.,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Andhakāravaggo dutiyo.
+.
+.
 3. Naggavaggo
 1. Paṭhamasikkhāpadaṃ
 883..mahāva. 350.–‘‘,,daharānaṃ daharānaṃ (sī.),!.’’.....–‘‘,,–…pe….,,–
@@ -234,7 +234,7 @@ Andhakāravaggo dutiyo.
 885.…pe……pe….
 ,..
 886.,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 887..mahāva. 351.–‘‘’’dhārenti (pāci. 531-545)..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 888.‘‘.–,;.’’.
@@ -244,7 +244,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 890.,.,.,.,.
 ,.,.
 891.,,,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 892...–‘‘,,;’’.‘‘,,’’?‘‘,’’..–‘‘’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 893.‘‘,,’’.
@@ -258,7 +258,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 895.,,.,,.,,.
 ,,.,,.,.,.,.
 896.,,,,,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 897.....–‘‘,,’’?.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 898.‘‘saṅghāṭivāraṃ (syā.),’’.
@@ -267,7 +267,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 900.,.,.,.
 ,.,.,.
 901.,,,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 902....–‘‘,’’?.–‘‘’’!.…pe…–‘‘’’…pe…,,pārupīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 903.‘‘,’’.
@@ -276,7 +276,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 905.,.,.,.
 ,.,.,.,.
 906.,,,,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 907..–‘‘,,’’.–‘‘’’..–‘‘!parihīnā (sī.),’’..…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 908.‘‘,’’.
@@ -285,7 +285,7 @@ Pañcamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘imaṃ cīvaraṃ (ka.)’’,.,.,.
 910.,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 911.....–‘‘,,’’..vipakkamiṃsu (syā.)..…pe…–‘‘’’…pe…,,paṭibāhīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 912.‘‘,’’.
@@ -294,7 +294,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 cīvaraṃ bhājeyyāti (ka.),.
 914.,.,.,.,.,.,.
 915.,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 916..sokasāyikānampi (sī.)kumbhathuṇikānampi (ka.)–‘‘parisatiṃ (sī.)’’.–‘‘;,’’.,–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 917.‘‘,’’.
@@ -304,7 +304,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 .
 .,.
 919.,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 920..–‘‘,,,’’..–‘‘,,’’.–‘‘,’’.;–‘‘,’’.‘‘,,’’..…pe…–‘‘’’…pe…,,atikkāmesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 921.‘‘,’’.
@@ -315,7 +315,7 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 923.,.,.,.
 ,.,.,.
 924.,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 925.......–‘‘,,..–
 926.‘‘,,.,..
@@ -328,8 +328,8 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 ‘‘’’kathinaṃ uddhareyyāti (ka.),.
 930.,.,.,.,.,.,.
 931.,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Naggavaggo tatiyo.
+.
+.
 4. Tuvaṭṭavaggo
 1. Paṭhamasikkhāpadaṃ
 932...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -337,7 +337,7 @@ Naggavaggo tatiyo.
 934.…pe….
 ,.,.,.
 935.,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 936...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 937.‘‘,’’.
@@ -346,7 +346,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 939.,.,.,.
 nānāpāvuraṇasaññā (ka.),.ekapāvuraṇasaññā (ka.),.,.,.,.
 940.,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 941....–‘‘’’,.–‘‘’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 942.‘‘,’’.
@@ -357,7 +357,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 944.,.,.,.
 ,.,.,.,.
 945.,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 946...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 947.‘‘,’’.
@@ -368,7 +368,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘,’’.,,.
 949.,,,,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 950...–‘‘’’.–‘‘,’’....bahussutāyeva (ka.).–‘‘’’.–‘‘’’.…pe…–‘‘’’…pe…,,nikkaḍḍhīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 951.‘‘,’’.
@@ -379,7 +379,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 953.,.,.,.
 ,.,.,.,.,.,.,.,.
 954.,,,,,,,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 955...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 956.‘‘–‘,.;’.evañca pana (ka.),.,;,’’.
@@ -397,7 +397,7 @@ yo koci (ka.).
 959.,.,.,.
 ,.,.,.
 960.,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 961....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 962.‘‘,’’.
@@ -408,7 +408,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 .
 ..
 964.,,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 965....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 966.‘‘,’’.
@@ -419,7 +419,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ,..
 968.,,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 969...–‘‘,,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 970.‘‘,’’.
@@ -427,7 +427,7 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ..
 972.,,,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 973..,,.–‘‘,’’....–‘‘,,–…pe….,,–
 974.‘‘,’’.
@@ -435,8 +435,8 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘’’.
 976.,,,,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Tuvaṭṭavaggo catuttho.
+.
+.
 5. Cittāgāravaggo
 1. Paṭhamasikkhāpadaṃ
 977.....–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -449,7 +449,7 @@ Tuvaṭṭavaggo catuttho.
 .
 980.,.,.,.,.,.,.
 981.,,,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 982...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 983.‘‘,’’.
@@ -458,7 +458,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 ‘‘asaṃhārimehi’’ iti kaṅkhāvitaraṇiyā sameti.
 ,.
 985.,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 986...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 987.‘‘,’’.
@@ -466,14 +466,14 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 –,,,,,.
 ,..
 989.,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 990...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 991.‘‘,’’.
 992.…pe……pe….
 ,,.
 993.,,,,,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 994..–‘‘,’’.‘’..…pe…–‘‘–‘’,’–‘’,’’…pe…,,–‘‘,’’–‘‘’’,?‘‘,’’.…pe…,,–‘‘,’’–‘‘’’,!,,…pe…,,–
 995.‘‘–‘,’–‘’,’’.
@@ -487,7 +487,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 997.,.,,.,,.
 ,,.,.,.,.
 998.,,,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 999..–‘‘’’.–‘‘;,’’.…pe…–…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1000.‘‘,’’.
@@ -499,7 +499,7 @@ Pañcamasikkhāpadaṃ niṭṭhitaṃ.
 –,,,,.
 ,.,.
 1002.,,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 1003....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1004.‘‘,’’.
@@ -509,7 +509,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 1006.,.,.,.
 ,.,..
 1007.,,,,,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 1008....–‘‘,’’.–‘‘,,.’’.–‘‘,’’?‘‘,,’’.–‘‘’’!…pe…–‘‘’’…pe…,,pakkamīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1009.‘‘,’’.
@@ -519,7 +519,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 1011.,.,.,.
 ,.,.,.,.
 1012.,,,,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 1013...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1014.‘‘,’’.
@@ -527,7 +527,7 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 tiracchānavijjaṃ (ka.).
 ,.,.
 1016.,,,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 1017...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1018.‘‘,’’.
@@ -535,8 +535,8 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 tiracchānavijjaṃ (ka.).
 ,.,.
 1020.,,,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Cittāgāravaggo pañcamo.
+.
+.
 6. Ārāmavaggo
 1. Paṭhamasikkhāpadaṃ
 1021....–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -554,7 +554,7 @@ Cittāgāravaggo pañcamo.
 1026.,.,.,.
 ,.,.,.
 1027.,,,,,,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 1028...mahantatarā (sī.)...–‘‘,’’,....;,‘‘’’.
 ..–‘‘,’’?–‘‘’’.–‘‘’’!…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -565,7 +565,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 1031.,.,.,.
 ,.,.,.,.
 1032.,,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 1033.....–‘‘’’..;.–‘‘,,;’’?‘‘,,’’.‘‘,,’’?‘‘,,–‘‘,’’,’’.–‘‘’’,.…pe…–‘‘’’…pe…,,paribhāsīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1034.‘‘,’’.
@@ -574,7 +574,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘’’,.,.
 1036.,,,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 1037...bhuttāvinī (ka.).–‘‘,’’.–‘‘,,!’’.–‘‘,’’!.…pe…–‘‘bhuttāvinī (ka.)’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1038.‘‘,’’.
@@ -587,7 +587,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 1040.,.,.,.
 ,.…pe….
 1041.,,,,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 1042..;.–‘‘,,’’.,‘‘kathaṃ aññā (syā.)’’,–‘‘,,.’’.;.–‘‘,,’’?.–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1043.‘‘,’’.
@@ -595,21 +595,21 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 –,,,.
 ‘‘’’,.,.
 1045.,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 1046...–‘‘?’’?‘‘,;’’!…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1047.‘‘,’’.
 1048.…pe……pe….
 .‘‘’’,..
 1049.,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 1050...–‘‘;kacci (syā.)’’?‘‘,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1051.‘‘,’’.
 1052.…pe……pe….
 .’’.
 1053.,,,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 1054...–‘‘’’.‘‘,,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1055.‘‘,’’.
@@ -617,14 +617,14 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ..
 1057.,,,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 1058...–‘‘’’…pe…,,‘‘’’?‘‘,’’.…pe…,,!,,…pe…,,–
 1059.‘‘–.’’.
 1060..–.
 .‘‘’’.
 1061.,,,,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 1062.....–‘‘,,’’?.…pe…–‘‘’’…pe…,,bhedāpesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1063.‘‘,’’.
@@ -632,8 +632,8 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 .......,,,,...
 1065.‘‘’’,..‘‘’’,..‘‘’’,.dhote (syā.).‘‘’’,.ālitte (syā.).‘‘’’,..‘‘’’,..
 1066.,yā kāci viññū dutiyā (syā.), yo koci viññū dutiyo (ka.),,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Ārāmavaggo chaṭṭho.
+.
+.
 7. Gabbhinīvaggo
 1. Paṭhamasikkhāpadaṃ
 1067....–‘‘,garugabbhā (syā.)’’.–‘‘’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -643,7 +643,7 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 ‘‘’’,,.....
 1070.,.,.,.,.,.,.
 1071.,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 1072....–‘‘,’’.–‘‘’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1073.‘‘,’’.
@@ -653,7 +653,7 @@ hotu (ka.)dhātī (sī. syā.).
 ‘‘’’,,.....
 1075.,.,.,.,.,.,.
 1076.,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 1077....…pe…–‘‘’’…pe…,,’’?‘‘,’’.…pe…,,!,,…pe……pe…–‘‘,,.,,.–,,.’’...–
 1078.‘‘,,....
@@ -668,7 +668,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 1082.,.,.,.
 ,.,.,.
 1083.,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 1084...–‘‘,,,,,,’’.–‘‘,,.’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe……pe…–‘‘,,.,,.–‘‘,,’’...–
 1085.‘‘,,..,..
@@ -682,7 +682,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 1088.,.,.,.
 ,.,.,.
 1089.,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 1090.....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!ūnadvādasavassāhi (ka.),,..dvādasavassā ca (syā. ka.),,..,,…pe…,,–
 1091.‘‘,’’.
@@ -692,7 +692,7 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 1093.,.,.,.
 ,.,.,.
 1094.,,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 1095....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…–‘‘,,.,,.–,,’’...–
 1096.‘‘,,....
@@ -707,7 +707,7 @@ Pañcamasikkhāpadaṃ niṭṭhitaṃ.
 1099.,.,.,.
 ,.,.,.
 1100.,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 1101...–‘‘,,,,,’’.–‘‘,,,’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…!,,…pe……pe…–‘‘,,.,,.–,,,’’....
 1102.‘‘,,..,..
@@ -721,7 +721,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 1105.,.,.,.
 ,.,.,.
 1106.,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 1107...;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1108.‘‘,’’.
@@ -730,22 +730,22 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘’’.
 1110.,,,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 1111...;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1112.‘‘,’’.
 1113.…pe……pe….
 .....
 1114.,,,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 1115....…pe…–‘‘,!,’’…pe…,,…si (ka.),?‘‘,’’.…pe…,,,!,,…pe…,,–
 1116.‘‘,’’.
 1117.…pe……pe….
 ....‘‘’’.
 1118.,,,,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
-Gabbhinivaggo sattamo.
+.
+.
 8. Kumārībhūtavaggo
 1. Paṭhamasikkhāpadaṃ
 1119.....…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe….,,…pe….,,…pe…,,–
@@ -755,7 +755,7 @@ Gabbhinivaggo sattamo.
 ‘‘’’,,.....
 1122.,.,.,.,.,.,.
 1123.,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 1124...;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe……pe…–‘‘,,..–,,’’...–
 1125.‘‘,,..,..
@@ -770,7 +770,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 1128.,.,.,.
 ,.,.,.
 1129.,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 1130...–‘‘,,,,,’’.–‘‘,,;’’.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe……pe…–‘‘,,.,,.–,,’’...–
 1131.‘‘,,....
@@ -784,7 +784,7 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 1134.,.,.,.
 ,.,.,.
 1135.,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 1136....;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1137.‘‘,’’.
@@ -793,7 +793,7 @@ Tatiyasikkhāpadaṃ niṭṭhitaṃ.
 .
 ‘‘’’,,.....
 1139.,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 1140...;.;.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe……pe…–‘‘,,.,,.–,,’’...–‘‘’’.,.,.,.,.,,.–
 1141.‘‘,,..,..
@@ -808,14 +808,14 @@ Catutthasikkhāpadaṃ niṭṭhitaṃ.
 1144.,.,.,.
 ,.,.,.
 1145.,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 1146...–‘‘,,’’,.‘’..–‘‘,;,’’.…pe…–‘‘–‘,,’‘’’’…pe…,,‘’‘‘’’āpajjīti (ka.)?‘‘,’’.…pe…,,–‘‘,,’’‘’!,,…pe…,,–
 1147.‘‘–‘,,’‘’,’’.
 1148.…pe……pe….
 ,,.‘’,.
 1149.,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 1150...–‘‘,,’’,..…pe…–‘‘–‘,,’,’’…pe…,,–‘‘,,’’,?‘‘,’’.…pe…,,–‘‘,,’’,!,,…pe…,,–
 1151.‘‘–‘,,,’,,’’.
@@ -826,7 +826,7 @@ Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
 .
 .‘‘’’.
 1153.,,,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8. Aṭṭhamasikkhāpadaṃ
 1154...‘‘,,’’,..…pe…–‘‘–,,,’’…pe…,,–‘‘’’,?‘‘,’’.…pe…,,–‘‘,,’’,!,,…pe…,,–
 1155.‘‘–‘’,,’’.
@@ -838,7 +838,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 .
 .‘‘’’.
 1157.,,,,,.
-Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 9. Navamasikkhāpadaṃ
 1158..sokavassaṃ (sī.) sokāvassaṃ (syā.).…pe…–‘‘sokavassaṃ (sī.) sokāvassaṃ (syā.)’’…pe…,,sokavassaṃ (sī.) sokāvassaṃ (syā.)vuṭṭhāpesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1159.‘‘,’’.
@@ -847,7 +847,7 @@ Aṭṭhamasikkhāpadaṃ niṭṭhitaṃ.
 ,...
 ‘‘’’,,...;.
 1161.,,.
-Navamasikkhāpadaṃ niṭṭhitaṃ.
+.
 10. Dasamasikkhāpadaṃ
 1162...–‘‘’’!.…pe…–‘‘’’…pe…,,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1163.‘‘,’’.
@@ -855,7 +855,7 @@ Navamasikkhāpadaṃ niṭṭhitaṃ.
 .....
 ,,.....
 1165.,,,.
-Dasamasikkhāpadaṃ niṭṭhitaṃ.
+.
 11. Ekādasamasikkhāpadaṃ
 1166..–‘‘’’–‘‘,,’’.…pe…–‘‘’’…pe…,,vuṭṭhāpesīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1167.‘‘,’’.
@@ -863,7 +863,7 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 ...
 ‘‘’’,,.....
 1169.,,.
-Ekādasamasikkhāpadaṃ niṭṭhitaṃ.
+.
 12. Dvādasamasikkhāpadaṃ
 1170..,.manussā vihāracārikaṃ āhiṇḍantā passitvā (sī.)–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1171.‘‘,’’.
@@ -871,7 +871,7 @@ Ekādasamasikkhāpadaṃ niṭṭhitaṃ.
 ..
 ‘‘’’,,.....
 1173.,,.
-Dvādasamasikkhāpadaṃ niṭṭhitaṃ.
+.
 13. Terasamasikkhāpadaṃ
 1174....manussā vihāracārikaṃ āhiṇḍantā passitvā (sī.)–‘‘!’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1175.‘‘,’’.
@@ -879,8 +879,8 @@ Dvādasamasikkhāpadaṃ niṭṭhitaṃ.
 ..
 ‘‘’’,,.....
 1177.,,.
-Terasamasikkhāpadaṃ niṭṭhitaṃ.
-Kumārībhūtavaggo aṭṭhamo.
+.
+.
 9. Chattupāhanavaggo
 1. Paṭhamasikkhāpadaṃ
 1178...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
@@ -895,7 +895,7 @@ Kumārībhūtavaggo aṭṭhamo.
 1182.,.,.,.
 ,.,.,.,.,.
 1183.,,,,.
-Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
+.
 2. Dutiyasikkhāpadaṃ
 1184...–‘‘,’’!.….…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 ‘‘,’’.
@@ -910,7 +910,7 @@ Paṭhamasikkhāpadaṃ niṭṭhitaṃ.
 1188.,.,.,.
 ,.,.,.
 1189.,,,.
-Dutiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 3. Tatiyasikkhāpadaṃ
 1190...–‘‘,’’.–‘‘’’..–‘‘,’’!.….…–‘‘’’…pe…,,’’dhāresīti (ka.)?‘‘,’’.…pe…,,!,,…pe…,,–
 1191.‘‘,’’.
@@ -918,35 +918,35 @@ Dutiyasikkhāpadaṃ niṭṭhitaṃ.
 .
 ,.
 1193.,,,.
-Tatiyasikkhāpadaṃ niṭṭhitaṃ.
+.
 4. Catutthasikkhāpadaṃ
 1194...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1195.‘‘,’’.
 1196.…pe……pe….
 .,.
 1197.,,.
-Catutthasikkhāpadaṃ niṭṭhitaṃ.
+.
 5. Pañcamasikkhāpadaṃ
 1198...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1199.‘‘,’’.
 1200.…pe……pe….
 ...,.
 1201.,,.
-Pañcamasikkhāpadaṃ niṭṭhitaṃ.
+.
 6. Chaṭṭhasikkhāpadaṃ
 1202...–‘‘,’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1203.‘‘,’’.
 1204.…pe……pe….
 ...,.
 1205.,,,.
-Chaṭṭhasikkhāpadaṃ niṭṭhitaṃ.
+.
 7. Sattamasikkhāpadaṃ
 1206...–‘‘’’!.…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1207.‘‘,’’.
 1208.…pe……pe….
 .ubbaṭṭāpeti (sī.),.,.
 1209.,,,.
-Sattamasikkhāpadaṃ niṭṭhitaṃ.
+.
 8-9-10. Aṭṭhama-navama-dasamasikkhāpadaṃ
 1210..…pe……pe….–‘‘,’’!.…pe…–…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1211.‘‘(sikkhamānāya…pe… sāmaṇeriyā…pe…),’’.
@@ -957,7 +957,7 @@ Sattamasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ,.
 1213.ābādhappaccayā (ka.),,,.
-Aṭṭhama navama dasamasikkhāpadāni niṭṭhitāni.
+.
 11. Ekādasamasikkhāpadaṃ
 1214...–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1215.‘‘,’’.
@@ -966,7 +966,7 @@ Aṭṭhama navama dasamasikkhāpadāni niṭṭhitāni.
 1217.,.,.,.
 ,.,.,.
 1218.,,,,.
-Ekādasamasikkhāpadaṃ niṭṭhitaṃ.
+.
 12. Dvādasamasikkhāpadaṃ
 1219...–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1220.‘‘,’’.
@@ -975,7 +975,7 @@ Ekādasamasikkhāpadaṃ niṭṭhitaṃ.
 1222.,.,.,.
 ,.,.,.
 1223.,,,.
-Dvādasamasikkhāpadaṃ niṭṭhitaṃ.
+.
 13. Terasamasikkhāpadaṃ
 1224..asaṅkacchikā (syā.)..–‘‘’’...…pe…–‘‘’’…pe…,,?‘‘,’’.…pe…,,!,,…pe…,,–
 1225.‘‘asaṅkacchikā (syā.),’’.
@@ -984,8 +984,8 @@ Dvādasamasikkhāpadaṃ niṭṭhitaṃ.
 ,.
 ..
 1227.,,,,,,,.
-Terasamasikkhāpadaṃ niṭṭhitaṃ.
-Chattupāhanavaggo navamo.
+.
+.
 ,,.–‘‘’’?–‘‘’’?–‘‘’’?,,.
-Khuddakaṃ samattaṃ.
-Bhikkhunivibhaṅge pācittiyakaṇḍaṃ niṭṭhitaṃ.
+.
+.

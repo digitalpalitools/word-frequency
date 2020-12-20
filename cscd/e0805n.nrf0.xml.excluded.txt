@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Padarūpasiddhi
 Ganthārambha
 
@@ -73,7 +73,7 @@ Saññāvidhāna
 ,,,.,.
 ,.,.
 ,..,.....
-Iti saññāvidhānaṃ.
+.
 Sarasandhividhāna
 .
 ,,,,,,,,,,,.
@@ -199,7 +199,7 @@ Sarasandhividhāna
 ?,,.
 ..,,,,.
 ?.
-Iti sarasandhividhānaṃ niṭṭhitaṃ.
+.
 Itthiliṅga
 .
 .
@@ -246,7 +246,7 @@ Itthiliṅga
 181..
 .‘‘’’.
 ,.,,,.,,,.
-Ākārantaṃ.
+.
 ;
 ,,.
 ‘‘,’’.
@@ -272,7 +272,7 @@ Itthiliṅga
 ,;
 ,.
 .
-Ikārantaṃ.
+.
 ;
 ‘‘’’‘‘,’’.
 187..
@@ -318,7 +318,7 @@ Ikārantaṃ.
 ,,.,,,,,,,.
 ‘‘’’‘‘’’,,.‘‘’’,,‘‘’’,..
 ,,,,,,.
-Īkārantaṃ.
+.
 .
 ..
 ,,,,,,,,,,,,,,,.
@@ -326,17 +326,17 @@ Ikārantaṃ.
 ..‘‘’’‘‘’’.
 ,,,,,,,‘‘’’,.,,,,,,,,.
 ,,,.
-Ukārantaṃ.
+.
 .
 ,,,,,.
 ,;
 ,.
-Ūkārantaṃ.
+.
 .
 .
 ,;
 ,.
-Itthiliṅgaṃ niṭṭhitaṃ.
+.
 Napuṃsakaliṅga
 .
 .
@@ -377,13 +377,13 @@ Napuṃsakaliṅga
 ..
 ‘‘’’,.,,.
 ,‘‘’’.,.
-Akārantaṃ.
+.
 .
 ‘‘’’–
 ‘‘’’‘‘’’,,..
 ,.
 ..,,,.
-Ākārantaṃ.
+.
 .
 ,,.
 ‘‘’’.
@@ -391,25 +391,25 @@ Akārantaṃ.
 .
 ,,,,,,,,.
 .
-Ikārantaṃ.
+.
 .
 ‘‘’’‘‘’’,.,,,,,.
 ..
-Īkārantaṃ.
+.
 ..
 ,,,,,,.,,.
 .
-Ukārantaṃ.
+.
 .
 ,,.,,,,,,.
 .
-Ūkārantaṃ.
+.
 .
 ‘‘’’‘‘’’,,.,.
-Okārantaṃ.
+.
 -;
 ,.
-Napuṃsakaliṅgaṃ niṭṭhitaṃ.
+.
 Sabbanāma
 .
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,.
@@ -502,7 +502,7 @@ Pakatisandhividhāna
 ?.
 36..
 .–,,,,,,,,.
-Iti pakatisandhividhānaṃ niṭṭhitaṃ.
+.
 Byañjanasandhividhāna
 .
 ‘‘’’,‘‘,’’.
@@ -623,7 +623,7 @@ Byañjanasandhividhāna
 ,,,,,,,,,,.
 ,.
 ,,,,.
-Iti byañjanasandhividhānaṃ niṭṭhitaṃ.
+.
 Niggahītasandhividhāna
 .
 ,,,,‘‘’’,‘‘’’.
@@ -687,10 +687,10 @@ Niggahītasandhividhāna
 ,.
 ‘‘’’,–,,,.
 ‘‘’’‘‘’’‘‘’’,.
-Iti niggahītasandhividhānaṃ niṭṭhitaṃ.
+.
 ,
 ;
 ,
 .
-Iti rūpasiddhiyaṃ sandhikaṇḍo
-Paṭhamo.
+
+.

@@ -270,7 +270,7 @@ Cūḷasīlavaṇṇanā
 ..
 ..–,–‘‘,,’’.‘‘,’’–‘‘,,’’.–.–‘‘,’’?‘‘,’’.‘‘,,’’.‘‘’’.,,.,.–,,,...
 ...,.,.,....…pe….,,.
-Ettāvatā cūḷasīlaṃ niṭṭhitaṃ hoti.
+.
 Majjhimasīlavaṇṇanā
 11.‘‘’’...‘’,‘’,,,..,.
 .,..,,,,,,,.,,,,,.,,.,,..‘‘’’.‘‘’’.,.
@@ -301,7 +301,7 @@ Majjhimasīlavaṇṇanā
 .,;.,.
 19......
 20.,.....,,,,...
-Ettāvatā majjhimasīlaṃ niṭṭhitaṃ hoti.
+.
 Mahāsīlavaṇṇanā
 21....–‘‘’’?,,‘‘’’.‘‘’’‘‘’’..
 ,‘‘,’’.,;,.,....,.
@@ -315,7 +315,7 @@ Mahāsīlavaṇṇanā
 26..,.‘,,’.‘,,’.‘,’.‘,’.....,,.,,.
 .,....,,,.......‘‘,’’.
 27.,...,.,.,..‘‘’’...................
-Ettāvatā mahāsīlaṃ niṭṭhitaṃ hoti.
+.
 Pubbantakappikasassatavādavaṇṇanā
 28.–‘‘,,’’.,,,.
 ‘‘,;
@@ -345,7 +345,7 @@ Pubbantakappikasassatavādavaṇṇanā
 ,,...,,.
 ,‘‘,’’,.‘‘,,,(paṭi. ma. 1.50).’’;‘‘,,,.’’(paṭi. ma. 1.50),‘‘,’’(saṃ. ni. 3.26),‘‘,’’,‘‘,’’,,;,,.
 37.,–‘‘,,,’’,‘‘,,’’…pe….,,,,.
-Paṭhamabhāṇavāravaṇṇanā niṭṭhitā.
+.
 Ekaccasassatavādavaṇṇanā
 38..–,..
 39.......,.....,..
@@ -434,5 +434,5 @@ Vivaṭṭakathādivaṇṇanā
 ,.
 ,;
 ,.
-Iti sumaṅgalavilāsiniyā dīghanikāyaṭṭhakathāyaṃ
-Brahmajālasuttavaṇṇanā niṭṭhitā.
+
+.

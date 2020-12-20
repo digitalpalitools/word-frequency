@@ -19,7 +19,7 @@
 ‘‘,;
 ,’’.
 .
-Gandhadhūpiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Udakapūjakattheraapadānaṃ
 7.
 ‘‘,;
@@ -42,7 +42,7 @@ Gandhadhūpiyattherassāpadānaṃ paṭhamaṃ.
 13.
 ‘‘…pe…’’.
 .
-Udakapūjakattherassāpadānaṃ dutiyaṃ.
+.
 3. Punnāgapupphiyattheraapadānaṃ
 14.
 ‘‘,;
@@ -59,7 +59,7 @@ Udakapūjakattherassāpadānaṃ dutiyaṃ.
 18.
 ‘‘…pe…’’.
 .
-Punnāgapupphiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Ekadussadāyakattheraapadānaṃ
 19.
 ‘‘,;
@@ -120,7 +120,7 @@ Punnāgapupphiyattherassāpadānaṃ tatiyaṃ.
 37.
 ‘‘…pe…’’.
 .
-Ekadussadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Phusitakampiyattheraapadānaṃ
 38.
 ‘‘sabbatthapi evameva dissati
@@ -168,7 +168,7 @@ kusumbhodaka… (sī. syā.),.
 52.
 ‘‘…pe…’’.
 .
-Phusitakampiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Pabhaṅkarattheraapadānaṃ
 53.
 ‘‘,;
@@ -233,7 +233,7 @@ kaṇḍu (syā.),.
 73.
 ‘‘…pe…’’.
 .
-Pabhaṅkarattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Tiṇakuṭidāyakattheraapadānaṃ
 74.
 ‘‘,;
@@ -283,7 +283,7 @@ Pabhaṅkarattherassāpadānaṃ chaṭṭhaṃ.
 89.
 ‘‘…pe…’’.
 .
-Tiṇakuṭidāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Uttareyyadāyakattheraapadānaṃ
 90.
 ‘‘,;
@@ -348,7 +348,7 @@ lābhimhi (syā.),.
 110.
 ‘‘…pe…’’.
 .
-Uttareyyadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Dhammasavaniyattheraapadānaṃ
 111.
 ‘‘,;
@@ -404,7 +404,7 @@ na koci paṭivajjāmi (ka.),ayaṃ gāthā upari 43 vagge sattamāpadāne purim
 128.
 ‘‘…pe…’’.
 .
-Dhammasavaniyattherassāpadānaṃ navamaṃ.
+.
 10. Ukkhittapadumiyattheraapadānaṃ
 129.
 ‘‘,;
@@ -448,8 +448,8 @@ satasahassasissehi (ka.),.
 142.
 ‘‘…pe…’’.
 .
-Ukkhittapadumiyattherassāpadānaṃ dasamaṃ.
-Gandhodakavaggo catutiṃsatimo.
+.
+.
 –
 ,;
 ,.

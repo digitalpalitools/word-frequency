@@ -10,7 +10,7 @@
   sīhanādikānaṃ  yadidaṃ piṇḍolabhāradvājo
   dhammakathikānaṃ yadidaṃ puṇṇo mantāṇiputto
   saṃkhittena bhāsitassa vitthārena atthaṃ vibhajantānaṃ yadidaṃ mahākaccānoti
-
+vaggo paṭhamo
 
  etadaggaṃ  bhikkhave mama sāvakānaṃ bhikkhūnaṃ manomayaṃ kāyaṃ abhinimminantānaṃ yadidaṃ cūḷapanthako 
   cetovivaṭṭakusalānaṃ yadidaṃ cūḷapanthako
@@ -23,7 +23,7 @@
   kalyāṇavākkaraṇānaṃ yadidaṃ soṇo kuṭikaṇṇo
   lābhīnaṃ yadidaṃ sīvali
   saddhādhimuttānaṃ yadidaṃ vakkalīti
-
+vaggo dutiyo
 
  etadaggaṃ  bhikkhave mama sāvakānaṃ bhikkhūnaṃ sikkhākāmānaṃ yadidaṃ  rāhulo
   saddhāpabbajitānaṃ  yadidaṃ raṭṭhapālo
@@ -35,7 +35,7 @@
   khippābhiññānaṃ yadidaṃ bāhiyo dārucīriyo
   cittakathikānaṃ yadidaṃ kumārakassapo
   paṭisambhidāpattānaṃ yadidaṃ mahākoṭṭhitoti 
-
+vaggo tatiyo
 
  etadaggaṃ bhikkhave mama sāvakānaṃ bhikkhūnaṃ bahussutānaṃ yadidaṃ ānando
   satimantānaṃ  yadidaṃ ānando
@@ -53,7 +53,7 @@
   tejodhātukusalānaṃ yadidaṃ sāgato
   paṭibhāneyyakānaṃ yadidaṃ rādho
   lūkhacīvaradharānaṃ  yadidaṃ mogharājāti
-
+vaggo catuttho
 
  etadaggaṃ  bhikkhave mama sāvikānaṃ bhikkhunīnaṃ rattaññūnaṃ yadidaṃ mahāpajāpatigotamī
   mahāpaññānaṃ yadidaṃ khemā
@@ -68,7 +68,7 @@
   mahābhiññappattānaṃ yadidaṃ bhaddakaccānā
   lūkhacīvaradharānaṃ yadidaṃ kisāgotamī
   saddhādhimuttānaṃ  yadidaṃ siṅgālakamātāti 
-
+vaggo pañcamo
 
  etadaggaṃ  bhikkhave mama sāvakānaṃ upāsakānaṃ paṭhamaṃ saraṇaṃ gacchantānaṃ yadidaṃ  tapussabhallikā  vāṇijā
   dāyakānaṃ yadidaṃ sudatto gahapati anāthapiṇḍiko
@@ -80,7 +80,7 @@
   aveccappasannānaṃ yadidaṃ sūrambaṭṭho 
   puggalappasannānaṃ yadidaṃ jīvako komārabhacco
   vissāsakānaṃ  yadidaṃ nakulapitā gahapatīti
-
+vaggo chaṭṭho
 
  etadaggaṃ  bhikkhave mama sāvikānaṃ upāsikānaṃ paṭhamaṃ saraṇaṃ gacchantīnaṃ yadidaṃ sujātā seniyadhītā 
   dāyikānaṃ yadidaṃ visākhā migāramātā
@@ -92,5 +92,5 @@
   aveccappasannānaṃ yadidaṃ kātiyānī
   vissāsikānaṃ yadidaṃ nakulamātā gahapatānī
   anussavappasannānaṃ yadidaṃ kāḷī upāsikā kulagharikā  ti
-
-
+vaggo sattamo
+etadaggavaggo cuddasamo

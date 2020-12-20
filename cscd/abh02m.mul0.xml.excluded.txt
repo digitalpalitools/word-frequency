@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Vibhaṅgapāḷi
 1. Khandhavibhaṅgo
@@ -61,7 +61,7 @@ Vibhaṅgapāḷi
 30.?,.,.,.,.,.,..
 31.?;;;;;.;;;;;.;.;–.
 ?;;.;;.;.;–..
-Suttantabhājanīyaṃ.
+.
 2. Abhidhammabhājanīyaṃ
 32.–,,,,.
 1. Rūpakkhandho
@@ -77,7 +77,7 @@ Suttantabhājanīyaṃ.
 –,,,,,,,,..
 –,,,,,,,,,..
 –,,,,,,,,,,..
-Ayaṃ vuccati rūpakkhandho.
+.
 2. Vedanākkhandho
 34.?–.
 –,.
@@ -98,7 +98,7 @@ Ayaṃ vuccati rūpakkhandho.
 37.–.
 –,.
 –,,.…pe…,,…pe…..
-Dukamūlakaṃ.
+.
 38.–.
 –,.
 –,,…pe…..
@@ -114,7 +114,7 @@ Dukamūlakaṃ.
 42.–.
 –,.,.,.,.,.,.,.,…pe…,.
 –,,…pe…..
-Tikamūlakaṃ.
+.
 43.–.
 –,.
 –,,…pe…..
@@ -172,7 +172,7 @@ Tikamūlakaṃ.
 61.–.
 –,.
 –,,…pe…..
-Ubhatovaḍḍhakaṃ.
+.
 –,,,,,,..
 –…pe…,,,,,,..
 –,,;…pe……pe……pe……pe…,,;,,,,,..
@@ -180,7 +180,7 @@ Ubhatovaḍḍhakaṃ.
 –,,,;…pe……pe……pe……pe…,,,;,,,,,..
 –,,,,,,;…pe……pe……pe……pe…,,,,,,;,,,,,..
 –…pe…,,,,,,;…pe……pe……pe……pe……pe…,,,,,,;,,,,,..
-Ayaṃ vuccati vedanākkhandho.
+.
 3. Saññākkhandho
 62.?–.
 –,.
@@ -205,7 +205,7 @@ Ayaṃ vuccati vedanākkhandho.
 –,.
 –,,.…pe…,,…pe…..
 (Yathā kusalattike vitthāro, evaṃ sabbepi tikā vitthāretabbā.)
-Dukamūlakaṃ.
+.
 67.–.
 –,.
 –,,…pe…..
@@ -218,7 +218,7 @@ Dukamūlakaṃ.
 70.–.
 –,…pe…,.
 …pe…,,…pe…..
-Tikamūlakaṃ.
+.
 71.–.
 –,.
 –,,…pe…..
@@ -282,7 +282,7 @@ Tikamūlakaṃ.
 91.–.
 –,.
 –,,…pe…..
-Ubhatovaḍḍhakaṃ.
+.
 –,,,,,,..
 –,,,,,,…pe…,,,,,,..
 –,,;…pe……pe……pe……pe…,,;,,,,,..
@@ -290,7 +290,7 @@ Ubhatovaḍḍhakaṃ.
 –,,,,…pe……pe……pe……pe…,,,,…pe…..
 –,,,,,,,…pe……pe……pe……pe…,,,,,,,…pe…..
 –…pe…,,,,,,,…pe……pe……pe……pe…,,,,,,,,,,,,..
-Ayaṃ vuccati saññākkhandho.
+.
 4. Saṅkhārakkhandho
 92.?–.
 –,.
@@ -315,7 +315,7 @@ Ayaṃ vuccati saññākkhandho.
 95.–.
 –,.
 –…pe…,,…pe…..
-Dukamūlakaṃ.
+.
 96.–.
 –,.
 –,,…pe…..
@@ -328,7 +328,7 @@ Dukamūlakaṃ.
 99.–.
 –,.
 –,,…pe…..
-Tikamūlakaṃ.
+.
 100.–.
 –,.
 –,,…pe…..
@@ -392,7 +392,7 @@ Tikamūlakaṃ.
 120.–.
 –,.
 –,,…pe…..
-Ubhatovaḍḍhakaṃ.
+.
 –,,;,,,..
 –,,;,,,…pe…,;,,,..
 –,,;…pe……pe……pe……pe…,,;…pe…..
@@ -400,7 +400,7 @@ Ubhatovaḍḍhakaṃ.
 –,,,;…pe……pe……pe……pe…,,,;…pe…..
 –,,,,,,;…pe……pe……pe……pe…,,,,,,;,,,,,..
 –,,…pe…,,,,,,;…pe……pe……pe……pe……pe…,,,,,,;,,,,,..
-Ayaṃ vuccati saṅkhārakkhandho.
+.
 5. Viññāṇakkhandho
 121.?–.
 –,.
@@ -424,7 +424,7 @@ Ayaṃ vuccati saṅkhārakkhandho.
 124.–.
 –,.
 –,,.…pe…,,…pe…..
-Dukamūlakaṃ.
+.
 125.–.
 –,.
 –,,…pe…..
@@ -437,7 +437,7 @@ Dukamūlakaṃ.
 128.–.
 –,…pe…,.
 –,,…pe…..
-Tikamūlakaṃ.
+.
 129.–.
 –,.
 –,,…pe…..
@@ -501,7 +501,7 @@ Tikamūlakaṃ.
 149.–.
 –,.
 –,,…pe…..
-Ubhatovaḍḍhakaṃ.
+.
 –,,,,,,..
 –,,,,,,…pe…,,,,,,..
 –,,;…pe……pe……pe……pe…,,;,,,,,..
@@ -509,8 +509,8 @@ Ubhatovaḍḍhakaṃ.
 –,,,;…pe……pe……pe……pe…,,,;,,,,,..
 –,,,,,,,…pe…;…pe……pe……pe……pe…,,,,,,,…pe…..
 –…pe…,,,,,,;…pe……pe……pe……pe……pe…,,,,,,;,,,,,..
-Ayaṃ vuccati viññāṇakkhandho.
-Abhidhammabhājanīyaṃ.
+.
+.
 3. Pañhāpucchakaṃ
 150.–,,,,.
 151.,,…pe…,?
@@ -521,7 +521,7 @@ Abhidhammabhājanīyaṃ.
 .,,,–‘‘’’,‘‘’’,‘‘’’;,,;,,..,,,–‘‘’’,‘‘’’,‘‘’’;,,..,,,–‘‘’’,‘‘’’,‘‘’’..,,.
 2. Dukaṃ
 153..,..,..,.–‘‘’’,‘‘’’.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’.–‘‘’’,‘‘’’.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’..,.,,–‘‘’’,‘‘’’.
-Sappaccayā, saṅkhatā.
+,.
 .,..,....,;,.
 .,..,..,.–‘‘’’,.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’.–‘‘’’,‘‘’’.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’..,,–‘‘’’,‘‘’’.
 .,..,..,.–‘‘’’,‘‘’’.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’.–‘‘’’,‘‘’’.–‘‘’’,,–‘‘’’.,,–‘‘’’,‘‘’’..,,–‘‘’’,‘‘’’.
@@ -534,5 +534,5 @@ Sappaccayā, saṅkhatā.
 –‘‘’’,‘‘’’.–‘‘’’,,–’’.,,–‘‘’’,‘‘’’..,,–‘‘’’,‘‘’’.
 .,..,..,..,..,..,.,,..,..,..,.
 .,..,..,..,..,..,..,..,.
-Pañhāpucchakaṃ.
-Khandhavibhaṅgo niṭṭhito.
+.
+.

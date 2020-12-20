@@ -149,20 +149,20 @@ Kāyakammadvārakathā
 ,.
 ,;
 ,.
-Evamevaṃ.
+.
 ,;
 ,.
 ,.?‘‘’’,.,’.‘.?.,...,.’.
-Kāyakammadvārakathā niṭṭhitā.
+.
 Vacīkammadvārakathā
 .‘‘,,,’’(saṃ. ni. 1.213);.‘‘…pe…’’(vibha. 206),.‘‘’’(dha. sa. 850),..,.–‘‘?,.,’’(dha. sa. 636).
 ‘’..‘’;‘’,;‘,’.‘‘’’..‘’.....,..
 ‘,,’‘’..‘,’‘’.,..,,,,,,..
-Vacīkammadvārakathā niṭṭhitā.
+.
 Manokammadvārakathā
 .,,,..,,.
 –?,,,,,.,,,,,?...?.–.,...
-Manokammadvārakathā niṭṭhitā.
+.
 Kammakathā
 ,.–.?,.–
 ‘‘,,,’’(a. ni. 6.63; kathā. 539).‘‘,,,,,;,,’’(saṃ. ni. 2.25; a. ni. 4.171).‘‘,,,;,,…pe…,,,,,,…pe…,,,’’(kathā. 539; a. ni. 10.217 thokaṃ visadisaṃ).‘‘,,–,,,…pe…;,,’’(ma. ni. 3.300; kathā. 539).
@@ -200,7 +200,7 @@ Kammakathā
 ‘’.,.
 ,...‘’‘’‘’,...,...
 ,.,.‘’,‘’...
-Kammakathā niṭṭhitā.
+.
 ‘’.……….,,.………….………….
 …………–.‘’.,..
 ,,..,,...,,...,,,,..,,,,..,,,..,……………….
@@ -230,7 +230,7 @@ Akusalakammapathakathā
 ‘’..;.,.......
 ‘’.‘’,..,.....;....‘’‘’,.;..
 ‘’...;..;..
-Akusalakammapathakathā niṭṭhitā.
+.
 Kusalakammapathakathā
 ..,,.‘‘’’(dha. sa. 299-301),–,,.
 ‘’‘’–..‘’.‘,,’...‘’.–‘’.–‘’.‘,’.‘’..‘’..
@@ -247,7 +247,7 @@ Kammapathasaṃsandanakathā
 .,,.,,,.,,.
 ;..;,.,,;.,;...
 –,..,;‘,’;,;,;,,.‘‘…pe……pe…’’.
-Dvārakathā niṭṭhitā.
+.
 –,.…pe…...,..,,‘’.–,.‘’;‘,,’.‘’,‘’...
 –…pe….…pe…‘’.–.,’‘…pe…,’.
 Dhammuddesavāro
@@ -381,7 +381,7 @@ Yevāpanakavaṇṇanā
 ––‘,’.‘’...‘’..‘’..‘’..‘’.‘’..‘’..
 ...
 .
-Dhammuddesavārakathā niṭṭhitā.
+.
 Kāmāvacarakusalaṃ niddesavārakathā
 2.‘’.
 –,,.
@@ -443,7 +443,7 @@ Kāmāvacarakusalaṃ niddesavārakathā
 –,,‘’.,,,‘’.,,.‘’.
 ...,.,.
 ,‘’.
-Niddesavārakathā niṭṭhitā.
+.
 ,.
 Koṭṭhāsavāro
 58-120...‘’.’..
@@ -455,26 +455,26 @@ Koṭṭhāsavāro
 .–.,,.‘‘‘,,’’(saṃ. ni. 4.245)‘,’,?..–‘‘’’(ma. ni. 3.431)..,‘’.
 .............,.,,.
 ....
-Saṅgahavāro niṭṭhito.
-Koṭṭhāsavārotipi etasseva nāmaṃ.
+.
+.
 Suññatavāro
 121-145...‘’.‘’.?....–,....,,‘,’.....
-Suññatavāro niṭṭhito.
-Niṭṭhitā ca tīhi mahāvārehi maṇḍetvā niddiṭṭhassa
-Paṭhamacittassa atthavaṇṇanā.
+.
+
+.
 Dutiyacittaṃ
 146.‘‘’’..,...–..,.
 –,‘,’–‘,’.,,‘,’.
-Dutiyacittaṃ.
+.
 Tatiyacittaṃ
 147-148...‘’,...
-Tatiyacittaṃ.
+.
 Catutthacittaṃ
 149....
-Catutthacittaṃ.
+.
 Pañcamacittaṃ
 150.........
-Pañcamacittaṃ.
+.
 Chaṭṭhacittādi
 156-9......
 Puññakiriyavatthādikathā
@@ -501,8 +501,8 @@ Puññakiriyavatthādikathā
 ‘’.‘’.‘’.‘’.‘’.‘’..,,...
 –,,,.‘’.‘’.‘’.‘’..(dha. pa. aṭṭha. 2.225 puṇṇadāsīvatthu)(dha. pa. aṭṭha. 1.67 sumanamālākāravatthu).
 ‘’....,,...
-Aṭṭhasāliniyā dhammasaṅgahaṭṭhakathāya
-Kāmāvacarakusalaniddeso samatto.
+
+.
 Rūpāvacarakusalavaṇṇanā
 Catukkanayo paṭhamajjhānaṃ
 160.....–.–,.?.‘‘,,,’’(saṃ. ni. 3.5; 4.99; 5.1071; netti. 40; mi. pa. 2.1.15).,‘’.,,.‘‘,,’’(ma. ni. 1.153).
@@ -524,7 +524,7 @@ Catukkanayo paṭhamajjhānaṃ
 ,..‘‘’’(vibha. 570)...–‘‘,’’(vibha. 512, 571).
 .....?,,,..(visuddhi. 1.51 ādayo).....
 .…pe….,....
-Paṭhamaṃ.
+.
 Dutiyajjhānaṃ
 161-162.,;.,,.–.‘‘’’(vibha. 573).,,.
 .,.,.‘’.‘’.
@@ -535,7 +535,7 @@ Dutiyajjhānaṃ
 ,;,;.,,,,.,.
 .,‘’,...
 ....,..
-Dutiyaṃ.
+.
 Tatiyajjhānaṃ
 163..‘’-..,‘’...‘’.,.
 ,.–?‘‘’’(ma. ni. 2.132),,.–‘’.
@@ -554,15 +554,15 @@ Tatiyajjhānaṃ
 ...,.
 ,..‘’‘,’;,‘’.‘’;,,,‘’....
 ‘’..–?,‘’.?.,.,.
-Niṭṭhitā upekkhako ca viharatīti etassa
-Sabbaso atthavaṇṇanā.
+
+.
 ...,,.,,.
 –,–,,,.,,.?,,.,,.,.
 ,,,,,‘’.
 ‘‘’’–?‘’–.
 ?.,,‘’,;‘’.
 ......
-Tatiyaṃ.
+.
 Catutthajjhānaṃ
 165...;.?....
 ,‘‘?,,…pe…,.……?,,…pe….’’(saṃ. ni. 5.510)?.,.,.,,.,..,.,;;,,.,..,,,.‘’.
@@ -572,7 +572,7 @@ Catutthajjhānaṃ
 ..,..–‘‘,’’(vibha. 597)....
 ––..‘’....
 ...(dha. sa. 165)....
-Catukkanayo niṭṭhito.
+.
 Pañcakanayo
 167..,.,..,..,..,..‘’.
 ––,,,,.‘’.
@@ -589,7 +589,7 @@ Pañcakanayo
 ,..
 .
 ..
-Pañcakanayo niṭṭhito.
+.
 ..
 Paṭipadācatukkaṃ
 176-180.,.....
@@ -599,22 +599,22 @@ Paṭipadācatukkaṃ
 .,.,.
 ,..
 ‘’(vibha. 799),......,.
-Paṭipadācatukkaṃ.
+.
 Ārammaṇacatukkaṃ
 181...,,.,.,.....
-Ārammaṇacatukkaṃ.
+.
 Ārammaṇapaṭipadāmissakaṃ
 186..,..
 ?.;,.,.,.,,...
 ,.
 ,.
 ,,,..‘‘,’’....
-Pathavīkasiṇaṃ.
+.
 203.,..(visuddhi 1.91 ādayo).(ma. ni. 2.250).,.
 ,,,.,...,.?.,,,,....(visuddhi. 1.98-99).
 ‘’(dī. ni. 1.239; paṭi. ma. 1.102),;,,;,,;,,;,.(visuddhi. 2.365-366).
 ,.;.;.,.;.,.;..(visuddhi. 2.367).
-Kasiṇakathā.
+.
 Abhibhāyatanakathā
 204.,,....‘’,‘,’...–.,(a. ni. aṭṭha. 3.8.65).
 .‘‘’,‘,,’..
@@ -622,14 +622,14 @@ Abhibhāyatanakathā
 .,.‘,’(a. ni. aṭṭha. 3.8.65).,,,..(visuddhi. 1.43).
 ,‘‘’’(dī. ni. 2.173; ma. ni. 2.249; a. ni. 8.65),?.,....,..,,,.
 246..,,,,.;.....(visuddhi. 1.93 ādayo)..
-Abhibhāyatanakathā.
+.
 Vimokkhakathā
 248.,,.
 ?.?,...
 ,........
 ...
 .‘’,,‘’…pe…,,.‘‘?…pe…,;………pe…,,’’(paṭi. ma. 1.212)...,,.,...
-Vimokkhakathā.
+.
 Brahmavihārakathā
 251....,(visuddhi. 1.240)..
 ,,,.,,,.;..
@@ -661,7 +661,7 @@ Brahmavihārakathā
 ,
 .
 .?.?..?..
-Brahmavihārakathā.
+.
 Asubhakathā
 263..
 ,,.......,,,.....,..........‘’...,,.........
@@ -677,9 +677,9 @@ Asubhakathā
 ...........
 ,,,,,.‘’,‘’,.
 ..,,...
-Asubhakathā.
+.
 ,?;.;,..
-Rūpāvacarakusalakathā niṭṭhitā.
+.
 Arūpāvacarakusalavaṇṇanā
 Ākāsānañcāyatanaṃ
 265..,,.....‘’(dha. sa. 248; dī. ni. 2.129).‘‘’’(dha. sa. 244-246; dī. ni. 2.173);.,..
@@ -733,13 +733,13 @@ Nevasaññānāsaññāyatanaṃ
 ,.
 ,;
 ,.(visuddhi. 1.293);
-Arūpāvacarakusalakathā niṭṭhitā.
+.
 Tebhūmakakusalavaṇṇanā
 269.,....,..,,,,.,.,..
 .,,,,...,,,.
 ?(paṭṭhā. 2.14.1).....,,.,,.,,.,,.,,.,,...,,,,,,.
 .....,....‘,,,’....,,.
-Tebhūmakakusalaṃ.
+.
 Lokuttarakusalavaṇṇanā
 277..?,;(paṭi. ma. 2.43)..
 ..,,,.,.,.
@@ -826,18 +826,18 @@ Lokuttarakusalaṃ pakiṇṇakakathā
 ‘,.’’(cūḷani. ajitamāṇavapucchāniddesa 6)..
 ‘’–?..,.?...–‘‘,,’’(a. ni. 7.61).,?,,,.,,,.
 .,,,.,,,.
-Pakiṇṇakakathā niṭṭhitā.
+.
 Paṭhamamaggavīsatimahānayo
 357.,,,,,,,,,,,,,,,,,,,,.‘,’.‘’,…pe…‘’,.‘’.
 .,…pe….‘’.,..
 358.....
-Paṭhamamaggo niṭṭhito.
+.
 Dutiyamaggo
 361...–.,,,;,.,,..,.
 –‘,,’....–.
 ....
 .....
-Dutiyamaggo niṭṭhito.
+.
 Tatiyacatutthamaggā
 362..
 ......
@@ -864,7 +864,7 @@ Catumagganayasahassaṃ
 .‘’..
 .‘’..
 .‘’...
-Kusalā dhammātipadassa vaṇṇanā niṭṭhitā.
+.
 Akusalapadaṃ
 Dhammuddesavārakathā
 Paṭhamacittaṃ
@@ -888,7 +888,7 @@ Paṭhamacittaṃ
 ,,,..
 ,,,,,..
 ..
-Dhammuddesavārakathā niṭṭhitā.
+.
 Niddesavārakathā
 375...‘’,..
 384.......
@@ -931,7 +931,7 @@ Dvādasamacittaṃ
 429.,....,..,..
 .‘’?‘’.,.,,.,.,...?,.
 ,,.?.‘’-,,,....,‘’-.
-Akusalā dhammātipadassa vaṇṇanā niṭṭhitā.
+.
 Abyākatapadaṃ
 Ahetukakusalavipāko
 431..–.......,,..,.,,..
@@ -945,7 +945,7 @@ Ahetukakusalavipāko
 469.‘’.‘’-...‘’.....,,,,.
 .,,..?,,,.....
 .?..,,.
-Manoviññāṇadhātudvayaṃ niṭṭhitaṃ.
+.
 Aṭṭhamahāvipākacittavaṇṇanā
 498.....–.?.,..,.‘’(vibha. 715).
 .,.,..,,..?..
@@ -1032,10 +1032,10 @@ Vipākuddhārakathā
 ?...,,,,,.,.,.–,,...
 .,,,..,..
 .‘’.......‘’(paṭṭhā. 3.1.102)..
-Kāmāvacarakusalavipākakathā niṭṭhitā.
+.
 Rūpāvacarārūpāvacaravipākakathā
 499..,,.,.,,,..–..
-Rūpāvacarārūpāvacaravipākakathā niṭṭhitā.
+.
 Lokuttaravipākakathā
 505..,.,,‘’.
 ‘’‘’,....,..–.
@@ -1045,16 +1045,16 @@ Lokuttaravipākakathā
 ,,..…pe…,,.–‘’.
 555.,...,.,.
 –,,.‘’.‘’,.‘’.......,;.,...
-Lokuttaravipākakathā niṭṭhitā.
+.
 Akusalavipākakathā
 556.–,,–.
 .,.,..;,,,,.
-Akusalavipākakathā niṭṭhitā.
+.
 Kiriyābyākatavaṇṇanā
 Manodhātucittaṃ
 566....,..‘’;‘’;‘’..
 .,,,.,...?..
-Kiriyamanodhātucittaṃ niṭṭhitaṃ.
+.
 Kiriyamanoviññāṇadhātucittāni
 568.…pe…,....‘’..‘’.‘’..
 .(ma. ni. 2.282 ādayo)(ma. ni. 2.308 ādayo)(jā. 1.10.11 ādayo)...‘’...
@@ -1064,7 +1064,7 @@ Kiriyamanoviññāṇadhātucittāni
 .?.,,.,,..
 Rūpāvacarārūpāvacarakiriyaṃ
 577.,,....
-Aṭṭhasāliniyā dhammasaṅgahaaṭṭhakathāya
-Cittuppādakaṇḍakathā niṭṭhitā.
-Abyākatapadaṃ pana neva tāva niṭṭhitanti.
-Cittuppādakaṇḍavaṇṇanā niṭṭhitā.
+
+.
+.
+.

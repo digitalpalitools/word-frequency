@@ -24,7 +24,7 @@
 232.‘‘,,,,.,,–‘,,.’.,,.
 233.‘‘imañce (?),,.,,,,’’?‘‘,’’.‘‘,,.’’.
 ..
-Kakacūpamasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Alagaddūpamasuttaṃ
 234.–.gandhabādhipubbassa (ka.)–‘‘’’.–‘‘–‘’’’.;–‘‘,,–‘’’’.‘‘evaṃ kho (?) bhagavato sammukhāyevassa ‘‘evaṃbyākho’’ti,,’’.
 samanuggāhanti (syā.)–‘‘,,,;abbhācikkhanaṃ (ka.),.,,.,.…pe………………………,’’.samanuggāhiyamāno (syā. vinayepi)tatheva taṃ (vinaye)–‘‘,,’’.
@@ -76,7 +76,7 @@ samanuggāhanti (syā.)–‘‘,,,;abbhācikkhanaṃ (ka.),.,,.,.…pe………
 247.‘‘,,;.,,?,,,;.,,,;.,,,;.,,,;.,,,;.,,,.–‘’?‘‘,’’.‘‘’’?‘‘,,’’.‘‘,,;.,,?,,,;.,…pe…,…,…pe…,,,;.
 248.‘‘,,.,,,.,,.,,,,,.,,.,,,,,.,,.,,,,,.,,.,,.,,.,,’’.
 ..
-Alagaddūpamasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Vammikasuttaṃ
 249.–..;.–
 ‘‘,vammīko (katthaci) sakkatānurūpaṃ,.–‘,,’.‘,’.–‘;,,’..‘,’.–‘;,,’..‘,’.–‘;,,’.paṅkavāraṃ (syā.), caṅkavāraṃ (ka.).‘,’.–‘;,,’..‘,’.–‘;,,’..‘,’.–‘;,,’..‘,’.–‘;,,’..‘,’.–‘,;’’’.
@@ -95,7 +95,7 @@ Alagaddūpamasuttaṃ niṭṭhitaṃ dutiyaṃ.
 ‘‘‘’,,.,;,,.
 ‘‘‘’,,.,;’’.
 ..
-Vammikasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Rathavinītasuttaṃ
 252.–.;.–
 ‘‘,,–‘,,,,,,,,,,’’’?‘‘,,–‘,…pe…’’’.
@@ -146,7 +146,7 @@ Vammikasuttaṃ niṭṭhitaṃ tatiyaṃ.
 260.,–‘‘,’’?‘‘,,;’’.‘‘,,,!,.,,,.celaṇḍakena (ka.), celaṇḍupekena (?),,,,,’’.
 ,–‘‘,’’?‘‘,,;’’.‘‘,kho (ka.),–‘’.‘’,nappaṭibheyya (?).,,,!,.,,.,,,,,’’.
 .
-Rathavinītasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Nivāpasuttaṃ
 261.–.–‘‘’’.‘‘’’.–
 ‘‘,,–‘’.,,–‘,,,’.
@@ -176,7 +176,7 @@ Rathavinītasuttaṃ niṭṭhitaṃ catutthaṃ.
 ‘‘,,.,…pe….
 ‘‘,,..,,,’’.
 ..
-Nivāpasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Pāsarāsisuttaṃ
 272.–..;–‘‘,,.,,’’.‘‘;’’.‘‘’’.
 –‘‘,’’.‘‘,’’..–‘‘,’’.‘‘,’’.
@@ -266,7 +266,7 @@ andhabhūtasmiṃ (sī. syā. pī.),’.
 ‘‘,,.,…pe….
 ‘‘,,,.,,,.,,,.?,,’’.
 ..
-Pāsarāsisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Cūḷahatthipadopamasuttaṃ
 288.–.vaḷabhīrathena (sī. pī.)..–
 ‘‘,’’?
@@ -309,7 +309,7 @@ Pāsarāsisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 299.‘‘.‘’,‘’,‘’,‘’.‘’,‘’,‘’,‘’.,,,,.,–‘,,’.
 ‘‘,,..‘,,,’.,,,,.,,–‘,,’.,,’’.
 ,–‘‘,,,!,,,,,–;.,,.’’.
-Cūḷahatthipadopamasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Mahāhatthipadopamasuttaṃ
 300.–.–‘‘’’.‘‘’’.–‘‘,,,;,,.?,,,’’.
 301.‘‘,?,,,,;,.,?–,,,,.
@@ -333,7 +333,7 @@ Cūḷahatthipadopamasuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘–‘.–‘;...,’.,,.
 ‘‘,,…pe…………,,.,,,,,.,,,,,.,,,,.–‘.–‘‘;’’...’.,,’’.
 ..
-Mahāhatthipadopamasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Mahāsāropamasuttaṃ
 307.–.–
 ‘‘,,–‘,,’...–‘lābhī silokavā (sī. pī.), lābhī sakkāra silokavā (syā.),’.,.
@@ -351,7 +351,7 @@ Mahāhatthipadopamasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,,–‘,,’..,.,.,.,.,.,.,.,.,.,.,.,.,,.
 ‘‘,,,,,.,,–,,,’’.
 ..
-Mahāsāropamasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Cūḷasāropamasuttaṃ
 312.–.;..–‘‘,,,,–,,,,sañjayo (sī. syā. pī. ka.),,,’’?‘‘,,–,.,,,,,’’.‘‘,’’.–
 313.‘‘,,,‘’.–‘,,,,.,‘’.’.
@@ -376,8 +376,8 @@ Mahāsāropamasuttaṃ niṭṭhitaṃ navamaṃ.
 324.‘‘,,‘’..,,.
 ‘‘,,,,,.,,–,,,’’.
 ,–‘‘,,,…pe…’’.
-Cūḷasāropamasuttaṃ niṭṭhitaṃ dasamaṃ.
-Opammavaggo niṭṭhito tatiyo.
+.
+.
 –
 ,;
 ,sāravaro (syā.), sāravano (ka.).

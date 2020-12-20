@@ -15,7 +15,7 @@ taṃ te musā bhāsitaṃ devarāja kiṃ vā paṭicca maghavā mahinda
  nanu te sutaṃ brāhmaṇa bhaññamāne devā na issanti purisaparakkamassa
 damo samādhi manaso abhejjo  abyaggatā  nikkamanañca  kāle
 daḷhañca viriyaṃ purisaparakkamo ca teneva āsi vijayo assakānanti
-
+cūḷakāliṅgajātakaṃ paṭhamaṃ
 
  302 mahāassārohajātakaṃ 
 
@@ -30,7 +30,7 @@ katañca ariyesu ca ajjavesu mahapphalaṃ hoti aṇumpi tādisu
 
  yo pubbe katakalyāṇo akā loke sudukkaraṃ
 pacchā kayirā na vā kayirā accantaṃ pūjanārahoti
-
+mahāassārohajātakaṃ dutiyaṃ
 
  303 ekarājajātakaṃ 
 
@@ -45,7 +45,7 @@ yaso ca laddhā purimaṃ uḷāraṃ nappajjahe vaṇṇabalaṃ purāṇaṃ
 
  panujja dukkhena sukhaṃ janinda sukhena vā dukkhamasayhasāhi
 ubhayattha santo abhinibbutattā sukhe ca dukkhe ca bhavanti tulyāti
-
+ekarājajātakaṃ tatiyaṃ
 
  304 daddarajātakaṃ 
 
@@ -60,7 +60,7 @@ na tattha mānaṃ kayirātha vasamaññātake jane
 
  videsavāsaṃ vasato jātavedasamenapi 
 khamitabbaṃ sapaññena api dāsassa tajjitanti
-
+daddarajātakaṃ catutthaṃ
 
  305 sīlavīmaṃsanajātakaṃ 
 
@@ -75,7 +75,7 @@ vejjo  ca addhuvasīlo  ca te dhammaṃ jahu matthikā
 
  brāhmaṇo  ca kathaṃ jahe sabbadhammāna pāragū
 yo dhammamanupāleti dhitimā saccanikkamoti
-
+sīlavīmaṃsanajātakaṃ pañcamaṃ
 
  306 sujātajātakaṃ 
 
@@ -90,7 +90,7 @@ tatthevimaṃ paṭinetha yattha kolaṃ pacissati
 
  honti hete mahārāja iddhippattāya  nāriyā
 khama deva sujātāya māssā  kujjha rathesabhāti
-
+sujātajātakaṃ chaṭṭhaṃ
 
  307 palāsajātakaṃ 
 
@@ -105,7 +105,7 @@ kathañhi āgamma sataṃ sakāse moghāni te assu pariphanditāni
 
  yo  tindukarukkhassa paro  pilakkho  parivārito pubbayañño uḷāro
 tassesa mūlasmiṃ nidhi nikhāto adāyādo gaccha taṃ uddharāhīti
-
+palāsajātakaṃ sattamaṃ
 
  308 sakuṇajātakaṃ 
 
@@ -120,7 +120,7 @@ yasmiṃ kataññutā natthi niratthā tassa sevanā
 
  yassa sammukhaciṇṇena mittadhammo na labbhati
 anusūya  manakkosaṃ saṇikaṃ tamhā apakkameti
-
+sakuṇajātakaṃ aṭṭhamaṃ
 
  309 chavakajātakaṃ 
 
@@ -136,7 +136,7 @@ mā taṃ adhammo ācarito asmā kumbhamivābhidā
 
  dhiratthu  taṃ yasalābhaṃ dhanalābhañca brāhmaṇa
 yā vutti vinipātena adhammacaraṇena vāti
-
+chavakajātakaṃ navamaṃ
 
  310 seyyajātakaṃ 
 
@@ -151,8 +151,8 @@ sāyeva jīvikā seyyo yā cādhammena esanā
 
  api  ce pattamādāya anagāro paribbaje
 aññaṃ ahiṃsayaṃ loke api rajjena taṃ varanti
-
-
+seyyajātakaṃ  dasamaṃ
+kāliṅgavaggo  paṭhamo
 tassuddānaṃ 
 vivarañca adeyya samiddhavaraṃ atha daddara pāpamahātiraho
 atha koli palāsavarañca kara carimaṃ sasamuddavarena dasāti
@@ -172,7 +172,7 @@ appenti  nimbasūlasmiṃ tasmiṃ me saṅkate mano
 
  saṅkeyya saṅkitabbāni rakkheyyānāgataṃ bhayaṃ
 anāgatabhayā dhīro ubho loke avekkhatīti
-
+pucimandajātakaṃ paṭhamaṃ
 
  312 kassapamandiyajātakaṃ 
 
@@ -187,7 +187,7 @@ yo cādhipannaṃ jānāti yo ca jānāti desanaṃ
 
  eso hi uttaritaro bhāravaho dhuraddharo
 yo paresādhipannānaṃ  sayaṃ sandhātumarahatīti
-
+kassapamandiyajātakaṃ dutiyaṃ
 
  313 khantīvādījātakaṃ 
 
@@ -202,7 +202,7 @@ taṃ khantiyāyeva ṭhitaṃ kāsirājā achedayi
 
  tassa  kamma  pharusassa vipāko kaṭuko ahu
 yaṃ kāsirājā vedesi nirayamhi samappitoti
-
+khantīvādījātakaṃ tatiyaṃ
 
  314 lohakumbhijātakaṃ 
 
@@ -217,7 +217,7 @@ tadā  hi pakataṃ pāpaṃ mama tuyhañca mārisā
 
  sohaṃ nūna ito gantvā yoniṃ laddhāna mānusiṃ
 vadaññū sīlasampanno kāhāmi kusalaṃ bahunti
-
+lohakumbhijātakaṃ catutthaṃ
 
  315 sabbamaṃsalābhajātakaṃ 
 
@@ -232,7 +232,7 @@ hadayassa sadisī  vācā hadayaṃ samma dammi te
 
  yassa gāme sakhā natthi yathāraññaṃ tatheva taṃ
 sabbassa sadisī vācā sabbaṃ samma dadāmi teti
-
+sabbamaṃsalābhajātakaṃ  pañcamaṃ
 
  316 sasapaṇḍitajātakaṃ 
 
@@ -248,7 +248,7 @@ idaṃ brāhmaṇa me atthi etaṃ bhutvā vane vasa
 
  na sasassa tilā atthi na muggā napi taṇḍulā
 iminā agginā pakkaṃ mamaṃ  bhutvā vane vasāti
-
+sasapaṇḍitajātakaṃ chaṭṭhaṃ
 
  317 matarodanajātakaṃ 
 
@@ -263,7 +263,7 @@ kanditaruditaṃ niratthakaṃ kiṃ vo sokagaṇābhikīrare
 
  dhuttā ca soṇḍā  akatā bālā sūrā ayogino 
 dhīraṃ maññanti bāloti ye dhammassa akovidāti
-
+matarodanajātakaṃ sattamaṃ
 
  318 kaṇaverajātakaṃ 
 
@@ -279,7 +279,7 @@ ekabhattikinī  sāmā tameva abhikaṅkhati
 
  asanthutaṃ maṃ cirasanthutena  nimīni sāmā adhuvaṃ dhuvena
 mayāpi sāmā nimineyya aññaṃ ito ahaṃ dūrataraṃ gamissanti
-
+kaṇaverajātakaṃ aṭṭhamaṃ
 
  319 tittirajātakaṃ 
 
@@ -294,7 +294,7 @@ paṭicca  kammaṃ phusati tasmiṃ me saṅkate mano
 
  na paṭicca kammaṃ phusati mano ce nappadussati
 appossukkassa bhadrassa na pāpamupalimpatīti
-
+tittirajātakaṃ navamaṃ
 
  320 succajajātakaṃ 
 
@@ -309,8 +309,8 @@ yassa te byasanaṃ patto saccasmiṃ ramate mano
 
  yā daliddī daliddassa aḍḍhā aḍḍhassa kittima 
 sā hissa paramā bhariyā sahiraññassa itthiyoti
-
-
+succajajātakaṃ dasamaṃ
+pucimandavaggo dutiyo
 tassuddānaṃ 
 atha cora sakassapa khantīvaro dujjīvitatā ca varā pharusā
 atha  sasa matañca vasanta sukhaṃ succajaṃvatanaccajinā ca dasāti
@@ -329,7 +329,7 @@ niccaṃ addhuvasīlassa sukhabhāvo  na vijjati
 
  so  karassu ānubhāvaṃ vītivattassu sīliyaṃ
 sītavātaparittāṇaṃ karassu kuṭavaṃ  kapīti
-
+kuṭidūsaka  jātakaṃ paṭhamaṃ
 
  322 duddubhajātakaṃ 
 
@@ -344,7 +344,7 @@ panādaparamā bālā te honti parapattiyā
 
  ye ca sīlena sampannā paññāyūpasame ratā
 ārakā viratā dhīrā na honti parapattiyāti
-
+duddubhajātakaṃ  dutiyaṃ
 
  323 brahmadattajātakaṃ 
 
@@ -359,7 +359,7 @@ tuvaṃ vā paṭirodantaṃ tasmā icchāmahaṃ raho
 
  dadāmi  te brāhmaṇa rohiṇīnaṃ gavaṃ sahassaṃ saha puṅgavena
 ariyo hi ariyassa kathaṃ na dajjā  sutvāna gāthā tava dhammayuttāti
-
+brahmadattajātakaṃ tatiyaṃ
 
  324 cammasāṭakajātakaṃ 
 
@@ -374,7 +374,7 @@ ubhopi bāhā paggayha  kandati  abhidhāvatha haññate brahmacārī
 
  evaṃ so nihato seti yo apūjaṃ pasaṃsati 
 yathāhamajja pahato hato meṇḍena dummatīti
-
+cammasāṭakajātakaṃ catutthaṃ
 
  325 godharājajātakaṃ 
 
@@ -389,7 +389,7 @@ telaṃ loṇañca me atthi pahūtaṃ mayha pipphali
 
  esa bhiyyo pavekkhāmi vammikaṃ sataporisaṃ
 telaṃ loṇañca kittesi  ahitaṃ mayha pipphalīti
-
+godharājajātakaṃ pañcamaṃ
 
  326 kakkārujātakaṃ 
 
@@ -404,7 +404,7 @@ eko sāduṃ na bhuñjeyya sa ve kakkārumarahati
 
  sammukhā vā tirokkhā vā  yo sante na paribhāsati
 yathāvādī  tathākārī sa ve kakkārumarahatīti
-
+kakkārujātakaṃ chaṭṭhaṃ
 
  327 kākavatījātakaṃ 
 
@@ -419,7 +419,7 @@ tayā satta samuddāni tayā simbalimāruhiṃ
 
  dhiratthumaṃ  mahākāyaṃ dhiratthumaṃ acetanaṃ
 yattha jāyāyahaṃ jāraṃ āvahāmi vahāmi cāti
-
+kākavatījātakaṃ sattamaṃ
 
  328 ananusociyajātakaṃ 
 
@@ -434,7 +434,7 @@ yāva byāti nimisati tatrāpi rasatī  vayo
 
  tatthattani vatappaddhe  vinābhāve asaṃsaye
 bhūtaṃ sesaṃ dayitabbaṃ vītaṃ ananusociyanti 
-
+ananusociyajātakaṃ aṭṭhamaṃ
 
  329 kāḷabāhujātakaṃ 
 
@@ -449,7 +449,7 @@ kathaṃ  nu sākhāmigaṃ dakkhisāma  niddhāvitaṃ  rājakulatova jammaṃ
 
  cāleti  kaṇṇaṃ bhakuṭiṃ karoti muhuṃ muhuṃ bhāyayate  kumāre
 sayameva taṃ kāhati kāḷabāhu yenārakā ṭhassati annapānāti
-
+kāḷabāhujātakaṃ navamaṃ
 
  330 sīlavīmaṃsajātakaṃ 
 
@@ -464,8 +464,8 @@ saṅgamma kulalā loke na hiṃsanti akiñcanaṃ
 
  na samādhiparo atthi asmiṃ loke paramhi ca
 na paraṃ nāpi attānaṃ vihiṃsati samāhitoti
-
-
+sīlavīmaṃsajātakaṃ dasamaṃ
+kuṭidūsakavaggo tatiyo
 tassuddānaṃ 
 samanussa  saduddubhayācanako atha meṇḍavaruttamagodhavaro
 atha kāyasakepuka bhotīvaro atha rādhasusīlavarena dasāti
@@ -484,7 +484,7 @@ nātivelaṃ pabhāseyya api attasamamhi vā
 
  yo  ca kāle mitaṃ bhāse matipubbo vicakkhaṇo
 sabbe amitte ādeti supaṇṇo uragāmivāti
-
+kokilajātakaṃ  paṭhamaṃ
 
  332 rathalaṭṭhijātakaṃ 
 
@@ -499,7 +499,7 @@ rājā na sādhu anisammakārī yo paṇḍito kodhano taṃ na sādhu
 
  nisamma khattiyo kayirā nānisamma disampati
 nisammakārino rāja  yaso kitti ca vaḍḍhatīti
-
+rathalaṭṭhijātakaṃ dutiyaṃ
 
  333 pakkagodhajātakaṃ 
 
@@ -515,7 +515,7 @@ dijo dumaṃ khīṇaphalanti  ñatvā aññaṃ samekkheyya mahā hi loko
 
  so te karissāmi yathānubhāvaṃ kataññutaṃ khattiye  pekkhamāno
 sabbañca te issariyaṃ dadāmi yassicchasī tassa tuvaṃ dadāmīti
-
+pakkagodhajātakaṃ  tatiyaṃ
 
  334 rājovādajātakaṃ 
 
@@ -532,7 +532,7 @@ sabbā gāvī ujuṃ yanti  nette ujuṃ gate sati
  evameva  manussesu yo hoti seṭṭhasammato
 so sace dhammaṃ carati pageva itarā pajā
 sabbaṃ  raṭṭhaṃ sukhaṃ seti rājā ce hoti dhammikoti
-
+rājovādajātakaṃ catutthaṃ
 
  335 jambukajātakaṃ 
 
@@ -547,7 +547,7 @@ asamekkhiya thāmabalūpapattiṃ sa seti nāgena hatoyaṃ jambuko
 
  yo cīdha kammaṃ kurute pamāya thāmabbalaṃ attani saṃviditvā
 jappena mantena subhāsitena parikkhavā so vipulaṃ jinātīti
-
+jambukajātakaṃ pañcamaṃ
 
  336 brahāchattajātakaṃ 
 
@@ -562,7 +562,7 @@ sabbaṃ sakassa ādānaṃ anādānaṃ tiṇassa ca
 
  sīlavanto  na kubbanti bālo sīlāni kubbati
 aniccasīlaṃ dussīlyaṃ  kiṃ paṇḍiccaṃ karissatīti
-
+brahāchattajātakaṃ chaṭṭhaṃ
 
  337 pīṭhajātakaṃ 
 
@@ -577,7 +577,7 @@ athopi me āsi manovitakko etādiso nūna kulassa dhammo
 
  esasmākaṃ  kule dhammo pitupitāmaho sadā
 sakkaccaṃ upatiṭṭhāma uttamaṃ viya ñātakanti
-
+pīṭhajātakaṃ sattamaṃ
 
  338 thusajātakaṃ 
 
@@ -592,7 +592,7 @@ daharasseva santassa dantehi phalamacchidā
 
  yametaṃ parisappasi  ajakāṇova sāsape
 yopāyaṃ heṭṭhato seti  etampi viditaṃ mayāti
-
+thusajātakaṃ aṭṭhamaṃ
 
  339 bāverujātakaṃ 
 
@@ -607,7 +607,7 @@ tāva aññe apūjesuṃ puthū samaṇabrāhmaṇe
 
  yadā ca sarasampanno buddho dhammaṃ adesayi
 atha lābho ca sakkāro titthiyānaṃ ahāyathāti
-
+bāverujātakaṃ navamaṃ
 
  340 visayhajātakaṃ 
 
@@ -622,8 +622,8 @@ porāṇaṃ nihitaṃ vattaṃ vattataññeva  vāsava
 
  yadi  hessati dassāma asante kiṃ dadāmase
 evaṃbhūtāpi dassāma mā dānaṃ pamadamhaseti
-
-
+visayhajātakaṃ dasamaṃ
+kokilavaggo  catuttho
 tassuddānaṃ 
 ativelapabhāsati  jītavaro vanamajjha rathesabha jimhagamo
 atha jambu tiṇāsanapīṭhavaraṃ atha taṇḍula mora visayha dasāti
@@ -642,7 +642,7 @@ avācarī  paṭṭhavasānugassa  kaṃ vāpi itthī nāticare tadaññaṃ
 
  piṅgiyānī sabbalokissarassa rañño piyā brahmadattassa bhariyā
 avācarī paṭṭhavasānugassa taṃ vāpi sā nājjhagā kāmakāminīti
-
+kaṇḍarījātakaṃ  paṭhamaṃ
 
  342 vānarajātakaṃ 
 
@@ -657,7 +657,7 @@ amittavasamanveti  pacchā ca anutappati
 
  yo ca uppatitaṃ atthaṃ khippameva nibodhati
 muccate sattusambādhā na ca pacchānutappatīti
-
+vānarajātakaṃ dutiyaṃ
 
  343 kuntinījātakaṃ 
 
@@ -672,7 +672,7 @@ hadayaṃ nānujānāti gacchaññeva rathesabha
 
  katassa ceva kattā ca metti sandhīyate puna
 dhīrānaṃ no ca bālānaṃ vasa kuntini māgamāti
-
+kuntinījātakaṃ tatiyaṃ
 
  344 ambajātakaṃ 
 
@@ -687,7 +687,7 @@ saṅkete pati mā adda  yā te ambe avāhari
 
  alaṅkatā suvasanā mālinī candanussadā
 ekikā sayane setu yā te ambe avāharīti
-
+ambajātakaṃ  catutthaṃ
 
  345 gajakumbhajātakaṃ 
 
@@ -702,7 +702,7 @@ sukkhapaṇṇaṃva akkamma atthaṃ bhañjati attano
 
  yo dandhakāle dandheti taraṇīye ca tārayi
 sasīva rattiṃ vibhajaṃ tassattho paripūratīti
-
+gajakumbhajātakaṃ pañcamaṃ
 
  346 kesavajātakaṃ 
 
@@ -717,7 +717,7 @@ kathaṃ sāmākanīvāraṃ aloṇaṃ chādayanti taṃ
 
  sāduṃ  vā  yadi vāsāduṃ appaṃ vā yadi vā bahuṃ
 vissattho yattha bhuñjeyya vissāsaparamā rasāti
-
+kesavajātakaṃ  chaṭṭhaṃ
 
  347 ayakūṭajātakaṃ 
 
@@ -732,7 +732,7 @@ kāmaṃ pisācā vinadantu sabbe na santase rakkhasiyā pajāya
 
  kāmaṃ kandantu  kumbhaṇḍā sabbe paṃsupisācakā
 nālaṃ pisācā yuddhāya mahatī sā vibhiṃsikāti 
-
+ayakūṭajātakaṃ sattamaṃ
 
  348 araññajātakaṃ 
 
@@ -747,7 +747,7 @@ urasīva patiṭṭhāya taṃ bhajehi ito gato
 
  haliddirāgaṃ  kapicittaṃ purisaṃ rāgavirāginaṃ
 tādisaṃ  tāta mā sevi nimmanussampi ce siyāti
-
+araññajātakaṃ aṭṭhamaṃ
 
  349 sandhibhedajātakaṃ 
 
@@ -762,7 +762,7 @@ yo vācaṃ sandhibhedassa pisuṇassa nibodhati
 
  te janā sukhamedhanti narā saggagatāriva
 ye vācaṃ sandhibhedassa nāvabodhanti sārathīti
-
+sandhibhedajātakaṃ navamaṃ
 
  350 devatāpañhajātakaṃ 
 
@@ -778,12 +778,12 @@ sa ve rāja piyo hoti kaṃ tena tvābhipassasi
  haraṃ annañca pānañca vatthasenāsanāni ca
 aññadatthuharā santā te ve rāja piyā honti
 kaṃ tena tvābhipassasīti
-
-
+devatāpañhajātakaṃ dasamaṃ
+cūḷakuṇālavaggo pañcamo
 tassuddānaṃ 
 narānaṃ  asakkhivasimhavaro nīliyamaggivarañca puna
 puna rasāyasakūṭavaro tathārañña sārathi hanti dasāti
 atha vagguddānaṃ 
 kāliṅgaṃ  pucimandañca kuṭidūsaka kokilā 
 cūḷakuṇālavaggo so pañcamo suppakāsitoti
-
+catukkanipātaṃ niṭṭhitaṃ

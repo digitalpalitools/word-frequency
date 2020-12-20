@@ -100,7 +100,7 @@
 ‘‘’’.,..,,.,(itivu. aṭṭha. 38).,,,,..
 ,.‘‘’’.,....
 .....,,,,,.,.‘‘…pe…’’.
-Adhimuttattheragāthāvaṇṇanā niṭṭhitā.
+.
 2. Pārāpariyattheragāthāvaṇṇanā
 .?....(ma. ni. 3.453)...,..–
 726.
@@ -184,7 +184,7 @@ Adhimuttattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’.–,,,,,,.
 ,..,,.
 .
-Pārāpariyattheragāthāvaṇṇanā niṭṭhitā.
+.
 3. Telakānittheragāthāvaṇṇanā
 .?‘‘’’,...–
 747.
@@ -271,7 +271,7 @@ Pārāpariyattheragāthāvaṇṇanā niṭṭhitā.
 .,‘‘’’.,.,.
 ‘‘’’..‘‘’’‘‘’’....,.
 ,.,.
-Telakānittheragāthāvaṇṇanā niṭṭhitā.
+.
 4. Raṭṭhapālattheragāthāvaṇṇanā
 .?‘‘,’’..
 ....‘‘’’...
@@ -404,7 +404,7 @@ Telakānittheragāthāvaṇṇanā niṭṭhitā.
 ....
 ..,,..
 ..
-Raṭṭhapālattheragāthāvaṇṇanā niṭṭhitā.
+.
 5. Mālukyaputtattheragāthāvaṇṇanā
 .(theragā. 399 ādayo)..‘‘,,’’‘‘,,,,,’’?‘‘,’’.‘‘…pe…………,,,’’?‘‘,’’.‘‘,,,,,.,,,,,,,,.,,,,,.,,,,,,’’(saṃ. ni. 4.95).–
 794.
@@ -497,7 +497,7 @@ Raṭṭhapālattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’.,,,,,,‘‘,,’’.
 ,....,....
 .
-Mālukyaputtattheragāthāvaṇṇanā niṭṭhitā.
+.
 6. Selattheragāthāvaṇṇanā
 .?..,.,..,‘‘,,’’‘‘’’‘‘’’‘‘,,,‘,’,‘,’,’’–
 818.
@@ -791,7 +791,7 @@ Mālukyaputtattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .....,....
-Selattheragāthāvaṇṇanā niṭṭhitā.
+.
 7. Kāḷigodhāputtabhaddiyattheragāthāvaṇṇanā
 .?..,,,,.
 ,...‘‘,’’.–‘‘‘,’,’’.‘‘,,‘,’’’.‘‘’’‘‘,,,.’’–
@@ -857,7 +857,7 @@ Selattheragāthāvaṇṇanā niṭṭhitā.
 ,..,.
 .‘‘’’..
 ..
-Kāḷigodhāputtabhaddiyattheragāthāvaṇṇanā niṭṭhitā.
+.
 8. Aṅgulimālattheragāthāvaṇṇanā
 .?.,,.‘‘’’..‘‘,,,,’’?‘‘,,.’’.‘‘,’’?‘‘’’.‘‘,’’?‘‘,’’.‘‘’’?‘‘,’’.,.
 .–‘‘’’.....‘‘,,’’–‘‘,,’’.‘‘,,’’?‘‘’’.–..,...
@@ -967,7 +967,7 @@ Kāḷigodhāputtabhaddiyattheragāthāvaṇṇanā niṭṭhitā.
 ,,,.‘‘’’,,.?..
 ‘‘,’’‘‘,’’‘‘’’.....
 ...
-Aṅgulimālattheragāthāvaṇṇanā niṭṭhitā.
+.
 9. Anuruddhattheragāthāvaṇṇanā
 .?.,.‘‘’’.‘‘’’.
 .
@@ -1107,7 +1107,7 @@ Aṅgulimālattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’..,,,,..,..,.
 ,‘‘,’’,.‘‘’’..
 ‘‘’’.,..,.
-Anuruddhattheragāthāvaṇṇanā niṭṭhitā.
+.
 10. Pārāpariyattheragāthāvaṇṇanā
 ....–
 920.
@@ -1227,5 +1227,5 @@ Anuruddhattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’.–‘‘’’,.
 ,.,.
 ,..
-Pārāpariyattheragāthāvaṇṇanā niṭṭhitā.
-Vīsatinipātavaṇṇanā niṭṭhitā.
+.
+.

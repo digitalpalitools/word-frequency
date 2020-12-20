@@ -26,8 +26,8 @@
 231.......,.,.
 232.,.,...
 233...,,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kakacūpamasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Alagaddūpamasuttavaṇṇanā
 234..,,,....,,...,,,..,,,,.
 ,,–.…pe…,,.?.,,,‘‘,’’.–‘‘’’.
@@ -80,8 +80,8 @@ Kakacūpamasuttavaṇṇanā niṭṭhitā.
 ,’’.(su. ni. 283-285);
 ...,.
 .–‘‘?,..,.?,..,’’(pu. pa. 30).,...,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Alagaddūpamasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Vammikasuttavaṇṇanā
 249....,‘‘,’’,‘‘’’.‘‘’’.–
 .,‘‘’’.
@@ -122,8 +122,8 @@ Alagaddūpamasuttavaṇṇanā niṭṭhitā.
 ,,.–‘‘,,’’..
 ,..,,,.–‘‘,,’’..
 ,,,(ma. ni. aṭṭha. 1.63).,‘‘,,,,’’(ma. ni. 1.361).....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Vammikasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Rathavinītasuttavaṇṇanā
 252..,..?.,,.,,,.,.
 .,‘‘’’,.,‘‘’’.,.,‘‘’’,...
@@ -210,8 +210,8 @@ Sattarathavinītavaṇṇanā
 ....,,,,.,..
 .,,..,.
 .,?,....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Rathavinītasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Nivāpasuttavaṇṇanā
 261..‘‘’’.....,...,..,,,.,,..,.,,,.,.
 262.,,,.,.,,,.;.
@@ -223,8 +223,8 @@ Rathavinītasuttavaṇṇanā niṭṭhitā.
 269.,,;.?..
 270..
 271...–‘‘’’.,,,.....‘‘?,,,,,,,,,,’’(mahāni. 3; cūḷani. mettagūmāṇavapucchāniddesa 22, khaggavisāṇasuttaniddesa 124)..–‘‘’’.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Nivāpasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Pāsarāsisuttavaṇṇanā
 272..,.‘‘’’.,.‘‘,,’’.,,,,–
 ‘‘,;
@@ -313,9 +313,9 @@ Nivāpasuttavaṇṇanā niṭṭhitā.
 ,,.....,,.,.–‘‘,,…pe……pe…’’.–‘‘,’’.
 287.,,,,......,?,‘‘,’’,‘‘’’.......
 ,.–,,.,.,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Pāsarāsisuttavaṇṇanā niṭṭhitā.
-Ariyapariyesanātipi etasseva nāmaṃ.
+
+.
+.
 7. Cūḷahatthipadopamasuttavaṇṇanā
 288..,‘‘.,,,,,,,’’(saṃ. ni. 5.4).
 –,.,.,,.,......,,,,..‘‘’’.
@@ -383,8 +383,8 @@ Ariyapariyesanātipi etasseva nāmaṃ.
 ,.,..,,...,..........‘‘’’..‘‘,’’.,,.
 297.,;‘‘’’....
 299.......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷahatthipadopamasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Mahāhatthipadopamasuttavaṇṇanā
 300.......,..–,,,.‘‘’’.‘‘’’.‘‘’’.‘‘?.,’’(kathā. 471),..
 ‘‘,,,,,’’(vibha. 216-217).?.‘‘,,,.,,’’(a. ni. 3.88),,...;‘‘’’.‘‘’’,..
@@ -423,8 +423,8 @@ Cūḷahatthipadopamasuttavaṇṇanā niṭṭhitā.
 ,,?,.,,..,.,..
 .,.,.........,,....,,,.,,,.
 .....,,,..,,....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāhatthipadopamasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Mahāsāropamasuttavaṇṇanā
 307...
 ,,,..,......,.,.
@@ -432,8 +432,8 @@ Mahāhatthipadopamasuttavaṇṇanā niṭṭhitā.
 310.,,‘‘’’..
 311.,‘‘?,,’’(paṭi. ma. 1.213).,,‘‘?,’’.,..
 .,...,,.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāsāropamasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Cūḷasāropamasuttavaṇṇanā
 312...,‘‘’’.....‘‘,’’.......,‘‘’’.‘‘’’,.‘‘’’...,‘‘,’’.‘‘’’,.,‘‘’’.
 ..,‘‘,’’...,.
@@ -442,6 +442,6 @@ Mahāsāropamasuttavaṇṇanā niṭṭhitā.
 ..,..,.–.,.,.,,,.
 320.....,,.
 323.,,?.,,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷasāropamasuttavaṇṇanā niṭṭhitā.
-Tatiyavaggavaṇṇanā niṭṭhitā.
+
+.
+.

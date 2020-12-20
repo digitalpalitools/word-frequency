@@ -27,7 +27,7 @@
 11.
 ,;
 ,,.
-Pārājikakathā.
+.
 12.
 ;
 ;
@@ -92,7 +92,7 @@ Pārājikakathā.
 31.
 ,;
 ,.
-Saṅghādisesakathā.
+.
 32.
 ;
 ;
@@ -138,7 +138,7 @@ Saṅghādisesakathā.
 44.
 ,;
 ,,.
-Kathinavaggo paṭhamo.
+.
 45.
 ,;
 ,.
@@ -157,7 +157,7 @@ Kathinavaggo paṭhamo.
 50.
 ,;
 ,,.
-Kosiyavaggo dutiyo.
+.
 51.
 ,;
 ,.
@@ -197,8 +197,8 @@ Kosiyavaggo dutiyo.
 63.
 ,;
 -.
-Pattavaggo tatiyo.
-Tiṃsanissaggiyakathā.
+.
+.
 64.
 ,;
 ,.
@@ -235,7 +235,7 @@ Tiṃsanissaggiyakathā.
 75.
 ,;
 ,.
-Musāvādavaggo paṭhamo.
+.
 76.
 ,;
 ,,.
@@ -272,7 +272,7 @@ Musāvādavaggo paṭhamo.
 87.
 ,;
 ,.
-Bhūtagāmavaggo dutiyo.
+.
 88.
 ,;
 ,,.
@@ -300,7 +300,7 @@ Bhūtagāmavaggo dutiyo.
 96.
 ,;
 ,.
-Ovādavaggo tatiyo.
+.
 97.
 -;
 ,.
@@ -322,7 +322,7 @@ Ovādavaggo tatiyo.
 103.
 ,;
 ,.
-Bhojanavaggo catuttho.
+.
 104.
 ,;
 ,.
@@ -353,7 +353,7 @@ Bhojanavaggo catuttho.
 113.
 ,;
 ,.
-Acelakavaggo pañcamo.
+.
 114.
 ,;
 ,.
@@ -384,7 +384,7 @@ Acelakavaggo pañcamo.
 123.
 ,;
 ,,.
-Surāpānavaggo chaṭṭho.
+.
 124.
 ,;
 ,,.
@@ -424,7 +424,7 @@ Surāpānavaggo chaṭṭho.
 136.
 ;
 ,.
-Sappāṇakavaggo sattamo.
+.
 137.
 ,;
 ‘‘’’,.
@@ -464,7 +464,7 @@ Sappāṇakavaggo sattamo.
 149.
 ,;
 ,.
-Sahadhammikavaggo aṭṭhamo.
+.
 150.
 ,;
 ,.
@@ -492,19 +492,19 @@ Sahadhammikavaggo aṭṭhamo.
 158.
 ,;
 ,.
-Ratanavaggo navamo.
-Pācittiyakathā.
+.
+.
 159.
 ,;
 ,.
 160.
 ‘‘’’,;
 ,.
-Pāṭidesanīyakathā.
+.
 161.
 ,;
 ,.
-Sekhiyakathā.
+.
 162.
 ,;
 ?.
@@ -529,4 +529,4 @@ Sekhiyakathā.
 169.
 ,;
 ,.
-Mahāvibhaṅgasaṅgaho niṭṭhito.
+.

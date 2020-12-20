@@ -19,8 +19,8 @@
 291.,,‘‘’’–‘‘’’,,.
 ,.–.,,,....,.–‘‘,’’–‘‘’’..
 292....?.–‘‘,’’.–‘‘,,.,’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Ghaṭikārasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Raṭṭhapālasuttavaṇṇanā
 293...,...
 294.?...,–
@@ -73,8 +73,8 @@ Ghaṭikārasuttavaṇṇanā niṭṭhitā.
 ..
 ‘‘’’..
 ,....‘‘,’’.–‘‘’’,.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Raṭṭhapālasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Maghadevasuttavaṇṇanā
 308.....–‘‘’’–‘‘,.,’’.
 ....,,...,..
@@ -131,15 +131,15 @@ Raṭṭhapālasuttavaṇṇanā niṭṭhitā.
 314..
 315...,.
 316.,,,.‘‘’’.....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Maghadevasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Madhurasuttavaṇṇanā
 317......,.,,.......,.....
 318.,,...
 322....‘‘’’.‘‘’’.‘‘’’..,.,,.‘‘’’.
 ..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Madhurasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Bodhirājakumārasuttavaṇṇanā
 324...,.
 325...‘‘’’.,–‘‘’’.–‘‘,.,’’.‘‘’’‘‘’’.
@@ -153,8 +153,8 @@ Madhurasuttavaṇṇanā niṭṭhitā.
 ....,,..‘‘’’..,...,....
 345....,,.,..
 346..,,..,.,–‘‘,’’,‘‘’’,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bodhirājakumārasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Aṅgulimālasuttavaṇṇanā
 347..?.–
 ..,..
@@ -192,8 +192,8 @@ Bodhirājakumārasuttavaṇṇanā niṭṭhitā.
 .....,,.,,,.
 –‘‘,,,,,’’(mahāni. 38; 192).,.,,..,,.,....‘‘,,’’(pārā. 195)....‘‘’’.‘‘’’.‘‘’’.
 .,.,,,..,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Aṅgulimālasuttavaṇṇanā niṭṭhitā.
+
+.
 7. Piyajātikasuttavaṇṇanā
 353..,.....,...
 355.,.,.,.
@@ -202,8 +202,8 @@ Aṅgulimālasuttavaṇṇanā niṭṭhitā.
 ,.
 ?–‘‘,‘’,‘,’,’’.,.
 ...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Piyajātikasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Bāhitikasuttavaṇṇanā
 358...,...‘‘,’’.
 359...,.,,,,.
@@ -211,8 +211,8 @@ Piyajātikasuttavaṇṇanā niṭṭhitā.
 ,,.,..,..
 362....
 363......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Bāhitikasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Dhammacetiyasuttavaṇṇanā
 364..,,.,..,,,‘‘’’..‘‘’’..,,.
 –‘‘’’.–‘‘,,’’.–‘‘,,’’..‘‘’’...–‘‘’’..‘‘’’.
@@ -229,8 +229,8 @@ Bāhitikasuttavaṇṇanā niṭṭhitā.
 373..,......‘‘’’‘‘’’–‘‘,.,,’’?–‘‘,.’’..
 374.,,..–‘‘,’’,...‘‘’’.,..–‘‘’’..‘‘’’.–‘‘,,,,’’.
 .,‘‘’’.,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Dhammacetiyasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Kaṇṇakatthalasuttavaṇṇanā
 375..,.,,.,...,.
 376.,?.–‘‘,,,,’’.,.
@@ -241,6 +241,6 @@ Dhammacetiyasuttavaṇṇanā niṭṭhitā.
 381..,.,...,.
 .?.,,.
 382.,.?...,‘‘,’’...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kaṇṇakatthalasuttavaṇṇanā niṭṭhitā.
-Catutthavaggavaṇṇanā niṭṭhitā.
+
+.
+.

@@ -25,35 +25,35 @@
 240.?,,,–‘‘’’.
 241.?,,,,,,–‘‘’’.
 242.,,,,.‘‘’’.
-Suttantabhājanīyaṃ.
+.
 2. Abhidhammabhājanīyaṃ
 1. Paccayacatukkaṃ
 243.,,,,,,,,,,..
 ,,,,,,,,,..
 ,,,,,,,,,,..
 ,,,,,,,,,,..
-Paccayacatukkaṃ.
+.
 2. Hetucatukkaṃ
 244.,,,,,,,;,,..
 ,,,,,,;,,..
 ,,,,,,,;,,..
 ,,,,,,,;,,..
-Hetucatukkaṃ.
+.
 3. Sampayuttacatukkaṃ
 245.,,,,,,,;,,..
 ,,,,,,;,,..
 ,,,,,,,;,,..
 ,,,,,,,;,,..
-Sampayuttacatukkaṃ.
+.
 4. Aññamaññacatukkaṃ
 246.,;,;,;,;,;,;,;,;,,..
 ,;,;,;,;,;,;,;,,..
 ,;,;,;,;,;,;,;,;,,..
 ,;,;,;,;,;,;,;,;,,..
-Aññamaññacatukkaṃ.
+.
 Mātikā
 247.…pe……pe……pe……pe……pe……pe……pe……pe…,,,,,,,,,,..
-Mātikā.
+.
 5. Paccayacatukkaṃ
 248.?,,,,,,,,,,,..
 249.?…pe…–‘‘’’.
@@ -92,7 +92,7 @@ Mātikā.
 .,.?,,–‘‘’’.?,–‘‘’’.,.‘‘’’.
 ?,,,,,–‘‘’’.
 ?–‘‘’’…pe…‘‘’’.
-Paccayacatukkaṃ.
+.
 6. Hetucatukkaṃ
 256.,,,,,,,;,,..
 257.?…pe…–‘‘’’.
@@ -130,7 +130,7 @@ Paccayacatukkaṃ.
 ?–‘‘’’.
 ?…pe…–‘‘’’.
 ?…pe…–‘‘’’…pe…‘‘’’.
-Hetucatukkaṃ.
+.
 7. Sampayuttacatukkaṃ
 ,,,,,,,;,,..
 265.?…pe…–‘‘’’.
@@ -165,7 +165,7 @@ Hetucatukkaṃ.
 .,.?,,–‘‘’’.?,–‘‘’’.,.‘‘’’.
 ?,,,,,–‘‘’’.
 ?–‘‘’’…pe…‘‘’’.
-Sampayuttacatukkaṃ.
+.
 8. Aññamaññacatukkaṃ
 272.,;,;,;,;,;,;,;,;,,..
 273.?…pe…–‘‘’’.
@@ -229,7 +229,7 @@ Sampayuttacatukkaṃ.
 ?–‘‘’’.
 ?…pe…–‘‘’’.
 ?–‘‘’’…pe…‘‘’’.
-Aññamaññacatukkaṃ.
+.
 9. Akusalaniddeso
 280.?…pe……pe…,,,,,,,,,,,..
 281.?…pe…–‘‘’’.
@@ -258,7 +258,7 @@ Aññamaññacatukkaṃ.
 ?–‘‘’’.
 ?–‘‘’’.
 ?,–‘‘’’…pe…‘‘’’.
-Akusalaniddeso.
+.
 10. Kusalaniddeso
 292.?,,,,,,,,,,,..
 293.?,,.
@@ -299,7 +299,7 @@ Akusalaniddeso.
 ?–‘‘’’.
 ?,–‘‘’’…pe…‘‘’’.
 .,,,.‘‘’’.
-Kusalaniddeso.
+.
 11. Abyākataniddeso
 306.?,,,,,,,,..
 307.?–‘‘’’.
@@ -364,7 +364,7 @@ Kusalaniddeso.
 331.?…pe……pe……pe……pe……pe……pe……pe……pe…,,,,,,,,,,..
 332.?…pe…,,,,,,,,,,..
 333.?…pe…,,,,,,,,,,..
-Abyākataniddeso.
+.
 12. Avijjāmūlakakusalaniddeso
 334.?…pe…,,,,,,,,,,,..
 335.?–‘‘’’…pe…‘‘’’.
@@ -379,7 +379,7 @@ Abyākataniddeso.
 340.?…pe…,,,,,,,,,,,..
 341.?…pe…,,,,,,,,,,,..
 342.?…pe…,,,,,,,,,,,..
-Avijjāmūlakakusalaniddeso.
+.
 13. Kusalamūlakavipākaniddeso
 343.?,,,,,,,,,..
 344.?–‘‘’’…pe…‘‘’’.
@@ -391,7 +391,7 @@ Avijjāmūlakakusalaniddeso.
 …pe…,,,,,,,,,,,..
 349.?…pe…,…pe…–.
 …pe…,,,,,,,,,,,..
-Kusalamūlakavipākaniddeso.
+.
 14. Akusalamūlakavipākaniddeso
 350.?,,,,,,,,,..
 351.?–‘‘’’…pe…‘‘’’.
@@ -408,6 +408,6 @@ Kusalamūlakavipākaniddeso.
 ?–‘‘’’.
 ?,.?–.?–‘‘’’.,.‘‘’’.
 .,,,.’’.
-Akusalamūlakavipākaniddeso.
-Abhidhammabhājanīyaṃ.
-Paṭiccasamuppādavibhaṅgo paccayākāravibhaṅgo (sī. syā.) niṭṭhito.
+.
+.
+paccayākāravibhaṅgo (sī. syā.).

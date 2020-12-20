@@ -36,7 +36,7 @@ Pārivāsikakkhandhakakathā
 2759.
 ,;
 ,.
-Pārivāsikakkhandhakakathā.
+.
 Samathakkhandhakakathā
 2760.
 -;
@@ -107,7 +107,7 @@ Samathakkhandhakakathā
 2782.
 ,;
 ,.
-Samathakkhandhakakathā.
+.
 Khuddakavatthukkhandhakakathā
 2783.
 ,;
@@ -241,7 +241,7 @@ Khuddakavatthukkhandhakakathā
 2826.
 ,;
 ,.
-Khuddakavatthukkhandhakakathā.
+.
 Senāsanakkhandhakakathā
 2827.
 -;
@@ -510,7 +510,7 @@ Senāsanakkhandhakakathā
 2913.
 ,;
 ,.
-Senāsanakkhandhakakathā.
+.
 Vattakkhandhakakathā
 2914.
 -;
@@ -632,7 +632,7 @@ Vattakkhandhakakathā
 2951.
 ,;
 ,.
-Vattakkhandhakakathā.
+.
 Bhikkhunikkhandhakakathā
 2952.
 ,;
@@ -727,8 +727,8 @@ Bhikkhunikkhandhakakathā
 2982.
 ,;
 ,.
-Bhikkhunikkhandhakakathā.
-Iti vinayavinicchaye khandhakakathā niṭṭhitā.
+.
+.
 Catubbidhakammakathā
 2983.
 ,;
@@ -823,7 +823,7 @@ Catubbidhakammakathā
 3013.
 ,;
 ,.
-Catubbidhakammakathā.
+.
 Kammavipattikathā
 3014.
 ,;
@@ -870,7 +870,7 @@ Kammavipattikathā
 3028.
 ,;
 ,.
-Kammavipattikathā.
+.
 Sedamocanakathā
 .
 ,;
@@ -926,7 +926,7 @@ Sedamocanakathā
 .
 ,;
 ,.
-Sedamocanakathā.
+.
 Pakiṇṇakavinicchayakathā
 3029.
 ,;
@@ -1224,7 +1224,7 @@ Pakiṇṇakavinicchayakathā
 ;
 ;
 .
-Iti vinayavinicchaye pakiṇṇakavinicchayakathā samattā.
+.
 Kammaṭṭhānabhāvanāvidhānakathā
 3125.
 ,;
@@ -1407,8 +1407,8 @@ Kammaṭṭhānabhāvanāvidhānakathā
 ;
 ;
 .
-Iti vinayavinicchaye kammaṭṭhānabhāvanāvidhānakathā
+
 .
 .
-Vinayavinicchayo samatto.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+

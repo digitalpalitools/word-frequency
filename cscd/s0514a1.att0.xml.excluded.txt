@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 17. Cattālīsanipāto
 
 .
@@ -61,7 +61,7 @@
 ,.....,.,.
 ..,,,‘‘’’,,.,.,.
 ‘‘’’.–‘‘!’’.,.‘‘’’..
-Vessantarapañho niṭṭhito.
+.
 –
 14.
 ‘‘,;
@@ -112,7 +112,7 @@ Vessantarapañho niṭṭhito.
 .–,,,,,,.
 .,,..,.,,.
 .–‘‘!’’.,.‘‘’’..
-Kuṇḍalinipañho niṭṭhito.
+.
 ...–
 26.
 ‘‘,;
@@ -206,7 +206,7 @@ Kuṇḍalinipañho niṭṭhito.
 .,,,.
 .,.–‘‘!’’.,.‘‘’’.....‘‘,’’.‘‘,’’‘‘’’..
 ‘‘,,,’’.
-Tesakuṇajātakavaṇṇanā paṭhamā.
+.
 
 .
 .....‘‘,’’.,.,.
@@ -434,7 +434,7 @@ Tesakuṇajātakavaṇṇanā paṭhamā.
 ‘‘,;
 ,;
 ,’’.
-Sarabhaṅgajātakavaṇṇanā dutiyā.
+.
 
 .
 .(jā. 1.8.60 ādayo).‘‘,,’’‘‘,’’‘‘’’‘‘’’‘‘,’’.
@@ -621,7 +621,7 @@ Sarabhaṅgajātakavaṇṇanā dutiyā.
 ,’’.
 –‘‘,,,,’’.
 ,.,,.
-Alambusājātakavaṇṇanā tatiyā.
+.
 
 .
 .‘‘’’.
@@ -816,7 +816,7 @@ Alambusājātakavaṇṇanā tatiyā.
 ,’’.
 ..
 –‘‘,,,’’.
-Saṅkhapālajātakavaṇṇanā catutthā.
+.
 
 .
 .(jā. 2.22.1153 ādayo).,.,.,‘‘’’.,‘‘’’.,...
@@ -1030,8 +1030,8 @@ Saṅkhapālajātakavaṇṇanā catutthā.
 ..,.,....
 .
 ‘‘,,,’’‘‘,,,,,,,,,’’.
-Cūḷasutasomajātakavaṇṇanā pañcamā.
+.
 –
 ,;
 ,.
-Cattālīsanipātavaṇṇanā niṭṭhitā.
+.

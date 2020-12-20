@@ -123,7 +123,7 @@
 35...
 ..
 ..
-Hetugocchakaṃ niṭṭhitaṃ.
+.
 7-8-1. Sappaccayādidukāni-kusalattikaṃ
 36...
 ..
@@ -146,7 +146,7 @@ Hetugocchakaṃ niṭṭhitaṃ.
 40.….
 ….
 ….
-Cūḷantaradukaṃ niṭṭhitaṃ.
+.
 14-1. Āsavaduka-kusalattikaṃ
 41...
 ….
@@ -169,7 +169,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 ..
 ..
 .….
-Āsavagocchakaṃ niṭṭhitaṃ.
+.
 20-54-1. Saññojanādidukāni-kusalattikaṃ
 46.…pe……pe……pe……pe……pe….
 55-1. Sārammaṇaduka-kusalattikaṃ
@@ -217,7 +217,7 @@ Cūḷantaradukaṃ niṭṭhitaṃ.
 68-1. Upādinnaduka-kusalattikaṃ
 60...
 ..(Abyākatamūlaṃ ekaṃyeva.)
-Mahantaradukaṃ niṭṭhitaṃ.
+.
 69-82-1. Dvigocchakāni-kusalattikaṃ
 61...
 ….
@@ -375,4 +375,4 @@ Nahetu-naārammaṇapaccayā
 Paccanīyuddhāro
 105.,,.(Saṃkhittaṃ.),…pe….
 (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-Dhammānulomapaccanīye dukatikapaṭṭhānaṃ niṭṭhitaṃ.
+.

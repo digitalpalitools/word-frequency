@@ -370,7 +370,7 @@ saṅgaraṃ (sī. pī.) ma. ni. 3.272,.
 122.
 ‘‘,;
 ,’’.
-Mūgapakkhajātakaṃ paṭhamaṃ.
+.
 
 .(2)
 123.
@@ -918,7 +918,7 @@ paraṃ (sī. pī.),.
 295.
 ‘‘,’’;
 ‘‘,’’.
-Mahājanakajātakaṃ dutiyaṃ.
+.
 
 .(3)
 296.
@@ -1299,7 +1299,7 @@ saraṇaṃ sāma gacchāmi (syā. ka.),’’.
 420.
 ‘‘,;
 ,’’.
-Suvaṇṇasāmajātakaṃ sāmajātakaṃ (sī. pī.) tatiyaṃ.
+sāmajātakaṃ (sī. pī.).
 
 .(4)
 421.
@@ -1858,7 +1858,7 @@ nimantayī ca (sī. pī.),.
 589.
 ‘‘,;
 ,’’.
-Nimijātakaṃ nemirājajātakaṃ (syā.) catutthaṃ.
+nemirājajātakaṃ (syā.).
 
 .(5)
 590.
@@ -2465,7 +2465,7 @@ amittassa hatthagate (ka.),’’.
 783.
 ‘‘,;
 ,’’.
-Umaṅgajātakaṃ mahāummaggajātakaṃ (sī. pī.), mahosadhajātakaṃ (syā.§ka.) pañcamaṃ.
+mahāummaggajātakaṃ (sī. pī.), mahosadhajātakaṃ (syā.§ka.).
 
 .(6)
 784.
@@ -3068,7 +3068,7 @@ tapaññamaṇidaṇḍāni (sī. pī.), suvaṇṇamaṇidaṇḍāni (syā. ka
 981.
 ‘‘,;
 ,’’.
-Bhūridattajātakaṃ chaṭṭhaṃ.
+.
 
 .(7)
 982.
@@ -3592,7 +3592,7 @@ pitanisito (sī. pī.),.
 1152.
 ‘‘,bahu ānandano ahu vaṃso (sī.), bahu ānandito ahu vaṃso (pī.);
 vādiṃsu nandipavesanagaraṃ (syā.), nandiṃ pavesi nagare (ka.),’’.
-Candakumārajātakaṃ khaṇḍahālajātakaṃ (sī. pī.) sattamaṃ.
+khaṇḍahālajātakaṃ (sī. pī.).
 
 .(8)
 1153.
@@ -4186,7 +4186,7 @@ nivātavuttiyottaṅgo (ka.),.
 1345.
 ‘‘,;
 ,’’.
-Mahānāradakassapajātakaṃ aṭṭhamaṃ.
+.
 
 .(9)
 
@@ -4338,7 +4338,7 @@ abhibhosi (sī. pī.),’’.
 1392.
 ‘‘,;
 ,’’.
-Dohaḷakaṇḍaṃ nāma.
+.
 
 
 1393.
@@ -4464,7 +4464,7 @@ paranimmitābhiratino (sī. pī.),.
 1433.
 ‘‘,;
 ,’’.
-Maṇikaṇḍaṃ nāma.
+.
 
 
 1434.
@@ -4513,7 +4513,7 @@ jinnosi (syā.), jitosi (pī.) jinomhi (ka.),’’.
 1448.
 ‘‘,;
 ,’’.
-Akkhakaṇḍaṃ nāma.
+.
 
 
 1449.
@@ -4543,8 +4543,8 @@ saṅkhāto (ka.),.
 1457.
 ‘‘,;
 ,’’.
-Gharāvāsapañhā nāma.
-Lakkhaṇakaṇḍaṃ
+.
+
 1458.
 ‘‘,;
 tamevatthaṃ (pī.),’’.
@@ -4586,7 +4586,7 @@ anusāsituṃ āgatosmi (syā. ka.),.
 ‘‘,;
 ,;
 ,’’.
-Lakkhaṇakaṇḍaṃ pekkhaṇakaṇḍaṃ (sī. ka.) nāma.
+pekkhaṇakaṇḍaṃ (sī. ka.).
 
 
 1471.
@@ -4734,7 +4734,7 @@ hiriottappasampanno (sī. ka.),ayaṃ gāthā natthi pī. potthake.
 1517.
 ‘‘,;
 ,’’.
-Rājavasati nāma.
+.
 
 
 1518.
@@ -4832,7 +4832,7 @@ pavissāma (syā.),’’.
 1548.
 ‘‘,;
 ,’’khippaṃ mocessata’ttānaṃ, mā bhātha āgamissati (sī. pī.).
-Antarapeyyālaṃ nāma.
+.
 
 
 1549.
@@ -4905,7 +4905,7 @@ Antarapeyyālaṃ nāma.
 1571.
 ‘‘,;
 ,’’.
-Sādhunaradhammakaṇḍaṃ nāma.
+.
 
 
 1572.
@@ -4944,7 +4944,7 @@ sāmaggipekkhī pana (sī. syā. pī.),’’.
 1583.
 ‘‘,;
 taṃ passa dhammaṃ samukhā (ka.),bhave (pī.)’’.
-Kālāgirikaṇḍaṃ nāma.
+.
 1584.
 ‘‘,bhayaddito (sī. pī.);
 ,’’.
@@ -5158,7 +5158,7 @@ mā’ya’māha (syā.),’’.
 1654.
 ,;
 ,.
-Vidhurajātakaṃ navamaṃ.
+.
 
 .(10)
 Dasavarakathā
@@ -5202,7 +5202,7 @@ Dasavarakathā
 1667.
 ‘‘,;
 ,.
-Dasavarakathā nāma.
+.
 Hemavantaṃ
 1668.
 ‘‘,;
@@ -5441,7 +5441,7 @@ tattheva (syā. ka.),.
 1743.
 ‘‘,;
 ,’’.
-Hemavantaṃ nāma.
+.
 Dānakaṇḍaṃ
 1744.
 ‘‘,;
@@ -5841,7 +5841,7 @@ abhejjantyā (sī. pī.),.
 1868.
 ‘‘,;
 ,’’.
-Dānakaṇḍaṃ nāma.
+.
 Vanapavesanaṃ
 1869.
 ‘‘,;
@@ -5985,7 +5985,7 @@ dakkhasi (sī. pī.),.
 1913.
 ‘‘,;
 ,’’.
-Vanapavesanaṃ nāma.
+.
 Jūjakapabbaṃ
 1914.
 ‘‘,;
@@ -6189,7 +6189,7 @@ bandhasakuṇaṃ (ka.),.
 1975.
 ‘‘,;
 ,’’.
-Jūjakapabbaṃ nāma.
+.
 Cūḷavanavaṇṇanā
 1976.
 ‘‘,;
@@ -6291,7 +6291,7 @@ samodateva (ka.),;
 2006.
 ,;
 ,.
-Cūḷavanavaṇṇanā.
+.
 Mahāvanavaṇṇanā
 2007.
 ,;
@@ -6539,7 +6539,7 @@ khuddaṃ (syā. ka.),;
 2086.
 ,;
 ,’’.
-Mahāvanavaṇṇanā.
+.
 Dārakapabbaṃ
 2087.
 ‘‘,;
@@ -6834,7 +6834,7 @@ dinnamhāpi (sī. syā.), dinnamāsi (ka.),;
 2181.
 ‘‘,;
 ,’’.
-Dārakapabbaṃ nāma.
+.
 Maddīpabbaṃ
 2182.
 ‘‘,;
@@ -7100,7 +7100,7 @@ ukkantasattaṃ (sī. pī.),’’.
 2266.
 ‘‘,;
 ,’’.
-Maddīpabbaṃ nāma.
+.
 Sakkapabbaṃ
 2267.
 ,;
@@ -7214,7 +7214,7 @@ Sakkapabbaṃ
 2302.
 ‘‘,;
 ,’’.
-Sakkapabbaṃ nāma.
+.
 Mahārājapabbaṃ
 2303.
 ‘‘,;
@@ -7417,7 +7417,7 @@ vadantu (sī. pī.),.
 2367.
 ‘‘,;
 ,’’.
-Mahārājapabbaṃ nāma.
+.
 Chakhattiyakammaṃ
 2368.
 ‘‘,;
@@ -7519,7 +7519,7 @@ ahosi (?),.
 ‘‘,;
 ,;
 ,’’.
-Chakhattiyakammaṃ nāma.
+.
 2400.
 ‘‘,;
 ,’’.
@@ -7654,6 +7654,6 @@ nandi-ppavesi (sī. syā. pī.),.
 2440.
 ‘‘,;
 ,’’.
-Vessantarajātakaṃ dasamaṃ.
-Mahānipāta niṭṭhitā.
-Jātakapāḷi niṭṭhitā.
+.
+.
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāye
 Majjhimapaṇṇāsaṭīkā
 1. Gahapativaggo
@@ -19,7 +19,7 @@ Majjhimapaṇṇāsaṭīkā
 6...,,‘‘’’..‘‘’’.-‘‘’’.‘‘’’.,.‘‘’’.
 8.,,,.
 9...,.....
-Kandarakasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Aṭṭhakanāgarasuttavaṇṇanā
 17.‘‘’’.(a. ni. ṭī. 3.11.16)...,.
 18.-‘‘’’,‘‘…pe…’’.-‘‘’’.....,,,.
@@ -29,7 +29,7 @@ Kandarakasuttavaṇṇanāya līnatthappakāsanā samattā.
 .‘‘’’‘‘’’‘‘’’(ma. ni. 2.133)‘‘’’.(dī. ni. 2.373 ādayo; ma. ni. 1.106 ādayo)‘‘’’.(ma. ni. 3.153-154)‘‘’’.
 ‘‘’’...,.‘‘,,…pe…’’(ma. ni. 2.18).,,,.
 21...
-Aṭṭhakanāgarasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Sekhasuttavaṇṇanā
 22..–‘‘’’.-.,..--..
 ,.?.
@@ -68,7 +68,7 @@ Aṭṭhakanāgarasuttavaṇṇanāya līnatthappakāsanā samattā.
 30..‘‘’’.,,.
 ---‘‘’’,.,.,‘‘’’.‘‘,’’.
 ‘‘’’..‘‘,’’.,.
-Sekhasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Potaliyasuttavaṇṇanā
 31.,‘‘’’...‘‘’’..(a. ni. ṭī. 3.8.19),,‘‘’’..‘‘’’..
 ,‘‘’’......,....,..,.
@@ -86,7 +86,7 @@ Kāmādīnavakathāvaṇṇanā
 47..
 48..‘‘’’.
 50....
-Potaliyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Jīvakasuttavaṇṇanā
 51.,‘‘’’.
 -,–‘‘’’.(a. ni. ṭī. 3.8.12; sārattha. ṭī. mahāvagga 3.294).-–‘‘’’.‘‘’’(jā. 1.4.75).,.‘‘’’...
@@ -98,7 +98,7 @@ Potaliyasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..,.–‘‘’’.‘‘’’.‘‘’’(dī. ni. 3.182; ma. ni. 1.23; 2.24; 3.75; saṃ. ni. 4.120)..‘‘’’,,,,.
 55.‘‘’’‘‘’’.,.?,.–‘,,’(ma. ni. 2.52).(pārā. 409; cūḷava. 343)–‘‘,,’’..‘‘’’‘‘’’.
 ...,.,,‘‘’’...
-Jīvakasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Upālisuttavaṇṇanā
 56.,,.‘‘’’...‘‘’’.,‘‘’’.
 ....?,,‘‘’’.,.‘‘’’....,.
@@ -170,7 +170,7 @@ Jīvakasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..----..-‘‘’’–‘‘’’.‘‘’’.–‘‘’’(itivu. 38)..,..
 .,.,...‘‘’’..
 77.,.....‘‘’’..–‘’’.
-Upālisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Kukkuravatikasuttavaṇṇanā
 78..‘‘’’.‘‘’’.,.,.‘‘’’.–‘‘,,,’’.,..‘‘’’.–‘‘’’..,.–‘‘’’.,‘‘’’.
 79.,.‘‘’’...,.‘‘’’.....,..‘‘’’,‘‘’’.‘‘’’..
@@ -182,7 +182,7 @@ Upālisuttavaṇṇanāya līnatthappakāsanā samattā.
 ....‘‘’’.
 82.......
 ..…pe…,,‘‘’’‘‘’’...
-Kukkuravatikasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Abhayarājakumārasuttavaṇṇanā
 83..–‘‘’’.,...,..–‘‘’’.,,,.?‘‘’’,,.‘‘’’‘‘,’’.
 ..–‘‘‘,’’’.
@@ -194,14 +194,14 @@ Kukkuravatikasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘,’’‘‘’’.‘‘’’.
 .,.
 87..,.,.‘‘’’.,.‘‘’’..
-Abhayarājakumārasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Bahuvedaniyasuttavaṇṇanā
 88...,.
 89.,..–‘‘’’.,..,..,.‘‘’’..
 90.‘‘’’.–‘‘,’’,.,.?,.,(itivu. aṭṭha. 52 ādayo).
 ‘‘’’..,..,..‘‘’’.
 91.,,,,..
-Bahuvedanīyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Apaṇṇakasuttavaṇṇanā
 93.,.......‘‘’’,,,..-,..,.,‘‘’’.‘‘’’.
 94..
@@ -222,5 +222,5 @@ Bahuvedanīyasuttavaṇṇanāya līnatthappakāsanā samattā.
 103..‘‘’’,..‘‘’’.....
 104..,,.–‘‘’’.–‘‘’’..,,.‘‘’’.‘‘’’.
 105..,..,.
-Apaṇṇakasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca gahapativaggavaṇṇanā.
+.
+.

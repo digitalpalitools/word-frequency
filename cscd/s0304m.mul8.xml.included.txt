@@ -23,7 +23,7 @@ iti kho bhikkhave desitaṃ vo mayā asaṅkhataṃ desito asaṅkhatagāmimaggo
  katamo ca bhikkhave asaṅkhatagāmimaggo satta bojjhaṅgā ayaṃ vuccati bhikkhave asaṅkhatagāmimaggo dasamaṃ
 
  katamo  ca bhikkhave asaṅkhatagāmimaggo ariyo aṭṭhaṅgiko maggo ayaṃ vuccati bhikkhave asaṅkhatagāmimaggo iti kho bhikkhave  desitaṃ vo mayā asaṅkhataṃ desito asaṅkhatagāmimaggo yaṃ bhikkhave satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya kataṃ vo taṃ mayā etāni bhikkhave rukkhamūlāni etāni suññāgārāni jhāyatha bhikkhave mā pamādattha mā pacchā vippaṭisārino ahuvattha ayaṃ vo amhākaṃ anusāsanīti ekādasamaṃ
-
+paṭhamo vaggo
 tassuddānaṃ 
 kāyo  samatho savitakko suññato satipaṭṭhānā
 sammappadhānā iddhipādā indriyabalabojjhaṅgā
@@ -50,7 +50,7 @@ acchariyañca vo bhikkhave desessāmi acchariyagāmiñca maggaṃ taṃ suṇāt
 suddhiñca  vo bhikkhave desessāmi suddhigāmiñca maggaṃ taṃ suṇātha katamā ca bhikkhave suddhi muttiñca vo bhikkhave desessāmi muttigāmiñca maggaṃ taṃ suṇātha katamā ca bhikkhave mutti anālayañca vo bhikkhave desessāmi anālayagāmiñca maggaṃ taṃ suṇātha katamo ca bhikkhave anālayo dīpañca vo bhikkhave desessāmi dīpagāmiñca maggaṃ taṃ suṇātha katamañca bhikkhave dīpaṃ leṇañca vo bhikkhave desessāmi leṇagāmiñca maggaṃ taṃ suṇātha katamañca bhikkhave leṇaṃ tāṇañca  vo bhikkhave desessāmi tāṇagāmiñca maggaṃ taṃ suṇātha katamañca bhikkhave tāṇaṃ saraṇañca vo bhikkhave desessāmi saraṇagāmiñca maggaṃ taṃ suṇātha katamañca bhikkhave saraṇaṃanusāsanīti bāttiṃsatimaṃ
 
  parāyanañca  vo bhikkhave desessāmi parāyanagāmiñca maggaṃ taṃ suṇātha katamañca bhikkhave parāyanaṃ yo bhikkhave rāgakkhayo dosakkhayo  mohakkhayo  idaṃ vuccati bhikkhave parāyanaṃ katamo ca bhikkhave parāyanagāmī maggo kāyagatāsati ayaṃ vuccati bhikkhave parāyanagāmimaggo iti kho bhikkhave desitaṃ vo mayā parāyanaṃ desito parāyanagāmimaggo yaṃ bhikkhave satthārā karaṇīyaṃ sāvakānaṃ hitesinā anukampakena anukampaṃ upādāya kataṃ vo taṃ mayā etāni bhikkhave rukkhamūlāni etāni suññāgārāni jhāyatha bhikkhave mā pamādattha mā pacchā vippaṭisārino ahuvattha ayaṃ vo amhākaṃ anusāsanīti  tettiṃsatimaṃ
-
+dutiyo vaggo
 tassuddānaṃ 
 asaṅkhataṃ anataṃ anāsavaṃ saccañca pāraṃ nipuṇaṃ sududdasaṃ
 ajajjaraṃ dhuvaṃ apalokitaṃ anidassanaṃ nippapañca santaṃ
@@ -58,4 +58,4 @@ amataṃ  paṇītañca sivañca khemaṃ taṇhākkhayo acchariyañca abbhuta�
 anītikaṃ anītikadhammaṃ nibbānametaṃ sugatena desitaṃ
 abyāpajjho  virāgo ca suddhi mutti anālayo
 dīpo leṇañca tāṇañca saraṇañca parāyananti
-
+asaṅkhatasaṃyuttaṃ samattaṃ

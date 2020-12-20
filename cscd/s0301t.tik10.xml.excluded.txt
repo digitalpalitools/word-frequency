@@ -11,10 +11,10 @@
 .
 -...‘‘’’.
 ....,.‘‘,’’.‘‘’’..…pe…,..
-Indakasuttavaṇṇanā niṭṭhitā.
+.
 2. Sakkanāmasuttavaṇṇanā
 236..‘‘’’.‘‘’’..,,...,.…pe….
-Sakkanāmasuttavaṇṇanā niṭṭhitā.
+.
 3. Sūcilomasuttavaṇṇanā
 237.‘‘’’‘‘’’,‘‘’’........
 ‘‘’’‘‘’’...
@@ -25,10 +25,10 @@ Sakkanāmasuttavaṇṇanā niṭṭhitā.
 ‘‘’’.‘‘’’.,,......
 ‘‘’’.‘‘’’,‘‘’’.,‘‘’’.,‘‘’’.‘‘,’’,,,‘‘’’.
 ‘‘’’,.......
-Sūcilomasuttavaṇṇanā niṭṭhitā.
+.
 4. Maṇibhaddasuttavaṇṇanā
 238...‘‘’’‘‘’’.,‘‘’’,,‘‘’’......,..
-Maṇibhaddasuttavaṇṇanā niṭṭhitā.
+.
 5. Sānusuttavaṇṇanā
 239..‘‘’’.‘‘’’....,‘‘,,‘’,’’(ma. ni. 1.65).‘‘’’.
 ..,.‘‘,’’.
@@ -36,16 +36,16 @@ Maṇibhaddasuttavaṇṇanā niṭṭhitā.
 ,...
 ....‘‘,,,’’(ma. ni. 3.45).
 ....,.‘‘’’..
-Sānusuttavaṇṇanā niṭṭhitā.
+.
 6. Piyaṅkarasuttavaṇṇanā
 240...,.,‘‘’’,...‘‘’’.
 .‘‘’’....,..
-Piyaṅkarasuttavaṇṇanā niṭṭhitā.
+.
 7. Punabbasusuttavaṇṇanā
 241...,,.‘‘’’...-.
 ‘‘’’.‘‘’’..‘‘’’...?‘‘’’..‘‘’’.‘‘’’.
 .....-..-,‘‘’’.
-Punabbasusuttavaṇṇanā niṭṭhitā.
+.
 8. Sudattasuttavaṇṇanā
 242.‘‘’’..,..
 ,,,..‘‘’’..‘‘’’..-‘‘’’...‘‘…pe…’’.
@@ -56,17 +56,17 @@ Punabbasusuttavaṇṇanā niṭṭhitā.
 ...‘‘’’.‘‘,’’?‘‘’’.,.
 ‘‘’’.‘‘’’.
 ...‘‘’’.–‘‘.–’’(cūḷava. 305)..,.
-Sudattasuttavaṇṇanā niṭṭhitā.
+.
 9. Paṭhamasukkāsuttavaṇṇanā
 243....‘‘’’.‘‘’’-‘‘’’..‘‘’’.
 .‘‘’’....‘‘’’.....
-Paṭhamasukkāsuttavaṇṇanā niṭṭhitā.
+.
 10. Dutiyasukkāsuttavaṇṇanā
 244..
-Dutiyasukkāsuttavaṇṇanā niṭṭhitā.
+.
 11. Cīrāsuttavaṇṇanā
 245..,.
-Cīrāsuttavaṇṇanā niṭṭhitā.
+.
 12. Āḷavakasuttavaṇṇanā
 246.....‘‘’’..,.,,.‘‘’’....,..,.‘‘’’..‘‘,’’..‘‘’’...,.
 ..
@@ -113,6 +113,6 @@ Cīrāsuttavaṇṇanā niṭṭhitā.
 ..,..…pe…..‘‘’’,.
 ‘‘’’‘‘’’..-‘‘,’’..
 .,‘‘’’..‘‘…pe…’’...‘‘’’.
-Āḷavakasuttavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Yakkhasaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+-
+.

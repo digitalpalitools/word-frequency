@@ -17,7 +17,7 @@
 5.
 ,;
 ,.
-Mahāsenarañño vatthuṃ pathamaṃ.
+.
 32. Suvaṇṇatilakāya vatthumhi ayamānupubbīkathā
 ekāmātugāmātivā ekāmātugāmotivā katthaci,pupphapūjatthāya itikatthaci,anāgateyeva itisabbattha..
 1.
@@ -51,7 +51,7 @@ ekāmātugāmātivā ekāmātugāmotivā katthaci,pupphapūjatthāya itikatthaci
 ;
 ,
 .
-Kimidanti raññā puṭṭho āha.
+.
 10.
 ,
 ;
@@ -104,14 +104,14 @@ paṭisedhetikattabbā itisabbattha,.
 21.
 ,;
 ,.
-Taṃ sutvā te evamāhaṃsu.
+.
 22.
 ,;
 ,.
 23.
 ,;
 ,.
-Atha tesaṃ brahmaṇo āha.
+.
 24.
 ,;
 ,.
@@ -128,7 +128,7 @@ māyācesā itikatthaci,
 ;
 dhitisampayuttaṃ itikatthaci,
 .
-Suvaṇṇatilakāya vatthuṃ dutiyaṃ.
+.
 33. Kapaṇāya vatthumhi ayamānupubbīkathā
 .,..
 1.
@@ -191,7 +191,7 @@ Suvaṇṇatilakāya vatthuṃ dutiyaṃ.
 ;
 ,
 .
-Kapaṇāya vatthuṃ tatiyaṃ.
+.
 34. Indaguttattherassa vatthumhi ayamānupubbīkathā
 ..,...............
 1.
@@ -296,7 +296,7 @@ Kapaṇāya vatthuṃ tatiyaṃ.
 ;
 ,
 .
-Indaguttattherassa vatthuṃ catutthaṃ.
+.
 35. Sākhamālapūjikāya vatthumhi ayamānupubbīkathā
 -,.,.....ekobhāsi tato itisabbattha.,pubbekissame. pubbekatename iticakatthaci..,.
 1.
@@ -350,7 +350,7 @@ nahapanantaphalaṃ itipikatthaci,.
 ;
 ,
 .
-Sākhamālapūjikāya vatthuṃ pañcamaṃ.
+.
 36. Moriyabrahmaṇassa vatthumhi ayamānupubbīkathā
 .,.....,..
 1.
@@ -402,7 +402,7 @@ Sākhamālapūjikāya vatthuṃ pañcamaṃ.
 ;
 ,
 .
-Moriyabrāhmaṇassa vatthuṃ chaṭṭhamaṃ.
+.
 37. Puttavatthumhi ayamānupubbīkathā
 tamalittapaṭṭane itikatthaci.cirenāhaṃdiṭṭhā itisabbattha,,,....,.,..
 1.
@@ -427,10 +427,10 @@ tamalittapaṭṭane itikatthaci.cirenāhaṃdiṭṭhā itisabbattha,,,....,.,.
 ;
 ,
 .
-Puttavatthuṃ sattamaṃ.
+.
 38. Tebhātikamadhuvāṇijakānaṃ vatthumhi ayamānupubbīkathā
 .malavāsīnaṃ itipikatthacivakkiṇitvā itisabbattha,...labbhati itisabbattha,,..,caranto itipikatthaci,kuṭimba ko itipikatthaci...
-Vuttañhi mahāvaṃse.
+.
 1.
 ,;
 ,.
@@ -473,7 +473,7 @@ pubbena itikatthaci,;
 ;
 ,
 aseso itipikatthaci.
-Ayaṃ nigrodhattherassa kathānayo.
+.
 ..
 .....,,,.,.,.....devatāevaṃ itisabbattha,,..hatthapucchanakapaṭṭaṃ itisabbattha.........sammāsambuddharūpaṃ itisabbattha.,,..antepure itisabbattha,.,,,,,.,,,.,,sayaṃcaasokahovihāratthāya itipikatthaci,,,,,,.,,,..,,.,.,...,,.,..,,,aviñcine itipikatthaci,rājānaṃ itisabbattha,.,...,,,.pabbajjāmi itisabbattha...,..pabbajjāpesi itisabbattha.,.acāriyā āyupālattherīnāma itisabbattha..sahayyena. sāhāyyena. sāhayyena itipikatthaci.kittakānīti itisabbattha,.
 12.
@@ -559,7 +559,7 @@ sammodanīyaṃ-itisabbattha.,,,..,.
 ;
 ,
 .
-Tebhātikamadhuvāṇijakānaṃ vatthuṃ aṭṭhamaṃ.
+.
 39. Bodhirājadhītuyā bodhirājadhītāya itisabbattha vatthumhi ayamānupubbīkathā
 ,,..,,.,.....,..
 1.
@@ -619,17 +619,17 @@ mahārājadiṭṭhapubba itipikatthaci,;
 ;
 ,
 .
-Bodhirājadhītuyā vatthuṃ navamaṃ.
+.
 40. Kuṇḍaliyā vatthumhi ayamānupubbīkathā
 ,....,,..,.,.,.,.
 1.
 ,;
 ,.
-Taṃ sutvā sāmaṇero āha.
+.
 2.
 ,;
 ,.
-Tato sā taṃ sārāpentī āha.
+.
 3.
 ,;
 ,.
@@ -661,6 +661,6 @@ Tato sā taṃ sārāpentī āha.
 12.
 ,;
 ,.
-Kuṇḍaliyā vatthuṃ dasamaṃ.
-Mahāsenavaggo catuttho.
-Ettāvatā jambudīpuppattikathā samattā.
+.
+.
+.

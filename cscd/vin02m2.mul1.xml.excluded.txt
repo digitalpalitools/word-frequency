@@ -81,7 +81,7 @@ saṃcarabhayaṃ (syā.)...,,.
 .–‘‘‘’,,’’?.,,–‘’..
 ..,,.,.
 ..,,.,.,,therādheyyaṃ (aṭṭhakathāyaṃ pāṭhantaraṃ).
-Aññatitthiyabhāṇavāro niṭṭhito paṭhamo ekādasamo (ka.).
+ekādasamo (ka.).
 83. Pātimokkhuddesakaajjhesanādi
 155.....,.–‘‘‘’,,,.’’?.,,.
 .,.–‘‘,,’’.–‘‘,,’’.–‘‘,,’’.–‘‘,,’’.–‘‘,,’’.–‘‘,,’’.–‘‘’’.–‘‘,,’’..
@@ -167,7 +167,7 @@ Aññatitthiyabhāṇavāro niṭṭhito paṭhamo ekādasamo (ka.).
 ,,.,,–,;.,.,–,;.
 ...,–‘‘,,,’’?–‘‘,,,.,,;’’.–‘‘,,;’’.–‘‘,,.,,,’’.,–‘‘,,,.,,;’’...
 ,,...,–‘‘,,,’’?–‘‘,,,.,,;’’.–‘‘,,.’’.–‘‘,,.,,,’’.,,,–‘‘,,,,’’.,,,.,,,.
-Codanāvatthubhāṇavāro niṭṭhito dutiyo.
+.
 95. Anāpattipannarasakaṃ
 172..‘‘’’.,.,..
 ,,.‘‘’’.,.,.,,..
@@ -185,25 +185,25 @@ Codanāvatthubhāṇavāro niṭṭhito dutiyo.
 ,,.,.,,.,,..
 ,,.,.,,.,..
 ,,.,.,,.,..
-Anāpattipannarasakaṃ niṭṭhitaṃ.
+.
 96. Vaggāvaggasaññīpannarasakaṃ
 173.,,.‘‘’’.,.,.,,..
 ,,.,.,.,..
 ,,..,.,..
 ,,.‘‘’’.,.…pe……pe……pe……pe……pe….,..
-Vaggāvaggasaññipannarasakaṃ niṭṭhitaṃ.
+.
 97. Vematikapannarasakaṃ
 174.,,.‘‘’’.,,,.,.,,..
 ,,.‘‘’’,‘‘,’’,,.,.,..
 ,,.,,,,..,..
 ,,.‘‘’’.,‘‘’’,,.,…pe……pe……pe…,…pe……pe….,..
-Vematikapannarasakaṃ niṭṭhitaṃ.
+.
 98. Kukkuccapakatapannarasakaṃ
 175.,,.‘‘’’.‘‘’’,,.,.,,..
 ,,.‘‘’’.‘‘’’,,.,.,..
 ,,.‘‘’’.‘‘,’’,,.,.,..
 ,,.‘‘’’.‘‘’’,,.,…pe……pe……pe…,…pe……pe….,..
-Kukkuccapakatapannarasakaṃ niṭṭhitaṃ.
+.
 99. Bhedapurekkhārapannarasakaṃ
 176.,,.‘‘’’.‘‘,,’’–,.,.,,..
 ,,.‘‘’’.‘‘,,’’–,.,.,..
@@ -220,29 +220,29 @@ Kukkuccapakatapannarasakaṃ niṭṭhitaṃ.
 ,,.‘‘’’.‘‘,,’’–,.,,.,,..
 ,,.‘‘’’.‘‘,,’’–,.,,.,..
 ,,.‘‘’’.‘‘,,’’–,.,,.,..
-Bhedapurekkhārapannarasakaṃ niṭṭhitaṃ.
-Pañcavīsatikā niṭṭhitā.
+.
+.
 100. Sīmokkantikapeyyālaṃ
 177.,,.‘‘’’…pe…‘‘’’…pe……pe……pe…‘‘’’…pe…‘‘’’…pe….
 ,,,.
 178.,,,.,.,.,.
 ,,,.,.,.,.
 ,,,.,..,..,.
-Idha pana, bhikkhave, āvāsikānaṃ bhikkhūnaṃ pannaraso hoti, āgantukānaṃ 
+,,,
 .,.,.,..
-Sīmokkantikapeyyālaṃ niṭṭhitaṃ.
+.
 101. Liṅgādidassanaṃ
 179.,,,,,,,,,;–‘‘’’.;..;;..;;..;;..;;–‘‘,,’’–..
 ,,,,,,,,,;–‘‘’’.;..;;..;;..;;..;;–‘‘,,’’–..
 ,,,,,,,,,,;–‘‘’’.;..;;..;;..;;..;;–‘‘,,’’–..
 ,,,,,,,,,;–‘‘’’.;..;;..;;..;;..;;–‘‘,,’’–..
-Liṅgādidassanaṃ niṭṭhitaṃ.
+.
 102. Nānāsaṃvāsakādīhi uposathakaraṇaṃ
 180.,,.;;..;;..;;..
 ,,.;;..;;..;;..
 ,,.;;..;;..;;..
 ,,.;;..;;..;;..
-Nānāsaṃvāsakādīhi uposathakaraṇaṃ niṭṭhitaṃ.
+.
 103. Nagantabbavāro
 181.,,,.,,,.,,,.
 ,,,.,,,.,,,.
@@ -250,20 +250,20 @@ Nānāsaṃvāsakādīhi uposathakaraṇaṃ niṭṭhitaṃ.
 ,,,,.,,,,.,,,,.
 ,,,,.,,,,.,,,,.
 ,,,,.,,,,.,,,,.
-Nagantabbavāro niṭṭhito.
+.
 104. Gantabbavāro
 182.,,,,–‘‘’’.,,…pe…,,–‘‘’’.
 ,,…pe……pe…,,–‘‘’’.
 ,,…pe……pe…,,–‘‘’’.
-Gantabbavāro niṭṭhito.
+.
 105. Vajjanīyapuggalasandassanā
 183.,,.,.…pe……pe……pe……pe….,.
 .,.…pe….,.
 .,.…pe……pe……pe……pe……pe……pe……pe……pe……pe….,.
 ,,,.,,,.
-Vajjanīyapuggalasandassanā niṭṭhitā.
-Tatiyabhāṇavāro niṭṭhito.
-Uposathakkhandhako dutiyo.
+.
+.
+.
 106. Tassuddānaṃ
 ,;
 ,.
@@ -291,5 +291,5 @@ sajjuvassaruposatho (ka.),;
 ,.
 ,;
 ,.
-Imasmiṃ khandhake vatthūni chaasīti.
-Uposathakkhandhako niṭṭhito.
+.
+.

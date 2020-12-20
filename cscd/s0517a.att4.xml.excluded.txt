@@ -4,11 +4,11 @@
 ,,,......,(paṭi. ma. 1.160)-.,.,..,.-.‘‘’’.,..
 ..,.?.‘‘’’‘‘’’(paṭi. ma. mātikā 1.1; paṭi. ma. 1.1)‘‘’’.,...,...
 .....‘‘’’...
-Gaṇanavāravaṇṇanā niṭṭhitā.
+.
 2. Soḷasañāṇaniddesavaṇṇanā
 153..,,..,.,..,-....,....,...‘‘’’....
 .,,.,,.
-Soḷasañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 3. Upakkilesañāṇaniddesavaṇṇanā
 Paṭhamacchakkaṃ
 154.,,.,.,,..‘‘’’.......
@@ -18,7 +18,7 @@ Dutiyacchakkaṃ
 Tatiyacchakkaṃ
 156..,........,,,.....
 157..,.,.,..,...‘‘’’(paṭi. ma. 1.153)..
-Upakkilesañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 4. Vodānañāṇaniddesavaṇṇanā
 158..,.....‘‘,’’...,,.,....
 .,.,,.,..,.–‘‘,,,‘,,,,’?.‘,,’?‘’..,,,,,’’(mahāva. 351).,,,.....
@@ -47,7 +47,7 @@ Upakkilesañāṇaniddesavaṇṇanā niṭṭhitā.
 ‘‘’’–,.,,‘‘’’.‘‘’’.
 ‘‘’’.......
 ..........,,‘‘’’‘‘’’..?..
-Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 5. Satokāriñāṇaniddesavaṇṇanā
 163..-,.–‘‘,,…pe…’’(ma. ni. 1.139; a. ni. 4.241).
 .,.,,..–
@@ -111,7 +111,7 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 ....‘‘’’..
 .,.,.,..‘‘’’.
 ‘‘’’,‘‘’’,‘‘’’,‘‘’’.,.,.
-Ānāpānassatimātikāvaṇṇanā niṭṭhitā.
+.
 164...,,,,,,,,,.‘‘’’,,,,,,,,,.......,.–‘‘,,,…pe…,,’’(a. ni. 8.53; cūḷava. 406).,.–
 ‘‘,;
 ,’’.(ma. ni. 2.352; cūḷava. 342);
@@ -131,7 +131,7 @@ Vodānañāṇaniddesavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(netti. 4.5 niddesavāra);
 ,,,,.,,,,......
-Dīghaṃassāsapassāsaniddesavaṇṇanā niṭṭhitā.
+.
 169...
 170.,,,,‘‘,,’’(saṃ. ni. 4.93),,....‘‘’’.‘‘’’(paṭi. ma. 1.174; ma. ni. 1.463)..–.,.–...‘‘’’(dha. sa. 204; dī. ni. 3.338)..‘‘’’(paṭi. ma. 1.171; ma. ni. 1.463).
 ,..
@@ -143,11 +143,11 @@ Dīghaṃassāsapassāsaniddesavaṇṇanā niṭṭhitā.
 ,....‘‘’’,...,...,..
 ‘‘’’‘‘’’...
 ‘‘’’,.‘‘’’(paṭi. ma. 1.170),..(ma. ni. 3.144 ādayo).
-Paṭhamacatukkaniddesavaṇṇanā niṭṭhitā.
+.
 172..,.‘‘’’‘‘’’,.....,,.,,.,..,.‘‘’’..‘‘’’,..,,,.,,..
 173..,...,.,..,..,.,..,.,.
 .,...
-Dutiyacatukkaniddesavaṇṇanā niṭṭhitā.
+.
 176.......‘‘,’’(saṃ. ni. 1.151; mahāva. 33).
 ‘‘,;
 ,’’.(saṃ. ni. 1.159)–
@@ -161,13 +161,13 @@ Dutiyacatukkaniddesavaṇṇanā niṭṭhitā.
 178......‘‘’’,‘‘’’,‘‘’’,‘‘’’..‘‘’’.,.,.,,.
 ..,‘‘’’..,‘‘’’.,.....
 179..,,...
-Tatiyacatukkaniddesavaṇṇanā niṭṭhitā.
+.
 180.‘‘’’‘‘’’.,.,..‘‘’’‘‘’’..‘‘’’..
 ..,‘‘’’...,...‘‘’’...
 181.–..,.,.,......,.,.......,..,.,.
 182...,.,.,..,...‘‘,’’.‘‘,’’.
-Catutthacatukkaniddesavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca satokāriñāṇaniddesavaṇṇanā.
+.
+.
 6. Ñāṇarāsichakkaniddesavaṇṇanā
 183.,..
 ‘‘’’.?..,..
@@ -175,6 +175,6 @@ Niṭṭhitā ca satokāriñāṇaniddesavaṇṇanā.
 ....
 ..‘‘’’...‘‘’’.,.,.‘‘’’.‘‘’’.,.,.
 ...,.
-Ñāṇarāsichakkaniddesavaṇṇanā niṭṭhitā.
-Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
-Ānāpānassatikathāvaṇṇanā niṭṭhitā.
+.
+
+.

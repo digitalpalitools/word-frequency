@@ -40,7 +40,7 @@
 ’’.(dha. pa. 15);
 ‘‘,;
 ,’’.(jā. 1.1.18);
-Aññatarapurisavatthu paṭhamaṃ.
+.
 2. Mahākassapattherasaddhivihārikavatthu
 ..
 .,,‘‘,,’’,.–‘‘,,’’.,.‘‘’’,‘‘,,’’.‘‘,’’.‘‘,‘’’’..
@@ -65,7 +65,7 @@ Aññatarapurisavatthu paṭhamaṃ.
 ,’’.
 ,..,,.–‘‘’’(pu. pa. 121; a. ni. 3.26).‘‘’’,.,.?..
 ,,.
-Mahākassapattherasaddhivihārikavatthu dutiyaṃ.
+.
 3. Ānandaseṭṭhivatthu
 .
 .–‘‘‘’’’,,..–
@@ -78,7 +78,7 @@ Mahākassapattherasaddhivihārikavatthu dutiyaṃ.
 ,’’.
 –,,,‘‘’’,‘‘’’,‘‘’’...‘‘’’,‘‘’’.,,.,,.,.
 ..
-Ānandaseṭṭhivatthu tatiyaṃ.
+.
 4. Gaṇṭhibhedakacoravatthu
 .
 ,.,.,.‘‘’’.‘‘’’.–
@@ -87,7 +87,7 @@ Mahākassapattherasaddhivihārikavatthu dutiyaṃ.
 ,‘’’’.
 ‘‘’’..‘‘’’.‘‘’’.,,..‘‘‘’’’.
 .
-Gaṇṭhibhedakacoravatthu catutthaṃ.
+.
 5. Udāyittheravatthu
 .
 .‘‘’’‘‘,’’.–
@@ -96,7 +96,7 @@ Gaṇṭhibhedakacoravatthu catutthaṃ.
 ,’’.
 –‘‘,’’‘‘,,,,,,,,,’’.?.‘‘,,,,,,,’’,.
 .
-Udāyittheravatthu pañcamaṃ.
+.
 6. Tiṃsamattapāveyyakabhikkhuvatthu
 .
 ..‘‘’’.‘‘,,,(jā. 1.6.88 ādayo),’’–
@@ -105,7 +105,7 @@ Udāyittheravatthu pañcamaṃ.
 ,’’.
 –,.,.
 .
-Tiṃsamattapāveyyakabhikkhuvatthu chaṭṭhaṃ.
+.
 7. Suppabuddhakuṭṭhivatthu
 .(udā. 43).
 .‘‘’’‘‘’’–‘‘,,,‘,,,,,’’’.–‘‘’’?‘‘’’.,,‘‘’’,,,–
@@ -120,7 +120,7 @@ Tiṃsamattapāveyyakabhikkhuvatthu chaṭṭhaṃ.
 ,’’.
 .....
 .
-Suppabuddhakuṭṭhivatthu sattamaṃ.
+.
 8. Kassakavatthu
 .
 ...‘‘’’–‘‘,,,,’’....–‘‘,,’’.‘‘,,’’.
@@ -130,7 +130,7 @@ Suppabuddhakuṭṭhivatthu sattamaṃ.
 ,’’.
 ,..
 ,.
-Kassakavatthu aṭṭhamaṃ.
+.
 9. Sumanamālākāravatthu
 .
 ..,..‘‘’’‘‘’’–‘‘,,’’?‘‘,,’’.
@@ -148,7 +148,7 @@ Kassakavatthu aṭṭhamaṃ.
 ,’’.
 ,,.
 .
-Sumanamālākāravatthu navamaṃ.
+.
 10. Uppalavaṇṇattherīvatthu
 .
 ..–‘‘’’..–‘‘,’’,‘‘,’’..‘‘,’’....
@@ -162,7 +162,7 @@ Sumanamālākāravatthu navamaṃ.
 ‘‘,;
 ,’’.(dha. pa. 401);
 .,‘‘,,.,,’’.‘‘’’..
-Uppalavaṇṇattherīvatthu dasamaṃ.
+.
 11. Jambukattheravatthu
 .
 ...,‘‘,’’,‘‘,,,’’.,‘‘,’’..,‘‘,’’.
@@ -180,7 +180,7 @@ Uppalavaṇṇattherīvatthu dasamaṃ.
 ,’’.
 –‘‘’’.,.,..–,.–,,.
 .
-Jambukattheravatthu ekādasamaṃ.
+.
 12. Ahipetavatthu
 .
 ‘‘’’..‘‘,,’’.‘‘,,,’’.,‘‘,‘’,’’.–‘‘,,.–,,,,,,’’.,...–
@@ -198,7 +198,7 @@ Jambukattheravatthu ekādasamaṃ.
 ,’’.
 .–.,,,.,.,.,.‘‘’’?‘‘’’.,,,.
 .
-Ahipetavatthu dvādasamaṃ.
+.
 13. Saṭṭhikūṭapetavatthu
 .
 .‘‘’’–‘‘,,,,,,’’.–
@@ -215,7 +215,7 @@ Ahipetavatthu dvādasamaṃ.
 ,’’.
 ..,,,....,....
 .
-Saṭṭhikūṭapetavatthu terasamaṃ.
+.
 14. Cittagahapativatthu
 ..
 .‘‘’’...
@@ -239,7 +239,7 @@ Saṭṭhikūṭapetavatthu terasamaṃ.
 .
 .–
 ,‘‘,,,’’,,,‘‘,’’‘‘,,’’‘‘,,’’.,..
-Cittagahapativatthu cuddasamaṃ.
+.
 15. Vanavāsītissasāmaṇeravatthu
 ..
 ...‘‘,,,’’.,.‘‘’’.,‘‘’’.‘‘,’’.
@@ -281,6 +281,6 @@ Cittagahapativatthu cuddasamaṃ.
 ‘‘,,’’(mahāni. 150).–
 ,.
 .
-Vanavāsītissasāmaṇeravatthu pannarasamaṃ.
-Bālavaggavaṇṇanā niṭṭhitā.
-Pañcamo vaggo.
+.
+.
+.

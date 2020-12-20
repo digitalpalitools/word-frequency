@@ -60,7 +60,7 @@
 ,.–
 ‘‘,;
 ,’’.
-Niyutto desanāhāro.
+.
 2. Vicayahāravibhaṅgo
 11.?‘‘’’,.
 ?,,vissajjanaṃ (sī. ka.),,,,,,,,,.,–
@@ -142,7 +142,7 @@ ratti (ka.) ayaṃ gāthā theragā. 397 dissati,.
 ;
 ,’’.
 ,.samānayitabbā (sī. ka.)..,..?,?.–‘‘,’’.
-Niyutto vicayo hāro.
+.
 3. Yuttihāravibhaṅgo
 18.?‘‘’’,.yojeti (sī.)?sampahula… (ka.).,,,.
 ?.?.katamiyaṃ (sī.)?.,,,.,,,.
@@ -165,13 +165,13 @@ yathāha (sī.),...,....
 ,.,.,.,.
 ,.,.,.,.,.
 .‘‘’’.
-Niyutto yutti hāro.
+.
 4. Padaṭṭhānahāravibhaṅgo
 22.?‘‘’’,.?,.,.,.,.,.,.,.,.,.,veramaṇi (ka.).,.vatthuavippaṭipādānalakkhaṇo (sī. ka.),.,.,.,.,.
 ,,,,.,.,.,.,.,.,.,.
 ,,.,.,taṃ (ka.).,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
 ,mattaññutāya (sī. ka.),,,,,,,,,,,,,,,,..,.‘‘’’.
-Niyutto padaṭṭhāno hāro.
+.
 5. Lakkhaṇahāravibhaṅgo
 23.?‘‘’’,.?,.?–
 ‘‘,,calaṃ (sī.)sasaṅkhāraṃ (ka.)..?.–
@@ -184,7 +184,7 @@ Niyutto padaṭṭhāno hāro.
 .,,,,,,,,,,.
 ,.,.,.,.,.,,,,,,,,,,,.,.
 ,.‘‘’’.
-Niyutto lakkhaṇo hāro.
+.
 6. Catubyūhahāravibhaṅgo
 25.?‘‘’’..,,.,,.,..
 26.?
@@ -247,7 +247,7 @@ sa cāyaṃ (sī.).
 .,,.…pe……pe……pe……pe……pe….,..
 passa saṃ. ni. 1.159..,..
 ?,.,.,.,.,.,.,.,.,.,.,.,.,..‘‘’’.
-Niyutto catubyūho hāro.
+.
 7. Āvaṭṭahāravibhaṅgo
 29.?‘‘’’.
 ‘‘ārabbhatha (sī.) saṃ. ni. 1.185; theragā. 256 passitabbaṃ,;
@@ -283,7 +283,7 @@ pariyodapanaṃ (sī.) dha. pa. 183; dī. ni. 2.90 passitabbaṃ,’’.
 32.,,,.,.,...,.,.....
 arahattaphalaṃ (ka.).brahmacariyaphalānīti (sī.)..,..‘‘’’.
 ,.,.,.,..‘‘’’.
-Niyutto āvaṭṭo hāro.
+.
 8. Vibhattihāravibhaṅgo
 33.?‘‘’’.
 ..,,,,.
@@ -292,14 +292,14 @@ Niyutto āvaṭṭo hāro.
 34.?.,,,,,avigatarāgehi (ka.),...
 ?,,.....
 ,,,,,,.,.,,,,,,,.‘‘’’.
-Niyutto vibhatti hāro.
+.
 9. Parivattanahāravibhaṅgo
 35.?‘‘’’..anekā (ka.),.,..,....,.,.
 36........anabhijjhāmanassa (ka.)...
 ,..,..,.
 ‘‘,,,,,’’..
 ‘‘’’..‘‘’’......,,.‘‘’’.
-Niyutto parivattano hāro.
+.
 10. Vevacanahāravibhaṅgo
 37.?‘‘’’..–
 ‘‘,;
@@ -324,7 +324,7 @@ nītikadhammameva vā (sī. ka.) passa saṃ. ni. 4.409,.
 ,esiko (ka.).
 ,,,,,daḷiddo… (sī.),,,.
 .‘‘’’.
-Niyutto vevacano hāro.
+.
 11. Paññattihāravibhaṅgo
 39.?‘‘’’.
 ..,.‘‘’’.
@@ -358,7 +358,7 @@ sassatoriva (udā. 70),’’.
 ‘‘’’.‘‘’’.‘‘’’,...‘‘’’.‘‘’’,.‘‘’’,.‘‘’’.
 ‘‘,,,,,.na idha (sī. ka.) passa udā. 73.,,,’’.
 ‘‘,,’’.‘‘’’.‘‘,,’’.‘‘’’,,.‘‘,,’’.‘‘,’’.
-Niyutto paññatti hāro.
+.
 12. Otaraṇahāravibhaṅgo
 42.?‘‘’’.
 ‘‘,ayamahamasmīti (sī.) passa udā. 61;
@@ -425,7 +425,7 @@ Niyutto paññatti hāro.
 ,,,..
 ,,..‘‘’’.
 ..‘‘’’.
-Niyutto otaraṇo hāro.
+.
 13. Sodhanahāravibhaṅgo
 45.?‘‘’’.–
 ‘‘,;
@@ -449,7 +449,7 @@ nāmaṃ rūpañca (ka.) passa su. ni. 1042;
 ,;
 ,’’.
 .‘‘’’.,.,.‘‘’’.
-Niyutto sodhano hāro.
+.
 14. Adhiṭṭhānahāravibhaṅgo
 46.?‘‘,’’.
 ,.
@@ -474,7 +474,7 @@ Niyutto sodhano hāro.
 ‘‘’’.?āgaḷhā paṭipadā (sī.) aṭṭhakathā oloketabbā,,,,,,,,,,..
 ‘‘’’.?.?nahāru (sī.)–.–..
 ,.,.,,.,.,.,.,.,.‘‘’’.
-Niyutto adhiṭṭhāno hāro.
+.
 15. Parikkhārahāravibhaṅgo
 49.?‘‘’’.
 ,.?..,?,.?,..,..
@@ -483,7 +483,7 @@ Niyutto adhiṭṭhāno hāro.
 ,,,,,,.,,,,,,,.,,,,.
 ,,,.,,.
 .,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,..‘‘’’.
-Niyutto parikkhāro hāro.
+.
 16. Samāropanahāravibhaṅgo
 50.?‘‘,’’.
 ,..,,,.
@@ -501,8 +501,8 @@ Niyutto parikkhāro hāro.
 –
 ‘‘,;
 ,’’.
-Niyutto samāropano hāro.
-Niṭṭhito ca hāravibhaṅgo.
+.
+.
 1. Desanāhārasampāto
 52.
 ‘‘,.
@@ -514,7 +514,7 @@ Niṭṭhito ca hāravibhaṅgo.
 ‘‘’’.‘‘’’.‘‘’’.‘‘’’.–.‘‘’’‘‘’’.‘‘’’‘‘’’.
 ,,…pe…,…pe….,,…pe…,,.–...
 .thīnaṃ (sī.);.,...,.,..‘‘’’.‘‘’’.
-Niyutto desanā hārasampāto.
+.
 2. Vicayahārasampāto
 53.?.,..,.,.,,,.
 ?.?..,,,,,,,,,,,,,,..,.
@@ -564,7 +564,7 @@ passa saṃ. ni. 1.133,.
 64.,,.,,.
 ,,.–.
 ,..
-Niyutto vicayo hārasampāto.
+.
 3. Yuttihārasampāto
 65.
 ?
@@ -572,39 +572,39 @@ Niyutto vicayo hārasampāto.
 ,;
 ,’’.
 ‘‘,’’,,,..
-Niyutto yuttihārasampāto.
+.
 4. Padaṭṭhānahārasampāto
 66.?
 ‘‘,’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.‘‘’’.
-Niyutto padaṭṭhāno hārasampāto.
+.
 5. Lakkhaṇahārasampāto
 67.?
 ‘‘,’’.‘‘,’’,.‘‘’’.?,,,,,,,,.
-Niyutto lakkhaṇo hārasampāto.
+.
 6. Catubyūhahārasampāto
 68..
 ‘‘,’’.‘‘’’.?,..,‘‘’’.
-Niyutto catubyūho hārasampāto.
+.
 7. Āvaṭṭahārasampāto
 69.?
 ‘‘,’’.‘‘,’’ayaṃ samatho (sī. ka.).‘‘’’.‘‘’’.‘‘’’.‘‘’’ayaṃ nirodho (sī. ka.)..
-Niyutto āvaṭṭo hārasampāto.
+.
 8. Vibhattihārasampāto
 70.?
 ‘‘,’’...
-Niyutto vibhattihārasampāto.
+.
 9. Parivattanahārasampāto
 71.?
 ‘‘,’’.,,,.
-Niyutto parivattano hārasampāto.
+.
 10. Vevacanahārasampāto
 72.?
 ‘‘,’’.‘‘’’,.‘‘’’,.‘‘’’,.
-Niyutto vevacano hārasampāto.
+.
 11. Paññattihārasampāto
 73.?
 ‘‘,’’.‘‘’’.‘‘’’.‘‘,’’.‘‘’’,‘‘’’.
-Niyutto paññattihārasampāto.
+.
 12. Otaraṇahārasampāto
 74.?
 ‘‘,’’.‘‘,’’.‘‘’’,.
@@ -612,27 +612,27 @@ Niyutto paññattihārasampāto.
 –..
 .,,.
 ,,.
-Niyutto otaraṇo hārasampāto.
+.
 13. Sodhanahārasampāto
 75.?
 ‘‘,’’.,.,.
-Niyutto sodhano hārasampāto.
+.
 14. Adhiṭṭhānahārasampāto
 76.?
 ,..,....,,.,,,.,,.,,,.,,,.
-Niyutto adhiṭṭhāno hārasampāto.
+.
 15. Parikkhārahārasampāto
 77.?
 ‘‘,’’..
-Niyutto parikkhāro hārasampāto.
+.
 16. Samāropanahārasampāto
 78.?
 ‘‘,;
 ,;
 ,’’.
 ,..?,,,,,,,,..
-Niyutto samāropano hārasampāto.
+.
 –
 ‘‘,;
 ,’’.
-Niyutto hārasampāto.
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Subodhālaṅkāro
 1. Dosāvabodha-paṭhamapariccheda
 Ratanattayappaṇāma
@@ -87,11 +87,11 @@ Padadosaniddesa
 26.
 ’,’;
 ,,,,.
-Abyapeta paṭhamapādādi yamakaṃ
+
 27.
 ’,;
 ,.
-Abyapeta paṭhama dutiya pādādi yamakaṃ
+
 28.
 ’,’;
 ’,;
@@ -99,7 +99,7 @@ Abyapeta paṭhama dutiya pādādi yamakaṃ
 29.
 ,;
 ,.
-Abyapeta catukkapādādi yamakaṃ
+
 30.
 ’,’;
 ,.
@@ -134,7 +134,7 @@ Vākyadosa niddesa
 40.
 ,;
 ’,.
-Yathā ca
+
 41.
 ,’;
 ’,.
@@ -159,7 +159,7 @@ Yathā ca
 48.
 ,;
 ,.
-Tatthodāharaṇapaccudāharaṇāni yathā
+
 49.
 ,;
 ,.
@@ -169,14 +169,14 @@ Tatthodāharaṇapaccudāharaṇāni yathā
 51.
 ’,;
 ,.
-Sabbatthodāharaṇāni yathā
+
 52.
 ,’;
 ,’.
 53.
 ,’;
 ,.
-Cādipādīsu paccudāharaṇāni yathā
+
 54.
 ,;
 ,’.
@@ -196,23 +196,23 @@ Vākyatthadosa niddesa
 59.
 ,’;
 ,’.
-Tatthā’pakkamaṃ yathā
+’
 60.
 ,,,’;
 ,,,.
-Ocityahīnaṃ yathā
+
 61.
 ,;
 ,.
-Yathā ca
+
 62.
 ’,’;
 ,.
-Bhaggarīti yathā
+
 63.
 ,;
 ,.
-Sasaṃsayaṃ yathā
+
 64.
 ,;
 ’’,.
@@ -227,6 +227,6 @@ tvethaṃ (?),’;
 ;
 ’’,
 .
-Iti saṅgharakkhitamahāsāmiviracite subodhālaṅkāre
-Dosāvabodho nāma
-Paṭhamo paricchedo.
+
+
+.

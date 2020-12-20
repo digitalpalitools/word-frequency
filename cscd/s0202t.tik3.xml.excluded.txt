@@ -17,7 +17,7 @@
 290.,?..,.
 291.,.,..
 292.‘‘,,,,,,’’(su. ni. aṭṭha. 2.662),‘‘’’.-.,..
-Ghaṭikārasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Raṭṭhapālasuttavaṇṇanā
 293.,..-.
 294..‘‘’’.,...
@@ -52,7 +52,7 @@ Ghaṭikārasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘’’‘‘’’.
 .
 .....,,‘‘’’..
-Raṭṭhapālasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Maghadevasuttavaṇṇanā
 308..
 ...‘‘’’..‘‘’’‘‘’’..,‘‘’’.,‘‘’’.,,..
@@ -74,12 +74,12 @@ Raṭṭhapālasuttavaṇṇanāya līnatthappakāsanā samattā.
 ...,‘‘’’.
 315..,.
 316.,,.....
-Maghadevasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Madhurasuttavaṇṇanā
 317.......,..,.,‘‘’’.‘‘’’.‘‘’’.,‘‘’’,.,.,.‘‘’’.‘‘’’,.
 318..‘‘’’...–‘‘’’.
 322.,.,.,.,,,,‘‘’’..
-Madhurasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Bodhirājakumārasuttavaṇṇanā
 324...
 325.…pe…..,.
@@ -92,7 +92,7 @@ Madhurasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..‘‘’’.‘‘’’...,.
 345..
 346.‘‘’’,.‘‘’’.,......
-Bodhirājakumārasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Aṅgulimālasuttavaṇṇanā
 347....‘‘’’...
 .‘‘’’........
@@ -116,7 +116,7 @@ Bodhirājakumārasuttavaṇṇanāya līnatthappakāsanā samattā.
 (visuddhi. ṭī. 1.91).,,,.‘‘’’...,.,?.(ma. ni. 1.29 ādayo).
 ,.,,.,,.‘‘’’,.–‘‘,,’’(ma. ni. 3.211).
 –‘‘’’......‘‘’’.–‘‘’’.
-Aṅgulimālasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Piyajātikasuttavaṇṇanā
 353.,,.‘‘’’.‘‘.‘’’’..‘‘’’‘‘’’....,--,-‘‘’’.‘‘’’.
 355.-‘‘’’‘‘’’.‘‘’’‘‘’’.
@@ -124,12 +124,12 @@ Aṅgulimālasuttavaṇṇanāya līnatthappakāsanā samattā.
 357.,,...
 ..
 .,‘‘’’‘‘’’..
-Piyajātikasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Bāhitikasuttavaṇṇanā
 359..‘‘’’.,‘‘’’..‘‘’’,,.‘‘’’.
 360.,.,,..,..
 ,.–‘‘’’,.–‘‘’’.,‘‘’’.‘‘,,’’.‘‘’’,,,.‘‘’’..
-Bāhitikasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Dhammacetiyasuttavaṇṇanā
 364...‘‘’’...
 ....‘‘’’.,..‘‘’’.‘‘’’‘‘’’.-‘‘’’‘‘’’.(ma. ni. aṭṭha. 2.347 ādayo)‘‘’’‘‘’’.
@@ -138,7 +138,7 @@ Bāhitikasuttavaṇṇanāya līnatthappakāsanā samattā.
 369....,‘‘’’.,.
 373..
 374.,.?‘‘’’‘‘’’..,‘‘’’.,–‘‘’’..
-Dhammacetiyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Kaṇṇakatthalasuttavaṇṇanā
 375.‘‘’’..
 376.‘‘’’..,.
@@ -150,5 +150,5 @@ Dhammacetiyasuttavaṇṇanāya līnatthappakāsanā samattā.
 381....
 .,.,.
 382..‘‘,’’....
-Kaṇṇakatthalasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca rājavaggavaṇṇanā.
+.
+.

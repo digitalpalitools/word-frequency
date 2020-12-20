@@ -196,7 +196,7 @@
  na dhammo nāyatanaṃ
  nāyatanā na mano
 
-
+paṇṇattiuddesavāro
 
 
 
@@ -359,7 +359,7 @@ nāyatanā na cakkhāyatananti āmantā nāyatanā na dhammāyatananti āmantā
  nāyatanā na sotāyatananti āmantā
 nāyatanā na manāyatananti āmantā
 
-
+paṇṇattiniddesavāro
 
 
 
@@ -1118,7 +1118,7 @@ pañcavokāre pacchimabhavikānaṃ tesaṃ tattha dhammāyatanaṃ nuppajjissat
 asaññasattānaṃ tesaṃ tattha manāyatanaṃ nuppajjittha no ca tesaṃ tattha dhammāyatanaṃ nuppajjissati suddhāvāsānaṃ tesaṃ tattha manāyatanañca nuppajjittha dhammāyatanañca nuppajjissati
  yassa vā pana yattha dhammāyatanaṃ nuppajjissati tassa tattha manāyatanaṃ nuppajjitthāti
 pacchimabhavikānaṃ tesaṃ tattha dhammāyatanaṃ nuppajjissati no ca tesaṃ tattha manāyatanaṃ nuppajjittha suddhāvāsānaṃ tesaṃ tattha dhammāyatanañca nuppajjissati manāyatanañca nuppajjittha
-
+uppādavāro
 
 
 
@@ -1698,7 +1698,7 @@ pañcavokāre parinibbantānaṃ tesaṃ tattha dhammāyatanaṃ na nirujjhissat
 suddhāvāsaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha  manāyatanaṃ na nirujjhittha  no ca tesaṃ tattha dhammāyatanaṃ na nirujjhissati suddhāvāse parinibbantānaṃ tesaṃ tattha manāyatanañca na nirujjhittha dhammāyatanañca na nirujjhissati
  yassa vā pana yattha dhammāyatanaṃ na nirujjhissati tassa tattha manāyatanaṃ na nirujjhitthāti
 parinibbantānaṃ tesaṃ tattha dhammāyatanaṃ na nirujjhissati no ca tesaṃ tattha manāyatanaṃ na nirujjhittha suddhāvāse parinibbantānaṃ tesaṃ tattha dhammāyatanañca na nirujjhissati manāyatanañca na nirujjhittha
-
+nirodhavāro
 
 
 
@@ -2037,8 +2037,8 @@ sabbesaṃ cavantānaṃ acittakānaṃ upapajjantānaṃ tesaṃ tattha manāya
 pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ ye ca  arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ cakkhāyatanaṃ uppajjittha no ca tesaṃ sotāyatanaṃ nirujjhissati itaresaṃ tesaṃ cakkhāyatanañca uppajjittha sotāyatanañca nirujjhissati
  yassa  vā pana sotāyatanaṃ nirujjhissati tassa cakkhāyatanaṃ uppajjitthāti āmantā
 (yathā  nirodhavāre atītānāgatā  pucchā yassakampi yatthakampi yassayatthakampi anulomampi paccanīkampi vibhattaṃ evaṃ uppādanirodhepi atītānāgatā pucchā vibhajitabbā)
-
-
+uppādanirodhavāro
+pavattivāro niṭṭhito
 
 
   yo cakkhāyatanaṃ parijānāti so sotāyatanaṃ parijānātīti āmantā
@@ -2076,6 +2076,6 @@ aggamaggasamaṅgī sotāyatanaṃ na parijānissati no ca cakkhāyatanaṃ na p
 ye maggaṃ paṭilabhissanti te cakkhāyatanaṃ na parijānittha no ca sotāyatanaṃ na parijānissanti aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te cakkhāyatanañca na parijānittha sotāyatanañca na parijānissanti
  yo vā pana sotāyatanaṃ na parijānissati so cakkhāyatanaṃ na parijānitthāti
 arahā sotāyatanaṃ na parijānissati no ca cakkhāyatanaṃ na parijānittha aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te sotāyatanañca na parijānissanti cakkhāyatanañca na parijānittha
-
-
-
+pariññāvāro
+āyatanayamakaṃ niṭṭhitaṃ
+ namo tassa bhagavato arahato sammāsambuddhassa

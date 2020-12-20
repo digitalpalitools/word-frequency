@@ -18,7 +18,7 @@
 6.
 ‘‘,;
 ,’’.
-Yudhañjayacariyaṃ paṭhamaṃ.
+.
 2. Somanassacariyā
 7.
 ‘‘,;
@@ -71,7 +71,7 @@ Yudhañjayacariyaṃ paṭhamaṃ.
 23.
 ‘‘,;
 ,’’.
-Somanassacariyaṃ dutiyaṃ.
+.
 3. Ayogharacariyā
 24.
 ‘‘,;
@@ -103,7 +103,7 @@ rañjāmi (sī.),.
 33.
 ‘‘,;
 ,’’.
-Ayogharacariyaṃ tatiyaṃ.
+.
 4. Bhisacariyā
 34.
 ‘‘,;
@@ -129,7 +129,7 @@ Ayogharacariyaṃ tatiyaṃ.
 41.
 ‘‘,;
 ,’’.
-Bhisacariyaṃ catutthaṃ.
+.
 5. Soṇapaṇḍitacariyā
 42.
 ‘‘,;
@@ -149,7 +149,7 @@ Bhisacariyaṃ catutthaṃ.
 47.
 ‘‘,;
 ,’’.
-Soṇapaṇḍitacariyaṃ pañcamaṃ.
+.
 6. Temiyacariyā
 48.
 ‘‘,;
@@ -209,7 +209,7 @@ Soṇapaṇḍitacariyaṃ pañcamaṃ.
 66.
 ‘‘,;
 ,’’.
-Temiyacariyaṃ chaṭṭhaṃ.
+.
 7. Kapirājacariyā
 67.
 ‘‘,;
@@ -223,12 +223,12 @@ Temiyacariyaṃ chaṭṭhaṃ.
 70.
 ‘‘,;
 ,’’.
-Kapirājacariyaṃ sattamaṃ.
+.
 8. Saccatāpasacariyā
 71.
 ‘‘,;
 ,’’.
-Saccatāpasacariyaṃ aṭṭhamaṃ.
+.
 9. Vaṭṭapotakacariyā
 72.
 ‘‘,;
@@ -264,7 +264,7 @@ Saccatāpasacariyaṃ aṭṭhamaṃ.
 ‘‘,;
 ,;
 ,’’.
-Vaṭṭapotakacariyaṃ navamaṃ.
+.
 10. Maccharājacariyā
 83.
 ‘‘,;
@@ -295,7 +295,7 @@ Vaṭṭapotakacariyaṃ navamaṃ.
 ‘‘,;
 ,;
 ,’’.
-Maccharājacariyaṃ dasamaṃ.
+.
 11. Kaṇhadīpāyanacariyā
 92.
 ‘‘,;
@@ -337,7 +337,7 @@ Maccharājacariyaṃ dasamaṃ.
 ‘‘,;
 ,;
 ,’’.
-Kaṇhadīpāyanacariyaṃ ekādasamaṃ.
+.
 12. Sutasomacariyā
 105.
 ‘‘,;
@@ -358,7 +358,7 @@ Kaṇhadīpāyanacariyaṃ ekādasamaṃ.
 ‘‘,;
 ,;
 ,’’.
-Sutasomacariyaṃ dvādasamaṃ.
+.
 13. Suvaṇṇasāmacariyā
 111.
 ‘‘,;
@@ -369,7 +369,7 @@ Sutasomacariyaṃ dvādasamaṃ.
 113.
 ‘‘,;
 ,’’.
-Suvaṇṇasāmacariyaṃ terasamaṃ.
+.
 14. Ekarājacariyā
 114.
 ‘‘,;
@@ -387,7 +387,7 @@ Suvaṇṇasāmacariyaṃ terasamaṃ.
 ‘‘,;
 ,;
 ,’’.
-Ekarājacariyaṃ cuddasamaṃ.
+.
 15. Mahālomahaṃsacariyā
 119.
 ‘‘,;
@@ -401,8 +401,8 @@ gomaṇḍalā (sī.), gāmamaṇḍalā (syā.),.
 122.
 ‘‘,;
 ,’’.
-Mahālomahaṃsacariyaṃ pannarasamaṃ.
-Yudhañjayavaggo tatiyo.
+.
+.
 –
 ,;
 ,.
@@ -426,4 +426,4 @@ Yudhañjayavaggo tatiyo.
 ,;
 ,.
 .
-Cariyāpiṭakaṃ niṭṭhitaṃ.
+.

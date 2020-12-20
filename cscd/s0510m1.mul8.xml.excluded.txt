@@ -28,7 +28,7 @@
 ‘‘,;
 ,’’.
 .
-Timirapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Gatasaññakattheraapadānaṃ
 10.
 ‘‘,;
@@ -48,7 +48,7 @@ añjalissa (ka.),.
 15.
 ‘‘…pe…’’.
 .
-Gatasaññakattherassāpadānaṃ dutiyaṃ.
+.
 3. Nipannañjalikattheraapadānaṃ
 16.
 ‘‘,;
@@ -68,7 +68,7 @@ Gatasaññakattherassāpadānaṃ dutiyaṃ.
 21.
 ‘‘…pe…’’.
 .
-Nipannañjalikattherassāpadānaṃ tatiyaṃ.
+.
 4. Adhopupphiyattheraapadānaṃ
 22.
 ‘‘,;
@@ -94,7 +94,7 @@ Nipannañjalikattherassāpadānaṃ tatiyaṃ.
 29.
 ‘‘…pe…’’.
 .
-Adhopupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Raṃsisaññakattheraapadānaṃ
 30.
 ‘‘,;
@@ -111,7 +111,7 @@ Adhopupphiyattherassāpadānaṃ catutthaṃ.
 34.
 ‘‘…pe…’’.
 .
-Raṃsisaññakattherassāpadānaṃ pañcamaṃ.
+.
 6. Dutiyaraṃsisaññakattheraapadānaṃ
 35.
 ‘‘,;
@@ -125,7 +125,7 @@ Raṃsisaññakattherassāpadānaṃ pañcamaṃ.
 38.
 ‘‘…pe…’’.
 .
-Dutiyaraṃsisaññakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Phaladāyakattheraapadānaṃ
 39.
 ‘‘,;
@@ -139,7 +139,7 @@ Dutiyaraṃsisaññakattherassāpadānaṃ chaṭṭhaṃ.
 42.
 ‘‘…pe…’’.
 .
-Phaladāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Saddasaññakattheraapadānaṃ
 43.
 ‘‘,;
@@ -150,7 +150,7 @@ Phaladāyakattherassāpadānaṃ sattamaṃ.
 45.
 ‘‘…pe…’’.
 .
-Saddasaññakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Bodhisiñcakattheraapadānaṃ
 46.
 ‘‘,;
@@ -167,7 +167,7 @@ Saddasaññakattherassāpadānaṃ aṭṭhamaṃ.
 50.
 ‘‘…pe…’’.
 .
-Bodhisiñcakattherassāpadānaṃ navamaṃ.
+.
 10. Padumapupphiyattheraapadānaṃ
 51.
 ‘‘,;
@@ -187,8 +187,8 @@ addasaṃ phussasambuddhaṃ (sī. syā.),.
 56.
 ‘‘…pe…’’.
 ;
-Padumapupphiyattherassāpadānaṃ dasamaṃ.
-Timiravaggo navamo.
+.
+.
 –
 ,;
 ,;

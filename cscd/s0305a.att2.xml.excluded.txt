@@ -108,7 +108,7 @@
 ,.,.
 ,...
 ,,,,.,,‘‘’’....
-Ambapālivaggo paṭhamo.
+.
 2. Nālandavaggo
 2. Nālandasuttavaṇṇanā
 378.,......
@@ -190,7 +190,7 @@ Ambapālivaggo paṭhamo.
 10. Janapadakalyāṇīsuttavaṇṇanā
 386..,,,,,.,,,,.,,,,.,.,,.,.,.
 ,..,.,,...
-Nālandavaggo dutiyo.
+.
 3. Sīlaṭṭhitivaggo
 1-2. Sīlasuttādivaṇṇanā
 387-388...
@@ -202,10 +202,10 @@ Nālandavaggo dutiyo.
 393...
 8-10. Lokasuttādivaṇṇanā
 394-396...,,.,..
-Sīlaṭṭhitivaggo tatiyo.
+.
 4. Ananussutavaggavaṇṇanā
 401-406.,,.,,,...
-Ananussutavaggo catuttho.
+.
 5. Amatavaggo
 2. Samudayasuttavaṇṇanā
 408...,..
@@ -216,5 +216,5 @@ Ananussutavaggo catuttho.
 .....,,.(visuddhi. 1.14)..
 7. Duccaritasuttavaṇṇanā
 413.,....
-Amatavaggo pañcamo.
-Satipaṭṭhānasaṃyuttavaṇṇanā niṭṭhitā.
+.
+.

@@ -7,7 +7,7 @@
 308.‘‘,,,.,,?,,na gaṇṭusakaraṇamattena (ka.),,,na ovaṭṭeyyakaraṇamattena (sī. syā.), na ovadeyyakaraṇamattena (ka.),,,,,,,,,,,,,,,,,;,,.,,.
 309.‘‘,,?,,,,,,,,,,,,,,,;,,.,,.
 310.‘‘,,?,,–,,,,,,,’’saubbhārāti (ka.).
-Kathinānujānanā niṭṭhitā.
+.
 188. Ādāyasattakaṃ
 311.–‘‘’’..
 .–‘‘,’’...
@@ -16,7 +16,7 @@ Kathinānujānanā niṭṭhitā.
 –‘‘’’..‘‘’’..
 –‘‘’’..–‘‘’’–..
 –‘‘’’..–‘‘’’–..
-Ādāyasattakaṃ niṭṭhitaṃ …dutiyaṃ niṭṭhitaṃ (ka.).
+…dutiyaṃ niṭṭhitaṃ (ka.).
 189. Samādāyasattakaṃ
 312.‘‘’’..
 .–‘‘,’’...
@@ -25,7 +25,7 @@ Kathinānujānanā niṭṭhitā.
 –‘‘’’..–‘‘’’..
 –‘‘’’..–‘‘’’–..
 –‘‘’’..–‘‘’’–..
-Samādāyasattakaṃ niṭṭhitaṃ.
+.
 190. Ādāyachakkaṃ
 313..–‘‘,’’...
 .–‘‘,’’..
@@ -33,7 +33,7 @@ Samādāyasattakaṃ niṭṭhitaṃ.
 ‘‘’’..–‘‘’’..
 ‘‘’’..‘‘’’..
 ‘‘’’..‘‘’’..
-Ādāyachakkaṃ niṭṭhitaṃ.
+.
 191. Samādāyachakkaṃ
 314..–‘‘,’’...
 .–‘‘,’’..
@@ -41,57 +41,57 @@ Samādāyasattakaṃ niṭṭhitaṃ.
 ‘‘’’..–‘‘’’..
 ‘‘’’..‘‘’’..
 ‘‘’’..‘‘’’..
-Samādāyachakkaṃ niṭṭhitaṃ.
+.
 192. Ādāyapannarasakaṃ
 315..–‘‘,’’...
 .–‘‘,’’..
-Bhikkhu atthatakathino cīvaraṃ ādāya pakkamati. Tassa bahisīmagatassa evaṃ hoti –
+.–
 ‘‘,’’....
-Tikaṃ.
+.
 ‘‘’’.–‘‘’’...
 ‘‘’’.–‘‘’’..
 ‘‘’’.–‘‘’’....
-Tikaṃ.
+.
 ;‘‘’’,‘‘’’.–‘‘,’’...
 ;‘‘’’,‘‘’’.–‘‘,’’..
 ;‘‘’’,‘‘’’.–‘‘,’’....
-Tikaṃ.
+.
 ‘‘’’.–‘‘,’’...
 ‘‘’’.–‘‘,’’..
 ‘‘’’.–‘‘,’’....
 ‘‘’’..–‘‘’’..
 ‘‘’’..‘‘’’–..
 ‘‘’’..–‘‘’’..
-Chakkaṃ.
-Ādāyapannarasakaṃ niṭṭhitaṃ.
+.
+.
 193. Samādāyapannarasakādi
 316.…pe….
 .
 .–‘‘,’’..…pe….
 (Samādāyavārasadisaṃ evaṃ vitthāretabbaṃ.)
-Samādāyapannarasakādi niṭṭhitā.
+.
 194. Vippakatasamādāyapannarasakaṃ
 317..–‘‘,’’...
 .–‘‘,’’..
 .–‘‘,’’....
-Tikaṃ.
+.
 ‘‘’’.–‘‘’’...
 ‘‘’’.–‘‘’’..
 ‘‘’’.–‘‘’’....
-Tikaṃ.
+.
 ;–‘‘’’,–‘‘’’.–‘‘,’’...
 ;–‘‘’’,–‘‘’’.–‘‘,’’..
 ;–‘‘’’,–‘‘’’.–‘‘,’’....
-Tikaṃ.
+.
 ‘‘’’.–‘‘,’’...
 ‘‘’’.–‘‘,’’..
 ‘‘’’.–‘‘,’’....
 ‘‘’’..–‘‘’’..
 ‘‘’’..–‘‘’’..
 ‘‘’’..‘‘’’..
-Chakkaṃ.
-Vippakatasamādāyapannarasakaṃ niṭṭhitaṃ.
-Ādāyabhāṇavāro.
+.
+.
+.
 195. Anāsādoḷasakaṃ
 318...,.–‘‘,’’...
 ..,.–‘‘,’’..
@@ -105,7 +105,7 @@ Vippakatasamādāyapannarasakaṃ niṭṭhitaṃ.
 ;–‘‘’’,–‘‘’’..,.–‘‘,’’..
 ;–‘‘’’,–‘‘’’..,.–‘‘,’’....
 ;–‘‘’’,–‘‘’’.–‘‘,’’....
-Anāsādoḷasakaṃ anāsādvādasakaṃ (sī.) niṭṭhitaṃ.
+anāsādvādasakaṃ (sī.).
 196. Āsādoḷasakaṃ
 319.‘‘’’..,.–‘‘,’’...
 ‘‘’’..,.–‘‘,’’..
@@ -119,7 +119,7 @@ Anāsādoḷasakaṃ anāsādvādasakaṃ (sī.) niṭṭhitaṃ.
 ‘‘’’.–‘‘,’’....
 ‘‘’’..,..‘‘’’–..
 ‘‘’’..,..‘‘’’–..
-Āsādoḷasakaṃ niṭṭhitaṃ.
+.
 197. Karaṇīyadoḷasakaṃ
 320....,.–‘‘,’’...
 ...,.–‘‘,’’..
@@ -133,7 +133,7 @@ Anāsādoḷasakaṃ anāsādvādasakaṃ (sī.) niṭṭhitaṃ.
 ;–‘‘’’,–‘‘’’...,.–‘‘,’’..
 ;–‘‘’’,–‘‘’’...,.–‘‘,’’....
 ;–‘‘’’,–‘‘’’..–‘‘,’’....
-Karaṇīyadoḷasakaṃ niṭṭhitaṃ.
+.
 198. Apavilāyananavakaṃ
 321.apavinayamāno (sī.), apacinayamāno (ka.).–‘‘,,,’’?–‘‘.’’.–‘‘,,’’.–‘‘,,’’?–‘‘,,;’’?–‘‘amukañca (ka.),’’.–‘‘,,.’’.–‘‘,’’...
 …pe…‘‘,’’..
@@ -144,19 +144,19 @@ Karaṇīyadoḷasakaṃ niṭṭhitaṃ.
 323..–‘‘,,,’’?–‘‘,’’.–‘‘,,’’.–‘‘,,’’?–‘‘,,’’..–‘‘,’’...
 …pe…‘‘,’’..
 …pe…‘‘,’’....
-Apavilāyananavakaṃ niṭṭhitaṃ.
+.
 199. Phāsuvihārapañcakaṃ
 324.–‘‘;,,;,,;,,’’.–‘‘,’’...
 –‘‘;,,;,,;,,’’.–‘‘,’’..
 –‘‘;,,;,,;,,’’.–‘‘,’’....
 –‘‘;,,;,,;,,’’..–‘‘’’..
 –‘‘;,,;,,;,,’’..‘‘’’..
-Phāsuvihārapañcakaṃ niṭṭhitaṃ.
+.
 200. Palibodhāpalibodhakathā
 325.,,,.,,?.,,?,,,‘‘’’.,,.,,?,,,.,,.,,.
 ,,?.,,?,,anapekkhena (ka.)‘‘’’.,,.,,?,,,,.,,.,,.
-Palibodhāpalibodhakathā niṭṭhitā.
-Kathinakkhandhako niṭṭhito sattamo.
+.
+.
 201. Tassuddānaṃ
 ,;
 ,.
@@ -215,4 +215,4 @@ Kathinakkhandhako niṭṭhito sattamo.
 apavilāyamāneva (syā.), apavinā nava cettha (sī.),;
 ,.
 .
-Kathinakkhandhako niṭṭhito.
+.

@@ -48,7 +48,7 @@
 185.........,......,..,...,....,....‘‘’’.‘‘’’,.,,.
 186......
 .,......‘‘’’.,.......
-Paṭhamasuttantaniddesavaṇṇanā niṭṭhitā.
+.
 2. Dutiyasuttantaniddesavaṇṇanā
 187.,.,-...,.......‘‘’’‘‘’’..........,.
 188...‘‘’’.
@@ -62,7 +62,7 @@ Ga. nissaraṇaniddesavaṇṇanā
 192.,,...,.
 193......,‘‘’’..‘‘’’..
 ?–,,,.,.?,.?.....
-Dutiyasuttantaniddesavaṇṇanā niṭṭhitā.
+.
 3. Tatiyasuttantaniddesavaṇṇanā
 194.,.,,..,,,,...‘‘’’,‘‘,’’,,‘‘,’’,,‘‘,’’,,,,.,,,.,,,.,,,.,,,.
 Ka. pabhedagaṇananiddesavaṇṇanā
@@ -76,7 +76,7 @@ Cāravihāraniddesavaṇṇanā
 ...,.
 ...,,......,..,.‘‘’’.....
 ,,..,,.,.,.,......,....,...,.‘‘’’-,-‘‘’’.,,...
-Tatiyasuttantaniddesavaṇṇanā niṭṭhitā.
+.
 4. Catutthasuttantaniddesavaṇṇanā
 198....,........
 Ka. ādhipateyyaṭṭhaniddesavaṇṇanā
@@ -88,7 +88,7 @@ Ga. adhimattaṭṭhaniddesavaṇṇanā
 ...,............,.
 Gha-ṅa. pariyādānaṭṭhapatiṭṭhāpakaṭṭhaniddesavaṇṇanā
 202-203..‘‘’’.....,,,.,..
-Catutthasuttantaniddesavaṇṇanā niṭṭhitā.
+.
 5. Indriyasamodhānavaṇṇanā
 204....,......,,,,.....
 ....
@@ -98,6 +98,6 @@ Catutthasuttantaniddesavaṇṇanā niṭṭhitā.
 .‘‘’’(dha. sa. dukamātikā 103)..
 207.(paṭi. ma. 1.107)..
 208........,.
-Indriyasamodhānavaṇṇanā niṭṭhitā.
-Saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
-Indriyakathāvaṇṇanā niṭṭhitā.
+.
+-
+.

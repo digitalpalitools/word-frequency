@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Bodhivandakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Pāṭalipupphiyattheraapadānaṃ
 6.
 ‘‘,;
@@ -39,7 +39,7 @@ Bodhivandakattherassāpadānaṃ paṭhamaṃ.
 12.
 ‘‘…pe…’’.
 .
-Pāṭalipupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Tīṇuppalamāliyattheraapadānaṃ
 13.
 ‘‘,;
@@ -68,7 +68,7 @@ Pāṭalipupphiyattherassāpadānaṃ dutiyaṃ.
 21.
 ‘‘…pe…’’.
 .
-Tīṇuppalamāliyattherassāpadānaṃ tatiyaṃ.
+.
 4. Paṭṭipupphiyattheraapadānaṃ
 22.
 ‘‘,;
@@ -88,7 +88,7 @@ Tīṇuppalamāliyattherassāpadānaṃ tatiyaṃ.
 27.
 ‘‘…pe…’’.
 .
-Paṭṭipupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Sattapaṇṇiyattheraapadānaṃ
 28.
 ‘‘,;
@@ -103,7 +103,7 @@ Paṭṭipupphiyattherassāpadānaṃ catutthaṃ.
 32.
 ‘‘…pe…’’.
 .
-Sattapaṇṇiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Gandhamuṭṭhiyattheraapadānaṃ
 33.
 idha gāthāddhaṃ ūnaṃ viya dissati‘‘,;
@@ -118,7 +118,7 @@ idha gāthāddhaṃ ūnaṃ viya dissati‘‘,;
 37.
 ‘‘…pe…’’.
 .
-Gandhamuṭṭhiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Citakapūjakattheraapadānaṃ
 38.
 ‘‘,;
@@ -133,7 +133,7 @@ Gandhamuṭṭhiyattherassāpadānaṃ chaṭṭhaṃ.
 42.
 ‘‘…pe…’’.
 .
-Citakapūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Sumanatālavaṇṭiyattheraapadānaṃ
 43.
 ‘‘,;
@@ -148,7 +148,7 @@ Citakapūjakattherassāpadānaṃ sattamaṃ.
 47.
 ‘‘…pe…’’.
 .
-Sumanatālavaṇṭiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sumanadāmiyattheraapadānaṃ
 48.
 ‘‘,;
@@ -163,7 +163,7 @@ Sumanatālavaṇṭiyattherassāpadānaṃ aṭṭhamaṃ.
 52.
 ‘‘…pe…’’.
 .
-Sumanadāmiyattherassāpadānaṃ navamaṃ.
+.
 10. Kāsumāriphaladāyakattheraapadānaṃ
 53.
 ‘‘,;
@@ -181,8 +181,8 @@ Sumanadāmiyattherassāpadānaṃ navamaṃ.
 58.
 ‘‘…pe…’’.
 .
-Kāsumāriphaladāyakattherassāpadānaṃ dasamaṃ.
-Bodhivandanavaggo aṭṭhatiṃsatimo.
+.
+.
 –
 ,;
 ,;

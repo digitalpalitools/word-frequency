@@ -18,7 +18,7 @@ cajamāno na cintesiṃ bodhiyāyeva kāraṇā
 
  mātāpitā na me dessā napi me dessaṃ mahāyasaṃ
 sabbaññutaṃ piyaṃ mayhaṃ tasmā rajjaṃ pariccajinti
-
+yudhañjayacariyaṃ paṭhamaṃ
 
 
  punāparaṃ  yadā homi indapatthe puruttame
@@ -71,7 +71,7 @@ sohaṃ tamaṃ dālayitvā pabbajiṃ anagāriyaṃ
 
  na  me dessaṃ mahārajjaṃ kāmabhogo na dessiyo
 sabbaññutaṃ piyaṃ mayhaṃ tasmā rajjaṃ pariccajinti
-
+somanassacariyaṃ dutiyaṃ
 
 
  punāparaṃ  yadā homi kāsirājassa atrajo
@@ -103,7 +103,7 @@ nāgova bandhanaṃ chetvā pāvisiṃ kānanaṃ vanaṃ
 
  mātāpitā  na me dessā napi me dessaṃ mahāyasaṃ
 sabbaññutaṃ piyaṃ mayhaṃ tasmā rajjaṃ pariccajinti
-
+ayogharacariyaṃ tatiyaṃ
 
 
  punāparaṃ yadā homi kāsīnaṃ puravaruttame
@@ -129,7 +129,7 @@ mātāpitā evamāhu sabbeva pabbajāma bho
 
  ubho  mātāpitā mayhaṃ bhaginī ca satta bhātaro
 amitadhanaṃ chaḍḍayitvā pāvisimhā mahāvananti
-
+bhisacariyaṃ catutthaṃ
 
 
  punāparaṃ  yadā homi nagare brahmavaḍḍhane
@@ -149,7 +149,7 @@ sopi maṃ anusikkhanto pabbajjaṃ samarocayi
 
  ahaṃ soṇo ca nando ca ubho mātāpitā mama
 tadāpi bhoge chaḍḍetvā pāvisimhā mahāvananti
-
+soṇapaṇḍitacariyaṃ pañcamaṃ
 
 
  punāparaṃ  yadā homi kāsirājassa atrajo
@@ -209,7 +209,7 @@ sabbaññutaṃ piyaṃ mayhaṃ tasmā vatamadhiṭṭhahiṃ
 
  ete  aṅge adhiṭṭhāya vassāni soḷasaṃ vasiṃ
 adhiṭṭhānena me samo natthi esā me adhiṭṭhānapāramīti
-
+temiyacariyaṃ chaṭṭhaṃ
 
 
  yadā ahaṃ kapi āsiṃ nadīkūle darīsaye
@@ -223,12 +223,12 @@ tassa matthakamakkamma parakūle patiṭṭhahiṃ
 
  na tassa alikaṃ bhaṇitaṃ yathā vācaṃ akāsahaṃ
 saccena me samo natthi esā me saccapāramīti
-
+kapirājacariyaṃ sattamaṃ
 
 
  punāparaṃ yadā homi tāpaso saccasavhayo
 saccena lokaṃ pālesiṃ samaggaṃ janamakāsahanti
-
+saccatāpasacariyaṃ aṭṭhamaṃ
 
 
  punāparaṃ  yadā homi magadhe vaṭṭapotako
@@ -264,7 +264,7 @@ mātāpitā ca nikkhantā jātaveda paṭikkama
  sahasacce kate mayhaṃ mahāpajjalito sikhī
 vajjesi soḷasakarīsāni udakaṃ patvā yathā sikhī
 saccena me samo natthi esā me saccapāramīti
-
+vaṭṭapotakacariyaṃ navamaṃ
 
 
  punāparaṃ  yadā homi maccharājā mahāsare
@@ -295,7 +295,7 @@ thalaṃ ninnañca pūrento khaṇena abhivassatha
  evarūpaṃ saccavaraṃ katvā vīriyamuttamaṃ
 vassāpesiṃ mahāmeghaṃ saccatejabalassito
 saccena me samo natthi esā me saccapāramīti
-
+maccharājacariyaṃ dasamaṃ
 
 
  punāparaṃ  yadā homi kaṇhadīpāyano isi
@@ -337,7 +337,7 @@ hataṃ visaṃ jīvatu yaññadatto
  saha  sacce kate mayhaṃ visavegena vedhito
 abujjhitvāna vuṭṭhāsi arogo cāsi māṇavo
 saccena me samo natthi esā me saccapāramīti
-
+kaṇhadīpāyanacariyaṃ ekādasamaṃ
 
 
  punāparaṃ yadā homi sutasomo mahīpati
@@ -358,7 +358,7 @@ brāhmaṇassa dhanaṃ datvā porisādaṃ upāgamiṃ
  natthi me saṃsayo tattha ghātayissati vā na vā
 saccavācānurakkhanto jīvitaṃ cajitumupāgamiṃ
 saccena me samo natthi esā me saccapāramīti
-
+sutasomacariyaṃ dvādasamaṃ
 
 
  sāmo  yadā vane āsiṃ sakkena abhinimmito
@@ -369,7 +369,7 @@ pasadamigavarāhehi parivāretvā vane vasiṃ
 
  na maṃ koci uttasati napi bhāyāmi kassaci
 mettābalenupatthaddho ramāmi pavane tadāti
-
+suvaṇṇasāmacariyaṃ terasamaṃ
 
 
  punāparaṃ yadā homi ekarājāti vissuto
@@ -387,7 +387,7 @@ sabbaṃ hatthagataṃ katvā kāsuyā nikhaṇī mamaṃ
  amaccamaṇḍalaṃ rajjaṃ phītaṃ antepuraṃ mama
 acchinditvāna gahitaṃ piyaṃ puttaṃva passahaṃ
 mettāya me samo natthi esā me mettāpāramīti
-
+ekarājacariyaṃ cuddasamaṃ
 
 
  susāne  seyyaṃ kappemi chavaṭṭhikaṃ upanidhāyahaṃ
@@ -401,8 +401,8 @@ sabbesaṃ samako homi dayā kopo na vijjati
 
  sukhadukkhe tulābhūto yasesu ayasesu ca
 sabbattha samako homi esā me upekkhāpāramīti
-
-
+mahālomahaṃsacariyaṃ pannarasamaṃ
+yudhañjayavaggo tatiyo
 tassuddānaṃ 
 yudhañjayo somanasso ayogharabhisena ca
 soṇanando mūgapakkho kapirājā saccasavhayo
@@ -426,4 +426,4 @@ samaggā sakhilā hotha esā buddhānusāsanī
 pamādaṃ bhayato disvā appamādañca khemato
 bhāvethaṭṭhaṅgikaṃ maggaṃ esā buddhānusāsanī
 itthaṃ sudaṃ bhagavā attano pubbacariyaṃ sambhāvayamāno buddhāpadāniyaṃ nāma dhammapariyāyaṃ abhāsitthāti
-
+cariyāpiṭakaṃ niṭṭhitaṃ

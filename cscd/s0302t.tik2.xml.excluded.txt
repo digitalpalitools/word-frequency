@@ -2,41 +2,41 @@
 1. Nānattavaggo
 1. Dhātunānattasuttavaṇṇanā
 85.......,...,‘‘’’.…pe….‘‘’’.....,.
-Dhātunānattasuttavaṇṇanā niṭṭhitā.
+.
 2. Phassanānattasuttavaṇṇanā
 86....‘‘’’‘‘’’.,,..
-Phassanānattasuttavaṇṇanā niṭṭhitā.
+.
 3. Nophassanānattasuttavaṇṇanā
 87.,...‘‘…pe…’’.‘‘’’.
-Nophassanānattasuttavaṇṇanā niṭṭhitā.
+.
 4. Vedanānānattasuttavaṇṇanā
 88...,.....
-Vedanānānattasuttavaṇṇanā niṭṭhitā.
+.
 5. Dutiyavedanānānattasuttavaṇṇanā
 89.‘‘’’,‘‘,,’’..‘‘’’..‘‘’’.
-Dutiyavedanānānattasuttavaṇṇanā niṭṭhitā.
+.
 6. Bāhiradhātunānattasuttavaṇṇanā
 90..
-Bāhiradhātunānattasuttavaṇṇanā niṭṭhitā.
+.
 7. Saññānānattasuttavaṇṇanā
 91..,‘‘’’..‘‘’’.‘‘’’.,..‘‘’’..‘‘’’.‘‘’’‘‘’’..‘‘’’.‘‘’’.
-Saññānānattasuttavaṇṇanā niṭṭhitā.
+.
 8. Nopariyesanānānattasuttavaṇṇanā
 92.,.
-Nopariyesanānānattasuttavaṇṇanā niṭṭhitā.
+.
 9. Bāhiraphassanānattasuttādivaṇṇanā
 93.‘‘’’..,‘‘’’.‘‘’’‘‘’’..‘‘’’........
 ..‘‘’’.
 ,.‘‘,,’’.........
 94...
-Bāhiraphassanānattasuttādivaṇṇanā niṭṭhitā.
-Nānattavaggavaṇṇanā niṭṭhitā.
+.
+.
 2. Dutiyavaggo
 1. Sattadhātusuttavaṇṇanā
 95.,,...,......‘‘’’,‘‘’’.,.
 ..‘‘’’.,.‘‘,’’‘‘’’.,.‘‘’’.‘‘’’.‘‘’’‘‘’’...‘‘’’....
 .‘‘’’....
-Sattadhātusuttavaṇṇanā niṭṭhitā.
+.
 2. Sanidānasuttavaṇṇanā
 96.‘‘’’(a. ni. 4.70).,‘‘’’...........
 .....
@@ -45,14 +45,14 @@ Sattadhātusuttavaṇṇanā niṭṭhitā.
 ‘‘’’..
 ,.‘‘’’.....?,,.
 ,,.,,.,....
-Sanidānasuttavaṇṇanā niṭṭhitā.
+.
 3. Giñjakāvasathasuttavaṇṇanā
 97.‘‘,’’.,,,,.,,.,.‘‘’’‘‘’’.‘‘’’,.
 ‘‘’’‘‘’’...‘‘’’‘‘’’?,‘‘’’,..,‘‘’’.‘‘’’...‘‘’’.‘‘’’‘‘’’.-......‘‘,,’’.‘‘,,’’,.
-Giñjakāvasathasuttavaṇṇanā niṭṭhitā.
+.
 4. Hīnādhimuttikasuttavaṇṇanā
 98...‘‘’’.
-Hīnādhimuttikasuttavaṇṇanā niṭṭhitā.
+.
 5. Caṅkamasuttavaṇṇanā
 99...,.....‘‘’’.
 ...‘‘,’’...
@@ -68,22 +68,22 @@ Hīnādhimuttikasuttavaṇṇanā niṭṭhitā.
 ,’’.(dī. ni. 1.190; ma. ni. aṭṭha. 1.291; pari. 485)–
 ....,.
 .
-Caṅkamasuttavaṇṇanā niṭṭhitā.
+.
 6. Sagāthāsuttavaṇṇanā
 100.‘‘’’,‘‘’’....‘‘…pe…’’.
 ,‘‘’’.‘‘’’.,.‘‘’’.
-Sagāthāsuttavaṇṇanā niṭṭhitā.
+.
 7. Assaddhasaṃsandanasuttavaṇṇanā
 101....‘‘’’......,‘‘’’..
-Assaddhasaṃsandanasuttavaṇṇanā niṭṭhitā.
+.
 8-12. Assaddhamūlakasuttādivaṇṇanā
 102-106.....
-Assaddhamūlakasuttādivaṇṇanā niṭṭhitā.
-Dutiyavaggavaṇṇanā niṭṭhitā.
+.
+.
 3. Kammapathavaggo
 1-2. Asamāhitasuttādivaṇṇanā
 107-108...‘‘’’.
-Asamāhitasuttādivaṇṇanā niṭṭhitā.
+.
 3-5. Pañcasikkhāpadasuttādivaṇṇanā
 109-111...‘‘’’...
 ‘‘’’.,,,...,...,,..‘‘’’...‘‘’’..
@@ -100,15 +100,15 @@ Asamāhitasuttādivaṇṇanā niṭṭhitā.
 ...,‘‘’’.
 ‘‘’’...
 …pe…..
-Pañcasikkhāpadasuttādivaṇṇanā niṭṭhitā.
+.
 7. Dasaṅgasuttavaṇṇanā
 113.,.,..,..,‘‘’’..
-Dasaṅgasuttavaṇṇanā niṭṭhitā.
-Tatiyavaggavaṇṇanā niṭṭhitā.
+.
+.
 4. Catutthavaggo
 1. Catudhātusuttavaṇṇanā
 114......-..
-Catudhātusuttavaṇṇanā niṭṭhitā.
+.
 2. Pubbesambodhasuttavaṇṇanā
 115....,....‘‘’’.‘‘’’.,...
 ,.
@@ -117,19 +117,19 @@ Catudhātusuttavaṇṇanā niṭṭhitā.
 .‘‘’’.‘‘’’.....
 ...‘‘’’..
 ,.,.,.-‘‘’’‘‘’’..…pe…,.
-Pubbesambodhasuttavaṇṇanā niṭṭhitā.
+.
 3. Acariṃsuttavaṇṇanā
 116.,‘‘,’’.
-Acariṃsuttavaṇṇanā niṭṭhitā.
+.
 4. Nocedaṃsuttavaṇṇanā
 117.,‘‘’’.‘‘’’..‘‘,’’..‘‘’’..
-Nocedaṃsuttavaṇṇanā niṭṭhitā.
+.
 5. Ekantadukkhasuttavaṇṇanā
 118....,.,.‘‘’’.
-Ekantadukkhasuttavaṇṇanā niṭṭhitā.
+.
 6-10. Abhinandasuttādivaṇṇanā
 119-123..‘‘’’..,.
-Abhinandasuttādivaṇṇanā niṭṭhitā.
-Catutthavaggavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Dhātusaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+.
+-
+.

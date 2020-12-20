@@ -8,7 +8,7 @@
 ?.
 ?.
 ?.
-Uppattiṭṭhānavāro.
+.
 2. Mahāvāro 1. anusayavāro
 (Ka) anulomapuggalo
 3.(Ka)?.
@@ -250,7 +250,7 @@ Uppattiṭṭhānavāro.
 35.(Ka)?.
 (Kha)?
 ,.,.,.,.,.,.,.,.,.(Chakkamūlakaṃ)
-Anusayavāre anulomaṃ.
+.
 1. Anusayavāra
 (Gha) paṭilomapuggalo
 36.(Ka)?.
@@ -476,8 +476,8 @@ Anusayavāre anulomaṃ.
 65.(Ka)?
 ,...
 (Kha)?.(Chakkamūlakaṃ)
-Anusayavāre paṭilomaṃ.
-Anusayavāro.
+.
+.
 2. Sānusayavāro
 (Ka) anulomapuggalo
 66.(Ka)?.
@@ -693,7 +693,7 @@ Anusayavāro.
 98.(Ka)?.
 (Kha)?
 ,.,.,.,.,.,.,.,.,.(Chakkamūlakaṃ)
-Sānusayavāre anulomaṃ.
+.
 2. Sānusayavāra
 (Gha) paṭilomapuggalo
 99.(Ka)?.
@@ -921,8 +921,8 @@ Sānusayavāre anulomaṃ.
 131.(Ka)?
 ,...
 (Kha)?.(Chakkamūlakaṃ)
-Sānusayavāre paṭilomaṃ.
-Sānusayavāro.
+.
+.
 3. Pajahanavāro
 (Ka) anulomapuggalo
 132.(Ka)?.
@@ -1130,7 +1130,7 @@ Sānusayavāro.
 164.(Ka)?.
 (Kha)?
 ,.,.,.(Chakkamūlakaṃ)
-Pajahanavāre anulomaṃ.
+.
 3. Pajahanavāra
 (Gha) paṭilomapuggalo
 165.(Ka)?.
@@ -1381,8 +1381,8 @@ Pajahanavāre anulomaṃ.
 ,...
 (Kha)?
 ,..,.,...(Chakkamūlakaṃ)
-Pajahanāvāre paṭilomaṃ.
-Pajahanavāro.
+.
+.
 4. Pariññāvāro
 (Ka) anulomapuggalo
 198.(Ka)?.
@@ -1590,7 +1590,7 @@ Pajahanavāro.
 230.(Ka)?.
 (Kha)?
 ,.,.,.(Chakkamūlakaṃ)
-Pariññāvāre anulomaṃ.
+.
 4. Pariññāvāra
 (Gha) paṭilomapuggalo
 231.(Ka)?.
@@ -1843,8 +1843,8 @@ Pariññāvāre anulomaṃ.
 ,...
 (Kha)?
 ,..,.,...(Chakkamūlakaṃ)
-Pariññāvāre paṭilomaṃ.
-Pariññāvāro.
+.
+.
 5. Pahīnavāro
 (Ka) anulomapuggalo
 264.(Ka)?.
@@ -2075,7 +2075,7 @@ Pariññāvāro.
 296.(Ka)?.
 (Kha)?
 ;‘‘’’‘‘’’.;‘‘’’‘‘’’.;‘‘’’‘‘’’.(Chakkamūlakaṃ)
-Pahīnavāre anulomaṃ.
+.
 5. Pahīnavāra
 (Gha) paṭilomapuggalo
 297.(Ka)?.
@@ -2306,8 +2306,8 @@ Pahīnavāre anulomaṃ.
 329.(Ka)?.
 (Kha)?
 ,;‘‘’’‘‘’’.,;‘‘’’‘‘’’.,;‘‘’’‘‘’’.,;‘‘’’‘‘’’.,;‘‘’’‘‘’’.,;‘‘’’‘‘’’.;‘‘’’‘‘’’.;‘‘’’‘‘’’.;‘‘’’‘‘’’.(Chakkamūlakaṃ)
-Pahīnavāre paṭilomaṃ.
-Pahīnavāro.
+.
+.
 6. Uppajjanavāro
 330.(Ka)?.
 (Kha)?.
@@ -2319,7 +2319,7 @@ Pahīnavāro.
 (Ka)?
 ,..
 (Kha)?.(Vitthāretabbaṃ).
-Uppajjanavāro.
+.
 7. (Ka) dhātupucchāvāro
 332.,,?,,?,,?
 ,,?,,?,,?
@@ -2348,7 +2348,7 @@ Uppajjanavāro.
 340.,,?,,?,,?
 ,,?,,?,,?
 ,,?,,?,,?(Nakāmanarūpadhātumūlakaṃ)
-Dhātupucchāvāro.
+.
 7. (Kha) dhātuvisajjanāvāro
 341.,;.,,;.,,;.
 ,,;.,,;.,,;.
@@ -2377,6 +2377,6 @@ Dhātupucchāvāro.
 349.;.,,;.,,;.
 ,,;.,,;.;.
 ,,;.;.,,;.(Nakāmanarūpadhātumūlakaṃ)
-Dhātuvisajjavāro.
-Anusayayamakaṃ niṭṭhitaṃ.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+.
+

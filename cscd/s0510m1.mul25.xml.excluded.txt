@@ -13,7 +13,7 @@ bahuṃ janaṃ (sī.),’.
 ‘‘,;
 ,’’.
 .
-Thomakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekāsanadāyakattheraapadānaṃ
 5.
 ‘‘,;
@@ -27,7 +27,7 @@ Thomakattherassāpadānaṃ paṭhamaṃ.
 8.
 ‘‘…pe…’’.
 .
-Ekāsanadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Citakapūjakattheraapadānaṃ
 9.
 ‘‘,;
@@ -41,7 +41,7 @@ Ekāsanadāyakattherassāpadānaṃ dutiyaṃ.
 12.
 ‘‘…pe…’’.
 .
-Citakapūjakattherassāpadānaṃ tatiyaṃ.
+.
 4. Ticampakapupphiyattheraapadānaṃ
 13.
 ‘‘,vikano (sī. syā.);
@@ -55,7 +55,7 @@ Citakapūjakattherassāpadānaṃ tatiyaṃ.
 16.
 ‘‘…pe…’’.
 .
-Ticampakapupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Sattapāṭaliyattheraapadānaṃ
 17.
 ‘‘,;
@@ -66,7 +66,7 @@ Ticampakapupphiyattherassāpadānaṃ catutthaṃ.
 19.
 ‘‘…pe…’’.
 .
-Sattapāṭaliyattherassāpadānaṃ pañcamaṃ.
+.
 6. Upāhanadāyakattheraapadānaṃ
 20.
 ‘‘,;
@@ -77,7 +77,7 @@ Sattapāṭaliyattherassāpadānaṃ pañcamaṃ.
 22.
 ‘‘…pe…’’.
 .
-Upāhanadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Mañjaripūjakattheraapadānaṃ
 23.
 ‘‘,;
@@ -94,7 +94,7 @@ Upāhanadāyakattherassāpadānaṃ chaṭṭhaṃ.
 27.
 ‘‘…pe…’’.
 .
-Mañjaripūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Paṇṇadāyakattheraapadānaṃ
 28.
 ‘‘,;
@@ -111,7 +111,7 @@ Mañjaripūjakattherassāpadānaṃ sattamaṃ.
 32.
 ‘‘…pe…’’.
 .
-Paṇṇadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Kuṭidāyakattheraapadānaṃ
 33.
 ‘‘,;
@@ -125,7 +125,7 @@ Paṇṇadāyakattherassāpadānaṃ aṭṭhamaṃ.
 36.
 ‘‘…pe…’’.
 .
-Kuṭidāyakattherassāpadānaṃ navamaṃ.
+.
 10. Aggapupphiyattheraapadānaṃ
 37.
 ‘‘,;
@@ -142,8 +142,8 @@ raṃsiyā (syā.),.
 41.
 ‘‘…pe…’’.
 .
-Aggapupphiyattherassāpadānaṃ dasamaṃ.
-Thomakavaggo chabbīsatimo.
+.
+.
 –
 ,;
 pāhano (sī.), pādu (syā.),;

@@ -36,9 +36,9 @@ atha kho rañño udenassa orodho yenāyasmā ānando tenupasaṅkami upasaṅkam
 atha  kho rājā udeno yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi ekamantaṃ nisinno kho rājā udeno āyasmantaṃ ānandaṃ etadavoca  āgamā nu  khvidha bho ānanda amhākaṃ orodhoti āgamāsi kho te idha mahārāja orodhoti api pana bhoto ānandassa kiñci adāsīti adāsi kho me mahārāja pañca uttarāsaṅgasatānīti kiṃ pana bhavaṃ ānando tāva bahuṃ cīvaraṃ karissatīti ye  te mahārāja bhikkhū dubbalacīvarā tehi saddhiṃ saṃvibhajissāmīti yāni kho pana bho ānanda porāṇakāni dubbalacīvarāni tāni kathaṃ karissathāti tāni mahārāja uttarattharaṇaṃ karissāmāti yāni pana bho ānanda porāṇakāni uttarattharaṇāni tāni kathaṃ karissathāti tāni mahārāja bhisicchaviyo karissāmāti yā pana bho ānanda porāṇakā bhisicchaviyo tā kathaṃ karissathāti tā mahārāja bhūmattharaṇaṃ karissāmāti yāni pana bho ānanda porāṇakāni bhūmattharaṇāni tāni kathaṃ karissathāti tāni mahārāja pādapuñchaniyo karissāmāti yā pana bho ānanda porāṇakā pādapuñchaniyo tā kathaṃ karissathāti tā mahārāja rajoharaṇaṃ karissāmāti yāni pana bho  ānanda porāṇakāni rajoharaṇāni tāni kathaṃ karissathāti tāni mahārāja koṭṭetvā cikkhallena madditvā paribhaṇḍaṃ limpissāmāti
 atha kho rājā udeno  sabbevime  samaṇā sakyaputtiyā yoniso upanenti na kulavaṃ gamentīti   āyasmato ānandassa aññānipi pañca dussasatāni pādāsi ayañcarahi āyasmato ānandassa paṭhamaṃ cīvarabhikkhā uppajji cīvarasahassaṃ atha kho āyasmā ānando yena ghositārāmo tenupasaṅkami upasaṅkamitvā paññatte āsane nisīdi atha kho āyasmā channo yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmantaṃ ānandaṃ abhivādetvā ekamantaṃ nisīdi ekamantaṃ nisinnaṃ kho āyasmantaṃ channaṃ āyasmā ānando etadavoca  saṅghena te āvuso channa brahmadaṇḍo āṇāpitoti
 katamo pana bhante ānanda brahmadaṇḍo āṇāpitoti tvaṃ āvuso channa bhikkhū yaṃ iccheyyāsi taṃ vadeyyāsi bhikkhūhi tvaṃ neva vattabbo na ovaditabbo nānusāsitabboti nanvāhaṃ bhante ānanda hato ettāvatā yatohaṃ bhikkhūhi neva vattabbo na ovaditabbo nānusāsitabboti tattheva mucchito papato atha kho āyasmā channo  brahmadaṇḍena aṭṭīyamāno harāyamāno jigucchamāno eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva yassatthāya kulaputtā sammadeva agārasmā anagāriyaṃ pabbajanti tadanuttaraṃ brahmacariyapariyosānaṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja vihāsi khīṇā jāti vusitaṃ  brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyāti abbhaññāsi aññataro ca panāyasmā channo arahataṃ ahosi atha kho āyasmā channo arahattaṃ patto yenāyasmā ānando tenupasaṅkami upasaṅkamitvā āyasmantaṃ ānandaṃ etadavoca  paṭippassambhehi dāni me bhante ānanda brahmadaṇḍanti yadaggena tayā āvuso channa arahattaṃ sacchikataṃ tadaggena te brahmadaṇḍo paṭippassaddhoti imāya kho pana vinayasaṅgītiyā pañca bhikkhusatāni anūnāni anadhikāni ahesuṃ tasmā ayaṃ vinayasaṅgīti pañcasatikāti vuccatīti
-
-
-
+pañcasatikakkhandhako ekādasamo
+imamhi khandhake vatthū tevīsati
+tassuddānaṃ 
 parinibbute  sambuddhe thero kassapasavhayo
 āmantayi bhikkhugaṇaṃ saddhammamanupālako
 pāvāyaddhānamaggamhi subhaddena paveditaṃ
@@ -55,4 +55,4 @@ bhūmattharaṇā puñchaniyo rajo cikkhallamaddanā
 sahassacīvaraṃ uppajji paṭhamānandasavhayo
 tajjito brahmadaṇḍena catussaccaṃ apāpuṇi
 vasībhūtā pañcasatā tasmā pañcasatī iti
-
+pañcasatikakkhandhakaṃ niṭṭhitaṃ

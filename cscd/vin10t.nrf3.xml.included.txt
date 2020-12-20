@@ -82,7 +82,7 @@ ekavaṇṇavināsena pabbajjā hi na rūhati
 
  yadi siddhāpi pabbajjā saraṇāgamanatova hi
 dātabbā dasa sīlāni pūraṇatthāya bhikkhunā
-
+pabbajjākathā
 
  upajjhāyamathācariyaṃ nissāya vasatā pana
 kattabbāneva vattāni piyasīlena bhikkhunā
@@ -101,11 +101,11 @@ vuṭṭhānāgamanantāni sattatiṃsasataṃ siyuṃ
 
  vattabhedena sabbattha dukkaṭaṃ tu pakāsitaṃ
 anādaravaseneva akarontassa bhikkhuno
-
+upajjhāyācariyavattakathā
 
  upajjhāyassa  vattāni tathā saddhivihārike
 sataṃ terasa honteva tathāntevāsikepi ca
-
+saddhivihārikantevāsikavattakathā
 
  pakkante vāpi vibbhante pakkhasaṅkantake mate
 āṇattiyā upajjhāyā passambhati ca nissayo
@@ -124,7 +124,7 @@ yācitassa na dosova vasituṃ nissayaṃ vinā
 
  jānatā attano ceva vane phāsuvihārataṃ
 sabhāge dāyakesante vasitumpi ca vaṭṭati
-
+nissayapaṭippassambhanakathā
 
  kuṭṭhiṃ gaṇḍiṃ kilāsiñca sosiñca apamārikaṃ
 tathā rājabhaṭaṃ coraṃ likhitaṃ kārabhedakaṃ
@@ -214,7 +214,7 @@ yo panandhanakho vāpi kāḷapūtinakhopi ca
 
  iccevamādikaṃ kañci naraṃ parisadūsakaṃ
 pabbājentassa bhikkhussa hoti āpatti dukkaṭaṃ
-
+parisadūsakakathā
 
  sāmaṇerajja mā khāda mā bhuñja ca pivāti ca
 nivārentassa āhāraṃ hoti āpatti dukkaṭaṃ
@@ -236,7 +236,7 @@ nipajjāpetumuṇhe vā pāsāṇe bhūmiyāpi vā
 
  udakaṃ vā pavesetuṃ na ca vaṭṭati bhikkhuno
 idhāvaraṇamattaṃ tu daṇḍakammaṃ pakāsitaṃ
-
+nivāraṇakathā
 
  pakkhopakkamikāsittā catuttho panusūyako
 napuṃsakena pañcete paṇḍakā paridīpitā
@@ -246,7 +246,7 @@ itaresaṃ tu tiṇṇampi paṇḍakānaṃ nivāritā
 
  vāritā  yassa pabbajjā nāsetabboti so mato
 tividhe pana te ñatvā pabbājentassa dukkaṭaṃ
-
+paṇḍakakathā
 
  liṅgattheno ca saṃvāsattheno tadubhayassa ca
 theyyasaṃvāsako nāma tividhopi pavuccati
@@ -265,7 +265,7 @@ cīvarāharaṇatthaṃ vā liṅgamādiyatīdha yo
 
  saṃvāsaṃ nādhivāseti yāva so suddhamānaso
 theyyasaṃvāsako nāma tāva esa na vuccati
-
+theyyasaṃvāsakakathā
 
  titthiyohaṃ  bhavissanti upasampannabhikkhu ce
 saliṅgeneva yo yāti titthiyānamupassayaṃ
@@ -287,11 +287,11 @@ naggassa gacchato vuttaṃ padavārena dukkaṭaṃ
 
  vutto anupasampannavasena theyyavāsako
 tathā titthiyapakkanto upasampannabhikkhunā
-
+titthiyapakkantakathā
 
  nāgo vāpi supaṇṇo vā yakkho sakkopi vā idha
 tiracchānagato vutto pabbājetuṃ na vaṭṭati
-
+tiracchānakathā
 
  pañcānantarike pose pabbājentassa dukkaṭaṃ
 ubhatobyañjanañceva tathā bhikkhunidūsakaṃ
@@ -301,7 +301,7 @@ dūsetvā pana so neva bhikkhunīdūsako siyā
 
  sace anupasampannadūsako upasampadaṃ
 labhateva ca pabbajjaṃ sā ca neva parājitā
-
+ekādasaabhabbapuggalakathā
 
  nūpasampādanīyova  anupajjhāyako naro
 karoto dukkaṭaṃ hoti na kuppati sace kataṃ
@@ -339,7 +339,7 @@ tisso sumanatherassa anusāveti sissakaṃ
 
  nānupajjhāyakeneva ekācariyakenidha
 upasampadā paṭikkhittā buddhenādiccabandhunā
-
+mahākhandhakakathā
 
 
  baddhābaddhavaseneva  sīmā nāma dvidhā matā
@@ -398,7 +398,7 @@ sammannitvāna baddhā sāvippavāsāti vuccati
 
  nadīsarasamuddesu sīmaṃ bandhati ce pana
 na vottharati teneva asīmāti jinobravi
-
+sīmākathā
 
  dinakārakakattabbākārānañca vasā pana
 navevuposathā vuttā buddhenādiccabandhunā
@@ -519,7 +519,7 @@ gaṇapūraṃ karontassa kataṃ kuppati dukkaṭaṃ
 
  parivāsādikammepi  tatraṭṭhaṃ gaṇapūrakaṃ
 katvā pana karontānaṃ tathā sesaṃ tu vaṭṭati
-
+uposathakkhandhakakathā
 
 
  purimā pacchimā cāti duve vassūpanāyikā
@@ -598,7 +598,7 @@ nicchārite ca tikkhattuṃ vassaṃ upagato siyā
 
  ādiṃ tu navamiṃ katvā gantuṃ vaṭṭati bhikkhuno
 āgacchatu ca pacchā so mā vā doso na vijjati
-
+vassūpanāyikakkhandhakakathā
 
 
  cātuddasī pañcadasī sāmaggī ca pavāraṇā
@@ -651,7 +651,7 @@ pubbarattāpararattaṃ vipassanaparāyaṇā
 
  laddhaphāsuvihārānaṃ siyā na parihāniti
 pavāraṇāya saṅgāho vutto kattikamāsake
-
+pavāraṇakkhandhakakathā
 
 
  eḷakājamigānaṃ  tu cammaṃ vaṭṭati bhikkhuno
@@ -698,7 +698,7 @@ sesaṃ pana ca sabbampi labhate gihisantakaṃ
 
  dhammāsane anāpatti bhattaggepi nisīdituṃ
 bhūmattharaṇake tattha sayitumpi ca vaṭṭati
-
+cammakkhandhakakathā
 
 
  vuttā gahapatissāpi sammutussāvanantikā
@@ -796,7 +796,7 @@ aṭṭhapānānulomattā niddiṭṭho anulomike
 
  sānulomassa  dhaññassa ṭhapetvā phalajaṃ rasaṃ
 añño phalaraso natthi ayāmakāliko idha
-
+bhesajjakkhandhakakathā
 
 
  bhikkhūnaṃ vuṭṭhavassānaṃ kathinatthāramabravi
@@ -885,7 +885,7 @@ ubbhārāpi duve vuttā kathinassa mahesinā
 
  anāmantāsamādānaṃ gaṇato yāvadatthikaṃ
 tattha yo cīvaruppādo ānisaṃsā ca pañcime
-
+kathinakkhandhakakathā
 
 
  cīvarassa  panuppādā aṭṭha cīvaramātikā
@@ -953,5 +953,5 @@ alliyā pana pattena dhovituṃ pana vaṭṭati
 
  cīvarānaṃ kathā sesā paṭhame kathine pana
 tattha vuttanayeneva veditabbā vibhāvinā
-
-
+cīvarakkhandhakakathā
+mahāvaggo niṭṭhito

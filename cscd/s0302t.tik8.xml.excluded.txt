@@ -1,19 +1,19 @@
 ﻿9. Opammasaṃyuttaṃ
 1. Kūṭasuttavaṇṇanā
 223..,......
-Kūṭasuttavaṇṇanā niṭṭhitā.
+.
 2. Nakhasikhasuttavaṇṇanā
 224.,.,..
-Nakhasikhasuttavaṇṇanā niṭṭhitā.
+.
 3. Kulasuttavaṇṇanā
 225...,.....‘‘’’..
-Kulasuttavaṇṇanā niṭṭhitā.
+.
 4. Okkhāsuttavaṇṇanā
 226.....‘‘’’.–..
-Okkhāsuttavaṇṇanā niṭṭhitā.
+.
 5. Sattisuttavaṇṇanā
 227............
-Sattisuttavaṇṇanā niṭṭhitā.
+.
 6. Dhanuggahasuttavaṇṇanā
 228..‘‘’’..‘‘’’....,‘‘’’..,...‘‘’’.
 ‘‘’’‘‘’’....
@@ -23,27 +23,27 @@ Sattisuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(mahāni. 10);
 ..
-Dhanuggahasuttavaṇṇanā niṭṭhitā.
+.
 7. Āṇisuttavaṇṇanā
 229..‘‘’’.‘‘’’.,....
 ,,.,..
 .‘‘’’,.,‘‘’’.,‘‘’’‘‘’’.‘‘’’..,,.‘‘’’..‘‘’’..,‘‘’’.‘‘’’,.‘‘’’.‘‘’’...‘‘’’...
-Āṇisuttavaṇṇanā niṭṭhitā.
+.
 8. Kaliṅgarasuttavaṇṇanā
 230.,..‘‘’’..‘‘’’...‘‘’’.
 ....,.,...
-Kaliṅgarasuttavaṇṇanā niṭṭhitā.
+.
 9. Nāgasuttavaṇṇanā
 231..,..,.
-Nāgasuttavaṇṇanā niṭṭhitā.
+.
 10. Biḷārasuttavaṇṇanā
 232.....‘‘’’.,,.‘‘’’‘‘’’.
-Biḷārasuttavaṇṇanā niṭṭhitā.
+.
 11. Siṅgālasuttavaṇṇanā
 233..
-Siṅgālasuttavaṇṇanā niṭṭhitā.
+.
 12. Dutiyasiṅgālasuttavaṇṇanā
 234....
-Dutiyasiṅgālasuttavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Opammasaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+-
+.

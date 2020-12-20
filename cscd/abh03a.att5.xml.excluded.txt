@@ -75,7 +75,7 @@
 ‘‘,,–…pe….,,,…pe…;,,–…pe….
 ‘‘,,–…pe….,,,…pe…,,;,,–…pe…’’(a. ni. 7.55).
 41-44...?–,,.;–.,,,.
-Ekakaniddesavaṇṇanā.
+.
 2. Dukaniddesavaṇṇanā
 45........
 53.–..
@@ -90,7 +90,7 @@ Ekakaniddesavaṇṇanā.
 88....
 89..,,.
 90.......,.‘,’...‘’,.,‘,’,...
-Dukaniddesavaṇṇanā.
+.
 3. Tikaniddesavaṇṇanā
 91.–..,.,.,.;...‘’,–.‘,’.
 .‘’.‘’.‘’,.,......
@@ -135,7 +135,7 @@ Dukaniddesavaṇṇanā.
 ‘‘,,,,.,.?,,.,,,.,.,,…pe…,,;.,,,,.…pe….…pe….,,,,.…pe….…pe…’’(a. ni. 3.87).
 130.–........‘’,...,–.
 131.–.‘‘’’...
-Tikaniddesavaṇṇanā.
+.
 4. Catukkaniddesavaṇṇanā
 132.–......
 133.,..,,..
@@ -221,7 +221,7 @@ Tikaniddesavaṇṇanā.
 .......‘‘’’..
 189.–.,..
 190.–,.,.‘’.......
-Catukkaniddesavaṇṇanā.
+.
 5. Pañcakaniddesavaṇṇanā
 191.–‘‘’’...‘‘,’’(su. ni. 748).‘‘,’’(a. ni. 4.39).‘‘’’(ma. ni. 2.51-52).‘‘,,’’(saṃ. ni. 1.185).‘‘’’(dī. ni. 1.10, 194; ma. ni. 1.293).‘‘’’(a. ni. 5.142)..
 .,.?.......–,–‘‘,,,,’’...
@@ -238,11 +238,11 @@ Catukkaniddesavaṇṇanā.
 198.,..
 199.–,;.‘‘’’.,....–‘‘,;‘’;‘’,’’.,....
 ,..;..,...
-Pañcakaniddesavaṇṇanā.
+.
 6. Chakkaniddesavaṇṇanā
 202.–..
 .....
-Chakkaniddesavaṇṇanā.
+.
 7. Sattakaniddesavaṇṇanā
 203.–.....
 .....,.,..
@@ -253,12 +253,12 @@ Chakkaniddesavaṇṇanā.
 ..
 .,.,..,.....
 ...........
-Sattakaniddesavaṇṇanā.
+.
 207..
 10. Dasakaniddesavaṇṇanā
 209.–...
 ..–‘‘’’.
-Dasakaniddesavaṇṇanā.
+.
 Nigamanakathā
 –
 ,;
@@ -273,6 +273,6 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Puggalapaññatti-aṭṭhakathā niṭṭhitā.
- Namo tassa bhagavato arahato sammāsambuddhassa
+-.
+
 Abhidhammapiṭake

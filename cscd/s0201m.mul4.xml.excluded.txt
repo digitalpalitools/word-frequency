@@ -36,7 +36,7 @@
 ‘‘,,–‘…pe………………………………………’;,.?.
 ‘‘,,–‘’;,.?’’.
 443.,–‘‘,,,!,,,,,,...pāṇupetaṃ (ka.)’’.
-Sāleyyakasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Verañjakasuttaṃ
 444.–..–‘‘,,.–‘..;’.’’.
 ;;,;;;.–‘‘,,,?,,,’’?
@@ -60,7 +60,7 @@ Sāleyyakasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘,,‘…pe………………………………………’;,.?.
 ‘‘–‘’;,‘.?’’’.
 448.,–‘‘,,!,,,,,,;..’’.
-Verañjakasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Mahāvedallasuttaṃ
 449.–.;..–
 ‘‘‘’,,.,,’’?
@@ -141,7 +141,7 @@ Verañjakasuttaṃ niṭṭhitaṃ dutiyaṃ.
 ‘‘,’’?
 ‘‘,,,,..,,,.,,.,,,,..,,,.,,.,,,,..,,,.,,.,,’’.
 ..
-Mahāvedallasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Cūḷavedallasuttaṃ
 460.–.;.–‘‘‘’,,.,,’’?‘‘,,,–,,,,.,,’’.
 ‘‘’’–‘‘‘’,,.,,’’?‘‘,,,–;,,’’.
@@ -203,7 +203,7 @@ Mahāvedallasuttaṃ niṭṭhitaṃ tatiyaṃ.
 ‘‘,’’?‘‘,accasarāvuso (sī. pī.), accassarāvuso (syā. kaṃ.),,.,,,.,,,’’.
 467.;..,–‘‘,,,,,.,,,,.esovetassa (syā. kaṃ.).evametaṃ (sī. syā. kaṃ.)’’.
 ..
-Cūḷavedallasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Cūḷadhammasamādānasuttaṃ
 468.–.–‘‘’’.‘‘’’.–‘‘,,.?,,;,,;,,;,,’’.
 469.‘‘,,?,,–‘’..moḷibandhāhi (syā. kaṃ. ka.).–‘,?’...–‘,,’.,,.,,.,,.,,–‘,;moro vā gileyya, godhā vā khādeyya (ka.),,vanadāho (ka.),,udrabheyyuṃ (sī. pī. ka.),’.,,,,,,,.,.,,–‘samassāseyyuṃ (ka.)–‘‘,,,,,,’’;’..viṭapaṃ (syā. ṭṭha.)...,,–‘samassāseyyuṃ (ka.)–‘‘,,,,,’’.yaṃ vāhaṃ (ka.), svāhaṃ (syā. kaṃ.)’.,,‘’...–‘,?’....–‘,.’.,,.
@@ -211,7 +211,7 @@ Cūḷavedallasuttaṃ niṭṭhitaṃ catutthaṃ.
 471.‘‘,,?,,,;,;,.,,..,,.
 472.‘‘,,?,,,;,;,..…pe……..,,.,,’’.
 ..
-Cūḷadhammasamādānasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Mahādhammasamādānasuttaṃ
 473.–.–‘‘’’.‘‘’’.–‘‘,,–‘,’.,,,.,,’’?‘‘,,,,.,,;’’.‘‘,,,,’’.‘‘,’’.–
 474.‘‘,,,,,,.,,,.,,.?,,.
@@ -235,7 +235,7 @@ Cūḷadhammasamādānasuttaṃ niṭṭhitaṃ pañcamaṃ.
 485.‘‘,,..–‘,,.,’.,.,.,,,.
 486.‘‘,,;,,’’.
 ..
-Mahādhammasamādānasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Vīmaṃsakasuttaṃ
 487.–.–‘‘’’.‘‘’’.–‘‘,,ājānantena (pī. ka.), ajānantena kinti (?)‘’’’.‘‘,,,;,,;’’.‘‘,,,,’’.‘‘,’’.–
 488.‘‘,,–‘,’?–‘,’.
@@ -250,7 +250,7 @@ Mahādhammasamādānasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 ‘‘,,..,,,–‘,,’.,,–‘,,–,,’?,,–‘,,..,,,–,,,’.
 490.‘‘,,,,,,;.,,.’’.
 ..
-Vīmaṃsakasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Kosambiyasuttaṃ
 491.–..,,.;.–‘‘,,,,,,’’.
 –‘‘,,–‘’’’.‘‘,’’;–‘‘’’.‘‘’’;.–‘‘,,,,,,’’?‘‘,’’.‘‘,,,,…pe…’’?‘‘,’’.‘‘,,,,…pe….,,,,,,?,,’’.
@@ -270,7 +270,7 @@ Vīmaṃsakasuttaṃ niṭṭhitaṃ sattamaṃ.
 499.‘‘,,–‘,’.,,?,,,,.–‘,’..
 500.‘‘,,.,,’’.
 ..
-Kosambiyasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Brahmanimantanikasuttaṃ
 501.–.–‘‘’’.‘‘’’.–
 ‘‘,,.,,–‘,,,,,,’.,,–,,–.,,;–‘,,,!,,.,,,,,,,.’’’.
@@ -296,7 +296,7 @@ Kosambiyasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 505.‘‘,,–‘,,,,,;,;,.,,.,,,,,,.,,.,,,,,,.,,–,,,,,’.
 ‘‘,,,–‘,,–’.,.,,;,,.,,–‘,’.,,.,,.,,,,.,,,,,.?,,–.,,;,,–.
 ‘‘,’’.
-Brahmanimantanikasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Māratajjanīyasuttaṃ
 506.–...–‘‘garu garu viya (sī. pī. ṭīkāyaṃ pāṭhantaraṃ)?’’....–‘‘,;,!,.’’.–‘‘–‘,;,!,.’.,kuto ca pana (syā.)’’?–‘‘,,,–‘’.,;,,–‘–,;,!,..,’’’?
 –‘‘–‘,;,!,.’’’..
@@ -362,13 +362,13 @@ Brahmanimantanikasuttaṃ niṭṭhitaṃ navamaṃ.
 ,.
 ‘‘,;
 ,’’.
-Māratajjanīyasuttaṃ niṭṭhitaṃ dasamaṃ.
-Cūḷayamakavaggo niṭṭhito pañcamo.
+.
+.
 –
 ,;
 ,.
-Sāleyyavaggo niṭṭhito pañcamo.
+.
 –
 ,;
 ,.
-Mūlapaṇṇāsakaṃ samattaṃ.
+.

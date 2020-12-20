@@ -5,7 +5,7 @@ yato accantakantā (ka.)’.
 165.
 ,,;
 ,’.
-Yathā
+
 166.
 ,;
 ,.
@@ -238,15 +238,15 @@ Mālādīpaka
 236.
 ’,;
 ,.
-Atītakkhepo.
+.
 237.
 ’,’;
 ’,.
-Vattamānakkhepo.
+.
 238.
 ,;
 parikanta (ka.),.
-Anāgatakkhepo.
+.
 239.
 ,,;
 ,’.
@@ -305,23 +305,23 @@ Sābhāvika vibhāvanā
 254.
 ’,;
 ’,.
-Bhāvakicco kārakahetu.
+.
 255.
 ,’;
 ’,’.
-Abhāvakicco kārakahetu.
+.
 256.
 ’,’;
 ’,’.
-Bhāvakicco ñāpakahetu.
+.
 257.
 ’,;
 !,’?
-Ayuttakārī cittahetu.
+.
 258.
 ,’;
 !,’.
-Yuttakārī cittahetu.
+.
 259.
 ,;
 ‘’,.
@@ -400,20 +400,20 @@ Gammaparikappanā
 282.
 ,,,;
 ,.
-Dabbavisesavutti.
+.
 283.
 ,,;
 ’,.
-Kriyāvisesavutti.
+.
 284.
 tatā (ka.),
 ’;
 ’,.
-Jātivisesavutti.
+.
 285.
 ,,!;
 ,.
-Guṇavisesavutti
+
 286.
 ’,;
 ,.
@@ -426,15 +426,15 @@ Guṇavisesavutti
 289.
 ,;
 ’,.
-Abhinnapadavākyasileso.
+.
 290.
 ’’,;
 ’,.
-Bhinnapadavākyasileso.
+.
 291.
 ’,;
 ,.
-Bhinnābhinnapadavākyasileso.
+.
 292.
 ,,,,,;
 ’,,’.
@@ -601,6 +601,6 @@ Sadisa bala bhāva missa
 ’;
 ’,
 .
-Iti saṅgharakkhitamahāsāmi viracite subodhālaṅkāre
-Atthālaṅkārāvabodho nāma
-Catuttho paricchedo.
+
+
+.

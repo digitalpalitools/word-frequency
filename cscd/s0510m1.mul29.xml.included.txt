@@ -16,7 +16,7 @@ supajjalitanāmā te cakkavattī mahabbalā
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā citakapūjako thero imā gāthāyo abhāsitthāti
-
+citakapūjakattherassāpadānaṃ paṭhamaṃ
 
 
  vākacīradharo  āsiṃ ajinuttaravāsano
@@ -33,7 +33,7 @@ samantadhāraṇo nāma cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā pupphadhārako thero imā gāthāyo abhāsitthāti
-
+pupphadhārakattherassāpadānaṃ dutiyaṃ
 
 
  putto mama pabbajito kāsāyavasano tadā
@@ -53,7 +53,7 @@ mahārahasanāmā te cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā chattadāyako thero imā gāthāyo abhāsitthāti
-
+chattadāyakattherassāpadānaṃ tatiyaṃ
 
 
  anuggatamhi ādicce panādo  vipulo ahu
@@ -67,7 +67,7 @@ duggatiṃ nābhijānāmi buddhapūjāyidaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā saddasaññako thero imā gāthāyo abhāsitthāti
-
+saddasaññakattherassāpadānaṃ catutthaṃ
 
 
  ārāmadvārā nikkhamma gosīsaṃ santhataṃ mayā
@@ -87,7 +87,7 @@ eko āsiṃ mahātejo cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā gosīsanikkhepako thero imā gāthāyo abhāsitthāti
-
+gosīsanikkhepakattherassāpadānaṃ pañcamaṃ
 
 
  pabbate  himavantamhi ahosiṃ kinnaro tadā
@@ -101,7 +101,7 @@ duggatiṃ nābhijānāmi pādapūjāyidaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā pādapūjako thero imā gāthāyo abhāsitthāti
-
+pādapūjakattherassāpadānaṃ chaṭṭhaṃ
 
 
  upasālakanāmohaṃ  ahosiṃ brāhmaṇo tadā
@@ -118,7 +118,7 @@ duggatiṃ nābhijānāmi kittanāya idaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā desakittako thero imā gāthāyo abhāsitthāti
-
+desakittakattherassāpadānaṃ sattamaṃ
 
 
  pabbate  himavantamhi ahosiṃ luddako tadā
@@ -132,7 +132,7 @@ duggatiṃ nābhijānāmi saraṇāgamanapphalaṃ
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā saraṇagamaniyo thero imā gāthāyo abhāsitthāti
-
+saraṇagamaniyattherassāpadānaṃ aṭṭhamaṃ
 
 
  romaso nāma nāmena dānavo iti vissuto
@@ -143,7 +143,7 @@ duggatiṃ nābhijānāmi ambadānassidaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ambapiṇḍiyo thero imā gāthāyo abhāsitthāti
-
+ambapiṇḍiyattherassāpadānaṃ navamaṃ
 
 
  piṇḍāya  caramānāhaṃ vipassimaddasaṃ jinaṃ
@@ -157,8 +157,8 @@ duggatiṃ nābhijānāmi anusaṃsāvanā phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā anusaṃsāvako thero imā gāthāyo abhāsitthāti
-
-
+anusaṃsāvakattherassāpadānaṃ dasamaṃ
+citakapūjakavaggo tiṃsatimo
 tassuddānaṃ 
 citakaṃ  pārichatto ca saddagosīsasantharaṃ
 pādo padesaṃ saraṇaṃ ambo saṃsāvakopi ca
@@ -170,5 +170,5 @@ paṇṇado citapūjī ca gāthāyo ceva sabbaso
 cattāri ca satānīha ekapaññāsameva ca
 pañcavīsasatā sabbā dvāsattati taduttari
 tisataṃ apadānānaṃ gaṇitā atthadassibhi
-
-
+kaṇikāravaggadasakaṃ
+tatiyasatakaṃ samattaṃ

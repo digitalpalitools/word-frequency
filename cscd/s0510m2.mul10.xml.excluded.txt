@@ -36,9 +36,9 @@ pātito (sī. pī.), ghāṭito (syā.),.
 12.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā tiṇamuṭṭhidāyako thero imā gāthāyo
+
 .
-Tiṇamuṭṭhidāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Mañcadāyakattheraapadānaṃ
 13.
 ‘‘,;
@@ -55,8 +55,8 @@ ekaṃ veccaṃ (syā.), ekapacchaṃ (pī.),.
 ‘‘…pe….
 18.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā mañcadāyako veccakadāyako (syā.), saddasaññikavaggepi idaṃ§apadānaṃ dissati thero imā gāthāyo abhāsitthāti.
-Mañcadāyakattherassāpadānaṃ dutiyaṃ.
+veccakadāyako (syā.), saddasaññikavaggepi idaṃ§apadānaṃ dissati.
+.
 3. Saraṇagamaniyattheraapadānaṃ
 19.
 ‘‘,;
@@ -70,9 +70,9 @@ Mañcadāyakattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 23.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā saraṇagamaniyo thero imā gāthāyo
+
 .
-Saraṇagamaniyattherassāpadānaṃ tatiyaṃ.
+.
 4. Abbhañjanadāyakattheraapadānaṃ
 24.
 ‘‘,;
@@ -92,9 +92,9 @@ Saraṇagamaniyattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 30.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā abbhañjanadāyako thero imā gāthāyo
+
 .
-Abbhañjanadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Supaṭadāyakattheraapadānaṃ
 31.
 ‘‘,;
@@ -108,9 +108,9 @@ supaṭikaṃ (syā.), pūpapavaṃ (pī.),.
 ‘‘…pe….
 35.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā supaṭadāyako thero imā gāthāyo
+
 .
-Supaṭadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Daṇḍadāyakattheraapadānaṃ
 36.
 ‘‘,;
@@ -127,10 +127,10 @@ Supaṭadāyakattherassāpadānaṃ pañcamaṃ.
 ‘‘…pe….
 41.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā daṇḍadāyako thero imā gāthāyo
+
 .
-Daṇḍadāyakattherassāpadānaṃ chaṭṭhaṃ.
-Tevīsatimaṃ bhāṇavāraṃ.
+.
+.
 7. Girinelapūjakattheraapadānaṃ
 42.
 ‘‘,;
@@ -147,9 +147,9 @@ Tevīsatimaṃ bhāṇavāraṃ.
 ‘‘…pe….
 47.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā girinelapūjako thero imā gāthāyo
+
 .
-Girinelapūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Bodhisammajjakattheraapadānaṃ
 48.
 ‘‘,;
@@ -226,9 +226,9 @@ Girinelapūjakattherassāpadānaṃ sattamaṃ.
 ‘‘…pe….
 73.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā bodhisammajjako thero imā gāthāyo
+
 .
-Bodhisammajjakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Āmaṇḍaphaladāyakattheraapadānaṃ
 74.
 ‘‘,;
@@ -248,9 +248,9 @@ Bodhisammajjakattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 80.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā āmaṇḍaphaladāyako thero imā
+
 .
-Āmaṇḍaphaladāyakattherassāpadānaṃ navamaṃ.
+.
 10. Sugandhattheraapadānaṃ
 81.
 ‘‘,;
@@ -387,10 +387,10 @@ tenāpi cāsiṃ (syā.),.
 ‘‘…pe….
 126.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sugandho thero imā gāthāyo
+
 .
-Sugandhattherassāpadānaṃ dasamaṃ.
-Tiṇadāyakavaggo tepaññāsamo.
+.
+.
 –
 ,;
 ,.

@@ -31,7 +31,7 @@ maṃ niccaṃ (ka.),.
 ‘‘,;
 ,’’.
 .
-Mahāparivārakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Sumaṅgalattheraapadānaṃ
 11.
 ‘‘,;
@@ -60,7 +60,7 @@ Mahāparivārakattherassāpadānaṃ paṭhamaṃ.
 19.
 ‘‘…pe…’’.
 .
-Sumaṅgalattherassāpadānaṃ dutiyaṃ.
+.
 3. Saraṇagamaniyattheraapadānaṃ
 20.
 ‘‘,;
@@ -95,7 +95,7 @@ samupabbūḷho (sī.),pavattatha (sī.).
 30.
 ‘‘…pe…’’.
 .
-Saraṇagamaniyattherassāpadānaṃ tatiyaṃ.
+.
 4. Ekāsaniyattheraapadānaṃ
 31.
 ‘‘,;
@@ -124,7 +124,7 @@ Saraṇagamaniyattherassāpadānaṃ tatiyaṃ.
 39.
 ‘‘…pe…’’.
 .
-Ekāsaniyattherassāpadānaṃ catutthaṃ.
+.
 5. Suvaṇṇapupphiyattheraapadānaṃ
 40.
 ‘‘,;
@@ -153,7 +153,7 @@ Ekāsaniyattherassāpadānaṃ catutthaṃ.
 48.
 ‘‘…pe…’’.
 .
-Suvaṇṇapupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Citakapūjakattheraapadānaṃ
 49.
 ‘‘,;
@@ -179,7 +179,7 @@ Suvaṇṇapupphiyattherassāpadānaṃ pañcamaṃ.
 56.
 ‘‘…pe…’’.
 .
-Citakapūjakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Buddhasaññakattheraapadānaṃ
 57.
 ‘‘,;
@@ -208,7 +208,7 @@ pāṇabhutaṃ (syā.), pāṇabhūnaṃ (sī. ka.),sagāravā (syā.).
 65.
 ‘‘…pe…’’.
 .
-Buddhasaññakattherassāpadānaṃ sattamaṃ.
+.
 8. Maggasaññakattheraapadānaṃ
 66.
 ‘‘,;
@@ -228,7 +228,7 @@ Buddhasaññakattherassāpadānaṃ sattamaṃ.
 71.
 ‘‘…pe…’’.
 .
-Maggasaññakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Paccupaṭṭhānasaññakattheraapadānaṃ
 72.
 ‘‘,;
@@ -260,7 +260,7 @@ Maggasaññakattherassāpadānaṃ aṭṭhamaṃ.
 81.
 ‘‘…pe…’’.
 .
-Paccupaṭṭhānasaññakattherassāpadānaṃ navamaṃ.
+.
 10. Jātipūjakattheraapadānaṃ
 82.
 ‘‘,;
@@ -290,8 +290,8 @@ Paccupaṭṭhānasaññakattherassāpadānaṃ navamaṃ.
 90.
 ‘‘…pe…’’.
 .
-Jātipūjakattherassāpadānaṃ dasamaṃ.
-Mahāparivāravaggo dvādasamo.
+.
+.
 –
 ,;
 ,;

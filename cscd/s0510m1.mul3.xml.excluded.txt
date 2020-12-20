@@ -49,7 +49,7 @@ bhūtagaṇā sabbe (syā.),’.
 ‘‘,;
 ,’’.
 .
-Kuṇḍadhānattherassāpadānaṃ paṭhamaṃ.
+.
 2. Sāgatattheraapadānaṃ
 17.
 ‘‘,;
@@ -93,7 +93,7 @@ Kuṇḍadhānattherassāpadānaṃ paṭhamaṃ.
 30.
 ‘‘…pe…’’.
 .
-Sāgatattherassāpadānaṃ dutiyaṃ.
+.
 3. Mahākaccānattheraapadānaṃ
 31.
 ‘‘,;
@@ -146,7 +146,7 @@ paribbūḷho (sī.),.
 47.
 ‘‘…pe…’’.
 .
-Mahākaccānattherassāpadānaṃ tatiyaṃ.
+.
 4. Kāḷudāyittheraapadānaṃ
 48.
 ‘‘,;
@@ -196,7 +196,7 @@ pamodito (sī.),.
 63.
 ‘‘…pe…’’.
 ;
-Kāḷudāyītherassāpadānaṃ catutthaṃ.
+.
 5. Mogharājattheraapadānaṃ
 64.
 ‘‘,;
@@ -258,7 +258,7 @@ Kāḷudāyītherassāpadānaṃ catutthaṃ.
 83.
 ‘‘…pe…’’.
 ;
-Mogharājattherassāpadānaṃ pañcamaṃ.
+.
 6. Adhimuttattheraapadānaṃ
 84.
 ‘‘,;
@@ -275,7 +275,7 @@ atibhomi (sī. ka.),.
 88.
 ‘‘…pe…’’.
 ;
-Adhimuttattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Lasuṇadāyakattheraapadānaṃ
 89.
 ‘‘,;
@@ -292,7 +292,7 @@ Adhimuttattherassāpadānaṃ chaṭṭhaṃ.
 93.
 ‘‘…pe…’’.
 ;
-Lasuṇadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Āyāgadāyakattheraapadānaṃ
 94.
 ‘‘,;
@@ -318,7 +318,7 @@ Lasuṇadāyakattherassāpadānaṃ sattamaṃ.
 101.
 ‘‘…pe…’’.
 .
-Āyāgadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Dhammacakkikattheraapadānaṃ
 102.
 ‘‘,;
@@ -338,7 +338,7 @@ Lasuṇadāyakattherassāpadānaṃ sattamaṃ.
 107.
 ‘‘…pe…’’.
 .
-Dhammacakkikattherassāpadānaṃ navamaṃ.
+.
 10. Kapparukkhiyattheraapadānaṃ
 108.
 ‘‘,;
@@ -358,8 +358,8 @@ laggetvā (sī. syā.),.
 113.
 ‘‘…pe…’’.
 .
-Kapparukkhiyattherassāpadānaṃ dasamaṃ.
-Kuṇḍadhānavaggo catuttho.
+.
+.
 –
 ,;
 ,;

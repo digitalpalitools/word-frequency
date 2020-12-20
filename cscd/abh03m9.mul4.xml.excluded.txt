@@ -18,7 +18,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 4.,,(sabbattha nava),,…pe….
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -54,7 +54,7 @@ Hetupaccayo
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 13.,,…pe….
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -138,7 +138,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 37.,(sabbattha nava),,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 38.…….(1)
 ……….(2)
@@ -157,12 +157,12 @@ Hetudukaṃ
 42.…pe…,,(sabbattha nava),,,,,.
 4. Paccayapaccanīyānulomaṃ
 43.,(anulomapadāni paripuṇṇāni kātabbāni),.
-Ganthadukaṃ niṭṭhitaṃ.
+.
 27. Ganthaniyadukaṃ
 1-7. Vārasattakaṃ
 44.–(saṃkhittaṃ).
 (Yathā cūḷantaraduke lokiyadukaṃ evaṃ vibhajitabbaṃ ninnānākaraṇaṃ.)
-Ganthaniyadukaṃ niṭṭhitaṃ.
+.
 28. Ganthasampayuttadukaṃ
 1. Paṭiccavāro
 1. Paccayānulomaṃ
@@ -188,7 +188,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 50.,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -218,7 +218,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 57.,,,,(sabbattha nava),,…pe….
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -246,7 +246,7 @@ Hetupaccayo
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 64.,,(sabbattha cha),,…pe….
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -339,7 +339,7 @@ Atthipaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 96.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 97.…….(1)
 ………….(2)
@@ -359,7 +359,7 @@ Hetudukaṃ
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 102.,(anulomamātikā vitthāretabbā)…pe….
-Ganthasampayuttadukaṃ niṭṭhitaṃ.
+.
 29. Ganthaganthaniyadukaṃ
 1. Paṭiccavāro
 Hetupaccayo
@@ -379,7 +379,7 @@ Hetupaccayo
 –…pe……pe…,,…pe……pe…;…pe……pe……pe…,,…pe….(2)
 –…pe……pe……pe……pe……pe……pe…,(evaṃ itarepi tīṇi vitthāretabbā).(3)
 (Ārabbha kātabbā. Imasmiṃ duke lokuttaraṃ natthi, ganthadukasadisaṃ, ninnānākaraṇaṃ. ‘‘Ganthaniya’’nti niyāmetabbaṃ, magge nava pañhā kātabbā.)
-Ganthaganthaniyadukaṃ niṭṭhitaṃ.
+.
 30. Ganthaganthasampayuttadukaṃ
 1. Paṭiccavāro
 1-4. Paccayacatukkaṃ
@@ -394,7 +394,7 @@ Hetupaccayo
 –…pe……pe….(2)
 –…pe……pe…(cakkaṃ bandhitabbaṃ. Saṃkhittaṃ).(3)
 110.,(sabbattha nava),,…pe….
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 111.(saṃkhittaṃ).
 ,,,,,,.
@@ -422,10 +422,10 @@ Hetupaccayo
 Suddhaṃ
 116.,,,,,,,,,,,,,,,,,,,.
 (Arūpaṃyeva paccayaṃ, ekekassa tīṇi tīṇi kātabbā. Ārammaṇañca sahajātañca upanissayañca navasupi parivattetabbaṃ. Evaṃ pañhāvārepi sabbaṃ kātabbaṃ.)
-Ganthaganthasampayuttadukaṃ niṭṭhitaṃ.
+.
 31. Ganthavippayuttaganthaniyadukaṃ
 1. Paṭiccavāro
 Hetupaccayo
 117.–…pe……pe……pe……pe…(yathā cūḷantaraduke lokiyadukaṃ evaṃ vitthāretabbaṃ ninnānākaraṇaṃ).
-Ganthavippayuttaganthaniyadukaṃ niṭṭhitaṃ.
-Ganthagocchakaṃ niṭṭhitaṃ.
+.
+.

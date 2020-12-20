@@ -70,7 +70,7 @@ pajaṃ imaṃ passatha dummarūpaṃ  na jaṭājinaṃ tāyati appapaññaṃ
 
  yesaṃ rāgo ca doso ca avijjā ca virājitā
 khīṇāsavā arahanto tesu dinnaṃ mahapphalanti
-
+mātaṅgajātakaṃ paṭhamaṃ
 
  498 cittasambhūtajātakaṃ 
 
@@ -157,7 +157,7 @@ imameva gāthaṃ manasī karohi bhāsesi  cenaṃ parisāya majjhe
 
  abbhokāsasayo  jantu vajantyā khīrapāyito
 parikiṇṇo suvānehi  svājja rājāti vuccatīti
-
+cittasambhūtajātakaṃ dutiyaṃ
 
  499 sivijātakaṃ 
 
@@ -255,7 +255,7 @@ datvāna  mānusaṃ  cakkhuṃ laddhaṃ me  cakkhuṃ amānusaṃ
 
  etampi disvā sivayo detha dānāni bhuñjatha
 datvā ca bhutvā ca yathānubhāvaṃ aninditā saggamupetha ṭhānanti
-
+sivijātakaṃ tatiyaṃ
 
  500 sirīmantajātakaṃ 
 
@@ -337,7 +337,7 @@ etampi disvāna ahaṃ vadāmi paññova seyyo na yasassi bālo
  yaṃ taṃ apucchimha akittayī no mahosadha kevaladhammadassī
 gavaṃ sahassaṃ usabhañca nāgaṃ ājaññayutte ca rathe dasa ime
 pañhassa veyyākaraṇena tuṭṭho dadāmi  te gāmavarāni soḷasāti
-
+sirīmantajātakaṃ  catutthaṃ
 
  501 rohaṇamigajātakaṃ 
 
@@ -427,7 +427,7 @@ dhammena rajjaṃ kāressaṃ bahukāro mesi luddaka
 
  kasivāṇijjā  iṇadānaṃ uñchācariyā ca luddaka
 etena dāraṃ posehi mā pāpaṃ akarī punāti 
-
+rohaṇamigajātakaṃ  pañcamaṃ
 
  502 cūḷahaṃsajātakaṃ 
 
@@ -508,7 +508,7 @@ sarabhova giriduggasmiṃ antarāyeva sīdati
 
  etaṃ  me upamaṃ katvā putte vijjāsu vācaya 
 saṃvirūḷhetha medhāvī khette bījaṃva  vuṭṭhiyāti
-
+cūḷahaṃsajātakaṃ chaṭṭhaṃ
 
  503 sattigumbajātakaṃ 
 
@@ -595,7 +595,7 @@ pattāpi surabhi  vāyanti evaṃ dhīrūpasevanā
  tasmā pattapuṭasseva  ñatvā sampākamattano
 asante nopaseveyya sante seveyya paṇḍito
 asanto nirayaṃ nenti santo pāpenti suggatinti
-
+sattigumbajātakaṃ sattamaṃ
 
  504 bhallātiyajātakaṃ 
 
@@ -673,7 +673,7 @@ mā vo tapī attakammāparādho yathāpi te kimpurisekarattaṃ
 
  vividhaṃ  adhimanā suṇomahaṃ vacanapathaṃ tava atthasaṃhitaṃ
 muñcaṃ  giraṃ nudaseva me daraṃ samaṇa  sukhāvaha jīva me ciranti
-
+bhallātiyajātakaṃ aṭṭhamaṃ
 
  505 somanassajātakaṃ 
 
@@ -763,7 +763,7 @@ tamariyamaggaṃ paṭipajjamānaṃ na ussahe vārayituṃ kumāraṃ
 
  addhā  have sevitabbā sapaññā bahussutā ye bahuṭhānacintino
 yesāyaṃ sutvāna subhāsitāni appossukkā vītasokā sudhammāti
-
+somanassajātakaṃ navamaṃ
 
  506 campeyyajātakaṃ 
 
@@ -901,7 +901,7 @@ antepure bhūmiyaṃ santharantu nikkaddamā hehiti nīrajā ca
 
  etādisaṃ āvasa rājaseṭṭha vimānaseṭṭhaṃ bahu sobhamānaṃ
 bārāṇasiṃ nagaraṃ iddhaṃ phītaṃ rajjañca kārehi anomapaññāti
-
+campeyyajātakaṃ dasamaṃ
 
  507 mahāpalobhanajātakaṃ 
 
@@ -997,7 +997,7 @@ saṃvegaṃ alabhī dhīro pabbajjaṃ samarocayi
 
  tato so pabbajitvāna kāmarāgaṃ virājayi
 kāmarāgaṃ  virājetvā brahmalokūpago ahūti
-
+mahāpalobhanajātakaṃ ekādasamaṃ
 
  508 pañcapaṇḍitajātakaṃ 
 
@@ -1067,7 +1067,7 @@ tāvanto  tassa ubbegā tasmā guyhaṃ na vissaje
 
  vivicca bhāseyya divā rahassaṃ rattiṃ giraṃ nātivelaṃ pamuñce
 upassutikā hi suṇanti mantaṃ tasmā manto khippamupeti bhedanti
-
+pañcapaṇḍitajātakaṃ dvādasamaṃ
 
  509 hatthipālajātakaṃ 
 
@@ -1148,7 +1148,7 @@ ahampi ekā carissāmi loke hitvāna kāmāni yathodhikāni
 
  accenti kālā tarayanti rattiyo vayoguṇā anupubbaṃ jahanti
 ahampi ekā carissāmi loke sītibhūtā  sabbamaticca saṅganti
-
+hatthipālajātakaṃ terasamaṃ
 
  510 ayogharajātakaṃ 
 
@@ -1223,8 +1223,8 @@ esānisaṃso dhamme suciṇṇe na duggatiṃ gacchati dhammacārī
 
  na hi dhammo adhammo ca ubho samavipākino
 adhammo nirayaṃ neti dhammo pāpeti suggatinti
-
+ayogharajātakaṃ cuddasamaṃ
 tassuddānaṃ 
 mātaṅga sambhūta sivi sirimanto rohaṇa haṃsa sattigumbo bhallātiya
 somanassa campeyya brahma pañcapaṇḍita cirassaṃvata ayogharāti
-
+vīsatinipātaṃ niṭṭhitaṃ

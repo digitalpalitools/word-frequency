@@ -28,7 +28,7 @@ cittamālā (sī.), vilāmālā (syā.),.
 ‘‘,;
 ,’’.
 .
-Sereyyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Pupphathūpiyattheraapadānaṃ
 10.
 ‘‘,kukkuṭo nāma (sī.);
@@ -78,7 +78,7 @@ Sereyyakattherassāpadānaṃ paṭhamaṃ.
 25.
 ‘‘…pe…’’.
 .
-Pupphathūpiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Pāyasadāyakattheraapadānaṃ
 26.
 ‘‘,;
@@ -107,7 +107,7 @@ padhāno (ka.),suvaṇṇavaṇṇaṃ …pe… purakkhataṃ-evaṃ dutiyantava
 34.
 ‘‘…pe…’’.
 pāyāsadāyako (syā. ka.).
-Pāyasadāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Gandhodakiyattheraapadānaṃ
 35.
 ‘‘,;
@@ -127,7 +127,7 @@ Pāyasadāyakattherassāpadānaṃ tatiyaṃ.
 40.
 ‘‘…pe…’’.
 .
-Gandhodakiyattherassāpadānaṃ catutthaṃ.
+.
 5. Sammukhāthavikattheraapadānaṃ
 41.
 ‘‘,;
@@ -201,7 +201,7 @@ Gandhodakiyattherassāpadānaṃ catutthaṃ.
 64.
 ‘‘…pe…’’.
 .
-Sammukhāthavikattherassāpadānaṃ pañcamaṃ.
+.
 6. Kusumāsaniyattheraapadānaṃ
 65.
 ‘‘,;
@@ -233,7 +233,7 @@ Sammukhāthavikattherassāpadānaṃ pañcamaṃ.
 74.
 ‘‘…pe…’’.
 .
-Kusumāsaniyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Phaladāyakattheraapadānaṃ
 75.
 ‘‘,;
@@ -262,7 +262,7 @@ Kusumāsaniyattherassāpadānaṃ chaṭṭhaṃ.
 83.
 ‘‘…pe…’’.
 .
-Phaladāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Ñāṇasaññikattheraapadānaṃ
 84.
 ‘‘,;
@@ -285,7 +285,7 @@ Phaladāyakattherassāpadānaṃ sattamaṃ.
 90.
 ‘‘…pe…’’.
 .
-Ñāṇasaññikattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Gaṇṭhipupphiyattheraapadānaṃ
 91.
 ‘‘,;
@@ -305,7 +305,7 @@ Phaladāyakattherassāpadānaṃ sattamaṃ.
 96.
 ‘‘…pe…’’.
 gandhapupphiyo (syā. ka.).
-Gaṇṭhipupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Padumapūjakattheraapadānaṃ
 97.
 ‘‘,;
@@ -334,8 +334,8 @@ Gaṇṭhipupphiyattherassāpadānaṃ navamaṃ.
 105.
 ‘‘…pe…’’.
 ;
-Padumapūjakattherassāpadānaṃ dasamaṃ.
-Sereyyavaggo terasamo.
+.
+.
 –
 ,;
 ,;

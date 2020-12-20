@@ -45,7 +45,7 @@
 ,.
 ,;
 ,’’.
-Vuttaṃ. Aparampi vuttaṃ.
+..
 ‘‘,;
 ,;
 ,.
@@ -71,7 +71,7 @@ Vuttaṃ. Aparampi vuttaṃ.
 ‘‘,;
 ,’’.
 ..,.,.‘‘,’’.,...,......,,..,.,..,.,,,,..,,.,,.,..,,,.
-Vuttampi cetaṃ.
+.
 ‘‘,;
 ,.
 ’,;
@@ -79,7 +79,7 @@ Vuttampi cetaṃ.
 .,.,,.,,..
 ’,;
 ,’.
-Keci pana.
+.
 ‘‘’,;
 ,’’.
 ‘‘’’‘‘’’‘‘’’.
@@ -90,5 +90,5 @@ Keci pana.
 ,;
 ,’’.
 ,..,,‘‘’’‘‘’’‘‘’’.‘‘’’...
-Iti sāgarabuddhittheraviracite sīmavisodhane
-Kappavināsakaṇḍo dutiyo paricchedo.
+
+.

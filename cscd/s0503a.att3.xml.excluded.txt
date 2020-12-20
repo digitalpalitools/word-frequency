@@ -9,7 +9,7 @@
 ‘‘,;
 ,’’.(theragā. 606);
 ‘‘’’.‘‘’’.
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Nandasuttavaṇṇanā
 22..‘‘’’..,‘‘’’,......,...
 ?–‘‘’’(jā. 2.22.1655 ādayo)‘‘’’(dha. pa. 168)‘‘’’(dha. pa. 169),.
@@ -52,7 +52,7 @@ Paṭhamasuttavaṇṇanā niṭṭhitā.
 ‘‘,,’’(a. ni. 1.230).
 ..
 ..‘‘’’.,.,.‘‘’’,.
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Yasojasuttavaṇṇanā
 23.,‘‘’’.
 –.‘‘,,’’.‘‘,’’.‘‘’’.‘‘,’’(ma. ni. 1.222 ādayo).‘‘’’...,.
@@ -78,14 +78,14 @@ Dutiyasuttavaṇṇanā niṭṭhitā.
 .,,‘‘’’,,.‘‘,,’’,.,,,.–‘‘,,’’.
 ..
 ,.‘‘’’.–.,...,..,,.,,...
-Tatiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Sāriputtasuttavaṇṇanā
 24..–
 ‘‘,’’(vibha. 537).
 ‘‘,,,‘’’’.(paṭi. ma. 1.164).–..,.‘‘’’(a. ni. 1.600).?.?.,.(ma. ni. 2.201).
 .
 ,..,,,.,,.
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Mahāmoggallānasuttavaṇṇanā
 25.,.,.,..,‘‘’’?‘‘’’(dī. ni. 2.377; ma. ni. 1.110; khu. pā. 3.dvattiṃsākāra),,‘‘’’.,‘‘’’.‘‘’’..‘‘’’.
 ..
@@ -93,7 +93,7 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 .,‘‘’’‘‘’’,,,...,,..
 –.,.,......
 ...,.
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Pilindavacchasuttavaṇṇanā
 26.,.‘‘,,,’’..‘‘’’‘‘’’.–‘‘,,’’.–‘‘‘’,,‘’’’.‘‘,’’.–‘‘’’.
 ‘‘,,’’‘‘,’’‘‘,’’.,.‘‘,’’.
@@ -101,7 +101,7 @@ Pañcamasuttavaṇṇanā niṭṭhitā.
 .,.,..‘‘’’,.,.?,,.,.,,.
 ..
 ,‘‘’’,.,,...,,.,,,.
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Sakkudānasuttavaṇṇanā
 27.‘‘‘’’’.,.–
 ‘‘,,,…pe….,,…pe…’’(saṃ. ni. 2.152)–
@@ -120,7 +120,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 ‘‘’’.
 .,,?.,.‘‘’’(dha. pa. 49)‘‘’’.,.‘‘’’(a. ni. 4.27; itivu. 101)...,,,..
 …pe…,,,,.
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Piṇḍapātikasuttavaṇṇanā
 28.,.,..,‘‘’’,‘‘’’..‘‘’’,‘‘’’.
 ,.,..,...,......‘‘’’..
@@ -128,7 +128,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 ..‘‘,,’’..
 ‘‘,,’’.
 ‘‘’’..,..
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Sippasuttavaṇṇanā
 29.,,,,‘‘’’???....‘‘’’.,‘‘’’...,.....,‘‘’’.,.,‘‘,’’,,‘‘’’.–
 ‘‘,,–,,,’’(a. ni. 4.231).
@@ -136,7 +136,7 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 ,,.
 ,.,.,.,..
 ,,.,.‘‘’’,‘‘’’.‘‘,,’’.
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Lokasuttavaṇṇanā
 30..–
 ‘‘’’(ma. ni. 1.283; 2.339).
@@ -172,5 +172,5 @@ Navamasuttavaṇṇanā niṭṭhitā.
 ,‘‘’’....,,.,,.
 ‘‘’’,,.,,,.
 ‘‘’’.–,,.,,,.,,..
-Dasamasuttavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca nandavaggavaṇṇanā.
+.
+.

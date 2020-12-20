@@ -10,7 +10,7 @@ bharitvā turavamādāya (ka.), bhajjitaṃ tuvaramādāya (?) ettha tuvaranti m
 ‘‘,;
 ,’’.
 .
-Tuvaradāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Nāgakesariyattheraapadānaṃ
 4.
 ‘‘,;
@@ -27,7 +27,7 @@ osaraṃ (syā.), osaṭaṃ (sī.),.
 8.
 ‘‘…pe…’’.
 .
-Nāgakesariyattherassāpadānaṃ dutiyaṃ.
+.
 3. Naḷinakesariyattheraapadānaṃ
 9.
 ‘‘,;
@@ -44,7 +44,7 @@ athaddasaṃ (sī. syā.),.
 13.
 ‘‘…pe…’’.
 .
-Naḷinakesariyattherassāpadānaṃ tatiyaṃ.
+.
 4. Viravapupphiyattheraapadānaṃ
 14.
 ‘‘,;
@@ -55,7 +55,7 @@ viravipupphaṃ paggayha (sī.),.
 16.
 ‘‘…pe…’’.
 .
-Viravapupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Kuṭidhūpakattheraapadānaṃ
 17.
 ‘‘,;
@@ -66,7 +66,7 @@ Viravapupphiyattherassāpadānaṃ catutthaṃ.
 19.
 ‘‘…pe…’’.
 .
-Kuṭidhūpakattherassāpadānaṃ pañcamaṃ.
+.
 6. Pattadāyakattheraapadānaṃ
 20.
 ‘‘,;
@@ -77,7 +77,7 @@ Kuṭidhūpakattherassāpadānaṃ pañcamaṃ.
 22.
 ‘‘…pe…’’.
 .
-Pattadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Dhātupūjakattheraapadānaṃ
 23.
 ‘‘,;
@@ -91,7 +91,7 @@ Pattadāyakattherassāpadānaṃ chaṭṭhaṃ.
 26.
 ‘‘…pe…’’.
 .
-Dhātupūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Sattalipupphapūjakattheraapadānaṃ
 27.
 ‘‘,;
@@ -102,7 +102,7 @@ Dhātupūjakattherassāpadānaṃ sattamaṃ.
 29.
 ‘‘…pe…’’.
 .
-Sattalipupphapūjakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Bimbijāliyattheraapadānaṃ
 30.
 ‘‘,;
@@ -116,7 +116,7 @@ Sattalipupphapūjakattherassāpadānaṃ aṭṭhamaṃ.
 33.
 ‘‘…pe…’’.
 .
-Bimbijāliyattherassāpadānaṃ navamaṃ.
+.
 10. Uddālakadāyakattheraapadānaṃ
 34.
 ‘‘,;
@@ -130,8 +130,8 @@ Bimbijāliyattherassāpadānaṃ navamaṃ.
 37.
 ‘‘…pe…’’.
 .
-Uddālakadāyakattherassāpadānaṃ dasamaṃ.
-Tuvaradāyakavaggo pañcavīsatimo.
+.
+.
 –
 ,;
 ,;

@@ -13,7 +13,7 @@ tava dhammaṃ suṇantassa avadhī vacchapālako
 
  ye ca te dīghamaddhānaṃ dhammaṃ assosuṃ gotama
 pattā te acalaṭṭhānaṃ yattha gantvā na socareti
-
+maṇḍūkadevaputtavimānaṃ paṭhamaṃ
 
 
  cirappavāsiṃ purisaṃ dūrato sotthimāgataṃ
@@ -93,7 +93,7 @@ khipiṃsu niraye ghore uddhapādaṃ avaṃsiraṃ
 
  ahaṃ pure maccharinī ahosiṃ paribhāsikā  samaṇabrāhmaṇānaṃ
 vitathena ca sāmikaṃ vañcayitvā paccāmahaṃ niraye ghorarūpeti
-
+revatīvimānaṃ dutiyaṃ
 
 
  ye  vadataṃ pavaro manujesu sakyamunī bhagavā katakicco
@@ -170,7 +170,7 @@ svāhaṃ upagatomhi saccanāmaṃ anukampassu punapi suṇemu  dhammaṃ
 
  ye  cidha  pajahanti kāmarāgaṃ bhavarāgānusayañca pahāya mohaṃ
 na ca te punamupenti gabbhaseyyaṃ parinibbānagatā hi sītibhūtāti
-
+chattamāṇavakavimānaṃ tatiyaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -196,7 +196,7 @@ uppajjanti  ca me bhogā ye keci manaso piyā
 
  akkhāmi te bhikkhu mahānubhāva manussabhūto yamakāsi puññaṃ
 tenamhi evaṃ jalitānubhāvo vaṇṇo ca me sabbadisā pabhāsatīti
-
+kakkaṭakarasadāyakavimānaṃ catutthaṃ
 
 
 
@@ -215,7 +215,7 @@ pañhaṃ puṭṭho viyākāsi yassa kammassidaṃ phalaṃ
 ettāvatā ṭhassati puññakammo dibbehi kāmehi samaṅgibhūto
 
  tena  metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+dvārapālavimānaṃ pañcamaṃ
 
 
  uccamidaṃ maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -236,7 +236,7 @@ sammaggatesu buddhesu yattha dinnaṃ mahapphalaṃ
 tattha  cittaṃ pasādetvā tāvatiṃsūpago ahaṃ 
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamakaraṇīyavimānaṃ chaṭṭhaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -257,7 +257,7 @@ tattha cittaṃ pasādetvā tāvatiṃsūpago ahaṃ
 
  tena  metādiso vaṇṇo
 vaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyakaraṇīyavimānaṃ sattamaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -275,7 +275,7 @@ yañceva dajjā tañceva seyyo
 sūci dinnā sūcimeva seyyo
 
  tena metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamasūcivimānaṃ aṭṭhamaṃ
 
 
  uccamidaṃ maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -294,7 +294,7 @@ dibbā rasā kāmaguṇettha pañca nāriyo ca naccanti suvaṇṇachannā
 tassa adāsahaṃ sūciṃ pasanno sehi pāṇibhi
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyasūcivimānaṃ navamaṃ
 
 
  susukkakhandhaṃ  abhiruyha nāgaṃ akācinaṃ dantiṃ baliṃ mahājavaṃ
@@ -313,7 +313,7 @@ pañhaṃ puṭṭho viyākāsi yassa kammassidaṃ phalaṃ
 thūpasmiṃ abhiropesiṃ pasanno sehi pāṇibhi
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamanāgavimānaṃ dasamaṃ
 
 
  mahantaṃ  nāgaṃ abhiruyha sabbasetaṃ gajuttamaṃ
@@ -332,7 +332,7 @@ pāṇātipātā virato ahosiṃ loke adinnaṃ parivajjayissaṃ
 annañca pānañca pasannacitto sakkacca dānaṃ vipulaṃ adāsiṃ
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyanāgavimānaṃ ekādasamaṃ
 
 
  ko  nu dibbena yānena sabbasetena hatthinā
@@ -349,7 +349,7 @@ kiṃ katvā mānuse kammaṃ sudhammaṃ upapajjatīti
 
  ucchāgāraṃ tiṇāgāraṃ vatthāgārañca yo dade
 tiṇṇaṃ aññataraṃ datvā sudhammaṃ upapajjatīti
-
+tatiyanāgavimānaṃ dvādasamaṃ
 
 
  daḷhadhammā nisārassa dhanuṃ olubbha tiṭṭhasi
@@ -453,7 +453,7 @@ pahāya mānusaṃ dehaṃ upapannomhi nandanaṃ
 
  nandane  ca vane  ramme nānādijagaṇāyute
 ramāmi naccagītehi accharāhi purakkhatoti
-
+cūḷarathavimānaṃ terasamaṃ
 
 
  sahassayuttaṃ  hayavāhanaṃ subhaṃ āruyhimaṃ sandanaṃ nekacittaṃ
@@ -555,13 +555,13 @@ annañca pānañca bahuṃ susaṅkhataṃ patiṭṭhapetabbamasaṅgamānase
 
 nayimasmiṃ loke parasmiṃ  vā pana buddhena seṭṭho va samo va vijjati
 āhuneyyānaṃ  paramāhutiṃ gato puññatthikānaṃ vipulapphalesinanti
-
-
+mahārathavimānaṃ cuddasamaṃ
+mahārathavaggo pañcamo niṭṭhito
 tassuddānaṃ  
 maṇḍūko revatī chatto kakkaṭo dvārapālako
 dve karaṇīyā dve sūci tayo nāgā ca dve rathā
 purisānaṃ paṭhamo vaggo pavuccatīti
-
+bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ
 
 
 
@@ -578,7 +578,7 @@ pañhaṃ puṭṭho viyākāsi yassa kammassidaṃ phalaṃ
 annañca pānañca pasannacittā sakkacca dānaṃ vipulaṃ adamha
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamaagāriyavimānaṃ paṭhamaṃ
 
 
  yathā  vanaṃ cittalataṃ pabhāsati uyyānaseṭṭhaṃ tidasānamuttamaṃ
@@ -593,7 +593,7 @@ kenāsi evaṃ jalitānubhāvo vaṇṇo ca te sabbadisā pabhāsatīti
 annañca pānañca pasannacittā sakkacca dānaṃ vipulaṃ adamha
 
  tena metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyaagāriyavimānaṃ dutiyaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato soḷasa yojanāni
@@ -618,7 +618,7 @@ dibbāni vā patthayatā sukhāni manussasobhaggatamicchatā vā
 
  tena  metādiso vaṇṇo
 vaṇṇo ca me sabbadisā pabhāsatīti
-
+phaladāyakavimānaṃ tatiyaṃ
 
 
  cando  yathā vigatavalāhake nabhe obhāsayaṃ gacchati antalikkhe
@@ -633,14 +633,14 @@ kenāsi evaṃ jalitānubhāvo vaṇṇo ca te sabbadisā pabhāsatīti
 annañca pānañca pasannacittā sakkacca dānaṃ vipulaṃ adamha
 
  tena  metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamaupassayadāyakavimānaṃ catutthaṃ
 
 
  sūriyo  yathā vigatavalāhake nabhe
 
 
  tena metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyaupassayadāyakavimānaṃ pañcamaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -655,7 +655,7 @@ kenāsi evaṃ jalitānubhāvo vaṇṇo ca te sabbadisā pabhāsatīti
 ekāhaṃ bhikkhaṃ paṭipādayissaṃ samaṅgi bhattena tadā akāsiṃ
 
  tena  metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+bhikkhādāyakavimānaṃ chaṭṭhaṃ
 
 
  uccamidaṃ maṇithūṇaṃ vimānaṃ vaṇṇo ca te sabbadisā pabhāsatīti
@@ -669,7 +669,7 @@ addasaṃ virajaṃ bhikkhuṃ vippasannamanāvilaṃ
 kummāsapiṇḍaṃ datvāna modāmi nandane vane
 
  tena  metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+yavapālakavimānaṃ sattamaṃ
 
 
  alaṅkato malyadharo suvattho sukuṇḍalī kappitakesamassu
@@ -688,7 +688,7 @@ sampannavijjācaraṇe yasassī bahussute taṇhakkhayūpapanne
 annañca pānañca pasannacitto sakkacca dānaṃ vipulaṃ adāsiṃ
 
  tena  metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+paṭhamakuṇḍalīvimānaṃ aṭṭhamaṃ
 
 
  alaṅkato  malyadharo suvattho sukuṇḍalī kappitakesamassu
@@ -707,7 +707,7 @@ sampannavijjācaraṇe yasassī bahussute sīlavante pasanne
 annañca pānañca pasannacitto sakkacca  dānaṃ vipulaṃ adāsiṃ
 
  tena  metādiso vaṇṇovaṇṇo ca me sabbadisā pabhāsatīti
-
+dutiyakuṇḍalīvimānaṃ navamaṃ
 
 
  yā  devarājassa sabhā sudhammā yatthacchati devasaṅgho samaggo
@@ -723,7 +723,7 @@ laddhā dhanaṃ saṃvibhāgaṃ akāsiṃ piyā ca me sīlavanto ahesuṃ
 annañca pānañca pasannacitto sakkacca  dānaṃ vipulaṃ adāsiṃ
 
  tena metādiso vaṇṇope  vaṇṇo ca me sabbadisā pabhāsatīti
-
+ pāyāsivimānaṃ  dasamaṃ
 pāyāsivaggo chaṭṭho niṭṭhito
 tassuddānaṃ 
 dve agārino phaladāyī dve upassayadāyī bhikkhāya dāyī
@@ -745,7 +745,7 @@ jiṇṇe ca mātāpitaro abhāriṃ  piyā ca me sīlavanto ahesuṃ
 annañca pānañca pasannacitto sakkacca dānaṃ vipulaṃ adāsi
 
  tena metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+cittalatāvimānaṃ paṭhamaṃ
 
 
  yathā  vanaṃ nandanaṃ  pabhāsati uyyānaseṭṭhaṃ tidasānamuttamaṃ
@@ -761,7 +761,7 @@ jiṇṇe ca mātāpitaro abhāriṃ piyā ca me sīlavanto ahesuṃ
 annañca pānañca pasannacitto sakkacca dānaṃ vipulaṃ adāsiṃ
 
  tena  metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+nandanavimānaṃ dutiyaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -779,7 +779,7 @@ dibbā rasā kāmaguṇettha pañca nāriyo ca naccanti suvaṇṇachannā
 annañca pānañca pasannacitto sakkacca dānaṃ vipulaṃ adāsiṃ
 
  tena metādiso vaṇṇo vaṇṇo ca me sabbadisā pabhāsatīti
-
+maṇithūṇavimānaṃ tatiyaṃ
 
 
  sovaṇṇamaye  pabbatasmiṃ vimānaṃ sabbatopabhaṃ
@@ -817,7 +817,7 @@ tena mayhaṃ idaṃ laddhaṃ vasaṃ vattemi nandane
 
  nandane ca vane  ramme nānādijagaṇāyute
 ramāmi naccagītehi accharāhi purakkhatoti
-
+suvaṇṇavimānaṃ catutthaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -853,7 +853,7 @@ pahāya mānusaṃ dehaṃ upapannomhi nandanaṃ
 
  nandane ca vane ramme nānādijagaṇāyute
 ramāmi naccagītehi accharāhi purakkhatoti
-
+ambavimānaṃ pañcamaṃ
 
 
  disvāna devaṃ paṭipucchi bhikkhu ucce vimānamhi ciraṭṭhitike
@@ -890,7 +890,7 @@ tayā hi bhante anukampito bhusaṃ kataññutāya abhivādayāmi taṃ
 
  imasmiṃ  loke parasmiṃ vā pana añño munī natthi tayānukampako
 tayā hi bhante anukampito bhusaṃ kataññutāya abhivādayāmi tanti
-
+gopālavimānaṃ chaṭṭhaṃ
 
 
  puṇṇamāse yathā cando nakkhattaparivārito
@@ -975,7 +975,7 @@ sutvā giraṃ cakkhumato dhammacakkhuṃ visodhayi
 
  visodhetvā diṭṭhigataṃ vicikicchaṃ vatāni ca
 vanditvā satthuno pāde tatthevantaradhāyathāti 
-
+kaṇḍakavimānaṃ sattamaṃ
 
 
  anekavaṇṇaṃ  darasokanāsanaṃ vimānamāruyha anekacittaṃ
@@ -1001,7 +1001,7 @@ pūjetha naṃ pūjanīyassa  dhātuṃ evaṃ  kira saggamito gamissatha
 
  tadeva kammaṃ kusalaṃ kataṃ mayā sukhañca dibbaṃ anubhomi attanā
 modāmahaṃ tidasagaṇassa majjhe na tassa puññassa khayampi ajjhaganti
-
+anekavaṇṇavimānaṃ aṭṭhamaṃ
 
 
  alaṅkato  maṭṭhakuṇḍalī  māladhārī haricandanussado
@@ -1066,7 +1066,7 @@ saṅghañca naradevassa gacchāmi saraṇaṃ ahaṃ
 
  pāṇātipātā  viramāmi khippaṃ loke  adinnaṃ parivajjayāmi
 amajjapo no ca musā bhaṇāmi sakena dārena ca homi tuṭṭhoti
-
+maṭṭhakuṇḍalīvimānaṃ navamaṃ
 
 
  suṇotha  yakkhassa ca vāṇijāna ca samāgamo yattha tadā ahosi
@@ -1248,7 +1248,7 @@ serīsakaṃ te pariveṇaṃ māpayiṃsu
 mahatthikā dhammaguṇāna sevanā
 ekassa atthāya upāsakassa
 sabbeva sattā sukhitā  ahesunti
-
+serīsakavimānaṃ dasamaṃ
 
 
  uccamidaṃ  maṇithūṇaṃ vimānaṃ samantato dvādasa yojanāni
@@ -1278,11 +1278,11 @@ ye keci manaso piyā
 manussabhūto yamahaṃ akāsiṃ
 tenamhi  evaṃ jalitānubhāvo
 vaṇṇo ca me sabbadisā pabhāsatīti
-
-
+sunikkhittavimānaṃ ekādasamaṃ
+sunikkhittavaggo sattamo niṭṭhito
 tassuddānaṃ  
 dve daliddā vanavihārā bhatako gopālakaṇḍakā
 anekavaṇṇamaṭṭhakuṇḍalī serīsako sunikkhittaṃ
 purisānaṃ tatiyo vaggo pavuccatīti
-
-
+bhāṇavāraṃ catutthaṃ niṭṭhitaṃ
+vimānavatthupāḷi niṭṭhitā

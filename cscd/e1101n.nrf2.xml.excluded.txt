@@ -60,7 +60,7 @@
 ;
 ,
 .
-Nandiyarājassa vatthuṃ pathamaṃ.
+.
 12. Aññataramanussassa vatthumhi ayamānupubbīkathā
 ,,,,,.,,,.,.
 1.
@@ -89,7 +89,7 @@ Nandiyarājassa vatthuṃ pathamaṃ.
 ;
 ,
 .
-Aññataramanussassa vatthuṃ dutiyaṃ.
+.
 13. Visamalomakumārassa vatthumhi ayamānupubbīkathā
 .........mahāvegāgacchantī itisabbattha.........,.āṇāpetvā itisabbattha...,,....mahājanānaṃpassantameva itisabbattha..,,.,.....
 1.
@@ -128,7 +128,7 @@ Aññataramanussassa vatthuṃ dutiyaṃ.
 ;
 ,
 .
-Visamalomakumārassa vatthuṃ tatiyaṃ.
+.
 14. Kañcanadeviyā vatthumhi ayamānupubbīkathā
 .,...,.
 ....,..
@@ -160,7 +160,7 @@ Visamalomakumārassa vatthuṃ tatiyaṃ.
 ;
 ,
 .
-Kañcanadeviyā vatthuṃ catutthaṃ.
+.
 15. Byagghassa vatthumhi ayamānupubbīkathā
 ,..,.,..........
 1.
@@ -188,7 +188,7 @@ Kañcanadeviyā vatthuṃ catutthaṃ.
 ;
 ,
 .
-Byagghassa vatthuṃ pañcamaṃ.
+.
 16. Phalakakhaṇḍadinnassa vatthumhi ayamānupubbīkathā
 ....,.........,.......
 1.
@@ -206,12 +206,12 @@ Byagghassa vatthuṃ pañcamaṃ.
 5.
 ,;
 ,.
-Tato so āha.
+.
 6.
 ,;
 ,;
 ,.
-Devatā āha.
+.
 7.
 ,;
 ,.
@@ -227,7 +227,7 @@ Devatā āha.
 ;
 ,
 .
-Phalakakhaṇḍadinnassa vatthuṃ chaṭṭhamaṃ.
+.
 17. Corasahāyassa vatthumhi ayamānupubbīkathā
 .,..,,..,.,...
 1.
@@ -251,7 +251,7 @@ Phalakakhaṇḍadinnassa vatthuṃ chaṭṭhamaṃ.
 ;
 ,
 .
-Atha so āha.
+.
 6.
 ,
 ;
@@ -263,7 +263,7 @@ Atha so āha.
 ;
 ,
 .
-So tassā cikkhanto āha.
+.
 8.
 ,
 ;
@@ -274,13 +274,13 @@ So tassā cikkhanto āha.
 phusātisāsaṅgatimajjadāni itikattaci;
 ,
 .
-Devatā āha.
+.
 10.
 ,
 ;
 ,
 .
-Tato so āha.
+.
 11.
 ,
 ;
@@ -310,7 +310,7 @@ apāyikaṃ itikatthaci;
 ;
 ,
 .
-Corasahāyassa vatthuṃ sattamaṃ.
+.
 18. Maruttabrāhmaṇassa vatthumhi ayamānupubbīkathā
 ....,.,...,.....,.,..
 1.
@@ -325,7 +325,7 @@ Corasahāyassa vatthuṃ sattamaṃ.
 ;
 ,
 .
-Maruttabrāhmaṇassa vatthuṃ aṭṭhamaṃ.
+.
 19. Pānīyadinnassa vatthumhi ayamānupubbīkathā
 .,.,.,karuṇāyapānīyaṃ, karuṇāyantopānīyaṃ, karuṇāyatoyaṃ iticakatthaci,,....,,...,.,,..,.
 1.
@@ -334,7 +334,7 @@ Maruttabrāhmaṇassa vatthuṃ aṭṭhamaṃ.
 2.
 ,;
 ,.
-Tato sā āha.
+.
 3.
 ,;
 attānamekikaṃ itikatthaci,.
@@ -365,7 +365,7 @@ attānamekikaṃ itikatthaci,.
 ;
 ,
 .
-Pānīyadinnassa vatthuṃ navamaṃ.
+.
 20. Sahāyassa pariccattajīvitakassa vatthumhi ayamānupubbīkathā
 ..-..,.,........
 1.
@@ -375,7 +375,7 @@ Pānīyadinnassa vatthuṃ navamaṃ.
 ,;
 ,.
 ....,.tuṭṭho itikatthaci,,.
-Hoti cettha.
+.
 3.
 ,;
 ,.
@@ -385,5 +385,5 @@ Hoti cettha.
 ;
 ;
 .
-Sahāyassa pariccattajīvitakassa vatthuṃ dasamaṃ.
-Nandiyarājavaggo dutiyo.
+.
+.

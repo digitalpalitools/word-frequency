@@ -7,7 +7,7 @@
 ,’’.
 ..,...,..
 ,.
-Daharabhikkhuvatthu paṭhamaṃ.
+.
 2. Suddhodanavatthu
 .
 ...‘‘,,,’’(jā. 2.22.1655 ādayo)..‘‘’’..‘‘,’’‘‘’’..–‘‘,,,,’’?‘‘,,,’’.‘‘,,’’?‘‘,,,.’’–
@@ -19,7 +19,7 @@ Daharabhikkhuvatthu paṭhamaṃ.
 ,’’.
 .,...,..,..
 ,.
-Suddhodanavatthu dutiyaṃ.
+.
 3. Pañcasatavipassakabhikkhuvatthu
 .
 ‘‘’’..‘‘’’.–
@@ -28,7 +28,7 @@ Suddhodanavatthu dutiyaṃ.
 ,’’.
 ..,.
 .
-Pañcasatavipassakabhikkhuvatthu tatiyaṃ.
+.
 4. Abhayarājakumāravatthu
 .
 ...‘‘’’,‘‘,’’.‘‘,,’’,‘‘,,’’–
@@ -37,7 +37,7 @@ Pañcasatavipassakabhikkhuvatthu tatiyaṃ.
 ,’’.
 .....
 ,.
-Abhayarājakumāravatthu catutthaṃ.
+.
 5. Sammajjanattheravatthu
 .
 .‘‘,’’.‘‘’’.,?..–‘‘,,,’’...–‘‘,’’?‘‘,,’’.‘‘’’.‘‘,,,’’–
@@ -46,7 +46,7 @@ Abhayarājakumāravatthu catutthaṃ.
 ,’’.
 –,,.
 .
-Sammajjanattheravatthu pañcamaṃ.
+.
 6. Aṅgulimālattheravatthu
 .(ma. ni. 2.347 ādayo).
 ..–
@@ -58,7 +58,7 @@ Sammajjanattheravatthu pañcamaṃ.
 ,’’.
 ..
 .
-Aṅgulimālattheravatthu chaṭṭhaṃ.
+.
 7. Pesakāradhītāvatthu
 .
 .‘‘,,,,,.,.,,’’..‘‘,’’...
@@ -71,7 +71,7 @@ Aṅgulimālattheravatthu chaṭṭhaṃ.
 .,...,,.
 ,.
 ,...,...‘‘’’,‘‘,’’.‘‘,.’’..
-Pesakāradhītāvatthu sattamaṃ.
+.
 8. Tiṃsabhikkhuvatthu
 .
 .‘‘’’...,‘‘,,’’.‘‘,’’.‘‘,’’?‘‘’’.‘‘,,’’?‘‘,’’..‘‘,,’’–
@@ -80,7 +80,7 @@ Pesakāradhītāvatthu sattamaṃ.
 ,’’.
 –.,.,.
 .
-Tiṃsabhikkhuvatthu aṭṭhamaṃ.
+.
 9. Ciñcamāṇavikāvatthu
 .
 ..‘‘,,,,’’‘‘’’.
@@ -97,7 +97,7 @@ Tiṃsabhikkhuvatthu aṭṭhamaṃ.
 ,’’.
 .,....
 .
-Ciñcamāṇavikāvatthu navamaṃ.
+.
 10. Asadisadānavatthu
 .
 .‘‘’’.‘‘,,’’.‘‘,’’..,.‘‘’’,.‘‘,’’.,‘‘,,,’’.–‘‘,,’’.‘‘,’’..
@@ -112,7 +112,7 @@ Ciñcamāṇavikāvatthu navamaṃ.
 ,’’.
 ....
 ,,.
-Asadisadānavatthu dasamaṃ.
+.
 11. Anāthapiṇḍakaputtakālavatthu
 .
 ,,,.‘‘,,’’.–‘‘,,.,’’.–‘‘,,’’.,.,..,.‘‘,’’.‘‘’’...
@@ -123,6 +123,6 @@ Asadisadānavatthu dasamaṃ.
 ,’’.
 ..,.,,.
 .
-Anāthapiṇḍakaputtakālavatthu ekādasamaṃ.
-Lokavaggavaṇṇanā niṭṭhitā.
-Terasamo vaggo.
+.
+.
+.

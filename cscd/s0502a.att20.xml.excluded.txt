@@ -17,7 +17,7 @@
 ,.‘‘’’(dha. pa. 224),‘‘’’‘‘’’(dha. sa. 1144; ma. ni. 2.187-188)‘‘’’,.‘‘,,,’’(itivu. 90; a. ni. 4.34)..-,..
 ‘‘’’,,....,,‘‘’’..,.
 ,.
-Pañcasatabhikkhuvatthu paṭhamaṃ.
+.
 2. Aniccalakkhaṇavatthu
 .
 ‘‘’’.‘‘’’‘‘,’’,‘‘,’’–
@@ -26,21 +26,21 @@ Pañcasatabhikkhuvatthu paṭhamaṃ.
 ,’’.
 ,,..
 ,.
-Aniccalakkhaṇavatthu dutiyaṃ.
+.
 3. Dukkhalakkhaṇavatthu
 .,‘‘,’’–
 278.
 ‘‘,;
 ,’’.
 ..
-Dukkhalakkhaṇavatthu tatiyaṃ.
+.
 4. Anattalakkhaṇavatthu
 .,‘‘,’’–
 279.
 ‘‘,;
 ,’’.
 .‘‘’’..
-Anattalakkhaṇavatthu catutthaṃ.
+.
 5. Padhānakammikatissattheravatthu
 .
 ..‘‘’’....
@@ -56,7 +56,7 @@ Anattalakkhaṇavatthu catutthaṃ.
 ’’.
 .,...,.
 .
-Padhānakammikatissattheravatthu pañcamaṃ.
+.
 6. Sūkarapetavatthu
 .
 .‘‘,,’’‘‘,,,’’..–‘‘,,,.,,.‘’’’.‘‘,,’’‘‘.‘,’..,,’’.–‘‘,,’’.‘‘,,’’.
@@ -73,7 +73,7 @@ Padhānakammikatissattheravatthu pañcamaṃ.
 ’’.
 –...
 .
-Sūkarapetavatthu chaṭṭhaṃ.
+.
 7. Poṭṭhilattheravatthu
 .
 .–‘‘‘’’’.‘‘,,,,,,,’’.‘‘’’.–‘‘,,,‘’,’’.‘‘’’.‘‘’’.,,‘‘,’’.,,,?,,,..‘‘’’....
@@ -85,7 +85,7 @@ Sūkarapetavatthu chaṭṭhaṃ.
 ,’’.
 .....,.
 .
-Poṭṭhilattheravatthu sattamaṃ.
+.
 8. Pañcamahallakattheravatthu
 .
 ‘‘,’’,..,.?..‘‘’’.‘‘,’’,‘‘,,.’’.
@@ -103,7 +103,7 @@ Poṭṭhilattheravatthu sattamaṃ.
 ’’.
 ‘‘’’‘‘’’.‘‘,’’‘‘’’.,.,.,.,.,..–‘‘,’’..,.
 ,.
-Pañcamahallakattheravatthu aṭṭhamaṃ.
+.
 9. Suvaṇṇakārattheravatthu
 .
 .‘‘’’..‘‘,,’’.‘‘’’....–‘‘.,,,,,’’‘‘,,,’’.
@@ -114,7 +114,7 @@ Pañcamahallakattheravatthu aṭṭhamaṃ.
 ,’’.
 ....,.
 .
-Suvaṇṇakārattheravatthu navamaṃ.
+.
 10. Mahādhanavāṇijavatthu
 .
 ‘‘’’.....–‘‘.,.’’.–‘‘,,’’?‘‘,’’..‘‘,,’’?‘‘,’’–
@@ -128,7 +128,7 @@ Suvaṇṇakārattheravatthu navamaṃ.
 ,’’.
 .‘‘’’.‘‘’’.
 ,.‘‘’’,.
-Mahādhanavāṇijavatthu dasamaṃ.
+.
 11. Kisāgotamīvatthu
 .–
 ‘‘,;
@@ -139,7 +139,7 @@ Mahādhanavāṇijavatthu dasamaṃ.
 ,’’.
 ‘‘,,’’.,,..,.
 ,.
-Kisāgotamīvatthu ekādasamaṃ.
+.
 12. Paṭācārāvatthu
 .–
 ‘‘,;
@@ -153,6 +153,6 @@ Kisāgotamīvatthu ekādasamaṃ.
 ,’’.
 ....–‘‘’’..
 ,.
-Paṭācārāvatthu dvādasamaṃ.
-Maggavaggavaṇṇanā niṭṭhitā.
-Vīsatimo vaggo.
+.
+.
+.

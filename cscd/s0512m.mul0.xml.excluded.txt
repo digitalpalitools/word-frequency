@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Cariyāpiṭakapāḷi
 1. Akittivaggo
@@ -33,7 +33,7 @@ ajjhogahetvā (sī. syā.),.
 10.
 ‘‘,;
 ,’’.
-Akitticariyaṃ paṭhamaṃ.
+.
 2. Saṅkhacariyā
 11.
 ‘‘,;
@@ -62,7 +62,7 @@ kantāraddhānapaṭipannaṃ (sī. syā.),.
 19.
 ‘‘,;
 ,’’.
-Saṅkhacariyaṃ dutiyaṃ.
+.
 3. Kururājacariyā
 20.
 ‘‘,indapatte (sī. ka.);
@@ -88,7 +88,7 @@ Saṅkhacariyaṃ dutiyaṃ.
 27.
 ‘‘‘,;
 ,’’’.
-Kururājacariyaṃ tatiyaṃ.
+.
 4. Mahāsudassanacariyā
 28.
 ‘‘,;
@@ -118,7 +118,7 @@ Kururājacariyaṃ tatiyaṃ.
 ‘‘,;
 ,;
 ,’’.
-Mahāsudassanacariyaṃ catutthaṃ.
+.
 5. Mahāgovindacariyā
 37.
 ‘‘,;
@@ -129,7 +129,7 @@ Mahāsudassanacariyaṃ catutthaṃ.
 39.
 ‘‘,;
 ,’’.
-Mahāgovindacariyaṃ pañcamaṃ.
+.
 6. Nimirājacariyā
 40.
 ‘‘,;
@@ -146,7 +146,7 @@ Mahāgovindacariyaṃ pañcamaṃ.
 44.
 ‘‘,;
 ,’’.
-Nimirājacariyaṃ chaṭṭhaṃ.
+.
 7. Candakumāracariyā
 45.
 ‘‘,;
@@ -166,7 +166,7 @@ Nimirājacariyaṃ chaṭṭhaṃ.
 50.
 ‘‘,;
 ,’’.
-Candakumāracariyaṃ sattamaṃ.
+.
 8. Sivirājacariyā
 51.
 ‘‘,;
@@ -216,7 +216,7 @@ Candakumāracariyaṃ sattamaṃ.
 66.
 ‘‘,;
 ,’’.
-Sivirājacariyaṃ aṭṭhamaṃ.
+.
 9. Vessantaracariyā
 67.
 ‘‘,phusatī (sī.);
@@ -393,7 +393,7 @@ nikkhantadivaseyeva (sī.),.
 124.
 ‘‘,;
 ,’’.
-Vessantaracariyaṃ navamaṃ.
+.
 10. Sasapaṇḍitacariyā
 125.
 ‘‘,;
@@ -452,8 +452,8 @@ Vessantaracariyaṃ navamaṃ.
 143.
 ‘‘,;
 ,’’.
-Sasapaṇḍitacariyaṃ dasamaṃ.
-Akittivaggo paṭhamo.
+.
+.
 –
 ,;
 ,.
@@ -463,4 +463,4 @@ Akittivaggo paṭhamo.
 ,.
 ,;
 ,.
-Dānapāraminiddeso niṭṭhito.
+.

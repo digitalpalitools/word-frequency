@@ -55,7 +55,7 @@ ye  keci nāmamūlena ekamūlamūlakā dhammā sabbe te nāmamūlena aññamañ�
 ye keci kusalā dhammā sabbe te kusalahetū kusalanidānā kusalasambhavā kusalappabhavā kusalasamuṭṭhānā kusalāhārā kusalārammaṇā kusalapaccayā kusalasamudayā
 mūlaṃ hetu nidānañca sambhavo pabhavena ca
 samuṭṭhānāhārārammaṇā paccayo samudayena cāti
-
+mūlayamakamātikā niṭṭhitā
 
 
 pañcakkhandhā   rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho
@@ -171,7 +171,7 @@ na viññāṇaṃ na khandho na khandhā na rūpaṃ
 na viññāṇaṃ na khandho na khandhā na vedanā
 na viññāṇaṃ na khandho na khandhā na saññā
 na viññāṇaṃ na khandho na khandhā na saṅkhārā
-
+khandhayamakamātikā niṭṭhitā
 
 
 dvādasāyatanāni   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
@@ -275,7 +275,7 @@ na ghānaṃ nāyatanaṃ nāyatanā na dhammo
 na dhammo nāyatanaṃ nāyatanā na cakkhu
 na dhammo nāyatanaṃ nāyatanā na sotaṃ
 na dhammo nāyatanaṃ nāyatanā na mano 
-
+āyatanayamakamātikā niṭṭhitā
 
 
 aṭṭhārasadhātuyo   cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu cakkhuviññāṇadhātu sotaviññāṇadhātu ghānaviññāṇadhātu jivhāviññāṇadhātu kāyaviññāṇadhātu manodhātu manoviññāṇadhātu dhammadhātu
@@ -326,7 +326,7 @@ na  cakkhu na dhātu na dhātū na sotaṃ
 na cakkhu na dhātu na dhātū na dhammo
 na dhammo na dhātu na dhātū na cakkhu
 na dhammo na dhātu na dhātū na manoviññāṇaṃ 
-
+dhātuyamakamātikā niṭṭhitā
 
 
 cattāri saccāni   dukkhasaccaṃ samudayasaccaṃ nirodhasaccaṃ maggasaccaṃ
@@ -398,7 +398,7 @@ na nirodho na saccaṃ na saccā na dukkhaṃ na saccā na maggo
 na maggo na saccaṃ na saccā na dukkhaṃ
 na maggo na saccaṃ na saccā na samudayo
 na maggo na saccaṃ na saccā na nirodho
-
+saccayamakamātikā niṭṭhitā
 
 
 tayosaṅkhārā   kāyasaṅkhāro vacīsaṅkhāro cittasaṅkhāro assāsapassāsā kāyasaṅkhāro vitakkavicārā vacīsaṅkhāro saññā ca vedanā ca cittasaṅkhāro ṭhapetvā vitakkavicāre sabbepi cittasampayuttakā dhammā cittasaṅkhāro
@@ -435,10 +435,10 @@ vacīsaṅkhāro cittasaṅkhāro cittasaṅkhāro vacīsaṅkhāro
 na kāyasaṅkhāro na vacīsaṅkhāro na vacīsaṅkhāro na kāyasaṅkhāro
 na kāyasaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na kāyasaṅkhāro
 na vacīsaṅkhāro na cittasaṅkhāro na cittasaṅkhāro na vacīsaṅkhāro
-
+saṅkhārayamakamātikā niṭṭhitā
 
 sattānusayā   kāmarāgānusayo paṭighānusayo mānānusayo diṭṭhānusayo vicikicchānusayo bhavarāgānusayo avijjānusayo
-
+anusayayamakamātikā niṭṭhitā
 
 
 
@@ -620,7 +620,7 @@ yassa sarāgaṃ cittaṃ uppajjati yassa vītarāgaṃ cittaṃ uppajjati yassa
 yassa  kusalaṃ cittaṃ uppajjati yassa akusalaṃ cittaṃ uppajjati yassa abyākataṃ cittaṃ uppajjati yassa sukhāya vedanāya sampayuttaṃ cittaṃ uppajjati
 
 yassa araṇaṃ cittaṃ uppajjati na nirujjhati tassa araṇaṃ cittaṃ nirujjhissati na uppajjissati yassa vā pana araṇaṃ cittaṃ nirujjhissati na uppajjissati tassa araṇaṃ cittaṃ uppajjati na nirujjhati
-
+cittayamakamātikā niṭṭhitā
 
 
 
@@ -671,7 +671,7 @@ na akusalā na dhammā na dhammā na kusalā
 na akusalā na dhammā na dhammā na abyākatā
 na abyākatā na dhammā na dhammā na kusalā
 na abyākatā na dhammā na dhammā na akusalā
-
+dhammayamakamātikā niṭṭhitā
 
 
 bāvīsatindriyāni   cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ manindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ sukhindriyaṃ dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ anaññātaññassāmītindriyaṃ aññindriyaṃ aññātāvindriyaṃ
@@ -964,5 +964,5 @@ na paññā na indriyaṃ na indriyā na cakkhu na indriyā na aññātāvī
 na anaññātaññassāmīti na indriyaṃ na indriyā na cakkhu na indriyā na aññātāvī
 na aññaṃ na indriyaṃ na indriyā na cakkhu na indriyā na aññātāvī
 na aññātāvī na indriyaṃ na indriyā na cakkhu na indriyā na aññaṃ
-
-
+indriyayamakamātikā niṭṭhitā
+yamakamātikā niṭṭhitā

@@ -3,27 +3,27 @@
 Uddeso
 373.‘‘,,,,.
 ‘‘?,,,,,,.
-Uddeso niṭṭhito.
+.
 Kāyānupassanā ānāpānapabbaṃ
 374.‘‘,,?,,.,.‘’,‘’.‘’,‘’.‘’,‘’.‘’,‘’.
 ‘‘,,‘’,‘’,,‘’,‘’,‘’,‘’.‘’,‘’,‘’,‘’.,,.,,.‘’,.evampi (sī. syā. pī.),,.
-Ānāpānapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā iriyāpathapabbaṃ
 375.‘‘,,‘’,‘’,‘’,‘’,,.,,.,,.‘’,.,,.
-Iriyāpathapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā sampajānapabbaṃ
 376.‘‘,,,,,,,,.…pe…,,.
-Sampajānapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā paṭikūlamanasikārapabbaṃ
 377.‘‘,,–‘,,,karīsaṃ matthaluṅgaṃ (ka.),,’.
 ‘‘,,mūtoḷī (syā.), mutoli (pī.),.–‘,’.,,–‘…pe…’.
 …pe…,,.
-Paṭikūlamanasikārapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā dhātumanasikārapabbaṃ
 378.‘‘,,–‘’.
 ‘‘,,,,,–‘’.
 ‘‘…pe…,,.
-Dhātumanasikārapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā navasivathikapabbaṃ
 379.‘‘,,.–‘’.
 ‘‘…pe…,,.
@@ -32,14 +32,14 @@ Kāyānupassanā navasivathikapabbaṃ
 ‘‘,,…pe……pe……pe…apagatanhārusambandhāni (syā.),‘‘aññena gopphakaṭṭhika’’nti idaṃ sī. syā. pī. potthakesu natthiaññena kaṭaṭṭhikaṃ aññena piṭṭhaṭṭhikaṃ aññena kaṇḍakaṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena aṃsaṭṭhikaṃ aññena bāhuṭṭhikaṃ (syā.)aññena kaṭaṭṭhikaṃ aññena piṭṭhaṭṭhikaṃ aññena kaṇḍakaṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena aṃsaṭṭhikaṃ aññena bāhuṭṭhikaṃ (syā.).–‘’.
 ‘‘…pe….
 ‘‘,,…pe……pe….–‘’.,,.,,.‘’,.,,.
-Navasivathikapabbaṃ niṭṭhitaṃ.
-Cuddasa kāyānupassanā niṭṭhitā.
+.
+.
 Vedanānupassanā
 380.‘‘,,?,,‘’.‘’.‘’.‘’,‘’.‘’,‘’.‘’,‘’.,,.,,.‘’,.,,.
-Vedanānupassanā niṭṭhitā.
+.
 Cittānupassanā
 381.‘‘,,?,,‘’,‘’.‘’,‘’.‘’,‘’.‘’,‘’.‘’,‘’.‘’,‘’.‘’,‘’.‘’.‘’.,,.,,,‘’,.,,.
-Cittānupassanā niṭṭhitā.
+.
 Dhammānupassanā nīvaraṇapabbaṃ
 382.‘‘,,?,,.,,?
 ‘‘,,‘’,‘’,,,.
@@ -48,10 +48,10 @@ Dhammānupassanā nīvaraṇapabbaṃ
 ‘‘‘’,‘’,,,.
 ‘‘‘’,‘’,,,.
 ‘‘,,,,‘’,.,,.
-Nīvaraṇapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā khandhapabbaṃ
 383.‘‘,,.,,?,,–‘,,;,,;,,;,,,,,’,,,.,,.‘’,,.,,.
-Khandhapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā āyatanapabbaṃ
 384.‘‘,,.,,?
 ‘‘,,,,,,,.
@@ -61,7 +61,7 @@ Dhammānupassanā āyatanapabbaṃ
 ‘‘,,,,,.
 ‘‘,,,,,.
 ‘‘,,.,,.‘’,,.,,.
-Āyatanapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā bojjhaṅgapabbaṃ
 385.‘‘,,.,,?,,‘’,‘’,,.
 ‘‘‘’,‘’,,.
@@ -71,10 +71,10 @@ Dhammānupassanā bojjhaṅgapabbaṃ
 ‘‘‘’,‘’,,.
 ‘‘‘’,‘’,,.
 ‘‘,,.,,‘’,.,,.
-Bojjhaṅgapabbaṃ niṭṭhitaṃ. bojjhaṅgapabbaṃ niṭṭhitaṃ, paṭhamabhāṇavāraṃ (syā.)
+.bojjhaṅgapabbaṃ niṭṭhitaṃ, paṭhamabhāṇavāraṃ (syā.)
 Dhammānupassanā saccapabbaṃ
 386.‘‘,,.,,?,,‘’,‘’,‘’,‘’.
-Paṭhamabhāṇavāro niṭṭhito.
+.
 Dukkhasaccaniddeso
 387.‘‘,,?,,,,,appiyehi…pe… vippayogo dukkhotipāṭho ceva taṃniddeso ca katthaci na dissati, aṭṭhakathāyaṃpi taṃsaṃvaṇṇanā natthi,,pañcupādānakkhandhāpi (ka.).
 388.‘‘,,?,,,.
@@ -127,9 +127,9 @@ Maggasaccaniddeso
 ‘‘,,?,,..,,,‘’..,,.,,.
 403.‘‘,,.,,.‘’,.,,.
 .
-Dhammānupassanā niṭṭhitā.
+.
 404.‘‘,,,;.
 ‘‘,,.,,…pe………………,,.,,,;.
 ‘‘,,.,,…pe…………………,,.,,,;.
 405.‘‘,,.,’’...
-Mahāsatipaṭṭhānasuttaṃ niṭṭhitaṃ navamaṃ.
+.

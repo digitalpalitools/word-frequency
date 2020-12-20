@@ -60,7 +60,7 @@
 1338.
 ,;
 ,.
-Paṭhamamaggañāṇaṃ.
+.
 1339.
 ,;
 ,.
@@ -108,7 +108,7 @@ Paṭhamamaggañāṇaṃ.
 1353.
 ,;
 ,.
-Dutiyamaggañāṇaṃ.
+.
 1354.
 ,;
 ,.
@@ -133,7 +133,7 @@ Dutiyamaggañāṇaṃ.
 1361.
 ,;
 ,.
-Tatiyamaggañāṇaṃ.
+.
 1362.
 ,;
 ,.
@@ -160,7 +160,7 @@ Tatiyamaggañāṇaṃ.
 ;
 ,
 .
-Catutthamaggañāṇaṃ.
+.
 1370.
 ,;
 ,.
@@ -182,5 +182,5 @@ Catutthamaggañāṇaṃ.
 ;
 ,
 .
-Iti abhidhammāvatāre ñāṇadassanavisuddhiniddeso nāma
-Bāvīsatimo paricchedo.
+
+.

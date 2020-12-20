@@ -13,7 +13,7 @@
 ‘‘,,–‘saṃvatti (sī. pī.),,–’?,,–‘,,–’,evarūpe (sī. pī.), evarūpe pana (syā. kaṃ.),,manokamme (sī. syā. kaṃ. pī.);.,,–‘,,–’,,,.
 112.‘‘,,,,,,,.,,,,,,,.,,,,,,,.,,‘,,’–,,’’.
 ..
-Ambalaṭṭhikarāhulovādasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Mahārāhulovādasuttaṃ
 113.–...–‘‘,,––‘,,’’’.‘‘,,,’’?‘‘,,,,,,,,,’’.‘‘ko nujja (syā. kaṃ.)’’..–‘‘,,.,,’’.
 114.;.–‘‘,,,’’?‘‘,,,–nahāru (sī. syā. kaṃ. pī.),–,,paṭhavīdhātu (sī. syā. kaṃ. pī.).,.‘,,’–.,’’.
@@ -34,7 +34,7 @@ Ambalaṭṭhikarāhulovādasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘‘’;‘’;‘’;‘’;‘’;‘’;‘’;‘’.
 ‘‘,,,.,,,’’.
 ..
-Mahārāhulovādasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Cūḷamālukyasuttaṃ
 122.–.māluṅkyaputtassa (sī. syā. kaṃ. pī.)–‘‘–‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’–.,..–‘’‘’…pe…‘’–;–‘’‘’…pe…‘’–’’.
 123.;.–
@@ -44,7 +44,7 @@ Mahārāhulovādasuttaṃ niṭṭhitaṃ dutiyaṃ.
 127.‘‘‘’,,,‘’,,,‘’,,,‘’,,,;.‘’,,,‘’,,,‘’,,,‘’,,,;.‘’,,,‘’,,,‘’,,,‘’…pe….‘’,,,‘’,,,‘’,,,‘’…pe….‘’,,,‘’,,,‘’,,,‘’…pe….
 128.‘‘,,;.,,?‘’,;‘’–;‘’–;‘’–;‘’–;‘’–;‘’–;‘’–;‘’–;‘’–.,,?,,netaṃ (sī.)..,,?‘’,,;‘’–;‘’–;‘’–.,,?,,..,,;’’.
 ..
-Cūḷamālukyasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Mahāmālukyasuttaṃ
 129.–.–‘‘’’.‘‘’’.–‘‘,,’’?
 ,–‘‘,,’’.‘‘,,’’?‘‘,,;,,;,,;,,;,,.,,’’.
@@ -60,7 +60,7 @@ Cūḷamālukyasuttaṃ niṭṭhitaṃ tatiyaṃ.
 ‘‘,,‘’.…pe….,,’’.
 ‘‘,,,’’?‘‘ettha kho tesāhaṃ (sī. syā. kaṃ. pī.),,’’.
 ..
-Mahāmālukyasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Bhaddālisuttaṃ
 134.–.–‘‘’’.‘‘’’.–‘‘,,;,,,.,,,;,,’’.,–‘‘,,;,,,’’.‘‘,,.,,’’bhuñjamāno yāpessasīti (sī. syā. kaṃ. pī.).‘‘,,;,,,’’..,.
 135.–.;..–‘‘,,karaṇīyaṃ (ka.)..,,’’.‘‘’’;.–‘‘,,,.,,’’.
@@ -96,7 +96,7 @@ Mahāmālukyasuttaṃ niṭṭhitaṃ catutthaṃ.
 147.‘‘,,.,..,,,.,..,,,khurakāye (sī. pī.)ravatthe (sī. syā. kaṃ. pī.).,..,,,valiyañca (sī. pī.), baliyañca (syā. kaṃ.).,,.
 ‘‘,,.?,,,,,,,,,,,–,,’’.
 ..
-Bhaddālisuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Laṭukikopamasuttaṃ
 148.–.......–‘‘bahunnaṃ (sī. syā. kaṃ. pī.) evamīdise aviññāṇakappakaraṇe,;,’’.;.
 149.–‘‘,,–‘,;,’.,,.,,–‘,,’.,,,ahu (sī. pī.)–‘,’.,,.,,.,,–‘,,’.,,–‘,’.,,–‘,’.,,,.,,.,,,,kaṇṭakavattampi (sī. pī.), kaṇṭakarājimpi (syā. kaṃ.),,,tena (ka.).,,.,,.–‘abbhumme (sī. pī.)’!,,,–‘,,;’.‘,ṭhito’ti. bhikkhussa ātumātumārī (ka.)!,,,na tveva yā (sī. pī.)’carasāti (sī. pī.).,,–‘,;,’’’.
@@ -113,7 +113,7 @@ Bhaddālisuttaṃ niṭṭhitaṃ pañcamaṃ.
 ‘‘,…pe…;,,.?.,…pe…;,,.?.,…pe…;,,.?.,…pe…;,,.
 ‘‘,…pe…;,,‘’,‘’,‘’.?,…,;,,‘’,‘’,‘’.?,…,;,,‘’,‘’,‘’.?,…,;,,‘’,‘’,‘’.?,‘’,;,,‘’,‘’,‘’.?,‘’,;,,‘’,‘’,‘’.?,‘’,;,,‘’,‘’,‘’.?,,;,,‘’,‘’,‘’.?,,;,,.,,’’?‘‘,’’.
 ..
-Laṭukikopamasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Cātumasuttaṃ
 157.–...–‘‘,,,’’?‘‘,,.’’.‘‘,–‘’’’.‘‘,’’;–‘‘’’.‘‘’’;.–‘‘,,,’’?‘‘,,.’’.‘‘,,,’’.‘‘,’’.
 158.sandhāgāre (ka.).;;–‘‘,’’?‘‘,,’’.‘‘,’’.‘‘’’.;.–‘‘,,;,,.,,,.,,.,.,,;,,,,.,,,;,,,,.,,;,,.,,;’’.
@@ -125,7 +125,7 @@ Laṭukikopamasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 164.‘‘,,?,,–‘;’..paricāriyamānaṃ (syā. kaṃ. ka.).–‘.saṃvijjanti kho kule (sī. syā. kaṃ. pī.).’..,,.‘’,,.
 165.‘‘,,?,,–‘;’....anuddhastena (sī. pī.).,,.‘’,,.,,,’’.
 ..
-Cātumasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Naḷakapānasuttaṃ
 166.–.–,nandiyo (sī. pī.) vinaye ca ma. ni. 1 cūḷagosiṅge ca,kimbilo (sī. syā. kaṃ. pī.),,kuṇḍadhāno (sī. pī.),,,..–‘‘,,,,,’’?,.–‘‘,,,,,’’?.–‘‘,,,,,’’?.
 167.–‘‘’’!–‘‘,,’’?‘‘,,’’.‘‘,!,,.,,,.,,,,,,.,;–,,’’?‘‘,’’.‘‘,,?,,aññaṃ ca (ka.),,,thīnamiddhampi (sī. syā. kaṃ. pī.),,,.,,’’.
@@ -148,7 +148,7 @@ Cātumasuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘,–‘;–’.–‘,,,,’..,,.
 ‘‘,,‘’–‘,’.,,..,,’’.
 ..
-Naḷakapānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Goliyānisuttaṃ
 173.–.gulissāni (sī. pī.), golissāni (syā. kaṃ.)āraññako (sabbattha)padarasamācāro (sī. syā. kaṃ. pī.).–
 ‘‘,.,,,.‘,’–appatissotissa (sī. pī.)..
@@ -170,7 +170,7 @@ Naḷakapānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,.,.,,,.‘’–..
 ‘‘,.,.,,,.‘’–.’’.
 ,mahāmoggalāno (ka.)–‘‘,,’’?‘‘,,’’.
-Goliyānisuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Kīṭāgirisuttaṃ
 174.–.–‘‘,,rattibhojanaṃ (ka.).,,.,,,.,,’’.‘‘,’’...
 175..;–‘‘,,.,.,,,.,’’.,–‘‘,,..?’’.
@@ -192,8 +192,8 @@ Goliyānisuttaṃ niṭṭhitaṃ navamaṃ.
 183.‘‘,,;,,.,,?,,,,,,,dhātānaṃ (ka.),,,,,,,.,,;,,;,,;,,;,,;,,;,,;,,;,,;,,;,,;,,.,,,.,,.
 184.‘‘,,.uddiṭṭhassāpi (ka.),,’’?‘‘,,’’?,,–‘,’,,,.,,pariyogāya (sī. pī. ka.), pariyogayha (syā. kaṃ.)–‘,;,’.,,rumhaniyaṃ (sī. pī.).,,–‘,upasussatu sarīre (sī.), sarīre avasussatu (ka.),santhānaṃ (sī. syā. pī.)’.,,–,’’.
 ..
-Kīṭāgirisuttaṃ niṭṭhitaṃ dasamaṃ.
-Bhikkhuvaggo niṭṭhito dutiyo.
+.
+.
 –
 --,-;
 --,-.

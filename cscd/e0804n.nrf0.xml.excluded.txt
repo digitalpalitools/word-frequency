@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saddanītippakaraṇaṃ
 Dhātumālā
 15. Saravaggapañcakantika suddhassaradhātu
@@ -81,7 +81,7 @@ Dhātumālā
 ,;,;,.
 ,.,.,,.
 ,..,..,..
-Imāni suddhassaradhāturūpāni.
+.
 Kakārantadhātu
 .,,,.,,.,,,.,,,,,,,.
 ,.–
@@ -127,7 +127,7 @@ Kakārantadhātu
 .,.
 .,,,,,,..,,..‘‘’’.‘‘,’’,.
 ..,.‘‘’’..‘‘,,,’’.
-Imāni kakārantadhāturūpāni.
+.
 Khakārantadhātu
 ..,.,,...........,..‘‘’’‘‘’’‘‘’’.,,.–.‘‘’’.‘‘’’.‘‘’’.‘‘’’.–
 ‘‘-;
@@ -193,7 +193,7 @@ Khakārantadhātu
 ’,;
 ,‘‘’’.
 ‘‘’’.
-Khakārantadhāturūpāni.
+.
 Gakārantadhātu
 ......
 ..,...‘‘.,’’‘‘’’.‘‘’’.
@@ -213,7 +213,7 @@ Gakārantadhātu
 ..
 ..
 ...‘‘’’.
-Gakārantadhāturūpāni.
+.
 Ghakārantadhātu
 ....‘‘’’.‘‘’’.
 ...
@@ -226,8 +226,8 @@ Ghakārantadhātu
 ...
 .....
 ......‘‘’’.
-Gha kārantadhāturūpāni.
-Iti bhūvādāgaṇe kavaggantadhāturūpāni
+.
+
 .
 Cakārantadhātu
 –
@@ -301,7 +301,7 @@ Cakārantadhātu
 ,‘‘’’‘‘’’.‘‘’’,.,.‘‘,,,.,,,’’.‘‘,’’.
 ,,,,.,,,,,.‘‘’’.‘‘,.’’.
 .,,‘‘’’.
-Imāni cakārantadhāturūpāni.
+.
 Chakārantadhātu
 ,;
 ,.
@@ -335,7 +335,7 @@ Chakārantadhātu
 ,;
 ,;
 ...
-Chakārantadhāturūpāni.
+.
 Jakārantadhātu
 ..,.....‘‘’’.,,,,,,,,,,,,,,,,.,,,,.‘‘’’.
 ....‘‘,’’..
@@ -415,20 +415,20 @@ Jakārantadhātu
 ........‘‘’’,...
 .....
 ..
-Jakārantadhāturūpāni.
+.
 Jhakārantadhātu
 .,,,,.,,,,..,.,.
 .‘‘.’’.‘‘.’’...‘‘,’’,,.‘‘’’..‘‘’’.
 .,...
 ..
 ....
-Jhakārantadhāturūpāni.
+.
 Ñakārantadhātu
 .‘‘,,.,.,’’.,,,,,,,,,,,,,.
 ..‘‘’’..,..‘‘,’’..‘‘’’.‘‘...,’’,.,.,‘‘,.’’.
 .......
 .‘‘’’......,.
-Iti bhūvādigaṇe cavaggantadhāturūpāni
+
 .
 Ṭakārantadhātu
 –
@@ -475,7 +475,7 @@ Iti bhūvādigaṇe cavaggantadhāturūpāni
 ..
 ..
 ...
-Ṭakārantadhāturūpāni.
+.
 Ṭhakārantadhātu
 ..,............,.,,,....,.,.,....,.,.,,,.,.,...
 .‘‘’’.‘‘’’.‘‘’’.‘‘’’.,.
@@ -504,7 +504,7 @@ Iti bhūvādigaṇe cavaggantadhāturūpāni
 ..
 ..
 ..
-Ṭhakārantadhāturūpāni.
+.
 Ḍakārantadhātu
 .,....
 ...
@@ -530,11 +530,11 @@ Iti bhūvādigaṇe cavaggantadhāturūpāni
 ..
 ..,.
 ...
-Ḍakārantadhāturūpāni.
+.
 Ḍakārantadhātu
 ..,,,.,.
 .,,.,.
-Imāni ḍhakārantadhāturūpāni.
+.
 Ṇakārantadhātu
 .............,.‘‘’’..
 ,;
@@ -570,8 +570,8 @@ Imāni ḍhakārantadhāturūpāni.
 ..
 ..
 ...
-Imāni ṇakārantadhāturūpāni.
-Iti bhūvādigaṇe ṭavaggantadhāturūpāni
+.
+
 .
 Takārantadhātu
 –
@@ -602,7 +602,7 @@ Takārantadhātu
 ..
 .,,..,.
 ...
-Takārantadhāturūpāni.
+.
 Thakārantadhātu
 ..,,,.‘‘’’,.
 .,.,,,.
@@ -653,7 +653,7 @@ Thakārantadhātu
 ....‘‘,’’.
 ..,.
 ...
-Thakārantadhāturūpāni.
+.
 Dakārantadhātu
 ..,..,,...,,,.‘‘’’.‘‘’’.‘‘’’,‘‘’’.‘‘’’.,.
 .‘‘,,,,,,,’’,‘‘,,,,,,,,,,,,,,’’.
@@ -891,7 +891,7 @@ Dakārantadhātu
 .,,..
 ....
 ...
-Dakārantadhāturūpāni.
+.
 Dhakārantadhātu
 .,...............,,,,,..,......,,,,,..,,,,..
 ,;
@@ -939,7 +939,7 @@ Dhakārantadhātu
 ,;
 ’,;
 ,.
-Cakārantarūpāni.
+.
 Nakārantadhātu
 .,,...........,................
 ,.,.,.,...,.,.,.,.
@@ -981,7 +981,7 @@ Nakārantadhātu
 ,.‘‘’’.‘‘’’‘‘’’,.‘‘’’‘‘’’,?..‘‘,’’.‘‘’’.
 ..
 .,,.,.‘‘’’..
-Iti bhūvādigaṇe tavaggantadhāturūpāni
+
 .
 Pakārantadhātu
 –
@@ -1038,7 +1038,7 @@ Pakārantadhātu
 ...
 ..,.,.
 ..,...,,..,,,..
-Pakārantadhāturūpāni.
+.
 Phakārantadhātu
 ...,,,,..,.,.
 ..
@@ -1047,7 +1047,7 @@ Phakārantadhātu
 .,.
 ...
 ...
-Phakārantadhāturūpāni.
+.
 Bakārantadhātu
 ...
 .........
@@ -1063,7 +1063,7 @@ Bakārantadhātu
 .....
 ..,..
 ..,,.’..,,,..,.
-Bakārantadhāturūpāni.
+.
 Bhakārantadhātu
 .,..,..
 ..,,,,,,.‘‘,,,’’.
@@ -1117,7 +1117,7 @@ Bhakārantadhātu
 .,.,.,?‘‘,’’...,,.‘‘’’.
 -;
 ,.
-Bhakārantadhāturūpāni.
+.
 Makārantadhātu
 ....
 ..‘‘’’.
@@ -1169,7 +1169,7 @@ Makārantadhātu
 ;
 ,
 .
-Iti navaṅge sāṭṭhakathe piṭakattaye byappathagatīsu viññunaṃ
-Kosallatthāya kate saddanītippakaraṇe
-Saravaggapañcakantiko nāma dhātuvibhāgo
-Pannarasamo paricchedo.
+
+
+
+.

@@ -45,32 +45,32 @@ Okāsadisaccikaṭṭhādi
 ‘‘,;
 ,;
 ,’’.
-Saccikaṭṭhavaṇṇanā niṭṭhitā.
+.
 5. Suddhikasaṃsandanavaṇṇanā
 17-27..,,.,,......‘‘’’,..
-Suddhikasaṃsandanavaṇṇanā.
+.
 6. Opammasaṃsandanavaṇṇanā
 28-36..,.,...?,.,.,.,..
 37-45....
-Rūpādīhi saddhiṃ opammavasena saccikaṭṭhasaṃsandanaṃ.
+.
 7. Catukkanayasaṃsandanavaṇṇanā
 46-52.,;,,,.,,.,?.,.,.…pe…...,...
 –,,?,,‘‘’’,?‘‘…pe…’’,?....,.,..
-Catukkanayasaṃsandanaṃ.
-Niṭṭhitā ca saṃsandanakathā.
+.
+.
 8. Lakkhaṇayuttivaṇṇanā
 53..,,,,.,...
 54..,,.‘‘’’.
-Lakkhaṇayuttikathāvaṇṇanā niṭṭhitā.
+.
 9. Vacanasodhanavaṇṇanā
 55-59..,,..–,.,,,,.,,,.‘‘,,,,’’?,,,.–.,,.--,-.,.–,..–.–,,,?.‘‘’’...,‘‘’’,,.,,.
 60.‘‘,’’,–‘‘,,’’,,,.‘‘’’‘‘’’,,‘‘,,’’(su. ni. 1125)‘‘’’,‘‘,’’,,,?..
-Vacanasodhanavaṇṇanā niṭṭhitā.
+.
 10. Paññattānuyogavaṇṇanā
 61-66..,.,.....
 67.‘‘’’,.............‘‘’’.
 68.,..
-Paññattānuyogavaṇṇanā niṭṭhitā.
+.
 11. Gatianuyogavaṇṇanā
 69-72..‘‘’’(saṃ. ni. 2.133; itivu. 24),...,.......
 76.‘‘,’’,‘‘’’(pārā. 12; dī. ni. 1.245),..
@@ -88,8 +88,8 @@ Paññattānuyogavaṇṇanā niṭṭhitā.
 93.,.‘‘’’.,..
 94.,,,....
 –,,;,,..‘‘’’,.,..,,.,.
-Gatiparivattanamukhena cutipaṭisandhānuyogo niṭṭhito.
-Anuyogavaṇṇanā.
+.
+.
 12. Upādāpaññattānuyogavaṇṇanā
 95..,.,,,‘‘’’.,,.
 97.,.
@@ -104,7 +104,7 @@ Anuyogavaṇṇanā.
 118..,,‘‘’’........–,.,…pe…,‘‘,’’.
 120..,...
 122..‘‘’’.‘‘’’.,‘‘,,’’..
-Upādāpaññattānuyogavaṇṇanā.
+.
 13. Purisakārānuyogavaṇṇanā
 123..,....,,.
 124.,,..,.,..
@@ -122,11 +122,11 @@ Upādāpaññattānuyogavaṇṇanā.
 174....
 176..,,,,.?..,,,,.‘‘’’..
 ..‘‘’’‘‘’’..
-Purisakārānuyogavaṇṇanā.
-Kalyāṇavaggotipi etasseva nāmaṃ.
+.
+.
 14. Abhiññānuyogavaṇṇanā
 193..‘‘,,’’..
-Abhiññānuyogavaṇṇanā.
+.
 15-18. Ñātakānuyogādivaṇṇanā
 197.....,..‘‘’’.
 206.,.
@@ -137,7 +137,7 @@ Abhiññānuyogavaṇṇanā.
 214.,‘‘,’’.,.
 215.‘‘,’’(saṃ. ni. 1.171).
 216...,...
-Ñātakānuyogādivaṇṇanā.
+.
 19. Paṭivedhānuyogādivaṇṇanā
 217..
 218.,.
@@ -159,4 +159,4 @@ Abhiññānuyogavaṇṇanā.
 ,;
 ,’’.
 .
-Puggalakathā niṭṭhitā.
+.

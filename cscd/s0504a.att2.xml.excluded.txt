@@ -16,30 +16,30 @@
 ‘‘,’’.(dha. pa. 234)–
 .‘‘’’(dī. ni. 1.236; paṭi. ma. 3.14)..‘‘,,’’(ma. ni. 1.101).‘‘’’(dī. ni. 3.323; ma. ni. 1.98).‘‘’’(dha. sa. 114).‘‘,’’(paṭi. ma. 3.35).‘‘’’(a. ni. 3.16)...,.
 .…pe…,,.,,,.
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Sukhavihārasuttavaṇṇanā
 29..
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Tapanīyasuttavaṇṇanā
 30...,,,.......‘‘’’.‘‘,’’..
 ,.,..,‘‘’’.–,.,..
 ..–‘‘,’’.–‘‘,’’.‘‘,’’..,,,.‘‘,,,’’?‘‘,’’.‘‘,,,’’..,.
-Tatiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Atapanīyasuttavaṇṇanā
 31..
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Paṭhamasīlasuttavaṇṇanā
 32..,?–‘‘’’,‘‘’’,‘‘’’.‘‘,,?,,’’(ma. ni. 2.264),‘‘’’.,‘‘’’..,,.,,.‘‘,,,’’.‘‘’’,.‘‘,’’...
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Dutiyasīlasuttavaṇṇanā
 33..,‘‘’’..,..–‘‘,,,,’’...
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Ātāpīsuttavaṇṇanā
 34.,,,,.,,,.,.‘‘,’’,..
 ....,...‘‘,,’’(dī. ni. 3.345).‘‘,’’(dha. sa. 31)......,,,,,.‘‘…pe…’’.
 .,--.,.,......
 ...‘‘’’...,.,..‘‘’’..
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Paṭhamanakuhanasuttavaṇṇanā
 35.,‘‘’’,.-‘‘,,’’(ma. ni. 1.501).‘‘,,’’(dī. ni. 1.27).
 ‘‘,;
@@ -84,10 +84,10 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 –,,,,.,.,...,.
 –.,,.,..,.‘‘’’.–‘‘’’,,.‘‘’’‘‘’’.‘‘’’.
 ,..,..,.,..,..,.,.
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Dutiyanakuhanasuttavaṇṇanā
 36..‘‘’’..,..
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Somanassasuttavaṇṇanā
 37.,.,.‘‘,,’’(ma. ni. 1.152).‘‘,,’’(ma. ni. 3.226).
 ‘‘,’’.(ma. ni. 2.457; dha. pa. 396; su. ni. 625);
@@ -108,9 +108,9 @@ Navamasuttavaṇṇanā niṭṭhitā.
 .,,,,,,,.‘‘,,,,,’’(paṭi. ma. 1.117)...
 .‘‘’’.,.,,‘‘’’..,.,.,,.
 .‘‘’’..,....
-Dasamasuttavaṇṇanā niṭṭhitā.
-Iti paramatthadīpaniyā itivuttaka-aṭṭhakathāya
-Dukanipāte paṭhamavaggavaṇṇanā niṭṭhitā.
+.
+-
+.
 2. Dutiyavaggo
 1. Vitakkasuttavaṇṇanā
 38.,-.‘‘’’(dī. ni. 1.65).
@@ -321,26 +321,26 @@ Dukanipāte paṭhamavaggavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(dha. pa. 304; netti. 11);
 .
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Desanāsuttavaṇṇanā
 39.-‘‘’’(ma. ni. 1.205).‘‘,,,–’’(pārā. 5; a. ni. 8.11).‘‘,,’’(ma. ni. 3.398).,,,,.‘‘,,.,.,’’‘‘’’.‘‘,,,,’’(a. ni. 8.40)‘‘’’.
 ..‘‘,,,,,,,’’,..,..?.?.,,,,,,..
 ...,.‘‘‘’’’...
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Vijjāsuttavaṇṇanā
 40.,..,..
 .,....,.
 .,.....
 ,,,,.?,,,.,,..
-Tatiyasuttavaṇṇanā niṭṭhitā.
-Paṭhamabhāṇavāravaṇṇanā niṭṭhitā.
+.
+.
 4. Paññāparihīnasuttavaṇṇanā
 41..,.?..‘‘’’....
 ,.,,.‘‘’’,‘‘’’.‘‘’’.
 ,‘‘’’.
 .,.,.‘‘’’(ma. ni. 3.141; saṃ. ni. 5.1).,.,‘‘’’.–,,.
 ‘‘’’.–,,,,,‘‘,’’.
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Sukkadhammasuttavaṇṇanā
 42.,......,.‘‘,,’’(dha. sa. 30).,.‘‘,,’’(dha. sa. 31).
 ,.,.,.,.
@@ -359,7 +359,7 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 ,,,,.‘‘’’,‘‘’’.....,..‘‘’’‘‘’’,,..–,,.,.
 ..,,,.
 .,,.
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Ajātasuttavaṇṇanā
 43.,?‘‘,,’’.,‘‘‘’,’’,.(udā. 72-74).
 .....,.,,‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’..
@@ -368,7 +368,7 @@ Pañcamasuttavaṇṇanā niṭṭhitā.
 ,.,.,..,...‘‘’’,...
 .....,,.
 ‘‘’’,,,,,,,,,.,.
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Nibbānadhātusuttavaṇṇanā
 44..,,,,.,‘‘,,’’‘‘’’.,.,,.
 ,.–
@@ -382,7 +382,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 .,..,.,,.
 ,,,,.,......,,.
 .,..,.‘‘(dha. pa. 273),’’(itivu. 90; a. ni. 4.34).....
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Paṭisallānasuttavaṇṇanā
 45.,,..‘‘’’....,.,,,,,.
 .,...‘‘’’(su. ni. 328)..,,,,,,,.
@@ -391,7 +391,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 ‘‘’’.....‘‘’’.,.,.‘‘’’...,.
 .,..,.,‘‘’’(ma. ni. 1.234; pāci. 417).
 ..‘‘’’,...,.,.
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Sikkhānisaṃsasuttavaṇṇanā
 46.,,,.,.,.,.,.,.,,.,.
 ,,,.,,,.,,‘‘’’..
@@ -409,7 +409,7 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(ma. ni. 3.280; jā. 2.22.121);
 .
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Jāgariyasuttavaṇṇanā
 47.,.–
 ‘‘,,?,,,.’’(vibha. 519).
@@ -423,13 +423,13 @@ Navamasuttavaṇṇanā niṭṭhitā.
 .,.‘‘’’‘‘’’,‘‘’’.,..,..,,.
 ..,,.,....,‘‘’’..,.,...
 ‘‘’’.,,,.....
-Dasamasuttavaṇṇanā niṭṭhitā.
+.
 11. Āpāyikasuttavaṇṇanā
 48...,.,,,.‘‘’’...,..‘‘’’,.
 .‘‘’’..,.,..‘‘’’.‘‘’’‘‘’’–.
 ....,‘‘,’’(saṃ. ni. 2.218-219; pārā. 230).
 –‘‘’’,.?,.
-Ekādasamasuttavaṇṇanā niṭṭhitā.
+.
 12. Diṭṭhigatasuttavaṇṇanā
 49.‘‘’’(a. ni. 9.11).,..‘‘’’(cūḷava. 430)..,.,‘‘’’.‘‘’’,.,,‘‘,’’...‘‘,,’’.
 ‘‘,’’.,,.,,.,,..........
@@ -438,6 +438,6 @@ Ekādasamasuttavaṇṇanā niṭṭhitā.
 ...‘‘’’..,.,.
 ..,.,,.
 ,,.
-Dvādasamasuttavaṇṇanā niṭṭhitā.
-Paramatthadīpaniyā khuddakanikāya-aṭṭhakathāya
-Itivuttakassa dukanipātavaṇṇanā niṭṭhitā.
+.
+-
+.

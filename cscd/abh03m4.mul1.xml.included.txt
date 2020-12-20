@@ -214,7 +214,7 @@
  na khandhā na saññā
  na viññāṇaṃ na khandho
  na khandhā na saṅkhārā
-
+paṇṇattiuddesavāro
 
 
 
@@ -514,7 +514,7 @@ viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññ
  na viññāṇaṃ na khandhoti
 viññāṇaṃ ṭhapetvā avasesā khandhā na viññāṇaṃ khandhā viññāṇañca khandhe ca ṭhapetvā avasesā na ceva viññāṇaṃ na ca khandhā
  na khandhā na saṅkhārakkhandhoti āmantā
-
+paṇṇattiniddesavāro
 
 
 
@@ -730,7 +730,7 @@ pañcavokāre pacchimabhavikānaṃ asaññasattānaṃ tesaṃ tattha vedanākk
   yassa yattha vedanākkhandho nuppajjittha tassa tattha saññākkhandho nuppajjissatīti āmantā
  yassa vā pana yattha saññākkhandho nuppajjissati tassa tattha vedanākkhandho nuppajjitthāti
 pacchimabhavikānaṃ tesaṃ tattha saññākkhandho nuppajjissati no ca tesaṃ tattha vedanākkhandho nuppajjittha suddhāvāsānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca nuppajjissati vedanākkhandho ca nuppajjittha
-
+uppādavāro niṭṭhito
 
 
 
@@ -927,7 +927,7 @@ pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhan
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha  vedanākkhandho na nirujjhittha no ca tesaṃ tattha saññākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca na nirujjhittha saññākkhandho ca na nirujjhissati
  yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho na nirujjhitthāti
 parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhissati no ca tesaṃ tattha vedanākkhandho na nirujjhittha suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhissati vedanākkhandho ca na nirujjhittha
-
+nirodhavāro
 
 
 
@@ -1110,8 +1110,8 @@ pañcavokāre parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhan
 suddhāvāsaṃ upapajjantānaṃ tesaṃ tattha vedanākkhandho nuppajjittha no ca tesaṃ tattha saññākkhandho na nirujjhissati suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha vedanākkhandho ca nuppajjittha saññākkhandho ca na nirujjhissati
  yassa vā pana yattha saññākkhandho na nirujjhissati tassa tattha vedanākkhandho nuppajjitthāti
 parinibbantānaṃ tesaṃ tattha saññākkhandho na nirujjhissati  no ca tesaṃ tattha vedanākkhandho nuppajjittha  suddhāvāse parinibbantānaṃ asaññasattānaṃ tesaṃ tattha saññākkhandho ca na nirujjhissati vedanākkhandho ca nuppajjittha
-
-
+uppādanirodhavāro
+pavattivāro niṭṭhito
 
 
   yo rūpakkhandhaṃ parijānāti so vedanākkhandhaṃ parijānātīti āmantā
@@ -1149,6 +1149,6 @@ aggamaggasamaṅgī vedanākkhandhaṃ na parijānissati no  ca rūpakkhandhaṃ
 ye maggaṃ paṭilabhissanti te rūpakkhandhaṃ na parijānittha no ca vedanākkhandhaṃ na parijānissanti aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te rūpakkhandhañca na parijānittha vedanākkhandhañca na parijānissanti
  yo vā pana vedanākkhandhaṃ na parijānissati so rūpakkhandhaṃ na parijānitthāti
 arahā vedanākkhandhaṃ na parijānissati no ca rūpakkhandhaṃ na parijānittha aggamaggasamaṅgī ye ca puthujjanā maggaṃ na paṭilabhissanti te vedanākkhandhañca na parijānissanti rūpakkhandhañca na parijānittha
-
-
-
+pariññāvāro
+khandhayamakapāḷi niṭṭhitā
+ namo tassa bhagavato arahato sammāsambuddhassa

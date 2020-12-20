@@ -24,9 +24,9 @@
 8.
 ‘‘,;
 ,’’.
-Itthaṃ  sudaṃ āyasmā jagatidāyako thero imā gāthāyo
+
 .
-Jagatidāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Morahatthiyattheraapadānaṃ
 9.
 ‘‘,;
@@ -49,9 +49,9 @@ Jagatidāyakattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 16.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā morahatthiyo thero imā gāthāyo
+
 .
-Morahatthiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Sīhāsanabījiyattheraapadānaṃ
 17.
 ‘‘,;
@@ -65,9 +65,9 @@ Morahatthiyattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 21.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sīhāsanabījiyo thero imā
+
 .
-Sīhāsanabījiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Tiṇukkadhāriyattheraapadānaṃ
 22.
 ‘‘,;
@@ -81,9 +81,9 @@ Sīhāsanabījiyattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 26.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā tiṇukkadhāriyo thero imā gāthāyo
+
 .
-Tiṇukkadhāriyattherassāpadānaṃ catutthaṃ.
+.
 5. Akkamanadāyakattheraapadānaṃ
 27.
 ‘‘,;
@@ -97,9 +97,9 @@ Tiṇukkadhāriyattherassāpadānaṃ catutthaṃ.
 ‘‘…pe….
 31.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā akkamanadāyako thero imā gāthāyo
+
 .
-Akkamanadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Vanakoraṇḍiyattheraapadānaṃ
 32.
 ‘‘,;
@@ -113,10 +113,10 @@ Akkamanadāyakattherassāpadānaṃ pañcamaṃ.
 ‘‘…pe….
 36.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā vanakoraṇḍiyo thero imā gāthāyo
+
 .
-Vanakoraṇḍiyattherassāpadānaṃ chaṭṭhaṃ.
-Vīsatimaṃ bhāṇavāraṃ.
+.
+.
 7. Ekachattiyattheraapadānaṃ
 37.
 ‘‘,;
@@ -151,9 +151,9 @@ upavāyanti (sī. pī.),sarīrakāyukhepanā (syā.).
 ‘‘…pe….
 48.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ekachattiyo thero imā gāthāyo
+
 .
-Ekachattiyattherassāpadānaṃ sattamaṃ.
+.
 8. Jātipupphiyattheraapadānaṃ
 49.
 ‘‘,;
@@ -179,9 +179,9 @@ kāyesu (syā.), kāyeva (pī.),.
 ‘‘…pe….
 57.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā jātipupphiyo thero imā gāthāyo
+
 .
-Jātipupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Paṭṭipupphiyattheraapadānaṃ
 58.
 ‘‘,;
@@ -195,9 +195,9 @@ Jātipupphiyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 62.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā paṭṭipupphiyo sattipaṇṇiyo (syā. pī.) thero imā gāthāyo
+sattipaṇṇiyo (syā. pī.)
 .
-Paṭṭipupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Gandhapūjakattheraapadānaṃ
 63.
 ‘‘cittesu kayiramānesu (sī.),;
@@ -211,10 +211,10 @@ Paṭṭipupphiyattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 67.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā gandhapūjako thero imā gāthāyo
+
 .
-Gandhapūjakattherassāpadānaṃ dasamaṃ.
-Jagatidāyakavaggo chacattālīsamo.
+.
+.
 –
 ,;
 ,.

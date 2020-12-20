@@ -10,7 +10,7 @@
 ‘‘,;
 ,’’.
 .
-Ārakkhadāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Bhojanadāyakattheraapadānaṃ
 4.
 ‘‘,;
@@ -30,7 +30,7 @@
 9.
 ‘‘…pe…’’.
 .
-Bhojanadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Gatasaññakattheraapadānaṃ
 10.
 ‘‘,;
@@ -44,7 +44,7 @@ vitti me pāhuṇā tāva (syā.), vitti me tāvade jātā (sī.),mune (sī.).
 13.
 ‘‘…pe…’’.
 .
-Gatasaññakattherassāpadānaṃ tatiyaṃ.
+.
 4. Sattapadumiyattheraapadānaṃ
 14.
 ‘‘,;
@@ -64,7 +64,7 @@ vanena (syā. ka.),.
 19.
 ‘‘…pe…’’.
 .
-Sattapadumiyattherassāpadānaṃ catutthaṃ.
+.
 5. Pupphāsanadāyakattheraapadānaṃ
 20.
 ‘‘,sataraṃsiṃva (sī. syā.);
@@ -84,7 +84,7 @@ Sattapadumiyattherassāpadānaṃ catutthaṃ.
 25.
 ‘‘…pe…’’.
 .
-Pupphāsanadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Āsanasanthavikattheraapadānaṃ
 26.
 ‘‘,;
@@ -110,7 +110,7 @@ Pupphāsanadāyakattherassāpadānaṃ pañcamaṃ.
 33.
 ‘‘…pe…’’.
 āsanasanthavako (?), āsanathaviko (ka.), āsanatthaviko (sī. syā.).
-Āsanasanthavikattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Saddasaññakattheraapadānaṃ
 34.
 ‘‘,;
@@ -127,7 +127,7 @@ Pupphāsanadāyakattherassāpadānaṃ pañcamaṃ.
 38.
 ‘‘…pe…’’.
 .
-Saddasaññakattherassāpadānaṃ sattamaṃ.
+.
 8. Tiraṃsiyattheraapadānaṃ
 39.
 ‘‘,;
@@ -153,7 +153,7 @@ nivāsentaṃ (ka.), disāsinnaṃ (syā.),.
 46.
 ‘‘…pe…’’.
 .
-Tiraṃsiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Kandalipupphiyattheraapadānaṃ
 47.
 ‘‘,;
@@ -176,7 +176,7 @@ Tiraṃsiyattherassāpadānaṃ aṭṭhamaṃ.
 53.
 ‘‘…pe…’’.
 .
-Kandalipupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Kumudamāliyattheraapadānaṃ
 54.
 ‘‘,;
@@ -190,8 +190,8 @@ Kandalipupphiyattherassāpadānaṃ navamaṃ.
 57.
 ‘‘…pe…’’.
 .
-Kumudamāliyattherassāpadānaṃ dasamaṃ.
-Ārakkhadāyakavaggo bāttiṃsatimo battiṃsatimo (sī. syā.).
+.
+battiṃsatimo (sī. syā.).
 –
 ,;
 ,;

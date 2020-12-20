@@ -17,7 +17,7 @@
 ,...,...
 ....,..,..,...,.–‘‘,’’.
 ,.
-Pañcabhikkhuvatthu paṭhamaṃ.
+.
 2. Haṃsaghātakabhikkhuvatthu
 .
 ...‘‘’’,‘‘’’.,..‘‘’’,...,‘‘,’’.
@@ -40,7 +40,7 @@ Pañcabhikkhuvatthu paṭhamaṃ.
 ’’.
 ...,....,..
 .
-Haṃsaghātakabhikkhuvatthu dutiyaṃ.
+.
 3. Kokālikavatthu
 .‘‘’’(saṃ. ni. 1.181; su. ni. kokālikasutta; a. ni. 10.89)..
 ‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -56,7 +56,7 @@ Haṃsaghātakabhikkhuvatthu dutiyaṃ.
 ,’’.
 ‘‘,’’.,....,,,,,.
 .
-Kokālikavatthu tatiyaṃ.
+.
 4. Dhammārāmattheravatthu
 .
 ‘‘’’.,.‘‘’’..‘‘,’’‘‘,,’’.–‘‘,,‘,’’’.‘‘’’.‘‘,’’.‘‘’’?,,.
@@ -66,7 +66,7 @@ Kokālikavatthu tatiyaṃ.
 ,’’.
 ..,...
 ,.
-Dhammārāmattheravatthu catutthaṃ.
+.
 5. Vipakkhasevakabhikkhuvatthu
 .
 .‘‘’’.‘‘’’.‘‘’’?‘‘,’’.‘‘,’’..‘‘,,,’’.‘‘’’.‘‘,,,’’.‘‘,.,’’‘‘,,,,’’–
@@ -83,7 +83,7 @@ Dhammārāmattheravatthu catutthaṃ.
 ,’’.
 .......
 .
-Vipakkhasevakabhikkhuvatthu pañcamaṃ.
+.
 6. Pañcaggadāyakabrāhmaṇavatthu
 .
 ,,,,,...,.–‘‘,.,’’.‘‘’’.‘‘’’..‘‘’’,‘‘’’.‘‘’’.‘‘’’....,‘‘,’’,‘‘,,,,’’.‘‘’’,‘‘,,,.,,’’–
@@ -97,7 +97,7 @@ Vipakkhasevakabhikkhuvatthu pañcamaṃ.
 ,’’.
 ,..‘‘…pe…’’,‘‘’’..
 ,.
-Pañcaggadāyakabrāhmaṇavatthu chaṭṭhaṃ.
+.
 7. Sambahulabhikkhuvatthu
 .
 ‘‘,,’’(su. ni. 772 ādayo).–‘‘,’’..
@@ -153,7 +153,7 @@ Pañcaggadāyakabrāhmaṇavatthu chaṭṭhaṃ.
 ,..‘‘’’......
 ,.,.,.,..
 .
-Sambahulabhikkhuvatthu sattamaṃ.
+.
 8. Pañcasatabhikkhuvatthu
 .
 ‘‘’’.,‘‘,’’–
@@ -162,7 +162,7 @@ Sambahulabhikkhuvatthu sattamaṃ.
 ,’’.
 ..–,,.
 .
-Pañcasatabhikkhuvatthu aṭṭhamaṃ.
+.
 9. Santakāyattheravatthu
 .
 ,..,‘‘’’,‘‘’’..–‘‘,,.’’.,‘‘,’’–
@@ -171,7 +171,7 @@ Pañcasatabhikkhuvatthu aṭṭhamaṃ.
 ,’’.
 ,,,,.
 ,.
-Santakāyattheravatthu navamaṃ.
+.
 10. Naṅgalakulattheravatthu
 .
 ,–‘‘’’.,,?,.,,.,..‘‘’’–‘‘,,’’..,..,‘‘,’’.‘‘,’’.
@@ -186,7 +186,7 @@ Santakāyattheravatthu navamaṃ.
 ..,,,.
 .,.,,,.
 .
-Naṅgalakulattheravatthu dasamaṃ.
+.
 11. Vakkalittheravatthu
 .
 ‘‘’’,.‘‘’’‘‘,,,,,,.,’’(saṃ. ni. 3.87)..‘‘’’‘‘,,,’’.‘‘’’‘‘,’’.
@@ -202,7 +202,7 @@ Naṅgalakulattheravatthu dasamaṃ.
 ‘‘,;
 ,’’.–
 .‘‘,’’‘‘’’..
-Vakkalittheravatthu ekādasamaṃ.
+.
 12. Sumanasāmaṇeravatthu
 .–
 ,‘‘,’’.‘‘’’....
@@ -251,6 +251,6 @@ Vakkalittheravatthu ekādasamaṃ.
 ,’’.
 .,.
 .
-Sumanasāmaṇeravatthu dvādasamaṃ.
-Bhikkhuvaggavaṇṇanā niṭṭhitā.
-Pañcavīsatimo vaggo.
+.
+.
+.

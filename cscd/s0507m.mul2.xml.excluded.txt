@@ -65,7 +65,7 @@ vījitaṅgā (sī. syā.),.
 407.
 ‘‘,;
 ,’’.
-Abhijjamānapetavatthu paṭhamaṃ.
+.
 2. Sāṇavāsītherapetavatthu
 408.
 ,sānuvāsi (sī.), sānavāsi (syā.);
@@ -165,7 +165,7 @@ karakaṃ (sī. syā. pī.),;
 438.
 ‘‘,;
 ,’’.
-Sāṇavāsītherapetavatthu dutiyaṃ.
+.
 3. Rathakārapetivatthu
 439.
 ‘‘,;
@@ -191,8 +191,8 @@ Sāṇavāsītherapetavatthu dutiyaṃ.
 446.
 ‘‘’’,;
 ,.
-Rathakārapetivatthu tatiyaṃ.
-Bhāṇavāraṃ dutiyaṃ niṭṭhitaṃ.
+.
+.
 4. Bhusapetavatthu
 447.
 ‘‘,;
@@ -212,7 +212,7 @@ akantikaṃ (sī. pī.),’’.
 452.
 ‘‘,;
 kimijaṃ (sī.),’’.
-Bhusapetavatthu catutthaṃ.
+.
 5. Kumārapetavatthu
 453.
 ,;
@@ -247,7 +247,7 @@ taṃ’sa (?),;
 463.
 ,;
 ,.
-Kumārapetavatthu pañcamaṃ.
+.
 6. Seriṇīpetavatthu
 464.
 ‘‘,;
@@ -297,7 +297,7 @@ Kumārapetavatthu pañcamaṃ.
 477.
 ,;
 ,.
-Seriṇīpetavatthu chaṭṭhaṃ.
+.
 7. Migaluddakapetavatthu
 478.
 ‘‘,kāmehi (ka.);
@@ -329,7 +329,7 @@ paṭihatā ca (ka.),.
 487.
 ‘‘,;
 ,’’.
-Migaluddakapetavatthu sattamaṃ.
+.
 8. Dutiyamigaluddakapetavatthu
 488.
 ‘‘,;
@@ -365,7 +365,7 @@ Migaluddakapetavatthu sattamaṃ.
 498.
 ‘‘,dhuvayuttā (sī.);
 ,’’.
-Dutiyamigaluddakapetavatthu aṭṭhamaṃ.
+.
 9. Kūṭavinicchayikapetavatthu
 499.
 ‘‘keyūrī (sī.),;
@@ -393,7 +393,7 @@ niraṃkatvā (ka.) ni + ā + kara + tvā = nirākatvā,.
 506.
 ‘‘,;
 ,’’.
-Kūṭavinicchayikapetavatthu navamaṃ.
+.
 10. Dhātuvivaṇṇapetavatthu
 507.
 ‘‘,;
@@ -426,7 +426,7 @@ anubhavanti (sī. pī.),samiddhā tā (sī. syā.).
 516.
 ‘‘,;
 ,’’.
-Dhātuvivaṇṇapetavatthu dasamaṃ. Cūḷavaggo tatiyo niṭṭhito.
+..
 –
 koṇḍañño (sabbattha),;
 ,;

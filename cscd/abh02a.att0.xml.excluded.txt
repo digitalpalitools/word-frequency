@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Sammohavinodanī nāma
 Vibhaṅga-aṭṭhakathā
@@ -49,7 +49,7 @@ Vibhaṅga-aṭṭhakathā
 7....‘’.?–.,....,,,.,..
 ,.??.,.;,.;,.
 ..,..;.;.;.;.;.;.;.;.;.;.;.
-Ayaṃ rūpakkhandhaniddeso.
+.
 2. Vedanākkhandhaniddeso
 8....,..‘,’.....,.
 ,.,..,..
@@ -67,19 +67,19 @@ Ayaṃ rūpakkhandhaniddeso.
 ,.,..,.,.,.,.,…pe….,.,…pe…...
 13...,....,,,..
 .,.–.,.,...,.
-Ayaṃ vedanākkhandhaniddeso.
+.
 3. Saññākkhandhaniddeso
 14........
 17...…pe….…pe…..,....,...,.
 ..,..‘’,‘’.
 –..‘’?‘,’.–‘’?‘’.‘’?‘’....‘,’..
-Ayaṃ saññākkhandhaniddeso.
+.
 4. Saṅkhārakkhandhaniddeso
 20.............
-Ayaṃ saṅkhārakkhandhaniddeso.
+.
 5. Viññāṇakkhandhaniddeso
 26...,...
-Ayaṃ viññāṇakkhandhaniddeso.
+.
 Pakiṇṇakakathā
 ,,,,,,,,,,,,,,,.
 –,.–..‘,’.‘’.‘;’.‘,;’..–
@@ -136,7 +136,7 @@ Kamādivinicchayakathā
 ‘’,,–..,,,,,,.,,,,,,.,,,,,,.,,,,,,.
 ,;
 ,.
-Suttantabhājanīyavaṇṇanā.
+.
 2. Abhidhammabhājanīyavaṇṇanā
 32...
 34....,..,,,,.......
@@ -162,9 +162,9 @@ Suttantabhājanīyavaṇṇanā.
 .,,‘,,’.,,.‘’.
 ..‘’.
 –‘’?‘’.‘’?‘’.,..,,.‘’.…pe…,.
-Ayaṃ vedanākkhandhaniddeso.
+.
 .,.........
-Abhidhammabhājanīyavaṇṇanā.
+.
 3. Pañhāpucchakavaṇṇanā
 150..‘‘??’’,,‘‘’’.‘’‘’‘‘,’’,.(dha. sa. aṭṭha. 985).
 ,,,.
@@ -172,5 +172,5 @@ Abhidhammabhājanīyavaṇṇanā.
 ,,,.
 ,,,,.
 ....
-Sammohavinodaniyā vibhaṅgaṭṭhakathāya
-Khandhavibhaṅgavaṇṇanā niṭṭhitā.
+
+.

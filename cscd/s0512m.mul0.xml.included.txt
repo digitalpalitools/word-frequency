@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 
@@ -33,7 +33,7 @@ akampito anolīno dadeyyaṃ dānamuttamaṃ
 
  na tassa dānaṃ dadamāno yasaṃ lābhañca patthayiṃ
 sabbaññutaṃ patthayāno tāni kammāni ācarinti
-
+akitticariyaṃ paṭhamaṃ
 
 
  punāparaṃ  yadā homi brāhmaṇo saṅkhasavhayo
@@ -62,7 +62,7 @@ tassa pādāni vanditvā adāsiṃ chattupāhanaṃ
 
  tenevāhaṃ  sataguṇato sukhumālo sukhedhito
 api ca dānaṃ paripūrento evaṃ tassa adāsahanti
-
+saṅkhacariyaṃ dutiyaṃ
 
 
  punāparaṃ yadā homi indapatthe  puruttame
@@ -88,7 +88,7 @@ tasmiṃ nāge padinnamhi kiṃ te rajjaṃ karissati
 
  rajjampi me dade sabbaṃ sarīraṃ dajjamattano
 sabbaññutaṃ piyaṃ mayhaṃ tasmā nāgaṃ adāsahanti
-
+kururājacariyaṃ tatiyaṃ
 
 
  kusāvatimhi nagare yadā āsiṃ mahīpati
@@ -118,7 +118,7 @@ dhanena vejjaṃ tappetvā rogato parimuccati
  tathevāhaṃ jānamāno paripūretumasesato
 ūnamanaṃ pūrayituṃ demi dānaṃ vanibbake
 nirālayo apaccāso sambodhimanupattiyāti
-
+mahāsudassanacariyaṃ catutthaṃ
 
 
  punāparaṃ  yadā homi sattarājapurohito
@@ -129,7 +129,7 @@ tena demi mahādānaṃ akkhobbhaṃ  sāgarūpamaṃ
 
  na  me dessaṃ dhanaṃ dhaññaṃ napi natthi nicayo mayi
 sabbaññutaṃ piyaṃ mayhaṃ tasmā demi varaṃ dhananti
-
+mahāgovindacariyaṃ pañcamaṃ
 
 
  punāparaṃ yadā homi mithilāyaṃ puruttame
@@ -146,7 +146,7 @@ kāyena vācā manasā ārādhanīyamesati
 
  tathevāhaṃ sabbabhave pariyesissāmi bodhijaṃ
 dānena satte tappetvā icchāmi bodhimuttamanti
-
+nimirājacariyaṃ chaṭṭhaṃ
 
 
  punāparaṃ  yadā homi ekarājassa atrajo
@@ -166,7 +166,7 @@ tasmā parassa dātabbaṃ satabhāgo bhavissati
 
  etamatthavasaṃ ñatvā demi dānaṃ bhavābhave
 na paṭikkamāmi dānato sambodhimanupattiyāti
-
+candakumāracariyaṃ sattamaṃ
 
 
  ariṭṭhasavhaye nagare sivināmāsi khattiyo
@@ -216,7 +216,7 @@ cittassa aññathā natthi bodhiyāyeva kāraṇā
 
  na me dessā ubho cakkhū attā na me na dessiyo
 sabbaññutaṃ piyaṃ mayhaṃ tasmā cakkhuṃ adāsahanti
-
+sivirājacariyaṃ aṭṭhamaṃ
 
 
  yā  me ahosi janikā phussatī  nāma khattiyā
@@ -393,7 +393,7 @@ tadāpi pathavī kampi sineruvanavaṭaṃsakā
 
  acetanāyaṃ pathavī aviññāya sukhaṃ dukhaṃ
 sāpi dānabalā mayhaṃ sattakkhattuṃ pakampathāti
-
+vessantaracariyaṃ navamaṃ
 
 
  punāparaṃ  yadā homi sasako pavanacārako
@@ -452,8 +452,8 @@ sabbaṃ sameti darathaṃ yathā sītodakaṃ viya
 
  chaviṃ cammaṃ maṃsaṃ nhāruṃ aṭṭhiṃ hadayabandhanaṃ
 kevalaṃ sakalaṃ kāyaṃ brāhmaṇassa adāsahanti
-
-
+sasapaṇḍitacariyaṃ dasamaṃ
+akittivaggo paṭhamo
 tassuddānaṃ  
 akittibrāhmaṇo  saṅkho kururājā dhanañcayo
 mahāsudassano rājā mahāgovindabrāhmaṇo
@@ -463,4 +463,4 @@ ete dānaparikkhārā ete dānassa pāramī
 jīvitaṃ yācake datvā imaṃ pārami pūrayiṃ
 bhikkhāya upagataṃ disvā sakattānaṃ pariccajiṃ
 dānena me samo natthi esā me dānapāramīti
-
+dānapāraminiddeso niṭṭhito

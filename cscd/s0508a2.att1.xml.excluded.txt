@@ -30,7 +30,7 @@
 ,’’.
 ‘‘,,’’.‘‘’’.‘‘’’‘‘’’..
 ,,,,,.,,.,.
-Rājadattattheragāthāvaṇṇanā niṭṭhitā.
+.
 2. Subhūtattheragāthāvaṇṇanā
 .?.,,,.(apa. thera 2.55.272-308)–
 ‘‘,;
@@ -123,7 +123,7 @@ Rājadattattheragāthāvaṇṇanā niṭṭhitā.
 ,,,.‘‘’’.,,...,,.
 .....,,,.‘‘,’’.
 .,,,.,..
-Subhūtattheragāthāvaṇṇanā niṭṭhitā.
+.
 3. Girimānandattheragāthāvaṇṇanā
 .?.
 ,..‘‘,,,’’.‘‘’’...(apa. thera 1.40.419-448)–
@@ -198,7 +198,7 @@ Subhūtattheragāthāvaṇṇanā niṭṭhitā.
 ’’.–;
 ,.,,‘‘’’.–‘‘,’’,(cariyā. 3.89; jā. 1.1.75)‘‘’’(a. ni. 4.101; pu. pa. 157)...
 .
-Girimānandattheragāthāvaṇṇanā niṭṭhitā.
+.
 4. Sumanattheragāthāvaṇṇanā
 .?......(apa. thera 2.44.60-71)–
 ‘‘,;
@@ -241,7 +241,7 @@ Girimānandattheragāthāvaṇṇanā niṭṭhitā.
 .,‘‘,’’.‘‘’’...
 ....
 ..
-Sumanattheragāthāvaṇṇanā niṭṭhitā.
+.
 5. Vaḍḍhattheragāthāvaṇṇanā
 .?..‘‘’’.‘‘’’.‘‘’’–
 335.
@@ -265,7 +265,7 @@ Sumanattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’‘‘’’.–,.
 ‘‘’’..‘‘’’..,,?,.
 ‘‘’’‘‘’’,.
-Vaḍḍhattheragāthāvaṇṇanā niṭṭhitā.
+.
 6. Nadīkassapattheragāthāvaṇṇanā
 .?.....(mahāva. 36-39).(mahāva. 54; saṃ. ni. 4.28).(apa. thera 2.44.81-87)–
 ‘‘,;
@@ -299,7 +299,7 @@ Vaḍḍhattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’...‘‘’’.,.‘‘’’..‘‘’’.‘‘’’.,,.
 ...‘‘’’.,.,.
 ,‘‘.,’’-.
-Nadīkassapattheragāthāvaṇṇanā niṭṭhitā.
+.
 7. Gayākassapattheragāthāvaṇṇanā
 .?.....(mahāva. 54).(apa. thera 2.45.8-14)–
 ‘‘,;
@@ -333,7 +333,7 @@ Nadīkassapattheragāthāvaṇṇanā niṭṭhitā.
 .,‘‘,,,’’,.
 .....
 ‘‘’’...,.,.
-Gayākassapattheragāthāvaṇṇanā niṭṭhitā.
+.
 8. Vakkalittheragāthāvaṇṇanā
 .?..
 ,..‘‘’’,.‘‘,,?,,,.,.,,,’’(saṃ. ni. 3.87).
@@ -439,7 +439,7 @@ Gayākassapattheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 ..
-Vakkalittheragāthāvaṇṇanā niṭṭhitā.
+.
 9. Vijitasenattheragāthāvaṇṇanā
 .?..,...–
 355.
@@ -477,7 +477,7 @@ Vakkalittheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 .
-Vijitasenattheragāthāvaṇṇanā niṭṭhitā.
+.
 10. Yasadattattheragāthāvaṇṇanā
 .?..,,‘‘’’.(su. ni. sabhiyasutta)–
 360.
@@ -515,7 +515,7 @@ Vijitasenattheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 .
-Yasadattattheragāthāvaṇṇanā niṭṭhitā.
+.
 11. Soṇakuṭikaṇṇattheragāthāvaṇṇanā
 .?..‘‘’’.
 ....‘‘’’.
@@ -556,7 +556,7 @@ Yasadattattheragāthāvaṇṇanā niṭṭhitā.
 ,.‘‘’’...,.
 ,‘‘’’(udā. 46).,.,,.
 ,,..
-Soṇakuṭikaṇṇattheragāthāvaṇṇanā niṭṭhitā.
+.
 12. Kosiyattheragāthāvaṇṇanā
 .?.,.,..(apa. thera 2.44.44-49)–
 ‘‘,;
@@ -591,5 +591,5 @@ Soṇakuṭikaṇṇattheragāthāvaṇṇanā niṭṭhitā.
 ,..,‘‘’’...,.
 .‘‘,,’’,...
 ‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’.
-Kosiyattheragāthāvaṇṇanā niṭṭhitā.
-Pañcakanipātavaṇṇanā niṭṭhitā.
+.
+.

@@ -24,7 +24,7 @@
 ‘‘,;
 ,’’.–;
 –.......
-Aṅgaṇikabhāradvājattheragāthāvaṇṇanā niṭṭhitā.
+.
 2. Paccayattheragāthāvaṇṇanā
 .?.
 ‘‘’’......,.(apa. thera 1.39.15-20)–
@@ -56,7 +56,7 @@ Aṅgaṇikabhāradvājattheragāthāvaṇṇanā niṭṭhitā.
 ,,..,,,,,.,,.
 ....,.
 .‘‘’’‘‘’’.,.
-Paccayattheragāthāvaṇṇanā niṭṭhitā.
+.
 3. Bākulattheragāthāvaṇṇanā
 .?‘‘’’.‘‘,’’‘‘’’,.(apa. thera 1.40.386-411)–
 ‘‘,;
@@ -132,7 +132,7 @@ Paccayattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–;
 ,..,,‘‘’’(ma. ni. 3.248; netti. 120).-.‘‘’’.
 ‘‘’’.,.‘‘’’.–,?.
-Bākulattheragāthāvaṇṇanā niṭṭhitā.
+.
 4. Dhaniyattheragāthāvaṇṇanā
 .?..(ma. ni. 3.342 ādayo)..‘‘,’’.(apa. thera 2.48.1-7)–
 ‘‘,;
@@ -156,7 +156,7 @@ Bākulattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–;
 ,,.,,..,.
 ,‘‘’’,.,.–‘‘,’’(ma. ni. 2.352; dha. pa. 27).
-Dhaniyattheragāthāvaṇṇanā niṭṭhitā.
+.
 5. Mātaṅgaputtattheragāthāvaṇṇanā
 .?..‘‘’’.(apa. thera 2.48.8-29)–
 ‘‘,;
@@ -209,7 +209,7 @@ Dhaniyattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.–;
 ,.,.,,..‘‘,,’’(a. ni. 8.80; dī. ni. 3.334).....,,...,..
-Mātaṅgaputtattheragāthāvaṇṇanā niṭṭhitā.
+.
 6. Khujjasobhitattheragāthāvaṇṇanā
 .?.,‘‘’’...(apa. thera 2.47.49-58)–
 ‘‘,;
@@ -249,7 +249,7 @@ Mātaṅgaputtattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ....,.
-Khujjasobhitattheragāthāvaṇṇanā niṭṭhitā.
+.
 7. Vāraṇattheragāthāvaṇṇanā
 .?...‘‘,,’’,..‘‘’’,–
 237.
@@ -287,7 +287,7 @@ Khujjasobhitattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,.
 ‘‘…pe…’’.
-Vāraṇattheragāthāvaṇṇanā niṭṭhitā.
+.
 8. Vassikattheragāthāvaṇṇanā
 .?....(apa. thera 2.47.40-44)–
 ‘‘,;
@@ -308,7 +308,7 @@ Vāraṇattheragāthāvaṇṇanā niṭṭhitā.
 .
 –,,,,‘‘’’,‘‘’’.
 ‘‘’’.,.‘‘’’..,.‘‘’’.‘‘,’’..
-Vassikattheragāthāvaṇṇanā niṭṭhitā.
+.
 9. Yasojattheragāthāvaṇṇanā
 .?.
 ,....‘‘’’.‘‘’’,.
@@ -339,7 +339,7 @@ Vassikattheragāthāvaṇṇanā niṭṭhitā.
 .
 ,,.
 ..‘‘’’.,‘‘’’..,.
-Yasojattheragāthāvaṇṇanā niṭṭhitā.
+.
 10. Sāṭimattiyattheragāthāvaṇṇanā
 .?..(apa. thera 1.38.43-47)–
 ‘‘,;
@@ -361,7 +361,7 @@ Yasojattheragāthāvaṇṇanā niṭṭhitā.
 ,,,‘‘’’,.,,,.,,,..
 ,,..,.,.
 ‘‘,’’‘‘’’.,.,,,,‘‘’’(dha. pa. 49; netti. 123).
-Sāṭimattiyattheragāthāvaṇṇanā niṭṭhitā.
+.
 11. Upālittheragāthāvaṇṇanā
 .?.,..(cūḷava. 330).
 ‘‘,,’’.,..(apa. thera 1.1.441-595)–
@@ -681,7 +681,7 @@ Sāṭimattiyattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.–;
 ,...,..‘‘’’(a. ni. 7.37),,,...,.‘‘’’,...
-Upālittheragāthāvaṇṇanā niṭṭhitā.
+.
 12. Uttarapālattheragāthāvaṇṇanā
 .?....(apa. thera 2.47.16-20)–
 ‘‘,;
@@ -703,7 +703,7 @@ Upālittheragāthāvaṇṇanā niṭṭhitā.
 .,,,.....,.
 .,..,,.,,.
 ,....,...
-Uttarapālattheragāthāvaṇṇanā niṭṭhitā.
+.
 13. Abhibhūtattheragāthāvaṇṇanā
 .?....‘‘’’...(apa. thera 2.47.11-15)–
 ‘‘,;
@@ -725,7 +725,7 @@ Uttarapālattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’,‘‘’’‘‘’’...
 ‘‘’’...,.,,.
 ‘‘’’..
-Abhibhūtattheragāthāvaṇṇanā niṭṭhitā.
+.
 14. Gotamattheragāthāvaṇṇanā
 .?..(apa. thera 2.47.6-10)–
 ‘‘,;
@@ -747,7 +747,7 @@ Abhibhūtattheragāthāvaṇṇanā niṭṭhitā.
 ..,.‘‘’’.,....‘‘’’...‘‘’’.
 .(ma. ni. 3.252; saṃ. ni. 5.1117)...,..,,.
 ‘‘’’........,...
-Gotamattheragāthāvaṇṇanā niṭṭhitā.
+.
 15. Hāritattheragāthāvaṇṇanā
 .?....(apa. thera 2.46.63-67)–
 ‘‘,;
@@ -756,7 +756,7 @@ Gotamattheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 ‘‘’’..
-Hāritattheragāthāvaṇṇanā niṭṭhitā.
+.
 16. Vimalattheragāthāvaṇṇanā
 .?..(apa. thera 2.46.58-62)–
 ‘‘,;
@@ -777,6 +777,6 @@ Hāritattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ......‘‘’’..
-Vimalattheragāthāvaṇṇanā niṭṭhitā.
-Tikanipātavaṇṇanā niṭṭhitā.
-Paṭhamo bhāgo niṭṭhito.
+.
+.
+.

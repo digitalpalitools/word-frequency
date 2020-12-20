@@ -21,7 +21,7 @@ Yatiniyama
 24.
 ,;
 ’,.
-Ariyājātiyo.
+.
 25.
 ,’’;
 ,
@@ -37,7 +37,7 @@ Ariyājātiyo.
 28.
 ’,’’;
 ’,’’’.
-Gītijātiyo.
+.
 29.
 ,
 ’,,,,’;
@@ -58,7 +58,7 @@ Gītijātiyo.
 .
 36.’.
 37.’.
-Vetālīyajātiyo.
+.
 38.’.
 39.’.
 40.’’.
@@ -70,9 +70,9 @@ Vetālīyajātiyo.
 ’’;(Visiloka)
 ,(vānavāsikā)
 .(visiloka)
-Mattāsamaka jātiyo.
+.
 45.
 ,;
 ,.
-Iti vuttodaye chandasi mattāvuttiniddeso nāma
-Dutiyo paricchedo.
+
+.

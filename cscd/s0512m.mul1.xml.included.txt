@@ -30,7 +30,7 @@ na karomi citte aññathattaṃ pakkhipantaṃ mamāḷake
 
  yadi te maṃ tattha koṭṭeyyuṃ pharasūhi tomarehi ca
 neva tesaṃ pakuppeyyaṃ sīlakhaṇḍabhayā mamāti
-
+mātuposakacariyaṃ paṭhamaṃ
 
 
  punāparaṃ  yadā homi bhūridatto mahiddhiko
@@ -59,7 +59,7 @@ neva sīlaṃ pabhindeyyaṃ catuddīpāna hetupi
 
  api cāhaṃ sīlarakkhāya sīlapāramipūriyā
 na karomi citte aññathattaṃ pakkhipantampi peḷaketi
-
+bhūridattacariyaṃ dutiyaṃ
 
 
  punāparaṃ yadā homi campeyyako mahiddhiko
@@ -79,7 +79,7 @@ sīlena parihīnassa uttamattho na sijjhati
 
  kāmaṃ  bhijjatuyaṃ kāyo idheva vikirīyatu
 neva sīlaṃ pabhindeyyaṃ vikirante bhusaṃ viyāti
-
+campeyyanāgacariyaṃ tatiyaṃ
 
 
  punāparaṃ yadā homi cūḷabodhi susīlavā
@@ -114,7 +114,7 @@ neva sīlaṃ pabhindeyyaṃ bodhiyāyeva kāraṇā
 
  na mesā brāhmaṇī dessā napi me balaṃ na vijjati
 sabbaññutaṃ piyaṃ mayhaṃ tasmā sīlānurakkhisanti
-
+cūḷabodhicariyaṃ catutthaṃ
 
 
  punāparaṃ  yadā homi mahiṃso pavanacārako
@@ -149,7 +149,7 @@ teva tassa vadhissanti sā me mutti bhavissati
 
  hīnamajjhimaukkaṭṭhe sahanto avamānitaṃ
 evaṃ labhati sappañño manasā yathā patthitanti
-
+mahiṃsarājacariyaṃ pañcamaṃ
 
 
  punāparaṃ yadā homi sutattakanakasannibho
@@ -188,7 +188,7 @@ tiṭṭhateso mahārāja kāmakāro bhavāmi te
 
  anurakkhiṃ mama sīlaṃ nārakkhiṃ mama jīvitaṃ
 sīlavā hi tadā āsiṃ bodhiyāyeva kāraṇāti
-
+rururājacariyaṃ chaṭṭhaṃ
 
 
  punāparaṃ  yadā homi jaṭilo uggatāpano
@@ -208,7 +208,7 @@ tasseva matthake nipati yogena taṃ pamocayiṃ
 
  anurakkhiṃ  mama sīlaṃ nārakkhiṃ mama jīvitaṃ
 sīlavā hi tadā āsiṃ bodhiyāyeva kāraṇāti
-
+mātaṅgacariyaṃ sattamaṃ
 
 
  punāparaṃ  yadā homi mahāpakkho mahiddhiko
@@ -234,7 +234,7 @@ saha janenokkamitvā pathaṃ pāpassa dāsahaṃ
 
  saha pathato okkante katvā cittassa nibbutiṃ
 vivaraṃ adāsi pathavī pāpayakkhassa tāvadeti
-
+dhammadevaputtacariyaṃ aṭṭhamaṃ
 
 
  pañcālaraṭṭhe  nagaravare kapilāyaṃ  puruttame
@@ -269,7 +269,7 @@ tvaṃ pakkakālamaññāya  bhakkhaya maṃ pitāmaha
 
  iti sīlavataṃ hetu nārakkhiṃ mama jīvitaṃ
 pabbājesiṃ cahaṃ tassa sadā pāṇātipātikanti
-
+alīnasattucariyaṃ navamaṃ
 
 
  punāparaṃ  yadā homi saṅkhapālo mahiddhiko
@@ -292,8 +292,8 @@ icchamāno cahaṃ tattha nāsāvātena jhāpaye
 
  sūlehi vinivijjhante koṭṭayantepi sattibhi
 bhojaputte na kuppāmi esā me sīlapāramīti
-
-
+saṅkhapālacariyaṃ dasamaṃ
+hatthināgavaggo dutiyo
 tassuddānaṃ 
 hatthināgo  bhūridatto campeyyo bodhi mahiṃso
 ruru mātaṅgo dhammo ca atrajo ca jayaddiso
@@ -301,4 +301,4 @@ ete nava sīlabalā parikkhārā padesikā
 jīvitaṃ parirakkhitvā sīlāni anurakkhisaṃ
 saṅkhapālassa me sato sabbakālampi jīvitaṃ
 yassa kassaci niyyattaṃ tasmā sā sīlapāramīti
-
+sīlapāraminiddeso niṭṭhito

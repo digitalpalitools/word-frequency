@@ -20,12 +20,12 @@
 442...,....
 .,,,,..
 ..,.;;;;...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Sāleyyakasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Verañjakasuttavaṇṇanā
 444........
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Verañjakasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Mahāvedallasuttavaṇṇanā
 449.....,.,.,,,,.–
 ?,..
@@ -84,8 +84,8 @@ Verañjakasuttavaṇṇanā niṭṭhitā.
 ,,;..,,,,.,.‘‘’’.,,.?,,...,,.;,.,,..,......,,.
 ,,.,‘‘,’’.,.,.,‘‘’’..
 –,,,....,,.?,‘‘’’,....,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāvedallasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Cūḷavedallasuttavaṇṇanā
 460....???..,.,,,.,.
 ,‘‘’’..‘‘’’...,‘‘’’.,.,‘‘,,’’,‘‘’’.
@@ -123,8 +123,8 @@ Mahāvedallasuttavaṇṇanā niṭṭhitā.
 466..,,.,.,.,.,..,.,..
 ,..,..
 467.,..,.,.,;,,‘‘’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷavedallasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Cūḷadhammasamādānasuttavaṇṇanā
 468...,...
 469..,........?..,..,...
@@ -140,8 +140,8 @@ Cūḷavedallasuttavaṇṇanā niṭṭhitā.
 ,,,.
 ,,.
 .
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷadhammasamādānasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Mahādhammasamādānasuttavaṇṇanā
 473.......–,,,,.,,.....,?.,,,.?.,.
 474.....
@@ -158,8 +158,8 @@ Cūḷadhammasamādānasuttavaṇṇanā niṭṭhitā.
 485....,,.,.
 486...,.....
 .–...,,.,,?,,,..?,.?,,,.?,,?.,,.?,......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahādhammasamādānasuttavaṇṇanā niṭṭhitā.
+
+.
 7. Vīmaṃsakasuttavaṇṇanā
 487..–.,‘‘,’’(saṃ. ni. 3.2).‘‘,,,,,,,,’’(ma. ni. 3.124).....
 488...–,,–‘‘,,,’’.–‘‘,,,,,,,.,,,,.,…pe…,.,…pe…,,…pe…,,,..,,.…pe…’’(saṃ. ni. 5.2).
@@ -211,8 +211,8 @@ Mahādhammasamādānasuttavaṇṇanā niṭṭhitā.
 .,,.,...,.,..
 490...............,.
 .–‘‘’’.,‘‘,’’.–‘‘,,…pe…,.…pe…’’.–‘‘,,’’..,..,,,,.....,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Vīmaṃsakasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Kosambiyasuttavaṇṇanā
 491...,...
 ...,,..,...
@@ -252,8 +252,8 @@ Vīmaṃsakasuttavaṇṇanā niṭṭhitā.
 498..,....,,,..
 500..,....
 ,‘‘’’..,,‘‘,…pe…’’..–‘‘,’’.–‘‘’’?.,‘‘,’’.,‘‘’’.,–‘‘,,..’’.‘‘,,’’..,‘‘’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Kosambiyasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Brahmanimantanikasuttavaṇṇanā
 501...‘‘’’...........
 502.,,?–‘‘’’.,‘‘’’,‘‘’’,‘‘,,’’.,‘‘’’.–‘‘,,’’.
@@ -308,8 +308,8 @@ Kosambiyasuttavaṇṇanā niṭṭhitā.
 ..,.,...
 .,.
 505.,‘‘’’,,.....?.,..,,,,..,,....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Brahmanimantanikasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Māratajjanīyasuttavaṇṇanā
 506..,...,.,‘‘’’.,‘‘,,’’,..,,,.–‘‘’’.
 .,.
@@ -335,7 +335,7 @@ Brahmanimantanikasuttavaṇṇanā niṭṭhitā.
 513....--,.,,,,......,,..
 .,–‘‘.’’.,.,.,.
 ..........
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Māratajjanīyasuttavaṇṇanā niṭṭhitā.
-Pañcamavaggavaṇṇanā niṭṭhitā.
-Mūlapaṇṇāsaṭṭhakathā niṭṭhitā.
+
+.
+.
+.

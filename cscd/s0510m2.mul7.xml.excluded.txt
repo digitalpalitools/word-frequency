@@ -21,9 +21,9 @@
 7.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā tikiṅkaṇipupphiyo thero imā
+
 .
-Tikiṅkaṇipupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Paṃsukūlapūjakattheraapadānaṃ
 8.
 ‘‘,;
@@ -43,9 +43,9 @@ Tikiṅkaṇipupphiyattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 14.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā paṃsukūlapūjako thero imā gāthāyo
+
 .
-Paṃsukūlapūjakattherassāpadānaṃ dutiyaṃ.
+.
 3. Koraṇḍapupphiyattheraapadānaṃ
 15.
 ‘‘,pitupetāmahenahaṃ (sī. syā. pī.);
@@ -74,9 +74,9 @@ Paṃsukūlapūjakattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 24.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā koraṇḍapupphiyo thero imā gāthāyo
+
 .
-Koraṇḍapupphiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Kiṃsukapupphiyattheraapadānaṃ
 25.
 ‘‘,;
@@ -93,9 +93,9 @@ Koraṇḍapupphiyattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 30.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kiṃsukapupphiyo thero imā gāthāyo
+
 .
-Kiṃsukapupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Upaḍḍhadussadāyakattheraapadānaṃ
 31.
 ‘‘,;
@@ -124,9 +124,9 @@ Kiṃsukapupphiyattherassāpadānaṃ catutthaṃ.
 ‘‘…pe….
 40.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā upaḍḍhadussadāyako thero imā
+
 .
-Upaḍḍhadussadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Ghatamaṇḍadāyakattheraapadānaṃ
 41.
 ‘‘,;
@@ -155,9 +155,9 @@ upacitattā (syā. ka.),.
 ‘‘…pe….
 50.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ghatamaṇḍadāyako thero imā gāthāyo
+
 .
-Ghatamaṇḍadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Udakadāyakattheraapadānaṃ
 51.
 ‘‘,;
@@ -174,9 +174,9 @@ Ghatamaṇḍadāyakattherassāpadānaṃ chaṭṭhaṃ.
 ‘‘…pe….
 56.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā udakadāyako thero imā gāthāyo
+
 .
-Udakadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Pulinathūpiyattheraapadānaṃ
 57.
 ‘‘,;
@@ -265,7 +265,7 @@ sāyaṃ pātaṃ (syā. ka.),.
 85.
 ‘‘pasādetvānahaṃ (ka.),;
 ,.
-Dvāvīsatimaṃ bhāṇavāraṃ.
+.
 86.
 ‘‘,;
 ,.
@@ -284,9 +284,9 @@ Dvāvīsatimaṃ bhāṇavāraṃ.
 ‘‘…pe….
 92.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā pulinathūpiyo thero imā gāthāyo
+
 .
-Pulinathūpiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Naḷakuṭidāyakattheraapadānaṃ
 93.
 ‘‘,;
@@ -318,9 +318,9 @@ Pulinathūpiyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 103.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā naḷakuṭidāyako thero imā gāthāyo
+
 .
-Naḷakuṭidāyakattherassāpadānaṃ navamaṃ.
+.
 10. Piyālaphaladāyakattheraapadānaṃ
 104.
 ‘‘,;
@@ -337,10 +337,10 @@ Naḷakuṭidāyakattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 109.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā piyālaphaladāyako thero imā
+
 .
-Piyālaphaladāyakattherassāpadānaṃ dasamaṃ.
-Kiṅkaṇipupphavaggo paññāsamo.
+.
+.
 –
 ,;
 ,.
@@ -351,5 +351,5 @@ Kiṅkaṇipupphavaggo paññāsamo.
 ,.
 ,;
 ,.
-Metteyyavaggadasakaṃ.
-Pañcamasatakaṃ samattaṃ.
+.
+.

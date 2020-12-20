@@ -6,10 +6,10 @@ Caritabhedavaṇṇanā
 ‘‘,;
 ,’’.
 ..,‘‘’’,‘‘’’.,‘‘’’.‘‘’’.,.‘‘’’.
-Caritabhedavaṇṇanā niṭṭhitā.
+.
 Bhāvanābhedavaṇṇanā
 4.,.....‘‘’’(dha. sa. 7).‘‘’’.
-Bhāvanābhedavaṇṇanā niṭṭhitā.
+.
 Nimittabhedavaṇṇanā
 5.,.,..
 6.,.,‘’...,,.
@@ -19,19 +19,19 @@ Nimittabhedavaṇṇanā
 10..
 11..
 12..
-Nimittabhedavaṇṇanā niṭṭhitā.
+.
 Sappāyabhedavaṇṇanā
 13.‘‘’’.,,.,,..
 17..
 18......,.
-Sappāyabhedavaṇṇanā niṭṭhitā.
+.
 Bhāvanābhedavaṇṇanā
 19.,,,..,....
 21.,.
 22.‘‘’’.
 23.‘‘’’.
 24.‘‘,,’’‘‘’’.
-Bhāvanābhedavaṇṇanā niṭṭhitā.
+.
 Gocarabhedavaṇṇanā
 26..‘‘’’.
 27..
@@ -48,8 +48,8 @@ Gocarabhedavaṇṇanā
 ‘‘’’(dha. sa. aṭṭha. 1434),,,,?(visuddhi. 2.416; dha. sa. aṭṭha. 1434).(dha. sa. mūlaṭī. 1434 thoka visadisaṃ)‘‘‘’,..,’’.,,,..
 42.‘‘’’..,....‘’.....,.
 .
-Gocarabhedavaṇṇanā niṭṭhitā.
-Samathakammaṭṭhānavaṇṇanā niṭṭhitā.
+.
+.
 Vipassanākammaṭṭhānaṃ
 Visuddhibhedavaṇṇanā
 43.,.,..
@@ -72,7 +72,7 @@ Visuddhibhedavaṇṇanā
 60.‘‘’’.‘‘’’.‘‘’’,‘‘’’.‘‘’’,‘‘’’,.,..‘‘’’(ma. ni. 1.175; visuddhi. 2.812).,.
 (visuddhi. 2.662 ādayo),.,,.
 .
-Visuddhibhedavaṇṇanā niṭṭhitā.
+.
 Vimokkhabhedavaṇṇanā
 61..‘‘’’,‘‘’’.
 62.‘‘’’‘‘’’(a. ni. 4.49; paṭi. ma. 1.236; vibha. 939).
@@ -80,27 +80,27 @@ Vimokkhabhedavaṇṇanā
 64.,..
 66..,.
 67...,,.,,.,.,.
-Vimokkhabhedavaṇṇanā niṭṭhitā.
+.
 Puggalabhedavaṇṇanā
 68..‘‘’’(khu. pā. 6.9; su. ni. 232; netti. 115)..
 69..
 70...
-Puggalabhedavaṇṇanā niṭṭhitā.
+.
 Samāpattibhedavaṇṇanā
 72..
 73.,.,..,.,,.
-Samāpattibhedavaṇṇanā niṭṭhitā.
-Vipassanākammaṭṭhānavaṇṇanā niṭṭhitā.
+.
+.
 Uyyojanavaṇṇanā
 75..
-Iti abhidhammatthavibhāviniyā nāma abhidhammatthasaṅgahavaṇṇanāya
-Kammaṭṭhānaparicchedavaṇṇanā niṭṭhitā.
+
+.
 Nigamanavaṇṇanā
 (Ka),,,,,,,.
 (Kha).,,,,,.
-Nigamanavaṇṇanā niṭṭhitā.
-Niṭṭhitā cāyaṃ abhidhammatthavibhāvinī nāma.
-Abhidhammatthasaṅgahaṭīkā.
+.
+.
+.
 Nigamanakathā
 1.,
 ;
@@ -124,6 +124,6 @@ Nigamanakathā
 ,.
 7.,.
 ,.
-Iti bhadantasāriputtamahātherassa sissena racitā
-Abhidhammatthavibhāvinī nāma
-Abhidhammatthasaṅgahaṭīkā niṭṭhitā.
+
+
+.

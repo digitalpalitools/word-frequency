@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa 
+﻿
 Niruttidīpanīpāṭha
 Ganthārambha
 1.
@@ -39,7 +39,7 @@ Garusaññārāsi
 ,,,,...
 8.ka. 8; rū. 10; nī. 8.
 ..
-Garusaññārāsi niṭṭhito.
+.
 Byañjanavuttirāsi
 ,,rū. 2 (piṭṭhe); nī 6 (piṭṭhe); 23 (suttaṅke).
 –,,,,,.‘‘’’,.‘‘’’,.‘‘’’,.‘‘’’,.‘‘’’,..
@@ -52,7 +52,7 @@ Byañjanavuttirāsi
 ,,,,,;
 ,,,nī. 9, 10, 11, 12, 13, 14, 15, 16-19, 20, 21 suttesu passitabbaṃ.
 ,,.,.,...,.....
-Byañjanavuttirāsi niṭṭhito.
+.
 Lahusaññārāsi
 ,,,,.
 9.iyuvaṇṇā (bahūsu)ka. 58; rū. 29; nī. 205.
@@ -64,7 +64,7 @@ Lahusaññārāsi
 ,..
 12.ka. 57; rū. 71; nī. 214.
 .
-Lahusaññārāsi niṭṭhito.
+.
 Saṅketarāsi
 13.caṃ. 1.1.6; pā. 1.1.72; vidhibbisesanantassa (bahūsu).
 ,.
@@ -111,7 +111,7 @@ aṅguttaranikāye-.
 25.ntu vantumantvāvantutavantu sambandhī (bahūsu).
 ,,,.
 ‘’.,,,.
-Saṅketarāsi niṭṭhito.
+.
 Sandhividhāna
 .
 ,,,,,,,.
@@ -124,7 +124,7 @@ Loparāsi
 -jā. 1.22.588,,,.
 –
 vibha. 219,,dī. ni. 3.305,dha. sa. 1156,pārā. 381,vibha. 949,,,dha. sa. 1156,mahāva. 9,dha. pa. 62,pāci. 402,dha. pa. 304.
-Iti pubbaloparāsi.
+.
 27.ka. 13; rū. 15; nī. 31.
 .
 –
@@ -132,7 +132,7 @@ jā. 2.22.144 ādayo; taṃ kudassu,,dha. pa. 376,jā. 2.22.1474,jā. 1.1.29-,,,
 –
 pāci. 465,pārā. 1,pārā. 135,dha. pa. 383,,,mahāva. 242,dha. pa. 2,,dha. pa. 69,vibha. 219,a. ni. 2.3,a. ni. 3.17.
 ?a. ni. 10.60.
-Iti paraloparāsi.
+.
 28..
 .
 dha. pa. 21,dha. pa. 44.
@@ -142,13 +142,13 @@ dha. pa. 21,dha. pa. 44.
 29..
 .
 pe. va. 47; jā. 2.22.764,dha. pa. 413; su. ni. 642,dha. pa. 1,mahāva. 8,,,,.
-Iti saraloparāsi.
+.
 30..
 .
 pārā. 36–,ma. ni. 1.24,,mi. pa. 6.1.5-,.
 –pāci. 326,,,,jā. 2.22.594,,,,saṃ. ni. 1.268,.
 ?su. ni. 897,,,,.
-Iti byañjanaloparāsi.
+.
 31..
 .
 –
@@ -163,13 +163,13 @@ jā. 1.4.124 supaṇṇo,dī. ni. 2.348,su. ni. 769,jā. 1.1.38,jā. 2.22.1989 t
 ,,,,,,,.
 –
 ,.
-Iti binduloparāsi.
+.
 32..
 .
 ,,,.
 –
 ,.
-Iti syādiloparāsi.
+.
 .
 33.caṃ. 5.2.1.27; pā. 6.3.109; mu. 2.34; kā. 2.27.
 ,.
@@ -187,7 +187,7 @@ a. ni. 6.58,,,,,,,mahāva. 134,mahāva. 8,paṭṭhā. 3.1.98,pārā. 462,,jā. 
 ,,,,.
 –
 ,,,.
-Loparāsi niṭṭhito.
+.
 Dīgha, rassarāsi
 ,.
 34..
@@ -213,7 +213,7 @@ cūḷava. 97,,,,,,,,,dha. sa. aṭṭha. 584.
 .–
 pārā. 1,,.
 ,.
-Iti dīgharāsi.
+.
 –
 dha. pa. 108,dha. pa. 396; su. ni. 625,.
 ,,–
@@ -224,8 +224,8 @@ a. ni. 1.1-4,,,,saṃ. ni. 1.112,saṃ. ni. 5.194.
 ,,,,,.
 –
 ,,,.
-Iti rassarāsi.
-Dīgha, rassarāsi niṭṭhito.
+.
+,.
 Vuddhirāsi
 .
 36.ka. 14; rū. 16; nī. 34.
@@ -240,7 +240,7 @@ Vuddhirāsi
 ,,-,.,..
 –
 ,,,.
-Vuddhirāsi niṭṭhito.
+.
 Ādesasandhi
 .
 37.ka. 18, 19, 21, 45; nī. 44, 46, 47, 51, 58.
@@ -289,7 +289,7 @@ dī. ni. 1.303,,,,jā. 2.19.118,,pārā. 34,,,,,,khu. pā. 6.3,ma. ni. 3.272,jā
 –
 ,jā. 1.6.7–.jā. 2.22.871–.jā. 1.1.146–.
 .
-Iti sarādesarāsi.
+.
 .
 43..
 ,-,,-.
@@ -387,7 +387,7 @@ mahāva. 64,‘‘’’.‘‘,jā. 1.7.59’’.
 ,.
 –
 .
-Iti byañjanādesarāsi.
+.
 .
 –
 ,,,,,,.
@@ -413,7 +413,7 @@ Iti byañjanādesarāsi.
 ,,jā. 1.1.9,jā. 1.7.82,,,,,,,jā. 1.15.324,-,,dha. pa. 247.,,,.
 –
 ,,,,,,,,jā. 2.21.76,jā. 2.21.79.
-Iti missakādesarāsi.
+.
 .
 46.ka. 31; rū. 49; nī. 138-9.
 .
@@ -440,8 +440,8 @@ khu. pā. 6.5–,-,,,,,,,.
 49.ka. 33; rū. 51; nī. 141.
 ..
 ,.,,,,pārā. 348.
-Iti bindādesarāsi.
-Ādesasandhirāsi niṭṭhito.
+.
+.
 Āgamasandhi
 .
 –
@@ -458,7 +458,7 @@ pārā. 39,.
 –
 ,,dha. pa. 42.
 ‘’dī. ni. 3.1.
-Iti sarāgamarāsi.
+.
 50.
 ,,,,,.
 ,,,,,,,,
@@ -486,14 +486,14 @@ jā. 1.3.25,a. ni. 1.21-22,,a. ni. 6.11,a. ni. 9.9,a. ni. 10.16,,,,,,,,,,cariyā
 ,,,a. ni. 1.30,,.
 –
 dī. ni. 2.95,dī. ni. 1.185-186,dī. ni. 1.263,kathā. 1,,,khu. pā. 9.1,.
-Iti byañjanāgamarāsi.
+.
 52.ka. 35; rū. 21 (piṭṭhe); nī. 56.
 .
 pārā. 653,pāci. 368,dha. pa. 21,mahāva. 15,dha. pa. 265,dha. pa. 53,jā. 1.11.35,,,,,,,,.
-Iti bindāgamarāsi.
+.
 ,,.
 ma. ni. 2.133ma. ni. 2.133,ma. ni. 2.133,ma. ni. 2.119,ma. ni. 2.119,mahāva. 66,pārā. aṭṭha. 1.paṭhamamahāsaṅgītikathā,,kathā. 226,,,.
-Āgamasandhirāsi niṭṭhito.
+.
 Dvibhāvasandhi
 .
 .,..,,,.
@@ -552,7 +552,7 @@ Dvibhāvasandhi
 ,,.
 –
 mahāva. 139,mahāva. 138,mahāva. 139,,,,.
-Iti sadisadvittarāsi.
+.
 54.ka. 44, 29; rū. 24; nī. 57, 68, 74, 77-8, 80, 82-3, 91, 122.
 ,,,,.‘’‘’,,.
 –
@@ -568,7 +568,7 @@ Iti sadisadvittarāsi.
 –
 ,,,,,,,,,,,,,,,,,.
 ,,.
-Iti visadisadvittarāsi.
+.
 55.caṃ. 6.3-1; pā. 8.1.1, 4.
 ...
 –
@@ -602,8 +602,8 @@ dī. ni. 2.210.
 saṃ. ni. 4.120.
 –
 ma. ni. 2.106.‘‘’’ma. ni. 2.357.
-Iti padavākyadvittarāsi.
-Dvibhāvasandhirāsi niṭṭhito.
+.
+.
 Vipallāsasandhi
 .
 .
@@ -623,8 +623,8 @@ jā. 2.22.60,jā. 2.22.1863..
 jā. 2.22.1193–,-..pārā 389,,,jā. 1.1.20–.
 –
 ,jā. 1.15.268-.
-Iti vipallāsarāsi.
+.
 60.caṃ. 1.1.130; pā. 3.3.113.
 ,....
-Iti niruttidīpaniyā nāma moggallānadīpaniyaṃ
-Sandhikaṇḍo niṭṭhito.
+
+.

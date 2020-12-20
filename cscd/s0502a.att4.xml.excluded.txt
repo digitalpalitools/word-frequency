@@ -14,7 +14,7 @@
 ’’.
 .,,...,.,,..,,.
 ..
-Pathavikathāpasutapañcasatabhikkhuvatthu paṭhamaṃ.
+.
 2. Marīcikammaṭṭhānikattheravatthu
 .
 ,‘‘’’‘‘’’,‘‘,,’’,‘‘’’.,‘‘,,’’–
@@ -25,7 +25,7 @@ Pathavikathāpasutapañcasatabhikkhuvatthu paṭhamaṃ.
 ’’.
 .,,,..
 .
-Marīcikammaṭṭhānikattheravatthu dutiyaṃ.
+.
 3. Viṭaṭūbhavatthu
 .
 –.,..,.‘‘,,’’..‘‘’’.‘‘’’,‘‘’’‘‘.,’’,‘‘’’.‘‘,,’’‘‘’’.
@@ -68,7 +68,7 @@ Marīcikammaṭṭhānikattheravatthu dutiyaṃ.
 ,’’.
 .–‘‘’’,‘‘’’,,.,,.,.,..,.
 ..
-Viṭaṭūbhavatthu tatiyaṃ.
+.
 4. Patipūjikakumārivatthu
 ..
 .,.,.‘‘’’.,‘‘’’.‘‘’’.,,.,‘‘,’’.(dha. sa. 1; dha. sa. aṭṭha. 1 yevāpanakavaṇṇanā)....
@@ -79,7 +79,7 @@ Viṭaṭūbhavatthu tatiyaṃ.
 ,’’.
 .,...
 ,.
-Patipūjikakumārivatthu catutthaṃ.
+.
 5. Macchariyakosiyaseṭṭhivatthu
 ..
 ..,.,,..–‘‘,,,’’....
@@ -99,7 +99,7 @@ Patipūjikakumārivatthu catutthaṃ.
 ‘‘,;
 ,’’.(jā. 1.1.78)–
 .
-Macchariyakosiyaseṭṭhivatthu pañcamaṃ.
+.
 6. Pāveyyakājīvakavatthu
 .
 .,‘‘’’.,‘‘,’’.‘‘’’.‘‘,’’,‘‘,,’’..‘‘’’.‘‘’’.‘‘’’.‘‘,,,’’.‘‘,’’.‘‘,,’’.,,‘‘’’.‘‘’’.,‘‘’’,‘‘,’’.‘‘,’’..
@@ -109,7 +109,7 @@ Macchariyakosiyaseṭṭhivatthu pañcamaṃ.
 ,’’.
 .‘‘,,,,,,,,,,,,,,,,,,’’.‘‘’’(a. ni. 10.48)‘‘‘’,’’.
 ,.
-Pāveyyakājīvakavatthu chaṭṭhaṃ.
+.
 7. Chattapāṇiupāsakavatthu
 .
 ..,.–‘‘,,’’(ma. ni. 2.288)....‘‘,’’–‘‘,,,.,,’’...,‘‘,’’..
@@ -123,7 +123,7 @@ Pāveyyakājīvakavatthu chaṭṭhaṃ.
 ,’’.
 .,...,,,,.–‘‘,’’..,.,,,.
 ..
-Chattapāṇiupāsakavatthu sattamaṃ.
+.
 8. Visākhāvatthu
 .
 ..
@@ -191,7 +191,7 @@ Chattapāṇiupāsakavatthu sattamaṃ.
 ,’’.
 ...‘‘’’..,,.,,,,....–‘‘…pe…’’.
 ..
-Visākhāvatthu aṭṭhamaṃ
+
 9. Ānandattherapañhāvatthu
 .
 –‘‘,,,,.,’’.–‘‘,’’..–
@@ -212,7 +212,7 @@ Visākhāvatthu aṭṭhamaṃ
 ,’’.
 ,,,,,...,..?,‘‘’’.‘‘’’...
 ..
-Ānandattherapañhāvatthu navamaṃ.
+.
 10. Mahākassapattherapiṇḍapātadinnavatthu
 .
 ‘‘’’.‘‘’’,‘‘,,’’.‘‘,’’.‘‘,,’’.‘‘,’’.,‘‘’’,‘‘‘’,’’.‘‘’’?‘‘’’.‘‘’’?‘‘‘’,’’.‘‘’’.‘‘,’’.‘‘’’,.
@@ -236,7 +236,7 @@ Visākhāvatthu aṭṭhamaṃ
 ,’’.
 .,,.,.
 ..
-Mahākassapattherapiṇḍapātadinnavatthu dasamaṃ.
+.
 11. Godhikattheraparinibbānavatthu
 .
 .,–‘‘,,’’.‘‘,,,,,’’–
@@ -266,7 +266,7 @@ Mahākassapattherapiṇḍapātadinnavatthu dasamaṃ.
 ,’’.
 ,,..‘‘,,,,’’..
 ..
-Godhikattheraparinibbānavatthu ekādasamaṃ.
+.
 12. Garahadinnavatthu
 .
 .,.–‘‘‘,’,’’.–‘‘,,,,,’’?,‘‘,,‘,,,’,,,,’’?‘‘‘,,,,,’’’?‘‘’’.‘‘,’’.‘‘,,,,,,,’’.‘‘’’.‘‘’’?‘‘,’’.‘‘,’’.
@@ -289,6 +289,6 @@ Godhikattheraparinibbānavatthu ekādasamaṃ.
 ‘‘,;
 ,’’.(jā. 1.1.40)–
 .
-Garahadinnavatthu dvādasamaṃ.
-Pupphavaggavaṇṇanā niṭṭhitā.
-Catuttho vaggo.
+.
+.
+.

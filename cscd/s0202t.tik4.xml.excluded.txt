@@ -65,7 +65,7 @@
 .‘‘’’..‘‘’’..‘‘’’,..
 ,,....
 395...,.,.,(dī. ni. 2.241 ādayo),–‘‘’’‘‘’’.,‘‘’’.
-Brahmāyusuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Selasuttavaṇṇanā
 396.,...,..
 ,.?‘‘’’.
@@ -88,7 +88,7 @@ Brahmāyusuttavaṇṇanāya līnatthappakāsanā samattā.
 ,.‘‘’’..,.,,..,,,.,,.
 400.‘‘’’‘‘’’.‘‘’’.‘‘’’‘‘??’’.‘‘’’‘‘‘’’’.......
 .,,-.–‘‘,’’.–..
-Selasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Assalāyanasuttavaṇṇanā
 401.,,,,,‘‘’’........
 .,‘‘,’’,…pe….
@@ -99,12 +99,12 @@ Selasuttavaṇṇanāya līnatthappakāsanā samattā.
 409..,...
 410..,.‘‘’’..
 411.....,,.,.–‘‘…pe…’’.
-Assalāyanasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Ghoṭamukhasuttavaṇṇanā
 412...,..,.,,,.,,.
 414.,.,,.‘‘’’.?‘‘’’,.‘‘’’.
 421.,,‘‘’’..‘‘’’..
-Ghoṭamukhasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Caṅkīsuttavaṇṇanā
 422...-.--‘‘’’.‘‘’’..–‘‘’’.-----‘‘’’.‘‘’’.‘‘’’..
 ..‘‘’’.–‘‘’’....
@@ -126,18 +126,18 @@ Ghoṭamukhasuttavaṇṇanāya līnatthappakāsanā samattā.
 430.,–‘‘,’’.‘‘’’‘‘’’.,‘‘’’.–‘‘,,’’(dī. ni. 2.400; ma. ni. 1.133; vibha. 203)..
 432...‘‘’’.....,‘‘’’...,....–‘‘’’.
 433-4.,,,,.‘‘’’.,‘‘’’.‘‘’’.‘‘’’.,.,..,–‘‘’’..
-Caṅkīsuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Esukārīsuttavaṇṇanā
 437......‘‘’’.,.–‘‘’’.,.‘‘’’.‘‘’’(dī. ni. aṭṭha. 1.305; 3.141; ma. ni. aṭṭha. 2.425; udā. 53; apa. aṭṭha. 2.7.20; bu. vaṃ. aṭṭha. 4.4; cariyā. aṭṭha. 1.nidānakathā; 2.pakiṇṇakakathā; dī. ni. ṭī. 1.ganthārambhakathāvaṇṇanā; saṃ. ni. ṭī. 1.2.1; a. ni. ṭī. 1.1.1; vajira. ṭī. ganthārambhakathāvaṇṇanā; sārattha. ṭī. 1.ganthārambhakathāvaṇṇanā; netti. ṭī. ganthārambhakathāvaṇṇanā; ma. ni. ṭī. 1.1)‘‘’’.
 440.‘‘’’,...,.,.,.
 441..‘‘…pe…’’.,..
-Esukārīsuttavaṇṇanā līnatthappakāsanā samattā.
+.
 7. Dhanañjānisuttavaṇṇanā
 445....,‘‘’’...
 446..,.‘‘’’,.,,.,,.,,..‘‘’’.
 447....
 448-453.,.‘‘’’..‘‘’’...‘‘,,’’,...
-Dhanañjānisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Vāseṭṭhasuttavaṇṇanā
 454...,.‘‘’’.‘‘’’.‘‘’’..
 455.,..
@@ -172,7 +172,7 @@ Dhanañjānisuttavaṇṇanāya līnatthappakāsanā samattā.
 ,,‘‘’’...‘‘’’..‘‘’’.‘‘’’..‘‘,’’.....
 ‘‘’’.‘‘’’.‘‘’’....‘‘’’.
 ,...–‘‘’’..
-Vāseṭṭhasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Subhasuttavaṇṇanā
 462.,‘‘’’..,‘‘’’.,,.‘‘’’..
 463.--.,,.‘‘’’.
@@ -189,7 +189,7 @@ Vāseṭṭhasuttavaṇṇanāya līnatthappakāsanā samattā.
 ....‘‘’’.,‘‘’’.
 470...‘‘’’..‘‘’’.
 .‘‘’’,‘‘’’.‘‘’’.,‘‘…pe…’’......–‘‘’’..
-Subhasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Saṅgāravasuttavaṇṇanā
 473..–‘‘’’.‘‘’’..
 .........,,‘‘’’.‘‘’’..
@@ -197,7 +197,7 @@ Subhasuttavaṇṇanāya līnatthappakāsanā samattā.
 .–‘‘’’..‘‘’’.,.
 474....‘‘’’..‘‘’’.‘‘’’,.,‘‘’’..‘‘’’..
 485.....,....‘‘’’..,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Saṅgāravasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca brāhmaṇavaggavaṇṇanā.
-Majjhimapaṇṇāsaṭīkā samattā.
+
+.
+.
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Jātakapāḷi
 (Dutiyo bhāgo)
@@ -151,7 +151,7 @@ jambuka tvaṃ dāni vadehi (syā. pī.),’’.
 49.
 ‘‘vete (pī.),esā ca (pī.);
 ,sāmaṃ (ka.)’’.
-Tesakuṇajātakaṃ paṭhamaṃ.
+.
 
 .(2)
 50.
@@ -295,7 +295,7 @@ aṭṭhiṃ katvā (ka.),;
 ‘‘,;
 nārado puṇṇo mantānīputto (sī.),;
 ,’’.
-Sarabhaṅgajātakaṃ dutiyaṃ.
+.
 
 .(3)
 95.
@@ -446,7 +446,7 @@ sarisitthiyo (syā. pī.),.
 142.
 ‘‘,;
 na isipalobhikā (syā.), na isipalobhiyaṃ (pī.),’’.
-Alambusājātakaṃ tatiyaṃ.
+.
 
 .(4)
 143.
@@ -607,7 +607,7 @@ taṃ (pī.),’’.
 194.
 ‘‘,;
 ,’’.
-Saṅkhapālajātakaṃ catutthaṃ.
+.
 
 .(5)
 195.
@@ -763,8 +763,8 @@ yamhi (pī.),.
 245.
 ‘‘mettañca (pī.),;
 atha gañchittha (sī. syā. pī.),’’puññakammānanti (pī.).
-Cūḷasutasomajātakaṃ pañcamaṃ.
-Cattālīsanipātaṃ niṭṭhitaṃ.
+.
+.
 –
 ,;
 ,.

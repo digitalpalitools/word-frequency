@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Therīgāthā-aṭṭhakathā
 1. Ekakanipāto
@@ -32,7 +32,7 @@ Therīgāthā-aṭṭhakathā
 ‘‘,;
 ,’’.
 ,.,,,..,,.,.,,.,.
-Aññatarātherīgāthāvaṇṇanā niṭṭhitā.
+.
 2. Muttātherīgāthāvaṇṇanā
 2.
 ‘‘,;
@@ -48,7 +48,7 @@ Aññatarātherīgāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 ..
-Muttātherīgāthāvaṇṇanā niṭṭhitā.
+.
 3. Puṇṇātherīgāthāvaṇṇanā
 ......–
 3.
@@ -71,7 +71,7 @@ Muttātherīgāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 ..
-Puṇṇātherīgāthāvaṇṇanā niṭṭhitā.
+.
 4. Tissātherīgāthāvaṇṇanā
 ..–
 4.
@@ -79,7 +79,7 @@ Puṇṇātherīgāthāvaṇṇanā niṭṭhitā.
 ,’’.–;
 .,.‘‘’’,,,..,.
 .
-Tissātherīgāthāvaṇṇanā niṭṭhitā.
+.
 5-10. Tissāditherīgāthāvaṇṇanā
 ...,,,,,..‘‘’’.–
 5.
@@ -106,8 +106,8 @@ Tissātherīgāthāvaṇṇanā niṭṭhitā.
 .....
 ..,.
 .,,..
-Tissāditherīgāthāvaṇṇanā niṭṭhitā.
-Niṭṭhitā paṭhamavaggavaṇṇanā.
+.
+.
 11. Muttātherīgāthāvaṇṇanā
 .,..,‘‘’’.–
 ‘‘,;
@@ -143,7 +143,7 @@ Niṭṭhitā paṭhamavaggavaṇṇanā.
 ,;
 ,’’.–;
 ..‘‘’’,.‘‘,’’.‘‘’’...‘‘’’‘‘’’.–,,.
-Muttātherīgāthāvaṇṇanā niṭṭhitā.
+.
 12. Dhammadinnātherīgāthāvaṇṇanā
 ..‘‘’’,.
 .,‘‘,,,’’.‘‘,,,.,.,,’’.‘‘,,,’’.‘‘,’’.,‘‘,,’’...(apa. therī 2.3.95-130)–
@@ -220,7 +220,7 @@ Muttātherīgāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 .,‘‘’’,,....,,.
-Dhammadinnātherīgāthāvaṇṇanā niṭṭhitā.
+.
 13. Visākhātherīgāthāvaṇṇanā
 ..–
 13.
@@ -228,7 +228,7 @@ Dhammadinnātherīgāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ,..,,.
-Visākhātherīgāthāvaṇṇanā niṭṭhitā.
+.
 14. Sumanātherīgāthāvaṇṇanā
 ..–
 14.
@@ -237,7 +237,7 @@ Visākhātherīgāthāvaṇṇanā niṭṭhitā.
 ..
 ‘‘’’....
 ‘‘’’.‘‘’’,‘‘’’,‘‘’’.
-Sumanātherīgāthāvaṇṇanā niṭṭhitā.
+.
 15. Uttarātherīgāthāvaṇṇanā
 ..–
 15.
@@ -246,14 +246,14 @@ Sumanātherīgāthāvaṇṇanā niṭṭhitā.
 .
 .,..,.,..
 –...,,.‘‘’’..
-Uttarātherīgāthāvaṇṇanā niṭṭhitā.
+.
 16. Vuḍḍhapabbajitasumanātherīgāthāvaṇṇanā
 ..‘‘,,’’(saṃ. ni. 1.112)‘‘’’.–
 16.
 ‘‘,;
 ,’’.–
 ..,.,.,..
-Vuḍḍhapabbajitasumanātherīgāthāvaṇṇanā niṭṭhitā.
+.
 17. Dhammātherīgāthāvaṇṇanā
 .–
 17.
@@ -262,7 +262,7 @@ Vuḍḍhapabbajitasumanātherīgāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ,.,..,..
-Dhammātherīgāthāvaṇṇanā niṭṭhitā.
+.
 18. Saṅghātherīgāthāvaṇṇanā
 ..–
 18.
@@ -270,5 +270,5 @@ Dhammātherīgāthāvaṇṇanā niṭṭhitā.
 ,;
 ,’’.–;
 ....,...
-Saṅghātherīgāthāvaṇṇanā niṭṭhitā.
-Ekakanipātavaṇṇanā niṭṭhitā.
+.
+.

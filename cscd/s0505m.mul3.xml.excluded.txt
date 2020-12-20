@@ -18,7 +18,7 @@ so imaṃ (sī. pī.),.
 777.
 ,;
 ,siñcitvā (sī.).
-Kāmasuttaṃ paṭhamaṃ niṭṭhitaṃ.
+.
 2. Guhaṭṭhakasuttaṃ
 778.
 ,;
@@ -44,7 +44,7 @@ Kāmasuttaṃ paṭhamaṃ niṭṭhitaṃ.
 785.
 ,;
 ,nāsiṃsatī (sī. syā. pī.).
-Guhaṭṭhakasuttaṃ dutiyaṃ niṭṭhitaṃ.
+.
 3. Duṭṭhaṭṭhakasuttaṃ
 786.
 ,;
@@ -70,7 +70,7 @@ Guhaṭṭhakasuttaṃ dutiyaṃ niṭṭhitaṃ.
 793.
 ,;
 attaṃ nirattaṃ (bahūsu),.
-Duṭṭhaṭṭhakasuttaṃ tatiyaṃ niṭṭhitaṃ.
+.
 4. Suddhaṭṭhakasuttaṃ
 794.
 ,;
@@ -96,7 +96,7 @@ etābhijānaṃ (sī. pī.),.
 801.
 ,ñatvā ca disvā ca (ka. sī. ka.);
 ,.
-Suddhaṭṭhakasuttaṃ catutthaṃ niṭṭhitaṃ.
+.
 5. Paramaṭṭhakasuttaṃ
 802.
 ,;
@@ -122,7 +122,7 @@ viyuttesu (sī. aṭṭha.), dviyattesu (ka.),diṭṭhimapi (ka.).
 809.
 ,;
 ,.
-Paramaṭṭhakasuttaṃ pañcamaṃ niṭṭhitaṃ.
+.
 6. Jarāsuttaṃ
 810.
 ,mīyati (sī. aṭṭha.);
@@ -154,7 +154,7 @@ sokaparidevamaccharaṃ (sī. syā. pī.), sokaṃ paridevamaccharaṃ (?),;
 819.
 ,;
 ,.
-Jarāsuttaṃ chaṭṭhaṃ niṭṭhitaṃ.
+.
 7. Tissametteyyasuttaṃ
 820.
 ‘‘,(iccāyasmā tisso metteyyo);
@@ -186,7 +186,7 @@ sa cāpi (niddese),parikilissati (sī.).
 829.
 ‘‘,;
 ,gathitā (sī.)’’.
-Tissametteyyasuttaṃ sattamaṃ niṭṭhitaṃ.
+.
 8. Pasūrasuttaṃ
 830.
 vidiyanti (sī. pī.),;
@@ -221,7 +221,7 @@ vivādiyanti (sī. pī.),;
 840.
 ,;
 ,.
-Pasūrasuttaṃ aṭṭhamaṃ niṭṭhitaṃ.
+.
 9. Māgaṇḍiyasuttaṃ
 841.
 ‘‘aratiñca rāgaṃ (syā. ka.),;
@@ -277,7 +277,7 @@ elambujaṃ (sī. syā.),;
 853.
 ‘‘,;
 ,ghaṭṭamānā (syā. ka.)’’.
-Māgaṇḍiyasuttaṃ navamaṃ niṭṭhitaṃ.
+.
 10. Purābhedasuttaṃ
 854.
 ‘‘,;
@@ -321,7 +321,7 @@ attaṃ vāpi nirattaṃ vā (bahūsu),.
 867.
 ‘‘,;
 ,’’.
-Purābhedasuttaṃ dasamaṃ niṭṭhitaṃ.
+.
 11. Kalahavivādasuttaṃ
 868.
 ‘‘,;
@@ -377,7 +377,7 @@ no (sī. syā.),
 883.
 ‘‘,;
 ,’’.
-Kalahavivādasuttaṃ ekādasamaṃ niṭṭhitaṃ.
+.
 12. Cūḷabyūhasuttaṃ cūḷaviyūhasuttaṃ (sī. syā. niddesa)
 884.
 ,;
@@ -430,7 +430,7 @@ medhakaṃ āvaheyya (sī. pī.),.
 900.
 ,uddaṃ so (sī. syā. pī.);
 ,.
-Cūḷabyūhasuttaṃ dvādasamaṃ niṭṭhitaṃ.
+.
 13. Mahābyūhasuttaṃ
 901.
 ,vivādiyanti (sī. pī.);
@@ -492,7 +492,7 @@ sammatiyo (syā.),.
 920.
 ,;
 ,.
-Mahābyūhasuttaṃ terasamaṃ niṭṭhitaṃ.
+.
 14. Tuvaṭakasuttaṃ
 921.
 ‘‘ādiccabandhuṃ (sī. syā.),;
@@ -556,7 +556,7 @@ puṭṭho (sī. syā. ka.),.
 940.
 ‘‘,;
 ,’’.
-Tuvaṭakasuttaṃ cuddasamaṃ niṭṭhitaṃ.
+.
 15. Attadaṇḍasuttaṃ
 941.
 ‘‘,;
@@ -619,7 +619,7 @@ sabbaso (syā. ka.),.
 960.
 ‘‘,;
 ,’’.
-Attadaṇḍasuttaṃ pannarasamaṃ niṭṭhitaṃ.
+.
 16. Sāriputtasuttaṃ
 961.
 ‘‘,(iccāyasmā sāriputto)
@@ -689,7 +689,7 @@ Attadaṇḍasuttaṃ pannarasamaṃ niṭṭhitaṃ.
 ‘‘,;
 ,
 ’’.
-Sāriputtasuttaṃ soḷasamaṃ niṭṭhitaṃ. Aṭṭhakavaggo catuttho
+.
 .
 –
 ,;

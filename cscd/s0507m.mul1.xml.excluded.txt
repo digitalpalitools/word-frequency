@@ -64,7 +64,7 @@ uppāsuḷike (ka.),’’.
 115.
 ‘‘,;
 ,’’.
-Saṃsāramocakapetivatthu paṭhamaṃ.
+.
 2. Sāriputtattheramātupetivatthu
 116.
 ‘‘,;
@@ -120,7 +120,7 @@ Saṃsāramocakapetivatthu paṭhamaṃ.
 133.
 ‘‘,;
 ,’’.
-Sāriputtattherassa mātupetivatthu dutiyaṃ.
+.
 3. Mattāpetivatthu
 134.
 ‘‘,;
@@ -228,7 +228,7 @@ adhāresiṃ (ka.),;
 167.
 ‘‘,;
 ,’’.
-Mattāpetivatthu tatiyaṃ.
+.
 4. Nandāpetivatthu
 168.
 ‘‘,;
@@ -286,7 +286,7 @@ Mattāpetivatthu tatiyaṃ.
 185.
 ‘‘,;
 ,’’.
-Nandāpetivatthu catutthaṃ.
+.
 5. Maṭṭhakuṇḍalīpetavatthu
 186.
 vi. va. 1207‘‘,;
@@ -351,7 +351,7 @@ vi. va. 1207‘‘,;
 206.
 ‘‘,;
 ;’’.
-Maṭṭhakuṇḍalīpetavatthu pañcamaṃ.
+.
 6. Kaṇhapetavatthu
 207.
 ‘‘,;
@@ -414,7 +414,7 @@ Maṭṭhakuṇḍalīpetavatthu pañcamaṃ.
 226.
 ,;
 ,.
-Kaṇhapetavatthu chaṭṭhaṃ.
+.
 7. Dhanapālaseṭṭhipetavatthu
 227.
 ‘‘,;
@@ -475,7 +475,7 @@ pamuttatthi (sabbattha) udā. 44 passitabbaṃ,upeccāpi (syā. ka.).
 245.
 ‘‘,;
 ,’’.
-Dhanapālaseṭṭhipetavatthu sattamaṃ.
+.
 8. Cūḷaseṭṭhipetavatthu
 246.
 ‘‘,;
@@ -514,8 +514,8 @@ tāvadeva (syā.), tadeva (ka.),atulañca datvā (syā. ka.);
 256.
 ‘‘,;
 ,’’.
-Cūḷaseṭṭhipetavatthu aṭṭhamaṃ niṭṭhitaṃ.
-Bhāṇavāraṃ paṭhamaṃ niṭṭhitaṃ.
+.
+.
 9. Aṅkurapetavatthu
 257.
 ‘‘,;
@@ -742,7 +742,7 @@ suvidūre (ka.),’’.
 330.
 ,;
 ,.
-Aṅkurapetavatthu navamaṃ.
+.
 10. Uttaramātupetivatthu
 331.
 ,;
@@ -775,7 +775,7 @@ ahū dīghā (ka.),yāva bhūmyā’valambare (?);
 340.
 ‘‘,;
 ,’’.
-Uttaramātupetivatthu dasamaṃ.
+.
 11. Suttapetavatthu
 341.
 ‘‘,;
@@ -800,7 +800,7 @@ Uttaramātupetivatthu dasamaṃ.
 347.
 ‘‘,;
 ,’’.
-Suttapetavatthu ekādasamaṃ.
+.
 12. Kaṇṇamuṇḍapetivatthu
 348.
 ‘‘,;
@@ -865,7 +865,7 @@ kādalimigasañchannā (sī.),.
 367.
 ‘‘,;
 ,’’.
-Kaṇṇamuṇḍapetivatthu dvādasamaṃ.
+.
 13. Ubbaripetavatthu
 368.
 ,;
@@ -926,8 +926,8 @@ Kaṇṇamuṇḍapetivatthu dvādasamaṃ.
 386.
 ,;
 ,.
-Ubbaripetavatthu terasamaṃ.
-Ubbarivaggo dutiyo niṭṭhito.
+.
+.
 –
 paṇḍu (sabbattha)pitā (sī. ka.), patiyā (syā.),;
 ,vihāra (sabbattha)sopāna (sabbattha).

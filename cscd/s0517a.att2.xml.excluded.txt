@@ -187,8 +187,8 @@ Mātikāvaṇṇanā
 ,’’.(mahāni. 156; cūḷani. mogharājamāṇavapucchāniddesa 85; paṭi. ma. 1.208)–
 ..,.
 ....‘‘’’..,,...
-Saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
-Ñāṇakathāmātikuddesavāravaṇṇanā niṭṭhitā.
+-
+.
 1. Sutamayañāṇaniddesavaṇṇanā
 Vissajjanuddesavaṇṇanā
 1..,‘‘’’,?.–,,,,.–
@@ -211,8 +211,8 @@ Vissajjanuddesavaṇṇanā
 -;
 ,.
 .–‘‘’’(dha. pa. 224).‘‘’’(jā. 2.21.433).‘‘,’’(su. ni. 891).‘‘,’’(su. ni. 890; mahāni. 119).‘‘’’(vibha. 216)..
-Niddesavārasaṅgahitassa vissajjanuddesassa
-Atthavaṇṇanā niṭṭhitā.
+
+.
 Abhiññeyyaniddesavaṇṇanā
 2.........‘‘’’(vibha. 1017),...‘‘,,,.?,,,’’(saṃ. ni. 2.11)....,,..–
 ‘‘,,,.,,?‘’.,,,.,,.‘’’’(a. ni. 10.61)..
@@ -373,8 +373,8 @@ Abhiññeyyaniddesavaṇṇanā
 20....,,,,.‘‘’’.‘‘’’.
 ,,.‘‘,.?.’’.,..,,..,,..,.,..,,,,...
 ‘‘,’’,....‘‘,’’.
-Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
-Abhiññeyyaniddesavaṇṇanā niṭṭhitā.
+
+.
 Pariññeyyaniddesavaṇṇanā
 21.,,.‘‘’’‘‘’’..,.,..
 .....,....,.
@@ -410,7 +410,7 @@ Pariññeyyaniddesavaṇṇanā
 ..,‘‘,,’’,,,,,‘‘’’,,,,,,,,,.
 ,...‘‘’’..,..
 22...
-Pariññeyyaniddesavaṇṇanā niṭṭhitā.
+.
 Pahātabbaniddesavaṇṇanā
 23....,.–
 ‘‘?,,,,,,,’’(dha. sa. 1106; vibha. 226).
@@ -433,7 +433,7 @@ Pahātabbaniddesavaṇṇanā
 .......,,,,,,,,,.?‘‘’’(visuddhi. 2.839).
 ,..,,..,..,.‘‘’’(a. ni. 9.11).,...(visuddhi. 2.851),,..
 ,,...…pe……pe…‘‘’’.
-Pahātabbaniddesavaṇṇanā niṭṭhitā.
+.
 Bhāvetabbaniddesavaṇṇanā
 25.(ma. ni. 3.153 ādayo)-....‘‘’’(vibha. 203),.‘‘,,’’(saṃ. ni. 5.832),.‘‘’’(pu. pa. 3-8),.‘‘’’(saṃ. ni. 5.238),.‘‘’’(vibha. 578),...,,,.
 ....,.,,.,.,,,..,.,.,..–‘‘,,’’(dī. ni. 3.305)..
@@ -455,7 +455,7 @@ Bhāvetabbaniddesavaṇṇanā
 ......,........‘‘’’(saṃ. ni. 2.20)‘‘’’....
 ..,...(paṭi. ma. aṭṭha. 2.1.118),...,,.,....
 .‘‘’’.‘‘’’‘‘’’.,..,...
-Bhāvetabbaniddesavaṇṇanā niṭṭhitā.
+.
 Sacchikātabbaniddesavaṇṇanā
 29...,..,‘‘’’(dī. ni. aṭṭha. 3.304).,..,.,.,.,.,,,.,...
 ,,,,.......,..,..,.‘‘’’..?,,,,,.
@@ -470,14 +470,14 @@ Sacchikātabbaniddesavaṇṇanā
 .,,..‘‘?,,,,,,,,,’’(dī. ni. 3.348, 360)...(dī. ni. aṭṭha. 3.348)–
 ‘‘..’’.
 ,,.,...‘‘’’.,,.
-Sacchikātabbaniddesavaṇṇanā niṭṭhitā.
+.
 Hānabhāgiyacatukkaniddesavaṇṇanā
 30.,....,.,....,,...?,.,.,........‘‘’’(mahāva. 23; saṃ. ni. 3.61)...‘‘’’,‘‘’’.
 ....,-...,,,.
-Hānabhāgiyacatukkaniddesavaṇṇanā niṭṭhitā.
+.
 Lakkhaṇattikaniddesavaṇṇanā
 31.,..‘‘,,,’’..,(saṃ. ni. 3.78).‘‘’’.‘‘’’.,,.‘‘,,,’’(mahāva. 20).‘‘’’.
-Lakkhaṇattikaniddesavaṇṇanā niṭṭhitā.
+.
 Dukkhasaccaniddesavaṇṇanā
 32-33.
 .....–
@@ -589,11 +589,11 @@ Dukkhasaccaniddesavaṇṇanā
 ..,.,.,..‘‘’’,..,.,.,...
 ....‘‘,’’,,...
 ,...
-Dukkhasaccaniddesavaṇṇanā niṭṭhitā.
+.
 Samudayasaccaniddesavaṇṇanā
 34..,.,,.,,..,...,.,.,.,.,.....
 ...,..,,,,,,,,‘‘’’,.,.‘‘,’’.,.
-Samudayasaccaniddesavaṇṇanā niṭṭhitā.
+.
 Nirodhasaccaniddesavaṇṇanā
 35.
 ‘‘’’,.–
@@ -602,7 +602,7 @@ Nirodhasaccaniddesavaṇṇanā
 .,,.,,.‘‘’’..
 ‘‘’’,.,‘‘’’(ma. ni. 1.245; saṃ. ni. 3.12; mahāva. 23).,.,...,‘‘’’.,,.,.–.
 ,.,,,...,,,..‘‘,’’..,.
-Nirodhasaccaniddesavaṇṇanā niṭṭhitā.
+.
 Maggasaccaniddesavaṇṇanā
 36.
 (vibha. aṭṭha. 205).,,..,,.
@@ -723,7 +723,7 @@ Maggasaccaniddesavaṇṇanā
 ,...
 ,,...,,,,,,,,...
 ,...,,,,..
-Maggasaccaniddesavaṇṇanā niṭṭhitā.
+.
 Saccapakiṇṇakavaṇṇanā
 ,,,,..
 ?.,.–
@@ -753,10 +753,10 @@ Saccapakiṇṇakavaṇṇanā
 ,.,...
 ‘‘,;
 ,’’.
-Saccapakiṇṇakavaṇṇanā niṭṭhitā.
+.
 ‘‘’’.‘‘’’.
-Saddhammappakāsiniyā paṭisambhidāmaggaṭṭhakathāya
-Sutamayañāṇaniddesavaṇṇanā niṭṭhitā.
+
+.
 2. Sīlamayañāṇaniddesavaṇṇanā
 37....,,.‘‘’’(saṃ. ni. 3.78; a. ni. 4.33).,,.,,.....,..
 ,,.,,...?,..?,,..,.
@@ -869,7 +869,7 @@ Sutamayañāṇaniddesavaṇṇanā niṭṭhitā.
 ..,.......
 .‘‘,’’,..,,..,.,...,‘‘’’‘‘,’’,.,..
 ,,,..,,..
-Akusalakammapathakathā niṭṭhitā.
+.
 ,.,,.,.‘‘’’..,‘‘’’.
 ,,,,.
 ,.
@@ -877,7 +877,7 @@ Akusalakammapathakathā niṭṭhitā.
 ..,.
 ..
 .......
-Kusalakammapathakathā niṭṭhitā.
+.
 41.
 ,.,.,...
 .,,,,..,,..
@@ -888,7 +888,7 @@ Kusalakammapathakathā niṭṭhitā.
 .–,‘‘’’,,,,,....
 42.
 ,,.‘‘’’...
-Sīlamayañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 3. Samādhibhāvanāmayañāṇaniddesavaṇṇanā
 43..,.,‘‘’’.,.,...,....,,.............
 ‘‘,’’...
@@ -909,7 +909,7 @@ Sīlamayañāṇaniddesavaṇṇanā niṭṭhitā.
 .,,,.,,,.
 .,..,,..,.,.,.,,.,.‘‘(dī. ni. 1.159),,’’(saṃ. ni. 4.255-256).,....‘‘’’...,.
 .,..,...‘‘,,,’’(ma. ni. 2.88)‘‘,’’...,.
-Samādhibhāvanāmayañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 4. Dhammaṭṭhitiñāṇaniddesavaṇṇanā
 45..?...,,.,..,,,.,,.,.,..,.,,.,,,.,..
 ,.‘‘’’....,....
@@ -932,7 +932,7 @@ Samādhibhāvanāmayañāṇaniddesavaṇṇanā niṭṭhitā.
 ‘‘,,,,,,,,‘’.,,,,,…pe…,,.…pe…‘’.,,.,,.,,’’(saṃ. ni. 2.20)–
 .,,.
 ,.,..,,‘‘’’.,............‘‘’’.,,,.–,,..
-Dhammaṭṭhitiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 5. Sammasanañāṇaniddesavaṇṇanā
 48.......,.,,.,,.,,,,.,,.,,.,,.,,..
 ,.....,.,.,.,.,.,.
@@ -956,7 +956,7 @@ Dhammaṭṭhitiñāṇaniddesavaṇṇanā niṭṭhitā.
 ,,,.
 ,...
 ,..,.,.,‘‘,’’.
-Sammasanañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 6. Udayabbayañāṇaniddesavaṇṇanā
 49..,,,..…pe….‘‘,,,.,,,,,,,’’.
 50.,,,.
@@ -970,7 +970,7 @@ Sammasanañāṇaniddesavaṇṇanā niṭṭhitā.
 .,...,,.
 ‘‘,’’.,.‘‘,’’,‘‘’’.,‘‘’’,.‘‘,’’..
 .?,,,,,,..
-Udayabbayañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 7. Bhaṅgānupassanāñāṇaniddesavaṇṇanā
 51.‘‘’’.,,.....,.,.–‘‘’’..
 ,.,.,,.,,,.,.,.,.‘‘’’,.,.,,.,,.,,.,.?,.,.,.,.
@@ -987,7 +987,7 @@ Udayabbayañāṇaniddesavaṇṇanā niṭṭhitā.
 ‘‘’’.–,,,,,,,.–
 ‘‘,;
 ,’’.
-Bhaṅgānupassanāñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 8. Ādīnavañāṇaniddesavaṇṇanā
 53........‘‘’’(dha. sa. 1289)..,....,.,.‘‘’’,‘‘’’,.–
 ‘‘,;
@@ -996,7 +996,7 @@ Bhaṅgānupassanāñāṇaniddesavaṇṇanā niṭṭhitā.
 ...
 ..,,..,.‘‘’’.
 ,.,.,.,...,,,‘‘,’’(dha. pa. 189).‘‘,’’(dha. sa. dukamātikā 7-8),‘‘,’’..,...
-Ādīnavañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 9. Saṅkhārupekkhāñāṇaniddesavaṇṇanā
 54...,.,.,..
 55....,..–
@@ -1021,7 +1021,7 @@ Bhaṅgānupassanāñāṇaniddesavaṇṇanā niṭṭhitā.
 ,?.,,,.,,..‘‘.’’(paṭṭhā. 1.1.417).,..–
 ‘‘,;
 ,’’.
-Ayamettha phalasamāpattikathā.
+.
 .,,.–
 ‘‘,.,.,’’(paṭi. ma. 1.78).
 ,.,..
@@ -1033,12 +1033,12 @@ Ayamettha phalasamāpattikathā.
 ,..?..
 58..,.,...
 .,.‘‘’’(saṃ. ni. 1.23, 192),‘‘,,’’(saṃ. ni. 5.372).,....‘‘’’‘‘’’..,......
-Saṅkhārupekkhāñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 10. Gotrabhuñāṇaniddesavaṇṇanā
 59...,.....,‘‘’’,‘‘’’..–,,,.‘‘,’’.–‘‘’’(visuddhi. 2.863)...
 ‘‘,’’...‘‘’’.‘‘,’’..
 60..?......‘‘’’,............,..,..
-Gotrabhuñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 11. Maggañāṇaniddesavaṇṇanā
 61.....,.,..,,..,.
 ..,...‘‘’’,....
@@ -1048,34 +1048,34 @@ Gotrabhuñāṇaniddesavaṇṇanā niṭṭhitā.
 .-.,..,.-.-,-.,,,.,,..
 ,.,,.,.,,.
 ,.‘‘,,,’’(paṭi. ma. 1.209 ādayo)...,,,....,‘‘’’‘‘’’,‘‘’’...,,‘‘’’.‘‘’’‘‘’’,‘‘’’.
-Maggañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 12. Phalañāṇaniddesavaṇṇanā
 63..,.,,,...
-Phalañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 13. Vimuttiñāṇaniddesavaṇṇanā
 64.,.,....‘‘’’.,.,..,......
-Vimuttiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 14. Paccavekkhaṇañāṇaniddesavaṇṇanā
 65.‘‘’’.,....,.
 .,‘‘’’,.‘‘’’.‘‘’’(dī. ni. 1.248)‘‘,,,’’.....,......,.,.,.,.,.
 ...‘‘’’.....‘‘’’......-.
-Paccavekkhaṇañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 15. Vatthunānattañāṇaniddesavaṇṇanā
 66..,.,,..,.,.,....,.,‘‘,,’’(theragā. 1052).,.,.......
-Vatthunānattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 16. Gocaranānattañāṇaniddesavaṇṇanā
 67.....‘‘’’.,,.,..,..‘‘’’.–
 ‘‘,;
 ,’’.(dha. pa. 277)–
 .–‘‘,,,’’(visuddhi. 2.784).,.
-Gocaranānattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 17. Cariyānānattañāṇaniddesavaṇṇanā
 68.,.,,,.,,,,..,,.,,,...,.......,..‘‘’’(paṭi. ma. 1.70)..
 69.,,.........,...‘‘’’,...,....,..,.?,..‘‘’’,....
 ,,..,....,.....,........
 70.,...........,,...
 71.,.,.,.,...,,.,,,...
-Cariyānānattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 18. Bhūminānattañāṇaniddesavaṇṇanā
 72...,.,.,.,,.,‘‘’’,‘‘’’.,‘‘’’..,‘‘’’‘‘’’,‘‘’’,..,‘‘,’’,,...,.,.,.
 ..,.......,.,,,.,.,,.
@@ -1085,7 +1085,7 @@ Cariyānānattañāṇaniddesavaṇṇanā niṭṭhitā.
 –....,.,,‘‘,,’’.‘‘’’.
 ,,,,.‘‘,,’’(a. ni. 3.15).‘‘’’(jā. 1.13.68).‘‘’’(su. ni. 562).‘‘’’(saṃ. ni. 1.29).‘‘,,,.?,,,’’(a. ni. 4.31)..,...,...,,,.
 .?,,,.....,,,..
-Bhūminānattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 19. Dhammanānattañāṇaniddesavaṇṇanā
 73.,.,,.,,.,...,.,...
 .,,..,...,.‘‘’’(paṭṭhā. 1.1.406, 409),....
@@ -1095,32 +1095,32 @@ Bhūminānattañāṇaniddesavaṇṇanā niṭṭhitā.
 ..,.-.......,...,..,........‘‘’’,‘‘’’.,.‘‘’’..
 74......‘‘’’..
 .........
-Dhammanānattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 20-24. Ñāṇapañcakaniddesavaṇṇanā
 75....,,.......,...,.
-Ñāṇapañcakaniddesavaṇṇanā niṭṭhitā.
+.
 25-28. Paṭisambhidāñāṇaniddesavaṇṇanā
 76.,...‘‘’’.......,‘‘,,’’(saṃ. ni. 3.79),.
 –,,,.‘‘’’.‘‘,,‘’’’(dī. ni. 3.131).‘‘’’.‘‘’’.–
 ‘‘,;
 ,’’.
 ‘‘’’,.,.,,.,,,,,.,.‘‘’’..
-Paṭisambhidāñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 29-31. Ñāṇattayaniddesavaṇṇanā
 78......,,.........,.,.....
 79...‘‘’’...,,...
-Ñāṇattayaniddesavaṇṇanā niṭṭhitā.
+.
 32. Ānantarikasamādhiñāṇaniddesavaṇṇanā
 80..,,........
 ....‘‘’’‘‘’’,..,,..
 .,,,.
 .‘‘’’(ma. ni. 1.74; a. ni. 3.71; 9.27),..‘‘’’..‘‘’’...........,.‘‘’’‘‘’’......
 81...‘‘’’(dī. ni. 2.374; ma. ni. 1.107; 3.148)....‘‘’’..............,..
-Ānantarikasamādhiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 33. Araṇavihārañāṇaniddesavaṇṇanā
 82........‘‘’’.
 ...?.,‘‘’’..‘‘,,,,,,,,’’.
-Araṇavihārañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 34. Nirodhasamāpattiñāṇaniddesavaṇṇanā
 83.,.‘‘’’,..,..,.
 ,.,.....,....,,....
@@ -1147,28 +1147,28 @@ Araṇavihārañāṇaniddesavaṇṇanā niṭṭhitā.
 ‘‘’’‘‘’’‘‘’’‘‘’’.?.,,.
 ‘‘,;
 ’’.
-Nirodhasamāpattiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 35. Parinibbānañāṇaniddesavaṇṇanā
 86..,,,..,,..,....‘‘’’,.,........
-Parinibbānañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 36. Samasīsaṭṭhañāṇaniddesavaṇṇanā
 87...,,.....,....,,,.
 ...,.,.,...............,...,.,,,,.
-Samasīsaṭṭhañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 37. Sallekhaṭṭhañāṇaniddesavaṇṇanā
 88.,.....,,..,.,.,.,.,‘‘’’.,.,.,......
 ...,....,..‘‘’’‘‘’’.‘‘’’....
 .?.............,‘‘,,’’(a. ni. 4.233; dī. ni. 3.312; ma. ni. 2.18)....‘‘,’’,.,,..
 .‘‘’’..
-Sallekhaṭṭhañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 38. Vīriyārambhañāṇaniddesavaṇṇanā
 89.,.,...............
 ,..,,.
 .‘‘’’.‘‘,’’(vibha. aṭṭha. 406).‘‘’’.
-Vīriyārambhañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 39. Atthasandassanañāṇaniddesavaṇṇanā
 90..,..?..,...‘‘’’..
-Atthasandassanañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 40. Dassanavisuddhiñāṇaniddesavaṇṇanā
 91..,..,...,.‘‘,,’’(saṃ. ni. 4.46)..‘‘,,’’....‘‘’’,....‘‘,,’’.–
 ‘‘,;
@@ -1177,10 +1177,10 @@ Atthasandassanañāṇaniddesavaṇṇanā niṭṭhitā.
 ......,‘‘’’.
 ..,,,.,,,,,,,,,.?.,.,.,.,.
 ...
-Dassanavisuddhiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 41-42. Khantiñāṇapariyogāhaṇañāṇaniddesavaṇṇanā
 92-93....,,.‘‘,,’’.‘‘’’....
-Khantiñāṇapariyogāhaṇañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 43. Padesavihārañāṇaniddesavaṇṇanā
 94.,..,.,,,,,,..,...,,,,.
 ,,‘‘’’.‘‘’’.
@@ -1188,7 +1188,7 @@ Khantiñāṇapariyogāhaṇañāṇaniddesavaṇṇanā niṭṭhitā.
 ,,‘‘’’..‘‘’’,........
 ,......
 .,....,...,...,..‘‘,.,.,’’........‘‘.’’.
-Padesavihārañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 44-49. Vivaṭṭañāṇachakkaniddesavaṇṇanā
 95..,,..
 96......
@@ -1197,7 +1197,7 @@ Padesavihārañāṇaniddesavaṇṇanā niṭṭhitā.
 99.....,,.
 100....,.,.,.,.,.,..
 ..?..‘‘’’.‘‘,.,’’...‘‘’’,‘‘,.’’,‘‘’’,‘‘’’.‘‘’’,.‘‘,’’.
-Vivaṭṭañāṇachakkaniddesavaṇṇanā niṭṭhitā.
+.
 50. Iddhividhañāṇaniddesavaṇṇanā
 101..,,.,...,.‘‘…pe…’’(vibha. 434).‘‘…pe…’’(vibha. 447).‘‘’’?...,.,.,,,.
 .?,..‘‘‘’(vibha. 434),’’...
@@ -1211,17 +1211,17 @@ Vivaṭṭañāṇachakkaniddesavaṇṇanā niṭṭhitā.
 ,,.‘‘’’...,,.,,,.,..,..
 .,..,.,,,‘‘’’...?,,.?‘‘’’..,,.
 ,,,.,..,.,.,‘‘’’.,.?.,,,,,.,...,,...
-Iddhividhañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 51. Sotadhātuvisuddhiñāṇaniddesavaṇṇanā
 103....‘‘’’...,...‘‘,,,’’.
 .,.,.,.,.,.‘‘’’,-,..,‘‘,’’..,..
 ...,,,.....?,..,,..
-Sotadhātuvisuddhiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 52. Cetopariyañāṇaniddesavaṇṇanā
 104...?.,..,,...‘‘,,’’..–
 ‘‘,?.,.’’(visuddhi. 2.401).
 .,..-.,.,..,....‘‘’’..,.,.,.,.,..,,.
-Cetopariyañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 53. Pubbenivāsānussatiñāṇaniddesavaṇṇanā
 105..,,,...‘‘,’’.?.?.....,,......,..
 .,.,..,..-.........,..,.,...
@@ -1306,7 +1306,7 @@ Cetopariyañāṇaniddesavaṇṇanā niṭṭhitā.
 ?..,.‘‘,’’..,.,...
 ...?.....,.‘‘…pe…’’.....
 ...(visuddhi. 2.410),,....,.,.,.
-Pubbenivāsānussatiñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 54. Dibbacakkhuñāṇaniddesavaṇṇanā
 106..‘‘’’..,.,.......‘‘’’,,.,,.,...,,...‘‘’’,..,,.,.
 –.‘‘’’‘‘’’..‘‘’’,....
@@ -1318,29 +1318,29 @@ Pubbenivāsānussatiñāṇaniddesavaṇṇanā niṭṭhitā.
 .....,.,.,..
 .,..,....,..
 –,....‘‘’’..
-Dibbacakkhuñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 Pañcañāṇapakiṇṇakaṃ
 ...
 ....
-Pañcañāṇapakiṇṇakaṃ niṭṭhitaṃ.
+.
 55. Āsavakkhayañāṇaniddesavaṇṇanā
 107.......‘‘’’(paṭi. ma. 1.12),‘‘’’....(vibha. 219).....,.,..
 .,.,....,...
 ............
 .‘‘’’‘‘’’‘‘’’......‘‘’’..
-Āsavakkhayañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 56-63. Saccañāṇacatukkadvayaniddesavaṇṇanā
 108-9.....,...–‘‘,,,,,’’(saṃ. ni. 5.1100)..‘‘’’...
 ,.,....,.........,,.....,.,..,..
 ,.?‘‘’’..........‘‘,,.?,,,.,,.,,’’.‘‘,,.,,’’(a. ni. 4.144-145)..,,..
 ,..?.‘‘,,’’..‘‘,,’’.
-Saccañāṇacatukkadvayaniddesavaṇṇanā niṭṭhitā.
+.
 64-67. Suddhikapaṭisambhidāñāṇaniddesavaṇṇanā
 110............‘‘’’.‘‘’’,‘‘’’,‘‘’’,‘‘’’.
-Suddhikapaṭisambhidāñāṇaniddesavaṇṇanā niṭṭhitā.
-Iti saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
-Paṭhamo bhāgo niṭṭhito.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+-
+.
+
 Khuddakanikāye
 Paṭisambhidāmagga-aṭṭhakathā
 (Dutiyo bhāgo)
@@ -1349,7 +1349,7 @@ Paṭisambhidāmagga-aṭṭhakathā
 .......,......,,........,.,.......,,.‘‘’’.
 112.‘‘’’....,,,..,,..,,,..,,..
 ....,....,,,..,.......
-Indriyaparopariyattañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 69. Āsayānusayañāṇaniddesavaṇṇanā
 113........,.,..
 ...,.‘‘’’......,...,.‘‘’’.‘‘’’.‘‘’’.,.‘‘’’..‘‘,’’.
@@ -1365,12 +1365,12 @@ Indriyaparopariyattañāṇaniddesavaṇṇanā niṭṭhitā.
 .....,.
 115.......,,,.,,,.,.,..,,,?.
 ........,,....,..,,,..
-Āsayānusayañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 70. Yamakapāṭihīrañāṇaniddesavaṇṇanā
 116.,..‘‘’’‘‘’’...‘‘’’‘‘’’...,....,...,...,.,.‘‘.,,’’...
 ?‘‘’’..‘‘’’.......,.,.,.,.,.,.,.
 ‘‘’’..,‘‘’’?....,...,,‘‘,’’........
-Yamakapāṭihīrañāṇaniddesavaṇṇanā niṭṭhitā.
+.
 71. Mahākaruṇāñāṇaniddesavaṇṇanā
 117.....‘‘,’’(saṃ. ni. 3.15)‘‘’’...‘‘’’.,,...,....‘‘’’.
 .‘‘’’(saṃ. ni. 2.2).,.,...,.,.,.....,...‘‘’’(ma. ni. 3.289),‘‘’’(ma. ni. 2.305),?‘‘’’,.‘‘’’.‘‘’’(ma. ni. 2.306)........,...,.
@@ -1441,7 +1441,7 @@ Yamakapāṭihīrañāṇaniddesavaṇṇanā niṭṭhitā.
 ....(vibha. 973).–,,,,,.,,.,.
 ‘‘?,,,,,,,,,’’(vibha. 977)..
 ,........-‘‘’’.
-Mahākaruṇāñāṇaniddesavaṇṇanā niṭṭhitā.
+.
 72-73. Sabbaññutaññāṇaniddesavaṇṇanā
 119..,.,,..‘‘..,,,.,’’.
 ...,.....,........
@@ -1452,6 +1452,6 @@ Mahākaruṇāñāṇaniddesavaṇṇanā niṭṭhitā.
 ..,,.....–‘‘’’(dha. sa. 619),.‘‘,’’,‘‘’’(dha. sa. 624-627),‘‘,’’(dha. sa. 628-631),‘‘,’’(dha. sa. 647-650),.,.,.,..
 121..,...-......,..-.,.-..,..
 .,...–‘‘’’(cūḷani. dhotakamāṇavapucchāniddesa 32)...,....,.,.,.,...........‘‘,,’’‘‘…pe…,,’’...
-Sabbaññutaññāṇaniddesavaṇṇanā niṭṭhitā.
-Saddhammappakāsiniyā paṭisambhidāmagga-aṭṭhakathāya
-Ñāṇakathāvaṇṇanā niṭṭhitā.
+.
+-
+.

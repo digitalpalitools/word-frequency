@@ -42,7 +42,7 @@
 ,,,.
 ,,,..
 ‘’..–‘‘,,’’(saṃ. ni. 4.252).....
-Uddesavāravaṇṇanā niṭṭhitā.
+.
 Avijjāpadaniddeso
 226..‘‘’’..‘,’.?.
 ,,‘‘’’.,,..
@@ -53,7 +53,7 @@ Avijjāpadaniddeso
 ...........,.,.,...
 ,,,;,,,;,,,;,,,.,.,.,.,.
 ...,..,,;,..
-Avijjāpadaniddeso.
+.
 Saṅkhārapadaniddeso
 ?.,,......,.,,..
 .‘‘,.,.,’’(saṃ. ni. 2.51).,(ma. ni. 1.102).‘‘,,.?,,’’(saṃ. ni. 2.2).?,...
@@ -107,7 +107,7 @@ Saṅkhārapadaniddeso
 ,;
 ,.
 .
-Avijjāpaccayā saṅkhārapadaniddeso.
+.
 Viññāṇapadaniddeso
 227...,,,,...
 –‘’?.,.,;–‘’.
@@ -207,7 +207,7 @@ Viññāṇapadaniddeso
 .–
 ,;
 ,.
-Saṅkhārapaccayā viññāṇapadaniddeso.
+.
 Nāmarūpapadaniddeso
 228.–
 -;
@@ -238,7 +238,7 @@ Nāmarūpapadaniddeso
 ,.
 ..(paṭṭhā. 1.1.53, 419)..
 ‘‘’’,,;.
-Viññāṇapaccayā nāmarūpapadaniddeso.
+.
 Saḷāyatanapadaniddeso
 229.–
 ,;
@@ -273,7 +273,7 @@ Saḷāyatanapadaniddeso
 ,;
 ,.
 –..
-Nāmarūpapaccayā saḷāyatanapadaniddeso.
+.
 Phassapadaniddeso
 230.–
 ,;
@@ -289,7 +289,7 @@ Phassapadaniddeso
 ,;
 ,.
 –.....
-Saḷāyatanapaccayā phassapadaniddeso.
+.
 Vedanāpadaniddeso
 231.–
 ,;
@@ -301,7 +301,7 @@ Vedanāpadaniddeso
 ,.
 ..
 ‘’,.,.
-Phassapaccayā vedanāpadaniddeso.
+.
 Taṇhāpadaniddeso
 232.–
 ,;
@@ -318,7 +318,7 @@ Taṇhāpadaniddeso
 ,.
 ,;
 ,.
-Vedanāpaccayā taṇhāpadaniddeso.
+.
 Upādānapadaniddeso
 233.–
 ,;
@@ -332,7 +332,7 @@ Upādānapadaniddeso
 ,;
 ,.
 ...
-Taṇhāpaccayā upādānapadaniddeso.
+.
 Bhavapadaniddeso
 234.–
 ,;
@@ -353,12 +353,12 @@ Bhavapadaniddeso
 ,;
 ,.
 ...
-Upādānapaccayā bhavapadaniddeso.
+.
 Jātijarāmaraṇādipadaniddeso
 235...,..
 –‘‘’’?..,;,..–‘‘’’(ma. ni. 3.289).–‘‘’’.
 ,,,..
-Bhavapaccayā jātiādipadaniddeso.
+.
 242...
 ,‘‘’’,–
 ,;
@@ -424,7 +424,7 @@ Bhavapaccayā jātiādipadaniddeso.
 –‘‘,,.,,’’(dī. ni. 2.95; saṃ. ni. 2.60).–
 -;
 -.
-Suttantabhājanīyavaṇṇanā.
+.
 2. Abhidhammabhājanīyavaṇṇanā
 243.,,.–
 ,;
@@ -464,11 +464,11 @@ Suttantabhājanīyavaṇṇanā.
 245.‘‘’’..,‘‘’’,.
 4. Aññamaññacatukkaṃ
 246.‘‘’’..,,,,‘‘’’;.,,,‘‘’’.
-Avijjāmūlakanayamātikā.
+.
 Saṅkhārādimūlakanayamātikā
 247.....‘‘’’‘‘’’.
 ??.‘‘’’...‘‘’’‘‘’’.....
-Mātikāvaṇṇanā.
+.
 Akusalaniddesavaṇṇanā
 248-249.,‘‘’’.(dha. sa. aṭṭha. 365).,,.
 ,‘‘’’...,‘‘,,,,’’.
@@ -481,21 +481,21 @@ Akusalaniddesavaṇṇanā
 ,..,,.
 280..,.,..,..,...,..
 ...,..,,.
-Akusalaniddesavaṇṇanā.
+.
 Kusalaniddesavaṇṇanā
 292..,.?.‘‘’’,‘‘’’..
 ,,,,,..
-Kusalaniddesavaṇṇanā.
+.
 Abyākataniddesavaṇṇanā
 306...?.,.,..
 .?...,,.
 ...,.,.,......
-Abyākataniddesavaṇṇanā.
+.
 Avijjāmūlakakusalaniddesavaṇṇanā
 334...‘‘’’‘‘’’.,.
 .,.,.;..
 –,.?....
-Avijjāmūlakakusalaniddesavaṇṇanā.
+.
 Kusalamūlakavipākaniddesavaṇṇanā
 343...,;..‘‘’’‘‘’’..
 ...,.
@@ -509,6 +509,6 @@ Kusalamūlakavipākaniddesavaṇṇanā
 -;
 ,.
 .
-Abhidhammabhājanīyavaṇṇanā.
-Sammohavinodaniyā vibhaṅgaṭṭhakathāya
-Paṭiccasamuppādavibhaṅgavaṇṇanā niṭṭhitā.
+.
+
+.

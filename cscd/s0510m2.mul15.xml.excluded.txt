@@ -61,7 +61,7 @@
 21.
 ‘‘…pe…’’.
 .
-Ekūposathikātheriyāpadānaṃ paṭhamaṃ.
+.
 2. Saḷalapupphikātherīapadānaṃ
 22.
 ‘‘,;
@@ -85,7 +85,7 @@ Ekūposathikātheriyāpadānaṃ paṭhamaṃ.
 29.
 ‘‘…pe…’’.
 .
-Saḷalapupphikātheriyāpadānaṃ dutiyaṃ.
+.
 3. Modakadāyikātherīapadānaṃ
 30.
 ‘‘,;
@@ -106,7 +106,7 @@ ekūnatiṃsakappāni (syā.),.
 36.
 ‘‘…pe…’’.
 .
-Modakadāyikātheriyāpadānaṃ tatiyaṃ.
+.
 4. Ekāsanadāyikātherīapadānaṃ
 37.
 ‘‘,mālikā (syā. pī.);
@@ -178,7 +178,7 @@ uccākulikā (syā. pī. ka.),.
 60.
 ‘‘…pe…’’.
 .
-Ekāsanadāyikātheriyāpadānaṃ catutthaṃ.
+.
 5. Pañcadīpadāyikātherīapadānaṃ
 61.
 ‘‘,cārikā (sī. syā.);
@@ -253,7 +253,7 @@ Ekāsanadāyikātheriyāpadānaṃ catutthaṃ.
 85.
 ‘‘…pe…’’.
 .
-Pañcadīpadāyikātheriyāpadānaṃ pañcamaṃ.
+.
 6. Naḷamālikātherīapadānaṃ
 86.
 ‘‘,;
@@ -286,7 +286,7 @@ sucitattāva (pī.),.
 96.
 ‘‘…pe…’’.
 .
-Naḷamālikātheriyāpadānaṃ chaṭṭhaṃ.
+.
 7. Mahāpajāpatigotamītherīapadānaṃ
 97.
 ‘‘,;
@@ -360,7 +360,7 @@ yuttaṃ (sī. syā. pī.),’.
 120.
 ‘‘‘,;
 ,.
-Paṭhamaṃ bhāṇavāraṃ.
+.
 121.
 ‘‘‘,;
 ,.
@@ -863,7 +863,7 @@ ogatākāsadhūmāva (pī.),.
 ‘‘‘,;
 ,’’’.
 .
-Mahāpajāpatigotamītheriyāpadānaṃ sattamaṃ.
+.
 8. Khemātherīapadānaṃ
 289.
 ‘‘,;
@@ -1111,7 +1111,7 @@ kanumajjhāva sussoṇī (sī.), vedimajjhā varasoṇī (syā. pī.),.
 370.
 ‘‘‘rājā (syā.),;
 ,’munibhāṇinā (syā. pī.).
-Dutiyaṃ bhāṇavāraṃ.
+.
 371.
 ‘‘,;
 ‘,’.
@@ -1149,7 +1149,7 @@ Dutiyaṃ bhāṇavāraṃ.
 383.
 ‘‘…pe…’’.
 .
-Khemātheriyāpadānaṃ aṭṭhamaṃ.
+.
 9. Uppalavaṇṇātherīapadānaṃ
 384.
 ‘‘,;
@@ -1401,7 +1401,7 @@ na catthi te dutiyā vaṇṇadhātu (sī. pī. ka.),’.
 467.
 ‘‘…pe…’’.
 .
-Uppalavaṇṇātheriyāpadānaṃ navamaṃ.
+.
 10. Paṭācārātherīapadānaṃ
 468.
 ‘‘,;
@@ -1533,8 +1533,8 @@ gacchantīhaṃ (syā.), gamentīhaṃ (ka.),.
 511.
 ‘‘…pe…’’.
 .
-Paṭācārātheriyāpadānaṃ dasamaṃ.
-Ekūposathikavaggo dutiyo.
+.
+.
 –
 ,;
 ,.

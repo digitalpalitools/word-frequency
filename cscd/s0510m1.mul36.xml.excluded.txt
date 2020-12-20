@@ -13,7 +13,7 @@
 ‘‘,;
 ,’’.
 .
-Mandāravapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Kakkārupupphiyattheraapadānaṃ
 5.
 ‘‘,;
@@ -24,7 +24,7 @@ gokkhanumālaṃ (sī.),.
 7.
 ‘‘…pe…’’.
 gokkhanupupphiyo (ka.).
-Kakkārupupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Bhisamuḷāladāyakattheraapadānaṃ
 8.
 ‘‘,;
@@ -38,7 +38,7 @@ sappañño (sī. syā.),.
 11.
 ‘‘…pe…’’.
 .
-Bhisamuḷāladāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Kesarapupphiyattheraapadānaṃ
 12.
 ‘‘,;
@@ -52,7 +52,7 @@ Bhisamuḷāladāyakattherassāpadānaṃ tatiyaṃ.
 15.
 ‘‘…pe…’’.
 .
-Kesarapupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Aṅkolapupphiyattheraapadānaṃ
 16.
 ‘‘,;
@@ -66,7 +66,7 @@ Kesarapupphiyattherassāpadānaṃ catutthaṃ.
 19.
 ‘‘…pe…’’.
 .
-Aṅkolapupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Kadambapupphiyattheraapadānaṃ
 20.
 ‘‘,;
@@ -80,7 +80,7 @@ Aṅkolapupphiyattherassāpadānaṃ pañcamaṃ.
 23.
 ‘‘…pe…’’.
 .
-Kadambapupphiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Uddālakapupphiyattheraapadānaṃ
 24.
 ‘‘sujāto (syā.), anumo (ka.),;
@@ -91,7 +91,7 @@ Kadambapupphiyattherassāpadānaṃ chaṭṭhaṃ.
 26.
 ‘‘…pe…’’.
 .
-Uddālakapupphiyattherassāpadānaṃ sattamaṃ.
+.
 8. Ekacampakapupphiyattheraapadānaṃ
 27.
 ‘‘,;
@@ -105,7 +105,7 @@ Uddālakapupphiyattherassāpadānaṃ sattamaṃ.
 30.
 ‘‘…pe…’’.
 .
-Ekacampakapupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Timirapupphiyattheraapadānaṃ
 31.
 ‘‘,;
@@ -119,7 +119,7 @@ Ekacampakapupphiyattherassāpadānaṃ aṭṭhamaṃ.
 34.
 ‘‘…pe…’’.
 .
-Timirapupphiyattherassāpadānaṃ navamaṃ.
+.
 10. Saḷalapupphiyattheraapadānaṃ
 35.
 ‘‘,;
@@ -139,8 +139,8 @@ Timirapupphiyattherassāpadānaṃ navamaṃ.
 40.
 ‘‘…pe…’’.
 .
-Saḷalapupphiyattherassāpadānaṃ dasamaṃ.
-Mandāravapupphiyavaggo sattatiṃsatimo.
+.
+.
 –
 ,;
 ,;

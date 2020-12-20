@@ -54,7 +54,7 @@ nevadassanena  nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya
 
 
  hetuyā sattarasa ārammaṇe ekādasa adhipatiyā nava anantare ekādasa samanantare ekādasa sahajāte sattarasa aññamaññe ekādasa nissaye sattarasa upanissaye ekādasa purejāte ekādasa āsevane ekādasa kamme sattarasa vipāke ekaṃ āhāre sattarasa indriye sattarasa jhāne sattarasa magge sattarasa sampayutte ekādasa vippayutte sattarasa atthiyā sattarasa natthiyā ekādasa vigate ekādasa avigate sattarasa 
-
+anulomaṃ
 
 
 
@@ -108,14 +108,14 @@ bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañc
 
 
  nahetuyā  tīṇi naārammaṇe pañca naadhipatiyā sattarasa naanantare pañca nasamanantare pañca naaññamaññe pañca naupanissaye pañca napurejāte terasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte pañca navippayutte ekādasa nonatthiyā pañca novigate pañca 
-
+paccanīyaṃ
 
  hetupaccayā  naārammaṇe pañca naadhipatiyā sattarasa naanantare pañca nasamanantare pañca naaññamaññe pañca naupanissaye pañca napurejāte terasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa nasampayutte pañca navippayutte ekādasa nonatthiyā pañca novigate pañca 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā  ārammaṇe tīṇi anantare tīṇi samanantare tīṇi sahajāte tīṇi aññamaññe tīṇi nissaye tīṇi upanissaye tīṇi purejāte tīṇi āsevane tīṇi kamme tīṇi vipāke ekaṃ āhāre tīṇi indriye tīṇi jhāne tīṇi magge dve sampayutte  tīṇi vippayutte tīṇi atthiyā tīṇi natthiyā tīṇi vigate tīṇi avigate tīṇi 
-
-
+paccanīyānulomaṃ
+paṭiccavāro
 
 
 
@@ -195,7 +195,7 @@ bhāvanāya pahātabbahetukañca tīṇi
 
 
  hetuyā sattarasa ārammaṇe sattarasa adhipatiyā sattarasa anantare sattarasa samanantare sattarasa sahajāte sattarasa aññamaññe sattārasa nissaye sattarasa upanissaye sattarasa purejāte  sattarasa āsevane sattarasa kamme sattarasa vipāke ekaṃ āhāre sattarasa indriye sattarasa jhāne sattarasa magge sattarasa sampayutte sattarasa vippayutte sattarasa atthiyā sattarasa natthiyā sattarasa vigate sattarasa avigate sattarasa 
-
+anulomaṃ
 
 
 
@@ -225,16 +225,16 @@ bhāvanāya  pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañ
 
 
  nahetuyā  pañca naārammaṇe pañca naadhipatiyā sattarasa naanantare pañca nasamanantare pañca naaññamaññe pañca naupanissaye pañca napurejāte terasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa naāhāre ekaṃ naindriye ekaṃ najhāne ekaṃ namagge ekaṃ nasampayutte pañca navippayutte ekādasa nonatthiyā pañca novigate pañca 
-
+paccanīyaṃ
 
 
  hetupaccayā  naārammaṇe pañca naadhipatiyā sattarasa naanantare pañca nasamanantare pañca naaññamaññe pañca naupanissaye pañca napurejāte  terasa napacchājāte sattarasa naāsevane sattarasa nakamme satta navipāke sattarasa nasampayutte pañca navippayutte ekādasa nonatthiyā pañca novigate pañca 
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā ārammaṇe pañca anantare pañca samanantare pañca sahajāte pañca aññamaññe pañca nissaye pañca upanissaye pañca purejāte pañca āsevane pañca kamme pañca vipāke ekaṃ āhāre pañca indriye pañca jhāne pañca magge pañca sampayutte pañca vippayutte pañca atthiyā pañca natthiyā  pañca vigate pañca avigate pañca 
-
-
+paccanīyānulomaṃ
+paccayavāro
 
 
 
@@ -267,7 +267,7 @@ nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevada
 
 
  hetuyā satta ārammaṇe ekādasa adhipatiyā tīṇi anantare ekādasa samanantare ekādasa sahajāte ekādasa aññamaññe ekādasa nissaye ekādasa upanissaye ekādasa purejāte ekādasa āsevane ekādasa kamme ekādasa vipāke ekaṃ āhāre ekādasa indriye ekādasa jhāne ekādasa magge ekādasa sampayutte ekādasa vippayutte ekādasa atthiyā ekādasa natthiyā ekādasa vigate ekādasa avigate ekādasa 
-
+anulomaṃ
 
 
 
@@ -279,14 +279,14 @@ nevadassanena  nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevad
 
 
  nahetuyā tīṇi naadhipatiyā ekādasa napurejāte ekādasa napacchājāte ekādasa naāsevane ekādasa nakamme satta navipāke ekādasa najhāne ekaṃ namagge ekaṃ navippayutte ekādasa 
-
+paccanīyaṃ
 
  hetupaccayā naadhipatiyā satta napurejāte satta napacchājāte satta naāsevane satta nakamme satta navipāke satta  navippayutte satta 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā  ārammaṇe tīṇi anantare tīṇi samanantare tīṇi sahajāte tīṇi aññamaññe tīṇi nissaye tīṇi upanissaye tīṇi purejāte tīṇi āsevane tīṇi kamme tīṇi vipāke ekaṃ  āhāre tīṇi indriye tīṇi jhāne tīṇi magge dve sampayutte tīṇi vippayutte tīṇi atthiyā tīṇi natthiyā tīṇi vigate tīṇi avigate tīṇi 
-
-
+paccanīyānulomaṃ
+saṃsaṭṭhavāro
 
 
 
@@ -432,7 +432,7 @@ bhāvanāya  pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca
 
 
  hetuyā  ekādasa ārammaṇe ekavīsa adhipatiyā dasa anantare sattarasa samanantare sattarasa sahajāte sattarasa aññamaññe ekādasa nissaye sattarasa upanissaye ekavīsa purejāte pañca pacchājāte pañca āsevane sattarasa kamme satta vipāke ekaṃ āhāre satta indriye satta jhāne satta magge satta sampayutte ekādasa vippayutte nava atthiyā sattarasa natthiyā sattarasa vigate sattarasa avigate sattarasa 
-
+anulomaṃ
 
  dassanena  pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo 
 dassanena pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo pacchājātapaccayena paccayo kammapaccayena paccayo 
@@ -463,14 +463,14 @@ bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca 
 
 
  nahetuyā  ekavīsa naārammaṇe naadhipatiyā naanantare nasamanantare nasahajāte naaññamaññe nanissaye naupanissaye napurejāte  napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge nasampayutte navippayutte noatthiyā nonatthiyā novigate noavigate sabbattha ekavīsa 
-
+paccanīyaṃ
 
 
  hetupaccayā naārammaṇe ekādasa naadhipatiyā naanantare nasamanantare ekādasa naaññamaññe tīṇi naupanissaye napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge ekādasa nasampayutte tīṇi navippayutte pañca  nonatthiyā ekādasa novigate ekādasa 
-
+anulomapaccanīyaṃ
 
 
  nahetupaccayā  ārammaṇe ekavīsa adhipatiyā dasa anantare sattarasa samanantare sattarasa sahajāte sattarasa aññamaññe ekādasa nissaye sattarasa upanissaye ekavīsa purejāte pañca pacchājāte pañca āsevane sattarasa kamme satta vipāke ekaṃ āhāre satta indriye satta jhāne satta magge satta sampayutte ekādasa vippayutte nava atthiyā sattarasa natthiyā sattarasa vigate sattarasa avigate sattarasa 
-
-
-
+paccanīyānulomaṃ
+pañhāvāro
+dassanenapahātabbahetukattikaṃ niṭṭhitaṃ

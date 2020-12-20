@@ -11,7 +11,7 @@ attanā akataṃ pāpaṃ attanāva visujjhati
 suddhi asuddhi paccattaṃ nāñño aññaṃ visodhayeti 
 attheva suttantoti āmantā tena hi na vattabbaṃ  paro parassa cittaṃ niggaṇhātīti
  na vattabbaṃ  paro parassa cittaṃ niggaṇhātīti āmantā nanu atthi balappattā atthi vasībhūtāti āmantā hañci atthi balappattā atthi vasībhūtā tena vata re vattabbe  paro parassa cittaṃ niggaṇhātīti
-
+niggahakathā niṭṭhitā
 
 
  paro  parassa cittaṃ paggaṇhātīti āmantā paro parassa cittaṃ mā rajjimā dussimā muyhimā kilissīti paggaṇhātīti na hevaṃ vattabbe paro  parassa cittaṃ paggaṇhātīti āmantā paro parassa alobhaṃ kusalamūlaṃ janeti adosaṃ kusalamūlaṃ  janeti amohaṃ kusalamūlaṃ janeti saddhaṃ janeti vīriyaṃ janeti satiṃ janeti samādhiṃ janeti paññaṃ janetīti na hevaṃ vattabbe paro parassa cittaṃ paggaṇhātīti āmantā paro parassa uppanno phasso mā nirujjhīti paggaṇhātīti na hevaṃ vattabbe paro parassa uppannā vedanā uppannā paññā mā nirujjhīti paggaṇhātīti na hevaṃ vattabbe
@@ -21,13 +21,13 @@ paro parassa cittaṃ paggaṇhātīti āmantā paro parassa atthāya dukkhaṃ 
 paro  parassa cittaṃ paggaṇhātīti āmantā añño aññassa kārako paraṅkataṃ sukhaṃ dukkhaṃ añño karoti añño paṭisaṃvedetīti na hevaṃ vattabbe
 paro parassa cittaṃ paggaṇhātīti āmantā nanu vuttaṃ bhagavatā  attanāva  kataṃ pāpaṃ nāñño aññaṃ visodhayeti attheva suttantoti āmantā tena hi na vattabbaṃ  paro parassa cittaṃ paggaṇhātīti
  na  vattabbaṃ  paro parassa cittaṃ paggaṇhātīti āmantā nanu atthi balappattā atthi vasībhūtāti āmantā hañci atthi balappattā atthi vasībhūtā tena vata re vattabbe  paro parassa cittaṃ paggaṇhātīti
-
+paggahakathā niṭṭhitā
 
 
  paro  parassa sukhaṃ anuppadetīti āmantā paro parassa dukkhaṃ anuppadetīti na hevaṃ vattabbe paro parassa dukkhaṃ na anuppadetīti āmantā paro parassa sukhaṃ na  anuppadetīti na hevaṃ vattabbe paro parassa sukhaṃ anuppadetīti āmantā paro parassa attano sukhaṃ anuppadeti aññesaṃ sukhaṃ anuppadeti tassa sukhaṃ anuppadetīti na hevaṃ vattabbe paro parassa nevattano na aññesaṃ na tassa sukhaṃ anuppadetīti āmantā hañci paro parassa nevattano na aññesaṃ na tassa sukhaṃ  anuppadeti no ca vata re vattabbe  paro parassa sukhaṃ anuppadetīti
 paro parassa sukhaṃ anuppadetīti āmantā añño aññassa kārako paraṅkataṃ sukhaṃ dukkhaṃ añño karoti añño paṭisaṃvedetīti na hevaṃ vattabbe
  na vattabbaṃ  paro parassa sukhaṃ anuppadetīti āmantā nanu āyasmā udāyī etadavoca  bahūnaṃ vata no bhagavā dukkhadhammānaṃ apahattā bahūnaṃ vata no bhagavā sukhadhammānaṃ upahattā bahūnaṃ vata no bhagavā akusalānaṃ dhammānaṃ apahattā bahūnaṃ vata no bhagavā kusalānaṃ dhammānaṃ upahattāti  attheva suttantoti āmantā tena hi paro parassa sukhaṃ anuppadetīti
-
+sukhānuppadānakathā niṭṭhitā
 
 
  adhigayha  manasi karotīti āmantā tena cittena taṃ cittaṃ pajānātīti na hevaṃ vattabbe tena cittena taṃ cittaṃ pajānātīti āmantā  tena cittena taṃ cittaṃ cittanti pajānātīti na hevaṃ vattabbe tena cittena taṃ cittaṃ cittanti pajānātīti āmantā taṃ cittaṃ tassa cittassa ārammaṇanti na  hevaṃ vattabbe
@@ -49,7 +49,7 @@ atha nibbindati dukkhe esa maggo visuddhiyā
 sabbe  dhammā anattāti yadā paññāya passati
 atha nibbindati dukkhe esa maggo visuddhiyāti 
 attheva suttantoti āmantā tena hi adhigayha manasi karotīti
-
+adhigayhamanasikārakathā niṭṭhitā
 
 
  rūpaṃ  hetūti āmantā alobho hetūti na hevaṃ vattabbe adoso hetu amoho hetu lobho hetu doso hetu moho hetūti na hevaṃ vattabbe
@@ -57,7 +57,7 @@ rūpaṃ  hetūti āmantā sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhī
  alobho hetu sārammaṇo atthi tassa āvaṭṭanā paṇidhīti āmantā rūpaṃ hetu sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe adoso hetu amoho hetu lobho hetu doso hetu moho hetu sārammaṇo atthi tassa āvaṭṭanā paṇidhīti āmantā rūpaṃ  hetu sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
 rūpaṃ hetu anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā alobho hetu anārammaṇo natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe rūpaṃ hetu anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā  adoso hetu amoho hetu lobho hetu doso hetu moho hetu anārammaṇo natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
  na vattabbaṃ  rūpaṃ hetūti āmantā nanu mahābhūtā upādāyarūpānaṃ  upādāyahetūti āmantā hañci mahābhūtā upādāyarūpānaṃ upādāyahetu tena vata re vattabbe  rūpaṃ hetūti
-
+rūpaṃ hetūtikathā niṭṭhitā
 
 
  rūpaṃ  sahetukanti āmantā alobhahetunāti na hevaṃ vattabbe adosahetunāti   amohahetunāti lobhahetunā dosahetunā mohahetunāti na hevaṃ vattabbe
@@ -65,7 +65,7 @@ rūpaṃ  sahetukanti āmantā sārammaṇaṃ atthi tassa āvaṭṭanā paṇi
  alobho sahetuko sārammaṇo atthi tassa āvaṭṭanā paṇidhīti āmantā rūpaṃ sahetukaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe adoso  sahetuko amoho saddhā vīriyaṃ sati samādhi paññā lobho doso moho māno diṭṭhi vicikicchā thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ sahetukaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti āmantā rūpaṃ sahetukaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
 rūpaṃ sahetukaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā alobho sahetuko anārammaṇo natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe rūpaṃ sahetukaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā adoso sahetuko anottappaṃ sahetukaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
  na vattabbaṃ  rūpaṃ sahetukanti āmantā nanu rūpaṃ sappaccayanti  āmantā hañci rūpaṃ sappaccayaṃ tena vata re vattabbe  rūpaṃ sahetukanti
-
+rūpaṃ sahetukantikathā niṭṭhitā
 
 
  rūpaṃ  kusalanti āmantā sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe nanu anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā hañci  anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhi no ca vata re vattabbe  rūpaṃ kusalanti
@@ -77,20 +77,20 @@ rūpaṃ kusalaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti ām
  lobho akusalo sārammaṇo atthi tassa āvaṭṭanā paṇidhīti āmantā  rūpaṃ akusalaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe doso moho māno anottappaṃ akusalaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti  āmantā rūpaṃ akusalaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
 rūpaṃ akusalaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā lobho akusalo anārammaṇo natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe rūpaṃ akusalaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā doso moho anottappaṃ akusalaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
  na vattabbaṃ  rūpaṃ kusalampi akusalampīti āmantā nanu kāyakammaṃ vacīkammaṃ kusalampi akusalampīti āmantā hañci kāyakammaṃ vacīkammaṃ kusalampi akusalampi tena vata re vattabbe  rūpaṃ kusalampi akusalampīti
-
+rūpaṃ kusalākusalantikathā niṭṭhitā
 
 
  rūpaṃ vipākoti āmantā rūpaṃ sukhavedaniyaṃ dukkhavedaniyaṃ adukkhamasukhavedaniyaṃ  sukhāya vedanāya sampayuttaṃ dukkhāya vedanāya sampayuttaṃ adukkhamasukhāya  vedanāya sampayuttaṃ phassena sampayuttaṃ cittena sampayuttaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe nanu na sukhavedaniyaṃ na dukkhavedaniyaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā hañci na sukhavedaniyaṃ na dukkhavedaniyaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhi no ca vata re vattabbe  rūpaṃ vipākoti
  phasso vipāko phasso sukhavedaniyo dukkhavedaniyo sārammaṇo  atthi tassa āvaṭṭanā paṇidhīti āmantā rūpaṃ vipāko rūpaṃ sukhavedaniyaṃ dukkhavedaniyaṃ sārammaṇaṃ atthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
 rūpaṃ vipāko  rūpaṃ na sukhavedaniyaṃ na dukkhavedaniyaṃ anārammaṇaṃ natthi tassa āvaṭṭanā paṇidhīti āmantā phasso vipāko phasso na sukhavedaniyo na dukkhavedaniyo anārammaṇo natthi tassa āvaṭṭanā paṇidhīti na hevaṃ vattabbe
  na vattabbaṃ  rūpaṃ vipākoti āmantā nanu kammassa katattā uppannā cittacetasikā dhammā vipākoti āmantā hañci kammassa katattā uppannā cittacetasikā dhammā vipāko tena vata re vattabbe  kammassa katattā uppannaṃ rūpaṃ vipākoti
-
+rūpaṃ vipākotikathā niṭṭhitā
 
 
  atthi  rūpaṃ rūpāvacaranti āmantā samāpattesiyaṃ upapattesiyaṃ diṭṭhadhammasukhavihāraṃ samāpattesiyena cittena upapattesiyena cittena diṭṭhadhammasukhavihārena cittena sahagataṃ  sahajātaṃ saṃsaṭṭhaṃ sampayuttaṃ  ekuppādaṃ ekanirodhaṃ ekavatthukaṃ ekārammaṇanti na hevaṃ vattabbe nanu na samāpattesiyaṃ na upapattesiyaṃ na diṭṭhadhammasukhavihāraṃ na samāpattesiyena cittena na upapattesiyena cittena na diṭṭhadhammasukhavihārena cittena sahagataṃ sahajātaṃ saṃsaṭṭhaṃ sampayuttaṃ ekuppādaṃ ekanirodhaṃ ekavatthukaṃ ekārammaṇanti āmantā hañci na samāpattesiyaṃ na upapattesiyaṃ na diṭṭhadhammasukhavihāraṃ na samāpattesiyena cittena ekārammaṇaṃ no ca vata re vattabbe  atthi rūpaṃ rūpāvacaranti
  atthi rūpaṃ arūpāvacaranti āmantā samāpattesiyaṃ upapattesiyaṃ diṭṭhadhammasukhavihāraṃ samāpattesiyena cittena upapattesiyena cittena diṭṭhadhammasukhavihārena cittena sahagataṃ sahajātaṃ saṃsaṭṭhaṃ sampayuttaṃ ekuppādaṃ ekanirodhaṃ ekavatthukaṃ ekārammaṇanti na hevaṃ vattabbe nanu na samāpattesiyaṃ na upapattesiyaṃ na diṭṭhadhammasukhavihāraṃ na samāpattesiyena cittena   ekārammaṇanti āmantā hañci na samāpattesiyaṃ na upapattesiyaṃ ekavatthukaṃ ekārammaṇaṃ no ca vata re vattabbe  atthi rūpaṃ arūpāvacaranti
  na vattabbaṃ  atthi rūpaṃ rūpāvacaraṃ atthi rūpaṃ arūpāvacaranti āmantā nanu kāmāvacarakammassa katattā rūpaṃ kāmāvacaranti āmantā hañci kāmāvacarakammassa katattā rūpaṃ kāmāvacaraṃ  tena vata re vattabbe  rūpāvacarakammassa katattā rūpaṃ rūpāvacaraṃ arūpāvacarakammassa katattā rūpaṃ arūpāvacaranti
-
+rūpaṃ rūpāvacarārūpāvacarantikathā niṭṭhitā
 
 
  rūparāgo rūpadhātupariyāpannoti āmantā samāpattesiyo upapattesiyo diṭṭhadhammasukhavihāro samāpattesiyena cittena upapattesiyena cittena diṭṭhadhammasukhavihārena cittena  sahagato sahajāto saṃsaṭṭho sampayutto ekuppādo ekanirodho ekavatthuko ekārammaṇoti na hevaṃ vattabbe nanu na samāpattesiyo na upapattesiyo na diṭṭhadhammasukhavihāro na samāpattesiyena cittena ekavatthuko ekārammaṇoti āmantā hañci na samāpattesiyo na upapattesiyo na diṭṭhadhammasukhavihāro na samāpattesiyena cittena ekavatthuko ekārammaṇo no ca vata re vattabbe  rūparāgo rūpadhātupariyāpannoti
@@ -101,7 +101,7 @@ saddarāgo  na vattabbaṃ  saddadhātupariyāpannoti āmantā rūparāgo na vat
 saddarāgo na vattabbaṃ  saddadhātupariyāpannoti āmantā arūparāgo na vattabbaṃ  arūpadhātupariyāpannoti na hevaṃ vattabbe gandharāgo rasarāgo phoṭṭhabbarāgo na vattabbaṃ  phoṭṭhabbadhātupariyāpannoti āmantā arūparāgo na vattabbaṃ  arūpadhātupariyāpannoti na  hevaṃ vattabbe
  na vattabbaṃ  rūparāgo rūpadhātupariyāpanno arūparāgo arūpadhātupariyāpannoti āmantā nanu kāmarāgo kāmadhātupariyāpannoti  āmantā hañci kāmarāgo kāmadhātupariyāpanno tena vata re vattabbe  rūparāgo rūpadhātupariyāpanno arūparāgo arūpadhātupariyāpannoti
 rūparāgo rūpadhātupariyāpanno arūparāgo arūpadhātupariyāpannotikathā niṭṭhitā
-
-
+rūpārūpadhātupariyāpannakathā niṭṭhitā
+soḷasamavaggo
 tassuddānaṃ 
 cittaniggaho cittapaggaho sukhānuppadānaṃ adhigayha manasikāro rūpaṃ hetu rūpaṃ sahetukaṃ rūpaṃ kusalampi akusalampi rūpaṃ vipāko atthi rūpaṃ rūpāvacaraṃ atthi rūpaṃ arūpāvacaraṃ sabbe kilesā kāmadhātupariyāpannāti

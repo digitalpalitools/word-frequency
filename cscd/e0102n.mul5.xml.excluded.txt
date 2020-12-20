@@ -75,7 +75,7 @@ Paṭiccasamuppādakathā
 ...,.
 ....
 590...–‘‘,,’’(saṃ. ni. 4.252).,...
-Ayaṃ tāvettha saṅkhepakathā.
+.
 Avijjāpaccayāsaṅkhārapadakathā
 561.–,.‘‘,…pe…,,,,’’(dha. sa. 1106).,.,,,,,,,,.‘‘,’’.…pe….
 592.,...
@@ -156,7 +156,7 @@ Avijjāpaccayāsaṅkhārapadavitthārakathā
 ,.
 ‘‘,;
 ,’’.
-Ayaṃ ‘‘avijjāpaccayā saṅkhārā’’ti padasmiṃ vitthārakathā.
+‘‘’’.
 Saṅkhārapaccayāviññāṇapadavitthārakathā
 620.–...,,,,...
 ‘‘’’?.,.,.
@@ -250,7 +250,7 @@ Saṅkhārapaccayāviññāṇapadavitthārakathā
 ,,,,,,,,,.,
 ,;
 ,.
-Ayaṃ ‘‘saṅkhārapaccayā viññāṇa’’nti padasmiṃ vitthārakathā.
+‘‘’’.
 Viññāṇapaccayānāmarūpapadavitthārakathā
 638.–
 ,;
@@ -283,7 +283,7 @@ Viññāṇapaccayānāmarūpapadavitthārakathā
 ,;
 ,.
 ....
-Ayaṃ ‘‘viññāṇapaccayā nāmarūpa’’nti padasmiṃ vitthārakathā.
+‘‘’’.
 Nāmarūpapaccayāsaḷāyatanapadavitthārakathā
 641.–
 ,;
@@ -335,7 +335,7 @@ Saḷāyatanapaccayāphassapadavitthārakathā
 ,;
 ,.
 –.....
-Ayaṃ ‘‘saḷāyatanapaccayā phasso’’ti padasmiṃ vitthārakathā.
+‘‘’’.
 Phassapaccayāvedanāpadavitthārakathā
 643.–
 ,;
@@ -347,7 +347,7 @@ Phassapaccayāvedanāpadavitthārakathā
 ,.
 ..
 ,.,.
-Ayaṃ ‘‘phassapaccayā vedanā’’ti padasmiṃ vitthārakathā.
+‘‘’’.
 Vedanāpaccayātaṇhāpadavitthārakathā
 644.–
 ,;
@@ -365,7 +365,7 @@ Vedanāpaccayātaṇhāpadavitthārakathā
 ,.
 ,;
 ,.
-Ayaṃ ‘‘vedanāpaccayā taṇhā’’ti padasmiṃ vitthārakathā.
+‘‘’’.
 Taṇhāpaccayāupādānapadavitthārakathā
 645.–
 ,;
@@ -379,7 +379,7 @@ Taṇhāpaccayāupādānapadavitthārakathā
 ,;
 ,.
 ,.,.,.
-Ayaṃ ‘‘taṇhāpaccayā upādāna’’nti padasmiṃ vitthārakathā.
+‘‘’’.
 Upādānapaccayābhavapadavitthārakathā
 646.–
 ,;
@@ -401,12 +401,12 @@ Upādānapaccayābhavapadavitthārakathā
 ,;
 ,.
 ,,...
-Ayaṃ ‘‘upādānapaccayā bhavo’’ti padasmiṃ vitthārakathā.
+‘‘’’.
 Bhavapaccayājātiādivitthārakathā
 651...,..
 –?..,..‘‘’’(ma. ni. 3.289).‘‘’’.
 ,.,...
-Ayaṃ ‘‘bhavapaccayā jātī’’tiādīsu vitthārakathā.
+‘‘’’.
 Bhavacakkakathā
 652.,,,
 ,;
@@ -472,7 +472,7 @@ Bhavacakkakathā
 –‘‘,,.,’’(mahāva. 95; saṃ. ni. 2.60).,
 ;
 .
-Iti sādhujanapāmojjatthāya kate visuddhimagge
-Paññābhāvanādhikāre
-Paññābhūminiddeso nāma
-Sattarasamo paricchedo.
+
+
+
+.

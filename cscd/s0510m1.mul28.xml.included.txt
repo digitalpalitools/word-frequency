@@ -13,7 +13,7 @@ duggatiṃ nābhijānāmi paṇṇadānassidaṃ phalaṃ
  paṭisambhidā catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā paṇṇadāyako thero imā gāthāyo abhāsitthāti
-
+paṇṇadāyakattherassāpadānaṃ paṭhamaṃ
 
 
  sinerusamasantoso  dharaṇīsama  sādiso
@@ -33,7 +33,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā phaladāyako thero imā gāthāyo abhāsitthāti
-
+phaladāyakattherassāpadānaṃ dutiyaṃ
 
 
  sīhaṃ  yathā vanacaraṃ nisabhājāniyaṃ yathā
@@ -50,7 +50,7 @@ saparivāroti nāmena cakkavattī mahabbalo
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā paccuggamaniyo thero imā gāthāyo abhāsitthāti
-
+paccuggamaniyattherassāpadānaṃ tatiyaṃ
 
 
  dakkhiṇamhi duvāramhi pisāco āsahaṃ tadā
@@ -64,7 +64,7 @@ duggatiṃ nābhijānāmi buddhapūjāyidaṃ phalaṃ
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ekapupphiyo thero imā gāthāyo abhāsitthāti
-
+ekapupphiyattherassāpadānaṃ catutthaṃ
 
 
  nammadānadiyā tīre sayambhū aparājito
@@ -78,7 +78,7 @@ duggatiṃ nābhijānāmi buddhapūjāyidaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā maghavapupphiyo thero imā gāthāyo abhāsitthāti
-
+maghavapupphiyattherassāpadānaṃ pañcamaṃ
 
 
  rathiyaṃ  paṭipajjantaṃ āhutīnaṃ paṭiggahaṃ
@@ -98,7 +98,7 @@ sattaratanasampanno cakkavattī mahabbalo
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā upaṭṭhākadāyako thero imā gāthāyo abhāsitthāti
-
+upaṭṭhākadāyakattherassāpadānaṃ chaṭṭhaṃ
 
 
  apadānaṃ sugatānaṃ kittayiṃhaṃ mahesinaṃ
@@ -109,7 +109,7 @@ duggatiṃ nābhijānāmi kittanāya idaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā apadāniyo thero imā gāthāyo abhāsitthāti
-
+apadāniyattherassāpadānaṃ sattamaṃ
 
 
  vipassissa  bhagavato saṅgho sakkatamānito
@@ -126,7 +126,7 @@ sunikkhamāti ñāyanti cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ  sudaṃ āyasmā sattāhapabbajito thero imā gāthāyo abhāsitthāti
-
+sattāhapabbajitattherassāpadānaṃ aṭṭhamaṃ
 
 
  veṭambhinīti  me nāmaṃ pitusantaṃ  mamaṃ tadā
@@ -143,7 +143,7 @@ samaṇupaṭṭhākā nāma cakkavattī mahabbalā
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā buddhupaṭṭhāyiko thero imā gāthāyo abhāsitthāti
-
+buddhupaṭṭhāyikattherassāpadānaṃ navamaṃ
 
 
  cullāsītisahassāni  pabbajimha akiñcanā
@@ -163,8 +163,8 @@ duggatiṃ nābhijānāmi saññamassa idaṃ phalaṃ
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā pubbaṅgamiyo thero imā gāthāyo abhāsitthāti
-
-
+pubbaṅgamiyattherassāpadānaṃ dasamaṃ
+paṇṇadāyakavaggo ekūnatiṃsatimo
 tassuddānaṃ 
 paṇṇaṃ phalaṃ paccuggamaṃ ekapupphi ca maghavā
 upaṭṭhākāpadānañca  pabbajjā buddhupaṭṭhāko

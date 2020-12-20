@@ -10,7 +10,7 @@
 ’’.
 .‘‘’’..,.,.,–‘‘’’....
 ‘‘’’..–‘‘,’’..‘‘’’.‘‘,’’.‘‘’’?‘‘,’’...–‘‘,,,’’..,..
-Sundarīparibbājikāvatthu paṭhamaṃ.
+.
 2. Duccaritaphalapīḷitavatthu
 .
 ‘‘,,,’’‘‘,,,…pe…’’(pārā. 230; saṃ. ni. 2.218).–
@@ -19,7 +19,7 @@ Sundarīparibbājikāvatthu paṭhamaṃ.
 ,’’.
 ..,,.
 .
-Duccaritaphalapīḷitavatthu dutiyaṃ.
+.
 3. Vaggumudātīriyabhikkhuvatthu
 .(pārā. 193 ādayo).
 ‘‘,,’’‘‘,’’–
@@ -28,7 +28,7 @@ Duccaritaphalapīḷitavatthu dutiyaṃ.
 ,’’.
 ‘‘’’,.?,.
 .
-Vaggumudātīriyabhikkhuvatthu tatiyaṃ.
+.
 4. Khemakaseṭṭhiputtavatthu
 .
 ,.......,,‘‘,’’.–
@@ -44,7 +44,7 @@ Vaggumudātīriyabhikkhuvatthu tatiyaṃ.
 ’’.
 .....,.,.,..,.
 ..?‘‘’’...
-Khemakaseṭṭhiputtavatthu catutthaṃ.
+.
 5. Dubbacabhikkhuvatthu
 .
 ,‘‘,,’’.‘‘,,’’..–
@@ -59,7 +59,7 @@ Khemakaseṭṭhiputtavatthu catutthaṃ.
 ,’’.
 ,,,,...,‘‘’’.,.,...,.
 ,.
-Dubbacabhikkhuvatthu pañcamaṃ.
+.
 6. Issāpakatitthivatthu
 .
 .‘‘,,’’...‘‘‘’,.,’’–
@@ -68,7 +68,7 @@ Dubbacabhikkhuvatthu pañcamaṃ.
 ,’’.
 ...,,.
 ..
-Issāpakatitthivatthu chaṭṭhaṃ.
+.
 7. Sambahulabhikkhuvatthu
 .
 ....‘‘,,’’,‘‘,,,.’’‘‘,,,,,’’–
@@ -78,7 +78,7 @@ Issāpakatitthivatthu chaṭṭhaṃ.
 ,’’.
 ,,,,,.,,.,,.
 .
-Sambahulabhikkhuvatthu sattamaṃ.
+.
 8. Nigaṇṭhavatthu
 .
 ,‘‘,,,’’.‘‘,,,’’..,‘‘,’’–
@@ -90,7 +90,7 @@ Sambahulabhikkhuvatthu sattamaṃ.
 ,’’.
 .,.....,.,..
 ,.
-Nigaṇṭhavatthu aṭṭhamaṃ.
+.
 9. Titthiyasāvakavatthu
 .
 ‘‘,’’..‘‘’’..‘‘’’.....‘‘’’..‘‘’’.–
@@ -102,6 +102,6 @@ Nigaṇṭhavatthu aṭṭhamaṃ.
 ,’’.
 ,..,..
 .
-Titthiyasāvakavatthu navamaṃ.
-Nirayavaggavaṇṇanā niṭṭhitā.
-Dvāvīsatimo vaggo.
+.
+.
+.

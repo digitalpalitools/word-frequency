@@ -1,11 +1,11 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Pañcapakaraṇa-mūlaṭīkā
 Dhātukathāpakaraṇa-mūlaṭīkā
 Ganthārambhavaṇṇanā
 ,,‘‘’’.,,,‘‘’’.,,..
 ,.,.....--.‘‘’’-.,.,.
-Ganthārambhavaṇṇanā niṭṭhitā.
+.
 1. Mātikāvaṇṇanā
 1. Nayamātikāvaṇṇanā
 1.?,(dha. sa. aṭṭha. nidānakathā)‘‘’’.,,,.‘‘’’.
@@ -23,7 +23,7 @@ Ganthārambhavaṇṇanā niṭṭhitā.
 ‘‘,’’,.‘‘’’‘‘’’.,,‘‘’’...,,.,....
 ,..,.,.,,.‘‘’’.,,.
 ,,,‘‘’’,..
-Mātikāvaṇṇanā niṭṭhitā.
+.
 2. Niddesavaṇṇanā
 1. Paṭhamanayo saṅgahāsaṅgahapadavaṇṇanā
 1. Khandhapadavaṇṇanā
@@ -34,7 +34,7 @@ Mātikāvaṇṇanā niṭṭhitā.
 6. Paṭiccasamuppādavaṇṇanā
 61.‘‘,’’‘‘’’...‘‘’’,.
 71.,,,,‘‘’’.
-Paṭhamanayasaṅgahāsaṅgahapadavaṇṇanā niṭṭhitā.
+.
 2. Dutiyanayo saṅgahitenaasaṅgahitapadavaṇṇanā
 171.,‘‘’’..,‘‘’’,,‘‘’’.,,,.
 ‘‘…pe…’’,‘‘’’.,.,,.‘‘’’,,.
@@ -45,21 +45,21 @@ Paṭhamanayasaṅgahāsaṅgahapadavaṇṇanā niṭṭhitā.
 ,.
 ‘‘’’,.,.,,.,.,,.
 ‘‘’’..‘‘’’.‘‘’’‘‘’’..,.
-Dutiyanayasaṅgahitenaasaṅgahitapadavaṇṇanā niṭṭhitā.
+.
 3. Tatiyanayo asaṅgahitenasaṅgahitapadavaṇṇanā
 179.,.,,,.,,.,,.
 ‘‘’’,.,.…pe…,,,.
-Tatiyanayaasaṅgahitenasaṅgahitapadavaṇṇanā niṭṭhitā.
+.
 4. Catutthanayo saṅgahitenasaṅgahitapadavaṇṇanā
 191.‘‘,’’,.,,,‘‘…pe…,…pe…’’.,,,,,.,.
 .‘‘’’,.,,,.,,,‘‘’’‘‘’’..‘‘,’’,.,,,..
-Catutthanayasaṅgahitenasaṅgahitapadavaṇṇanā niṭṭhitā.
+.
 5. Pañcamanayo asaṅgahitenaasaṅgahitapadavaṇṇanā
 193..,,,.
 ‘‘’’,.,..,,.,.-.‘‘’’‘‘’’.-,...
 ...,...
 196...‘‘’’,...‘‘…pe…’’...,‘‘’’,‘‘’’.‘‘’’,.
-Pañcamanayaasaṅgahitenaasaṅgahitapadavaṇṇanā niṭṭhitā.
+.
 6. Chaṭṭhanayo sampayogavippayogapadavaṇṇanā
 228.,,,.,.‘‘…pe…’’,,.,.,,.‘‘’’.
 ,,,.,,.,,,..
@@ -67,33 +67,33 @@ Pañcamanayaasaṅgahitenaasaṅgahitapadavaṇṇanā niṭṭhitā.
 ‘‘’’,‘‘’’...‘‘’’,‘‘’’.,,.‘‘’’,‘‘’’,‘‘…pe…’’,‘‘’’,.
 235.‘‘’’,‘‘’’?.,,.,,.,,,..,,,..
 262.‘‘’’,...‘‘’’...,.,..,,,‘‘’’,.,,‘‘’’..
-Chaṭṭhanayasampayogavippayogapadavaṇṇanā niṭṭhitā.
+.
 7. Sattamanayo sampayuttenavippayuttapadavaṇṇanā
 306..,..?,.,,....
 ,,‘‘’’,.,...,.‘‘’’,‘‘,’’.
 309..,.
-Sattamanayasampayuttenavippayuttapadavaṇṇanā niṭṭhitā.
+.
 8. Aṭṭhamanayo vippayuttenasampayuttapadavaṇṇanā
 317.‘‘,’’‘‘,…pe…’’.,.
-Aṭṭhamanayavippayuttenasampayuttapadavaṇṇanā niṭṭhitā.
+.
 9. Navamanayo sampayuttenasampayuttapadavaṇṇanā
 319.,..–,,.‘‘’’.,.‘‘’’..–,,.
-Navamanayasampayuttenasampayuttapadavaṇṇanā niṭṭhitā.
+.
 10. Dasamanayo vippayuttenavippayuttapadavaṇṇanā
 353.,.
-Dasamanayavippayuttenavippayuttapadavaṇṇanā niṭṭhitā.
+.
 11. Ekādasamanayo saṅgahitenasampayuttavippayuttapadavaṇṇanā
 409.‘‘’’‘‘’’.‘‘’’‘‘’’‘‘’’‘‘’’.
-Ekādasamanayasaṅgahitenasampayuttavippayuttapadavaṇṇanā niṭṭhitā.
+.
 12. Dvādasamanayo sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 417.‘‘’’.
-Dvādasamanayasampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā niṭṭhitā.
+.
 13. Terasamanayo asaṅgahitenasampayuttavippayuttapadavaṇṇanā
 448.,‘‘’’‘‘’’.,‘‘’’..,.,‘‘’’..
 ,‘‘’’,..‘‘,’’...‘‘,’’,‘‘,’’,‘‘,’’,‘‘,’’..
-Terasamanayaasaṅgahitenasampayuttavippayuttapadavaṇṇanā niṭṭhitā.
+.
 14. Cuddasamanayo vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 456..,..
 ..,.
-Cuddasamanayavippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā niṭṭhitā.
-Dhātukathāpakaraṇa-mūlaṭīkā samattā.
+.
+-.

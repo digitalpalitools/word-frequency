@@ -10,7 +10,7 @@
 195.….
 196.….
 197.….
-Vaggo paṭhamo.
+.
 2. Dutiyavaggo
 198.‘‘,,’’cullapanthako (sī. syā. kaṃ. pī.).
 199.….
@@ -23,7 +23,7 @@ Vaggo paṭhamo.
 206.….
 207.….
 208.….
-Vaggo dutiyo.
+.
 3. Tatiyavaggo
 209.‘‘,,’’.
 210.….
@@ -35,7 +35,7 @@ Vaggo dutiyo.
 216.….
 217.….
 218.…mahākoṭṭhikoti (aññesu suttesu marammapotthake).
-Vaggo tatiyo.
+.
 4. Catutthavaggo
 219.‘‘,,’’.
 220.….
@@ -53,7 +53,7 @@ Vaggo tatiyo.
 232.….
 233.….
 234.….
-Vaggo catuttho.
+.
 5. Pañcamavaggo
 235.‘‘,,’’.
 236.….
@@ -68,7 +68,7 @@ Vaggo catuttho.
 245.….
 246.….
 247.…sigālamātāti (sī. syā. kaṃ. pī.).
-Vaggo pañcamo.
+.
 6. Chaṭṭhavaggo
 248.‘‘,,tapassubhallikā (sī. pī.)’’.
 249.….
@@ -80,7 +80,7 @@ Vaggo pañcamo.
 255.…sūro ambaṭṭho (sī. syā. kaṃ. pī.) surebandho (ka.).
 256.….
 257.….
-Vaggo chaṭṭho.
+.
 7. Sattamavaggo
 258.‘‘,,’’senānī dhītā (sī. syā. kaṃ. pī.).
 259.….
@@ -92,5 +92,5 @@ Vaggo chaṭṭho.
 265.….
 266.….
 267.…kulagharikā (ka.).
-Vaggo sattamo.
-Etadaggavaggo cuddasamo.
+.
+.

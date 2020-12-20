@@ -15,7 +15,7 @@
 ,’’.
 .–,‘‘’’,,,,..
 .
-Ñātikalahavūpasamanavatthu paṭhamaṃ.
+.
 2. Māravatthu
 .
 ...,–‘‘,,’’.‘‘,,,’’?‘‘,,’’.–‘‘,’’..–‘‘,,’’.‘‘,,’’–
@@ -24,7 +24,7 @@
 ,’’.
 .,,,.
 .
-Māravatthu dutiyaṃ.
+.
 3. Kosalarañño parājayavatthu
 .
 –‘‘,’’...–‘‘,,‘,’’’.,‘‘,,’’–
@@ -33,7 +33,7 @@ Māravatthu dutiyaṃ.
 ,’’.
 .‘‘’’.,.
 .
-Kosalarañño parājayavatthu tatiyaṃ.
+.
 4. Aññatarakuladārikāvatthu
 .
 .....,.‘‘’’.,..‘‘,,,,’’–
@@ -42,7 +42,7 @@ Kosalarañño parājayavatthu tatiyaṃ.
 ,’’.
 ...,..,.
 ..
-Aññatarakuladārikāvatthu catutthaṃ.
+.
 5. Ekaupāsakavatthu
 .
 ..‘‘’’‘‘’’..‘‘,’’‘‘’’..‘‘,,’’.
@@ -53,7 +53,7 @@ Aññatarakuladārikāvatthu catutthaṃ.
 ,’’.
 ,..,..
 .
-Ekaupāsakavatthu pañcamaṃ.
+.
 6. Pasenadikosalavatthu
 .
 .,.–‘‘,,’’?‘‘,,’’.,‘‘,’’–
@@ -73,7 +73,7 @@ Ekaupāsakavatthu pañcamaṃ.
 ,’’.
 .,.–‘‘’’.,.,,.,.–‘‘’’.,–.
 .
-Pasenadikosalavatthu chaṭṭhaṃ.
+.
 7. Tissattheravatthu
 .
 ,‘‘,’’,,.‘‘’’.‘‘,,’’..–‘‘,’’..,‘‘,’’.‘‘’’‘‘,’’,‘‘,.,’’–
@@ -82,7 +82,7 @@ Pasenadikosalavatthu chaṭṭhaṃ.
 ,’’.
 ,.....
 ,.
-Tissattheravatthu sattamaṃ.
+.
 8. Sakkavatthu
 .
 ‘‘’’.‘‘’’?‘‘,,’’.‘‘’’?‘‘,’’.‘‘,,,’’.‘‘,,’’,..
@@ -104,6 +104,6 @@ Tissattheravatthu sattamaṃ.
 .,..‘‘’’.,.,.?,.
 ,,,,,,,,,.
 .
-Sakkavatthu aṭṭhamaṃ.
-Sukhavaggavaṇṇanā niṭṭhitā.
-Pannarasamo vaggo.
+.
+.
+.

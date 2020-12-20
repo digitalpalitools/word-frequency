@@ -36,10 +36,10 @@ appaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa ārammaṇapacca
  nahetuyā dve naārammaṇe ekaṃ 
 hetupaccayā naārammaṇe ekaṃ 
 nahetupaccayā ārammaṇe dve 
-
+sappaccayadukakusalattikaṃ niṭṭhitaṃ
 
  saṅkhataṃ kusalaṃ dhammaṃ paṭicca saṅkhato kusalo dhammo uppajjati hetupaccayā 
-
+saṅkhatadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -68,7 +68,7 @@ anidassano abyākato dhammo anidassanassa abyākatassa dhammassa adhipatipaccaye
 sanidassano  abyākato dhammo anidassanassa abyākatassa dhammassa upanissayapaccayena paccayo  pakatūpanissayo 
 anidassano abyākato dhammo anidassanassa abyākatassa dhammassa upanissayapaccayena paccayo  ārammaṇūpanissayo anantarūpanissayo pakatūpanissayo  
  purejāte tīṇi pacchājāte tīṇi āsevane ekaṃ kamme  tīṇi vipāke tīṇi  sampayutte ekaṃ vippayutte tīṇi atthiyā pañca natthiyā ekaṃ avigate pañca 
-
+sanidassanadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -101,7 +101,7 @@ appaṭighaṃ abyākataṃ dhammaṃ paṭicca appaṭigho abyākato dhammo upp
 hetupaccayā  naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe dve 
 
-
+sappaṭighadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -129,7 +129,7 @@ nahetuyā satta naārammaṇe satta
 hetupaccayā  naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe dve 
 
-
+rūpīdukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -173,7 +173,7 @@ lokiyaṃ  abyākatañca lokuttaraṃ abyākatañca dhammaṃ paṭicca lokiyo a
 lokuttaro abyākato dhammo lokuttarassa abyākatassa dhammassa hetupaccayena paccayo tīṇi 
  hetuyā cattāri ārammaṇe tīṇi adhipatiyā cattāri anantare cattāri sahajāte pañca aññamaññe dve nissaye satta upanissaye cattāri purejāte dve pacchājāte dve āsevane ekaṃ kamme cattāri vipāke cattāri āhāre cattāri magge cattāri sampayutte dve vippayutte  tīṇi atthiyā satta avigate satta 
 
-
+lokiyadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -194,5 +194,5 @@ nahetuyā nava naārammaṇe nava
 hetupaccayā naārammaṇe nava 
 nahetupaccayā ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ kenaci viññeyyaṃ akusalampi kenaci viññeyyaṃ abyākatampi kenaci viññeyyakusalasadisaṃ vitthāretabbaṃ)
-
-
+kenaciviññeyyadukakusalattikaṃ niṭṭhitaṃ
+cūḷantaradukaṃ niṭṭhitaṃ

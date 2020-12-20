@@ -96,7 +96,7 @@ sāyapāto (pī.),;
 ‘‘,;
 ,’’.
 .
-Bhaddālittherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekachattiyattheraapadānaṃ
 32.
 ‘‘,;
@@ -237,7 +237,7 @@ Bhaddālittherassāpadānaṃ paṭhamaṃ.
 78.
 ‘‘…pe…’’.
 ;
-Ekachattiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Tiṇasūlakachādaniyattheraapadānaṃ
 79.
 ‘‘,;
@@ -319,7 +319,7 @@ saṃyutto (sī. syā. pī.),.
 105.
 ‘‘…pe…’’.
 tiṇasūlikachādaniyo (ka.).
-Tiṇasūlakachādaniyattherassāpadānaṃ tatiyaṃ.
+.
 4. Madhumaṃsadāyakattheraapadānaṃ
 106.
 ‘‘,;
@@ -355,7 +355,7 @@ ukkoṭakaṃ randhayitvā (sī. syā.),madhusappimhi (pī.), madhuṃ maṃsamh
 117.
 ‘‘…pe…’’.
 .
-Madhumaṃsadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Nāgapallavattheraapadānaṃ
 118.
 ‘‘,;
@@ -373,7 +373,7 @@ Madhumaṃsadāyakattherassāpadānaṃ catutthaṃ.
 123.
 ‘‘…pe…’’.
 .
-Nāgapallavattherassāpadānaṃ pañcamaṃ.
+.
 6. Ekadīpiyattheraapadānaṃ
 124.
 ‘‘,;
@@ -427,7 +427,7 @@ sabbatthapī evameva dissati,.
 141.
 ‘‘…pe…’’.
 .
-Ekadīpiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ucchaṅgapupphiyattheraapadānaṃ
 142.
 ‘‘,;
@@ -448,7 +448,7 @@ Ekadīpiyattherassāpadānaṃ chaṭṭhaṃ.
 148.
 ‘‘…pe…’’.
 .
-Ucchaṅgapupphiyattherassāpadānaṃ sattamaṃ.
+.
 8. Yāgudāyakattheraapadānaṃ
 149.
 ‘‘atītaṃ (ka.),;
@@ -511,7 +511,7 @@ Ucchaṅgapupphiyattherassāpadānaṃ sattamaṃ.
 169.
 ‘‘…pe…’’.
 .
-Yāgudāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Patthodanadāyakattheraapadānaṃ
 170.
 ‘‘,;
@@ -553,7 +553,7 @@ Yāgudāyakattherassāpadānaṃ aṭṭhamaṃ.
 183.
 ‘‘…pe…’’.
 .
-Patthodanadāyakattherassāpadānaṃ navamaṃ.
+.
 10. Mañcadāyakattheraapadānaṃ
 184.
 ‘‘,;
@@ -591,10 +591,10 @@ sayanakāle (syā.),.
 ‘‘…pe….
 196.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā mañcadāyako thero imā gāthāyo
+
 .
-Mañcadāyakattherassāpadānaṃ dasamaṃ.
-Bhaddālivaggo bācattālīsamo.
+.
+.
 –
 ,;
 ,.

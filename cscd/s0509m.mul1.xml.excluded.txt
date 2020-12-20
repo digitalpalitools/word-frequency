@@ -22,7 +22,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 24.
 ‘‘,;
 ,’’.
-… Sumaṅgalamātā therī aññatarā therī bhikkhunī apaññātā (syā. ka.).
+…aññatarā therī bhikkhunī apaññātā (syā. ka.).
 4. Aḍḍhakāsitherīgāthā
 25.
 ‘‘,;
@@ -31,7 +31,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 ‘‘,;
 ,;
 ,’’.
-… Aḍḍhakāsi therī….
+…….
 5. Cittātherīgāthā
 27.
 ‘‘,;
@@ -39,7 +39,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 28.
 ‘‘,;
 ,’’.
-… Cittā therī….
+…….
 6. Mettikātherīgāthā
 29.
 ‘‘,;
@@ -48,7 +48,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 ‘‘,;
 ,;
 ,’’.
-… Mettikā therī….
+…….
 7. Mittātherīgāthā
 31.
 ‘‘,;
@@ -57,7 +57,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 ‘‘,;
 ,;
 ,’’.
-… Mittā therī….
+…….
 8. Abhayamātutherīgāthā
 33.
 ‘‘,;
@@ -65,7 +65,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 34.
 ‘‘,;
 ,’’.
-… Abhayamātu therī….
+…….
 9. Abhayātherīgāthā
 35.
 ‘‘,;
@@ -73,7 +73,7 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 36.
 ‘‘,;
 ,’’.
-… Abhayā therī….
+…….
 10. Sāmātherīgāthā
 37.
 ‘‘,;
@@ -82,5 +82,5 @@ itthaṃ sudaṃ bhagavā abhirūpanandaṃ sikkhamānaṃ imāhi gāthāhi abhi
 38.
 ‘‘,;
 ,’’.
-… Sāmā therī….
-Dukanipāto niṭṭhito.
+…….
+.

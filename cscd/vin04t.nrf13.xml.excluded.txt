@@ -3,11 +3,11 @@
 ..,,..,..
 ,,‘‘’’,‘‘’’,,.,.‘‘’’,,,,,.,.,.,.
 ,‘‘,’’,,,,.,.,.
-Ussayavādikāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Corivuṭṭhāpikāsikkhāpadavaṇṇanā
 ,,.‘‘’’.....‘‘’’,,..,,,.
 ,,.,,,,.,,,.,,,,,,,,.
-Corivuṭṭhāpikāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Ekagāmantaragamanasikkhāpadavaṇṇanā
 ,,,,.,,..
 ,.,.
@@ -19,36 +19,36 @@ Corivuṭṭhāpikāsikkhāpadavaṇṇanā niṭṭhitā.
 ;
 ’’.(pari. 479);
 ,..,,.,,,.
-Ekagāmantaragamanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Ukkhittakaosāraṇasikkhāpadavaṇṇanā
 ...,,,.
 ,,,,,,,.,.,.
-Ukkhittakaosāraṇasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Bhojanappaṭiggahaṇapaṭhamasikkhāpadavaṇṇanā
 ..,.
 ,,,.,.,‘‘’’,.,,,..
-Bhojanappaṭiggahaṇapaṭhamasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Bhojanappaṭiggahaṇadutiyasikkhāpadavaṇṇanā
 ..,,.
 ,,,,,..‘‘’’,‘‘’’,‘‘’’,.,,‘‘’’,..
-Bhojanappaṭiggahaṇadutiyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7-8-9. Sañcarittādisikkhāpadavaṇṇanā
 .
-Sañcarittādisikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Sikkhaṃpaccācikkhaṇasikkhāpadavaṇṇanā
 ..(kaṅkhā. aṭṭha. nigamanavaṇṇanā),,(pāci. 709)‘‘’’,,.
-Sikkhaṃpaccācikkhaṇasikkhāpadavaṇṇanā niṭṭhitā.
+.
 11. Adhikaraṇakupitasikkhāpadavaṇṇanā
 ..‘‘’’,.
-Adhikaraṇakupitasikkhāpadavaṇṇanā niṭṭhitā.
+.
 12. Pāpasamācārapaṭhamasikkhāpadavaṇṇanā
 ......
 ,,.
-Pāpasamācārapaṭhamasikkhāpadavaṇṇanā niṭṭhitā.
+.
 13. Pāpasamācāradutiyasikkhāpadavaṇṇanā
 .,,,..‘‘’’.,.,.,.,.
 ‘‘,,,’’,.
-Pāpasamācāradutiyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 14. Saṅghabhedakādisikkhāpadavaṇṇanā
 .,.,.,,.,.,,,,.
 –‘‘,,,,,’’,–
@@ -58,6 +58,6 @@ Pāpasamācāradutiyasikkhāpadavaṇṇanā niṭṭhitā.
 ‘‘,,,,,,,,‘’’’.
 ‘‘,,…pe…,,‘’’’.,,.,,.,.
 ,(cūḷava. 75 ādayo),(cūḷava. aṭṭha. 75 ādayo),,,.
-Kaṅkhāvitaraṇiyā pātimokkhavaṇṇanāya
-Bhikkhunipātimokkhe
-Saṅghādisesavaṇṇanā niṭṭhitā.
+
+
+.

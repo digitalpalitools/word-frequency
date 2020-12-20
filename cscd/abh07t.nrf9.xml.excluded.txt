@@ -4,7 +4,7 @@ Bhūmibhedacittavaṇṇanā
 ‘‘,;
 ,’’.
 .,...
-Bhūmibhedacittavaṇṇanā niṭṭhitā.
+.
 Akusalacittavaṇṇanā
 4.,‘‘‘’’’,,‘‘’’.
 ,,,,,,,..‘‘’’.‘‘’’-.,,‘‘’’,.,,,,,..–
@@ -27,7 +27,7 @@ Akusalacittavaṇṇanā
 .
 7..-.-..,,.,.
 8..,...
-Akusalacittavaṇṇanā niṭṭhitā.
+.
 Ahetukacittavaṇṇanā
 9.‘‘’’...‘‘,’’.–‘‘,,’’.‘‘,,’’(ma. ni. 2.209)?,-,‘‘’’.-‘‘’’(visuddhi. 2.510)..‘‘’’(dha. sa. aṭṭha. 431; visuddhi. 2.454).
 .‘‘’’...,..,...,.’’...,...
@@ -42,7 +42,7 @@ Ahetukacittavaṇṇanā
 ,.,.?.,.,,.
 11.‘‘’’.,,..,,..,.
 12....
-Ahetukacittavaṇṇanā niṭṭhitā.
+.
 Sobhanacittavaṇṇanā
 14.‘‘’’.,,,.
 Kāmāvacarasobhanacittavaṇṇanā
@@ -60,7 +60,7 @@ Kāmāvacarasobhanacittavaṇṇanā
 18..,‘‘’’(dī. ni. 1.249).
 19.,,..?,.
 20.‘‘’’.,,.
-Kāmāvacarasobhanacittavaṇṇanā niṭṭhitā.
+.
 Rūpāvacaracittavaṇṇanā
 21.‘‘…pe…’’..,,,.?.,..,.
 ..‘‘’’(dha. sa. 8).,,.,,,,,.
@@ -75,7 +75,7 @@ Rūpāvacaracittavaṇṇanā
 -,,,,,,‘‘,’’.
 22...
 25.,.
-Rūpāvacaracittavaṇṇanā niṭṭhitā.
+.
 Arūpāvacaracittavaṇṇanā
 26.‘‘’’.,,.‘‘’’‘‘’’‘‘’’...‘‘’’‘‘’’.,,.
 ,.‘‘’’.,-.,..
@@ -84,8 +84,8 @@ Arūpāvacaracittavaṇṇanā
 30.,.,.–
 ‘‘,;
 ,’’;(Dha. sa. aṭṭha. 268);
-Arūpāvacaracittavaṇṇanā niṭṭhitā.
-Sobhanacittavaṇṇanā niṭṭhitā.
+.
+.
 Lokuttaracittavaṇṇanā
 31.,‘‘’’.,‘‘’’,-.,,,,.,,,.
 ,,,,,...,‘‘’’...
@@ -94,12 +94,12 @@ Lokuttaracittavaṇṇanā
 32.,..
 34.,.
 .?.,...
-Lokuttaracittavaṇṇanā niṭṭhitā.
+.
 Cittagaṇanasaṅgahavaṇṇanā
 35.‘‘’’.
 36.‘‘’’.,,,,.,.‘‘’’.‘‘,’’..,,..
 37...
-Cittagaṇanasaṅgahavaṇṇanā niṭṭhitā.
+.
 Vitthāragaṇanavaṇṇanā
 38..,.‘‘’’,,.,.‘‘,’’.
 ,.,,.,.,........,..
@@ -108,5 +108,5 @@ Vitthāragaṇanavaṇṇanā
 ,’’.(nāma. pari. 24);
 ,,,,,,..
 43.‘‘’’.
-Iti abhidhammatthavibhāviniyā nāma abhidhammatthasaṅgahavaṇṇanāya
-Cittaparicchedavaṇṇanā niṭṭhitā.
+
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Pārājikakaṇḍa-aṭṭhakathā (paṭhamo bhāgo)
 Ganthārambhakathā
@@ -142,7 +142,7 @@ Paṭhamamahāsaṅgītikathā
 ,..,..,;.;.–
 ‘‘,;
 ,’’.
-Itaro  pana –
+–
 ,;
 ,.
 .–‘‘’’(ma. ni. 3.389; saṃ. ni. 5.195).‘‘’’(ma. ni. 1.49).‘‘’’(ma. ni. 2.399; su. ni. 558).‘‘’’(mahāva. 85)..‘‘’’(vi. va. 75).
@@ -217,9 +217,9 @@ Itaro  pana –
 ,.
 ,;
 ,.
-Āyasmā  hi upāli imaṃ vinayavaṃsaṃ vinayatantiṃ vinayapaveṇiṃ bhagavato
+
 .---,.,.,.,.,.,.--....
-Paṭhamamahāsaṅgītikathā niṭṭhitā.
+.
 Dutiyasaṅgītikathā
 .–
 ,;
@@ -232,7 +232,7 @@ Dutiyasaṅgītikathā
 .,.‘‘’’..–
 ,;
 ,.
-Sā panāyaṃ –
+–
 ,;
 ,.
 ,;
@@ -254,8 +254,8 @@ Sā panāyaṃ –
 ,.
 ,;
 ,.
-Ettāvatā sabbākārena dutiyasaṅgītivaṇṇanā niṭṭhitā hoti.
-Dutiyasaṅgītikathā niṭṭhitā
+.
+
 Tatiyasaṅgītikathā
 ...‘‘,’’.,‘‘,’’.‘‘,,’’.‘‘’’?‘‘,,’’.–‘‘’’?‘‘’’.‘‘’’..–‘‘‘’.’’!–‘‘,,‘’‘’;’’.
 –‘‘‘’,’’‘‘’’.....,.–‘‘,,.’’...‘‘’’.
@@ -417,7 +417,7 @@ Tatiyasaṅgītikathā
 ,.
 ‘‘,;
 ,’’.
-Svāyaṃ rājā taṃ divasaṃ asokaraññā pesitena abhisekena ekamāsābhisitto hoti.
+.
 .–‘‘’’‘‘’’.–
 ‘‘,;
 ,’’.
@@ -485,5 +485,5 @@ Svāyaṃ rājā taṃ divasaṃ asokaraññā pesitena abhisekena ekamāsābhis
 ‘‘,;
 ,’’.
 .
-Tatiyasaṅgītikathā niṭṭhitā.
-Bāhiranidānakathā niṭṭhitā.
+.
+.

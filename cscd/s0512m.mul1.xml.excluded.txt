@@ -30,7 +30,7 @@ bhisamūlaṃ (ka.),.
 10.
 ‘‘,;
 ,’’.
-Mātuposakacariyaṃ paṭhamaṃ.
+.
 2. Bhūridattacariyā
 11.
 ‘‘,;
@@ -59,7 +59,7 @@ Mātuposakacariyaṃ paṭhamaṃ.
 19.
 ‘‘,;
 ,’’.
-Bhūridattacariyaṃ dutiyaṃ.
+.
 3. Campeyyanāgacariyā
 20.
 ‘‘,;
@@ -79,7 +79,7 @@ Bhūridattacariyaṃ dutiyaṃ.
 25.
 ‘‘,;
 ,’’.
-Campeyyanāgacariyaṃ tatiyaṃ.
+.
 4. Cūḷabodhicariyā
 26.
 ‘‘,;
@@ -114,7 +114,7 @@ Campeyyanāgacariyaṃ tatiyaṃ.
 36.
 ‘‘,;
 ,’’.
-Cūḷabodhicariyaṃ catutthaṃ.
+.
 5. Mahiṃsarājacariyā
 37.
 ‘‘,;
@@ -149,7 +149,7 @@ Cūḷabodhicariyaṃ catutthaṃ.
 47.
 ‘‘,;
 ,’’.
-Mahiṃsarājacariyaṃ pañcamaṃ.
+.
 6. Rururājacariyā
 48.
 ‘‘,;
@@ -188,7 +188,7 @@ Mahiṃsarājacariyaṃ pañcamaṃ.
 59.
 ‘‘,;
 ,’’.
-Rururājacariyaṃ chaṭṭhaṃ.
+.
 7. Mātaṅgacariyā
 60.
 ‘‘,;
@@ -208,7 +208,7 @@ Rururājacariyaṃ chaṭṭhaṃ.
 65.
 ‘‘,;
 ,’’.
-Mātaṅgacariyaṃ sattamaṃ.
+.
 8. Dhammadevaputtacariyā
 66.
 ‘‘,;
@@ -234,7 +234,7 @@ Mātaṅgacariyaṃ sattamaṃ.
 73.
 ‘‘,;
 ,’’.
-Dhammadevaputtacariyaṃ aṭṭhamaṃ.
+.
 9. Alīnasattucariyā
 74.
 ‘‘,kampilāyaṃ (sī.), kappilāyaṃ (syā.);
@@ -269,7 +269,7 @@ supakkakālamaññāya (pī.),’.
 84.
 ‘‘,;
 ,’’.
-Alīnasattucariyaṃ navamaṃ.
+.
 10. Saṅkhapālacariyā
 85.
 ‘‘,;
@@ -292,8 +292,8 @@ Alīnasattucariyaṃ navamaṃ.
 91.
 ‘‘,;
 ,’’.
-Saṅkhapālacariyaṃ dasamaṃ.
-Hatthināgavaggo dutiyo.
+.
+.
 –
 ,;
 ,.
@@ -301,4 +301,4 @@ Hatthināgavaggo dutiyo.
 ,.
 ,;
 ,.
-Sīlapāraminiddeso niṭṭhito.
+.

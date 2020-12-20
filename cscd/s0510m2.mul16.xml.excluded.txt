@@ -163,7 +163,7 @@ cittapuṇṇāya tāneva (syā.), migaṃ puṇṇāya teneva (pī.),.
 ‘‘,;
 ,’’.
 .
-Kuṇḍalakesātheriyāpadānaṃ paṭhamaṃ.
+.
 2. Kisāgotamītherīapadānaṃ
 55.
 ‘‘,;
@@ -283,7 +283,7 @@ sasutā (sī. pī.),.
 94.
 ‘‘…pe…’’.
 .
-Kisāgotamītheriyāpadānaṃ dutiyaṃ.
+.
 3. Dhammadinnātherīapadānaṃ
 95.
 ‘‘,;
@@ -339,7 +339,7 @@ Kisāgotamītheriyāpadānaṃ dutiyaṃ.
 112.
 ‘‘,;
 ,.
-Tatiyaṃ bhāṇavāraṃ.
+.
 113.
 ‘‘,;
 ,.
@@ -393,7 +393,7 @@ Tatiyaṃ bhāṇavāraṃ.
 130.
 ‘‘…pe…’’.
 .
-Dhammadinnātheriyāpadānaṃ tatiyaṃ.
+.
 4. Sakulātherīapadānaṃ
 131.
 ‘‘,;
@@ -498,7 +498,7 @@ sañjalanti (syā. ka.), saṃcaranti (pī.),.
 165.
 ‘‘…pe…’’.
 .
-Sakulātheriyāpadānaṃ catutthaṃ.
+.
 5. Nandātherīapadānaṃ
 166.
 ‘‘,;
@@ -660,7 +660,7 @@ dāmāmālañca (syā.), dololullāva (ka.),.
 219.
 ‘‘…pe…’’.
 .
-Nandātheriyāpadānaṃ pañcamaṃ.
+.
 6. Soṇātherīapadānaṃ
 220.
 ‘‘,;
@@ -732,7 +732,7 @@ Nandātheriyāpadānaṃ pañcamaṃ.
 243.
 ‘‘…pe…’’.
 .
-Soṇātheriyāpadānaṃ chaṭṭhaṃ.
+.
 7. Bhaddakāpilānītherīapadānaṃ
 244.
 ‘‘,sabbadhammesu cakkhumā (sī. pī.);
@@ -942,7 +942,7 @@ buddhā (syā.),.
 313.
 ‘‘…pe…’’.
 .
-Bhaddakāpilānītheriyāpadānaṃ sattamaṃ.
+.
 8. Yasodharātherīapadānaṃ
 314.
 ,;
@@ -1113,7 +1113,7 @@ sace metthi (sī.), pajānantī (ka.),.
 369.
 ‘‘‘,;
 ,’.
-Catutthaṃ bhāṇavāraṃ.
+.
 370.
 ‘‘,;
 ,.
@@ -1235,7 +1235,7 @@ hitvā (syā.), hetvā (pī.),’.
 ‘‘,;
 ,’’.
 .
-Yasodharātheriyāpadānaṃ aṭṭhamaṃ.
+.
 9. Yasodharāpamukhadasabhikkhunīsahassaapadānaṃ
 411.
 ‘‘,;
@@ -1280,7 +1280,7 @@ dīgharattamidaṃ (syā. ka.),.
 425.
 ‘‘…pe…’’.
 .
-Yasodharāpamukhadasabhikkhunīsahassāpadānaṃ navamaṃ.
+.
 10. Yasodharāpamukhaaṭṭhārasabhikkhunīsahassaapadānaṃ
 426.
 ‘‘,;
@@ -1463,8 +1463,8 @@ tāsaṃ (syā.),.
 ‘‘,;
 ,santasaṅkhatadoso yo, pajjotaṃ (syā. pī. ka.)’’.
 .
-Yasodharāpamukhaaṭṭhārasabhikkhunīsahassāpadānaṃ dasamaṃ.
-Kuṇḍalakesīvaggo tatiyo.
+.
+.
 –
 ,;
 ,.

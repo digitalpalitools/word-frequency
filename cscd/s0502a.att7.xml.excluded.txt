@@ -7,7 +7,7 @@
 ,’’.
 .,,.,.?.,...,..,.,‘‘,’’.
 .
-Jīvakapañhavatthu paṭhamaṃ.
+.
 2. Mahākassapattheravatthu
 .
 ‘‘’’.‘‘’’‘‘’’..‘‘,.,,,..?,’’.‘‘,’’.‘‘’’,.
@@ -18,7 +18,7 @@ Jīvakapañhavatthu paṭhamaṃ.
 ,’’.
 ..,–‘‘,,,’’;‘‘,,’’.,.
 .
-Mahākassapattheravatthu dutiyaṃ.
+.
 3. Belaṭṭhasīsattheravatthu
 .
 ‘‘’’..–
@@ -28,7 +28,7 @@ Mahākassapattheravatthu dutiyaṃ.
 ,’’.
 –,.,.,,,...,,....,,,,,..,,,,,,,,.
 .
-Belaṭṭhasīsattheravatthu tatiyaṃ.
+.
 4. Anuruddhattheravatthu
 .
 ..‘‘,’’,.‘‘’’.,,,,,,,,.
@@ -39,7 +39,7 @@ Belaṭṭhasīsattheravatthu tatiyaṃ.
 ,’’.
 ..‘‘,,,’’,‘‘,’’.
 .
-Anuruddhattheravatthu catutthaṃ.
+.
 5. Mahākaccāyanattheravatthu
 .
 ....,,,..‘‘,,,’’..‘‘,‘,,,’’’.,‘‘,’’–
@@ -50,7 +50,7 @@ Anuruddhattheravatthu catutthaṃ.
 ’’.
 –,.,.
 .
-Mahākaccāyanattheravatthu pañcamaṃ.
+.
 6. Sāriputtattheravatthu
 .
 ...–‘‘’’.‘‘’’.,.‘‘’’‘‘,,’’..
@@ -63,7 +63,7 @@ Mahākaccāyanattheravatthu pañcamaṃ.
 ’’.
 –,,,,.,;,.‘‘,’’,,.,..
 .
-Sāriputtattheravatthu chaṭṭhaṃ.
+.
 7. Kosambivāsītissattherasāmaṇeravatthu
 .
 ‘‘’’..–‘‘’’.‘‘,,,,,’’.‘‘,,’’.‘‘,’’?‘‘,’’.‘‘,,,’’..‘‘’’...
@@ -74,7 +74,7 @@ Sāriputtattheravatthu chaṭṭhaṃ.
 ,’’.
 .....
 ..
-Kosambivāsītissattherasāmaṇeravatthu sattamaṃ.
+.
 8. Sāriputtattheravatthu
 .
 .‘‘,,’’(saṃ. ni. 5.514).‘‘,,,…pe….,,,.…pe…’’(saṃ. ni. 5.514).‘‘,’’.‘‘,,.‘’.‘,’.,..’’–
@@ -83,7 +83,7 @@ Kosambivāsītissattherasāmaṇeravatthu sattamaṃ.
 ,’’.
 –.,.,..,...
 ..
-Sāriputtattheravatthu aṭṭhamaṃ.
+.
 9. Khadiravaniyarevatattheravatthu
 .
 ,,,..–‘‘,.,,,’’.‘‘,,,,,,’’..‘‘,,’’.‘‘’’‘‘’’.,‘‘,,’’.‘‘’’?‘‘,,’’.–‘‘,,’’..
@@ -103,7 +103,7 @@ Sāriputtattheravatthu aṭṭhamaṃ.
 –‘‘,,’’.‘‘,,’’‘‘’’,‘‘,,,’’–
 ‘‘,;
 ,’’.(dha. pa. 412);
-Khadiravaniyarevatattheravatthu navamaṃ.
+.
 10. Aññataraitthivatthu
 .
 .‘‘,’’..‘‘,’’,,..‘‘’’.‘‘‘’’’,–‘‘,’’.–
@@ -112,6 +112,6 @@ Khadiravaniyarevatattheravatthu navamaṃ.
 ,’’.
 ...?,.
 .
-Aññataraitthivatthu dasamaṃ.
-Arahantavaggavaṇṇanā niṭṭhitā.
-Sattamo vaggo.
+.
+.
+.

@@ -27,7 +27,7 @@ kati āpajjatāpattī tisso āpattiyo phuse
 
  asantaṃ uttariṃ dhammaṃ bhaṇantassa parājayo
 thullaccayaṃ pariyāye ñāte no ce tu dukkaṭaṃ
-
+pārājikakathā
 
  bhaṇa sukkaṃ vimocento
 kati āpattiyo phuse
@@ -92,7 +92,7 @@ kammavācāya osāne āpatti garukaṃ siyā
 
  bhedānuvattake ceva dubbace kuladūsake
 saṅghabhedakatulyova hoti āpattinicchayo
-
+saṅghādisesakathā
 
  atikkamanto atirekacīvaraṃ
 dasāhamāpajjati ekameva
@@ -138,7 +138,7 @@ gantvātirekachakkhattuṃ ṭhānenapi ca cīvaraṃ
 
  nipphādeti sace tassa honti āpattiyo duve
 payoge dukkaṭaṃ tassa lābhe nissaggiyaṃ siyā
-
+kathinavaggo paṭhamo
 
  dosā kosiyavaggassa dvedveādīsu pañcasu
 payoge dukkaṭaṃ vuttaṃ lābhe nissaggiyaṃ siyā
@@ -157,7 +157,7 @@ samāpanne ca nissaggiṃ payoge dukkaṭaṃ phuse
 
  nānappakārakaṃ bhikkhu āpajje kayavikkayaṃ
 payoge dukkaṭaṃ tasmiṃ kate nissaggiyaṃ phuse
-
+kosiyavaggo dutiyo
 
  pattaṃ atikkamentassa dasāhamatirekakaṃ
 tassa nissaggiyāpatti hoti ekāva bhikkhuno
@@ -197,8 +197,8 @@ pariṇāmeti ce bhikkhu dve panāpattiyo phuse
 
  payoge dukkaṭaṃ hoti nissaggi pariṇāmite
 sabbattha appanāvāraparihāni katā mayā
-
-
+pattavaggo tatiyo
+tiṃsanissaggiyakathā
 
  vadantassa musāvādaṃ pañca āpattiyo siyuṃ
 manussuttaridhamme tu abhūtasmiṃ parājayo
@@ -235,7 +235,7 @@ payoge dukkaṭaṃ tassa pācittārocite siyā
 
  pathaviṃ khaṇato tassa payoge dukkaṭaṃ mataṃ
 pahāre ca pahāre ca pācitti pariyāputā
-
+musāvādavaggo paṭhamo
 
  bhūtagāmaṃ tu pātento dve panāpattiyo phuse
 payoge dukkaṭaṃ tassa pāte pācitti dīpitā
@@ -272,7 +272,7 @@ payoge dukkaṭaṃ hoti pācitti panadhiṭṭhite
 
  jānaṃ sappāṇakaṃ toyaṃ tiṇaṃ vā siñcato pana
 payoge dukkaṭaṃ hoti sitte pācittiyaṃ siyā
-
+bhūtagāmavaggo dutiyo
 
  phuse bhikkhuniyo bhikkhu ovadanto asammato
 payoge dukkaṭaṃ tassa pācittovadite siyā
@@ -300,7 +300,7 @@ ajjhohārapayogesu pācitti paridīpitā
 
  bhikkhu bhikkhuniyā saddhiṃ nisajjaṃ tu raho pana
 kappento hi phuse dvepi payoge dukkaṭādayo
-
+ovādavaggo tatiyo
 
  taduttariṃ āvasathapiṇḍaṃ tu paribhuñjato
 anantarassa vaggassa navamena samo nayo
@@ -322,7 +322,7 @@ bhojanassa panosāne pācitti pariyāputā
 
  sattame aṭṭhame ceva navame dasamepi ca
 paṭhamena samānāva āpattīnaṃ vibhāgatā
-
+bhojanavaggo catuttho
 
  acelakādino dento sahatthā bhojanādikaṃ
 payoge dukkaṭaṃ patto dinne pācittiyaṃ phuse
@@ -353,7 +353,7 @@ payoge dukkaṭaṃ vuttaṃ pācitti vasite siyā
 
  uyyodhikaṃ  tu gacchanto dve panāpattiyo phuse
 gacchanto dukkaṭaṃ vuttaṃ hoti pācitti passato
-
+acelakavaggo pañcamo
 
  suraṃ vā pana mereyyaṃ pivanto dve phuse muni
 gaṇhato dukkaṭaṃ pātuṃ pīte pācittiyaṃ siyā
@@ -384,7 +384,7 @@ dve phuse paribhuñjanto payoge dukkaṭādayo
 
  bhikkhussāpanidhento  dve phuse pattādikaṃ pana
 payoge dukkaṭaṃ tasmiṃ sesāpanihite siyā
-
+surāpānavaggo chaṭṭho
 
  sañcicca  jīvitā pāṇaṃ voropento tapodhano
 āpattiyo catassova āpajjati na saṃsayo
@@ -424,7 +424,7 @@ payoge dukkaṭaṃ tassa bhutte pācittiyaṃ siyā
 
  nāsitaṃ samaṇuddesaṃpalāpento duve phuse
 payoge dukkaṭaṃ vuttaṃ pācitti upalāpite
-
+sappāṇakavaggo sattamo
 
  vuccamānassa  bhikkhussa bhikkhūhi sahadhammikaṃ
 na sakkhissāmiiccevaṃ bhaṇato dukkaṭādayo
@@ -464,7 +464,7 @@ khīyanto dve phuse pacchā payoge dukkaṭādayo
 
  lābhaṃ pariṇataṃ jānaṃ saṅghikaṃ puggalassa hi
 dve phuse pariṇāmento payoge dukkaṭādayo
-
+sahadhammikavaggo aṭṭhamo
 
  pubbe  avidito hutvā rañño antepuraṃ pana
 pavisantassa bhikkhuno dve panāpattiyo siyuṃ
@@ -492,19 +492,19 @@ payoge dukkaṭaṃ tasmiṃ sesā kārāpite siyā
 
  sattame aṭṭhame ceva navame dasamepi ca
 anantarasamoyeva āpattīnaṃ vinicchayo
-
-
+ratanavaggo navamo
+pācittiyakathā
 
  catūsu duvidhāpatti pāṭidesaniyesupi
 avisesena niddiṭṭhā buddhenādiccabandhunā
 
  bhuñjissāmīti bhikkhussa dukkaṭaṃ paṭigaṇhato
 ajjhohāresu sabbattha pāṭidesaniyaṃ siyā
-
+pāṭidesanīyakathā
 
  sekhiyesu  ca dhammesu ekāvāpatti dīpitā
 anādaravaseneva dukkaṭaṃ samudāhaṭaṃ
-
+sekhiyakathā
 
  paññattā methunaṃ dhammaṃ paṭisevanapaccayā
 kati āpattiyo honti catassova bhavanti hi
@@ -529,4 +529,4 @@ pācittiyaṃ panuddiṭṭhaṃ tassaṅgulipatodake
 
  sesesu sekhiyantesu āpattīnaṃ vinicchayo
 heṭṭhā vuttanayeneva veditabbo vibhāvinā
-
+mahāvibhaṅgasaṅgaho niṭṭhito

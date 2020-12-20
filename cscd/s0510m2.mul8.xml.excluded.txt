@@ -116,9 +116,9 @@
 38.
 ‘‘,;
 ,.
-Itthaṃ sudaṃ āyasmā tikaṇikārapupphiyo thero imā
+
 .
-Tikaṇikārapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekapattadāyakattheraapadānaṃ
 39.
 ‘‘,;
@@ -153,9 +153,9 @@ yasasāva janānañca (syā.),pattabhūto (sī. pī.).
 ‘‘…pe….
 50.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ekapattadāyako thero imā gāthāyo
+
 .
-Ekapattadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Kāsumāraphaliyattheraapadānaṃ
 51.
 ‘‘,;
@@ -172,9 +172,9 @@ Ekapattadāyakattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 56.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā kāsumāraphaliyo thero imā gāthāyo
+
 .
-Kāsumāraphaliyattherassāpadānaṃ tatiyaṃ.
+.
 4. Avaṭaphaliyattheraapadānaṃ
 57.
 ‘‘,;
@@ -191,9 +191,9 @@ Kāsumāraphaliyattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 62.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā avaṭaphaliyo thero imā gāthāyo
+
 .
-Avaṭaphaliyattherassāpadānaṃ catutthaṃ.
+.
 5. Pādaphaliyattheraapadānaṃ
 63.
 ‘‘,;
@@ -207,9 +207,9 @@ Avaṭaphaliyattherassāpadānaṃ catutthaṃ.
 ‘‘…pe….
 67.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā pādaphaliyo thero imā gāthāyo
+
 .
-Pādaphaliyattherassāpadānaṃ pañcamaṃ.
+.
 6. Mātuluṅgaphaladāyakattheraapadānaṃ
 68.
 ‘‘,;
@@ -226,9 +226,9 @@ dhīrassa (sī.),.
 ‘‘…pe….
 73.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā mātuluṅgaphaladāyako thero imā
+
 .
-Mātuluṅgaphaladāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ajeliphaladāyakattheraapadānaṃ
 74.
 ‘‘ajino (syā.),;
@@ -245,9 +245,9 @@ Mātuluṅgaphaladāyakattherassāpadānaṃ chaṭṭhaṃ.
 ‘‘…pe….
 79.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ajeliphaladāyako thero imā
+
 .
-Ajeliphaladāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Amodaphaliyattheraapadānaṃ
 80.
 ‘‘,;
@@ -261,9 +261,9 @@ Ajeliphaladāyakattherassāpadānaṃ sattamaṃ.
 ‘‘…pe….
 84.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā amodaphaliyo thero imā gāthāyo
+
 .
-Amodaphaliyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Tālaphaladāyakattheraapadānaṃ
 85.
 ‘‘,;
@@ -280,9 +280,9 @@ Amodaphaliyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 90.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā tālaphaladāyako thero imā gāthāyo
+
 .
-Tālaphaladāyakattherassāpadānaṃ navamaṃ.
+.
 10. Nāḷikeraphaladāyakattheraapadānaṃ
 91.
 ‘‘,;
@@ -308,10 +308,10 @@ Tālaphaladāyakattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 99.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā nāḷikeraphaladāyako thero imā
+
 .
-Nāḷikeraphaladāyakattherassāpadānaṃ dasamaṃ.
-Kaṇikāravaggo ekapaññāsamo.
+.
+.
 –
 ,;
 ,.

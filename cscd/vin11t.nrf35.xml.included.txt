@@ -81,8 +81,8 @@ iccevaṃ yathāvuttanayena uppādavayantātītakattā accantaṃ amataṃ dhamm
 iccevaṃ saṅkhepato kammaṭṭhānabhāvanānayo ācariyena dassitoti ganthabhīrujanānuggahavasena vitthāravaṇṇanaṃ anāmasitvā  anupadavaṇṇanāmattamevettha kataṃ vitthāravaṇṇanā panassa visuddhimaggato tabbaṇṇanato ca gahetabbā
 viññāsakkamato vāpīti akkharapadavākyasaṅkhātagantharacanakkamato vā pubbāparavasena vāti vattabbānamatthavisesānaṃ paṭipāṭivasena vā akkharabandhe vāti saddasatthaalaṅkārasatthachandovicitisatthānupātena kātabbāya akkharapadaracanāya gāthābandheti attho ayuttaṃ viya yadi dissatīti yojanā
 tanti taṃ ayuttanti dissamānaṭṭhānaṃ tathā na gahetabbanti dissamānākāreneva ayuttanti na gahetabbaṃ kathaṃ gahetabbanti āha gahetabbamadosatoti tassa kāraṇamāha mayā upaparikkhitvā katattā pana sabbasoti yo yo panettha doso dissati khittadoso vā hotu vipallāsaggahaṇadoso vā nāparaṃ dosoti dīpeti tenetaṃ pakaraṇaṃ sabbesaṃ tipiṭakapariyattippabhedāyatanabahussutānaṃ sikkhākāmānaṃ therānaṃ attano pamāṇabhūtataṃ sūceti attano pamāṇasūcanena attanā viracitassa vinayavinicchayassāpi pamāṇataṃ vibhāvento tassa savanuggahadhāraṇādīsu sotujanaṃ niyojetīti daṭṭhabbaṃ
-
-
+iti vinayatthasārasandīpaniyā vinayavinicchayavaṇṇanāya
+kammaṭṭhānabhāvanāvidhānakathāvaṇṇanā niṭṭhitā
 
  evaṃ  vinayo saṃvaratthāya saṃvaro avippaṭisāratthāya avippaṭisāro pāmojjatthāya pāmojjaṃ pītatthāya pīti passaddhatthāya passaddhi sukhatthāya sukhaṃ samādhatthāya samādhi yathābhūtañāṇadassanatthāya yathābhūtañāṇadassanaṃ nibbidatthāya nibbidā virāgatthāya virāgo vimuttatthāya vimutti vimuttiñāṇadassanatthāya vimuttiñāṇadassanaṃ anupādāpaanibbānatthāyāti  dassitānisaṃsaparamparāniddhāraṇamukhena anupādisesanibbānadhātupariyantaṃ sānisaṃsaṃ vinayakathaṃ kathetvā tassā pamāṇatañca vibhāvetvā attano sutabuddhattā sanidānaṃ bhikkhave dhammaṃ desemīti  vacanato bhagavato caritamanuvattanto tassa desakālādivasena nidānaṃ dassetumāha seṭṭhassātiādi
 tattha seṭṭhassāti dhanadhaññavatthālaṅkārādiupabhogaparibhogasampattiyā ceva gāmarājadhānikhettavatthunaditaḷākārāmādisampattiyā ca pasatthatarassa nābhibhūteti majjhavattitāya nābhisadise nirākuleti majjhavattitāyeva parimaṇḍalādisambhavato vilopādiākularahite sabbassa pana lokassa rāmaṇīyake sampiṇḍite viya ramaṇīyatare bhūtamaṅgale gāmeti sambandho
@@ -108,7 +108,7 @@ iti tambapaṇṇiyenātiādi pakaraṇakārakassa pabhavasuddhibāhusaccādigu�
 tattha tambapaṇṇiyenāti tambapaṇṇimhi jāto tattha vidito tato āgatoti vā tambapaṇṇiyo tena byākaraṇamavecca adhītavāti veyyākaraṇo paramo ca uttamo ca so veyyākaraṇo cāti paramaveyyākaraṇo tena tīṇi piṭakāni samāhaṭāni tiṇṇaṃ piṭakānaṃ samāhāro vā tipiṭakaṃ nīyanti bujjhīyanti seyyatthikehīti nayā nayanti vā etehi lokiyalokuttarasampattiṃ  visesenāti nayā pāḷinayaatthanayaekattanayādayova tipiṭake āgatā nayā tipiṭakanayā vidhānaṃ pasāsanaṃ pavattanaṃ vā vidhi tipiṭakanayānaṃ vidhi tipiṭakanayavidhi tipiṭakanayavidhimhi kusalo tipiṭakanayavidhikusalo tena
 paramā  ca te kavijanā cāti paramakavijanā paramakavijanānaṃ hadayāni paramakavijanahadayāni padumānaṃ vanāni padumavanāni paramakavijanahadayāni ca tāni padumavanāni cāti paramakavijanahadayapadumavanāni tesaṃ vikasanaṃ bodhaṃ sūriyo viya karotīti paramakavijanahadayapadumavanavikasanakaro tena kavī ca te varā cāti kavivarā kavīnaṃ varāti vā kavivarā kavivarānaṃ vasabho uttamo kavivaravasabho tena kavirājarājenāti attho
 paramā ca sā rati cāti paramarati paramaratiṃ karontīti paramaratikarāni varāni ca tāni madhurāni cāti varamadhurāni varamadhurāni ca tāni vacanāni cāti varamadhuravacanāni paramaratikarāni ca tāni varamadhuravacanāni cāti paramaratikaravaramadhuravacanāni uggiraṇaṃ kathanaṃ uggāro paramaratikaravaramadhuravacanānaṃ uggāro etassāti parama vacanuggāro tena uragapuraṃ paramapaveṇigāmo assa nivāsoti uragapuro tena buddhadattenāti evaṃnāmakena therena ācariyabuddhadattattherenāti attho ayaṃ vinayavinicchayo racitoti sambandho
-
-
-
-
+niṭṭhitā cāyaṃ vinayatthasārasandīpanī nāma
+vinayavinicchayavaṇṇanā
+vinayavinicchayaṭīkā samattā
+ namo tassa bhagavato arahato sammāsambuddhassa

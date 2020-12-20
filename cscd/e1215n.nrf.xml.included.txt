@@ -1,5 +1,5 @@
 ﻿
-
+namo tassa bhagavato arahato sammāsambuddhassa
 
  satatavitata kittiṃ dhastakandappadappaṃ
 tibhavahitavidhānaṃ sabbalokekaketuṃ
@@ -713,7 +713,7 @@ paṭhame mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+iti paṭhamo vijayo
 
  disvā namuci dhīrassa mālutenānupaddavaṃ
 dukkhī ca dummano āsi kodhenāturamānaso
@@ -750,7 +750,7 @@ dutiye mārayuddhamhi mārassāsī parājayo
 
  evaṃ mahānubhāvoti mantvāna nara sārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+dutiyo vijayo
 
  tato māro asakkonto vassoghena upaddavaṃ
 kātuṃ tassa usūyādi kopākulamano tadā
@@ -781,7 +781,7 @@ tatiye māra yuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+tatiyo vijayo
 
  tenānupaddutaṃ buddhaṃ passitvāna pajāpati
 dukkhito dummano hutvā evaṃ cintesi dummati
@@ -803,7 +803,7 @@ catutthe mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+catuttho vijayo
 
  disvānattamano māro ditto kodhagginā tadā
 māpetvāyudhavassaṃ so pesesi tadupantikaṃ
@@ -819,7 +819,7 @@ pañcame mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+pañcamo vijayo
 
  taṃ disvā pāpimā kuddho yaṃ yaṃ tassa karomahaṃ
 taṃ taṃdānī na sakkoti kiñci kākumupakkamaṃ
@@ -835,7 +835,7 @@ chaṭṭhe namuci yuddhamhi mārassāsī parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+chaṭṭho vijayo
 
  tato disvāna taṃ kaṇho kaṇhasenā purakkhato
 saṅkuddho pesayi tattha vassaṃ so sikatāmayaṃ
@@ -848,7 +848,7 @@ sattame mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna nara sārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+sattamo vijayo
 
  tampi disvā asajjanto ahirī kopaketuko
 māpetvā palipandāni tattha osīdayāmi taṃ
@@ -882,7 +882,7 @@ navame mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+navamo vijayo
 
  evaṃ navahi vuṭṭhihi katvā māro mahā bhavaṃ
 na tassopaddavaṃ disvā dittakopānalākulo
@@ -907,7 +907,7 @@ dasame mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+dasamo vijayo
 
  iti kopagginā dittamanaṃ māraṃ tadā jino
 karuṇājalasekena nibbāpento nisīdi so
@@ -1177,7 +1177,7 @@ carime mārayuddhamhi mārassāsi parājayo
 
  evaṃ mahānubhāvoti mantvāna narasārathiṃ
 niccaṃ vandatha pūjetha so hi vo saraṇaṃ sadā
-
+ekādasamo vijayo
 
  laddhābhivijaye buddhe nisinne vajirāsane
 parivārayuṃ gatāgamma pure viya surādayo
@@ -1231,7 +1231,7 @@ yenocitā paramapāramitā jinena
 nikkhamma patva calapattamahīruhassa
 mūle nisajja sabalaṃ pabalañca māraṃ
 pāpārayo ca vijito sa dadātu santiṃ
-
+abhisambodhi kathā
 
  tilokanātho sugato tato tadā
 udānavācaṃ samudāharitvā
@@ -1252,7 +1252,7 @@ jino samāpatti valañji tattha
 hatāvakāso jitapañcamāro
 pitāmahādīhi mahīyamāno
 khepesi satthā divasāni satta
-
+iti paṭhama sattāhaṃ
 
  yasmāsanaṃ neva jahāti tasmā
 tisandhiyuttena nisīditeva
@@ -1283,7 +1283,7 @@ pūjesi taṃnimisalocanehi
 katassa thūpassa tadeva nāmaṃ
 ahosi devā ca naroragā ca
 mahenti te tena divaṃ payanti
-
+iti dutiya sattāhaṃ
 
  devā tato devavarassa tassa
 sucaṅkamaṃkaṃsu maṇīhi nānā
@@ -1299,7 +1299,7 @@ so caṅkamī satta ahāni tattha
 katassa thūpassa tadeva nāmaṃ
 ahosi devā ca naroragā ca
 mahenti te tena divaṃ payanti
-
+iti tatiya sattāhaṃ
 
  tato dumindassa surāsurindā
 mahītale pacchimottarāyaṃ
@@ -1315,7 +1315,7 @@ sālolayaṃ khepayahāni satta
 katassa thūpassa tadeva nāmaṃ
 ahosi devā ca naroragā ca
 mahenti te tena divaṃ payanti
-
+iti catuttha sattāhaṃ
 
  tato jino gantvajapālamūle
 vimuttijaṃ sāduphalaṃnubhonto
@@ -1451,7 +1451,7 @@ tatheva nosī tava pādasevā
 sahassamekañca satāni aṭṭha
 vesāni sammā abhinimmiṇitvā
 palobhayuntaṃ bahūdhā munindaṃ
-
+tato taṇhā
 
  yakkhosi mattosi silāmayosi
 acetanosātha ayomayosi
@@ -1472,25 +1472,25 @@ so mucchati muyhati dukkhameti
 vittannu jito uda patthayāno
 āgunnū gāmasmiṃ akāsi kiñci
 janena kasmā na karosi sakkhiṃ
-
+satthā
 
  atthassa pattiṃ hadayassa santiṃ
 chetvāna senaṃ piyasātarūpaṃ
 ekohaṃ jhāyaṃ sukhamanubodhiṃ
 janena tasmā na karoma sakkhiṃ
-
+imā  dve pāliyaṃ
 
  paluṭṭhagattaṃ dahanena makkaṭiṃ
 susānapetiñca jigucchanīyaṃ
 jegucchiyaṃ jaṅgama mīḷharāsiṃ
 disvāna ko taṃ varaye sapañño
-
+atha arati
 
  kathaṃ vihārī bahulo ca bhikkhu
 pañcoghatiṇṇe atarīdha chaṭṭhaṃ
 kathaṃ jhāyiṃ bahulaṃ kāmasaññā
 paribāhirā honti aladdha yo taṃ
-
+satthā
 
  passaddhakāyo suvimuttacitto
 asaṅkharāno satimā anoko
@@ -1501,17 +1501,17 @@ na kuppatī nassaratī na thīno
 pañcoghatiṇṇe atarīdha chaṭṭhaṃ
 evaṃ jhāyiṃ bahulaṃ kāmasaññā
 paribāhirā honti aladdha yo taṃ
-
+atha ragā
 
  acchecchi taṇhaṃ gaṇasaṅghacārī
 addhā tarissantī bahū ca saddhā
 bahuṃ vatāyaṃ janatamanoko
 acchijja nessati maccurājassa pāraṃ
-
+satthā 
 
  nayanti ve mahāvīrā saddhammena tathāgatā
 dhammena nayamānānaṃ kā usūyā vijānataṃ
-
+imā pañca pāliyaṃ
 
  sutvāna taṃ dhammavaraṃ jinassa
 pamattabandhussa ragādirāmā
@@ -1528,7 +1528,7 @@ giriṃ nakhena khaṇatha ayo dantehi khādatha
 
  selaṃva sirasi ūhacca pātāle gādhamesatha
 khānuṃva urasāsajja nibbijjāpetha gotamā
-
+imā dve pāliyaṃ
 
  vatvāna evaṃ vimano sa māro
 saṭītuko sambhavanaṃ payāsi
@@ -1539,7 +1539,7 @@ jahāsi tasmiṃ divasāni satta
 nubhutamattena mahenti sabbe
 teneva te saggagatā vimāne
 modanti kāmehi anūpamehi
-
+iti pañcama sattāhaṃ
 
  tato munindo mucalindamūle
 nisīdi gantvā pavarāsanamhi
@@ -1565,7 +1565,7 @@ sattāmahattaṃ suvimuttacitto
 nubhutamattena mahenti sabbe
 teneva te saggagatā vimāne
 modanti kāmehi anūpamehi
-
+iti chaṭṭhama sattāhaṃ
 
  tatopagantvā yatirāja rājā
 nisīdi rājāyatanassa mūle
@@ -1576,7 +1576,7 @@ sattāhamattaṃ karuṇāguṇaggo
 nubhutamattena mahentī sabbe
 teneva te saggagatā vimāne
 modanti kāmehi anūpamehi
-
+iti sattama sattāhaṃ
 
  āhāra kiccādi vivajjitassa
 sukhānubhontassa vimuttijāni
@@ -1993,7 +1993,7 @@ vāsaṃ akāsi sugato sirisantivāso
 sāvatthiyaṃ rucira jetavanebhirāme
 vāsaṃ akāsi sukhado munipañcamasmiṃ
 veneyya sattasamayaṃ samudikkhamāno
-
+iti laṅkāya paṭhamāgamanaṃ
 
  atha bhagavati tasmiṃ jetanāme vanasmiṃ
 nivasati satilaṅkā maṅgalāvāsarūpā
@@ -2204,7 +2204,7 @@ akari varanivāsaṃ sattame tattha vasse
 avasi vimalapañño aṭṭhame sāradasmiṃ
 ajaramamara santiṃ phasamāno paresaṃ
 vividha naya vicittaṃ desanaṃ desayanto
-
+iti laṅkāya dutiyāgamanaṃ
 
  evaṃ jino jetavane vasanto
 nīssāya sāvatthipuraṃ vihāsi
@@ -2638,7 +2638,7 @@ taṇhakkhayāya satataṃ vīriyaṃ karotha
 sutvā te sampahaṭṭhā mahamahamakaruṃ nijjarādīhi saddhiṃ
 tesaṃ ve desanāyaṃ suraviṭapi samā sātthikā tattha jātā
 so nātho tañca dhammaṃ bhagavati tanayā te ca vo pālayantu
-
+kalyāṇi desāgamanaṃ
 
  nagādhirāje sumanābhidhāne
 vasaṃ sumedho sumanābhidhāno
@@ -3034,8 +3034,8 @@ gato nabhā jetavanaṃ surammaṃ
 laṅkārāmāya ramme sumanagirisirekāsi yaṃ pādalañchaṃ
 taṃ vo saggāpavaggaṃ dadati munisamaṃ citta matte pasanne
 tasmā bhobho pahaṭṭhā namatha mahatha taṃ sādhu sādhuppasatthaṃ
-
-
+iti samantakūṭa vaṇṇanā niṭṭhitā
+grantha samāptiya
 
  anantarā samattāyaṃ sumaṇaddisu vaṇṇanā
 tatheva sādhū saṅakappā khippaṃ pappontu pāṇinaṃ
@@ -3054,4 +3054,4 @@ sāro suppaṭipattīsu satthasāgara pārago
 
  yokā sīhalabhāsāya sīhalaṃ saddalakkhaṇaṃ
 tena vedehatherena katāyampiyasīlinā
-
+siddhiratthu

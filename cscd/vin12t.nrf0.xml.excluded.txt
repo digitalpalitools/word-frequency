@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Pācityādiyojanā
 Pācittiyayojanā
@@ -76,7 +76,7 @@ Pācittiyayojanā
 ..,,..,..
 87....,.....,.,.,.,.
 88.,.‘‘,’’....
-Musāvādavaggo paṭhamo.
+.
 2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpada-atthayojanā
 89...,....,.,..,,..,,.-‘‘’’.,...,.,‘‘’’‘‘’’..
@@ -157,7 +157,7 @@ Musāvādavaggo paṭhamo.
 10. Sappāṇakasikkhāpadaṃ
 140.‘‘’’‘‘’’...‘‘’’.,‘‘’’..
 ‘‘’’.....‘‘’’,‘‘’’..‘‘’’...
-Bhūtagāmavaggo dutiyo.
+.
 3. Ovādavaggo
 1. Ovādasikkhāpada-atthayojanā
 144....‘‘’’‘‘’’...‘‘’’‘‘’’‘‘’’‘‘’’.,...
@@ -235,7 +235,7 @@ Pakiṇṇakakathā
 197...
 10. Rahonisajjasikkhāpadaṃ
 198.‘‘’’.,.‘‘’’‘‘’’,‘‘’’...
-Ovādavaggo tatiyo.
+.
 4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpada-atthayojanā
 203.‘‘’’.....,.,....‘‘’’..‘‘’’‘‘’’.
@@ -391,7 +391,7 @@ Ovādavaggo tatiyo.
 ......,.
 ,..,...
 ..‘‘’’.,,,,,,..
-Bhojanavaggo catuttho.
+.
 5. Acelakavaggo
 1. Acelakasikkhāpada-atthayojanā
 269.‘‘’’.‘‘’’.,,,..‘‘’’‘‘’’.
@@ -420,7 +420,7 @@ Bhojanavaggo catuttho.
 319.‘‘’’.‘‘’’..,.‘‘’’‘‘’’..
 10. Uyyodhikasikkhāpadaṃ
 322..‘‘’’.‘‘’’...‘‘’’..?‘‘’’‘‘’’,‘‘’’.,‘‘’’.,,..,..
-Acelakavaggo pañcamo.
+.
 6. Surāpānavaggo
 1. Surāpānasikkhāpada-atthayojanā
 326.,,‘‘’’..‘‘’’..‘‘’’,.‘‘’’,,‘‘’’.‘‘’’.,,.‘‘’’.‘‘’’..
@@ -452,7 +452,7 @@ Acelakavaggo pañcamo.
 374.‘‘’’.‘‘’’.‘‘’’‘‘’’...
 10. Cīvarāpanidhānasikkhāpadaṃ
 377.‘‘’’..,.‘‘’’.,.‘‘’’‘‘’’..
-Surāpānavaggo chaṭṭho.
+.
 7. Sappāṇakavaggo
 1. Sañciccapāṇasikkhāpada-atthayojanā
 382.,-.,‘‘’’.‘‘’’.‘‘’’.
@@ -492,7 +492,7 @@ Surāpānavaggo chaṭṭho.
 10. Kaṇṭakasikkhāpadaṃ
 428.......…pe…..,‘‘’’.,‘‘’’.‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.,.‘‘’’...,..,.
 429..‘‘’’..
-Sappāṇakavaggo sattamo.
+.
 8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpada-atthayojanā
 434..‘‘’’‘‘’’.‘‘’’‘‘’’,‘‘’’‘‘’’.,..
@@ -536,7 +536,7 @@ Sappāṇakavaggo sattamo.
 484.‘‘’’(pari. 295)‘‘’’.‘‘’’.(cūḷava. 311 ādayo)‘‘’’.‘‘’’..
 12. Pariṇāmanasikkhāpadaṃ
 489...,...
-Sahadhammikavaggo aṭṭhamo.
+.
 9. Ratanavaggo
 1. Antepurasikkhāpada-atthayojanā
 494..‘‘’’.,..‘‘’’‘‘’’..
@@ -572,9 +572,9 @@ Sahadhammikavaggo aṭṭhamo.
 542.,..
 10. Nandattherasikkhāpadaṃ
 547.‘‘’’....
-Ratanavaggo navamo.
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Khuddakavaṇṇanāya yojanā samattā.
+.
+
+.
 6. Pāṭidesanīyakaṇḍaṃ
 1. Paṭhamapāṭidesanīyasikkhāpada-atthayojanā
 ,.
@@ -592,9 +592,9 @@ Khuddakavaṇṇanāya yojanā samattā.
 573.‘‘’’‘‘’’‘‘’’.‘‘’’.‘‘’’‘‘’’..‘‘’’‘‘’’......‘‘’’.‘‘’’.......
 ‘‘’’‘‘’’...,.
 575..,...,.‘‘’’‘‘’’.....
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
 
-Yojanā samattā.
+
+.
 7. Sekhiyakaṇḍaṃ
 1. Parimaṇḍalavagga-atthayojanā
 ,‘‘’’,.
@@ -661,7 +661,7 @@ Yojanā samattā.
 ...
 8. Sattādhikaraṇasamatha-atthayojanā
 655......
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Bhikkhuvibhaṅgavaṇṇanāya yojanā samattā.
-Jādilañchitanāmena nekānaṃ vācito mayā.
-Sādhuṃ mahāvibhaṅgassa, samatto yojanānayoti.
+
+.
+.
+,.

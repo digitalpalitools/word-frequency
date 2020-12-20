@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Therāpadānapāḷi
 (Dutiyo bhāgo)
@@ -46,9 +46,9 @@ Therāpadānapāḷi
 14.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā sakiṃsammajjako thero imā gāthāyo
+
 .
-Sakiṃsammajjakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ekadussadāyakattheraapadānaṃ
 15.
 ‘‘,;
@@ -111,7 +111,7 @@ dhīro (sī. syā.),.
 35.
 ‘‘…pe…’’.
 ;
-Ekadussadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Ekāsanadāyakattheraapadānaṃ
 36.
 ‘‘,;
@@ -185,9 +185,9 @@ dhammapallaṅkamaññāya (syā. ka.),.
 ‘‘…pe….
 60.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ekāsanadāyako thero imā gāthāyo
+
 .
-Ekāsanadāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Sattakadambapupphiyattheraapadānaṃ
 61.
 ‘‘,kadambo (sī. syā. pī.);
@@ -207,9 +207,9 @@ Ekāsanadāyakattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 67.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sattakadambapupphiyo thero imā
+
 .
-Sattakadambapupphiyattherassāpadānaṃ catutthaṃ.
+.
 5. Koraṇḍapupphiyattheraapadānaṃ
 68.
 ‘‘,pitupitāmahenahaṃ (sī. syā. pī.);
@@ -239,7 +239,7 @@ Sattakadambapupphiyattherassāpadānaṃ catutthaṃ.
 77.
 ‘‘…pe…’’.
 ;
-Koraṇḍapupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Ghatamaṇḍadāyakattheraapadānaṃ
 78.
 ‘‘,;
@@ -268,9 +268,9 @@ catuddisā (syā.),.
 ‘‘…pe….
 87.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ghatamaṇḍadāyako thero imā gāthāyo
+
 .
-Ghatamaṇḍadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ekadhammassavaniyattheraapadānaṃ
 88.
 ‘‘,;
@@ -328,9 +328,9 @@ kathayaṃ (sī. pī. ka.),.
 ‘‘…pe….
 106.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ekadhammassavaniyo thero imā
+
 .
-Ekadhammassavaniyattherassāpadānaṃ sattamaṃ.
+.
 8. Sucintitattheraapadānaṃ
 107.
 ‘‘,;
@@ -376,7 +376,7 @@ saṃghe ca (syā. pī.),.
 120.
 ‘‘,;
 ,.
-Ekūnavīsatimaṃ bhāṇavāraṃ.
+.
 121.
 ‘‘,;
 ,.
@@ -432,9 +432,9 @@ mahābhakkho (syā. ka.),.
 ‘‘…pe….
 139.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sucintito thero imā gāthāyo
+
 .
-Sucintitattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sovaṇṇakiṅkaṇiyattheraapadānaṃ
 140.
 ‘‘,;
@@ -484,9 +484,9 @@ Sucintitattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 156.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sovaṇṇakiṅkaṇiyo thero imā
+
 .
-Sovaṇṇakiṅkaṇiyattherassāpadānaṃ navamaṃ.
+.
 10. Soṇṇakontarikattheraapadānaṃ
 157.
 ‘‘,;
@@ -524,10 +524,10 @@ Sovaṇṇakiṅkaṇiyattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 169.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā soṇṇakontariko thero imā
+
 .
-Soṇṇakontarikattherassāpadānaṃ dasamaṃ.
-Sakiṃsammajjakavaggo tecattālīsamo.
+.
+.
 –
 ,;
 ,.

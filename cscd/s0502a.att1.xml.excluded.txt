@@ -70,7 +70,7 @@
 .,.,,,,,,–‘‘,,,’’(a. ni. 1.49).,,,..
 ,,.?.,,.;.
 ..
-Cakkhupālattheravatthu paṭhamaṃ
+
 2. Maṭṭhakuṇḍalīvatthu
 2..
 .,‘‘’’..‘‘,’’...,‘‘,,’’.‘‘,;’’?‘‘,’’?‘‘,’’.‘‘’’...,..‘‘,’’.‘‘,’’.
@@ -179,7 +179,7 @@ Cakkhupālattheravatthu paṭhamaṃ
 .,,..
 .,,,.?,,,,‘‘’’.?..
 ,,..
-Maṭṭhakuṇḍalīvatthu dutiyaṃ.
+.
 3. Tissattheravatthu
 .
 ,.‘‘’’,..‘‘’’‘‘,’’,‘‘,,,,,,’’.‘‘’’‘‘’’‘‘‘’,’’.‘‘’’.‘‘’’.‘‘,,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’.‘‘’’?‘‘’’?‘‘,’’.‘‘,,,’’?‘‘,,,’’.‘‘,,’’?‘‘,’’.‘‘,’’‘‘,,,’’‘‘,,,’’‘‘,,’’.
@@ -204,7 +204,7 @@ Maṭṭhakuṇḍalīvatthu dutiyaṃ.
 ,’’.
 ....‘‘’’,.,,,,..
 ...
-Tissattheravatthu tatiyaṃ.
+.
 4. Kāḷayakkhinīvatthu
 .
 .‘‘,,’’.‘‘,,’’.‘‘,,,’’...‘‘’’‘‘’’...,,,,,,.‘‘,’’.‘‘,.’’‘‘,,’’‘‘,,,’’.
@@ -218,7 +218,7 @@ Tissattheravatthu tatiyaṃ.
 ,;,.,.,;.;.
 ..
 –‘‘’’.‘‘,’’.‘‘,’’...‘‘’’.‘‘,,’’.‘‘’’–‘‘’’.,.‘‘,’’,,,,,..–‘‘,’’.‘‘,,,’’.,.,‘‘,,,,’’.‘‘,,.?,,,’’.....
-Kāḷayakkhinīvatthu catutthaṃ.
+.
 5. Kosambakavatthu
 .
 ..,‘‘,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,,’’.‘‘’’.‘‘,,,’’..‘‘’’.‘‘’’..–‘‘,’’.‘‘’’...,..
@@ -248,7 +248,7 @@ Kāḷayakkhinīvatthu catutthaṃ.
 ,’’.
 .‘‘’’.‘‘’’...‘‘,,’’.‘‘’’.‘‘’’,.
 .
-Kosambakavatthu pañcamaṃ.
+.
 6. Mahākāḷattheravatthu
 .
 ,,.,..‘‘’’‘‘’’,‘‘,,’’.(ma. ni. 1.163 ādayo).‘‘,,,’’‘‘’’,‘‘,,’’‘‘’’,‘‘,’’,‘‘,’’.‘‘’’?‘‘’’.‘‘,,’’..‘‘’’.‘‘,,,’’.
@@ -271,7 +271,7 @@ Kosambakavatthu pañcamaṃ.
 ......,,.
 ‘‘,’’..
 .
-Mahākāḷattheravatthu chaṭṭhaṃ.
+.
 7. Devadattavatthu
 .
 ..‘‘,,,.,,,.,,,.,,’’.
@@ -288,7 +288,7 @@ Mahākāḷattheravatthu chaṭṭhaṃ.
 (jā. 1.16.122-123).
 ...,.......
 ,..
-Devadattavatthu sattamaṃ.
+.
 8. Sāriputtattheravatthu
 .
 –.‘‘’’.‘‘,’’.‘‘’’,‘‘,,’’–
@@ -352,7 +352,7 @@ Devadattavatthu sattamaṃ.
 ,’’.
 ,,,.,,‘‘’’.,,,,,‘‘,’’.‘‘’’,‘‘’’..
 ..
-Sāriputtattheravatthu aṭṭhamaṃ.
+.
 9. Nandattheravatthu
 .
 –‘‘’’(jā. 2.22.1655 ādayo),‘‘’’(dha. pa. 168),‘‘’’(dha. pa. 169),.(jā. 1.14.18 ādayo).‘‘,,’’.–‘‘’’..‘‘’’..‘‘’’..‘‘’’.‘‘,’’.
@@ -391,7 +391,7 @@ Sāriputtattheravatthu aṭṭhamaṃ.
 ,’’.
 ,‘‘’’.–‘‘‘’’’?‘‘,,,,,,.,,’’..
 ,‘‘,,,,.’’.
-Nandattheravatthu navamaṃ.
+.
 10. Cundasūkarikavatthu
 .
 .,,,‘‘’’.,,,.......,..–
@@ -406,7 +406,7 @@ Nandattheravatthu navamaṃ.
 ’’.
 ‘‘,’’,......
 ..
-Cundasūkarikavatthu dasamaṃ.
+.
 11. Dhammikaupāsakavatthu
 .
 ..,.....,.‘‘’’...‘‘,,,’’‘‘’’?‘‘’’–‘‘,,’’(dī. ni. 2.373; ma. ni. 1.106)..‘‘,,,’’.–‘‘’’.‘‘’’.
@@ -419,7 +419,7 @@ Cundasūkarikavatthu dasamaṃ.
 ’’.
 ‘‘,’’,..,.
 .
-Dhammikaupāsakavatthu ekādasamaṃ.
+.
 12. Devadattavatthu
 .
 .–.‘‘,,’’.,,,,,,‘‘,,’’?.,‘‘,,,’’.,‘‘’’.,...‘‘’’.‘‘’’‘‘’’‘‘’’.‘‘,,’’,‘‘‘’,’’.–‘‘‘‘‘’,‘’,,,’’....
@@ -492,7 +492,7 @@ Dhammikaupāsakavatthu ekādasamaṃ.
 ,’’.
 ....‘‘’’.,.
 ..
-Devadattavatthu dvādasamaṃ.
+.
 13. Sumanādevīvatthu
 .
 ,.,.?‘‘’’,‘‘’’‘‘’’.,...,‘‘’’........,‘‘,’’.–‘‘,’’?‘‘’’?‘‘,’’.‘‘,’’?‘‘,’’..,‘‘,,’’,‘‘,,’’.‘‘,’’?‘‘,,,,’’.‘‘’’?‘‘,,‘,’.–‘,,’?‘,’?‘,’.‘,’?‘’.’’.–‘‘’’.‘‘’’?‘‘.,,.,.’’.‘‘,’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘,’’.‘‘,,’’–
@@ -501,7 +501,7 @@ Devadattavatthu dvādasamaṃ.
 ,’’.
 ...‘‘,’’,.‘‘’’..
 ..
-Sumanādevīvatthu terasamaṃ.
+.
 14. Dvesahāyakabhikkhuvatthu
 .
 ‘‘,,,’’.‘‘’’,,..,‘‘’’.‘‘,,,‘’’’.,‘‘,’’.‘‘’’,‘‘,’’.‘‘’’,‘‘’’‘‘’’,‘‘,,’’‘‘,,,’’.
@@ -522,6 +522,6 @@ Sumanādevīvatthu terasamaṃ.
 ,..
 ..‘‘’’.,.
 ..
-Dvesahāyakabhikkhuvatthu cuddasamaṃ.
-Yamakavaggavaṇṇanā niṭṭhitā.
-Paṭhamo vaggo.
+.
+.
+.

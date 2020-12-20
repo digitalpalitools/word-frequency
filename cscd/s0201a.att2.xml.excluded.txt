@@ -95,8 +95,8 @@
 .
 145.,,,..,,.,,,.–....,‘‘’’..,,,,.
 .....,......
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷasīhanādasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Mahāsīhanādasuttavaṇṇanā
 Vesālinagaravaṇṇanā
 146...‘‘’’.–....,,.‘‘,’’..‘‘’’..
@@ -105,7 +105,7 @@ Vesālinagaravaṇṇanā
 ,.–‘‘,,,,’’...–‘‘,,,’’..
 ..‘‘’’‘‘’’.‘‘,,’’....‘‘,’’.....‘‘’’.
 01,..‘‘’’.,..,.‘‘’’.......?..,?,,?..
-Vesālinagaravaṇṇanā niṭṭhitā.
+.
 Uttarimanussadhammādivaṇṇanā
 .
 ,....‘‘’’(ma. ni. 1.311).‘‘’’(dī. ni. 1.235).‘‘’’(a. ni. 4.196).‘‘’’(ma. ni. 1.328).‘‘,,,’’(mahāva. 16).‘‘’’(ma. ni. 2.340)...
@@ -117,7 +117,7 @@ Uttarimanussadhammādivaṇṇanā
 ?.....‘‘,‘’.,.‘’’’...‘‘’’.
 ,,,‘‘’’.,.,,,.
 ?.,,.,,,,,,,,,..,,.,.‘‘’’..
-Uttarimanussadhammādivaṇṇanā niṭṭhitā.
+.
 Dasabalañāṇādivaṇṇanā
 148.,,..,...–
 ‘‘,;
@@ -144,7 +144,7 @@ Dasabalañāṇādivaṇṇanā
 ...,,,,,,.,..
 150.,.,.....,,,.,....‘‘’’..
 ,.-.......
-Dasabalañāṇādivaṇṇanā niṭṭhitā.
+.
 Aṭṭhaparisavaṇṇanā
 151.‘‘’’?.,,.
 ,.,..‘‘’’,..,....,....
@@ -152,14 +152,14 @@ Aṭṭhaparisavaṇṇanā
 .?.?,,,‘‘’’....‘‘’’.‘‘’’.
 –,,??..
 ....
-Aṭṭhaparisavaṇṇanā niṭṭhitā.
+.
 Catuyonivaṇṇanā
 152.,,.‘‘’’(saṃ. ni. 3.342, 392).‘‘’’(ma. ni. 2.227).‘‘,’’(ma. ni. 2.457; dha. pa. 396)............,,,,..
-Catuyonivaṇṇanā niṭṭhitā.
+.
 Pañcagativaṇṇanā
 153.,,..‘‘’’(a. ni. 4.184),‘‘,’’(dha. pa. 420).‘‘’’(ma. ni. 1.508).‘‘’’(ma. ni. 1.503).‘‘,’’(pari. 339).‘‘’’(dī. ni. 1.258; 2.34)..
 ......,.......,..
-Pañcagativaṇṇanā niṭṭhitā.
+.
 Ñāṇappavattākāravaṇṇanā
 154.,.
 .....
@@ -174,11 +174,11 @@ Pañcagativaṇṇanā niṭṭhitā.
 ..,..
 ........,...
 ,‘‘’’,‘‘’’.,‘‘’’,.
-Ñāṇappavattākāravaṇṇanā niṭṭhitā.
+.
 Āsavakkhayavāravaṇṇanā
 ‘‘’’‘‘’’.?.,,.,...‘‘’’...
 –.....‘‘’’,‘‘’’.,.
-Āsavakkhayavāravaṇṇanā niṭṭhitā.
+.
 Dukkarakārikādisuddhivaṇṇanā
 155.‘‘,,’’?..,..,,‘‘,,.‘,,,’’’(dī. ni. 3.7).
 ,,,.
@@ -229,13 +229,13 @@ Dukkarakārikādisuddhivaṇṇanā
 .,..,,,.,.........‘‘,,’’....‘‘’’...–
 ‘‘,;
 ,’’.
-Dukkarakārikādisuddhivaṇṇanā niṭṭhitā.
+.
 Āhārasuddhivaṇṇanā
 158.......,,.
 159..,.,..,,,,,;,.,,.
 .,.,.,,,.,,,...,..,.‘‘’’....,‘‘’’.
 ...–,,,.‘‘,’’.,,,..
-Āhārasuddhivaṇṇanā niṭṭhitā.
+.
 Saṃsārasuddhiādivaṇṇanā
 160..........
 161....,.,,.............
@@ -243,9 +243,9 @@ Saṃsārasuddhiādivaṇṇanā
 .,,,...,,,,..,,,,,,..,.?...?.‘‘,,’’.
 .,..?,,.,,.....
 162....‘‘’’....,..,,,,‘‘’’.
-Saṃsārasuddhiādivaṇṇanā niṭṭhitā.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāsīhanādasuttavaṇṇanā niṭṭhitā.
+.
+
+.
 3. Mahādukkhakkhandhasuttavaṇṇanā
 163..,.,..,,.‘‘’’‘‘’’,.,.,,,...
 ,,.‘‘’’.‘‘’’.,.,,.
@@ -266,8 +266,8 @@ Mahāsīhanādasuttavaṇṇanā niṭṭhitā.
 ....
 173...
 174.,,,,,,.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahādukkhakkhandhasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Cūḷadukkhakkhandhasuttavaṇṇanā
 175......,.,,.....,.,..
 .,...‘‘’’(saṃ. ni. 1.126).‘‘,,’’(saṃ. ni. 3.102)..‘‘’’.
@@ -282,8 +282,8 @@ Mahādukkhakkhandhasuttavaṇṇanā niṭṭhitā.
 ,,‘‘,’’.,‘‘,,.,’’.........,,.
 ...
 ..‘‘,,…pe…’’...,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cūḷadukkhakkhandhasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Anumānasuttavaṇṇanā
 181..,..,...‘‘’’.,.
 .,.,.,..,.,,.
@@ -294,8 +294,8 @@ Cūḷadukkhakkhandhasuttavaṇṇanā niṭṭhitā.
 184..,.
 .....?....,.
 ..‘‘’’.,.,....,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Anumānasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Cetokhilasuttavaṇṇanā
 185....,,.,,..,.,,..,....,..,,.,,..,....
 186....,...,.,...
@@ -307,8 +307,8 @@ Anumānasuttavaṇṇanā niṭṭhitā.
 ,’’.(dha. pa. 285)–
 ,.,.
 .?,,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Cetokhilasuttavaṇṇanā niṭṭhitā.
+
+.
 7. Vanapatthapariyāyasuttavaṇṇanā
 190..,.
 191..,,,.....,.,.
@@ -317,8 +317,8 @@ Cetokhilasuttavaṇṇanā niṭṭhitā.
 195...
 197.,.
 198..,,.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Vanapatthapariyāyasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Madhupiṇḍikasuttavaṇṇanā
 199..,....,,..--...
 200....,.?..‘‘,.,‘’.‘’...’’.,.
@@ -337,8 +337,8 @@ Vanapatthapariyāyasuttavaṇṇanā niṭṭhitā.
 ,,.
 205.......,.,.
 .....,.,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Madhupiṇḍikasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Dvedhāvitakkasuttavaṇṇanā
 206.......,.,.,...
 ..–‘‘,’’.–‘‘,.’’.,..
@@ -360,8 +360,8 @@ Madhupiṇḍikasuttavaṇṇanā niṭṭhitā.
 ,.,,‘‘’’...
 .,,,,‘‘’’,,.,..,,.
 ,,,,,,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Dvedhāvitakkasuttavaṇṇanā niṭṭhitā.
+
+.
 10. Vitakkasaṇṭhānasuttavaṇṇanā
 216..,.,.
 ,..
@@ -394,11 +394,11 @@ Dvedhāvitakkasuttavaṇṇanā niṭṭhitā.
 ..,‘‘’’–‘‘’’(a. ni. 2.5).
 221.,,.‘‘,.,.’’..–‘‘,.,,,’’.
 ..,.,.,.,.‘‘,.,’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Vitakkasaṇṭhānasuttavaṇṇanā niṭṭhitā.
-Dutiyavaggavaṇṇanā niṭṭhitā.
-Mūlapaṇṇāsaṭṭhakathāya paṭhamo bhāgo niṭṭhito.
- Namo tassa bhagavato arahato sammāsambuddhassa
+
+.
+.
+.
+
 Majjhimanikāye
 Mūlapaṇṇāsa-aṭṭhakathā
 (Dutiyo bhāgo)

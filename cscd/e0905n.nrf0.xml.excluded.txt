@@ -1,15 +1,15 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭaka
 Saṃgāyanassa pucchā vissajjanā
 Okāsa dānakathā
 ,,,,.
-Aggamahāpaṇḍita  bhadantajavana mahātherena
 
-Pucchaka sammuti ñātti
+
+
 ,,.
-Tipiṭakadhara dhammabhaṇḍāgārika
 
-Ṭhapitā vissajjaka sammuti ñātti
+
+
 ,,.
 Paṭhama pārājika sikkhāpucchā
 –.
@@ -52,18 +52,18 @@ Paṭhama pārājika sikkhāpucchā
 –.
 –.
 –.
-Saṃgāyanatthāya saṅghassa ñāpanaṃ
+
 ,,,,,,,.
-Revatābhi paṇḍitadhaja sāsanavaṃsa mahādhammarājaguruno
-Abhidhajamahāraṭṭhagurunoca saṅghanāyaka mahātherassa
+
+
 Okāsa dānakathā
 ,,,,.
-Aggamahāpaṇḍita bhadanta sobhanattherena
-Ṭhapitā pucchaka sammuti ñātti
-,,.
-Tipiṭakadhara dhammabhaṇḍāgārika
 
-Ṭhapitā vissajjaka sammuti ñātti
+
+,,.
+
+
+
 ,,.
 Dutiya pārājika sikkhāpucchā
 –.
@@ -131,7 +131,7 @@ Dutiya pārājika sikkhāpucchā
 –.
 –.
 –.
-‘‘Saṃgāyanatthāya saṅghassa ñāpanaṃ’’
+‘‘’’
 ,,,,,,,,.,,,,,,,,,.
 Tatiya pārājika sikkhāpucchā
 –(pa).
@@ -199,7 +199,7 @@ Tatiya pārājika sikkhāpucchā
 –.
 –.
 –.
-Saṃgāyanatthāya saṅghassa ñāpanaṃ
+
 ,,,,,,,,,,,,.
 Catuttha pārājika sikkhāpucchā
 –…pe….

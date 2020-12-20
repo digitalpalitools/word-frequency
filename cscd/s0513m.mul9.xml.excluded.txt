@@ -31,7 +31,7 @@ bahuṃ bhaṇḍaṃ (sī. pī.),;
 10.
 accasaro (sī. syā. pī.),;
 sirasmi (syā.),.
-Catudvārajātakaṃ paṭhamaṃ.
+.
 
 .(2)
 11.
@@ -77,7 +77,7 @@ na (syā. pī.),.
 ,;
 ,-;
 ,.
-Kaṇhajātakaṃ dutiyaṃ.
+.
 
 .(3)
 24.
@@ -128,7 +128,7 @@ tuvaṃ nu (sī. pī.),;
 ,;
 ,;
 ,.
-Catuposathiyajātakaṃ tatiyaṃ.
+.
 
 .(4)
 39.
@@ -161,7 +161,7 @@ na hatthi (pī.),.
 48.
 ,;
 ,.
-Saṅkhajātakaṃ catutthaṃ.
+.
 
 .(5)
 49.
@@ -203,7 +203,7 @@ sārabbhā (ka.),.
 61.
 anindho (sī. ka.), anindo (syā.),;
 ,.
-Cūḷabodhijātakaṃ pañcamaṃ.
+.
 
 .(6)
 62.
@@ -246,7 +246,7 @@ viññūpasatthaṃ vasitaṃ ca ṭhānaṃ (ka.),.
 71.
 bhāsissaṃ abhāsaneyyaṃ (sī. syā. pī.), bhāsissa’mabhāsaneyyaṃ (?),;
 ,.
-Kaṇhadīpāyanajātakaṃ maṇḍabyajātakaṃ (syā. ka.) chaṭṭhaṃ.
+maṇḍabyajātakaṃ (syā. ka.).
 
 .(7)
 72.
@@ -280,7 +280,7 @@ vadī (sī. syā. pī.),.
 81.
 ,;
 ,.
-Nigrodhajātakaṃ sattamaṃ.
+.
 
 .(8)
 82.
@@ -314,7 +314,7 @@ niddhāmase (pī.),.
 91.
 ,;
 ,.
-Takkalajātakaṃ aṭṭhamaṃ.
+.
 
 .(9)
 92.
@@ -353,7 +353,7 @@ dāsso (sī. pī.), dāsī (syā.),;
 103.
 ,;
 ,.
-Mahādhammapālajātakaṃ navamaṃ.
+.
 
 .(10)
 104.
@@ -389,7 +389,7 @@ yodha (jā. 1.8.25 sulasājātake),;
 114.
 ,;
 ,.
-Kukkuṭajātakaṃ dasamaṃ.
+.
 
 .(11)
 115.
@@ -422,7 +422,7 @@ abbuhi (syā.), abbhuḷhaṃ (ka.),sokaṃ hadayanissitaṃ (vi. va. 1215);
 124.
 ,;
 ,.
-Maṭṭhakuṇḍalījātakaṃ ekādasamaṃ.
+.
 
 .(12)
 125.
@@ -457,7 +457,7 @@ kathaṃ sahassānaṃ (sī. syā. pī.),.
 ,jhatvā (sī. pī.), ghatvā (syā.);
 ,;
 evaṃ sahassānaṃ (sī. syā. pī.),.
-Bilārakosiyajātakaṃ dvādasamaṃ.
+.
 
 .(13)
 135.
@@ -490,7 +490,7 @@ ahañca (?),;
 144.
 ,;
 ,.
-Cakkavākajātakaṃ terasamaṃ.
+.
 
 .(14)
 145.
@@ -523,7 +523,7 @@ yassa hi (sī. ka.)manujo (sī.),;
 154.
 ,;
 ,.
-Bhūripaññajātakaṃ cuddasamaṃ.
+.
 
 .(15)
 155.
@@ -556,7 +556,7 @@ bhūtapatī (sī. syā. pī.),;
 164.
 ,sukhindriyāni (pī.);
 ,.
-Mahāmaṅgalajātakaṃ pannarasamaṃ.
+.
 
 .(16)
 165.
@@ -605,8 +605,8 @@ na cāhametaṃ (sī.), na vāhamete (syā.), na vāhametaṃ (pī.),paṭhavi�
 179.
 ,;
 ,.
-Ghaṭapaṇḍitajātakaṃ soḷasamaṃ.
-Dasakanipātaṃ niṭṭhitaṃ.
+.
+.
 –
 ,sattāhasasākha (syā.);
 ,.

@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Saddasaññakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Yavakalāpiyattheraapadānaṃ
 6.
 ‘‘,;
@@ -33,7 +33,7 @@ Saddasaññakattherassāpadānaṃ paṭhamaṃ.
 10.
 ‘‘…pe…’’.
 .
-Yavakalāpiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Kiṃsukapūjakattheraapadānaṃ
 11.
 ‘‘,;
@@ -44,7 +44,7 @@ Yavakalāpiyattherassāpadānaṃ dutiyaṃ.
 13.
 ‘‘…pe…’’.
 .
-Kiṃsukapūjakattherassāpadānaṃ tatiyaṃ.
+.
 4. Sakosakakoraṇḍadāyakattheraapadānaṃ
 14.
 ‘‘,;
@@ -58,7 +58,7 @@ sakoṭakaṃ (sī. syā.),.
 17.
 ‘‘…pe…’’.
 sakoṭaka (sī. syā.).
-Sakosakakoraṇḍadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Daṇḍadāyakattheraapadānaṃ
 18.
 ‘‘,;
@@ -72,7 +72,7 @@ Sakosakakoraṇḍadāyakattherassāpadānaṃ catutthaṃ.
 21.
 ‘‘…pe…’’.
 .
-Daṇḍadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Ambayāgudāyakattheraapadānaṃ
 22.
 ‘‘,;
@@ -86,7 +86,7 @@ Daṇḍadāyakattherassāpadānaṃ pañcamaṃ.
 25.
 ‘‘…pe…’’.
 .
-Ambayāgudāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Supuṭakapūjakattheraapadānaṃ
 26.
 ‘‘,;
@@ -100,7 +100,7 @@ Ambayāgudāyakattherassāpadānaṃ chaṭṭhaṃ.
 29.
 ‘‘…pe…’’.
 .
-Supuṭakapūjakattherassāpadānaṃ sattamaṃ.
+.
 8. Mañcadāyakattheraapadānaṃ
 30.
 ‘‘,;
@@ -114,7 +114,7 @@ Supuṭakapūjakattherassāpadānaṃ sattamaṃ.
 33.
 ‘‘…pe…’’.
 .
-Mañcadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Saraṇagamaniyattheraapadānaṃ
 34.
 ‘‘,;
@@ -125,7 +125,7 @@ Mañcadāyakattherassāpadānaṃ aṭṭhamaṃ.
 36.
 ‘‘…pe…’’.
 .
-Saraṇagamaniyattherassāpadānaṃ navamaṃ.
+.
 10. Piṇḍapātikattheraapadānaṃ
 37.
 ‘‘,;
@@ -139,8 +139,8 @@ Saraṇagamaniyattherassāpadānaṃ navamaṃ.
 40.
 ‘‘…pe…’’.
 .
-Piṇḍapātikattherassāpadānaṃ dasamaṃ.
-Saddasaññakavaggo chattiṃsatimo.
+.
+.
 –
 ,;
 ,;

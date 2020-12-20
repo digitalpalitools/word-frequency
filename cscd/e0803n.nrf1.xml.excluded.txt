@@ -21,7 +21,7 @@ Suddhakattukriyāpadaniddesa
 ,.,..........
 ,;
 ,.
-Ayaṃ suddhakattukriyāpadānaṃ niddeso.
+.
 Hetukattukriyāpadaniddesa
 ,...,..,.
 ,.,,......,...
@@ -33,11 +33,11 @@ Hetukattukriyāpadaniddesa
 ‘‘’’,;
 ,.
 ,.?,..,.
-Ayaṃ hetukattukriyāpadānaṃ niddeso.
+.
 Kammakriyāpadaniddesa
 ,....
 ,.,,.,...‘‘’’.,.,.,.,.,.?,,,..,,..,.,,.
-Ayaṃ kammuno kriyāpadānaṃ niddeso.
+.
 Bhāvakriyāpadaniddesa
 ,..,.,.,,...‘‘’’‘‘’’,‘‘’’.‘‘’’.,,’.
 ,,
@@ -95,7 +95,7 @@ Bhāvakriyāpadaniddesa
 ,;
 ,;
 ,.
-Ayaṃ bhāvassa kriyāpadānaṃ niddeso.
+.
 ,,,..,,....,.,....,,.,...
 ,;
 ,.
@@ -172,7 +172,7 @@ Ayaṃ bhāvassa kriyāpadānaṃ niddeso.
 ;
 ,
 .
-Iti navaṅge sāṭṭhakathe piṭakattaye byappathagatīsu
-Viññūnaṃ kosallatthāya kate saddanītippakaraṇe
-Savikaraṇākhyātavibhāgo nāma
-Paṭhamo paricchedo.
+
+
+
+.

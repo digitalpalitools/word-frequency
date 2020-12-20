@@ -17,7 +17,7 @@ rājā na sādhu anisammakārī yo paṇḍito kodhano taṃ na sādhu
 
  nisamma khattiyo kayirā nānisamma disampati
 nisammakārino rāja  yaso kitti ca vaḍḍhatīti
-
+maṇikuṇḍalajātakaṃ paṭhamaṃ
 
  352 sujātajātakaṃ 
 
@@ -44,7 +44,7 @@ na socāmi na rodāmi tava sutvāna māṇava
 
  evaṃ karonti sappaññā ye honti anukampakā
 vinivattenti sokamhā sujāto pitaraṃ yathāti
-
+sujātajātakaṃ dutiyaṃ
 
  353 venasākhajātakaṃ 
 
@@ -63,7 +63,7 @@ alaṅkate candanasārānulitte tameva dukkhaṃ paccāgataṃ mamaṃ
 
  sāmā ca  kho candanalittagattā  laṭṭhīva sobhañjanakassa uggatā
 adisvā  kālaṃ karissāmi ubbariṃ taṃ me ito dukkhataraṃ bhavissatīti
-
+venasākhajātakaṃ  tatiyaṃ
 
  354 uragajātakaṃ 
 
@@ -96,7 +96,7 @@ evaṃ sampadamevetaṃ yo petamanusocati
 
  ḍayhamāno na jānāti ñātīnaṃ paridevitaṃ
 tasmā etaṃ na socāmi gato so tassa yā gatīti
-
+uragajātakaṃ catutthaṃ
 
  355 ghaṭajātakaṃ 
 
@@ -114,7 +114,7 @@ amittā sumanā honti sallaviddhassa ruppato
 
  yassattā nālamekova sabbakāmarasāharo
 sabbāpi pathavī tassa na sukhaṃ āvahissatīti
-
+ghaṭajātakaṃ pañcamaṃ
 
  356 koraṇḍiyajātakaṃ 
 
@@ -132,7 +132,7 @@ evameva tvaṃ brahme ime manusse nānādiṭṭhike nānayissasi te
 
  saṅkhittarūpena bhavaṃ mamatthaṃ akkhāsi koraṇḍiya evametaṃ
 yathā na sakkā pathavī samāyaṃ kattuṃ manussena tathā manussāti
-
+koraṇḍiyajātakaṃ chaṭṭhaṃ
 
  357 laṭukikajātakaṃ 
 
@@ -151,7 +151,7 @@ karissāmi te nāgarājā anatthaṃ yo me vadhī puttake dubbalāya
  kākañca passa laṭukikaṃ maṇḍūkaṃ nīlamakkhikaṃ
 ete nāgaṃ aghātesuṃ passa verassa verinaṃ
 tasmā hi veraṃ na kayirātha appiyenapi kenacīti
-
+laṭukikajātakaṃ sattamaṃ
 
  358 cūḷadhammapālajātakaṃ 
 
@@ -172,7 +172,7 @@ ye na vadanti rājānaṃ mā ghātayi atrajaṃ puttaṃ
 
  candanasārānulittā  bāhā chijjanti dhammapālassa
 dāyādassa pathabyā pāṇā me deva rujjhantīti
-
+cūḷadhammapālajātakaṃ aṭṭhamaṃ
 
  359 suvaṇṇamigajātakaṃ 
 
@@ -190,7 +190,7 @@ tvañca bhadde sukhī hohi eso cāpi mahāmigo
 
  evaṃ luddaka nandassu saha sabbehi ñātibhi
 yathāhamajja  nandāmi muttaṃ disvā mahāmiganti
-
+suvaṇṇamigajātakaṃ navamaṃ
 
  360 suyonandījātakaṃ 
 
@@ -208,8 +208,8 @@ aṅgena  uddharī bhaddā mātā puttaṃva orasaṃ
 
  sā maṃ annena pānena vatthena sayanena ca
 attanāpi ca mandakkhī evaṃ tamba vijānāhīti
-
-
+suyonandījātakaṃ dasamaṃ
+maṇikuṇḍalavaggo paṭhamo
 tassuddānaṃ 
 atha jinavaro haritaṃ tiṇako atha  bhinnaplavo uragova ghaṭo
 dariyā puna kuñjara bhūnahatā migamuttamasaggavarena dasāti
@@ -231,7 +231,7 @@ khippaṃ bhijjetha mittasmiṃ verañca pasave bahuṃ
 
  na  so mitto yo sadā appamatto bhedāsaṅkī randhamevānupassī
 yasmiñca setī urasīva putto sa ve mitto yo abhejjo parehīti
-
+vaṇṇārohajātakaṃ paṭhamaṃ
 
  362 sīlavīmaṃsajātakaṃ 
 
@@ -249,7 +249,7 @@ idha dhammaṃ caritvāna bhavanti tidive samā
 
  na vedā samparāyāya na jāti nāpi  bandhavā
 sakañca sīlaṃ saṃsuddhaṃ samparāyāya sukhāya cāti 
-
+sīlavīmaṃsajātakaṃ dutiyaṃ
 
  363 hirijātakaṃ 
 
@@ -267,7 +267,7 @@ phalānisaṃso bhāveti vahanto porisaṃ dhuraṃ
 
  pavivekarasaṃ  pitvā rasaṃ upasamassa ca
 niddaro hoti nippāpo dhammappītirasaṃ pivanti
-
+hirijātakaṃ tatiyaṃ
 
  364 khajjopanakajātakaṃ 
 
@@ -285,7 +285,7 @@ niggahena amittānaṃ mittānaṃ paggahena ca
 
  senāmokkhapalābhena  vallabhānaṃ nayena ca
 jagatiṃ jagatipālā āvasanti vasundharanti
-
+khajjopanakajātakaṃ catutthaṃ
 
  365 ahituṇḍikajātakaṃ 
 
@@ -303,7 +303,7 @@ nevāhaṃ yācito dajjaṃ tathā hi bhayatajjito
 
  yañca jaññā kule jātaṃ gabbhe tittaṃ amacchariṃ
 tena sakhiñca mittañca dhīro sandhātumarahatīti
-
+ahituṇḍikajātakaṃ pañcamaṃ
 
  366 gumbiyajātakaṃ 
 
@@ -321,7 +321,7 @@ te āturesu sukhitā ḍayhamānesu nibbutā
 
  evameva ime kāme āturā paricārike 
 ye sadā parivajjenti saṅgaṃ loke upaccagunti
-
+gumbiyajātakaṃ chaṭṭhaṃ
 
  367 sāḷiyajātakaṃ 
 
@@ -339,7 +339,7 @@ tameva  so rajo hanti tathāyaṃ puriso hato
 
  yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa
 tameva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃva khittoti
-
+sāḷiyajātakaṃ sattamaṃ
 
  368 tacasārajātakaṃ 
 
@@ -357,7 +357,7 @@ yathā  yathā yattha labhetha atthaṃ tathā tathā tattha parakkameyya
 
  yato  ca jāneyya alabbhaneyyo mayā va  aññena vā esa attho
 asocamāno adhivāsayeyya kammaṃ daḷhaṃ kinti karomi dānīti
-
+tacasārajātakaṃ aṭṭhamaṃ
 
  369 mittavindakajātakaṃ 
 
@@ -376,7 +376,7 @@ icchāhatassa posassa cakkaṃ bhamati matthake
 
  uparivisālā duppūrā icchā visaṭagāminī 
 ye  ca taṃ anugijjhanti te honti cakkadhārinoti
-
+mittavindakajātakaṃ navamaṃ
 
  370 palāsajātakaṃ 
 
@@ -394,8 +394,8 @@ haṃsassa anabhiññāya mahā me bhayamāgataṃ
 
  na tassa vuḍḍhi kusalappasatthā yo vaḍḍhamāno ghasate patiṭṭhaṃ
 tassūparodhaṃ parisaṅkamāno patārayī mūlavadhāya dhīroti
-
-
+palāsajātakaṃ dasamaṃ
+vaṇṇārohavaggo dutiyo 
 
 
  371 dīghītikosalajātakaṃ 
@@ -417,7 +417,7 @@ ye ca taṃ nupanayhanti veraṃ tesūpasammati
 
  na hi verena verāni sammantīdha kudācanaṃ
 averena ca sammanti esa dhammo sanantanoti
-
+dīghītikosalajātakaṃ paṭhamaṃ
 
  372 migapotakajātakaṃ 
 
@@ -441,7 +441,7 @@ yo me sokaparetassa puttasokaṃ apānudi
 
  sohaṃ abbūḷhasallosmi vītasoko anāvilo
 na socāmi na rodāmi tava sutvāna vāsavāti
-
+migapotakajātakaṃ dutiyaṃ
 
  373 mūsikajātakaṃ 
 
@@ -460,7 +460,7 @@ puttena hi patthayito silokehi pamocito
  sabbaṃ  sutamadhīyetha hīnamukkaṭṭhamajjhimaṃ
 sabbassa atthaṃ jāneyya na ca sabbaṃ payojaye
 hoti tādisako kālo yattha atthāvahaṃ sutanti
-
+mūsikajātakaṃ tatiyaṃ
 
  374 cūḷadhanuggahajātakaṃ 
 
@@ -485,7 +485,7 @@ sā nūnāhaṃ ito gantvā bhattu hessaṃ vasānugā
 
  yo hare mattikaṃ thālaṃ kaṃsathālampi so hare
 katañceva  tayā pāpaṃ punapevaṃ karissasīti
-
+cūḷadhanuggahajātakaṃ catutthaṃ
 
  375 kapotajātakaṃ 
 
@@ -506,12 +506,12 @@ piñchāni tattha lāyitvā kaṇṭhe bandhanti vaṭṭanaṃ
 
  punapāpajjasī samma sīlañhi tava tādisaṃ
 na hi mānusakā bhogā subhuñjā honti pakkhināti
-
-
+kapotajātakaṃ pañcamaṃ
+aḍḍhavaggo tatiyo
 tassuddānaṃ 
 atha vaṇṇa sasīla hiri labhate sumukhā visa sāḷiyamittavaro
 atha cakka palāsa sarāja sato yava bāla kapotaka pannarasāti
 atha vagguddānaṃ 
 jīnañca vaṇṇaṃ asamaṃvaguppari sudesitā jātakanti santi vīsati 
 mahesino brahmacarittamuttamavoca gāthā atthavatī subyañjanāti
-
+pañcakanipātaṃ niṭṭhitaṃ

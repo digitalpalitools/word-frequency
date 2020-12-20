@@ -37,7 +37,7 @@ muttomhi kāsirājena vedehena yasassinā
 
  ciraṃ  jīvatu so rājā kāsīnaṃ raṭṭhavaḍḍhano
 yo me puttaṃ pamocesi sadā vuddhāpacāyikanti
-
+mātuposakajātakaṃ paṭhamaṃ
 
  456 juṇhajātakaṃ 
 
@@ -79,7 +79,7 @@ parosahassañca suvaṇṇanikkhe bhariyā ca te sādisī dve dadāmi
 
  evaṃ  sataṃ hoti samecca rāja nakkhattarājāriva tārakānaṃ
 āpūratī kāsipatī tathāhaṃ tayāpi me saṅgamo ajja laddhoti
-
+juṇhajātakaṃ dutiyaṃ
 
  457 dhammadevaputtajātakaṃ 
 
@@ -117,7 +117,7 @@ yathā adhammo patito avaṃsiro
  mātā  pitā samaṇabrāhmaṇā ca susammānitā yassa sake agāre
 idheva nikkhippa sarīradehaṃ kāyassa bhedā sugatiṃ vajanti te
 yathāpi dhammo abhiruyha sandananti
-
+dhammadevaputtajātakaṃ  tatiyaṃ
 
  458 udayajātakaṃ 
 
@@ -188,7 +188,7 @@ ittaravāsoti jāniyāna udaye mā pamāda carassu dhammaṃ
  sādhu bhāsatiyaṃ  yakkho appaṃ maccāna jīvitaṃ
 kasirañca parittañca tañca dukkhena saṃyutaṃ
 sāhaṃ ekā pabbajissāmi hitvā kāsiṃ surundhananti
-
+udayajātakaṃ catutthaṃ
 
  459 pānīyajātakaṃ 
 
@@ -236,7 +236,7 @@ phālaṃva divasaṃtattaṃ kāmā dukkhatarā tato
 
  visaṃ yathā halāhalaṃ telaṃ pakkuthitaṃ  yathā
 tambaloha  vilīnaṃva kāmā dukkhatarā tatoti
-
+pānīyajātakaṃ pañcamaṃ
 
  460 yudhañcayajātakaṃ 
 
@@ -272,7 +272,7 @@ soyaṃ kumāro pabbajito kāsāyavasano balī
 
  ubho kumārā pabbajitā yudhañcayo yudhiṭṭhilo
 pahāya mātāpitaro saṅgaṃ chetvāna maccunoti
-
+yudhañcayajātakaṃ chaṭṭhaṃ
 
  461 dasarathajātakaṃ 
 
@@ -315,7 +315,7 @@ sesañca pālayissāmi kiccametaṃ  vijānato
 
  dasa vassasahassāni saṭṭhi vassasatāni ca
 kambugīvo mahābāhu rāmo rajjamakārayīti
-
+dasarathajātakaṃ sattamaṃ
 
  462 saṃvarajātakaṃ 
 
@@ -351,7 +351,7 @@ medhāvī paṇḍito cāsi  athopi ñātinaṃ hito
 
  taṃ taṃ ñātiparibyūḷhaṃ nānāratanamocitaṃ
 amittā nappasahanti indaṃva asurādhipoti
-
+saṃvarajātakaṃ aṭṭhamaṃ
 
  463 suppārakajātakaṃ 
 
@@ -395,8 +395,8 @@ nāvāya vippanaṭṭhāya baḷavāmukhīti  vuccati
  yato sarāmi attānaṃ yato pattosmi viññutaṃ
 nābhijānāmi sañcicca ekapāṇampi hiṃsitaṃ
 etena saccavajjena sotthiṃ nāvā nivattatūti
-
-
+suppārakajātakaṃ navamaṃ
+ekādasakanipātaṃ niṭṭhitaṃ
 tassuddānaṃ 
 sirimātusuposakanāgavaro puna juṇhaka dhammamudayavaro
 atha pāni yudhañcayako ca dasaratha saṃvara pāragatena navāti

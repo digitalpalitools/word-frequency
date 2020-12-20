@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāyo
 Khandhavaggo
 1. Khandhasaṃyuttaṃ
@@ -102,7 +102,7 @@ apurekkharāno (sī. suttanipātepi) moggallāne 5-135 suttampi oloketabbaṃ,
 10..‘‘,,;!,,;;.………;!,,;;’’..
 11. Kālattayaanattasuttaṃ
 11..‘‘,,;!,,;;.………;!,,;;’’..
-Nakulapituvaggo paṭhamo.
+.
 –
 ,;
 ,;
@@ -128,7 +128,7 @@ Nakulapituvaggo paṭhamo.
 20..‘‘,,.,.,,!……….,.,,!…pe…’’..
 10. Ānandasuttaṃ
 21.….;.–‘‘‘’,,.,,nirodhā (sī. pī.)‘’’’?‘‘,,.nirodhā (sī. pī.)‘’..‘’.….‘’..‘’.,,‘’’’..
-Aniccavaggo dutiyo.
+.
 –
 ,;
 ,.
@@ -165,7 +165,7 @@ taṇhamabbhuyha (pī. ka.),’’.;
 31..‘‘,,..?,,,,,,.,,.,,?nandirāgasahagatā (sabbattha);–,,.,,’’..
 11. Pabhaṅgusuttaṃ
 32..‘‘,,..,,,?,,.,..,.….,..,’’..
-Bhāravaggo tatiyo.
+.
 –
 ,;
 ,;
@@ -206,7 +206,7 @@ Bhāravaggo tatiyo.
 41..‘‘,,…pe…’’..
 10. Catutthaanudhammasuttaṃ
 42..‘‘,,,……….…pe…,………,,………,,,,,,’’..
-Natumhākaṃvaggo catuttho.
+.
 –
 ,;
 ,.
@@ -246,11 +246,11 @@ Natumhākaṃvaggo catuttho.
 51..‘‘,,...,..,,...,..,,…pe…,...,..,,...,.’’..
 10. Dutiyanandikkhayasuttaṃ
 52..‘‘,,,.,,,.,..,,,.,,,.,..…,,,.,,,.,..,,,.,,,.,.’’..
-Attadīpavaggo pañcamo.
+.
 –
 ,;
 ,.
-Mūlapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
@@ -359,7 +359,7 @@ Mūlapaṇṇāsako samatto.
 ‘‘…,‘’,‘’,‘’;‘’,,‘’’’.
 ‘‘,‘’,‘’,‘’;‘’,‘’’’.
 ‘‘,,,,,.,,okkalā vayabhiññā (ma. ni. 3.343),.?’’nindābyārosaupārambhabhayāti (sī. syā. kaṃ. pī.) ma. ni. 3.343.
-Upayavaggo chaṭṭho.
+.
 –
 ,;
 ,.
@@ -402,7 +402,7 @@ Upayavaggo chaṭṭho.
 71..;–‘‘,,,’’?‘‘,,,–‘,,’.…………pe…,–‘,,’.,,’’…pe…..
 10. Surādhasuttaṃ
 72..–‘‘,,,’’?‘‘,,…pe…,–‘,,’.………,–‘,,’.,,,’’…pe…..
-Arahantavaggo sattamo.
+.
 –
 ,;
 ,;
@@ -507,7 +507,7 @@ pārileyyakaṃ (sī. pī.)..;..–‘‘,,;,,’’.
 ‘‘,;
 ,;
 ,’’.;
-Khajjanīyavaggo aṭṭhamo.
+.
 –
 ,;
 ,.
@@ -621,7 +621,7 @@ Khajjanīyavaggo aṭṭhamo.
 ‘‘,,,‘,,’.…………pe…‘,,’.,,’’..
 10. Dutiyarāhulasuttaṃ
 92..–‘‘,,’’?‘‘,,…pe…,‘,,’.………,‘,,’.,,’’..
-Theravaggo navamo.
+.
 –
 ,;
 ,.
@@ -704,11 +704,11 @@ apaviṭṭho (syā. kaṃ.),.
 ‘‘,,,,;,,…pe….
 ‘‘,,,;,,,,,,.
 ‘‘,,…pe…?‘,,;………,,’–,,,,,,’’..
-Pupphavaggo dasamo.
+.
 –
 ,;
 ,.
-Majjhimapaṇṇāsako samatto.
+.
 –
 ,;
 ,.
@@ -736,7 +736,7 @@ Majjhimapaṇṇāsako samatto.
 111..‘‘,,,..…pe………,.’’..
 10. Dutiyachandappahānasuttaṃ
 112..‘‘,,,.…pe…………pe….,.’’..
-Antavaggo ekādasamo.
+.
 –
 ,;
 ,.
@@ -777,7 +777,7 @@ Antavaggo ekādasamo.
 13. Dutiyakappasuttaṃ
 125..–‘‘,,’’?
 ‘‘,,…pe…‘,,’.………,‘,,’.,,’’..
-Dhammakathikavaggo dvādasamo.
+.
 –
 ,;
 ,.
@@ -819,7 +819,7 @@ Dhammakathikavaggo dvādasamo.
 135..–‘‘‘,’,,.,,,’’?
 ‘‘,,,,.…pe………,,,.,;’’.
 ,–‘‘‘,’,,.,,,’’?‘‘,,,,.………,,,.,;’’..
-Avijjāvaggo terasamo.
+.
 –
 ,;
 ,.
@@ -852,7 +852,7 @@ Avijjāvaggo terasamo.
 148..‘‘,,–.…………pe…‘’’’..
 14. Anattānupassīsuttaṃ
 149..‘‘,,–.……….(So rūpe),………,…pe……….,,,,,;‘’’’..
-Kukkuḷavaggo cuddasamo.
+.
 –
 ,;
 ,.
@@ -879,12 +879,12 @@ Kukkuḷavaggo cuddasamo.
 10. Ānandasuttaṃ
 159..;…pe…–‘‘,,,’’.
 ‘‘,,’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘,–‘,,’’’?‘‘,’’.‘‘………’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘,–‘,,’’’?‘‘,’’no hetaṃ bhante. tasmātihānanda yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ…pe… daṭṭhabbaṃ. (sī. syā. kaṃ. pī.).‘‘…pe…’’..
-Diṭṭhivaggo pañcadasamo.
+.
 –
 ,;
 ,.
-Uparipaṇṇāsako samatto.
+.
 –
 ,;
 ,nipāto tena vuccatīti (sī. syā. kaṃ.).
-Khandhasaṃyuttaṃ samattaṃ.
+.

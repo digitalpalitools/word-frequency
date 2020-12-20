@@ -1,5 +1,5 @@
 ﻿Namakkāraṭīkā
- Namo tassa bhagavato arahato sammāsambuddhassa
+
 1.
 ,;
 ,.
@@ -82,7 +82,7 @@
 ..,..,..,..,..,..,.
 ......
 .,,,,,,,.,.,,,.,,,,,.
-Paṭhamavandanagāthādvayavaṇṇanā samattā.
+.
 2.
 ,
 ;
@@ -117,7 +117,7 @@ Paṭhamavandanagāthādvayavaṇṇanā samattā.
 ..,.‘‘’’.,.,.......,....‘‘,,’’.....‘‘..,,’’.
 .‘‘’’..,,,,,,..
 .,,,,.
-Dutiyavandanagāthāvaṇṇanā samattā.
+.
 3.
 ,
 ;
@@ -143,7 +143,7 @@ Dutiyavandanagāthāvaṇṇanā samattā.
 ..,...,..,.,.,.......,,.....
 ..,..,,..,,.,,,,,,,,,.
 .,,,,,,,.
-Tatiyavandanagāthāvaṇṇanā samattā.
+.
 4.
 ,
 ;
@@ -159,7 +159,7 @@ Tatiyavandanagāthāvaṇṇanā samattā.
 –
 ‘‘,,,’’.
 .,,,,.
-Catutthavandanagāthāvaṇṇanā samattā.
+.
 5.
 ,
 ;
@@ -178,7 +178,7 @@ Catutthavandanagāthāvaṇṇanā samattā.
 ,,,,.........
 .,.
 .,,,,,,,.
-Pañcamavandanagāthāvaṇṇanā samattā.
+.
 6.
 ,
 ;
@@ -220,7 +220,7 @@ Pañcamavandanagāthāvaṇṇanā samattā.
 ’’.
 .....
 .,,,,,,,,.
-Chaṭṭhamavandanagāthāvaṇṇanā samattā.
+.
 7.
 ,
 ;
@@ -235,7 +235,7 @@ Chaṭṭhamavandanagāthāvaṇṇanā samattā.
 ,..,.‘‘’’...,..,,.....
 ...,.............,...
 .,,,.
-Sattamavandanagāthāvaṇṇanā samattā.
+.
 8.
 ,
 ;
@@ -268,7 +268,7 @@ Sattamavandanagāthāvaṇṇanā samattā.
 ,’’.
 .
 ..,,,,,,,,,,.
-Aṭṭhamavandanagāthāvaṇṇanā samattā.
+.
 9.
 ,
 ;
@@ -289,7 +289,7 @@ Aṭṭhamavandanagāthāvaṇṇanā samattā.
 ,’’.
 ........,...
 .,,,,,,,,,,,.
-Navamavandanagāthāvaṇṇanā samattā.
+.
 10.
 ,
 ;
@@ -303,7 +303,7 @@ Navamavandanagāthāvaṇṇanā samattā.
 .‘‘’’..,.‘‘’’..........,,...,.,.,,..,...
 ,.......,...,.....
 .,,,,,,.
-Dasamavandanagāthāvaṇṇanā samattā.
+.
 11.
 ,
 ;
@@ -321,7 +321,7 @@ Dasamavandanagāthāvaṇṇanā samattā.
 ...,..‘‘’’.,...,.,,..,,.
 ....,,,......
 .,,,,,,,.
-Ekādasamavandanagāthāvaṇṇanā samattā.
+.
 12.
 ,
 ;
@@ -343,7 +343,7 @@ Ekādasamavandanagāthāvaṇṇanā samattā.
 ,’’.
 .
 .,,,,.,,,.
-Dvādasamavandanagāthāvaṇṇanā samattā.
+.
 13.
 ,
 ;
@@ -380,7 +380,7 @@ Dvādasamavandanagāthāvaṇṇanā samattā.
 ,’’.
 ,..
 .,..,,,,,,,..
-Terasamavandanagāthāvaṇṇanā samattā.
+.
 14.
 ,
 ;
@@ -395,7 +395,7 @@ Terasamavandanagāthāvaṇṇanā samattā.
 .,..,....
 ..,...,...
 .,,,,,,,,.
-Cuddasamavandanagāthāvaṇṇanā samattā.
+.
 15.
 ,
 ;
@@ -415,7 +415,7 @@ Cuddasamavandanagāthāvaṇṇanā samattā.
 ,’’.
 ,...,...
 .,,,,,,,,.
-Pannarasamavandanagāthāvaṇṇanā samattā.
+.
 16.
 ,
 ;
@@ -428,7 +428,7 @@ Pannarasamavandanagāthāvaṇṇanā samattā.
 ...,.........,....,...,..
 ,......
 .,,,,,,,,,,,,.
-Soḷasamavandanagāthāvaṇṇanā samattā.
+.
 17.
 ,
 ;
@@ -447,7 +447,7 @@ Soḷasamavandanagāthāvaṇṇanā samattā.
 .,..,..,.,..,,.......
 ,,,,,..,.,.,....
 .,,,,,,,,,.
-Sattarasamavandanagāthāvaṇṇanā samattā.
+.
 18.
 ,
 ;
@@ -472,7 +472,7 @@ Sattarasamavandanagāthāvaṇṇanā samattā.
 ..,..,..,,..,,...,..,..........,..,..
 .‘‘’’..,..,..‘‘..’’...,.........
 .,.,,,,,.,,,,,,,,,.
-Aṭṭhārasamavandanagāthāvaṇṇanā samattā.
+.
 19.
 ;
 ;
@@ -492,7 +492,7 @@ Aṭṭhārasamavandanagāthāvaṇṇanā samattā.
 ..‘‘.’’..‘‘......’’...…pe…..
 .....
 .,,,,,,,,,,.
-Ekūnavīsatimavandanagāthāvaṇṇanā samattā.
+.
 20.,.,.
 20...‘‘’’..,.....
 .
@@ -542,7 +542,7 @@ Ekūnavīsatimavandanagāthāvaṇṇanā samattā.
 .,..,...,.
 ,..‘‘..’’.,.‘‘’’..‘‘’’....
 .,,,,,,,,,,,,,,,.
-Vīsatimavandanagāthāvaṇṇanā samattā.
+.
 21.
 ;
 ;
@@ -570,14 +570,14 @@ Vīsatimavandanagāthāvaṇṇanā samattā.
 ;
 ,
 ’’.
-Vasantatilakagāthā.
+.
 ..........
 ..,..,...,....–
 ‘‘,’’.
 ....‘‘’’.,...,..
 ....,.,..
 .,,.,,,.,,,,,.
-Ekavīsatimavandanagāthāvaṇṇanā samattā.
+.
 22.
 ,
 ;
@@ -598,7 +598,7 @@ Ekavīsatimavandanagāthāvaṇṇanā samattā.
 ......,...,...
 ..,,....,.,....,..
 .,,,,,,,,.
-Dvāvīsatimavandanagāthāvaṇṇanā samattā.
+.
 23.
 ,
 ;
@@ -636,7 +636,7 @@ Dvāvīsatimavandanagāthāvaṇṇanā samattā.
 ...,..,.,,...,..–
 ‘‘’’..
 ..,..,..,...,,..,......,.
-Tevīsatimavandanagāthāvaṇṇanā samattā.
+.
 24......,....,.....
 .,..,.,,.‘‘’’..,...
 ....‘‘,’’.
@@ -649,7 +649,7 @@ Tevīsatimavandanagāthāvaṇṇanā samattā.
 .‘‘’’.,..,...‘‘.’’.,...,.....
 ..,.......,...,....,......
 .,.....,..‘‘,’’.,.,..,.....‘‘,.,.,’’...
-Catuvīsatimavandanagāthāvaṇṇanā samattā.
+.
 25.......,..,....,.
 ‘‘’’..
 ...,..,..,..,.......
@@ -670,7 +670,7 @@ Catuvīsatimavandanagāthāvaṇṇanā samattā.
 ......,...,.
 ‘‘......,,,,...’’.‘‘,.’’..
 ..,.,.....
-Pañcavīsatimavandanagāthāvaṇṇanā samattā.
+.
 23..,,,,,,,,,,,,,.
 24.,,,,,,,,,,,,.
 25.,,,,,,,,,,,,,.
@@ -678,7 +678,7 @@ Pañcavīsatimavandanagāthāvaṇṇanā samattā.
 ...
 1
 ..................................,.
-Tisso vandanagāthāvaṇṇanā samattā.
+.
 26.
 ,
 ;
@@ -704,7 +704,7 @@ Tisso vandanagāthāvaṇṇanā samattā.
 ..,..,,..,.,..
 .,.....
 .,,,,,,,,,,,,,.,,.
-Chabbīsatimavandanagāthāvaṇṇanā samattā.
+.
 27.
 ,
 ;
@@ -729,7 +729,7 @@ Chabbīsatimavandanagāthāvaṇṇanā samattā.
 ‘‘,;
 ,’’.
 .,,,,,,,,,.
-Sattavīsatimagāthāvaṇṇanā samattā.
+.
 28...,.........,..‘‘’’.‘‘’’.‘‘’’‘‘’’‘‘,’’,‘‘’’,‘‘’’.
 ‘‘,;
 ,’’.
@@ -767,7 +767,7 @@ Sattavīsatimagāthāvaṇṇanā samattā.
 ..,..,...
 .......
 .,,,,,,,,,,,,,,,,,,,,,,,,,,.
-Aṭṭhavīsatimagāthāvaṇṇanā samattā.
+.
 29.
 ,;
 ,.
@@ -802,7 +802,7 @@ Aṭṭhavīsatimagāthāvaṇṇanā samattā.
 33......
 ...
 ...,..,.,,.,..
-Pañcakagāthāvaṇṇanā samattā.
+.
 .
 Nigamana
 .
@@ -819,5 +819,5 @@ Nigamana
 ,.
 ,;
 ,.
-Buddhaguṇappadīpikanāmikā
-Namakkāraṭīkā samattā.
+
+.

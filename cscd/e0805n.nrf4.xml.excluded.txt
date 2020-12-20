@@ -52,7 +52,7 @@ Apaccataddhita
 ‘‘’’–
 372..
 .,,,,.
-Apaccataddhitaṃ.
+.
 Saṃsaṭṭhādianekatthataddhita
 ‘‘’’–
 373..
@@ -139,7 +139,7 @@ Saṃsaṭṭhādianekatthataddhita
 386..
 .
 ,.‘‘’’,.
-Saṃsaṭṭhādianekatthataddhitaṃ.
+.
 Bhāvataddhita
 ‘‘’’–
 387..
@@ -161,7 +161,7 @@ Bhāvataddhita
 ,‘‘’’,,.,.,,,,,,,‘‘’’,.
 389..
 ,.,,.,,,,,,,,,,,,,,,.
-Bhāvataddhitaṃ.
+.
 Visesataddhita
 ‘‘’’–
 390..
@@ -183,7 +183,7 @@ Visesataddhita
 .‘‘’’.,.
 397..
 .,,,,,.
-Visesataddhitaṃ.
+.
 Assatthitaddhita
 ‘‘,’’–
 398..
@@ -211,7 +211,7 @@ Assatthitaddhita
 ‘‘’’–
 405..
 ‘‘’’.,,.,,,.
-Assatthitaddhitaṃ.
+.
 Saṅkhyātaddhita
 ‘‘’’–
 406..
@@ -290,7 +290,7 @@ Saṅkhyātaddhita
 ‘‘’’–
 418..
 ..,,,,,,,,,,.
-Saṅkhyātaddhitaṃ.
+.
 Abyayataddhita
 ‘‘,’’–
 419..
@@ -312,8 +312,8 @@ Abyayataddhita
 ,;
 ’,.
 ,,,..,,.,,.
-Abyayataddhitaṃ.
+.
 -;
 -.
-Iti padarūpasiddhiyaṃ taddhitakaṇḍo
-Pañcamo.
+
+.

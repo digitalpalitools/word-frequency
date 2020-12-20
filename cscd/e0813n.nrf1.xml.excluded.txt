@@ -19,7 +19,7 @@ Saññā
 ,.
 ,.
 10.,,,,,,,,,,,,,,,,.
-Saññā
+
 Sarasandhi
 11.–‘‘’’.
 .
@@ -65,7 +65,7 @@ Sarasandhi
 ‘‘’’,,.
 22.–
 ‘‘’’..
-Sarasandhi
+
 Byañjanasandhi
 23...,,–
 .
@@ -77,7 +77,7 @@ Byañjanasandhi
 25.,–‘‘’’..,.
 26.–‘‘’’..
 ..
-Byañjanasandhi.
+.
 Niggahītasandhi
 27..,,,,–
 .
@@ -107,7 +107,7 @@ Niggahītasandhi
 35.–
 .
 ..
-Niggahītasandhi.
+.
 Vomissaka sandhī
 36..
 ,–,–,,–,.
@@ -137,4 +137,4 @@ Vomissaka sandhī
 46.
 ,;
 ,.
-Vomissakasandhi.
+.

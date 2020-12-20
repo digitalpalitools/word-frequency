@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Cūḷaniddesa-aṭṭhakathā
 Pārāyanavagganiddeso
@@ -42,8 +42,8 @@ Pārāyanavagganiddeso
 ..
 ...,....
 ..‘‘,’’......,...
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Ajitamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 2. Tissametteyyamāṇavasuttaniddesavaṇṇanā
 9.–‘‘,’’(su. ni. 1124; cūḷani. mogharājamāṇavapucchā 143).‘‘’’‘‘,,’’.‘‘.....
 .
@@ -53,8 +53,8 @@ Ajitamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 10.‘‘’’.,..‘‘’’..
 ..........
 .,..
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Tissametteyyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 3. Puṇṇakamāṇavasuttaniddesavaṇṇanā
 12.–.....
 .,.‘,’,..,,.
@@ -84,8 +84,8 @@ Tissametteyyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 ...,.‘‘’’..
 .,..
 –,.,,...,..,...,,..,...
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Puṇṇakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 4. Mettagūmāṇavasuttaniddesavaṇṇanā
 18.–‘‘’’‘‘’’.
 ......
@@ -128,8 +128,8 @@ Puṇṇakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 ............
 29.–.,..
 .....
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Mettagūmāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 5. Dhotakamāṇavasuttaniddesavaṇṇanā
 30.–...
 31.
@@ -142,8 +142,8 @@ Mettagūmāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 34.‘‘’’..‘‘’’.....
 35-7..,..,..
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Dhotakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 6. Upasīvamāṇavasuttaniddesavaṇṇanā
 38.–.....
 ........
@@ -160,8 +160,8 @@ Dhotakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 45.‘‘’’.....
 ..‘‘,,’’(saṃ. ni. 3.79)..‘‘’’(dha. sa. 7).(dha. sa. aṭṭha. 101-108)..
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Upasīvamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 7. Nandamāṇavasuttaniddesavaṇṇanā
 46.––‘‘’’.,,.
 ..
@@ -171,16 +171,16 @@ Upasīvamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 50.‘‘’’,‘‘’’..
 51..,-...
 52.,..
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Nandamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 8. Hemakamāṇavasuttaniddesavaṇṇanā
 53.–...
 .......‘‘’’.
 54..
 55-6.‘‘’’.‘‘’’(dha. pa. 277; theragā. 676; kathā. 753)...
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Hemakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 9. Todeyyamāṇavasuttaniddesavaṇṇanā
 57.–.
 58...
@@ -188,8 +188,8 @@ Hemakamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 60...
 .....
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Todeyyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 10. Kappamāṇavasuttaniddesavaṇṇanā
 61.–...
 ...............
@@ -199,8 +199,8 @@ Todeyyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 64..
 .......
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Kappamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 11. Jatukaṇṇimāṇavasuttaniddesavaṇṇanā
 65.–‘‘’’(pārā. 1; dī. ni. 1.157, 255, 301; a. ni. 6.10; saṃ. ni. 5.997).....,.
 ...(ma. ni. 1.34 ādayo),(dī. ni. 1.254 ādayo)...,‘‘’’.–‘‘,,’’(ma. ni. 2.24).,.,.,.,,(pārā. aṭṭha. 1.1).
@@ -269,8 +269,8 @@ Kappamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 .....
 68-9....
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Jatukaṇṇimāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 12. Bhadrāvudhamāṇavasuttaniddesavaṇṇanā
 70.–....,....
 ...
@@ -279,8 +279,8 @@ Jatukaṇṇimāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 72..,...
 73..,,..
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Bhadrāvudhasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 13. Udayamāṇavasuttaniddesavaṇṇanā
 74.–.
 ...............
@@ -297,8 +297,8 @@ Bhadrāvudhasuttaniddesavaṇṇanā niṭṭhitā.
 80.
 ‘‘’’...
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Udayamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 14. Posālamāṇavasuttaniddesavaṇṇanā
 81.–‘‘’’.
 ..,.,.,.‘‘,,.?’’(a. ni. 4.156),...?.....,.–‘‘’’.....
@@ -371,8 +371,8 @@ Udayamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 ....
 84.‘‘’’......
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Posālamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 15. Mogharājamāṇavasuttaniddesavaṇṇanā
 85.–.(su. ni. 1038 ādayo)(su. ni. 1046 ādayo),.–‘‘’’.,..–‘‘’’.,.
 86....‘‘’’‘‘’’..
@@ -419,8 +419,8 @@ Posālamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 ‘‘’’‘‘’’.‘‘,,.………’’(paṭi. ma. 1.131)‘‘’’,‘‘,,’’..………...,,.
 ..........
 ,.
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Mogharājamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 16. Piṅgiyamāṇavasuttaniddesavaṇṇanā
 89.–,‘‘’’,.–‘‘’’..,.
 .......,..‘‘’’‘‘’’.
@@ -433,8 +433,8 @@ Mogharājamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 ....
 ..,.,,...,..
 ,.–‘‘’’....
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Piṅgiyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
+-
+.
 17. Pārāyanatthutigāthāniddesavaṇṇanā
 93.‘‘’’..,...
 94-97...‘‘…pe…’’...
@@ -444,8 +444,8 @@ Piṅgiyamāṇavasuttaniddesavaṇṇanā niṭṭhitā.
 98......
 99..
 101..
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Pārāyanatthutigāthāniddesavaṇṇanā niṭṭhitā.
+-
+.
 18. Pārāyanānugītigāthāniddesavaṇṇanā
 102.–,.–
 ‘‘,;
@@ -491,6 +491,6 @@ Pārāyanatthutigāthāniddesavaṇṇanā niṭṭhitā.
 .....,‘‘’’.
 120......‘‘’’–‘‘’’.‘‘,’’.
 ...,..
-Saddhammappajjotikāya cūḷaniddesa-aṭṭhakathāya
-Pārāyanānugītigāthāniddesavaṇṇanā niṭṭhitā.
-Pārāyanavaggavaṇṇanā niṭṭhitā.
+-
+.
+.

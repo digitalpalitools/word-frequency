@@ -9,7 +9,7 @@
 ..
 ...
 20....,..............
-Catubbhūmivibhāgassa paramatthadīpanā niṭṭhitā.
+.
 21.....
 
 ..
@@ -39,7 +39,7 @@ Catubbhūmivibhāgassa paramatthadīpanā niṭṭhitā.
 .‘‘...’’..
 ..
 24.,,,.......,,,..,.,,,,......,,,,,.......
-Lobhamūlacittassa paramatthadipanā niṭṭhitā.
+.
 25................,...
 26....,..........,.,....,......
 
@@ -50,7 +50,7 @@ Lobhamūlacittassa paramatthadipanā niṭṭhitā.
 ‘‘’’..
 .
 27.,,,,......
-Dosamūlacittassa paramatthadipanā niṭṭhitā.
+.
 28...............
 
 ...
@@ -64,9 +64,9 @@ Dosamūlacittassa paramatthadipanā niṭṭhitā.
 
 ..
 ...,..............,........
-Iti paramatthadīpaniyānāma abhidhammatthasaṅgahassa
-Catutthavaṇṇanāya akusalacittassa
-Paramatthadipanā niṭṭhitā.
+
+
+.
 31..
 
 ‘‘’’..
@@ -104,7 +104,7 @@ Paramatthadipanā niṭṭhitā.
 
 ..
 .,,......
-Ahetukacittassa paramatthadīpanā.
+.
 40.............
 41..,.............,...,,.,,.........
 42................
@@ -135,9 +135,9 @@ Ahetukacittassa paramatthadīpanā.
 
 ..
 ......
-Iti paramatthadīpaniyānāma abhidhammatthasaṅgahassa
-Catutthavaṇṇanāya kāmacittassa
-Paramatthadīpanā niṭṭhitā.
+
+
+.
 48.....,...................,.
 .....................,.
 49..................
@@ -163,7 +163,7 @@ Paramatthadīpanā niṭṭhitā.
 
 ‘‘’’..
 ..
-Rūpāvacara cittassa paramatthadhīpanā.
+.
 55..................
 .
 ........,..
@@ -172,7 +172,7 @@ Rūpāvacara cittassa paramatthadhīpanā.
 ‘‘’’..
 ,...........,,.....,,...,.......
 56..,,..........,...
-Arūpacittassa paramatthadīpanā.
+.
 57..,...,-.,......-
 ..,,,,...
 .-
@@ -266,6 +266,6 @@ Vibhāvaniyañca
 ..
 ..
 .......
-Iti paramatthadīpaniyānāma abhidhammatthasaṅgahassa
-Catutthavaṇṇanāya cittasaṅgahassa
-Paramatthadīpanā niṭṭhitā.
+
+
+.

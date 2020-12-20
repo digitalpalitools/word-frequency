@@ -70,7 +70,7 @@ rummarūpiṃ (sī. pī.),.
 23.
 ,;
 ,.
-Mātaṅgajātakaṃ paṭhamaṃ.
+.
 
 .(2)
 24.
@@ -157,7 +157,7 @@ dhammaṃ (sī. pī.),adhammakāro ca te (sī. syā. pī.).
 51.
 ,;
 supinehi (sī. pī.),.
-Cittasambhūtajātakaṃ dutiyaṃ.
+.
 
 .(3)
 52.
@@ -255,7 +255,7 @@ datvā mānusakaṃ (sī.),me iti padaṃ natthi sī. potthake.
 82.
 ,;
 ,.
-Sivijātakaṃ tatiyaṃ.
+.
 
 .(4)
 83.
@@ -337,7 +337,7 @@ karonti bālā (syā. ka.),idameva (syā. ka. aṭṭha.), imameva (ka.)maññam
 ,;
 ,;
 ,.
-Sirīmantajātakaṃ sirimandajātakaṃ (sī. syā. pī.) catutthaṃ.
+sirimandajātakaṃ (sī. syā. pī.).
 
 .(5)
 104.
@@ -427,7 +427,7 @@ caturassañca (syā. ka.),ummāpupphasirinnibhaṃ (sī. syā. pī. ka.).
 132.
 kasī vaṇijjā (sī. syā. pī.),;
 ,akarā punanti (ka. sī. pī.).
-Rohaṇamigajātakaṃ rohantamigajātakaṃ (sī. pī.) pañcamaṃ.
+rohantamigajātakaṃ (sī. pī.).
 
 .(6)
 133.
@@ -508,7 +508,7 @@ nattamandhova (sī. pī.),.
 158.
 ,ṭhāpasa (syā. ka.);
 ,khettabījaṃva (sī. pī.).
-Cūḷahaṃsajātakaṃ chaṭṭhaṃ.
+.
 
 .(7)
 159.
@@ -595,7 +595,7 @@ surabhī (sī. syā. pī.),.
 phalapuṭasseva (sī. pī.), palapuṭasseva (ka. aṭṭha.), palāsapuṭasseva (syā. ka.),;
 ,;
 ,.
-Sattigumbajātakaṃ sattamaṃ.
+.
 
 .(8)
 186.
@@ -673,7 +673,7 @@ appaṃva (syā. ka.),.
 210.
 vividha (sī. syā.),;
 muñca (sī. pī.),.
-Bhallātiyajātakaṃ aṭṭhamaṃ.
+.
 
 .(9)
 211.
@@ -763,7 +763,7 @@ bhojino (sī. syā. pī.),;
 239.
 ,;
 ,.
-Somanassajātakaṃ navamaṃ.
+.
 
 .(10)
 240.
@@ -901,7 +901,7 @@ muttānañca (sī. syā.),;
 283.
 ,;
 ,.
-Campeyyajātakaṃ dasamaṃ.
+.
 
 .(11)
 284.
@@ -997,7 +997,7 @@ kācena (pī.),.
 314.
 ,;
 ,.
-Mahāpalobhanajātakaṃ ekādasamaṃ.
+.
 
 .(12)
 315.
@@ -1067,7 +1067,7 @@ devindassa tadajja hatthagataṃ (ka.),;
 336.
 ,;
 ,.
-Pañcapaṇḍitajātakaṃ dvādasamaṃ.
+.
 
 .(13)
 337.
@@ -1148,7 +1148,7 @@ ekāva (sī.),.
 362.
 ,;
 ,sītībhūtā (sī.).
-Hatthipālajātakaṃ terasamaṃ.
+.
 
 .(14)
 363.
@@ -1223,8 +1223,8 @@ vajanti adassanaṃ (syā. ka.),.
 386.
 ,;
 ,.
-Ayogharajātakaṃ cuddasamaṃ.
+.
 –
 ,;
 -.
-Vīsatinipātaṃ niṭṭhitaṃ.
+.

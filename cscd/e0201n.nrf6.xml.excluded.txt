@@ -119,7 +119,7 @@ Visaṃyogarūparāsi
 ,,,.
 ,,,,.,jā. 1.14.10.
 ,,jā. 1.10.9 (…hatvā).
-Iti visaṃyogarūparāsi.
+.
 Sadisasaṃyogarūparāsi
 .
 –
@@ -177,7 +177,7 @@ Sadisasaṃyogarūparāsi
 ,,,,,,,,,.
 ,-,,,,.,,,,,,.
 -,,,,.
-Iti sadisasaṃyogarūparāsi.
+.
 Vaggantarūparāsi
 .
 ,,,,,,,,,,,,,.
@@ -198,8 +198,8 @@ Vaggantarūparāsi
 -,,,,,,,,.
 ,-,,,,,,,,,.
 -,,,,,,.
-Iti vaggantarūparāsi.
-Dhātvantavikārarāsi niṭṭhito.
+.
+.
 Paccayavikārarāsi
 Kādesarāsi
 .
@@ -222,7 +222,7 @@ Kādesarāsi
 -,,,,.
 -,,,,,.
 -,,,,,,.
-Iti kādesarāsi.
+.
 Ṭhādesarāsi
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 738.ka. 573; rū. 626; nī. 1176 (thokaṃ visadisaṃ).
@@ -276,7 +276,7 @@ Iti kādesarāsi.
 ‘’.su. ni. 426,.
 ,-,,,.
 -,,,,.
-Iti ṭhādesarāsi.
+.
 Ḍhādesarāsi
 742.ka. 576; rū. 607; nī. 1179.
 ,.
@@ -288,7 +288,7 @@ Iti ṭhādesarāsi.
 744.‘ttissa’ (bahūsu).
 .
 -,.
-Iti ḍhādesarāsi.
+.
 Ṇādesarāsi
 ,,,,,.
 745..
@@ -304,7 +304,7 @@ Iti ḍhādesarāsi.
 -,,,,,,.
 -,.
 ,,,.
-Iti ṇādesarāsi.
+.
 Thādesarāsi
 747..
 ,.
@@ -327,7 +327,7 @@ Thādesarāsi
 ,-,.
 -,.
 -,,,,,.
-Iti thādesarāsi.
+.
 Dhādesarāsi
 ,,,,,,,,,,,,,,,,,,,,.
 750.ka. 576; rū. 607; nī. 1179; ‘dho dhahabhehi’ (bahūsu).
@@ -368,7 +368,7 @@ Dhādesarāsi
 751..
 .
 ,,,..
-Iti dhādesarāsi.
+.
 Visaṃyoganādesarāsi
 ,,,,,,,,,,,,,,,,,,,,,,,,,.
 752.,.
@@ -400,7 +400,7 @@ Visaṃyoganādesarāsi
 -,,-.
 -,.
 -,,pārā. aṭṭha. 1.tatiyasaṃgītikathā.
-Iti visaṃyoganādesarāsi.
+.
 Sasaṃyoganādesarāsi
 ,,,,,,,,,.
 ‘’,,,,,,,,.
@@ -414,7 +414,7 @@ Sasaṃyoganādesarāsi
 753.ka. 582; rū. 631; nī. 1185.
 ,.
 ,,,,,,.
-Iti sasaṃyoganādesarāsi.
+.
 Hādesarāsi
 ,,,,,,,,.
 754.ka. 589; rū. 621; nī. 1192; ‘…ḷa ca’ (bahūsu).
@@ -443,7 +443,7 @@ Hādesarāsi
 -,.saṃ. ni. 1.159 (taṇhamabbumha).
 -,‘‘’’.,,,,,,,,,,.
 -,,.
-Iti hādesarāsi.
+.
 Tvādivikārarāsi
 ,,.
 ,,.
@@ -516,8 +516,8 @@ pe. va. 329,‘’,,,,,,,,,.
 -.a. ni. 4.195.
 -.pārā. 653 (kattikapuṇṇamaṃ),.
 -,,,.
-Iti tvādivikārarāsi.
-Paccayavikārarāsi niṭṭhito.
+.
+.
 Pakatirūparāsi
 Tādipaccayarāsi
 .
@@ -578,7 +578,7 @@ Tādipaccayarāsi
 ,,.
 ,,,,,,,.
 ,,.
-Iti ekabyañjanadhātūnaṃ pakatirūparāsi.
+.
 Bhūvādigaṇa
 .
 –
@@ -598,7 +598,7 @@ Bhūvādigaṇa
 .
 ,,,,,,,,,.
 ?.
-Iti bhūvādigaṇo.
+.
 Rudhādigaṇa
 ,,,,.
 765.ka. 446; rū. 509; nī. 926.
@@ -610,7 +610,7 @@ Rudhādigaṇa
 ,,,.
 ,,,,,,,,,.
 -,.
-Iti rudhādigaṇo.
+.
 Divādigaṇa
 ,,,.
 766..
@@ -619,20 +619,20 @@ Divādigaṇa
 -,,,,,,,,apa. therī 2.3.135,,,,,,,,,,,,,,,,,,,,,,,mahāni. 192,,,,,,,,.
 -,mahāni. 192,,,,,,,,,,,,,,,.
 -,,,,,,,,,,,,,,.
-Iti divādigaṇo.
+.
 Svādigaṇa
 ,,.
 ,,,,,,,.
 -,,,,,,,,,,,,,,,,,,,,,,,,,.
 -,,,,.
-Iti svādigaṇo.
+.
 .
 Tanādigaṇa
 ,.
 ‘’,,,,,,,,,,.
 -,,,,,,,,,,,,,.
 ,,.
-Iti tanādigaṇo.
+.
 Curādigaṇa
 ,,,.
 -,,,,,,,,,,,,,.
@@ -641,7 +641,7 @@ Curādigaṇa
 -.
 ,,,.
 ,,,.
-Iti curādigaṇo.
+.
 ,,,.
 ,,,,,,.
 -.
@@ -672,7 +672,7 @@ Iti curādigaṇo.
 770.ka. 556-7; rū. 606, 622; nī. 1143-4.
 ,.
 ,,,,.,,,,.,,,,.,,,,.
-Iti tādipaccayarāsi.
+.
 Anīyapaccayarāsi
 ‘’,.
 ,,,,-,,,,,,,,,,,,.
@@ -681,7 +681,7 @@ Anīyapaccayarāsi
 .
 ,,,,,.
 ,,,,,,,,,,,,.
-Iti anīyapaccayarāsi.
+.
 Nta, mānapaccayarāsi
 ,.
 772.ka. 565; rū. 646; nī. 1157.
@@ -802,7 +802,7 @@ khu. pā. 9.9,dī. ni. 1.217,.
 ,,,,,,,,,.
 ,,,,,.
 ,,,.
-Iti nta, mānapaccayarāsi.
+,.
 Ṇyādipaccayarāsi
 ,,.
 777..
@@ -850,7 +850,7 @@ Iti nta, mānapaccayarāsi.
 ,,,.
 ,,,,,,,,,.
 ,.
-Iti ṇyādipaccayarāsi.
+.
 Aādipaccayarāsi
 ,,,.
 783.‘bhāvakārakesvaghaṇaghakā’ (bahūsu).
@@ -907,7 +907,7 @@ Aādipaccayarāsi
 787.ka. 614; rū. 581; nī. 1219.
 ,,.
 ,‘’,,.
-Iti aādipaccayarāsi.
+.
 Anapaccayarāsi
 .
 788..
@@ -945,7 +945,7 @@ Anapaccayarāsi
 790..
 .
 ,.‘‘’’.
-Iti anapaccayarāsi.
+.
 Akapaccayarāsi
 .
 791.‘āsiṃsāmako’ (bahūsu).
@@ -972,7 +972,7 @@ Akapaccayarāsi
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
 ,,,,,,,,,,..
 –‘‘’’.,,,,.
-Iti akapaccayarāsi.
+.
 Ivaṇṇantarūparāsi
 .
 792.ka. 551; rū. 598; nī. 1138.
@@ -1005,7 +1005,7 @@ Ivaṇṇantarūparāsi
 795.ka. 532; rū. 590; nī. 1114.
 .
 .
-Iti ivaṇṇantarūparāsi.
+.
 Uvaṇṇantarūparāsi
 796..
 .
@@ -1024,7 +1024,7 @@ Uvaṇṇantarūparāsi
 780.ka. 534; rū. 592; nī. 1118.
 .‘’.
 ,,,.
-Iti uvaṇṇantarūparāsi.
+.
 Itthiliṅgarūparāsi
 .
 801.ka. 553; rū. 599; nī. 1140; ‘…kti…’ (bahūsu).
@@ -1068,7 +1068,7 @@ Itthiliṅgarūparāsi
 803.ka. 554; rū. 601; nī. 1141.
 .
 ,.
-Iti itthiliṅgarūparāsi.
+.
 Rīrikkhādipaccayarāsi
 804.ka. 642; rū. 588; nī. 1269.
 ,,‘’,,‘’.
@@ -1109,7 +1109,7 @@ Rīrikkhādipaccayarāsi
 810.ka. 650; rū. 651; nī. 1288.
 ,,.
 -,,-,,-,-,.
-Iti rīrikkhādipaccayarāsi.
-Pakatirūparāsi niṭṭhito.
-Iti niruttidīpaniyā nāma moggallānadīpaniyā
-Tabbādikaṇḍo nāma kitakaṇḍo niṭṭhito.
+.
+.
+
+.

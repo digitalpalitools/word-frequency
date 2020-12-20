@@ -15,7 +15,7 @@
 319.
 ‘‘,;
 ,’’.
-… Rājadatto thero….
+…….
 2. Subhūtattheragāthā
 320.
 ‘‘,kiccamicchato (sī.), kiccamicchayaṃ (katthaci);
@@ -32,7 +32,7 @@ dha. pa. 51 dhammapadepi‘‘,;
 324.
 dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 ,’’sakubbato (sī. pī.), sukubbato (syā.).
-… Subhūto thero….
+…….
 3. Girimānandattheragāthā
 325.
 ‘‘,;
@@ -47,7 +47,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 329.
 ‘‘…pe…;
 ’’.
-… Girimānando thero….
+…….
 4. Sumanattheragāthā
 330.
 ‘‘,;
@@ -64,7 +64,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 334.
 ‘‘,;
 ,’’.
-… Sumano thero….
+…….
 5. Vaḍḍhattheragāthā
 335.
 ‘‘,;
@@ -82,7 +82,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 339.
 ‘‘,;
 ,’’.
-… Vaḍḍho thero….
+…….
 6. Nadīkassapattheragāthā
 340.
 ‘‘,;
@@ -99,7 +99,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 344.
 ‘‘,;
 ,’’.
-… Nadīkassapo thero….
+…….
 7. Gayākassapattheragāthā
 345.
 ‘‘,;
@@ -116,7 +116,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 349.
 ‘‘,;
 ,’’.
-… Gayākassapo thero….
+…….
 8. Vakkalittheragāthā
 350.
 ‘‘,;
@@ -133,7 +133,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 354.
 ‘‘,;
 ,’’.
-… Vakkalitthero….
+…….
 9. Vijitasenattheragāthā
 355.
 ‘‘,;
@@ -150,7 +150,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 359.
 ‘‘,payatatto vodapessāmi (sī.);
 ,’’.
-… Vijitaseno thero….
+…….
 10. Yasadattattheragāthā
 360.
 ‘‘,;
@@ -168,7 +168,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 ‘‘,;
 ,;
 ,’’.
-… Yasadatto thero….
+…….
 11. Soṇakuṭikaṇṇattheragāthā
 365.
 ‘‘,;
@@ -185,7 +185,7 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 369.
 ‘‘,;
 ,’’.
-… Soṇo kuṭikaṇṇathero….
+…….
 12. Kosiyattheragāthā
 370.
 ‘‘,;
@@ -202,8 +202,8 @@ dha. pa. 52‘‘,sagandhakaṃ (sī. syā. pī.);
 374.
 ‘‘,;
 ,’’.
-… Kosiyo thero….
-Pañcakanipāto niṭṭhito.
+…….
+.
 –
 ,;
 ,.

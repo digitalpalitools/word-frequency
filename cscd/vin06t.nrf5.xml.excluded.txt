@@ -2,13 +2,13 @@
 Soḷasamahāvāravaṇṇanā
 Paññattivāravaṇṇanā
 1-2..,..‘‘’’‘‘’’......‘‘’’.‘‘,,‘’’’,...‘‘’’.
-Mahāvibhaṅge paññattivāravaṇṇanā niṭṭhitā.
+.
 Katāpattivārādivaṇṇanā
 166.‘‘’’.‘‘’’.
 171.,‘‘’’..
 173.‘‘,’,’’.
 193.,‘‘’’,‘‘’’,..
-Mahāvibhaṅge ca bhikkhunivibhaṅge soḷasamahāvāravaṇṇanā niṭṭhitā.
+.
 Samuṭṭhānasīsavaṇṇanā
 257.‘‘’’...,..,.?‘‘’’...,.,.,,,.‘‘’’.‘‘’’.‘‘’’..‘‘,’’..‘‘’’.‘‘’’..
 Paṭhamapārājikasamuṭṭhānavaṇṇanā
@@ -27,7 +27,7 @@ Chaāpattisamuṭṭhānavārādivaṇṇanā
 284..
 288.,.‘‘,’’‘‘’’..‘‘‘’.’’.
 291.‘‘,’’.
-Antarapeyyālaṃ niṭṭhitaṃ.
+.
 Samathabhedavaṇṇanā
 Adhikaraṇapariyāyavārādivaṇṇanā
 293-4.‘‘’’...,,.?.‘‘’’..‘‘’’.,,.
@@ -50,7 +50,7 @@ Saṃsaṭṭhavārādivaṇṇanā
 313.‘‘,…pe…’’..‘‘‘’’’.‘‘‘’,‘’’’.
 314.‘‘’’.
 318-9.‘‘’’..‘‘’’‘‘’’.
-Samathabhedavaṇṇanā niṭṭhitā.
+.
 Khandhakapucchāvāravaṇṇanā
 Pucchāvissajjanāvaṇṇanā
 320...‘‘,,’’.‘‘,,’’,..
@@ -83,7 +83,7 @@ Dasakavāravaṇṇanā
 330.‘‘,’’(cūḷava. 204)...‘‘’’...‘‘’’.‘‘‘’‘…pe…’‘’‘’,’’.‘‘’’,,.
 Ekādasakavāravaṇṇanā
 331....
-Ekuttarikanayavaṇṇanā niṭṭhitā.
+.
 Uposathādipucchāvissajjanāvaṇṇanā
 332.‘‘,,’’.
 Atthavasapakaraṇavaṇṇanā
@@ -113,7 +113,7 @@ Atthavasapakaraṇavaṇṇanā
 ,;
 ,.
 ,.,..
-Mahāvaggavaṇṇanā niṭṭhitā.
+.
 Paṭhamagāthāsaṅgaṇikavaṇṇanā
 Sattanagaresu paññattasikkhāpadavaṇṇanā
 335..,...‘‘’’(pārā. 552-554)...(pāci. 1029)........(pāci. 558),.‘‘’’(pāci. 834),‘‘’’(pāci. 970).(pāci. 1167).,.....‘‘’’....‘‘’’(pāci. 517)‘‘…pe…’’(pāci. 570).(pāci. 1055)..
@@ -134,7 +134,7 @@ Asādhāraṇādivaṇṇanā
 .‘‘’’..‘‘’’....‘‘‘,’.‘’,.‘’‘’.?‘’,’’,.,,,.
 Pārājikādiāpattivaṇṇanā
 339....,‘‘’’..‘‘’’,‘‘’’.‘‘’’,..
-Paṭhamagāthāsaṅgaṇikavaṇṇanā niṭṭhitā.
+.
 Adhikaraṇabhedavaṇṇanā
 Ukkoṭanabhedādivaṇṇanā
 340.,..‘‘’‘’’’..‘‘’’.‘‘…pe…’’.‘‘,.’’....‘‘’’...
@@ -143,7 +143,7 @@ Adhikaraṇanidānādivaṇṇanā
 344.,,,,.
 348..
 353..?,.
-Adhikaraṇabhedavaṇṇanā niṭṭhitā.
+.
 Dutiyagāthāsaṅgaṇikavaṇṇanā
 Codanādipucchāvissajjanāvaṇṇanā
 359...‘‘’’.,..
@@ -167,8 +167,8 @@ Kathinādijānitabbavibhāgavaṇṇanā
 415.‘‘’’.
 Palibodhapañhābyākaraṇakathāvaṇṇanā
 415-6.?‘‘’’,‘‘’’,.?‘‘’’,,,‘‘’’,‘‘’’.‘‘’’‘‘’’,‘‘’’.‘‘’’.‘‘?‘,’‘’‘’’’.‘‘’’,.‘‘’’...
-Kathinabhedavaṇṇanā niṭṭhitā.
-Paññattivaggavaṇṇanā niṭṭhitā.
+.
+.
 Upālipañcakavaṇṇanā
 Anissitavaggavaṇṇanā
 419..
@@ -190,7 +190,7 @@ Adhikaraṇavūpasamavaggavaṇṇanā
 458.‘‘’’.‘‘’’.
 Kathinatthāravaggavaṇṇanā
 467.‘‘’’,.,,.,.‘‘’’.
-Upālipañcakavaṇṇanā niṭṭhitā.
+.
 Āpattisamuṭṭhānavaṇṇanā
 470...,.
 Dutiyagāthāsaṅgaṇikavaṇṇanā
@@ -202,7 +202,7 @@ Avandanīyapuggalādivaṇṇanā
 477....,…pe…,.,..
 Soḷasakammādivaṇṇanā
 478.,.
-Dutiyagāthāsaṅgaṇikavaṇṇanā niṭṭhitā.
+.
 Sedamocanagāthāvaṇṇanā
 Avippavāsapañhāvaṇṇanā
 479...‘‘’’....‘‘’’...,,...,....
@@ -210,7 +210,7 @@ Pārājikādipañhāvaṇṇanā
 480.‘‘’’...‘‘’’.
 Pācittiyādipañhāvaṇṇanā
 481....,.‘‘’’.‘‘’’.
-Sedamocanagāthāvaṇṇanā niṭṭhitā.
+.
 Pañcavaggo
 Kammavaggavaṇṇanā
 483.‘‘’’..‘‘’’..,‘‘’’.‘‘’’.,.
@@ -242,5 +242,5 @@ Nigamanakathāvaṇṇanā
 ;
 ,
 ’’.
-Samantapāsādikāya gaṇṭhipadādhippāyappakāsanā samattā.
-Vajirabuddhiṭīkā niṭṭhitā.
+.
+.

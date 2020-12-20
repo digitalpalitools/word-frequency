@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Jātaka-aṭṭhakathā
 (Sattamo bhāgo)
@@ -70,12 +70,12 @@ Nagarakaṇḍaṃ
 ‘‘’’‘‘’’‘‘’’.‘‘,’’‘‘,,,’’.‘‘,’’.‘‘’’.
 ‘‘’’.‘‘’’.‘‘,’’‘‘,,,,,’’......
 .‘‘,,’’.‘‘,,,’’.‘‘,’’...
-Nagarakaṇḍaṃ niṭṭhitaṃ.
+.
 Uposathakaṇḍaṃ
 ,‘‘’’.,‘‘’’..,‘‘’’.,‘‘’’..‘‘,’’.‘‘’’...‘‘’’‘‘,’’.‘‘,,’’.‘‘’’.‘‘’’...
 ,...,..,..,.‘‘,,’’‘‘’’.‘‘,’’‘‘,’’.‘‘,,,,’’.
 ‘‘’’..‘‘,’’‘‘,,.’’‘‘,’’...
-Uposathakhaṇḍaṃ niṭṭhitaṃ.
+.
 Garuḷakhaṇḍaṃ
 .‘‘,,,’’‘‘,,,’’....‘‘,,’’..
 ...‘‘,’’‘‘,’’‘‘,,’’...–
@@ -181,7 +181,7 @@ Garuḷakhaṇḍaṃ
 ‘‘,,’’‘‘,’’‘‘,’’..,.‘‘,’’.‘‘,’’...‘‘,’’?‘‘,,’’.‘‘’’.‘‘’’.‘‘’’.‘‘,,’’.‘‘’’.‘‘’’.‘‘’’‘‘,,,,’’.‘‘,,’’.
 .,...........‘‘’’‘‘’’‘‘’’‘‘,‘,’’’.
 .‘‘,,’’.‘‘,,,’’.‘‘,,,’’?‘‘,’’.‘‘,’’?‘‘,,’’.‘‘,,.,,.,’’.‘‘,’’..
-Garuḷakaṇḍaṃ niṭṭhitaṃ.
+.
 Kīḷanakaṇḍaṃ
 ‘‘,’’.‘‘,’’‘‘,,,’’‘‘,,’’..‘‘’’‘‘,,’’.
 ..‘‘’’.‘‘’’.‘‘,’’?‘‘,,’’.‘‘’’.‘‘,,,’’.‘‘,,’’–
@@ -304,7 +304,7 @@ Kīḷanakaṇḍaṃ
 ..
 ,.‘‘’’..‘‘’’.‘‘..,’’.‘‘’’.,‘‘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,’’...
 ..‘‘’’,‘‘,’’..,,..‘‘’’...
-Kīḷanakhaṇḍaṃ niṭṭhitaṃ.
+.
 Nagarapavesanakaṇḍaṃ
 ..‘‘,’’..?,.‘‘’’.‘‘,’’.,,.‘‘,’’.,..‘‘,,,’’?–
 848.
@@ -498,7 +498,7 @@ Nagarapavesanakaṇḍaṃ
 ,’’.
 –‘‘,,,’’.‘‘,,’’..,,......,,.‘‘’’...–‘‘,,’’?‘‘’’.‘‘,’’?‘‘,,’’.‘‘,’’.
 ‘‘,’’?‘‘,’’.–‘‘,,’’.‘‘,,.,’’.‘‘,’’?‘‘,’’.‘‘,,,.’’....
-Nagarapavesanakhaṇḍaṃ niṭṭhitaṃ.
+.
 Mahāsattassa pariyesanakhaṇḍaṃ
 .....‘‘,’’..‘‘,,.,’’.‘‘,’’..‘‘,’’...–
 893.
@@ -550,7 +550,7 @@ Mahāsattassa pariyesanakhaṇḍaṃ
 ,’’.
 ...,,.,.,.
 .
-Mahāsattassa pariyesanayakaṇḍaṃ niṭṭhitaṃ.
+.
 Micchākathā
 ‘‘,,.,‘’.,,’’.,.‘‘,,’’–
 905.
@@ -619,7 +619,7 @@ Micchākathā
 ,’’.
 ..,.
 .
-Micchākathā niṭṭhitā.
+.
 ‘‘’’...‘‘,’’.‘‘,,,’’–
 919.
 ‘‘,;
@@ -841,7 +841,7 @@ Micchākathā niṭṭhitā.
 ,’’.
 .....
 ‘‘’’..,,,,,,,.
-Bhūridattajātakavaṇṇanā chaṭṭhāniṭṭhitā.
+.
 
 .
 ...‘‘,,’’.‘‘,,’’?‘‘’’.‘‘’’?‘‘,’’.‘‘,’’.‘‘,.’’‘‘,’’,‘‘,’’,‘‘,’’,‘‘,’’.
@@ -1476,7 +1476,7 @@ Bhūridattajātakavaṇṇanā chaṭṭhāniṭṭhitā.
 ........‘‘’’?‘‘,’’.‘‘’’.
 ..‘‘’’,‘‘’’.‘‘’’...
 ‘‘,,,’’.,,,,,,,,.
-Candakumārajātakavaṇṇanā sattamā.
+.
 
 .
 ..‘‘,’’.‘‘’’–
@@ -2205,10 +2205,10 @@ Candakumārajātakavaṇṇanā sattamā.
 1345.
 ‘‘,;
 ,’’.
-Mahānāradakassapajātakavaṇṇanā aṭṭhamā.
+.
 
 .
-Catuposathakaṇḍaṃ
+
 .‘‘,,’’.‘‘,,’’‘‘’’‘‘,,..’’.
 ...
 ..,,,.,.,.,.,.
@@ -2264,8 +2264,8 @@ Catuposathakaṇḍaṃ
 ‘‘,;
 ,’’.(jā. 1.10.34-37);
 .
-Catuposathakaṇḍaṃ niṭṭhitaṃ.
-Dohaḷakaṇḍaṃ
+.
+
 .‘‘,’’?‘‘,.,,,’’.‘‘,’’.‘‘,,,,’’.‘‘‘,,’,.‘’’’..‘‘’’‘‘,’’–
 1346.
 ‘‘,;
@@ -2468,8 +2468,8 @@ Dohaḷakaṇḍaṃ
 1392.
 ‘‘,;
 ,’’.
-Dohaḷakaṇḍaṃ niṭṭhitaṃ.
-Maṇikaṇḍaṃ
+.
+
 ‘‘,,,.,’’..,,.‘‘,,’’‘‘,’’‘‘,’’,.,.‘‘’’‘‘’’‘‘,,’’–
 1393.
 ‘‘,;
@@ -2611,8 +2611,8 @@ Maṇikaṇḍaṃ
 ‘‘,;
 ,’’.
 .......,..,.‘‘,’’.–,,,.,.
-Maṇikaṇḍaṃ niṭṭhitaṃ.
-Akkhakaṇḍaṃ
+.
+
 ‘‘,,’’.‘‘,’’.‘‘,,,,’’...–
 1434.
 ‘‘,;
@@ -2698,8 +2698,8 @@ Akkhakaṇḍaṃ
 ‘‘,;
 ,’’.
 ‘‘,’’,,,,.
-Akkhakaṇḍaṃ niṭṭhitaṃ.
-Gharāvāsapañhā
+.
+
 ‘‘,,’’.‘‘,,’’.‘‘’’.–
 1449.
 ‘‘,;
@@ -2733,8 +2733,8 @@ Gharāvāsapañhā
 ,,,,,,‘‘’’.,,............
 .,..‘‘,’’....‘‘,,’’....
 ..
-Gharāvāsapañhā niṭṭhitā.
-Lakkhaṇakaṇḍaṃ
+.
+
 .–
 1458.
 ‘‘,;
@@ -2793,8 +2793,8 @@ Lakkhaṇakaṇḍaṃ
 ,’’.
 ..,.,.....‘‘’’.‘‘,,’’,‘‘,..,,.,’’.
 ..
-Lakkhaṇakaṇḍaṃ niṭṭhitaṃ.
-Rājavasatikaṇḍa
+.
+
 ‘‘,,,,,’’.–
 1471.
 ‘‘,;
@@ -2958,8 +2958,8 @@ Rājavasatikaṇḍa
 ,’’.
 ,,..,...,.,,.
 ;
-Rājavasatikaṇḍaṃ niṭṭhitaṃ.
-Antarapeyyālaṃ
+.
+
 .‘‘’’.–
 1518.
 ‘‘,;
@@ -3090,8 +3090,8 @@ Antarapeyyālaṃ
 ,’’.
 ...,.
 ‘‘’’.
-Antarapeyyālo niṭṭhito.
-Sādhunaradhammakaṇḍaṃ
+.
+
 ‘‘,’’.–
 1549.
 ‘‘,;
@@ -3186,8 +3186,8 @@ Sādhunaradhammakaṇḍaṃ
 ’’.
 .,...,.,....?.,...‘‘,,’’....,.
 .
-Sādhunaradhammakaṇḍaṃ niṭṭhitaṃ.
-Kāḷāgirikaṇḍaṃ
+.
+
 ‘‘,,,,.,,,’’–
 1572.
 ‘‘,;
@@ -3240,7 +3240,7 @@ Kāḷāgirikaṇḍaṃ
 ‘‘,;
 ,’’.
 .‘‘’’.,.
-Kāḷāgirikaṇḍaṃ niṭṭhitaṃ.
+.
 –
 1584.
 ‘‘,;
@@ -3510,10 +3510,10 @@ Kāḷāgirikaṇḍaṃ niṭṭhitaṃ.
 ..
 ...
 ‘‘,,,’’–‘‘,,,,,,,,,,’’.
-Vidhurajātakavaṇṇanā navamā.
+.
 
 .
-Dasavarakathāvaṇṇanā
+
 .,‘‘’’‘‘’’,....‘‘,’’‘‘,’’.
 ‘‘,’’.‘‘,,.,.,’’.,.
 .,.,.,...‘‘,’’.‘‘,,,’’.
@@ -3577,8 +3577,8 @@ Dasavarakathāvaṇṇanā
 ‘‘,;
 ,’’.
 ‘‘’’.
-Dasavarakathā niṭṭhitā.
-Himavantavaṇṇanā
+.
+
 ..‘‘’’...–
 ‘‘,;
 ,’’.
@@ -3887,8 +3887,8 @@ Himavantavaṇṇanā
 ,’’.
 .........,,..‘‘’’,...
 .
-Hīmavantavaṇṇanā niṭṭhitā.
-Dānakaṇḍavaṇṇanā
+.
+
 ‘‘,,’’.–
 1744.
 ‘‘,;
@@ -4337,8 +4337,8 @@ Dānakaṇḍavaṇṇanā
 1868.
 ‘‘,;
 ,’’.
-Dānakaṇḍavaṇṇanā niṭṭhitā.
-Vanapavesanakaṇḍavaṇṇanā
+.
+
 ‘‘’’.‘‘’’.–
 1869.
 ‘‘,;
@@ -4510,7 +4510,7 @@ Vanapavesanakaṇḍavaṇṇanā
 ‘‘’’‘‘’’‘‘,,’’.‘‘,’’‘‘,’’.
 ‘‘’’‘‘’’‘‘,,’’....‘‘,,’’..
 ‘‘,,,’’.‘‘’’......
-Vanapavesanakaṇḍavaṇṇanā niṭṭhitā.
+.
 Jūjakapabbavaṇṇanā
 ....‘‘,’’.‘‘’’.–
 1914.
@@ -4745,7 +4745,7 @@ Jūjakapabbavaṇṇanā
 ,;
 ,’’.
 ..
-Jūjakapabbavaṇṇanā niṭṭhitā.
+.
 Cūḷavanavaṇṇanā
 –
 1976.
@@ -4859,7 +4859,7 @@ Cūḷavanavaṇṇanā
 ‘‘,;
 ,’’.
 ,.
-Cūḷavanavaṇṇanā niṭṭhitā.
+.
 Mahāvanavaṇṇanā
 2007.
 ‘‘,;
@@ -5125,7 +5125,7 @@ Mahāvanavaṇṇanā
 ‘‘,;
 ,’’.
 ,.
-Mahāvanavaṇṇanā niṭṭhitā.
+.
 Dārakapabbavaṇṇanā
 ‘‘,.,’’...–.‘‘,,’’.‘‘’’.‘‘,’’.‘‘,’’.‘‘,,’’.‘‘,’’..
 ‘‘,,’’‘‘,,’’.‘‘,,’’‘‘,’’.‘‘’’.‘‘’’..‘,’’–
@@ -5470,7 +5470,7 @@ Dārakapabbavaṇṇanā
 ‘‘,;
 ,’’.
 .,.................
-Dārakapabbavaṇṇanā niṭṭhitā.
+.
 Maddīpabbavaṇṇanā
 ,‘‘,’’.‘‘,’’.–
 2182.
@@ -5780,7 +5780,7 @@ Maddīpabbavaṇṇanā
 ,’’.
 ‘‘’’..
 ‘‘,’’.‘‘’’.
-Maddīpabbavaṇṇanā niṭṭhitā.
+.
 Sakkapabbavaṇṇanā
 ‘‘,,.’’..–
 2267.
@@ -5921,7 +5921,7 @@ Sakkapabbavaṇṇanā
 ‘‘,;
 ,’’.
 ..
-Sakkapabbavaṇṇanā niṭṭhitā.
+.
 Mahārājapabbavaṇṇanā
 ....,..‘‘’’..–....‘‘,,’’...–
 2303.
@@ -6167,7 +6167,7 @@ Mahārājapabbavaṇṇanā
 ‘‘,;
 ,’’.
 ...‘‘’’........,.
-Mahārājapabbavaṇṇanā niṭṭhitā.
+.
 Chakhattiyakammavaṇṇanā
 ..‘‘’’.–
 2368.
@@ -6297,7 +6297,7 @@ Chakhattiyakammavaṇṇanā
 ,;
 ,’’.
 ..‘‘,,,’’.
-Chakhattiyakammavaṇṇanā niṭṭhitā.
+.
 Nagarakaṇḍavaṇṇanā
 –
 2400.
@@ -6456,8 +6456,8 @@ Nagarakaṇḍavaṇṇanā
 ‘‘,;
 ,’’.
 .
-Nagarakaṇḍavaṇṇanā niṭṭhitā.
+.
 –‘‘,,,,,,,,,,,’’.
-Vessantarajātakavaṇṇanā dasamā.
-Mahānipātavaṇṇanā niṭṭhitā.
-Jātaka-aṭṭhakathā samattā.
+.
+.
+-.

@@ -59,7 +59,7 @@ sattaratanassa mahesī (sī. pī.),.
 ‘‘,;
 ,’’.
 .
-Sumedhātheriyāpadānaṃ paṭhamaṃ.
+.
 2. Mekhalādāyikātherīapadānaṃ
 20.
 ‘‘,thūpakāra makāsahaṃ (syā.);
@@ -77,7 +77,7 @@ Sumedhātheriyāpadānaṃ paṭhamaṃ.
 25.
 ‘‘…pe…’’.
 .
-Mekhalādāyikātheriyāpadānaṃ dutiyaṃ.
+.
 3. Maṇḍapadāyikātherīapadānaṃ
 26.
 ‘‘,;
@@ -92,7 +92,7 @@ thūpañca pavaramadaṃ (syā.), dhuvañca cīvaraṃ adaṃ (pī.),.
 30.
 ‘‘…pe…’’.
 .
-Maṇḍapadāyikātheriyāpadānaṃ tatiyaṃ.
+.
 4. Saṅkamanatthātherīapadānaṃ
 31.
 ‘‘koṇḍaññassa bhagavato (syā. pī.),;
@@ -110,7 +110,7 @@ Maṇḍapadāyikātheriyāpadānaṃ tatiyaṃ.
 36.
 ‘‘…pe…’’.
 saṅkamanadā (syā.).
-Saṅkamanatthātheriyāpadānaṃ catutthaṃ.
+.
 5. Naḷamālikātherīapadānaṃ
 37.
 ‘‘,;
@@ -138,7 +138,7 @@ vedayitvāna kusalaṃ (syā.), saṃvedayitvā kusalaṃ (pī.),.
 45.
 ‘‘…pe…’’.
 .
-Naḷamālikātheriyāpadānaṃ pañcamaṃ.
+.
 6. Ekapiṇḍapātadāyikātherīapadānaṃ
 46.
 ‘‘,;
@@ -180,7 +180,7 @@ upacitattā (syā.),.
 59.
 ‘‘…pe…’’.
 .
-Ekapiṇḍapātadāyikātheriyāpadānaṃ chaṭṭhaṃ.
+.
 7. Kaṭacchubhikkhādāyikātherīapadānaṃ
 60.
 ‘‘,;
@@ -213,7 +213,7 @@ Ekapiṇḍapātadāyikātheriyāpadānaṃ chaṭṭhaṃ.
 70.
 ‘‘…pe…’’.
 .
-Kaṭacchubhikkhādāyikātheriyāpadānaṃ sattamaṃ.
+.
 8. Sattuppalamālikātherīapadānaṃ
 71.
 ‘‘,aruṇavā nāma (sī. pī.);
@@ -273,7 +273,7 @@ duggatiṃ nābhijānāmi (syā. pī.),.
 90.
 ‘‘…pe…’’.
 .
-Sattuppalamālikātheriyāpadānaṃ aṭṭhamaṃ.
+.
 9. Pañcadīpikātherīapadānaṃ
 91.
 ‘‘,cāriniṃ (syā.);
@@ -348,7 +348,7 @@ ca jhāyante (sī.), ca jhāyantā (pī.), pajjhāyantā (syā.),.
 115.
 ‘‘…pe…’’.
 .
-Pañcadīpikātheriyāpadānaṃ navamaṃ.
+.
 10. Udakadāyikātherīapadānaṃ
 116.
 ‘‘,;
@@ -393,8 +393,8 @@ Pañcadīpikātheriyāpadānaṃ navamaṃ.
 130.
 ‘‘…pe…’’.
 .
-Udakadāyikātheriyāpadānaṃ dasamaṃ.
-Sumedhāvaggo paṭhamo.
+.
+.
 –
 ,;
 ,.

@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Kuṭajapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Bandhujīvakattheraapadānaṃ
 6.
 ‘‘,;
@@ -36,7 +36,7 @@ Kuṭajapupphiyattherassāpadānaṃ paṭhamaṃ.
 11.
 ‘‘…pe…’’.
 .
-Bandhujīvakattherassāpadānaṃ dutiyaṃ.
+.
 3. Koṭumbariyattheraapadānaṃ
 12.
 ‘‘,;
@@ -56,7 +56,7 @@ Bandhujīvakattherassāpadānaṃ dutiyaṃ.
 17.
 ‘‘…pe…’’.
 .
-Koṭumbariyattherassāpadānaṃ tatiyaṃ.
+.
 4. Pañcahatthiyattheraapadānaṃ
 18.
 ‘‘,;
@@ -76,7 +76,7 @@ buddharaṃsyābhiphuṭṭhomhi (sī.), buddharaṃsābhighuṭṭhosmi (ka.),.
 23.
 ‘‘…pe…’’.
 .
-Pañcahatthiyattherassāpadānaṃ catutthaṃ.
+.
 5. Isimuggadāyakattheraapadānaṃ
 24.
 ‘‘,sitaraṃsiṃva (sī.);
@@ -96,7 +96,7 @@ mahisamantanāmā (syā.),.
 29.
 ‘‘…pe…’’.
 .
-Isimuggadāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Bodhiupaṭṭhākattheraapadānaṃ
 30.
 ‘‘,;
@@ -110,7 +110,7 @@ damatho (syā.),.
 33.
 ‘‘…pe…’’.
 .
-Bodhiupaṭṭhākattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ekacintikattheraapadānaṃ
 34.
 ‘‘devā (ka.),cavanti (ka.);
@@ -148,7 +148,7 @@ Bodhiupaṭṭhākattherassāpadānaṃ chaṭṭhaṃ.
 45.
 ‘‘…pe…’’.
 .
-Ekacintikattherassāpadānaṃ sattamaṃ.
+.
 8. Tikaṇṇipupphiyattheraapadānaṃ
 46.
 ‘‘,;
@@ -165,7 +165,7 @@ Ekacintikattherassāpadānaṃ sattamaṃ.
 50.
 ‘‘…pe…’’.
 kiṃkaṇikapupphiyo (ka.).
-Tikaṇṇipupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Ekacāriyattheraapadānaṃ
 51.
 ‘‘,;
@@ -185,7 +185,7 @@ Tikaṇṇipupphiyattherassāpadānaṃ aṭṭhamaṃ.
 56.
 ‘‘…pe…’’.
 .
-Ekacāriyattherassāpadānaṃ navamaṃ.
+.
 10. Tivaṇṭipupphiyattheraapadānaṃ
 57.
 ‘‘abhibhūtopanijjhanti (sī.),abhibhuṃ theraṃ panijjhāma, sabbe saṅgamma te mayaṃ (syā.);
@@ -205,8 +205,8 @@ Ekacāriyattherassāpadānaṃ navamaṃ.
 62.
 ‘‘…pe…’’.
 ;
-Tivaṇṭipupphiyattherassāpadānaṃ dasamaṃ.
-Kuṭajapupphiyavaggo ekūnavīsatimo.
+.
+.
 –
 ,;
 ,;

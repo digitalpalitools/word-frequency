@@ -15,28 +15,28 @@
  siyā  kusalañca akusalañca dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā siyā kusalañca akusalañca dhammaṃ paṭicca akusalo dhammo uppajjeyya hetupaccayā siyā kusalañca akusalañca dhammaṃ paṭicca abyākato dhammo uppajjeyya hetupaccayā siyā kusalañca  akusalañca dhammaṃ paṭicca kusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca dhammaṃ paṭicca kusalo ca akusalo ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca dhammaṃ paṭicca kusalo ca akusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā
 
  siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca akusalo dhammo uppajjeyya hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjeyya  hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo ca akusalo ca dhammā uppajjeyyuṃ hetupaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo ca akusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā
-
+hetupaccayavāro
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya ārammaṇapaccayā 
 
  siyā  kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā pacchājātapaccayā āsevanapaccayā kammapaccayā vipākapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya avigatapaccayā akusalaṃ dhammaṃ paṭicca abyākataṃ dhammaṃ paṭicca kusalañca abyākatañca dhammaṃ paṭicca akusalañca abyākatañca dhammaṃ paṭicca kusalañca akusalañca dhammaṃ paṭicca kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo dhammo uppajjeyya akusalo dhammo uppajjeyya abyākato dhammo uppajjeyya kusalo ca abyākato ca dhammā uppajjeyyuṃ akusalo  ca abyākato ca dhammā uppajjeyyuṃ kusalo ca akusalo ca dhammā uppajjeyyuṃ kusalo ca akusalo ca abyākato ca dhammā uppajjeyyuṃ avigatapaccayā
 
-
+ekamūlakaṃ
 
 
  siyā  kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā ārammaṇapaccayā siyā kusalañca akusalañca abyākatañca dhammaṃ paṭicca kusalo ca akusalo ca abyākato ca dhammā uppajjeyyuṃ hetupaccayā ārammaṇapaccayā
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā adhipatipaccayā   hetupaccayā anantarapaccayā hetupaccayā samanantarapaccayā hetupaccayā avigatapaccayā
-
+dumūlakaṃ
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā ārammaṇapaccayā adhipatipaccayā hetupaccayā ārammaṇapaccayā anantarapaccayā hetupaccayā ārammaṇapaccayā avigatapaccayā
-
+timūlakaṃ
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā avigatapaccayā
+catumūlakaṃ
 
-
-
+hetumūlakaṃ
 
  siyā  kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya ārammaṇapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā ārammaṇapaccayā avigatapaccayā
 siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā avigatapaccayā  hetupaccayā avigatapaccayā ārammaṇapaccayā avigatapaccayā adhipatipaccayā avigatapaccayā vigatapaccayā
-
+dumūlakaṃ
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya avigatapaccayā hetupaccayā ārammaṇapaccayā avigatapaccayā hetupaccayā adhipatipaccayā avigatapaccayā hetupaccayā anantarapaccayā avigatapaccayā hetupaccayā vigatapaccayā
  siyā kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjeyya avigatapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā avigatapaccayā hetupaccayā ārammaṇapaccayā anantarapaccayā vigatapaccayā
 
@@ -83,5 +83,5 @@ noavigatapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā noatth
 dukaṃ tikañceva tikaṃ dukañca
 tikaṃ tikañceva dukaṃ dukañca
 cha paccanīyānulomamhi nayā sugambhīrāti
-
-
+pucchāvāro
+niddesavāre tevīsatipaccayā

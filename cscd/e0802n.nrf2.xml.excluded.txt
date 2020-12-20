@@ -323,7 +323,7 @@ Paṭhamakaṇḍa
 ,,,.
 ?..
 ,,.
-Iti nāmakappe paṭhamo kaṇḍo.
+.
 Dutiyakaṇḍa
 120,..
 .
@@ -496,7 +496,7 @@ Dutiyakaṇḍa
 .
 ,,.
 .,,,.,,,.
-Iti nāmakappe dutiyo kaṇḍo.
+.
 Tatiyakaṇḍa
 161,.’.
 .
@@ -715,7 +715,7 @@ Tatiyakaṇḍa
 .
 ,,,.
 ?,.
-Iti nādhakappe tatiyo kaṇḍo.
+.
 Catutthakaṇḍa
 211,.’.
 .
@@ -851,7 +851,7 @@ Catutthakaṇḍa
 246,..
 .
 ,,,,,,,.
-Iti nāmakappe catuttho kaṇḍo.
+.
 Pañcamakaṇḍa
 247,..
 ,..
@@ -931,5 +931,5 @@ Pañcamakaṇḍa
 .
 ,,,,,,,,,,,,,.
 ?.
-Iti nāmakappe pañcamo kaṇḍo
-Nāmakappo niṭṭhito.
+
+.

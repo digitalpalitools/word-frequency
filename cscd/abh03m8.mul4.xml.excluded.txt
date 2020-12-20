@@ -28,7 +28,7 @@ Anantarapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 7.,,,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -63,16 +63,16 @@ Navipākapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 15.,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 16.,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 17.,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Paṭiccavāro.
+.
+.
 2. Sahajātavāro
 (Sahajātavāro paṭiccavārasadiso.)
 3. Paccayavāro
@@ -116,7 +116,7 @@ Aññamaññapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 25.,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -164,16 +164,16 @@ Navipākapaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 34.,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 35.,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 36.,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Paccayavāro.
+.
+.
 4. Nissayavāro
 (Nissayavāro paccayavārasadiso).
 5. Saṃsaṭṭhavāro
@@ -189,7 +189,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 39.,,,,(evaṃ gaṇetabbaṃ).
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -202,14 +202,14 @@ Naadhipatipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 42.,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 43.,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 44.,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Saṃsaṭṭhavāro.
+.
+.
 6. Sampayuttavāro
 (Sampayuttavāro saṃsaṭṭhavārasadiso.)
 7. Pañhāvāro
@@ -304,7 +304,7 @@ Atthipaccayādi
 2. Saṅkhyāvāro
 Suddhaṃ
 68.,,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 Paccanīyuddhāro
 69.…….(1)
 .(2)
@@ -325,13 +325,13 @@ Paccanīyuddhāro
 2. Saṅkhyāvāro
 Suddhaṃ
 73.,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 74.,,,,,,,,(evaṃ gaṇetabbaṃ).
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 75.,,,,,,,,,,,,,,,,,,,,(evaṃ gaṇetabbaṃ).
-Paccanīyānulomaṃ.
-Ācayagāmittikaṃ niṭṭhitaṃ.
+.
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāyo
 Sagāthāvaggo
 1. Devatāsaṃyuttaṃ
@@ -77,7 +77,7 @@ pañcahi (sī.),pañcahi (sī.)’’.
 ,’’.
 ‘‘,;
 ,’’.
-Naḷavaggo paṭhamo.
+.
 –
 ,;
 ,;
@@ -193,7 +193,7 @@ sopi vadetha (ka.);
 ;
 ,
 ’’.
-Nandanavaggo dutiyo.
+.
 –
 ,;
 ,;
@@ -293,7 +293,7 @@ rodhataṇhaṃ (syā. kaṃ.), gedhataṇhaṃ (ka.)pavāhiṃsu (syā. kaṃ. 
 ,’’.
 ‘‘,;
 ,’’.
-Sattivaggo tatiyo.
+.
 –
 ,;
 ,;
@@ -526,7 +526,7 @@ saṃkhittamattaṃ (ka.),.
 ;
 ,
 ’’.
-Satullapakāyikavaggo catuttho.
+.
 –
 ,;
 ,.
@@ -651,7 +651,7 @@ sagge (sī. syā. kaṃ.),.
 ,’’.
 ‘‘,;
 ,’’.
-Ādittavaggo pañcamo.
+.
 –
 ,;
 ,.
@@ -718,7 +718,7 @@ sagge (sī. syā. kaṃ.),.
 ,’’.
 ‘‘,;
 ,’’.
-Jarāvaggo chaṭṭho.
+.
 –
 ,;
 ,.
@@ -783,7 +783,7 @@ Jarāvaggo chaṭṭho.
 ,’’.
 ‘‘,;
 ,’’.
-Addhavaggo anvavaggo (sī.) sattamo.
+anvavaggo (sī.).
 –
 ,;
 ,.
@@ -886,8 +886,8 @@ tandi (sī.),’’.
 ,.
 ‘‘,;
 ,’’.
-Chetvāvaggo aṭṭhamo.
+.
 –
 ,;
 ,.
-Devatāsaṃyuttaṃ samattaṃ.
+.

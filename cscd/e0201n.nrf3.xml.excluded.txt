@@ -65,7 +65,7 @@ moggallāne aññathāvutti dassitā.
 .
 ,,‘’.,..,‘’,.
 .,.,.,...‘’,,,,.,.
-Abyayībhāvasamāso niṭṭhito.
+.
 Tappurisasamāsa
 Dutiyātappurisa
 ,.,.,.
@@ -76,7 +76,7 @@ Dutiyātappurisa
 .,,.,..,,,,.,.,,,,.
 ,,,,,,,,,,,,.
 ,,,,,,,,,,,,,,,,,,,.
-Iti dutiyātappuriso.
+.
 Tatiyātappurisa
 ,,,,,,,-,.
 .,,,,,,,,,.,,,,,,.
@@ -85,37 +85,37 @@ Tatiyātappurisa
 ,.,.,,,.
 –,.,,,,,.,,,,.,,.
 ,,,,.
-Iti tatiyātappuriso.
+.
 Catutthītappurisa
 ,,.
 ,.,,,..cīvaramūlyaṃ (rū. nī.),,.,,.
 ,,,.,,.,,,,.,,.,,,.‘’,.‘‘,’’.
-Iti catutthītappuriso.
+.
 Pañcamītappurisa
 ,,,.
 ,,,.,,,,,,,,,,,.,.,.,,,.,,,.,,,.
 ,.,,,.
-Iti pañcamītappuriso.
+.
 Chaṭṭhītappurisa
 .,,,,,,.,,.
 ,,,,,,,,.
 ,,,,,,,,.,,,,,.,,,,,,.,,,.,,,,.
 ‘‘’’‘’.‘‘’’‘’nī. 690..‘‘’’ka. 328; rū. 352; nī. 691,,,.,.,.‘‘’’‘’,‘’.,.
-Iti chaṭṭhītappuriso.
+.
 Sattamītappurisa
 .,,‘’‘’.,.,,.,,,,,,,.
 nī. 682,,,,,,,,.,.nī. 681,,,,.
-Iti sattamītappuriso.
+.
 Luttatappurisa
 .
 ,,,,,,,,.,,.,,,,,,,.
-Iti luttatappuriso.
+.
 Aluttatappurisa
 .
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ka. 327; rū. 351; nī. 686.
-Iti aluttatappuriso.
 .
-Amāditappuriso niṭṭhito.
+.
+.
 Kammadhārayasamāsa
 .
 .,ka. 324; rū. 339; nī. 702.
@@ -165,7 +165,7 @@ ka. 336; rū. 347; nī. 689,,,,,,,.,.,.,.
 ..
 ,,,,.,,,,,.,,.,,.
 .
-Kammadhārayasamāso niṭṭhito.
+.
 Digusamāsa
 .
 ,.
@@ -177,7 +177,7 @@ rū. 350 nī. 703?,,.
 ka. 392; rū. 418; nī. 831.,,,,,,,,,,,,.
 .‘‘,,’’‘‘,,,,,,,,,,,’’..
 –,?,.
-Digusamāso niṭṭhito.
+.
 Bahubbīhisamāsa
 .
 ,,.,,,..
@@ -204,37 +204,37 @@ ka. 328; rū. 352; nī. 708–
 356.ka. 403; rū. 354.
 .
 ,.,.
-Iti paṭhamābahubbīhi.
+.
 Dutiyābahubbīhi
 ,.,.
 ,.
 ,,,,,,,,‘‘,,’’..
 ,,,.,...
-Iti dutiyābahubbīhi.
+.
 Tatiyābahubbīhi
 ,..,,,,,.,...,.
-Iti tatiyābahubbīhi.
+.
 Catutthībahubbīhi
 ,,,‘’-,,,,‘’.,,,.,,,‘’.
 ,,,,,,.,,.,.,.
-Iti catutthībahubbīhi.
+.
 Pañcamībahubbīhi
 ,,.,.,.
-Iti pañcamībahubbīhi.
+.
 Chaṭṭhībahubbīhi
 ,,,,,,,,.
 ,,,.,,,,,.
 ,.,,..,,,,,‘’.
 ,,,,,.‘’,,,,.,.,.
-Iti chaṭṭhībahubbīhi.
+.
 Sattamībahubbīhi
 ,,,.,.,.,.
-Iti sattamībahubbīhi.
+.
 Bhinnādhikaraṇabahubbīhi
 ,,,,.,,.,,.,,,,,,,.
 Tipadabahubbīhi
 ,,,,,.
-Bahubbīhisamāso niṭṭhito.
+.
 Dvandasamāsa
 .
 ,,..
@@ -280,7 +280,7 @@ Dvandasamāsa
 .,,,,.
 –
 ,,.
-Iti niccasamāhārarāsi.
+.
 ka. 323; rū. 360; nī. 701–
 ,.,,,.
 –
@@ -297,8 +297,8 @@ ka. 323; rū. 360; nī. 701–
 ,,,,,,,,,.
 –
 ,,,,,,,,,.
-Iti vikappasamāhārarāsi.
-Dvandasamāso niṭṭhito.
+.
+.
 Visesavidhāna
 .
 ,,,,,,,.
@@ -308,7 +308,7 @@ Napuṃsakekattarāsi
 .
 ,,…sabhacchāyaṃ (mūlapāṭhe).,.,,.,.,,,.,,.
 ?.
-Iti napuṃsakekattarāsi.
+.
 Samāsantarassarāsi
 ‘’,,.
 –
@@ -332,7 +332,7 @@ Samāsantarassarāsi
 .
 ?.
 ?.
-Iti samāsantarassarāsi.
+.
 Pumbhāvātidesarāsi
 362.ka. 331; rū. 353; nī. 714; caṃ. 5.2.29; pā. 6.3.34.
 ‘’,.,,.
@@ -356,7 +356,7 @@ ka. 332; rū. 343; nī. 716‘’.,.,,,.
 .
 .,..,,,,.
 ,’,.
-Iti pumbhāvātidesarāsi.
+.
 Samāsantakapaccayarāsi
 365.ka. 338; rū. 356; nī. 725; caṃ. 4.4.140; pā. 5.4.152.
 ,.
@@ -372,7 +372,7 @@ Samāsantakapaccayarāsi
 –
 ,,,,,,,,,,,.
 ‘…’,,,,,.
-Iti samāsantakapaccayarāsi.
+.
 Samāsantaapaccayarāsi
 367.ka. 337; rū. 350; nī. 722; caṃ. 4.4.52; pā. 5.4.68; ‘tva’ (bahūsu).
 ‘’,..
@@ -419,7 +419,7 @@ Samāsantaapaccayarāsi
 ,,,,.
 –
 ,,,.‘‘,’’.
-Iti samāsantaapaccayarāsi.
+.
 Nānādesarāsi
 378.ka. 333-334; rū. 344-345; nī. 717-718.
 ..
@@ -431,7 +431,7 @@ Nānādesarāsi
 .
 ,.,.,,,.
 ?.‘’,‘’,‘’,‘‘’’.,,,.
-Iti na-rāsi.
+-.
 381.ka. 404; rū. 370; nī. 859; caṃ. 5.2.97; pā. 6.3.82.
 .
 ,.
@@ -461,7 +461,7 @@ Iti na-rāsi.
 ?.
 ,,.,.
 ,.,,,,.,,.
-Iti sa-rāsi.
+-.
 388.ka. 129; rū. 222; nī. 305.
 .
 ,,.,.‘‘,’’.‘’,‘‘,..’’mahāva. 20.
@@ -536,7 +536,7 @@ Iti sa-rāsi.
 409.ka. 404; rū. 370; nho (sī.).
 .
 ,,,sāyanho,.
-Nānādesarāsi niṭṭhito.
+.
 Abyayarāsi
 410.ka. 324; rū. 339; caṃ. 2.2.24; pā. 2.2.18.
 .
@@ -561,7 +561,7 @@ Abyayarāsi
 ,,.,,,,..
 dī. ni. 1.394,,,pārā. 432,,,dī. ni. 1.256,,,,,,mahāva. 8.
 ‘‘,,,,,,,,’’.,,,,,,.,,,,pu. pa. 37,,,pu. pa. 31.
-Abyayarāsi niṭṭhito.
+.
 Saṅkhyārāsi
 .
 414.ka. 386; rū. 410; nī. 811.
@@ -631,4 +631,4 @@ Saṅkhyārāsi
 nī. 833‘‘.’’..,.,,.
 saṃ. ni. 1.175‘‘,’’.,.jā. aṭṭha. 3.7.69‘‘,’’..,,,..
 
-Samāsakaṇḍo catuttho.
+.

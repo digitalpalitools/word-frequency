@@ -35,7 +35,7 @@
 ,.
 ,;
 ,.
-Ayaṃ tāva paṃsukūlikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
+.
 2. Tecīvarikaṅgakathā
 25.‘‘,’’.
 ,,,..,..
@@ -46,7 +46,7 @@ Ayaṃ tāva paṃsukūlikaṅge samādānavidhānappabhedabhedānisaṃsavaṇ�
 ,.
 ,;
 ,.
-Ayaṃ tecīvarikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
+.
 3. Piṇḍapātikaṅgakathā
 26.‘‘,’’.
 ‘‘,,,,,,,,,,,,,’’.‘‘’’‘‘,’’,..
@@ -62,7 +62,7 @@ Ayaṃ tecīvarikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
 ;
 ,
 ’’.
-Ayaṃ piṇḍapātikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
+.
 4. Sapadānacārikaṅgakathā
 27.‘‘,’’.
 .,.,.,.,....
@@ -77,7 +77,7 @@ Ayaṃ piṇḍapātikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇan
 ;
 ,
 .
-Ayaṃ sapadānacārikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
+.
 5. Ekāsanikaṅgakathā
 28.‘‘,’’.
 ‘‘’’.,.‘‘,,,’’..
@@ -92,7 +92,7 @@ Ayaṃ sapadānacārikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇan
 ;
 ,
 .
-Ayaṃ ekāsanikaṅge samādānavidhānappabhedabhedānisaṃsavaṇṇanā.
+.
 6. Pattapiṇḍikaṅgakathā
 29.‘‘,’’.
 ,.,,..,.....
@@ -228,5 +228,5 @@ Dhutaṅgapakiṇṇakakathā
 ..‘‘,’’.
 ,,,,.,.,,,....,..,.,.
 ‘‘’’,.
-Iti sādhujanapāmojjatthāya kate visuddhimagge
-Dhutaṅganiddeso nāma dutiyo paricchedo.
+
+.

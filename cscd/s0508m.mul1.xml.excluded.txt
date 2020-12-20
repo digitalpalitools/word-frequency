@@ -23,7 +23,7 @@
 126.
 ‘‘,;
 ,’’.
-… Valliyo thero….
+…….
 4. Gaṅgātīriyattheragāthā
 127.
 ‘‘,;
@@ -31,7 +31,7 @@
 128.
 ‘‘,;
 ,tamokkhandho (sī. syā.)’’.
-… Gaṅgātīriyo thero….
+…….
 5. Ajinattheragāthā
 129.
 ‘‘,;
@@ -39,7 +39,7 @@
 130.
 ‘‘,;
 ,’’.
-… Ajino thero….
+…….
 6. Meḷajinattheragāthā
 131.
 ‘‘,;
@@ -47,7 +47,7 @@
 132.
 ‘‘,;
 ,’’.
-… Meḷajino thero….
+…….
 7. Rādhattheragāthā
 133.
 dha. pa. 13 dhammapade‘‘,;
@@ -55,7 +55,7 @@ dha. pa. 13 dhammapade‘‘,;
 134.
 dha. pa. 14 dhammapade‘‘,;
 ,’’.
-… Rādho thero….
+…….
 8. Surādhattheragāthā
 135.
 ‘‘,;
@@ -63,7 +63,7 @@ dha. pa. 14 dhammapade‘‘,;
 136.
 ‘‘,;
 ,’’.
-… Surādho thero….
+…….
 9. Gotamattheragāthā
 137.
 ‘‘,;
@@ -71,7 +71,7 @@ dha. pa. 14 dhammapade‘‘,;
 138.
 ‘‘,;
 ,’’.
-… Gotamo thero….
+…….
 10. Vasabhattheragāthā
 139.
 ‘‘,;
@@ -79,8 +79,8 @@ dha. pa. 14 dhammapade‘‘,;
 140.
 ‘‘,;
 ,’’.
-… Vasabho thero….
-Vaggo paṭhamo niṭṭhito.
+…….
+.
 –
 ,;
 ,;
@@ -93,7 +93,7 @@ Vaggo paṭhamo niṭṭhito.
 142.
 ‘‘,;
 ,’’.
-… Mahācundo thero….
+…….
 2. Jotidāsattheragāthā
 143.
 ‘‘veghamissena (sī. syā.), ve gamissena, vekhamissena (ka.),;
@@ -102,7 +102,7 @@ Vaggo paṭhamo niṭṭhito.
 144.
 ‘‘,;
 ,’’.
-… Jotidāso thero….
+…….
 3. Heraññakānittheragāthā
 145.
 ‘‘,;
@@ -110,7 +110,7 @@ Vaggo paṭhamo niṭṭhito.
 146.
 ‘‘,;
 ,’’.
-… Heraññakānitthero….
+…….
 4. Somamittattheragāthā
 147.
 ‘‘,;
@@ -119,7 +119,7 @@ Vaggo paṭhamo niṭṭhito.
 148.
 ‘‘,;
 ,’’.
-… Somamitto thero….
+…….
 5. Sabbamittattheragāthā
 149.
 ‘‘sambaddho (syā. ka.),;
@@ -127,7 +127,7 @@ Vaggo paṭhamo niṭṭhito.
 150.
 ‘‘,;
 ,bādhayitvā (ka.)’’.
-… Sabbamitto thero….
+…….
 6. Mahākāḷattheragāthā
 151.
 ‘‘,;
@@ -136,7 +136,7 @@ Vaggo paṭhamo niṭṭhito.
 152.
 ‘‘,;
 ,’’passissanti (ka.).
-… Mahākāḷo thero….
+…….
 7. Tissattheragāthā
 153.
 ‘‘,;
@@ -144,7 +144,7 @@ Vaggo paṭhamo niṭṭhito.
 154.
 ‘‘,;
 ,’’.
-… Tisso thero….
+…….
 8. Kimilattheragāthā
 155.
 ‘‘,;
@@ -152,7 +152,7 @@ Vaggo paṭhamo niṭṭhito.
 156.
 ‘‘,;
 ,’’.
-… Kimilo kimbilo (sī. syā. pī.) thero….
+…kimbilo (sī. syā. pī.)….
 9. Nandattheragāthā
 157.
 ‘‘,;
@@ -160,7 +160,7 @@ Vaggo paṭhamo niṭṭhito.
 158.
 ‘‘,;
 ,’’.
-… Nando thero….
+…….
 10. Sirimattheragāthā
 159.
 ‘‘,;
@@ -168,8 +168,8 @@ Vaggo paṭhamo niṭṭhito.
 160.
 ‘‘,;
 ,’’.
-… Sirimā thero….
-Vaggo dutiyo niṭṭhito.
+…….
+.
 –
 ,;
 ,kimbilo (sī. syā. pī.), chandalakkhaṇānulomaṃ;
@@ -182,7 +182,7 @@ Vaggo dutiyo niṭṭhito.
 162.
 ‘‘,abbuhitvāna (ka.);
 ,’’.
-… Uttaro thero….
+…….
 2. Bhaddajittheragāthā
 163.
 ‘‘,;
@@ -190,7 +190,7 @@ soḷasapabbedho (sī. aṭṭha.), soḷasabbāṇo (?),uddhamāhu (sī.), ucca
 164.
 ‘‘,;
 ,’’.
-… Bhaddajitthero….
+…….
 3. Sobhitattheragāthā
 165.
 ‘‘,;
@@ -198,7 +198,7 @@ soḷasapabbedho (sī. aṭṭha.), soḷasabbāṇo (?),uddhamāhu (sī.), ucca
 166.
 ‘‘,;
 ,’’.
-… Sobhito thero….
+…….
 4. Valliyattheragāthā
 167.
 ‘‘,;
@@ -206,7 +206,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 168.
 ‘‘,;
 ,’’.
-… Valliyo thero….
+…….
 5. Vītasokattheragāthā
 169.
 ‘‘,;
@@ -214,7 +214,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 170.
 ‘‘,;
 ,’’.
-… Vītasoko thero….
+…….
 6. Puṇṇamāsattheragāthā
 171.
 ‘‘,;
@@ -222,7 +222,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 172.
 ‘‘,;
 ,’’.
-… Puṇṇamāso thero….
+…….
 7. Nandakattheragāthā
 173.
 ‘‘,;
@@ -230,7 +230,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 174.
 ‘‘,;
 ,’’.
-… Nandako thero….
+…….
 8. Bharatattheragāthā
 175.
 ‘‘,;
@@ -238,7 +238,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 176.
 ‘‘,;
 ,’’.
-… Bharato thero….
+…….
 9. Bhāradvājattheragāthā
 177.
 ‘‘,;
@@ -246,7 +246,7 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 178.
 ‘‘,;
 ,’’.
-… Bhāradvājo thero….
+…….
 10. Kaṇhadinnattheragāthā
 179.
 ‘‘,;
@@ -254,8 +254,8 @@ nāvarujjhissaṃ (ka. sī. ka.),.
 180.
 ‘‘,;
 ,’’.
-… Kaṇhadinno thero….
-Vaggo tatiyo niṭṭhito.
+…….
+.
 –
 ,;
 ,;
@@ -268,7 +268,7 @@ Vaggo tatiyo niṭṭhito.
 182.
 ‘‘,;
 ,’’.
-… Migasiro thero….
+…….
 2. Sivakattheragāthā
 183.
 ‘‘,;
@@ -277,7 +277,7 @@ gahakārakaṃ (sī. pī.),.
 ‘‘,;
 ,thūṇirā (pī. ka.), dhuṇirā (syā.)padālitā (sī. syā.);
 ,’’.
-… Sivako sīvako (sī.) thero….
+…sīvako (sī.)….
 3. Upavāṇattheragāthā
 185.
 ‘‘,… bādhito (ka.);
@@ -285,7 +285,7 @@ gahakārakaṃ (sī. pī.),.
 186.
 ‘‘pūjanīyānaṃ (sī.),;
 apacanīyānaṃ (sī.), apacineyyānaṃ (syā.),’’.
-… Upavāṇo thero….
+…….
 4. Isidinnattheragāthā
 187.
 ‘‘,;
@@ -293,7 +293,7 @@ apacanīyānaṃ (sī.), apacineyyānaṃ (syā.),’’.
 188.
 ‘‘,;
 ,’’.
-… Isidinno thero….
+…….
 5. Sambulakaccānattheragāthā
 189.
 ‘‘,
@@ -303,7 +303,7 @@ apacanīyānaṃ (sī.), apacineyyānaṃ (syā.),’’.
 190.
 ‘‘,;
 ,’’.
-… Sambulakaccāno sambahulakaccāno (ka.) thero….
+…sambahulakaccāno (ka.)….
 6. Nitakattheragāthā
 191.
 udā. 34 udānepi‘‘,;
@@ -313,7 +313,7 @@ udā. 34 udānepi‘‘,;
 ‘‘,;
 ,;
 ,’’.
-… Nitako khitako (sī. syā.) thero….
+…khitako (sī. syā.)….
 7. Soṇapoṭiriyattheragāthā
 193.
 ‘‘,;
@@ -321,7 +321,7 @@ udā. 34 udānepi‘‘,;
 194.
 ‘‘,;
 ,’’.
-… Soṇo poṭiriyo selissariyo (sī.), poṭṭiriyaputto (syā.) thero ….
+…selissariyo (sī.), poṭṭiriyaputto (syā.)….
 8. Nisabhattheragāthā
 195.
 ‘‘,;
@@ -329,7 +329,7 @@ udā. 34 udānepi‘‘,;
 196.
 ‘‘,;
 ,’’.
-… Nisabho thero….
+…….
 9. Usabhattheragāthā
 197.
 ‘‘,;
@@ -337,7 +337,7 @@ udā. 34 udānepi‘‘,;
 198.
 ‘‘,;
 ,’’.
-… Usabho thero….
+…….
 10. Kappaṭakurattheragāthā
 199.
 ‘‘,atibhariyāya (sī. ka.), accaṃ bharāya (syā.);
@@ -345,8 +345,8 @@ dhammakaṭapatto (syā. ka. aṭṭha.), dhammakaṭamaggo (sī. aṭṭha.),.
 200.
 ‘‘,;
 na vā (ka.),.
-… Kappaṭakuro thero….
-Vaggo catuttho niṭṭhito.
+…….
+.
 –
 ,;
 ,;
@@ -360,7 +360,7 @@ Vaggo catuttho niṭṭhito.
 ‘‘,;
 ,;
 ,’’.
-… Kumārakassapo thero….
+…….
 2. Dhammapālattheragāthā
 203.
 ‘‘,;
@@ -368,7 +368,7 @@ patisuttesu (sī. ka.),.
 204.
 ‘‘,;
 ,’’.
-… Dhammapālo thero….
+…….
 3. Brahmālittheragāthā
 205.
 ‘‘,;
@@ -376,7 +376,7 @@ patisuttesu (sī. ka.),.
 206.
 dha. pa. 94 dhammapadepi‘‘,;
 ,’’.
-… Brahmāli thero….
+…….
 4. Mogharājattheragāthā
 207.
 ‘‘,;
@@ -384,7 +384,7 @@ hemantikakālarattiyo (ka.),’’.
 208.
 ‘‘,;
 ,’’.
-… Mogharājā thero….
+…….
 5. Visākhapañcālaputtattheragāthā
 209.
 ‘‘,;
@@ -392,7 +392,7 @@ hemantikakālarattiyo (ka.),’’.
 210.
 ‘‘,;
 ,’’.
-… Visākho pañcālaputto thero ….
+…….
 6. Cūḷakattheragāthā
 211.
 ‘‘,;
@@ -400,7 +400,7 @@ hemantikakālarattiyo (ka.),’’.
 212.
 ‘‘jhāyitaṃ (syā. ka.),;
 ,’’.
-… Cūḷako cūlako (sī. aṭṭha.) thero….
+…cūlako (sī. aṭṭha.)….
 7. Anūpamattheragāthā
 213.
 ‘‘,;
@@ -408,7 +408,7 @@ hemantikakālarattiyo (ka.),’’.
 214.
 ‘‘,;
 ,’’.
-… Anūpamo thero….
+…….
 8. Vajjitattheragāthā
 215.
 ‘‘,;
@@ -416,7 +416,7 @@ hemantikakālarattiyo (ka.),’’.
 216.
 ‘‘,;
 ,’’.
-… Vajjito thero….
+…….
 9. Sandhitattheragāthā
 217.
 ‘‘,;
@@ -424,13 +424,13 @@ hemantikakālarattiyo (ka.),’’.
 218.
 ‘‘,;
 ,’’.
-… Sandhito thero….
-Vaggo pañcamo niṭṭhito.
+…….
+.
 –
 ,;
 ,;
 ,.
-Dukanipāto niṭṭhito.
+.
 –
 ,;
 ,.

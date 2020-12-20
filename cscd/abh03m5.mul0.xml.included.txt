@@ -1,4 +1,4 @@
-﻿
+﻿ namo tassa bhagavato arahato sammāsambuddhassa
 
 
 
@@ -62,8 +62,8 @@
  na cittasaṅkhāro na kāyasaṅkhāro
  na vacīsaṅkhāro na cittasaṅkhāro
  na cittasaṅkhāro na vacīsaṅkhāro
-
-
+paṇṇattiuddesavāro
+paṇṇattivāro
 
 
 
@@ -146,7 +146,7 @@ kāyasaṅkhāro na cittasaṅkhāro kāyasaṅkhāro cittasaṅkhārañca kāya
 cittasaṅkhāro na vacīsaṅkhāro cittasaṅkhāro vacīsaṅkhārañca cittasaṅkhārañca ṭhapetvā avasesā na ceva vacīsaṅkhāro  na ca cittasaṅkhāro
  na cittasaṅkhāro na vacīsaṅkhāroti
 vacīsaṅkhāro na cittasaṅkhāro vacīsaṅkhāro cittasaṅkhārañca vacīsaṅkhārañca ṭhapetvā avasesā na ceva cittasaṅkhāro na ca vacīsaṅkhāro
-
+paṇṇattiniddesavāro
 
 
 
@@ -433,7 +433,7 @@ kāmāvacare pacchimacittasamaṅgīnaṃ tesaṃ tattha cittasaṅkhāro nuppaj
 avitakkaavicārabhūmiyaṃ tesaṃ tattha vacīsaṅkhāro nuppajjittha no ca tesaṃ tattha cittasaṅkhāro nuppajjissati avitakkaavicārabhūmiyaṃ pacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca nuppajjittha cittasaṅkhāro ca nuppajjissati
  yassa  vā pana yattha cittasaṅkhāro nuppajjissati tassa tattha vacīsaṅkhāro nuppajjitthāti
 savitakkasavicārabhūmiyaṃ pacchimacittasamaṅgīnaṃ tesaṃ tattha  cittasaṅkhāro nuppajjissati no ca tesaṃ tattha vacīsaṅkhāro nuppajjittha avitakkaavicārabhūmiyaṃ pacchimacittasamaṅgīnaṃ asaññasattānaṃ tesaṃ tattha cittasaṅkhāro ca nuppajjissati vacīsaṅkhāro ca nuppajjittha
-
+uppādavāro
 
 
 
@@ -664,7 +664,7 @@ kāmāvacare pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro n
 avitakkaavicārabhūmiyaṃ  tesaṃ tattha vacīsaṅkhāro na nirujjhittha no ca tesaṃ tattha cittasaṅkhāro na nirujjhissati avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ tesaṃ tattha vacīsaṅkhāro ca na nirujjhittha cittasaṅkhāro ca na nirujjhissati
  yassa vā pana yattha cittasaṅkhāro na nirujjhissati tassa tattha vacīsaṅkhāro na nirujjhitthāti
 savitakkasavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe tesaṃ tattha cittasaṅkhāro na nirujjhissati no ca tesaṃ tattha vacīsaṅkhāro na nirujjhittha avitakkaavicārabhūmiyaṃ pacchimacittassa bhaṅgakkhaṇe asaññasattānaṃ  tesaṃ tattha cittasaṅkhāro ca na nirujjhissati vacīsaṅkhāro ca na nirujjhittha
-
+nirodhavāro
 
 
 
@@ -810,12 +810,12 @@ savitakkasavicārapacchimacittassa bhaṅgakkhaṇe avitakkaavicārapacchimacitt
 pacchimacittassa bhaṅgakkhaṇe tesaṃ kāyasaṅkhāro uppajjittha no ca tesaṃ cittasaṅkhāro nirujjhissati itaresaṃ tesaṃ kāyasaṅkhāro ca uppajjittha cittasaṅkhāro ca nirujjhissati
  yassa vā  pana cittasaṅkhāro nirujjhissati tassa kāyasaṅkhāro uppajjitthāti āmantā
 (yathā nirodhavāre atītānāgatā pucchā anulomampi paccanīkampi evaṃ  uppādanirodhavārepi atītānāgatā pucchā anulomampi paccanīkampi vibhajitabbaṃ asammohantena nirodhavārena sadisaṃ natthi nānākaraṇaṃ)
-
+uppādanirodhavāro
 
 
   yo kāyasaṅkhāraṃ parijānāti so vacīsaṅkhāraṃ parijānātīti āmantā
  yo vā pana vacīsaṅkhāraṃ parijānāti so kāyasaṅkhāraṃ parijānātīti āmantā
 
-
-
-
+pariññāvāro
+saṅkhārayamakaṃ niṭṭhitaṃ
+ namo tassa bhagavato arahato sammāsambuddhassa

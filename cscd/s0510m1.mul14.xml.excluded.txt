@@ -13,7 +13,7 @@ chattādhichattaṃ (sī.),.
 ‘‘,;
 ,’’.
 adhichattiyo (sī. syā.).
-Atichattiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Thambhāropakattheraapadānaṃ
 5.
 ‘‘,;
@@ -30,7 +30,7 @@ Atichattiyattherassāpadānaṃ paṭhamaṃ.
 9.
 ‘‘…pe…’’.
 .
-Thambhāropakattherassāpadānaṃ dutiyaṃ.
+.
 3. Vedikārakattheraapadānaṃ
 10.
 ‘‘,;
@@ -47,7 +47,7 @@ bāttiṃsāsiṃsu (sī. syā.),.
 14.
 ‘‘…pe…’’.
 .
-Vedikārakattherassāpadānaṃ tatiyaṃ.
+.
 4. Saparivāriyattheraapadānaṃ
 15.
 ‘‘,;
@@ -67,7 +67,7 @@ dīyati dhūmakkhandho ca (sī.), dīyati dhūpagandho ca (syā.),.
 20.
 ‘‘…pe…’’.
 .
-Saparivāriyattherassāpadānaṃ catutthaṃ.
+.
 5. Umāpupphiyattheraapadānaṃ
 21.
 ‘‘lokanāthamhi (sī.),;
@@ -84,7 +84,7 @@ ummāpupphaṃ (sabbattha),.
 25.
 ‘‘…pe…’’.
 .
-Umāpupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Anulepadāyakattheraapadānaṃ
 26.
 ‘‘,;
@@ -104,7 +104,7 @@ Umāpupphiyattherassāpadānaṃ pañcamaṃ.
 31.
 ‘‘…pe…’’.
 .
-Anulepadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Maggadāyakattheraapadānaṃ
 32.
 ‘‘,;
@@ -121,7 +121,7 @@ Anulepadāyakattherassāpadānaṃ chaṭṭhaṃ.
 36.
 ‘‘…pe…’’.
 .
-Maggadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Phalakadāyakattheraapadānaṃ
 37.
 ‘‘,;
@@ -141,7 +141,7 @@ akkhobhaṃ (sī.),.
 42.
 ‘‘…pe…’’.
 .
-Phalakadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Vaṭaṃsakiyattheraapadānaṃ
 43.
 ‘‘,;
@@ -158,7 +158,7 @@ Phalakadāyakattherassāpadānaṃ aṭṭhamaṃ.
 47.
 ‘‘…pe…’’.
 .
-Vaṭaṃsakiyattherassāpadānaṃ navamaṃ.
+.
 10. Pallaṅkadāyakattheraapadānaṃ
 48.
 ‘‘,;
@@ -175,8 +175,8 @@ Vaṭaṃsakiyattherassāpadānaṃ navamaṃ.
 52.
 ‘‘…pe…’’.
 .
-Pallaṅkadāyakattherassāpadānaṃ dasamaṃ.
-Chattavaggo pannarasamo.
+.
+.
 –
 ,;
 ,;

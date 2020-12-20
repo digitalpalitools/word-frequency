@@ -153,7 +153,7 @@ Samodhānavinicchayo
 ,,..(pāci. aṭṭha. 145-147)...
 ‘‘’’.‘‘’’‘‘’’‘‘’’.
 ,,,,.,,,.,.,,.,‘‘’’.,,‘‘’’.,..‘‘’’‘‘’’,...,‘‘’’..
-Iti soḷasapañcakavinicchaye yojanā samattā.
+.
 24. Upasampādetabbachakkakathā
 85....‘‘’’‘‘’’.,,‘‘’’.
 25. Aññatitthiyapubbavatthukathā
@@ -317,9 +317,9 @@ Iti soḷasapañcakavinicchaye yojanā samattā.
 128.,..,...‘‘’’‘‘’’.‘‘’’.,...,.‘‘,’’‘‘’’....?,.‘‘’’‘‘’’.‘‘’’....
 129...,,,‘‘’’..,.‘‘’’.(ma. ni. aṭṭha. 3.60)‘‘’’.
 130......,.
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Dvāsattatiadhikavatthusatapaṭimaṇḍitassa mahākhandhakassa
-Atthavaṇṇanāya yojanā samattā.
+
+
+.
 2. Uposathakkhandhakaṃ
 68. Sannipātānujānanādikathā
 132.,,,‘‘’’.......‘‘’’.‘‘’’.
@@ -448,7 +448,7 @@ Atthavaṇṇanāya yojanā samattā.
 182.......
 105. Vajjanīyapuggalasandassanakathā
 183....‘‘’’..,...‘‘’’...
-Iti uposathakkhandhakavaṇṇanāya yojanā samattā.
+.
 3. Vassūpanāyikakkhandhakaṃ
 107. Vassūpanāyikānujānanakathā
 184.‘‘’’,‘‘’’..,‘‘’’.,.‘‘’’.‘‘’’...‘‘’’(saddanītidhātumālāyaṃ 16 sakārantadhātu)‘‘’’....‘‘’’.‘‘’’.,,...,...,,.‘‘’’......,.‘‘’’.‘‘’’.
@@ -481,7 +481,7 @@ Iti uposathakkhandhakavaṇṇanāya yojanā samattā.
 207.‘‘’’..‘‘’’.‘‘’’...‘‘’’.,.
 .,,.‘‘’’‘‘’’..,.‘‘’’...‘‘’’(mahāva. aṭṭha. 184).
 ,.,.,,.
-Iti vassūpanāyikakkhandhakavaṇṇanāya yojanā samattā.
+.
 4. Pavāraṇākkhandhakaṃ
 120. Aphāsukavihārakathā
 209.,‘‘’’.,,.,.‘‘’’..,.,.‘‘’’.,..,...,...‘‘’’.‘‘’’(saṃ. ni. aṭṭha. 1.1.1; khu. pā. aṭṭha. 5.evamiccādipāṭhavaṇṇanā; su. ni. aṭṭha. 2.aṅgalasuttavaṇṇanā)‘‘’’(pe. va. aṭṭha. 460).‘‘’’‘‘’’..‘‘’’.‘‘’’,,.(moggallānabyākaraṇe 5.134 sutte).‘‘’’(moggallānabyākaraṇe 5.134 sutte).
@@ -516,7 +516,7 @@ Iti vassūpanāyikakkhandhakavaṇṇanāya yojanā samattā.
 ‘‘’’....‘‘’’.‘‘’’.‘‘…pe…’’...,.,,,,..,..
 145. Pavāraṇāsaṅgahakathā
 241.‘‘’’..‘‘’’.,..‘‘’’‘‘’’.,.,...‘‘’’.....
-Iti pavāraṇākkhandhakavaṇṇanāya yojanā samattā.
+.
 5. Cammakkhandhakaṃ
 147. Soṇakoḷivisavatthukathā
 242.,,,‘‘’’.‘‘’’.‘‘’’.‘‘’’,‘‘’’.
@@ -557,7 +557,7 @@ Soṇassa pabbajjākathā
 259.‘‘’’...,.‘‘’’....
 ,..
 ,.‘‘’’.‘‘’’.......‘‘’’....
-Iti cammakkhandhakavaṇṇanāya yojanā samattā.
+.
 6. Bhesajjakkhandhakaṃ
 160. Pañcabhesajjādikathā
 260.‘‘’’.‘‘’’.‘‘’’.....,.
@@ -630,7 +630,7 @@ Iti cammakkhandhakavaṇṇanāya yojanā samattā.
 .,......‘‘’’,..,.
 ‘‘’’..,....
 ...
-Iti bhesajjakkhandhakavaṇṇanāya yojanā samattā.
+.
 7. Kathinakkhandhakaṃ
 187. Kathinānujānanakathā
 306.‘‘’’...,.‘‘’’..‘‘’’‘‘’’.,....‘‘’’..‘‘’’.‘‘’’‘‘’’.
@@ -657,7 +657,7 @@ Iti bhesajjakkhandhakavaṇṇanāya yojanā samattā.
 ..‘‘’’....‘‘’’‘‘’’..
 .......
 312-325..,......‘‘’’..‘‘’’...
-Iti kathinakkhandhakavaṇṇanāya yojanā samattā.
+.
 8. Cīvarakkhandhakaṃ
 202. Jīvakavatthukathā
 326.‘‘’’.‘‘’’..‘‘’’,‘‘’’‘‘’’..‘‘’’.
@@ -781,7 +781,7 @@ Iti kathinakkhandhakavaṇṇanāya yojanā samattā.
 ‘‘’’..‘‘’’..,...,?.,?..
 ....,...
 ‘‘’’......
-Iti cīvarakkhandhakavaṇṇanāya yojanā samattā.
+.
 9. Campeyyakkhandhakaṃ
 234. Kassapagottabhikkhuvatthukathā
 380.‘‘’’...‘‘’’...
@@ -802,7 +802,7 @@ Iti cīvarakkhandhakavaṇṇanāya yojanā samattā.
 400....‘‘,’’.
 242. Tajjanīyakammakathā
 407.‘‘’’.‘‘’’.‘‘’’.....
-Iti campeyyakkhandhakavaṇṇanāya yojanā samattā.
+.
 10. Kosambakakkhandhakaṃ
 271. Kosambakavivādakathā
 451..,,...,,,...‘‘,’’.,.,.‘‘’’...
@@ -836,11 +836,11 @@ Iti campeyyakkhandhakavaṇṇanāya yojanā samattā.
 ...‘‘’’.‘‘’’‘‘’’....‘‘,,,,,,,’’(cūḷava. 347; a. ni. 8.16).‘‘’’.,,.,....,.,..‘‘’’.‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’.
 ..,....,‘‘’’.‘‘’’,.
 .‘‘’’.‘‘’’..
-Iti kosambakakkhandhakavaṇṇanāya yojanā samattā.
-Iti samantapāsādikāya vinayasaṃvaṇṇanāya
-Mahāvaggavaṇṇanāya
-Yojanā samattā.
+.
+
+
+.
 ,;
 ,.
- Namo tassa bhagavato arahato sammāsambuddhassa
+
 Pācityādiyojanā

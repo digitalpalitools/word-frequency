@@ -46,7 +46,7 @@ Yakārantadhātu
 ,,.‘‘’’.......
 ...,‘‘’’..,‘‘,’’.
 ...‘‘.’’..,.,....
-Yakārantadhāturūpāni.
+.
 Rakārantadhātu
 ..
 ....
@@ -194,7 +194,7 @@ Rakārantadhātu
 ..,.
 ..,,.
 ..
-Rakārantadhāturūpāni.
+.
 Lakārantadhātu
 ..,,,,,,,.
 ,‘‘,,,’’.,..
@@ -284,7 +284,7 @@ Lakārantadhātu
 ..
 ..
 ..
-Lakārantadhāturūpāni.
+.
 Vakārantadhātu
 ...
 .......
@@ -306,7 +306,7 @@ Vakārantadhātu
 .,.,..
 ..
 ..
-Vakārantadhāturūpāni.
+.
 Sakārantadhātu
 ..
 ..,,,,.
@@ -508,7 +508,7 @@ Sakārantadhātu
 ..
 ..,,,,.
 ...
-Sakārantadhāturūpāni.
+.
 Hakārantadhātu
 .,.,,,,.
 .,.
@@ -604,7 +604,7 @@ Hakārantadhātu
 ,’’.
 ..‘‘,’’.
 .
-Hakārantadhāturūpāni.
+.
 Ḷakārantadhātu
 ...
 ...
@@ -636,7 +636,7 @@ Hakārantadhāturūpāni.
 ;
 ,
 ’’;
-Imāni ḷakārantadhāturūpāni.
+.
 ..
 ,.,.?
 ,.,...,.’.........,,.,.,.
@@ -716,7 +716,7 @@ Imāni ḷakārantadhāturūpāni.
 ;
 ,
 .
-Iti navaṅge sāṭṭhakathe piṭakattaye byappathagatīsu viññūnaṃ
-Kosallatthāya kate saddanītippakaraṇe
-Pannarasahi paricchedehi maṇḍito bhūvādigaṇo nāma
-Soḷasamo paricchedo.
+
+
+
+.

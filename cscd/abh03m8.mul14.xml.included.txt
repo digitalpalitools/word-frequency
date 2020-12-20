@@ -19,7 +19,7 @@ bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati sahajātapaccayā  bahi
 
 
  hetuyā dve ārammaṇe dve avigate dve
-
+anulomaṃ
 
 
 
@@ -48,14 +48,14 @@ bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati navippayuttapaccayā  a
 
 
  nahetuyā dve naārammaṇe dve naadhipatiyā dve naanantare dve nasamanantare dve  novigate dve 
-
+paccanīyaṃ
 
  hetupaccayā  naārammaṇe dve navipāke nasampayutte navippayutte nonatthiyā novigate dve 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā  ārammaṇe dve anantare dve magge dve avigate dve 
-
-
+paccanīyānulomaṃ
+paṭiccavāro
 
 
 
@@ -72,7 +72,7 @@ bahiddhā dhammaṃ paccayā bahiddhā dhammo uppajjati ārammaṇapaccayā  cak
 
 
  hetuyā  dve ārammaṇe avigate dve
-
+anulomaṃ
 
 
 
@@ -83,13 +83,13 @@ bahiddhā dhammaṃ paccayā bahiddhā dhammo uppajjati nahetupaccayā   cakkhā
 
 
  nahetuyā  dve naārammaṇe dve novigate  dve
-
+paccanīyaṃ
 
  hetupaccayā naārammaṇe dve naadhipatiyā dve navipāke nasampayutte navippayutte nonatthiyā novigate dve
-
+anulomapaccanīyaṃ
 
  nahetupaccayā ārammaṇe dve avigate dve
-
+paccanīyānulomaṃ
 
 
 
@@ -160,7 +160,7 @@ ajjhatto  dhammo ca bahiddhā dhammo ca bahiddhā dhammassa atthipaccayena pacca
 
 
  hetuyā dve ārammaṇe cattāri adhipatiyā cattāri anantare dve samanantare dve sahajāte aññamaññe nissaye dve upanissaye cattāri purejāte cha pacchājāte āsevane kamme vipāke dve āhāre cha indriye dve jhāne magge sampayutte vippayutte dve atthiyā cha natthiyā dve vigate dve avigate  cha 
-
+anulomaṃ
 
  ajjhatto  dhammo ajjhattassa dhammassa ārammaṇapaccayena paccayo sahajātapaccayena paccayo upanissayapaccayena paccayo purejātapaccayena paccayo pacchājātapaccayena paccayo kammapaccayena paccayo āhārapaccayena paccayo indriyapaccayena paccayo 
 ajjhatto dhammo bahiddhā dhammassa ārammaṇapaccayena paccayo upanissayapaccayena paccayo purejātapaccayena paccayo āhārapaccayena paccayo 
@@ -171,13 +171,13 @@ ajjhatto dhammo ca bahiddhā dhammo ca bahiddhā dhammassa purejātaṃ āhāra�
 
 
  nahetuyā  cha naārammaṇe cha naadhipatiyā cha  navippayutte cha noatthiyā cattāri nonatthiyā cha novigate cha noavigate cattāri 
-
+paccanīyaṃ
 
 
  hetupaccayā  naārammaṇe dve naadhipatiyā naanantare nasamanantare naaññamaññe naupanissaye dve  nasampayutte navippayutte nonatthiyā novigate dve 
-
+anulomapaccanīyaṃ
 
  nahetupaccayā  ārammaṇe cattāri adhipatiyā cattāri  avigate cha 
-
-
-
+paccanīyānulomaṃ
+pañhāvāro
+ajjhattattikaṃ niṭṭhitaṃ

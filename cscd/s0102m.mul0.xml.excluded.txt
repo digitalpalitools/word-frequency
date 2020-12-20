@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Dīghanikāyo
 Mahāvaggapāḷi
 1. Mahāpadānasuttaṃ
@@ -95,7 +95,7 @@ Vipassīsamaññā
 40.‘‘,,.‘’,animisanto pekkhati, jātassa kho pana bhikkhave (ka.),‘’.
 41.‘‘,,aṭṭa karaṇe (syā.).,,aṭṭe panāyati ñāṇena (syā.).,,‘’.
 42.‘‘,,,;.,,vassike pāsāde vassike’’.
-Paṭhamabhāṇavāro.
+.
 Jiṇṇapuriso
 43.‘‘,,–‘,,’.‘,’,,–‘,,,’.,,bhadraṃ yānaṃ (syā.), bhaddaṃ yānaṃ (pī.) cattāro māse (sī. pī.).
 44.‘‘,,bhaggaṃ (syā.).–‘,,?,’.‘,,’.‘,,’?‘,,.’.‘,,,’?‘,,,’.‘,,.’.‘,’,,.,,–‘,,,’!
@@ -149,7 +149,7 @@ Bodhisattaabhiniveso
 61.‘‘,,–‘–,,,,,,,,,.’.
 62.‘‘‘’,,,,,,.
 63.‘‘,,–‘,,;,,;,,;,,;,,’,’’.
-Dutiyabhāṇavāro.
+.
 Brahmayācanakathā
 64.‘‘,,–‘’.,,–‘....,;,’.
 65.‘‘,,–
@@ -225,4 +225,4 @@ Devatārocanaṃ
 94.‘‘,,,,,,,,‘’.‘’.
 ‘‘,,,,,,‘’.‘’’’.
 ..
-Mahāpadānasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.

@@ -1,5 +1,5 @@
 ﻿Samantakūṭavaṇṇanā 
-Namo tassa bhagavato arahato sammāsambuddhassa
+
 1.
 
 ,
@@ -713,7 +713,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 235.
 ,
 ;
-Iti paṭhamo vijayo.
+.
 236.
 ,
 ;
@@ -750,7 +750,7 @@ Iti paṭhamo vijayo.
 247.
 ,
 ;
-Dutiyo vijayo.
+.
 248.
 ,
 ;
@@ -781,7 +781,7 @@ Dutiyo vijayo.
 257.
 ,
 ;
-Tatiyo vijayo.
+.
 258.
 ,
 ;
@@ -803,7 +803,7 @@ Tatiyo vijayo.
 264.
 ,
 ;
-Catuttho vijayo.
+.
 265.
 ,
 ’;
@@ -819,7 +819,7 @@ Catuttho vijayo.
 269.
 ,
 ;
-Pañcamo vijayo.
+.
 270.
 ’,
 ’’;
@@ -835,7 +835,7 @@ Pañcamo vijayo.
 274.
 ,
 ;
-Chaṭṭho vijayo.
+.
 275.
 ,
 ;
@@ -848,7 +848,7 @@ Chaṭṭho vijayo.
 278.
 ,
 ;
-Sattamo vijayo.
+.
 279.
 ,
 ;
@@ -882,7 +882,7 @@ Sattamo vijayo.
 289.
 ,
 ;
-Navamo vijayo.
+.
 290.
 ,
 ;
@@ -907,7 +907,7 @@ Navamo vijayo.
 297.
 ,
 ;
-Dasamo vijayo.
+.
 298.
 ,
 ;
@@ -1177,7 +1177,7 @@ Dasamo vijayo.
 386.
 ,
 ;
-Ekādasamo vijayo.
+.
 387.
 ,
 ;
@@ -1231,7 +1231,7 @@ Ekādasamo vijayo.
 ,
 ,
 ;
-Abhisambodhi kathā.
+.
 403.
 
 ,
@@ -1252,7 +1252,7 @@ Abhisambodhi kathā.
 ,
 
 ;
-Iti paṭhama sattāhaṃ.
+.
 407.
 
 ,
@@ -1283,7 +1283,7 @@ Iti paṭhama sattāhaṃ.
 ,
 ’
 ;
-Iti dutiya sattāhaṃ.
+.
 413.
 
 ’,
@@ -1299,7 +1299,7 @@ Iti dutiya sattāhaṃ.
 ,
 
 ;
-Iti tatiya sattāhaṃ.
+.
 416.
 
 ,
@@ -1315,7 +1315,7 @@ Iti tatiya sattāhaṃ.
 ,
 
 ;
-Iti catuttha sattāhaṃ.
+.
 419.
 ’
 ’,
@@ -1451,7 +1451,7 @@ Iti catuttha sattāhaṃ.
 ,
 
 ;
-Tato taṇhā?.
+?.
 446.
 
 ’,
@@ -1472,25 +1472,25 @@ Tato taṇhā?.
 ,
 
 ;
-Satthā?.
+?.
 450.
 
 
 ’
 ;
-Imā  dve pāliyaṃ?.
+?.
 451.
 
 ,
 
 ;
-Atha arati?.
+?.
 452.
 
 ,
 
 ;
-Satthā?.
+?.
 453.
 
 ,
@@ -1501,17 +1501,17 @@ Satthā?.
 ,
 
 ;
-Atha ragā?.
+?.
 455.
 
 ,
 ’
 ;
-Satthā? .
+?.
 456.
 ,
 ;
-Imā pañca pāliyaṃ?.
+?.
 457.
 
 ,
@@ -1528,7 +1528,7 @@ Imā pañca pāliyaṃ?.
 460.
 ,
 ’;
-Imā dve pāliyaṃ?.
+?.
 461.
 
 ,
@@ -1539,7 +1539,7 @@ Imā dve pāliyaṃ?.
 ’,
 
 ;
-Iti pañcama sattāhaṃ.
+.
 463.
 
 ,
@@ -1565,7 +1565,7 @@ Iti pañcama sattāhaṃ.
 ’,
 
 ;
-Iti chaṭṭhama sattāhaṃ.
+.
 468.
 ’
 ,
@@ -1576,7 +1576,7 @@ Iti chaṭṭhama sattāhaṃ.
 ’,
 
 ;
-Iti sattama sattāhaṃ.
+.
 470.
 
 ,
@@ -1993,7 +1993,7 @@ Iti sattama sattāhaṃ.
 ’,
 
 ;
-Iti laṅkāya paṭhamā’gamanaṃ.
+’.
 553.
 
 ’,
@@ -2204,7 +2204,7 @@ Iti laṅkāya paṭhamā’gamanaṃ.
 ,
 ’
 ;
-Iti laṅkāya dutiyāgamanaṃ.
+.
 595.
 
 ,
@@ -2638,7 +2638,7 @@ Iti laṅkāya dutiyāgamanaṃ.
 ,
 
 
-Kalyāṇi desāgamanaṃ.
+.
 718.
 
 ,
@@ -3034,8 +3034,8 @@ Kalyāṇi desāgamanaṃ.
 ’
 ’
 !!;
-Iti samantakūṭa vaṇṇanā niṭṭhitā.
-Grantha samāptiya.
+.
+.
 1.
 ,
 ;
@@ -3054,4 +3054,4 @@ Grantha samāptiya.
 6.
 ’,
 ;
-Siddhiratthu.
+.

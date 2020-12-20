@@ -94,7 +94,7 @@ Kiccappaccayantanaya
 ‘‘’’...,,.,,,,,,,,,,.
 ,;
 -.
-Kiccappaccayantanayo.
+.
 Tekālika
 Kitakappaccayantanaya
 .
@@ -314,7 +314,7 @@ Kitakappaccayantanaya
 ‘‘’’.
 611..
 ..
-Tekālikappaccayantanayo.
+.
 Atītappaccayantanaya
 612..
 .,.,,,‘‘’’.,.
@@ -350,7 +350,7 @@ Atītappaccayantanaya
 ,,,.,.,,.,,.,,‘‘’’.,.,.,,‘‘’’.
 ?,.?,.‘‘,’’.
 ‘‘’’,.,.
-Evaṃ kattari niṭṭhanayo.
+.
 ‘‘’’.
 622..
 .
@@ -426,7 +426,7 @@ Evaṃ kattari niṭṭhanayo.
 ,.
 ,;
 ,.
-Atītappaccayantanayo.
+.
 Tavetunādippaccayantanaya
 ‘‘,,’’–
 636..
@@ -479,7 +479,7 @@ Tavetunādippaccayantanaya
 ,,.,,,,,,,.
 ,,,,,.,,,,,,.
 ,,,.,,,.
-Tavetunādippaccayantanayo.
+.
 Vattamānakālikamānantappaccayantanaya
 646..
 ,.‘‘’’.
@@ -511,7 +511,7 @@ Vattamānakālikamānantappaccayantanaya
 ,‘‘’’,‘‘’’,‘‘’’‘‘’’,‘‘’’.‘‘’’,,‘‘’’,‘‘’’,,,,,.–,,.–,,,,.,.
 ,‘‘’’,,,,,,,,.,,,,,,,.
 ,,,,,,,.,,,,,,,,,,,,,,,.
-Vattamānakālikamānantappaccayantanayo.
+.
 Anāgatakālikappaccayantanaya
 ‘‘’’.
 647..
@@ -531,7 +531,7 @@ Anāgatakālikappaccayantanaya
 –,,.,,,.
 .
 ,,,.,,,.,,,,.
-Anāgatakālikappaccayantanayo.
+.
 Uṇādippaccayantanaya
 .
 ‘‘’’.
@@ -653,11 +653,11 @@ Uṇādippaccayantanaya
 .,,,,,,,,,.,.,,.
 ,;
 ,.
-Uṇādippaccayantanayo.
+.
 ,;
 ,.
-Iti padarūpasiddhiyaṃ kibbidhānakaṇḍo
-Sattamo.
+
+.
 Nigamana
 ,;
 ,.
@@ -669,4 +669,4 @@ Nigamana
 ;
 ,
 .
-Iti padarūpasiddhipakaraṇaṃ niṭṭhitaṃ.
+.

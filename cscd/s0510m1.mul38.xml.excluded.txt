@@ -19,7 +19,7 @@
 ‘‘,;
 ,’’.
 .
-Avaṭaphaladāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Labujadāyakattheraapadānaṃ
 7.
 ‘‘,;
@@ -43,7 +43,7 @@ Avaṭaphaladāyakattherassāpadānaṃ paṭhamaṃ.
 14.
 ‘‘…pe…’’.
 .
-Labujadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Udumbaraphaladāyakattheraapadānaṃ
 15.
 ‘‘,;
@@ -61,7 +61,7 @@ Labujadāyakattherassāpadānaṃ dutiyaṃ.
 20.
 ‘‘…pe…’’.
 .
-Udumbaraphaladāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Pilakkhaphaladāyakattheraapadānaṃ
 21.
 ‘‘,;
@@ -76,7 +76,7 @@ Udumbaraphaladāyakattherassāpadānaṃ tatiyaṃ.
 25.
 ‘‘…pe…’’.
 .
-Pilakkhaphaladāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Phārusaphaladāyakattheraapadānaṃ
 26.
 ‘‘,;
@@ -91,7 +91,7 @@ Pilakkhaphaladāyakattherassāpadānaṃ catutthaṃ.
 30.
 ‘‘…pe…’’.
 .
-Phārusaphaladāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Valliphaladāyakattheraapadānaṃ
 31.
 ‘‘,;
@@ -109,7 +109,7 @@ Phārusaphaladāyakattherassāpadānaṃ pañcamaṃ.
 36.
 ‘‘…pe…’’.
 .
-Valliphaladāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Kadaliphaladāyakattheraapadānaṃ
 37.
 ‘‘,puṇṇamāseva (sī. ka.);
@@ -127,7 +127,7 @@ Valliphaladāyakattherassāpadānaṃ chaṭṭhaṃ.
 42.
 ‘‘…pe…’’.
 .
-Kadaliphaladāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Panasaphaladāyakattheraapadānaṃ
 43.
 ‘‘,;
@@ -145,7 +145,7 @@ Kadaliphaladāyakattherassāpadānaṃ sattamaṃ.
 48.
 ‘‘…pe…’’.
 .
-Panasaphaladāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Soṇakoṭivīsattheraapadānaṃ
 49.
 ‘‘,;
@@ -190,7 +190,7 @@ Panasaphaladāyakattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘koṭiviso (syā. ka.), koḷiviso (aññaṭṭhānesu),;
 ,’’.
 .
-Soṇakoṭivīsattherassāpadānaṃ navamaṃ.
+.
 10. Pubbakammapilotikabuddhaapadānaṃ
 64.
 ‘‘,;
@@ -201,7 +201,7 @@ Soṇakoṭivīsattherassāpadānaṃ navamaṃ.
 66.
 suṇātha bhikkhave mayhaṃ, yaṃ kammaṃ pakataṃ mayā; ekaṃ araññikaṃ bhikkhuṃ, disvā dinnaṃ pilotikaṃ; patthitaṃ paṭhamaṃ buddhaṃ, buddhattāya mayā tadā; pilotiyassa kammassa, buddhattepi vipaccati; gopālako pure āsiṃ, gāviṃ pājeti gocaraṃ; pivantiṃ udakaṃ āvilaṃ, gāviṃ disvā nivārayiṃ; tena kammavipākena, idha pacchimake bhave; vipāsito yadicchakaṃ, na hi pātuṃ labhāmahaṃ (syā.)‘‘,;
 ,suṇātha bhikkhave mayhaṃ, yaṃ kammaṃ pakataṃ mayā; ekaṃ araññikaṃ bhikkhuṃ, disvā dinnaṃ pilotikaṃ; patthitaṃ paṭhamaṃ buddhaṃ, buddhattāya mayā tadā; pilotiyassa kammassa, buddhattepi vipaccati; gopālako pure āsiṃ, gāviṃ pājeti gocaraṃ; pivantiṃ udakaṃ āvilaṃ, gāviṃ disvā nivārayiṃ; tena kammavipākena, idha pacchimake bhave; vipāsito yadicchakaṃ, na hi pātuṃ labhāmahaṃ (syā.).
-[1]
+
 67.
 ‘‘,aññāya jātiyā (udāna aṭṭha.);
 sarabhuṃ (sī.),.
@@ -211,7 +211,7 @@ sarabhuṃ (sī.),.
 69.
 ‘‘,;
 ,.
-[2]
+
 70.
 ‘‘,;
 ,.
@@ -221,7 +221,7 @@ sarabhuṃ (sī.),.
 72.
 ‘‘,;
 ,.
-[3]
+
 73.
 ‘‘,;
 ,.
@@ -237,57 +237,57 @@ sarabhuṃ (sī.),.
 77.
 ‘‘,;
 ,.
-[4]
+
 78.
 ‘‘,;
 ,.
 79.
 ‘‘,;
 ,.
-[5]
+
 80.
 ‘‘,;
 ,sakkhalikaṃ (ka.)dahiṃ (syā.).
 81.
 ‘‘,;
 ,.
-[6]
+
 82.
 ‘‘,;
 ,.
 83.
 ‘‘,danto (ka.);
 ,maṃ upāgami (sī.).
-[7]
+
 84.
 ‘‘pattiko (syā. ka.), khattiyo (udāna aṭṭha.),;
 ,.
 85.
 ‘‘,;
 pakopesi (sī.),.
-[8]
+
 86.
 ‘‘,;
 ,somanassahaṃ (udāna aṭṭha.).
 87.
 ‘‘,;
 ,viṭaṭubho (syā. ka.).
-[9]
+
 88.
 ‘‘,;
 ,.
 89.
 ‘‘,;
 ,.
-[10]
+
 90.
 ‘‘,nisedhayiṃ (syā. ka.);
 ,.
-[11]
+
 91.
 ‘‘,;
 ,.
-[12]
+
 92.
 ‘‘,;
 ,.
@@ -304,11 +304,11 @@ pakopesi (sī.),.
 ‘‘,;
 ,’’.
 .
-Pubbakammapilotikaṃ nāma buddhāpadānaṃ dasamaṃ.
-Avaṭaphalavaggo ekūnacattālīsamo.
+.
+.
 –
 ,;
 ,.
 ,;
 ,.
-Cuddasamaṃ bhāṇavāraṃ.
+.

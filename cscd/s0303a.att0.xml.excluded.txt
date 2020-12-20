@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāye
 Khandhavagga-aṭṭhakathā
 1. Khandhasaṃyuttaṃ
@@ -64,11 +64,11 @@ Khandhavagga-aṭṭhakathā
 9.,.,‘‘’’..
 10-11. Kālattayadukkhasuttādivaṇṇanā
 10-11...
-Nakulapituvaggo paṭhamo.
+.
 2. Aniccavaggo
 1-10. Aniccasuttādivaṇṇanā
 12-21.,..
-Aniccavaggo dutiyo.
+.
 3. Bhāravaggo
 1. Bhārasuttavaṇṇanā
 22.,.,,,.?....‘‘’’.,.
@@ -83,7 +83,7 @@ Aniccavaggo dutiyo.
 31....
 11. Pabhaṅgusuttavaṇṇanā
 32....
-Bhāravaggo tatiyo.
+.
 4. Natumhākavaggo
 1. Natumhākasuttavaṇṇanā
 33.......
@@ -105,7 +105,7 @@ Bhāravaggo tatiyo.
 ..,...
 7-10. Anudhammasuttādivaṇṇanā
 39-42......,.,....
-Natumhākavaggo catuttho.
+.
 5. Attadīpavaggo
 1. Attadīpasuttavaṇṇanā
 43....,–
@@ -127,8 +127,8 @@ Natumhākavaggo catuttho.
 49-50..?....
 9-10. Nandikkhayasuttādivaṇṇanā
 51-52.,.,.‘‘’’‘‘’’..
-Attadīpavaggo pañcamo.
-Mūlapaṇṇāsako samatto.
+.
+.
 6. Upayavaggo
 1. Upayasuttavaṇṇanā
 53..........
@@ -165,7 +165,7 @@ Mūlapaṇṇāsako samatto.
 62.,...,‘‘’’..‘‘’’........
 ...‘‘’’.‘‘’’.‘‘’’.,,?,,.‘‘’’.,.,‘‘,’’.
 ‘‘,,’’.‘‘’’?..,,....
-Upayavaggo chaṭṭho.
+.
 7. Arahantavaggo
 1. Upādiyamānasuttavaṇṇanā
 63.....
@@ -179,7 +179,7 @@ Upayavaggo chaṭṭho.
 69.,..
 8-10. Rajanīyasaṇṭhitasuttādivaṇṇanā
 70-72.,...
-Arahantavaggo sattamo.
+.
 8. Khajjanīyavaggo
 1-3. Assādasuttādivaṇṇanā
 73-75...
@@ -273,7 +273,7 @@ Arahantavaggo sattamo.
 82...?.,,.,,.,.,.,,.‘‘,’’,.‘‘‘’,’’.
 .,.,.,.....,,,.,...
 .
-Khajjanīyavaggo aṭṭhamo.
+.
 9. Theravaggo
 1. Ānandasuttavaṇṇanā
 83.,........,?,,,.,,.,?.,..
@@ -308,7 +308,7 @@ Khajjanīyavaggo aṭṭhamo.
 .,,‘‘’’.,‘‘’’.,‘‘,,’’...,‘‘’’?(saṃ. ni. 2.15)‘‘,’’‘‘’’..
 9-10. Rāhulasuttādivaṇṇanā
 91-92.(saṃ. ni. 2.188)...
-Theravaggo navamo.
+.
 10. Pupphavaggo
 1. Nadīsuttavaṇṇanā
 93.......,...
@@ -354,8 +354,8 @@ Theravaggo navamo.
 ...,.
 .,.,,,,.
 ...,,,.,,?..,..
-Pupphavaggo dasamo.
-Majjhimapaṇṇāsako samatto.
+.
+.
 11. Antavaggo
 1. Antasuttavaṇṇanā
 103....
@@ -365,7 +365,7 @@ Majjhimapaṇṇāsako samatto.
 106......
 5-10. Samaṇasuttādivaṇṇanā
 107-112....
-Antavaggo ekādasamo.
+.
 12. Dhammakathikavaggo
 1-2. Avijjāsuttādivaṇṇanā
 113-114.,...
@@ -381,20 +381,20 @@ Antavaggo ekādasamo.
 123..‘‘’’,..
 12-13. Kappasuttādivaṇṇanā
 124-125...
-Dhammakathikavaggo dvādasamo.
+.
 13. Avijjāvaggo
 1-10. Samudayadhammasuttādivaṇṇanā
 126-135...
-Avijjāvaggo terasamo.
+.
 14. Kukkuḷavaggo
 1-13. Kukkuḷasuttādivaṇṇanā
 136-149..,..
-Kukkuḷavaggo cuddasamo.
+.
 15. Diṭṭhivaggo
 1-9. Ajjhattasuttādivaṇṇanā
 150-158..,...
 10. Ānandasuttavaṇṇanā
 159.‘‘,’’.‘‘’’....
-Diṭṭhivaggo pannarasamo.
-Uparipaṇṇāsako samatto.
-Khandhasaṃyuttavaṇṇanā niṭṭhitā.
+.
+.
+.

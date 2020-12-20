@@ -11,95 +11,95 @@
 .,.‘‘’’......
 ..‘‘’’,.,‘‘’’....,‘‘’’,.‘‘’’..
 ....‘‘’’.‘‘’’.,..‘‘,,‘’’’,‘‘.’’..‘‘’’.
-Tapokammasuttavaṇṇanā niṭṭhitā.
+.
 2. Hatthirājavaṇṇasuttavaṇṇanā
 138.....,.‘‘’’..‘‘’’.
 .,..
-Hatthirājavaṇṇasuttavaṇṇanā niṭṭhitā.
+.
 3. Subhasuttavaṇṇanā
 139.....
-Subhasuttavaṇṇanā niṭṭhitā.
+.
 4. Paṭhamamārapāsasuttavaṇṇanā
 140....,-.‘‘’’..‘‘,’’‘‘’’.
 .,.‘‘’’.,.‘‘,’’‘‘’’.
-Paṭhamamārapāsasuttavaṇṇanā niṭṭhitā.
+.
 5. Dutiyamārapāsasuttavaṇṇanā
 141...
 ,....,‘‘’’.,‘‘’’.,‘‘’’.,,‘‘’’.‘‘,,.?,’’(saṃ. ni. 5.369),‘‘’’..
 ,,‘‘’’..,.-.-...,.
 ..‘‘…pe…’’....‘‘,,’’(pārā. 18).,..,...
-Dutiyamārapāsasuttavaṇṇanā niṭṭhitā.
+.
 6. Sappasuttavaṇṇanā
 142..,....,‘‘’’..‘‘’’.
 .‘‘’’..‘‘’’..?.
 .......
-Sappasuttavaṇṇanā niṭṭhitā.
+.
 7. Supatisuttavaṇṇanā
 143.,.‘‘’’....‘‘’’.‘‘’’,.
 ‘‘’’?,‘‘’’.
 -‘‘’’(vibha. 842)..,.,.?.?.
-Supatisuttavaṇṇanā niṭṭhitā.
+.
 8. Nandatisuttavaṇṇanā
 144..
-Nandatisuttavaṇṇanā niṭṭhitā.
+.
 9. Paṭhamaāyusuttavaṇṇanā
 145...,,..
 .,.,,,.
-Paṭhamaāyusuttavaṇṇanā niṭṭhitā.
+.
 10. Dutiyaāyusuttavaṇṇanā
 146...‘‘’’.,‘‘’’.
-Dutiyaāyusuttavaṇṇanā niṭṭhitā.
-Paṭhamavaggavaṇṇanā niṭṭhitā.
+.
+.
 2. Dutiyavaggo
 1. Pāsāṇasuttavaṇṇanā
 147..,.
-Pāsāṇasuttavaṇṇanā niṭṭhitā.
+.
 2. Kiṃnusīhasuttavaṇṇanā
 148..,.‘‘’’...
-Kiṃnusīhasuttavaṇṇanā niṭṭhitā.
+.
 3. Sakalikasuttavaṇṇanā
 149...,,..…pe….,.,....
-Sakalikasuttavaṇṇanā niṭṭhitā.
+.
 4. Patirūpasuttavaṇṇanā
 150.,.,.,.,,.
-Patirūpasuttavaṇṇanā niṭṭhitā.
+.
 5. Mānasasuttavaṇṇanā
 151....‘‘’’.
-Mānasasuttavaṇṇanā niṭṭhitā.
+.
 6. Pattasuttavaṇṇanā
 152.‘‘’’..-.,...,...‘‘’’..‘‘’’.,.
 ,‘‘,’’.,.‘‘’’..
-Pattasuttavaṇṇanā niṭṭhitā.
+.
 7. Chaphassāyatanasuttavaṇṇanā
 153.,,,.,,.......
-Chaphassāyatanasuttavaṇṇanā niṭṭhitā.
+.
 8. Piṇḍasuttavaṇṇanā
 154.....‘‘’’.-.,.....
 ,‘‘’’‘‘’’...
 .,.
 ,,..‘‘’’.
-Piṇḍasuttavaṇṇanā niṭṭhitā.
+.
 9. Kassakasuttavaṇṇanā
 155...,..?,.‘‘’’,.‘‘’’.
 ‘‘’’‘‘’’..,.
 ,‘‘’’,,,.‘‘’’.
 ‘‘’’.,.,,.,,.
-Kassakasuttavaṇṇanā niṭṭhitā.
+.
 10. Rajjasuttavaṇṇanā
 156.‘‘’’,,‘‘’’..‘‘’’...‘‘’’..
 ...,.........
 .‘‘’’..,....
 ,,....?..,..
-Rajjasuttavaṇṇanā niṭṭhitā.
-Dutiyavaggavaṇṇanā niṭṭhitā.
+.
+.
 3. Tatiyavaggo
 1. Sambahulasuttavaṇṇanā
 157....‘‘’’.‘‘’’..‘‘’’..‘‘’’,.,.
-Sambahulasuttavaṇṇanā niṭṭhitā.
+.
 2. Samiddhisuttavaṇṇanā
 158.,,,.,.,‘‘’’...‘‘’’..,...
 .,...‘‘‘’’’...‘‘’’..
-Samiddhisuttavaṇṇanā niṭṭhitā.
+.
 3. Godhikasuttavaṇṇanā
 159...‘‘’’.,.‘‘,’’.,?.,,.,.....
 .,.‘‘’’.
@@ -111,7 +111,7 @@ Samiddhisuttavaṇṇanā niṭṭhitā.
 ..
 .,,‘‘’’..,.,,‘‘’’.
 ‘‘’’..
-Godhikasuttavaṇṇanā niṭṭhitā.
+.
 4. Sattavassānubandhasuttavaṇṇanā
 160.,‘‘’’..
 ...
@@ -119,7 +119,7 @@ Godhikasuttavaṇṇanā niṭṭhitā.
 ..-‘‘’’.
 ..‘‘’’...
 .‘‘’’....
-Sattavassānubandhasuttavaṇṇanā niṭṭhitā.
+.
 5. Māradhītusuttavaṇṇanā
 161....‘‘’’......‘‘’’...,.
 .........
@@ -128,7 +128,7 @@ Sattavassānubandhasuttavaṇṇanā niṭṭhitā.
 .‘‘’’.‘‘’’.
 ‘‘’’.‘‘’’.
 .‘‘’’,..‘‘’’....
-Māradhītusuttavaṇṇanā niṭṭhitā.
-Tatiyavaggavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Mārasaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+.
+-
+.

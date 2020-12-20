@@ -163,7 +163,7 @@ nahetuyā nava naārammaṇe tīṇi naadhipatiyā nava nakamme cattāri navipā
 
  upekkhāsahagataṃ  kusalaṃ dhammaṃ paṭicca cha 
  upekkhāsahagataṃ akusalaṃ dhammaṃ paṭicca upekkhāsahagato akusalo dhammo uppajjati hetupaccayā 
-
+hetuyā cha 
  upekkhāsahagataṃ akusalaṃ dhammaṃ paṭicca upekkhāsahagato akusalo dhammo uppajjati nahetupaccayā 
 naupekkhāsahagataṃ akusalaṃ dhammaṃ  paṭicca upekkhāsahagato akusalo dhammo uppajjati nahetupaccayā 
 upekkhāsahagatañca naupekkhāsahagatañca dhammaṃ paṭicca upekkhāsahagato akusalo dhammo uppajjati nahetupaccayā  
@@ -289,4 +289,4 @@ hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ
  araṇo  abyākato dhammo araṇassa abyākatassa dhammassa hetupaccayena paccayo 
 hetuyā ekaṃ ārammaṇe ekaṃ avigate ekaṃ 
 
-
+piṭṭhidukakusalattikaṃ niṭṭhitaṃ

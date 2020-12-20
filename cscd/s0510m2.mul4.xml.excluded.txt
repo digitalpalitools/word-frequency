@@ -15,9 +15,9 @@
 5.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā sālakusumiyo thero imā gāthāyo
+
 .
-Sālakusumiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Citakapūjakattheraapadānaṃ
 6.
 ‘‘,;
@@ -31,9 +31,9 @@ Sālakusumiyattherassāpadānaṃ paṭhamaṃ.
 ‘‘…pe….
 10.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā citakapūjako thero imā gāthāyo
+
 .
-Citakapūjakattherassāpadānaṃ dutiyaṃ.
+.
 3. Citakanibbāpakattheraapadānaṃ
 11.
 ‘‘,;
@@ -47,9 +47,9 @@ Citakapūjakattherassāpadānaṃ dutiyaṃ.
 ‘‘…pe….
 15.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā citakanibbāpako thero imā
+
 .
-Citakanibbāpakattherassāpadānaṃ tatiyaṃ.
+.
 4. Setudāyakattheraapadānaṃ
 16.
 ‘‘,;
@@ -63,9 +63,9 @@ Citakanibbāpakattherassāpadānaṃ tatiyaṃ.
 ‘‘…pe….
 20.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā setudāyako thero imā gāthāyo
+
 .
-Setudāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Sumanatālavaṇṭiyattheraapadānaṃ
 21.
 ‘‘,;
@@ -79,9 +79,9 @@ Setudāyakattherassāpadānaṃ catutthaṃ.
 ‘‘…pe….
 25.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sumanatālavaṇṭiyo thero imā
+
 .
-Sumanatālavaṇṭiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Avaṭaphaliyattheraapadānaṃ
 26.
 ‘‘,;
@@ -98,9 +98,9 @@ Sumanatālavaṇṭiyattherassāpadānaṃ pañcamaṃ.
 ‘‘…pe….
 31.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā avaṭaphaliyo thero imā gāthāyo
+
 .
-Avaṭaphaliyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Labujaphaladāyakattheraapadānaṃ
 32.
 ‘‘,;
@@ -123,9 +123,9 @@ uppajjate me (syā.),.
 ‘‘…pe….
 39.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā labujaphaladāyako thero imā
+
 .
-Labujaphaladāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Pilakkhaphaladāyakattheraapadānaṃ
 40.
 ‘‘vanante buddhaṃ disvāna (sī. pī.),;
@@ -139,9 +139,9 @@ Labujaphaladāyakattherassāpadānaṃ sattamaṃ.
 ‘‘…pe….
 44.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā pilakkhaphaladāyako thero imā
+
 .
-Pilakkhaphaladāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sayaṃpaṭibhāniyattheraapadānaṃ
 45.
 ‘‘,;
@@ -182,9 +182,9 @@ Pilakkhaphaladāyakattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 58.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā sayaṃpaṭibhāniyo thero imā gāthāyo
+
 .
-Sayaṃpaṭibhāniyattherassāpadānaṃ navamaṃ.
+.
 10. Nimittabyākaraṇiyattheraapadānaṃ
 59.
 ‘‘,;
@@ -225,10 +225,10 @@ Sayaṃpaṭibhāniyattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 72.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā nimittabyākaraṇiyo thero imā
+
 .
-Nimittabyākaraṇiyattherassāpadānaṃ dasamaṃ.
-Sālakusumiyavaggo sattacattālīsamo.
+.
+.
 –
 ,;
 ,.

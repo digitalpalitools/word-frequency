@@ -11,7 +11,7 @@
 ..,‘‘’’...,,,,,‘‘,,’’.
 ,.‘‘’’(mahāva. 306),‘‘’’(su. ni. 850),.‘‘’’..,,..–,,,.
 ,.
-Meghiyattheravatthu paṭhamaṃ.
+.
 2. Aññatarabhikkhuvatthu
 .
 ..,,‘‘,’’.‘‘’’.‘‘,,’’,‘‘,,,,’’.‘‘’’..
@@ -27,7 +27,7 @@ Meghiyattheravatthu paṭhamaṃ.
 ,.
 ,‘‘,,’’...,‘‘’’.‘‘,’’,‘‘,,’’..,‘‘’’.
 ‘‘,’’,‘‘’’,‘‘,’’,‘‘,‘’’.‘‘’’,’’‘‘’’.,‘‘’’.
-Aññatarabhikkhuvatthu dutiyaṃ.
+.
 3. Aññataraukkaṇṭhitabhikkhuvatthu
 .
 ,‘‘,,’’.‘‘,,,,,,,,’’.‘‘,’’–‘‘,’’?‘‘,,’’..‘‘’’.‘‘,’’..‘‘,’’,‘‘’’...–‘‘,’’.–‘‘,,,’’.–‘‘,,,,’’.,,.
@@ -37,7 +37,7 @@ Aññatarabhikkhuvatthu dutiyaṃ.
 ,’’.
 ...,.,..
 ,,.
-Aññataraukkaṇṭhitabhikkhuvatthu tatiyaṃ.
+.
 4. Saṅgharakkhitabhāgineyyattheravatthu
 .
 ..,‘‘,’’‘‘’’‘‘’’‘‘’’.,‘‘,’’,‘‘,’’.
@@ -50,7 +50,7 @@ Aññataraukkaṇṭhitabhikkhuvatthu tatiyaṃ.
 ,’’.
 ,..,..,...
 ,,.
-Saṅgharakkhitabhāgineyyattheravatthu catutthaṃ.
+.
 5. Cittahatthattheravatthu
 .
 ,‘‘’’.,,‘‘’’.,,‘‘,,,,’’.‘‘,,’’.‘‘,,,’’.‘‘’’.
@@ -73,7 +73,7 @@ Saṅgharakkhitabhāgineyyattheravatthu catutthaṃ.
 ,’’.(jā. 1.1.70);
 ...,‘‘’’,‘‘,’’.....
 ,‘‘,,,’’.
-Cittahatthattheravatthu pañcamaṃ.
+.
 6. Pañcasatabhikkhuvatthu
 .
 ,‘‘’’.,‘‘,,’’,‘‘’’,‘‘,,’’,‘‘,,’’..‘‘,,,’’,‘‘,’’..‘‘,,,’’.
@@ -88,7 +88,7 @@ Cittahatthattheravatthu pañcamaṃ.
 .,,,‘‘’’,,..
 .,,.,,,,,.,,.,,.‘‘’’.
 .
-Pañcasatabhikkhuvatthu chaṭṭhaṃ.
+.
 7. Pūtigattatissattheravatthu
 .
 ,...,.......
@@ -99,7 +99,7 @@ Pañcasatabhikkhuvatthu chaṭṭhaṃ.
 ,.,.?.,.,,..,.
 ,...–‘‘,’’.‘‘,’’.‘‘,,,’’?‘‘,’’.‘‘,,’’?‘‘,,’’–
 .,‘‘’’,,...,‘‘,,,’’,‘‘,’’.‘‘’’.‘‘,,,,’’.
-Pūtigattatissattheravatthu sattamaṃ.
+.
 8. Nandagopālakavatthu
 .
 .,.,,....,‘‘,’’..–‘‘,,,,’’.,‘‘,.,,’’–
@@ -108,7 +108,7 @@ Pūtigattatissattheravatthu sattamaṃ.
 ,’’.
 .‘‘’’...–,,,,,,.,,.,.
 ..,.
-Nandagopālakavatthu aṭṭhamaṃ.
+.
 9. Soreyyattheravatthu
 .
 ,....–‘‘,’’.,..‘‘’’....‘‘’’,‘‘’’.,‘‘’’..
@@ -123,6 +123,6 @@ Nandagopālakavatthu aṭṭhamaṃ.
 ,’’.
 ,,..,..,.,,,.‘‘’’.
 ..
-Soreyyattheravatthu navamaṃ.
-Cittavaggavaṇṇanā niṭṭhitā.
-Tatiyo vaggo.
+.
+.
+.

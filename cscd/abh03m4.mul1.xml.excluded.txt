@@ -214,7 +214,7 @@
 (Kha)?
 (Ka)?
 (Kha)?
-Paṇṇattiuddesavāro.
+.
 (Kha) niddeso
 1. Paṇṇattivāraniddesa
 1. Padasodhanavāro
@@ -514,7 +514,7 @@ avasesā khandhā khandhā (syā.) evamuparipi.
 (Ka)?
 ,..
 (Kha)?.
-Paṇṇattiniddesavāro.
+.
 2. Pavattivāro 1. uppādavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -730,7 +730,7 @@ pacchimabhavikānaṃ pañcavokāraṃ upapajjantānaṃ (sī. syā.),..
 103.(Ka)?.
 (Kha)?
 ,..
-Uppādavāro niṭṭhito.
+.
 2. Pavatti 2. nirodhavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -927,7 +927,7 @@ Uppādavāro niṭṭhito.
 ,..
 (Kha)?
 ,..
-Nirodhavāro.
+.
 3. Uppādanirodhavāro
 (1) Paccuppannavāro
 (Ka) anulomapuggalo
@@ -1110,8 +1110,8 @@ Nirodhavāro.
 ,..
 (Kha)?
 ,..
-Uppādanirodhavāro.
-Pavattivāro niṭṭhito.
+.
+.
 3. Pariññāvāro
 1. Paccuppannavāro
 206.(Ka)?.
@@ -1149,6 +1149,6 @@ Pavattivāro niṭṭhito.
 ,..
 (Kha)?
 ,..
-Pariññāvāro.
-Khandhayamakapāḷi niṭṭhitā.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+.
+

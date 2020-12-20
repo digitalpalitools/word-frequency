@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Jātaka-aṭṭhakathā
 (Dutiyo bhāgo)
 2. Dukanipāto
@@ -22,7 +22,7 @@ Jātaka-aṭṭhakathā
 ‘‘’’.,,..,,.,.
 .‘‘’’..
 –‘‘,,,’’.
-Rājovādajātakavaṇṇanā paṭhamā.
+.
 
 .
 .,..‘‘,’’.
@@ -43,7 +43,7 @@ Rājovādajātakavaṇṇanā paṭhamā.
 –,,,......
 .
 ,.‘‘,,,’’.
-Siṅgālajātakavaṇṇanā dutiyā.
+.
 
 .
 ,..,..–‘‘,‘’’’‘‘,,,’’.‘‘’’,.
@@ -58,7 +58,7 @@ Siṅgālajātakavaṇṇanā dutiyā.
 ,’’.
 ..,,‘‘,,’’.‘‘’’.‘‘’’.
 –‘‘,’’.
-Sūkarajātakavaṇṇanā tatiyā.
+.
 
 .
 .,.,...,.
@@ -76,7 +76,7 @@ Sūkarajātakavaṇṇanā tatiyā.
 .,.
 ..
 –‘‘,’’.
-Uragajātakavaṇṇanā catutthā.
+.
 
 .
 ..‘‘,,,’’,.–‘‘,,‘’’’?‘‘’’.‘‘,,‘’,’’(cūḷava. 288).‘‘,’’,.–‘‘‘,’’’..,,,,,‘‘,’’‘‘’’.–‘‘,’’?‘‘,’’.
@@ -93,7 +93,7 @@ Uragajātakavaṇṇanā catutthā.
 ‘‘’’.–‘‘,’’?‘‘’’.‘‘’’?‘‘’’.‘‘,,,’’.
 –‘‘,’’.,..
 ‘‘’’–‘‘,,,’’.
-Bhaggajātakavaṇṇanā pañcamā.
+.
 
 .
 .(jā. 1.11.97 ādayo).‘‘,,’’‘‘,’’.‘‘,,,’’.
@@ -114,7 +114,7 @@ Bhaggajātakavaṇṇanā pañcamā.
 ,’’.
 .‘‘’’...,.....,.,,.
 ,.‘‘,,,,,’’.
-Alīnacittajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .(jā. 1.1.92)....
@@ -137,7 +137,7 @@ Alīnacittajātakavaṇṇanā chaṭṭhā.
 ,.–,,,,.,,,.
 ...
 –,,,.‘‘,’’.
-Guṇajātakavaṇṇanā sattamā.
+.
 
 .
 ..,.‘‘’’.,.–‘‘,,’’.‘‘,,’’‘‘’’‘‘,,,,’’.
@@ -153,7 +153,7 @@ Guṇajātakavaṇṇanā sattamā.
 ‘‘’’.....,.
 ‘‘,,’’...
 –‘‘,,’’.
-Suhanujātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .‘‘,,’’‘‘,’’‘‘’’‘‘’’.‘‘,.,,’’.
@@ -182,7 +182,7 @@ Suhanujātakavaṇṇanā aṭṭhamā.
 .‘‘,’’.‘‘,,’’.‘‘,,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,,,,,’’.‘‘‘’.’’?‘‘,’’.‘‘’’?‘‘,,,,’’.
 ‘‘’’.‘‘,’’..‘‘,’’..
 ,.‘‘,’’.
-Morajātakavaṇṇanā navamā.
+.
 
 .
 ..‘‘,’’‘‘,’’.‘‘,,,’’.
@@ -197,8 +197,8 @@ Morajātakavaṇṇanā navamā.
 ,’’.
 ..,,,,,.,.‘‘,’’,.
 –‘‘,,,’’.
-Vinīlajātakavaṇṇanā dasamā.
-Daḷhavaggo paṭhamo.
+.
+.
 –
 ,;
 ,.
@@ -217,7 +217,7 @@ Daḷhavaggo paṭhamo.
 ....?,.?,.‘‘’’,,.
 ‘‘,’’.
 –‘‘,’’.
-Indasamānagottajātakavaṇṇanā paṭhamā.
+.
 
 .
 .(jā. 1.1.144 ādayo).‘‘,,’’.‘‘,,,’’.
@@ -233,7 +233,7 @@ Indasamānagottajātakavaṇṇanā paṭhamā.
 .
 .
 –‘‘’’.
-Santhavajātakavaṇṇanā dutiyā.
+.
 
 .
 .,,,,.‘‘’’,‘‘’’.,‘‘‘’’’‘‘’’,....
@@ -253,7 +253,7 @@ Santhavajātakavaṇṇanā dutiyā.
 ,.,,.
 –‘‘,’’.‘‘,,’’,.‘‘,,,,’’...
 ,,,,.‘‘,,,,’’.
-Susīmajātakavaṇṇanā tatiyā.
+.
 
 .
 .(jā. 2.22.296 ādayo).‘‘,,’’‘‘’’‘‘’’‘‘,’’‘‘’’‘‘,,,,’’.
@@ -270,7 +270,7 @@ Susīmajātakavaṇṇanā tatiyā.
 ..
 –‘‘,,’’.‘‘,’’.‘‘’’?‘‘,,,,’’.
 ,.‘‘,,’’.
-Gijjhajātakavaṇṇanā catutthā.
+.
 
 .
 .(jā. 1.2.7-8).‘‘,,,’’.
@@ -286,7 +286,7 @@ Gijjhajātakavaṇṇanā catutthā.
 ,?.,,.
 ‘‘,,,’’..
 –‘‘,’’.
-Nakulajātakavaṇṇanā pañcamā.
+.
 
 .
 .,..–‘‘,,,’’.‘‘,,‘’’’.‘‘,’’‘‘,,’’.
@@ -301,7 +301,7 @@ Nakulajātakavaṇṇanā pañcamā.
 .‘‘’’,‘‘’’.‘‘’’,.....,,,..
 .
 ,.‘‘,’’.
-Upasāḷakajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 ..‘‘’’.–‘‘,,,,,’’.–‘‘,‘’,,’’...‘‘,,,’’.
@@ -319,7 +319,7 @@ Upasāḷakajātakavaṇṇanā chaṭṭhā.
 ,’’.
 ‘‘’’,.....
 –‘‘,’’.
-Samiddhijātakavaṇṇanā sattamā.
+.
 
 .
 (saṃ. ni. 5.372).‘‘,,’’(saṃ. ni. 5.372)‘‘,’’.
@@ -335,7 +335,7 @@ Samiddhijātakavaṇṇanā sattamā.
 ,’’.
 ..
 ,.‘‘,’’.
-Sakuṇagghijātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .–‘‘,,.?,,,,,,,,,,.,,…pe…’’(a. ni. 11.15).‘‘,,,,.,,.,’’.
@@ -350,12 +350,12 @@ Sakuṇagghijātakavaṇṇanā aṭṭhamā.
 ..,.‘‘’’.‘‘’’,.,,,,.
 .
 –‘‘,’’.
-Arakajātakavaṇṇanā navamā.
+.
 
 .
 (jā. 2.22.590 ādayo).
-Kakaṇṭakajātakavaṇṇanā dasamā.
-Santhavavaggo dutiyo.
+.
+.
 –
 ,;
 ,;
@@ -375,7 +375,7 @@ Santhavavaggo dutiyo.
 ...,,.....
 .
 –‘‘,’’.
-Kalyāṇadhammajātakavaṇṇanā paṭhamā.
+.
 
 .
 ..‘‘’’‘‘.,’’..‘‘’’–‘‘,’’.‘‘’’‘‘’’,,.
@@ -391,7 +391,7 @@ Kalyāṇadhammajātakavaṇṇanā paṭhamā.
 ,’’.
 ,,.‘‘’’.
 ‘‘,,,’’–‘‘,,’’.
-Daddarajātakavaṇṇanā dutiyā.
+.
 
 .
 .(jā. 1.14.62 ādayo).‘‘,,’’.
@@ -407,7 +407,7 @@ Daddarajātakavaṇṇanā dutiyā.
 ,’’.
 .‘‘,’’‘‘’’...
 –‘‘,,’’.
-Makkaṭajātakavaṇṇanā tatiyā.
+.
 
 .
 ..‘‘,,,’’.
@@ -423,7 +423,7 @@ Makkaṭajātakavaṇṇanā tatiyā.
 –,‘‘’’,,,.
 ...
 ‘‘,,,’’–‘‘,’’.
-Dubbhiyamakkaṭajātakavaṇṇanā catutthā.
+.
 
 .
 ..
@@ -439,7 +439,7 @@ Dubbhiyamakkaṭajātakavaṇṇanā catutthā.
 ...‘‘’’.
 ..
 –‘‘,,’’.
-Ādiccupaṭṭhānajātakavaṇṇanā pañcamā.
+.
 
 .
 ...–‘‘,,,,‘,’,,,,,‘,’.,’’..‘‘,,’’.‘‘,‘’’’.‘‘,,’’.
@@ -455,7 +455,7 @@ Dubbhiyamakkaṭajātakavaṇṇanā catutthā.
 –,..,..
 .‘‘’’.‘‘’’..
 –‘‘,’’.
-Kaḷāyamuṭṭhijātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .(jā. 2.18.124 ādayo)(jā. 2.22.590 ādayo)‘‘,,,’’.
@@ -472,7 +472,7 @@ Kaḷāyamuṭṭhijātakavaṇṇanā chaṭṭhā.
 ,...,,.
 ..‘‘’’.‘‘’’.‘‘,,’’.‘‘’’...
 –‘‘,,’’.
-Tindukajātakavaṇṇanā sattamā.
+.
 
 .
 ..–‘‘,,,,’’...‘‘,’’,.‘‘,,,’’.
@@ -488,7 +488,7 @@ Tindukajātakavaṇṇanā sattamā.
 ,.,...,...‘‘’’,..,.
 .–‘‘,.,.,,‘’,’’.,.,.
 ,.‘‘,’’.
-Kacchapajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 ..(jā. 1.2.173-174).‘‘,,,,’’‘‘,,....,’’.
@@ -505,7 +505,7 @@ Kacchapajātakavaṇṇanā aṭṭhamā.
 ,’’.
 ...,‘‘’’.‘‘’’,,‘‘’’..
 ,.‘‘,’’.
-Satadhammajātakavaṇṇanā navamā.
+.
 
 .
 ..‘‘,,‘’’’.‘‘,’’.
@@ -519,8 +519,8 @@ Satadhammajātakavaṇṇanā navamā.
 ,‘‘’’........,.,...,.
 .
 –‘‘,’’.
-Duddadajātakavaṇṇanā dasamā.
-Kalyāṇavaggo tatiyo.
+.
+.
 –
 ,;
 ,;
@@ -543,7 +543,7 @@ Kalyāṇavaggo tatiyo.
 ,’’.
 ,....,,..,,,,,,.,.,,,,.,,......
 –‘‘,’’.
-Asadisajātakavaṇṇanā paṭhamā.
+.
 
 .
 .‘‘’’‘‘,,’’.‘‘’’‘‘,,’’.‘‘,’’.‘‘’’?‘‘,’’.‘‘’’.‘‘,,,’’.‘‘,,’’–‘‘,,’’.‘‘,’’.‘‘’’.
@@ -560,7 +560,7 @@ Asadisajātakavaṇṇanā paṭhamā.
 ,,,,..,..,....
 .
 –‘‘,,’’.
-Saṅgāmāvacarajātakavaṇṇanā dutiyā.
+.
 
 .
 ..,,,,....‘‘,,’’‘‘,’’‘‘,,,,,’’.
@@ -576,7 +576,7 @@ Saṅgāmāvacarajātakavaṇṇanā dutiyā.
 ,...
 .
 –‘‘,,,’’.
-Vālodakajātakavaṇṇanā tatiyā.
+.
 
 .
 .(jā. 1.1.26).‘‘,,,’’.
@@ -592,7 +592,7 @@ Vālodakajātakavaṇṇanā tatiyā.
 ,’’.
 .,.–,,.,‘‘’’,.,.‘‘’’.
 –‘‘,,,’’.
-Giridattajātakavaṇṇanā catutthā.
+.
 
 .
 ..,,..‘‘,,,’’.‘‘,,,,’’.‘‘,,,,’’.
@@ -607,7 +607,7 @@ Giridattajātakavaṇṇanā catutthā.
 ’’.
 .......
 ,.‘‘,’’.
-Anabhiratijātakavaṇṇanā pañcamā.
+.
 
 .
 ..‘‘,,,’’.
@@ -629,7 +629,7 @@ Anabhiratijātakavaṇṇanā pañcamā.
 ....
 ...
 –‘‘’’.
-Dadhivāhanajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .‘‘,,’’..‘‘’’.‘‘,,,’’.
@@ -644,7 +644,7 @@ Dadhivāhanajātakavaṇṇanā chaṭṭhā.
 ,’’.
 ....,.‘‘’’.
 –‘‘,,’’.
-Catumaṭṭhajātakavaṇṇanā sattamā.
+.
 
 .
 ..‘‘,,,’’.
@@ -659,7 +659,7 @@ Catumaṭṭhajātakavaṇṇanā sattamā.
 ,’’.
 ..
 –‘‘,,’’.
-Sīhakotthujātakavaṇṇanā aṭṭhamā.
+.
 
 .
 ...
@@ -674,7 +674,7 @@ Sīhakotthujātakavaṇṇanā aṭṭhamā.
 ,’’.
 ,.,.,.
 –‘‘,,’’.
-Sīhacammajātakavaṇṇanā navamā.
+.
 
 .
 .,..,,.‘‘,’’‘‘,’’‘‘,,,’’.
@@ -689,8 +689,8 @@ Sīhacammajātakavaṇṇanā navamā.
 ....,.,....,.....‘‘’’.
 .
 –.‘‘,,’’.
-Sīlānisaṃsajātakavaṇṇanā dasamā.
-Asadisavaggo catuttho.
+.
+.
 –
 ,;
 ,;
@@ -711,11 +711,11 @@ Asadisavaggo catuttho.
 ,’’.
 –,,,..
 –.‘‘,,,,’’.
-Ruhakajātakavaṇṇanā paṭhamā.
+.
 
 .
 .
-Sirikāḷakaṇṇijātakavaṇṇanā dutiyā.
+.
 
 .
 .(jā. 2.20.57 ādayo).‘‘,,’’‘‘,’’‘‘’’‘‘,,’’.‘‘,,’’.
@@ -734,7 +734,7 @@ Sirikāḷakaṇṇijātakavaṇṇanā dutiyā.
 ‘‘,,’’,,.‘‘,’’.,,.,...‘‘’’.....,.
 .,.
 –.‘‘,,,,’’.
-Cūḷapadumajātakavaṇṇanā tatiyā.
+.
 
 .
 .‘‘’’‘‘,,,,’’.
@@ -754,7 +754,7 @@ Cūḷapadumajātakavaṇṇanā tatiyā.
 ...,..-,,.
 ..
 –‘‘,,,’’.
-Maṇicorajātakavaṇṇanā catutthā.
+.
 
 .
 ..‘‘’’‘‘,,’’.‘‘,,’’‘‘,,,’’‘‘,‘’’’.
@@ -770,7 +770,7 @@ Maṇicorajātakavaṇṇanā catutthā.
 ,‘‘’’.,,.?.,.?..?.,,.
 .‘‘’’....
 –‘‘,’’.
-Pabbatūpattharajātakavaṇṇanā pañcamā.
+.
 
 .
 .‘‘,,’’‘‘’’‘‘’’‘‘’’.‘‘‘’.’’.
@@ -786,7 +786,7 @@ Pabbatūpattharajātakavaṇṇanā pañcamā.
 ,’’.
 ....‘‘’’.,.
 –,.‘‘,’’.
-Valāhakassajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .‘‘’’.‘‘’’‘‘’’‘‘’’..–‘‘,.‘’’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -800,7 +800,7 @@ Valāhakassajātakavaṇṇanā chaṭṭhā.
 ,,,.,.,.,..‘‘’’,.
 .
 –‘‘,,,’’.
-Mittāmittajātakavaṇṇanā sattamā.
+.
 
 .
 .‘‘,,’’‘‘,’’‘‘’’‘‘’’.‘‘,,,’’.
@@ -817,7 +817,7 @@ Mittāmittajātakavaṇṇanā sattamā.
 .,‘‘’’,.–,.,,,.‘‘’’,.
 ‘‘’’.
 ,.‘‘,’’.
-Rādhajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .‘‘,’’.
@@ -834,7 +834,7 @@ Rādhajātakavaṇṇanā aṭṭhamā.
 ,,.,.,‘‘’’..,,.
 ‘‘’’‘‘,’’.,.
 ,.‘‘,’’.
-Gahapatijātakavaṇṇanā navamā.
+.
 
 .
 ..,,,,.–‘‘,,,’’.‘‘,’’‘‘,’’.‘‘,’’.
@@ -849,8 +849,8 @@ Gahapatijātakavaṇṇanā navamā.
 ,’’.
 ,‘‘’’...,....
 –.‘‘,’’.
-Sādhusīlajātakavaṇṇanā dasamā.
-Ruhakavaggo pañcamo.
+.
+.
 –
 ,;
 ,;
@@ -871,7 +871,7 @@ Ruhakavaggo pañcamo.
 ,,,..,,,..,.
 .
 ,,,,.‘‘,,,,’’.
-Bandhanāgārajātakavaṇṇanā paṭhamā.
+.
 
 .
 .,.‘‘’’‘‘’’–‘‘,,’’.‘‘,,’’?‘‘,’’.‘‘,,,’’.‘‘,’’?‘‘’’.
@@ -886,7 +886,7 @@ Bandhanāgārajātakavaṇṇanā paṭhamā.
 ,’’.
 ,.‘‘’’,..,,,,.,.,.
 ,,,,.‘‘,,’’.
-Keḷisīlajātakavaṇṇanā dutiyā.
+.
 
 .
 .,..–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,.’’.
@@ -922,7 +922,7 @@ Keḷisīlajātakavaṇṇanā dutiyā.
 .....
 ‘‘’’.,.,...
 –‘‘,’’.
-Khandhajātakavaṇṇanā tatiyā.
+.
 
 .
 .‘‘,’’‘‘,,’’‘‘,,,’’.
@@ -938,7 +938,7 @@ Khandhajātakavaṇṇanā tatiyā.
 ,’’.
 ...,,..
 –‘‘,’’.
-Vīrakajātakavaṇṇanā catutthā.
+.
 
 .
 ..‘‘,’’‘‘’’‘‘,’’.‘‘,’’.‘‘’’..–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -954,7 +954,7 @@ Vīrakajātakavaṇṇanā catutthā.
 ,’’.
 ..
 –‘‘,,’’.
-Gaṅgeyyajātakavaṇṇanā pañcamā.
+.
 
 .
 .‘‘’’‘‘,,,’’.
@@ -971,7 +971,7 @@ Gaṅgeyyajātakavaṇṇanā pañcamā.
 ,;
 ..
 –‘‘,,,’’.
-Kuruṅgamigajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .‘‘,,’’‘‘’’‘‘’’‘‘’’.‘‘,’’.
@@ -988,7 +988,7 @@ Kuruṅgamigajātakavaṇṇanā chaṭṭhā.
 ,.,..,,,,,.,,.
 ..
 ,.‘‘,,,’’.
-Assakajātakavaṇṇanā sattamā.
+.
 
 .
 .‘‘’’‘‘,,,,’’.
@@ -1002,7 +1002,7 @@ Assakajātakavaṇṇanā sattamā.
 ,’’.
 ,....,..
 –‘‘,,’’.
-Susumārajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 ..‘‘’’,‘‘’’,..–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1017,7 +1017,7 @@ Susumārajātakavaṇṇanā aṭṭhamā.
 ,’’.
 ,.
 –‘‘,,’’.
-Kukkuṭajātakavaṇṇanā navamā.
+.
 
 .
 .‘‘’’‘‘,,,’’.
@@ -1034,8 +1034,8 @@ Kukkuṭajātakavaṇṇanā navamā.
 ........
 ‘‘,,’’..
 –‘‘,’’.
-Kandagalakajātakavaṇṇanā dasamā.
-Nataṃdaḷhavaggo chaṭṭho.
+.
+.
 –
 ,;
 ,;
@@ -1062,7 +1062,7 @@ Nataṃdaḷhavaggo chaṭṭho.
 ,’’.
 .
 ‘‘,,,’’–‘‘,,’’.
-Somadattajātakavaṇṇanā paṭhamā.
+.
 
 .
 .‘‘,,’’‘‘’’‘‘’’‘‘’’.‘‘,’’.
@@ -1078,7 +1078,7 @@ Somadattajātakavaṇṇanā paṭhamā.
 ,’’.
 ,,,...,.,.,.
 ,.‘‘,,’’.
-Ucchiṭṭhabhattajātakavaṇṇanā dutiyā.
+.
 
 .
 ..–
@@ -1097,7 +1097,7 @@ Ucchiṭṭhabhattajātakavaṇṇanā dutiyā.
 ,’’.
 ...,...,.
 ‘‘,,’’–‘‘’’,,.
-Bharujātakavaṇṇanā tatiyā.
+.
 
 .
 .–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1112,7 +1112,7 @@ Bharujātakavaṇṇanā tatiyā.
 ,’’.
 ,.,,?‘‘’’.,,.,,,.,,,.
 –‘‘,’’.
-Puṇṇanadījātakavaṇṇanā catutthā.
+.
 
 .
 .(jā. 1.13.104 ādayo)-.‘‘,,,’’.
@@ -1155,7 +1155,7 @@ Puṇṇanadījātakavaṇṇanā catutthā.
 ,’’.
 ..
 ,.‘‘,,’’.
-Seggujātakavaṇṇanā sattamā.
+.
 
 .
 ..–‘‘,’’.‘‘,’’‘‘,,,’’..‘‘’’‘‘,,’’‘‘’’.‘‘,,,’’.
@@ -1170,7 +1170,7 @@ Seggujātakavaṇṇanā sattamā.
 ‘‘’’..,...
 ‘‘’’,,,..,.,,,.‘‘,,’’.‘‘,,’’.,.
 –‘‘,,’’.
-Kūṭavāṇijajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .,.‘‘,,’’‘‘’’‘‘’’‘‘’’.‘‘,,,’’.
@@ -1187,7 +1187,7 @@ Kūṭavāṇijajātakavaṇṇanā aṭṭhamā.
 .‘‘’’.,..,.‘‘,’’,.‘‘’’.
 ‘‘,,’’.‘‘’’..
 ,.‘‘,’’.
-Garahitajātakavaṇṇanā navamā.
+.
 
 .
 .‘‘,,,,’’.
@@ -1242,8 +1242,8 @@ Garahitajātakavaṇṇanā navamā.
 –,,,.
 .‘‘,’’..
 –‘‘,,,’’.
-Dhammadhajajātakavaṇṇanā dasamā.
-Bīraṇathambhavaggo sattamo.
+.
+.
 –
 ,;
 ,;
@@ -1265,7 +1265,7 @@ Bīraṇathambhavaggo sattamo.
 .,.....
 ‘‘,,’’’.
 –‘‘,’’.
-Kāsāvajātakavaṇṇanā paṭhamā.
+.
 
 .
 .–‘‘,,,,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1282,7 +1282,7 @@ Kāsāvajātakavaṇṇanā paṭhamā.
 ,’’.
 ––‘‘,’’,.,.,.,,..
 ‘‘,,,’’–‘‘,,,,’’.
-Cūḷanandiyajātakavaṇṇanā dutiyā.
+.
 
 .
 ...‘‘’’,.‘‘’’.‘‘,,’’‘‘,’’..‘‘’’.
@@ -1299,7 +1299,7 @@ Cūḷanandiyajātakavaṇṇanā dutiyā.
 ,.,..,...‘‘’’,.,.
 ..
 ,.‘‘,’’.
-Puṭabhattajātakavaṇṇanā tatiyā.
+.
 
 .
 .
@@ -1310,7 +1310,7 @@ Puṭabhattajātakavaṇṇanā tatiyā.
 ‘‘,;
 ,’’.
 ,..
-Kumbhilajātakavaṇṇanā catutthā.
+.
 
 .
 ,..‘‘’’.‘‘,,’’.
@@ -1326,7 +1326,7 @@ Kumbhilajātakavaṇṇanā catutthā.
 –,,,,.,.
 ,.
 –‘‘’’..
-Khantivaṇṇajātakavaṇṇanā pañcamā.
+.
 
 .
 ...
@@ -1341,7 +1341,7 @@ Khantivaṇṇajātakavaṇṇanā pañcamā.
 ,,..‘‘’’,.,,.–,,.
 .......–‘‘,’’,,..
 –‘‘,’’.
-Kosiyajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .,..‘‘,,’’..‘‘,’’‘‘,,,’’‘‘,,’’.‘‘’’.
@@ -1359,7 +1359,7 @@ Kosiyajātakavaṇṇanā chaṭṭhā.
 –,.
 ‘‘’’.
 –‘‘,,’’.
-Gūthapāṇajātakavaṇṇanā sattamā.
+.
 
 .
 .(jā. 1.12.37 ādayo).,..‘‘’’,‘‘’’‘‘,,,,’’.‘‘,’’‘‘’’.‘‘,’’.‘‘,,’’.
@@ -1376,7 +1376,7 @@ Gūthapāṇajātakavaṇṇanā sattamā.
 ..,.?,,.
 –‘‘,,,,,,,.,’’.....
 –‘‘,’’.
-Kāmanītajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 .‘‘’’.‘‘,.’’.‘‘’’‘‘’’‘‘’’‘‘’’‘‘’’‘‘,’’‘‘’’‘‘’’.‘‘’’.‘‘,’’.
@@ -1391,7 +1391,7 @@ Kāmanītajātakavaṇṇanā aṭṭhamā.
 .,..,.
 ‘‘’’‘‘’’‘‘,’’‘‘’’‘‘’’.
 –‘‘,’’.
-Palāyitajātakavaṇṇanā navamā.
+.
 
 .
 ...‘‘’’..‘‘,’’.
@@ -1407,8 +1407,8 @@ Palāyitajātakavaṇṇanā navamā.
 .,.‘‘’’,.,.,...,,.
 .
 –‘‘,’’.
-Dutiyapalāyitajātakavaṇṇanā dasamā.
-Kāsāvavaggo aṭṭhamo.
+.
+.
 –
 ,;
 ,;
@@ -1429,7 +1429,7 @@ Kāsāvavaggo aṭṭhamo.
 ..,..
 ..‘‘’’,,.,.....,..‘‘’’...,.,.,‘‘’’,..
 –‘‘,’’.
-Upāhanajātakavaṇṇanā paṭhamā.
+.
 
 .
 .–‘‘,’’.‘‘,’’.–‘‘,,,’’.‘‘,’’..–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1445,7 +1445,7 @@ Upāhanajātakavaṇṇanā paṭhamā.
 –,,‘‘,,’’.,.
 .
 –‘‘,’’.
-Vīṇāthūṇajātakavaṇṇanā dutiyā.
+.
 
 .
 .‘‘,,’’‘‘’’‘‘’’‘‘’’.‘‘,’’.
@@ -1461,7 +1461,7 @@ Vīṇāthūṇajātakavaṇṇanā dutiyā.
 ,’’.
 .,‘‘’’.,.
 ,.‘‘,,’’.
-Vikaṇṇakajātakavaṇṇanā tatiyā.
+.
 
 .
 .,...‘‘,,’’..–‘‘,,,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1477,7 +1477,7 @@ Vikaṇṇakajātakavaṇṇanā tatiyā.
 ,..–,.
 .
 –‘‘,’’.
-Asitābhūjātakavaṇṇanā catutthā.
+.
 
 .
 ..,.‘‘,,,’’.‘‘,,’’‘‘,’’‘‘’’‘‘,,’’.‘‘,,,’’.
@@ -1510,7 +1510,7 @@ Asitābhūjātakavaṇṇanā catutthā.
 ,’’.
 .,‘‘’’...
 –‘‘,’’.
-Bakajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .(jā. aṭṭha. 1.1.sāketajātakavaṇṇanā).‘‘,,’’–
@@ -1524,7 +1524,7 @@ Bakajātakavaṇṇanā chaṭṭhā.
 ,’’.
 –,,,.,.?.-.,,.
 –‘‘,’’.
-Sāketajātakavaṇṇanā sattamā.
+.
 
 .
 ,.,.‘‘,’’‘‘,,,,,’’.‘‘,,,,,’’.
@@ -1541,7 +1541,7 @@ Sāketajātakavaṇṇanā sattamā.
 ...?.‘‘’’.–.,.
 ..
 ,.‘‘,’’.
-Ekapadajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 ....‘‘’’.,.,.,.‘‘,,’’.‘‘,,’’‘‘’’‘‘,,,,’’.
@@ -1556,7 +1556,7 @@ Ekapadajātakavaṇṇanā aṭṭhamā.
 ,’’.
 ,,.‘‘’’,...‘‘’’,.‘‘’’,.‘‘’’‘‘’’.
 –‘‘,’’.
-Haritamaṇḍūkajātakavaṇṇanā navamā.
+.
 
 .
 .‘‘,’’..–‘‘,‘’’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1576,8 +1576,8 @@ Haritamaṇḍūkajātakavaṇṇanā navamā.
 ,’’.
 ..
 –‘‘,’’.
-Mahāpiṅgalajātakavaṇṇanā dasamā.
-Upāhanavaggo navamo.
+.
+.
 –
 ,;
 ,;
@@ -1599,7 +1599,7 @@ Upāhanavaggo navamo.
 ,’’.
 .....,,.
 ‘‘,,’’.
-Sabbadāṭhajātakavaṇṇanā paṭhamā.
+.
 
 .
 ....,.‘‘’’,.–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1614,7 +1614,7 @@ Sabbadāṭhajātakavaṇṇanā paṭhamā.
 ,’’.
 ,,...,.‘‘’’,..
 –‘‘,’’.
-Sunakhajātakavaṇṇanā dutiyā.
+.
 
 .
 .–‘‘,,,,’’.‘‘,,,,’’.‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’.
@@ -1659,7 +1659,7 @@ Sunakhajātakavaṇṇanā dutiyā.
 ,’’.(vi. va. 617-618);
 ...
 –‘‘,,,’’.
-Guttilajātakavaṇṇanā tatiyā.
+.
 
 .
 .‘‘’’‘‘’’.‘‘’’,.‘‘,,’’.‘‘,,,’’.
@@ -1672,7 +1672,7 @@ Guttilajātakavaṇṇanā tatiyā.
 ,’’.
 ,.,.–.,.,.,.,‘‘’’..,.
 –‘‘,’’.
-Vigaticchajātakavaṇṇanā catutthā.
+.
 
 .
 .‘‘,,’’,.
@@ -1688,7 +1688,7 @@ Vigaticchajātakavaṇṇanā catutthā.
 ,’’.
 –,,,,..,.‘‘,’’.–‘‘’’.
 –‘‘,’’.
-Mūlapariyāyajātakavaṇṇanā pañcamā.
+.
 
 .
 ..‘‘’’.–‘‘,‘’’’.‘‘,,,’’.
@@ -1703,7 +1703,7 @@ Mūlapariyāyajātakavaṇṇanā pañcamā.
 ,’’.
 ,..
 –‘‘,’’.
-Bālovādajātakavaṇṇanā chaṭṭhā.
+.
 
 .
 .,.‘‘’’.,.–‘‘,’’.‘‘,,,’’.
@@ -1718,7 +1718,7 @@ Bālovādajātakavaṇṇanā chaṭṭhā.
 ,’’.
 .
 –‘‘,’’.
-Pādañjalijātakavaṇṇanā sattamā.
+.
 
 .
 .,..,,,..–‘‘,,’’..‘‘,,’’‘‘,,’’.
@@ -1733,7 +1733,7 @@ Pādañjalijātakavaṇṇanā sattamā.
 ,’’.
 –,,,.
 –‘‘’’.
-Kiṃsukopamajātakavaṇṇanā aṭṭhamā.
+.
 
 .
 ...‘‘,,,’’.‘‘’’..‘‘,,’’.–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,,’’.
@@ -1748,7 +1748,7 @@ Kiṃsukopamajātakavaṇṇanā aṭṭhamā.
 ,’’.
 ‘‘’’,‘‘’’.,,.‘‘,’’..
 –‘‘,,’’.
-Sālakajātakavaṇṇanā navamā.
+.
 
 .
 ..–‘‘,’’.‘‘,,’’‘‘’’‘‘,,,,’’.
@@ -1764,8 +1764,8 @@ Sālakajātakavaṇṇanā navamā.
 .,,.,.
 .,.,..
 ‘‘,,,’’.,,.‘‘,,’’.
-Kapijātakavaṇṇanā dasamā.
-Siṅgālavaggo dasamo.
+.
+.
 –
 ,;
 ,;
@@ -1774,4 +1774,4 @@ Siṅgālavaggo dasamo.
 ,;
 ,;
 ,.
-Dukanipātavaṇṇanā niṭṭhitā.
+.

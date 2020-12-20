@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Dīghanikāye
 Mahāvaggaṭṭhakathā
 1. Mahāpadānasuttavaṇṇanā
@@ -23,7 +23,7 @@ Pubbenivāsapaṭisaṃyuttakathā
 ,,,,,;,,,,,,,,,..,,,,,,,;,,,,,.,,..,..
 ,.,,,.,,,,,,..
 ,,,.?,.;.;.,..,.
-Āyuparicchedavaṇṇanā niṭṭhitā.
+.
 Bodhiparicchedavaṇṇanā
 8..,.,.,.,,,,,.......
 ‘‘,,’’....,.,,,.,,.
@@ -167,7 +167,7 @@ Vipassīsamaññāvaṇṇanā
 42.,..,..
 ,,,.,,...,,...,.
 .,,,.–‘‘,’’.
-Paṭhamabhāṇavāravaṇṇanā niṭṭhitā.
+.
 Jiṇṇapurisavaṇṇanā
 43..,,....,,,.–‘‘,’’...‘‘,,’’.
 ,.–‘‘’’,..,,,,.
@@ -215,7 +215,7 @@ Bodhisattaabhivesavaṇṇanā
 ,;
 ,’’.(udā. 80);
 ,.
-Dutiyabhāṇavāravaṇṇanā niṭṭhitā.
+.
 Brahmayācanakathāvaṇṇanā
 64..?.,,,,,,..
 ...,.,....,...,.,....,,,,,.–‘‘’’.
@@ -277,5 +277,5 @@ Devatārocanavaṇṇanā
 ...,,.
 ,...,.,.
 ..,........,...
-Iti sumaṅgalavilāsiniyā dīghanikāyaṭṭhakathāyaṃ
-Mahāpadānasuttavaṇṇanā niṭṭhitā.
+
+.

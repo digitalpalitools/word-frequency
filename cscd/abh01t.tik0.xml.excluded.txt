@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Dhammasaṅgaṇī-mūlaṭīkā
 Vīsatigāthāvaṇṇanā
@@ -29,7 +29,7 @@ Vīsatigāthāvaṇṇanā
 14-16........,..,‘‘’’..
 17.‘‘’’.,.,.
 18-20.,‘‘’’..‘‘’’....‘‘’’.
-Vīsatigāthāvaṇṇanā niṭṭhitā.
+.
 Nidānakathāvaṇṇanā
 .–
 ‘‘,;
@@ -81,7 +81,7 @@ Sumedhakathāvaṇṇanā
 ......--,-..,.
 ‘‘’’..........,..,.,.
 ,..,..,..,...,,,,......
-Sumedhakathāvaṇṇanā niṭṭhitā.
+.
 .......
 ........,‘‘’’,,,.,.........
-Nidānakathāvaṇṇanā niṭṭhitā.
+.

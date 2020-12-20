@@ -64,7 +64,7 @@ padumuppalasañchannā vārikiñjakkhapūritā
 
  sāhaṃ  ramāmi kīḷāmi modāmi akutobhayā
 muniṃ kāruṇikaṃ loke bhante vanditumāgatāti
-
+saṃsāramocakapetivatthu paṭhamaṃ
 
 
  naggā  dubbaṇṇarūpāsi kisā dhamanisanthatā
@@ -120,7 +120,7 @@ aleṇā anagārā ca nīlamañcaparāyaṇā
 
  sāriputtassa  dānena modāmi akutobhayā
 muniṃ kāruṇikaṃ loke bhante vanditumāgatāti
-
+sāriputtattherassa mātupetivatthu dutiyaṃ
 
 
  naggā dubbaṇṇarūpāsi kisā dhamanisanthatā
@@ -228,7 +228,7 @@ asokaṃ virajaṃ ṭhānaṃ āvāsaṃ vasavattinaṃ
 
  idha  dhammaṃ caritvāna dānaṃ datvāna sobhane
 vineyya maccheramalaṃ samūlaṃ aninditā saggamupehi ṭhānanti
-
+mattāpetivatthu tatiyaṃ
 
 
  kāḷī  dubbaṇṇarūpāsi pharusā bhīrudassanā
@@ -286,7 +286,7 @@ asokaṃ virajaṃ khemaṃ āvāsaṃ vasavattinaṃ
 
  idha dhammaṃ caritvāna dānaṃ datvā gahapati
 vineyya maccheramalaṃ samūlaṃ anindito saggamupehi ṭhānanti
-
+nandāpetivatthu catutthaṃ
 
 
  alaṅkato  maṭṭhakuṇḍalī māladhārī haricandanussado
@@ -351,7 +351,7 @@ saṅghañca naradevassa gacchāmi saraṇaṃ ahaṃ
 
  pāṇātipātā  viramāmi khippaṃ loke adinnaṃ parivajjayāmi
 amajjapo no ca musā bhaṇāmi sakena dārena ca homi tuṭṭhoti
-
+maṭṭhakuṇḍalīpetavatthu pañcamaṃ
 
 
  uṭṭhehi  kaṇha kiṃ sesi ko attho supanena te
@@ -414,7 +414,7 @@ nivattayanti sokamhā ghaṭo jeṭṭhaṃva bhātaraṃ
 
  yassa etādisā honti amaccā paricārakā
 subhāsitena anventi ghaṭo jeṭṭhaṃva bhātaranti
-
+kaṇhapetavatthu chaṭṭhaṃ
 
 
  naggo  dubbaṇṇarūposi kiso dhamanisanthato
@@ -475,7 +475,7 @@ na vo dukkhā pamutyatthi  uppaccāpi  palāyataṃ
 
  matteyyā hotha petteyyā kule jeṭṭhāpacāyikā
 sāmaññā hotha brahmaññā evaṃ saggaṃ gamissathāti
-
+dhanapālaseṭṭhipetavatthu sattamaṃ
 
 
  naggo  kiso pabbajitosi bhante rattiṃ kuhiṃ gacchasi kissa hetu
@@ -514,8 +514,8 @@ yakkhohamasmi paramiddhipatto na mayhamatthi samā sadisā  mānusā
 
  passānubhāvaṃ aparimitaṃ mamayidaṃ tayānudiṭṭhaṃ  atulaṃ datvā saṅghe
 santappito satataṃ sadā bahūhi yāmi ahaṃ sukhito manussadevāti
-
-
+cūḷaseṭṭhipetavatthu aṭṭhamaṃ niṭṭhitaṃ
+bhāṇavāraṃ paṭhamaṃ niṭṭhitaṃ
 
 
  yassa  atthāya gacchāma kambojaṃ dhanahārakā
@@ -742,7 +742,7 @@ viceyya dānaṃ datvāna saggaṃ gacchanti dāyakā
 
  viceyya  dānaṃ sugatappasatthaṃ ye dakkhiṇeyyā idha jīvaloke
 etesu dinnāni mahapphalāni bījāni vuttāni yathā sukhetteti
-
+aṅkurapetavatthu navamaṃ
 
 
  divāvihāragataṃ  bhikkhuṃ gaṅgātīre nisinnakaṃ
@@ -775,7 +775,7 @@ cīvaraṃ piṇḍapātañca paccayaṃ sayanāsanaṃ
 
  etaṃ  te paralokasmiṃ lohitaṃ hotu uttara
 tassa kammassa vipākena gaṅgā me hoti lohitanti
-
+uttaramātupetivatthu dasamaṃ
 
 
  ahaṃ  pure pabbajitassa bhikkhuno suttaṃ adāsiṃ upasaṅkamma yācitā
@@ -800,7 +800,7 @@ vajjesi aññampi janaṃ idhāgataṃ karotha puññāni sukhūpalabbhati
 
  diṭṭhā  mayā akatena sādhunā petā vihaññanti tatheva manussā
 kammañca katvā sukhavedanīyaṃ devā manussā ca sukhe ṭhitā pajāti
-
+suttapetavatthu ekādasamaṃ
 
 
  soṇṇasopānaphalakā  soṇṇavālukasanthatā
@@ -865,7 +865,7 @@ bhuñja amānuse kāme rama deva mayā sahāti
 
  bhuttā  amānusā kāmā ramitomhi tayā saha
 tāhaṃ subhage yācāmi khippaṃ paṭinayāhi manti
-
+kaṇṇamuṇḍapetivatthu dvādasamaṃ
 
 
  ahu  rājā brahmadatto pañcālānaṃ rathesabho
@@ -926,8 +926,8 @@ uruvelā nāma so gāmo yattha kālamakrubbatha
 
  mettācittaṃ  ābhāvetvā brahmalokūpapattiyā
 itthicittaṃ virājetvā brahmalokūpagā ahūti
-
-
+ubbaripetavatthu terasamaṃ
+ubbarivaggo dutiyo niṭṭhito
 tassuddānaṃ 
 mocakaṃ  mātā mattā  ca nandā kuṇḍalīnā ghaṭo
 dve seṭṭhī tunnavāyo ca uttara  suttakaṇṇa  ubbarīti

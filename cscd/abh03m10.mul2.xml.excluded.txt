@@ -89,7 +89,7 @@ Paccanīyuddhāro
 (saṃkhittaṃ).
 (saṃkhittaṃ).
 ,.
-Sahetukadukakusalattikaṃ niṭṭhitaṃ.
+.
 3-1. Hetusampayuttaduka-kusalattikaṃ
 1. Kusalapadaṃ
 1-6. Paṭiccavārādi
@@ -173,7 +173,7 @@ Paccanīyuddhāro
 (saṃkhittaṃ).
 (saṃkhittaṃ).
 (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-Hetusampayuttadukakusalattikaṃ niṭṭhitaṃ.
+.
 4-1. Hetusahetukaduka-kusalattikaṃ
 1. Kusalapadaṃ
 1-6. Paṭiccavārādi
@@ -246,7 +246,7 @@ Paccanīyuddhāro
 (saṃkhittaṃ).
 (saṃkhittaṃ).
 (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-Hetusahetukadukakusalattikaṃ niṭṭhitaṃ.
+.
 5-1. Hetuhetusampayuttaduka-kusalattikaṃ
 1. Kusalapadaṃ
 1-6. Paṭiccavārādi
@@ -317,7 +317,7 @@ Paccanīyuddhāro
 (saṃkhittaṃ).
 (saṃkhittaṃ).
 (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-Hetuhetusampayuttadukakusalattikaṃ niṭṭhitaṃ.
+.
 6-1. Nahetusahetukaduka-kusalattikaṃ
 1-2. Kusalākusalapadaṃ
 1-7. Paṭiccavārādi
@@ -354,5 +354,5 @@ Paccanīyuddhāro
 (saṃkhittaṃ).
 (saṃkhittaṃ).
 (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
-Nahetusahetukadukakusalattikaṃ niṭṭhitaṃ.
-Hetugocchakaṃ niṭṭhitaṃ.
+.
+.

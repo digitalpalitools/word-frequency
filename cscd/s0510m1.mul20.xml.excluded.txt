@@ -13,7 +13,7 @@
 ‘‘,;
 ,’’.
 .
-Kaṇikārapupphiyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Minelapupphiyattheraapadānaṃ
 5.
 ‘‘,;
@@ -30,7 +30,7 @@ Kaṇikārapupphiyattherassāpadānaṃ paṭhamaṃ.
 9.
 ‘‘…pe…’’.
 .
-Minelapupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Kiṅkaṇipupphiyattheraapadānaṃ
 10.
 ‘‘,;
@@ -47,7 +47,7 @@ Minelapupphiyattherassāpadānaṃ dutiyaṃ.
 14.
 ‘‘…pe…’’.
 kiṅkiṇikapupphiyo (sī.).
-Kiṅkaṇipupphiyattherassāpadānaṃ tatiyaṃ.
+.
 4. Taraṇiyattheraapadānaṃ
 15.
 ‘‘,;
@@ -67,7 +67,7 @@ Kiṅkaṇipupphiyattherassāpadānaṃ tatiyaṃ.
 20.
 ‘‘…pe…’’.
 ;
-Taraṇiyattherassāpadānaṃ catutthaṃ.
+.
 5. Nigguṇḍipupphiyattheraapadānaṃ
 21.
 ‘‘,;
@@ -81,7 +81,7 @@ Taraṇiyattherassāpadānaṃ catutthaṃ.
 24.
 ‘‘…pe…’’.
 .
-Nigguṇḍipupphiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Udakadāyakattheraapadānaṃ
 25.
 ‘‘,;
@@ -98,7 +98,7 @@ Nigguṇḍipupphiyattherassāpadānaṃ pañcamaṃ.
 29.
 ‘‘…pe…’’.
 .
-Udakadāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Salalamāliyattheraapadānaṃ
 30.
 ‘‘,;
@@ -115,7 +115,7 @@ Udakadāyakattherassāpadānaṃ chaṭṭhaṃ.
 34.
 ‘‘…pe…’’.
 .
-Salalamāliyattherassāpadānaṃ sattamaṃ.
+.
 8. Koraṇḍapupphiyattheraapadānaṃ
 35.
 ‘‘,;
@@ -132,7 +132,7 @@ Salalamāliyattherassāpadānaṃ sattamaṃ.
 39.
 ‘‘…pe…’’.
 .
-Koraṇḍapupphiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Ādhāradāyakattheraapadānaṃ
 40.
 ‘‘,;
@@ -146,7 +146,7 @@ Koraṇḍapupphiyattherassāpadānaṃ aṭṭhamaṃ.
 43.
 ‘‘…pe…’’.
 pariyādāniyo (ka.).
-Ādhāradāyakattherassāpadānaṃ navamaṃ.
+.
 10. Pāpanivāriyattheraapadānaṃ
 44.
 ‘‘,;
@@ -166,8 +166,8 @@ pariyādāniyo (ka.).
 49.
 ‘‘…pe…’’.
 vātātapanivāriyo (sī.);
-Pāpanivāriyattherassāpadānaṃ dasamaṃ.
-Kaṇikārapupphiyavaggo ekavīsatimo.
+.
+.
 –
 ,;
 ,;

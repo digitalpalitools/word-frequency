@@ -22,7 +22,7 @@
 145.‘‘,,.?.,,?.,,?.,,?.,,?.,,?.,,?.,,?.
 ‘‘,,,,,,.,.‘,,,’’’.
 ..
-Cūḷasīhanādasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Mahāsīhanādasuttaṃ
 146.–..parisatiṃ (sī. pī.)etaṃ (pī. ka.)–‘‘uttariṃ (pī.)..’’.
 .–‘‘..’’.
@@ -87,7 +87,7 @@ Cūḷasīhanādasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 161.‘‘,,–‘.,,,’.,,.,,,.,,,.,,daḷhadhammo (bahūsu) ṭīkā ca moggallānabyākaraṇaṃ ca oloketabbaṃ,.,,,.,,,,,..,,,.yaṃ kho panetaṃ (sī.),,–‘’,‘’’’.
 162..–‘‘,,,!,,.,,’’?‘‘,,’’.
 ..
-Mahāsīhanādasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Mahādukkhakkhandhasuttaṃ
 163.–..–‘‘,’’.;;.–‘‘,,,;,,,;,,,;,,,,–,’’?,;–‘‘’’.
 164.;.–‘‘,,.,,–‘,’.,,;;.,,–‘,,,.,,,.,,,.,,,,,’.,,,;–‘’’’.
@@ -118,7 +118,7 @@ Mahāsīhanādasuttaṃ niṭṭhitaṃ dutiyaṃ.
 ‘‘,,?,,,–.
 ‘‘,,,,–.,,,–’’.
 ..
-Mahādukkhakkhandhasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Cūḷadukkhakkhandhasuttaṃ
 175.–.;.–‘‘,,–‘,,’.evaṃpāhaṃ (ka.),,–‘,,’.,,.,,–‘,,’’’.
 176.‘‘,,,,.,,,,.,,,.
@@ -141,7 +141,7 @@ Mahādukkhakkhandhasuttaṃ niṭṭhitaṃ tatiyaṃ.
 ‘‘‘,,,,…pe……………’?‘,’.
 ‘‘‘,,,,.,,,,…………….,’?‘’’’.
 ..
-Cūḷadukkhakkhandhasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Anumānasuttaṃ
 181.–suṃsumāragire (sī. syā. pī.).–‘‘,’’.‘‘’’.–
 ‘‘,,–‘,’,,,,,,.
@@ -213,7 +213,7 @@ Cūḷadukkhakkhandhasuttaṃ niṭṭhitaṃ catutthaṃ.
 ‘‘,,,,.,,,,.
 ‘‘,,,,,,,,;,–‘,’.,,,,.,,,,’’.
 ..
-Anumānasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Cetokhilasuttaṃ
 185.–.–‘‘’’.‘‘’’.–
 ‘‘,,,cetasovinibaddhā (sī.), cetovinibaddhā (sāratthadīpanīṭīkā),–.
@@ -240,7 +240,7 @@ Anumānasuttaṃ niṭṭhitaṃ pañcamaṃ.
 ‘‘,,,,–.
 189.‘‘,,,,.,,,,.,,..–‘’..,,,,’’.
 ..
-Cetokhilasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Vanapatthasuttaṃ
 190.–.–‘‘’’.‘‘’’.–‘‘,,,,,’’.‘‘,’’.–
 191.‘‘,,.,,,.––.,,–‘,,,,.––’.,,,.
@@ -252,7 +252,7 @@ Cetokhilasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 197.‘‘,,.,,,.––.,,–‘.,,,.––.,…pe……pe….,,,’.,,,.
 198.‘‘,,.,,,.––.,,–‘.,,,.––’.,,,,’’api paṇujjamānenāti (?).
 ..
-Vanapatthasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Madhupiṇḍikasuttaṃ
 199.–....jaṅghavihāraṃ (ka.).;..–‘‘’’?‘‘,,,–,,’’.
 ‘‘,,.
@@ -270,7 +270,7 @@ Vanapatthasuttaṃ niṭṭhitaṃ sattamaṃ.
 205.;.–‘‘,,–‘,,..…pe…’.,,–‘,,–‘‘,,..,,,,,,,------.’’.’?,,–‘,,;’.,,;.,,’’.‘‘,,;,,.,,,..evemeva ca (ka.)’’.
 –‘‘,,,,.,,,,,.ko nāmāyaṃ (syā.),,’’?‘‘,,’’.
 ..
-Madhupiṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Dvedhāvitakkasuttaṃ
 206.–.–‘‘’’.‘‘’’.–
 ‘‘,,–‘’.,,–;–.
@@ -288,7 +288,7 @@ Madhupiṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,,.–,,.,,.,,.,,,–.,,.,,.,,.,,,–.
 ‘‘,,,,,.,,,.,,,;,,;.’’.
 ..
-Dvedhāvitakkasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Vitakkasaṇṭhānasuttaṃ
 216.–.–‘‘’’.‘‘’’.–
 ‘‘,,.?,,,,,..ekodibhoti (syā. ka.).,,abhinivajjeyya (sī. pī.);,,,,,...
@@ -298,8 +298,8 @@ Dvedhāvitakkasuttaṃ niṭṭhitaṃ navamaṃ.
 220.‘‘,,.,,dante + abhidantaṃ + ādhāyāti ṭīkāyaṃ padacchedo, dantebhīti panettha karaṇattho yutto viya dissati...,,;,,.,,...
 221.‘‘yato ca kho (syā. ka.),,,..........,,.,.,vāvattayi (sī. pī.),’’.
 ..
-Vitakkasaṇṭhānasuttaṃ niṭṭhitaṃ dasamaṃ.
-Sīhanādavaggo niṭṭhito dutiyo.
+.
+.
 –
 ,;
 ,.

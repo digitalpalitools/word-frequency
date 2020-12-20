@@ -27,7 +27,7 @@
 (25)
 (26)
 (27),
-Evaṃ ekavidhena ñāṇavatthu.
+.
 2. Dukamātikā
 752.–
 (1),
@@ -65,7 +65,7 @@ Evaṃ ekavidhena ñāṇavatthu.
 (33),
 (34),
 (35),
-Evaṃ duvidhena ñāṇavatthu.
+.
 3. Tikamātikā
 753.–
 (1),,
@@ -143,7 +143,7 @@ Evaṃ duvidhena ñāṇavatthu.
 (73),,
 (74),,
 (75),,
-Evaṃ tividhena ñāṇavatthu.
+.
 4. Catukkamātikā
 754.–
 (1),,,
@@ -190,7 +190,7 @@ Evaṃ tividhena ñāṇavatthu.
 (8).,,,,.
 (9).,,,,.
 (10).,,,,.,,,.
-Evaṃ dasavidhena ñāṇavatthu.
+.
 Mātikā
 1. Ekakaniddeso
 761.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
@@ -221,8 +221,8 @@ Mātikā
 .
 .
 ..
-Evaṃ ekavidhena ñāṇavatthu.
-Ekakaṃ.
+.
+.
 2. Dukaniddeso
 767.(1),.
 (2),.
@@ -260,8 +260,8 @@ Ekakaṃ.
 (34),.
 (35)?
 ,.
-Evaṃ duvidhena ñāṇavatthu.
-Dukaṃ.
+.
+.
 3. Tikaniddeso
 768.(1. Ka)?
 …pe………,–‘‘’’.
@@ -312,8 +312,8 @@ Dukaṃ.
 790.(18. Ka)?…pe…–‘‘’’.
 791.(Kha)?…pe…–‘‘’’.
 792.(Ga)?…pe…–‘‘’’.
-Evaṃ tividhena ñāṇavatthu.
-Tikaṃ.
+.
+.
 4. Catukkaniddeso
 793.(1. Ka)?‘‘,,,,,,,,,’’–…pe…–‘‘’’.,.
 (Kha)?‘‘’’…pe………‘‘’’–‘‘’’.
@@ -356,23 +356,23 @@ Tikaṃ.
 803.(12-21)…pe……pe……pe……pe……pe……pe……pe……pe……pe…,,,.
 ?…pe…–‘‘’’.
 …pe……pe……pe…–‘‘..
-Catukkaṃ.
+.
 5. Pañcakaniddeso
 804.(1)?,,,,.......
 (2)?‘‘’’.‘‘’’.‘‘’’.‘‘’’.’’...
-Pañcakaṃ.
+.
 6. Chakkaniddeso
 805.?,,,,,–..
-Chakkaṃ.
+.
 7. Sattakaniddeso
 806.?,,,,,.;…pe……pe……pe……pe……pe……pe……pe……pe……pe…,,,,,....
-Sattakaṃ.
+.
 8. Aṭṭhakaniddeso
 807.?,,,,,,,–..
-Aṭṭhakaṃ.
+.
 9. Navakaniddeso
 808.?,,,,,,,,–..
-Navakaṃ.
+.
 10. Dasakaniddeso
 809.(1)?‘‘,’’.‘‘,’’.‘‘,’’.‘‘,’’.‘‘,’’.‘‘,’’.‘‘,’’.‘‘,’’.
 …pe……pe……pe……pe……pe…,’’.‘‘,’’.
@@ -425,5 +425,5 @@ Navakaṃ.
 829.(8)?,–‘‘,;,’’..…pe…–.
 830.(9)?–‘‘...’’..…pe…–.
 831.(10)?.…pe…–.
-Dasakaṃ.
-Ñāṇavibhaṅgo niṭṭhito.
+.
+.

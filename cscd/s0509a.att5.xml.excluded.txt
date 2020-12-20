@@ -29,7 +29,7 @@
 .,...,..
 ..
 ‘‘’’.
-Pañcasatamattātherīgāthāvaṇṇanā niṭṭhitā.
+.
 2. Vāseṭṭhītherīgāthāvaṇṇanā
 .....–
 133.
@@ -56,7 +56,7 @@ Pañcasatamattātherīgāthāvaṇṇanā niṭṭhitā.
 .
 ..
 ,..,..
-Vāseṭṭhītherīgāthāvaṇṇanā niṭṭhitā.
+.
 3. Khemātherīgāthāvaṇṇanā
 ..‘‘’’,,,.
 ,,..,..‘‘’’.
@@ -271,7 +271,7 @@ Vāseṭṭhītherīgāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.–;
 ...
-Khemātherīgāthāvaṇṇanā niṭṭhitā.
+.
 4. Sujātātherīgāthāvaṇṇanā
 ....,.–
 145.
@@ -298,7 +298,7 @@ Khemātherīgāthāvaṇṇanā niṭṭhitā.
 .
 .
 ,..
-Sujātātherīgāthāvaṇṇanā niṭṭhitā.
+.
 5. Anopamātherīgāthāvaṇṇanā
 ...–‘‘,’’.‘‘’’.–
 151.
@@ -323,7 +323,7 @@ Sujātātherīgāthāvaṇṇanā niṭṭhitā.
 ...,..
 ‘‘’’..‘‘’’.
 ‘‘’’,‘‘’’..
-Anopamātherīgāthāvaṇṇanā niṭṭhitā.
+.
 6. Mahāpajāpatigotamītherīgāthāvaṇṇanā
 .,,.,,,,.,.....
 .,..,;.‘‘’’..
@@ -737,7 +737,7 @@ Anopamātherīgāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘,;
 ,’’.(apa. therī 2.2.97-288);
-Mahāpajāpatigotamītherīgāthāvaṇṇanā niṭṭhitā.
+.
 7. Guttātherīgāthāvaṇṇanā
 .,,..,.,–
 163.
@@ -764,7 +764,7 @@ Mahāpajāpatigotamītherīgāthāvaṇṇanā niṭṭhitā.
 ......
 ....
 ..
-Guttātherīgāthāvaṇṇanā niṭṭhitā.
+.
 8. Vijayātherīgāthāvaṇṇanā
 .,,.‘‘’’.,...,–
 169.
@@ -789,5 +789,5 @@ Guttātherīgāthāvaṇṇanā niṭṭhitā.
 .
 ..
 ....?,..
-Vijayātherīgāthāvaṇṇanā niṭṭhitā.
-Chakkanipātavaṇṇanā niṭṭhitā.
+.
+.

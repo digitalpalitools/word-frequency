@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāye
 Nidānavagga-aṭṭhakathā
 1. Nidānasaṃyuttaṃ
@@ -39,7 +39,7 @@ Nidānavagga-aṭṭhakathā
 ..,.–
 ‘‘,;
 ,’’.
-Paṭhamapaṭiccasamuppādasuttavaṇṇanā niṭṭhitā.
+.
 2. Vibhaṅgasuttavaṇṇanā
 2..–,.,.,,.
 –.,..,‘‘’’.....,.,.,......,,,..
@@ -67,7 +67,7 @@ Paṭhamapaṭiccasamuppādasuttavaṇṇanā niṭṭhitā.
 ...,,,.,.,.
 ‘‘’’.‘‘’’.‘‘’’.‘‘’’.
 ,,...,...
-Vibhaṅgasuttaṃ dutiyaṃ.
+.
 3. Paṭipadāsuttavaṇṇanā
 3..,..,,.,,,.,,,.‘‘’’,.,.,,.,,.,?..‘‘’’,,,.,.,....
 4. Vipassīsuttavaṇṇanā
@@ -78,7 +78,7 @@ Vibhaṅgasuttaṃ dutiyaṃ.
 ..‘‘’’.,..,,,,....
 5-10. Sikhīsuttādivaṇṇanā
 5-10.,‘‘,’’.?.,.–‘‘’’.,..
-Buddhavaggo paṭhamo.
+.
 2. Āhāravaggo
 1. Āhārasuttavaṇṇanā
 11..,...,,.,.,,,.,,,....,.
@@ -149,7 +149,7 @@ Buddhavaggo paṭhamo.
 ..‘‘’’.,.‘‘,’’.‘‘’’.‘‘‘’’’.‘‘…pe…’’.....
 ...?.–,,,‘‘’’...–.,..
 ..,‘‘’’.?.,‘‘’’...‘‘’’?...,..
-Āhāravaggo dutiyo.
+.
 3. Dasabalavaggo
 1. Dasabalasuttavaṇṇanā
 21..
@@ -213,7 +213,7 @@ Buddhavaggo paṭhamo.
 9. Samaṇabrāhmaṇasuttavaṇṇanā
 29-30....
 ...
-Dasabalavaggo tatiyo.
+.
 4. Kaḷārakhattiyavaggo
 1. Bhūtasuttavaṇṇanā
 31......,,...,,.
@@ -259,7 +259,7 @@ Dasabalavaggo tatiyo.
 39.,,..
 10. Tatiyacetanāsuttavaṇṇanā
 40..‘‘’’.,.,...
-Kaḷārakhattiyavaggo catuttho.
+.
 5. Gahapativaggo
 1. Pañcaverabhayasuttavaṇṇanā
 41...,(sotāpattiyā ca aṅgaṃ,),‘‘’’(dī. ni. 3.311),,,....–‘‘,’’...
@@ -284,7 +284,7 @@ Kaḷārakhattiyavaggo catuttho.
 49....
 10. Dutiyaariyasāvakasuttavaṇṇanā
 50..,..
-Gahapativaggo pañcamo.
+.
 6. Dukkhavaggo
 1. Parivīmaṃsanasuttavaṇṇanā
 51..‘‘’’?.,.‘‘’’.
@@ -351,7 +351,7 @@ Gahapativaggo pañcamo.
 ‘‘,;
 ,’’.
 ,,....
-Dukkhavaggo chaṭṭho.
+.
 7. Mahāvaggo
 1. Assutavāsuttavaṇṇanā
 61...–‘‘’’.,,.‘‘’’–
@@ -463,13 +463,13 @@ Dukkhavaggo chaṭṭho.
 ..,,,.,,?–‘‘,’’.,.,..
 ?.–,,,,,,,,,,.
 ,??.,,.,?.–,...
-Mahāvaggo sattamo.
+.
 8. Samaṇabrāhmaṇavaggo
 1. Jarāmaraṇasuttādivaṇṇanā
 71-72.,.
-Samaṇabrāhmaṇavaggo aṭṭhamo.
+.
 9. Antarapeyyālaṃ
 1. Satthusuttādivaṇṇanā
 73.‘‘’’..,,,............
-Antarapeyyālo navamo.
-Nidānasaṃyuttavaṇṇanā niṭṭhitā.
+.
+.

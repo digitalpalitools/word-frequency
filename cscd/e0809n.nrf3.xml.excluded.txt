@@ -89,7 +89,7 @@ saṃsumāra (ṭīkā),.
 226.
 ,
 .
-Puravaggo niṭṭhito.
+.
 3. Naravagga
 227.
 ,;
@@ -423,7 +423,7 @@ pīnāsotipi pāṭho,
 331.
 ,
 ,
-Naravaggo niṭṭhito.
+.
 4. Catubbaṇṇavagga
 
 332.
@@ -674,7 +674,7 @@ niyuddhaṃ (ka.),;
 407.
 ,’;
 ,.
-Iti khattiyavaggo.
+.
 408.
 ,;
 ,
@@ -787,7 +787,7 @@ iditvijo (ṭī.),
 444.
 ,;
 ,.
-Iti brāhmaṇavaggo.
+.
 445.
 ,;
 ,.
@@ -977,7 +977,7 @@ balibadda (ka.),.
 ,
 ;
 ,.
-Iti vessavaggo.
+.
 503.
 ’,;
 ,.
@@ -1090,8 +1090,8 @@ pāṇiyo (katthaci);
 535.
 ’,;
 ,’.
-Iti suddavaggo.
-Catubbaṇṇavaggo niṭṭhito.
+.
+.
 5. Araññavagga
 536.
 ,;
@@ -1312,7 +1312,7 @@ jiñjukā (ka.),.
 604.
 ,,,;
 ,.
-Iti araññavaggo.
+.
 6. Araññādivagga
 605.
 ’,’,;
@@ -1334,7 +1334,7 @@ Iti araññavaggo.
 ,;
 ’,
 ’.
-Iti selavaggo.
+.
 611.
 ,;
 ,’.
@@ -1459,7 +1459,7 @@ bilavo (ṭī.),’.
 ,;
 ’,’.
 648.,.
-Iti araññādivaggo.
+.
 7. Pātālavagga
 649.
 ,;
@@ -1591,5 +1591,5 @@ saṃsumāro (ṭī.), suṃsumāro (sī.),
 ,;
 ,’.
 690.,.
-Iti pātālavaggo.
-Bhūkaṇḍo dutiyo.
+.
+.

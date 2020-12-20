@@ -95,7 +95,7 @@
 114......
 115.....,.,,,.,.
 ...,.
-Saṃsāramocakapetivatthuvaṇṇanā niṭṭhitā.
+.
 2. Sāriputtattheramātupetivatthuvaṇṇanā
 ...,.–‘‘,’’.‘‘’’,‘‘’’.‘‘,,,’’,.
 ,.,–‘‘,’’...–
@@ -147,7 +147,7 @@ Saṃsāramocakapetivatthuvaṇṇanā niṭṭhitā.
 ,
 ’’.–;
 129-133.‘‘’’...,.
-Sāriputtattheramātupetivatthuvaṇṇanā niṭṭhitā.
+.
 3. Mattāpetivatthuvaṇṇanā
 ....,,‘‘’’.,.
 ,.....–
@@ -277,7 +277,7 @@ Sāriputtattheramātupetivatthuvaṇṇanā niṭṭhitā.
 159-161.,.‘‘’’.
 162-167.‘‘’’.‘‘’’‘‘’’‘‘’’..,,.....,‘‘’’,..
 ,,.,.
-Mattāpetivatthuvaṇṇanā niṭṭhitā.
+.
 4. Nandāpetivatthuvaṇṇanā
 ....–
 168.
@@ -345,11 +345,11 @@ Mattāpetivatthuvaṇṇanā niṭṭhitā.
 .
 176...
 .,...
-Nandāpetivatthuvaṇṇanā niṭṭhitā.
+.
 5. Maṭṭhakuṇḍalīpetavatthuvaṇṇanā
 .,(vi. va. aṭṭha. 1206 maṭṭhakuṇḍalīvimānavaṇṇanā),.
 ,..
-Maṭṭhakuṇḍalīpetavatthuvaṇṇanā niṭṭhitā.
+.
 6. Kaṇhapetavatthuvaṇṇanā
 ..,,,,,‘‘,’’....‘‘,,’’‘‘,’’,‘‘,’’.
 –...–‘‘,’’.‘‘,’’.‘‘’’.
@@ -437,7 +437,7 @@ Maṭṭhakuṇḍalīpetavatthuvaṇṇanā niṭṭhitā.
 225.,,.
 226..–,,!.
 ‘‘,,’’..
-Kaṇhapetavatthuvaṇṇanā niṭṭhitā.
+.
 7. Dhanapālaseṭṭhipetavatthuvaṇṇanā
 ....,,,,..
 ..–
@@ -515,7 +515,7 @@ Kaṇhapetavatthuvaṇṇanā niṭṭhitā.
 .
 245........,.
 .,.–‘‘’’.–‘‘,’’.‘‘’’.–‘‘,’’....
-Dhanapālaseṭṭhipetavatthuvaṇṇanā niṭṭhitā.
+.
 8. Cūḷaseṭṭhipetavatthuvaṇṇanā
 ,..,...–
 246.
@@ -568,7 +568,7 @@ Dhanapālaseṭṭhipetavatthuvaṇṇanā niṭṭhitā.
 255....,...
 256.‘‘’’...‘‘’’.
 ,...
-Cūḷāseṭṭhipetavatthuvaṇṇanā niṭṭhitā.
+.
 9. Aṅkurapetavatthuvaṇṇanā
 .,,‘‘’’.
 –,..‘‘’’‘‘,,’’.‘‘’’.
@@ -901,7 +901,7 @@ Cūḷāseṭṭhipetavatthuvaṇṇanā niṭṭhitā.
 .
 329.,..
 ‘‘’’,‘‘’’..
-Aṅkurapetavatthuvaṇṇanā niṭṭhitā.
+.
 10. Uttaramātupetivatthuvaṇṇanā
 .–.,.‘‘’’.
 ...–‘‘,,’’..–‘‘,’’.
@@ -948,7 +948,7 @@ Aṅkurapetavatthuvaṇṇanā niṭṭhitā.
 335.,.
 337-40....,,.
 ,,,.....
-Uttaramātupetivatthuvaṇṇanā niṭṭhitā.
+.
 11. Suttapetavatthuvaṇṇanā
 .?..,‘‘’’.,.
 ‘‘’’‘‘,,’’.‘‘,’’.‘‘,,’’..‘‘’’.‘‘’’,.‘‘,’’.
@@ -992,7 +992,7 @@ Uttaramātupetivatthuvaṇṇanā niṭṭhitā.
 .
 .,....‘‘’’,.–,.,,,.
 ..,..
-Suttapetavatthuvaṇṇanā niṭṭhitā.
+.
 12. Kaṇṇamuṇḍapetivatthuvaṇṇanā
 ...
 ‘‘’’.‘‘’’.‘‘’’...–‘‘,’’.‘‘’’‘‘,’’.,’’‘‘’’‘‘,’’.
@@ -1086,7 +1086,7 @@ Suttapetavatthuvaṇṇanā niṭṭhitā.
 ,’’.–
 .....
 ........
-Kaṇṇamuṇḍapetivatthuvaṇṇanā niṭṭhitā.
+.
 13. Ḍhubbaripetavatthuvaṇṇanā
 .....‘‘,,’’‘‘,,’’.
 .‘‘’’.–‘‘,,’’?‘‘,,.,,’’.‘‘,,’’.–‘‘,.,,’’.‘‘,’’.
@@ -1173,7 +1173,7 @@ Kaṇṇamuṇḍapetivatthuvaṇṇanā niṭṭhitā.
 383-4..,.,...,..
 385-6...‘‘’’,-....
 ...
-Ubbaripetavatthuvaṇṇanā niṭṭhitā.
-Iti khuddaka-aṭṭhakathāya petavatthusmiṃ
+.
+-
 
-Dutiyassa ubbarivaggassa atthasaṃvaṇṇanā niṭṭhitā.
+.

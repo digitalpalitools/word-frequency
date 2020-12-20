@@ -4,7 +4,7 @@
 nanu saṅkhāre dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato ītito upaddavato bhayato upasaggato calato pabhaṅguto addhuvato atāṇato aleṇato asaraṇato asaraṇībhūtato rittato tucchato suññato anattato ādīnavato vipariṇāmadhammato manasikaroto saṃyojanā pahīyantīti āmantā hañci saṅkhāre vipariṇāmadhammato manasikaroto saṃyojanā pahīyanti no ca vata re vattabbe  ānisaṃsadassāvissa saṃyojanānaṃ pahānanti
 saṅkhāre  ca aniccato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti na hevaṃ vattabbe saṅkhāre ca aniccato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti āmantā dvinnaṃ phassānaṃ dvinnaṃ cittānaṃ samodhānaṃ hotīti na hevaṃ vattabbe saṅkhāre ca dukkhato vipariṇāmadhammato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti na hevaṃ vattabbe saṅkhāre ca  vipariṇāmadhammato manasi karoti nibbāne ca ānisaṃsadassāvī hotīti āmantā  dvinnaṃ phassānaṃ dvinnaṃ cittānaṃ samodhānaṃ hotīti na hevaṃ vattabbe
  na vattabbaṃ  ānisaṃsadassāvissa saṃyojanānaṃ pahānanti āmantā nanu vuttaṃ bhagavatā  idha bhikkhave bhikkhu nibbāne sukhānupassī viharati sukhasaññī sukhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ cetasā adhimuccamāno paññāya pariyogāhamānoti  attheva suttantoti āmantā tena hi ānisaṃsadassāvissa saṃyojanānaṃ pahānanti
-
+ānisaṃsadassāvīkathā niṭṭhitā
 
 
  amatārammaṇaṃ saṃyojananti āmantā amataṃ saṃyojaniyaṃ ganthaniyaṃ oghaniyaṃ yoganiyaṃ nīvaraṇiyaṃ parāmaṭṭhaṃ upādāniyaṃ saṃkilesiyanti na  hevaṃ vattabbe nanu amataṃ asaṃyojaniyaṃ aganthaniyaṃ asaṃkilesiyanti āmantā hañci amataṃ asaṃyojaniyaṃ asaṃkilesiyaṃ no ca vata re vattabbe  amatārammaṇaṃ saṃyojananti
@@ -20,7 +20,7 @@ amataṃ ārabbha rāgo uppajjati amataṃ na rāgaṭṭhāniyaṃ na rajaniya�
 amataṃ  ārabbha doso uppajjati amataṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyanti āmantā rūpaṃ ārabbha doso uppajjati rūpaṃ na dosaṭṭhāniyaṃ na kopaṭṭhāniyaṃ na paṭighaṭṭhāniyanti na hevaṃ vattabbe
 amataṃ ārabbha moho uppajjati amataṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ nibbānasaṃvattaniyanti āmantā rūpaṃ ārabbha moho uppajjati rūpaṃ na mohaṭṭhāniyaṃ na aññāṇakaraṇaṃ nibbānasaṃvattaniyanti na hevaṃ vattabbe
  na vattabbaṃ  amatārammaṇaṃ saṃyojananti āmantā nanu vuttaṃ bhagavatā  nibbānaṃ nibbānato sañjānāti nibbānaṃ nibbānato sañjānitvā nibbānaṃ maññati nibbānasmiṃ maññati nibbānato maññati nibbānaṃ meti maññati nibbānaṃ abhinandatīti  attheva suttantoti āmantā tena hi amatārammaṇaṃ saṃyojananti
-
+amatārammaṇakathā niṭṭhitā
 
 
  rūpaṃ  sārammaṇanti āmantā atthi tassa āvaṭṭanā ābhogo samannāhāro manasikāro cetanā patthanā paṇidhīti na hevaṃ vattabbe nanu natthi tassa āvaṭṭanā ābhogo paṇidhīti āmantā hañci natthi tassa āvaṭṭanā ābhogo paṇidhi no ca vata re vattabbe  rūpaṃ sārammaṇanti
@@ -29,7 +29,7 @@ vedanā saññā cetanā cittaṃ saddhā vīriyaṃ sati samādhi paññā rāg
 rūpaṃ sārammaṇaṃ natthi tassa āvaṭṭanā ābhogo paṇidhīti āmantā phasso sārammaṇo natthi tassa āvaṭṭanā ābhogo paṇidhīti na hevaṃ vattabbe
 rūpaṃ  sārammaṇaṃ natthi tassa āvaṭṭanā ābhogo paṇidhīti āmantā vedanā anottappaṃ sārammaṇaṃ natthi tassa āvaṭṭanā ābhogo paṇidhīti na hevaṃ vattabbe
  na vattabbaṃ  rūpaṃ sārammaṇanti āmantā nanu rūpaṃ sappaccayanti āmantā hañci rūpaṃ sappaccayaṃ tena vata re vattabbe  rūpaṃ sārammaṇanti
-
+rūpaṃ sārammaṇantikathā niṭṭhitā
 
 
  anusayā  anārammaṇāti āmantā rūpaṃ  nibbānaṃ cakkhāyatanaṃ phoṭṭhabbāyatananti na hevaṃ vattabbe
@@ -42,14 +42,14 @@ avijjānusayo anārammaṇoti āmantā katamakkhandhapariyāpannoti saṅkhārak
 avijjānusayo saṅkhārakkhandhapariyāpanno anārammaṇoti āmantā avijjā  saṅkhārakkhandhapariyāpannā anārammaṇāti na hevaṃ vattabbe avijjā saṅkhārakkhandhapariyāpannā sārammaṇāti āmantā avijjānusayo saṅkhārakkhandhapariyāpanno sārammaṇoti na hevaṃ vattabbe
 avijjānusayo saṅkhārakkhandhapariyāpanno anārammaṇo avijjā saṅkhārakkhandhapariyāpannā sārammaṇāti āmantā saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti na hevaṃ vattabbe saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti āmantā vedanākkhandho saññākkhandho viññāṇakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti na hevaṃ vattabbe
  na  vattabbaṃ  anusayā anārammaṇāti āmantā puthujjano kusalābyākate citte vattamāne sānusayoti vattabboti āmantā atthi tesaṃ anusayānaṃ ārammaṇanti na hevaṃ vattabbe tena hi anusayā anārammaṇāti puthujjano kusalābyākate citte vattamāne sarāgoti vattabboti āmantā atthi tassa rāgassa ārammaṇanti na hevaṃ vattabbe tena hi rāgo anārammaṇoti
-
+anusayā anārammaṇātikathā niṭṭhitā
 
 
  ñāṇaṃ  anārammaṇanti āmantā rūpaṃ nibbānaṃ cakkhāyatanaṃ phoṭṭhabbāyatananti na hevaṃ vattabbe ñāṇaṃ anārammaṇanti āmantā paññā  paññindriyaṃ paññābalaṃ sammādiṭṭhi dhammavicayasambojjhaṅgo anārammaṇoti na hevaṃ vattabbe paññā paññindriyaṃ paññābalaṃ sammādiṭṭhi dhammavicayasambojjhaṅgo sārammaṇoti āmantā ñāṇaṃ sārammaṇanti na hevaṃ vattabbe
 ñāṇaṃ anārammaṇanti āmantā katamakkhandhapariyāpannanti saṅkhārakkhandhapariyāpannanti saṅkhārakkhandho anārammaṇoti na hevaṃ vattabbe saṅkhārakkhandho anārammaṇoti  āmantā vedanākkhandho saññākkhandho viññāṇakkhandho anārammaṇoti na hevaṃ vattabbe ñāṇaṃ saṅkhārakkhandhapariyāpannaṃ anārammaṇanti āmantā paññā saṅkhārakkhandhapariyāpannā anārammaṇāti na hevaṃ vattabbe paññā saṅkhārakkhandhapariyāpannā sārammaṇāti āmantā ñāṇaṃ saṅkhārakkhandhapariyāpannaṃ sārammaṇanti na hevaṃ vattabbe
 ñāṇaṃ  saṅkhārakkhandhapariyāpannaṃ anārammaṇaṃ paññā saṅkhārakkhandhapariyāpannā sārammaṇāti āmantā saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti na hevaṃ vattabbe saṅkhārakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti āmantā vedanākkhandho saññākkhandho viññāṇakkhandho ekadeso sārammaṇo ekadeso anārammaṇoti na hevaṃ vattabbe
  na vattabbaṃ  ñāṇaṃ anārammaṇanti āmantā arahā cakkhuviññāṇasamaṅgī ñāṇīti vattabboti āmantā atthi tassa ñāṇassa ārammaṇanti na hevaṃ vattabbe tena hi ñāṇaṃ anārammaṇanti arahā cakkhuviññāṇasamaṅgī paññavāti  vattabboti āmantā atthi tāya paññāya ārammaṇanti na  hevaṃ vattabbe tena hi paññā anārammaṇāti
-
+ñāṇaṃ anārammaṇantikathā niṭṭhitā
 
 
  atītārammaṇaṃ cittaṃ anārammaṇanti āmantā nanu atītārammaṇanti āmantā hañci atītārammaṇaṃ no ca vata re vattabbe  atītārammaṇaṃ  cittaṃ anārammaṇanti atītārammaṇaṃ  cittaṃ anārammaṇanti micchā hañci vā pana anārammaṇaṃ no ca vata re vattabbe  atītārammaṇanti anārammaṇaṃ atītārammaṇanti micchā
@@ -60,18 +60,18 @@ paccuppannaṃ  ārabbha atthi āvaṭṭanā paṇidhi paccuppannārammaṇaṃ
 atītaṃ ārabbha atthi āvaṭṭanā paṇidhi atītārammaṇaṃ cittaṃ anārammaṇanti āmantā paccuppannaṃ ārabbha atthi āvaṭṭanā paṇidhi paccuppannārammaṇaṃ cittaṃ anārammaṇanti na hevaṃ vattabbe
 anāgataṃ  ārabbha atthi āvaṭṭanā paṇidhi anāgatārammaṇaṃ cittaṃ anārammaṇanti āmantā paccuppannaṃ ārabbha atthi āvaṭṭanā paṇidhi paccuppannārammaṇaṃ cittaṃ anārammaṇanti na hevaṃ vattabbe
  na  vattabbaṃ  atītānāgatārammaṇaṃ cittaṃ anārammaṇanti āmantā nanu atītānāgataṃ natthīti āmantā hañci atītānāgataṃ natthi tena vata re vattabbe  atītānāgatārammaṇaṃ cittaṃ anārammaṇanti
-
+atītānāgatārammaṇakathā niṭṭhitā
 
 
  sabbaṃ cittaṃ vitakkānupatitanti āmantā sabbaṃ cittaṃ vicārānupatitaṃ pītānupatitaṃ sukhānupatitaṃ dukkhānupatitaṃ somanassānupatitaṃ domanassānupatitaṃ  upekkhānupatitaṃ  saddhānupatitaṃ vīriyānupatitaṃ satānupatitaṃ samādhānupatitaṃ paññānupatitaṃ rāgānupatitaṃ dosānupatitaṃ anottappānupatitanti na hevaṃ vattabbe
 sabbaṃ cittaṃ vitakkānupatitanti āmantā nanu atthi avitakko vicāramatto samādhīti āmantā hañci atthi avitakko vicāramatto samādhi no ca vata re vattabbe  sabbaṃ cittaṃ vitakkānupatitanti 
 sabbaṃ cittaṃ vitakkānupatitanti āmantā nanu atthi avitakko avicāro samādhīti āmantā hañci atthi avitakko avicāro samādhi no ca vata re vattabbe  sabbaṃ cittaṃ vitakkānupatitanti sabbaṃ cittaṃ vitakkānupatitanti āmantā nanu tayo samādhī vuttā bhagavatā  savitakko savicāro samādhi avitakko vicāramatto samādhi avitakko avicāro samādhīti  āmantā hañci tayo samādhī vuttā bhagavatā  savitakko savicāro samādhi avitakko vicāramatto samādhi avitakko avicāro samādhi no ca vata re vattabbe  sabbaṃ cittaṃ vitakkānupatitanti
-
+vitakkānupatitakathā niṭṭhitā
 
 
  sabbaso  vitakkayato vicārayato vitakkavipphāro saddoti āmantā sabbaso phusayato phassavipphāro saddo sabbaso vedayato  vedanāvipphāro saddo sabbaso sañjānato saññāvipphāro saddo sabbaso cetayato cetanāvipphāro saddo sabbaso cintayato cittavipphāro  saddo sabbaso sarato sativipphāro saddo sabbaso pajānato  paññāvipphāro saddoti na hevaṃ vattabbe
 sabbaso vitakkayato vicārayato vitakkavipphāro saddoti āmantā vitakkavipphāro saddo sotaviññeyyo sotasmiṃ paṭihaññati sotassa āpāthaṃ āgacchatīti na hevaṃ vattabbe nanu vitakkavipphāro saddo na sotaviññeyyo na sotasmiṃ paṭihaññati na sotassa āpāthaṃ āgacchatīti āmantā hañci vitakkavipphāro saddo na sotaviññeyyo na sotasmiṃ paṭihaññati na sotassa āpāthaṃ āgacchati no ca vata re vattabbe  sabbaso vitakkayato vicārayato vitakkavipphāro saddoti
-
+vitakkavipphārasaddakathā niṭṭhitā
 
 
  na yathācittassa vācāti āmantā aphassakassa vācā avedanakassa vācā asaññakassa vācā acetanakassa vācā acittakassa vācāti na hevaṃ vattabbe nanu saphassakassa vācā savedanakassa vācā sasaññakassa vācā sacetanakassa vācā sacittakassa vācāti āmantā hañci saphassakassa vācā sacittakassa vācā no ca vata re vattabbe  na yathācittassa vācāti
@@ -79,7 +79,7 @@ na  yathācittassa vācāti āmantā anāvaṭṭentassa  vācā anābhogassa v�
 na  yathācittassa vācāti āmantā nanu vācā cittasamuṭṭhānā cittena sahajātā cittena saha ekuppādāti āmantā hañci vācā cittasamuṭṭhānā cittena sahajātā cittena saha ekuppādā no ca vata re vattabbe  na yathācittassa vācāti
 na yathācittassa vācāti āmantā na bhaṇitukāmo bhaṇati na kathetukāmo katheti na ālapitukāmo ālapati na voharitukāmo voharatīti na hevaṃ vattabbe nanu bhaṇitukāmo bhaṇati kathetukāmo katheti ālapitukāmo ālapati voharitukāmo voharatīti āmantā hañci bhaṇitukāmo bhaṇati kathetukāmo katheti ālapitukāmo ālapati voharitukāmo voharati no ca vata re vattabbe  na yathācittassa vācāti
  na vattabbaṃ  na yathācittassa vācāti āmantā nanu atthi koci aññaṃ bhaṇissāmīti aññaṃ bhaṇati aññaṃ kathessāmīti aññaṃ katheti aññaṃ ālapissāmīti aññaṃ ālapati aññaṃ voharissāmīti  aññaṃ voharatīti āmantā hañci atthi koci aññaṃ bhaṇissāmīti aññaṃ bhaṇati  aññaṃ voharissāmīti aññaṃ voharati tena vata re vattabbe  na yathācittassa vācāti
-
+na yathācittassa vācātikathā niṭṭhitā
 
 
  na  yathācittassa kāyakammanti āmantā aphassakassa kāyakammaṃ acittakassa kāyakammanti na hevaṃ vattabbe nanu saphassakassa kāyakammaṃ sacittakassa kāyakammanti āmantā hañci saphassakassa kāyakammaṃ sacittakassa kāyakammaṃ no ca vata re vattabbe  na yathācittassa kāyakammanti
@@ -87,7 +87,7 @@ na  yathācittassa kāyakammanti āmantā anāvaṭṭentassa kāyakammaṃ appa
 na yathācittassa kāyakammanti āmantā nanu kāyakammaṃ cittasamuṭṭhānaṃ cittena sahajātaṃ cittena saha ekuppādanti āmantā  hañci  kāyakammaṃ cittasamuṭṭhānaṃ cittena sahajātaṃ cittena saha ekuppādaṃ no ca vata re vattabbe  na yathācittassa kāyakammanti
 na yathācittassa kāyakammanti āmantā na abhikkamitukāmo abhikkamati na paṭikkamitukāmo paṭikkamati na āloketukāmo āloketi na viloketukāmo viloketi na samiñjitukāmo samiñjeti na pasāretukāmo pasāretīti na hevaṃ vattabbe nanu abhikkamitukāmo abhikkamati paṭikkamitukāmo paṭikkamati āloketukāmo āloketi viloketukāmo viloketi samiñjitukāmo samiñjeti pasāretukāmo pasāretīti āmantā hañci abhikkamitukāmo abhikkamati pasāretukāmo pasāreti no ca vata re vattabbe  na yathācittassa kāyakammanti
  na vattabbaṃ  na yathācittassa kāyakammanti āmantā nanu atthi koci aññatra gacchissāmīti aññatra gacchati aññaṃ pasāressāmīti aññaṃ pasāretīti āmantā hañci atthi koci aññatra  gacchissāmīti aññatra gacchati aññaṃ pasāressāmīti aññaṃ pasāreti tena vata re vattabbe  na yathācittassa kāyakammanti
-
+na yathācittassa kāyakammantikathā niṭṭhitā
 
 
  atītena  samannāgatoti āmantā nanu atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgatanti āmantā hañci  atītaṃ niruddhaṃ vigataṃ vipariṇataṃ atthaṅgataṃ abbhatthaṅgataṃ no ca vata re vattabbe  atītena samannāgatoti
@@ -97,7 +97,7 @@ atītena cakkhāyatanena samannāgato anāgatena cakkhāyatanena samannāgato pa
 atītāya cakkhudhātuyā samannāgato anāgatāya cakkhudhātuyā samannāgato paccuppannāya cakkhudhātuyā samannāgatoti āmantā  tīhi cakkhudhātūhi samannāgatoti na hevaṃ vattabbe atītāhi aṭṭhārasahi dhātūhi samannāgato anāgatāhi aṭṭhārasahi dhātūhi samannāgato  paccuppannāhi aṭṭhārasahi dhātūhi samannāgatoti āmantā catupaññāsadhātūhi samannāgatoti na hevaṃ vattabbe
 atītena cakkhundriyena samannāgato anāgatena cakkhundriyena samannāgato paccuppannena cakkhundriyena samannāgatoti āmantā tīhi cakkhundriyehi samannāgatoti na hevaṃ vattabbe atītehi bāvīsatindriyehi samannāgato anāgatehi bāvīsatindriyehi samannāgato paccuppannehi bāvīsatindriyehi samannāgatoti āmantā chasaṭṭhindriyehi samannāgatoti na hevaṃ vattabbe
  na vattabbaṃ  atītānāgatehi samannāgatoti āmantā nanu atthi aṭṭhavimokkhajhāyī catunnaṃ jhānānaṃ nikāmalābhī navannaṃ anupubbavihārasamāpattīnaṃ  lābhīti āmantā hañci atthi aṭṭhavimokkhajhāyī catunnaṃ jhānānaṃ nikāmalābhī navannaṃ anupubbavihārasamāpattīnaṃ lābhī tena vata re vattabbe  atītānāgatehi samannāgatoti
-
-
+atītānāgatasamannāgatakathā niṭṭhitā
+navamavaggo
 tassuddānaṃ 
 ānisaṃsadassāvissa saṃyojanānaṃ pahānaṃ amatārammaṇaṃ saṃyojanaṃ rūpaṃ  sārammaṇaṃ anusayā anārammaṇā evamevaṃ ñāṇaṃ atītānāgatārammaṇaṃ cittaṃ sabbaṃ cittaṃ vitakkānupatitaṃ sabbaso vitakkayato vicārayato vitakkavipphāro saddo na yathācittassa vācā tatheva kāyakammaṃ atītānāgatehi samannāgatoti

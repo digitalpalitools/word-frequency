@@ -24,9 +24,9 @@
 8.
 ‘‘,;
 ,’’.
-Itthaṃ sudaṃ āyasmā paṃsukūlasaññako thero imā gāthāyo
+
 .
-Paṃsukūlasaññakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Buddhasaññakattheraapadānaṃ
 9.
 ‘‘,;
@@ -79,9 +79,9 @@ mantaṃ (syā. ka.),.
 ‘‘…pe….
 26.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā buddhasaññako thero imā gāthāyo
+
 .
-Buddhasaññakattherassāpadānaṃ dutiyaṃ.
+.
 3. Bhisadāyakattheraapadānaṃ
 27.
 ‘‘ogayhāhaṃ (sī. syā. pī.),;
@@ -137,9 +137,9 @@ sāyaṃ pātaṃ (syā. ka.),.
 ‘‘…pe….
 45.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā bhisadāyako thero imā gāthāyo
+
 .
-Bhisadāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Ñāṇathavikattheraapadānaṃ
 46.
 ‘‘,;
@@ -168,7 +168,7 @@ Bhisadāyakattherassāpadānaṃ tatiyaṃ.
 54.
 ‘‘‘,;
 parāyaṇo (sī. pī.),.
-Ekavīsatimaṃ bhāṇavāraṃ.
+.
 55.
 ‘‘‘,;
 ,.
@@ -226,9 +226,9 @@ Ekavīsatimaṃ bhāṇavāraṃ.
 ‘‘…pe….
 74.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā ñāṇathaviko thero imā gāthāyo
+
 .
-Ñāṇathavikattherassāpadānaṃ catutthaṃ.
+.
 5. Candanamāliyattheraapadānaṃ
 75.
 ‘‘,;
@@ -322,9 +322,9 @@ Itthaṃ sudaṃ āyasmā ñāṇathaviko thero imā gāthāyo
 ‘‘…pe….
 105.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā candanamāliyo thero imā gāthāyo
+
 .
-Candanamāliyattherassāpadānaṃ pañcamaṃ.
+.
 6. Dhātupūjakattheraapadānaṃ
 106.
 ‘‘,;
@@ -338,9 +338,9 @@ Candanamāliyattherassāpadānaṃ pañcamaṃ.
 ‘‘…pe….
 110.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā dhātupūjako thero imā gāthāyo
+
 .
-Dhātupūjakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Pulinuppādakattheraapadānaṃ
 111.
 ‘‘,;
@@ -450,9 +450,9 @@ ahuvattha (sī.),’.
 ‘‘…pe….
 147.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā pulinuppādako thero imā gāthāyo
+
 .
-Pulinuppādakattherassāpadānaṃ sattamaṃ.
+.
 8. Taraṇiyattheraapadānaṃ
 148.
 ‘‘,;
@@ -499,9 +499,9 @@ tīre (syā. pī. ka.),.
 ‘‘…pe….
 163.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā taraṇiyo thero imā gāthāyo
+
 .
-Taraṇiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Dhammaruciyattheraapadānaṃ
 164.
 ‘‘,;
@@ -578,9 +578,9 @@ Taraṇiyattherassāpadānaṃ aṭṭhamaṃ.
 ‘‘…pe….
 189.
 ‘‘…pe…’’.
-Itthaṃ sudaṃ āyasmā dhammaruciyo thero imā gāthāyo
+
 .
-Dhammaruciyattherassāpadānaṃ navamaṃ.
+.
 10. Sālamaṇḍapiyattheraapadānaṃ
 190.
 ‘‘,;
@@ -672,10 +672,10 @@ Dhammaruciyattherassāpadānaṃ navamaṃ.
 ‘‘…pe….
 220.
 ‘‘…pe…’’.
-Itthaṃ  sudaṃ āyasmā sālamaṇḍapiyo thero imā gāthāyo
+
 .
-Sālamaṇḍapiyattherassāpadānaṃ dasamaṃ.
-Paṃsukūlavaggo ekūnapaññāsamo.
+.
+.
 –
 ,;
 ,.

@@ -2,7 +2,7 @@
 
  dvādasāyatanāni   cakkhāyatanaṃ rūpāyatanaṃ sotāyatanaṃ saddāyatanaṃ ghānāyatanaṃ gandhāyatanaṃ jivhāyatanaṃ rasāyatanaṃ kāyāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
 cakkhuṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ rūpā aniccā dukkhā anattā vipariṇāmadhammā sotaṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ saddā aniccā dukkhā anattā vipariṇāmadhammā ghānaṃ aniccaṃ dukkhaṃ anattā vipariṇāmadhammaṃ gandhā aniccā dukkhā anattā vipariṇāmadhammā jivhā aniccā dukkhā anattā vipariṇāmadhammā rasā aniccā dukkhā anattā vipariṇāmadhammā kāyo anicco dukkho anattā vipariṇāmadhammo phoṭṭhabbā aniccā dukkhā anattā vipariṇāmadhammā mano anicco dukkho anattā vipariṇāmadhammo dhammā aniccā dukkhā anattā vipariṇāmadhammā
-
+suttantabhājanīyaṃ
 
  dvādasāyatanāni   cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ manāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ dhammāyatanaṃ
  tattha katamaṃ cakkhāyatanaṃ yaṃ cakkhu  catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho yena cakkhunā  anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passi vā passati vā passissati vā passe vā cakkhumpetaṃ cakkhāyatanampetaṃ cakkhudhātupesā cakkhundriyampetaṃ lokopeso dvārāpesā samuddopeso paṇḍarampetaṃ khettampetaṃ vatthumpetaṃ nettampetaṃ nayanampetaṃ orimaṃ tīrampetaṃ suñño gāmopeso idaṃ vuccati cakkhāyatanaṃ 
@@ -34,8 +34,8 @@ tattha katamo saññākkhandho ekavidhena saññākkhandho  phassasampayutto duv
 tattha katamo saṅkhārakkhandho ekavidhena saṅkhārakkhandho  cittasampayutto duvidhena saṅkhārakkhandho  atthi hetu atthi na hetu tividhena saṅkhārakkhandho  atthi kusalo atthi akusalo atthi abyākato evaṃ dasavidhena saṅkhārakkhandho evaṃ bahuvidhena saṅkhārakkhandho ayaṃ vuccati saṅkhārakkhandho
 tattha katamaṃ  rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ itthindriyaṃ purisindriyaṃ kabaḷīkāro āhāro idaṃ vuccati rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ
 tattha katamā asaṅkhatā dhātu rāgakkhayo  dosakkhayo mohakkhayo  ayaṃ vuccati asaṅkhatā dhātu
-
-
+idaṃ vuccati dhammāyatanaṃ
+abhidhammabhājanīyaṃ
 
  dvādasāyatanāni   cakkhāyatanaṃ rūpāyatanaṃ sotāyatanaṃ saddāyatanaṃ ghānāyatanaṃ gandhāyatanaṃ jivhāyatanaṃ rasāyatanaṃ kāyāyatanaṃ phoṭṭhabbāyatanaṃ manāyatanaṃ dhammāyatanaṃ
  dvādasannaṃ āyatanānaṃ kati kusalā kati akusalā kati abyākatā kati saraṇā kati araṇā
@@ -58,5 +58,5 @@ ekādasāyatanā no kilesā dhammāyatanaṃ siyā kileso siyā no kileso dasāy
 dasāyatanā na vattabbā  kilesā ceva kilesasampayuttā cātipi kilesasampayuttā ceva no ca na kilesātipi manāyatanaṃ na vattabbaṃ  kileso ceva kilesasampayuttañcāti  siyā kilesasampayuttañceva no ca kileso siyā na vattabbaṃ  kilesasampayuttañceva no ca kilesoti dhammāyatanaṃ siyā kileso ceva kilesasampayuttañca siyā kilesasampayuttañceva no ca kileso siyā na vattabbaṃ  kileso ceva kilesasampayuttañcātipi kilesasampayuttañceva no  ca kilesotipi dasāyatanā kilesavippayuttasaṃkilesikā dvāyatanā siyā kilesavippayuttasaṃkilesikā siyā kilesavippayuttaasaṃkilesikā  siyā na vattabbā  kilesavippayuttasaṃkilesikātipi kilesavippayuttaasaṃkilesikātipi 
 dasāyatanā na dassanena pahātabbā dvāyatanā siyā dassanena pahātabbā siyā na dassanena pahātabbā dasāyatanā na bhāvanāya pahātabbā dvāyatanā siyā bhāvanāya pahātabbā siyā na bhāvanāya pahātabbā dasāyatanā na dassanena pahātabbahetukā dvāyatanā siyā dassanena pahātabbahetukā siyā na dassanena pahātabbahetukā dasāyatanā na bhāvanāya pahātabbahetukā dvāyatanā siyā bhāvanāya pahātabbahetukā siyā na bhāvanāya pahātabbahetukā dasāyatanā avitakkā dvāyatanā siyā savitakkā siyā avitakkā dasāyatanā avicārā dvāyatanā siyā savicārā siyā avicārā dasāyatanā appītikā dvāyatanā siyā sappītikā siyā appītikā dasāyatanā na pītisahagatā dvāyatanā siyā pītisahagatā siyā na pītisahagatā dasāyatanā na sukhasahagatā dvāyatanā siyā sukhasahagatā siyā na sukhasahagatā dasāyatanā na upekkhāsahagatā dvāyatanā siyā upekkhāsahagatā siyā na upekkhāsahagatā
 dasāyatanā kāmāvacarā dvāyatanā siyā kāmāvacarā siyā na kāmāvacarā dasāyatanā na rūpāvacarā dvāyatanā siyā rūpāvacarā siyā na rūpāvacarā dasāyatanā na arūpāvacarā dvāyatanā siyā arūpāvacarā siyā na arūpāvacarā dasāyatanā pariyāpannā dvāyatanā siyā pariyāpannā siyā apariyāpannā dasāyatanā aniyyānikā dvāyatanā siyā niyyānikā  siyā aniyyānikā dasāyatanā aniyatā dvāyatanā siyā niyatā siyā aniyatā dasāyatanā sauttarā dvāyatanā siyā sauttarā siyā anuttarā dasāyatanā araṇā dvāyatanā siyā saraṇā siyā araṇāti
-
-
+pañhāpucchakaṃ
+āyatanavibhaṅgo niṭṭhito

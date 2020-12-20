@@ -115,7 +115,7 @@
 ‘‘,’’..,..,...
 ,‘‘’’..,.,.,..
 ,,..
-Uruvelakassapattheragāthāvaṇṇanā niṭṭhitā.
+.
 2. Tekicchakārittheragāthāvaṇṇanā
 .?.,.
 ...,‘‘’’.,,.‘‘’’–
@@ -152,7 +152,7 @@ Uruvelakassapattheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘…pe…’’.
 .
-Tekicchakārittheragāthāvaṇṇanā niṭṭhitā.
+.
 3. Mahānāgattheragāthāvaṇṇanā
 .?.,..(apa. thera 2.45.1-7)–
 ‘‘,;
@@ -185,7 +185,7 @@ Tekicchakārittheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ,,..,....‘‘’’,.,,.....
-Mahānāgattheragāthāvaṇṇanā niṭṭhitā.
+.
 4. Kullattheragāthāvaṇṇanā
 .?...,‘‘,’’......–
 ‘‘,;
@@ -218,7 +218,7 @@ Mahānāgattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(dha. pa. 374);
 .
-Kullattheragāthāvaṇṇanā niṭṭhitā.
+.
 5. Mālukyaputtattheragāthāvaṇṇanā
 .?.,...‘‘,’’.–
 399.
@@ -247,7 +247,7 @@ Kullattheragāthāvaṇṇanā niṭṭhitā.
 .,.,.?.?,.,.
 ‘‘,,’’(ma. ni. 1.215),.,,.,,.
 ,.,....
-Mālukyaputtattheragāthāvaṇṇanā niṭṭhitā.
+.
 6. Sappadāsattheragāthāvaṇṇanā
 .?,.–
 405.
@@ -274,7 +274,7 @@ Mālukyaputtattheragāthāvaṇṇanā niṭṭhitā.
 ,‘‘’’.-.‘‘,’’...‘‘’’,....–‘‘,,’’(ma. ni. 3.63).‘‘’’,?,.
 .,..,.‘‘,’’..
 ,‘‘’’,‘‘’’,,..‘‘’’..
-Sappadāsattheragāthāvaṇṇanā niṭṭhitā.
+.
 7. Kātiyānattheragāthāvaṇṇanā
 .?,‘‘’’.,‘‘’’..–
 411.
@@ -303,7 +303,7 @@ Sappadāsattheragāthāvaṇṇanā niṭṭhitā.
 ,.,.,..
 ,‘‘’’.,,..
 ....–,.,,.,.....
-Kātiyānattheragāthāvaṇṇanā niṭṭhitā.
+.
 8. Migajālattheragāthāvaṇṇanā
 .?,.–
 417.
@@ -332,7 +332,7 @@ Kātiyānattheragāthāvaṇṇanā niṭṭhitā.
 ,,.‘‘’’‘‘’’.–,,,.
 .,,.
 .
-Migajālattheragāthāvaṇṇanā niṭṭhitā.
+.
 9. Purohitaputtajentattheragāthāvaṇṇanā
 .?,..‘‘,;,’’.–
 ‘‘,;
@@ -372,7 +372,7 @@ Migajālattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘’’.,...
 ..,,‘‘,’’.?.‘‘,,’’.‘‘,.’’..
 ‘‘’’.‘‘’’‘‘’’.‘‘’’.‘‘’’..‘‘’’‘‘’’.,.
-Purohitaputtajentattheragāthāvaṇṇanā niṭṭhitā.
+.
 10. Sumanattheragāthāvaṇṇanā
 .?....‘‘,’’.,.‘‘’’...,‘‘,’’.–
 429.
@@ -398,7 +398,7 @@ Purohitaputtajentattheragāthāvaṇṇanā niṭṭhitā.
 ,,‘‘,’’..
 ,...,.,...,..
 ‘‘’’‘‘’’.
-Sumanattheragāthāvaṇṇanā niṭṭhitā.
+.
 11. Nhātakamunittheragāthāvaṇṇanā
 .?.....‘‘,’’.....–
 435.
@@ -421,7 +421,7 @@ Sumanattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 .,..–‘‘,’’.,,,...
-Nhātakamunittheragāthāvaṇṇanā niṭṭhitā.
+.
 12. Brahmadattattheragāthāvaṇṇanā
 .?,...,.‘‘’’.–
 441.
@@ -451,7 +451,7 @@ Nhātakamunittheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,…pe…’’(saṃ. ni. 2.63 atthato samānaṃ)–
 .
 ,.,,,,.‘‘’’.
-Brahmadattattheragāthāvaṇṇanā niṭṭhitā.
+.
 13. Sirimaṇḍattheragāthāvaṇṇanā
 .?‘‘’’(mahāva. 134),,‘‘’’–
 447.
@@ -483,7 +483,7 @@ Brahmadattattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(su. ni. 579);
 .
-Sirimaṇḍattheragāthāvaṇṇanā niṭṭhitā.
+.
 14. Sabbakāmittheragāthāvaṇṇanā
 .?,‘‘’’...
 ,,,,..–
@@ -513,5 +513,5 @@ Sirimaṇḍattheragāthāvaṇṇanā niṭṭhitā.
 ,.
 ‘‘’’(pāci. 417; cūḷava. 65; ma. ni. 1.234),,.,,,,,,..,.‘‘’’.
 .‘‘,’’.,,‘‘’’.
-Sabbakāmittheragāthāvaṇṇanā niṭṭhitā.
-Chakkanipātavaṇṇanā niṭṭhitā.
+.
+.

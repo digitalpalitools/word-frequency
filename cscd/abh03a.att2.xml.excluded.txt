@@ -14,7 +14,7 @@
 73.,,....,,.
 7. Tikapadavaṇṇanā
 77......,,..
-Saṅgahāsaṅgahapadavaṇṇanā.
+.
 2. Dutiyanayo saṅgahitenaasaṅgahitapadavaṇṇanā
 171..–,,.......,,.–
 ‘‘,
@@ -30,7 +30,7 @@ Saṅgahāsaṅgahapadavaṇṇanā.
 176.–..?.,....,,.,,.
 177.–..
 178.–,...
-Saṅgahitenaasaṅgahitapadavaṇṇanā.
+.
 3. Tatiyanayo asaṅgahitenasaṅgahitapadavaṇṇanā
 179..–,....?.,.,....,.–
 ‘‘,;
@@ -44,13 +44,13 @@ Saṅgahitenaasaṅgahitapadavaṇṇanā.
 182.–,;..
 183.–...
 184.–..,,..
-Asaṅgahitenasaṅgahitapadavaṇṇanā.
+.
 4. Catutthanayo saṅgahitenasaṅgahitapadavaṇṇanā
 191..,..,..–,.–
 ‘‘,;
 ,’’.
 .,,.–.......,.
-Saṅgahitenasaṅgahitapadavaṇṇanā.
+.
 5. Pañcamanayo asaṅgahitenaasaṅgahitapadavaṇṇanā
 193..,.....,.–
 ‘‘;
@@ -63,7 +63,7 @@ Saṅgahitenasaṅgahitapadavaṇṇanā.
 –...,,.–,..,,.‘‘’’.,,.–...
 195.–.
 196.–.–.
-Asaṅgahitenaasaṅgahitapadavaṇṇanā.
+.
 6. Chaṭṭhanayo sampayogavippayogapadavaṇṇanā
 228...,.,;.,.,.,....,.,.,.,.–
 ‘‘,;
@@ -85,7 +85,7 @@ Asaṅgahitenaasaṅgahitapadavaṇṇanā.
 262.–.–.–.–...,..–...
 271...,...
 273.–.,.......
-Sampayogavippayogapadavaṇṇanā.
+.
 7. Sattamanayo sampayuttenavippayuttapadavaṇṇanā
 306..–,,....,.–
 ‘‘,
@@ -96,10 +96,10 @@ Sampayogavippayogapadavaṇṇanā.
 ’’.
 –.,..–...–,,...
 309.–..
-Sampayuttenavippayuttapadavaṇṇanā.
+.
 8. Aṭṭhamanayo vippayuttenasampayuttapadavaṇṇanā
 317...,.,....
-Vippayuttenasampayuttapadavaṇṇanā.
+.
 9. Navamanayo sampayuttenasampayuttapadavaṇṇanā
 319..,...,..,.–
 ‘‘,;
@@ -109,22 +109,22 @@ Vippayuttenasampayuttapadavaṇṇanā.
 ‘‘,;
 ,’’.
 ,,.,.,,,,,..
-Sampayuttenasampayuttapadavaṇṇanā.
+.
 10. Dasamanayo vippayuttenavippayuttapadavaṇṇanā
 353..,..,,.,..,,,..
-Vippayuttenavippayuttapadavaṇṇanā.
+.
 11. Ekādasamanayo saṅgahitenasampayuttavippayuttapadavaṇṇanā
 409..,..,,.
 –.,,,.,,,,..
-Saṅgahitenasampayuttavippayuttapadavaṇṇanā.
+.
 12. Dvādasamanayo sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 417..,.,,.
 –.,,,,..
-Sampayuttenasaṅgahitāsaṅgahitapadavaṇṇanā.
+.
 13. Terasamanayo asaṅgahitenasampayuttavippayuttapadavaṇṇanā
 448..,,....,.,,.
 –.,.,,...
-Asaṅgahitenasampayuttavippayuttapadavaṇṇanā.
+.
 14. Cuddasamanayo vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā
 456..,.?...–
 ‘‘,;
@@ -135,7 +135,7 @@ Asaṅgahitenasampayuttavippayuttapadavaṇṇanā.
 ;
 ,’’.
 –...
-Vippayuttenasaṅgahitāsaṅgahitapadavaṇṇanā.
+.
 Nigamanakathā
 –
 ,;
@@ -146,6 +146,6 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Dhātukathā-aṭṭhakathā niṭṭhitā.
- Namo tassa bhagavato arahato sammāsambuddhassa
+-.
+
 Abhidhammapiṭake

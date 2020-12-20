@@ -74,7 +74,7 @@
 ‘‘’’,‘‘’’,‘‘’’.‘‘’’,‘‘’’.
 6..-‘‘,’’(dī. ni. 2.65; ma. ni. 1.281; saṃ. ni. 1.172),.‘‘,,’’(saṃ. ni. 3.182; a. ni. 4.257),.‘‘,,’’(ma. ni. 1.206; saṃ. ni. 4.14; a. ni. 3.104),,.-..
 .....
-Paṭhamapīṭhavimānavaṇṇanā niṭṭhitā.
+.
 2. Dutiyapīṭhavimānavaṇṇanā
 ..–..–
 8.
@@ -99,7 +99,7 @@ Paṭhamapīṭhavimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 8...,..,,...
-Dutiyapīṭhavimānavaṇṇanā niṭṭhitā.
+.
 3. Tatiyapīṭhavimānavaṇṇanā
 ...‘‘,,’’,‘‘’’.‘‘,,’’...–
 15.
@@ -129,7 +129,7 @@ Dutiyapīṭhavimānavaṇṇanā niṭṭhitā.
 19.,-‘‘’’(dhātu. 71).‘‘’’(a. ni. 3.71).‘‘,,’’(mahāva. 124).‘‘’’(dī. ni. 1.303).‘‘,,’’(dī. ni. 2.31; ma. ni. 3.207).‘‘’’(dī. ni. 1.244; ma. ni. 1.53)....,.,‘‘’’.
 20...,,.,,,.,.....‘‘’’,‘‘’’,‘‘’’.‘‘’’.....
 ‘‘’’,‘‘’’,‘‘’’.‘‘’’,‘‘’’,..
-Tatiyapīṭhavimānavaṇṇanā niṭṭhitā.
+.
 4. Catutthapīṭhavimānavaṇṇanā
 .,...–
 23.
@@ -157,7 +157,7 @@ Tatiyapīṭhavimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .‘‘’’..
-Catutthapīṭhavimānavaṇṇanā niṭṭhitā.
+.
 5. Kuñjaravimānavaṇṇanā
 .?..,,,,..
 ‘‘’’.‘‘,,,.,,,,,’’.‘‘’’.
@@ -213,7 +213,7 @@ Catutthapīṭhavimānavaṇṇanā niṭṭhitā.
 40.‘‘’’‘‘’’.‘‘,’’.,....
 41.....,.
 42..-..,,..,.–,,..
-Kuñjaravimānavaṇṇanā niṭṭhitā.
+.
 6. Paṭhamanāvāvimānavaṇṇanā
 .?‘‘,’’,,..‘‘,’’.‘‘’’..
 .....–
@@ -257,7 +257,7 @@ Kuñjaravimānavaṇṇanā niṭṭhitā.
 48.,..
 49....,‘‘’’.
 50.,.,...
-Paṭhamanāvāvimānavaṇṇanā niṭṭhitā.
+.
 7. Dutiyanāvāvimānavaṇṇanā
 .?,,.‘‘,,’’‘‘,’’‘‘’’......–
 53.
@@ -291,7 +291,7 @@ Paṭhamanāvāvimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .
-Dutiyanāvāvimānavaṇṇanā niṭṭhitā.
+.
 8. Tatiyanāvāvimānavaṇṇanā
 .?.‘‘’’.‘‘,,’’,,,.(udā. 69)‘‘‘’’’.
 ..‘‘,,’’.
@@ -342,7 +342,7 @@ Dutiyanāvāvimānavaṇṇanā niṭṭhitā.
 72..,.‘‘’’....
 74.,.,,..
 .,.
-Tatiyanāvāvimānavaṇṇanā niṭṭhitā.
+.
 9. Dīpavimānavaṇṇanā
 .?.,.‘‘’’.....–
 75.
@@ -381,7 +381,7 @@ Tatiyanāvāvimānavaṇṇanā niṭṭhitā.
 77.,,..‘‘’’,.
 81.,.‘‘’’,.,...
 ,.,.,.
-Dīpavimānavaṇṇanā niṭṭhitā.
+.
 10. Tiladakkhiṇavimānavaṇṇanā
 .?..,.‘‘,’’...‘‘’’..
 –
@@ -413,7 +413,7 @@ Dīpavimānavaṇṇanā niṭṭhitā.
 ,’’.–
 .
 90.-‘‘’’(cūḷava. 350).‘‘’’(dī. ni. 3.336; a. ni. 8.31)..,.‘‘’’.‘‘,’’..
-Tiladakkhiṇavimānavaṇṇanā niṭṭhitā.
+.
 11. Paṭhamapatibbatāvimānavaṇṇanā
 .?.,,....–
 93.
@@ -447,7 +447,7 @@ Tiladakkhiṇavimānavaṇṇanā niṭṭhitā.
 94..
 97.,,,.,,.,.
 98..,–.,.,..
-Patibbatāvimānavaṇṇanā niṭṭhitā.
+.
 12. Dutiyapatibbatāvimānavaṇṇanā
 .?,,..
 101.
@@ -480,7 +480,7 @@ Patibbatāvimānavaṇṇanā niṭṭhitā.
 104-5..–
 ‘‘,,,,,,,’’(saṃ. ni. 5.1033).
 .‘‘’’...
-Dutiyapatibbatāvimānavaṇṇanā niṭṭhitā.
+.
 13. Paṭhamasuṇisāvimānavaṇṇanā
 .?‘‘’’,...–
 108.
@@ -509,7 +509,7 @@ Dutiyapatibbatāvimānavaṇṇanā niṭṭhitā.
 ,’’.
 112..‘‘’’,‘‘’’.‘‘’’.
 113....
-Suṇisāvimānavaṇṇanā niṭṭhitā.
+.
 14. Dutiyasuṇisāvimānavaṇṇanā
 .,.–
 116.
@@ -537,7 +537,7 @@ Suṇisāvimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 121..‘‘’’...
-Dutiyasuṇisāvimānavaṇṇanā niṭṭhitā.
+.
 15. Uttarāvimānavaṇṇanā
 .?.,,.‘‘’’.‘‘,,,’’.‘‘,,,?’.‘‘’’.‘‘,,,’’.
 ‘‘’’‘‘,’’.‘‘’’..‘‘’’.
@@ -608,7 +608,7 @@ Dutiyasuṇisāvimānavaṇṇanā niṭṭhitā.
 ,’’.(saṃ. ni. 1.115);
 ‘‘’’‘‘’’,..,.‘‘’’.‘‘,,’’.,.
 136.-.‘‘,’’....
-Uttarāvimānavaṇṇanā niṭṭhitā.
+.
 16. Sirimāvimānavaṇṇanā
 .?...‘‘’’,,..,‘‘,’’?‘‘’’.‘‘,’’.‘‘,,,’’..
 ‘‘’’‘‘,,’’.,...‘‘’’.‘‘,’’.‘‘,’’.‘‘,’’...,.
@@ -683,7 +683,7 @@ Uttarāvimānavaṇṇanā niṭṭhitā.
 148........
 149..,.,,..
 .,,.
-Sirimāvimānavaṇṇanā niṭṭhitā.
+.
 17. Kesakārīvimānavaṇṇanā
 .?...‘‘,,’’?‘‘,,,,,’’.
 .‘‘,’’?‘‘,’’,,.‘‘’’.‘‘,’’.‘‘’’.‘‘’’..,.–
@@ -723,9 +723,9 @@ Sirimāvimānavaṇṇanā niṭṭhitā.
 ’’.–;
 156..,..
 ,...
-Kesakārīvimānavaṇṇanā niṭṭhitā.
-Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
-Sattarasavatthupaṭimaṇḍitassa paṭhamassa pīṭhavaggassa
+.
+-
+
 .
 2. Cittalatāvaggo
 1. Dāsivimānavaṇṇanā
@@ -797,7 +797,7 @@ Sattarasavatthupaṭimaṇḍitassa paṭhamassa pīṭhavaggassa
 171.‘‘’’.
 172.‘‘’’..,.,.
 ...
-Dāsivimānavaṇṇanā niṭṭhitā.
+.
 2. Lakhumāvimānavaṇṇanā
 .?,‘‘’’.,.,..,..‘‘’’.–
 173.
@@ -836,7 +836,7 @@ Dāsivimānavaṇṇanā niṭṭhitā.
 177..
 178...‘‘’’.
 ..
-Lakhumāvimānavaṇṇanā niṭṭhitā.
+.
 3. Ācāmadāyikāvimānavaṇṇanā
 .?......
 ‘‘,’’‘‘,,’’..‘‘,,,’’.
@@ -887,7 +887,7 @@ Lakhumāvimānavaṇṇanā niṭṭhitā.
 193.,..,..,....
 194...,.
 ...
-Ācāmadāyikāvimānavaṇṇanā niṭṭhitā.
+.
 4. Caṇḍālivimānavaṇṇanā
 .?,.‘‘’’...–
 195.
@@ -936,7 +936,7 @@ Lakhumāvimānavaṇṇanā niṭṭhitā.
 .
 205.,,..
 .,.
-Caṇḍālivimānavaṇṇanā niṭṭhitā.
+.
 5. Bhadditthivimānavaṇṇanā
 .?.....‘‘’’.
 .,.,..
@@ -986,7 +986,7 @@ Caṇḍālivimānavaṇṇanā niṭṭhitā.
 215.‘‘’’.....,..
 216..‘‘,,’’(ma. ni. 3.255)..,..
 ..
-Bhadditthivimānavaṇṇanā niṭṭhitā.
+.
 6. Soṇadinnāvimānavaṇṇanā
 .?....–
 217.
@@ -1007,7 +1007,7 @@ Bhadditthivimānavaṇṇanā niṭṭhitā.
 227.
 ‘‘…pe…’’.–
 ..
-Soṇadinnāvimānavaṇṇanā niṭṭhitā.
+.
 7.Uposathāvimānavaṇṇanā
 .,.–
 229-231.
@@ -1050,7 +1050,7 @@ Soṇadinnāvimānavaṇṇanā niṭṭhitā.
 .
 243-4..,.,.,..
 245..?.?.,..
-Uposathāvimānavaṇṇanā niṭṭhitā.
+.
 8-9. Niddā-suniddāvimānavaṇṇanā
 .‘‘…pe….…pe…’’....–
 246.
@@ -1073,7 +1073,7 @@ Uposathāvimānavaṇṇanā niṭṭhitā.
 268.
 ‘‘…pe…
 ’’.
-Niddā-suniddāvimānavaṇṇanā niṭṭhitā.
+-.
 10. Paṭhamabhikkhādāyikāvimānavaṇṇanā
 .?....‘‘,,’’‘‘’’‘‘,,,’’.......,.–
 270.
@@ -1093,7 +1093,7 @@ Niddā-suniddāvimānavaṇṇanā niṭṭhitā.
 ‘‘…pe…
 ’’.–
 ..
-Paṭhamabhikkhādāyikāvimānavaṇṇanā niṭṭhitā.
+.
 11. Dutiyabhikkhādāyikāvimānavaṇṇanā
 .?....
 278.
@@ -1103,9 +1103,9 @@ Paṭhamabhikkhādāyikāvimānavaṇṇanā niṭṭhitā.
 282.
 ‘‘…pe…
 ’’.
-Dutiyabhikkhādāyikāvimānavaṇṇanā niṭṭhitā.
-Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
-Ekādasavatthupaṭimaṇḍitassa dutiyassa cittalatāvaggassa
+.
+-
+
 .
 3. Pāricchattakavaggo
 1. Uḷāravimānavaṇṇanā
@@ -1152,7 +1152,7 @@ Ekādasavatthupaṭimaṇḍitassa dutiyassa cittalatāvaggassa
 292...,.
 293..,,.,,.‘‘’’.
 294...
-Uḷāravimānavaṇṇanā niṭṭhitā.
+.
 2. Ucchudāyikāvimānavaṇṇanā
 .?.–,,,,.–
 296.
@@ -1198,7 +1198,7 @@ Uḷāravimānavaṇṇanā niṭṭhitā.
 302.,..‘‘’’,‘‘,,(dī. ni. 3.80).’’(vi. va. 133).,....,.‘‘’’‘‘’’.
 303-5.,...,.
 306...,...,..
-Ucchudāyikāvimānavaṇṇanā niṭṭhitā.
+.
 3. Pallaṅkavimānavaṇṇanā
 .?.,,..–
 307.
@@ -1244,7 +1244,7 @@ Ucchudāyikāvimānavaṇṇanā niṭṭhitā.
 313..,.
 314..,.‘‘’’.,,,.
 315.,,,‘‘’’...
-Pallaṅkavimānavaṇṇanā niṭṭhitā.
+.
 4. Latāvimānavaṇṇanā
 .?...,,,...
 .‘‘,’’?‘‘,’’..,...
@@ -1294,7 +1294,7 @@ Pallaṅkavimānavaṇṇanā niṭṭhitā.
 324..,.,.
 325..,.‘‘’’...
 326.–,,..
-Latāvimānavaṇṇanā niṭṭhitā.
+.
 5. Guttilavimānavaṇṇanā
 .?‘‘’’.‘‘’’..‘‘,,’’.
 ..‘‘’’‘‘’’.‘‘,’’..‘‘’’.
@@ -1432,7 +1432,7 @@ Latāvimānavaṇṇanā niṭṭhitā.
 617..,.‘‘’’.
 618......‘‘,’’.
 ‘‘’’,.,.
-Guttilavimānavaṇṇanā niṭṭhitā.
+.
 6. Daddallavimānavaṇṇanā
 .?.,,..‘‘,,,,’’.‘‘’’.
 ‘‘,,’’...,...
@@ -1545,7 +1545,7 @@ Guttilavimānavaṇṇanā niṭṭhitā.
 644.,,,.?,‘‘,,(ma. ni. 3.380).,(ma. ni. 2.400; su. ni. 574; mahāva. 300).’’(ma. ni. 1.74; saṃ. ni. 5.997).
 645...,...
 ‘‘’’,,..
-Daddallavimānavaṇṇanā niṭṭhitā.
+.
 7. Pesavatīvimānavaṇṇanā
 .?..‘‘,,’’?‘‘’’.–‘‘,,’’.‘‘’’‘‘,’’...
 .‘‘’’.‘‘,’’.‘‘,,’’‘‘’’.‘‘’’‘‘’’‘‘,,’’‘‘’’.
@@ -1602,7 +1602,7 @@ Daddallavimānavaṇṇanā niṭṭhitā.
 656..,.,,.,,,...
 657...,....
 ..
-Pesavatīvimānavaṇṇanā niṭṭhitā.
+.
 8. Mallikāvimānavaṇṇanā
 .?.,.
 ,....–
@@ -1639,7 +1639,7 @@ Pesavatīvimānavaṇṇanā niṭṭhitā.
 ,’’.
 664...........
 665...‘‘,,’’(saṃ. ni. 5.139; a. ni. 4.34).....,.‘‘’’..,.
-Mallikāvimānavaṇṇanā niṭṭhitā.
+.
 9. Visālakkhivimānavaṇṇanā
 .?,...,.–
 666.
@@ -1694,7 +1694,7 @@ Mallikāvimānavaṇṇanā niṭṭhitā.
 677-8..,.
 679.,,,.,‘‘’’,,...
 .,.
-Visālakkhivimānavaṇṇanā niṭṭhitā.
+.
 10. Pāricchattakavimānavaṇṇanā
 .?.,,...
 ,,.,.–
@@ -1734,9 +1734,9 @@ Visālakkhivimānavaṇṇanā niṭṭhitā.
 ,’’.
 687.‘‘’’..
 .,.
-Pāricchattakavimānavaṇṇanā niṭṭhitā.
-Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
-Dasavatthupaṭimaṇḍitassa tatiyassa pāricchattakavaggassa
+.
+-
+
 .
 4. Mañjiṭṭhakavaggo
 1. Mañjiṭṭhakavimānavaṇṇanā
@@ -1771,7 +1771,7 @@ Dasavatthupaṭimaṇḍitassa tatiyassa pāricchattakavaggassa
 ,’’.
 694-5.,.....
 ...
-Mañjiṭṭhakavimānavaṇṇanā niṭṭhitā.
+.
 2. Pabhassaravimānavaṇṇanā
 .?..,..,.‘‘’’..–
 697.
@@ -1805,7 +1805,7 @@ Mañjiṭṭhakavimānavaṇṇanā niṭṭhitā.
 701..‘‘’’.‘‘’’,.?,.
 702..,.....‘‘’’,.,...
 703-4.....,..
-Pabhassaravimānavaṇṇanā niṭṭhitā.
+.
 3. Nāgavimānavaṇṇanā
 .?.‘‘,,’’.,..,,,..
 ..‘‘’’.–
@@ -1832,7 +1832,7 @@ Pabhassaravimānavaṇṇanā niṭṭhitā.
 ,’’.
 708-9......
 710.‘‘’’....
-Nāgavimānavaṇṇanā niṭṭhitā.
+.
 4. Alomavimānavaṇṇanā
 .?.‘‘’’,.,.–
 711.
@@ -1849,7 +1849,7 @@ Nāgavimānavaṇṇanā niṭṭhitā.
 717.
 ‘‘…pe…’’.
 716....
-Alomavimānavaṇṇanā niṭṭhitā.
+.
 5. Kañjikadāyikāvimānavaṇṇanā
 .?..‘‘,’’.‘‘’’.‘‘,,’’.‘‘,’’.‘‘’’‘‘,,’’...–
 719.
@@ -1883,7 +1883,7 @@ Alomavimānavaṇṇanā niṭṭhitā.
 ,’’.
 .
 ...
-Kañjikadāyikāvimānavaṇṇanā niṭṭhitā.
+.
 6. Vihāravimānavaṇṇanā
 .?.‘‘,,’’..
 ‘‘’’.‘‘,’’.‘‘,’’‘‘,,,’’..
@@ -1992,7 +1992,7 @@ Kañjikadāyikāvimānavaṇṇanā niṭṭhitā.
 749.‘‘’’......?.,.‘‘’’.,.‘‘’’.....‘‘,,,’’(a. ni. 4.34; 5.32; itivu. 90).
 750..
 ...
-Vihāravimānavaṇṇanā niṭṭhitā.
+.
 7. Caturitthivimānavaṇṇanā
 .?.–
 755.‘‘…pe…’’.–
@@ -2028,7 +2028,7 @@ Vihāravimānavaṇṇanā niṭṭhitā.
 773.,,.‘‘’’...,.
 780.....
 .....
-Caturitthivimānavaṇṇanā niṭṭhitā.
+.
 8. Ambavimānavaṇṇanā
 .?.‘‘,,,,’’.,....
 ,..–
@@ -2062,7 +2062,7 @@ Caturitthivimānavaṇṇanā niṭṭhitā.
 784....
 789...
 790..,..
-Ambavimānavaṇṇanā niṭṭhitā.
+.
 9. Pītavimānavaṇṇanā
 .?‘‘’’...‘‘’’–
 795.
@@ -2118,7 +2118,7 @@ Ambavimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(dha. pa. 43);
 .,,.
-Pītavimānavaṇṇanā niṭṭhitā.
+.
 10. Ucchuvimānavaṇṇanā
 ..,..
 808.
@@ -2157,7 +2157,7 @@ Pītavimānavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 .
-Ucchuvimānavaṇṇanā niṭṭhitā.
+.
 11. Vandanavimānavaṇṇanā
 .?....–
 819.‘‘…pe…’’.
@@ -2169,7 +2169,7 @@ Ucchuvimānavaṇṇanā niṭṭhitā.
 ‘‘…pe…’’.–
 .
 823...‘‘’’..,.‘‘’’..
-Vandanavimānavaṇṇanā niṭṭhitā.
+.
 12. Rajjumālāvimānavaṇṇanā
 .?.,..,.,.
 ,..‘‘’’.,..
@@ -2292,8 +2292,8 @@ Vandanavimānavaṇṇanā niṭṭhitā.
 848.,,..,.‘‘’’,.
 849....
 ...
-Rajjumālāvimānavaṇṇanā niṭṭhitā.
-Iti paramatthadīpaniyā khuddaka-aṭṭhakathāya vimānavatthusmiṃ
-Dvādasavatthupaṭimaṇḍitassa catutthassa mañjiṭṭhakavaggassa
 .
-Niṭṭhitā ca itthivimānavaṇṇanā.
+-
+
+.
+.

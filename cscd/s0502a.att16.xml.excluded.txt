@@ -16,7 +16,7 @@
 .,..,..,,‘‘’’.
 ,.?.,...,.,...
 .‘‘’’.
-Tayojanapabbajitavatthu paṭhamaṃ.
+.
 2. Aññatarakuṭumbikavatthu
 .
 ,..‘‘’’.‘‘,,’’,‘‘,,,,,..‘,’,.‘,’’’,‘‘,,,’’–
@@ -30,7 +30,7 @@ Tayojanapabbajitavatthu paṭhamaṃ.
 ,’’.
 ,.
 ,.
-Aññatarakuṭumbikavatthu dutiyaṃ.
+.
 3. Visākhāvatthu
 .
 ...‘‘,,’’.‘‘,,,’’.‘‘,,’’?‘‘,’’.‘‘,’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,,,’’.‘‘,,’’.‘‘,’’–
@@ -39,7 +39,7 @@ Aññatarakuṭumbikavatthu dutiyaṃ.
 ,’’.
 .
 .
-Visākhāvatthu tatiyaṃ.
+.
 4. Licchavīvatthu
 .
 .–‘‘,,,,’’....–‘‘,’’.,‘‘,’’–
@@ -48,7 +48,7 @@ Visākhāvatthu tatiyaṃ.
 ,’’.
 ,.
 .
-Licchavīvatthu catutthaṃ.
+.
 5. Anitthigandhakumāravatthu
 .
 ,..,‘‘,’’‘‘’’,‘‘,,’’‘‘,’’.‘‘,,’’.‘‘’’.,.‘‘,‘’’’.
@@ -59,7 +59,7 @@ Licchavīvatthu catutthaṃ.
 ,’’.
 ,.
 .
-Anitthigandhakumāravatthu pañcamaṃ.
+.
 6. Aññatarabrāhmaṇavatthu
 .
 ...,‘‘,’’.‘‘,,’’..,‘‘,’’‘‘,’’.,‘‘,’’.–‘‘,.,,,’’.
@@ -69,7 +69,7 @@ Anitthigandhakumāravatthu pañcamaṃ.
 ,’’.
 ,.
 .
-Aññatarabrāhmaṇavatthu chaṭṭhaṃ.
+.
 7. Pañcasatadārakavatthu
 .
 .,‘‘’’.–‘‘,,’’.‘‘,’’?‘‘’’?‘‘,’’.‘‘,,,’’.,.‘‘,’’.–‘‘,’’.‘‘,’’.‘‘,’’.,‘‘,,’’–
@@ -78,7 +78,7 @@ Aññatarabrāhmaṇavatthu chaṭṭhaṃ.
 ,’’.
 .,..,.,.
 .
-Pañcasatadārakavatthu sattamaṃ.
+.
 8. Ekaanāgāmittheravatthu
 .
 –‘‘,,’’.‘‘,’’..‘‘,,’’.‘‘,,’’.‘‘,,,’’?‘‘,,,,,’’.,‘‘,,,‘,’,,,’’–
@@ -87,7 +87,7 @@ Pañcasatadārakavatthu sattamaṃ.
 ,’’.
 ..‘‘’’...,.
 ,.
-Ekaanāgāmittheravatthu aṭṭhamaṃ.
+.
 9. Nandiyavatthu
 .
 ,..,.–‘‘,,,,’’..‘‘’’.
@@ -102,6 +102,6 @@ Ekaanāgāmittheravatthu aṭṭhamaṃ.
 ,’’.
 ....,..
 .
-Nandiyavatthu navamaṃ.
-Piyavaggavaṇṇanā niṭṭhitā.
-Soḷasamo vaggo.
+.
+.
+.

@@ -75,11 +75,11 @@
 ...,....,,.,.,.,.,.,.,.,.,.–‘‘,,,,,’’(ma. ni. 1.86).
 ..,..,....,.
 ,..
-Oghataraṇasuttavaṇṇanā niṭṭhitā.
+.
 2. Nimokkhasuttavaṇṇanā
 2.,...,.,.,..,‘‘’’......
 ..,...,..,,....
-Nimokkhasuttavaṇṇanā niṭṭhitā.
+.
 3. Upanīyasuttavaṇṇanā
 3.,,.,....‘‘,,,’’(dī. ni. 2.7; saṃ. ni. 2.143)...,,,.–,,.
 ‘‘,;
@@ -90,31 +90,31 @@ Nimokkhasuttavaṇṇanā niṭṭhitā.
 ,’’.(mahāni. 10);
 ,..,,..‘‘’’.‘‘’’.‘‘------’’..
 –‘‘’’..,....
-Upanīyasuttavaṇṇanā niṭṭhitā.
+.
 4. Accentisuttavaṇṇanā
 4....,.‘‘,,’’(mahāva. 348).‘‘’’(ma. ni. 3.379).‘‘’’.‘‘’’(dha. pa. 53).‘‘’’....,,.,,..
 .
 5. Katichindasuttavaṇṇanā
 5...‘‘’’..,.,...,.,.,.....
-Katichindasuttavaṇṇanā niṭṭhitā.
+.
 6. Jāgarasuttavaṇṇanā
 6...?..?....
-Jāgarasuttavaṇṇanā niṭṭhitā.
+.
 7. Appaṭividitasuttavaṇṇanā
 7.....,.,..,,,,..–,,,........
-Appaṭividitasuttavaṇṇanā niṭṭhitā.
+.
 8. Susammuṭṭhasuttavaṇṇanā
 8..,,‘‘’’‘‘’’,...
-Susammuṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 9. Mānakāmasuttavaṇṇanā
 9...‘‘,’’(saṃ. ni. 1.195).‘‘,’’(saṃ. ni. 1.246; su. ni. 191).‘‘,’’(saṃ. ni. 4.365).‘‘,,’’(saṃ. ni. 4.88; ma. ni. 3.396)..–‘‘’’.,,.....–.
 ...,....–,‘‘’’.‘‘’’.‘‘’’,.,,.,.,.,.,....,...
-Mānakāmasuttavaṇṇanā niṭṭhitā.
+.
 10. Araññasuttavaṇṇanā
 10.,.‘‘(jā. 2.21.413),’’(dha. pa. 304)...?..,,.,,.–‘‘,,,,’’..
 .,..,.,,,‘‘’’,,...
 ...,.
-Araññasuttavaṇṇanā niṭṭhitā. Naḷavaggo paṭhamo.
+..
 2. Nandanavaggo
 1. Nandanasuttavaṇṇanā
 11.......,.‘‘’’.....‘‘’’(a. ni. 10.29),..
@@ -122,21 +122,21 @@ Araññasuttavaṇṇanā niṭṭhitā. Naḷavaggo paṭhamo.
 ....,....‘‘’’.–‘‘’’.
 .,...
 .‘‘,’’‘‘’’.,.....,....
-Nandanasuttavaṇṇanā niṭṭhitā.
+.
 2. Nandatisuttavaṇṇanā
 12...,,..,‘‘’’.,.,–,,,.‘‘,’’(ma. ni. 1.166)‘‘’’.,,..---.,.,..
 –‘‘,’’.,..,.,–
 ‘‘,;
 ,’’.(su. ni. 773)–
 ..,,,.
-Nandatisuttavaṇṇanā niṭṭhitā.
+.
 3. Natthiputtasamasuttavaṇṇanā
 13.,.–‘‘’’....,,,,.
 ...(Yadā hi sattā dubbhikkhā honti),..,.,..,.,..
-Natthiputtasamasuttavaṇṇanā niṭṭhitā.
+.
 4. Khattiyasuttavaṇṇanā
 14....,,.,.,,..,,..,,,‘‘’’.‘‘,–‘,,’,,’’....,,,..,,,,,.
-Khattiyasuttavaṇṇanā niṭṭhitā.
+.
 5. Saṇamānasuttavaṇṇanā
 15......‘‘’’......,–
 ‘‘,;
@@ -144,22 +144,22 @@ Khattiyasuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(theragā. 537);
 .,..
-Saṇamānasuttavaṇṇanā niṭṭhitā.
+.
 6. Niddātandīsuttavaṇṇanā
 16.,‘‘,,’’(ma. ni. 1.387)..–‘‘?,’’(vibha. 857)....–‘‘?’’..,........
-Niddātandīsuttavaṇṇanā niṭṭhitā.
+.
 7. Dukkarasuttavaṇṇanā
 17....–...
 ,?....,..,..
 ..,..–,,,....,‘‘’’.
-Dukkarasuttavaṇṇanā niṭṭhitā.
+.
 8. Hirīsuttavaṇṇanā
 18....,,,..,....
-Hirīsuttavaṇṇanā niṭṭhitā.
+.
 9. Kuṭikāsuttavaṇṇanā
 19.,,,.,,,...
 ‘‘,,,’’....
-Kuṭikāsuttavaṇṇanā niṭṭhitā.
+.
 10. Samiddhisuttavaṇṇanā
 20...,.?,,.–
 ‘‘,,,,.,,,’’(pārā. 231).
@@ -192,8 +192,8 @@ Kuṭikāsuttavaṇṇanā niṭṭhitā.
 .‘‘’’,..........,,,,,..
 ,,.........‘‘’’.
 –..,.,...,.,.
-Samiddhisuttavaṇṇanā niṭṭhitā.
-Nandanavaggo dutiyo.
+.
+.
 3. Sattivaggo
 1. Sattisuttavaṇṇanā
 21.....;;;..,.,..
@@ -223,7 +223,7 @@ Nandanavaggo dutiyo.
 29......,.,,.‘‘,’’(dha. pa. 398; su. ni. 627),.‘‘’’,.,.,.,.....
 10. Eṇijaṅghasuttavaṇṇanā
 30.....,...,.,,...,,..
-Sattivaggo tatiyo.
+.
 4. Satullapakāyikavaggo
 1. Sabbhisuttavaṇṇanā
 31..–.,..–‘‘’’..–‘‘,’’.?.,.,,,,,,.–‘‘,’’.,.,.,‘‘,’’,.
@@ -339,7 +339,7 @@ Sattivaggo tatiyo.
 39....,‘‘’’.,.,.,‘‘’’‘‘’’.,–.,.,‘‘’’....
 10. Dutiyapajjunnadhītusuttavaṇṇanā
 40.,.,.,.,,.,.,...
-Satullapakāyikavaggo catuttho.
+.
 5. Ādittavaggo
 1. Ādittasuttavaṇṇanā
 41.,..,.,,.....
@@ -386,7 +386,7 @@ Satullapakāyikavaggo catuttho.
 ,–‘‘’’.‘‘,,’’?,...,‘‘’’...
 10. Ghaṭīkārasuttavaṇṇanā
 50.......,‘‘’’,,,...,.....
-Ādittavaggo pañcamo.
+.
 6. Jarāvaggo
 1. Jarāsuttavaṇṇanā
 51..–,‘‘,’’,..‘‘’’?..
@@ -409,7 +409,7 @@ Satullapakāyikavaggo catuttho.
 59...‘‘,’’..
 10. Kavisuttavaṇṇanā
 60..‘‘’’..,,.......
-Jarāvaggo chaṭṭho.
+.
 7. Addhavaggo
 1. Nāmasuttavaṇṇanā
 61...‘‘’’,..
@@ -427,7 +427,7 @@ Jarāvaggo chaṭṭho.
 69...
 10. Lokasuttavaṇṇanā
 70......,.,,..
-Addhavaggo sattamo.
+.
 8. Chetvāvaggo
 1. Chetvāsuttavaṇṇanā
 71.....,,,....
@@ -454,7 +454,7 @@ Addhavaggo sattamo.
 80.......,..
 11. Araṇasuttavaṇṇanā
 81.............,..
-Chetvāvaggo aṭṭhamo.
-Iti sāratthappakāsiniyā
+.
+
 -
-Devatāsaṃyuttavaṇṇanā niṭṭhitā.
+.

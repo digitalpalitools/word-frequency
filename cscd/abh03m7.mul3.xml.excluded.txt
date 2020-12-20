@@ -95,7 +95,7 @@ Terasakaṃ
 78.…pe…,,,,,,,,,…pe….
 Bāvīsakaṃ
 79.…pe….
-Gaṇanā hetumūlakā.
+.
 Ārammaṇādidukāni
 (Ārammaṇe ṭhitena sabbattha tīṇeva pañhā.)
 80.,…pe……pe….
@@ -125,7 +125,7 @@ Vipākadukaṃ
 Avigatadukaṃ
 85.,;…pe…,.
 (Ekekaṃ paccayaṃ mūlakaṃ kātūna sajjhāyantena gaṇetabbāti.)
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Paccanīyaṃ – nahetupaccayo
@@ -198,7 +198,7 @@ Tikaṃ
 105.,,,,,,,,,,,,,,,,,…pe….
 Vīsakaṃ
 106..
-Nahetumūlakaṃ.
+.
 Naārammaṇadukaṃ
 107.,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -247,7 +247,7 @@ Nonatthi-novigatadukāni
 129.…,,,,,,,,,,,,,,,,,,.
 Tikaṃ
 130.,,(sabbattha ekaṃ),…pe….
-Paccanīyaṃ
+
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 131.,,,,,,,,,,,,,,.
@@ -265,12 +265,12 @@ Terasakaṃ (savipākaṃ)
 137.…pe…,…pe….
 Tevīsakaṃ (savipākaṃ)
 138.…pe…,.
-Hetumūlakaṃ.
+.
 Ārammaṇadukaṃ
 139.,,,,,,,,,.
 Tikaṃ
 140.,,,,,,.
-Ārammaṇamūlakaṃ.
+.
 (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 Adhipatidukaṃ
 141.,,,,,,,,,,,,,…pe….
@@ -386,7 +386,7 @@ Avigatadukaṃ
 Tikaṃ
 189.,,,,,,,,,,,,,,.
 (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Anulomapaccanīyagaṇanā.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 190.,,,,,,,,,,,,,,,,,,,,.
@@ -480,8 +480,8 @@ Pannarasakaṃ
 232.…pe…,,,…pe….
 Ekavīsakaṃ
 233.…pe…,,,.
-Paccanīyānulomaṃ.
-Paṭiccavāro.
+.
+.
 2. Sahajātavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -508,14 +508,14 @@ Nahetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 240.,,,,,,,,,,,,,,,,,,,.
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 241.,,,,,,,,,,,,,,.
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 242.,,,,,,,,,,,,,,,,,,,,.
-Paccanīyānulomaṃ.
-Sahajātavāro.
+.
+.
 (Paṭiccattaṃ nāma sahajātattaṃ, sahajātattaṃ nāma paṭiccattaṃ.)
 3. Paccayavāro
 1. Paccayānulomaṃ
@@ -644,7 +644,7 @@ Kamma-vipākadukāni
 Āhārādidukāni
 276.…pe……………………pe….
 ,…pe….
-Paccayavāre anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -742,7 +742,7 @@ Tikaṃ
 Catukkaṃ
 ,(sabbattha ekaṃ).
 ….(Naārammaṇapaccayasadisaṃ.)
-Paccayavāre paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 297.,,,,,,,,,,,,,,.
@@ -817,7 +817,7 @@ Jhānadukaṃ
 Maggadukaṃ
 312.,…pe…,,,,.
 .(Saṃkhittaṃ.)
-Sampayuttapaccayā (ārammaṇapaccayasadisaṃ).
+(ārammaṇapaccayasadisaṃ).
 Vippayuttadukaṃ
 313.,,,,,,,,,,,,,,,,.
 Tikaṃ
@@ -837,7 +837,7 @@ Tevīsakaṃ (savipākaṃ)
 …(sahajātapaccayasadisaṃ).
 …(ārammaṇapaccayasadisaṃ).
 …(sahajātapaccayasadisaṃ).
-Paccayavāre anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 314.,,,,,,,,,,,,,,,,,,,,.
@@ -916,8 +916,8 @@ Tikaṃ
 Catukkaṃ
 ,,,,,,,.(Saṃkhittaṃ.)
 …(naārammaṇapaccayasadisaṃ).
-Paccayavāre paccanīyānulomaṃ.
-Paccayavāro.
+.
+.
 4. Nissayavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -937,7 +937,7 @@ Hetupaccayo
 Suddhaṃ
 333.,,,,,,,,,,,,,,,,,,,,,,.
 ,.
-Nissayavāre anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -950,17 +950,17 @@ Nahetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 335.,,,,,,,,,,,,,,,,,,,.
-Nissayavāre paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 336.,,,,,,,,,,,,,,.(Saṃkhittaṃ.)
-Nissayavāre anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 337.,,,,,,,,,,,,,,,,,,,,.(Saṃkhittaṃ.)
-Nissayavāre paccanīyānulomaṃ.
+.
 (Paccayattaṃ nāma nissayattaṃ, nissayattaṃ nāma paccayattaṃ.)
-Nissayavāro.
+.
 5. Saṃsaṭṭhavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -998,7 +998,7 @@ Hetudukaṃ
 349.,,,,,,,,,,,,,,,,,,,,.(Saṃkhittaṃ.)
 Vipākadukaṃ
 350.,,,,,,,,,,,,,,,,,,,,…pe….
-Saṃsaṭṭhavāre anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -1071,7 +1071,7 @@ Tikaṃ
 ,,,,,,…pe….
 Navakaṃ
 .
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 369.,,,,,,.
@@ -1151,7 +1151,7 @@ Tevīsakaṃ (savipākaṃ)
 Atthiādidukādi
 383.………….
 (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 384.,,,,,,,,,,,,,,,,,,,,.
@@ -1198,8 +1198,8 @@ Tikaṃ
 ,,,,,,,,,,,,,,,,,…pe….
 Navakaṃ
 .(imāni tīṇi mūlāni ekasadisāni),,,,,,,,,,,,,,.
-Paccanīyānulomaṃ.
-Saṃsaṭṭhavāro.
+.
+.
 6. Sampayuttavāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -1211,7 +1211,7 @@ Hetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 395.,,,,,,,,,,,,,,,,,,,,,,.
-Anulomaṃ.
+.
 2. Paccayapaccanīyaṃ
 1. Vibhaṅgavāro
 Nahetupaccayo
@@ -1221,16 +1221,16 @@ Nahetupaccayo
 2. Saṅkhyāvāro
 Suddhaṃ
 398.,,,,,,,,,.(Saṃkhittaṃ.)
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 399.,,,,,,.(Saṃkhittaṃ.)
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 400.,,,,,,,,,,,,,,,,,,,,.(Saṃkhittaṃ.)
-Paccanīyānulomaṃ.
-Sampayuttavāro.
+.
+.
 (Saṃsaṭṭhattaṃ nāma sampayuttattaṃ, sampayuttattaṃ nāma saṃsaṭṭhattaṃ.)
 7. Pañhāvāro
 1. Paccayānulomaṃ
@@ -1434,7 +1434,7 @@ Vigatapaccayo
 Avigatapaccayo
 438.–...(Saṃkhittaṃ)
 (Yathā atthipaccayaṃ, evaṃ vitthāretabbaṃ.)
-Pañhāvārassa vibhaṅgo.
+.
 1. Paccayānulomaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1450,12 +1450,12 @@ Saindriyamaggaghaṭanā (9)
 Sādhipati-indriya-maggaghaṭanā (6)
 443.------.--------.------.(Avipākaṃ – 3)
 -------.--------.--------.(Savipākaṃ – 3)
-Hetumūlakaṃ.
+.
 Ārammaṇasabhāgaṃ
 444.,,,,,,.(7)
 Ārammaṇaghaṭanā (5)
 445.-.---.-----.---.-----.(5)
-Ārammaṇamūlakaṃ.
+.
 Adhipatisabhāgaṃ
 446.,,,,,,,,,,,,,,.(15)
 Adhipatimissakaghaṭanā (3)
@@ -1474,29 +1474,29 @@ Vīriyādhipatighaṭanā (6)
 Vīmaṃsādhipatighaṭanā (6)
 452.-------.---------.--------.(Avipākaṃ – 3)
 --------.---------.---------.(Savipākaṃ – 3)
-Adhipatimūlakaṃ.
+.
 Anantarasabhāgaṃ
 453.,,,,,.(6)
 Anantaraghaṭanā (3)
 454.----.----.----.
-Anantaramūlakaṃ.
+.
 Samanantarasabhāgaṃ
 455.,,,,,.(6)
 Samanantaraghaṭanā (3)
 456.----.----.----.
-Samanantaramūlakaṃ.
+.
 Sahajātasabhāgaṃ
 457.,,,,,,,,,,,,,.(14)
 Sahajātaghaṭanā (10)
 458.---.---.-----.----.----.(Avipākaṃ – 5)
 ----.----.-----.-----.------.(Savipākaṃ – 5)
-Sahajātamūlakaṃ.
+.
 Aññamaññasabhāgaṃ
 459.,,,,,,,,,,,,,.(14)
 Aññamaññaghaṭanā (6)
 460.----.----.----.(Avipākaṃ – 3)
 -----.-----.-----.(Savipākaṃ – 3)
-Aññamaññamūlakaṃ.
+.
 Nissayasabhāgaṃ
 461.,,,,,,,,,,,,,,,,.(17)
 Nissayamissakaghaṭanā (6)
@@ -1506,27 +1506,27 @@ Pakiṇṇakaghaṭanā (4)
 Sahajātaghaṭanā (10)
 464.---.---.-----.----.----.(Avipākaṃ – 5)
 ----.----.-----.-----.------.(Savipākaṃ – 5)
-Nissayamūlakaṃ.
+.
 Upanissayasabhāgaṃ
 465.,,,,,,,,,,,,.(13)
 Upanissayaghaṭanā (7)
 466.-.---.-----.----.-----.-.-----.
-Upanissayamūlakaṃ.
+.
 Purejātasabhāgaṃ
 467.,,,,,,,.(8)
 Purejātaghaṭanā (7)
 468.--.----.---.----.----.------.----.
-Purejātamūlakaṃ.
+.
 Pacchājātasabhāgaṃ
 469.,,.(3)
 Pacchājātaghaṭanā (1)
 470.---.
-Pacchājātamūlakaṃ.
+.
 Āsevanasabhāgaṃ
 471.,,,,.(5)
 Āsevanaghaṭanā (1)
 472.-----.
-Āsevanamūlakaṃ.
+.
 Kammasabhāgaṃ
 473.,,,,,,,,,,,,,.(14)
 Kammapakiṇṇakaghaṭanā (2)
@@ -1534,12 +1534,12 @@ Kammapakiṇṇakaghaṭanā (2)
 Sahajātaghaṭanā (9)
 475.-----.-----.------.-----.(Avipākaṃ – 4)
 ------.------.-------.------.------.(Savipākaṃ – 5)
-Kammamūlakaṃ.
+.
 Vipākasabhāgaṃ
 476.,,,,,,,,,,,,,.(14)
 Vipākaghaṭanā (5)
 477.----.----.-----.-----.------.
-Vipākamūlakaṃ.
+.
 Āhārasabhāgaṃ
 478.,,,,,,,,,,.(11)
 Āhāramissakaghaṭanā (1)
@@ -1556,7 +1556,7 @@ Saindriyaghaṭanā (9)
 Sādhipati-indriyaghaṭanā (6)
 483.-----.------.-----.(Avipākaṃ – 3)
 ------.-------.------.(Savipākaṃ – 3)
-Āhāramūlakaṃ.
+.
 Indriyasabhāgaṃ
 484.,,,,,,,,,,,,,.(1)
 Indriyamissakaghaṭanā (3)
@@ -1590,7 +1590,7 @@ Sahetu-maggaghaṭanā (9)
 Sahetu-adhipati-maggaghaṭanā (6)
 495.------.-------.------.(Avipākaṃ – 3)
 -------.--------.--------.(Savipākaṃ – 3)
-Indriyamūlakaṃ.
+.
 Jhānasabhāgaṃ
 496.,,,,,,,,,.(10)
 Sāmaññaghaṭanā (9)
@@ -1605,7 +1605,7 @@ Samaggaghaṭanā (9)
 Saindriya-maggaghaṭanā (9)
 500.------.------.-------.------.(Avipākaṃ – 4)
 -------.-------.--------.-------.--------.(Savipākaṃ – 5)
-Jhānamūlakaṃ.
+.
 Maggasabhāgaṃ
 501.,,,,,,,,,,,.(12)
 Maggasāmaññaghaṭanā (9)
@@ -1629,13 +1629,13 @@ Sahetu-indriyaghaṭanā (9)
 Sahetādhipati-indriyaghaṭanā (6)
 508.------.-------.------.(Avipākaṃ – 3)
 -------.--------.-------.(Savipākaṃ – 3)
-Maggamūlakaṃ.
+.
 Sampayuttasabhāgaṃ
 509.,,,,,,,,,,,,.(13)
 Sampayuttaghaṭanā (2)
 510.-----.(Avipākaṃ – 1)
 ------.(Savipākaṃ – 1)
-Sampayuttamūlakaṃ.
+.
 Vippayuttasabhāgaṃ
 511.,,,,,,,,,,,,,,,,.(17)
 Vippayuttamissakaghaṭanā (4)
@@ -1645,7 +1645,7 @@ Pakiṇṇakaghaṭanā (5)
 Sahajātaghaṭanā (4)
 514.----.----.(Avipākaṃ – 2)
 -----.-----.(Savipākaṃ – 2)
-Vippayuttamūlakaṃ.
+.
 Atthisabhāgaṃ
 515.,,,,,,,,,,,,,,,,,.(18)
 Atthimissakaghaṭanā (11)
@@ -1655,17 +1655,17 @@ Pakiṇṇakaghaṭanā (8)
 Sahajātaghaṭanā (10)
 518.---.---.-----.----.----.(Avipākaṃ – 5)
 ----.----.------.-----.-----.(Savipākaṃ – 5)
-Atthimūlakaṃ.
+.
 Natthisabhāgaṃ
 519.,,,,,.(6)
 Natthighaṭanā (3)
 520.----.----.-----.
-Natthimūlakaṃ.
+.
 Vigatasabhāgaṃ
 521.,,,,,.(6)
 Vigataghaṭanā (3)
 522.----.----.----.
-Vigatamūlakaṃ.
+.
 Avigatasabhāgaṃ
 523.,,,,,,,,,,,,,,,,,.(18)
 Avigatamissakaghaṭanā (11)
@@ -1675,8 +1675,8 @@ Pakiṇṇakaghaṭanā (8)
 Sahajātaghaṭanā (10)
 526.---.---.-----.----.----.(Avipākaṃ – 5)
 ----.----.------.-----.-----.(Savipākaṃ – 5)
-Avigatamūlakaṃ.
-Pañhāvārassa anulomagaṇanā.
+.
+.
 (2) Paccanīyuddhāro
 527.…….
 ….
@@ -1693,7 +1693,7 @@ Pañhāvārassa anulomagaṇanā.
 ,,,.(2)
 531.,.
 ,,,.(2)
-Pañhāvārassa paccanīyuddhāro.
+.
 2. Paccayapaccanīyaṃ
 2. Saṅkhyāvāro
 Suddhaṃ
@@ -1726,13 +1726,13 @@ Soḷasakaṃ (saindriyaṃ)
 …pe…,,,,,.
 Ekavīsakaṃ (saindriyaṃ)
 …pe….
-Nahetumūlakaṃ.
+.
 Naārammaṇadukaṃ
 534.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Sattakaṃ
 ,,,,,,,,,,,,,,,,,…pe….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Naārammaṇamūlakaṃ.
+.
 Naadhipatyādi
 535.………(yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ).
 Nasahajātadukaṃ
@@ -1740,21 +1740,21 @@ Nasahajātadukaṃ
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,,.
 (saṃkhittaṃ).
-Nasahajātamūlakaṃ.
+.
 Naaññamaññadukaṃ
 537.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,,…pe….
 Aṭṭhakaṃ
 ,,,,,,,,,,,,,,,,(saṃkhittaṃ).
-Naaññamaññamūlakaṃ.
+.
 Nanissayadukaṃ
 538.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,,…pe….
 Dasakaṃ
 ,,,,,,,,,,,,,,(saṃkhittaṃ).
-Nanissayamūlakaṃ.
+.
 Naupanissayadukaṃ
 539.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -1765,7 +1765,7 @@ Navakaṃ
 ,,,,,,,,,,,,,,,.
 Dasakaṃ
 ,,,,,,,,,,,,,,(saṃkhittaṃ).
-Naupanissayamūlakaṃ.
+.
 Napurejātadukaṃ
 540.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -1776,7 +1776,7 @@ Dasakaṃ
 ,,,,,,,,,,,,,,.
 Ekādasakaṃ
 …pe…,,,,,,,,,,,,,(saṃkhittaṃ).
-Napurejātamūlakaṃ.
+.
 Napacchājātadukaṃ
 541.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -1787,8 +1787,8 @@ Dasakaṃ
 ,,,,,,,,,,,,,,.
 Ekādasakaṃ
 …pe…,,,,,,,,,,,,,(saṃkhittaṃ).
-Napacchājātamūlakaṃ.
-Naāsevanapaccayā… (yathā nahetupaccayā, evaṃ vitthāretabbaṃ).
+.
+…(yathā nahetupaccayā, evaṃ vitthāretabbaṃ).
 Nakammadukaṃ
 542.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -1799,7 +1799,7 @@ Ekādasakaṃ
 …pe…,,,,,,,,,,,…pe….
 Terasakaṃ
 …pe…,,,,,,,,,(saṃkhittaṃ).
-Navipākapaccayā… (yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ).
+…(yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ).
 Naāhāradukaṃ
 543.,,,,,,,,,…pe……pe….
 Catukkaṃ
@@ -1868,7 +1868,7 @@ Novigatadukaṃ
 Noavigatadukaṃ
 549.,,…pe….
 …(noatthipaccayasadisaṃ).
-Pañhāvārassa paccanīyagaṇanā.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 550.,,,,,,,,,,,,,,,,,,.(19)
@@ -1899,7 +1899,7 @@ Sādhipati-indriya-maggaghaṭanā (6)
 -------,,,,,,,,,,,,,,.
 ---------,,,,,,,,,,,,.
 --------,,,,,,,,,,,,,.(Savipākaṃ – 3)
-Hetumūlakaṃ.
+.
 Ārammaṇadukaṃ
 554.,,,,,,,,,,,,,,,,,,,,,,.(23)
 Ārammaṇaghaṭanā (5)
@@ -1908,7 +1908,7 @@ Hetumūlakaṃ.
 -----,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 -------,,,,,,,,,,,,,,,.
-Ārammaṇamūlakaṃ.
+.
 Adhipatidukaṃ
 556.,,,,,,,,,,,,,,,,,,,,,,.(23)
 Adhipatimissakaghaṭanā (3)
@@ -1947,21 +1947,21 @@ Vīmaṃsādhipatighaṭanā (6)
 --------,,,,,,,,,,,,,,.
 ----------,,,,,,,,,,,,.
 ---------,,,,,,,,,,,,,.(Savipākaṃ – 3)
-Adhipatimūlakaṃ.
+.
 Anantaradukaṃ
 563.,,,,,,,,,,,,,,,,,,.(19)
 Anantaraghaṭanā (3)
 564.----,,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
-Anantaramūlakaṃ.
+.
 Samanantaradukaṃ
 565.,,,,,,,,,,,,,,,,,,.(19)
 Samanantaraghaṭanā (3)
 566.----,,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
-Samanantaramūlakaṃ.
+.
 Sahajātadukaṃ
 567.,,,,,,,,,,,,,,,,,,,.(20)
 Sahajātaghaṭanā (10)
@@ -1975,7 +1975,7 @@ Sahajātaghaṭanā (10)
 ------,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.(Savipākaṃ – 5)
-Sahajātamūlakaṃ.
+.
 Aññamaññadukaṃ
 569.,,,,,,,,,,,,,,,,,,.(19)
 Aññamaññaghaṭanā (6)
@@ -1985,7 +1985,7 @@ Aññamaññaghaṭanā (6)
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.(Savipākaṃ – 3)
-Aññamaññamūlakaṃ.
+.
 Nissayadukaṃ
 571.,,,,,,,,,,,,,,,,,,,,.(21)
 Nissayamissakaghaṭanā (6)
@@ -2011,7 +2011,7 @@ Sahajātaghaṭanā (10)
 ------,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.(Savipākaṃ – 5)
-Nissayamūlakaṃ.
+.
 Upanissayadukaṃ
 575.,,,,,,,,,,,,,,,,,,,,,,.(23)
 Upanissayaghaṭanā (7)
@@ -2022,7 +2022,7 @@ Upanissayaghaṭanā (7)
 -----,,,,,,,,,,,,,,,,,.
 -,,,,,,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
-Upanissayamūlakaṃ.
+.
 Purejātadukaṃ
 577.,,,,,,,,,,,,,,,,,,,,.(21)
 Purejātaghaṭanā (7)
@@ -2033,17 +2033,17 @@ Purejātaghaṭanā (7)
 -----,,,,,,,,,,,,,,,,,.
 -------,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
-Purejātamūlakaṃ.
+.
 Pacchājātadukaṃ
 579.,,,,,,,,,,,,,,,,,,,.(20)
 Pacchājātaghaṭanā (1)
 580.---,,,,,,,,,,,,,,,,,,,.
-Pacchājātamūlakaṃ.
+.
 Āsevanadukaṃ
 581.,,,,,,,,,,,,,,,,,.(18)
 Āsevanaghaṭanā (1)
 582.-----,,,,,,,,,,,,,,,,,.
-Āsevanamūlakaṃ.
+.
 Kammadukaṃ
 583.,,,,,,,,,,,,,,,,,,,,,,.(23)
 Kammapakiṇṇakaghaṭanā (2)
@@ -2059,7 +2059,7 @@ Sahajātaghaṭanā (9)
 --------,,,,,,,,,,,,,,.
 -------,,,,,,,,,,,,,,,.
 --------,,,,,,,,,,,,,,.(Savipākaṃ – 5)
-Kammamūlakaṃ.
+.
 Vipākadukaṃ
 586.,,,,,,,,,,,,,,,,,,.(19)
 Vipākaghaṭanā (5)
@@ -2068,7 +2068,7 @@ Vipākaghaṭanā (5)
 -----,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.
-Vipākamūlakaṃ.
+.
 Āhāradukaṃ
 588.,,,,,,,,,,,,,,,,,,,,.(21)
 Āhāramissakaghaṭanā (1)
@@ -2110,7 +2110,7 @@ Sādhipati-indriyaghaṭanā
 -------,,,,,,,,,,,,,,,.
 ---------,,,,,,,,,,,,,.
 --------,,,,,,,,,,,,,,.(Savipākaṃ – 3)
-Āhāramūlakaṃ.
+.
 Indriyadukaṃ
 594.,,,,,,,,,,,,,,,,,,,,.(21)
 Indriyamissakaghaṭanā (3)
@@ -2200,7 +2200,7 @@ Sahetādhipati-maggaghaṭanā (6)
 -------,,,,,,,,,,,,,,.
 ---------,,,,,,,,,,,,.
 --------,,,,,,,,,,,,,.(Savipākaṃ – 3)
-Indriyamūlakaṃ.
+.
 Jhānadukaṃ
 606.,,,,,,,,,,,,,,,,,,.(19)
 Jhānasāmaññaghaṭanā (9)
@@ -2243,7 +2243,7 @@ Saindriya-maggaghaṭanā (9)
 ---------…pe….
 --------…pe….
 ---------…pe….(Savipākaṃ – 5)
-Jhānamūlakaṃ.
+.
 Maggadukaṃ
 611.,,,,,,,,,,,,,,,,,,.(19)
 Maggasāmaññaghaṭanā (9)
@@ -2310,13 +2310,13 @@ Sahetādhipati-indriyaghaṭanā (6)
 -------…pe….
 ---------…pe….
 --------…pe….(Savipākaṃ – 3)
-Maggamūlakaṃ.
+.
 Sampayuttadukaṃ
 619.,,,,,,,,,,,,,,,,,.(18)
 Sampayuttaghaṭanā (2)
 620.-----…pe….(Avipākaṃ – 1)
 ------…pe….(Savipākaṃ – 1)
-Sampayuttamūlakaṃ.
+.
 Vippayuttadukaṃ
 621.,,,,,,,,,,,,,,,,,,,,.(21)
 Vippayuttamissakaghaṭanā (4)
@@ -2335,7 +2335,7 @@ Sahajātaghaṭanā (4)
 -----,,,,,,,,,,,,,,,,,.(Avipākaṃ – 2)
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.(Savipākaṃ – 2)
-Vippayuttamūlakaṃ.
+.
 Atthidukaṃ
 625.,,,,,,,,,,,,,,,,,,,,,.(22)
 Atthimissakaghaṭanā (11)
@@ -2370,12 +2370,12 @@ Sahajātaghaṭanā (10)
 ------,,,,,,,,,,,,,,,,.
 -----,,,,,,,,,,,,,,,,,.
 ------,,,,,,,,,,,,,,,,.(Savipākaṃ – 5)
-Atthimūlakaṃ.
+.
 Natthi-vigatadukāni
 629.…pe……pe….(Natthipaccayampi vigatapaccayampi anantarapaccayasadisaṃ.)
 Avigatadukaṃ
 630.….(Yathā atthipaccayo vitthārito evaṃ avigatapaccayo vitthāretabbo.)
-Pañhāvārassa anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 631.,,,,,,,,,,,,,,,,,,,,,,.
@@ -2403,95 +2403,95 @@ Soḷasakaṃ (saindriyaṃ)
 (mūlakaṃ saṃkhittaṃ),,…pe….
 Bāvīsakaṃ (saindriyaṃ)
 (mūlakaṃ saṃkhittaṃ),,.
-Nahetumūlakaṃ.
+.
 Naārammaṇadukaṃ
 632.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Aṭṭhakaṃ
 ,,,,,,,,,…pe….
-Naārammaṇamūlakaṃ.
+.
 Naadhipatidukaṃ
 633.,….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ).
-Naadhipatimūlakaṃ.
+.
 Naanantara-nasamanantaradukāni
 634.…pe…,,,,,,,,,,,,,,,,,…pe….
 Aṭṭhakaṃ
 ,,,,,,,,,(saṃkhittaṃ).
-Nasamanantaramūlakaṃ.
+.
 Nasahajātadukaṃ
 635.,,,,,,,,,,,,,,,,…pe….
 Pañcakaṃ
 ,,,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,(saṃkhittaṃ).
-Nasahajātamūlakaṃ.
+.
 Naaññamaññadukaṃ
 636.,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,…pe….
 Aṭṭhakaṃ
 ,,,,,,,,,(saṃkhittaṃ).
-Naaññamaññamūlakaṃ.
+.
 Nanissayadukaṃ
 637.,,,,,,,,,,,,,,,…pe….
 Pañcakaṃ
 ,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,(saṃkhittaṃ).
-Nanissayamūlakaṃ.
+.
 Naupanissayadukaṃ
 638.,,,,,,,,,,,,,,,,,…pe….
 Aṭṭhakaṃ
 ,,,,,,,,(saṃkhittaṃ).
-Naupanissayamūlakaṃ.
+.
 Napurejātadukaṃ
 639.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,(saṃkhittaṃ).
-Napurejātamūlakaṃ.
+.
 Napacchājātadukaṃ
 640.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,,.
 Dasakaṃ
 ,,,,,(saṃkhittaṃ).
-Napacchājātamūlakaṃ.
+.
 Naāsevanadukaṃ
 641.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,,,(saṃkhittaṃ).
-Naāsevanamūlakaṃ.
+.
 Nakammadukaṃ
 642.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Navakaṃ
 ,,,,,,,,(saṃkhittaṃ).
-Nakammamūlakaṃ.
+.
 Navipākadukaṃ
 643.…pe….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Navipākamūlakaṃ.
+.
 Naāhāradukaṃ
 644.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
 ,,,,,,,,,,,,,,,,,,,,…pe….
 Bāvīsakaṃ
 …pe…,,(saṃkhittaṃ).
-Naāhāramūlakaṃ.
+.
 Naindriyadukaṃ
 645.,…pe……pe….(Naindriyapaccayā kamme satta pañhā.)
 Bāvīsakaṃ
 (mūlakaṃ saṃkhittaṃ),,nahetumūlake (syā.)..
-Naindriyamūlakaṃ.
+.
 Najhānadukaṃ
 646.,…pe….
 (Yathā nahetumūlakaṃ, evaṃ najhānamūlakaṃ vitthāretabbaṃ.)
-Najhānamūlakaṃ.
+.
 Namaggadukaṃ
 647.…pe….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Namaggamūlakaṃ.
+.
 Nasampayuttadukaṃ
 648.,,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -2502,7 +2502,7 @@ Dasakaṃ
 (mūlakaṃ saṃkhittaṃ),,,,,,,…pe….
 Dvādasakaṃ
 (mūlakaṃ saṃkhittaṃ),,,,,,(saṃkhittaṃ).
-Nasampayuttamūlakaṃ.
+.
 Navippayuttadukaṃ
 649.,,,,,,,,,,,,,,,,,,,,,…pe….
 Catukkaṃ
@@ -2523,7 +2523,7 @@ Sattarasakaṃ (saindriyaṃ)
 (mūlakaṃ saṃkhittaṃ),,.
 Bāvīsakaṃ (saindriyaṃ)
 (mūlakaṃ saṃkhittaṃ),,.
-Navippayuttamūlakaṃ.
+.
 Noatthidukaṃ
 650.,,,,,,,,…pe….
 Catukkaṃ
@@ -2534,18 +2534,18 @@ Catuvīsakaṃ (saupanissayaṃ)
 .
 Catuvīsakaṃ (sakammaṃ)
 .
-Noatthimūlakaṃ.
+.
 Nonatthidukaṃ
 651.…pe….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Nonatthimūlakaṃ.
+.
 Novigatadukaṃ
 652.…pe….
 (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-Novigatamūlakaṃ.
+.
 Noavigatadukaṃ
 653.…pe…,.
 (Yathā noatthimūlakaṃ, evaṃ vitthāretabbaṃ.)
-Noavigatamūlakaṃ.
-Pañhāvārassa paccanīyānulomaṃ.
-Kusalattikaṃ niṭṭhitaṃ.
+.
+.
+.

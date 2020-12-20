@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Dīghanikāye
 Mahāvaggaṭīkā
 1. Mahāpadānasuttavaṇṇanā
@@ -28,7 +28,7 @@ Jātiparicchedādivaṇṇanā
 ‘‘’’‘‘’’...,.‘‘’’‘‘,’’.-...,,..‘‘’’..
 ‘‘’’.
 .?,.‘‘’’....,.
-Jātiparicchedādivaṇṇanā niṭṭhitā
+
 Bodhiparicchedavaṇṇanā
 8..‘‘’’.,.,...,…pe…....
 ....
@@ -154,7 +154,7 @@ Vipassīsamaññāvaṇṇanā
 42.,,,,....
 ,,,...,.,,....,...,..
 ,.‘‘’’.‘‘’’.
-Paṭhamabhāṇavāravaṇṇanā niṭṭhitā.
+.
 Jiṇṇapurisavaṇṇanā
 44....‘‘’’.,.,,.........‘‘’’,.‘‘’’.‘‘’’,,.‘‘’’.
 ‘‘’’‘‘’’....‘‘’’(pārā. 39, 42, 87, 88, 90, 166, 170; pāci. 1, 13, 36).,‘‘’’...
@@ -191,7 +191,7 @@ Bodhisattaabhinivesavaṇṇanā
 ..,.
 ,..‘‘’’,.,..,.‘‘’’.
 ‘‘’’‘‘’’.(dī. ni. ṭī. 1.paṭhamamahāsaṅgītikathāvaṇṇanā).,,,.-.,...–,.,,‘‘’’,.‘‘’’(dha. pa. 153).
-Dutiyabhāṇavāravaṇṇanā niṭṭhitā.
+.
 Brahmayācanakathāvaṇṇanā
 64.,‘‘’’.‘‘’’,,,..‘‘’’,,.‘‘’’(dī. ni. 2.67; ma. ni. 1.281; 2.337; saṃ. ni. 1.172; mahāva. 7, 8).
 ‘‘’’,...‘‘’’.‘‘’’..,‘‘’’..‘‘’’(saṃ. ni. 5.1115).....,,,,.‘‘’’.,,..,.,....,‘‘’’.
@@ -263,4 +263,4 @@ Devatārocanavaṇṇanā
 ,,.,..,.,‘‘’’.,.‘‘’’.‘‘’’,.‘‘’’..
 .‘‘’’,.‘‘’’.‘‘’’.,.…pe….
 .‘‘’’..‘‘’’.‘‘’’,.,..,.
-Mahāpadānasuttavaṇṇanāya līnatthappakāsanā.
+.

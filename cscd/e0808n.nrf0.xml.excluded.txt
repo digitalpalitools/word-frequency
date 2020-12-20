@@ -1,4 +1,4 @@
-﻿Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vuttodayaṃ
 1. Saññāparibhāsāniddesa-paṭhamapariccheda
 Ratanattayappaṇāma
@@ -56,5 +56,5 @@ Garu,lahusarūpa
 16.
 ,’;
 ’’,’.
-Iti vuttodaye chandasi saññāparibhāsā niddeso nāma
-Paṭhamo paricchedo.
+
+.

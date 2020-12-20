@@ -10,7 +10,7 @@
 ,’’.
 ,.,,.‘‘’’,.,..,.,..,.,.,..,.
 ,.
-Bodhirājakumāravatthu paṭhamaṃ.
+.
 2. Upanandasakyaputtattheravatthu
 .
 ....,‘‘,’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’‘‘’’..‘‘,’’.
@@ -25,7 +25,7 @@ Bodhirājakumāravatthu paṭhamaṃ.
 ,’’.
 .–,..,,..
 ,.
-Upanandasakyaputtattheravatthu dutiyaṃ.
+.
 3. Padhānikatissattheravatthu
 .
 ,‘‘,,’’..‘‘‘’,’’...,.‘‘,’’‘‘,,’’..‘‘,,’’.‘‘,,,’’–
@@ -37,7 +37,7 @@ Upanandasakyaputtattheravatthu dutiyaṃ.
 ,’’.
 –‘‘’’,,,,..,.
 .
-Padhānikatissattheravatthu tatiyaṃ.
+.
 4. Kumārakassapamātutherīvatthu
 .
 .....‘‘’’,,‘‘’’,.‘‘,,,’’.‘‘’’‘‘’’.,,,,,..‘‘’’–‘‘,’’..‘‘’’...
@@ -52,7 +52,7 @@ Padhānikatissattheravatthu tatiyaṃ.
 ,’’.
 .–,,.,..‘‘’’.
 .
-Kumārakassapamātutherīvatthu catutthaṃ.
+.
 5. Mahākālaupāsakavatthu
 .
 ..,..‘‘’’.‘‘’’.‘‘,,,’’–
@@ -63,7 +63,7 @@ Kumārakassapamātutherīvatthu catutthaṃ.
 ,’’.
 .–,.
 .
-Mahākālaupāsakavatthu pañcamaṃ.
+.
 6. Devadattavatthu
 .
 –‘‘,’’.‘‘,,’’‘‘’’‘‘,,,’’(jā. 1.2.111-2),‘‘,’’–
@@ -72,7 +72,7 @@ Mahākālaupāsakavatthu pañcamaṃ.
 ,’’.
 .,.,..,.,,.
 .
-Devadattavatthu chaṭṭhaṃ.
+.
 7. Saṅghabhedaparisakkanavatthu
 .
 .–‘‘,,.,,.,–‘,,’.,’’.–
@@ -84,7 +84,7 @@ Devadattavatthu chaṭṭhaṃ.
 ,’’.
 –,.,.
 .
-Saṅghabhedaparisakkanavatthu sattamaṃ.
+.
 8. Kālattheravatthu
 .
 .‘‘,’’.,‘‘,’’.‘‘’’..?–‘‘’’.,‘‘,’’.‘‘’’‘‘’’.‘‘’’,‘‘,,’’.‘‘.’’–
@@ -96,7 +96,7 @@ Saṅghabhedaparisakkanavatthu sattamaṃ.
 ‘‘,;
 ,’’.(cūḷava. 335; a. ni. 4.68);
 ,.
-Kālattheravatthu aṭṭhamaṃ.
+.
 9. Cūḷakālaupāsakavatthu
 .
 .‘‘,’’.‘‘,,’’.,‘‘,,’’..,‘‘,,.,’’–
@@ -106,7 +106,7 @@ Kālattheravatthu aṭṭhamaṃ.
 ,’’.
 –,.,..,.
 ,.
-Cūḷakālaupāsakavatthu navamaṃ.
+.
 10. Attadatthattheravatthu
 .
 ,‘‘,’’‘‘,,’’.–‘‘,,’’..‘‘,,,’’‘‘,,’’.‘‘’’‘‘,,,’’.,‘‘,,.,.’’–
@@ -115,6 +115,6 @@ Cūḷakālaupāsakavatthu navamaṃ.
 ,’’.
 –.,.,‘‘’’.,.‘‘’’,.‘‘’’,.
 ,.
-Attadatthattheravatthu dasamaṃ.
-Attavaggavaṇṇanā niṭṭhitā.
-Dvādasamo vaggo.
+.
+.
+.

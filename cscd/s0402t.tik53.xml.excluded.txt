@@ -2,7 +2,7 @@
 1. Sotānugatasuttavaṇṇanā
 191.,.‘‘’’..‘‘’’‘‘’’.‘‘’’.‘‘’’....
 .,‘‘,’’.,..,....
-Sotānugatasuttavaṇṇanā niṭṭhitā.
+.
 2. Ṭhānasuttavaṇṇanā
 192..‘‘’’.,,..‘‘’’,...
 .
@@ -12,13 +12,13 @@ Sotānugatasuttavaṇṇanā niṭṭhitā.
 .,.‘‘,,’’.
 ....
 .,.‘‘’’.,...
-Ṭhānasuttavaṇṇanā niṭṭhitā.
+.
 3. Bhaddiyasuttavaṇṇanā
 193.,..
-Bhaddiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Sāmugiyasuttavaṇṇanā
 194...
-Sāmugiyasuttavaṇṇanā niṭṭhitā.
+.
 5. Vappasuttavaṇṇanā
 195...,.?.,.,.‘‘’’(ma. ni. 1.400; 3.421, 425, 426; saṃ. ni. 2.43-44; 2.4.60; kathā. 465, 467).,..
 ....‘‘’’,.,..,,‘‘’’.
@@ -27,19 +27,19 @@ Sāmugiyasuttavaṇṇanā niṭṭhitā.
 .....
 ...‘‘’’.
 ‘‘’’.‘‘’’.‘‘’’..
-Vappasuttavaṇṇanā niṭṭhitā.
+.
 6. Sāḷhasuttavaṇṇanā
 196.,.‘‘’’.,,....,,.,.–
 ‘‘,;
 ,’’.(dha. sa. aṭṭha. 1 kāmāvacarakusaladvārakathā);
 .,‘‘’’..
 .‘‘,,’’(ma. ni. 1.257)‘‘’’.‘‘’’(ma. ni. 1.328).‘‘’’(mahāva. 10).‘‘,,’’(saṃ. ni. 5.1081; mahāva. 16; paṭi. ma. 2.30).‘‘’’(dī. ni. 1.234-235).‘‘’’.‘‘’’...
-Sāḷhasuttavaṇṇanā niṭṭhitā.
+.
 7. Mallikādevīsuttavaṇṇanā
 197...‘‘’’..‘‘’’..‘‘’’.,.,.,‘‘’’.
 ...‘‘’’.,..‘‘’’.,,.,.,..‘‘’’..,‘‘’’.
 .,,.,..,.,.,.,.‘‘’’...
-Mallikādevīsuttavaṇṇanā niṭṭhitā.
+.
 8. Attantapasuttavaṇṇanā
 198.,.,,....,.‘‘’’...
 ....
@@ -78,7 +78,7 @@ Mallikādevīsuttavaṇṇanā niṭṭhitā.
 ‘‘’’(dha. sa. 16, 20).‘‘’’.,,.
 ,.,...,.‘‘’’.,...‘‘’’(dha. sa. 1162; vibha. 546),‘‘’’(dha. sa. 1163; vibha. 546)‘‘,’’.,.‘‘…pe…’’..
 .,,,,.-...‘‘’’..
-Attantapasuttavaṇṇanā niṭṭhitā.
+.
 9-10. Taṇhāsuttādivaṇṇanā
 199-200.‘‘’’.‘‘’’.,.‘‘’’.(mahāni. 3; cūḷani. mettagūmāṇavapucchāniddeso 22, khaggavisāṇasuttaniddeso 124)–
 ‘‘?,,,,,,,..’’.
@@ -89,7 +89,7 @@ Attantapasuttavaṇṇanā niṭṭhitā.
 ..‘‘’’...
 ‘‘’’,‘‘’’.....
 ..‘‘,’’.‘‘’’..‘‘’’‘‘’’.,‘‘…pe…’’.,‘‘’’,?–..
-Taṇhāsuttādivaṇṇanā niṭṭhitā.
-Mahāvaggavaṇṇanā niṭṭhitā.
-Catutthapaṇṇāsakaṃ niṭṭhitaṃ.
+.
+.
+.
 5. Pañcamapaṇṇāsakaṃ

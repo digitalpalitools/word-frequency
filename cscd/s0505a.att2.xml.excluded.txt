@@ -13,8 +13,8 @@
 424-5..‘‘,.’’.‘‘,’’–‘‘,,.–‘,’’’‘‘’’..,.,...,.,‘‘’’..
 426.‘‘,’’‘‘’’,–‘‘,’’.,.
 427.–‘‘,’’.‘‘’’..,.–‘‘,’’.–,,,,,.–‘‘,,‘’,,,‘’.,,’’.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya pabbajjāsuttavaṇṇanā niṭṭhitā.
+-
+-.
 2. Padhānasuttavaṇṇanā
 428..?‘‘,’’.–‘‘,’’.‘‘’’.
 .....‘‘’’,....
@@ -43,8 +43,8 @@ Suttanipāta-aṭṭhakathāya pabbajjāsuttavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.
 ,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya padhānasuttavaṇṇanā niṭṭhitā.
+-
+-.
 3. Subhāsitasuttavaṇṇanā
 ..,..…pe…,.–.,,,...‘‘,,’’(udā. 10).....
 ...‘‘’’,..?.,.,.,....,.
@@ -66,8 +66,8 @@ Suttanipāta-aṭṭhakathāya padhānasuttavaṇṇanā niṭṭhitā.
 455..,,..
 456..‘‘’’(saṃ. ni. 1.73; su. ni. 184)..,,,.–‘‘,’’.....?,.,..
 457..?,,.,...
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya subhāsitasuttavaṇṇanā niṭṭhitā.
+-
+-.
 4. Pūraḷāsasutta-(sundarikabhāradvājasutta)-vaṇṇanā
 .?‘‘,’’.
 .,.‘‘’’.,,..‘‘’’..‘‘‘,’...,..‘,’.‘’‘’’’..
@@ -107,8 +107,8 @@ Suttanipāta-aṭṭhakathāya subhāsitasuttavaṇṇanā niṭṭhitā.
 487..‘‘,‘’’’‘‘’’..,.......,,,.
 488-90.‘‘’’.,,.,.‘‘’’.,.,,..
 491.‘‘’’.,,.,..
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya pūraḷāsasuttavaṇṇanā niṭṭhitā.
+-
+-.
 5. Māghasuttavaṇṇanā
 .?..–‘‘,,’’...‘‘’’.
 .‘‘’’..,?,,.–‘‘’’.,,‘‘’’.
@@ -133,8 +133,8 @@ Suttanipāta-aṭṭhakathāya pūraḷāsasuttavaṇṇanā niṭṭhitā.
 514.‘‘’’‘‘’’.–‘‘’’,‘‘’’......
 ,,.‘‘’’,.,,.‘‘’’.
 515........
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya māghasuttavaṇṇanā niṭṭhitā.
+-
+-.
 6. Sabhiyasuttavaṇṇanā
 .?..,..,,‘‘’’.,‘‘’’...‘‘’’..‘‘’’.,.‘‘’’,.‘‘’’.
 ,.,‘‘’’.,.,.–‘‘,,,’’..
@@ -183,8 +183,8 @@ Suttanipāta-aṭṭhakathāya māghasuttavaṇṇanā niṭṭhitā.
 546-9.....,.,‘‘’’.‘‘’’..,.
 550-53.‘‘’’..,,,...,...
 ...,.?,,.,.‘‘,,,‘’’’–‘‘’’.‘‘’’.,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya sabhiyasuttavaṇṇanā niṭṭhitā.
+-
+-.
 7. Selasuttavaṇṇanā
 .?..,.,,‘‘’’.?.
 –.‘‘’’....
@@ -268,8 +268,8 @@ Suttanipāta-aṭṭhakathāya sabhiyasuttavaṇṇanā niṭṭhitā.
 579.
 ‘‘,;
 ,’’.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya selasuttavaṇṇanā niṭṭhitā.
+-
+-.
 8. Sallasuttavaṇṇanā
 580..?,...
 .‘‘,,’’,.‘‘,,’’.‘‘’’.,,.
@@ -307,8 +307,8 @@ Suttanipāta-aṭṭhakathāya selasuttavaṇṇanā niṭṭhitā.
 596..‘‘’’,.
 597.–‘‘…pe…’’.,,,..
 598-9.,…pe…......…pe…...,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya sallasuttavaṇṇanā niṭṭhitā.
+-
+-.
 9. Vāseṭṭhasuttavaṇṇanā
 .?....,.‘‘’’..,.
 ?...
@@ -364,8 +364,8 @@ Suttanipāta-aṭṭhakathāya sallasuttavaṇṇanā niṭṭhitā.
 660.‘‘’’‘‘’’‘‘’’‘‘’’,.‘‘…pe…’’(dī. ni. 1.42).,?‘‘,’’.‘‘,’’..,,,.
 661.,‘‘’’......?,.‘‘’’,–,.
 662...,,,..
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya vāseṭṭhasuttavaṇṇanā niṭṭhitā.
+-
+-.
 10. Kokālikasuttavaṇṇanā
 .?..,?–‘‘’’,.‘‘’’.
 .–‘‘,,’’.‘‘’’–‘‘,’’.‘‘,,’’.,,..–‘‘‘’,‘’,’’.,‘‘’’‘‘’’.‘‘’’.
@@ -397,8 +397,8 @@ Suttanipāta-aṭṭhakathāya vāseṭṭhasuttavaṇṇanā niṭṭhitā.
 680.‘‘’’(ma. ni. 3.269)...,.,‘‘’’...
 681.‘‘’’...,‘‘’’.,‘‘’’...,.
 682.‘‘’’.–,..,.,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya kokālikasuttavaṇṇanā niṭṭhitā.
+-
+-.
 11. Nālakasuttavaṇṇanā
 685..?‘‘’’.‘‘’’..‘‘’’.‘‘’’.
 ......‘‘’’....
@@ -456,8 +456,8 @@ Suttanipāta-aṭṭhakathāya kokālikasuttavaṇṇanā niṭṭhitā.
 727-9.–…pe….–,,‘‘’’.–,,,..‘‘’’,.–,.,,,.–,..,.
 .,‘‘’’..‘‘’’..‘‘’’..
 ,,.,,.,,.,..
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya nālakasuttavaṇṇanā niṭṭhitā.
+-
+-.
 12. Dvayatānupassanāsuttavaṇṇanā
 .?..,...‘‘’’.,‘‘’’..
 ,.,..,...,,,,.‘‘,,,’’.
@@ -501,8 +501,8 @@ Suttanipāta-aṭṭhakathāya nālakasuttavaṇṇanā niṭṭhitā.
 772.‘‘’’.–,,.
 .....
 ,.
-Paramatthajotikāya khuddaka-aṭṭhakathāya
-Suttanipāta-aṭṭhakathāya dvayatānupassanāsuttavaṇṇanā
+-
+-
 .
-Niṭṭhito ca tatiyo vaggo atthavaṇṇanānayato, nāmena
+,
 .

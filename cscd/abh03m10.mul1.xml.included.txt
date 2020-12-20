@@ -151,7 +151,7 @@ hetu abyākato ca nahetu abyākato ca dhammā nahetussa abyākatassa dhammassa v
 hetupaccayā  naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -182,7 +182,7 @@ hetu sukhāya vedanāya sampayutto ca nahetu sukhāya vedanāya sampayutto ca dh
 
  hetu  sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo  ārammaṇūpanissayo  anantarūpanissayo pakatūpanissayo nava 
  nahetu sukhāya vedanāya sampayutto dhammo nahetussa sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo nahetu sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa kammapaccayena paccayo nahetu sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa ca nahetussa  sukhāya vedanāya sampayuttassa ca dhammassa kammapaccayena paccayo 
-
+vipākapaccayena paccayo
  nahetu sukhāya vedanāya sampayutto dhammo nahetussa sukhāya vedanāya sampayuttassa dhammassa āhārapaccayena paccayo tīṇi hetu sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa avigatapaccayena paccayo
  hetuyā tīṇi ārammaṇe nava adhipatiyā nava anantare nava samanantare nava sahajāte nava aññamaññe nava nissaye nava upanissaye nava āsevane nava kamme tīṇi vipāke nava āhāre tīṇi indriye nava jhāne tīṇi magge nava sampayutte nava atthiyā nava natthiyā nava vigate nava avigate nava
 
@@ -256,7 +256,7 @@ hetu adukkhamasukhāya vedanāya sampayutto ca nahetu adukkhamasukhāya vedanāy
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukavedanāttikaṃ niṭṭhitaṃ
 
 
 
@@ -361,7 +361,7 @@ nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadham
  hetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo 
 nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo 
 hetu nevavipākanavipākadhammadhammo ca nahetu nevavipākanavipākadhammadhammo ca nahetussa nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo 
-
+āsevanapaccayena paccayo nava
  nahetu  nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa kammapaccayena paccayo tīṇi 
  hetuyā tīṇi ārammaṇe nava adhipatiyā cha anantare nava samanantare nava sahajāte nava aññamaññe nava nissaye nava upanissaye nava purejāte tīṇi pacchājāte tīṇi āsevane  nava kamme tīṇi āhāre tīṇi indriye nava jhāne tīṇi magge nava sampayutte nava vippayutte pañca atthiyā nava natthiyā nava vigate nava avigate nava
 
@@ -370,7 +370,7 @@ hetu nevavipākanavipākadhammadhammo ca nahetu nevavipākanavipākadhammadhammo
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukavipākattikaṃ niṭṭhitaṃ
 
 
 
@@ -468,7 +468,7 @@ naadhipatipaccayā  hetuyā cha
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukaupādinnattikaṃ niṭṭhitaṃ
 
 
 
@@ -552,7 +552,7 @@ nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo nahetussa asaṃkiliṭṭhaasa�
 hetupaccayā  naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 
-
+hetudukasaṃkiliṭṭhattikaṃ niṭṭhitaṃ
 
 
 
@@ -641,7 +641,7 @@ hetu avitakkaavicāro dhammo hetussa avitakkaavicārassa dhammassa ārammaṇapa
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukavitakkattikaṃ niṭṭhitaṃ
 
 
 
@@ -732,7 +732,7 @@ hetu upekkhāsahagato dhammo hetussa upekkhāsahagatassa dhammassa  adhipatipacc
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi naṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukapītittikaṃ niṭṭhitaṃ
 
 
 
@@ -816,7 +816,7 @@ hetu  nevadassanena nabhāvanāya pahātabbo dhammo hetussa nevadassanena nabhā
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukadassanenapahātabbattikaṃ niṭṭhitaṃ
 
 
 
@@ -892,7 +892,7 @@ nahetupaccayā ārammaṇe ekaṃ
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukadassanenapahātabbahetukattikaṃ niṭṭhitaṃ
 
 
 
@@ -985,7 +985,7 @@ nahetu nevācayagāmināpacayagāmī dhammo nahetussa nevācayagāmināpacayagā
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukaācayagāmittikaṃ niṭṭhitaṃ
 
 
 
@@ -1076,7 +1076,7 @@ nahetu nevasekkhanāsekkho dhammo nahetussa nevasekkhanāsekkhassa dhammassa pur
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukasekkhattikaṃ niṭṭhitaṃ
 
 
 
@@ -1169,7 +1169,7 @@ hetu appamāṇo dhammo hetussa appamāṇassa dhammassa upanissayapaccayena pac
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 
-
+hetudukaparittattikaṃ niṭṭhitaṃ
 
 
 
@@ -1258,7 +1258,7 @@ hetu appamāṇārammaṇo ca nahetu appamāṇārammaṇo ca dhammā hetussa ap
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā  ārammaṇe nava 
 
-
+hetudukaparittārammaṇattikaṃ niṭṭhitaṃ
 
 
 
@@ -1340,7 +1340,7 @@ hetu paṇīto dhammo hetussa paṇītassa dhammassa adhipatipaccayena paccayo  
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukahīnattikaṃ niṭṭhitaṃ
 
 
 
@@ -1428,7 +1428,7 @@ hetu aniyato ca nahetu aniyato ca dhammā hetussa aniyatassa dhammassa adhipatip
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukamicchattaniyatattikaṃ niṭṭhitaṃ
 
 
 
@@ -1514,7 +1514,7 @@ hetu maggādhipati ca nahetu maggādhipati ca dhammā hetussa maggādhipatissa d
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukamaggārammaṇattikaṃ niṭṭhitaṃ
 
 
 
@@ -1533,7 +1533,7 @@ nahetu uppanno dhammo nahetussa uppannassa dhammassa upanissayapaccayena paccayo
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 
-
+hetudukauppannattikaṃ niṭṭhitaṃ
 
 
 
@@ -1551,7 +1551,7 @@ hetu paccuppanno dhammo hetussa paccuppannassa dhammassa sahajātapaccayena pacc
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe tīṇi 
 
-
+hetudukaatītattikaṃ niṭṭhitaṃ
 
 
 
@@ -1643,7 +1643,7 @@ hetu paccuppannārammaṇo ca nahetu paccuppannārammaṇo ca dhammā hetussa pa
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā  ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+hetudukaatītārammaṇattikaṃ niṭṭhitaṃ
 
 
 
@@ -1705,7 +1705,7 @@ hetu bahiddhā ca nahetu bahiddhā ca dhammā hetussa bahiddhā dhammassa adhipa
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ ajjhattabahiddhā na labbhanti)
-
+hetudukaajjhattattikaṃ niṭṭhitaṃ
 
 
 
@@ -1759,7 +1759,7 @@ nahetu bahiddhārammaṇo dhammo nahetussa bahiddhārammaṇassa dhammassa adhip
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukaajjhattārammaṇattikaṃ niṭṭhitaṃ
 
 
 
@@ -1804,4 +1804,4 @@ hetu anidassanaappaṭigho ca nahetu anidassanaappaṭigho ca dhammā hetussa an
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetudukasanidassanasappaṭighattikaṃ niṭṭhitaṃ

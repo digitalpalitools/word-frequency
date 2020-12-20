@@ -89,7 +89,7 @@ sahetuko abyākato dhammo sahetukassa abyākatassa dhammassa ārammaṇapaccayen
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe cattāri 
 (yathā  kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ)
-
+sahetukadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -173,7 +173,7 @@ hetusampayutto abyākato dhammo hetusampayuttassa abyākatassa dhammassa āramma
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe cattāri 
 
-
+hetusampayuttadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -246,7 +246,7 @@ naadhipatipaccayā hetuyā nava
 hetupaccayā  naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetusahetukadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -317,7 +317,7 @@ naadhipatipaccayā  hetuyā nava
 hetupaccayā naārammaṇe tīṇi 
 nahetupaccayā ārammaṇe nava 
 
-
+hetuhetusampayuttadukakusalattikaṃ niṭṭhitaṃ
 
 
 
@@ -354,5 +354,5 @@ nahetupaccayā ārammaṇe ekaṃ
 ārammaṇapaccayā nahetuyā cattāri 
 nahetupaccayā ārammaṇe cattāri 
 
-
-
+nahetusahetukadukakusalattikaṃ niṭṭhitaṃ
+hetugocchakaṃ niṭṭhitaṃ

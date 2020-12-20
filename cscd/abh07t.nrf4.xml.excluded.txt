@@ -17,7 +17,7 @@ Bhūmicatukkaṃ
 .
 14.,.
 ,.
-Idamettha bhūmicatukkaṃ.
+.
 Paṭisandhicatukkaṃ
 15..
 16.,.
@@ -56,7 +56,7 @@ Paṭisandhicatukkaṃ
 48..
 49.,.
 .
-Idamettha paṭisandhicatukkaṃ.
+.
 Kammacatukkaṃ
 50..
 51..
@@ -101,7 +101,7 @@ Kammacatukkaṃ
 87..
 88.,.
 ,.
-Idamettha kammacatukkaṃ.
+.
 Cutipaṭisandhikkamo
 89..
 90.,,,,.
@@ -116,7 +116,7 @@ Cutipaṭisandhikkamo
 ,.
 ,;
 ,.
-Ayamettha cutipaṭisandhikkamo.
+.
 99..
 100..
 101..
@@ -124,5 +124,5 @@ Ayamettha cutipaṭisandhikkamo.
 ,.
 ,;
 ,.
-Iti abhidhammatthasaṅgahe vīthimuttasaṅgahavibhāgo nāma
-Pañcamo paricchedo.
+
+.

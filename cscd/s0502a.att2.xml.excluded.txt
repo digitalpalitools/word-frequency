@@ -126,7 +126,7 @@
 ,.?,.,.,.
 ..,.,.,..,.,.
 ..
-Sāmāvatīvatthu paṭhamaṃ.
+.
 2. Kumbhaghosakaseṭṭhivatthu
 .,,,,.–‘‘,,,’’..
 .–‘‘,,‘’,’’.,‘‘’’.,‘‘,’’.‘‘’’?‘‘.,‘,,,,;,,,’’’.‘‘’’...
@@ -143,7 +143,7 @@ Sāmāvatīvatthu paṭhamaṃ.
 ’’.
 ...,,..,...
 ...
-Kumbhaghosakaseṭṭhivatthu dutiyaṃ.
+.
 3. Cūḷapanthakattheravatthu
 .
 ,‘‘’’–‘‘.,.’’.,‘‘’’..,‘‘,,’’.‘‘,’’‘‘,’’.–‘‘,,,,’’..
@@ -189,7 +189,7 @@ Kumbhaghosakaseṭṭhivatthu dutiyaṃ.
 ,’’.
 ,,,,.?..
 ..
-Cūḷapanthakattheravatthu tatiyaṃ.
+.
 4. Bālanakkhattasaṅghuṭṭhavatthu
 .
 ......,–‘‘,,’’.,.,‘‘,,,,,’’.,‘‘,’’–
@@ -201,7 +201,7 @@ Cūḷapanthakattheravatthu tatiyaṃ.
 ,’’.
 ..,..‘‘,,’’,‘‘,,,’’....
 ..
-Bālanakkhattasaṅghuṭṭhavatthu catutthaṃ.
+.
 5. Mahākassapattheravatthu
 .
 .‘‘’’‘‘’’‘‘,,,,,’’–
@@ -211,7 +211,7 @@ Bālanakkhattasaṅghuṭṭhavatthu catutthaṃ.
 ,’’.
 ,,,.?,,.
 .
-Mahākassapattheravatthu pañcamaṃ.
+.
 6. Pamattāpamattadvesahāyakavatthu
 .
 ..,‘‘,,.’’.‘‘’’.,‘‘,,’’.....,‘‘,,,’’.–‘‘,,,’’.‘‘’’.‘‘,,’’.‘‘‘’,’’.,,‘‘,’’–
@@ -220,7 +220,7 @@ Mahākassapattheravatthu pañcamaṃ.
 ,’’.
 .......,.,..
 .
-Pamattāpamattadvesahāyakavatthu chaṭṭhaṃ.
+.
 7. Maghavatthu
 .
 ,(dī. ni. 2.344 ādayo)‘‘,‘,.,’’’.,,,,,,–‘‘,,’’?‘‘,,’’.‘‘,,.,,’’.‘‘,,,,’’.
@@ -260,7 +260,7 @@ Pamattāpamattadvesahāyakavatthu chaṭṭhaṃ.
 ,’’.
 .‘‘’’..?..?..
 ,.
-Maghavatthu sattamaṃ.
+.
 8. Aññatarabhikkhuvatthu
 .
 .‘‘’’–‘‘,’’.,‘‘,,,’’–
@@ -269,7 +269,7 @@ Maghavatthu sattamaṃ.
 ,’’.
 ,.,.....
 .
-Aññatarabhikkhuvatthu aṭṭhamaṃ.
+.
 9. Nigamavāsitissattheravatthu
 .
 ‘‘’’..,.‘‘,,’’.,‘‘,,’’,‘‘,,,.,,’’–‘‘,’’,‘‘,.,’’–
@@ -282,5 +282,5 @@ Aññatarabhikkhuvatthu aṭṭhamaṃ.
 ,’’.
 ,,..
 ...
-Nigamavāsitissattheravatthu navamaṃ.
-Appamādavaggavaṇṇanā niṭṭhitā. Dutiyo vaggo.
+.
+..

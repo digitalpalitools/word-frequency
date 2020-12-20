@@ -55,7 +55,7 @@
 ,.
 ‘‘…pe…’’.
 ,.
-Abhirūpanandātherīgāthāvaṇṇanā niṭṭhitā.
+.
 2. Jentātherīgāthāvaṇṇanā
 ...–
 21.
@@ -67,7 +67,7 @@ Abhirūpanandātherīgāthāvaṇṇanā niṭṭhitā.
 .
 ,‘‘’’..,,.
 -.,.,.–‘‘,,,’’(saṃ. ni. 3.87)‘‘,,’’(ma. ni. 1.20; saṃ. ni. 3.1)..
-Jentātherīgāthāvaṇṇanā niṭṭhitā.
+.
 3. Sumaṅgalamātutherīgāthāvaṇṇanā
 ....,‘‘’’..–
 23.
@@ -79,7 +79,7 @@ Jentātherīgāthāvaṇṇanā niṭṭhitā.
 .
 .-,.,‘‘’’.,‘‘’’...,.,...-,..‘‘’’.‘‘’’.,.
 ,,...,.,.
-Sumaṅgalamātutherīgāthāvaṇṇanā niṭṭhitā.
+.
 4. Aḍḍhakāsitherīgāthāvaṇṇanā
 .,...–
 .‘‘’’.–‘‘’’..‘‘’’.–‘‘,’’?–‘‘,,’’(cūḷava. 430).
@@ -122,7 +122,7 @@ Sumaṅgalamātutherīgāthāvaṇṇanā niṭṭhitā.
 .
 ,,,.?.,.–‘‘,’’..,.–‘‘,’’.,.
 .‘‘,,’’..,.‘‘’’.,.,.
-Aḍḍhakāsitherīgāthāvaṇṇanā niṭṭhitā.
+.
 5. Cittātherīgāthāvaṇṇanā
 ....–
 ‘‘,;
@@ -149,7 +149,7 @@ Aḍḍhakāsitherīgāthāvaṇṇanā niṭṭhitā.
 .
 .,...
 ..,,,.
-Cittātherīgāthāvaṇṇanā niṭṭhitā.
+.
 6. Mettikātherīgāthāvaṇṇanā
 .....(apa. therī 2.1.20-25)–
 ‘‘,;
@@ -170,7 +170,7 @@ Cittātherīgāthāvaṇṇanā niṭṭhitā.
 .
 .,.‘‘’’,.
 ,..
-Mettikātherīgāthāvaṇṇanā niṭṭhitā.
+.
 7. Mittātherīgāthāvaṇṇanā
 ....(apa. therī 2.1.46-59)–
 ‘‘,;
@@ -210,7 +210,7 @@ Mettikātherīgāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(su. ni. 402-403);
 ....–‘‘’’,..
-Mittātherīgāthāvaṇṇanā niṭṭhitā.
+.
 8. Abhayamātutherīgāthāvaṇṇanā
 ...–‘‘,’’.‘‘,’’...–‘‘’’.‘‘,’’..‘‘’’....(apa. therī 2.1.60-70)–
 ‘‘,;
@@ -240,7 +240,7 @@ Mittātherīgāthāvaṇṇanā niṭṭhitā.
 –,,..
 ‘‘’’.
 ‘‘’’..,.
-Abhayamātutherīgāthāvaṇṇanā niṭṭhitā.
+.
 9. Abhayātherīgāthāvaṇṇanā
 ...‘‘.’’......–
 35.
@@ -291,7 +291,7 @@ Abhayamātutherīgāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.–
 ,..
-Abhayātherīgāthāvaṇṇanā niṭṭhitā.
+.
 10. Sāmātherīgāthāvaṇṇanā
 .....
 –
@@ -304,5 +304,5 @@ Abhayātherīgāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 ,‘‘’’.‘‘,’’....,.–‘‘,’’..
-Sāmātherīgāthāvaṇṇanā niṭṭhitā.
-Dukanipātavaṇṇanā niṭṭhitā.
+.
+.

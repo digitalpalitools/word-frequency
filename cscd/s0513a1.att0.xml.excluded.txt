@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Jātaka-aṭṭhakathā
 (Paṭhamo bhāgo)
@@ -463,7 +463,7 @@ Sumedhakathā
 ,.
 ‘‘,;
 ,’’.
-Sumedhakathā niṭṭhitā.
+.
 ..,.–
 ‘‘,;
 ,.
@@ -661,7 +661,7 @@ Sumedhakathā niṭṭhitā.
 ‘‘,;
 ,’’.(cariyā. 1.124)–
 .,.
-Dūrenidānakathā niṭṭhitā.
+.
 2. Avidūrenidānakathā
 .–,,.‘‘’’‘‘,,,,,,,,,,,’’..‘‘’’..‘‘’’...
 ‘‘’’..‘‘,,,,,,’’.
@@ -754,7 +754,7 @@ Dūrenidānakathā niṭṭhitā.
 ,;
 ,’’.(dha. pa. 153-154);
 ,.
-Avidūrenidānakathā niṭṭhitā.
+.
 3. Santikenidānakathā
 ‘‘‘.’’’.,–‘‘,,,,.,’’.‘‘’’(udā. 1; mahāva. 1).
 ‘‘,’’..,,,.
@@ -859,4 +859,4 @@ Avidūrenidānakathā niṭṭhitā.
 ..,...
 ........
 ,,.
-Nidānakathā niṭṭhitā.
+.

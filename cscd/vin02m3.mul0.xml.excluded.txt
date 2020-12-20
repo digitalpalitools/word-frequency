@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Cūḷavaggapāḷi
 1. Kammakkhandhakaṃ
@@ -24,7 +24,7 @@ Adhammakammadvādasakaṃ
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
-Adhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Dhammakammadvādasakaṃ
 5.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
@@ -38,7 +38,7 @@ Dhammakammadvādasakaṃ
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
-Dhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Ākaṅkhamānachakkaṃ
 6.pari. 323‘‘,,,,.;;–,,,,.
 ‘‘,,,,.,,–,,,,.
@@ -46,30 +46,30 @@ Dhammakammadvādasakaṃ niṭṭhitaṃ.
 ‘‘,,,,.;;–,,,,.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
-Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
+.
 Aṭṭhārasavattaṃ
 7.‘‘,,.–,,,sammati (syā.),.,,;,.,,,,,,,na bhikkhū bhikkhūhi (syā.)’’.
-Tajjanīyakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
+.
 Nappaṭippassambhetabbaaṭṭhārasakaṃ
 8..,,,–‘‘,,,,,’’?…pe….‘‘,,.
 ,,.,,,,–,,.
 pari. 420‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,bhikkhū bhikkhūhi sampayojeti (syā.)–,,.
-Nappaṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 Paṭippassambhetabbaaṭṭhārasakaṃ
 9.‘‘,,.,,,,–,,.
 ‘‘,,.,,;,–,,.
-‘‘Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno tajjanīyakammaṃ paṭippassambhetabbaṃ.
+‘‘,,.
 ,,,,,,,–,,,.
-Paṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 10.‘‘,,.,,–‘,,,,,’...–
 ‘‘,,.,,,.,..
 ‘‘,,.,,,..,;,.
 ‘‘–,,.,,,..,;,.
 ‘‘–,,.,,,..,;,.
-‘‘Paṭippassaddhaṃ saṅghena paṇḍukalohitakānaṃ bhikkhūnaṃ tajjanīyakammaṃ. Khamati saṅghassa,
+‘‘.,
 ,’’.
-Tajjanīyakammaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Niyassakammaṃ
 11.;;pakatattā (sī. syā.).…pe…–‘‘;;’’..
 –‘‘,,;;’’?‘‘’’.–‘‘,,.,,;;.,,…pe……pe…–‘‘,,niyasakammaṃ (ka.)–.,,.,,āpatti āropetabbā (sī. syā.),–
@@ -90,7 +90,7 @@ Adhammakammadvādasakaṃ
 ‘‘,…pe…,,–,…pe….
 ‘‘,…pe…,,–,…pe….
 ‘‘,,,,.,,–,,,,.
-Adhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Dhammakammadvādasakaṃ
 14.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
@@ -104,7 +104,7 @@ Dhammakammadvādasakaṃ
 ‘‘,…pe…,,–,…pe….
 ‘‘,…pe…,,–,…pe….
 ‘‘,,,,.,,–,,,,.
-Dhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Ākaṅkhamānachakkaṃ
 15.pari. 323‘‘,,,,.;;–,,,,.
 ‘‘,,,,.,,–,,,,.
@@ -112,29 +112,29 @@ Dhammakammadvādasakaṃ niṭṭhitaṃ.
 ‘‘,,,,.;,;–,,,,.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
-Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
+.
 Aṭṭhārasavattaṃ
 16.‘‘,,.–,,,,.,,;,.,,,,,,,’’.
-Niyassakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
+.
 17.–.,.,,,–‘‘,,,,.’’?…pe….‘‘,,.
 Nappaṭippassambhetabbaaṭṭhārasakaṃ
 18.‘‘,,.,,,,–,,.
 pari. 420‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,–,,.
-Nappaṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 Paṭippassambhetabbaaṭṭhārasakaṃ
 19.‘‘,,.,,,,–,,.
 ‘‘,,.,,;,–,,.
-‘‘Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno niyassakammaṃ paṭippassambhetabbaṃ.
+‘‘,,.
 ,,,,,,,–,,.
-Paṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 20.‘‘,,.,,–‘,,,,,’...–
 ‘‘,,.,,,.,..
 ‘‘,,.,,,..,;,.
 ‘‘–,,.,,,..,;,.
 ‘‘–,,.,,,..,;,.
 ‘‘.,,’’.
-Niyassakammaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Pabbājanīyakammaṃ
 21.idaṃ vatthu pārā. 431 ādayonāma bhikkhū (ka.).cūḷava. 292 ādayo–,,,,,,,vidhutikaṃ (syā.),,,.,,,,,,.,,,,,,,,,,,,,;,,,;,,,;,,,;,,,;,,,,,,,,,,,,,,,,,,;,,,,;,,purato dhāvanti (syā.);,,,;naccantiṃ (sī. syā.)–‘‘,,’’;;.
 22.vassaṃvuttho (sī. syā.).sammiñjitena (sī. syā. kaṃ.),.–‘‘??.’’.
@@ -149,11 +149,11 @@ Niyassakammaṃ niṭṭhitaṃ dutiyaṃ.
 Adhammakammadvādasakaṃ
 25.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,.
-Adhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Dhammakammadvādasakaṃ
 26.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,.
-Dhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Ākaṅkhamānacuddasakaṃ
 27.pari. 323‘‘,,,,.;;–,,,,.
 ‘‘,,,,.,,–,,,,.
@@ -169,29 +169,29 @@ Dhammakammadvādasakaṃ niṭṭhitaṃ.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,–,,,,.
-Ākaṅkhamānacuddasakaṃ niṭṭhitaṃ.
+.
 Aṭṭhārasavattaṃ
 28.‘‘,,.–,,,,.,,;,.,,,,,,,’’.
-Pabbājanīyakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
+.
 29.–.,,;,,;;,.…pe…–‘‘,,;,,;;,’’..
 –‘‘,,,,;,,;;,’’?‘‘’’.–‘‘…pe…,,,,;,,;;,.,,…pe……pe…–‘‘,,.
 Nappaṭippassambhetabbaaṭṭhārasakaṃ
 30.‘‘,,.,,,,–,,.
 pari. 420‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,–,,.
-Pabbājanīyakamme nappaṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 Paṭippassambhetabbaaṭṭhārasakaṃ
 31.‘‘,,.,,,,–,,.
 ‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,–,,.
-Pabbājanīyakamme paṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 32.‘‘,,.,,–‘,,,,,’...–
 ‘‘,,.,,,.,..
 ‘‘,,.,,,..,;,.
 ‘‘…pe….,,.,,,..,;,.
-‘‘Paṭippassaddhaṃ saṅghena itthannāmassa bhikkhuno pabbājanīyakammaṃ. Khamati saṅghassa, tasmā
+‘‘.,
 ,’’.
-Pabbājanīyakammaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Paṭisāraṇīyakammaṃ
 33.,..
 ,,,,,,,,,,,,.
@@ -208,20 +208,20 @@ Pabbājanīyakammaṃ niṭṭhitaṃ tatiyaṃ.
 Adhammakammadvādasakaṃ
 37.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,.
-Paṭisāraṇīyakamme adhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Dhammakammadvādasakaṃ
 38.‘‘,,,,.,,–,,,,.
 ‘‘,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,.
-Paṭisāraṇīyakamme dhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Ākaṅkhamānacatukkaṃ
 39.‘‘,,,,.,,avāsāya (sī.),,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
-Ākaṅkhamānacatukkaṃ niṭṭhitaṃ.
+.
 Aṭṭhārasavattaṃ
 40.‘‘,,.–,,,,.,,;,.,,,,,,,’’.
-Paṭisāraṇīyakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
+.
 41.–‘‘’’...–‘‘,,’’?‘‘,,’’.…pe….‘‘,,–.–,–
 ‘‘,,.,..
 ‘‘,,..,;,.
@@ -232,18 +232,18 @@ Nappaṭippassambhetabbaaṭṭhārasakaṃ
 43.‘‘,,.,,,,–,,.
 pari. 420‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,–,,’’.
-Paṭisāraṇīyakamme nappaṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 Paṭippassambhetabbaaṭṭhārasakaṃ
 44.‘‘,,.,,,,–,,.
 ‘‘,,.,,;,–,,.
 ‘‘,,.,,,,,,,–,,.
-Paṭisāraṇīyakamme paṭippassambhetabbaaṭṭhārasakaṃ niṭṭhitaṃ.
+.
 45.‘‘,,.tena hi (syā. ka.),,–‘,,,,,’...–
 ‘‘,,.,,,.,..
 ‘‘,,.,,,..,;,.
 ‘‘…pe…–,,.,,,..,;,.
 ‘‘.,,’’.
-Paṭisāraṇīyakammaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Āpattiyā adassane ukkhepanīyakammaṃ
 46...…pe…–‘‘’’..
 –‘‘,,’’?‘‘’’.–‘‘…pe…,,?,,…pe……pe…–,,,,–.,,–,,,–
@@ -255,11 +255,11 @@ Paṭisāraṇīyakammaṃ niṭṭhitaṃ catutthaṃ.
 Adhammakammadvādasakaṃ
 48.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Āpattiyā adassane ukkhepanīyakamme adhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Dhammakammadvādasakaṃ
 49.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,…pe….,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Āpattiyā adassane ukkhepanīyakamme dhammakammadvādasakaṃ niṭṭhitaṃ.
+.
 Ākaṅkhamānachakkaṃ
 50.pari. 323‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
@@ -267,12 +267,12 @@ Dhammakammadvādasakaṃ
 ‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
-Āpattiyā adassane ukkhepanīyakamme
-Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
+
+.
 Tecattālīsavattaṃ
 51.‘‘,,.–,,,,.,,,,;,.,,,,,,,,,.,,,,na bhikkhū bhikkhūhi bhedetabbā (syā.),,,;,bhikkhusikkhā sikkhitabbā (syā.).,,,,.,,,,,,,’’.
-Āpattiyā adassane ukkhepanīyakamme
-Tecattālīsavattaṃ niṭṭhitaṃ.
+
+.
 52.,,–.,,.,,,,na garukariṃsu (ka.),,..,,,,,,..,,,,,,..,,,–‘‘,,,,,,.’’?…pe….‘‘,,,,.
 Nappaṭippassambhetabba-tecattālīsakaṃ
 53.‘‘,,,,.,,,,–,,,,.
@@ -283,8 +283,8 @@ pari. 420‘‘,,,,.,,,,;,–,,,,.
 ‘‘,,,,.,,;,–,,,,.
 ‘‘,,,,.,,;;–,,,,.
 ‘‘,,,,.,,,,,,,–,,,,.
-Āpattiyā adassane ukkhepanīyakamme
-Nappaṭippassambhetabba-tecattālīsakaṃ niṭṭhitaṃ.
+
+-.
 Paṭippassambhetabba-tecattālīsakaṃ
 54.‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,;,–,,,,.
@@ -294,14 +294,14 @@ Paṭippassambhetabba-tecattālīsakaṃ
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,,,,–,,,,.
-Āpattiyā adassane ukkhepanīyakamme
-Paṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
+
+.
 55.‘‘,,.,,–‘,,,,,,,’...–
 ‘‘,,.,,,,,.,,,..
 ‘‘,,.,,,,,,.,,.,,,;,.
 ‘‘…pe…–,,.,,,,,,.,,.,,,;,.
 ‘‘,,.,,’’.
-Āpattiyā adassane ukkhepanīyakammaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Āpattiyā appaṭikamme ukkhepanīyakammaṃ
 56...…pe…–‘‘’’?.
 –‘‘,,’’?‘‘’’.–‘‘…pe…,,.,,…pe……pe…–,,,,–.,,–,,,–
@@ -313,13 +313,13 @@ Paṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
 Adhammakammadvādasakaṃ
 57.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Adhammakammadvādasakaṃ niṭṭhitaṃ.
+
+.
 Dhammakammadvādasakaṃ
 58.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Dhammakammadvādasakaṃ niṭṭhitaṃ.
+
+.
 Ākaṅkhamānachakkaṃ
 59.pari. 323‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
@@ -327,31 +327,31 @@ Dhammakammadvādasakaṃ niṭṭhitaṃ.
 ‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
+
+.
 Tecattālīsavattaṃ
 60.‘‘,,.–,,,,.,,,,;,.,,,,,,,,,.,,,,.,,;,.,,,,.,,,,,,,’’.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Tecattālīsavattaṃ niṭṭhitaṃ.
+
+.
 61.,,–.,,.,,,,,,..,,,,,,..,,,,,,..,,,–‘‘,,,,,,.’’?…pe….‘‘,,,,.
 Nappaṭippassambhetabbatecattālīsakaṃ
 62.‘‘,,,,.,,,,–,,,,.
 pari. 420‘‘,,,,.,,,,;,…pe…,,,,…pe…,,,,…pe…,,,,…pe…,,,,…pe…,,,,–,,,,.
 ‘‘,,,,.,,,,,,,–,,,,.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Nappaṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
+
+.
 Paṭippassambhetabbatecattālīsakaṃ
 63.‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,;,…pe…,,,,…pe…,,,,…pe…,,,,…pe…,,,,…pe…,,,,–,,,,.
 ‘‘,,,,.,,,,,,,–,,,,.
-Āpattiyā appaṭikamme ukkhepanīyakamme
-Paṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
+
+.
 64.‘‘,,.,–‘,,,,,,,’...–
 ‘‘,,.,,,,,.,,,..
 ‘‘,,.,,,,,.,,.,,,;,.
 ‘‘…pe…–,,.,,,,,,.,,.,,,;,.
 ‘‘,,.,,’’.
-Āpattiyā appaṭikamme ukkhepanīyakammaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammaṃ
 65.idaṃ vatthu pāci. 417; ma. ni. 234 ādayo.gandhabādhipubbassa (ka.)–‘‘’’.–‘‘’’..–‘‘,,–’’?‘‘,,,’’.
 ‘‘,..abbhācikkhanaṃ (ka.)..,..,bahūpāyāsā (sī. syā.),.,,.…pe……pe…………………,,’’.
@@ -365,13 +365,13 @@ Paṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
 Adhammakammadvādasakaṃ
 67.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
-Adhammakammadvādasakaṃ niṭṭhitaṃ.
+
+.
 Dhammakammadvādasakaṃ
 68.‘‘,,,,,,.,,–,,,,,,.
 ‘‘,,,,,,.,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…,,–,,,,,,.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
-Dhammakammadvādasakaṃ niṭṭhitaṃ.
+
+.
 Ākaṅkhamānachakkaṃ
 69.pari. 323‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
@@ -379,35 +379,35 @@ Dhammakammadvādasakaṃ niṭṭhitaṃ.
 ‘‘,,,,,.;;–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
 ‘‘,,,,,.,,–,,,,,.
-Pāpikāya diṭṭhiyā appaṭinissage ukkhepanīyakamme
-Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
+
+.
 Tecattālīsavattaṃ
 70.‘‘,,.–,,,,.,,,,;,…pe…,,,,,,,’’.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
-Tecattālīsavattaṃ niṭṭhitaṃ.
+
+.
 71.,,–.,,.…pe…–‘‘,,’’?.
 –‘‘,,,,’’vibbhamīti (sī. ka.)?‘‘’’.–‘‘…pe…,,,,?,,…pe……pe…–‘‘,,,,.
 Nappaṭippassambhetabbatecattālīsakaṃ
 72.‘‘,,,,.,,,,–,,,,.
 pari. 420‘‘,,,,.,,;,–,,,,…pe….
 ‘‘,,,,.,,,,,,,–,,,,.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
-Nappaṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
+
+.
 Paṭippassambhetabbatecattālīsakaṃ
 73.‘‘,,,,.,,,,–,,,,.
 ‘‘,,,,.,,,,;,–,,,,…pe….
 ‘‘,,,,.,,,,,,,–,,,,’’.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
-Paṭippassambhetabbatecattālīsakaṃ niṭṭhitaṃ.
+
+.
 74.‘‘,,.,,,–‘,,,,,,,,’...–
 ‘‘,,.,,,,,,.,,,..
 ‘‘,,.,,,,,,.,,.,,,;,.
 ‘‘…pe…–,,.,,,,,.,,.,,,;,.
 ‘‘,,.,,’’.
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammaṃ niṭṭhitaṃ sattamaṃ.
-Kammakkhandhako paṭhamo.
-Imamhi khandhake vatthū satta.
-Tassuddānaṃ –
+.
+.
+.
+–
 ,;
 ,.
 anuppannāni jāyanti (sī. syā.),uppannāni pavaḍḍhare (sī.), uppannāpi pavaḍḍhanti (ka.);
@@ -476,4 +476,4 @@ pabbājaṃ (ka.),;
 pabbājā (ka.),.
 ,;
 ,.
-Kammakkhandhakaṃ niṭṭhitaṃ.
+.

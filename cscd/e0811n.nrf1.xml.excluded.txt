@@ -5,15 +5,15 @@
 69.
 ,;
 ,.
-Tattha viruddhatthantarassa parihāro yathā
+
 70.
 ,;
 ’,?
-Yathā vā
+
 71.
 ,;
 ’,.
-Ajha’tthassa yathā
+’
 72.
 ,?
 ,?
@@ -23,58 +23,58 @@ paheḷikāya (ka.),;
 74.
 ,;
 ,.
-Desavirodhino yathā
+
 75.
 ,’;
 ’,.
-Kālavirodhino yathā
+
 76.
 ,;
 ,.
-Kalāvirodhino yathā
+
 77.
 ,;
 ,?
-Lokavirodhino yathā
+
 78.
 ,;
 ,’.
-Ñāyavirodhino yathā
+
 79.
 ,;
 ,.
-Āgamavirodhino yathā
+
 80.
 ’’,;
 ,’.
-Neyyassa yathā
+
 81.
 ’,;
 ,.
-Yathā vā
+
 82.
 ,;
 ’,’.
-Visesanāpekkhassa yathā
+
 83.
 ’,;
 ,.
-Hīnatthassa yathā
+
 84.
 ,;
 ’,.
-Anatthassa yathā
+
 85.
 ,,
 ,.
 86.
 ,;
 ,’.
-Yathā
+
 87.
 !,,
 ’,?
-Bhaggarītino yathā
+
 88.
 ’,;
 ’,
@@ -82,50 +82,50 @@ Bhaggarītino yathā
 89.
 ,;
 ,.
-Yathā
+
 90.
 ’,’;
 ’,’.
 91.
 ,’;
 ,.
-Yathā
+
 92.
 ,;
 ’,?
 93.
 ,’;
 ’,.
-Kamaccutassa yathā
+
 94.
 ’,’’;
 ,.
-Ativuttassa yathā
+
 95.
 ,;
 ’,’.
 96.
 ,;
 ’,’.
-Yathā
+
 97.
 ’,’;
 ,’.
 98.
 ’,;
 ,.
-Yathā
+
 99.
 ,;
 ,.
-Apakkamassa yathā
+
 100.
 ,,,’;
 ,,,.
 101.
 ,;
 ’’,.
-Yathā
+
 102.
 ’,’;
 ,.
@@ -139,29 +139,29 @@ Yathā
 ,;
 ’,
 .
-Yathā
+
 106.
 ,’;
 ,.
 107.
 ,’;
 ’,’.
-Yathā
+
 108.
 ’,’;
 ,.
-Yathā
+
 109.
 ,;
 ,.
-Sasaṃsayassa yathā
+
 110.
 ’,;
 ’’,.
 111.
 ’,;
 ’,.
-Yathā
+
 112.
 ,;
 ,’’.
@@ -176,6 +176,6 @@ Yathā
 ;
 ’’’,
 .
-Iti saṅgharakkhitamahāsāmiviracite subodhālaṅkāre
-Dosaparihārāvabodho nāma
-Dutiyo paricchedo.
+
+
+.

@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Paṭṭhānapāḷi
 (Pañcamo bhāgo)
@@ -353,7 +353,7 @@ Paccayacatukkaṃ
 .(1)
 .(1)
 ,…pe……pe….(Saṃkhittaṃ. Sahajātavārampi…pe… sampayuttavārampi pañhāvārampi vitthāretabbaṃ.)
-Kusalattikasanidassanattikaṃ niṭṭhitaṃ.
+.
 2-1. Vedanāttika-kusalattikaṃ
 1-7. Paṭiccavārādi
 Paccayacatukkaṃ
@@ -564,4 +564,4 @@ Hetupaccayo
 133.(satta).(satta, saṃkhittaṃ).
 134.,.(Saṃkhittaṃ.)
 (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṃ.)
-Dhammānulome tikatikapaṭṭhānaṃ niṭṭhitaṃ.
+.

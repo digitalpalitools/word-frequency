@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Saṃyuttanikāyo
 Mahāvaggo
 1. Maggasaṃyuttaṃ
@@ -62,7 +62,7 @@ vammasannāho (sī.),.
 10. Nandiyasuttaṃ
 10..;..–‘‘,,’’?
 ‘‘,,.?–…pe….,,’’.–‘‘,,,…pe…’’..
-Avijjāvaggo paṭhamo.
+.
 –
 ,;
 ,.
@@ -91,7 +91,7 @@ Avijjāvaggo paṭhamo.
 19..‘‘‘,’,,.,,,’’?‘‘,!,,,,.,,–‘,,,.,,,’’’?‘‘’’.‘‘,,,–…pe….,,–’’..
 10. Tatiyakukkuṭārāmasuttaṃ
 20..‘‘‘,’,,.,,,,’’?‘‘,!,,,,.,,–‘,,,.,,,,’’’?‘‘’’.‘‘,,,–…pe….,,–.,,–’’..
-Tīṇi suttantāni ekanidānāni.Vihāravaggo dutiyo.
+..
 –
 ,;
 ,.
@@ -122,7 +122,7 @@ Tīṇi suttantāni ekanidānāni.Vihāravaggo dutiyo.
 29..‘‘,,.?,,–,,.,,.?–…pe….,,’’..
 10. Uttiyasuttaṃ
 30..…pe…–‘‘,,–‘.’’’?‘‘,!,,.?,…pe………–,,.,,.?–…pe….,,’’..
-Micchattavaggo tatiyo.
+.
 –
 ,;
 ,.
@@ -159,7 +159,7 @@ Micchattavaggo tatiyo.
 39..‘‘,,,..,,?,–…pe….,,.,,?,,,–,,’’..
 10. Dutiyabrahmacariyasuttaṃ
 40..‘‘,,,..,,?,–…pe….,,.,,?,,–,,’’..
-Paṭipattivaggo catuttho.
+.
 –
 ,;
 ,;
@@ -171,7 +171,7 @@ Paṭipattivaggo catuttho.
 42-47.‘‘,,–‘,,’,,,–‘,,’…pe…‘,,’…pe…‘,,’…pe…‘,,’…pe…‘,,’…pe…‘,,’…pe…..
 8. Anupādāparinibbānasuttaṃ
 48..‘‘,,–‘,,’,,,–‘,,’.,,–‘,,’,,,–‘,,,’.,,,?,–…pe….,,,.,,’’..
-Aññatitthiyapeyyālavaggo pañcamo.
+.
 –
 ,;
 ,.
@@ -188,7 +188,7 @@ Aññatitthiyapeyyālavaggo pañcamo.
 57-61.‘‘,,,–;,,,–…pe…–…pe…–…pe…–…pe…–…pe…..
 7. Yonisomanasikārasampadāsuttaṃ
 62.‘‘–.,,–,.,,,?,,…pe….,,,’’..
-Sūriyapeyyālavaggo chaṭṭho.
+.
 –
 ,;
 ,.
@@ -205,7 +205,7 @@ Sūriyapeyyālavaggo chaṭṭho.
 71-75..‘‘,,.?–…pe…–…pe…–…pe…–…pe…–…pe…..
 7. Yonisomanasikārasampadāsuttaṃ
 76.‘‘–.,,–,.,,,?,,…pe….,,,’’..
-Ekadhammapeyyālavaggo sattamo.
+.
 –
 ,;
 ,.
@@ -222,7 +222,7 @@ Ekadhammapeyyālavaggo sattamo.
 85-89.‘‘,,,,,,,…pe…,,…pe…,,…pe…,,…pe…,,…pe…..
 7. Yonisomanasikārasampadāsuttaṃ
 90.‘‘,,.,,–,.,,,?,,…pe….,,,’’..
-Dutiyaekadhammapeyyālavaggo aṭṭhamo.
+.
 –
 ,;
 ,.
@@ -237,7 +237,7 @@ Dutiyaekadhammapeyyālavaggo aṭṭhamo.
 97.‘‘,,;,,.,,?,,…pe….,,’’..
 2-6. Dutiyādisamuddaninnasuttapañcakaṃ
 98-102.‘‘,,;,,…pe…,,;,,…pe…,,;,,…pe…,,;,,…pe…,,,–,,,,,;,,.,,?,,…pe….,,’’..
-Gaṅgāpeyyālavaggo paṭhamo.
+.
 –
 ,;
 ,;
@@ -282,7 +282,7 @@ Gaṅgāpeyyālavaggo paṭhamo.
 2-6. Dutiyādisamuddaninnasuttapañcakaṃ
 134-138.‘‘,,;,,…pe…,,;,,…pe…,,;,,…pe…,,;,,…pe…,,,–,,,,;,,.,,?,,…pe….,,’’..
 (Gaṅgāpeyyālī).
-Dutiyagaṅgāpeyyālavaggo dutiyo.
+.
 –
 ,;
 ,;
@@ -306,7 +306,7 @@ Dutiyagaṅgāpeyyālavaggo dutiyo.
 147.‘‘,,;,…pe….
 148.‘‘,,,;,,,;.,,–.,,?,,…pe……pe…,,’’..
 (Yadapi tathāgataṃ, tadapi vitthāretabbaṃ).
-Appamādapeyyālavaggo pañcamo.
+.
 –
 ,;
 ,.
@@ -340,7 +340,7 @@ Appamādapeyyālavaggo pañcamo.
 ‘‘,,?.?–…pe….,,.,,?–,,.,,?–,,.,,?–,,.,,,…pe…,?,,…pe……pe…,,,,,,,,,’’..
 12. Nadīsuttaṃ
 160.‘‘,,.-–‘’.,,’’?‘‘,’’.‘‘’’?‘‘,,..’’.‘‘,,–‘,,!,,’.,,–.?,,–.,,?,,…pe……pe…,,,’’.(Yadapi balakaraṇīyaṃ, tadapi vitthāretabbaṃ.).
-Balakaraṇīyavaggo chaṭṭho.
+.
 –
 ,;
 ,.
@@ -373,7 +373,7 @@ Balakaraṇīyavaggo chaṭṭho.
 170.‘‘,,.?,,–,,.,,…pe….?,,…pe….,,…pe…’’..
 11. Tasināsuttaṃ
 171.‘‘,,.?,,.,,…pe……pe……pe….,,…pe…’’..
-Esanāvaggo sattamo.
+.
 –
 ,;
 ,.
@@ -399,7 +399,7 @@ Esanāvaggo sattamo.
 10. Uddhambhāgiyasuttaṃ
 181.‘‘,,.?,,,,–,,.,,.?,,…pe….,,’’.
 ‘‘,,.?,,,,–,,.,,.?,,…pe……….,,’’..
-Oghavaggo aṭṭhamo.
+.
 –
 ,;
 ,.
@@ -411,4 +411,4 @@ Oghavaggo aṭṭhamo.
 ,;
 ,;
 .
-Maggasaṃyuttaṃ paṭhamaṃ.
+.

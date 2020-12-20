@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Therāpadānapāḷi
 (Paṭhamo bhāgo)
@@ -252,7 +252,7 @@ dadāmiha (sī.) dadāmi taṃ (syā.),.
 ‘‘,;
 ,’’’.
 buddhacariyaṃ (sī.) buddhacaritaṃ (syā.).
-Buddhāpadānaṃ samattaṃ.
+.
 2. Paccekabuddhaapadānaṃ
 –
 83.
@@ -429,7 +429,7 @@ gāho (sī.) kaṇḍo (syā.) gāḷho (ka.),.
 140.
 ‘‘,;
 ,’’.
-Paccekabuddhāpadānaṃ samattaṃ.
+.
 3-1. Sāriputtattheraapadānaṃ
 –
 141.
@@ -834,7 +834,7 @@ abbocchinnaṃ (aṭṭha.),.
 274.
 ‘‘,;
 ,.
-Paṭhamabhāṇavāraṃ.
+.
 275.
 ‘‘,;
 sañjayo (sī. syā. pī.),.
@@ -1139,7 +1139,7 @@ imā dve gāthāyo syāmapotthake na santi
 ,’’.
 
 .
-Sāriputtattherassāpadānaṃ paṭhamaṃ.
+.
 3-2. Mahāmoggallānattheraapadānaṃ
 375.
 ‘‘,;
@@ -1211,7 +1211,7 @@ nāmena (sī.),.
 ‘‘,;
 ,’’.
 .
-Mahāmoggallānattherassāpadānaṃ dutiyaṃ.
+.
 3-3. Mahākassapattheraapadānaṃ
 398.
 ‘‘,;
@@ -1283,7 +1283,7 @@ rammakaṃ (sī. syā.),.
 ‘‘,;
 ,’’.
 .
-Mahākassapattherassāpadānaṃ tatiyaṃ.
+.
 3-4. Anuruddhattheraapadānaṃ
 421.
 ‘‘,;
@@ -1325,7 +1325,7 @@ Mahākassapattherassāpadānaṃ tatiyaṃ.
 ‘‘,;
 ,’’.
 .
-Anuruddhattherassāpadānaṃ catutthaṃ.
+.
 3-5. Puṇṇamantāṇiputtattheraapadānaṃ
 434.
 ‘‘,;
@@ -1351,7 +1351,7 @@ Anuruddhattherassāpadānaṃ catutthaṃ.
 ‘‘,;
 ,’’.
 .
-Puṇṇamantāṇiputtattherassāpadānaṃ pañcamaṃ.
+.
 3-6. Upālittheraapadānaṃ
 441.
 ‘‘,;
@@ -1582,7 +1582,7 @@ vippayutto (ka.),.
 516.
 ‘‘,;
 ,vijaṭayiṃ (ka.) balākānaṃ vijāyanūpamāya saṃsandetvā attho veditabbo.
-Dutiyabhāṇavāraṃ.
+.
 517.
 ‘‘,;
 ,.
@@ -1823,7 +1823,7 @@ daṭṭhaviso (syā. aṭṭha.),.
 ‘‘,;
 ,’’.
 .
-Upālittherassāpadānaṃ chaṭṭhaṃ.
+.
 3-7. Aññāsikoṇḍaññattheraapadānaṃ
 596.
 ‘‘,;
@@ -1878,7 +1878,7 @@ iminā me mahāraññaṃ (syā.), iminā me migāraññaṃ (ka.),.
 ,’’.
 aññātakoṇḍañño (sī.), aññā koṇḍañño (syā.)
 .
-Aññāsikoṇḍaññattherassāpadānaṃ sattamaṃ.
+.
 3-8. Piṇḍolabhāradvājattheraapadānaṃ
 613.
 ‘‘,;
@@ -1926,7 +1926,7 @@ kammaṃ (?),’.
 ‘‘,;
 ,’’.
 .
-Piṇḍolabhāradvājattherassāpadānaṃ aṭṭhamaṃ.
+.
 3-9. Khadiravaniyarevatattheraapadānaṃ
 628.
 ‘‘,;
@@ -1977,7 +1977,7 @@ nāvānaṃ (ka.),.
 ‘‘,;
 ,’’.
 .
-Khadiravaniyarevatattherassāpadānaṃ navamaṃ.
+.
 3-10. Ānandattheraapadānaṃ
 644.
 ‘‘,;
@@ -2040,10 +2040,10 @@ Khadiravaniyarevatattherassāpadānaṃ navamaṃ.
 ‘‘,;
 ,’’.
 .
-Ānandattherassāpadānaṃ dasamaṃ.
+.
 –
 ,;
 ,.
 ,;
 ,.
-Apadāne buddhavaggo paṭhamo.
+.

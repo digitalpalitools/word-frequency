@@ -28,7 +28,7 @@
 ...,.,..
 10. Tatiyagiñjakāvasathasuttavaṇṇanā
 1006....,.,..
-Veḷudvāravaggo paṭhamo.
+.
 2. Rājakārāmavaggo
 1. Sahassabhikkhunisaṅghasuttavaṇṇanā
 1007.,.–‘‘,.,,’’..‘‘’’?.,,.‘‘’’.
@@ -50,7 +50,7 @@ Veḷudvāravaggo paṭhamo.
 1012.....
 7. Dutiyamittāmaccasuttavaṇṇanā
 1013...,.,.,.,.,.,..
-Rājakārāmavaggo dutiyo.
+.
 3. Saraṇānivaggo
 1-2. Paṭhamamahānāmasuttādivaṇṇanā
 1017-18....,,....
@@ -65,7 +65,7 @@ Rājakārāmavaggo dutiyo.
 1022.....
 7. Dutiyaanāthapiṇḍikasuttavaṇṇanā
 1023...
-Saraṇānivaggo tatiyo.
+.
 4. Puññābhisandavaggo
 1. Paṭhamapuññābhisandasuttavaṇṇanā
 1027...
@@ -75,7 +75,7 @@ Saraṇānivaggo tatiyo.
 1034.,.,..
 10. Nandiyasakkasuttavaṇṇanā
 1036....
-Puññābhisandavaggo catuttho.
+.
 5. Sagāthakapuññābhisandavaggo
 1. Paṭhamaabhiasandasuttavaṇṇanā
 1037.,.....
@@ -85,7 +85,7 @@ Puññābhisandavaggo catuttho.
 1039....,,..
 4. Paṭhamamahaddhanasuttavaṇṇanā
 1040....
-Sagāthakapuññābhisandavaggo pañcamo.
+.
 6. Sappaññavaggo
 2. Vassaṃvuttasuttavaṇṇanā
 1048.–,,.
@@ -96,8 +96,8 @@ Sagāthakapuññābhisandavaggo pañcamo.
 1050..........,.,.
 9. Paññāpaṭilābhasuttavaṇṇanā
 1055.,...
-Sappaññavaggo chaṭṭho.
+.
 7. Mahāpaññavaggo
 1. Mahāpaññāsuttavaṇṇanā
 1058.‘‘’’(paṭi. ma. 2.4)..
-Sotāpattisaṃyuttavaṇṇanā niṭṭhitā.
+.

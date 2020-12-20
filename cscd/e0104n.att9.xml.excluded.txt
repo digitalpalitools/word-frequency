@@ -7,7 +7,7 @@ Upakkilesavimuttaudayabbayañāṇakathāvaṇṇanā
 740.,.‘‘,,,………’’(saṃ. ni. 3.172).‘‘’’.,,,..,.‘‘’’,‘‘’’.‘‘’’..,.....
 ...,,....
 .‘‘’’.‘‘’’..,,...
-Upakkilesavimuttaudayabbayañāṇaṃ niṭṭhitaṃ.
+.
 Bhaṅgānupassanāñāṇakathāvaṇṇanā
 741....‘‘’’,.‘‘’’..,...,,.‘‘,,,.,’’,‘‘’’...‘‘…pe…’’.,,,...
 .‘‘’’(dī. ni. 1.28, 405)..,..,.
@@ -32,7 +32,7 @@ Bhaṅgānupassanāñāṇakathāvaṇṇanā
 ,‘‘’’,...
 749..........,.
 .-,..
-Bhaṅgānupassanāñāṇaṃ niṭṭhitaṃ.
+.
 Bhayatupaṭṭhānañāṇakathāvaṇṇanā
 750.......,‘‘’’.,‘‘…pe…’’.,,..
 ,‘‘’’.
@@ -40,7 +40,7 @@ Bhayatupaṭṭhānañāṇakathāvaṇṇanā
 ,,,,.,.,....
 751..,.‘‘…pe…’’,.,.‘‘’’....
 ‘‘,’’.‘‘…pe…’’....,‘‘’’.,..
-Bhayatupaṭṭhānañāṇaṃ niṭṭhitaṃ.
+.
 Ādīnavānupassanāñāṇakathāvaṇṇanā
 752.......‘‘’’..‘‘’’.‘‘’’,-.
 ‘‘’’..,,,,,,,,.‘‘,,’’(saṃ. ni. 4.238)..,.‘‘,,’’..–
@@ -57,18 +57,18 @@ Bhayatupaṭṭhānañāṇaṃ niṭṭhitaṃ.
 ‘‘,’’.‘‘’’,.,,‘‘’’..
 .‘‘’’..,.,..-..-..‘‘’’.,,.‘‘’’.,.,.
 ,.‘‘’’.,.‘‘’’.‘‘’’(jā. 2.22.94).‘‘’’....‘‘’’..
-Ādīnavānupassanāñāṇaṃ niṭṭhitaṃ.
+.
 Nibbidānupassanāñāṇakathāvaṇṇanā
 754...,‘‘’’.
 ‘‘’’...
 ...
 ...‘‘’’.
-Nibbidānupassanāñāṇaṃ niṭṭhitaṃ.
+.
 755...,,‘‘’’.‘‘’’.
 ,.,.
 Muñcitukamyatāñāṇakathāvaṇṇanā
 756.....-.
-Muñcitukamyatāñāṇaṃ niṭṭhitaṃ.
+.
 Paṭisaṅkhānupassanāñāṇakathāvaṇṇanā
 757.‘‘…pe…’’.,.‘‘’’..‘‘’’.‘‘’’..‘‘’’.
 ,.-‘‘’’.
@@ -81,7 +81,7 @@ Paṭisaṅkhānupassanāñāṇakathāvaṇṇanā
 759.‘‘’’.
 ,(visuddhi. 2.750).
 –‘‘’’‘‘’’‘‘’’.‘‘(paṭṭhā. 1.1.53),,’’.,‘‘’’.‘‘…pe…’’.–,,.‘‘,’’.
-Paṭisaṅkhānupassanāñāṇaṃ niṭṭhitaṃ.
+.
 Saṅkhārupekkhāñāṇakathāvaṇṇanā
 760.‘‘’’.,..‘‘’’.,.‘‘’’.,.‘‘’’.,,.,...
 ,,.,..‘‘…pe…’’(dī. ni. 1.42)‘‘’’.‘‘,’’.-‘‘-’’..‘‘’’,‘‘’’.......,.‘‘’’.
@@ -121,7 +121,7 @@ Saṅkhārupekkhāñāṇakathāvaṇṇanā
 ‘‘’’,‘‘’’..‘‘’’,‘‘’’,‘‘’’,‘‘’’,‘‘’’..
 777...,.,...,,.,..
 –,,..,,.,,.,,,.,.,.
-Saṅkhārupekkhāñāṇaṃ.
+.
 778.,.,.,‘‘’’.‘‘’’..
 780......,‘‘’’.‘‘’’.
 781.,-,..
@@ -160,12 +160,12 @@ Saṅkhārupekkhāñāṇaṃ.
 ......
 .,...‘‘’’,.
 803.....?.,,...?.,..,.,,.,?,..‘‘’’.,.‘‘’’...
-Saṅkhārupekkhāñāṇaṃ niṭṭhitaṃ.
+.
 Anulomañāṇakathāvaṇṇanā
 804.........…pe….,.‘‘’’..,.,‘‘’’.‘‘’’‘‘’’‘‘’’,..,..
 ,,,‘‘’’..,..,‘‘’’...‘‘’’.,,‘‘…pe…’’.‘‘’’..,‘‘’’.,.,.
 ‘‘’’.,...
-Anulomañāṇaṃ niṭṭhitaṃ.
+.
 Vuṭṭhānagāminīvipassanākathāvaṇṇanā
 805.‘‘’’..‘‘’’...
 ,,,,,..‘‘,’’(ma. ni. aṭṭha. 3.310).,.‘‘,,…pe…,,,’’(ma. ni. 3.310),,..‘‘,,…pe…,,,’’(ma. ni. 3.310).,,,,..‘‘’’.
@@ -175,5 +175,5 @@ Vuṭṭhānagāminīvipassanākathāvaṇṇanā
 ...
 .
 ...,.
-Paṭipadāñāṇadassanavisuddhiniddesavaṇṇanā niṭṭhitā.
-Iti ekavīsatimaparicchedavaṇṇanā.
+.
+.

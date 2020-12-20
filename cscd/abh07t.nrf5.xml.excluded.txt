@@ -23,7 +23,7 @@ Rūpasamuddeso
 ,.
 ,;
 ,.
-Ayamettha rūpasamuddeso.
+.
 Rūpavibhāgo
 18..
 19.?,.
@@ -37,7 +37,7 @@ Rūpavibhāgo
 27.,.
 28.-.
 ,.
-Ayamettha rūpavibhāgo.
+.
 Rūpasamuṭṭhānanayo
 29..
 30..
@@ -57,7 +57,7 @@ Rūpasamuṭṭhānanayo
 -.
 44.,.
 ,.
-Ayamettha rūpasamuṭṭhānanayo.
+.
 Kalāpayojanā
 45..
 46.....
@@ -69,7 +69,7 @@ Kalāpayojanā
 ,.
 -;
 ,.
-Ayamettha kalāpayojanā.
+.
 Rūpapavattikkamo
 52..
 53.,,.
@@ -85,7 +85,7 @@ Rūpapavattikkamo
 ,.
 ,;
 ,.
-Ayamettha rūpapavattikkamo.
+.
 Nibbānabhedo
 62..
 63..
@@ -94,5 +94,5 @@ Nibbānabhedo
 ,.
 ,;
 ,.
-Iti abhidhammatthasaṅgahe rūpasaṅgahavibhāgo nāma
-Chaṭṭho paricchedo.
+
+.

@@ -19,7 +19,7 @@
 ‘‘,;
 ,’’.
 .
-Supāricariyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Kaṇaverapupphiyattheraapadānaṃ
 7.
 ‘‘,;
@@ -39,7 +39,7 @@ Supāricariyattherassāpadānaṃ paṭhamaṃ.
 12.
 ‘‘…pe…’’.
 .
-Kaṇaverapupphiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Khajjakadāyakattheraapadānaṃ
 13.
 ‘‘,;
@@ -56,7 +56,7 @@ Kaṇaverapupphiyattherassāpadānaṃ dutiyaṃ.
 17.
 ‘‘…pe…’’.
 .
-Khajjakadāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Desapūjakattheraapadānaṃ
 18.
 ‘‘,;
@@ -73,7 +73,7 @@ Khajjakadāyakattherassāpadānaṃ tatiyaṃ.
 22.
 ‘‘…pe…’’.
 .
-Desapūjakattherassāpadānaṃ catutthaṃ.
+.
 5. Kaṇikārachattiyattheraapadānaṃ
 23.
 ‘‘,;
@@ -90,7 +90,7 @@ Desapūjakattherassāpadānaṃ catutthaṃ.
 27.
 ‘‘…pe…’’.
 .
-Kaṇikārachattiyattherassāpadānaṃ pañcamaṃ.
+.
 6. Sappidāyakattheraapadānaṃ
 28.
 ‘‘nāmātha (sī.),;
@@ -107,7 +107,7 @@ tatohaṃ (sī. syā.),.
 32.
 ‘‘…pe…’’.
 .
-Sappidāyakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Yūthikapupphiyattheraapadānaṃ
 33.
 ‘‘,;
@@ -124,7 +124,7 @@ Sappidāyakattherassāpadānaṃ chaṭṭhaṃ.
 37.
 ‘‘…pe…’’.
 .
-Yūthikapupphiyattherassāpadānaṃ sattamaṃ.
+.
 8. Dussadāyakattheraapadānaṃ
 38.
 ‘‘,rājaputto ahaṃ (sī. syā.);
@@ -144,7 +144,7 @@ Yūthikapupphiyattherassāpadānaṃ sattamaṃ.
 43.
 ‘‘…pe…’’.
 .
-Dussadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Samādapakattheraapadānaṃ
 44.
 ‘‘,;
@@ -165,7 +165,7 @@ Dussadāyakattherassāpadānaṃ aṭṭhamaṃ.
 49.
 ‘‘…pe…’’.
 .
-Samādapakattherassāpadānaṃ navamaṃ.
+.
 10. Pañcaṅguliyattheraapadānaṃ
 50.
 ‘‘,;
@@ -182,8 +182,8 @@ Samādapakattherassāpadānaṃ navamaṃ.
 54.
 ‘‘…pe…’’.
 ;
-Pañcaṅguliyattherassāpadānaṃ dasamaṃ.
-Supāricariyavaggo sattarasamo.
+.
+.
 –
 ,;
 ,;

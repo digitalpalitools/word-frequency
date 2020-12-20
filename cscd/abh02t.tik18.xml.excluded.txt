@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Vibhaṅga-anuṭīkā
 1. Khandhavibhaṅgo
@@ -38,7 +38,7 @@ Vibhaṅga-anuṭīkā
 ,.
 7.,.‘‘’’‘‘’’.‘‘’’.
 ‘‘’’‘‘’’.,‘‘’’‘‘’’..‘‘,’’.,.,,.‘‘’’‘‘’’.,-.‘‘’’‘‘’’,‘‘’’.‘‘’’.‘‘’’.
-Rūpakkhandhaniddesavaṇṇanā niṭṭhitā.
+.
 2. Vedanākkhandhaniddesavaṇṇanā
 8.,..‘‘’’(saṃ. ni. 1.21; 3.155),‘‘’’(paṭi. ma. 3.14).,.‘‘’’(dha. sa. 152).‘‘’’.-..‘‘,’’.‘‘’’...‘‘’’.,,‘‘’’....,‘‘’’-..,.
 ‘‘’’,‘‘’’.,,.
@@ -48,16 +48,16 @@ Rūpakkhandhaniddesavaṇṇanā niṭṭhitā.
 ...‘‘’’‘‘’’.,,.,.
 ‘‘’’...‘‘’’(vibha. 13).‘‘’’,.–,...‘‘’’.–‘‘’’..
 ,,‘‘’’.–,,,.,,..‘‘’’....‘‘’’.....‘‘’’.
-Vedanākkhandhaniddesavaṇṇanā niṭṭhitā.
+.
 3. Saññākkhandhaniddesavaṇṇanā
 17.....
 ,.,.,.,(dha. sa. mūlaṭī. 101-108)...‘‘’’.,‘‘’’.......
 ‘‘’’,.‘‘’’‘‘’’..‘‘’’.‘‘’’..‘‘’’.-,.‘‘’’.
 ,‘‘’’.‘‘’’,,.‘‘’’.
-Saññākkhandhaniddesavaṇṇanā niṭṭhitā.
+.
 4. Saṅkhārakkhandhaniddesavaṇṇanā
 20.‘‘’’‘‘’’..‘‘’’.‘‘’’.‘‘’’‘‘’’...‘‘’’.,‘‘’’.‘‘’’..,‘‘’’.‘‘’’.‘‘’’,‘‘’’.
-Saṅkhārakkhandhaniddesavaṇṇanā niṭṭhitā.
+.
 Pakiṇṇakakathāvaṇṇanā
 -‘‘’’..,,‘‘’’...,..,.,‘‘’’.‘‘,’’....
 ...
@@ -87,7 +87,7 @@ Pakiṇṇakakathāvaṇṇanā
 ,,.,.
 ‘‘’’.
 ‘‘’’‘‘’’.,.‘‘’’..-..
-Pakiṇṇakakathāvaṇṇanā niṭṭhitā.
+.
 Kamādivinicchayakathāvaṇṇanā
 ‘‘’’...‘‘’’.-.‘‘’’‘‘’’..‘‘,’’.
 ..?,.
@@ -98,8 +98,8 @@ Kamādivinicchayakathāvaṇṇanā
 .,‘‘’’...
 ...
 ..‘‘,’’(ma. ni. 1.396).
-Kamādivinicchayakathāvaṇṇanā niṭṭhitā.
-Suttantabhājanīyavaṇṇanā niṭṭhitā.
+.
+.
 2. Abhidhammabhājanīyavaṇṇanā
 34.‘‘’’.-.
 -,‘‘…pe…’’.‘‘’’.
@@ -116,9 +116,9 @@ Suttantabhājanīyavaṇṇanā niṭṭhitā.
 ,.
 ,...
 ‘‘’’,‘‘’’.‘‘’’,‘‘’’.
-Abhidhammabhājanīyavaṇṇanā niṭṭhitā.
+.
 3. Pañhapucchakavaṇṇanā
 150.,.,..,.
 ...,.
-Pañhapucchakavaṇṇanā niṭṭhitā.
-Khandhavibhaṅgavaṇṇanā niṭṭhitā.
+.
+.

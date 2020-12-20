@@ -41,7 +41,7 @@ hetuyā nava
 
  nahetuṃ  sahetukaṃ dhammaṃ paṭicca nahetu nasahetuko dhammo uppajjati hetupaccayā 
 hetuyā  nava 
-
+hetugocchakaṃ niṭṭhitaṃ
 
 
  sappaccayaṃ  dhammaṃ paṭicca naappaccayo dhammo uppajjati hetupaccayā  hetuyā ekaṃ
@@ -72,7 +72,7 @@ hetuyā pañca
  kenaci  viññeyyaṃ dhammaṃ paṭicca nakenaci viññeyyo dhammo uppajjati hetupaccayā kenaci viññeyyaṃ dhammaṃ paṭicca nanakenaci viññeyyo dhammo uppajjati hetupaccayā kenaci viññeyyaṃ dhammaṃ paṭicca nakenaci viññeyyo ca nanakenaci viññeyyo ca dhammā uppajjanti hetupaccayā 
 nakenaci viññeyyaṃ dhammaṃ paṭicca nanakenaci viññeyyo dhammo uppajjati hetupaccayā tīṇi
 kenaci  viññeyyañca nakenaci viññeyyañca dhammaṃ paṭicca nakenaci viññeyyo dhammo uppajjati hetupaccayā tīṇi  hetuyā nava 
-
+cūḷantaradukaṃ niṭṭhitaṃ
 
 
  āsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati hetupaccayā āsavaṃ dhammaṃ paṭicca nanoāsavo dhammo uppajjati hetupaccayā āsavaṃ dhammaṃ paṭicca noāsavo ca nanoāsavo ca dhammā uppajjanti hetupaccayā 
@@ -106,7 +106,7 @@ sāsavañceva no ca āsavaṃ dhammaṃ paṭicca naanāsavo ceva nano ca āsavo
 āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca āsavavippayutto naanāsavo dhammo uppajjati hetupaccayā tīṇi
 āsavavippayuttaṃ sāsavañca āsavavippayuttaṃ anāsavañca dhammaṃ paṭicca āsavavippayutto nanoanāsavo dhammo uppajjati hetupaccayā 
 hetuyā pañca avigate pañca 
-
+āsavagocchakaṃ niṭṭhitaṃ
 
 
  saññojanaṃ  dhammaṃ paṭicca nosaññojano dhammo uppajjati hetupaccayā ganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati  hetupaccayā oghaṃ dhammaṃ paṭicca noogho dhammo uppajjati hetupaccayā yogaṃ dhammaṃ paṭicca noyogo dhammo uppajjati hetupaccayā nīvaraṇaṃ dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati hetupaccayā
@@ -141,7 +141,7 @@ upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati hetupacca
 anupādinnaṃ dhammaṃ paṭicca naanupādinno dhammo uppajjati hetupaccayā 
 upādinnañca anupādinnañca dhammaṃ paṭicca naupādinno dhammo uppajjati hetupaccayā  
 hetuyā pañca avigate pañca 
-
+mahantaradukaṃ niṭṭhitaṃ
 
  upādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā hetuyā nava
 
@@ -223,4 +223,4 @@ saraṇo dhammo naaraṇassa dhammassa ārammaṇapaccayena paccayo sahajātapac
 hetupaccayā naārammaṇe cattāri 
 nahetupaccayā ārammaṇe cattāri 
 
-
+dhammānulomapaccanīye dukapaṭṭhānaṃ niṭṭhitaṃ

@@ -3,21 +3,21 @@
 209....‘‘’’,..‘‘’’....‘‘’’,..,,,.
 .--,...‘‘’’.......‘‘’’‘‘’’..‘‘’’.
 ‘‘’’.‘‘’’.
-Nikkhantasuttavaṇṇanā niṭṭhitā.
+.
 2. Aratisuttavaṇṇanā
 210.......,‘‘’’.
 ,.‘‘’’..‘‘’’...‘‘’’.
 ...
 --‘‘’’‘‘’’.....,..
 ....
-Aratisuttavaṇṇanā niṭṭhitā.
+.
 3. Pesalasuttavaṇṇanā
 211...,.............
-Pesalasuttavaṇṇanā niṭṭhitā.
+.
 4. Ānandasuttavaṇṇanā
 212.‘‘’’...,..
 .‘‘’’......‘‘’’,,‘‘’’.,,‘‘’’.--,.‘‘’’,,..
-Ānandasuttavaṇṇanā niṭṭhitā.
+.
 5. Subhāsitasuttavaṇṇanā
 213.,,‘‘,’’.‘‘…pe…’’.,‘‘’’..‘‘’’.‘‘’’..‘‘’’..
 ,.,.‘‘’’.‘‘’’.......,.
@@ -30,11 +30,11 @@ Pesalasuttavaṇṇanā niṭṭhitā.
 .,‘‘’’...,.
 .‘‘’’..-.,.
 ..,,..
-Subhāsitasuttavaṇṇanā niṭṭhitā.
+.
 6. Sāriputtasuttavaṇṇanā
 214.,.‘‘’’..‘‘’’..,..
 ‘‘,’’..,,.‘‘’’.‘‘’’.,.‘‘’’..
-Sāriputtasuttavaṇṇanā niṭṭhitā.
+.
 7. Pavāraṇāsuttavaṇṇanā
 215.‘‘’’...-.,.,‘‘.’’.‘‘’’‘‘…pe…’’..,-,.
 ..,,.‘‘’’.,,.?‘‘’’....
@@ -42,14 +42,14 @@ Sāriputtasuttavaṇṇanā niṭṭhitā.
 ‘‘’’‘‘’’.,.....‘‘’’...‘‘…pe…’’,.‘‘…pe…’’.
 ,.,.,,,,,,,,...,‘‘’’.‘‘,…pe…’’...
 ..,.‘‘’’.,....
-Pavāraṇāsuttavaṇṇanā niṭṭhitā.
+.
 8. Parosahassasuttavaṇṇanā
 216.‘‘’’..–‘‘,,’’(saṃ. ni. 4.379-408).,.‘‘’’....
 .‘‘’’..‘‘’’.
 .,‘‘’’?‘‘’’....
 ...
 ...‘‘’’..
-Parosahassasuttavaṇṇanā niṭṭhitā.
+.
 9. Koṇḍaññasuttavaṇṇanā
 217.‘‘,,’’....‘‘,’’...
 ...,–‘‘,,’’.
@@ -59,13 +59,13 @@ Parosahassasuttavaṇṇanā niṭṭhitā.
 ...,‘‘’’...
 ,,,,....
 ..
-Koṇḍaññasuttavaṇṇanā niṭṭhitā.
+.
 10. Moggallānasuttavaṇṇanā
 218......,‘‘’’.
-Moggallānasuttavaṇṇanā niṭṭhitā.
+.
 11. Gaggarāsuttavaṇṇanā
 219..‘‘’’..‘‘’’,..,.‘‘’’.
-Gaggarāsuttavaṇṇanā niṭṭhitā.
+.
 12. Vaṅgīsasuttavaṇṇanā
 220..‘‘,’’.‘‘,.,’’....
 ,....
@@ -74,6 +74,6 @@ Gaggarāsuttavaṇṇanā niṭṭhitā.
 ,’’.(saṃ. ni. 1.209; theragā. 1218);
 ,,‘‘,’’(theragā. 1232).
 .,,,‘‘’’...,.‘‘’’..
-Vaṅgīsasuttavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Vaṅgīsasaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+-
+.

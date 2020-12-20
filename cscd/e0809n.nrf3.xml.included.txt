@@ -89,7 +89,7 @@ pākaṭo nigamo bhoga maccādibhyo dhi tūdito
 
  sīmā ca mariyādā tha
 ghoso gopālagāmakoti
-
+puravaggo niṭṭhito
 
 
  manusso mānuso macco mānavo manujo naro
@@ -423,7 +423,7 @@ bhesajja magado ceva bhesajaṃ mosadhaṃ pyatha
 
  kusalā nāmayā rogyaṃ
 atha kallo nirāmayoti
-
+naravaggo niṭṭhito
 
 khattiyavagga
 
@@ -674,7 +674,7 @@ atha sivathikā vuttā susānasmiñhi āmake
 
  vandītthiyaṃ karamaro pāṇo tvasu pakāsito
 kārā tu bandhanāgāraṃ kāraṇā tu ca yātanā
-
+iti khattiyavaggo
 
  brahmabandhu  dvijo vippo brahmā bhovādī brāhmaṇo
 sottiyo chandaso so tha
@@ -787,7 +787,7 @@ athālambaṇadaṇḍasmiṃ kattarayaṭṭhi nāriyaṃ
 
  yaṃ dehasādhanāpekkhaṃ niccaṃ kammamayaṃ yamo
 āgantusādhanaṃ kammaṃ aniccaṃ niyamo bhave
-
+iti brāhmaṇavaggo
 
  vesso ca vesiyāno tha jīvanaṃ vutti jīvikā
 ājīvo vattanaṃ cātha kasikammaṃ kasitthiyaṃ
@@ -977,7 +977,7 @@ urabbho meṇḍa mesā ca uraṇo avi eḷako
  vasso tvajo chagalako
 oṭṭho tu karabho bhave
 gadrabho tu kharo vutto uraṇī tu ajī ajā
-
+iti vessavaggo
 
  suddontavaṇṇo vasalo saṃkiṇṇā māgadhādayo
 māgadho suddakhattājo uggo suddāya khattajo
@@ -1090,8 +1090,8 @@ madirā vāruṇī majjaṃ surā bhavo tu merayaṃ
 
  yetra bhūrippayogattā yogikekasmi mīritā
 liṅgantarepi te ñeyyā taddhammattāññavuttiyanti
-
-
+iti suddavaggo
+catubbaṇṇavaggo niṭṭhito
 
 
  araññaṃ kānanaṃ dāyo gahanaṃ vipinaṃ vanaṃ
@@ -1312,7 +1312,7 @@ pūgo tu kamuko bhave
 
  hintāla tāla khajjūrī nālikerā tatheva ca
 tālī ca ketakī nārī pūgo ca tiṇapādapāti
-
+iti araññavaggo
 
 
  pabbato giri seloddi nagācala siluccayā
@@ -1334,7 +1334,7 @@ silāpokkharaṇī soṇḍī kuñjaṃ nikuñja mitthi na
  uddha madhiccakā sela ssāsannā bhūmyu paccakā
 pādo tupantaselo tha
 dhātutto gerikādiko
-
+iti selavaggo
 
  migindo kesarī sīho taraccho tu migādano
 byaggho tu puṇḍarīko tha saddūlo dīpinīrito
@@ -1459,7 +1459,7 @@ jatukā jinapattā tha haṃso setacchado bhave
  te rājahaṃsā rattehi pādatuṇḍehi bhāsitā
 mallikākhyā dhataraṭṭhā malīnehyasitehi ca
  tiraccho tu tiracchāno tiracchānagato siyāti
-
+iti araññādivaggo
 
 
  adhobhuvanaṃ pātālaṃ nāgaloko rasātalaṃ
@@ -1591,5 +1591,5 @@ setetu kumudañcassa kando sālūka muccate
  sogandhikaṃ kallahāraṃ dakasītalikaṃ pyatha
 sevālo nīlikā cātha bhisinyambujinī bhave
 sevālā tilabījañca saṅkhe ca paṇakādayoti
-
-
+iti pātālavaggo
+bhūkaṇḍo dutiyo

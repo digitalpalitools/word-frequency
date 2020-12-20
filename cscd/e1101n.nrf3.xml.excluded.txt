@@ -24,7 +24,7 @@
 ;
 ,
 .
-Yakkhavañcitavatthuṃ pathamaṃ.
+.
 22. Micchadiṭṭhikassa vatthumhi ayamānupubbīkathā
 ,...‘‘’’.‘‘’’,,.‘‘’’.‘‘’’,.,.,,.,.,‘‘’’,.‘‘’’.,‘‘’’...
 1.
@@ -71,7 +71,7 @@ Yakkhavañcitavatthuṃ pathamaṃ.
 ;
 ,
 .
-Micchādiṭṭhikassa vatthuṃ dutiyaṃ.
+.
 23. Pādapīṭhikāya vatthumhi ayamānupubbīkathā
 ...,.....,.
 1.
@@ -148,7 +148,7 @@ viyanto itikatthaci,;
 ;
 ,
 .
-Pādapīṭhikāya vatthuṃ tatiyaṃ.
+.
 24. Uttarasāmaṇerassa vatthumhi ayamānupubbīkathā
 purimabuddhe itisabbattha..,,..,..,,.sattusamīpaṃ itipi katthaci,,...,..,.,.,..
 1.
@@ -289,7 +289,7 @@ purimabuddhe itisabbattha..,,..,..,,.sattusamīpaṃ itipi katthaci,,...,..,.,.,
 ;
 ,
 .
-Uttarasāmaṇerassa vatthuṃ catutthaṃ.
+.
 25. Kavīrapaṭṭana vatthumhi ayamānupubbīkathā
 .......,,...
 1.
@@ -334,7 +334,7 @@ Uttarasāmaṇerassa vatthuṃ catutthaṃ.
 ;
 ,
 .
-Kāvīrapaṭṭanavatthuṃ pañcamaṃ.
+.
 26. Coraghātakavatthumhi ayamānupubbīkathā
 ..,.,....,,,,,....,.coraghātakamma itipikatthaci...,,.,.,...,..,,,,....
 1.
@@ -361,7 +361,7 @@ Kāvīrapaṭṭanavatthuṃ pañcamaṃ.
 ;
 ,
 .
-Coraghātakavatthuṃ chaṭṭhamaṃ.
+.
 27. Saddhopāsakassa vatthumhi ayamānupubbīkathā
 .,,,,,.,.,..,,,,,,,theronanoāyasmantā itisabbattha,.,,sappinā itisabbattha,,..,,,.,.,,,..
 1.
@@ -448,7 +448,7 @@ jānamānopahaṃajja; jānadhānocahaṃajja itikatthaci,;
 ;
 ;
 .
-Saddhopāsakassa vatthuṃ sattamaṃ.
+.
 28. Kapaṇassa vatthumhi ayamānupubbīkathā
 ,,,...
 ...,,pāyāsaṃ itisabbattha.....devaccharāsahassaṃ itisabbattha...,.
@@ -473,7 +473,7 @@ Saddhopāsakassa vatthuṃ sattamaṃ.
 7.
 ,;
 ,.
-Devaputto āha.
+.
 8.
 ,;
 ,.
@@ -510,7 +510,7 @@ avaṭṭhitoca; andhaṭṭhitoca itipikattaci,;
 ;
 ,
 .
-Kapaṇassa vatthuṃ aṭṭhamaṃ.
+.
 29. Devaputtassa vatthumhi ayamānupubbīkathā
 ,,..,.,..,....,.,.,...bhatthapiṇḍaṃ itisabbattha.....,.,..,.,..
 1.
@@ -579,7 +579,7 @@ Kapaṇassa vatthuṃ aṭṭhamaṃ.
 ;
 ,
 .
-Devaputtassa vatthuṃ navamaṃ.
+.
 30. Sīvalittherassa vatthumhi ayamānupubbīkathā
 ,.,...,,,,.tenadassāmi itipikattaci.,,.....,.,,..,.,,,.....
 1.
@@ -726,5 +726,5 @@ paṇītehi itisabbattha,;
 ;
 ,
 .
-Sīvalittherassa vatthuṃ dasamaṃ.
-Yakkhavañcitavaggo tatiyo.
+.
+.

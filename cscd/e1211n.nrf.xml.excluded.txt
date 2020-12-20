@@ -1,10 +1,10 @@
 ﻿Padamañjarī 
-Namo tassa bhagavato arahato sammāsambuddhassa
+
 ,
 ;
 ,
 .
-Atha akārantapulliṅgo buddhasaddo vuccate.
+.
 
 
 
@@ -23,8 +23,8 @@ Atha akārantapulliṅgo buddhasaddo vuccate.
 
 .
 .
-Iti paṭhamo pāṭho.
-Akārantapulliṅgo attasaddo vuccate.
+.
+.
 
 
 
@@ -43,8 +43,8 @@ Akārantapulliṅgo attasaddo vuccate.
 
 
 .
-Iti dutiyo pāṭho.
-Akāranta pulliṅgo rājasaddo vuccate.
+.
+.
 
 
 
@@ -63,8 +63,8 @@ Akāranta pulliṅgo rājasaddo vuccate.
 
 
 .
-Iti tatiyo pāṭho.
-Akārantapulliṅgo guṇavattusaddo vuccate.
+.
+.
 
 
 
@@ -83,8 +83,8 @@ Akārantapulliṅgo guṇavattusaddo vuccate.
 
 
 .
-Iti catuttho pāṭho.
-Akārantapulliṅgo gacchantasaddo vuccate.
+.
+.
 
 
 
@@ -103,8 +103,8 @@ Akārantapulliṅgo gacchantasaddo vuccate.
 
 
 .
-Iti  pañcamo pāṭho.
-Ikārantapulliṅgo aggisaddo vuccate.
+.
+.
 
 
 
@@ -123,8 +123,8 @@ Ikārantapulliṅgo aggisaddo vuccate.
 
 
 .
-Iti chaṭṭho pāṭho.
-Ikārantapulliṅgo ādisaddo vuccate.
+.
+.
 
 
 
@@ -143,8 +143,8 @@ Ikārantapulliṅgo ādisaddo vuccate.
 
 
 .
-Iti sattamo pāṭho.
-Īkārantapulliṅgo daṇḍīsaddo vuccate.
+.
+.
 
 
 
@@ -163,8 +163,8 @@ Iti sattamo pāṭho.
 
 
 .
-Iti aṭṭhamo pāṭho.
-Ukārantapulliṅgo bhikkhusaddo vuccate.
+.
+.
 
 
 
@@ -183,8 +183,8 @@ Ukārantapulliṅgo bhikkhusaddo vuccate.
 
 
 .
-Iti navamo pāṭho.
-Ukārantapulliṅgo jantusaddo vuccate.
+.
+.
 
 
 
@@ -203,8 +203,8 @@ Ukārantapulliṅgo jantusaddo vuccate.
 
 
 .
-Iti dasamo pāṭho.
-Ukārantapulliṅgo satthusaddo vuccate.
+.
+.
 
 
 
@@ -223,8 +223,8 @@ Ukārantapulliṅgo satthusaddo vuccate.
 
 
 .
-Iti ekādasamo pāṭho.
-Ukārantapulliṅgo nantusaddo vuccate.
+.
+.
 
 
 
@@ -243,8 +243,8 @@ Ukārantapulliṅgo nantusaddo vuccate.
 
 
 .
-Iti dvādasamo pāṭho.
-Ukāranta pulliṅgo pitusaddo vuccate.
+.
+.
 
 
 
@@ -262,28 +262,8 @@ Ukāranta pulliṅgo pitusaddo vuccate.
 
 
 .
-Iti terasamo pāṭho.
-Ukāranta pulliṅgo bhātusaddo vuccate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-Iti cuddasamo pāṭho.
-Ūkāranta  pulliṅgo abhibhūsaddo vuccate.
+.
 
 
 
@@ -302,8 +282,8 @@ Iti cuddasamo pāṭho.
 
 
 .
-Iti pañcadasamo pāṭho.
-Ūkāranta pulliṅgo sabbaññusaddo vuccate.
+.
+.
 
 
 
@@ -322,29 +302,8 @@ Iti pañcadasamo pāṭho.
 
 
 .
-Iti solasamo pāṭho.
-Okāranta pulliṅgo gosaddo vuccate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-Iti sattadasamo pāṭho.
-Iti padamañjariyā pulliṅganāmānaṃ.
-Paṭhamo paricchedo.
-Atha akārantetthiliṅgo kaññāsaddo vuccate.
+.
 
 
 
@@ -363,8 +322,29 @@ Atha akārantetthiliṅgo kaññāsaddo vuccate.
 
 
 .
-Iti paṭhamo pāṭho.
-Ikāranta itthiliṅgo rattisaddo vuccate.
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+.
+.
 
 
 
@@ -383,47 +363,8 @@ Ikāranta itthiliṅgo rattisaddo vuccate.
 
 
 .
-Iti dutiyo pāṭho.
-Īkāranta itthiliṅgo nadīsaddo vuccate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-Iti tatiyo pāṭho.
-Ukāranta itthiliṅgo yāgusaddo vuccate.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .
-
-.
-Iti  catuttho pāṭho.
-Ukāranta itthiliṅgo mātusaddo vuccate.
 
 
 
@@ -442,8 +383,47 @@ Ukāranta itthiliṅgo mātusaddo vuccate.
 
 
 .
-Iti pañcamo pāṭho.
-Ūkāranta itthiliṅgo jambusaddo vuccate.
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+.
+.
 
 
 
@@ -462,10 +442,8 @@ Iti pañcamo pāṭho.
 
 
 .
-Iti chaṭṭho pāṭho.
-Iti padamañjariyā itthiliṅganāmānaṃ.
-Dutiyo paricchedo.
-Atha akārantapuṃsakaliṅgo cittasaddo vuccate.
+.
+.
 
 
 
@@ -484,8 +462,10 @@ Atha akārantapuṃsakaliṅgo cittasaddo vuccate.
 
 
 .
-Iti paṭhamo pāṭho.
-Akārantanapuṃsakaliṅgo manasaddo vuccate.
+.
+.
+.
+.
 
 
 
@@ -504,8 +484,8 @@ Akārantanapuṃsakaliṅgo manasaddo vuccate.
 
 
 .
-Iti dutiyo pāṭho.
-Akārantanapuṃsakaliṅgo guṇavantusaddo vuccate.
+.
+.
 
 
 
@@ -524,8 +504,8 @@ Akārantanapuṃsakaliṅgo guṇavantusaddo vuccate.
 
 
 .
-Iti  tatiyo pāṭho.
-Akārantanapuṃsakaliṅgo gaccantasaddo vuccate.
+.
+.
 
 
 
@@ -544,8 +524,8 @@ Akārantanapuṃsakaliṅgo gaccantasaddo vuccate.
 
 
 .
-Iti catuttho pāṭho.
-Ikārantanapuṃsakaliṅgo aṭṭhisaddo vuccate.
+.
+.
 
 
 
@@ -564,8 +544,8 @@ Ikārantanapuṃsakaliṅgo aṭṭhisaddo vuccate.
 
 
 .
-Iti pañcamo pāṭho.
-Īkārantanapuṃsakaliṅgo daṇḍisaddo vuccate.
+.
+.
 
 
 
@@ -584,8 +564,8 @@ Iti pañcamo pāṭho.
 
 
 .
-Iti chaṭṭho pāṭho.
-Ukāranta napuṃsakaliṅgo āyusaddo vuccate.
+.
+.
 
 
 
@@ -604,21 +584,28 @@ Ukāranta napuṃsakaliṅgo āyusaddo vuccate.
 
 
 .
-Iti sattamo pāṭho.
-Iti padamañjariyā napuṃsakaliṅganāmānaṃ.
-Tatiyo paricchedo.
-;
 .
-;
 .
-;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .
-;
 .
-;
 .
-Atha pulliṅgarūpāni vuccante.
-;
 .
 ;
 .
@@ -630,14 +617,7 @@ Atha pulliṅgarūpāni vuccante.
 .
 ;
 .
-;
 .
-;
-.
-;
-.
-Iti paṭhamo pāṭho.
-Itthiliṅgarūpāni vuccante.
 ;
 .
 ;
@@ -656,8 +636,28 @@ Itthiliṅgarūpāni vuccante.
 .
 ;
 .
-Iti  dutiyo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+.
+.
 ;
 .
 ;
@@ -676,8 +676,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 .
 ;
 .
-Iti tatiyo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -696,8 +696,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti catuttho pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -716,8 +716,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti pañcamo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -736,8 +736,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti chaṭṭho pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -754,8 +754,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti sattamo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -772,8 +772,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti aṭṭhamo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -790,8 +790,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti navamo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -808,8 +808,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti dasamo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -826,8 +826,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti ekādasamo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -844,8 +844,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti dvādasamo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -862,8 +862,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti terasamo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -880,8 +880,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti cuddasamo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -898,8 +898,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti pañcadasamo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -916,8 +916,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti soḷasamo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 .
 
 
@@ -934,8 +934,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti sattadasamo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -952,8 +952,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti aṭṭhādasamo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -970,8 +970,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti ekūnavīsatimo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -988,8 +988,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti vīsatimo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1006,8 +1006,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti ekavīsatimo pāṭho.
-Pulliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1024,8 +1024,8 @@ Pulliṅgarūpāni vuccante.
 
 
 .
-Iti dvevīsatimo pāṭho.
-Itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1042,8 +1042,8 @@ Itthiliṅgarūpāni vuccante.
 
 
 .
-Iti tevīsatimo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1060,26 +1060,8 @@ Napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti catuvīsatimo pāṭho.
-Pulliṅgarūpāni vuccante.
-;
 .
-;
 .
-;
-.
-;
-.
-;
-.
-;
-.
-;
-.
-;
-.
-Iti pañcavīsatimo pāṭho.
-Itthiliṅgarūpāni vuccante.
 ;
 .
 ;
@@ -1096,8 +1078,26 @@ Itthiliṅgarūpāni vuccante.
 .
 ;
 .
-Iti chabbīsatimo pāṭho.
-Napuṃsakaliṅgarūpāni vuccante.
+.
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+;
+.
+.
+.
 ;
 .
 ;
@@ -1114,10 +1114,10 @@ Napuṃsakaliṅgarūpāni vuccante.
 .
 ;
 .
-Iti  sattavīsatimo pāṭho.
-Iti padamañjariyā sabbanāmānaṃ.
-Catuttho paricchedo.
-Atha aliṅgatumhāmhasaddā vuccante.
+.
+.
+.
+.
 
 
 
@@ -1134,7 +1134,7 @@ Atha aliṅgatumhāmhasaddā vuccante.
 
 
 .
-Iti paṭhamo pāṭho.
+.
 
 
 
@@ -1151,7 +1151,7 @@ Iti paṭhamo pāṭho.
 
 
 .
-Iti  dutiyo pāṭho.
+.
 
 
 
@@ -1168,7 +1168,7 @@ Iti  dutiyo pāṭho.
 
 
 .
-Iti tatiyo pāṭho.
+.
 
 
 
@@ -1185,7 +1185,7 @@ Iti tatiyo pāṭho.
 
 
 .
-Iti catuttho pāṭho.
+.
 
 
 
@@ -1202,7 +1202,7 @@ Iti catuttho pāṭho.
 
 
 .
-Iti pañcamo pāṭho.
+.
 
 
 
@@ -1219,7 +1219,7 @@ Iti pañcamo pāṭho.
 
 
 .
-Iti chaṭṭho pāṭho.
+.
 
 
 
@@ -1235,16 +1235,16 @@ Iti chaṭṭho pāṭho.
 
 
 
+.
+;
+.
+;
 .
 ;
 .
-;
 .
-;
 .
-Iti sattamo pāṭho.
-Iti padamañjariyā aliṅgasabbanāmānaṃ.
-Pañcamo paricchedo.
+.
 
 
 
@@ -1254,16 +1254,8 @@ Pañcamo paricchedo.
 
 
 .
-Imāni itthiliṅgarūpāni vuccante.
+.
 
-
-
-
-
-
-
-
-Imāni napuṃsakaliṅgarūpāni vuccante.
 
 
 
@@ -1272,8 +1264,6 @@ Imāni napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti paṭhamo pāṭho.
-Imāni pulliṅgarūpāni vuccante.
 
 
 
@@ -1282,7 +1272,8 @@ Imāni pulliṅgarūpāni vuccante.
 
 
 .
-Imāni itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1291,7 +1282,7 @@ Imāni itthiliṅgarūpāni vuccante.
 
 
 .
-Imāni napuṃsakaliṅgarūpāni vuccante.
+.
 
 
 
@@ -1300,8 +1291,7 @@ Imāni napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti dutiyo pāṭho.
-Imāni pulliṅgarūpāni vuccante.
+.
 
 
 
@@ -1310,7 +1300,8 @@ Imāni pulliṅgarūpāni vuccante.
 
 
 .
-Imāni itthiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1319,7 +1310,7 @@ Imāni itthiliṅgarūpāni vuccante.
 
 
 .
-Imāni napuṃsakaliṅgarūpāni vuccante.
+.
 
 
 
@@ -1328,7 +1319,7 @@ Imāni napuṃsakaliṅgarūpāni vuccante.
 
 
 .
-Iti tatiyo pāṭho.
+.
 
 
 
@@ -1337,7 +1328,16 @@ Iti tatiyo pāṭho.
 
 
 .
-Tiliṅgarūpāni vuccante.
+.
+
+
+
+
+
+
+
+.
+.
 -
 -
 -
@@ -1346,8 +1346,8 @@ Tiliṅgarūpāni vuccante.
 -
 -
 .
-Iti catuttho pāṭho.
-Tiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1355,7 +1355,7 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Tiliṅgarūpāni vuccante.
+.
 
 
 
@@ -1363,8 +1363,8 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Iti  pañcamo pāṭho.
-Tiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1372,7 +1372,7 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Tiliṅgarūpāni vuccante.
+.
 
 
 
@@ -1380,8 +1380,8 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Iti chaṭṭho pāṭho.
-Tiliṅgarūpāni vuccante.
+.
+.
 
 
 
@@ -1389,7 +1389,7 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Tiliṅgarūpāni vuccante.
+.
 -
 -
 -
@@ -1397,7 +1397,7 @@ Tiliṅgarūpāni vuccante.
 -
 -
 -.
-Tiliṅgarūpāni  vuccante.
+.
 
 
 
@@ -1405,9 +1405,9 @@ Tiliṅgarūpāni  vuccante.
 
 
 .
-Iti sattamo pāṭho.
-Iti padamañjariyā bahuvacanasaṅkhyānāmānaṃ chaṭṭho paricchedo.
-Tiliṅgarūpāni vuccante.
+.
+.
+.
 
 
 
@@ -1427,34 +1427,34 @@ Tiliṅgarūpāni vuccante.
 
 
 .
-Iti  paṭhamo pāṭho.
-Pulliṅgarūpāni.
+.
+.
 
 
 
 .
-Itthiliṅgarūpāni.
+.
 
 
 
 .
-Napuṃsakaliṅgarūpāni.
+.
 
 
 
 .
-Iti dutiyo pāṭho.
-Pulliṅgarūpāni.
+.
+.
 
 
 
 .
-Itthiliṅgarūpāni.
+.
 
 
 
 .
-Napuṃsakaliṅgarūpāni.
+.
 
 
 
@@ -1462,139 +1462,130 @@ Napuṃsakaliṅgarūpāni.
 
 
 -.
-Iti  tatiyo pāṭho.
-Pulliṅgarūpāni.
-
-
-
 .
-Itthiliṅgarūpāni.
-
-
-
 .
-Napuṃsakaliṅgarūpāni.
-
-
-
-.
-Iti catuttho pāṭho.
-Pulliṅgarūpāni.
-
-
-
-.
-Itthiliṅgarūpāni.
-
-
-
-.
-Napuṃsakaliṅgarūpāni.
 
 
 
 .
 .
-Iti  pañcamo pāṭho.
-Pulliṅgarūpāni.
 
 
 
 .
-Itthiliṅgarūpāni.
+.
 
 
 
 .
-Napuṃsakaliṅgarūpāni.
+.
+.
 
+
+
+.
+.
+
+
+
+.
+.
+
+
+
+.
+.
+.
+.
+
+
+
+.
+.
+
+
+
+.
 .
 
 .
 
 .
-Iti chaṭṭho pāṭho.
-Pulliṅgarūpāni.
+
+.
+.
+.
 
 
 
 .
-Itthiliṅgarūpāni.
-
-
-
-
-Napuṃsakaliṅgarūpāni.
-
-
-
 .
-Iti  sattamo pāṭho.
-Pulliṅgarūpāni.
-
-
-
-.
-Itthiliṅgarūpāni.
-
-
-
-.
-Napuṃsakaliṅgarūpāni.
-
-
-
-
-.
-Iti aṭṭhamo pāṭho.
-Pulliṅgarūpāni.
-
-
-
-.
-Itthiliṅgarūpāni.
-
-
-
-.
-Napuṃsakaliṅgarūpāni.
-
-
-
-.
-Iti navamo pāṭho.
-Pulliṅgarūpāni.
-
-
-
-.
-Itthiliṅgarūpāni 
-
-
-
-.
-Napuṃsakaliṅgarūpāni.
-
-
-
-.
-Tathā ekanavuti iccādipi.
-Iti dasamo pāṭho.
-
-
-
-
-
-
-
-
-
 
 
 
 
 .
-Evaṃ sahassaṃ sahassānīti.
+
+
+
+.
+.
+.
+
+
+
+.
+.
+
+
+
+.
+.
+
+
+
+
+.
+.
+.
+
+
+
+.
+.
+
+
+
+.
+.
+
+
+
+.
+.
+.
+
+
+
+.
+
+
+
+
+.
+.
+
+
+
+.
+.
+.
+
+
+
+
+
+
 
 
 
@@ -1603,7 +1594,16 @@ Evaṃ sahassaṃ sahassānīti.
 
 
 .
-Iti  ekādasamo pāṭho.
+.
+
+
+
+
+
+
+
+.
+.
 .
 .
 .
@@ -1633,8 +1633,8 @@ Iti  ekādasamo pāṭho.
 
 
 .
-Iti dvādasamo pāṭho.
-Iti padamañjariyā saṅkhyānāmānaṃ.
-Sattamo paricchedo.
-Padamañjariyā pakaraṇī samattā.
-Siddhi ratthu.
+.
+.
+.
+.
+.

@@ -1,4 +1,4 @@
-﻿Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Vinayapiṭake
 Pācittiya-aṭṭhakathā
 5. Pācittiyakaṇḍaṃ
@@ -14,7 +14,7 @@ Pācittiya-aṭṭhakathā
 9.‘‘’’.,.
 11.‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’‘‘’’‘‘’’,.,–‘‘,’’‘‘’’,..
 –,,,,,,,,.
-Musāvādasikkhāpadaṃ paṭhamaṃ.
+.
 2. Omasavādasikkhāpadavaṇṇanā
 12....
 13..,,‘‘’’...‘‘’’.,.,,...
@@ -26,13 +26,13 @@ Musāvādasikkhāpadaṃ paṭhamaṃ.
 26..…pe…......
 35.;;‘‘,,’’..
 –.,,,,,,,.,,,,,.
-Omasavādasikkhāpadaṃ dutiyaṃ.
+.
 3. Pesuññasikkhāpadavaṇṇanā
 36.–.,‘‘;’’....,.
 37.;.
 38..‘‘’’.‘‘’’...
 ‘‘,’’..–,,,,,,,,.
-Pesuññasikkhāpadaṃ tatiyaṃ.
+.
 4. Padasodhammasikkhāpadavaṇṇanā
 44.–.;..,;.
 45.;.,‘‘’’.....,,.,.
@@ -43,7 +43,7 @@ Pesuññasikkhāpadaṃ tatiyaṃ.
 –.,..,.,,.,,.,.,,,.,...
 ,,....‘‘’’,‘‘’’,,.?...
 –,,,,,,,.
-Padasodhammasikkhāpadaṃ catutthaṃ.
+.
 5. Sahaseyyasikkhāpadavaṇṇanā
 49.–,!...
 50.‘‘’’..–.‘‘’’–‘‘,,’’.‘‘’’..,.
@@ -60,21 +60,21 @@ Padasodhammasikkhāpadaṃ catutthaṃ.
 53..‘‘,,,,,,’’.‘‘,,,,’’.
 ‘‘,,,’’.–‘‘’’..
 –,,,,,,,.
-Sahaseyyasikkhāpadaṃ pañcamaṃ.
+.
 6. Dutiyasahaseyyasikkhāpadavaṇṇanā
 55.–...,......–....
-Dutiyasahaseyyasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Dhammadesanāsikkhāpadavaṇṇanā
 60.–........,.
 66..,..,.......‘‘,,.,.‘‘’’.,..
 –,,,,,,,.
-Dhammadesanāsikkhāpadaṃ sattamaṃ.
+.
 8. Bhūtārocanasikkhāpadavaṇṇanā
 67.–,.–,.,.,,,.
 ‘‘’’,.‘‘’’‘‘’’..‘‘’’‘‘’’‘‘’’.‘‘,,’’.,.‘‘,,’’....
 77.‘‘’’....‘‘’’.?.‘‘,,’’..
 –.,,,,,,,.
-Bhūtārocanasikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Duṭṭhullārocanasikkhāpadavaṇṇanā
 78.–‘‘,’’.–,-,;,‘‘’’.‘‘,,’’.,.–‘‘,,’’(pārā. 389)..,,.–‘‘,’’(pārā. aṭṭha. 1.ganthārambhakathā)..
 ..,,,.‘‘,’’,.
@@ -82,7 +82,7 @@ Bhūtārocanasikkhāpadaṃ aṭṭhamaṃ.
 82...,..
 83.‘‘,,’’.‘‘,’’.‘‘’’..
 –,,,,,,,,.
-Duṭṭhullārocanasikkhāpadaṃ navamaṃ.
+.
 10. Pathavīkhaṇanasikkhāpadavaṇṇanā
 86.–..,....,..,...‘‘’’,..,.,...
 –‘‘’’,.,.‘‘’’.‘‘,’’.‘‘,’’.‘‘,’’.,,.,,.,,.
@@ -96,8 +96,8 @@ Duṭṭhullārocanasikkhāpadaṃ navamaṃ.
 88.‘‘,,,,,,,,,,,’’.
 ,‘‘’’..,.‘‘’’,‘‘’’,‘‘’’,,,..
 –.,,,,,,,.
-Pathavīkhaṇanasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena musāvādavaggo paṭhamo.
+.
+.
 2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpadavaṇṇanā
 89.–..–,–‘‘’’?.,.,.–‘‘…pe…’’.‘‘,,’’...–
@@ -126,7 +126,7 @@ Samatto vaṇṇanākkamena musāvādavaggo paṭhamo.
 ,.
 ,,,,.‘‘,,.,’’.–‘‘,,,’’(cūḷava. 283).‘‘,’’.,,.......
 –.,,,,,,,.
-Bhūtagāmasikkhāpadaṃ paṭhamaṃ.
+.
 2. Aññavādakasikkhāpadavaṇṇanā
 94.–;.;‘‘’’.–‘‘,’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘,’’.‘‘’’‘‘’’.‘‘’’‘‘’’.
 –‘‘,’’‘‘,,;’’‘‘,’’‘‘,,,’’‘‘,’’‘‘,,’’,‘‘’’‘‘’’,,.;..
@@ -135,14 +135,14 @@ Bhūtagāmasikkhāpadaṃ paṭhamaṃ.
 101.,,,.
 102.‘‘,’’.,.,..
 –,,,,,,,,,,,.
-Aññavādakasikkhāpadaṃ dutiyaṃ.
+.
 3. Ujjhāpanakasikkhāpadavaṇṇanā
 103.–‘‘’’,,’’....;.‘‘’’.
 105.,....
 106.…pe…‘‘’’.‘‘’’.‘‘’’‘‘’’,,.,,.
 ,.‘‘’’,,..,‘‘’’.‘‘’’,‘‘’’..
 –,,,,,,,,.
-Ujjhāpanakasikkhāpadaṃ tatiyaṃ.
+.
 4. Paṭhamasenāsanasikkhāpadavaṇṇanā
 108.–....
 110....,.,.,.‘‘’’,.‘‘’’,.,.
@@ -157,7 +157,7 @@ Ujjhāpanakasikkhāpadaṃ tatiyaṃ.
 ,.,.
 113.,,,.;..,,,,....
 –,,,,,,,,.
-Paṭhamasenāsanasikkhāpadaṃ catutthaṃ.
+.
 5. Dutiyasenāsanasikkhāpadavaṇṇanā
 116.–......,..
 .,,,..,,,.,,.,.‘‘,’’,.,.
@@ -165,7 +165,7 @@ Paṭhamasenāsanasikkhāpadaṃ catutthaṃ.
 118......
 –,,,..,,.,.,,.,.,.–‘‘,.‘’..,,..,,‘,’.‘’.,.’’.
 .,,,,,..
-Dutiyasenāsanasikkhāpadaṃ pañcamaṃ.
+.
 6. Anupakhajjasikkhāpadavaṇṇanā
 119.–.‘‘’’.‘‘,.’’.
 120.‘‘’’;‘‘’’.,,,,.,‘‘’’.
@@ -173,7 +173,7 @@ Dutiyasenāsanasikkhāpadaṃ pañcamaṃ.
 .,..
 122.‘‘’’,.,.,.
 123.,,..,,,,,,,.
-Anupakhajjasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Nikkaḍḍhanasikkhāpadavaṇṇanā
 126.–,,..‘‘’’.
 ‘‘’’.,.‘‘’’‘‘’’,.
@@ -181,12 +181,12 @@ Anupakhajjasikkhāpadaṃ chaṭṭhaṃ.
 127..;.,.
 128.,.,...
 –,,,,,,,,.
-Nikkaḍḍhanasikkhāpadaṃ sattamaṃ.
+.
 8. Vehāsakuṭisikkhāpadavaṇṇanā
 129.–..;...,..
 131.,,.‘‘’’...
 133...,.,.,.,.,,.,,..–,,,,,,,.
-Vehāsakuṭisikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Mahallakavihārasikkhāpadavaṇṇanā
 135.–.‘‘’’.‘‘’’.‘‘’’,.‘‘’’.;..–,.,,.‘‘’’.‘‘’’,‘‘’’.
 ‘‘’’.,,,.,..,.,.,.
@@ -195,13 +195,13 @@ Vehāsakuṭisikkhāpadaṃ aṭṭhamaṃ.
 ,,,.,.,,,,..?.
 136.;.,,;‘‘’’...‘‘’’.,....
 137...–,,,,,,,.
-Mahallakavihārasikkhāpadaṃ navamaṃ.
+.
 10. Sappāṇakasikkhāpadavaṇṇanā
 140.–.,.‘‘’’.
 ...,,.,.,...,,,,..
 –,,,,,,,.
-Sappāṇakasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena senāsanavaggo dutiyo.
+.
+.
 3. Ovādavaggo
 1. Ovādasikkhāpadavaṇṇanā
 141-144.–,,‘‘’’‘‘’’...–‘‘…pe…’’.
@@ -262,7 +262,7 @@ Samatto vaṇṇanākkamena senāsanavaggo dutiyo.
 150...,.
 152....,,,..,,,.,...
 –,,,,,,.
-Ovādasikkhāpadaṃ paṭhamaṃ.
+.
 2. Atthaṅgatasikkhāpadavaṇṇanā
 153.–,.,.,.‘‘,’’(dha. pa. 269),,,..,.....,,.‘‘‘’,’’–‘‘…pe…’’..–
 ‘‘,
@@ -271,27 +271,27 @@ Ovādasikkhāpadaṃ paṭhamaṃ.
 ’’.(saṃ. ni. 1.123);
 ..‘‘’’,.‘‘,’’..‘‘‘’’’.‘‘’’,.‘‘’’.‘‘’’..,..–‘‘,’’.
 156.,...
-Atthaṅgatasikkhāpadaṃ dutiyaṃ.
+.
 3. Bhikkhunupassayasikkhāpadavaṇṇanā
 162.–,.,.‘‘’’,..
 –,,,,,,,,,.
-Bhikkhunupassayasikkhāpadaṃ tatiyaṃ.
+.
 –,.,.?,,.,.?,,.,,.?,,..
-Pakiṇṇakakathā niṭṭhitā.
+.
 4. Āmisasikkhāpadavaṇṇanā
 164.–,.‘‘’’.
 .,..
 –,,,,,,,,.
-Āmisasikkhāpadaṃ catutthaṃ.
+.
 5. Cīvaradānasikkhāpadavaṇṇanā
 169.–...,.,,..
-Cīvaradānasikkhāpadaṃ pañcamaṃ.
+.
 6. Cīvarasibbanasikkhāpadavaṇṇanā
 175.–.,..,.–‘‘’’..
 176.,.,..,.‘‘’’.,.‘‘’’,,..
 ‘‘’’,.,,.,.,,.?,.‘‘,’’.
 179...–,,,,,,,.
-Cīvarasibbanasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Saṃvidhānasikkhāpadavaṇṇanā
 181.–.,.
 182-3.,.,.–.?..,.,,..,.,.,‘‘’’,,.
@@ -300,29 +300,29 @@ Cīvarasibbanasikkhāpadaṃ chaṭṭhaṃ.
 184.‘‘’’,‘‘’’‘‘’’‘‘,’’.‘‘’’.‘‘’’.‘‘’’,.
 185.‘‘’’,‘‘’’.,...
 –,,,,,,,,.
-Saṃvidhānasikkhāpadaṃ sattamaṃ.
+.
 8. Nāvābhiruhanasikkhāpadavaṇṇanā
 188.–..,‘‘’’.‘‘’’..,‘‘’’.‘‘’’.,..
 189.,,,.,.,,.,.
 191.,..
-Nāvābhiruhanasikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Paripācitasikkhāpadavaṇṇanā
 192.–,.‘‘’’.....
 194.,;.‘‘,’’..,..,,.,,‘‘’’.
 195.‘‘’’.‘‘’’‘‘’’.
 197...–,,,,,,,.
-Paripācitasikkhāpadaṃ navamaṃ.
+.
 10. Rahonisajjasikkhāpadavaṇṇanā
 198.–.,.
-Rahonisajjasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena bhikkhunivaggo tatiyo.
+.
+.
 4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpadavaṇṇanā
 203.–.,...‘‘’’‘‘’’.,.
 206.....,,.
 –‘‘;’’....,.‘‘’’,.
 208..,...,..,,....–,,,,,,.
-Āvasathapiṇḍasikkhāpadaṃ paṭhamaṃ.
+.
 2. Gaṇabhojanasikkhāpadavaṇṇanā
 209.–.,.‘‘’’‘‘,,,,’’.‘‘’’‘‘’’.‘‘’’..,,.–‘‘’’.‘‘’’‘‘,’’.
 211.,.
@@ -343,7 +343,7 @@ Samatto vaṇṇanākkamena bhikkhunivaggo tatiyo.
 ‘‘,’’‘‘’’‘‘’’‘‘’’,,.?–‘‘’’.‘‘,’’.‘‘’’.–‘‘’’?‘‘’’,‘‘,’’‘‘’’.,‘‘,,’’.‘‘,,’’‘‘,’’.?–‘‘,,’’.,.‘‘’’,‘‘,,,’’.‘‘,,,’’?‘‘’’.‘‘’’?‘‘’’.‘‘’’,.‘‘’’,–‘‘,,,’’.‘‘,’’–‘‘’’.‘‘,‘’.’’.–‘‘,,’’.,,..–‘‘,,’’.
 ‘‘’’,,.‘‘’’,.,.‘‘’’,,.‘‘,,’’,‘‘’’.‘‘,,’’,.‘‘,’’,.‘‘’’..‘‘’’,...
 –,,,,,,.
-Gaṇabhojanasikkhāpadaṃ dutiyaṃ.
+.
 3. Paramparabhojanasikkhāpadavaṇṇanā
 221.–,,,–‘‘,’’.‘‘’’;‘‘’’....
 222..
@@ -353,7 +353,7 @@ Gaṇabhojanasikkhāpadaṃ dutiyaṃ.
 ‘‘’’,.?.,,.,.‘‘’’‘‘’’’’,.
 ..‘‘’’‘‘,’’.–‘‘,’’.–‘‘,’’..
 –,,,,,,,,,.
-Paramparabhojanasikkhāpadaṃ tatiyaṃ.
+.
 4. Kāṇamātāsikkhāpadavaṇṇanā
 230.–.,,,.‘‘’’.‘‘’’..;.,.,,...‘‘’’.
 231.,‘‘’’..–‘‘’’.
@@ -362,7 +362,7 @@ Paramparabhojanasikkhāpadaṃ tatiyaṃ.
 ,.,,.,,.
 235.‘‘,’’..‘‘’’..
 –,,,,,,,.
-Kāṇamātāsikkhāpadaṃ catutthaṃ.
+.
 5. Paṭhamapavāraṇasikkhāpadavaṇṇanā
 236.–‘‘,,’’,‘‘,,’’..
 237.;.‘‘’’.
@@ -391,13 +391,13 @@ Kāṇamātāsikkhāpadaṃ catutthaṃ.
 ,;,,‘‘’’.,.,.
 241.,..
 –,,,,,,,,.
-Paṭhamapavāraṇasikkhāpadaṃ pañcamaṃ.
+.
 6. Dutiyapavāraṇasikkhāpadavaṇṇanā
 242.–.;..
 243.‘‘’’.‘‘’’‘‘’’..,‘‘’’..
 .,..
 –,,,,,,,,.
-Dutiyapavāraṇasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Vikālabhojanasikkhāpadavaṇṇanā
 247.–,.,,,.,‘‘’’.‘‘’’.–‘‘’’.
 248-9..,,.‘‘’’,.,,.,.
@@ -427,7 +427,7 @@ Dutiyapavāraṇasikkhāpadaṃ chaṭṭhaṃ.
 .‘‘,,–’’(mahāva. 263)..,‘‘’’.
 .,,..
 –,,,,,,,.
-Vikālabhojanasikkhāpadaṃ sattamaṃ.
+.
 8. Sannidhikārakasikkhāpadavaṇṇanā
 252.–...,,.,..–‘‘’’.
 253.,;..–‘‘’’.
@@ -437,7 +437,7 @@ Vikālabhojanasikkhāpadaṃ sattamaṃ.
 256.,.,...
 ,,,,..‘‘’’,.
 –,,,,,,,.
-Sannidhikārakasikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Paṇītabhojanasikkhāpadavaṇṇanā
 257.–...
 259.,,,.‘‘’’‘‘’’.‘‘’’,‘‘’’.
@@ -451,9 +451,9 @@ Sannidhikārakasikkhāpadaṃ aṭṭhamaṃ.
 ,
 ’’.(pari. 481);
 261.,..,..
-Catusamuṭṭhānaṃ – kāyato kāyavācato kāyacittato kāyavācācittato ca samuṭṭhāti,
+–,
 ,,,,,,,.
-Paṇītabhojanasikkhāpadaṃ navamaṃ.
+.
 10. Dantaponasikkhāpadavaṇṇanā
 263.–...;,‘‘.,.–‘‘’’..;.;.
 264.‘‘’’,.
@@ -507,117 +507,117 @@ Paṇītabhojanasikkhāpadaṃ navamaṃ.
 ,?,,..,..,,.,..
 ......
 –,,,,,,,.
-Dantaponasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena bhojanavaggo catuttho.
+.
+.
 5. Acelakavaggo
 1. Acelakasikkhāpadavaṇṇanā
 269.–..,.,..,..
 273.,,‘‘’’.‘‘,’’...
 –,,,,,,.
-Acelakasikkhāpadaṃ paṭhamaṃ.
+.
 2. Uyyojanasikkhāpadavaṇṇanā
 274.–...
 276..;,,..,.,..,.,,..
 277.‘‘’’;;;‘‘,,,’’‘‘’’..
 –,,,,,,,,.
-Uyyojanasikkhāpadaṃ dutiyaṃ.
+.
 3. Sabhojanasikkhāpadavaṇṇanā
 279.–.,;.;.
 280.;...–‘‘’’..,;.....
 –,,,,,,.
-Sabhojanasikkhāpadaṃ tatiyaṃ.
+.
 284.,.,.
-Rahopaṭicchannasikkhāpadaṃ catutthaṃ, rahonisajjasikkhāpadaṃ pañcamaṃ.
+,.
 6. Cārittasikkhāpadavaṇṇanā
 294.–,.,.
 295..‘‘’’,.;.
 298.,?,,,..,.,.,.
 302.,....
 –,,,,,,,,.
-Cārittasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Mahānāmasikkhāpadavaṇṇanā
 303.–..
 306.;..,.,.
 310.;...
 –,,,,,,,.
-Mahānāmasikkhāpadaṃ sattamaṃ.
+.
 8. Uyyuttasenāsikkhāpadavaṇṇanā
 311.–;.;.
 314......;.
 315.;.;.
 316...–,,,,,,.
-Uyyuttasenāsikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Senāvāsasikkhāpadavaṇṇanā
 319.–,.;...–,,,,,,.
-Senāvāsasikkhāpadaṃ navamaṃ.
+.
 10. Uyyodhikasikkhāpadavaṇṇanā
 322.–;.;.;....
-Uyyodhikasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena acelakavaggo pañcamo.
+.
+.
 6. Surāpānavaggo
 1. Surāpānasikkhāpadavaṇṇanā
 326.–,......
 328...;..;,....
 329..,..,,,,.,.,,;.,,..–,,,,,.,.
-Surāpānasikkhāpadaṃ paṭhamaṃ.
+.
 2. Aṅgulipatodakasikkhāpadavaṇṇanā
 330.–...,..
 –,,,,,,.
-Aṅgulipatodakasikkhāpadaṃ dutiyaṃ.
+.
 3. Hasadhammasikkhāpadavaṇṇanā
 335.–,.
 336..........,.,.,.
 .,.,,,..
 –,,,,,,.
-Hasadhammasikkhāpadaṃ tatiyaṃ.
+.
 4. Anādariyasikkhāpadavaṇṇanā
 342.–.,..
 344.;.‘‘,’’.‘‘,...
 –,,,,,,,,.
-Anādariyasikkhāpadaṃ catutthaṃ.
+.
 5. Bhiṃsāpanasikkhāpadavaṇṇanā
 345.–...
-Bhiṃsāpanasikkhāpadaṃ pañcamaṃ.
+.
 6. Jotisikkhāpadavaṇṇanā
 350.–......
 352....
 354-5.,.,.,.
 356..,..–,,,,,,,.
-Jotisikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Nahānasikkhāpadavaṇṇanā
 364.–.
 366....–,,,,,,.
-Nahānasikkhāpadaṃ sattamaṃ.
+.
 8. Dubbaṇṇakaraṇasikkhāpadavaṇṇanā
 368-9.–;.?.?.‘‘’’‘‘’’;...‘‘’’.,.‘‘’’..‘‘’’..;..‘‘’’.‘‘’’.,.
 371...–,,,;,,.
-Dubbaṇṇakaraṇasikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Vikappanasikkhāpadavaṇṇanā
 374.–‘‘’’.,...–,,,,,,,,.
-Vikappanasikkhāpadaṃ navamaṃ.
+.
 10. Cīvarāpanidhānasikkhāpadavaṇṇanā
 377-81.–...‘‘’’..–,,,,,,,.
-Cīvarāpanidhānasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena surāpānavaggo chaṭṭho.
+.
+.
 7. Sappāṇakavaggo
 1. Sañciccapāṇasikkhāpadavaṇṇanā
 382.–..
 .;,,‘‘’’.‘‘’’...,...
-Sañciccapāṇasikkhāpadaṃ paṭhamaṃ.
+.
 2. Sappāṇakasikkhāpadavaṇṇanā
 387.–,,......‘‘’’...
-Tisamuṭṭhānaṃ – kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ,
+–,,,,,
 ,,..
-Sappāṇakasikkhāpadaṃ dutiyaṃ.
+.
 3. Ukkoṭanasikkhāpadavaṇṇanā
 392.–‘‘’’;.
 393.,.;.
 395.,,,..,‘‘’’.....–,,,,,,,.
-Ukkoṭanasikkhāpadaṃ tatiyaṃ.
+.
 4. Duṭṭhullasikkhāpadavaṇṇanā
 399.–,,..,;.,,.?–‘‘,;’’.–‘‘.,,,;’’.
 400....–,,,,,,,,.
-Duṭṭhullasikkhāpadaṃ catutthaṃ.
+.
 5. Ūnavīsativassasikkhāpadavaṇṇanā
 402.–.,.,.....;...
 404...;.–
@@ -625,38 +625,38 @@ Duṭṭhullasikkhāpadaṃ catutthaṃ.
 ,,..
 ,?–...,,.,‘‘’’.,.,..
 406.,.,,.,,..
-Tisamuṭṭhānaṃ – kiriyaṃ, saññāvimokkhaṃ, sacittakaṃ, paṇṇattivajjaṃ, kāyakammaṃ,
+–,,,,,
 ,,.
-Ūnavīsativassasikkhāpadaṃ pañcamaṃ.
+.
 6. Theyyasatthasikkhāpadavaṇṇanā
 407.–;..
 409..
 411....–,,,,,,,,.
-Theyyasatthasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Saṃvidhānasikkhāpadavaṇṇanā
 412.–.;..
-Saṃvidhānasikkhāpadaṃ sattamaṃ.
+.
 8. Ariṭṭhasikkhāpadavaṇṇanā
 417.–;,.
 ...,,...,,.,,,.
 ,,–‘‘,…pe…,,.…pe…,’’.‘‘,’’.–‘‘’’.
 ..........(ma. ni. 1.234 ādayo; 2.42 ādayo)...
 –,,,,,,,,.
-Ariṭṭhasikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Ukkhittasambhogasikkhāpadavaṇṇanā
 424-5.–;,,.‘‘’’.
 ...–,,,,,,,.
-Ukkhittasambhogasikkhāpadaṃ navamaṃ.
+.
 10. Kaṇṭakasikkhāpadavaṇṇanā
 428.–.–,,..‘‘(pārā. 66)’’(pārā. 384).‘‘’’..–‘‘…pe…’’...;,.
 429....
-Kaṇṭakasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena sappāṇakavaggo sattamo.
+.
+.
 8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadavaṇṇanā
 434.–,.....
 –,,,,,,,.
-Sahadhammikasikkhāpadaṃ paṭhamaṃ.
+.
 2. Vilekhanasikkhāpadavaṇṇanā
 438.–,.,...?.–
 ‘‘,,–,,,,’’(pari. 325).
@@ -691,57 +691,57 @@ Sahadhammikasikkhāpadaṃ paṭhamaṃ.
 ‘‘’’..
 439-40.,,,‘‘’’...–,,‘‘,’’.;,...
 –,,,,,,,.
-Vilekhanasikkhāpadaṃ dutiyaṃ.
+.
 3. Mohanasikkhāpadavaṇṇanā
 444.–;,‘‘’’..,‘‘’’..,,.,,,..;.
 447...–,,,,,,,.
-Mohanasikkhāpadaṃ tatiyaṃ.
+.
 4. Pahārasikkhāpadavaṇṇanā
 449.–‘‘,’’.
 451..,,.‘‘,’’,.
 452.,.,.
 453...,.‘‘,,’’‘‘’’,,...,.
-Pahārasikkhāpadaṃ catutthaṃ.
+.
 5. Talasattikasikkhāpadavaṇṇanā
 454.–..‘‘’’,‘‘’’.
 457.,,.,.
 458..,..
-Talasattikasikkhāpadaṃ pañcamaṃ.
+.
 6. Amūlakasikkhāpadavaṇṇanā
 459.–‘‘,’’..
 –,,,,,,,.
-Amūlakasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Sañciccasikkhāpadavaṇṇanā
 464.–...,,...
-Sañciccasikkhāpadaṃ sattamaṃ.
+.
 8. Upassutisikkhāpadavaṇṇanā
 471.–.;,..;‘‘’’,.
 473.,...
 –,,,,,,,,,,.
-Upassutisikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Kammapaṭibāhanasikkhāpadavaṇṇanā
 474.–;.;...–,,,,,,,.
-Kammapaṭibāhanasikkhāpadaṃ navamaṃ.
+.
 10. Chandaṃadatvāgamanasikkhāpadavaṇṇanā
 481.–,,..
 –,,,,,,,,.
-Chandaṃ adatvā gamanasikkhāpadaṃ dasamaṃ.
+.
 11. Dubbalasikkhāpadavaṇṇanā
 484.–;,...
 –,,,,,,.
-Dubbalasikkhāpadaṃ ekādasamaṃ.
+.
 12. Pariṇāmanasikkhāpadavaṇṇanā
 489.–,.–,.
 –,,,,,,,.
-Pariṇāmanasikkhāpadaṃ dvādasamaṃ.
-Samatto vaṇṇanākkamena sahadhammikavaggo aṭṭhamo.
+.
+.
 9. Ratanavaggo
 1. Antepurasikkhāpadavaṇṇanā
 494.–..;.
 497..;..‘‘’’,.‘‘’’,,...
 498..,;.,,,;..
 –,,,,,,,,.
-Antepurasikkhāpadaṃ paṭhamaṃ.
+.
 2. Ratanasikkhāpadavaṇṇanā
 502-3.–....
 504..
@@ -751,39 +751,39 @@ Antepurasikkhāpadaṃ paṭhamaṃ.
 ;.;.
 ..,,;.,‘‘,’’.,;,‘‘’’,.
 507....–,,,,,,,.
-Ratanasikkhāpadaṃ dutiyaṃ.
+.
 3. Vikālagāmappavisanasikkhāpadavaṇṇanā
 508.–...
 512.,.,‘‘’’.,,.,.
 ,,..,,.,,.,.
 515..,,,...
 –,,,,,,,,.
-Vikālagāmappavisanasikkhāpadaṃ tatiyaṃ.
+.
 4. Sūcigharasikkhāpadavaṇṇanā
 517-20.–;....–,,,,,,,.
-Sūcigharasikkhāpadaṃ catutthaṃ.
+.
 5. Mañcasikkhāpadavaṇṇanā
 522.–.
 525.,,,,...
-Mañcasikkhāpadaṃ pañcamaṃ.
+.
 6. Tūlonaddhasikkhāpadavaṇṇanā
 526.–;...
-Tūlonaddhasikkhāpadaṃ chaṭṭhaṃ.
+.
 7. Nisīdanasikkhāpadavaṇṇanā
 531-4.–?.–‘‘,,’’(mahāva. 353)..,;.–‘‘’’,...
-Nisīdanasikkhāpadaṃ sattamaṃ.
+.
 8. Kaṇḍupaṭicchādisikkhāpadavaṇṇanā
 537.–?.–‘‘,,’’(mahāva. 354).
 539........
-Kaṇḍupaṭicchādisikkhāpadaṃ aṭṭhamaṃ.
+.
 9. Vassikasāṭikasikkhāpadavaṇṇanā
 542.–?.–‘‘,,’’(mahāva. 352)...
-Vassikasāṭikasikkhāpadaṃ navamaṃ.
+.
 10. Nandattherasikkhāpadavaṇṇanā
 547.–...
-Nandattherasikkhāpadaṃ dasamaṃ.
-Samatto vaṇṇanākkamena ratanavaggo navamo.
 .
-Samantapāsādikāya vinayasaṃvaṇṇanāya
-Khuddakavaṇṇanā samattā.
-Pācittiyakaṇḍaṃ niṭṭhitaṃ.
+.
+.
+
+.
+.

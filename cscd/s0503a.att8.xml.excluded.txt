@@ -17,24 +17,24 @@
 ,‘‘…pe…’’...,–‘‘’’.–‘‘’’,‘‘’’,.,.,.,..
 ‘‘,,’’‘‘…pe…’’.,.,‘‘,,’’.
 ..,,...,.‘‘’’.–,,,,,...‘‘’’..‘‘’’,.‘‘’’.
-Paṭhamasuttavaṇṇanā niṭṭhitā.
+.
 2. Dutiyanibbānapaṭisaṃyuttasuttavaṇṇanā
 72...–‘‘,,,,’’(ma. ni. 2.218).–‘‘,’’(mahāva. 8; ma. ni. 1.281; 2.337).,,,.‘‘’’,,.‘‘’’‘‘’’.‘‘’’....,.–‘‘’’(mahāva. 8; ma. ni. 1.281; 2.337).
 ,,,.,,..
-Dutiyasuttavaṇṇanā niṭṭhitā.
+.
 3. Tatiyanibbānapaṭisaṃyuttasuttavaṇṇanā
 73.–‘‘,,,’’..‘‘,’’.
 .,,,,,.,.‘‘’’‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘’’‘‘’’.‘‘,’’.,‘‘’’.
 ‘‘,,’’‘‘,’’.–,,...
 ,‘‘’’..‘‘,(dha. sa. dukamātikā 7, 8),,,,(udā. 71),,(mahāva. 8; ma. ni. 1.281; 2.337),,,’’(saṃ. ni. 4.366-367),‘‘,,’’,.,–,.,..,.,.‘‘,,’’.,‘‘,,’’(a. ni. 3.137; mahāni. 27),.,..
-Tatiyasuttavaṇṇanā niṭṭhitā.
+.
 4. Catutthanibbānapaṭisaṃyuttasuttavaṇṇanā
 74.–‘‘,,’’...
 ‘‘,’’.‘‘,’’,.,,.
 ,..‘‘’’,.
 ....,.–‘‘’’.,..
 .
-Catutthasuttavaṇṇanā niṭṭhitā.
+.
 5. Cundasuttavaṇṇanā
 75...,....,.–‘‘’’.
 .‘‘’’.‘‘,’’.‘‘’’.‘‘’’.‘‘’’‘‘’’.
@@ -58,7 +58,7 @@ Catutthasuttavaṇṇanā niṭṭhitā.
 ....
 .
 ,..,.,,.,...,,.
-Pañcamasuttavaṇṇanā niṭṭhitā.
+.
 6. Pāṭaligāmiyasuttavaṇṇanā
 76.....‘‘’’..?.
 .,,.‘‘’’..‘‘’’,,,,,..‘‘,’’,‘‘’’.‘‘,,,,,.,’’.–‘‘,,’’.
@@ -140,7 +140,7 @@ Pañcamasuttavaṇṇanā niṭṭhitā.
 .‘‘,’’.,........
 ,.
 ..–,,..
-Chaṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 7. Dvidhāpathasuttavaṇṇanā
 77.....,..–‘‘’’..‘‘’’‘‘,,’’.
 ‘‘,,’’.‘‘’’‘‘’’,‘‘’’.‘‘,’’‘‘,,’’.–‘‘’’...,,,..
@@ -148,7 +148,7 @@ Chaṭṭhasuttavaṇṇanā niṭṭhitā.
 ‘‘’’..–‘‘…pe…’’.
 ,.
 .,.,.,..,.?,,.
-Sattamasuttavaṇṇanā niṭṭhitā.
+.
 8. Visākhāsuttavaṇṇanā
 78..,.,,..–‘‘’’.‘‘’’.–‘‘’’.,.
 ‘‘’’...‘‘’’.‘‘,’’....
@@ -157,7 +157,7 @@ Sattamasuttavaṇṇanā niṭṭhitā.
 ,.
 –,..–‘‘…pe…’’(dha. pa. 212-213).‘‘,’’(su. ni. 869).‘‘’’,‘‘’’.
 ,.?‘‘’’‘‘’’‘‘’’‘‘’’,‘‘,’’.,,,,‘‘’’.–‘‘,,,’’(ma. ni. 1.240).
-Aṭṭhamasuttavaṇṇanā niṭṭhitā.
+.
 9. Paṭhamadabbasuttavaṇṇanā
 79.....‘‘,,’’.....,‘‘’’.–
 ‘‘,,’’(pārā. 380).
@@ -171,14 +171,14 @@ Aṭṭhamasuttavaṇṇanā niṭṭhitā.
 .
 ,,,..,.‘‘’’,...
 .
-Navamasuttavaṇṇanā niṭṭhitā.
+.
 10. Dutiyadabbasuttavaṇṇanā
 80.,,,...‘‘’’‘‘’’.‘‘’’,....?.
 ..‘‘’’.‘‘’’.‘‘’’.‘‘’’...,,.,.
 ,..‘‘’’.-.....–,,.
 ,,.
-Dasamasuttavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca pāṭaligāmiyavaggavaṇṇanā.
+.
+.
 Nigamanakathā
 –
 ,;
@@ -201,5 +201,5 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Badaratitthavihāravāsinā ācariyadhammapālattherena
+
 .

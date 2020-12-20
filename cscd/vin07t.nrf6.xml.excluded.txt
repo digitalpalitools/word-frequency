@@ -5,25 +5,25 @@
 2.,.‘‘’’.,,.
 3.‘‘’’.‘‘’’‘‘’’‘‘’’.
 11..,...,,,.,..,,,,,,.
-Musāvādasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Omasavādasikkhāpadavaṇṇanā
 13..
 15......-.,‘‘’’.-‘‘---’’.
 16...
 26.,..
 35..‘‘,’’.‘‘…pe….’’(pari. 276)‘‘’’.,.,.,,.
-Omasavādasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Pesuññasikkhāpadavaṇṇanā
 36..,,.,.
 ,..,,.
-Pesuññasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Padasodhammasikkhāpadavaṇṇanā
 45.‘‘’’-‘‘’’-...
 ...,,.
 .‘‘,’’(mi. pa. 6.1.5; visuddhi. 1.217; dī. ni. aṭṭha. 2.374; ma. ni. aṭṭha. 1.107; pārā. aṭṭha. 2.165; paṭi. ma. aṭṭha. 2.1.163),.....
 46.,.
 48..,..,,.
-Padasodhammasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Sahaseyyasikkhāpadavaṇṇanā
 50-51..,,.,....,.,.,,‘‘’’..
 ‘‘.,..,.,’’.,.
@@ -32,29 +32,29 @@ Padasodhammasikkhāpadavaṇṇanā niṭṭhitā.
 ,.…pe…,...,,..,..,..,...
 53.,..
 54.‘‘’’,.,.,,.,,.
-Sahaseyyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Dutiyasahaseyyasikkhāpadavaṇṇanā
 55..,‘‘’’.,,...,,.
-Dutiyasahaseyyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Dhammadesanāsikkhāpadavaṇṇanā
 60.‘‘’’.,...
 ,.,,,,.
-Dhammadesanāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Bhūtārocanasikkhāpadavaṇṇanā
 77..‘‘,,’’..,.‘‘’’.
 ...,,,.
-Bhūtārocanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Duṭṭhullārocanasikkhāpadavaṇṇanā
 78..‘‘’’.
 82....,,.
-Duṭṭhullārocanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Pathavīkhaṇanasikkhāpadavaṇṇanā
 86...
 .,..,,.
 ...,....
 88..,,.
-Pathavīkhaṇanasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito musāvādavaggo paṭhamo.
+.
+.
 2. Bhūtagāmavaggo
 1. Bhūtagāmasikkhāpadavaṇṇanā
 89....
@@ -68,18 +68,18 @@ Niṭṭhito musāvādavaggo paṭhamo.
 ‘‘’’,.‘‘’’...
 ‘‘’’,.
 ,‘‘’’..,.,.‘‘’’..‘‘’’.,,.
-Bhūtagāmasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Aññavādakasikkhāpadavaṇṇanā
 94..
 98.,‘‘’’.,...
 99..
 100.,,.‘‘’’,..,,,.
-Aññavādakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Ujjhāpanakasikkhāpadavaṇṇanā
 103.-‘‘’’.‘‘’’.
 105...
 106....,,,,.,.
-Ujjhāpanakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Paṭhamasenāsanasikkhāpadavaṇṇanā
 110..‘‘,,’’.‘‘’’(pari. 65-67).
 ...‘‘’’,.,..
@@ -91,36 +91,36 @@ Ujjhāpanakasikkhāpadavaṇṇanā niṭṭhitā.
 ‘‘,,.,’’(mahāva. 255)–
 ...,.
 113.‘‘’’.‘‘,,,,,’’(kaṅkhā. aṭṭha. paṭhamasenāsanasikkhāpadavaṇṇanā).
-Paṭhamasenāsanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Dutiyasenāsanasikkhāpadavaṇṇanā
 116....
 117.‘‘’’...
 118.,..‘‘’’.,,,,,,.
-Dutiyasenāsanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Anupakhajjasikkhāpadavaṇṇanā
 119..
 122..,,,.
-Anupakhajjasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Nikkaḍḍhanasikkhāpadavaṇṇanā
 126..
 128.‘‘’’.‘‘’’..‘‘’’.,,.
-Nikkaḍḍhanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Vehāsakuṭisikkhāpadavaṇṇanā
 129..,,,.
-Vehāsakuṭisikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Mahallakavihārasikkhāpadavaṇṇanā
 135.‘‘’’..,...
 ‘‘’’....‘‘’’,.
 136.,.‘‘’’.,‘‘’’‘‘’’.
 ‘‘’’,.‘‘‘’,.’’,.
 ,......,,.
-Mahallakavihārasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Sappāṇakasikkhāpadavaṇṇanā
 140.,.,.‘‘’’..‘‘’’,.
 .‘‘’’‘‘’’.,.,‘‘’’,.
-Sappāṇakasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito senāsanavaggo dutiyo.
-‘‘Bhūtagāmavaggo’’tipi etasseva nāmaṃ.
+.
+.
+‘‘’’.
 3. Ovādavaggo
 1. Ovādasikkhāpadavaṇṇanā
 144.,....
@@ -133,41 +133,41 @@ Niṭṭhito senāsanavaggo dutiyo.
 149.,..‘‘’’..,.
 ‘‘’’.,.‘‘’’.
 .,...,,.
-Ovādasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Atthaṅgatasikkhāpadavaṇṇanā
 153.,.–,...(visuddhi. 2.386)‘‘’’,‘‘’’.,(theragā. 1.67 ekudāniyattheragāthāvaṇṇanā)...,,.
-Atthaṅgatasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Bhikkhunupassayasikkhāpadavaṇṇanā
 162..,,,.
-Bhikkhunupassayasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Āmisasikkhāpadavaṇṇanā
 164...,,,.
-Āmisasikkhāpadavaṇṇanā niṭṭhitā.
+.
 169..
 6. Cīvarasibbanasikkhāpadavaṇṇanā
 176..‘‘’’‘‘’’‘‘’’‘‘’’.,,.
-Cīvarasibbanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Saṃvidhānasikkhāpadavaṇṇanā
 183.,....
 .,.,.,.‘‘’’...,....,.
 .,,.
 185..,.,,,,..
-Saṃvidhānasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Nāvābhiruhanasikkhāpadavaṇṇanā
 189.…pe…...,.‘‘…pe…’’..‘‘’’.,,,,..
-Nāvābhiruhanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Paripācitasikkhāpadavaṇṇanā
 197.‘‘…pe…’’..,,,,.
-Paripācitasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Rahonisajjasikkhāpadavaṇṇanā
 198.,.
-Rahonisajjasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito ovādavaggo tatiyo.
+.
+.
 4. Bhojanavaggo
 1. Āvasathapiṇḍasikkhāpadavaṇṇanā
 206...
 208.‘‘’’..,,.
-Āvasathapiṇḍasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Gaṇabhojanasikkhāpadavaṇṇanā
 209..‘‘’’,‘‘…pe……pe…’’?.,..
 215.,.,.
@@ -177,16 +177,16 @@ Niṭṭhito ovādavaggo tatiyo.
 220.,..‘‘’’...
 ,...
 ‘‘…pe…’’..‘‘’’‘‘’’.,,.
-Gaṇabhojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Paramparabhojanasikkhāpadavaṇṇanā
 221.,.‘‘’’.
 ,.‘‘’’(pari. 86).,.‘‘‘’‘’’’(kaṅkhā. aṭṭha. paramparabhojanasikkhāpadavaṇṇanā).
 229...‘‘’’.
 ‘‘’’.,,.
-Paramparabhojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Kāṇamātāsikkhāpadavaṇṇanā
 231.,..‘‘’’‘‘’’.,,,,.
-Kāṇamātāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Paṭhamapavāraṇāsikkhāpadavaṇṇanā
 237.‘‘-’’-.-.
 238-9.‘‘’’‘‘’’.-‘‘’’...,.‘‘’’.
@@ -198,27 +198,27 @@ Kāṇamātāsikkhāpadavaṇṇanā niṭṭhitā.
 ,‘‘’’.,.
 ,...‘‘,,,’’...
 241..,,.
-Paṭhamapavāraṇāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Dutiyapavāraṇāsikkhāpadavaṇṇanā
 243.‘‘’’.,,,,.
-Dutiyapavāraṇāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Vikālabhojanasikkhāpadavaṇṇanā
 247.,.
 248-9..‘‘’’.‘‘’’(sārattha. ṭī. pācittiyakaṇḍa 3.248-249)..,..
 .,.‘‘’’.,.
 .........,,.
-Vikālabhojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Sannidhikārakasikkhāpadavaṇṇanā
 252-3..…pe…,.‘‘’’–
 ‘‘,,…pe…,’’(mahāva. 305)–
 ,‘‘’’.,..,.,,.,.,‘‘…pe…’’..,,.‘‘.’’.,,.,..‘‘,’’(sārattha. ṭī. pācittiyakaṇḍa 3.252-253),.
 .,..,.,,.
-Sannidhikārakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Paṇītabhojanasikkhāpadavaṇṇanā
 259.,.‘‘’’.,,‘‘’’..
 ..‘‘,’’.
 261.(pāci. 303 ādayo).,,‘‘’’.,,,.
-Paṇītabhojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Dantaponasikkhāpadavaṇṇanā
 263.,.
 264.,.,.,....‘‘…pe…,’’(pāci. aṭṭha. 265)..‘‘’’.
@@ -237,117 +237,117 @@ Paṇītabhojanasikkhāpadavaṇṇanā niṭṭhitā.
 .....,.‘‘’’..
 ....
 .,...‘‘’’,.,,,.
-Dantaponasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito bhojanavaggo catuttho.
+.
+.
 5. Acelakavaggo
 1. Acelakasikkhāpadavaṇṇanā
 273..,,,.
-Acelakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Uyyojanasikkhāpadavaṇṇanā
 274.,,.
-Uyyojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Sabhojanasikkhāpadavaṇṇanā
 281..‘‘’’..
 283.,..,,,.
-Sabhojanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 284-289..
 6. Cārittasikkhāpadavaṇṇanā
 298.‘‘’’,.‘‘…pe…,’’.
 302.,.
 ‘‘…pe…’’.,.‘‘’’.‘‘,’’.,,,,.
-Cārittasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Mahānāmasikkhāpadavaṇṇanā
 303.,.,.
 305.,.‘‘’’,..,,.
-Mahānāmasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Uyyuttasenāsikkhāpadavaṇṇanā
 315..,.
-Uyyuttasenāsikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Senāvāsasikkhāpadavaṇṇanā
 319.,.
-Senāvāsasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Uyyodhikasikkhāpadavaṇṇanā
 322..,.
-Uyyodhikasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito acelakavaggo pañcamo.
+.
+.
 6. Surāpānavaggo
 1. Surāpānasikkhāpadavaṇṇanā
 328...
 ......
 329..‘‘’’.,.,.
-Surāpānasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Aṅgulipatodakasikkhāpadavaṇṇanā
 330.,.
-Aṅgulipatodakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Hasadhammasikkhāpadavaṇṇanā
 338...
 .,.
-Hasadhammasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Anādariyasikkhāpadavaṇṇanā
 344...,.
-Anādariyasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Bhiṃsāpanasikkhāpadavaṇṇanā
 345.,.
-Bhiṃsāpanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Jotisikkhāpadavaṇṇanā
 354..,.,,.
-Jotisikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Nahānasikkhāpadavaṇṇanā
 357.‘‘,’’,.,.,.
-Nahānasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Dubbaṇṇakaraṇasikkhāpadavaṇṇanā
 368..
 369.‘‘’’,,.‘‘’’...,,.
-Dubbaṇṇakaraṇasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Vikappanasikkhāpadavaṇṇanā
 374.,.,,.
-Vikappanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Cīvaraapanidhānasikkhāpadavaṇṇanā
 378.-,.‘‘’’.,.
-Cīvaraapanidhānasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito surāpānavaggo chaṭṭho.
+.
+.
 7. Sappāṇakavaggo
 1. Sañciccapāṇasikkhāpadavaṇṇanā
 382....,..
-Sañciccapāṇasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Sappāṇakasikkhāpadavaṇṇanā
 387....
-Sappāṇakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Ukkoṭanasikkhāpadavaṇṇanā
 392.‘‘’’,..
 395.‘‘,’’,,.,,.
-Ukkoṭanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Duṭṭhullasikkhāpadavaṇṇanā
 399...,..
 400.‘‘’’‘‘…pe…,.’’(pāci. aṭṭha. 82).‘‘’’‘‘’’.,.
-Duṭṭhullasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Ūnavīsativassasikkhāpadavaṇṇanā
 402...
 404....‘‘,’’(a. ni. 3.71; 8.43; vibha. 1023)‘‘’’.,‘‘’’...,.‘‘’’.‘‘’’..,..
 406.,..,.
-Ūnavīsativassasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Theyyasatthasikkhāpadavaṇṇanā
 409.,,.
-Theyyasatthasikkhāpadavaṇṇanā niṭṭhitā.
+.
 412..
 8. Ariṭṭhasikkhāpadavaṇṇanā
 417.,..‘‘’’.,..
 ...
 ..,.
 ...‘‘…pe…’’.,.‘‘’’.,.
-Ariṭṭhasikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Ukkhittasambhogasikkhāpadavaṇṇanā
 424.‘‘’’.
 425.‘‘’’.,.
-Ukkhittasambhogasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Kaṇṭakasikkhāpadavaṇṇanā
 428...
-Kaṇṭakasikkhāpadavaṇṇanā niṭṭhitā.
-Niṭṭhito sappāṇakavaggo sattamo.
+.
+.
 8. Sahadhammikavaggo
 1. Sahadhammikasikkhāpadavaṇṇanā
 434.,.
-Sahadhammikasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Vilekhanasikkhāpadavaṇṇanā
 438...,,..,..
 .‘‘’’.,,,,,.
@@ -359,63 +359,63 @@ Sahadhammikasikkhāpadavaṇṇanā niṭṭhitā.
 ‘‘,;
 ,’’.(a. ni. aṭṭha. 1.1.130)–
 .‘‘…pe…’’..,.
-Vilekhanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Mohanasikkhāpadavaṇṇanā
 444.,,.,.,.,,.
-Mohanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Pahārasikkhāpadavaṇṇanā
 451..
 452....,.
-Pahārasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Talasattikasikkhāpadavaṇṇanā
 457.,,?,.,,.
 458...
-Talasattikasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Amūlakasikkhāpadavaṇṇanā
 459.‘‘’’..‘‘’’..
-Amūlakasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Kukkuccuppādanasikkhāpadavaṇṇanā
 464.,.
-Kukkuccuppādanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 8. Upassutisikkhāpadavaṇṇanā
 471.,...-‘‘’’,-.
 473.,.,.
-Upassutisikkhāpadavaṇṇanā niṭṭhitā.
+.
 9. Khiyyanasikkhāpadavaṇṇanā
 474.,,.
-Khiyyanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 10. Pakkamanasikkhāpadavaṇṇanā
 481.,.
-Pakkamanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 11. Dubbalasikkhāpadavaṇṇanā
 484.,.
-Dubbalasikkhāpadavaṇṇanā niṭṭhitā.
+.
 489..
-Niṭṭhito sahadhammikavaggo aṭṭhamo.
+.
 9. Rājavaggo
 1. Antepurasikkhāpadavaṇṇanā
 499.,.,,.
-Antepurasikkhāpadavaṇṇanā niṭṭhitā.
+.
 2. Ratanasikkhāpadavaṇṇanā
 506.,.,.…pe…...,,.
-Ratanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 3. Vikālagāmappavisanasikkhāpadavaṇṇanā
 508...,..,.‘‘’’...,,,..-.-.-..
 512...‘‘…pe…’’..
 515.,,‘‘…pe…’’(kaṅkhā. aṭṭha. vikālagāmappavesanasikkhāpadavaṇṇanā).,.‘‘’’,.,.,.
-Vikālagāmappavisanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 4. Sūcigharasikkhāpadavaṇṇanā
 520..,.
-Sūcigharasikkhāpadavaṇṇanā niṭṭhitā.
+.
 5. Mañcapīṭhasikkhāpadavaṇṇanā
 521.,,,.,.,.,.
-Mañcapīṭhasikkhāpadavaṇṇanā niṭṭhitā.
+.
 6. Tūlonaddhasikkhāpadavaṇṇanā
 526...
-Tūlonaddhasikkhāpadavaṇṇanā niṭṭhitā.
+.
 7. Nisīdanasikkhāpadavaṇṇanā
 531-536.,.
-Nisīdanasikkhāpadavaṇṇanā niṭṭhitā.
+.
 537-547...
-Niṭṭhito rājavaggo navamo.
-Khuddakavaṇṇanānayo niṭṭhito.
+.
+.

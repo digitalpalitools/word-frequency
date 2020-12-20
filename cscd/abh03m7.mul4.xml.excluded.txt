@@ -83,7 +83,7 @@ Pañcakaṃ
 ,,,,(saṃkhittaṃ).
 Navipākadukaṃ
 21.,,,,,,,.
-Navipākapaccayā (nakammapaccayasadisaṃ).
+(nakammapaccayasadisaṃ).
 Najhānadukaṃ
 22.,,,,…pe….
 Chakkaṃ
@@ -100,14 +100,14 @@ Tikaṃ
 ,,,,,,…pe….
 Navakaṃ
 (saṃkhittaṃ).
-Paccanīyagaṇanā.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetudukaṃ
 25.,,,,,,.
 Tikaṃ
 ,,,,,,.
 (Yathā kusalattikaṃ, evaṃ gaṇetabbaṃ.)
-Anulomapaccanīyaṃ.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 26.,,,,,,,,,,,,,,,,,,,,.
@@ -119,7 +119,7 @@ Sattakaṃ
 ,,,,,,,,,,,,,,…pe….
 Dasakaṃ
 …pe…,,,,,,,,,,,,,,(saṃkhittaṃ).
-Nahetumūlakaṃ.
+.
 Naadhipatidukaṃ
 27.…pe…(saṃkhittaṃ).
 Napurejātadukaṃ
@@ -136,8 +136,8 @@ Tikaṃ
 ,,,,,,,,,,,,,,,,,…pe….
 Dasakaṃ
 ,,,,,,,,,,,,,,.
-Paccanīyānulomaṃ.
-Paṭiccavāro.
+.
+.
 2. Sahajātavāro
 33.…pe….
 3. Paccayavāro
@@ -148,7 +148,7 @@ Paṭiccavāro.
 36.…pe….
 6. Sampayuttavāro
 37.–,(saṃkhittaṃ).
-Sampayuttavāro.
+.
 7. Pañhāvāro
 1. Paccayānulomaṃ
 1. Vibhaṅgavāro
@@ -262,7 +262,7 @@ Anantarasabhāgaṃ
 70.,,,,,.(6)
 Ghaṭanā (3)
 71.----.-----.----.
-Samanantarapaccayā (anantarasadisaṃ).
+(anantarasadisaṃ).
 Sahajātādisabhāgaṃ
 72.……,,,,,,,,,,,,.(13)
 Ghaṭanā (2)
@@ -324,7 +324,7 @@ Sampayuttasabhāgaṃ
 Ghaṭanā (2)
 -----.-----.
 (Atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā…pe….)
-Pañhāvārassa anulomaṃ.
+.
 Paccanīyuddhāro
 83.……….(1)
 …….(2)
@@ -347,7 +347,7 @@ Tevīsakaṃ
 …pe……pe….
 Nahetumūlakaṃ.
 ,gahetabbaṃ (syā.).
-Paccanīyaṃ.
+.
 3. Paccayānulomapaccanīyaṃ
 Hetusabhāgaṃ
 88.,,,,,,,,,,,,,,,,.
@@ -355,7 +355,7 @@ Sāmaññaghaṭanā
 89.------…pe….
 (Yathā kusalattikassa anulomapaccanīyagaṇanā sajjhāyamaggena gaṇitā, evaṃ idampi gaṇetabbaṃ.)
 ,…pe…(saṃkhittaṃ).
-Anulomapaccanīyagaṇanā.
+.
 4. Paccayapaccanīyānulomaṃ
 Nahetudukaṃ
 90.,,,,,,,,,,,,,,,,,,,.
@@ -369,7 +369,7 @@ Catuvīsakaṃ (saupanissayaṃ)
 …pe….
 Catuvīsakaṃ (sakammaṃ)
 …pe……pe….
-Nahetumūlakaṃ.
+.
 Naārammaṇadukaṃ
 91.…pe……pe……pe….
 Noavigatadukaṃ
@@ -381,5 +381,5 @@ Catuvīsakaṃ (saupanissayaṃ)
 Catuvīsakaṃ (sakammaṃ)
 …pe……pe……pe….
 (Yathā kusalattikassa paccanīyānulomagaṇanā sajjhāyamaggena gaṇitā, evaṃ gaṇetabbaṃ.)
-Paccanīyānulomaṃ.
-Vedanāttikaṃ niṭṭhitaṃ.
+.
+.

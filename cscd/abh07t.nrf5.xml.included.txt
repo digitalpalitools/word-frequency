@@ -23,7 +23,7 @@ bhūtappasādavisayā bhāvo hadayamiccapi
 jīvitāhārarūpehi aṭṭhārasavidhaṃ tathā
 paricchedo ca viññatti vikāro lakkhaṇanti ca
 anipphannā dasa ceti aṭṭhavīsavidhaṃ bhave
-
+ayamettha rūpasamuddeso
 
  sabbañca panetaṃ rūpaṃ ahetukaṃ sappaccayaṃ sāsavaṃ saṅkhataṃ lokiyaṃ kāmāvacaraṃ anārammaṇaṃ appahātabbamevāti ekavidhampi ajjhattikabāhirādivasena bahudhā bhedaṃ gacchati
  kathaṃ pasādasaṅkhātaṃ pañcavidhampi ajjhattikarūpaṃ nāma itaraṃ bāhirarūpaṃ
@@ -37,7 +37,7 @@ anipphannā dasa ceti aṭṭhavīsavidhaṃ bhave
  vaṇṇo gandho raso ojā bhūtacatukkañceti aṭṭhavidhampi avinibbhogarūpaṃ itaraṃ vinibbhogarūpaṃ
  iccevamaṭṭhavīsatividhampi ca vicakkhaṇā
 ajjhattikādibhedena vibhajanti yathārahaṃ
-
+ayamettha rūpavibhāgo
 
  kammaṃ cittaṃ utu āhāro ceti cattāri rūpasamuṭṭhānāni nāma
  tattha kāmāvacaraṃ rūpāvacarañceti pañcavīsatividhampi kusalākusalakammamabhisaṅkhataṃ ajjhattikasantāne kammasamuṭṭhānarūpaṃ paṭisandhimupādāya khaṇe khaṇe samuṭṭhāpeti
@@ -57,7 +57,7 @@ ajjhattikādibhedena vibhajanti yathārahaṃ
 kammacittotukāhārajāni honti yathākkamaṃ
  jāyamānādirūpānaṃ sabhāvattā hi kevalaṃ
 lakkhaṇāni na jāyanti kehicīti pakāsitaṃ
-
+ayamettha rūpasamuṭṭhānanayo
 
  ekuppādā  ekanirodhā ekanissayā sahavuttino ekavīsati rūpakalāpā nāma
  tattha jīvitaṃ avinibbhogarūpañca cakkhunā saha cakkhudasakanti pavuccati tathā  sotādīhi saddhiṃ sotadasakaṃ ghānadasakaṃ jivhādasakaṃ kāyadasakaṃ itthibhāvadasakaṃ pumbhāvadasakaṃ vatthudasakañceti yathākkamaṃ yojetabbaṃ avinibbhogarūpameva jīvitena saha jīvitanavakanti pavuccati ime nava kammasamuṭṭhānakalāpā
@@ -69,7 +69,7 @@ lakkhaṇāni na jāyanti kehicīti pakāsitaṃ
 nava cha caturo dveti kalāpā ekavīsati
 kalāpānaṃ paricchedalakkhaṇattā vicakkhaṇā
 na kalāpaṅgamiccāhu ākāsaṃ lakkhaṇāni ca
-
+ayamettha kalāpayojanā
 
  sabbānipi  panetāni rūpāni kāmaloke yathārahaṃ anūnāni pavattiyaṃ upalabbhanti
  paṭisandhiyaṃ  pana saṃsedajānañceva opapātikānañca cakkhusotaghānajivhākāyabhāvavatthudasakasaṅkhātāni satta dasakāni pātubhavanti ukkaṭṭhavasena omakavasena pana cakkhusotaghānabhāvadasakāni kadācipi na labbhanti tasmā tesaṃ vasena kalāpahāni veditabbā
@@ -85,7 +85,7 @@ paṭisandhimupādāya tathā rūpaṃ pavattati
 sattaraseva saññīnaṃ arūpe natthi kiñcipi
 saddo vikāro jaratā maraṇañcopapattiyaṃ
 na labbhanti pavatte tu na kiñcipi na labbhati
-
+ayamettha rūpapavattikkamo
 
 nibbānaṃ pana lokuttarasaṅkhātaṃ catumaggañāṇena sacchikātabbaṃ maggaphalānamārammaṇabhūtaṃ vānasaṅkhātāya taṇhāya nikkhantattā nibbānanti pavuccati
  tadetaṃ sabhāvato ekavidhampi saupādisesanibbānadhātu anupādisesanibbānadhātu ceti duvidhaṃ hoti kāraṇapariyāyena
@@ -94,5 +94,5 @@ nibbānaṃ pana lokuttarasaṅkhātaṃ catumaggañāṇena sacchikātabbaṃ m
 nibbānamiti bhāsanti vānamuttā mahesayo
 iti cittaṃ cetasikaṃ rūpaṃ nibbānamiccapi
 paramatthaṃ pakāsenti catudhāva tathāgatā
-
-
+iti abhidhammatthasaṅgahe rūpasaṅgahavibhāgo nāma
+chaṭṭho paricchedo

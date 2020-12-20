@@ -38,10 +38,10 @@
 442.,,,‘‘’’.,.,‘‘’’‘‘’’.,,‘‘’’‘‘’’.-.,...,,,.
 ..,..
 ..,.‘‘’’‘‘’’.‘‘’’.‘‘’’,(paṭi. ma. 1.41)–‘‘,,,,’’?,,‘‘’’(visuddhi. mahāṭī. 2.837, 839).‘‘’’,.‘‘…pe…’’..,,(dī. ni. aṭṭha. 1.68-73; dī. ni. ṭī. 1.68-73).
-Sāleyyakasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Verañjakasuttavaṇṇanā
 444..‘‘’’,‘‘’’.‘‘’’.,.,?.,,.,.,.,.,..,.,.,..
-Verañjakasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Mahāvedallasuttavaṇṇanā
 449.,.,,,..,..-‘‘’’,‘‘’’.‘‘’’-‘‘’’..,-,‘‘’’‘‘’’.‘‘’’‘‘’’,,‘‘’’.,....‘‘,’’‘‘’’..
 ...‘‘’’....,.
@@ -95,7 +95,7 @@ Verañjakasuttavaṇṇanāya līnatthappakāsanā samattā.
 ,,.?,..,.-‘‘’’..‘‘’’‘‘’’..
 ,...‘‘’’.‘‘’’.
 ‘‘’’.‘‘’’.?..,......,.
-Mahāvedallasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Cūḷavedallasuttavaṇṇanā
 460.,‘‘’’....
 ‘‘’’....
@@ -135,7 +135,7 @@ Mahāvedallasuttavaṇṇanāya līnatthappakāsanā samattā.
 466..‘‘’’.....,..‘‘’’.,..,‘‘’’..,.,...,,‘‘’’..‘‘’’.
 ,....‘‘’’..
 467.‘‘’’.–‘‘,,?,,,.,,’’(ma. ni. 3.124).‘‘’’...,.
-Cūḷavedallasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Cūḷadhammasamādānasuttavaṇṇanā
 468.,...‘‘’’..
 469.,.,‘‘’’,,..--,.,‘‘’’.....‘‘’’‘‘’’.‘‘’’,.....,....
@@ -145,7 +145,7 @@ Cūḷavedallasuttavaṇṇanāya līnatthappakāsanā samattā.
 472..‘‘’’....?‘‘’’,...‘‘’’.......
 ,.....
 ,----,,,.,,.,,.,.‘‘’’..,...(ma. ni. aṭṭha. 2.472)–‘‘,.,’’,.‘‘’’..
-Cūḷadhammasamādānasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Mahādhammasamādānasuttavaṇṇanā
 473...,,.‘‘’’,...‘‘’’..,.‘‘’’.....,.‘‘’’.
 ,.,..‘‘,’’.-‘‘’’,‘‘’’.,,.,,..
@@ -161,7 +161,7 @@ Cūḷadhammasamādānasuttavaṇṇanāya līnatthappakāsanā samattā.
 485...
 486...‘‘’’.‘‘’’(ma. ni. 2.119; a. ni. 9.11)..
 ........
-Mahādhammasamādānasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Vīmaṃsakasuttavaṇṇanā
 487...‘‘’’..,.‘‘’’.–‘‘’’,‘‘’’.-–‘‘,,’’(ma. ni. 3.398).,..
 488...,,..–
@@ -189,7 +189,7 @@ Mahādhammasamādānasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..,..‘‘’’..,....–‘‘’’.,..-.
 490.‘‘’’.......‘‘’’.
 ‘‘’’‘‘’’........
-Vīmaṃsakasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Kosambiyasuttavaṇṇanā
 491.,.,.
 ,‘‘’’...,.‘‘’’..,(dha. pa. aṭṭha. 1.sāmāvatīvatthu).
@@ -214,7 +214,7 @@ Vīmaṃsakasuttavaṇṇanāya līnatthappakāsanā samattā.
 498.‘‘’’...
 500...,.‘‘’’..‘‘’’.‘‘’’,.‘‘’’.,,,.
 ,‘‘’’.…pe…,.,,,,‘‘’’...,.‘‘’’..
-Kosambiyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Brahmanimantanikasuttavaṇṇanā
 501.‘‘’’(dī. ni. 1.30)(saṃ. ni. ṭī. 1.1.175)...‘‘’’.,...‘‘’’.,..…pe….......‘‘’’..,.
 502.‘‘’’.‘‘’’.,.–‘‘’’(ma. ni. 1.501).,...‘‘’’.
@@ -243,7 +243,7 @@ Kosambiyasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘’’..,....,...‘‘’’.
 .-‘‘’’,.....,.‘‘’’,.-‘‘’’,‘‘’’.,,,‘‘’’...,,,.‘‘’’...
 505..?–‘‘,,,’’.,..,‘‘’’.,.,.,..,,.,.
-Brahmanimantanikasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Māratajjanīyasuttavaṇṇanā
 506.,....--,..,.‘‘’’.‘‘’’..,?.‘‘’’.‘‘’’.‘‘,’’(khu. pā. 6.18; su. ni. 241),,,..
 507.,‘‘’’......‘‘’’...‘‘’’.......
@@ -258,8 +258,8 @@ Brahmanimantanikasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..‘‘’’..,..‘‘’’.‘‘’’(ma. ni. 1.393).
 ..,,,.‘‘’’.–‘‘’’(saṃ. ni. 1.176).
 ..‘‘’’.‘‘’’.,..,..,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Māratajjanīyasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca cūḷayamakavaggavaṇṇanā.
-Mūlapaṇṇāsaṭīkā samattā.
-Dutiyo bhāgo niṭṭhito.
+
+.
+.
+.
+.

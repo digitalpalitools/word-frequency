@@ -16,7 +16,7 @@
 ‘‘,;
 ,’’.
 .
-Ālambaṇadāyakattherassāpadānaṃ paṭhamaṃ.
+.
 2. Ajinadāyakattheraapadānaṃ
 6.
 ‘‘,;
@@ -36,7 +36,7 @@
 11.
 ‘‘…pe…’’.
 .
-Ajinadāyakattherassāpadānaṃ dutiyaṃ.
+.
 3. Dverataniyattheraapadānaṃ
 12.
 ‘‘,;
@@ -59,8 +59,8 @@ Ajinadāyakattherassāpadānaṃ dutiyaṃ.
 18.
 ‘‘…pe…’’.
 dvirataniyo (sī.).
-Dverataniyattherassāpadānaṃ tatiyaṃ.
-Dasamaṃ bhāṇavāraṃ.
+.
+.
 4. Ārakkhadāyakattheraapadānaṃ
 19.
 ‘‘,vedikā kāritā (syā.);
@@ -77,7 +77,7 @@ Dasamaṃ bhāṇavāraṃ.
 23.
 ‘‘…pe…’’.
 .
-Ārakkhadāyakattherassāpadānaṃ catutthaṃ.
+.
 5. Abyādhikattheraapadānaṃ
 24.
 ‘‘,;
@@ -94,7 +94,7 @@ Dasamaṃ bhāṇavāraṃ.
 28.
 ‘‘…pe…’’.
 .
-Abyādhikattherassāpadānaṃ pañcamaṃ.
+.
 6. Aṅkolapupphiyattheraapadānaṃ
 29.
 ‘‘varado (ka.),;
@@ -111,7 +111,7 @@ vakulapupphaṃ (syā.), bakolapupphaṃ (ka.),.
 33.
 ‘‘…pe…’’.
 vakulapupphiyo (syā.), bakolapupphiyo (ka.).
-Aṅkolapupphiyattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Sovaṇṇavaṭaṃsakiyattheraapadānaṃ
 34.
 ‘‘,;
@@ -128,7 +128,7 @@ Aṅkolapupphiyattherassāpadānaṃ chaṭṭhaṃ.
 38.
 ‘‘…pe…’’.
 .
-Sovaṇṇavaṭaṃsakiyattherassāpadānaṃ sattamaṃ.
+.
 8. Miñjavaṭaṃsakiyattheraapadānaṃ
 39.
 ‘‘,;
@@ -142,7 +142,7 @@ Sovaṇṇavaṭaṃsakiyattherassāpadānaṃ sattamaṃ.
 42.
 ‘‘…pe…’’.
 .
-Miñjavaṭaṃsakiyattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Sukatāveḷiyattheraapadānaṃ
 43.
 ‘‘,ahuṃ (?);
@@ -159,7 +159,7 @@ Miñjavaṭaṃsakiyattherassāpadānaṃ aṭṭhamaṃ.
 47.
 ‘‘…pe…’’.
 .
-Sukatāveḷiyattherassāpadānaṃ navamaṃ.
+.
 10. Ekavandaniyattheraapadānaṃ
 48.
 ‘‘,;
@@ -173,8 +173,8 @@ Sukatāveḷiyattherassāpadānaṃ navamaṃ.
 51.
 ‘‘…pe…’’.
 .
-Ekavandaniyattherassāpadānaṃ dasamaṃ.
-Ālambaṇadāyakavaggo tevīsatimo.
+.
+.
 –
 ,;
 vakulaṃ (syā.), bakuḷaṃ (ka.),;

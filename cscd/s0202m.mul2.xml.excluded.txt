@@ -9,7 +9,7 @@
 ‘‘,,ājīviko (ka.)’’?‘‘,,’’.
 ‘‘,,’’?‘‘,,ito ko vaccha ekanavute kappe (ka.),;’’.‘‘,,’’?‘‘,,’’.
 ..
-Tevijjavacchasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Aggivacchasuttaṃ
 187.–.;..–
 ‘‘,,‘,’–evaṃdiṭṭhī (sī. syā. kaṃ. ka.)’’?‘‘,,–‘,’’’.
@@ -39,7 +39,7 @@ Tevijjavacchasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘.,,–.,,,.
 ‘‘.,,–.,,,’’.
 ,–‘‘,,.sākhāpalāsaṃ palujjeyya,,pheggu palujjeyya (sī. syā. kaṃ. pī.);,;,.,…pe…’’.
-Aggivacchasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Mahāvacchasuttaṃ
 193.–.;..–‘‘.’’.‘‘,,,,,;,,.,,’’.‘‘,’’.–
 194.‘‘,,,;,,,;,,,.,,,.
@@ -68,7 +68,7 @@ Aggivacchasuttaṃ niṭṭhitaṃ dutiyaṃ.
 199..––.‘,,,’..
 200...;–‘‘!’’?‘‘,,’’.‘‘,–‘,,,–,’’’.‘‘’’.;.–‘‘,,,–‘,’’’.‘‘,,–‘’.–‘,,’’’.
 ..
-Mahāvacchasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Dīghanakhasuttaṃ
 201.–.;..–‘‘,,–‘’’’.‘‘,,–‘’,’’?‘‘esāpi (ka.),,,,’’.‘‘,,–‘,’..,,–‘,’..,–‘’;,–‘’;,–‘,’.,–‘’,,;–‘’,,,,’’.
 202.,–‘‘ukkaṃsati (sī. pī. ka.),sampahaṃsati (ka.)’’.‘‘,–‘,’.,,,,;,,,,.,–‘’–‘–,–;––,–,–.,,’..,.
@@ -77,7 +77,7 @@ Mahāvacchasuttaṃ niṭṭhitaṃ tatiyaṃ.
 205.‘‘,cātummahābhūtiko (sī. syā.),..
 ‘‘,,–,,.,,,,;.,,,,;.,,,,;.,,;,,;,,.,,,,;,.,.‘,,,’.,,,,,’’.
 206.vījayamāno (sī. pī.).–‘‘,’’..–‘‘’’.–‘‘,,,!,,,,,––..’’.
-Dīghanakhasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Māgaṇḍiyasuttaṃ
 207.–,tiṇasantharake (sī. syā. kaṃ. pī.)....māgandiyo (sī. pī.)..–‘‘,samaṇaseyyārūpaṃ (sī. pī.)’’?‘‘,,.–‘’.’’.‘‘,,;,,!bhūnahanassa (syā. kaṃ.)’’.‘‘,,;,,.’’.‘‘,,,–‘bhūnahano (syā. kaṃ.)’.?’’.‘‘āroceyyametaṃ (sī. pī.), ārocessāmi tassa (syā. kaṃ.)’’.‘‘’’.
 208..;.;..–‘‘,,’’?,–‘‘.’’.ayañca hidaṃ (sī. syā. kaṃ. pī.).;..–
@@ -104,7 +104,7 @@ Dīghanakhasuttaṃ niṭṭhitaṃ catutthaṃ.
 220.‘‘,,;,,,,,,,.–‘,,’!.–‘,,’.,..–.,..,,–‘,,–,,’.,,–‘,’.,.;–‘,,paladdho (sī. pī.).,,,,.,,;’’’.‘‘!’’.
 221.‘‘,,.,,,,;,,,,;,,,,,–;.,,;’’.
 222.,–‘‘,,,!,,,,,–;..,’’.‘‘,,,,;,.’’.‘‘,,,,;,,’’.,.––.‘,,,’..
-Māgaṇḍiyasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Sandakasuttaṃ
 223.–..–‘‘,’’.‘‘’’..,–..–‘‘,;.,.;’’..
 224..–‘‘,..,’’...–‘‘,,,’’?‘‘,,..’’.‘‘,,,,’’.‘‘’’.–‘‘,,,,vasanto vā (sī. pī.) evamuparipi anārādhanapakkhe’’.‘‘,,,,’’?
@@ -134,7 +134,7 @@ Māgaṇḍiyasuttaṃ niṭṭhitaṃ pañcamaṃ.
 234.‘‘,,’’?‘‘,,.,,,,,.,,’’.
 235.‘‘,,–‘’’’?‘‘,,;.,,;(jānāti – ‘chinnā me hatthapādā’ti, udāhu paccavekkhamāno jānāti – ‘chinnā me hatthapādā’’’ti? ‘‘Na kho, bho ānanda, so puriso satataṃ samitaṃ jānāti – ‘chinnā me hatthapādā’ ti.)(chinnāva hatthapādā,) (sī. syā. kaṃ. pī.)–‘’’’.‘‘,,(ñāṇadassanaṃ na paccupaṭṭhitaṃ – ‘khīṇā me āsavā’ti;)(khīṇāva āsavā,) (sī. syā. kaṃ. pī.)–‘’’’.
 236.‘‘,,’’?‘‘,,,’’.‘‘,,,!,,.,,–,,’’.–‘‘.’’..
-Sandakasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Mahāsakuludāyisuttaṃ
 237.–.,–..–‘‘.’’..,–..–‘‘;.;.’’...–‘‘,,.,,.,,.,,;’’...–
 238.‘‘,,,’’?‘‘,,.,,.,,–‘,,,,,!yatthime (sī.).;.…pe…………;.;.,garukatvā (sī. syā. kaṃ. pī.)’’’?
@@ -191,7 +191,7 @@ Sandakasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 259.‘‘,,,.,,,sippikasambukampi (syā. kaṃ. ka.).–‘,’.,,,..,,,.
 ‘‘,,,’’.
 ..
-Mahāsakuludāyisuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Samaṇamuṇḍikasuttaṃ
 260.–.samaṇamaṇḍikāputto (sī. pī.)..–‘‘;.;.’’..
 ,–.
@@ -222,7 +222,7 @@ Mahāsakuludāyisuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘,,?,,;…pe……pe….,,.
 268.‘‘,,?,,,,,,,,,,,–,,’’.
 ..
-Samaṇamuṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Cūḷasakuludāyisuttaṃ
 269.–...–‘‘.’’..
 ,–..–‘‘,.;.’’..
@@ -269,7 +269,7 @@ Samaṇamuṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘.‘’,‘’…pe…‘’…‘’…‘’,‘’…‘’…‘’.,,..‘,,,’.,,.,,’’.
 277.,–‘‘,,,!,,,,,–‘’;.,,.,,,’’.
 ,–‘‘,,;,,.maṇiko (sī. pī. ka.)uddekaniko (sī. syā. kaṃ. pī.),evaṃ sampadametaṃ (sī. pī.).,,;,,’’..
-Cūḷasakuludāyisuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Vekhanasasuttaṃ
 278.–.vekhanasso (sī. pī.);..–‘‘,’’.
 ‘‘,,–‘,’?,,’’?
@@ -286,8 +286,8 @@ Cūḷasakuludāyisuttaṃ niṭṭhitaṃ navamaṃ.
 ,–‘‘,,,!–‘,’.(‘Kāmehi, bho gotama, kāmasukhaṃ, kāmasukhā kāmaggasukhaṃ, tattha aggamakkhāyatī’ti)( ) sī. syā. kaṃ. pī. potthakesu natthi–‘‘,,–kāmaṃ (sī. syā. kaṃ. pī.).,,–’’.
 281.,‘‘samaṇo ca (sī. pī.)’’–‘‘panidheke (sī. pī.), panimeke (uparisubhasutte),‘,,,–’–itthattāyāti paṭijānanti (pī.).,,,’’.‘‘,,,,‘,,,–’–;tesaṃ tesāyaṃ (sī.), tesaṃyeva so (?).,,,.,.yathānusiṭṭhaṃ paṭipajjamāno (?)–evaṃ kirāyasmā (syā. ka.),.,,;;.,,,,;,–‘,’’’.
 ,–‘‘,…pe…’’.
-Vekhanasasuttaṃ niṭṭhitaṃ dasamaṃ.
-Paribbājakavaggo niṭṭhito tatiyo.
+.
+.
 –
 --,;
 ,.

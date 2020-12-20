@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāye
 Majjhimapaṇṇāsapāḷi
 1. Gahapativaggo
@@ -25,7 +25,7 @@ Majjhimapaṇṇāsapāḷi
 15.‘‘.–‘,;,’..
 16.‘‘.‘’.‘’.‘’.‘’.‘’.‘’.‘’.‘’.,,..‘,,,’.,,,.’’.
 ..
-Kandarakasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Aṭṭhakanāgarasuttaṃ
 17.–veḷuvagāmake (syā. kaṃ. ka.)..;.–‘‘,,?’’.‘‘,,’’.;.
 18.–‘‘,,,,’’?
@@ -41,7 +41,7 @@ Kandarakasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 ‘‘,,‘’.–‘.’.…pe….
 ‘‘,,‘’.–‘.’..,.,,,,’’.
 21.,–‘‘,,;,,sakiṃ deva (ka.).,,,;,,.,,,kiṃ (sī. pī.)’’!,,,.
-Aṭṭhakanāgarasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Sekhasuttaṃ
 22.–.kapilavatthuvāsīnaṃ (ka.)anajjhāvutthaṃ (sī. syā. kaṃ. pī.).;.–‘‘,,acirakāritaṃ hoti (syā. kaṃ. ka.).,,..’’..;sabbasanthariṃ santhataṃ (ka.);.–‘‘,,,,,.,,’’.;.,.,.–‘‘,,paṭipado (syā. kaṃ. ka.).;’’.‘‘,’’.,,,.
 23.–‘‘,,,,,,,.
@@ -64,7 +64,7 @@ Aṭṭhakanāgarasuttaṃ niṭṭhitaṃ dutiyaṃ.
 ‘‘,,,,,’’.
 –‘‘,,,,’’.
 ...
-Sekhasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Potaliyasuttaṃ
 31.–...ajjhogahetvā (sī. syā. kaṃ.), ajjhogāhitvā (pī. ka.).pāpuraṇo (sī. syā. kaṃ.)chattupāhano (ka.);;..–‘‘,,;’’.,‘‘’’.…pe…–‘‘,,;’’.‘‘,’’–‘‘,,,,’’.‘‘,,,,’’.‘‘,,,’’.‘‘,,,’’?‘‘,,,.evañca me (syā.), evaṃ me (ka.),,,’’.‘‘,,,’’.‘‘,,?,,’’.‘‘,,,,’’.‘‘,’’.
 32.–‘‘,,.?;;saccaṃ vācaṃ (syā.);;;;;.,,,,’’.‘‘ye me pana (syā. ka.),,,,,,,vitthāretvā (ka.)’’.‘‘,,,,’’.‘‘,’’.–
@@ -105,7 +105,7 @@ Kāmādīnavakathā
 ‘‘,,…pe….
 ‘‘,,.,,.
 50.‘‘,,,’’?‘‘,,!,,.,,,,;,,,,;,,,,.,,,.,,,,.,,,!,,,,,,;,,.,,.’’.
-Potaliyasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Jīvakasuttaṃ
 51.–.;.–‘‘,–‘ārambhanti (ka.),uddissakaṭaṃ (sī. pī.)’.,,–‘,’,,,,,,’’?
 52.‘‘,,–‘,’,.,,.,,–,,.,,.,,–,,.
@@ -119,7 +119,7 @@ Potaliyasuttaṃ niṭṭhitaṃ catutthaṃ.
 ‘‘,.,–‘’.,,;,,’’.‘‘,,.,,,’’.‘‘,,’’.
 55.‘‘,,.,,–‘,’,.galappavedhakena (bahūsu),.–‘’,.,.,.,,’’.
 ,–‘‘,,,!,,;,,.,,,…pe…’’.
-Jīvakasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Upālisuttaṃ
 56.–.nāthaputto (sī.), nātaputto (pī.).;..–‘‘,dīghatapassi (syā. kaṃ. ka.),;’’.,.–‘‘,,’’?
 ‘‘,,‘,’;‘,’,,’’.
@@ -230,7 +230,7 @@ appahīnassa (sī. pī.), appabhītassa (syā.),;
 ,;
 ,’’.
 77.‘‘,,’’?‘‘,,,;,,.,,’’?uggañchi (sī. syā. pī.).
-Upālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Kukkuravatikasuttaṃ
 78.–.;..palikuṇṭhitvā (syā. kaṃ.), paliguṇṭhitvā (ka.).–‘‘,,..,’’?‘‘,,;’’.…pe…–‘‘,,..,’’?
 79.‘‘,,.,,;;.,,,,,.,,,.–‘’,sāyaṃ (ka.).micchādiṭṭhikassa (sī.),,–.,,,’’.,,.
@@ -244,7 +244,7 @@ Upālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 ‘‘,,,?,,,yampidaṃ (sī. pī.),yampidaṃ (sī. pī.)–,,,.,,’’.
 82.,–‘‘,,,!,…pe…’’.–‘‘,,,!,…pe….,,.,,,’’.‘‘,,,.,.’’.
 ‘‘,,,.,’’.,.––.‘,,,’..
-Kukkuravatikasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Abhayarājakumārasuttaṃ
 83.–.;.–‘‘,,.–‘’’’.‘‘,,’’?‘‘,,;–‘,,’?–‘,,’,–‘,,?’.–‘,,’,–‘,,–‘‘,,,’’?’.,,.,;,,’’.‘‘,’’;.
 84.suriyaṃ (sī. syā. kaṃ. pī.)–‘‘.’’–‘‘,,’’...;...
@@ -257,7 +257,7 @@ Kukkuravatikasuttaṃ niṭṭhitaṃ sattamaṃ.
 ‘‘,,..’’.
 ‘‘,,,.?,,’’.
 ,–‘‘,,,…pe…’’.
-Abhayarājakumārasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Bahuvedanīyasuttaṃ
 88.–.;.–‘‘,,’’?‘‘,gahapati (syā. kaṃ. pī.),.,,–,,’’.,–‘‘,,;–,.,,’’.–‘‘,,;.,,–,,’’.–‘‘,,;–,.,,’’.–‘‘,,;.,,–,,’’.–‘‘,,,–,.,,’’..
 89..;..,–‘‘,,,.,,,,,,,.,,.,,–.,,.,,–’’.
@@ -273,7 +273,7 @@ Abhayarājakumārasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,,–‘’,.?,.,?,.,,.
 91.‘‘,,–‘;.,’?,,–‘,,;,,’’’.
 ..
-Bahuvedanīyasuttaṃ niṭṭhitaṃ navamaṃ.
+.
 10. Apaṇṇakasuttaṃ
 92.–.–‘‘.–‘’..,.’’.;.;....
 93.–‘‘,,’’?‘‘,,’’.‘‘,,.,,,.,,’’?
@@ -301,8 +301,8 @@ Bahuvedanīyasuttaṃ niṭṭhitaṃ navamaṃ.
 ‘‘,,;?,,…pe….…pe…….
 ‘‘.–…pe…..,…pe…..‘’…pe…‘’.,,..‘,,,’.,,;’’.
 ,–‘‘,,,!,,,,,‘’;..’’.
-Apaṇṇakasuttaṃ niṭṭhitaṃ dasamaṃ.
-Gahapativaggo niṭṭhito paṭhamo.
+.
+.
 –
 ,;
 ,.

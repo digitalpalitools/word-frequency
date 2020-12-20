@@ -53,7 +53,7 @@ Abyayībhāvasamāsa
 .,.,,,,,..
 –,,–,,,.,,.,,,,,,,,,,,,,.
 –,.‘‘’’..
-Abyayībhāvasamāso niṭṭhito.
+.
 Kammadhārayasamāsa
 .
 .
@@ -124,7 +124,7 @@ Kammadhārayasamāsa
 ,,,,,,,,,.,,,,,.
 ,‘‘’’.–,,,.
 .,,.,,,,,,.
-Kammadhārayasamāso.
+.
 Digusamāsa
 .
 ,–
@@ -145,7 +145,7 @@ Digusamāsa
 ,.,.
 ,,.,‘‘’’‘‘’’.‘‘’’‘‘’’.
 –.,,,,.
-Digusamāso.
+.
 Tappurisasamāsa
 .
 ..
@@ -157,39 +157,39 @@ Tappurisasamāsa
 ,,,,,,.,,,,,,,.
 .–,,,,,,.
 .–,,,,,.
-Dutiyātappuriso.
+.
 .
 ,.,,,,,,,,,,,,,.,,,,,,,,,,.
 ,,.,,,.
 –.,,,,,,,,,,,,,,,,,,.
-Tatiyātappuriso.
+.
 .
 –,.,,,,,.,.
 ,,.,,.,..,,.,,,,,,.,,.,.,,.
-Catutthītappuriso.
+.
 .
 .,,.,,,,,.
 –,,,.,,.,,,,,,,.
 ,.,,.,.
-Pañcamītappuriso.
+.
 .,,,,,,,,,,,,,,,.
 ‘‘’’‘‘’’,‘‘’’.,,,.,.,,,.
 .,.
 ,,,,‘‘’’.
 ,,,,,.
 ?‘‘’’‘‘’’,‘‘’’,,–,.
-Chaṭṭhītappuriso.
+.
 ,,,,,,,,,,,,,,,.,,,,,,,,,.
 ,–,,.,,,,.
 ,,,,.
-Sattamītappuriso.
+.
 ‘‘’’.
 –,,,.,,,,,,,,.,,,,,,,,,.,,.,,,,,,,,,,,,.‘‘’’,.,‘‘’’.
-Amādiparatappuriso.
+.
 ‘‘’’.
 –‘‘’’,‘‘’’,‘‘’’..,,,,,.,,,,,,,,,,,,,.
-Alopatappuriso.
-Tappurisasamāso niṭṭhito.
+.
+.
 Bahubbīhisamāsa
 .
 ,,,.
@@ -240,8 +240,8 @@ Bahubbīhisamāsa
 –,‘‘’’,,,.,.
 –.,‘‘’’.,,.,,,–,.
 –,,‘‘’’,‘‘’’.
-Paṭhamāvibhatyatthabahubbīhi.
-Bahubbīhisamāso niṭṭhito.
+.
+.
 Dvandasamāsa
 .
 .
@@ -290,15 +290,15 @@ Dvandasamāsa
 ,,,,,.
 ,,.,,,,,,,,,,,,,,,,,,,,‘‘’’.
 ,.,,,,,.
-Samāhāradvando.
+.
 –
 ,;
 ,.
-Dvandasamāso niṭṭhito.
+.
 -;
 -.
 ,;
 ,;
 ,.
-Iti padarūpasiddhiyaṃ samāsakaṇḍo
-Catuttho.
+
+.

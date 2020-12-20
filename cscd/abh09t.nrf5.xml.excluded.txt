@@ -55,7 +55,7 @@ Nāmapadanayacatukkaṃ
 ,…pe……pe……pe……pe……pe……pe……pe……pe……pe….
 ,;
 ,.
-Mūlayamakamātikā niṭṭhitā.
+.
 Khandhayamakaṃ
 Paṇṇattivāro
 (yama. 1.khandhayamaka.1 ādayo)–.
@@ -171,7 +171,7 @@ Paccanīkaṃ
 ,.
 ,.
 ,.
-Khandhayamakamātikā niṭṭhitā.
+.
 Āyatanayamakaṃ
 Paṇṇattivāro
 (yama. 1.āyatanayamaka.1 ādayo)–.
@@ -275,7 +275,7 @@ Paccanīkaṃ
 ,.
 ,…pe….
 ,.(Cakkaṃ bandhitabbaṃ.)
-Āyatanayamakamātikā niṭṭhitā.
+.
 Dhātuyamakaṃ
 Paṇṇattivāro
 (yama. 1.dhāturamaka.1 ādayo)–.
@@ -326,7 +326,7 @@ Paccanīkaṃ
 ,…pe….
 ,…pe….
 ,.(Cakkaṃ bandhitabbaṃ. )
-Dhātuyamakamātikā niṭṭhitā.
+.
 Saccayamakaṃ
 Paṇṇattivāro
 (yama. 1.saccayamaka.1 ādayo)–.
@@ -398,7 +398,7 @@ Paccanīkaṃ
 ,.
 ,.
 ,.
-Saccayamakamātikā niṭṭhitā.
+.
 Saṅkhārayamakaṃ
 Paṇṇattivāro
 (yama. 2.saṅkhārayamaka.1 ādayo)–.,,,.
@@ -435,10 +435,10 @@ Paccanīkaṃ
 ,.
 ,.
 ,.
-Saṅkhārayamakamātikā niṭṭhitā.
+.
 Anusayayamakaṃ
 (yama. 2.anusayayamaka.1)–.
-Anusayayamakamātikā niṭṭhitā.
+.
 Cittayamakaṃ
 Suddhacittasāmaññaṃ
 Puggalavāro
@@ -620,7 +620,7 @@ Abhidhammacittamissakaviseso
 …pe…...
 (Etena upāyena yāva saraṇaaraṇā uddharitabbā.)
 ,.,.
-Cittayamakamātikā niṭṭhitā.
+.
 Dhammayamakaṃ
 Paṇṇattivāro
 Padasodhanavāro
@@ -671,7 +671,7 @@ Paccanīkaṃ
 ..
 ..
 ..
-Dhammayamakamātikā niṭṭhitā.
+.
 Indriyayamakaṃ
 Paṇṇattivāro
 (yama. 3.indriyayamaka.1 ādayo)–.
@@ -964,5 +964,5 @@ Paccanīkaṃ
 ,…pe….
 ,…pe….
 ,…pe….
-Indriyayamakamātikā niṭṭhitā.
-Yamakamātikā niṭṭhitā.
+.
+.

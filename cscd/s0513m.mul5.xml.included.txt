@@ -24,7 +24,7 @@ tāyevānusāsaniyā nāviko paharī mukhaṃ
 
  bhattaṃ bhinnaṃ hatā bhariyā gabbho ca patito chamā
 migova jātarūpena na tenatthaṃ abandhi sūti 
-
+avāriyajātakaṃ paṭhamaṃ
 
  377 setaketujātakaṃ 
 
@@ -45,7 +45,7 @@ maññāmi  vedā aphalā bhavanti sasaṃyamaṃ caraṇameva  saccaṃ
 
  na heva vedā aphalā bhavanti sasaṃyamaṃ caraṇameva saccaṃ
 kittiñhi pappoti adhicca vede santiṃ puṇeti  caraṇena dantoti
-
+setaketujātakaṃ dutiyaṃ
 
  378 darīmukhajātakaṃ 
 
@@ -66,7 +66,7 @@ yaṃ yañhi kāyena phusanti tāvade sabbaṃ asātaṃ dukhameva kevalaṃ
 
  disvā vadāmi na hi aññato savaṃ pubbenivāsaṃ bahukaṃ sarāmi
 citrāhi gāthāhi subhāsitāhi darīmukho nijjhāpayi sumedhanti
-
+darīmukhajātakaṃ tatiyaṃ
 
  379 nerujātakaṃ 
 
@@ -87,7 +87,7 @@ na tattha santo vasanti avisesakare nare
 
  nāyaṃ neru vibhajati hīnaukkaṭṭhamajjhime
 avisesakaro neru handa neruṃ jahāmaseti
-
+nerujātakaṃ catutthaṃ
 
  380 āsaṅkajātakaṃ 
 
@@ -115,7 +115,7 @@ saṅke pāṇūparodhāya handa dāni vajāmahaṃ
 
  etadeva  hi me nāmaṃ yaṃ nāmasmi rathesabha
 āgamehi mahārāja pitaraṃ āmantayāmahanti
-
+āsaṅkajātakaṃ pañcamaṃ
 
  381 migālopajātakaṃ 
 
@@ -137,7 +137,7 @@ sabbe byasanamāpāduṃ anovādakare dije
  evampi idha vuddhānaṃ yo vākyaṃ nāvabujjhati
 atisīmacaro  ditto gijjhovātītasāsano
 sabbe byasanaṃ papponti akatvā buddhasāsananti
-
+migālopajātakaṃ chaṭṭhaṃ
 
  382 sirikāḷakaṇṇijātakaṃ 
 
@@ -197,7 +197,7 @@ taṃ dittarūpaṃ visamaṃ carantaṃ karīsaṭhānaṃva  vivajjayāmi
 
  attanā  kurute lakkhiṃ alakkhiṃ kurutattanā
 na  hi lakkhiṃ alakkhiṃ vā añño aññassa kārakoti
-
+sirikāḷakaṇṇijātakaṃ sattamaṃ
 
  383 kukkuṭajātakaṃ 
 
@@ -221,7 +221,7 @@ amittavasamanveti pacchā ca anutappati
 
  yo ca uppatitaṃ atthaṃ khippameva nibodhati
 muccate  sattusambādhā kukkuṭova biḷāriyāti
-
+kukkuṭajātakaṃ aṭṭhamaṃ
 
  384 dhammadhajajātakaṃ 
 
@@ -242,7 +242,7 @@ dhammadhajo gāmanigamāsusādhu  dujjāno purisena bālisena
 
  imaṃ  tuṇḍehi pakkhehi pādā cimaṃ viheṭhatha 
 chavañhimaṃ vināsetha nāyaṃ saṃvāsanārahoti
-
+dhammadhajajātakaṃ navamaṃ
 
  385 nandiyamigarājajātakaṃ 
 
@@ -264,8 +264,8 @@ dhanuṃ ārajjaṃ  katvāna usuṃ sannayha  kosalo
 
  tassāhaṃ  odahiṃ passaṃ khurappānissa rājino
 tadāhaṃ  sukhito mutto mātaraṃ daṭṭhumāgatoti
-
-
+nandiyamigarājajātakaṃ dasamaṃ
+avāriyavaggo paṭhamo
 tassuddānaṃ 
 atha kujjharathesabha ketuvaro sadarīmukha neru latā ca puna
 apananda sirī ca sucittavaro atha dhammika nandimigena dasāti
@@ -290,7 +290,7 @@ tena jahissatattānaṃ sā cevassa na hessati
 
  na  ve piyammeti  janinda tādiso attaṃ niraṃkatvā piyāni sevati 
 attāva seyyo paramā ca seyyo labbhā piyā ocitatthena pacchāti
-
+kharaputtajātakaṃ paṭhamaṃ
 
  387 sūcijātakaṃ 
 
@@ -311,7 +311,7 @@ koyaṃ kammāragāmasmiṃ sūciṃ vikketumicchati
 
  imaṃ  ce  te pitā bhadde sūciṃ jaññā mayā kataṃ
 tayā ca maṃ nimanteyya yañcatthaññaṃ ghare dhananti
-
+sūcijātakaṃ dutiyaṃ
 
  388 tuṇḍilajātakaṃ 
 
@@ -332,7 +332,7 @@ sīlañca navaṃ vilepanaṃ tassa gandho na kadāci chijjati
 
  nandanti sarīraghātino na ca nandanti sarīradhārino
 puṇṇāya ca puṇṇamāsiyā ramamānāva jahanti jīvitanti
-
+tuṇḍilajātakaṃ tatiyaṃ
 
  389 suvaṇṇakakkaṭajātakaṃ 
 
@@ -359,7 +359,7 @@ purisañca disvāna sukhiṃ arogaṃ kākaṃ pamokkhāmi yatheva sappaṃ
 
  kāko  tadā devadatto ahosi māro pana kaṇhasappo ahosi
 ānandabhaddo kakkaṭako ahosi ahaṃ tadā brāhmaṇo homi satthāti 
-
+suvaṇṇakakkaṭajātakaṃ catutthaṃ
 
  390 mayhakajātakaṃ 
 
@@ -381,7 +381,7 @@ dhanamādāya gacchanti vilapatveva so naro
 
  dhīro  bhoge adhigamma saṅgaṇhāti ca ñātake
 tena so kittiṃ pappoti pecca sagge pamodatīti 
-
+mayhakajātakaṃ pañcamaṃ
 
  391 vijjādharajātakaṃ 
 
@@ -405,7 +405,7 @@ bhikkhuñca disvāna mamañca rāja karohi puññāni anappakāni
 
  akkodhano niccapasannacitto sabbātithīyācayogo bhavitvā
 nihacca mānaṃ abhivādayissaṃ sutvāna devinda subhāsitānīti
-
+vijjādhara  jātakaṃ chaṭṭhaṃ
 
  392 siṅghapupphajātakaṃ 
 
@@ -429,7 +429,7 @@ punapi yakkha vajjāsi yadā passasi edisaṃ
 
  neva taṃ upajīvāmi napi te bhatakāmhase 
 tvameva bhikkhu jāneyya yena gaccheyya suggatinti
-
+siṅghapuppha  jātakaṃ sattamaṃ
 
  393 vighāsādajātakaṃ 
 
@@ -451,7 +451,7 @@ ucchiṭṭheneva yāpentā maññivho vighāsādino
 
  ye brāhmaṇassa samaṇassa aññassa vā  vanibbino 
 datvāva  sesaṃ bhuñjanti te janā vighāsādinoti
-
+vighāsādajātakaṃ aṭṭhamaṃ
 
  394 vaṭṭakajātakaṃ 
 
@@ -472,7 +472,7 @@ laddhāladdhena yāpento thūlo tenasmi vāyasa
 
  appicchassa  hi posassa appacintasukhassa  ca
 susaṅgahitamānassa  vuttī susamudānayāti
-
+vaṭṭakajātakaṃ navamaṃ
 
  395 pārāvatajātakaṃ 
 
@@ -493,12 +493,12 @@ kārayissāmi te samma maṇiñcāpi dadāmi te
 
  tvaññeva maṇinā channo sukatāya ca massuyā
 āmanta kho taṃ gacchāmi piyaṃ me tava dassananti
-
-
+pārāvatajātakaṃ  dasamaṃ
+kharaputtavaggo  dutiyo
 tassuddānaṃ 
 atha passa sasūci ca tuṇḍilako miga mayhakapañcamapakkhivaro
 atha pañjali vārija mejjha puna atha vaṭṭa kapotavarena dasāti
 atha vagguddānaṃ 
 atha vaggaṃ pakittissaṃ chanipātaṃ varuttame
 avāriyā ca kharo ca  dve ca vuttā subyañjanāti
-
+chakkanipātaṃ niṭṭhitaṃ

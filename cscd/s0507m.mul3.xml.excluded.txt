@@ -269,7 +269,7 @@ vikappāmi (sī. syā.),’’.
 603.
 ,;
 phussayi (syā. ka.),’’.
-Ambasakkarapetavatthu paṭhamaṃ.
+.
 2. Serīsakapetavatthu
 604.
 vi. va. 1228,;
@@ -438,8 +438,8 @@ bhasmi (syā.), bhasma (ka.),;
 657.
 ,;
 ,sukhino (pī. ka.).
-Serīsakapetavatthu dutiyaṃ.
-Bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ.
+.
+.
 3. Nandakapetavatthu
 658.
 ,;
@@ -616,7 +616,7 @@ pe. va. 71‘‘,;
 713.
 ,pāpadassanaṃ (syā. ka.);
 ,.
-Nandakapetavatthu tatiyaṃ.
+.
 4. Revatīpetavatthu
 714.
 vi. va. 863‘‘,;
@@ -690,7 +690,7 @@ iccevaṃ (syā. ka.),;
 736.
 ‘‘,;
 ,’’.
-Revatīpetavatthu catutthaṃ.
+.
 5. Ucchupetavatthu
 737.
 ‘‘,;
@@ -719,7 +719,7 @@ dūrato ca me (syā. ka.),.
 745.
 ,;
 ,.
-Ucchupetavatthu pañcamaṃ.
+.
 6. Kumārapetavatthu
 746.
 ‘‘,;
@@ -743,7 +743,7 @@ caranti (sī. pī.), maranti (syā.),.
 ‘‘,;
 ,;
 ,’’.
-Kumārapetavatthu chaṭṭhaṃ.
+.
 7. Rājaputtapetavatthu
 753.
 ,;
@@ -784,7 +784,7 @@ disvā (sī.),;
 765.
 ,;
 ,.
-Rājaputtapetavatthu sattamaṃ.
+.
 8. Gūthakhādakapetavatthu
 766.
 ‘‘,dīno hi tiṭṭhasi (sī.);
@@ -810,7 +810,7 @@ Rājaputtapetavatthu sattamaṃ.
 773.
 ‘‘,;
 ,’’.
-Gūthakhādakapetavatthu aṭṭhamaṃ.
+.
 9. Gūthakhādakapetivatthu
 774.
 ‘‘,;
@@ -836,7 +836,7 @@ Gūthakhādakapetavatthu aṭṭhamaṃ.
 781.
 ‘‘,;
 ,’’.
-Gūthakhādakapetivatthu navamaṃ.
+.
 10. Gaṇapetavatthu
 782.
 ‘‘,;
@@ -871,7 +871,7 @@ uppāsuḷikā (ka.),’’.
 792.
 ‘‘,;
 ,’’.
-Gaṇapetavatthu dasamaṃ.
+.
 11. Pāṭaliputtapetavatthu
 793.
 ‘‘,
@@ -883,7 +883,7 @@ Gaṇapetavatthu dasamaṃ.
 795.
 ‘‘,;
 ,’’.
-Pāṭaliputtapetavatthu ekādasamaṃ.
+.
 12. Ambavanapetavatthu
 796.
 ‘‘,;
@@ -897,17 +897,17 @@ Pāṭaliputtapetavatthu ekādasamaṃ.
 799.
 ‘‘sandiṭṭhikaṃ eva (syā.),;
 ,’’.
-Ambavanapetavatthu dvādasamaṃ.
+.
 13. Akkharukkhapetavatthu
 800.
 ‘‘,;
 tena (ka.),’’.
-Akkharukkhapetavatthu terasamaṃ.
+.
 14. Bhogasaṃharapetavatthu
 801.
 ‘‘,;
 ,’’.
-Bhogasaṃharapetavatthu cuddasamaṃ.
+.
 15. Seṭṭhiputtapetavatthu
 802.
 jā. 1.4.54 jātakepi‘‘,;
@@ -921,7 +921,7 @@ jā. 1.4.53 jātakepi‘‘,;
 805.
 jā. 1.4.56 jātakepi‘‘,;
 ,’’.
-Seṭṭhiputtapetavatthu pannarasamaṃ.
+.
 16. Saṭṭhikūṭapetavatthu
 806.
 ‘‘,;
@@ -950,8 +950,8 @@ pāpakammaṃ (syā. pī.),’’.
 814.
 ‘‘,,;
 ,’’.
-Saṭṭhikūṭapetavatthu soḷasamaṃ.
-Mahāvaggo catuttho niṭṭhito.
+.
+.
 –
 ,;
 ,.
@@ -960,4 +960,4 @@ Mahāvaggo catuttho niṭṭhito.
 –
 ,;
 ,.
-Petavatthupāḷi niṭṭhitā.
+.

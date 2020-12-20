@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Khuddakanikāye
 Theragāthā-aṭṭhakathā
 (Dutiyo bhāgo)
@@ -42,7 +42,7 @@ Theragāthā-aṭṭhakathā
 ...?,.
 ..‘‘’’...,,.
 ...,..
-Nāgasamālattheragāthāvaṇṇanā niṭṭhitā.
+.
 2. Bhaguttheragāthāvaṇṇanā
 .?..(apa. thera 2.46.49-57)–
 ‘‘,;
@@ -73,7 +73,7 @@ Nāgasamālattheragāthāvaṇṇanā niṭṭhitā.
 ,’’.–
 .
 .....‘‘’’....
-Bhaguttheragāthāvaṇṇanā niṭṭhitā.
+.
 3. Sabhiyattheragāthāvaṇṇanā
 .?.–‘‘,,.,’’..
 .–‘‘,,,,’’..
@@ -104,7 +104,7 @@ Bhaguttheragāthāvaṇṇanā niṭṭhitā.
 .,,,.–‘‘’’.?‘‘’’..–
 ‘‘,;
 ,’’.(jā. 2.21.414);
-Sabhiyattheragāthāvaṇṇanā niṭṭhitā.
+.
 4. Nandakattheragāthāvaṇṇanā
 .?,..,.(apa. thera 2.46.22-26)–
 ‘‘;
@@ -129,7 +129,7 @@ Sabhiyattheragāthāvaṇṇanā niṭṭhitā.
 ,‘‘’’.,,,..,,,,.
 ,,,,,,.
 ,..
-Nandakattheragāthāvaṇṇanā niṭṭhitā.
+.
 5. Jambukattheragāthāvaṇṇanā
 .?..,‘‘,,’’.–‘‘,,’’.,..
 ,,,,..,,,,‘‘’’,‘‘’’.
@@ -155,7 +155,7 @@ Nandakattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘,;
 ,.
 ‘‘…pe…’’.
-Jambukattheragāthāvaṇṇanā niṭṭhitā.
+.
 6. Senakattheragāthāvaṇṇanā
 .?.,...‘‘’’.,..(apa. thera 2.46.9-16)–
 ‘‘,;
@@ -187,7 +187,7 @@ Jambukattheragāthāvaṇṇanā niṭṭhitā.
 ...,.,,.
 ,.....,‘‘’’‘‘’’.–‘‘’’.,,,.
 .–.,,,.
-Senakattheragāthāvaṇṇanā niṭṭhitā.
+.
 7. Sambhūtattheragāthāvaṇṇanā
 .?...(apa. thera 2.52.28-36)–
 ‘‘,;
@@ -220,7 +220,7 @@ Senakattheragāthāvaṇṇanā niṭṭhitā.
 –‘‘,’’,.,–‘‘’’,.,,.
 ,.‘‘’’..‘‘,’’‘‘’’.
 .–‘‘’’....
-Sambhūtattheragāthāvaṇṇanā niṭṭhitā.
+.
 8. Rāhulattheragāthāvaṇṇanā
 .?.,(mahāva. 105)..(apa. thera 1.2.68-85)–
 ‘‘,;
@@ -277,7 +277,7 @@ Sambhūtattheragāthāvaṇṇanā niṭṭhitā.
 –‘‘’’....
 ,‘‘’’..‘‘’’(cūḷani. ajitamāṇavapucchāniddesa 8)...,.
 ,,,,.
-Rāhulattheragāthāvaṇṇanā niṭṭhitā.
+.
 9. Candanattheragāthāvaṇṇanā
 .?...–‘‘’’.‘‘’’.(apa. thera 2.52.37-43)–
 ‘‘,;
@@ -305,7 +305,7 @@ Rāhulattheragāthāvaṇṇanā niṭṭhitā.
 .
 ,..‘‘’’.
 .,..‘‘,’’..
-Candanattheragāthāvaṇṇanā niṭṭhitā.
+.
 10. Dhammikattheragāthāvaṇṇanā
 .?‘‘’’.....‘‘,’’–‘‘,’’(jā. 1.1.74)–
 303.
@@ -336,7 +336,7 @@ Candanattheragāthāvaṇṇanā niṭṭhitā.
 ‘‘…pe…’’.
 ..
 ,...‘‘,,’’(saṃ. ni. 4.103; a. ni. 6.23; 8.56; 9.15; cūḷani. khaggavisāṇasuttaniddesa 137),,,.,..
-Dhammikattheragāthāvaṇṇanā niṭṭhitā.
+.
 11. Sappakattheragāthāvaṇṇanā
 .?..(apa. thera 2.52.78-83)–
 ‘‘,;
@@ -365,7 +365,7 @@ Dhammikattheragāthāvaṇṇanā niṭṭhitā.
 …pe…,.
 ,,,,.,,.,..,.
 ..
-Sappakattheragāthāvaṇṇanā niṭṭhitā.
+.
 12. Muditattheragāthāvaṇṇanā
 .?....‘‘’’.‘‘,,’’‘‘’’–‘‘,,,’’..–‘‘’’.(apa. thera 1.36.30-33)–
 ‘‘,;
@@ -391,5 +391,5 @@ Sappakattheragāthāvaṇṇanā niṭṭhitā.
 .
 .‘‘’’..,,,,–‘‘,,’’.,.
 ,‘‘’’..,,.,.,.‘‘’’,..
-Muditattheragāthāvaṇṇanā niṭṭhitā.
-Catukkanipātavaṇṇanā niṭṭhitā.
+.
+.

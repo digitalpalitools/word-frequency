@@ -1,5 +1,5 @@
 ﻿Hatthavanagallavihāra  vaṃso
-Namo tassa bhagavato arahato sammāsambuddhassa
+
 1.
 ,
 ;
@@ -50,7 +50,7 @@ Namo tassa bhagavato arahato sammāsambuddhassa
 ;
 ,
 .
-Iti rājakumāruppatti paricchedo paṭhamo.
+.
 15.,‘‘!!,.,,,,’?‘‘,,..?,.
 16.,,,,,,,.
 ,,?.
@@ -103,14 +103,14 @@ Iti rājakumāruppatti paricchedo paṭhamo.
 ;
 ’.
 29.,..
-Iti anusāsana paricchedo dutiyo.
+.
 30..
 31.‘‘,,’’...
 32.‘‘’’.‘‘?’’?..
 33.‘‘’’.?.
 34..
 .
-Iti anurādhapurappavesaparicchedo tatiyo.
+.
 35.....
 36.’...
 37.,.,,,,,.,,,,,,,,,,,,,,,,,,,.?,..
@@ -128,7 +128,7 @@ Iti anurādhapurappavesaparicchedo tatiyo.
 ;
 ,
 .
-Iti rajjābhiseka paricchedo catuttho.
+.
 44...
 45.
 ,
@@ -196,7 +196,7 @@ Iti rajjābhiseka paricchedo catuttho.
 ,
 .
 .
-Iti pāramitāsiṃsana paricchedo pañcamo.
+.
 56.-
 ,
 ;
@@ -237,7 +237,7 @@ Iti pāramitāsiṃsana paricchedo pañcamo.
 ‘‘’.
 72.,,,’,
 73.!‘‘’.‘‘!’‘‘’’.
-Iti rattakkhidamana paricchedo chaṭṭho.
+.
 .
 74.
 ,
@@ -287,7 +287,7 @@ Iti rattakkhidamana paricchedo chaṭṭho.
 ;
 .
 88.,.
-Iti abhinikkhamanaparicchedo sattamo.
+.
 89.‘‘’’‘‘...
 90.
 ;
@@ -323,7 +323,7 @@ Iti abhinikkhamanaparicchedo sattamo.
 ,
 ’.
 99.!.
-Iti ajjhattikadāna paricchedo aṭṭhamo.
+.
 100.‘‘’’‘‘’’.,’’.
 101.,‘‘’’.
 102.,.
@@ -331,13 +331,13 @@ Iti ajjhattikadāna paricchedo aṭṭhamo.
 104.‘‘,’’.
 105...
 106.‘‘,’’‘‘’’,.
-Iti vaṭṭulavimānuppatti paricchedo navamo.
+.
 107..
 108.,‘‘!’’,.
 109..
 110..
 111.,,‘‘’’.
-Iti pāsāduppatti paricchedo dasamo.
+.
 112..
 113..
 114..
@@ -356,7 +356,7 @@ Iti pāsāduppatti paricchedo dasamo.
 119..
 120..
 121..
-Iti aṭṭhaṃsa vimānuppattiparicchedo ekādasamo.
+.
 122.
 ,
 ;

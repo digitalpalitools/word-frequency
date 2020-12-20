@@ -13,7 +13,7 @@
 ‘‘,;
 ,’’.
 .
-Padumakesariyattherassāpadānaṃ paṭhamaṃ.
+.
 2. Sabbagandhiyattheraapadānaṃ
 5.
 ‘‘,;
@@ -27,7 +27,7 @@ Padumakesariyattherassāpadānaṃ paṭhamaṃ.
 8.
 ‘‘…pe…’’.
 .
-Sabbagandhiyattherassāpadānaṃ dutiyaṃ.
+.
 3. Paramannadāyakattheraapadānaṃ
 9.
 ‘‘,;
@@ -41,7 +41,7 @@ Sabbagandhiyattherassāpadānaṃ dutiyaṃ.
 12.
 ‘‘…pe…’’.
 .
-Paramannadāyakattherassāpadānaṃ tatiyaṃ.
+.
 4. Dhammasaññakattheraapadānaṃ
 13.
 ‘‘,;
@@ -64,7 +64,7 @@ Paramannadāyakattherassāpadānaṃ tatiyaṃ.
 19.
 ‘‘…pe…’’.
 .
-Dhammasaññakattherassāpadānaṃ catutthaṃ.
+.
 5. Phaladāyakattheraapadānaṃ
 20.
 ‘‘,;
@@ -78,7 +78,7 @@ Dhammasaññakattherassāpadānaṃ catutthaṃ.
 23.
 ‘‘…pe…’’.
 .
-Phaladāyakattherassāpadānaṃ pañcamaṃ.
+.
 6. Sampasādakattheraapadānaṃ
 24.
 ‘‘‘,;
@@ -104,7 +104,7 @@ byasanaṃ hi (sī.),’.
 31.
 ‘‘…pe…’’.
 .
-Sampasādakattherassāpadānaṃ chaṭṭhaṃ.
+.
 7. Ārāmadāyakattheraapadānaṃ
 32.
 ‘‘,;
@@ -127,7 +127,7 @@ sītachāyesu (syā.), santacchāyesu (ka.),.
 38.
 ‘‘…pe…’’.
 .
-Ārāmadāyakattherassāpadānaṃ sattamaṃ.
+.
 8. Anulepadāyakattheraapadānaṃ
 39.
 ‘‘,;
@@ -141,7 +141,7 @@ sītachāyesu (syā.), santacchāyesu (ka.),.
 42.
 ‘‘…pe…’’.
 .
-Anulepadāyakattherassāpadānaṃ aṭṭhamaṃ.
+.
 9. Buddhasaññakattheraapadānaṃ
 43.
 ‘‘,;
@@ -155,7 +155,7 @@ Anulepadāyakattherassāpadānaṃ aṭṭhamaṃ.
 46.
 ‘‘…pe…’’.
 .
-Buddhasaññakattherassāpadānaṃ navamaṃ.
+.
 10. Pabbhāradāyakattheraapadānaṃ
 47.
 ‘‘,;
@@ -172,8 +172,8 @@ satageṇḍu (syā. ka.),.
 51.
 ‘‘…pe…’’.
 .
-Pabbhāradāyakattherassāpadānaṃ dasamaṃ.
-Padumakesaravaggo ekatiṃsatimo.
+.
+.
 –
 ,;
 ,;

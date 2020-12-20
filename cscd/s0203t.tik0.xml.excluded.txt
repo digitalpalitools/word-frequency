@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāye
 Uparipaṇṇāsa-ṭīkā
 1. Devadahavaggo
@@ -25,7 +25,7 @@ Uparipaṇṇāsa-ṭīkā
 11....,.,‘‘’’...‘‘’’...
 12...
 .,,.-.....,.,‘‘’’.‘‘’’...
-Devadahasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 2. Pañcattayasuttavaṇṇanā
 21.-,‘‘’’.‘‘’’.;.‘‘’’.,.;–‘‘’’......-.-–‘‘’’...
 ...‘‘’’.,.-,,,,.,,‘‘’’,...,‘‘’’,‘‘,’’..
@@ -63,7 +63,7 @@ Devadahasuttavaṇṇanāya līnatthappakāsanā samattā.
 ...
 ....
 ..,..‘‘’’,..,.,...
-Pañcattayasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 3. Kintisuttavaṇṇanā
 34...-,‘‘,’’,,.–‘‘’’.
 35.–‘‘’’.,‘‘’’..,...–‘‘’’.,.,...
@@ -75,7 +75,7 @@ Pañcattayasuttavaṇṇanāya līnatthappakāsanā samattā.
 ..
 40.....
 .–‘‘’’.‘‘’’..–‘‘’’..–‘‘’’...‘‘’’.,..
-Kintisuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 4. Sāmagāmasuttavaṇṇanā
 41...,.....‘‘’’..,.–‘‘…pe…’’.,.,..
 .‘‘’’.,.‘‘’’...,,.–‘‘’’.,..,,.
@@ -107,7 +107,7 @@ Kintisuttavaṇṇanāya līnatthappakāsanā samattā.
 52..?,‘‘’’.
 53.‘‘’’.–‘‘’’.,.‘‘’’.‘‘’’....
 54.(ma. ni. 1.492),‘‘’’,‘‘’’.‘‘.’’..
-Sāmagāmasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 5. Sunakkhattasuttavaṇṇanā
 55.,.,‘‘’’‘‘’’.,‘‘’’.‘‘’’,‘‘’’.
 56...‘‘’’...‘‘’’.,....‘‘’’.
@@ -122,7 +122,7 @@ Sāmagāmasuttavaṇṇanāya līnatthappakāsanā samattā.
 .…pe…...;…pe…,,.
 65.‘‘’’–‘‘’’.,–‘‘’’.
 ,‘‘’’,,.‘‘’’.,–‘‘’’.‘‘’’–‘‘’’.,–‘‘’’..‘‘’’;,..
-Sunakkhattasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 6. Āneñjasappāyasuttavaṇṇanā
 66...,‘‘’’;.–‘‘’’.,.‘‘’’,.‘‘’’.‘‘’’,.
 ‘‘’’....‘‘’’.‘‘’’(dī. ni. 2.398),.,.;.‘‘’’.,–‘‘’’..
@@ -146,7 +146,7 @@ Sunakkhattasuttavaṇṇanāya līnatthappakāsanā samattā.
 ,–‘‘’’.;–‘‘’’.
 .–‘‘,’’.‘‘’’.
 ....
-Āneñjasappāyasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 7. Gaṇakamoggallānasuttavaṇṇanā
 74.,–‘‘’’......,,,.
 75..,.
@@ -154,7 +154,7 @@ Sunakkhattasuttavaṇṇanāya līnatthappakāsanā samattā.
 ‘‘,,’’....
 78.‘‘,’’,‘‘’’.‘‘,’’.
 ...–‘‘…pe…’’..
-Gaṇakamoggallānasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 8. Gopakamoggallānasuttavaṇṇanā
 79.,‘‘’’.‘‘’’..‘‘’’.,,.,....,‘‘’’...‘‘’’.--‘‘’’.
 80..‘‘’’,‘‘’’.‘‘’’.,..‘‘’’.
@@ -162,7 +162,7 @@ Gaṇakamoggallānasuttavaṇṇanāya līnatthappakāsanā samattā.
 83.‘‘’’.–‘‘’’..
 84.;.‘‘,,’’.,....
 ...–‘‘’’..
-Gopakamoggallānasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 9. Mahāpuṇṇamasuttavaṇṇanā
 85.‘‘’’..-.,.,..–‘‘’’.,.....‘‘’’.....
 ,‘‘’’....(ma. ni. aṭṭha. 2.22).
@@ -178,11 +178,11 @@ Gopakamoggallānasuttavaṇṇanāya līnatthappakāsanā samattā.
 (itivu. aṭṭha. 74; sārattha. ṭī. 1.5)–,,,,,.,.,,,,,,??
 .,.;,.;–‘‘,’’.;;;..
 ‘‘’’.....
-Mahāpuṇṇamasuttavaṇṇanāya līnatthappakāsanā samattā.
+.
 10. Cūḷapuṇṇamasuttavaṇṇanā
 91.–‘‘’’..–‘‘’’.–‘‘’’.....–‘‘’’.,.‘‘’’,....,,..
 ‘‘’’,,,‘‘’’.,.‘‘’’..
 .,,‘‘’’.,.,.,.,..–‘‘’’..,,‘‘’’.–‘‘’’.
 ,,‘‘’’..‘‘’’(pārā. 1),‘‘’’.?,.,,....
-Cūḷapuṇṇamasuttavaṇṇanāya līnatthappakāsanā samattā.
-Niṭṭhitā ca devadahavaggavaṇṇanā.
+.
+.

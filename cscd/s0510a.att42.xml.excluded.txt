@@ -7,7 +7,7 @@
 .–‘‘,,,’’..,–‘‘,,,’’..–‘‘,,,,,,’’?‘‘,’’.‘‘,,,,,,’’.‘‘,,,,,,,,,’’.‘‘’’.,.–‘‘,,,’’.‘‘’’–‘‘,’’,.
 1..,,,.,.,,.,...
 ,,..
-Yasattheraapadānavaṇṇanā samattā.
+.
 2. Nadīkassapattheraapadānavaṇṇanā
 .....(mahāva. 54; saṃ. ni. 4.28).
 –.,,,.;–‘‘,,,’’.,,,,.…pe……pe….,,,.,,..
@@ -34,15 +34,15 @@ Yasattheraapadānavaṇṇanā samattā.
 ‘‘,;
 ,’’.
 –‘‘,,,’’.
-Paṭhamaṃ pāṭihāriyaṃ.
+.
 .;.;–‘‘,,,,,;’’.,,.–‘‘,,’’..
-Dutiyaṃ pāṭihāriyaṃ.
+.
 ;.;–‘‘,,,,,;’’.,,.–‘‘,,’’..
-Tatiyaṃ pāṭihāriyaṃ.
+.
 ;.;–‘‘,,,,,;’’.,,.–‘‘,,’’..
-Catutthaṃ pāṭihāriyaṃ.
+.
 ,.–‘‘,,,,,’’..;–‘‘,,,,,,,‘’,’’.,,–‘‘,,,,’’,,,.–‘‘,,’’..
-Pañcamaṃ pāṭihāriyaṃ.
+.
 .–‘‘’’?–‘‘,,’’.–‘‘’’?–‘‘,,’’.–‘‘’’?–‘‘,,’’.–‘‘’’?–‘‘,,’’.;–‘‘,,,,,,,,,’’?,,,,,–‘‘’’?,,–‘‘,,’’.,,.,,–‘‘’’?,,–‘‘,,’’?,,.,,–‘‘’’?,,–‘‘,,’’?.,,–‘‘’’?,,–‘‘,,’’?,,.–‘‘,,’’..
 ;–‘‘,,’’.‘‘,,’’,.,–‘‘,,,,’’?‘‘,,,.,,,’’.‘‘,,,’’.–‘‘,,,’’..
 ;–‘‘,,’’.‘‘,,’’,…pe……pe……pe….,–‘‘,,,,’’?‘‘,,.,,,’’.‘‘,,,’’.–‘‘,,’’.
@@ -59,15 +59,15 @@ Pañcamaṃ pāṭihāriyaṃ.
 ‘‘,,,,,,.,…pe…,…pe…,…pe…,…pe…,,,,.,,,‘,,,’’’.
 .
 29..,..
-Nadīkassapattheraapadānavaṇṇanā samattā.
+.
 3. Gayākassapattheraapadānavaṇṇanā
 ..,....
 35........
-Gayākassapattheraapadānavaṇṇanā samattā.
+.
 4. Kimilattheraapadānavaṇṇanā
 ....,..
 42.....
-Kimilattheraapadānavaṇṇanā samattā.
+.
 5. Vajjiputtattheraapadānavaṇṇanā
 ..,..–
 ‘‘,;
@@ -75,7 +75,7 @@ Kimilattheraapadānavaṇṇanā samattā.
 ,,,,,,,..‘‘’’.,...,‘‘’’.,,.,.
 ‘‘’’.
 49..‘‘’’‘‘’’..
-Vajjiputtattheraapadānavaṇṇanā samattā.
+.
 6. Uttarattheraapadānavaṇṇanā
 ...,,,..
 ..
@@ -83,22 +83,22 @@ Vajjiputtattheraapadānavaṇṇanā samattā.
 ‘‘,,’’....,,‘‘,’’,‘‘,,,,’’.‘‘’’.
 55...
 57...,,.,.,..
-Uttarattheraapadānavaṇṇanā samattā.
+.
 7. Aparauttarattheraapadānavaṇṇanā
 ....–‘‘,,’’.
 93...
-Aparauttarattheraapadānavaṇṇanā samattā.
+.
 8. Bhaddajittheraapadānavaṇṇanā
 ...,..
 ..,..
 .,‘‘’’.–‘‘,,,’’.‘‘,’’.,..‘‘’’..–‘‘,’’.
 .‘‘’’‘‘’’.–‘‘,’’.‘‘,,’’..,‘‘,’’.‘‘,’’.‘‘,,’’.,..‘‘,,’’...–‘‘,,’’(jā. 1.3.40 ādayo).
 98..‘‘’’..
-Bhaddajittheraapadānavaṇṇanā samattā.
+.
 9. Sivakattheraapadānavaṇṇanā
 ....
 117...
-Sivakattheraapadānavaṇṇanā samattā.
+.
 10. Upavānattheraapadānavaṇṇanā
 ..........‘‘’’‘‘,,’’.–
 ‘‘,;
@@ -118,17 +118,17 @@ Sivakattheraapadānavaṇṇanā samattā.
 147.,,.
 151.,.
 158..
-Upavānattheraapadānavaṇṇanā samattā.
+.
 11. Raṭṭhapālattheraapadānavaṇṇanā
 .‘‘,’’.....
 ,.‘‘’’...,....
 179-180....,.,.....
 181..
 183.,?,..
-Raṭṭhapālattheraapadānavaṇṇanā samattā.
-Chappaññāsamamahāvaggavaṇṇanā samattā.
-Iti visuddhajanavilāsiniyā apadāna-aṭṭhakathāya
-Ettāvatā buddhapaccekabuddhasāvakattherāpadāna-aṭṭhakathā samattā.
+.
+.
+-
+-.
 Nigamanakathā
 -.
 ,;
@@ -139,4 +139,4 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Apadāna-aṭṭhakathā samattā.
+-.

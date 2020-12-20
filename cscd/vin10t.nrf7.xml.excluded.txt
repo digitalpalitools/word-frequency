@@ -29,7 +29,7 @@
 179.
 ,;
 ,.
-Pārājikakathā.
+.
 180.
 ,;
 ,.
@@ -69,7 +69,7 @@ Pārājikakathā.
 192.
 ,;
 ,.
-Saṅghādisesakathā.
+.
 193.
 ,;
 ,.
@@ -88,7 +88,7 @@ Saṅghādisesakathā.
 198.
 ,;
 ,.
-Nissaggiyakathā.
+.
 199.
 ,;
 ,.
@@ -119,7 +119,7 @@ Nissaggiyakathā.
 208.
 ,;
 ,.
-Lasuṇavaggo paṭhamo.
+.
 209.
 ,;
 ,.
@@ -141,7 +141,7 @@ Lasuṇavaggo paṭhamo.
 215.
 ,;
 ,.
-Rattandhakāravaggo dutiyo.
+.
 216.
 ,;
 ,.
@@ -172,7 +172,7 @@ Rattandhakāravaggo dutiyo.
 225.
 ,;
 ,.
-Nhānavaggo tatiyo.
+.
 226.
 -;
 ,.
@@ -194,7 +194,7 @@ Nhānavaggo tatiyo.
 232.
 ,;
 ,.
-Tuvaṭṭavaggo catuttho.
+.
 233.
 ,;
 ,.
@@ -219,7 +219,7 @@ Tuvaṭṭavaggo catuttho.
 240.
 ,;
 ‘‘,’’,.
-Cittāgāravaggo pañcamo.
+.
 241.
 ,;
 ,.
@@ -256,7 +256,7 @@ Cittāgāravaggo pañcamo.
 252.
 ,;
 ,,.
-Ārāmavaggo chaṭṭho.
+.
 253.
 ,;
 ,-.
@@ -269,7 +269,7 @@ Cittāgāravaggo pañcamo.
 256.
 ,;
 ,.
-Gabbhinīvaggo sattamo.
+.
 257.
 ,;
 ,.
@@ -279,7 +279,7 @@ Gabbhinīvaggo sattamo.
 259.
 ,;
 ,.
-Kumārībhūtavaggo aṭṭhamo.
+.
 260.
 ,;
 ,.
@@ -307,15 +307,15 @@ Kumārībhūtavaggo aṭṭhamo.
 268.
 ,;
 -.
-Chattupāhanavaggo navamo.
-Pācittiyakathā.
+.
+.
 269.
 ,;
 ,‘‘’’.
 270.
 ,;
 ,.
-Pāṭidesanīyakathā.
+.
 271.
 ;
 ;
@@ -326,7 +326,7 @@ Pāṭidesanīyakathā.
 ;
 ;
 .
-Bhikkhunīvibhaṅgo niṭṭhito.
+.
 Catuvipattikathā
 273.
 -;
@@ -364,7 +364,7 @@ Catuvipattikathā
 284.
 ,;
 ,.
-Catuvipattikathā.
+.
 Adhikaraṇapaccayakathā
 285.
 ,?
@@ -405,7 +405,7 @@ Adhikaraṇapaccayakathā
 297.
 ,;
 ,.
-Adhikaraṇapaccayakathā.
+.
 Khandhakapucchākathā
 298.
 -;
@@ -490,7 +490,7 @@ Khandhakapucchākathā
 324.
 ,;
 ,.
-Khandhakapucchākathā niṭṭhitā.
+.
 Samuṭṭhānasīsakathā
 325.
 ,;
@@ -597,7 +597,7 @@ Samuṭṭhānasīsakathā
 358.
 ,;
 ,.
-Paṭhamapārājikasamuṭṭhānaṃ.
+.
 359.
 ,,,;
 ,.
@@ -631,7 +631,7 @@ Paṭhamapārājikasamuṭṭhānaṃ.
 369.
 ,;
 ,.
-Dutiyapārājikasamuṭṭhānaṃ.
+.
 370.
 ,;
 ,.
@@ -656,7 +656,7 @@ Dutiyapārājikasamuṭṭhānaṃ.
 377.
 ,;
 ,.
-Sañcarittasamuṭṭhānaṃ.
+.
 378.
 -;
 ,,,.
@@ -678,7 +678,7 @@ Sañcarittasamuṭṭhānaṃ.
 384.
 ,;
 ,.
-Samanubhāsanasamuṭṭhānaṃ.
+.
 385.
 ,,;
 ,.
@@ -694,7 +694,7 @@ Samanubhāsanasamuṭṭhānaṃ.
 389.
 ,;
 ,.
-Kathinasamuṭṭhānaṃ.
+.
 390.
 ,;
 ,,.
@@ -713,39 +713,39 @@ Kathinasamuṭṭhānaṃ.
 395.
 ,;
 ,.
-Eḷakalomasamuṭṭhānaṃ.
+.
 396.
 ,;
 ,.
 397.
 ,;
 ,.
-Padasodhammasamuṭṭhānaṃ.
+.
 398.
 ,,;
 ,,.
 399.
 ,;
 ,.
-Addhānasamuṭṭhānaṃ.
+.
 400.
 ,,;
 ,.
 401.
 ,;
 ,.
-Theyyasatthasamuṭṭhānaṃ.
+.
 402.
 ,,;
 ,,,.
 403.
 ,;
 ,.
-Dhammadesanasamuṭṭhānaṃ.
+.
 404.
 ,;
 ,.
-Samuṭṭhānasīsakathā niṭṭhitā.
+.
 Ekuttaranayakathā
 405.
 ,?
@@ -812,7 +812,7 @@ Ekuttaranayakathā
 ;
 ;
 .
-Āpattisamuṭṭhānakathā.
+.
 424.
 ,;
 ,.
@@ -840,7 +840,7 @@ Ekuttaranayakathā
 432.
 ,;
 ,.
-Ekakakathā.
+.
 433.
 ,?
 ,?
@@ -980,7 +980,7 @@ Ekakakathā.
 477.
 ,;
 -.
-Dukakathā.
+.
 478.
 ,,;
 ,.
@@ -1088,7 +1088,7 @@ Dukakathā.
 512.
 ,;
 -.
-Tikakathā.
+.
 513.
 ,;
 ,.
@@ -1412,7 +1412,7 @@ Tikakathā.
 619.
 ,;
 ,.
-Catukkakathā.
+.
 620.
 ,;
 -.
@@ -1450,7 +1450,7 @@ Catukkakathā.
 ;
 ;
 .
-Pañcakakathā.
+.
 631.
 ,;
 -.
@@ -1477,11 +1477,11 @@ Pañcakakathā.
 638.
 ,;
 .
-Chakkakathā.
+.
 639.
 ,;
 ,.
-Sattakakathā.
+.
 640.
 ,;
 ,.
@@ -1533,14 +1533,14 @@ Sattakakathā.
 654.
 ,;
 ,.
-Aṭṭhakakathā.
+.
 655.
 ,;
 ,.
 656.
 ,;
 ,.
-Navakakathā.
+.
 657.
 ,;
 ,.
@@ -1568,7 +1568,7 @@ Navakakathā.
 665.
 ,;
 ,.
-Dasakakathā.
+.
 666.
 ,;
 ,.
@@ -1602,7 +1602,7 @@ Dasakakathā.
 676.
 ,;
 ,.
-Ekādasakakathā.
+.
 677.
 ,;
 ‘‘’’,.
@@ -1611,7 +1611,7 @@ Ekādasakakathā.
 ;
 ;
 ,.
-Ekuttaranayo samatto.
+.
 Sedamocanakathā
 679.
 ,;
@@ -1947,7 +1947,7 @@ Sedamocanakathā
 ;
 ;
 .
-Sedamocanagāthāyo samattā.
+.
 Sādhāraṇāsādhāraṇakathā
 779.
 ,;
@@ -2123,7 +2123,7 @@ Sādhāraṇāsādhāraṇakathā
 836.
 ,;
 ,.
-Sādhāraṇāsādhāraṇakathā.
+.
 Lakkhaṇakathā
 837.
 ,;
@@ -2241,7 +2241,7 @@ Lakkhaṇakathā
 ;
 ;
 .
-Lakkhaṇakathā.
+.
 873.
 ,;
 ,.
@@ -2558,4 +2558,4 @@ Nigamanakathā
 ,;
 ,.
 .
-Uttaravinicchayo niṭṭhito.
+.

@@ -13,7 +13,7 @@
 ,’’.
 ,,,.‘‘,,,’’,.
 .
-Tambadāṭhikacoraghātakavatthu paṭhamaṃ.
+.
 2. Bāhiyadārucīriyattheravatthu
 .
 .,.,‘‘’’.‘‘,’’.‘‘’’‘‘,’’..
@@ -27,7 +27,7 @@ Tambadāṭhikacoraghātakavatthu paṭhamaṃ.
 ,’’.
 ‘‘…pe…’’(dha. pa. 21)..
 .
-Bāhiyadārucīriyattheravatthu dutiyaṃ.
+.
 3. Kuṇḍalakesittherīvatthu
 .
 .....‘‘’’.–‘‘,’’?‘‘‘’,.,,’’.‘‘,,’’.‘‘,’’..‘‘’’–‘‘’’.‘‘’’‘‘,,’’..
@@ -53,7 +53,7 @@ Bāhiyadārucīriyattheravatthu dutiyaṃ.
 ,’’.
 ..,‘‘.?,,,’’(a. ni. 4.30).,,...
 .
-Kuṇḍalakesittherīvatthu tatiyaṃ.
+.
 4. Anatthapucchakabrāhmaṇavatthu
 .
 ‘‘,,’’–‘‘,,’’?‘‘,,’’.‘‘’’.–
@@ -69,7 +69,7 @@ Kuṇḍalakesittherīvatthu tatiyaṃ.
 ,’’.
 .,.,,.,?…pe….–,‘‘,’’,‘‘’’.
 .
-Anatthapucchakabrāhmaṇavatthu catutthaṃ.
+.
 5. Sāriputtattherassa mātulabrāhmaṇavatthu
 .
 –‘‘,,’’?‘‘,’’.‘‘’’?‘‘’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘’’?‘‘,’’.‘‘,,,,,’’,‘‘,’’,‘‘’’.‘‘,’’‘‘,’’,‘‘,’’–
@@ -79,7 +79,7 @@ Anatthapucchakabrāhmaṇavatthu catutthaṃ.
 ,’’.
 .,,....
 ,.
-Sāriputtattherassa mātulabrāhmaṇavatthu pañcamaṃ.
+.
 6. Sāriputtattherassa bhāgineyyavatthu
 .
 –‘‘,,’’?‘‘,’’.‘‘’’?‘‘’’.‘‘’’?‘‘’’.‘‘’’?‘‘,’’.‘‘,,,’’‘‘,,’’.‘‘’’‘‘,’’,‘‘,’’–
@@ -89,7 +89,7 @@ Sāriputtattherassa mātulabrāhmaṇavatthu pañcamaṃ.
 ,’’.
 ...
 ,.
-Sāriputtattherassa bhāgineyyavatthu chaṭṭhaṃ.
+.
 7. Sāriputtattherassa sahāyakabrāhmaṇavatthu
 .
 ‘‘,,’’.‘‘,’’.‘‘’’?‘‘’’.‘‘’’.‘‘,,’’.,‘‘,’’‘‘,’’,‘‘,’’–
@@ -100,7 +100,7 @@ Sāriputtattherassa bhāgineyyavatthu chaṭṭhaṃ.
 ’’.
 ..,....–‘‘,,’’.
 ,.
-Sāriputtattherassa sahāyakabrāhmaṇavatthu sattamaṃ.
+.
 8. Āyuvaḍḍhanakumāravatthu
 .
 .‘‘,’’....,.‘‘’’,.‘‘,,‘’’’.‘‘,’’.‘‘,’’?‘‘,’’.‘‘,’’?‘‘’’.‘‘,’’?‘‘,’’.‘‘’’.‘‘,’’.
@@ -111,7 +111,7 @@ Sāriputtattherassa sahāyakabrāhmaṇavatthu sattamaṃ.
 ,’’.
 ,.,,.,.,,,,...
 ,.
-Āyuvaḍḍhanakumāravatthu aṭṭhamaṃ.
+.
 9. Saṃkiccasāmaṇeravatthu
 .
 .‘‘’’,‘‘,’’.‘‘’’‘‘’’‘‘,,’’.
@@ -140,7 +140,7 @@ Sāriputtattherassa sahāyakabrāhmaṇavatthu sattamaṃ.
 ‘‘,;
 ,’’.
 .
-Saṃkiccasāmaṇeravatthu navamaṃ.
+.
 10. Khāṇukoṇḍaññattheravatthu
 .
 ‘‘’’.‘‘,’’‘‘’’.,.‘‘’’.–‘‘,’’.‘‘,,’’‘‘’’‘‘’’...‘‘,,’’.‘‘,’’,‘‘,,,’’,‘‘,’’–
@@ -149,7 +149,7 @@ Saṃkiccasāmaṇeravatthu navamaṃ.
 ,’’.
 ...
 ..
-Khāṇukoṇḍaññattheravatthu dasamaṃ.
+.
 11. Sappadāsattheravatthu
 .
 ‘‘,’’..‘‘,’’‘‘,’’‘‘’’?‘‘’’.‘‘’’‘‘,’’,.,,.‘‘,’’.‘‘,,’’.‘‘,,,’’.‘‘,,’’.‘‘,,’’..
@@ -161,7 +161,7 @@ Khāṇukoṇḍaññattheravatthu dasamaṃ.
 ,’’.
 ....
 .
-Sappadāsattheravatthu ekādasamaṃ.
+.
 12. Paṭācārātherīvatthu
 .
 ....–‘‘,,,’’.‘‘,’’.‘‘,’’.....‘‘,,,’’.‘‘,,,,’’.‘‘‘’,’’.‘‘’’..,‘‘,’’‘‘,’’.
@@ -188,7 +188,7 @@ Sappadāsattheravatthu ekādasamaṃ.
 ,’’.
 ...
 .
-Paṭācārātherīvatthu dvādasamaṃ.
+.
 13. Kisāgotamīvatthu
 .
 ..,‘‘,’’,‘‘,,,’’.‘‘,’’?,–‘‘,’’.–‘‘’’?‘‘,’’.‘‘’’.‘‘’’‘‘,’’..,.,.‘‘’’.–‘‘,’’?‘‘’’.–‘‘,,,’’?‘‘,,’’?‘‘‘’,,,’’.,.
@@ -203,7 +203,7 @@ Paṭācārātherīvatthu dvādasamaṃ.
 ,’’.
 ,..
 .
-Kisāgotamīvatthu terasamaṃ.
+.
 14. Bahuputtikattherīvatthu
 .
 ....–‘‘,,’’.‘‘,’’.‘‘,,‘’’’...‘‘,’’...‘‘,’’‘‘’’,‘‘’’,‘‘’’.‘‘’’–
@@ -212,10 +212,10 @@ Kisāgotamīvatthu terasamaṃ.
 ,’’.
 ..,.
 .
-Bahuputtikattherīvatthu cuddasamaṃ.
-Sahassavaggavaṇṇanā niṭṭhitā.
-Aṭṭhamo vaggo.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+.
+.
+
 Khuddakanikāye
 Dhammapada-aṭṭhakathā
 (Dutiyo bhāgo)

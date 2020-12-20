@@ -51,7 +51,7 @@
 ,,,,,,,–,.,,,..
 ,,,,,,,–,.,,,..
 …pe…,.,.,.
-Mahāpaññākathā niṭṭhitā.
+.
 2. Iddhikathā
 9.??,,,??.?.?,,,.
 10.?,,,,,,,,,sammappayogapaccayā (syā. ka.).
@@ -82,7 +82,7 @@ Dasaiddhiniddeso
 ?cakkavatti (syā.),assabandhagopake purise (syā.).,,,,..
 ?,,,,,..
 ?–.–…pe…–...
-Iddhikathā niṭṭhitā.
+.
 3. Abhisamayakathā
 19..?.
 ,?..
@@ -104,7 +104,7 @@ Iddhikathā niṭṭhitā.
 syāyaṃ (syā. pī.),…pe…,,.,,,,,?..,,,,,?..,,,,,,
 ,,,,taṃsaṃkilesikā (syā. ka.)?
 ,,.,…pe…,,,,?,,,.?..,,,,.,..,,,,..,,...,,,,,..,,,.
-Abhisamayakathā niṭṭhitā.
+.
 4. Vivekakathā
 22.saṃ ni. 3.5.149 passitabbā.‘‘,,,,,,,.
 ‘‘,,,?,,.…pe……………….,,,.
@@ -127,14 +127,14 @@ Abhisamayakathā niṭṭhitā.
 27.,,,,.…pe………,,,,.
 ?,,,,.,,,,..,…pe…,,,,.
 …pe……pe……?,,,,…pe…,,,,.
-Vivekakathā niṭṭhitā.
+.
 5. Cariyākathā
 28.,–,,,,,,,.
 .......padeso (syā.).
 .........
 29..,,,,,,,..
 .,,,,,,,..
-Cariyākathā niṭṭhitā.
+.
 6. Pāṭihāriyakathā
 30.‘‘,a. ni. 3.61 passitabbā,.?,,.
 ‘‘,,?,,–,;…pe….,,.
@@ -150,7 +150,7 @@ Cariyākathā niṭṭhitā.
 –.–.,–.‘‘,,,’’–…pe….
 –.–.,–.‘‘,,,’’–.
 32.–.–.,.–.–.,.–.–…pe…–.–.,.
-Pāṭihāriyakathā niṭṭhitā.
+.
 7. Samasīsakathā
 33.sabbesaṃ dhammānaṃ (ka.) paṭi. ma. 1.87 passitabbā.
 ,,,,,,,,,.,,,,,,,…pe….
@@ -158,7 +158,7 @@ Pāṭihāriyakathā niṭṭhitā.
 ,,,,,,,…pe….
 ,,,,,,,…pe….
 –,,,,,,,,,,,,.
-Samasīsakathā niṭṭhitā.
+.
 8. Satipaṭṭhānakathā
 34..‘‘,,.?,,,.…pe……,.,,’’.
 35.?,;,;,;,;,;,,,.,,,,,,..,...–‘‘’’.
@@ -174,7 +174,7 @@ Samasīsakathā niṭṭhitā.
 …pe…..
 ?,;,;,;,;,;,;,.,,,,,,..,...–‘‘’’.
 –,,,..
-Satipaṭṭhānakathā niṭṭhitā.
+.
 9. Vipassanākathā
 36.–.–‘‘’’.‘‘’’.–
 ‘‘,,kiñci (ka.) a. ni. 6.99-100 passitabbā–;–;arahattaphalaṃ vā (syā. ka.) a. ni. 6.98 passitabbā–.
@@ -203,7 +203,7 @@ Satipaṭṭhānakathā niṭṭhitā.
 ,,,?
 ,;
 ,.
-Vipassanākathā niṭṭhitā.
+.
 10. Mātikākathā
 40.nicchāto muccatīti (syā.),,,,,,,,suddhi (syā.),,,,,,,.
 41.,…pe……pe….
@@ -222,8 +222,8 @@ Vipassanākathā niṭṭhitā.
 –.–.–.–...–jhānavimokkho (syā.) aṭṭhakathā oloketabbā..–…pe…–.–…pe…–.–.–.–.–.–.–.
 42.–.–.,;,;,–.––.?.
 –…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–…pe…–.–.,;,;,–.––.?.
-Mātikākathā niṭṭhitā.
-Paññāvaggo tatiyo.
+.
+.
 –
 ,;
 ,;
@@ -233,4 +233,4 @@ tivaggo yassa vikkhepo (syā. ka.),.
 ,;
 ,;
 ,.
-Paṭisambhidāmaggapāḷi niṭṭhitā.
+.

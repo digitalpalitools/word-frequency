@@ -10,7 +10,7 @@
 ‘‘’’.‘‘’’.‘‘’’.‘‘’’(jā. 1.14.1).‘‘’’.....
 .,‘‘’’..,...‘‘’’,.
 ‘‘’’.,,...‘‘’’........
-Paṭhamauruvelasuttavaṇṇanā niṭṭhitā.
+.
 2.Dutiyauruvelasuttavaṇṇanā
 22.‘‘’’,.‘‘’’,....,,.,.,........‘‘’’.
 .,....,.,..,,..‘‘’’.
@@ -20,7 +20,7 @@ Paṭhamauruvelasuttavaṇṇanā niṭṭhitā.
 ,.,‘‘’’...,,,‘‘’’....
 .,‘‘’’‘‘’’..‘‘’’....,....
 .,.,.,.,.,.,.,,.‘‘’’,..
-Dutiyauruvelasuttavaṇṇanā niṭṭhitā.
+.
 3. Lokasuttavaṇṇanā
 23..,.‘‘’’.,.,....,.
 ..–
@@ -34,7 +34,7 @@ Dutiyauruvelasuttavaṇṇanā niṭṭhitā.
 .‘‘’’..
 ....‘‘’’..–‘‘,,’’(saṃ. ni. 4.379-408).,,.
 ..,‘‘’’......
-Lokasuttavaṇṇanā niṭṭhitā.
+.
 4. Kāḷakārāmasuttavaṇṇanā
 24.....-,.,‘‘’’.,.‘‘’’.-.–
 ‘‘,;
@@ -54,7 +54,7 @@ Lokasuttavaṇṇanā niṭṭhitā.
 ,,.
 ,,.,,,‘‘’’‘‘’’.‘‘’’.‘‘’’.
 ,...
-Kāḷakārāmasuttavaṇṇanā niṭṭhitā.
+.
 5. Brahmacariyasuttavaṇṇanā
 25.-,‘‘’’‘‘’’,-.-‘‘,,’’(dī. ni. 2.91; ma. ni. 1.501),‘‘,,’’(dī. ni. 1.27).
 ‘‘,;
@@ -106,7 +106,7 @@ Kāḷakārāmasuttavaṇṇanā niṭṭhitā.
 .,,.,..,.‘‘’’.–‘‘’’,,.‘‘’’,‘‘’’(dī. ni. 2.67; ma. ni. 1.281; 2.337; saṃ. ni. 1.172; mahāva. 7-8).‘‘’’.‘‘’’.
 ,,.,...‘‘’’.,..,,..
 ,.,.
-Brahmacariyasuttavaṇṇanā niṭṭhitā.
+.
 6. Kuhasuttavaṇṇanā
 26.,.‘‘,’’(a. ni. 3.25, 27),‘‘’’(ma. ni. 1.181; pārā. 426).,‘‘,,,,,’’(vibha. 832).‘‘’’.
 ...,.,...,...
@@ -116,14 +116,14 @@ Brahmacariyasuttavaṇṇanā niṭṭhitā.
 ,
 ’’.(jā. 2.21.414);
 .
-Kuhasuttavaṇṇanā niṭṭhitā.
+.
 7. Santuṭṭhisuttavaṇṇanā
 27..,,.,,.,,.
 ,...‘‘’’.‘‘’’.
 ,...,.,.,...,,‘‘’’.
 ..,.–‘‘’’‘‘,’’,..‘‘,’’(su. ni. 42).
 ,.....
-Santuṭṭhisuttavaṇṇanā niṭṭhitā.
+.
 8. Ariyavaṃsasuttavaṇṇanā
 28.-‘‘’’.
 ‘‘,
@@ -164,10 +164,10 @@ Santuṭṭhisuttavaṇṇanā niṭṭhitā.
 (paṭi. ma. 1.41, 95)(dī. ni. 3.350 ādayo).,(dī. ni. 3.350 ādayo),‘‘,’’.,(paṭi. ma. 1.41, 95)‘‘,’’..
 (dī. ni. 3.350 ādayo)(ma. ni. 1.105 ādayo)‘‘’’.,.‘‘’’.,(visuddhi. 2.698; visuddhi. mahāṭī. 2.698).
 ,.‘‘,,’’..
-Ariyavaṃsasuttavaṇṇanā niṭṭhitā.
+.
 9. Dhammapadasuttavaṇṇanā
 29.,,............‘‘’’...
-Dhammapadasuttavaṇṇanā niṭṭhitā.
+.
 10. Paribbājakasuttavaṇṇanā
 30..‘‘’’.,.,.,‘‘’’...,..
 ‘‘’’(dī. ni. 1.168),.,,.,..
@@ -175,5 +175,5 @@ Dhammapadasuttavaṇṇanā niṭṭhitā.
 .,,..,.,.,,...
 ,?.,.,.‘‘’’.‘‘’’,.‘‘’’.‘‘’’.
 ‘‘’’..,.‘‘’’.,.‘‘’’.
-Paribbājakasuttavaṇṇanā niṭṭhitā.
-Uruvelavaggavaṇṇanā niṭṭhitā.
+.
+.

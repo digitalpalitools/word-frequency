@@ -6,12 +6,12 @@
 ,.‘‘’’.
 ,.,.,...‘‘’’...,.......
 ,‘‘’’..‘‘’’..
-Santuṭṭhasuttavaṇṇanā niṭṭhitā.
+.
 2. Anottappīsuttavaṇṇanā
 145......
 ..........,.
 ...‘‘’’,‘‘’’‘‘’’..‘‘’’.…pe….‘‘’’‘‘’’.
-Anottappīsuttavaṇṇanā niṭṭhitā.
+.
 3. Candūpamasuttavaṇṇanā
 146......,‘‘’’.,‘‘’’.-.,.,.
 .‘‘’’.‘‘’’.
@@ -22,10 +22,10 @@ Anottappīsuttavaṇṇanā niṭṭhitā.
 .,.
 ‘‘’’.‘‘’’‘‘’’..,.‘‘’’.…pe….‘‘’’.
 .‘‘’’.,,..-.
-Candūpamasuttavaṇṇanā niṭṭhitā.
+.
 4. Kulūpakasuttavaṇṇanā
 147..,.‘‘’’.‘‘’’..
-Kulūpakasuttavaṇṇanā niṭṭhitā.
+.
 5. Jiṇṇasuttavaṇṇanā
 148..,.‘‘…pe…’’,‘‘’’‘‘’’.
 ,....‘‘’’.,‘‘’’‘‘’’.
@@ -34,24 +34,24 @@ Kulūpakasuttavaṇṇanā niṭṭhitā.
 ,.‘‘’’.
 ,,.,.‘‘’’,.----..
 ‘‘’’....
-Jiṇṇasuttavaṇṇanā niṭṭhitā.
+.
 6. Ovādasuttavaṇṇanā
 149..‘‘,,,’’..‘‘’’.‘‘,…pe…’’...,‘‘’’......
-Ovādasuttavaṇṇanā niṭṭhitā.
+.
 7. Dutiyaovādasuttavaṇṇanā
 150.‘‘’’....
-Dutiyaovādasuttavaṇṇanā niṭṭhitā.
+.
 8. Tatiyaovādasuttavaṇṇanā
 151......‘‘’’..‘‘’’..,‘‘’’.
-Tatiyaovādasuttavaṇṇanā niṭṭhitā.
+.
 9. Jhānābhiññasuttavaṇṇanā
 152.‘‘’’‘‘’’..,...
-Jhānābhiññasuttavaṇṇanā niṭṭhitā.
+.
 10. Upassayasuttavaṇṇanā
 153.,,‘‘’’.,....,.,,.,..
 ...,....‘‘’’‘‘,’’‘‘’’.
 ,..
-Upassayasuttavaṇṇanā niṭṭhitā.
+.
 11. Cīvarasuttavaṇṇanā
 154.--,‘‘’’,‘‘’’..
 ,,‘‘’’.‘‘’’.
@@ -86,10 +86,10 @@ Upassayasuttavaṇṇanā niṭṭhitā.
 .…pe…...
 ...,,..
 ‘‘’’,‘‘,’’.,.,,....
-Cīvarasuttavaṇṇanā niṭṭhitā.
+.
 12. Paraṃmaraṇasuttavaṇṇanā
 155.,,,,‘‘’’.‘‘’’......
-Paraṃmaraṇasuttavaṇṇanā niṭṭhitā.
+.
 13. Saddhammappatirūpakasuttavaṇṇanā
 156.,.,.‘‘’’.
 .‘‘’’...‘‘’’..
@@ -103,6 +103,6 @@ Paraṃmaraṇasuttavaṇṇanā niṭṭhitā.
 ...‘‘’’.
 .,,..
 ,‘‘’’.,..,,‘‘’’..
-Saddhammappatirūpakasuttavaṇṇanā niṭṭhitā.
-Sāratthappakāsiniyā saṃyuttanikāya-aṭṭhakathāya
-Kassapasaṃyuttavaṇṇanāya līnatthappakāsanā samattā.
+.
+-
+.

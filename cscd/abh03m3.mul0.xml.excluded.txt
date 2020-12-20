@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Abhidhammapiṭake
 Kathāvatthupāḷi
 1. Puggalakathā
@@ -7,80 +7,80 @@ Kathāvatthupāḷi
 1.iminā lakkhaṇena sakavādīpucchā dassitāsaccikaṭṭhaparamaṭṭhenāti (syā. pī. ka. sī.)?.,?.
 .,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,no vata re (syā. pī.)–‘‘’’.–‘‘–‘,’–‘,’’’.
-Anulomapañcakaṃ.
+.
 2.iminā lakkhaṇena paravādīpucchā dassitā?.,?.
 .,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Paṭikammacatukkaṃ.
+.
 3.–‘‘–‘,’–‘,’,tvaṃ (syā.) ṭīkā oloketabbāṭīkā oloketabbā..suniggahitova (syā.).
 ,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Niggahacatukkaṃ.
+.
 4.hevameva (syā.).–‘‘,’’–‘‘,’’...dunniggahitāva (syā.).
 ,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Upanayanacatukkaṃ.
+.
 5..–‘‘,–‘,’.–‘‘–‘,–,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’....
-Niggamanacatukkaṃ.
-Paṭhamo niggaho.
+.
+.
 1. Suddhasaccikaṭṭho
 2. Paccanīkānulomaṃ
 6.?.,?.
 .,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Paccanīkapañcakaṃ.
+.
 7.?.,?.
 .,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Paṭikammacatukkaṃ.
+.
 8.–‘‘–‘’,–‘,’’’,...
 ,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
 9..–‘‘,’’–‘‘,’’....
 ,–‘‘,’’.–‘‘–‘,’–‘,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’.
-Upanayanacatukkaṃ.
+.
 10..–‘‘,–‘,’.–‘–,–,’’’.
 –‘‘,’’,–‘‘’’.–‘‘–‘,’–‘,’’’....
-Niggamanacatukkaṃ.
-Dutiyo niggaho.
+.
+.
 2. (Ka) okāsasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 11.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘,’–‘’’’…pe….
-Tatiyo niggaho.
+.
 3. (Ka) kālasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 12.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘,’–‘’’’…pe….
-Catuttho niggaho.
+.
 4. (Ka) avayavasaccikaṭṭho
 1. Anulomapaccanīkaṃ
 13.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘,’–‘’’’…pe….
-Pañcamo niggaho.
+.
 2. (Kha) okāsasaccikaṭṭho
 2. Paccanīkānulomaṃ
 14.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘,’–‘’’’…pe….
-Chaṭṭho niggaho.
+.
 3. (Kha) kālasaccikaṭṭho
 2. Paccanīkānulomaṃ
 15.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘,’–‘’’’…pe….
-Sattamo niggaho.
+.
 4. (Kha) avayavasaccikaṭṭho
 2. Paccanīkānulomaṃ
 16.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
 –‘‘’’,–‘‘’’.–‘‘–‘’,–‘’’’…pe….
-Aṭṭhakaniggaho.
+.
 5. Suddhikasaṃsandanaṃ
 17.,?.?.
 .,,–‘‘’’.–‘‘–‘,,’–‘’’’.
@@ -105,7 +105,7 @@ Aṭṭhakaniggaho.
 27.?.–‘‘,’’?.?.
 .–‘‘,’’,–‘‘’’.–‘‘–‘–,,’–‘’’’.
 –‘‘’’,–‘‘–‘,’’’.–‘‘–‘–,,’–‘’’’…pe….
-Suddhikasaṃsandanā.
+.
 6. Opammasaṃsandanaṃ
 28.,,?.,?.?.
 .,,,,;–‘‘’’.–‘‘–‘,,,,,’–‘’’’.
@@ -137,7 +137,7 @@ Suddhikasaṃsandanā.
 45.,…pe……pe……pe…,…pe…;?.–‘‘,’’?.?.
 .,,,–‘‘,’’;–‘‘’’.–‘‘–‘,,,–,,’–‘’’’.
 –‘‘’’,–‘‘,,,–‘,’’’.–‘‘–‘,,,–,,’–‘’’’…pe….
-Opammasaṃsandanaṃ.
+.
 7. Catukkanayasaṃsandanaṃ
 46.?.?.
 .,–‘‘’’.–‘‘–‘,’–‘’’’.
@@ -171,11 +171,11 @@ Opammasaṃsandanaṃ.
 …pe……pe……pe……pe……pe……pe……pe…?.
 .–‘‘,’’–‘‘’’.–‘‘–‘–,’–‘’’’.
 –‘‘’’,–‘‘–‘’’’.–‘‘–‘–,’–‘’’’…pe….
-Catukkanayasaṃsandanaṃ.
+.
 8. Lakkhaṇayuttikathā
 53.?.…pe…………………?.(Saṃkhittaṃ)
 54.?.–‘‘’’?.…pe…………………?.(Saṃkhittaṃ)
-Lakkhaṇayuttikathā.
+.
 9. Vacanasodhanaṃ
 55.,?,.?…pe….
 56.,?,.?…pe….
@@ -183,7 +183,7 @@ Lakkhaṇayuttikathā.
 58.,?,.?…pe….
 59.,?,.?…pe….
 60.,?…pe…,?.(Saṃkhittaṃ)
-Vacanasodhanaṃ.
+.
 10. Paññattānuyogo
 61.?.?…pe….
 62.?.?…pe….
@@ -197,7 +197,7 @@ Vacanasodhanaṃ.
 68.,,?.–‘‘’’?.?.
 .,,,–‘‘,’’–‘‘’’.–‘‘–‘,,,–,’–‘’’’.
 –‘‘’’,–‘‘,,,–‘’’’.–‘‘–‘,,,–,’–‘’’’.(Saṃkhittaṃ)
-Paññattānuyogo.
+.
 11. Gatianuyogo
 69.,?.,?…pe….
 70.,?.,?…pe….
@@ -239,7 +239,7 @@ Paññattānuyogo.
 ,.
 ,;
 ,.
-Gatianuyogo.
+.
 12. Upādāpaññattānuyogo
 95.?.???…pe….
 96.………?.?.?…pe….
@@ -276,7 +276,7 @@ Gatianuyogo.
 122.–‘‘,,,’’?.?.,,,?.
 ?.,?.
 ?.,,,,,,,,,,?.
-Upādāpaññattānuyogo.
+.
 13. Purisakārānuyogo
 123.?.?…pe….
 124.,?.?…pe….
@@ -349,14 +349,14 @@ Upādāpaññattānuyogo.
 190.,?.,?…pe….
 191.,?.…pe………………,?…pe….
 192.,?.,?.(Saṃkhittaṃ)
-Purisakārānuyogo.
-Kalyāṇavaggo paṭhamo.
+.
+.
 14. Abhiññānuyogo
 193.–‘‘’’?.?.,–‘‘’’.
 194.–‘‘’’?.…pe…………?.,–‘‘’’.
 195.?.,?,?…pe….
 196.…pe…………,?,?…pe….
-Abhiññānuyogo.
+.
 15-18. Ñātakānuyogādi
 197.–‘‘’’?.?.,–‘‘’’.
 198.–‘‘’’?.…pe…………………………?.,–‘‘’’.
@@ -371,12 +371,12 @@ Abhiññānuyogo.
 204.………………………?.?…pe….
 205.?.?.?…pe….
 …?.?…pe….
-Paṭivedhānuyogo.
+.
 20. Saṅghānuyogo
 206.–‘‘’’?.?.,–‘‘’’.
 207.?.?.?…pe….
 ?.,?…pe….
-Saṅghānuyogo.
+.
 21. Saccikaṭṭhasabhāgānuyogo
 208.?.?…pe…?…pe…?.
 209.?.?…pe….
@@ -429,5 +429,5 @@ ohacca (syā.), uhacca (ka.),;
 238.?.?.–‘‘………………………’’?.?.…Pe….–‘‘’’.(Saṃkhittaṃ)
 ,;
 ,.
-Saccikaṭṭhasabhāgānuyogo.
-Puggalakathā niṭṭhitā.
+.
+.

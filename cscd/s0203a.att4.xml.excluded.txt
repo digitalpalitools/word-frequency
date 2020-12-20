@@ -11,16 +11,16 @@
 ...........
 ,,.....
 .....,,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Anāthapiṇḍikovādasuttavaṇṇanā niṭṭhitā.
+
+.
 2. Channovādasuttavaṇṇanā
 389..,..,...
 390..
 391....
 393.,.,....,...,.,.,,...‘‘’’,.
 394.,.,..,...,–‘‘,’’....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Channovādasuttavaṇṇanā niṭṭhitā.
+
+.
 3. Puṇṇovādasuttavaṇṇanā
 395.........
 396....,..
@@ -41,8 +41,8 @@ Channovādasuttavaṇṇanā niṭṭhitā.
 ...,..,.
 ,.‘‘’’,...–‘‘,,’’,.,,.–‘‘,’’..,..
 ....
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Puṇṇovādasuttavaṇṇanā niṭṭhitā.
+
+.
 4. Nandakovādasuttavaṇṇanā
 398..–‘‘’’...‘‘’’..?.,.–‘‘,’’.,?.–‘‘‘,’’’...
 –.,...–‘‘’’..‘‘,’’.
@@ -56,15 +56,15 @@ Puṇṇovādasuttavaṇṇanā niṭṭhitā.
 413.......
 414.?,.,,..,,,,,,.
 415.,....–‘‘’’,.‘‘’’,.‘‘’’.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Nandakovādasuttavaṇṇanā niṭṭhitā.
+
+.
 5. Rāhulovādasuttavaṇṇanā
 416.....–
 ‘‘,.....’’(paṭi. ma. 1.185).
 –,,,,,,,...
 419..,,,,..-(ma. ni. 2.69)(ma. ni. 2.206),(ma. ni. 2.395),,.,,,...
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Rāhulovādasuttavaṇṇanā niṭṭhitā.
+
+.
 6. Chachakkasuttavaṇṇanā
 420....,,..
 .,,...
@@ -77,8 +77,8 @@ Rāhulovādasuttavaṇṇanā niṭṭhitā.
 ..,.,.,,,,,,,,...,,.,.–‘‘,’’.,.,,,.
 ..–‘‘’’.,...,.,.,.,.,.
 ,.,.
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Chachakkasuttavaṇṇanā niṭṭhitā.
+
+.
 7. Mahāsaḷāyatanikasuttavaṇṇanā
 428...
 429..,....
@@ -87,19 +87,19 @@ Chachakkasuttavaṇṇanā niṭṭhitā.
 ‘‘’’‘‘’’.–‘‘’’.–,.‘‘’’,,,....(dī. ni. 2.214)–‘‘,,’’..
 433....,.,.
 ..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Mahāsaḷāyatanikasuttavaṇṇanā niṭṭhitā.
+
+.
 8. Nagaravindeyyasuttavaṇṇanā
 435..,..
 437.??,?.,..–‘‘,,,,,,.,,’’(a. ni. 1.1)..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Nagaravindeyyasuttavaṇṇanā niṭṭhitā.
+
+.
 9. Piṇḍapātapārisuddhisuttavaṇṇanā
 438...
 .,....,,...
 440.,.?‘‘’’.‘‘’’‘‘’’..,.,..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Piṇḍapātapārisuddhisuttavaṇṇanā niṭṭhitā.
+
+.
 10. Indriyabhāvanāsuttavaṇṇanā
 453...,,.,,.
 .–‘‘,’’..
@@ -108,10 +108,10 @@ Piṇḍapātapārisuddhisuttavaṇṇanā niṭṭhitā.
 461....?.–
 ‘‘?,,.?,,.?,..?,,.?,…pe…,.’’.
 ,.,.–‘‘,,’’..
-Papañcasūdaniyā majjhimanikāyaṭṭhakathāya
-Indriyabhāvanāsuttavaṇṇanā niṭṭhitā.
-Pañcamavaggavaṇṇanā niṭṭhitā.
-Uparipaṇṇāsaṭṭhakathā niṭṭhitā.
+
+.
+.
+.
 ‘‘,,’’,‘‘’’,‘‘’’‘‘’’,.
 Nigamanakathā
 –
@@ -134,5 +134,5 @@ Nigamanakathā
 ,.
 ,;
 ,.
-Papañcasūdanī nāma
-Majjhimanikāyaṭṭhakathā sabbākārena niṭṭhitā.
+
+.

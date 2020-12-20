@@ -12,7 +12,7 @@ ghorassarassa (sī. syā. pī.).
 .
 .
 .
-Gadrabhavaggo paṭhamo.
+.
 .
 .
 .
@@ -23,7 +23,6 @@ kūpakassa (ka.).
 .
 .
 .
-Samuddavaggo dutiyo.
 .
 .
 .
@@ -34,7 +33,6 @@ Samuddavaggo dutiyo.
 .
 .
 .
-Pathavīvaggo tatiyo.
 .
 .
 .
@@ -45,7 +43,6 @@ Pathavīvaggo tatiyo.
 .
 .
 .
-Upacikāvaggo catuttho.
 .
 .
 .
@@ -56,7 +53,10 @@ Upacikāvaggo catuttho.
 .
 .
 .
-Sīhavaggo pañcamo.
+.
+.
+.
+.
 .
 thanapītadārakassa (syā.).
 cittakathalakummassa (ka.).
@@ -67,7 +67,7 @@ cittakathalakummassa (ka.).
 .
 .
 .
-Makkaṭavaggo chaṭṭho.
+.
 .
 kāḷahaṃsassa (ka.).
 .
@@ -75,7 +75,6 @@ kāḷahaṃsassa (ka.).
 .
 .
 .
-Kumbhavaggo sattamo.
 .
 .
 .
@@ -114,13 +113,14 @@ Kumbhavaggo sattamo.
 .
 .
 .
-Mātikā niṭṭhitā.
+.
+.
 1. Gadrabhavaggo
 1. Gadrabhaṅgapañho
 1.‘‘,‘’,’’?‘‘,,,,,,,.,,.,,‘,,’.,,–
 ‘‘‘,;
 ,’’’.
-Gadrabhaṅgapañho paṭhamo.
+.
 2. Kukkuṭaṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,.,,.,,.
@@ -136,17 +136,17 @@ atha atthe (sī. pī.),’.
 ,.
 ‘‘‘,;
 ,’’’.
-Kukkuṭaṅgapañho dutiyo.
+.
 3. Kalandakaṅgapañho
 3.‘‘,‘’,’’?‘‘,,,,,.,,.,,–
 ‘,;
 ,’’’.
-Kalandakaṅgapañho tatiyo.
+.
 4. Dīpiniyaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,?,,‘’.,,.,,–
 ‘‘‘,;
 ,’’’.
-Dīpiniyaṅgapañho catuttho.
+.
 5. Dīpikaṅgapañho
 5.‘‘,‘’,’’?‘‘,,,,,;,,.,,.,,–
 ‘‘‘,gaṇhatī (sī. pī.);
@@ -157,7 +157,7 @@ Dīpiniyaṅgapañho catuttho.
 ,.
 ‘‘‘,;
 ,’’’.
-Dīpikaṅgapañho pañcamo.
+.
 6. Kummaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,‘’,,,‘’.,,.
@@ -168,30 +168,30 @@ Dīpikaṅgapañho pañcamo.
 ‘‘,,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Kummaṅgapañho chaṭṭho.
+.
 7. Vaṃsaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,,,,.,,.–
 ‘‘‘,;
 ,’’’.
-Vaṃsaṅgapañho sattamo.
+.
 8. Cāpaṅgapañho
 8.‘‘,‘’,’’?‘‘,,mito (sī. pī. ka.),,,.,,.,,–
 ‘‘‘,cāpo vā nuna me dhīro, vaṃsova anulomayaṃ (sī. pī. ka.);
 ,’’’.
-Cāpaṅgapañho aṭṭhamo.
+.
 9. Vāyasaṅgapañho
 9.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Vāyasaṅgapañho navamo.
+.
 10. Makkaṭaṅgapañho
 10.‘‘,‘’,’’?‘‘,,sabbatthakasākhe (syā.), sabbaṭṭhasākhe (ka.),,,.,,.
 ‘‘,,,,.,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Makkaṭaṅgapañho dasamo.
-Gadrabhavaggo paṭhamo.
+.
+.
 –
 ghorassaro ca (sī. syā. pī.),;
 ,.
@@ -202,12 +202,12 @@ ghorassaro ca (sī. syā. pī.),;
 ,.
 ‘‘‘,;
 ,’’’.
-Lābulataṅgapañho paṭhamo.
+.
 2. Padumaṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,.,,.,,.
 ‘‘,,.,,,.,,.,,‘’.
-Padumaṅgapañho dutiyo.
+.
 3. Bījaṅgapañho
 3.‘‘,‘’,’’?‘‘,,,,,..,,.
 ‘‘,,,,,.,,.,,–
@@ -215,7 +215,7 @@ Padumaṅgapañho dutiyo.
 ,.
 ‘‘‘,;
 ,’’’.
-Bījaṅgapañho tatiyo.
+.
 4. Sālakalyāṇikaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,.,,.,,–
 ‘‘‘,;
@@ -224,34 +224,34 @@ Bījaṅgapañho tatiyo.
 ,.
 ‘‘‘,;
 ,’’’.
-Sālakalyāṇikaṅgapañho catuttho.
+.
 5. Nāvaṅgapañho
 5.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,,‘‘’’,‘‘’’,‘‘’’,‘‘’’’’’.
-Nāvaṅgapañho pañcamo.
+.
 6. Nāvālagganakaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,,,.,,.
 ‘‘,,na pilavati (sī. pī.),,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Nāvālagganakaṅgapañho chaṭṭho.
+.
 7. Kūpaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,,.,,.,,‘,,,’’’.
-Kūpaṅgapañho sattamo.
+.
 8. Niyāmakaṅgapañho
 8.‘‘,‘’,’’?‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,sattova (sī. pī.)’.
 ‘‘,,,,,,.,,.
 ‘‘,,‘’,,,‘’,,,.,,‘,,,,’’’.
-Niyāmakaṅgapañho aṭṭhamo.
+.
 9. Kammakāraṅgapañho
 9.‘‘,‘’,’’?‘‘,,‘,,,’,,,‘’,,,.,,–
 ‘‘‘,;
 ,’.
-Kammakāraṅgapañho navamo.
+.
 10. Samuddaṅgapañho
 10.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,.,,,.,,.
@@ -261,7 +261,7 @@ Kammakāraṅgapañho navamo.
 ‘‘,,.,,.,,.,,–
 ‘‘‘,;
 evampi ve (syā.), evaṃ hi me (ka.) jā. 1 asītinipāte,’’’.
-Samuddaṅgapañho dasamo.Samuddavaggo dutiyo.
+..
 –
 ,;
 ,;
@@ -277,7 +277,7 @@ Samuddaṅgapañho dasamo.Samuddavaggo dutiyo.
 ,pamodito (ka.).
 ‘‘‘,;
 ,’’’.
-Pathavīaṅgapañho paṭhamo.
+.
 2. Āpaṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -287,7 +287,7 @@ Pathavīaṅgapañho paṭhamo.
 ‘‘‘,;
 ,-;
 ,’’’.
-Āpaṅgapañho dutiyo.
+.
 3. Tejaṅgapañho
 3.‘‘,‘’,’’?‘‘,,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -295,7 +295,7 @@ Pathavīaṅgapañho paṭhamo.
 ‘‘,,,,,.,,.
 ‘‘,,vidhamati (sī. pī. ka.),,,.,,.,,–
 ‘ma. ni. 2.119,,,,,?’’’.
-Tejaṅgapañho tatiyo.
+.
 4. Vāyuṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -304,7 +304,7 @@ Tejaṅgapañho tatiyo.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Vāyuṅgapañho catuttho.
+.
 5. Pabbataṅgapañho
 5.‘‘,‘’,’’?‘‘,,akampiyo (sī. pī.),,,,,,,.,,.,,–
 ‘‘‘ekagghano (ka.) dha. pa. 81 dhammapade,;
@@ -326,21 +326,21 @@ bhummaṭṭhe (sī. pī.),’.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ekaṭṭhā (sī. pī.),’’’.
-Pabbataṅgapañho pañcamo.
+.
 6. Ākāsaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,‘’.,,.
 ‘‘,,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,,.,,.,,–‘,ma. ni. 2.119,,,,,,,’’’.
-Ākāsaṅgapañho chaṭṭho.
+.
 7. Candaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,‘,,,’’’appagabbāti (ka.) saṃ. ni. 2.146.
-Candaṅgapañho sattamo.
+.
 8. Sūriyaṅgapañho
 8.‘‘,‘suriyassa (sī. syā. pī.)’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -353,14 +353,14 @@ Candaṅgapañho sattamo.
 ,.
 ‘‘‘,;
 ,’’’.
-Sūriyaṅgapañho aṭṭhamo.
+.
 9. Sakkaṅgapañho
 9.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Sakkaṅgapañho navamo.
+.
 10. Cakkavattiṅgapañho
 10.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,–
@@ -370,8 +370,8 @@ Sakkaṅgapañho navamo.
 ‘vītipatantīti (sī. pī.)’.
 ‘‘,,,,,.,,.,,–
 ‘,,,,,’’’.
-Cakkavattiṅgapañho dasamo.
-Pathavīvaggo tatiyo.
+.
+.
 –
 ,;
 ,.
@@ -380,28 +380,28 @@ Pathavīvaggo tatiyo.
 1.‘‘,‘’,’’?‘‘,,,,,,,,.,,,,,–
 ‘‘‘,;
 ,’’’.
-Upacikaṅgapañho paṭhamo.
+.
 2. Biḷāraṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,‘,,,,’.,,.,,–
 ‘‘‘,;
 ,’’’.
-Biḷāraṅgapañho dutiyo.
+.
 3. Undūraṅgapañho
 3.‘‘,‘undurassa (syā. ka.)’,’’?‘‘,,,,,.,,.,,–
 ‘‘‘dhammasīsaṃ (sī. pī.),;
 ,’’’.
-Undūraṅgapañho tatiyo.
+.
 4. Vicchikaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Vicchikaṅgapañho catuttho.
+.
 5. Nakulaṅgapañho
 5.‘‘,‘’,’’?‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Nakulaṅgapañho pañcamo.
+.
 6. Jarasiṅgālaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,.,,.,,–
 ‘‘‘,;
@@ -414,7 +414,7 @@ Nakulaṅgapañho pañcamo.
 ‘‘‘,;
 ,ramatī (sī. pī.);
 santuṭṭhe (sī. pī.),’’’.
-Jarasiṅgālaṅgapañho chaṭṭho.
+.
 7. Migaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,,,.,,.
 ‘‘,,–
@@ -423,7 +423,7 @@ Jarasiṅgālaṅgapañho chaṭṭho.
 ‘‘,,‘’,,,‘,’.,,.,,–
 ‘‘‘,;
 ,sameto (sī. pī.)’’’.
-Migaṅgapañho sattamo.
+.
 8. Gorūpaṅgapañho
 8.‘‘,‘’,’’?‘‘,,,,,‘’.,,.
 ‘‘,,,,,.,,.
@@ -433,13 +433,13 @@ Migaṅgapañho sattamo.
 ,muddhanā (sī.).
 ‘‘‘,;
 ,’’’.
-Gorūpaṅgapañho aṭṭhamo.
+.
 9. Varāhaṅgapañho
 9.‘‘,‘’,’’?‘‘,,santattakaṭhine (sī. pī.),,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘kāyena (ka.),;
 ,’’’.
-Varāhaṅgapañho navamo.
+.
 10. Hatthiṅgapañho
 10.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,,,,,,.,,.
@@ -449,7 +449,7 @@ Varāhaṅgapañho navamo.
 ‘‘‘,;
 ,;
 ,’’’.
-Hatthiṅgapañho dasamo.Upacikāvaggo catuttho.
+..
 –
 ,;
 ,
@@ -464,35 +464,35 @@ Hatthiṅgapañho dasamo.Upacikāvaggo catuttho.
 ‘‘,,,,,,.,,.
 ‘‘,,,agathito (sī.),,,,.,,.,,–
 ‘,,,,,,’’’.
-Sīhaṅgapañho paṭhamo.
+.
 2. Cakkavākaṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,,,,,,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ahiṃsā (sī. pī.),’’’.
-Cakkavākaṅgapañho dutiyo.
+.
 3. Peṇāhikaṅgapañho
 3.‘‘,‘’,’’?‘‘,,,,,sakamano (ka.),.,,.
 ‘‘,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Peṇāhikaṅgapañho tatiyo.
+.
 4. Gharakapotaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,,,,.,,.,,–
 ‘‘‘,pānesu bhojanesu vā (sī. pī.);
 ,’’’.
-Gharakapotaṅgapañho catuttho.
+.
 5. Ulūkaṅgapañho
 5.‘‘,‘’,’’?‘‘,,,,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,,‘‘’’,‘‘’’,‘‘’’,‘‘’’’’’.
-Ulūkaṅgapañho pañcamo.
+.
 6. Satapattaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,,.,,.,,–
 ‘‘‘,;
 ’’’.
-Satapattaṅgapañho chaṭṭho.
+.
 7. Vagguliṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,,,.,,.
 ‘‘,,,,,,,.,,.,,–
@@ -500,27 +500,27 @@ Satapattaṅgapañho chaṭṭho.
 ,.
 ‘‘‘,;
 ,’’’.
-Vagguliṅgapañho sattamo.
+.
 8. Jalūkaṅgapañho
 8.‘‘,‘’,’’?‘‘,,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Jalūkaṅgapañho aṭṭhamo.
+.
 9. Sappaṅgapañho
 9.‘‘,‘’,’’?‘‘,,,,,,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,manussaṃ disvā kampati (ka.),,‘,’.,,.,,–
 ‘‘‘yamekarattiṃ (sī. pī.),;
 tamekarattiṃ (sī. pī.),‘’’’.
-Sappaṅgapañho navamo.
+.
 10. Ajagaraṅgapañho
 10.‘‘,‘’,’’?‘‘,,,,,,,.,,.,,–
 ‘‘‘,;
 ,.
 ‘‘‘,;
 ,’’’.
-Ajagaraṅgapañho dasamo.
-Sīhavaggo pañcamo.
+.
+.
 –
 ,;
 ,;
@@ -530,17 +530,17 @@ Sīhavaggo pañcamo.
 1.‘‘,‘’,’’?‘‘,,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Panthamakkaṭakaṅgapañho paṭhamo.
+.
 2. Thanassitadārakaṅgapañho
 2.‘‘,‘’,’’?‘‘,,,,,,,,.,,.,,–
 ‘‘‘,,sadatthe (sī. pī.),;
 ’’’.
-Thanassitadārakaṅgapañho dutiyo.
+.
 3. Cittakadharakummaṅgapañho
 3.‘‘,‘cittakathalakummassa (sī. pī.)’,’’?‘‘,,,,,,,.,ṭhapeti (ka.).,,.,,–
 ‘‘‘,;
 ,’’’.
-Cittakadharakummaṅgapañho catuttho.
+.
 4. Pavanaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -549,14 +549,14 @@ Cittakadharakummaṅgapañho catuttho.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Pavanaṅgapañho catuttho.
+.
 5. Rukkhaṅgapañho
 5.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,,,‘abyāpajjhā (sī.)’.,,.,,–
 ‘‘‘,;
 ,’’’.
-Rukkhaṅgapañho pañcamo.
+.
 6. Meghaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -565,14 +565,14 @@ Rukkhaṅgapañho pañcamo.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Meghaṅgapañho chaṭṭho.
+.
 7. Maṇiratanaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Maṇiratanapañho sattamo.
+.
 8. Māgavikaṅgapañho
 8.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -580,13 +580,13 @@ Maṇiratanapañho sattamo.
 ‘‘,,‘’,,,,‘’.,,.–
 ‘‘‘,;
 ,’’’.
-Māgavikaṅgapañho aṭṭhamo.
+.
 9. Bāḷisikaṅgapañho
 9.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Bāḷisikaṅgapañho navamo.
+.
 10. Tacchakaṅgapañho
 10.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,,,,nisattanijīvataṃ (ka.).,,.,,–
@@ -595,8 +595,8 @@ Bāḷisikaṅgapañho navamo.
 ‘‘‘,;
 ,;
 ,’’’.
-Tacchakaṅgapañho dasamo.
-Makkaṭakavaggo chaṭṭho.
+.
+.
 –
 ,;
 ,.
@@ -605,13 +605,13 @@ Makkaṭakavaggo chaṭṭho.
 1.‘‘,‘’,’’?‘‘,,,,,,,dappo (sī.),,.,,.,,–
 ‘‘‘,;
 rittakumbhūpamo (sī.),’’’.
-Kumbhaṅgapañho paṭhamo.
+.
 2. Kāḷāyasaṅgapañho
 2.‘‘,‘kāḷahaṃsassa (ka.)’,’’?‘‘,,suthito (ka.)vahati (syā. ka.),,,yoniso manasikāre (sī. syā. ka.).,,.
 ‘‘,,,,,,‘,,’.‘,,,,,.,,.,,–
 ‘‘‘parisodhike (sī. ka.),;
 ,’’’.
-Kāḷāyasaṅgapañho dutiyo.
+.
 3. Chattaṅgapañho
 3.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
@@ -620,27 +620,27 @@ Kāḷāyasaṅgapañho dutiyo.
 ,.
 ‘‘‘,;
 ,’’’.
-Chattaṅgapañho tatiyo.
+.
 4. Khettaṅgapañho
 4.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,,,.,,.
 ‘‘,,,,,,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Khettaṅgapañho catuttho.
+.
 5. Agadaṅgapañho
 5.‘‘,‘’,’’.‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Agadaṅgapañho pañcamo.
+.
 6. Bhojanaṅgapañho
 6.‘‘,‘’,’’?‘‘,,,,,.,,.
 ‘‘,,,,,.,,.
 ‘‘,,,,,.,,.,,–
 ‘‘‘,;
 ,’’’.
-Bhojanaṅgapañho chaṭṭho.
+.
 7. Issāsaṅgapañho
 7.‘‘,‘’,’’?‘‘,,,,,,,,,,,,‘’,,,,,,,,,,,,‘’.,,.
 ‘‘,,.,,.,,.
@@ -650,12 +650,12 @@ Bhojanaṅgapañho chaṭṭho.
 na ricchanto (sī. ka.),.
 ‘‘‘,;
 ,’’’.
-Issāsaṅgapañho sattamo.
-Kumbhavaggo sattamo ito paraṃ rājaṅgapañhādikā aṭṭhatiṃsa pañhā vinaṭṭhā, yehi tā diṭṭhā,§tehi no ārocetabbā puna muddāpanakāle pakkhipanatthāyāti (na, bu, sa).
+.
+ito paraṃ rājaṅgapañhādikā aṭṭhatiṃsa pañhā vinaṭṭhā, yehi tā diṭṭhā,§tehi no ārocetabbā puna muddāpanakāle pakkhipanatthāyāti (na, bu, sa).
 –
 ,;
 ,.
-Opammakathāpañho niṭṭhito.
+.
 Nigamanaṃ
 ,,,.
 ,,,,,.
@@ -673,4 +673,4 @@ Nigamanaṃ
 ,;
 ,;
 ,.
-Milindapañho niṭṭhito.
+.

@@ -12,7 +12,7 @@ vaṃsassa ekaṃ aṅgaṃ gahetabbaṃ
 cāpassa ekaṃ aṅgaṃ gahetabbaṃ
 vāyasassa dve aṅgāni gahetabbāni
 makkaṭassa dve aṅgāni gahetabbāni
-
+gadrabhavaggo paṭhamo
 lābulatāya ekaṃ aṅgaṃ gahetabbaṃ
 padumassa tīṇi aṅgāni gahetabbāni
 bījassa dve aṅgāni gahetabbāni
@@ -23,7 +23,7 @@ kūpassa  ekaṃ aṅgaṃ gahetabbaṃ
 niyāmakassa tīṇi aṅgāni gahetabbāni
 kammakārassa ekaṃ aṅgaṃ gahetabbaṃ
 samuddassa pañca aṅgāni gahetabbāni
-
+samuddavaggo dutiyo
 pathaviyā pañca aṅgāni gahetabbāni
 āpassa pañca aṅgāni gahetabbāni
 tejassa pañca aṅgāni gahetabbāni
@@ -34,7 +34,7 @@ candassa pañca aṅgāni gahetabbāni
 sūriyassa satta aṅgāni gahetabbāni
 sakkassa tīṇi aṅgāni gahetabbāni
 cakkavattissa cattāri aṅgāni gahetabbāni
-
+pathavīvaggo tatiyo
 upacikāya ekaṃ aṅgaṃ gahetabbaṃ
 biḷārassa dve aṅgāni gahetabbāni
 undūrassa ekaṃ aṅgaṃ gahetabbaṃ
@@ -45,7 +45,7 @@ migassa  tīṇi aṅgāni gahetabbāni
 gorūpassa cattāri aṅgāni gahetabbāni
 varāhassa dve aṅgāni gahetabbāni
 hatthissa pañca aṅgāni gahetabbāni
-
+upacikāvaggo catuttho
 sīhassa satta aṅgāni gahetabbāni
 cakkavākassa tīṇi aṅgāni gahetabbāni
 peṇāhikāya dve aṅgāni gahetabbāni
@@ -56,7 +56,7 @@ vaggulissa dve aṅgāni gahetabbāni
 jalūkāya ekaṃ aṅgaṃ gahetabbaṃ
 sappassa tīṇi aṅgāni gahetabbāni
 ajagarassa ekaṃ aṅgaṃ gahetabbaṃ
-
+sīhavaggo pañcamo
 panthamakkaṭakassa ekaṃ aṅgaṃ gahetabbaṃ
 thanasitadārakassa  ekaṃ aṅgaṃ gahetabbaṃ
 cittakadharakummassa  ekaṃ aṅgaṃ gahetabbaṃ
@@ -67,7 +67,7 @@ maṇiratanassa tīṇi aṅgāni gahetabbāni
 māgavikassa  cattāri aṅgāni gahetabbāni
 bāḷisikassa dve aṅgāni gahetabbāni
 tacchakassa dve aṅgāni gahetabbāni
-
+makkaṭavaggo chaṭṭho
 kumbhassa ekaṃ aṅgaṃ gahetabbaṃ
 kāḷāyasassa  dve aṅgāni gahetabbāni
 chattassa tīṇi aṅgāni gahetabbāni
@@ -75,7 +75,7 @@ khettassa tīṇi aṅgāni gahetabbāni
 agadassa dve aṅgāni gahetabbāni
 bhojanassa tīṇi aṅgāni gahetabbāni
 issāsassa cattāri aṅgāni gahetabbāni
-
+kumbhavaggo sattamo
 rañño cattāri aṅgāni gahetabbāni
 dovārikassa dve aṅgāni gahetabbāni
 nisadāya ekaṃ aṅgaṃ gahetabbaṃ
@@ -114,13 +114,13 @@ bhojakassa  dve aṅgāni gahetabbāni
 tunnavāyassa ekaṃ aṅgaṃ gahetabbaṃ
 nāvikassa ekaṃ aṅgaṃ gahetabbaṃ
 bhamarassa dve aṅgāni gahetabbānīti
-
+mātikā niṭṭhitā
 
 
  bhante  nāgasena gadrabhassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja gadrabho nāma saṅkārakūṭepi catukkepi siṅghāṭakepi gāmadvārepi thusarāsimhipi yattha katthaci sayati na sayanabahulo hoti evameva  kho mahārāja yoginā yogāvacarena tiṇasanthārepi paṇṇasanthārepi kaṭṭhamañcakepi chamāyapi yattha katthaci cammakhaṇḍaṃ pattharitvā yattha katthaci sayitabbaṃ na sayanabahulena bhavitabbaṃ idaṃ mahārāja gadrabhassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena kaliṅgarūpadhānā bhikkhave etarahi mama sāvakā viharanti appamattā ātāpino padhānasminti bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatināpi 
 pallaṅkena nisinnassa jaṇṇukenābhivassati
 alaṃ phāsuvihārāya pahitattassa bhikkhunoti
-
+gadrabhaṅgapañho paṭhamo
 
  bhante nāgasena kukkuṭassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja kukkuṭo  kālena samayena paṭisallīyati evameva kho mahārāja yoginā yogāvacarena kālena samayeneva cetiyaṅgaṇaṃ sammajjitvā pānīyaṃ paribhojanīyaṃ upaṭṭhapetvā sarīraṃ paṭijaggitvā nahāyitvā cetiyaṃ vanditvā vuḍḍhānaṃ bhikkhūnaṃ dassanāya gantvā kālena samayena suññāgāraṃ pavisitabbaṃ idaṃ mahārāja kukkuṭassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja kukkuṭo kālena samayeneva vuṭṭhāti evameva kho mahārāja yoginā yogāvacarena kālena samayeneva vuṭṭhahitvā cetiyaṅgaṇaṃ sammajjitvā pānīyaṃ paribhojanīyaṃ upaṭṭhapetvā sarīraṃ paṭijaggitvā cetiyaṃ vanditvā punadeva suññāgāraṃ pavisitabbaṃ idaṃ mahārāja kukkuṭassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -136,17 +136,17 @@ yathā sudanto mātaṅgo sakaṃ soṇḍaṃ na maddati
 bhakkhābhakkhaṃ vijānāti attano vuttikappanaṃ
 tatheva buddhaputtena appamattena vā pana
 jinavacanaṃ na madditabbaṃ manasikāravaruttamanti
-
+kukkuṭaṅgapañho dutiyo
 
  bhante nāgasena kalandakassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja kalandako paṭisattumhi opatante naṅguṭṭhaṃ papphoṭetvā mahantaṃ katvā teneva naṅguṭṭhalaguḷena paṭisattuṃ paṭibāhati evameva kho mahārāja yoginā yogāvacarena kilesasattumhi opatante satipaṭṭhānalaguḷaṃ papphoṭetvā mahantaṃ katvā teneva satipaṭṭhānalaguḷena sabbakilesā paṭibāhitabbā idaṃ mahārāja kalandakassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena cūḷapanthakena 
 yadā kilesā opatanti sāmaññaguṇadhaṃsanā
 satipaṭṭhānalaguḷena hantabbā te punappunanti
-
+kalandakaṅgapañho tatiyo
 
  bhante  nāgasena dīpiniyā ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja dīpinī sakiṃ yeva gabbhaṃ gaṇhāti na punappunaṃ purisaṃ upeti evameva kho mahārāja yoginā yogāvacarena āyatiṃ paṭisandhiṃ uppattiṃ gabbhaseyyaṃ cutiṃ bhedaṃ khayaṃ vināsaṃ saṃsārabhayaṃ duggatiṃ visamaṃ sampīḷitaṃ disvā punabbhave  nappaṭisandahissāmīti yoniso manasikāro karaṇīyo idaṃ mahārāja dīpiniyā ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena suttanipāte dhaniyagopālakasutte 
 usabhoriva chetva bandhanāni nāgo pūtilataṃva dālayitvā
 nāhaṃ punupessaṃ gabbhaseyyaṃ atha ce patthayasī pavassa devāti
-
+dīpiniyaṅgapañho catuttho
 
  bhante nāgasena dīpikassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja dīpiko araññe tiṇagahanaṃ vā vanagahanaṃ vā pabbatagahanaṃ vā nissāya nilīyitvā mige gaṇhāti evameva kho mahārāja yoginā yogāvacarena vivekaṃ sevitabbaṃ araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ appasaddaṃ appanigghosaṃ vijanavātaṃ manussarāhaseyyakaṃ paṭisallānasāruppaṃ vivekaṃ sevamāno hi mahārāja yogī yogāvacaro nacirasseva chaḷabhiññāsu ca vasibhāvaṃ pāpuṇāti idaṃ mahārāja dīpikassa paṭhamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therehi dhammasaṅgāhakehi 
 yathāpi  dīpiko nāma nilīyitvā gaṇhate  mige
@@ -157,7 +157,7 @@ vacīviññattivipphārā uppannaṃ madhupāyasaṃ
 sace bhutto bhaveyyāhaṃ sājīvo garahito mama
 yadipi me antaguṇaṃ nikkhamitvā bahī care
 neva bhindeyyamājīvaṃ cajamānopi jīvitanti
-
+dīpikaṅgapañho pañcamo
 
  bhante nāgasena kummassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja kummo udakacaro udakeyeva vāsaṃ kappeti evameva kho mahārāja yoginā yogāvacarena sabbapāṇabhūtapuggalānaṃ hitānukampinā mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyāpajjena sabbāvantaṃ lokaṃ pharitvā viharitabbaṃ idaṃ mahārāja kummassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja kummo udake uppilavanto sīsaṃ ukkhipitvā yadi koci passati tattheva nimujjati gāḷhamogāhati mā maṃ te puna passeyyunti evameva kho mahārāja yoginā yogāvacarena kilesesu opatantesu ārammaṇasare nimujjitabbaṃ gāḷhamogāhitabbaṃ mā maṃ kilesā puna passeyyunti idaṃ mahārāja kummassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -168,30 +168,30 @@ seve senāsanaṃ bhikkhu paṭisallānakāraṇāti
 puna caparaṃ mahārāja kummo cārikaṃ caramāno yadi kañci passati vā saddaṃ suṇāti vā soṇḍipañcamāni aṅgāni sake kapāle nidahitvā appossukko tuṇhībhūto tiṭṭhati kāyamanurakkhanto evameva kho mahārāja yoginā yogāvacarena sabbattha rūpasaddagandharasaphoṭṭhabbadhammesu āpatantesu chasu dvāresu saṃvarakavāṭaṃ anugghāṭetvā mānasaṃ samodahitvā saṃvaraṃ katvā satena sampajānena vihātabbaṃ samaṇadhammaṃ anurakkhamānena idaṃ mahārāja kummassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare kummūpamasuttante 
 kummova  aṅgāni sake kapāle samodahaṃ bhikkhu manovitakke
 anissito  aññamaheṭhayāno parinibbutonūpavadeyya kañcīti
-
+kummaṅgapañho chaṭṭho
 
  bhante  nāgasena vaṃsassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja vaṃso yattha vāto tattha anulometi nāññatthamanudhāvati evameva kho mahārāja yoginā yogāvacarena yaṃ buddhena bhagavatā bhāsitaṃ navaṅgaṃ satthu sāsanaṃ taṃ anulomayitvā kappiye anavajje ṭhatvā samaṇadhammaṃ yeva pariyesitabbaṃ idaṃ mahārāja vaṃsassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena rāhulena 
 navaṅgaṃ buddhavacanaṃ anulometvāna sabbadā
 kappiye anavajjasmiṃ ṭhatvāpāyaṃ samuttarinti
-
+vaṃsaṅgapañho sattamo
 
  bhante nāgasena cāpassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja cāpo sutacchito namito  yāvaggamūlaṃ samakameva anunamati nappaṭitthambhati evameva kho mahārāja yoginā yogāvacarena theranavamajjhimasamakesu anunamitabbaṃ nappaṭipharitabbaṃ idaṃ mahārāja cāpassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena vidhura [puṇṇaka] jātake 
 cāpovūnudaro  dhīro vaṃso vāpi pakampaye 
 paṭilomaṃ na vatteyya sa rājavasatiṃ vaseti
-
+cāpaṅgapañho aṭṭhamo
 
  bhante  nāgasena vāyasassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja vāyaso āsaṅkitaparisaṅkito yattappayatto  carati evameva kho mahārāja yoginā yogāvacarena āsaṅkitaparisaṅkitena yattapayattena upaṭṭhitāya satiyā saṃvutehi indriyehi caritabbaṃ idaṃ mahārāja vāyasassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja vāyaso yaṃ kiñci bhojanaṃ disvā ñātīhi saṃvibhajitvā bhuñjati evameva kho mahārāja yoginā yogāvacarena ye te lābhā dhammikā dhammaladdhā antamaso pattapariyāpannamattampi tathārūpehi lābhehi paṭivibhattabhoginā bhavitabbaṃ sīlavantehi sabrahmacārīhi idaṃ mahārāja vāyasassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 sace me upanāmenti yathāladdhaṃ tapassino
 sabbe saṃvibhajitvāna tato bhuñjāmi bhojananti
-
+vāyasaṅgapañho navamo
 
  bhante nāgasena makkaṭassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja makkaṭo vāsamupagacchanto tathārūpe okāse mahatimahārukkhe pavivitte sabbaṭṭhakasākhe  bhīruttāṇe vāsamupagacchati evameva kho mahārāja  yoginā yogāvacarena lajjiṃ pesalaṃ sīlavantaṃ kalyāṇadhammaṃ bahussutaṃ dhammadharaṃ vinayadharaṃ piyaṃ garubhāvanīyaṃ vattāraṃ vacanakkhamaṃ ovādakaṃ viññāpakaṃ sandassakaṃ samādapakaṃ samuttejakaṃ sampahaṃsakaṃ evarūpaṃ kalyāṇamittaṃ ācariyaṃ nissāya viharitabbaṃ idaṃ mahārāja makkaṭassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja makkaṭo rukkhe yeva carati tiṭṭhati nisīdati yadi niddaṃ okkamati tattheva rattiṃ vāsamanubhavati evameva kho mahārāja yoginā yogāvacarena pavanābhimukhena bhavitabbaṃ pavane yeva ṭhānacaṅkamanisajjāsayanaṃ  niddaṃ okkamitabbaṃ tattheva satipaṭṭhānamanubhavitabbaṃ idaṃ mahārāja makkaṭassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 caṅkamantopi tiṭṭhanto nisajjāsayanena vā
 pavane sobhate bhikkhu pavanantaṃva vaṇṇitanti
-
-
+makkaṭaṅgapañho dasamo
+gadrabhavaggo paṭhamo
 tassuddānaṃ 
 gadrabho ceva  kukkuṭo kalando dīpini dīpiko
 kummo vaṃso ca cāpo ca vāyaso atha makkaṭoti
@@ -202,12 +202,12 @@ yathā lābulatā nāma tiṇe kaṭṭhe latāya vā
 ālambitvā soṇḍikāhi tato vaḍḍhati uppari
 tatheva buddhaputtena arahattaphalakāminā
 ārammaṇaṃ ālambitvā vaḍḍhitabbaṃ asekkhaphaleti
-
+lābulataṅgapañho paṭhamo
 
  bhante nāgasena padumassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti  yathā mahārāja padumaṃ udake jātaṃ udake saṃvaddhaṃ anupalittaṃ udakena evameva kho mahārāja yoginā yogāvacarena kule gaṇe lābhe yase  sakkāre sammānanāya paribhogapaccayesu ca sabbattha anupalittena bhavitabbaṃ idaṃ mahārāja padumassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja padumaṃ udakā accuggamma ṭhāti evameva kho mahārāja yoginā yogāvacarena sabbalokaṃ abhibhavitvā accuggamma lokuttaradhamme ṭhātabbaṃ idaṃ mahārāja padumassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja padumaṃ appamattakenapi anilena eritaṃ calati evameva kho mahārāja yoginā yogāvacarena appamattakesupi kilesesu saṃyamo karaṇīyo bhayadassāvinā viharitabbaṃ idaṃ mahārāja padumassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesūti
-
+padumaṅgapañho dutiyo
 
  bhante nāgasena bījassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja bījaṃ appakampi samānaṃ bhaddake khette vuttaṃ deve sammā dhāraṃ pavecchante subahūni phalāni anudassati evameva kho mahārāja yoginā yogāvacarena yathā paṭipāditaṃ sīlaṃ kevalaṃ sāmaññaphalamanudassati evaṃ sammā paṭipajjitabbaṃ idaṃ mahārāja bījassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja bījaṃ suparisodhite khette ropitaṃ khippameva saṃvirūhati evameva kho mahārāja yoginā yogāvacarena mānasaṃ supariggahitaṃ suññāgāre parisodhitaṃ satipaṭṭhānakhettavare khittaṃ khippameva virūhati idaṃ mahārāja bījassa dutiyaṃ aṅgaṃ gahetabbaṃ  bhāsitampetaṃ mahārāja therena anuruddhena 
@@ -215,7 +215,7 @@ yathāpi  khette  parisuddhe bījañcassa patiṭṭhitaṃ
 vipulaṃ tassa phalaṃ hoti api toseti kassakaṃ
 tatheva yogino cittaṃ suññāgāre visodhitaṃ
 satipaṭṭhānakhettamhi khippameva virūhatīti
-
+bījaṅgapañho tatiyo
 
  bhante  nāgasena sālakalyāṇikāya ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja sālakalyāṇikā nāma antopathaviyaṃ yeva abhivaḍḍhati hatthasatampi bhiyyopi evameva kho mahārāja yoginā yogāvacarena cattāri sāmaññaphalāni catasso paṭisambhidā chaḷabhiññāyo kevalañca samaṇadhammaṃ suññāgāre yeva paripūrayitabbaṃ idaṃ mahārāja sālakalyāṇikāya ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena rāhulena 
 sālakalyāṇikā nāma pādapo dharaṇīruho
@@ -224,34 +224,34 @@ yathā kālamhi sampatte paripākena so dumo
 uggañchitvāna ekāhaṃ satahatthopi vaḍḍhati
 evamevāhaṃ mahāvīra sālakalyāṇikā viya
 abbhantare suññāgāre dhammato abhivaḍḍhayinti
-
+sālakalyāṇikaṅgapañho catuttho
 
  bhante  nāgasena nāvāya tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja nāvā bahuvidhadārusaṅghāṭasamavāyena bahumpi janaṃ tārayati evameva kho mahārāja yoginā yogāvacarena ācārasīlaguṇavattappaṭivattabahuvidhadhammasaṅghāṭasamavāyena sadevako loko tārayitabbo idaṃ mahārāja nāvāya paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja nāvā bahuvidhaūmitthanitavegavisaṭamāvaṭṭavegaṃ  sahati evameva kho mahārāja yoginā yogāvacarena bahuvidhakilesaūmivegaṃ lābhasakkārayasasilokapūjanavandanā parakulesu nindāpasaṃsāsukhadukkhasammānanavimānanabahuvidhadosaūmivegañca sahitabbaṃ idaṃ mahārāja nāvāya dutiyaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja nāvā aparimitamanantamapāramakkhobhitagambhīre mahatimahāghose timitimiṅgalamakaramacchagaṇākule mahatimahāsamudde carati evameva kho mahārāja yoginā yogāvacarena tiparivaṭṭa dvādasākāra catusaccābhisamayappaṭivedhe mānasaṃ sañcārayitabbaṃ idaṃ mahārāja nāvāya tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare saccasaṃyutte 
 vitakkentā ca kho tumhe bhikkhave idaṃ dukkhanti vitakkeyyātha ayaṃ dukkhasamudayoti vitakkeyyātha ayaṃ dukkhanirodhoti vitakkeyyātha ayaṃ dukkhanirodhagāminī paṭipadāti vitakkeyyāthāti
-
+nāvaṅgapañho pañcamo
 
  bhante nāgasena nāvālagganakassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni  tāni dve aṅgāni gahetabbānīti yathā mahārāja nāvālagganakaṃ bahuūmijālākulavikkhobhitasalilatale mahatimahāsamudde nāvaṃ laggeti ṭhapeti na deti disāvidisaṃ harituṃ evameva kho mahārāja yoginā yogāvacarena rāgadosamohūmijāle mahatimahāvitakkasampahāre cittaṃ laggetabbaṃ na dātabbaṃ disāvidisaṃ harituṃ idaṃ mahārāja nāvālagganakassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja nāvālagganakaṃ na plavati  visīdati hatthasatepi udake nāvaṃ laggeti ṭhānamupaneti evameva kho mahārāja yoginā yogāvacarena lābhayasasakkāramānanavandanapūjanaapacitīsu lābhaggayasaggepi  na plavitabbaṃ sarīrayāpanamattake yeva cittaṃ ṭhapetabbaṃ idaṃ mahārāja nāvālagganakassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 yathā  samudde lagganakaṃ na plavati visīdati
 tatheva lābhasakkāre mā plavatha visīdathāti
-
+nāvālagganakaṅgapañho chaṭṭho
 
  bhante nāgasena kūpassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja kūpo rajjuñca varattañca laṅkārañca dhāreti evameva kho mahārāja yoginā yogāvacarena satisampajaññasamannāgatena bhavitabbaṃ abhikkante paṭikkante ālokite vilokite samiñjite pasārite saṅghāṭipattacīvaradhāraṇe asite pīte khāyite sāyite uccārapassāvakamme gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārinā bhavitabbaṃ idaṃ mahārāja kūpassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena sato bhikkhave bhikkhu vihareyya sampajāno ayaṃ vo amhākaṃ anusāsanīti
-
+kūpaṅgapañho sattamo
 
  bhante  nāgasena niyāmakassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja niyāmako rattindivaṃ satataṃ samitaṃ appamatto yattappayatto nāvaṃ sāreti evameva kho mahārāja yoginā yogāvacarena cittaṃ niyāmayamānena rattindivaṃ satataṃ samitaṃ appamattena yattappayattena yoniso manasikārena cittaṃ niyāmetabbaṃ idaṃ mahārāja niyāmakassa paṭhamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena dhammapade 
 appamādaratā  hotha sacittamanurakkhatha
 duggā uddharathattānaṃ paṅke sannova  kuñjaroti
 puna  caparaṃ mahārāja niyāmakassa yaṃ kiñci mahāsamudde kalyāṇaṃ vā pāpakaṃ vā sabbaṃ taṃ viditaṃ hoti evameva kho mahārāja yoginā yogāvacarena kusalākusalaṃ sāvajjānavajjaṃ hīnappaṇītaṃ kaṇhasukkasappaṭibhāgaṃ vijānitabbaṃ idaṃ mahārāja niyāmakassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja niyāmako yante muddikaṃ deti mā koci yantaṃ āmasitthāti evameva kho mahārāja yoginā yogāvacarena citte saṃvaramuddikā dātabbā mā kiñci pāpakaṃ akusalavitakkaṃ vitakkesīti idaṃ mahārāja niyāmakassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare mā bhikkhave pāpake akusale vitakke vitakkeyyātha seyyathīdaṃ kāmavitakkaṃ byāpādavitakkaṃ vihiṃsāvitakkanti
-
+niyāmakaṅgapañho aṭṭhamo
 
  bhante  nāgasena kammakārassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja kammakāro evaṃ cintayati bhatako ahaṃ imāya nāvāya kammaṃ karomi imāyāhaṃ nāvāya vāhasā bhattavetanaṃ labhāmi na me pamādo karaṇīyo appamādena me ayaṃ nāvā vāhetabbāti evameva kho mahārāja yoginā yogāvacarena evaṃ cintayitabbaṃ imaṃ kho ahaṃ cātumahābhūtikaṃ kāyaṃ sammasanto satataṃ samitaṃ appamatto upaṭṭhitassati sato sampajāno samāhito ekaggacitto jātijarābyādhimaraṇasokaparidevadukkhadomanassupāyāsehi parimuccissāmīti appamādo me karaṇīyoti idaṃ mahārāja kammakārassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 kāyaṃ  imaṃ sammasatha parijānātha punappunaṃ
 kāye sabhāvaṃ disvāna dukkhassantaṃ karissathāti
-
+kammakāraṅgapañho navamo
 
  bhante  nāgasena samuddassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja mahāsamuddo matena kuṇapena saddhiṃ na saṃvasati evameva kho mahārāja yoginā yogāvacarena rāgadosamohamānadiṭṭhimakkhapaḷāsaissāmacchariyamāyāsāṭheyyakuṭilavisamaduccaritakilesamalehi saddhiṃ na saṃvasitabbaṃ idaṃ mahārāja samuddassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja mahāsamuddo muttāmaṇiveḷuriyasaṅkhasilāpavāḷaphalikamaṇivividharatananicayaṃ dhārento pidahati na bahi vikirati evameva kho mahārāja yoginā yogāvacarena maggaphalajhānavimokkhasamādhisamāpattivipassanābhiññāvividhaguṇaratanāni adhigantvā  pidahitabbāni na bahi nīharitabbāni idaṃ mahārāja samuddassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -261,7 +261,7 @@ seyyathāpi mahārāja  mahāsamuddo ṭhitadhammo velaṃ nātikkamati evameva 
 puna  caparaṃ mahārāja mahāsamuddo sabbasavantīhi gaṅgāyamunāaciravatīsarabhūmahīhi antalikkhe udakadhārāhipi na paripūrati evameva kho mahārāja yoginā yogāvacarena uddesaparipucchāsavanadhāraṇavinicchayaabhidhammavinayagāḷhasuttantaviggahapadanikkhepapadasandhi padavibhattinavaṅgajinasāsanavaraṃ suṇantenāpi na tappitabbaṃ idaṃ mahārāja mahāsamuddassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena sutasomajātake 
 aggi yathā tiṇakaṭṭhaṃ dahanto na tappati sāgaro vā nadīhi
 evampi ce  paṇḍitā rājaseṭṭha sutvā na tappanti subhāsitenāti
-
+samuddaṅgapañho dasamosamuddavaggo dutiyo
 tassuddānaṃ  
 lābulatā ca padumaṃ bījaṃ sālakalyāṇikā
 nāvā ca nāvālagganaṃ kūpo niyāmako tathā
@@ -277,7 +277,7 @@ ekañce  bāhaṃ vāsiyā tacche kupitamānasā
 ekañcebāhaṃ gandhena ālimpeyya pamoditā 
 amusmiṃ paṭigho natthi rāgo asmiṃ na vijjati
 pathavīsamacittā te tādisā samaṇā mamāti
-
+pathavīaṅgapañho paṭhamo
 
  bhante nāgasena āpassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja āpo susaṇṭhitamakampitamaluḷitasabhāvaparisuddho evameva kho mahārāja yoginā yogāvacarena kuhanalapananemittakanippesikataṃ apanetvā susaṇṭhitamakampitamaluḷitasabhāvaparisuddhācārena bhavitabbaṃ idaṃ mahārāja āpassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja āpo sītalasabhāvasaṇṭhito evameva kho mahārāja yoginā yogāvacarena sabbasattesu khantimettānuddayasampannena hitesinā anukampakena bhavitabbaṃ idaṃ mahārāja āpassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -287,7 +287,7 @@ puna  caparaṃ mahārāja āpo na kassaci ahitamupadahati evameva kho mahārāj
 varañce me ado sakka sabbabhūtānamissara
 na mano vā sarīraṃ vā maṃkate sakka kassaci
 kadāci upahaññetha etaṃ sakka varaṃ vareti
-
+āpaṅgapañho dutiyo
 
  bhante nāgasena tejassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja tejo tiṇakaṭṭhasākhāpalāsaṃ ḍahati evameva kho mahārāja yoginā yogāvacarena ye te abbhantarā vā bāhirā vā kilesā iṭṭhāniṭṭhārammaṇānubhavanā sabbe te ñāṇagginā ḍahitabbā idaṃ mahārāja tejassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja tejo niddayo akāruṇiko evameva kho mahārāja yoginā yogāvacarena sabbakilesesu kāruññānuddayā na kātabbā idaṃ mahārāja tejassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -295,7 +295,7 @@ puna caparaṃ mahārāja tejo sītaṃ paṭihanati evameva kho mahārāja yogi
 puna caparaṃ mahārāja tejo anunayappaṭighavippamutto uṇhamabhijaneti evameva kho mahārāja yoginā yogāvacarena anunayappaṭighavippamuttena tejosamena cetasā viharitabbaṃ idaṃ mahārāja tejassa catutthaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja tejo andhakāraṃ vidhamitvā  ālokaṃ dassayati evameva kho mahārāja yoginā yogāvacarena avijjandhakāraṃ vidhamitvā ñāṇālokaṃ dassayitabbaṃ idaṃ mahārāja tejassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena sakaṃ puttaṃ rāhulaṃ ovadantena  
 tejosamaṃ  rāhula bhāvanaṃ bhāvehi tejosamaṃ hi te rāhula bhāvanaṃ bhāvayato uppannā manāpāmanāpā phassā cittaṃ na pariyādāya ṭhassantīti
-
+tejaṅgapañho tatiyo
 
  bhante nāgasena vāyussa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja vāyu supupphitavanasaṇḍantaraṃ abhivāyati evameva kho mahārāja yoginā yogāvacarena vimuttivarakusumapupphitārammaṇavanantare ramitabbaṃ idaṃ mahārāja vāyussa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja vāyu dharaṇīruhapādapagaṇe mathayati evameva kho mahārāja yoginā yogāvacarena vanantaragatena saṅkhāre vicinantena kilesā mathayitabbā idaṃ mahārāja vāyussa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -304,7 +304,7 @@ puna caparaṃ mahārāja vāyu gandhaṃ anubhavati evameva kho mahārāja yogi
 puna caparaṃ mahārāja vāyu nirālayo aniketavāsī evameva kho mahārāja yoginā yogāvacarena nirālayamaniketamasanthavena sabbattha  vimuttena bhavitabbaṃ idaṃ mahārāja vāyussa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena suttanipāte 
 santhavāto bhayaṃ jātaṃ niketā jāyate rajo
 aniketamasanthavaṃ etaṃ ve munidassananti
-
+vāyuṅgapañho catuttho
 
  bhante nāgasena pabbatassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti  yathā mahārāja pabbato acalo akampito  asampavedhī evameva kho mahārāja yoginā yogāvacarena sammānane vimānane sakkāre asakkāre garukāre agarukāre yase ayase nindāya pasaṃsāya sukhe dukkhe iṭṭhāniṭṭhesu sabbattha rūpasaddagandharasaphoṭṭhabbadhammesu rajanīyesu na rajjitabbaṃ dussanīyesu na dussitabbaṃ muyhanīyesu na muyhitabbaṃ na kampitabbaṃ na calitabbaṃ pabbatena viya acalena bhavitabbaṃ idaṃ mahārāja pabbatassa paṭhamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
 selo  yathā ekaghano  vātena na samīrati
@@ -326,21 +326,21 @@ pabbataṭṭhova bhūmaṭṭhe  dhīro bāle avekkhatīti
 puna  caparaṃ mahārāja pabbato anunnato anonato evameva kho mahārāja yoginā yogāvacarena unnatāvanati na karaṇīyā idaṃ mahārāja pabbatassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja upāsikāya cūḷasubhaddāya sakasamaṇe parikittayamānāya 
 lābhena unnato loko alābhena ca onato
 lābhālābhena ekatthā  tādisā samaṇā mamāti
-
+pabbataṅgapañho pañcamo
 
  bhante nāgasena ākāsassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja ākāso sabbaso agayho evameva kho mahārāja yoginā yogāvacarena  sabbaso kilesehi agayhena bhavitabbaṃ idaṃ mahārāja ākāsassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja ākāso isitāpasabhūtadijagaṇānusañcarito evameva kho mahārāja yoginā yogāvacarena aniccaṃ dukkhaṃ anattāti saṅkhāresu mānasaṃ sañcārayitabbaṃ idaṃ mahārāja ākāsassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja ākāso santāsanīyo evameva kho mahārāja  yoginā yogāvacarena sabbabhavapaṭisandhīsu mānasaṃ ubbejayitabbaṃ assādo na kātabbo idaṃ mahārāja ākāsassa tatiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja ākāso ananto appamāṇo aparimeyyo evameva kho mahārāja yoginā yogāvacarena anantasīlena aparimitañāṇena bhavitabbaṃ idaṃ mahārāja ākāsassa catutthaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja ākāso alaggo asatto appatiṭṭhito apalibuddho evameva kho  mahārāja yoginā yogāvacarena kule gaṇe lābhe āvāse palibodhe paccaye sabbakilesesu ca sabbattha alaggena bhavitabbaṃ anāsattena appatiṭṭhitena apalibuddhena bhavitabbaṃ idaṃ mahārāja ākāsassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena sakaṃ puttaṃ rāhulaṃ ovadantena  seyyathāpi rāhula  ākāso na katthaci patiṭṭhito evameva kho tvaṃ rāhula ākāsasamaṃ bhāvanaṃ bhāvehi ākāsasamaṃ hi te rāhula bhāvanaṃ bhāvayato uppannā manāpāmanāpā phassā cittaṃ pariyādāya ṭhassantīti
-
+ākāsaṅgapañho chaṭṭho
 
  bhante nāgasena candassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja cando sukkapakkhe  udayanto uttaruttariṃ vaḍḍhati evameva kho mahārāja yoginā yogāvacarena ācārasīlaguṇavattappaṭipattiyā āgamādhigame paṭisallāne satipaṭṭhāne indriyesu guttadvāratāya bhojane mattaññutāya jāgariyānuyoge uttaruttariṃ vaḍḍhitabbaṃ idaṃ mahārāja candassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cando uḷārādhipati evameva kho mahārāja yoginā yogāvacarena uḷārena chandādhipatinā bhavitabbaṃ idaṃ mahārāja candassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cando nisāya carati evameva kho mahārāja yoginā yogāvacarena pavivittena bhavitabbaṃ idaṃ mahārāja candassa tatiyaṃ  aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cando vimānaketu evameva kho mahārāja yoginā yogāvacarena sīlaketunā bhavitabbaṃ idaṃ mahārāja candassa catutthaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cando āyācitapatthito udeti evameva kho mahārāja yoginā  yogāvacarena āyācitapatthitena kulāni upasaṅkamitabbāni idaṃ mahārāja candassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare candūpamā bhikkhave kulāni upasaṅkamatha apakasseva kāyaṃ apakassa cittaṃ niccanavakā kulesu appagabbhāti 
-
+candaṅgapañho sattamo
 
  bhante nāgasena sūriyassa  satta aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni satta aṅgāni gahetabbānīti yathā mahārāja sūriyo sabbaṃ udakaṃ parisoseti evameva kho mahārāja yoginā yogāvacarena sabbakilesā anavasesaṃ parisosetabbā idaṃ mahārāja sūriyassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja sūriyo tamandhakāraṃ vidhamati evameva kho mahārāja yoginā yogāvacarena sabbaṃ rāgatamaṃ dosatamaṃ mohatamaṃ mānatamaṃ diṭṭhitamaṃ kilesatamaṃ sabbaṃ duccaritatamaṃ vidhamayitabbaṃ idaṃ mahārāja sūriyassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -353,14 +353,14 @@ yathāpi sūriyo udayanto rūpaṃ dasseti pāṇinaṃ
 suciñca asuciñcāpi kalyāṇañcāpi pāpakaṃ
 tathā  bhikkhu dhammadharo avijjāpihitaṃ janaṃ
 pathaṃ dasseti vividhaṃ ādiccovudayaṃ yathāti
-
+sūriyaṅgapañho aṭṭhamo
 
  bhante nāgasena sakkassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja sakko ekantasukhasamappito evameva kho mahārāja yoginā yogāvacarena ekantapavivekasukhābhiratena bhavitabbaṃ idaṃ mahārāja sakkassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja sakko deve disvā paggaṇhāti hāsamabhijaneti evameva kho mahārāja yoginā yogāvacarena kusalesu dhammesu alīnamatanditaṃ santaṃ mānasaṃ paggahetabbaṃ hāsamabhijanetabbaṃ uṭṭhahitabbaṃ ghaṭitabbaṃ vāyamitabbaṃ  idaṃ mahārāja sakkassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja sakkassa anabhirati nuppajjati evameva kho mahārāja yoginā yogāvacarena suññāgāre anabhirati na uppādetabbā idaṃ mahārāja sakkassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena subhūtinā 
 sāsane te mahāvīra yato pabbajito ahaṃ
 nābhijānāmi uppannaṃ mānasaṃ kāmasaṃhitanti
-
+sakkaṅgapañho navamo
 
  bhante nāgasena cakkavattissa cattāri aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni cattāri aṅgāni gahetabbānīti yathā mahārāja  cakkavattī catūhi saṅgahavatthūhi janaṃ saṅgaṇhāti evameva kho mahārāja yoginā yogāvacarena catassannaṃ parisānaṃ mānasaṃ saṅgahetabbaṃ anuggahetabbaṃ sampahaṃsetabbaṃ idaṃ mahārāja cakkavattissa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cakkavattissa vijite corā na uṭṭhahanti evameva kho mahārāja yoginā yogāvacarena kāmarāgabyāpādavihiṃsāvitakkā na uppādetabbā idaṃ mahārāja cakkavattissa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
@@ -370,8 +370,8 @@ puna caparaṃ mahārāja cakkavattī divase divase samuddapariyantaṃ mahāpat
 kathambhūtassa me rattindivā vītivattantīti  pabbajitena abhiṇhaṃ paccavekkhitabbanti
 puna caparaṃ mahārāja cakkavattissa abbhantarabāhirārakkhā susaṃvihitā hoti evameva kho mahārāja yoginā yogāvacarena abbhantarānaṃ bāhirānaṃ kilesānaṃ ārakkhāya satidovāriko ṭhapetabbo idaṃ  mahārāja cakkavattissa catutthaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
 satidovāriko bhikkhave ariyasāvako akusalaṃ pajahati kusalaṃ bhāveti sāvajjaṃ pajahati anavajjaṃ bhāveti suddhamattānaṃ pariharatīti
-
-
+cakkavattiṅgapañho dasamo
+pathavīvaggo tatiyo
 tassuddānaṃ 
 pathavī āpo ca tejo ca vāyo ca pabbatena ca
 ākāso candasūriyo ca sakko ca cakkavattināti
@@ -380,28 +380,28 @@ pathavī āpo ca tejo ca vāyo ca pabbatena ca
  bhante  nāgasena upacikāya ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja upacikā upari chadanaṃ katvā attānaṃ pidahitvā gocarāya carati evameva kho mahārāja yoginā yogāvacarena sīlasaṃvarachadanaṃ katvā mānasaṃ pidahitvā piṇḍāya caritabbaṃ sīlasaṃvarachadanena kho mahārāja yogī yogāvacaro sabbabhayasamatikkanto hoti idaṃ mahārāja upacikāya ekaṃ aṅgaṃ  gahetabbaṃ bhāsitampetaṃ mahārāja therena upasenena vaṅgantaputtena 
 sīlasaṃvarachadanaṃ yogī katvāna mānasaṃ
 anupalitto lokena bhayā ca parimuccatīti
-
+upacikaṅgapañho paṭhamo
 
  bhante nāgasena biḷārassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja biḷāro guhāgatopi susiragatopi hammiyantaragatopi undūraṃ yeva pariyesati evameva kho mahārāja yoginā yogāvacarena gāmagatenāpi araññagatenāpi rukkhamūlagatenāpi suññāgāragatenāpi satataṃ samitaṃ appamattena kāyagatāsatibhojanaṃ yeva pariyesitabbaṃ idaṃ mahārāja biḷārassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja biḷāro āsanne yeva gocaraṃ pariyesati evameva kho mahārāja yoginā yogāvacarena imesu yeva pañcasu upādānakkhandhesu udayabbayānupassinā viharitabbaṃ iti rūpaṃ iti rūpassa samudayo iti rūpassa atthaṅgamo iti vedanā iti vedanāya samudayo iti vedanāya atthaṅgamo iti saññā iti saññāya samudayo  iti saññāya atthaṅgamo iti saṅkhārā iti saṅkhārānaṃ samudayo iti saṅkhārānaṃ atthaṅgamo iti viññāṇaṃ iti viññāṇassa samudayo iti viññāṇassa atthaṅgamoti idaṃ mahārāja biḷārassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
 na ito dūre bhavitabbaṃ bhavaggaṃ kiṃ karissati
 paccuppannamhi vohāre sake kāyamhi vindathāti
-
+biḷāraṅgapañho dutiyo
 
  bhante nāgasena undūrassa  ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja undūro itocito ca vicaranto āhārūpāsīsako yeva carati evameva kho mahārāja  yoginā yogāvacarena itocito ca vicarantena yoniso manasikārūpāsīsakeneva bhavitabbaṃ idaṃ mahārāja undūrassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena upasenena vaṅgantaputtena 
 dhammāsīsaṃ  karitvāna viharanto vipassako
 anolīno viharati upasanto sadā satoti
-
+undūraṅgapañho tatiyo
 
  bhante  nāgasena vicchikassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja vicchiko naṅgulāvudho naṅgulaṃ ussāpetvā carati evameva kho mahārāja yoginā yogāvacarena ñāṇāvudhena bhavitabbaṃ ñāṇaṃ ussāpetvā viharitabbaṃ  idaṃ mahārāja vicchikassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena upasenena vaṅgantaputtena 
 ñāṇakhaggaṃ gahetvāna viharanto vipassako
 parimuccati sabbabhayā duppasaho ca so bhaveti
-
+vicchikaṅgapañho catuttho
 
  bhante nāgasena nakulassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja nakulo uragamupagacchanto bhesajjena kāyaṃ paribhāvetvā uragamupagacchati gahetuṃ evameva kho mahārāja yoginā yogāvacarena kodhāghātabahulaṃ kalahaviggahavivādavirodhābhibhūtaṃ lokamupagacchantena mettābhesajjena mānasaṃ anulimpitabbaṃ idaṃ mahārāja nakulassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 tasmā sakaṃ paresampi kātabbā mettabhāvanā
 mettacittena pharitabbaṃ etaṃ buddhāna sāsananti
-
+nakulaṅgapañho pañcamo
 
  bhante  nāgasena jarasiṅgālassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja jarasiṅgālo bhojanaṃ paṭilabhitvā ajigucchamāno yāvadatthaṃ āharayati evameva kho mahārāja yoginā yogāvacarena bhojanaṃ paṭilabhitvā ajigucchamānena sarīrayāpanamattameva paribhuñjitabbaṃ idaṃ mahārāja jarasiṅgālassa paṭhamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena mahākassapena 
 senāsanamhā oruyha gāmaṃ piṇḍāya pāvisiṃ
@@ -414,7 +414,7 @@ puna caparaṃ mahārāja jarasiṅgālo bhojanaṃ paṭilabhitvā na vicināti
 lūkhenapi ca santusse nāññaṃ patthe rasaṃ bahuṃ
 rasesu anugiddhassa jhāne na ramate  mano
 itarītarena santuṭṭho  sāmaññaṃ paripūratīti
-
+jarasiṅgālaṅgapañho chaṭṭho
 
  bhante  nāgasena migassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja migo divā araññe carati rattiṃ abbhokāse evameva kho mahārāja yoginā yogāvacarena divā araññe viharitabbaṃ rattiṃ abbhokāse idaṃ mahārāja migassa  paṭhamaṃ aṅgaṃ gahetabbaṃ
 bhāsitampetaṃ mahārāja bhagavatā devātidevena lomahaṃsanapariyāye 
@@ -423,7 +423,7 @@ puna  caparaṃ mahārāja migo sattimhi vā sare vā opatante vañceti  palāya
 puna caparaṃ mahārāja migo manusse disvā yena vā tena vā palāyati mā maṃ te addasaṃsūti evameva kho mahārāja yoginā yogāvacarena bhaṇḍanakalahaviggahavivādasīle dussīle kusīte saṅgaṇikārāme disvā yena vā tena vā palāyitabbaṃ mā maṃ te addasaṃsu ahañca te mā addasanti idaṃ mahārāja migassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 mā me kadāci pāpiccho kusīto hīnavīriyo
 appassuto anācāro sammato  ahu katthacīti
-
+migaṅgapañho sattamo
 
  bhante  nāgasena gorūpassa cattāri aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni cattāri aṅgāni gahetabbānīti yathā mahārāja gorūpo sakaṃ gehaṃ na vijahati evameva kho mahārāja yoginā yogāvacarena sako kāyo na vijahitabbo aniccucchādanaparimaddanabhedanavikiraṇaviddhaṃsanadhammo ayaṃ kāyoti idaṃ mahārāja gorūpassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja gorūpo ādinnadhuro sukhadukkhena dhuraṃ vahati evameva kho mahārāja yoginā yogāvacarena ādinnabrahmacariyena  sukhadukkhena yāva jīvitapariyādānā āpāṇakoṭikaṃ brahmacariyaṃ caritabbaṃ idaṃ mahārāja gorūpassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -433,13 +433,13 @@ tadahu pabbajito santo jātiyā sattavassiko
 sopi maṃ anusāseyya sampaṭicchāmi matthake 
 tibbaṃ chandañca pemañca tasmiṃ disvā upaṭṭhape
 ṭhapeyyācariyaṭṭhāne sakkacca naṃ punappunanti
-
+gorūpaṅgapañho aṭṭhamo
 
  bhante  nāgasena varāhassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja varāho santattakaṭhite  gimhasamaye sampatte udakaṃ upagacchati evameva kho mahārāja yoginā yogāvacarena dosena citte āluḷitakhalitavibbhantasantatte sītalāmatapaṇītamettābhāvanaṃ upagantabbaṃ idaṃ mahārāja varāhassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja varāho cikkhallamudakamupagantvā nāsikāya pathaviṃ khaṇitvā doṇiṃ katvā doṇikāya sayati evameva kho mahārāja yoginā yogāvacarena  mānase kāyaṃ nikkhipitvā ārammaṇantaragatena sayitabbaṃ idaṃ mahārāja varāhassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena piṇḍolabhāradvājena 
 kāye  sabhāvaṃ disvāna vicinitvā vipassako
 ekākiyo adutiyo seti ārammaṇantareti
-
+varāhaṅgapañho navamo
 
  bhante  nāgasena hatthissa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja hatthī nāma caranto yeva pathaviṃ dāleti evameva kho mahārāja yoginā yogāvacarena kāyaṃ sammasamāneneva sabbe kilesā dāletabbā idaṃ mahārāja hatthissa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja hatthī sabbakāyeneva apaloketi ujukaṃ yeva pekkhati na disāvidisā viloketi evameva kho mahārāja yoginā yogāvacarena sabbakāyena apalokinā  bhavitabbaṃ na disāvidisā viloketabbā na uddhaṃ ulloketabbaṃ na adho oloketabbaṃ yugamattapekkhinā bhavitabbaṃ idaṃ mahārāja hatthissa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -449,7 +449,7 @@ puna caparaṃ mahārāja hatthī sato pādaṃ uddharati sato pādaṃ nikkhipa
 kāyena saṃvaro sādhu sādhu vācāya saṃvaro
 manasā saṃvaro sādhu sādhu sabbattha saṃvaro
 sabbattha saṃvuto lajjī rakkhitoti pavuccatīti
-
+hatthiṅgapañho dasamoupacikāvaggo catuttho
 tassuddānaṃ  
 upacikā biḷāro ca undūro vicchikena ca
 nakulo siṅgālo migo
@@ -464,35 +464,35 @@ puna caparaṃ mahārāja sīho sapadānabhakkho yasmiṃ okāse nipatati tatthe
 puna caparaṃ mahārāja sīho asannidhibhakkho sakiṃ gocaraṃ bhakkhayitvā na puna taṃ upagacchati evameva kho mahārāja yoginā yogāvacarena asannidhikāraparibhoginā  bhavitabbaṃ idaṃ mahārāja sīhassa chaṭṭhaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ  mahārāja sīho bhojanaṃ aladdhā na paritassati laddhāpi bhojanaṃ agadhito  amucchito anajjhosanno paribhuñjati evameva kho mahārāja yoginā yogāvacarena bhojanaṃ aladdhā na paritassitabbaṃ laddhāpi bhojanaṃ agadhitena amucchitena anajjhosannena ādīnavadassāvinā nissaraṇapaññena paribhuñjitabbaṃ idaṃ mahārāja sīhassa sattamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare theraṃ mahākassapaṃ parikittayamānena 
 santuṭṭhoyaṃ bhikkhave kassapo itarītarena piṇḍapātena itarītarapiṇḍapātasantuṭṭhiyā ca vaṇṇavādī na ca piṇḍapātahetu anesanaṃ appatirūpaṃ āpajjati aladdhā ca piṇḍapātaṃ na paritassati laddhā ca piṇḍapātaṃ agadhito amucchito anajjhosanno ādīnavadassāvī nissaraṇapañño paribhuñjatīti
-
+sīhaṅgapañho paṭhamo
 
  bhante nāgasena cakkavākassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja cakkavāko yāva jīvitapariyādānā dutiyikaṃ na vijahati evameva kho mahārāja yoginā yogāvacarena yāva jīvitapariyādānā yoniso manasikāro na vijahitabbo idaṃ mahārāja cakkavākassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja cakkavāko sevālapaṇakabhakkho tena ca santuṭṭhiṃ āpajjati tāya ca santuṭṭhiyā balena ca vaṇṇena ca na parihāyati evameva kho mahārāja yoginā yogāvacarena yathālābhasantoso karaṇīyo yathālābhasantuṭṭho kho mahārāja yogī yogāvacaro na parihāyati sīlena na parihāyati samādhinā na  parihāyati paññāya na parihāyati vimuttiyā na parihāyati vimuttiñāṇadassanena na parihāyati sabbehi kusalehi dhammehi idaṃ mahārāja cakkavākassa  dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja cakkavāko pāṇe na viheṭhayati evameva kho mahārāja yoginā yogāvacarena nihitadaṇḍena nihitasatthena lajjinā dayāpannena sabbapāṇabhūtahitānukampinā bhavitabbaṃ idaṃ mahārāja cakkavākassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsatampetaṃ mahārāja bhagavatā devātidevena cakkavākajātake 
 yo na hanti na ghāteti na jināti na jāpaye
 mettaṃso  sabbabhūtesu veraṃ tassa na kenacīti
-
+cakkavākaṅgapañho dutiyo
 
  bhante nāgasena peṇāhikāya dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja peṇāhikā sakapatimhi usūyāya chāpake na posayati evameva kho mahārāja yoginā yogāvacarena sakamane  kilese uppanne usūyāyitabbaṃ satipaṭṭhānena sammāsaṃvarasusire pakkhipitvā manodvāre kāyagatāsati bhāvetabbā idaṃ mahārāja peṇāhikāya paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja peṇāhikā pavane divasaṃ gocaraṃ caritvā sāyaṃ pakkhigaṇaṃ upeti attano guttiyā evameva kho mahārāja yoginā yogāvacarena ekakena pavivekaṃ sevitabbaṃ saṃyojanaparimuttiyā tatra ratiṃ alabhamānena upavādabhayaparirakkhaṇāya saṅghaṃ osaritvā  saṅgharakkhitena vasitabbaṃ idaṃ mahārāja peṇāhikāya dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja brahmunā sahampatinā bhagavato santike 
 sevetha  pantāni senāsanāni careyya saṃyojanavippamokkhā
 sace ratiṃ nādhigaccheyya tattha saṅghe vase rakkhitatto satīmāti
-
+peṇāhikaṅgapañho tatiyo
 
  bhante  nāgasena gharakapotassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja gharakapoto paragehe vasamāno na tesaṃ kiñci bhaṇḍassa nimittaṃ gaṇhāti majjhatto vasati saññābahulo evameva kho mahārāja yoginā yogāvacarena parakulaṃ upagatena tasmiṃ kule itthīnaṃ vā purisānaṃ vā mañce vā pīṭhe vā vatthe vā alaṅkāre vā upabhoge vā paribhoge vā bhojanavikatīsu vā na nimittaṃ gahetabbaṃ majjhattena bhavitabbaṃ samaṇasaññā paccupaṭṭhapetabbā idaṃ mahārāja gharakapotassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena cūḷanāradajātake 
 pavisitvā parakulaṃ pānatthaṃ bhojanāya vā 
 mitaṃ khāde mitaṃ bhuñje na ca rūpe manaṃ kareti
-
+gharakapotaṅgapañho catuttho
 
  bhante nāgasena ulūkassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja ulūko kākehi paṭiviruddho rattiṃ kākasaṅghaṃ gantvā bahūpi kāke hanati evameva kho mahārāja yoginā yogāvacarena aññāṇena  paṭiviruddho kātabbo ekena raho nisīditvā aññāṇaṃ sampamadditabbaṃ mūlato chinditabbaṃ idaṃ mahārāja ulūkassa paṭhamaṃ gahetabbaṃ
 puna  caparaṃ mahārāja ulūko suppaṭisallīno hoti evameva kho mahārāja yoginā yogāvacarena paṭisallānārāmena bhavitabbaṃ paṭisallānaratena idaṃ mahārāja ulūkassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare 
 idha bhikkhave bhikkhu paṭisallānārāmo paṭisallānarato idaṃ dukkhanti yathābhūtaṃ pajānāti ayaṃ dukkhasamudayoti yathā bhūthaṃ pajānāti  ayaṃ dukkhanirodhoti yathābhūtaṃ pajānāti ayaṃ dukkhanirodhagāminī paṭipadāti yathābhūtaṃ pajānātīti
-
+ulūkaṅgapañho pañcamo
 
  bhante nāgasena satapattassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja satapatto ravitvā paresaṃ khemaṃ vā bhayaṃ vā ācikkhati evameva kho mahārāja yoginā yogāvacarena paresaṃ dhammaṃ desayamānena vinipātaṃ bhayato dassayitabbaṃ nibbānaṃ khemato dassayitabbaṃ idaṃ mahārāja satapattassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena piṇḍolabhāradvājena 
 niraye bhayasantāsaṃ nibbāne vipulaṃ sukhaṃ
 ubhayānetānatthāni dassetabbāni yogināti
-
+satapattaṅgapañho chaṭṭho
 
  bhante  nāgasena vaggulissa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja vagguli gehaṃ pavisitvā vicaritvā nikkhamati na tattha palibuddhati evameva kho mahārāja yoginā yogāvacarena gāmaṃ piṇḍāya pavisitvā sapadānaṃ vicaritvā  paṭiladdhalābhena khippameva nikkhamitabbaṃ na tattha palibuddhena bhavitabbaṃ idaṃ mahārāja vaggulissa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja vagguli paragehe vasamāno na tesaṃ parihāniṃ karoti evameva kho mahārāja yoginā yogāvacarena kulāni upasaṅkamitvā atiyācanāya vā viññattibahulatāya vā kāyadosabahulatāya vā atibhāṇitāya vā samānasukhadukkhatāya vā na tesaṃ koci vippaṭisāro karaṇīyo napi tesaṃ mūlakammaṃ parihāpetabbaṃ sabbathā vaḍḍhi yeva icchitabbā idaṃ mahārāja vaggulissa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā  devātidevena dīghanikāyavare lakkhaṇasuttante 
@@ -500,27 +500,27 @@ suddhāya sīlena sutena buddhiyā cāgena dhammena bahūhi sādhuhi
 dhanena dhaññena ca khettavatthunā puttehi dārehi catuppadehi ca
 ñātīhi mittehi ca bandhavehi balena vaṇṇena sukhena cūbhayaṃ
 kathaṃ na hāyeyyuṃ pareti icchati atthasamiddhiñca panābhikaṅkhatīti
-
+vagguliṅgapañho sattamo
 
  bhante nāgasena jalūkāya ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja jalūkā yattha allīyati tattheva daḷhaṃ allīyitvā ruhiraṃ pivati evameva kho mahārāja yoginā yogāvacarena yasmiṃ ārammaṇe  cittaṃ allīyati taṃ ārammaṇaṃ vaṇṇato ca saṇṭhānato ca disato ca okāsato ca paricchedato ca liṅgato ca nimittato ca daḷhaṃ patiṭṭhāpetvā tenevārammaṇena vimuttirasamasecanakaṃ pātabbaṃ idaṃ mahārāja jalūkāya ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena anuruddhena 
 parisuddhena  cittena ārammaṇe patiṭṭhāya
 tena cittena pātabbaṃ vimuttirasamasecananti
-
+jalūkaṅgapañho aṭṭhamo
 
  bhante nāgasena sappassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja sappo urena gacchati evameva kho mahārāja yoginā yogāvacarena paññāya caritabbaṃ paññāya caramānassa kho mahārāja yogino cittaṃ ñāye carati vilakkhaṇaṃ vivajjeti salakkhaṇaṃ bhāveti idaṃ mahārāja  sappassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja sappo caramāno osadhaṃ parivajjento carati evameva kho mahārāja yoginā yogāvacarena duccaritaṃ parivajjentena caritabbaṃ idaṃ mahārāja sappassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja sappo manusse disvā tappati  socati cintayati evameva kho mahārāja yoginā yogāvacarena kuvitakke vitakketvā aratiṃ uppādayitvā tappitabbaṃ socitabbaṃ cintayitabbaṃ pamādena me divaso vītināmito na so puna sakkā laddhunti idaṃ mahārāja sappassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā bhallāṭiyajātake dvinnaṃ kinnarānaṃ 
 mayekarattaṃ  vippavasimha ludda akāmakā aññamaññaṃ sarantā
 tamekarattaṃ  anutappamānā socāma sā ratti puna nahessatīti
-
+sappaṅgapañho navamo
 
  bhante  nāgasena ajagarassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja ajagaro mahatimahākāyo bahūpi divase ūnūdaro dīnataro kucchipūraṃ āhāraṃ na labhati aparipuṇṇo yeva yāvadeva sarīrayāpanamattakena yāpeti evameva kho mahārāja yogino yogāvacarassa bhikkhācariyappasutassa parapiṇḍamupagatassa paradinnappāṭikaṅkhissa sayaṃgāhappaṭiviratassa dullabhaṃ udaraparipūraṃ āhāraṃ api ca atthavasikena kulaputtena cattāro pañca ālope abhuñjitvā avasesaṃ udakena paripūretabbaṃ idaṃ mahārāja ajagarassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 allaṃ  sukkhaṃ vā bhuñjanto na bāḷhaṃ suhito siyā
 ūnūdaro mitāhāro sato bhikkhu paribbaje
 cattāro pañca ālope abhutvā udakaṃ pive
 alaṃ phāsu vihārāya pahitattassa bhikkhunoti
-
-
+ajagaraṅgapañho dasamo
+sīhavaggo pañcamo
 tassuddānaṃ 
 kesarī cakkavāko ca peṇāhi gharakapotako
 ulūko satapatto ca vagguli ca jalūpikā
@@ -530,17 +530,17 @@ sappo ajagaro ceva vaggo tena pavuccatīti
  bhante  nāgasena panthamakkaṭakassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja panthamakkaṭako panthe makkaṭajālavitānaṃ katvā yadi tattha jālake laggati kimi vā makkhikā vā paṭaṅgo vā taṃ gahetvā bhakkhayati evameva kho mahārāja yoginā yogāvacarena chasu dvāresu satipaṭṭhānajālavitānaṃ katvā yadi tattha kilesamakkhikā bajjhanti tattheva ghātetabbā idaṃ mahārāja panthamakkaṭakassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena anuruddhena 
 cittaṃ niyame chasu dvāresu satipaṭṭhānavaruttame
 kilesā tattha laggā ce hantabbā te vipassināti
-
+panthamakkaṭakaṅgapañho paṭhamo
 
  bhante nāgasena thanassitadārakassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti  yathā mahārāja thanassitadārako sadatthe laggati khīratthiko rodati evameva kho mahārāja yoginā yogāvacarena sadatthe laggitabbaṃ sabbattha dhammañāṇena bhavitabbaṃ uddese paripucchāya sammappayoge paviveke garusaṃvāse kalyāṇamittasevane idaṃ mahārāja thanassitadārakassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena dīghanikāyavare parinibbānasuttante 
 iṅghaṃ  tumhe ānanda sāratthe  ghaṭatha sāratthe anuyuñjatha
 sāratthe appamattā ātāpino pahitattā viharathāti
-
+thanassitadārakaṅgapañho dutiyo
 
  bhante  nāgasena cittakadharakummassa  ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja cittakadharakummo udakabhayā udakaṃ parivajjetvā vicarati tāya ca pana udakaṃ parivajjanāya āyunā na parihāyati evameva kho mahārāja yoginā yogāvacarena pamāde bhayadassāvinā bhavitabbaṃ appamāde guṇavisesadassāvinā tāya ca pana bhayadassāvitāya na parihāyati sāmaññā nibbānassa santike upeti  idaṃ mahārāja cittakadharakummassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena dhammapade 
 appamādarato bhikkhu pamāde bhayadassi vā
 abhabbo parihānāya nibbānasseva santiketi
-
+cittakadharakummaṅgapañho catuttho
 
  bhante nāgasena pavanassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja pavanaṃ nāma asucijanaṃ paṭicchādeti evameva kho mahārāja yoginā yogāvacarena paresaṃ aparaddhaṃ khalitaṃ paṭicchādetabbaṃ na vivaritabbaṃ idaṃ mahārāja pavanassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja pavanaṃ suññaṃ pacurajanehi evameva kho mahārāja yoginā yogāvacarena  rāgadosamohamānadiṭṭhijālehi sabbehi ca kilesehi suññena bhavitabbaṃ idaṃ mahārāja pavanassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -549,14 +549,14 @@ puna  caparaṃ mahārāja pavanaṃ santaṃ parisuddhaṃ evameva kho mahārā
 puna caparaṃ mahārāja pavanaṃ ariyajanasaṃsevitaṃ evameva kho mahārāja yoginā yogāvacarena ariyajanasaṃsevitena bhavitabbaṃ idaṃ mahārāja pavanassa pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena saṃyuttanikāyavare 
 pavivittehi ariyehi pahitattehi jhāyibhi
 niccaṃ āraddhavīriyehi paṇḍitehi sahāvaseti
-
+pavanaṅgapañho catuttho
 
  bhante nāgasena rukkhassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja rukkho nāma pupphaphaladharo evameva kho mahārāja yoginā yogāvacarena vimuttipupphasāmaññaphaladhārinā bhavitabbaṃ idaṃ mahārāja rukkhassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja rukkho upagatānamanuppaviṭṭhānaṃ janānaṃ chāyaṃ deti evameva kho  mahārāja yoginā yogāvacarena upagatānamanuppaviṭṭhānaṃ puggalānaṃ āmisappaṭisandhārena vā dhammappaṭisanthārena vā paṭisantharitabbaṃ idaṃ mahārāja rukkhassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja rukkho chāyāvemattaṃ  na karoti evameva kho mahārāja yoginā yogāvacarena sabbasattesu vemattatā na kātabbā coravadhakapaccatthikesupi attanipi samasamā mettābhāvanā kātabbā kinti ime sattā averā abyāpajjā  anīghā sukhī attānaṃ parihareyyunti idaṃ mahārāja rukkhassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 vadhake  devadattamhi core aṅgulimālake
 dhanapāle rāhule ca sabbattha samako munīti
-
+rukkhaṅgapañho pañcamo
 
  bhante nāgasena meghassa pañca aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni pañca aṅgāni gahetabbānīti yathā mahārāja megho uppannaṃ rajojallaṃ vūpasameti evameva kho mahārāja yoginā yogāvacarena uppannaṃ kilesarajojallaṃ vūpasametabbaṃ idaṃ mahārāja meghassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja megho pathaviyā uṇhaṃ nibbāpeti evameva kho mahārāja yoginā yogāvacarena mettābhāvanāya sadevako loko nibbāpetabbo idaṃ mahārāja meghassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -565,14 +565,14 @@ puna  caparaṃ mahārāja megho ututo samuṭṭhahitvā dharaṇitalaruhe ti�
 puna caparaṃ  mahārāja megho vassamāno naditaḷākapokkharaṇiyo kandarapadarasarasobbhaudapānāni ca paripūreti udakadhārāhi evameva kho mahārāja yoginā yogāvacarena āgamapariyattiyā dhammameghamabhivassayitvā adhigamakāmānaṃ mānasaṃ paripūrayitabbaṃ idaṃ mahārāja meghassa  pañcamaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena sāriputtena dhammasenāpatinā 
 bodhaneyyaṃ janaṃ disvā satasahassepi yojane
 khaṇena upagantvāna bodheti taṃ mahāmunīti
-
+meghaṅgapañho chaṭṭho
 
  bhante nāgasena maṇiratanassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja maṇiratanaṃ ekantaparisuddhaṃ evameva kho mahārāja yoginā yogāvacarena ekantaparisuddhājīvena bhavitabbaṃ idaṃ mahārāja maṇiratanassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja maṇiratanaṃ na kenaci saddhiṃ missīyati evameva kho mahārāja yoginā yogāvacarena pāpehi pāpasahāyehi saddhiṃ na missitabbaṃ idaṃ mahārāja maṇiratanassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja maṇiratanaṃ jātiratanehi yojīyati evameva kho mahārāja yoginā  yogāvacarena uttamavarajātimantehi saddhiṃ saṃvasitabbaṃ paṭipannakaphalaṭṭhasekkhaphalasamaṅgīhi sotāpannasakadāgāmianāgāmiarahantatevijjachaḷabhiññasamaṇamaṇiratanehi saddhiṃ saṃvasitabbaṃ idaṃ mahārāja maṇiratanassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena suttanipāte 
 suddhā suddhehi saṃvāsaṃ kappayavho patissatā
 tato samaggā nipakā dukkhassantaṃ karissathāti
-
+maṇiratanapañho sattamo
 
  bhante  nāgasena māgavikassa cattāri aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni cattāri aṅgāni gahetabbānīti yathā mahārāja māgaviko  appamiddho hoti evameva kho mahārāja yoginā yogāvacarena appamiddhena bhavitabbaṃ idaṃ mahārāja māgavikassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja māgaviko migesu yeva cittaṃ upanibandhati evameva kho mahārāja yoginā yogāvacarena ārammaṇesu yeva cittaṃ upanibandhitabbaṃ idaṃ mahārāja māgavikassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -580,13 +580,13 @@ puna caparaṃ mahārāja māgaviko kālaṃ kammassa jānāti evameva kho mahā
 puna caparaṃ mahārāja māgaviko migaṃ disvā hāsamabhijaneti imaṃ lacchāmīti evameva kho mahārāja yoginā yogāvacarena ārammaṇe abhiramitabbaṃ hāsamabhijanetabbaṃ uttariṃ visesamadhigacchissāmīti idaṃ mahārāja māgavikassa catutthaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena mogharājena 
 ārammaṇe  labhitvāna pahitattena bhikkhunā
 bhiyyo hāso janetabbo adhigacchissāmi uttarinti
-
+māgavikaṅgapañho aṭṭhamo
 
  bhante nāgasena bāḷisikassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja bāḷisiko baḷisena macche uddharati evameva kho mahārāja yoginā yogāvacarena ñāṇena uttariṃ sāmaññaphalāni uddharitabbāni idaṃ mahārāja bāḷisikassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja bāḷisiko parittakaṃ vadhitvā vipulaṃ lābhamadhigacchati evameva kho mahārāja yoginā  yogāvacarena parittalokāmisamattaṃ pariccajitabbaṃ lokāmisamattaṃ mahārāja pariccajitvā yogī yogāvacaro vipulaṃ sāmaññaphalaṃ adhigacchati idaṃ mahārāja bāḷisikassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena rāhulena 
 suññatañcānimittañca vimokkhañcāppaṇihitaṃ
 caturo phale chaḷabhiññā cajitvā lokāmisaṃ labheti
-
+bāḷisikaṅgapañho navamo
 
  bhante nāgasena tacchakassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja tacchako kāḷasuttaṃ anulometvā rukkhaṃ tacchati evameva kho mahārāja yoginā yogāvacarena jinasāsanamanulomayitvā sīlapathaviyaṃ  patiṭṭhahitvā saddhāhatthena paññāvāsiṃ gahetvā kilesā tacchetabbā idaṃ mahārāja tacchakassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja tacchako phegguṃ apaharitvā sāramādiyati evameva kho mahārāja yoginā yogāvacarena sassataṃ ucchedaṃ taṃ jīvaṃ taṃ sarīraṃ aññaṃ jīvaṃ aññaṃ sarīraṃ taduttamaṃ aññaduttamaṃ akatamabhabbaṃ apurisakāraṃ abrahmacariyavāsaṃ sattavināsaṃ navasattapātubhāvaṃ saṅkhārasassatabhāvaṃ yo karoti so paṭisaṃvedeti añño karoti añño paṭisaṃvedeti kammaphaladassanā ca kiriyaphaladiṭṭhi ca iti evarūpāni ceva aññāni ca vivādapathāni apanetvā saṅkhārānaṃ sabhāvaṃ paramasuññataṃ nirīhanijjīvataṃ  accantaṃ suññataṃ ādiyitabbaṃ idaṃ mahārāja tacchakassa dutiyaṃ  aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena suttanipāte 
@@ -595,8 +595,8 @@ tato palāpe vāhetha assamaṇe samaṇamānine
 niddhamitvāna pāpicche pāpaācāragocare
 suddhā suddhehi saṃvāsaṃ kappayavho patissatā
 tato samaggā nipakā dukkhassantaṃ karissathāti
-
-
+tacchakaṅgapañho dasamo
+makkaṭakavaggo chaṭṭho
 tassuddānaṃ 
 makkaṭo dārako kummo vanaṃ rukkho ca pañcamo
 megho maṇi māgaviko bāḷisī tacchakena cāti
@@ -605,13 +605,13 @@ megho maṇi māgaviko bāḷisī tacchakena cāti
  bhante  nāgasena kumbhassa ekaṃ aṅgaṃ gahetabbanti yaṃ vadesi katamaṃ taṃ ekaṃ aṅgaṃ gahetabbanti yathā mahārāja kumbho sampuṇṇo na saṇati evameva kho mahārāja yoginā yogāvacarena āgame adhigame pariyattiyaṃ sāmaññe pāramiṃ patvā na saṇitabbaṃ na tena māno karaṇīyo na dabbo  dassetabbo nihatamānena nihatadabbena bhavitabbaṃ ujukena amukharena avikatthinā idaṃ mahārāja kumbhassa ekaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena suttanipāte 
 yadūnakaṃ taṃ saṇati yaṃ pūraṃ santameva taṃ
 aḍḍhakumbhūpamo  bālo rahado pūrova paṇḍitoti
-
+kumbhaṅgapañho paṭhamo
 
  bhante nāgasena kāḷāyasassa  dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti  yathā mahārāja kāḷāyaso supīto  vamati  evameva kho mahārāja yogino yogāvacarassa mānasaṃ yoniso manasikārena  apītaṃ vamati idaṃ mahārāja kāḷāyasassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja kāḷāyaso sakiṃ pītaṃ udakaṃ na vamati evameva kho mahārāja  yoginā yogāvacarena yo sakiṃ uppanno pasādo na puna so vamitabbo uḷāro so bhagavā sammāsambuddho svākkhāto dhammo suppaṭipanno saṅghoti rūpaṃ aniccaṃ vedanā aniccā saññā aniccā saṅkhārā aniccā viññāṇaṃ aniccanti yaṃ sakiṃ uppannaṃ ñāṇaṃ na puna taṃ vamitabbaṃ idaṃ  mahārāja kāḷāyasassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
 dassanamhi parisodhito  naro ariyadhamme niyato visesagū
 nappavedhati anekabhāgaso sabbaso ca mukhabhāvameva soti
-
+kāḷāyasaṅgapañho dutiyo
 
  bhante nāgasena chattassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja chattaṃ upari muddhani carati evameva kho mahārāja yoginā yogāvacarena kilesānaṃ upari muddhani carena bhavitabbaṃ idaṃ mahārāja chattassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja chattaṃ muddhanupatthambhaṃ hoti evameva kho mahārāja yoginā yogāvacarena yoniso manasikārupatthambhena bhavitabbaṃ idaṃ mahārāja chattassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -620,27 +620,27 @@ yathāpi chattaṃ vipulaṃ acchiddaṃ thirasaṃhitaṃ
 vātātapaṃ nivāreti mahatī meghavuṭṭhiyo
 tatheva  buddhaputtopi sīlachattadharo suci
 kilesavuṭṭhiṃ vāreti santāpatividhaggayoti
-
+chattaṅgapañho tatiyo
 
  bhante  nāgasena khettassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja khettaṃ mātikāsampannaṃ hoti evameva kho mahārāja yoginā yogāvacarena sucaritavattappaṭivattamātikāsampannena bhavitabbaṃ idaṃ mahārāja khettassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja khettaṃ mariyādāsampannaṃ hoti tāya ca mariyādāya udakaṃ rakkhitvā dhaññaṃ paripāceti evameva kho mahārāja yoginā yogāvacarena sīlahirimariyādāsampannena bhavitabbaṃ tāya ca sīlahirimariyādāya sāmaññaṃ rakkhitvā cattāri sāmaññaphalāni gahetabbāni idaṃ mahārāja khettassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja khettaṃ uṭṭhānasampannaṃ hoti kassakassa hāsajanakaṃ appampi bījaṃ vuttaṃ bahu hoti bahu vuttaṃ bahutaraṃ hoti evameva kho mahārāja yoginā yogāvacarena uṭṭhānasampannena vipulaphaladāyinā bhavitabbaṃ dāyakānaṃ hāsajanakena bhavitabbaṃ yathā appaṃ dinnaṃ bahu hoti bahu dinnaṃ bahutaraṃ hoti idaṃ mahārāja khettassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena upālinā vinayadharena 
 khettūpamena bhavitabbaṃ uṭṭhānavipuladāyinā
 esa khettavaro nāma yo dadāti vipulaṃ phalanti
-
+khettaṅgapañho catuttho
 
  bhante  nāgasena agadassa dve aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni dve aṅgāni gahetabbānīti yathā mahārāja agade kimī na saṇṭhahanti evameva kho mahārāja yoginā yogāvacarena mānase kilesā na saṇṭhapetabbā idaṃ mahārāja agadassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja agado daṭṭhaphuṭṭhadiṭṭhaasitapītakhāyitasāyitaṃ sabbaṃ visaṃ paṭihanati evameva kho mahārāja yoginā yogāvacarena rāgadosamohamānadiṭṭhivisaṃ sabbaṃ paṭihanitabbaṃ idaṃ mahārāja agadassa dutiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja bhagavatā devātidevena 
 saṅkhārānaṃ sabhāvatthaṃ daṭṭhukāmena yoginā
 agadeneva hotabbaṃ kilesavisanāsaneti
-
+agadaṅgapañho pañcamo
 
  bhante nāgasena bhojanassa tīṇi aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni tīṇi aṅgāni gahetabbānīti yathā mahārāja bhojanaṃ sabbasattānaṃ upatthambho evameva kho mahārāja yoginā yogāvacarena sabbasattānaṃ maggupatthambhena bhavitabbaṃ idaṃ mahārāja bhojanassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja bhojanaṃ sabbasattānaṃ balaṃ vaḍḍheti evameva kho mahārāja yoginā yogāvacarena puññavaḍḍhiyā vaḍḍhitabbaṃ idaṃ mahārāja bhojanassa dutiyaṃ aṅgaṃ gahetabbaṃ
 puna  caparaṃ mahārāja bhojanaṃ sabbasattānaṃ abhipatthitaṃ evameva kho mahārāja yoginā yogāvacarena sabbalokābhipatthitena bhavitabbaṃ idaṃ mahārāja bhojanassa tatiyaṃ aṅgaṃ gahetabbaṃ bhāsitampetaṃ mahārāja therena mahāmoggallānena 
 saṃyamena  niyamena sīlena paṭipattiyā
 patthitena bhavitabbaṃ sabbalokassa yogināti
-
+bhojanaṅgapañho chaṭṭho
 
  bhante  nāgasena issāsassa cattāri aṅgāni gahetabbānīti yaṃ vadesi katamāni tāni cattāri aṅgāni gahetabbānīti yathā mahārāja issāso sare pātayanto ubho pāde pathaviyaṃ daḷhaṃ patiṭṭhāpeti jaṇṇuavekallaṃ karoti sarakalāpaṃ kaṭisandhimhi ṭhapeti kāyaṃ upatthaddhaṃ karoti dve hatthe sandhiṭṭhānaṃ āropeti muṭṭhiṃ pīḷayati aṅguliyo nirantaraṃ karoti gīvaṃ paggaṇhāti cakkhūni mukhañca pidahati nimittaṃ ujuṃ karoti hāsamuppādeti vijjhissāmīti evameva kho mahārāja yoginā yogāvacarena sīlapathaviyaṃ vīriyapāde patiṭṭhāpetabbaṃ khantisoraccaṃ avekallaṃ kātabbaṃ saṃvare cittaṃ ṭhapetabbaṃ saṃyamaniyame attā upanetabbo icchā mucchā pīḷayitabbā yoniso manasikāre cittaṃ nirantaraṃ kātabbaṃ vīriyaṃ paggahetabbaṃ cha dvārā pidahitabbā sati upaṭṭhapetabbā hāsamuppādetabbaṃ sabbakilese ñāṇanārācena vijjhissāmīti idaṃ mahārāja issāsassa paṭhamaṃ aṅgaṃ gahetabbaṃ
 puna caparaṃ mahārāja issāso āḷakaṃ pariharati vaṅkajimhakuṭilanārācassa ujukaraṇāya evameva kho mahārāja yoginā yogāvacarena imasmiṃ kāye satipaṭṭhānaāḷakaṃ pariharitabbaṃ vaṅkajimhakuṭilacittassa ujukaraṇāya idaṃ mahārāja issāsassa dutiyaṃ aṅgaṃ gahetabbaṃ
@@ -650,12 +650,12 @@ yathā issāsako nāma sāyaṃ pātaṃ upāsati
 upāsanaṃ ariñcanto  labhate bhattavetanaṃ
 tatheva buddhaputtopi karoti kāyupāsanaṃ
 kāyupāsanaṃ ariñcanto arahattamadhigacchatīti
-
-
+issāsaṅgapañho sattamo
+kumbhavaggo sattamo 
 tassuddānaṃ 
 kumbho ca kāḷāyaso ca chattaṃ khettañca agado
 bhojanena ca issāso vuttaṃ dāni vidūhīti
-
+opammakathāpañho niṭṭhito
 
 iti  chasu kaṇḍesu bāvīsativaggapatimaṇḍitesu dvāsaṭṭhiadhikā dvesatā imasmiṃ potthake āgatā milindapañhā samattā anāgatā ca pana dvācattālīsā honti āgatā ca anāgatā ca sabbā samodhānetvā catūhi adhikā tisatapañhā honti sabbāva milindapañhāti saṅkhaṃ gacchanti
 rañño ca therassa ca pucchāvisajjanāvasāne caturāsītisatasahassayojanabahalā udakapariyantaṃ katvā ayaṃ mahāpathavī chadhā kampittha vijjullatā nicchariṃsu devatā dibbapupphavassaṃ pavassiṃsu mahābrahmā sādhukāramadāsi mahāsamuddakucchiyaṃ meghatthanitanigghoso viya mahāghoso ahosi iti so milindo rājā ca orodhagaṇā ca sirasā añjaliṃ paṇāmetvā vandiṃsu
@@ -673,4 +673,4 @@ milindarājapañho ca nāgasenavisajjanaṃ
 milindo hi mahāpañño nāgaseno supaṇḍito
 iminā puññakammena ito gacchāmi tussitaṃ
 metteyyaṃnāgate passe suṇeyyaṃ dhammamuttamanti
-
+milindapañho niṭṭhito

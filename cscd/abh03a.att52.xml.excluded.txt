@@ -10,31 +10,31 @@
 ‘‘,‘‘’’?.,,..
 ‘‘’’..,,......
 ,.,...,.,,......
-Hetupaccayaniddesavaṇṇanā.
+.
 2. Ārammaṇapaccayaniddesavaṇṇanā
 2.....,..,..,.,,.,,.,,.‘‘’’....
 .…pe….;,,..,,,,,,.
 ,,,,,..,,,,,,,..,,,.
 ,,,.,,...
 ,,,....,,.,.,,,,.,.
-Ārammaṇapaccayaniddesavaṇṇanā.
+.
 3. Adhipatipaccayaniddesavaṇṇanā
 3....’’,‘‘‘‘’’?...,...
 ......
 .....,..
 ......,.....
 ...........
-Adhipatipaccayaniddesavaṇṇanā.
+.
 4. Anantarapaccayaniddesavaṇṇanā
 4...,.‘‘’’......,.....
 ..,,.
 ..,,.,,......
 ,....
 ....
-Anantarapaccayaniddesavaṇṇanā.
+.
 5. Samanantarapaccayaniddesavaṇṇanā
 5..,.
-Samanantarapaccayaniddesavaṇṇanā.
+.
 6. Sahajātapaccayaniddesavaṇṇanā
 6....,‘‘’’..,..,‘‘’’......
 ‘’.,.,,,,;;,.
@@ -42,72 +42,72 @@ Samanantarapaccayaniddesavaṇṇanā.
 ,.,.
 .,.,..,.,..
 ,,,...
-Sahajātapaccayaniddesavaṇṇanā.
+.
 7. Aññamaññapaccayaniddesavaṇṇanā
 7......
 ..,...,,...
-Aññamaññapaccayaniddesavaṇṇanā.
+.
 8. Nissayapaccayaniddesavaṇṇanā
 8...,..,,.
 ..,.,..;,.,..
 ,,,,,,,...
-Nissayapaccayaniddesavaṇṇanā.
+.
 9. Upanissayapaccayaniddesavaṇṇanā
 9.,.,.–‘‘’’.–‘‘;.–,,,,,.,.–,.,.’’.,.
 .–‘‘’’.–‘‘.–,,,,,,;…pe…..’’..?,...,‘‘’’.....
 ...,..,.
 ..‘‘’’.,.,.,.,.,.,..
-Upanissayapaccayaniddesavaṇṇanā.
+.
 10. Purejātapaccayaniddesavaṇṇanā
 10.,.....,,‘‘–’’..
 ...…pe…..
 ,....
-Purejātapaccayaniddesavaṇṇanā.
+.
 11. Pacchājātapaccayaniddesavaṇṇanā
 11.,.......
 ....
-Pacchājātapaccayaniddesavaṇṇanā.
+.
 12. Āsevanapaccayaniddesavaṇṇanā
 12..‘‘’’?..,.?.,.....,..,,.
 .,.....,.,..
-Āsevanapaccayaniddesavaṇṇanā.
+.
 13. Kammapaccayaniddesavaṇṇanā
 13.....,,.,........
 ...,.
 ,..,...,....
 ,..,..,.
-Kammapaccayaniddesavaṇṇanā.
+.
 14. Vipākapaccayaniddesavaṇṇanā
 14.,‘‘’’‘‘’’..‘‘.’’..,.
 ..,.
-Vipākapaccayaniddesavaṇṇanā.
+.
 15. Āhārapaccayaniddesavaṇṇanā
 15..,,‘‘’’....–..
 ,,,..,,,.,.
 ,....,.,.‘‘’’,,.
-Āhārapaccayaniddesavaṇṇanā.
+.
 16. Indriyapaccayaniddesavaṇṇanā
 16......–..
 .,,.,.,...,,.
 ,...,...,.,,..
-Indriyapaccayaniddesavaṇṇanā.
+.
 17. Jhānapaccayaniddesavaṇṇanā
 17.....–‘‘’’..,;,,.
 ,..,,,,...,.
-Jhānapaccayaniddesavaṇṇanā.
+.
 18. Maggapaccayaniddesavaṇṇanā
 18.,,,,,,,...–‘‘’’..
 ,.,.
-Maggapaccayaniddesavaṇṇanā.
+.
 19. Sampayuttapaccayaniddesavaṇṇanā
 19...,.,,..
-Sampayuttapaccayaniddesavaṇṇanā.
+.
 20. Vippayuttapaccayaniddesavaṇṇanā
 20...,.?..–‘‘,’’....–...………..
 .,.‘‘’’..–..,..
 .,.,,,..
 ...,...,.,..
-Vippayuttapaccayaniddesavaṇṇanā.
+.
 21. Atthipaccayaniddesavaṇṇanā
 21.....,,,,..
 –,.–,,.‘‘’’.‘‘’’.‘‘’’.–‘‘,,’’.‘‘’’.‘‘’’.
@@ -115,16 +115,16 @@ Vippayuttapaccayaniddesavaṇṇanā.
 ‘‘’’...,..
 .,..,.,.,,.
 ,,,..,,,..,,,.......
-Atthipaccayaniddesavaṇṇanā.
+.
 22. Natthipaccayaniddesavaṇṇanā
 22......,.‘‘’’.‘‘’’.
-Natthipaccayaniddesavaṇṇanā.
+.
 23. Vigatapaccayaniddesavaṇṇanā
 23...,.
-Vigatapaccayaniddesavaṇṇanā.
+.
 24. Avigatapaccayaniddesavaṇṇanā
 24..,.
-Avigatapaccayaniddesavaṇṇanā.
+.
 Paccayaniddesapakiṇṇakavinicchayakathā
 ,,,,,,,,,...
 .,.,.,.,.;...
@@ -145,7 +145,7 @@ Paccayaniddesapakiṇṇakavinicchayakathā
 ,...,.,...
 ,.?..,.?...?.;.?..,.?...?..
 ....
-Paccayaniddesavāravaṇṇanā niṭṭhitā.
+.
 Pucchāvāro
 1. Paccayānulomavaṇṇanā
 ,…pe….,,,…pe…..–,,,,,,.
@@ -260,4 +260,4 @@ Pucchāvāro
 49-52....,,.
 …pe…–.‘‘’’‘‘’’.‘‘’’.‘‘…pe…’’..‘‘’’..
 ...‘‘’’..
-Pucchāvāravaṇṇanā niṭṭhitā.
+.

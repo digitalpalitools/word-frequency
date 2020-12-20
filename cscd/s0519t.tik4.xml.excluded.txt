@@ -36,7 +36,7 @@
 .
 10.‘‘’’‘‘’’.‘‘’’..‘‘…pe…’’,‘‘’’.‘‘’’(dī. ni. aṭṭha. 3.141),.‘‘’’,.‘‘’’.
 .‘‘’’.
-Desanāhāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 2. Vicayahāravibhaṅgavaṇṇanā
 11..‘‘…pe…’’‘‘’’..
 .‘‘’’‘‘’’.....‘‘’’.‘‘’’.
@@ -78,7 +78,7 @@ Desanāhāravibhaṅgavaṇṇanā niṭṭhitā.
 ‘‘’’...
 .‘‘’’...‘‘’’.,.
 ..,.
-Vicayahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 3. Yuttihāravibhaṅgavaṇṇanā
 18.,‘‘’’‘‘,’’(dha. sa. aṭṭha. 498; visuddhi. mahāṭī. 1.14; saṃ. ni. ṭī. 1.1.213)..‘‘’,‘’’’(netti. 21).
 ‘‘’’‘‘’’...,..‘‘’’.‘‘’’.‘‘’’,‘‘’’,.,.
@@ -101,7 +101,7 @@ Vicayahāravibhaṅgavaṇṇanā niṭṭhitā.
 ..‘‘’’..
 .,‘‘’’.
 ‘‘’’..
-Yuttihāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 4. Padaṭṭhānahāravibhaṅgavaṇṇanā
 22.,,,.‘‘’’.
 .,.,,‘‘…pe…’’.,‘‘’’...,.,.
@@ -109,7 +109,7 @@ Yuttihāravibhaṅgavaṇṇanā niṭṭhitā.
 ,,‘‘…pe…’’...,.‘‘’’.
 ,,‘‘’’.,.,‘‘’’...,.
 ...‘‘…pe…’’....
-Padaṭṭhānahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 5. Lakkhaṇahāravibhaṅgavaṇṇanā
 23.‘‘’’,‘‘’’.,.(netti. aṭṭha. 51)..(netti. aṭṭha. 20).
 .
@@ -127,7 +127,7 @@ Padaṭṭhānahāravibhaṅgavaṇṇanā niṭṭhitā.
 ,,‘‘’’.
 ,,,‘‘’’.
 ‘‘’’‘‘’’.‘‘’’(ma. ni. 1.465).‘‘’’.,(netti. aṭṭha. 5 ādayo).
-Lakkhaṇahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 6. Catubyūhahāravibhaṅgavaṇṇanā
 25...‘‘…pe…’’..
 ,.‘‘…pe…’’,.
@@ -135,7 +135,7 @@ Lakkhaṇahāravibhaṅgavaṇṇanā niṭṭhitā.
 ‘‘,’’,,.,,(kathā. anuṭī. 507),‘‘’’..,.,,.,.,.,,,,..
 ‘‘.,.,’’.,.,‘‘’’,‘‘’’,.,,.,.(kathā. anuṭī. 507).
 ‘‘,,’’,‘‘,,’’,,.,.‘‘’’..
-Catubyūhahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 7. Āvaṭṭahāravibhaṅgavaṇṇanā
 29.,....‘‘’’.‘‘’’.
 .....
@@ -150,7 +150,7 @@ Catubyūhahāravibhaṅgavaṇṇanā niṭṭhitā.
 31.‘‘’’(dī. ni. 2.90; dha. pa. 183; netti. 30, 50, 116, 124; peṭako. 29).,.
 .
 32..,..‘‘’’,‘‘’’..
-Āvaṭṭahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 8. Vibhattihāravibhaṅgavaṇṇanā
 33....,,...‘‘’’.?.,.,.‘‘’’.,,.
 ,.-...
@@ -166,13 +166,13 @@ Catubyūhahāravibhaṅgavaṇṇanā niṭṭhitā.
 ,,,,.
 ‘‘…pe…’’(a. ni. 8.2),‘‘‘’’’.‘‘’’‘‘…pe…’’.‘‘’’.
 ,,‘‘…pe…’’.‘‘…pe…’’.‘‘…pe…’’..‘‘,’’..
-Vibhattihāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 9. Parivattanahāravibhaṅgavaṇṇanā
 35.…pe…,..‘‘’’,‘‘’’.,,,.,..
 36.,..
 .
 ‘‘,’’.,,,.‘‘’’.,.,.,.,,.‘‘’’.
-Parivattanahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 10. Vevacanahāravibhaṅgavaṇṇanā
 37...,......,‘‘’’.,..,....
 ‘‘’’.
@@ -186,7 +186,7 @@ Parivattanahāravibhaṅgavaṇṇanā niṭṭhitā.
 ,.
 ‘‘’’,.,.
 ,‘‘’’..
-Vevacanahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 11. Paññattihāravibhaṅgavaṇṇanā
 39.,,,,,,.‘‘?’’.....,.?.,.,..‘‘’’(ma. ni. aṭṭha. 1.mūlapariyāyasuttavaṇṇanā).
 ..
@@ -194,7 +194,7 @@ Vevacanahāravibhaṅgavaṇṇanā niṭṭhitā.
 41.‘‘’’..,..‘‘’’.
 ...
 ..,..,,...‘‘,(dī. ni. 1.94),’’.‘‘’’,.,.‘‘’’.‘‘’’.
-Paññattihāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 12. Otaraṇahāravibhaṅgavaṇṇanā
 42.‘‘’’,‘‘’’..
 .‘‘..…’’..
@@ -203,10 +203,10 @@ Paññattihāravibhaṅgavaṇṇanā niṭṭhitā.
 .‘‘’’‘‘’’..,‘‘’’.‘‘’’‘‘’’...
 .‘‘’’...
 ‘‘,’’‘‘’’..‘‘’’..,.‘‘’’,.‘‘’’‘‘’’‘‘’’‘‘’’...
-Otaraṇahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 13. Sodhanahāravibhaṅgavaṇṇanā
 45.,‘‘’’.‘‘’’.‘‘’’.,.‘‘…pe…’’.‘‘’’.
-Sodhanahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 14. Adhiṭṭhānahāravibhaṅgavaṇṇanā
 46.,.‘‘’’(netti. aṭṭha. 14).
 ...,...‘‘’’...
@@ -222,20 +222,20 @@ Sodhanahāravibhaṅgavaṇṇanā niṭṭhitā.
 ..
 ,...
 ..
-Adhiṭṭhānahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 15. Parikkhārahāravibhaṅgavaṇṇanā
 49.‘‘’’‘‘’’.,.
 ,,.‘‘’’.
 .
 ,..‘‘’’..,.
-Parikkhārahāravibhaṅgavaṇṇanā niṭṭhitā.
+.
 16. Samāropanahāravibhaṅgavaṇṇanā
 50..,....,...
 51.‘‘’’,(netti. aṭṭha. 23).–.
 ‘‘’’..‘‘’’.....‘‘…pe…’’.
 .
-Samāropanahāravibhaṅgavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca hāravibhaṅgavaṇṇanā.
+.
+.
 1. Desanāhārasampātavaṇṇanā
 ‘‘’’.,.,...
 52.,.,‘‘…pe…’’..
@@ -251,7 +251,7 @@ Niṭṭhitā ca hāravibhaṅgavaṇṇanā.
 ,..‘‘’’,.‘‘’’.
 ‘‘’’,‘‘’’‘‘’’‘‘’’.
 ‘‘‘’’’,.‘‘,’’(paṭi. ma. 1.50).,,‘‘’’.
-Desanāhārasampātavaṇṇanā niṭṭhitā.
+.
 2. Vicayahārasampātavaṇṇanā
 53.,‘‘’’..‘‘…pe…’’..‘‘’’,,.‘‘’’,.
 ‘‘’’.,..‘‘’’‘‘’’..‘‘’’...
@@ -301,17 +301,17 @@ Desanāhārasampātavaṇṇanā niṭṭhitā.
 ‘‘’’..,,.‘‘’’,‘‘’’.
 ‘‘,’’..
 .‘‘’’..,,.,.,.‘‘,’’(vibha. mūlaṭī. 831),.
-Vicayahārasampātavaṇṇanā niṭṭhitā.
+.
 3. Yuttihārasampātavaṇṇanā
 65.,‘‘…pe…’’..,....‘‘’’.
-Yuttihārasampātavaṇṇanā niṭṭhitā.
+.
 4. Padaṭṭhānahārasampātādivaṇṇanā
 66.,,..
 .
 68.‘‘’’.
 73-4...,‘‘…pe…’’.
 76..
-Padaṭṭhānahārasampātādivaṇṇanā niṭṭhitā.
+.
 Missakahārasampātavaṇṇanā
 ,‘‘’’.‘‘…pe…’’.,‘‘,’’....–
 ‘‘,;
@@ -356,4 +356,4 @@ Missakahārasampātavaṇṇanā
 ‘‘’’,‘‘’’.
 ,‘‘…pe…’’.
 ‘‘’’,.,,.
-Hārasampātavāravaṇṇanā niṭṭhitā.
+.

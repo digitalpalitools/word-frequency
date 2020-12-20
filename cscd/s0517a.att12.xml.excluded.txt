@@ -8,7 +8,7 @@ Yuganaddhakathāvaṇṇanā
 ,..,‘‘’’.,,..
 .,...,.,.?,.,.…pe…,..
 ,,........
-Ayaṃ suttantavaṇṇanā.
+.
 1. Suttantaniddesavaṇṇanā
 2.........
 3.(paṭi. ma. 1.80-81)...
@@ -32,7 +32,7 @@ Ayaṃ suttantavaṇṇanā.
 ‘‘,,’’.…pe…‘‘,,’’.......
 ..,,..,..,.,.,.,.,.,.,.,.
 ,..‘‘’’.
-Yuganaddhakathāvaṇṇanā niṭṭhitā.
+.
 2. Saccakathā
 Saccakathāvaṇṇanā
 8.........,,,,.......
@@ -58,14 +58,14 @@ Saccakathāvaṇṇanā
 15..‘‘’’,‘‘’’,‘‘’’.,..
 .‘‘’’,‘‘’’.,,;,,.–....,......
 16..,,...
-Saccakathāvaṇṇanā niṭṭhitā.
+.
 3. Bojjhaṅgakathā
 Bojjhaṅgakathāvaṇṇanā
 17..,.(saṃ. ni. aṭṭha. 3.5.182)–,,,,.–‘‘’’(saṃ. ni. 5.378; dī. ni. 3.143)..,.‘‘’’..
 .?,.................---..
 Mūlamūlakādidasakavaṇṇanā
 18...,.,............
-Mūlamūlakadasakaṃ niṭṭhitaṃ.
+.
 .....‘‘’’......
 19....
 20..............
@@ -73,7 +73,7 @@ Mūlamūlakadasakaṃ niṭṭhitaṃ.
 Suttantaniddesavaṇṇanā
 21..,....‘‘,,’’(ma. ni. 1.459),‘‘’’..,.,,....,.,.
 .,...‘‘,,,’’(a. ni. 4.34; itivu. 90).......
-Bojjhaṅgakathāvaṇṇanā niṭṭhitā.
+.
 4. Mettākathā
 Mettākathāvaṇṇanā
 22............,..,...,..,..,.,..,..
@@ -86,7 +86,7 @@ Mettākathāvaṇṇanā
 .............,..‘‘’’(a. ni. 1.188 ādayo).......
 2-4. Balādivārattayavaṇṇanā
 24-27..,.,...(visuddhi. 1.240 ādayo).
-Mettākathāvaṇṇanā niṭṭhitā.
+.
 5. Virāgakathā
 Virāgakathāvaṇṇanā
 28..‘‘’’(mahāva 23),....,.…pe…,‘‘’’......
@@ -97,7 +97,7 @@ Virāgakathāvaṇṇanā
 ..,.........
 ...
 29..,.‘‘’’...
-Virāgakathāvaṇṇanā niṭṭhitā.
+.
 6. Paṭisambhidākathā
 1. Dhammacakkapavattanavāravaṇṇanā
 30..,...,.,,‘‘’’.‘‘’’.–
@@ -118,7 +118,7 @@ Virāgakathāvaṇṇanā niṭṭhitā.
 33-37.,,,,..‘‘’’(paṭi. ma. 1.121),,,,.,,,....
 9. Chabuddhadhammavāravaṇṇanā
 38.,..,,,,,,,,..,,,,.,,,,.
-Paṭisambhidākathāvaṇṇanā niṭṭhitā.
+.
 7. Dhammacakkakathā
 1. Saccavāravaṇṇanā
 39..........
@@ -128,7 +128,7 @@ Paṭisambhidākathāvaṇṇanā niṭṭhitā.
 ..
 2-3. Satipaṭṭhānavārādivaṇṇanā
 41-42...
-Dhammacakkakathāvaṇṇanā niṭṭhitā.
+.
 8. Lokuttarakathā
 Lokuttarakathāvaṇṇanā
 43......,...,,,..,..,,.......,..
@@ -144,7 +144,7 @@ Lokuttarakathāvaṇṇanā
 .,...,,...(dha. sa. 277 ādayo, 505 ādayo).
 ..,,,....,..,,........,..
 .,...,.........,‘‘’’........,...,..‘‘’’‘‘’’.....
-Lokuttarakathāvaṇṇanā niṭṭhitā.
+.
 9. Balakathā
 Balakathāvaṇṇanā
 44....,.,.,.,.,.,.................
@@ -179,7 +179,7 @@ Balakathāvaṇṇanā
 ‘‘’’.‘‘’’.‘‘’’.‘‘,,’’.‘‘,,’’.‘‘’’.
 ......,...
 45...‘‘’’,‘‘’’,‘‘’’..,.......,‘‘’’.‘‘’’,.(vibha. 760)...,‘‘’’.
-Balakathāvaṇṇanā niṭṭhitā.
+.
 10. Suññakathā
 Suññakathāvaṇṇanā
 46......,.,.?,,....
@@ -204,7 +204,7 @@ Suññakathāvaṇṇanā
 ,;
 ,.
 ?........
-Saddhammappakāsiniyā paṭisambhidāmaggaaṭṭhakathāya
-Suññakathāvaṇṇanā niṭṭhitā.
-Yuganaddhavaggavaṇṇanā niṭṭhitā.
-Niṭṭhitā ca majjhimavaggassa apubbatthānuvaṇṇanā.
+
+.
+.
+.

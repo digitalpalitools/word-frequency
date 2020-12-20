@@ -1,4 +1,4 @@
-﻿ Namo tassa bhagavato arahato sammāsambuddhassa
+﻿
 Majjhimanikāyo
 Mūlapaṇṇāsapāḷi
 1. Mūlapariyāyavaggo
@@ -28,30 +28,30 @@ Mūlapaṇṇāsapāḷi
 ‘‘;,,,,.?‘’.
 ‘‘;,,,,.?‘’.
 ‘‘;,,,,.?‘’.
-Puthujjanavasena paṭhamanayabhūmiparicchedo niṭṭhito.
+.
 7.‘‘,,sekho (sī. syā. kaṃ. pī.),;abhiññatvā (ka.)vā maññati,,,,vā abhinandati (sī.) ṭīkā oloketabbā.?‘’.
 ‘‘…pe…………………………………………………………;,,,,.?‘’.
-Sekkhavasena satthāravasena (sī.), satthuvasena (syā. ka.) dutiyanayabhūmiparicchedo niṭṭhito.
+satthāravasena (sī.), satthuvasena (syā. ka.).
 8.‘‘,,,;,,,,.?‘’.
 ‘‘…pe…………………………………………………………;,,,,.?‘’.
-Khīṇāsavavasena tatiyanayabhūmiparicchedo niṭṭhito.
+.
 9.‘‘,,,;,,,,.?,.
 ‘‘…pe…………………………………………………………;,,,,.?,.
-Khīṇāsavavasena catutthanayabhūmiparicchedo niṭṭhito.
+.
 10.‘‘,,,;,,,,.?,.
 ‘‘…pe…………………………………………………………;,,,,.?,.
-Khīṇāsavavasena pañcamanayabhūmiparicchedo niṭṭhito.
+.
 11.‘‘,,,;,,,,.?,.
 ‘‘…pe…………………………………………………………;,,,,.?,.
-Khīṇāsavavasena chaṭṭhanayabhūmiparicchedo niṭṭhito.
+.
 12.‘‘,,;,,,,.?‘’.
 ‘‘…pe…………………………………………………………;,,,,.?‘’.
-Tathāgatavasena sattamanayabhūmiparicchedo niṭṭhito.
+.
 13.‘‘,,;,,,,.?‘nandi (sī. syā.)’–‘’.,,‘’.
 ‘‘…pe…………………………………………………………;,,,,.?‘’–‘’.,,‘’’’.
-Tathāgatavasena aṭṭhamanayabhūmiparicchedo niṭṭhito.
+.
 .na attamanā tebhikkhū (syā.), te bhikkhū (pī. ka.).
-Mūlapariyāyasuttaṃ niṭṭhitaṃ paṭhamaṃ.
+.
 2. Sabbāsavasuttaṃ
 14.–.–‘‘’’.‘‘’’.–‘‘,,.,,’’.‘‘,’’.–
 15.‘‘,,,.,,?.,,,;,,,.
@@ -91,7 +91,7 @@ Bhāvanā pahātabbāsavā
 ‘‘,,,.,,.
 28.‘‘,,,,,,,,;,–‘,acchejji (ka.),vāvattayi (sī. pī.),’’’.
 ..
-Sabbāsavasuttaṃ niṭṭhitaṃ dutiyaṃ.
+.
 3. Dhammadāyādasuttaṃ
 29.–.–‘‘’’.‘‘’’.–
 ‘‘,,,.–‘,’.,,,ādissā (sī. syā. pī.)–‘,’;–‘,’.,,,,–‘,’;–‘,’.,,,.–‘,’.
@@ -104,7 +104,7 @@ Sabbāsavasuttaṃ niṭṭhitaṃ dutiyaṃ.
 33.‘‘,..,,?,seyyathīdaṃ (sī. syā. pī.)–.,,.
 ‘‘,…pe…,,,,,..,,?,–.,,’’.
 ..
-Dhammadāyādasuttaṃ niṭṭhitaṃ tatiyaṃ.
+.
 4. Bhayabheravasuttaṃ
 34.–.;.sārāṇīyaṃ (sī. syā. pī.).–‘‘,,,,,samādāpetā (?);’’.‘‘,,,!,,,,,;’’.‘‘,,,,,’’.‘‘,,,!,,,,,’’.
 35.‘‘,,–‘,,,’.,–‘,.;.’.,,.
@@ -121,7 +121,7 @@ Dhammadāyādasuttaṃ niṭṭhitaṃ tatiyaṃ.
 46.‘‘,,–‘,.;.’.,,.
 47.‘‘,,–‘,.;.’.,,.
 48.‘‘,,–‘,.;.’.,,.
-Soḷasapariyāyaṃ niṭṭhitaṃ.
+.
 49.‘‘,,–‘––’.,,––.,,,,paṇṇasaṭaṃ (sī. pī.);tassa mayhaṃ evaṃ hoti (sī. syā.)–‘’.,,–‘bhayapāṭikaṅkhī (sī.)?yathābhūtassa yathābhūtassa (sī. syā.),yathābhūto yathābhūtova (sī. syā.)’.,,.,,,.,,.,,..,,.,,,.,,.,,,.
 50.‘‘,,,..,,,.,,–‘’,–‘’.
 51.‘‘,,,appammuṭṭhā (syā.),,.,,..,;–‘’..
@@ -130,7 +130,7 @@ Soḷasapariyāyaṃ niṭṭhitaṃ.
 54.‘‘.‘’,‘’,‘’,‘’.‘’,‘’,‘’,‘’.,,..‘,,,’.,,,,,.
 55.‘‘,,–‘,’.,,.,,–,’’.
 56.‘‘,.,!,!,,,,,–‘’;..’’.
-Bhayabheravasuttaṃ niṭṭhitaṃ catutthaṃ.
+.
 5. Anaṅgaṇasuttaṃ
 57.–.–‘‘,’’.‘‘’’.–
 ‘‘,,.?,‘’.,‘’.,‘’.,‘’.,‘’,.,‘’,.,‘’,.,‘’,’’.
@@ -161,7 +161,7 @@ Bhayabheravasuttaṃ niṭṭhitaṃ catutthaṃ.
 63.,–‘‘,,’’.‘‘,’’.‘‘,,.,,...,,–‘,suddhāssa (sī. pī.), suddhā (ka.)’.,,,.,,–‘’.
 ‘‘,,,,keṭubhino (bahūsu),,,,,,,,,,.
 ‘‘,,,,,,,,,,,,–‘,,’.,,adhimuttakamālaṃ (syā.),,,,,,,,,,,,,,,–‘,,’.’’.
-Anaṅgaṇasuttaṃ niṭṭhitaṃ pañcamaṃ.
+.
 6. Ākaṅkheyyasuttaṃ
 64.–.–‘‘’’.‘‘’’.–
 ‘‘,,;;.
@@ -184,7 +184,7 @@ Anaṅgaṇasuttaṃ niṭṭhitaṃ pañcamaṃ.
 69.‘‘,,–‘’,.
 ‘‘,,;;’’–’’.
 ..
-Ākaṅkheyyasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
+.
 7. Vatthasuttaṃ
 70.–.–‘‘’’.‘‘’’.–
 ‘‘,,;–mañjeṭṭhakāya (sī. pī.), mañjeṭṭhikāya (syā.).?,,.,,,.,,;––.?,,.,,,.
@@ -209,7 +209,7 @@ pakkhanno (sī. syā. pī.),.
 ,;
 ,’’.
 80.,–‘‘,,,!,,,,,–;..,’’.,.––.‘‘,,,’’..
-Vatthasuttaṃ niṭṭhitaṃ sattamaṃ.
+.
 8. Sallekhasuttaṃ
 81.–.;.–‘‘,,––,,,’’?
 82.‘‘,,––‘,,’–,.
@@ -233,7 +233,7 @@ Vatthasuttaṃ niṭṭhitaṃ sattamaṃ.
 ..
 ,;
 ,.
-Sallekhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
+.
 9. Sammādiṭṭhisuttaṃ
 89.–.–‘‘’’.‘‘’’.–
 ‘‘‘sammādiṭṭhī (sī. syā.)’,,.,,,,,’’?
@@ -276,45 +276,45 @@ Sallekhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 ‘‘,.,,,,,–,,,,,.,,,,?,,–,,.,,,–…pe….
 ‘‘,,,,,,,,‘’,,–,,,,,’’.
 ..
-Sammādiṭṭhisuttaṃ niṭṭhitaṃ navamaṃ. ito paraṃ kesuci potthakesu imāpi gāthāyo§evaṃ dissanti –§dukkhaṃ jarāmaraṇaṃ upādānaṃ, saḷāyatanaṃ nāmarūpaṃ. viññāṇaṃ yā sā pare, katamā panāvuso padānaṃ§kiṃ jāti taṇhā ca vedanā, avijjāya catukkanayo. cattāri pare katamā, panāvuso padānaṃ kevalaṃ§āhāro ca bhavo phasso, saṅkhāro āsavapañcamo. yāva pañca pare katamā, panāvuso padānaṃ kiṃ§katamanti chabbidhā vuttaṃ, katamāni catubbidhāni. katamo pañcavidho vutto, sabbesaṃ ekasaṅkhānaṃ pañcanayapadāni cāti 
+.ito paraṃ kesuci potthakesu imāpi gāthāyo§evaṃ dissanti –§dukkhaṃ jarāmaraṇaṃ upādānaṃ, saḷāyatanaṃ nāmarūpaṃ. viññāṇaṃ yā sā pare, katamā panāvuso padānaṃ§kiṃ jāti taṇhā ca vedanā, avijjāya catukkanayo. cattāri pare katamā, panāvuso padānaṃ kevalaṃ§āhāro ca bhavo phasso, saṅkhāro āsavapañcamo. yāva pañca pare katamā, panāvuso padānaṃ kiṃ§katamanti chabbidhā vuttaṃ, katamāni catubbidhāni. katamo pañcavidho vutto, sabbesaṃ ekasaṅkhānaṃ pañcanayapadāni cāti 
 10. Mahāsatipaṭṭhānasuttaṃ
 105.–.–‘‘’’.‘‘’’.–
 Uddeso
 106.‘‘,,,pariddavānaṃ (sī. pī.),,,,.
 ‘‘?,,,;,;,;,.
-Uddeso niṭṭhito.
+.
 Kāyānupassanā ānāpānapabbaṃ
 107.‘‘,,?,,,,,.,sato (sī. syā.).‘’,‘’,‘’,‘’,‘’,‘’,‘’,‘’.
 ‘‘,,‘’,‘’;,,‘’,‘’,‘’,‘’;‘’,‘’;‘’,‘’.,,;,,.‘’.,.evampi (sī. syā. pī.),,.
-Ānāpānapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā iriyāpathapabbaṃ
 108.‘‘,,‘’,‘’,‘’,‘’..,,;,,.‘’.,.,,.
-Iriyāpathapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā sampajānapabbaṃ
 109.‘‘,,,,,,,,.…pe…,,.
-Sampajānapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā paṭikūlamanasikārapabbaṃ
 110.‘‘,,,,–‘nahāru (sī. syā. pī.)’muttaṃ matthaluṅganti (ka.).
 ‘‘,,mūtoḷī (sī. syā. pī.),–.–‘’.,,,,–‘…pe…’.
 ‘‘…pe…,,.
-Paṭikūlamanasikārapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā dhātumanasikārapabbaṃ
 111.‘‘,,–‘’.
 ‘‘,,cātummahāpathe (sī. syā. pī.).,,–‘’.…pe…,,.
-Dhātumanasikārapabbaṃ niṭṭhitaṃ.
+.
 Kāyānupassanā navasivathikapabbaṃ
 112.‘‘,,.–‘’etaṃ anatītoti (sī. pī.).…pe…,,.
 ‘‘,,gijjhehi vā khajjamānaṃ, suvānehi vā khajjamānaṃ, sigālehi vā (syā. pī.).–‘’.…pe…,,.
 ‘‘,,…pe……pe……pe…apagatanhārusambandhāni (syā.),‘‘aññena gopphakaṭṭhika’’nti idaṃ sī. syā. pī. potthakesu natthiaññena kaṭaṭṭhikaṃ aññena piṭṭhaṭṭhikaṃ aññena kaṇṭakaṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena aṃsaṭṭhikaṃ aññena bāhuṭṭhikaṃ (syā.)aññena kaṭaṭṭhikaṃ aññena piṭṭhaṭṭhikaṃ aññena kaṇṭakaṭṭhikaṃ aññena phāsukaṭṭhikaṃ aññena uraṭṭhikaṃ aññena aṃsaṭṭhikaṃ aññena bāhuṭṭhikaṃ (syā.).–‘’.…pe…,,.
 ‘‘,,,saṅkhavaṇṇūpanibhāni (sī. syā. pī.)…pe……pe….–‘’.,,;,,.‘’.,.,,.
-Navasivathikapabbaṃ niṭṭhitaṃ.
-Cuddasakāyānupassanā niṭṭhitā.
+.
+.
 Vedanānupassanā
 113.‘‘,,?,,sukhaṃ, dukkhaṃ, adukkhamasukhaṃ (sī. syā. pī. ka.)‘’;sukhaṃ, dukkhaṃ adukkhamasukhaṃ (sī. syā. pī. ka.)‘’;‘’;‘’;‘’;‘’;‘’;‘’;‘’;,,;,,.‘’.,.,,.
-Vedanānupassanā niṭṭhitā.
+.
 Cittānupassanā
 114.‘‘,,?,,‘’,‘’;‘’,‘’;‘’,‘’;‘’,‘’;‘’,‘’;‘’,‘’;‘’,‘’;‘’,‘’.,,;,,.‘’.,.,,.
-Cittānupassanā niṭṭhitā.
+.
 Dhammānupassanā nīvaraṇapabbaṃ
 115.‘‘,,?,,.,,?
 ‘‘,,‘’,‘’;,,.
@@ -323,10 +323,10 @@ Dhammānupassanā nīvaraṇapabbaṃ
 ‘‘‘’,‘’;,,.
 ‘‘‘’,‘’;,,.
 ‘‘,,;,,.‘’.,.,,.
-Nīvaraṇapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā khandhapabbaṃ
 116.‘‘,,.,,?,,–‘,,;,,;,,;,,;,,’;,,;,,.‘’.,.,,.
-Khandhapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā āyatanapabbaṃ
 117.‘‘,,.,,?
 ‘‘,,,,,,,.
@@ -336,7 +336,7 @@ Dhammānupassanā āyatanapabbaṃ
 ‘‘,,,,,.
 ‘‘,,,,,.
 ‘‘,,;,,.‘’..,,.
-Āyatanapabbaṃ niṭṭhitaṃ.
+.
 Dhammānupassanā bojjhaṅgapabbaṃ
 118.‘‘,,.,,?,,‘’,‘’,,.
 ‘‘‘’,‘’,,.
@@ -346,10 +346,10 @@ Dhammānupassanā bojjhaṅgapabbaṃ
 ‘‘‘’,‘’,,.
 ‘‘‘’,‘’,,.
 ‘‘,,;,,.‘’.,.,,.
-Bojjhaṅgapabbaṃ niṭṭhitaṃ bojjhaṅgapabbaṃ niṭṭhitaṃ. paṭhamabhāṇavāraṃ (syā.).
+bojjhaṅgapabbaṃ niṭṭhitaṃ. paṭhamabhāṇavāraṃ (syā.).
 Dhammānupassanā saccapabbaṃ
 119.‘‘,,.,,?,,‘’,‘’,‘’,‘’.
-Paṭhamabhāṇavāro niṭṭhito.
+.
 Dukkhasaccaniddeso
 120.‘‘,,?,,,,,‘‘appiyehi…pe… vippayogopi dukkho’’ti pāṭho ceva taṃniddeso ca sī. pī. potthakesu na dissati, sumaṅgalavilāsiniyaṃpi taṃsaṃvaṇṇanā natthi,,pañcupādānakkhandhāpi (ka.).
 121.‘‘,,?,,,.
@@ -401,14 +401,14 @@ Maggasaccaniddeso
 ‘‘,,?,,;;;.,,.
 ‘‘,,?,,..,,,‘’..,,.,,.
 136.‘‘,,;,,.‘’.,.,,.
-Saccapabbaṃ niṭṭhitaṃ.
-Dhammānupassanā niṭṭhitā.
+.
+.
 137.‘‘,,,;.
 ‘‘,,.,,…pe………………,,.,,,;.,,.,,…pe…………………,,.,,,’’.
 138.‘‘‘,,’.,’’.
 ..
-Mahāsatipaṭṭhānasuttaṃ niṭṭhitaṃ dasamaṃ.
-Mūlapariyāyavaggo niṭṭhito paṭhamo.
+.
+.
 –ito paraṃ kesuci potthakesu imāpi gāthāyo evaṃ dissanti –§ajaraṃ amataṃ amatādhigamaṃ, phalamagganidassanaṃ dukkhanudaṃ. sahitattaṃ mahārasahassakaraṃ, bhūtamiti sāraṃ vividhaṃ suṇātha.§taḷākaṃ vasupūritaṃ ghammapathe, tividhaggipiḷesitanibbāpanaṃ. byādhipanudanaosadhayo, pacchimasuttapavarā ṭhapitā.§madhumandavarasāmadānaṃ, khiḍḍārati jananimanusaṅghātaṃ. tathā sutte veyyākaraṇā ṭhapitā, sakyaputtānamabhidamanatthāya.§paññāsaṃ ca diyaḍhḍasataṃ, dve ca veyyākaraṇaṃ apare ca. tevanāmagataṃ ca anupubbaṃ, ekamanā nisāmetha mudaggaṃ.
 ,;
 ,.

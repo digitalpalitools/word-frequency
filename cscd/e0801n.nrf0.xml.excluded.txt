@@ -1,4 +1,4 @@
-﻿? Namo tassa bhagavato arahato sammāsambuddhassa 
+﻿?
 Moggallānasuttapāṭho
 (1) Paṭhamo kaṇḍo (saññādi)
 1..
@@ -27,7 +27,7 @@ Moggallānasuttapāṭho
 23.--.
 24.-.
 25..
-Paribhāsā
+
 26..
 27..
 28..
@@ -61,7 +61,7 @@ Paribhāsā
 56..
 57..
 58..
-Iti moggallāne byākaraṇe saññādikaṇḍo paṭhamo.
+.
 (2) Dutiyo kaṇḍo (syādi)
 1.-,,,,,,.
 2..
@@ -312,7 +312,7 @@ Iti moggallāne byākaraṇe saññādikaṇḍo paṭhamo.
 239..
 240..
 241..
-Iti moggallāne byākaraṇe syādikaṇḍo dutiyo.
+.
 (3) Tatiyo kaṇḍo (samāso)
 1..
 2.-.
@@ -434,7 +434,7 @@ Iti moggallāne byākaraṇe syādikaṇḍo dutiyo.
 108.-.
 109..
 110.--.
-Iti moggallāne byākaraṇe samāsakaṇḍo tatiyo.
+.
 (4) Catuttho kaṇḍo (ṇādi)
 1..
 2..
@@ -600,7 +600,7 @@ Iti moggallāne byākaraṇe samāsakaṇḍo tatiyo.
 140..
 141..
 142.--.
-Iti moggallāne byākaraṇe kādikaṇḍo catuttho.
+.
 (5) Pañcamo kaṇḍo (khādi)
 1..
 2..
@@ -783,7 +783,7 @@ Iti moggallāne byākaraṇe kādikaṇḍo catuttho.
 177..
 178..
 179..
-Iti moggallāne byākaraṇe khādikaṇḍo pañcamo.
+.
 (6) Chaṭṭho kaṇḍo (tyādi)
 1.,,,,,.
 2.,,,,,.
@@ -863,7 +863,7 @@ Iti moggallāne byākaraṇe khādikaṇḍo pañcamo.
 76..
 77..
 78..
-Iti moggallāne byākaraṇe tyādikaṇḍo chaṭṭho.
+.
 (7) Sattamo kaṇḍo (ṇvādi)
 1..
 2..
@@ -1100,6 +1100,6 @@ Iti moggallāne byākaraṇe tyādikaṇḍo chaṭṭho.
 227..
 228..
 229..
-Iti moggallāne byākaraṇe ṇvādikaṇḍo sattamo.
- Namo tassa bhagavato arahato sammāsambuddhassa
+.
+
 Moggallānabyākaraṇaṃ

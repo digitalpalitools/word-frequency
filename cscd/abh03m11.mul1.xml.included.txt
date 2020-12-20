@@ -67,7 +67,7 @@ nahetuṃ hetusampayuttañceva na ca hetuṃ dhammaṃ paṭicca nahetu hetusamp
 
  nahetuṃ  sahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā 
 nahetuṃ  ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā 
-
+hetugocchakaṃ niṭṭhitaṃ
 
 
 
@@ -118,7 +118,7 @@ hetuyā  nava avigate nava
 
  hetuṃ  kenaci naviññeyyaṃ dhammaṃ paṭicca hetu kenaci naviññeyyo dhammo uppajjati hetupaccayā 
 hetuyā nava avigate nava 
-
+cūḷantaradukaṃ niṭṭhitaṃ
 
  hetuṃ  āsavaṃ dhammaṃ paṭicca hetu āsavo dhammo uppajjati hetupaccayā hetuṃ āsavaṃ dhammaṃ paṭicca nahetu āsavo dhammo uppajjati hetupaccayā hetuṃ āsavaṃ dhammaṃ paṭicca hetu āsavo ca nahetu āsavo ca dhammā uppajjanti hetupaccayā 
 nahetuṃ āsavaṃ dhammaṃ paṭicca nahetu āsavo dhammo uppajjati hetupaccayā 
@@ -157,11 +157,11 @@ hetuyā pañca avigate pañca
 hetuyā nava avigate nava 
 hetuṃ āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca hetu āsavavippayutto anāsavo dhammo uppajjati hetupaccayā 
 hetuyā nava avigate nava 
-
+hetudukaāsavagocchakaṃ niṭṭhitaṃ
 
  hetuṃ  saññojanaṃ dhammaṃ paṭicca hetuṃ ganthaṃ dhammaṃ paṭicca hetuṃ oghaṃ dhammaṃ paṭicca hetuṃ yogaṃ dhammaṃ paṭicca hetuṃ nīvaraṇaṃ dhammaṃ paṭicca  hetuṃ noparāmāsaṃ dhammaṃ paṭicca hetu no parāmāso dhammo uppajjati hetupaccayā 
 hetuyā nava avigate nava 
-
+hetudukaparāmāsagocchakaṃ niṭṭhitaṃ
 
  hetuṃ  sārammaṇaṃ dhammaṃ paṭicca hetu sārammaṇo dhammo uppajjati hetupaccayā tīṇi
 nahetuṃ sārammaṇaṃ dhammaṃ paṭicca nahetu sārammaṇo dhammo uppajjati hetupaccayā tīṇi
@@ -213,7 +213,7 @@ hetuyā nava avigate nava
 hetuyā nava avigate nava 
 hetuṃ  anupādinnaṃ dhammaṃ paṭicca hetu anupādinno dhammo uppajjati hetupaccayā 
 hetuyā  nava avigate nava 
-
+hetudukamahantaradukaṃ niṭṭhitaṃ
 
  hetuṃ upādānaṃ dhammaṃ paṭicca nahetu upādāno dhammo uppajjati hetupaccayā
 hetuyā dve avigate dve 
@@ -246,7 +246,7 @@ hetuṃ niyataṃ dhammaṃ paṭicca hetuṃ aniyataṃ dhammaṃ paṭicca
 hetuṃ sauttaraṃ dhammaṃ paṭicca hetuṃ anuttaraṃ dhammaṃ paṭicca
 hetuṃ  saraṇaṃ dhammaṃ paṭicca hetuṃ araṇaṃ dhammaṃ paṭicca hetu araṇo dhammo uppajjati hetupaccayā 
 hetuyā nava avigate nava 
-
+hetudukapiṭṭhidukaṃ niṭṭhitaṃ
 
  sahetukaṃ  hetuṃ dhammaṃ paṭicca sahetuko hetu dhammo uppajjati hetupaccayā 
 sahetukaṃ nahetuṃ dhammaṃ paṭicca sahetuko nahetu dhammo uppajjati hetupaccayā
@@ -348,5 +348,5 @@ sauttaraṃ hetuṃ dhammaṃ paṭicca anuttaraṃ hetuṃ dhammaṃ paṭicca
 saraṇaṃ hetuṃ dhammaṃ paṭicca araṇaṃ hetuṃ dhammaṃ paṭicca araṇo hetu dhammo uppajjati hetupaccayā 
 araṇaṃ nahetuṃ dhammaṃ paṭicca araṇo nahetu dhammo uppajjati hetupaccayā
 
-
-
+dhammānulome dukadukapaṭṭhānaṃ niṭṭhitaṃ
+anulomapaṭṭhānaṃ niṭṭhitaṃ

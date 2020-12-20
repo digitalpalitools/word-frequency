@@ -20,7 +20,7 @@
 ,’’.
 ,.,.–,.,.
 .
-Attanopubbakammavatthu paṭhamaṃ.
+.
 2. Kukkuṭaaṇḍakhādikāvatthu
 .
 ,.....‘‘’’..,.‘‘,’’...,.‘‘’’(dha. pa. 5).‘‘,’’–
@@ -29,7 +29,7 @@ Attanopubbakammavatthu paṭhamaṃ.
 ,’’.
 ,...
 ,,.
-Kukkuṭaaṇḍakhādikāvatthu dutiyaṃ.
+.
 3. Bhaddiyabhikkhuvatthu
 .
 .–‘‘,,,,’’(mahāva. 251)..,‘‘,’’–
@@ -42,7 +42,7 @@ Kukkuṭaaṇḍakhādikāvatthu dutiyaṃ.
 ,’’.
 .,..,......,.
 ,.
-Bhaddiyavatthu tatiyaṃ.
+.
 4. Lakuṇḍakabhaddiyattheravatthu
 .
 ..‘‘,,’’‘‘’’,‘‘,’’–
@@ -56,7 +56,7 @@ Bhaddiyavatthu tatiyaṃ.
 ‘‘,;
 ,’’.
 ..,,...
-Lakuṇḍakabhaddiyattheravatthu catutthaṃ.
+.
 5. Dārusākaṭikaputtavatthu
 .
 .‘‘’’.‘‘’’.,.‘‘,’’.....
@@ -82,7 +82,7 @@ Lakuṇḍakabhaddiyattheravatthu catutthaṃ.
 ,’’.
 ,..‘‘’’,..‘‘’’.‘‘’’..‘‘’’(vibha. 642)..,..
 .,.
-Dārusākaṭikaputtavatthu pañcamaṃ.
+.
 6. Vajjiputtakabhikkhuvatthu
 .–,.–
 ‘‘,
@@ -99,7 +99,7 @@ Dārusākaṭikaputtavatthu pañcamaṃ.
 ,’’.
 ..,,..,.‘‘,’’,,.,.,,.
 .
-Vajjiputtakabhikkhuvatthu chaṭṭhaṃ.
+.
 7. Cittagahapativatthu
 .‘‘’’..(dha. pa. aṭṭha. 1.74)–
 ‘‘,,,’’.‘‘,.,,’’–
@@ -108,7 +108,7 @@ Vajjiputtakabhikkhuvatthu chaṭṭhaṃ.
 ,’’.(dha. pa. aṭṭha. 1.74);
 .,.,.,,.,.
 .
-Cittagahapativatthu sattamaṃ.
+.
 8. Cūḷasubhaddāvatthu
 .
 .‘‘,’’...,‘‘,,’’.‘‘’’,,.
@@ -139,7 +139,7 @@ Cittagahapativatthu sattamaṃ.
 ...,.,..
 .
 ‘‘’’–‘‘’’......‘‘’’..
-Cūḷasubhaddāvatthu aṭṭhamaṃ.
+.
 9. Ekavihārittheravatthu
 .
 ,,,.,‘‘,’’.‘‘’’‘‘’’–
@@ -148,6 +148,6 @@ Cūḷasubhaddāvatthu aṭṭhamaṃ.
 ,’’.
 .......
 ..
-Ekavihārittheravatthu navamaṃ.
-Pakiṇṇakavaggavaṇṇanā niṭṭhitā.
-Ekavīsatimo vaggo.
+.
+.
+.

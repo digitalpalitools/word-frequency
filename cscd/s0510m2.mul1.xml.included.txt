@@ -36,9 +36,9 @@ tisso vijjā anuppattā kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā  catasso vimokkhāpi ca aṭṭhime
 chaḷabhiññā sacchikatā kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ekavihāriko thero imā gāthāyo
 abhāsitthāti
-
+ekavihārikattherassāpadānaṃ paṭhamaṃ
 
 
  vipassino bhagavato mahābodhimaho ahu
@@ -76,9 +76,9 @@ duggatiṃ nābhijānāmi buddhapūjāyidaṃ phalaṃ
  svāgataṃ  vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ekasaṅkhiyo thero imā gāthāyo
 abhāsitthāti
-
+ekasaṅkhiyattherassāpadānaṃ dutiyaṃ
 
 
  padumuttaro  nāma jino āhutīnaṃ paṭiggaho
@@ -104,9 +104,9 @@ duggatiṃ nābhijānāmi buddhasaññāyidaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ  sudaṃ āyasmā pāṭihīrasaññako thero imā gāthāyo
 abhāsitthāti
-
+pāṭihīrasaññakattherassāpadānaṃ tatiyaṃ
 
 
  kaṇikāraṃva  jalitaṃ dīparukkhaṃva jotitaṃ
@@ -132,9 +132,9 @@ duggatiṃ nābhijānāmi ñāṇatthavāyidaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā  catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ñāṇatthaviko thero imā gāthāyo
 abhāsitthāti
-
+ñāṇatthavikattherassāpadānaṃ catutthaṃ
 
 
  nagare bandhumatiyā dvārapālo ahosahaṃ
@@ -151,9 +151,9 @@ duggatiṃ nābhijānāmi ucchukhaṇḍassidaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ucchukhaṇḍiko thero imā gāthāyo
 abhāsitthāti
-
+ucchukhaṇḍikattherassāpadānaṃ pañcamaṃ
 
 
  romaso  nāma sambuddho vasate pabbatantare
@@ -167,9 +167,9 @@ duggatiṃ nābhijānāmi kaḷambassa idaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā kaḷambadāyako thero imā gāthāyo
 abhāsitthāti
-
+kaḷambadāyakattherassāpadānaṃ chaṭṭhaṃ
 
 
  vipine  buddhaṃ disvāna sayambhuṃ aparājitaṃ
@@ -183,9 +183,9 @@ duggatiṃ nābhijānāmi phaladānassidaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ambāṭakadāyako thero imā gāthāyo
 abhāsitthāti
-
+ambāṭakadāyakattherassāpadānaṃ sattamaṃ
 
 
  harītakaṃ āmalakaṃ ambajambuvibhītakaṃ
@@ -220,9 +220,9 @@ duggatiṃ nābhijānāmi bhesajjassa idaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā harītakadāyako thero imā gāthāyo
 abhāsitthāti
-
+harītakadāyakattherassāpadānaṃ aṭṭhamaṃ
 
 
  hatthirājā tadā āsiṃ īsādanto uruḷhavā
@@ -248,9 +248,9 @@ duggatiṃ nābhijānāmi phaladānassidaṃ phalaṃ
  svāgataṃ vata me āsi kataṃ buddhassa sāsanaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
-
+itthaṃ sudaṃ āyasmā ambapiṇḍiyo thero imā gāthāyo
 abhāsitthāti
-
+ambapiṇḍiyattherassāpadānaṃ navamaṃ
 
 
  padumuttarabuddhassa  lokajeṭṭhassa tādino
@@ -271,8 +271,8 @@ duggatiṃ nābhijānāmi aggadānassidaṃ phalaṃ
 
  paṭisambhidā catasso kataṃ buddhassa sāsanaṃ
 itthaṃ sudaṃ āyasmā ambaphaliyo thero imā gāthāyo abhāsitthāti
-
-
+ambaphaliyattherassāpadānaṃ dasamaṃ
+ekavihārivaggo catucattālīsamo
 tassuddānaṃ 
 thero  ekavihārī ca saṅkhiyo pāṭihīrako
 thaviko ucchukhaṇḍī ca kaḷambaambāṭakado

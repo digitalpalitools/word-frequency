@@ -10,7 +10,7 @@
 ,’’.
 .....,,‘‘,’’,,.....,.,..
 .
-Vinicchayamahāmattavatthu paṭhamaṃ.
+.
 2. Chabbaggiyavatthu
 .
 .–‘‘,,’’?,,‘‘,,’’..‘‘,,‘’,’’–
@@ -19,7 +19,7 @@ Vinicchayamahāmattavatthu paṭhamaṃ.
 ,’’.
 ,.,,.
 .
-Chabbaggiyavatthu dutiyaṃ.
+.
 3. Ekudānakhīṇāsavattheravatthu
 .
 ,–
@@ -35,7 +35,7 @@ Chabbaggiyavatthu dutiyaṃ.
 ,’’.
 ,,.,.,.
 .
-Ekudānakhīṇāsavattheravatthu tatiyaṃ.
+.
 4. Lakuṇḍakabhaddiyattheravatthu
 .
 .–‘‘’’?‘‘,’’.‘‘’’?‘‘,,’’.‘‘,,,’’?‘‘,’’.‘‘,,.,’’–
@@ -47,7 +47,7 @@ Ekudānakhīṇāsavattheravatthu tatiyaṃ.
 ,’’.
 ,..,..,.....
 .
-Lakuṇḍakabhaddiyattheravatthu catutthaṃ.
+.
 5. Sambahulabhikkhuvatthu
 .
 –‘‘,.,‘,,’.’’..
@@ -60,7 +60,7 @@ Lakuṇḍakabhaddiyattheravatthu catutthaṃ.
 ,’’.
 ...,,.
 .
-Sambahulabhikkhuvatthu pañcamaṃ.
+.
 6. Hatthakavatthu
 .
 ‘‘,’’‘‘,,’’.‘‘’’‘‘,,’’‘‘’’,‘‘?.,’’–
@@ -72,7 +72,7 @@ Sambahulabhikkhuvatthu pañcamaṃ.
 ,’’.
 ..?,.
 .
-Hatthakavatthu chaṭṭhaṃ.
+.
 7. Aññatarabrāhmaṇavatthu
 .
 –‘‘‘’,‘’’’.,‘‘,,‘’’’.‘‘,,..,’’–
@@ -84,7 +84,7 @@ Hatthakavatthu chaṭṭhaṃ.
 ,’’.
 ,.,...‘‘,’’,‘‘’’.
 .
-Aññatarabrāhmaṇavatthu sattamaṃ.
+.
 8. Titthiyavatthu
 .
 ‘‘,,,,,’’..‘‘,’’..,‘‘,,,’’...‘‘,’’.
@@ -97,7 +97,7 @@ Aññatarabrāhmaṇavatthu sattamaṃ.
 ,’’.
 ,‘‘’’....,.,.,.,...?,.‘‘,’’..
 .
-Titthiyavatthu aṭṭhamaṃ.
+.
 9. Bālisikavatthu
 .
 ..‘‘’’.‘‘’’.–‘‘,’’.,‘‘,’’‘‘,,’’‘‘,,,’’–
@@ -106,7 +106,7 @@ Titthiyavatthu aṭṭhamaṃ.
 ,’’.
 .–,.,.
 ,.
-Bālisikavatthu navamaṃ.
+.
 10. Sambahulasīlādisampannabhikkhuvatthu
 .
 –‘‘,,,,,,’’.,–‘‘’’.‘‘,,’’–‘‘,,‘’’’.
@@ -119,6 +119,6 @@ Bālisikavatthu navamaṃ.
 ,’’.
 ........–‘‘’’.,.
 ,.
-Sambahulasīlādisampannabhikkhuvatthu dasamaṃ.
-Dhammaṭṭhavaggavaṇṇanā niṭṭhitā.
-Ekūnavīsatimo vaggo.
+.
+.
+.
