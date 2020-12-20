@@ -13,7 +13,7 @@
 
 #>
 
-$rendBlackList = "centre", "nikaya", "book", "chapter", "subhead", "title", "subsubhead"
+$rendBlackList = "nikaya", "book", "chapter", "subhead", "title", "subsubhead"
 
 $nodeBackList = "hi", "pb", "note"
 
