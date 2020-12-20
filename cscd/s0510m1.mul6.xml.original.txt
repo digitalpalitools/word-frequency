@@ -4,14 +4,14 @@
  ‘‘Pavanaṃ  kānanaṃ disvā, appasaddamannāvilaṃ;
 Isīnaṃ anuciṇṇaṃva, āhutīnaṃ paṭiggahaṃ.
 2.
- ‘‘Thūpaṃ katvāna pulinaṃ veḷunā (aṭṭha.), veḷinaṃ (syā.), nānāpupphaṃ samokiriṃ;
+ ‘‘Thūpaṃ katvāna pulinaṃ ⟪ veḷunā (aṭṭha.), veḷinaṃ (syā.) ⟫, nānāpupphaṃ samokiriṃ;
 Sammukhā viya sambuddhaṃ, nimmitaṃ abhivandahaṃ.
 3.
  ‘‘Sattaratanasampanno , rājā raṭṭhamhi issaro;
-Sakakammābhiraddhohaṃ, pupphapūjāyidaṃ thūpapūjāyidaṃ (sī.) phalaṃ.
+Sakakammābhiraddhohaṃ, pupphapūjāyidaṃ ⟪ thūpapūjāyidaṃ (sī.) ⟫ phalaṃ.
 4.
  ‘‘Ekanavutito kappe, yaṃ pupphamabhiropayiṃ;
-Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ thūpapūjāyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ ⟪ thūpapūjāyidaṃ (sī.) ⟫ phalaṃ.
 5.
  ‘‘Asītikappenantayaso, cakkavattī ahosahaṃ;
 Sattaratanasampanno, catudīpamhi issaro.
@@ -22,8 +22,8 @@ Itthaṃ sudaṃ āyasmā sakacintaniyo thero imā gāthāyo abhāsitthāti.
 Sakacintaniyattherassāpadānaṃ paṭhamaṃ.
 2. Avopupphiyattheraapadānaṃ
 7.
- ‘‘Vihārā abhinikkhamma, abbhuṭṭhahiya abbhuṭṭhāsi ca (syā. ka.) caṅkame;
-Catusaccaṃ pakāsanto, deseti desento (syā. ka.) amataṃ padaṃ.
+ ‘‘Vihārā abhinikkhamma, abbhuṭṭhahiya ⟪ abbhuṭṭhāsi ca (syā. ka.) ⟫ caṅkame;
+Catusaccaṃ pakāsanto, deseti ⟪ desento (syā. ka.) ⟫ amataṃ padaṃ.
 8.
  ‘‘Sikhissa  giramaññāya, buddhaseṭṭhassa tādino;
 Nānāpupphaṃ gahetvāna, ākāsamhi samokiriṃ.
@@ -55,7 +55,7 @@ Tena cittappasādena, duggatiṃ so na gacchati.
 Vihaṅgamena santena, subījaṃ ropitaṃ mayā.
 17.
  ‘‘Ekanavutito kappe, yaṃ pupphamabhiropayiṃ;
-Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ pupphapūjāyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ ⟪ pupphapūjāyidaṃ (sī.) ⟫ phalaṃ.
 18.
  ‘‘Sucārudassanā nāma, aṭṭhete ekanāmakā;
 Kappe sattarase āsuṃ, cakkavattī mahabbalā.
@@ -74,17 +74,17 @@ Tatheva jhānaṃ buddhassa, ko disvā nappasīdati.
  ‘‘Vasudhā yathāppameyyā, cittā vanavaṭaṃsakā;
 Tatheva  sīlaṃ buddhassa, ko disvā nappasīdati.
 23.
- ‘‘Anilañjasāsaṅkhubbho anilajova asaṅkhobho (sī.), yathākāso asaṅkhiyo;
+ ‘‘Anilañjasāsaṅkhubbho ⟪ anilajova asaṅkhobho (sī.) ⟫, yathākāso asaṅkhiyo;
 Tatheva ñāṇaṃ buddhassa, ko disvā nappasīdati.
 24.
  ‘‘Imāhi  catugāthāhi, brāhmaṇo senasavhayo;
 Buddhaseṭṭhaṃ thavitvāna, siddhatthaṃ aparājitaṃ.
 25.
  ‘‘Catunnavutikappāni, duggatiṃ nupapajjatha;
-Sugatiṃ sukhasampattiṃ sugatīsu susumpattiṃ (sī. syā.), anubhosimanappakaṃ.
+Sugatiṃ sukhasampattiṃ ⟪ sugatīsu susumpattiṃ (sī. syā.) ⟫, anubhosimanappakaṃ.
 26.
  ‘‘Catunnavutito kappe, thavitvā lokanāyakaṃ;
-Duggatiṃ nābhijānāmi, thomanāya thomanassa (syā.) idaṃ phalaṃ.
+Duggatiṃ nābhijānāmi, thomanāya ⟪ thomanassa (syā.) ⟫ idaṃ phalaṃ.
 27.
  ‘‘Cātuddasamhi kappamhi, caturo āsumuggatā;
 Sattaratanasampannā, cakkavattī mahabbalā.
@@ -104,13 +104,13 @@ Tañca buddhassa pādāsiṃ, pasanno sehi pāṇibhi.
 Sukhāhaṃ nābhijānāmi, samaṃ tena kutottariṃ.
 32.
  ‘‘Carimo vattate mayhaṃ, bhavā sabbe samūhatā;
-Hatthināgena santena, kusalaṃ ropitaṃ mayā nāgova bandhanaṃ chetvā, viharāmi anāsavo (syā.).
+Hatthināgena santena, kusalaṃ ropitaṃ mayā ⟪ nāgova bandhanaṃ chetvā, viharāmi anāsavo (syā.) ⟫.
 33.
  ‘‘Ekattiṃse ito kappe, yaṃ kammamakariṃ tadā;
 Duggatiṃ nābhijānāmi, bhisadānassidaṃ phalaṃ.
 34.
  ‘‘Samodhānā ca rājāno, soḷasa manujādhipā;
-Kappamhi cuddase terase (sī. syā.) āsuṃ, cakkavattī mahabbalā.
+Kappamhi cuddase ⟪ terase (sī. syā.) ⟫ āsuṃ, cakkavattī mahabbalā.
 35.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
 Itthaṃ sudaṃ āyasmā bhisadāyako thero imā gāthāyo abhāsitthāti.
@@ -124,7 +124,7 @@ Migasaṅghaṃ vadhitvāna, jīvāmi pabbatantare.
 Mamuddharitukāmo so, āgacchi pabbatuttamaṃ.
 38.
  ‘‘Pasadañca migaṃ hantvā, bhakkhituṃ samupāgamiṃ;
-Bhagavā tamhi samaye, bhikkhamāno sikkhācāro (syā.) upāgami.
+Bhagavā tamhi samaye, bhikkhamāno ⟪ sikkhācāro (syā.) ⟫ upāgami.
 39.
  ‘‘Varamaṃsāni paggayha, adāsiṃ tassa satthuno;
 Anumodi mahāvīro, nibbāpento mamaṃ tadā.
@@ -135,11 +135,11 @@ Pītiṃ uppādayitvāna, tattha kālaṅkato ahaṃ.
  ‘‘Etena  maṃsadānena, cittassa paṇidhīhi ca;
 Pannarase kappasate, devaloke ramiṃ ahaṃ.
 42.
- ‘‘Avasesesu kappesu, kusalaṃ cintitaṃ nicitaṃ (sī.), karitaṃ (syā.) mayā;
+ ‘‘Avasesesu kappesu, kusalaṃ cintitaṃ ⟪ nicitaṃ (sī.), karitaṃ (syā.) ⟫ mayā;
 Teneva maṃsadānena, buddhānussaraṇena ca.
 43.
  ‘‘Aṭṭhattiṃsamhi kappamhi, aṭṭha dīghāyunāmakā;
-Saṭṭhimhito kappasate, duve varuṇanāmakā saraṇanāmakā (syā.).
+Saṭṭhimhito kappasate, duve varuṇanāmakā ⟪ saraṇanāmakā (syā.) ⟫.
 44.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
 Itthaṃ sudaṃ āyasmā sucintito thero imā gāthāyo abhāsitthāti.
@@ -164,7 +164,7 @@ Vatthadānaṃ pasaṃsitvā, pakkāmi uttarāmukho.
  ‘‘Bhave nibbattamānamhi, honti me vatthasampadā;
 Ākāse chadanaṃ hoti, vatthadānassidaṃ phalaṃ.
 51.
- ‘‘Aruṇavā aruṇakā (sī.), aruṇasā (syā.) satta janā, cakkavattī mahabbalā;
+ ‘‘Aruṇavā ⟪ aruṇakā (sī.), aruṇasā (syā.) ⟫ satta janā, cakkavattī mahabbalā;
 Chattiṃsatimhi āsiṃsu, kappamhi manujādhipā.
 52.
  ‘‘Paṭisambhidā  catasso…pe… kataṃ buddhassa sāsanaṃ’’.
@@ -176,7 +176,7 @@ Vatthadāyakattherassāpadānaṃ sattamaṃ.
 Mettāya aphari loke, appamāṇe nirūpadhi.
 54.
  ‘‘Kapi ahaṃ tadā āsiṃ, himavante naguttame;
-Disvā anomadassiṃ taṃ anomaṃ amitaṃ (sī.), anomamadhitaṃ (syā.), buddhe cittaṃ pasādayiṃ.
+Disvā anomadassiṃ taṃ ⟪ anomaṃ amitaṃ (sī.), anomamadhitaṃ (syā.) ⟫, buddhe cittaṃ pasādayiṃ.
 55.
  ‘‘Avidūre himavantassa, ambāsuṃ phalino tadā;
 Tato pakkaṃ gahetvāna, ambaṃ samadhukaṃ adaṃ.
@@ -211,7 +211,7 @@ Buddhassa abhiropesiṃ, sikhino lokabandhuno.
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
 65.
  ‘‘Ekattiṃse ito kappe, yaṃ pupphamabhiropayiṃ;
-Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ pupphapūjāyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ ⟪ pupphapūjāyidaṃ (sī.) ⟫ phalaṃ.
 66.
  ‘‘Chabbīsatimhi kappamhi, cattārosuṃ mahāyasā;
 Sattaratanasampannā, rājāno cakkavattino.
@@ -227,7 +227,7 @@ Byagghūsabhaṃva pavaraṃ, abhijātaṃva kesariṃ.
  ‘‘Sikhiṃ tilokasaraṇaṃ, anejaṃ aparājitaṃ;
 Nisinnaṃ samaṇānaggaṃ, bhikkhusaṅghapurakkhataṃ.
 70.
- ‘‘Caṅkoṭake caṅgoṭake (sī.) ṭhapetvāna, anojaṃ pupphamuttamaṃ;
+ ‘‘Caṅkoṭake ⟪ caṅgoṭake (sī.) ⟫ ṭhapetvāna, anojaṃ pupphamuttamaṃ;
 Saha caṅkoṭakeneva, buddhaseṭṭhaṃ samokiriṃ.
 71.
  ‘‘Tena cittappasādena, dvipadinda narāsabha;

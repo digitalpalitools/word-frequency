@@ -1,7 +1,7 @@
 ﻿10. Indriyayamakaṃ
 1. Paṇṇattivāro
 (Ka) uddeso
-1. Bāvīsatindriyāni  – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ viriyindiyaṃ (sī. syā.), satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ.
+1. Bāvīsatindriyāni  – cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ, kāyindriyaṃ, manindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, sukhindriyaṃ, dukkhindriyaṃ, somanassindriyaṃ, domanassindriyaṃ, upekkhindriyaṃ, saddhindriyaṃ, vīriyindriyaṃ ⟪ viriyindiyaṃ (sī. syā.) ⟫, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, anaññātaññassāmītindriyaṃ, aññindriyaṃ, aññātāvindriyaṃ.
 1. Padasodhanavāro
 (Ka) anulomaṃ
 2. (Ka) cakkhu cakkhundriyaṃ?
@@ -563,7 +563,7 @@ Dibbasotaṃ taṇhāsotaṃ  sotaṃ, na sotindriyaṃ. Sotindriyaṃ sotañcev
 (Ka) jivhā jivhindriyanti? Āmantā.
 (Kha) jivhindriyaṃ jivhāti? Āmantā.
 (Ka) kāyo kāyindriyanti?
-Kāyindriyaṃ ṭhapetvā avaseso kāyo avasesā kāyo (sī. syā. ka.), na kāyindriyaṃ. Kāyindriyaṃ kāyo ceva kāyindriyañca.
+Kāyindriyaṃ ṭhapetvā avaseso kāyo ⟪ avasesā kāyo (sī. syā. ka.) ⟫, na kāyindriyaṃ. Kāyindriyaṃ kāyo ceva kāyindriyañca.
 (Kha) kāyindriyaṃ kāyoti? Āmantā.
 (Ka) mano manindriyanti? Āmantā.
 (Kha) manindriyaṃ manoti? Āmantā.
@@ -4130,7 +4130,7 @@ Yo aggaphalaṃ sacchikaroti so domanassindriyaṃ nappajahati, no ca aññātā
 (Kha) yo vā pana aññātāvindriyaṃ na sacchikaroti so domanassindriyaṃ nappajahatīti?
 Anāgāmimaggasamaṅgī aññātāvindriyaṃ na sacchikaroti, no ca domanassindriyaṃ nappajahati. Anāgāmimaggasamaṅgiñca arahantañca ṭhapetvā avasesā puggalā aññātāvindriyañca na sacchikaronti domanassindriyañca nappajahanti. (Domanassindriyamūlakaṃ)
 441. (Ka) yo anaññātaññassāmītindriyaṃ na bhāveti so aññindriyaṃ na bhāvetīti?
-Tayo maggasamaṅgino tayo puggalā (pī.) anaññātaññassāmītindriyaṃ na bhāventi, no ca aññindriyaṃ na bhāventi. Cattāro maggasamaṅgino aṭṭhamakañca tayo maggasamaṅgino ca (pī.) ṭhapetvā avasesā puggalā anaññātaññassāmītindriyañca na bhāventi aññindriyañca na bhāventi.
+Tayo maggasamaṅgino ⟪ tayo puggalā (pī.) ⟫ anaññātaññassāmītindriyaṃ na bhāventi, no ca aññindriyaṃ na bhāventi. Cattāro maggasamaṅgino ⟪ aṭṭhamakañca tayo maggasamaṅgino ca (pī.) ⟫ ṭhapetvā avasesā puggalā anaññātaññassāmītindriyañca na bhāventi aññindriyañca na bhāventi.
 (Kha) yo vā pana aññindriyaṃ na bhāveti so anaññātaññassāmītindriyaṃ na bhāvetīti?
 Aṭṭhamako aññindriyaṃ na bhāveti, no ca anaññātaññassāmītindriyaṃ na bhāveti. Cattāro maggasamaṅgino ṭhapetvā avasesā puggalā aññindriyañca na bhāventi anaññātaññassāmītindriyañca na bhāventi.
 (Ka) yo  anaññātaññassāmītindriyaṃ na bhāveti so aññātāvindriyaṃ  na sacchikarotīti?
@@ -4319,13 +4319,13 @@ Arahā anaññātaññassāmītindriyaṃ na bhāveti, no ca aññindriyaṃ na 
 (Kha) yo vā pana aññindriyaṃ na bhāvittha so anaññātaññassāmītindriyaṃ na bhāvetīti?
 Aṭṭhamako aññindriyaṃ na bhāvittha, no ca anaññātaññassāmītindriyaṃ  na bhāveti. Satta puggalā aññindriyañca na bhāvittha anaññātaññassāmītindriyañca na bhāventi.
 (Ka) yo anaññātaññassāmītindriyaṃ na bhāveti so aññātāvindriyaṃ na sacchikaritthāti?
-Arahā anaññātaññassāmītindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Aṭṭha satta (sī. syā. ka.) puggalā anaññātaññassāmītindriyañca na bhāventi aññātāvindriyañca  na sacchikarittha.
+Arahā anaññātaññassāmītindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Aṭṭha ⟪ satta (sī. syā. ka.) ⟫ puggalā anaññātaññassāmītindriyañca na bhāventi aññātāvindriyañca  na sacchikarittha.
 (Kha) yo vā pana aññātāvindriyaṃ na sacchikarittha so anaññātaññassāmītindriyaṃ na bhāvetīti?
 Aṭṭhamako aññātāvindriyaṃ na sacchikarittha, no ca anaññātaññassāmītindriyaṃ na bhāveti. Aṭṭha puggalā aññātāvindriyañca na sacchikarittha anaññātaññassāmītindriyañca na bhāventi. (Anaññātaññassāmītindriyamūlakaṃ)
 466. (Ka) yo aññindriyaṃ na bhāveti so aññātāvindriyaṃ na sacchikaritthāti?
-Arahā aññindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Cha pañca (sī. syā. ka.) puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarittha.
+Arahā aññindriyaṃ na bhāveti, no ca aññātāvindriyaṃ na sacchikarittha. Cha ⟪ pañca (sī. syā. ka.) ⟫ puggalā aññindriyañca na bhāventi aññātāvindriyañca na sacchikarittha.
 (Kha) yo vā pana aññātāvindriyaṃ na sacchikarittha so aññindriyaṃ na bhāvetīti?
-Tayo maggasamaṅgino aññātāvindriyaṃ na sacchikarittha, no ca aññindriyaṃ na bhāventi. Cha pañca (sī. syā. ka.) puggalā aññātāvindriyañca na sacchikarittha aññindriyañca na bhāventi. (Aññindriyamūlakaṃ)
+Tayo maggasamaṅgino aññātāvindriyaṃ na sacchikarittha, no ca aññindriyaṃ na bhāventi. Cha ⟪ pañca (sī. syā. ka.) ⟫ puggalā aññātāvindriyañca na sacchikarittha aññindriyañca na bhāventi. (Aññindriyamūlakaṃ)
 5. Paccuppannānāgatavāro
 (Ka) anulomaṃ
 467. (Ka) yo cakkhundriyaṃ parijānāti so domanassindriyaṃ pajahissatīti? No.

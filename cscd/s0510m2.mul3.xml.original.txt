@@ -7,7 +7,7 @@ Pasannacitto sumano, jagatiṃ kārayiṃ ahaṃ.
  ‘‘Darito pabbatato vā, rukkhato patito ahaṃ;
 Cuto patiṭṭhaṃ vindāmi, jagatiyā idaṃ phalaṃ.
 3.
- ‘‘Na me corā vihesanti, nātimaññanti khattiyā pasahanti, nātimaññati khattiyo (sī. pī.);
+ ‘‘Na me corā vihesanti, nātimaññanti khattiyā ⟪ pasahanti, nātimaññati khattiyo (sī. pī.) ⟫;
 Sabbāmittetikkamāmi, jagatiyā idaṃ phalaṃ.
 4.
  ‘‘Yaṃ yaṃ yonupapajjāmi, devattaṃ atha mānusaṃ;
@@ -38,7 +38,7 @@ Nibbāyiṃsu tayo aggī, labhāmi vipulaṃ sukhaṃ.
  ‘‘Aho buddho aho dhammo, aho no satthusampadā;
 Datvānahaṃ morahatthaṃ, labhāmi vipulaṃ sukhaṃ.
 12.
- ‘‘Tiyaggī tidhaggī (syā. ka.), tivaggī (pī.) nibbutā mayhaṃ, bhavā sabbe samūhatā;
+ ‘‘Tiyaggī ⟪ tidhaggī (syā. ka.), tivaggī (pī.) ⟫ nibbutā mayhaṃ, bhavā sabbe samūhatā;
 Sabbāsavā parikkhīṇā, natthi dāni punabbhavo.
 13.
  ‘‘Ekatiṃse ito kappe, yaṃ dānamadadiṃ tadā;
@@ -55,7 +55,7 @@ Morahatthiyattherassāpadānaṃ dutiyaṃ.
 3. Sīhāsanabījiyattheraapadānaṃ
 17.
  ‘‘Tissassāhaṃ bhagavato, bodhirukkhamavandiyaṃ;
-Paggayha bījaniṃ tattha, sīhāsanamabījahaṃ mabījayiṃ (sī.), mavijjahaṃ (syā.).
+Paggayha bījaniṃ tattha, sīhāsanamabījahaṃ ⟪ mabījayiṃ (sī.), mavijjahaṃ (syā.) ⟫.
 18.
  ‘‘Dvenavute ito kappe, sīhāsanamabījahaṃ;
 Duggatiṃ nābhijānāmi, bījanāya idaṃ phalaṃ.
@@ -125,11 +125,11 @@ Padumuttaro bhagavā, abbhokāsamhi caṅkami.
  ‘‘Paṇḍaraṃ chattamādāya, addhānaṃ paṭipajjahaṃ;
 Tattha disvāna sambuddhaṃ, vitti me upapajjatha.
 39.
- ‘‘Marīciyotthaṭā maricimophunā (syā.), marīcivophuṭā (pī.) bhūmi, aṅgārāva mahī ayaṃ;
-Upahanti upavāyanti (sī. pī.) mahāvātā, sarīrassāsukhepanā sarīrakāyukhepanā (syā.).
+ ‘‘Marīciyotthaṭā ⟪ maricimophunā (syā.), marīcivophuṭā (pī.) ⟫ bhūmi, aṅgārāva mahī ayaṃ;
+Upahanti ⟪ upavāyanti (sī. pī.) ⟫ mahāvātā, sarīrassāsukhepanā ⟪ sarīrakāyukhepanā (syā.) ⟫.
 40.
- ‘‘Sītaṃ uṇhaṃ vihanantaṃ vihanati (syā. ka.), vātātapanivāraṇaṃ;
-Paṭiggaṇha imaṃ chattaṃ, phassayissāmi passayissāmi (ka.) nibbutiṃ.
+ ‘‘Sītaṃ uṇhaṃ vihanantaṃ ⟪ vihanati (syā. ka.) ⟫, vātātapanivāraṇaṃ;
+Paṭiggaṇha imaṃ chattaṃ, phassayissāmi ⟪ passayissāmi (ka.) ⟫ nibbutiṃ.
 41.
  ‘‘Anukampako kāruṇiko, padumuttaro mahāyaso;
 Mama saṅkappamaññāya, paṭiggaṇhi tadā jino.
@@ -157,16 +157,16 @@ Ekachattiyattherassāpadānaṃ sattamaṃ.
 8. Jātipupphiyattheraapadānaṃ
 49.
  ‘‘Parinibbute bhagavati, padumuttare mahāyase;
-Pupphavaṭaṃsake katvā pupphacaṅkoṭake gahetvā (syā.), sarīramabhiropayiṃ.
+Pupphavaṭaṃsake katvā ⟪ pupphacaṅkoṭake gahetvā (syā.) ⟫, sarīramabhiropayiṃ.
 50.
  ‘‘Tattha cittaṃ pasādetvā, nimmānaṃ agamāsahaṃ;
 Devalokagato santo, puññakammaṃ sarāmahaṃ.
 51.
  ‘‘Ambarā  pupphavasso me, sabbakālaṃ pavassati;
-Saṃsarāmi manusse ce ve (syā.), rājā homi mahāyaso.
+Saṃsarāmi manusse ce ⟪ ve (syā.) ⟫, rājā homi mahāyaso.
 52.
  ‘‘Tahiṃ kusumavasso me, abhivassati sabbadā;
-Tasseva kāyesu (syā.), kāyeva (pī.) pupphapūjāya, vāhasā sabbadassino.
+Tasseva ⟪ kāyesu (syā.), kāyeva (pī.) ⟫ pupphapūjāya, vāhasā sabbadassino.
 53.
  ‘‘Ayaṃ pacchimako mayhaṃ, carimo vattate bhavo;
 Ajjāpi pupphavasso me, abhivassati sabbadā.
@@ -185,7 +185,7 @@ Jātipupphiyattherassāpadānaṃ aṭṭhamaṃ.
 9. Paṭṭipupphiyattheraapadānaṃ
 58.
  ‘‘Nīharante sarīramhi, vajjamānāsu bherisu;
-Pasannacitto sumano, paṭṭipupphamapūjayiṃ satti… (syā. pī.).
+Pasannacitto sumano, paṭṭipupphamapūjayiṃ ⟪ satti… (syā. pī.) ⟫.
 59.
  ‘‘Satasahassito kappe, yaṃ pupphamabhipūjayiṃ;
 Duggatiṃ nābhijānāmi, dehapūjāyidaṃ phalaṃ.
@@ -195,12 +195,12 @@ Duggatiṃ nābhijānāmi, dehapūjāyidaṃ phalaṃ.
  ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.
 62.
  ‘‘Paṭisambhidā  catasso…pe… kataṃ buddhassa sāsanaṃ’’.
-Itthaṃ sudaṃ āyasmā paṭṭipupphiyo sattipaṇṇiyo (syā. pī.) thero imā gāthāyo
+Itthaṃ sudaṃ āyasmā paṭṭipupphiyo ⟪ sattipaṇṇiyo (syā. pī.) ⟫ thero imā gāthāyo
 Abhāsitthāti.
 Paṭṭipupphiyattherassāpadānaṃ navamaṃ.
 10. Gandhapūjakattheraapadānaṃ
 63.
- ‘‘Citāsu  kurumānāsu cittesu kayiramānesu (sī.), nānāgandhe samāhaṭe;
+ ‘‘Citāsu  kurumānāsu ⟪ cittesu kayiramānesu (sī.) ⟫, nānāgandhe samāhaṭe;
 Pasannacitto sumano, gandhamuṭṭhimapūjayiṃ.
 64.
  ‘‘Satasahassito kappe, citakaṃ yamapūjayiṃ;

@@ -2,10 +2,10 @@
 1. Paṇṇadāyakattheraapadānaṃ
 1.
  ‘‘Paṇṇasāle  nisinnomhi, paṇṇabhojanabhojano;
-Upaviṭṭhañca maṃ santaṃ, upāgacchi mahāisi mahāmuni (sī.).
+Upaviṭṭhañca maṃ santaṃ, upāgacchi mahāisi ⟪ mahāmuni (sī.) ⟫.
 2.
  ‘‘Siddhattho lokapajjoto, sabbalokatikicchako;
-Tassa paṇṇaṃ mayā dinnaṃ, nisinnaṃ nisinnassa (syā. aṭṭha.) paṇṇasanthare.
+Tassa paṇṇaṃ mayā dinnaṃ, nisinnaṃ ⟪ nisinnassa (syā. aṭṭha.) ⟫ paṇṇasanthare.
 3.
  ‘‘Catunnavutito kappe, yaṃ paṇṇamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, paṇṇadānassidaṃ phalaṃ.
@@ -16,10 +16,10 @@ Itthaṃ sudaṃ āyasmā paṇṇadāyako thero imā gāthāyo abhāsitthāti.
 Paṇṇadāyakattherassāpadānaṃ paṭhamaṃ.
 2. Phaladāyakattheraapadānaṃ
 5.
- ‘‘Sinerusamasantoso , dharaṇīsama dharaṇīdhara (sī. syā.) sādiso;
+ ‘‘Sinerusamasantoso , dharaṇīsama ⟪ dharaṇīdhara (sī. syā.) ⟫ sādiso;
 Vuṭṭhahitvā samādhimhā, bhikkhāya mamupaṭṭhito.
 6.
- ‘‘Harītakaṃ harītakiṃ (syā.) āmalakaṃ, ambajambuvibhītakaṃ;
+ ‘‘Harītakaṃ ⟪ harītakiṃ (syā.) ⟫ āmalakaṃ, ambajambuvibhītakaṃ;
 Kolaṃ bhallātakaṃ billaṃ, phārusakaphalāni ca.
 7.
  ‘‘Siddhatthassa mahesissa, sabbalokānukampino;
@@ -45,7 +45,7 @@ Akāsiṃ paccuggamanaṃ, vippasannena cetasā.
  ‘‘Catunnavutito kappe, paccuggacchiṃ narāsabhaṃ;
 Duggatiṃ nābhijānāmi, paccuggamane idaṃ phalaṃ.
 14.
- ‘‘Sattatiṃse sattavīse (sī. syā.) ito kappe, eko āsiṃ janādhipo;
+ ‘‘Sattatiṃse ⟪ sattavīse (sī. syā.) ⟫ ito kappe, eko āsiṃ janādhipo;
 Saparivāroti nāmena, cakkavattī mahabbalo.
 15.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
@@ -87,7 +87,7 @@ Dvipadindaṃ mahānāgaṃ, lokajeṭṭhaṃ narāsabhaṃ.
  ‘‘Pakkosāpiya tassāhaṃ, sabbalokahitesino;
 Upaṭṭhāko mayā dinno, siddhatthassa mahesino.
 26.
- ‘‘Paṭiggahetvā paṭiggahesi (ka.) sambuddho, niyyādesi mahāmuni mahāisi (ka.);
+ ‘‘Paṭiggahetvā ⟪ paṭiggahesi (ka.) ⟫ sambuddho, niyyādesi mahāmuni ⟪ mahāisi (ka.) ⟫;
 Uṭṭhāya āsanā tamhā, pakkāmi pācināmukho.
 27.
  ‘‘Catunnavutito  kappe, upaṭṭhākamadaṃ tadā;
@@ -129,13 +129,13 @@ Itthaṃ  sudaṃ āyasmā sattāhapabbajito thero imā gāthāyo abhāsitthāti
 Sattāhapabbajitattherassāpadānaṃ aṭṭhamaṃ.
 9. Buddhupaṭṭhāyikattheraapadānaṃ
 38.
- ‘‘Veṭambhinīti veṭambarīti (sī.), vedhambhinīti (syā.) me nāmaṃ, pitusantaṃ pitā’santaṃ (?) mamaṃ tadā;
+ ‘‘Veṭambhinīti ⟪ veṭambarīti (sī.), vedhambhinīti (syā.) ⟫ me nāmaṃ, pitusantaṃ ⟪ pitā’santaṃ (?) ⟫ mamaṃ tadā;
 Mama hatthaṃ gahetvāna, upānayi mahāmuniṃ.
 39.
  ‘‘Imemaṃ uddisissanti, buddhā lokagganāyakā;
 Tehaṃ upaṭṭhiṃ sakkaccaṃ, pasanno sehi pāṇibhi.
 40.
- ‘‘Ekattiṃse ito kappe, buddhe upaṭṭhahiṃ paricariṃ (sī. syā.) tadā;
+ ‘‘Ekattiṃse ito kappe, buddhe upaṭṭhahiṃ ⟪ paricariṃ (sī. syā.) ⟫ tadā;
 Duggatiṃ nābhijānāmi, upaṭṭhānassidaṃ phalaṃ.
 41.
  ‘‘Tevīsamhi ito kappe, caturo āsu khattiyā;
@@ -149,7 +149,7 @@ Buddhupaṭṭhāyikattherassāpadānaṃ navamaṃ.
  ‘‘Cullāsītisahassāni , pabbajimha akiñcanā;
 Tesaṃ pubbaṅgamo āsiṃ, uttamatthassa pattiyā.
 44.
- ‘‘Sarāgā  sabhavā samohā (syā.) cete, vippasannamanāvilā;
+ ‘‘Sarāgā  sabhavā ⟪ samohā (syā.) ⟫ cete, vippasannamanāvilā;
 Upaṭṭhahiṃsu sakkaccaṃ, pasannā sehi pāṇibhi.
 45.
  ‘‘Khīṇāsavā vantadosā, katakiccā anāsavā;

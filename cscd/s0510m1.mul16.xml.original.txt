@@ -28,10 +28,10 @@ Purakkhato sāvakehi, nagaraṃ paṭipajjatha.
  ‘‘Rañño antepure āsiṃ, gopako abhisammato;
 Pāsāde upaviṭṭhohaṃ, addasaṃ lokanāyakaṃ.
 9.
- ‘‘Kaṇaveraṃ karavīraṃ (sakkatānulomaṃ), kaṇavīraṃ (pākata) gahetvāna, bhikkhusaṅghe samokiriṃ;
+ ‘‘Kaṇaveraṃ ⟪ karavīraṃ (sakkatānulomaṃ), kaṇavīraṃ (pākata) ⟫ gahetvāna, bhikkhusaṅghe samokiriṃ;
 Buddhassa visuṃ katvāna, tato bhiyyo samokiriṃ.
 10.
- ‘‘Catunnavutito  kappe, yaṃ pupphamabhipūjayiṃ ropayiṃ (syā.);
+ ‘‘Catunnavutito  kappe, yaṃ pupphamabhipūjayiṃ ⟪ ropayiṃ (syā.) ⟫;
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
 11.
  ‘‘Sattāsītimhito kappe, caturāsuṃ mahiddhikā;
@@ -46,7 +46,7 @@ Kaṇaverapupphiyattherassāpadānaṃ dutiyaṃ.
 Nāḷikerañca pādāsiṃ, khajjakaṃ abhisammataṃ.
 14.
  ‘‘Buddhassa  tamahaṃ datvā, tissassa tu mahesino;
-Modāmahaṃ kāmakāmī, upapajjiṃ kāmakārī, upapajjaṃ (sī.) yamicchakaṃ sabbatthapi evameva dissati.
+Modāmahaṃ kāmakāmī, upapajjiṃ ⟪ kāmakārī, upapajjaṃ (sī.) ⟫ yamicchakaṃ ⟪ sabbatthapi evameva dissati ⟫.
 15.
  ‘‘Dvenavute ito kappe, yaṃ dānamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, phaladānassidaṃ phalaṃ.
@@ -93,11 +93,11 @@ Itthaṃ  sudaṃ āyasmā kaṇikārachattiyo thero imā gāthāyo abhāsitthā
 Kaṇikārachattiyattherassāpadānaṃ pañcamaṃ.
 6. Sappidāyakattheraapadānaṃ
 28.
- ‘‘Phusso  nāmāsi nāmātha (sī.) bhagavā, āhutīnaṃ paṭiggaho;
+ ‘‘Phusso  nāmāsi ⟪ nāmātha (sī.) ⟫ bhagavā, āhutīnaṃ paṭiggaho;
 Gacchate vīthiyaṃ vīro, nibbāpento mahājanaṃ.
 29.
  ‘‘Anupubbena  bhagavā, āgacchi mama santikaṃ;
-Tato taṃ tatohaṃ (sī. syā.) pattaṃ paggayha, sappitelamadāsahaṃ.
+Tato taṃ ⟪ tatohaṃ (sī. syā.) ⟫ pattaṃ paggayha, sappitelamadāsahaṃ.
 30.
  ‘‘Dvenavute ito kappe, yaṃ sappimadadiṃ tadā;
 Duggatiṃ nābhijānāmi, sappidānassidaṃ phalaṃ.
@@ -127,10 +127,10 @@ Itthaṃ sudaṃ āyasmā yūthikapupphiyo thero imā gāthāyo abhāsitthāti.
 Yūthikapupphiyattherassāpadānaṃ sattamaṃ.
 8. Dussadāyakattheraapadānaṃ
 38.
- ‘‘Tivarāyaṃ  pure ramme, rājaputtosahaṃ rājaputto ahaṃ (sī. syā.) tadā;
+ ‘‘Tivarāyaṃ  pure ramme, rājaputtosahaṃ ⟪ rājaputto ahaṃ (sī. syā.) ⟫ tadā;
 Paṇṇākāraṃ labhitvāna, upasantassadāsahaṃ.
 39.
- ‘‘Adhivāsesi  bhagavā, vatthaṃ navaṃ (ka.) hatthena āmasi;
+ ‘‘Adhivāsesi  bhagavā, vatthaṃ ⟪ navaṃ (ka.) ⟫ hatthena āmasi;
 Siddhattho adhivāsetvā, vehāsaṃ nabhamuggami.
 40.
  ‘‘Buddhassa gacchamānassa, dussā dhāvanti pacchato;
@@ -148,7 +148,7 @@ Dussadāyakattherassāpadānaṃ aṭṭhamaṃ.
 9. Samādapakattheraapadānaṃ
 44.
  ‘‘Nagare bandhumatiyā, mahāpūgagaṇo ahu;
-Tesāhaṃ pavaro āsiṃ, mama baddhacarā paṭṭhacarā (syā.) ca te.
+Tesāhaṃ pavaro āsiṃ, mama baddhacarā ⟪ paṭṭhacarā (syā.) ⟫ ca te.
 45.
  ‘‘Sabbe te sannipātetvā, puññakamme samādayiṃ;
 Māḷaṃ kassāma saṅghassa, puññakkhettaṃ anuttaraṃ.
@@ -159,7 +159,7 @@ Niṭṭhāpetvā ca taṃ māḷaṃ, vipassissa adamhase.
  ‘‘Ekanavutito kappe, yaṃ māḷamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, māḷadānassidaṃ phalaṃ.
 48.
- ‘‘Ekūnasattatikappe ekūnasaṭṭhikappamhi (sī. syā.),
+ ‘‘Ekūnasattatikappe ⟪ ekūnasaṭṭhikappamhi (sī. syā.) ⟫,
 Eko āsi janādhipo.
 Ādeyyo nāma nāmena, cakkavattī mahabbalo.
 49.
@@ -175,7 +175,7 @@ Pavisati gandhakuṭiṃ, vihārakusalo muni.
 Apasaddo ca sambuddhe, pañcaṅgulimadāsahaṃ.
 52.
  ‘‘Dvenavute ito kappe, yaṃ gandhamabhiropayiṃ;
-Duggatiṃ nābhijānāmi, pañcaṅgulissidaṃ pañcaṅguliyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, pañcaṅgulissidaṃ ⟪ pañcaṅguliyidaṃ (sī.) ⟫ phalaṃ.
 53.
  ‘‘Dvesattatimhito  kappe, rājā āsiṃ sayampabho;
 Sattaratanasampanno, cakkavattī mahabbalo.

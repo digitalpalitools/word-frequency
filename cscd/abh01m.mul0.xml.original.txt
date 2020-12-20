@@ -12,15 +12,15 @@ Mātikā
 3. (Ka) vipākā dhammā.
 (Kha) vipākadhammadhammā.
 (Ga) nevavipākanavipākadhammadhammā.
-4. (Ka) upādiṇṇupādāniyā upādinnupādāniyā (syā.) dhammā.
+4. (Ka) upādiṇṇupādāniyā ⟪ upādinnupādāniyā (syā.) ⟫ dhammā.
 (Kha) anupādiṇṇupādāniyā dhammā.
-(Ga) anupādiṇṇaanupādāniyā anupādinnānupādāniyā (syā.) dhammā.
+(Ga) anupādiṇṇaanupādāniyā ⟪ anupādinnānupādāniyā (syā.) ⟫ dhammā.
 5. (Ka) saṃkiliṭṭhasaṃkilesikā dhammā.
 (Kha) asaṃkiliṭṭhasaṃkilesikā dhammā.
-(Ga) asaṃkiliṭṭhaasaṃkilesikā asaṃkiliṭṭhāsaṃkilesikā (syā.) dhammā.
+(Ga) asaṃkiliṭṭhaasaṃkilesikā ⟪ asaṃkiliṭṭhāsaṃkilesikā (syā.) ⟫ dhammā.
 6. (Ka) savitakkasavicārā  dhammā.
 (Kha) avitakkavicāramattā dhammā.
-(Ga) avitakkaavicārā avitakkāvicārā (syā.) dhammā.
+(Ga) avitakkaavicārā ⟪ avitakkāvicārā (syā.) ⟫ dhammā.
 7. (Ka) pītisahagatā dhammā.
 (Kha) sukhasahagatā dhammā.
 (Ga) upekkhāsahagatā dhammā.
@@ -32,10 +32,10 @@ Mātikā
 (Ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā.
 10. (Ka) ācayagāmino  dhammā.
 (Kha) apacayagāmino dhammā.
-(Ga) nevācayagāmināpacayagāmino nevācayagāmino nāpacayagāmino (syā.) dhammā.
+(Ga) nevācayagāmināpacayagāmino ⟪ nevācayagāmino nāpacayagāmino (syā.) ⟫ dhammā.
 11. (Ka) sekkhā dhammā.
 (Kha) asekkhā dhammā.
-(Ga) nevasekkhanāsekkhā nevasekkhānāsekkhā (sī. syā.) dhammā.
+(Ga) nevasekkhanāsekkhā ⟪ nevasekkhānāsekkhā (sī. syā.) ⟫ dhammā.
 12. (Ka) parittā dhammā.
 (Kha) mahaggatā dhammā.
 (Ga) appamāṇā dhammā.
@@ -68,7 +68,7 @@ Mātikā
 (Ga) ajjhattabahiddhārammaṇā dhammā.
 22. (Ka) sanidassanasappaṭighā dhammā.
 (Kha) anidassanasappaṭighā dhammā.
-(Ga) anidassanaappaṭighā anidassanāppaṭighā (syā.) dhammā.
+(Ga) anidassanaappaṭighā ⟪ anidassanāppaṭighā (syā.) ⟫ dhammā.
 Tikamātikā.
 2. Dukamātikā
 Hetugocchakaṃ
@@ -224,7 +224,7 @@ Mahantaradukaṃ
 (Kha) bāhirā dhammā.
 67. (Ka) upādā dhammā.
 (Kha) no upādā dhammā.
-68. (Ka) upādiṇṇā upādinnā (sī. syā.) dhammā.
+68. (Ka) upādiṇṇā ⟪ upādinnā (sī. syā.) ⟫ dhammā.
 (Kha) anupādiṇṇā dhammā.
 Mahantaradukaṃ.
 Upādānagocchakaṃ
@@ -350,7 +350,7 @@ Suttantikadukamātikā
 125. (Ka) khanti ca.
 (Kha) soraccañca.
 126. (Ka) sākhalyañca.
-(Kha) paṭisanthāro ca paṭisandhāro ca (ka.).
+(Kha) paṭisanthāro ca ⟪ paṭisandhāro ca (ka.) ⟫.
 127. (Ka) indriyesu aguttadvāratā ca.
 (Kha) bhojane amattaññutā ca.
 128. (Ka) indriyesu guttadvāratā ca.
@@ -383,5 +383,5 @@ Suttantikadukamātikā
 (Kha) vimutti ca.
 142. (Ka) khaye ñāṇaṃ.
 (Kha) anuppāde ñāṇanti.
-Suttantikadukamātikā suttantamātikā (syā.).
+Suttantikadukamātikā ⟪ suttantamātikā (syā.) ⟫.
 Mātikā niṭṭhitā.

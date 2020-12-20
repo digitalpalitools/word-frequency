@@ -2,13 +2,13 @@
 2. Puravagga
 198.
  Puraṃ nagara mitthī vā, ṭhānīyaṃ puṭabhedanaṃ;
-Thiyaṃ tu rājadhānī rājaṭhānī (ṭī.) ca, khandhāvāro bhave tha ca.
+Thiyaṃ tu rājadhānī ⟪ rājaṭhānī (ṭī.) ⟫ ca, khandhāvāro bhave tha ca.
 199.
 Sākhānagara maññatra, yaṃ taṃ mūlapurā puraṃ;
 Bārāṇasī ca sāvatthi, vesālī mithilā, ḷavī.
 200.
  Kosambu, jjeniyo takka, silā campā ca sāgalaṃ;
-Susumāragiraṃ saṃsumāra (ṭīkā) rāja, gahaṃ kapilavatthu ca.
+Susumāragiraṃ ⟪ saṃsumāra (ṭīkā) ⟫ rāja, gahaṃ kapilavatthu ca.
 201.
  Sāketa, mindapatthañco, kkaṭṭhā pāṭaliputtakaṃ;
 Jetuttarañca saṅkassaṃ, kusinārādayo purī.
@@ -17,7 +17,7 @@ Jetuttarañca saṅkassaṃ, kusinārādayo purī.
 Byūho racchā anibbiddhā, nibbiddhā tu pathaddhi ca.
 203.
  Catukkaṃ caccare magga, sandhi siṅghāṭakaṃ bhave;
-Pākāro varaṇo cātha, udāpo uddāpa, uddāpa upakārikā.
+Pākāro varaṇo cātha, udāpo ⟪ uddāpa, uddāpa ⟫ upakārikā.
 204.
  Kuṭṭaṃ tu bhitti nārī tha, gopuraṃ dvārakoṭṭhako;
 Esikā indakhīlo ca, aṭṭo tvaṭṭālako bhave.
@@ -85,7 +85,7 @@ Thiyaṃ sammujjanī ceva, sammajjanī ca sodhanī.
 Atho kacavaro, klāpo, saṅkāro ca kasambupi.
 225.
  Gharādibhūmi taṃ vatthu, gāmo saṃvasatho tha so;
-Pākaṭo nigamo bhoga, maccādibhyo dhi tūdito ‘adhibhū’ti īrito kathito (ṭī.).
+Pākaṭo nigamo bhoga, maccādibhyo dhi tūdito ⟪ ‘adhibhū’ti īrito kathito (ṭī.) ⟫.
 226.
  Sīmā ca mariyādā tha,
 Ghoso gopālagāmakoti.
@@ -141,7 +141,7 @@ Paccaṃ putto’trajo suto.
 Nāriyaṃ duhitā dhītā,
 Sajāto tvo’raso suto.
 242.
- Jāyāpatī janipatī, jayampatī tu dampatī dampatīti padaṃ pulliṅga bahuvacanantaṃ ikārantaṃ, tudampati (ṭī.);
+ Jāyāpatī janipatī, jayampatī tu dampatī ⟪ dampatīti padaṃ pulliṅga bahuvacanantaṃ ikārantaṃ, tudampati (ṭī.) ⟫;
 Atha vassavaro vutto, paṇḍako ca napuṃsakaṃ.
 243.
  Bandhavo bandhu sajano, sagotto ñāti ñātako;
@@ -200,14 +200,14 @@ Sīmanto tu mato nāri, kesamajjhamhi paddhati.
  Lomaṃ  tanuruhaṃ romaṃ, pamhaṃ pakhuma makkhigaṃ;
 Massu vuttaṃ pumamukhe, bhū tvitthī bhamuko bhamu.
 260.
- Bappo khappo (ṭī.) nettajala’ssūni, nettatārā kanīnikā;
+ Bappo ⟪ khappo (ṭī.) ⟫ nettajala’ssūni, nettatārā kanīnikā;
 Vadanaṃ tu mukhaṃ tuṇḍaṃ, vattaṃ lapana mānanaṃ.
 261.
  Dvijo lapanajo danto, dasano radano rado;
 Dāṭhā tudantabhedasmiṃ, apāṅgo tvakkhikoṭisu.
 262.
  Dantāvaraṇa moṭṭho cā, pya’dharo dasanacchado;
-Gaṇḍo kapolo hanvitthī gaṇḍatthī (ṭī.) hanvatthī=hanu+itthī; hana+u (ṇvādi),
+Gaṇḍo kapolo hanvitthī ⟪ gaṇḍatthī (ṭī.) hanvatthī=hanu+itthī; hana+u (ṇvādi) ⟫,
 Cubukaṃ tva’ dharā adho.
 263.
  Galo ca kaṇṭho gīvā ca, kandharā ca sirodharā;
@@ -236,7 +236,7 @@ Uddhantata bhujaposa, ppamāṇe porisaṃ tisu.
  Uro ca hadayaṃ cātha, thano kuca payodharā;
 Cūcukaṃ tu thanaggasmiṃ, piṭṭhaṃ tu piṭṭhi nāriyaṃ.
 271.
- Majjho’nitthī  vilaggo ca, majjhimaṃ kucchi catukkaṃ udare; 944-gāthāpi passitabbā tu dvisu;
+ Majjho’nitthī  vilaggo ca, majjhimaṃ kucchi ⟪ catukkaṃ udare; 944-gāthāpi passitabbā ⟫ tu dvisu;
 Gahaṇītthyudaraṃ gabbho, koṭṭhonto kucchisambhave.
 272.
  Jaghanaṃ tu nitambo ca, soṇī ca kaṭi nāriyaṃ;
@@ -282,7 +282,7 @@ Kaṇṇikā kaṇṇapūro ca, siyā kaṇṇavibhūsanaṃ.
  Kaṇṭhabhūsā tu gīveyyaṃ, hāro muttāvali’tthiyaṃ;
 Niyuro valayo nitthī, kaṭakaṃ parihārakaṃ.
 286.
- Kaṅkaṇaṃ karabhūsā tha, kiṅkiṇī kiṃkaṇī kiṃ kaṇikā (ka.) khuddaghaṇṭikā;
+ Kaṅkaṇaṃ karabhūsā tha, kiṅkiṇī ⟪ kiṃkaṇī kiṃ kaṇikā (ka.) ⟫ khuddaghaṇṭikā;
 Aṅgulīyaka maṅgulyā, bharaṇaṃ, sākkharaṃ tu taṃ.
 287.
  Muddikā’ṅgulimuddā tha, rasanā mekhalā bhave;
@@ -345,7 +345,7 @@ Alattako yāvako ca, lākhā jatu napuṃsake.
 Vāsacuṇṇaṃ vāsayogo, vaṇṇakaṃ tu vilepanaṃ.
 307.
  Gandhamālyādisaṅkhāro, yo taṃ vāsana muccate;
-Mālā mālyaṃ pupphadāme pupphaṃ dāmaṃ (ka.), bhāvitaṃ vāsitaṃ tisu.
+Mālā mālyaṃ pupphadāme ⟪ pupphaṃ dāmaṃ (ka.) ⟫, bhāvitaṃ vāsitaṃ tisu.
 308.
  Uttaṃso sekharā’ veḷā, muddhamālye vaṭaṃsako;
 Seyyā ca sayanaṃ senaṃ, pallaṅko tu ca mañcako.
@@ -399,7 +399,7 @@ Ummādavati ummatto, khujjādī vāccaliṅgikā.
 Gelaññākalla mābādho,
 Soso tu ca khayo siyā.
 324.
- Pīnaso pīnāsotipi pāṭho nāsikārogo,
+ Pīnaso ⟪ pīnāsotipi pāṭho ⟫ nāsikārogo,
 Ghāne siṅghānikā ssavo;
 Ñeyyaṃ tva’ru vaṇo nitthī, phoṭo tu piḷakā bhave.
 325.
@@ -413,7 +413,7 @@ Kaṇḍū kaṇḍūti kaṇḍūyā, khajju kaṇḍūvanaṃ pyatha.
 Dunnāmakañca arisaṃ, chaddikā vamathū’dito.
 328.
  Davathu paritāpo tha, tilako tilakāḷako;
-Visūcikā iti mahā, vireko tha bhagandalo bhagandaro (ka.).
+Visūcikā iti mahā, vireko tha bhagandalo ⟪ bhagandaro (ka.) ⟫.
 329.
  Meho jaro kāsa sāsā, kuṭṭhaṃ sūlāmayantarā;
 Vutto vejjo bhisakko ca, rogahārī tikicchako.
@@ -441,7 +441,7 @@ Raṭṭhādhipo naradevo, bhūmipo bhūbhujo pyatha.
 Sabbabhummo cakkavattī, bhūpoñño maṇḍalissaro.
 336.
  Pume licchavi vajjī ca, sakyo tu sākiyo tha ca;
-Bhaddakaccānā bhaddā kaccānā (ṭī.) rāhula, mātā bimbā yasodharā.
+Bhaddakaccānā ⟪ bhaddā kaccānā (ṭī.) ⟫ rāhula, mātā bimbā yasodharā.
 337.
  Koṭīnaṃ heṭṭhimantena, sataṃ yesaṃ nidhānagaṃ;
 Kahāpaṇānaṃ divasa, vaḷañjo vīsatambaṇaṃ.
@@ -471,7 +471,7 @@ Paccatthiko paripanthī, paṭipakkhā hitāparo.
  Paccāmitto vipakkho ca, paccanīka virodhino;
 Viddesī ca diso diṭṭho,thā nurodho nuvattanaṃ.
 346.
- Mitto nitthī vayasso ca, sahāyo suhajjo (ṭī.) suhado sakhā;
+ Mitto nitthī vayasso ca, sahāyo ⟪ suhajjo (ṭī.) ⟫ suhado sakhā;
 Sambhatto daḷhamitto tha, sandiṭṭho diṭṭhamattako.
 347.
  Caro ca guḷhapuriso, pathāvī pathiko’ddhagū;
@@ -499,7 +499,7 @@ Yuttaṃ tvo’pāyikaṃ tisu.
  Ovādo cānusiṭṭhitthī, pumavajje nusāsanaṃ;
 Āṇā ca sāsanaṃ ñeyyaṃ, uddānaṃ tu ca bandhanaṃ.
 355.
- Āgu vutta mantu (ka.) maparādho, karo tu bali muccate;
+ Āgu vutta ⟪ mantu (ka.) ⟫ maparādho, karo tu bali muccate;
 Puṇṇapatto tuṭṭhidāyo, upadā tu ca pābhataṃ.
 356.
  Tatho’pāyana mukkoco, paṇṇākāro paheṇakaṃ;
@@ -562,7 +562,7 @@ Puccha manitthī naṅguṭṭhaṃ, vālahattho ca vāladhi.
 Cammāvuto ca veyaggho,
 Deppo byagghassa dīpino.
 373.
- Sivikā yāpyayānañcā, nitthī tu sakaṭo pya’naṃ (sakaṭo pi+anaṃ);
+ Sivikā yāpyayānañcā, nitthī tu sakaṭo pya’naṃ ⟪ (sakaṭo pi+anaṃ) ⟫;
 Cakkaṃ rathaṅga mākhyātaṃ, tassanto nemi nāriyaṃ.
 374.
  Tammajjhe piṇḍikā nābhi, kubbaro tu yugandharo;
@@ -599,10 +599,10 @@ Hatthānīkaṃ hayānīkaṃ, rathānīkaṃ tayo tayo;
 Gajādayo sasatthā tu, pattānīkaṃ catujjanā.
 384.
  Saṭṭhivaṃsakalāpesu,  paccekaṃ saṭṭhidaṇḍisu;
-Dhūlīkatesu senāya, yantiyā kkhobhanīakkhobhiṇī (ka.) tthiyaṃ.
+Dhūlīkatesu senāya, yantiyā kkhobhanī⟪ akkhobhiṇī (ka.) ⟫ tthiyaṃ.
 385.
  Sampatti sampadā lakkhī, sirī vipatti āpadā;
-Athā vudhañca āyudhantipi pāṭho heti’tthī, satthaṃ paharaṇaṃ bhave.
+Athā vudhañca ⟪ āyudhantipi pāṭho ⟫ heti’tthī, satthaṃ paharaṇaṃ bhave.
 386.
  Muttāmutta mamuttañca, pāṇito muttameva ca;
 Yantamuttanti sakalaṃ, āyudhaṃ taṃ catubbidhaṃ.
@@ -614,7 +614,7 @@ Pāṇimuttaṃ tu satyādi, yantamuttaṃ sarādikaṃ.
 Atho guṇo jiyā jyā tha,
 Saro patti ca sāyako.
 389.
- Vāṇo kaṇḍa musu dvīsu, khurappo urappo (ka.) tejanā’sanaṃ;
+ Vāṇo kaṇḍa musu dvīsu, khurappo ⟪ urappo (ka.) ⟫ tejanā’sanaṃ;
 Tūṇītthiyaṃ kalāpo ca, tūṇo tūṇīra vāṇadhi.
 390.
  Pakkho tu vājo diddho tu, visappito saro bhave;
@@ -627,7 +627,7 @@ Kositthī tabbidhāne tho, tharu khaggādimuṭṭhiyaṃ.
 Churikā satya’siputtī, laguḷo tu ca muggaro.
 393.
  Sallo nitthi saṅku pume, vāsī tu tacchanītthiyaṃ;
-Kuṭhārī kudhārī (ṭī.) tthīpharasuso, ṭaṅko pāsāṇadāraṇo.
+Kuṭhārī ⟪ kudhārī (ṭī.) ⟫ tthīpharasuso, ṭaṅko pāsāṇadāraṇo.
 394.
  Kaṇayo bhindivāḷo ca, cakkaṃ kunto gadā tathā;
 Satyā’dī satthabhedā tha,
@@ -653,10 +653,10 @@ Raṇe jitassa yaṃ pānaṃ, jayapānanti taṃ mataṃ.
 Mucchā moho tha pasayho,
 Balakkāro haṭho bhave.
 401.
-Uppādouppāto (ka.)1027-gāthā passitabbā bhūtavikati, yā subhāsubhasūcikā;
+Uppādo⟪ uppāto (ka.)1027-gāthā passitabbā ⟫ bhūtavikati, yā subhāsubhasūcikā;
 Īti tvitthī ajaññañca, upasaggo upaddavo.
 402.
-Nibbuddhaṃniyuddhaṃ (ka.) mallayuddhamhi, jayo tu vijayo bhave;
+Nibbuddhaṃ⟪ niyuddhaṃ (ka.) ⟫ mallayuddhamhi, jayo tu vijayo bhave;
 Parājayo raṇe bhaṅgo, palāyana mapakkamo.
 403.
  Māraṇaṃ hananaṃ ghāto, nāsanañca nisūdanaṃ;
@@ -684,7 +684,7 @@ Sissa’ ntevāsino pume.
 Bhavanti cattāro ete, assamā punnapuṃsake.
 410.
  Carantā saha sīlādī, sabrahmacārino mithu;
-Upajjhāyo upajjhā thā, cariyo nissayadādiko nissayadāyako (ṭī.).
+Upajjhāyo upajjhā thā, cariyo nissayadādiko ⟪ nissayadāyako (ṭī.) ⟫.
 411.
  Upanīyā thavā pubbaṃ, veda majjhāpaye dvijo;
 Yo saṅgaṃ sarahassañcā, cariyo brāhmaṇesu so.
@@ -695,7 +695,7 @@ Yāgo tu katu yañño tha, vedītthī bhū parikkhatā.
  Assamedho ca purisa, medho ceva niraggaḷo;
 Sammāpāso vājapeyya, miti yāgā mahā ime.
 414.
- Itvijo iditvijo (ṭī.) yājako cātha,
+ Itvijo ⟪ iditvijo (ṭī.) ⟫ yājako cātha,
 Sabhyo sāmājiko pyatha;
 Parisā sabhā samajjā ca, tathā samiti saṃsado.
 415.
@@ -798,7 +798,7 @@ Vessassa vuttiyo tisso, gahaṭṭhā’gārikā gihi.
  Khettājīvo kassako tha, khettaṃ kedāra muccate;
 Leḍḍu’tto mattikākhaṇḍo, khaṇitti’tthya’vadāraṇaṃ.
 448.
- Dāttaṃ lavitta masitaṃ ‘‘asita’’ saddo puṃnapuṃsake-1005-gāthā passitabbā, patodo tutta pājanaṃ;
+ Dāttaṃ lavitta masitaṃ ⟪ ‘‘asita’’ saddo puṃnapuṃsake-1005-gāthā passitabbā ⟫, patodo tutta pājanaṃ;
 Yottaṃ tu rajju rasmitthī, phālo tu kasako bhave.
 449.
  Naṅgalañca halaṃ sīro, īsā naṅgaladaṇḍako;
@@ -812,14 +812,14 @@ Kaṅgūti satta dhaññāni, nīvārādī tu tabbhidā.
 Siddhattho sāsapo bhave.
 452.
  Atha kaṅgu piyaṅgu’tthī, ummā tu atasī bhave;
-Kiṭṭhañca sassaṃ dhaññañca viññeyyaṃ (ṭī.), vīhi thambakarī thambhakarī (ka.) rito.
+Kiṭṭhañca sassaṃ dhaññañca ⟪ viññeyyaṃ (ṭī.) ⟫, vīhi thambakarī ⟪ thambhakarī (ka.) ⟫ rito.
 453.
  Kaṇḍo tu nāḷa matha so, palālaṃ nitthi nipphalo;
 Bhusaṃ kaliṅgaro cātha, thuso dhaññattace tha ca.
 454.
  Setaṭṭikā sassarogo,
 Kaṇo tu kuṇḍako bhave;
-Khalo ca dhaññakaraṇaṃ, thambothambho (ka.) gumbo tiṇādinaṃ.
+Khalo ca dhaññakaraṇaṃ, thambo⟪ thambho (ka.) ⟫ gumbo tiṇādinaṃ.
 455.
  Ayoggo musalo nitthī, kullo suppa manitthiyaṃ;
 Atho’ddhanañca culli’tthī, kilañjo tu kaṭo bhave.
@@ -840,7 +840,7 @@ Mahosadhaṃ tu taṃ sukkhaṃ, maricaṃ tu ca kolakaṃ.
 Dhaññambilaṃ biḷaṅgo tha, lavaṇaṃ loṇa muccate.
 461.
  Sāmuddaṃ sindhavo nitthī, kāḷaloṇaṃ tu ubbhidaṃ;
-Biḷakaṃ biḷāla (ka.) ceti pañcete, pabhedā lavaṇassa hi.
+Biḷakaṃ ⟪ biḷāla (ka.) ⟫ ceti pañcete, pabhedā lavaṇassa hi.
 462.
  Guḷo ca phāṇitaṃ khaṇḍo, macchaṇḍī sakkharā iti;
 Ime ucchuvikārā tha, guḷasmiṃ visakaṇṭakaṃ.
@@ -881,10 +881,10 @@ Aṭṭhārasantā saṅkhyeyye, saṅkhyā ekādayo tisu;
 Saṅkhyāne tu ca saṅkhyeyye, ekatte vīsatādayo;
 Vaggabhede bahuttepi, tā ānavuti nāriyaṃ.
 474.
- Sataṃ sahassaṃ niyutaṃ nahutaṃ-nayutaṃ (katthaci), lakkhaṃ koṭi pakoṭiyo;
+ Sataṃ sahassaṃ niyutaṃ ⟪ nahutaṃ-nayutaṃ (katthaci) ⟫, lakkhaṃ koṭi pakoṭiyo;
 Koṭipakoṭi nahutaṃ, tathā ninnahutampi ca.
 475.
- Akkhobhanītthiyaṃ akkhobhiṇī (ka.) bindu, abbudañca nirabbudaṃ;
+ Akkhobhanītthiyaṃ ⟪ akkhobhiṇī (ka.) ⟫ bindu, abbudañca nirabbudaṃ;
 Ahahaṃ ababaṃ cevā, ṭaṭaṃ sogandhi kuppalaṃ.
 476.
  Kumudaṃ puṇḍarīkañca, padumaṃ kathānampi ca;
@@ -943,7 +943,7 @@ Vajirañca pavāḷanti, sattā’hu ratanāni’ me.
 Vaṃsavaṇṇo veḷuriyaṃ, pavāḷaṃ vā ca viddumo.
 492.
  Masāragallaṃ kabaramaṇi, atha muttā ca muttikaṃ;
-Rīti rīrī (ṭī.) tthī ārakūṭo vā, amalaṃ tva’bbhakaṃ bhave.
+Rīti ⟪ rīrī (ṭī.) ⟫ tthī ārakūṭo vā, amalaṃ tva’bbhakaṃ bhave.
 493.
  Loho nitthī ayo kāḷā,
 Yasañca pārado raso;
@@ -954,12 +954,12 @@ Khuddajaṃ tu madhu khuddaṃ, madhucchiṭṭhaṃ tu sitthakaṃ.
 495.
  Gopālo gopa gosaṅkhyā,
 Gomā tu gomiko pyatha;
-Usabho balībaddho balibadda (ka.) ca, goṇo govasabho vuso.
+Usabho balībaddho ⟪ balibadda (ka.) ⟫ ca, goṇo govasabho vuso.
 496.
  Vuddho jaraggavo so tha, dammo vacchataro samā;
 Dhuravāhī tu dhorayho, govindo dhikato gavaṃ.
 497.
-Vaho ca khandhadeso tha, kakudho kakudo (ka.) kaku vuccate;
+Vaho ca khandhadeso tha, kakudho ⟪ kakudo (ka.) ⟫ kaku vuccate;
 Atho visāṇaṃ siṅgañca, rattagāvī tu rohiṇī.
 498.
  Gāvī ca siṅginī go ca, vañjhā tu kathyate vasā;
@@ -1007,7 +1007,7 @@ Kammāro lohakārako.
 Vīṇāvādī veṇiko tha, usukāro’ suvaḍḍhakī.
 511.
  Veṇudhamo  veṇaviko,
-Pāṇivādo tu pāṇigho pāṇiyo (katthaci);
+Pāṇivādo tu pāṇigho ⟪ pāṇiyo (katthaci) ⟫;
 Pūpiyo pūpapaṇiyo, soṇḍiko majjavikkayī.
 512.
  Māyā tu sambarī māyā, kāro tu indajāliko;
@@ -1040,7 +1040,7 @@ Sūno sāno ca sā pume;
 Ummattādita māpanno, aḷakkoti suno mato.
 520.
  Sābandhanaṃ tu gaddūlo, dīpako tu ca cetako;
-Bandhanaṃ gaṇṭhi pāso tha, vāgurā vākarā (sī. ṭī.) migabandhanī.
+Bandhanaṃ gaṇṭhi pāso tha, vāgurā ⟪ vākarā (sī. ṭī.) ⟫ migabandhanī.
 521.
  Thiyaṃ kuveṇī kumīnaṃ, ānayo jāla muccate;
 Āghātanaṃ vadhaṭṭhānaṃ, sūnā tu adhikoṭṭanaṃ.
@@ -1081,7 +1081,7 @@ Opamma mupamānaṃ cu, pamā bhati tu nāriyaṃ.
 Dhutto’kkhadhutto kitavo, jūtakāra, kkhadevino.
 532.
  Pāṭibhogotu paṭibhū, akkho tu pāsako bhave;
-Pumevā’ ṭṭhapadaṃaṭṭhāpadaṃ (ṭī. sī.) sāri, phalake tha paṇo, bbhuto.
+Pumevā’ ṭṭhapadaṃ⟪ aṭṭhāpadaṃ (ṭī. sī.) ⟫ sāri, phalake tha paṇo, bbhuto.
 533.
 Kiṇṇaṃ tu madirābīje, madhu madhvāsave mataṃ;
 Madirā vāruṇī majjaṃ, surā bhavo tu merayaṃ.
@@ -1186,7 +1186,7 @@ Asano pītasālo tha,
 Golīso jhāṭalo bhave.
 564.
  Khīrikā rājāyatanaṃ, kumbhī kumudikā bhave;
-Yūpo pūgo (ka.) tu kamuko cātha, paṭṭi lākhāpasādano.
+Yūpo ⟪ pūgo (ka.) ⟫ tu kamuko cātha, paṭṭi lākhāpasādano.
 565.
  Iṅgudī tāpasataru, bhujapatto tu ābhujī;
 Picchilā simbalī dvīsu, rocano koṭasimbalī.
@@ -1217,7 +1217,7 @@ Kākodumbarikā pheggu, nāgo tu nāgamālikā.
 Tāpiñcho ca tamālo tha, kuṭajo girimallikā.
 574.
 Indayavo phale tassā, ggimantho kaṇikā bhave;
-Niguṇṭhi’tthī sinduvāro, tiṇasuññaṃ tiṇasūlaṃ (ṭī.) tu mallikā.
+Niguṇṭhi’tthī sinduvāro, tiṇasuññaṃ ⟪ tiṇasūlaṃ (ṭī.) ⟫ tu mallikā.
 575.
  Sephālikā nīlikā tha, apphoṭā vanamallikā;
 Bandhuko jayasumanaṃ, bhaṇḍiko bandhujīvako.
@@ -1229,7 +1229,7 @@ Yūthikā māgadhī cātha, sattalā navamallikā.
 Mātuluṅgo bījapūro, ummatto tu ca mātulo.
 578.
  Karamando suseno ca, kundaṃ tu māghya muccate;
-Devatāso devatāḍo (sī. amarakosa) tu jīmūto,
+Devatāso ⟪ devatāḍo (sī. amarakosa) ⟫ tu jīmūto,
 Thā’milāto mahāsahā.
 579.
  Atho sereyyako dāsī,
@@ -1253,13 +1253,13 @@ Gokaṇṭako ca siṅghāṭo, kolavallī’bhapippalī.
 Sīhapucchī pañhipaṇṇī, sālapaṇṇī tu ca’tthirā; (Cathirā).
 585.
  Nididdhikā tu byagghī ca, atha nīlī ca nīlinī;
-Jiñjuko jiñjukā (ka.) ceva guñjā tha, satamūlī satāvarī.
+Jiñjuko ⟪ jiñjukā (ka.) ⟫ ceva guñjā tha, satamūlī satāvarī.
 586.
  Mahosadhaṃ tva’tivisā, bākucī somavallikā;
 Dābbī dāruhaliddā tha, biḷaṅgaṃ citrataṇḍulā.
 587.
  Nuhī ceva mahānāmo, muddikā tu madhurasā;
-Athāpi madhukaṃ yaṭṭhi, madhukāmadhuyaṭṭhikā madhulaṭṭhikā (sī. ṭī.).
+Athāpi madhukaṃ yaṭṭhi, madhukāmadhuyaṭṭhikā ⟪ madhulaṭṭhikā (sī. ṭī.) ⟫.
 588.
  Vātiṅgaṇo ca bhaṇḍākī, vāttākī brahatī pyatha;
 Nāgabalā ceva jhasā, lāṅgalī tu ca sāradī.
@@ -1349,12 +1349,12 @@ Byagghādike vāḷamigo, sāpado tha plavaṅgamo.
 614.
  Makkaṭo vānaro sākhā, migo kapi valīmukho;
 Palavaṅgo, kaṇhatuṇḍo,
-Gonaṅgulogonaṅgalo (ṭī.) ti so mato.
+Gonaṅgulo⟪ gonaṅgalo (ṭī.) ⟫ ti so mato.
 615.
- Siṅgālo sigālo (sī.) jambuko kotthu, bheravo ca sivā pyatha;
+ Siṅgālo ⟪ sigālo (sī.) ⟫ jambuko kotthu, bheravo ca sivā pyatha;
 Biḷāro babbu mañjāro, koko tu ca vako bhave.
 616.
- Mahiṃso mahiso (sī.) ca lulāyo tha,
+ Mahiṃso ⟪ mahiso (sī.) ⟫ ca lulāyo tha,
 Gavajo gavayo samā;
 Sallo tu sallako thā’ssa,
 Lomamhi salalaṃ salaṃ.
@@ -1389,7 +1389,7 @@ Sakuṇo ca sakunto vi, pataṅgo sakuṇī dvijo.
 Tabbhedā vaṭṭakā jīva, ñjīvo cakora tittirā.
 626.
  Sāḷikā karavīko ca, ravihaṃso kukutthako;
-Kāraṇḍavo ca pilavo bilavo (ṭī.), pokkharasātakā’dayo.
+Kāraṇḍavo ca pilavo ⟪ bilavo (ṭī.) ⟫, pokkharasātakā’dayo.
 627.
  Patattaṃ pekhuṇaṃ pattaṃ, pakkho piñchaṃ chado garu;
 Aṇḍaṃ tu pakkhibīje tha, nīḷo nitthī kulāvakaṃ.
@@ -1453,7 +1453,7 @@ Dātyūho kāḷakaṇṭhako.
 Khuddādī makkhikābhedā, ḍaṃso piṅgalamakkhikā;
 Āsāṭikā makkhikāṇḍaṃ, pataṅgo salabho bhave.
 646.
- Sūcimukho ca makaso, cīrī tu jhallikā jhillikā (ka.) tha ca;
+ Sūcimukho ca makaso, cīrī tu jhallikā ⟪ jhillikā (ka.) ⟫ tha ca;
 Jatukā jinapattā tha, haṃso setacchado bhave.
 647.
  Te rājahaṃsā rattehi, pādatuṇḍehi bhāsitā;
@@ -1514,7 +1514,7 @@ Antarīpañca dīpo vā, jalamajjhagataṃ thalaṃ;
 Tīraṃ tu kūlaṃ rodhañca, patīrañca taṭaṃ tisu.
 665.
 Pāraṃ paramhi tīramhi, oraṃ tva’pāra muccate;
-Uḷumpo uḷupo (ka.) tu plavo kullo, taro ca paccarī’tthiyaṃ.
+Uḷumpo ⟪ uḷupo (ka.) ⟫ tu plavo kullo, taro ca paccarī’tthiyaṃ.
 666.
  Taraṇī tari nāvā ca, kūpako tu ca kumbhakaṃ;
 Pacchābandho goṭaviso, kaṇṇadhāro tu nāviko.
@@ -1524,7 +1524,7 @@ Potavāho niyāmako;
 Saṃyattikā tu nāvāya, vāṇijjamācaranti ye.
 668.
 Nāvāya’ṅgā’ laṅkāro ca, vaṭākāro phiyādayo;
-Poto pavahanaṃ vuttaṃ, doṇi tvi’tthī tathā’mbaṇaṃ ammaṇaṃ (sī.).
+Poto pavahanaṃ vuttaṃ, doṇi tvi’tthī tathā’mbaṇaṃ ⟪ ammaṇaṃ (sī.) ⟫.
 669.
  Gabhīra ninna gambhīrā, tho ttānaṃ tabbipakkhake;
 Agādhaṃ tva’talamphassaṃ, anaccho kalusā’vilā.
@@ -1542,7 +1542,7 @@ Mahāmacchā timi timi, ṅgalo timirapiṅgalo;
 Ānando timinando ca, ajjhāroho mahātimi.
 674.
  Pāsāṇamaccho pāṭhīno, vaṅko tu baḷiso bhave;
-Susumāro saṃsumāro (ṭī.), suṃsumāro (sī.) tu kumbhīlo,
+Susumāro ⟪ saṃsumāro (ṭī.), suṃsumāro (sī.) ⟫ tu kumbhīlo,
 Nakko kummo tu kacchapo.
 675.
  Kakkaṭako kuḷīro ca, jalūkā tu ca rattapā;
@@ -1567,11 +1567,11 @@ Chaddanto ca kuṇālo ca, vuttā mandākinī’tthiyaṃ.
  Savantī  ninnagā sindhu, saritā āpagā nadī;
 Bhāgīrathī tu gaṅgā tha, sambhedo sindhusaṅgamo.
 682.
- Gaṅgā’ciravatī ceva, yamunā sarabhū (sarabū sarayū (ka.) ) mahī;
-Imā mahānadī pañca, candabhāgā sarassatī sarasvatī (sī. ṭī.).
+ Gaṅgā’ciravatī ceva, yamunā sarabhū (sarabū ⟪ sarayū (ka.) ⟫ ) mahī;
+Imā mahānadī pañca, candabhāgā sarassatī ⟪ sarasvatī (sī. ṭī.) ⟫.
 683.
  Nerañjarā ca kāverī, nammadādī ca ninnagā;
-Vārimaggo paṇālī’tthī panāḷī (ṭī.), pume candanikā tu ca.
+Vārimaggo paṇālī’tthī ⟪ panāḷī (ṭī.) ⟫, pume candanikā tu ca.
 684.
 Jambālī oligallo ca, gāmadvāramhi kāsuyaṃ;
 Saroruhaṃ satapattaṃ, aravindañca vārijaṃ.

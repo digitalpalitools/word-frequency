@@ -34,10 +34,10 @@ Bhojanadāyakattherassāpadānaṃ dutiyaṃ.
 3. Gatasaññakattheraapadānaṃ
 10.
  ‘‘Ākāseva  padaṃ natthi, ambare anilañjase;
-Siddhatthaṃ jinamaddakkhiṃ, gacchantaṃ tidivaṅgaṇe tidivaṅgaṇaṃ (syā. ka.).
+Siddhatthaṃ jinamaddakkhiṃ, gacchantaṃ tidivaṅgaṇe ⟪ tidivaṅgaṇaṃ (syā. ka.) ⟫.
 11.
  ‘‘Anileneritaṃ disvā, sammāsambuddhacīvaraṃ;
-Vitti mamāhu tāvade vitti me pāhuṇā tāva (syā.), vitti me tāvade jātā (sī.), disvāna gamanaṃ muniṃ mune (sī.).
+Vitti mamāhu tāvade ⟪ vitti me pāhuṇā tāva (syā.), vitti me tāvade jātā (sī.) ⟫, disvāna gamanaṃ muniṃ ⟪ mune (sī.) ⟫.
 12.
  ‘‘Catunnavutito  kappe, yaṃ saññamalabhiṃ tadā;
 Duggatiṃ nābhijānāmi, buddhasaññāyidaṃ phalaṃ.
@@ -51,7 +51,7 @@ Gatasaññakattherassāpadānaṃ tatiyaṃ.
 Satapattehi pupphehi, sammajjitvāna assamaṃ.
 15.
  ‘‘Suvaṇṇavaṇṇaṃ sambuddhaṃ, siddhatthaṃ lokanāyakaṃ;
-Disvā nabhena vanena (syā. ka.) gacchantaṃ, hāso me udapajjatha.
+Disvā nabhena ⟪ vanena (syā. ka.) ⟫ gacchantaṃ, hāso me udapajjatha.
 16.
  ‘‘Paccuggantvāna sambuddhaṃ, lokajeṭṭhaṃ narāsabhaṃ;
 Assamaṃ atināmetvā, jalajaggehi okiriṃ.
@@ -67,7 +67,7 @@ Itthaṃ sudaṃ āyasmā sattapadumiyo thero imā gāthāyo abhāsitthāti.
 Sattapadumiyattherassāpadānaṃ catutthaṃ.
 5. Pupphāsanadāyakattheraapadānaṃ
 20.
- ‘‘Suvaṇṇavaṇṇaṃ  sambuddhaṃ, pītaraṃsiṃva sataraṃsiṃva (sī. syā.) bhāṇumaṃ;
+ ‘‘Suvaṇṇavaṇṇaṃ  sambuddhaṃ, pītaraṃsiṃva ⟪ sataraṃsiṃva (sī. syā.) ⟫ bhāṇumaṃ;
 Avidūrena gacchantaṃ, siddhatthaṃ aparājitaṃ.
 21.
  ‘‘Tassa paccuggamitvāna, pavesetvāna assamaṃ;
@@ -91,7 +91,7 @@ Pupphāsanadāyakattherassāpadānaṃ pañcamaṃ.
 Araññe irīṇe vane, andhāhiṇḍāmahaṃ tadā.
 27.
  ‘‘Pavanā  nikkhamantena, diṭṭhaṃ sīhāsanaṃ mayā;
-Ekaṃsaṃ añjaliṃ katvā, santhaviṃ thavissaṃ (sī.) lokanāyakaṃ.
+Ekaṃsaṃ añjaliṃ katvā, santhaviṃ ⟪ thavissaṃ (sī.) ⟫ lokanāyakaṃ.
 28.
  ‘‘Divasabhāgaṃ  thavitvāna, buddhaṃ lokagganāyakaṃ;
 Haṭṭho haṭṭhena cittena, imaṃ vācaṃ udīrayiṃ.
@@ -109,15 +109,15 @@ Duggatiṃ nābhijānāmi, thomanāya idaṃ phalaṃ.
 Sattaratanasampannā, cakkavattī mahabbalā.
 33.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
-Itthaṃ sudaṃ āyasmā āsanasanthaviko āsanasanthavako (?), āsanathaviko (ka.), āsanatthaviko (sī. syā.) thero imā gāthāyo abhāsitthāti.
+Itthaṃ sudaṃ āyasmā āsanasanthaviko ⟪ āsanasanthavako (?), āsanathaviko (ka.), āsanatthaviko (sī. syā.) ⟫ thero imā gāthāyo abhāsitthāti.
 Āsanasanthavikattherassāpadānaṃ chaṭṭhaṃ.
 7. Saddasaññakattheraapadānaṃ
 34.
  ‘‘Sudassano  mahāvīro, deseti amataṃ padaṃ;
 Parivuto sāvakehi, vasati gharamuttame.
 35.
- ‘‘Tāya  vācāya madhurāya, saṅgaṇhāti saṅgaṇhante (sī.) mahājanaṃ;
-Ghoso ca vipulo āsi, āsīso āsaṃso (sī.) devamānuse.
+ ‘‘Tāya  vācāya madhurāya, saṅgaṇhāti ⟪ saṅgaṇhante (sī.) ⟫ mahājanaṃ;
+Ghoso ca vipulo āsi, āsīso ⟪ āsaṃso (sī.) ⟫ devamānuse.
 36.
  ‘‘Nigghosasaddaṃ sutvāna, siddhatthassa mahesino;
 Sadde cittaṃ pasādetvā, avandiṃ lokanāyakaṃ.
@@ -131,12 +131,12 @@ Saddasaññakattherassāpadānaṃ sattamaṃ.
 8. Tiraṃsiyattheraapadānaṃ
 39.
  ‘‘Kesariṃ  abhijātaṃva, aggikkhandhaṃva pabbate;
-Obhāsentaṃ disā sabbā nivāsentaṃ (ka.), disāsinnaṃ (syā.), siddhatthaṃ pabbatantare.
+Obhāsentaṃ disā sabbā ⟪ nivāsentaṃ (ka.), disāsinnaṃ (syā.) ⟫, siddhatthaṃ pabbatantare.
 40.
  ‘‘Sūriyassa ca ālokaṃ, candālokaṃ tatheva ca;
 Buddhālokañca disvāna, vitti me udapajjatha.
 41.
- ‘‘Tayo āloke disvāna, sambuddhaṃ buddhañca (sī.) sāvakuttamaṃ;
+ ‘‘Tayo āloke disvāna, sambuddhaṃ ⟪ buddhañca (sī.) ⟫ sāvakuttamaṃ;
 Ekaṃsaṃ ajinaṃ katvā, santhaviṃ lokanāyakaṃ.
 42.
  ‘‘Tayo  hi ālokakarā, loke lokatamonudā;
@@ -191,7 +191,7 @@ Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
  ‘‘Paṭisambhidā  catasso…pe… kataṃ buddhassa sāsanaṃ’’.
 Itthaṃ sudaṃ āyasmā kumudamāliyo thero imā gāthāyo abhāsitthāti.
 Kumudamāliyattherassāpadānaṃ dasamaṃ.
-Ārakkhadāyakavaggo bāttiṃsatimo battiṃsatimo (sī. syā.).
+Ārakkhadāyakavaggo bāttiṃsatimo ⟪ battiṃsatimo (sī. syā.) ⟫.
 Tassuddānaṃ –
 Ārakkhado bhojanado, gatasaññī padumiyo;
 Pupphāsanī santhaviko, saddasaññī tiraṃsiyo;

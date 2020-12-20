@@ -2,7 +2,7 @@
 1. Tuvaradāyakattheraapadānaṃ
 1.
  ‘‘Migaluddo  pure āsiṃ, araññe kānane ahaṃ;
-Bharitvā tuvaramādāya bharitvā turavamādāya (ka.), bhajjitaṃ tuvaramādāya (?) ettha tuvaranti muggakalāyasadisaṃ tuvaraṭṭhinti tadaṭṭhakathā; tuvaro dhaññabhedeti sakkatābhidhāne, saṅghassa adadiṃ ahaṃ.
+Bharitvā tuvaramādāya ⟪ bharitvā turavamādāya (ka.), bhajjitaṃ tuvaramādāya (?) ettha tuvaranti muggakalāyasadisaṃ tuvaraṭṭhinti tadaṭṭhakathā; tuvaro dhaññabhedeti sakkatābhidhāne ⟫, saṅghassa adadiṃ ahaṃ.
 2.
  ‘‘Ekanavutito kappe, yaṃ dānamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, tuvarassa idaṃ phalaṃ.
@@ -14,7 +14,7 @@ Tuvaradāyakattherassāpadānaṃ paṭhamaṃ.
 2. Nāgakesariyattheraapadānaṃ
 4.
  ‘‘Dhanuṃ advejjhaṃ katvāna, vanamajjhogahiṃ ahaṃ;
-Kesaraṃ ogataṃ osaraṃ (syā.), osaṭaṃ (sī.) disvā, patapattaṃ samuṭṭhitaṃ.
+Kesaraṃ ogataṃ ⟪ osaraṃ (syā.), osaṭaṃ (sī.) ⟫ disvā, patapattaṃ samuṭṭhitaṃ.
 5.
  ‘‘Ubho hatthehi paggayha, sire katvāna añjaliṃ;
 Buddhassa abhiropesiṃ, tissassa lokabandhuno.
@@ -22,7 +22,7 @@ Buddhassa abhiropesiṃ, tissassa lokabandhuno.
  ‘‘Dvenavute ito kappe, yaṃ pupphamabhipūjayiṃ;
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
 7.
- ‘‘Tesattatimhi  kappamhi sattasattatime kappe (syā.), satta kesaranāmakā;
+ ‘‘Tesattatimhi  kappamhi ⟪ sattasattatime kappe (syā.) ⟫, satta kesaranāmakā;
 Sattaratanasampannā, cakkavattī mahabbalā.
 8.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
@@ -31,15 +31,15 @@ Nāgakesariyattherassāpadānaṃ dutiyaṃ.
 3. Naḷinakesariyattheraapadānaṃ
 9.
  ‘‘Jātassarassa  vemajjhe, vasāmi jalakukkuṭo;
-Addasāhaṃ athaddasaṃ (sī. syā.) devadevaṃ, gacchantaṃ anilañjase.
+Addasāhaṃ ⟪ athaddasaṃ (sī. syā.) ⟫ devadevaṃ, gacchantaṃ anilañjase.
 10.
- ‘‘Tuṇḍena kesariṃ kesaraṃ (syā.) gayha, vippasannena cetasā;
+ ‘‘Tuṇḍena kesariṃ ⟪ kesaraṃ (syā.) ⟫ gayha, vippasannena cetasā;
 Buddhassa abhiropesiṃ, tissassa lokabandhuno.
 11.
  ‘‘Dvenavute ito kappe, yaṃ pupphamabhipūjayiṃ;
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
 12.
- ‘‘Tesattatimhi kappamhi, satta kesaranāmakā satapattasanāmako (sī. syā.);
+ ‘‘Tesattatimhi kappamhi, satta kesaranāmakā ⟪ satapattasanāmako (sī. syā.) ⟫;
 Sattaratanasampannā, cakkavattī mahabbalā.
 13.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
@@ -48,7 +48,7 @@ Naḷinakesariyattherassāpadānaṃ tatiyaṃ.
 4. Viravapupphiyattheraapadānaṃ
 14.
  ‘‘Khīṇāsavasahassehi, niyyāti lokanāyako;
-Viravapupphamādāya viravipupphaṃ paggayha (sī.), buddhassa abhiropayiṃ.
+Viravapupphamādāya ⟪ viravipupphaṃ paggayha (sī.) ⟫, buddhassa abhiropayiṃ.
 15.
  ‘‘Ekanavutito kappe, yaṃ pupphamabhipūjayiṃ;
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
@@ -62,7 +62,7 @@ Viravapupphiyattherassāpadānaṃ catutthaṃ.
 Kālena kālaṃ dhūpesiṃ, pasanno sehi pāṇibhi.
 18.
  ‘‘Catunnavutito  kappe, yaṃ kammamakariṃ tadā;
-Duggatiṃ nābhijānāmi, dhūpadānassidaṃ buddhapūjāyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, dhūpadānassidaṃ ⟪ buddhapūjāyidaṃ (sī.) ⟫ phalaṃ.
 19.
  ‘‘Paṭisambhidā  catasso…pe… kataṃ buddhassa sāsanaṃ’’.
 Itthaṃ sudaṃ āyasmā kuṭidhūpako thero imā gāthāyo abhāsitthāti.
@@ -95,7 +95,7 @@ Dhātupūjakattherassāpadānaṃ sattamaṃ.
 8. Sattalipupphapūjakattheraapadānaṃ
 27.
  ‘‘Satta  sattalipupphāni, sīse katvānahaṃ tadā;
-Buddhassa abhiropesiṃ, vessabhumhi naruttame vibhattivipallāso cintetabbo.
+Buddhassa abhiropesiṃ, vessabhumhi naruttame ⟪ vibhattivipallāso cintetabbo ⟫.
 28.
  ‘‘Ekattiṃse ito kappe, yaṃ pupphamabhipūjayiṃ;
 Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
@@ -108,7 +108,7 @@ Sattalipupphapūjakattherassāpadānaṃ aṭṭhamaṃ.
  ‘‘Padumuttaro  nāma jino, sayambhū aggapuggalo;
 Catusaccaṃ pakāseti, dīpeti amataṃ padaṃ.
 31.
- ‘‘Bimbijālakapupphāni bimbajālakapupphāni (ka.), puthu katvānahaṃ tadā;
+ ‘‘Bimbijālakapupphāni ⟪ bimbajālakapupphāni (ka.) ⟫, puthu katvānahaṃ tadā;
 Buddhassa abhiropesiṃ, dvipadindassa tādino.
 32.
  ‘‘Aṭṭhasaṭṭhimhito kappe, caturo kiñjakesarā;

@@ -15,7 +15,7 @@ Itthaṃ sudaṃ bhagavā muttaṃ sikkhamānaṃ imāya gāthāya abhiṇhaṃ 
 3. Puṇṇātherīgāthā
 3.
  ‘‘Puṇṇe pūrassu dhammehi, cando pannaraseriva;
-Paripuṇṇāya paññāya, tamokhandhaṃ tamokkhandhaṃ (sī. syā.) padālayā’’ti.
+Paripuṇṇāya paññāya, tamokhandhaṃ ⟪ tamokkhandhaṃ (sī. syā.) ⟫ padālayā’’ti.
 Itthaṃ sudaṃ puṇṇā therī gāthaṃ abhāsitthāti.
 4. Tissātherīgāthā
 4.
@@ -29,13 +29,13 @@ Khaṇātītā hi socanti, nirayamhi samappitā’’ti.
 … Aññatarā tissā therī….
 6. Dhīrātherīgāthā
 6.
-‘‘Dhīre nirodhaṃ phusehi phussehi (sī.), saññāvūpasamaṃ sukhaṃ;
-Ārādhayāhi nibbānaṃ, yogakkhemamanuttara’’nti yogakkhemaṃ anuttaranti (sī. syā.).
+‘‘Dhīre nirodhaṃ phusehi ⟪ phussehi (sī.) ⟫, saññāvūpasamaṃ sukhaṃ;
+Ārādhayāhi nibbānaṃ, yogakkhemamanuttara’’nti ⟪ yogakkhemaṃ anuttaranti (sī. syā.) ⟫.
 … Dhīrā therī….
 7. Vīrātherīgāthā
 7.
- ‘‘Vīrā  vīrehi dhīrā dhīrehi (ka.) dhammehi, bhikkhunī bhāvitindriyā;
-Dhārehi antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti savāhananti (ka.).
+ ‘‘Vīrā  vīrehi ⟪ dhīrā dhīrehi (ka.) ⟫ dhammehi, bhikkhunī bhāvitindriyā;
+Dhārehi antimaṃ dehaṃ, jetvā māraṃ savāhini’’nti ⟪ savāhananti (ka.) ⟫.
 … Vīrā therī….
 8. Mittātherīgāthā
 8.
@@ -60,8 +60,8 @@ Muttāmhi  jātimaraṇā, bhavanetti samūhatā’’ti.
 … Muttā therī….
 12. Dhammadinnātherīgāthā
 12.
- ‘‘Chandajātā avasāyī, manasā ca phuṭā phuṭṭhā (syā.), phuṭhā (sī. aṭṭha.) siyā;
-Kāmesu appaṭibaddhacittā appaṭibandhacittā (ka.), uddhaṃsotāti vuccatī’’ti uddhaṃsotā vimuccatīti (sī. pī.).
+ ‘‘Chandajātā avasāyī, manasā ca phuṭā ⟪ phuṭṭhā (syā.), phuṭhā (sī. aṭṭha.) ⟫ siyā;
+Kāmesu appaṭibaddhacittā ⟪ appaṭibandhacittā (ka.) ⟫, uddhaṃsotāti vuccatī’’ti ⟪ uddhaṃsotā vimuccatīti (sī. pī.) ⟫.
 … Dhammadinnā therī….
 13.Visākhātherīgāthā
 13.
@@ -91,7 +91,7 @@ Disvā  ādīnavaṃ kāye, atha cittaṃ vimucci me’’ti.
 … Dhammā therī….
 18. Saṅghātherīgāthā
 18.
- ‘‘Hitvā  ghare pabbajitvā pabbajitā (sī. aṭṭha.), hitvā puttaṃ pasuṃ piyaṃ;
+ ‘‘Hitvā  ghare pabbajitvā ⟪ pabbajitā (sī. aṭṭha.) ⟫, hitvā puttaṃ pasuṃ piyaṃ;
 Hitvā rāgañca dosañca, avijjañca virājiya;
 Samūlaṃ taṇhamabbuyha, upasantāmhi nibbutā’’ti.
 … Saṅghā therī….

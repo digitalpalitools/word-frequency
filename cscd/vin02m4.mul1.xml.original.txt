@@ -47,7 +47,7 @@ Nikkaḍḍhanaṃ  siñcanañca, āmisahetu bhuttāvī;
 Ehi anādari bhiṃsā, apanidhe ca jīvitaṃ.
 Jānaṃ sappāṇakaṃ kammaṃ, ūnasaṃvāsanāsanā;
 Sahadhammikavilekhā, moho amūlakena ca.
-Kukkuccaṃ dhammikaṃ cīvaraṃ, datvā kukkuccaṃ dhammikaṃ cīvaraṃ (sī.), kukkuccaṃ dhammikaṃ datvā (syā.) pariṇāmeyya puggale;
+Kukkuccaṃ dhammikaṃ cīvaraṃ, datvā ⟪ kukkuccaṃ dhammikaṃ cīvaraṃ (sī.), kukkuccaṃ dhammikaṃ datvā (syā.) ⟫ pariṇāmeyya puggale;
 Kiṃ te akālaṃ acchinde, duggahī nirayena ca.
 Gaṇaṃ vibhaṅgaṃ dubbalaṃ, kathināphāsupassayaṃ;
 Akkosacaṇḍī maccharī, gabbhinī ca pāyantiyā.
@@ -65,15 +65,15 @@ Viññattuttari abhihaṭṭhuṃ, ubhinnaṃ dūtakena ca.
 Kosiyā suddhadvebhāgā, chabbassāni nisīdanaṃ;
 Riñcanti rūpikā ceva, ubho nānappakārakā.
 Ūnabandhanavassikā, suttaṃ vikappanena ca;
-Dvāradānasibbāni dvāradānasibbinī (sī. syā.) ca, pūvapaccayajoti ca.
+Dvāradānasibbāni ⟪ dvāradānasibbinī (sī. syā.) ⟫ ca, pūvapaccayajoti ca.
 Ratanaṃ sūci mañco ca, tūlaṃ nisīdanakaṇḍu ca;
 Vassikā ca sugatena, viññatti aññaṃ cetāpanā.
 Dve saṅghikā mahājanikā, dve puggalalahukā garu;
 Dve vighāsā sāṭikā ca, samaṇacīvarena ca.
 Samapaññāsime dhammā, chahi ṭhānehi jāyare;
 Kāyato na vācācittā, vācato na kāyamanā.
-Kāyavācā na ca cittā na cittato (sī. syā.), kāyacittā na vācikā na vācato (sī. syā.);
-Vācācittā  na kāyena, tīhi dvārehi tīhi ṭhānehi (syā.) jāyare.
+Kāyavācā na ca cittā ⟪ na cittato (sī. syā.) ⟫, kāyacittā na vācikā ⟪ na vācato (sī. syā.) ⟫;
+Vācācittā  na kāyena, tīhi dvārehi ⟪ tīhi ṭhānehi (syā.) ⟫ jāyare.
 Chasamuṭṭhānikā ete, sañcarittena sādisā.
 Sañcarittasamuṭṭhānaṃ niṭṭhitaṃ.
 4. Samanubhāsanāsamuṭṭhānaṃ
@@ -84,7 +84,7 @@ Chamā nīcāsane ṭhānaṃ, pacchato uppathena ca;
 Vajjānuvattigahaṇā, osāre paccācikkhanā.
 Kismiṃ saṃsaṭṭhā dve vadhi, visibbe dukkhitāya ca;
 Puna saṃsaṭṭhā na vūpasame, ārāmañca pavāraṇā.
-Anvaddhaṃ anvaddhamāsaṃ (sī. syā.) saha jīviniṃ, dve cīvaraṃ anubandhanā;
+Anvaddhaṃ ⟪ anvaddhamāsaṃ (sī. syā.) ⟫ saha jīviniṃ, dve cīvaraṃ anubandhanā;
 Sattatiṃsa  ime dhammā, kāyavācāya cittato.
 Sabbe ekasamuṭṭhānā, samanubhāsanā yathā.
 Samanubhāsanāsamuṭṭhānaṃ niṭṭhitaṃ.
@@ -97,14 +97,14 @@ Vikappaṃ rañño vikāle, vosāsāraññakena ca.
 Ussayāsannicayañca, pure pacchā vikāle ca;
 Pañcāhikā saṅkamanī, dvepi āvasathena ca.
 Pasākhe  āsane ceva, tiṃsa ekūnakā ime;
-Kāyavācā na ca cittā na cittato (syā.), tīhi dvārehi jāyare.
+Kāyavācā na ca cittā ⟪ na cittato (syā.) ⟫, tīhi dvārehi jāyare.
 Dvisamuṭṭhānikā sabbe, kathinena sahāsamā.
 Kathinasamuṭṭhānaṃ niṭṭhitaṃ.
 6. Eḷakalomasamuṭṭhānaṃ
 263.
  Eḷakalomā  dve seyyā, āhacca piṇḍabhojanaṃ;
 Gaṇavikālasannidhi, dantaponena celakā.
-Uyyuttaṃ senaṃ uyyuttaṃ vase (syā.) uyyodhi, surā orena nhāyanā;
+Uyyuttaṃ senaṃ ⟪ uyyuttaṃ vase (syā.) ⟫ uyyodhi, surā orena nhāyanā;
 Dubbaṇṇe dve desanikā, lasuṇupatiṭṭhe naccanā.
 Nhānamattharaṇaṃ seyyā, antoraṭṭhe tathā bahi;
 Antovassaṃ  cittāgāraṃ, āsandi suttakantanā.
@@ -118,8 +118,8 @@ Eḷakalomasamuṭṭhānaṃ niṭṭhitaṃ.
 7. Padasodhammasamuṭṭhānaṃ
 264.
  Padaññatra  asammatā, tathā atthaṅgatena ca;
-Tiracchānavijjā  dve vuttā, anokāso anokāse (sī. syā.) ca pucchanā.
-Satta sikkhāpadā ete, vācā na kāyacittato kāyacittakā (ka.);
+Tiracchānavijjā  dve vuttā, anokāso ⟪ anokāse (sī. syā.) ⟫ ca pucchanā.
+Satta sikkhāpadā ete, vācā na kāyacittato ⟪ kāyacittakā (ka.) ⟫;
 Vācācittena jāyanti, na tu kāyena jāyare.
 Dvisamuṭṭhānikā sabbe, padasodhammasadisā.
 Padasodhammasamuṭṭhānaṃ niṭṭhitaṃ.
@@ -131,7 +131,7 @@ Sikkhā pannarasa ete, kāyā na vācā na manā;
 Kāyavācāhi jāyanti, na te cittena jāyare.
 Kāyacittena jāyanti, na te jāyanti vācato;
 Kāyavācāhi cittena, samuṭṭhānā catubbidhā.
-Paññattā  buddhañāṇena, addhānena sahā samā samānayā (syā.).
+Paññattā  buddhañāṇena, addhānena sahā samā ⟪ samānayā (syā.) ⟫.
 Addhānasamuṭṭhānaṃ niṭṭhitaṃ.
 9. Theyyasatthasamuṭṭhānaṃ
 266.
@@ -144,7 +144,7 @@ Theyyasatthasamuṭṭhānaṃ niṭṭhitaṃ.
 10. Dhammadesanāsamuṭṭhānaṃ
 267.
  Chattapāṇissa saddhammaṃ, na desenti tathāgatā;
-Evameva tatheva (sī. syā.) daṇḍapāṇissa, satthaāvudhapāṇinaṃ.
+Evameva ⟪ tatheva (sī. syā.) ⟫ daṇḍapāṇissa, satthaāvudhapāṇinaṃ.
 Pādukupāhanā yānaṃ, seyyapallatthikāya ca;
 Veṭhitoguṇṭhito ceva, ekādasamanūnakā.
 Vācācittena jāyanti, na te jāyanti kāyato;
@@ -161,7 +161,7 @@ Bhūtārocanasamuṭṭhānaṃ niṭṭhitaṃ.
 269.
  Corī vācāya cittena, na taṃ jāyati kāyato;
 Jāyati tīhi dvārehi, corivuṭṭhāpanaṃ idaṃ;
-Akataṃ dvisamuṭṭhānaṃ, dhammarājena bhāsitaṃ ṭhapitaṃ (syā.).
+Akataṃ dvisamuṭṭhānaṃ, dhammarājena bhāsitaṃ ⟪ ṭhapitaṃ (syā.) ⟫.
 Corivuṭṭhāpanasamuṭṭhānaṃ niṭṭhitaṃ.
 13. Ananuññātasamuṭṭhānaṃ
 270.

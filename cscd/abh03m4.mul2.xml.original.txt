@@ -235,7 +235,7 @@ Dhammāyatanaṃ ṭhapetvā avaseso dhammo, na dhammāyatanaṃ. Dhammāyatana�
 (Kha) paccanīkaṃ
 11. (Ka) na cakkhu na cakkhāyatananti? Āmantā.
 (Kha) na cakkhāyatanaṃ na cakkhūti?
-Dibbacakkhu paññācakkhu na cakkhāyatanaṃ, cakkhu. Cakkhuñca cakkhāyatanañca ṭhapetvā avasesaṃ avasesā (syā. pī.) na ceva cakkhu na ca cakkhāyatanaṃ.
+Dibbacakkhu paññācakkhu na cakkhāyatanaṃ, cakkhu. Cakkhuñca cakkhāyatanañca ṭhapetvā avasesaṃ ⟪ avasesā (syā. pī.) ⟫ na ceva cakkhu na ca cakkhāyatanaṃ.
 (Ka) na sotaṃ na sotāyatananti? Āmantā.
 (Kha) na sotāyatanaṃ na sotanti?
 Dibbasotaṃ taṇhāsotaṃ na sotāyatanaṃ, sotaṃ. Sotañca sotāyatanañca ṭhapetvā avasesaṃ na ceva sotaṃ na ca sotāyatanaṃ.
@@ -245,7 +245,7 @@ Dibbasotaṃ taṇhāsotaṃ na sotāyatanaṃ, sotaṃ. Sotañca sotāyatanañc
 (Kha) na jivhāyatanaṃ na jivhāti? Āmantā .
 (Ka) na kāyo na kāyāyatananti? Āmantā.
 (Kha) na kāyāyatanaṃ na kāyoti?
-Kāyāyatanaṃ ṭhapetvā avaseso na kāyāyatanaṃ, kāyo. Kāyañca kāyāyatanañca ṭhapetvā avasesaṃ avaseso (syā.) na ceva kāyo na ca kāyāyatanaṃ.
+Kāyāyatanaṃ ṭhapetvā avaseso na kāyāyatanaṃ, kāyo. Kāyañca kāyāyatanañca ṭhapetvā avasesaṃ ⟪ avaseso (syā.) ⟫ na ceva kāyo na ca kāyāyatanaṃ.
 (Ka) na rūpaṃ na rūpāyatananti? Āmantā.
 (Kha) na rūpāyatanaṃ na rūpanti?
 Rūpāyatanaṃ ṭhapetvā avasesaṃ na rūpāyatanaṃ, rūpaṃ. Rūpañca rūpāyatanañca ṭhapetvā avasesaṃ na ceva rūpaṃ na ca rūpāyatanaṃ.
@@ -253,7 +253,7 @@ Rūpāyatanaṃ ṭhapetvā avasesaṃ na rūpāyatanaṃ, rūpaṃ. Rūpañca r
 (Kha) na saddāyatanaṃ na saddoti? Āmantā.
 (Ka) na gandho na gandhāyatananti? Āmantā.
 (Kha) na gandhāyatanaṃ na gandhoti?
-Sīlagandho samādhigandho paññāgandho na gandhāyatanaṃ, gandho. Gandhañca gandhāyatanañca ṭhapetvā avasesaṃ avasesā (syā.) na ceva gandho na ca gandhāyatanaṃ.
+Sīlagandho samādhigandho paññāgandho na gandhāyatanaṃ, gandho. Gandhañca gandhāyatanañca ṭhapetvā avasesaṃ ⟪ avasesā (syā.) ⟫ na ceva gandho na ca gandhāyatanaṃ.
 (Ka) na raso na rasāyatananti? Āmantā.
 (Kha) na rasāyatanaṃ na rasoti?
 Attharaso dhammaraso vimuttiraso na rasāyatanaṃ, raso. Rasañca rasāyatanañca ṭhapetvā avasesaṃ na ceva raso na ca rasāyatanaṃ.
@@ -417,7 +417,7 @@ Asaññasatte arūpe tattha dhammāyatanaṃ uppajjati, no ca tattha cakkhāyata
 23. (Ka) yattha ghānāyatanaṃ uppajjati tattha rūpāyatanaṃ uppajjatīti? Āmantā.
 (Kha) yattha vā pana rūpāyatanaṃ uppajjati tattha ghānāyatanaṃ uppajjatīti?
 Rūpāvacare tattha rūpāyatanaṃ uppajjati, no ca tattha ghānāyatanaṃ uppajjati. Kāmāvacare tattha rūpāyatanañca uppajjati ghānāyatanañca uppajjati.
-(Yattha  ghānāyatanaṃ uppajjati tattha manāyatanaṃ dhammāyatanañca ekasadisaṃ, nānaṃ natthi, upari pana vārasaṅkhepo uparivāre saṅkhepo (syā.), uparivāre saṅkhepaṃ (sī. ka.) tīti jānitabbaṃ.)
+(Yattha  ghānāyatanaṃ uppajjati tattha manāyatanaṃ dhammāyatanañca ekasadisaṃ, nānaṃ natthi, upari pana vārasaṅkhepo ⟪ uparivāre saṅkhepo (syā.), uparivāre saṅkhepaṃ (sī. ka.) ⟫ tīti jānitabbaṃ.)
 (Ka) yattha  ghānāyatanaṃ uppajjati tattha dhammāyatanaṃ uppajjatīti? Āmantā.
 (Kha) yattha vā pana dhammāyatanaṃ uppajjati tattha ghānāyatanaṃ uppajjatīti?
 Rūpāvacare arūpāvacare tattha dhammāyatanaṃ uppajjati, no ca tattha ghānāyatanaṃ uppajjati. Kāmāvacare tattha dhammāyatanañca uppajjati ghānāyatanañca uppajjati. (Ghānāyatanamūlakaṃ)
@@ -435,7 +435,7 @@ Asaññasatte tattha dhammāyatanaṃ uppajjati, no ca tattha manāyatanaṃ upp
 26. (Ka) yassa  yattha cakkhāyatanaṃ uppajjati tassa tattha sotāyatanaṃ uppajjatīti?
 Sacakkhukānaṃ asotakānaṃ upapajjantānaṃ tesaṃ tattha cakkhāyatanaṃ uppajjati, no ca tesaṃ tattha sotāyatanaṃ uppajjati. Sacakkhukānaṃ  sasotakānaṃ upapajjantānaṃ tesaṃ tattha cakkhāyatanañca uppajjati sotāyatanañca uppajjati.
 (Kha) yassa vā pana yattha sotāyatanaṃ uppajjati tassa tattha cakkhāyatanaṃ uppajjatīti?
-Sasotakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ tattha sotāyatanaṃ uppajjati, no ca tesaṃ tattha cakkhāyatanaṃ uppajjati. Sasotakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ tattha  sotāyatanañca uppajjati cakkhāyatanañca uppajjati (saṃkhittaṃ yassakasadisaṃ yassakampi sadisaṃ (sī.), yassekasadisaṃ (syā.) ).
+Sasotakānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ tattha sotāyatanaṃ uppajjati, no ca tesaṃ tattha cakkhāyatanaṃ uppajjati. Sasotakānaṃ sacakkhukānaṃ upapajjantānaṃ tesaṃ tattha  sotāyatanañca uppajjati cakkhāyatanañca uppajjati (saṃkhittaṃ yassakasadisaṃ ⟪ yassakampi sadisaṃ (sī.), yassekasadisaṃ (syā.) ⟫ ).
 27. (Ka) yassa yattha manāyatanaṃ uppajjati tassa tattha dhammāyatanaṃ uppajjatīti? Āmantā.
 (Kha) yassa vā pana yattha dhammāyatanaṃ uppajjati tassa tattha manāyatanaṃ uppajjatīti?
 Acittakānaṃ upapajjantānaṃ tesaṃ tattha dhammāyatanaṃ uppajjati, no ca tesaṃ tattha manāyatanaṃ uppajjati. Sacittakānaṃ upapajjantānaṃ tesaṃ tattha dhammāyatanañca uppajjati manāyatanañca uppajjati.
@@ -1206,7 +1206,7 @@ Acittakānaṃ cavantānaṃ tesaṃ manāyatanaṃ na nirujjhati, no ca tesaṃ
 (2) Atītavāro
 (Ka) anulomapuggalo
 132. Yassa cakkhāyatanaṃ nirujjhittha tassa sotāyatanaṃ nirujjhitthāti?
-Āmantā. (Uppādavārepi nirodhavārepi uppādanirodhavārepi atītā pucchā anulomampi paccanīkampi paccaniyampi (sī. syā. ka.) sadisaṃ.)
+Āmantā. (Uppādavārepi nirodhavārepi uppādanirodhavārepi atītā pucchā anulomampi paccanīkampi ⟪ paccaniyampi (sī. syā. ka.) ⟫ sadisaṃ.)
 (3) Anāgatavāro
 (Ka) anulomapuggalo
 133. (Ka) yassa  cakkhāyatanaṃ nirujjhissati tassa sotāyatanaṃ nirujjhissatīti? Āmantā.
@@ -1901,7 +1901,7 @@ Pacchimabhavikānaṃ upapajjantānaṃ asaññasattānaṃ tesaṃ tattha manā
 229. (Ka) yassa  cakkhāyatanaṃ uppajjati tassa sotāyatanaṃ nirujjhitthāti? Āmantā.
 (Kha) yassa vā pana sotāyatanaṃ nirujjhittha tassa cakkhāyatanaṃ uppajjatīti ?
 Sabbesaṃ cavantānaṃ acakkhukānaṃ upapajjantānaṃ tesaṃ sotāyatanaṃ nirujjhittha, no ca tesaṃ cakkhāyatanaṃ uppajjati. Sacakkhukānaṃ upapajjantānaṃ tesaṃ sotāyatanañca nirujjhittha cakkhāyatanañca uppajjati.
-(Yathā uppādavāre paccuppannātītā pucchā vibhattā evaṃ uppādanirodhepi paccuppannātītā pucchā anulomampi paccanīkampi vibhajitabbā vibhajitabbaṃ (sī syā. ka.) ).
+(Yathā uppādavāre paccuppannātītā pucchā vibhattā evaṃ uppādanirodhepi paccuppannātītā pucchā anulomampi paccanīkampi vibhajitabbā ⟪ vibhajitabbaṃ (sī syā. ka.) ⟫ ).
 (5) Paccuppannānāgatavāro
 (Ka) anulomapuggalo
 230. (Ka) yassa cakkhāyatanaṃ uppajjati tassa sotāyatanaṃ nirujjhissatīti? Āmantā.
@@ -2036,7 +2036,7 @@ Sabbesaṃ cavantānaṃ acittakānaṃ upapajjantānaṃ tesaṃ tattha manāya
 248. (Ka) yassa cakkhāyatanaṃ uppajjittha tassa sotāyatanaṃ nirujjhissatīti?
 Pañcavokāre parinibbantānaṃ arūpe pacchimabhavikānaṃ ye ca  arūpaṃ upapajjitvā parinibbāyissanti tesaṃ cavantānaṃ tesaṃ cakkhāyatanaṃ uppajjittha, no ca tesaṃ sotāyatanaṃ nirujjhissati. Itaresaṃ tesaṃ cakkhāyatanañca uppajjittha sotāyatanañca nirujjhissati.
 (Kha) yassa  vā pana sotāyatanaṃ nirujjhissati tassa cakkhāyatanaṃ uppajjitthāti? Āmantā.
-(Yathā  nirodhavāre atītānāgatā atītenānāgatā (syā.) pucchā yassakampi yatthakampi yassayatthakampi anulomampi paccanīkampi vibhattaṃ, evaṃ uppādanirodhepi atītānāgatā pucchā vibhajitabbā.)
+(Yathā  nirodhavāre atītānāgatā ⟪ atītenānāgatā (syā.) ⟫ pucchā yassakampi yatthakampi yassayatthakampi anulomampi paccanīkampi vibhattaṃ, evaṃ uppādanirodhepi atītānāgatā pucchā vibhajitabbā.)
 Uppādanirodhavāro.
 Pavattivāro niṭṭhito.
 3. Pariññāvāro

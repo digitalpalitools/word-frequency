@@ -2,13 +2,13 @@
 1. Bhikkhadāyakattheraapadānaṃ
 1.
  ‘‘Suvaṇṇavaṇṇaṃ  sambuddhaṃ, āhutīnaṃ paṭiggahaṃ;
-Pavarā pavanā (syā.) abhinikkhantaṃ, vanā nibbanamāgataṃ vānā nibbānamāgataṃ (syā.).
+Pavarā ⟪ pavanā (syā.) ⟫ abhinikkhantaṃ, vanā nibbanamāgataṃ ⟪ vānā nibbānamāgataṃ (syā.) ⟫.
 2.
  ‘‘Kaṭacchubhikkhaṃ pādāsiṃ, siddhatthassa mahesino;
 Paññāya upasantassa, mahāvīrassa tādino.
 3.
- ‘‘Padenānupadāyantaṃ padenānupadāyanto (sī. syā.), nibbāpente mahājanaṃ;
-Uḷārā vitti me jātā, buddhe ādiccabandhune vitti me pāhunā tāva, buddhassādiccabandhuno (syā.).
+ ‘‘Padenānupadāyantaṃ ⟪ padenānupadāyanto (sī. syā.) ⟫, nibbāpente mahājanaṃ;
+Uḷārā vitti me jātā, buddhe ādiccabandhune ⟪ vitti me pāhunā tāva, buddhassādiccabandhuno (syā.) ⟫.
 4.
  ‘‘Catunnavutito kappe, yaṃ dānamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, bhikkhādānassidaṃ phalaṃ.
@@ -43,7 +43,7 @@ Itthaṃ sudaṃ āyasmā ñāṇasaññiko thero imā gāthāyo abhāsitthāti.
 3. Uppalahatthiyattheraapadānaṃ
 13.
  ‘‘Tivarāyaṃ  nivāsīhaṃ, ahosiṃ māliko tadā;
-Addasaṃ virajaṃ buddhaṃ, siddhatthaṃ lokapūjitaṃ lokanāyakaṃ (sī.).
+Addasaṃ virajaṃ buddhaṃ, siddhatthaṃ lokapūjitaṃ ⟪ lokanāyakaṃ (sī.) ⟫.
 14.
  ‘‘Pasannacitto sumano, pupphahatthamadāsahaṃ;
 Yattha yatthupapajjāmi, tassa kammassa vāhasā.
@@ -52,10 +52,10 @@ Yattha yatthupapajjāmi, tassa kammassa vāhasā.
 Parikkhitto sumallehi, pupphadānassidaṃ phalaṃ.
 16.
  ‘‘Catunnavutito kappe, yaṃ pupphamabhiropayiṃ;
-Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ buddhapūjāyidaṃ (sī.) phalaṃ.
+Duggatiṃ nābhijānāmi, pupphapūjāyidaṃ ⟪ buddhapūjāyidaṃ (sī.) ⟫ phalaṃ.
 17.
  ‘‘Catunnavutupādāya, ṭhapetvā vattamānakaṃ;
-Pañcarājasatā tattha, najjasamasanāmakā najjupamasanāmakā (sī. syā.).
+Pañcarājasatā tattha, najjasamasanāmakā ⟪ najjupamasanāmakā (sī. syā.) ⟫.
 18.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
 Itthaṃ sudaṃ āyasmā uppalahatthiyo thero imā gāthāyo abhāsitthāti.
@@ -100,13 +100,13 @@ Muṭṭhipupphiyattherassāpadānaṃ pañcamaṃ.
 Ghatāsanaṃva jalitaṃ, ādittaṃva hutāsanaṃ.
 30.
  ‘‘Pāṇinā udakaṃ gayha, ākāse ukkhipiṃ ahaṃ;
-Sampaṭicchi mahāvīro, buddho kāruṇiko isi mayi (syā.).
+Sampaṭicchi mahāvīro, buddho kāruṇiko isi ⟪ mayi (syā.) ⟫.
 31.
  ‘‘Antalikkhe  ṭhito satthā, padumuttaranāmako;
 Mama saṅkappamaññāya, imaṃ gāthaṃ abhāsatha.
 32.
  ‘‘‘Iminā dakadānena, pītiuppādanena ca;
-Kappasatasahassampi, duggatiṃ nupapajjati’ nupapajjasi (ka.).
+Kappasatasahassampi, duggatiṃ nupapajjati’ ⟪ nupapajjasi (ka.) ⟫.
 33.
  ‘‘Tena kammena dvipadinda, lokajeṭṭha narāsabha;
 Pattomhi acalaṃ ṭhānaṃ, hitvā jayaparājayaṃ.
@@ -122,7 +122,7 @@ Udakapūjakattherassāpadānaṃ chaṭṭhaṃ.
  ‘‘Padumuttarabuddhassa, lokajeṭṭhassa tādino;
 Tiṇatthare nisinnassa, upasantassa tādino.
 37.
- ‘‘Naḷamālaṃ gahetvāna, bandhitvā bījitvā (ka.) bījaniṃ ahaṃ;
+ ‘‘Naḷamālaṃ gahetvāna, bandhitvā ⟪ bījitvā (ka.) ⟫ bījaniṃ ahaṃ;
 Buddhassa upanāmesiṃ, dvipadindassa tādino.
 38.
  ‘‘Paṭiggahetvā sabbaññū, bījaniṃ lokanāyako;
@@ -162,12 +162,12 @@ Sīhāsanaṃ mayā dinnaṃ, atthadassissa tādino.
 Satthāraṃ payirupāsitvā, pakkāmiṃ uttarāmukho.
 49.
  ‘‘Tena  kammena dvipadinda, lokajeṭṭha narāsabha;
-Sannibbāpemi sandiṭṭhāpemi (ka.) attānaṃ, bhavā sabbe samūhatā.
+Sannibbāpemi ⟪ sandiṭṭhāpemi (ka.) ⟫ attānaṃ, bhavā sabbe samūhatā.
 50.
  ‘‘Aṭṭhārasakappasate, yaṃ dānamadadiṃ tadā;
 Duggatiṃ nābhijānāmi, sīhāsanassidaṃ phalaṃ.
 51.
- ‘‘Ito  sattakappasate, sannibbāpaka sanniṭṭho nāma (ka.) khattiyo;
+ ‘‘Ito  sattakappasate, sannibbāpaka ⟪ sanniṭṭho nāma (ka.) ⟫ khattiyo;
 Sattaratanasampanno, cakkavattī mahabbalo.
 52.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
@@ -176,9 +176,9 @@ Itthaṃ sudaṃ āyasmā āsanupaṭṭhāhako thero imā gāthāyo abhāsitth�
 9. Biḷālidāyakattheraapadānaṃ
 53.
  ‘‘Himavantassāvidūre , vasāmi paṇṇasanthare;
-Ghāsesu gedhamāpanno, seyyasīlo cahaṃ seyasīlovahaṃ (syā. ka.) tadā.
+Ghāsesu gedhamāpanno, seyyasīlo cahaṃ ⟪ seyasīlovahaṃ (syā. ka.) ⟫ tadā.
 54.
- ‘‘Khaṇantālu khaṇamālu (syā.) kalambāni, biḷālitakkalāni ca;
+ ‘‘Khaṇantālu ⟪ khaṇamālu (syā.) ⟫ kalambāni, biḷālitakkalāni ca;
 Kolaṃ bhallātakaṃ billaṃ, āhatvā paṭiyāditaṃ.
 55.
  ‘‘Padumuttaro  lokavidū, āhutīnaṃ paṭiggaho;

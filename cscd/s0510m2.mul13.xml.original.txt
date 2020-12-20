@@ -7,13 +7,13 @@ Sunimmitā pokkharaṇī, cakkavākūpakūjitā.
  ‘‘Mandārakehi sañchannā, padumuppalakehi ca;
 Nadī ca sandate tattha, supatitthā manoramā.
 3.
- ‘‘Macchakacchapasañchannā, nānādijasamotthaṭā nānāmigasamotthaṭā (syā.);
+ ‘‘Macchakacchapasañchannā, nānādijasamotthaṭā ⟪ nānāmigasamotthaṭā (syā.) ⟫;
 Mayūrakoñcābhirudā, kokilādīhi vagguhi.
 4.
  ‘‘Pārevatā ravihaṃsā, cakkavākā nadīcarā;
-Tittirā sāḷikā cettha, pāvakā sambakā (ka.) jīvaṃjīvakā.
+Tittirā sāḷikā cettha, pāvakā ⟪ sambakā (ka.) ⟫ jīvaṃjīvakā.
 5.
- ‘‘Haṃsākoñcābhinaditā, kosiyā piṅgalā piṅgalī (sī.), siṅgalī, siṅghalī (ka.) bahū;
+ ‘‘Haṃsākoñcābhinaditā, kosiyā piṅgalā ⟪ piṅgalī (sī.), siṅgalī, siṅghalī (ka.) ⟫ bahū;
 Sattaratanasampannā, maṇimuttapavāḷikā.
 6.
  ‘‘Sabbe soṇṇamayā rukkhā, nānākhandhasameritā;
@@ -23,7 +23,7 @@ Ujjotenti divārattiṃ, bhavanaṃ sabbakālikaṃ.
 Soḷasitthisahassāni, parivārenti maṃ sadā.
 8.
  ‘‘Abhinikkhamma bhavanā, sumedhaṃ lokanāyakaṃ;
-Pasannacitto sumano, vandayiṃ taṃ sabbadassiṃ (ka.) mahāyasaṃ.
+Pasannacitto sumano, vandayiṃ taṃ ⟪ sabbadassiṃ (ka.) ⟫ mahāyasaṃ.
 9.
  ‘‘Sambuddhaṃ abhivādetvā, sasaṅghaṃ taṃ nimantayiṃ;
 Adhivāsesi so dhīro, sumedho lokanāyako.
@@ -108,7 +108,7 @@ Abhāsitthāti.
 Nadīkassapattherassāpadānaṃ dutiyaṃ.
 3. Gayākassapattheraapadānaṃ
 35.
- ‘‘Ajinacammavatthohaṃ ajinavattaṃ nivattohaṃ (sī.), khāribhāradharo tadā;
+ ‘‘Ajinacammavatthohaṃ ⟪ ajinavattaṃ nivattohaṃ (sī.) ⟫, khāribhāradharo tadā;
 Khārikaṃ hārayitvāna, kolaṃ ahāsi assamaṃ.
 36.
  ‘‘Bhagavā tamhi samaye, eko adutiyo jino;
@@ -133,7 +133,7 @@ Gayākassapattherassāpadānaṃ tatiyaṃ.
  ‘‘Nibbute kakusandhamhi, brāhmaṇamhi vusīmati;
 Gahetvā salalaṃ mālaṃ, maṇḍapaṃ kārayiṃ ahaṃ.
 43.
- ‘‘Tāvatiṃsaṃ gato santo, labhimha labhāmi (ka.) byamhamuttamaṃ;
+ ‘‘Tāvatiṃsaṃ gato santo, labhimha ⟪ labhāmi (ka.) ⟫ byamhamuttamaṃ;
 Aññe devetirocāmi, puññakammassidaṃ phalaṃ.
 44.
  ‘‘Divā vā yadi vā rattiṃ, caṅkamanto ṭhito cahaṃ;
@@ -147,7 +147,7 @@ Duggatiṃ nābhijānāmi, buddhapūjāyidaṃ phalaṃ.
  ‘‘Svāgataṃ vata me āsi…pe… kataṃ buddhassa sāsanaṃ.
 48.
  ‘‘Paṭisambhidā catasso…pe… kataṃ buddhassa sāsanaṃ’’.
-Itthaṃ sudaṃ āyasmā kimilo kimbilo (sī.) thero imā gāthāyo
+Itthaṃ sudaṃ āyasmā kimilo ⟪ kimbilo (sī.) ⟫ thero imā gāthāyo
 Abhāsitthāti.
 Kimilattherassāpadānaṃ catutthaṃ.
 5. Vajjīputtattheraapadānaṃ
@@ -183,8 +183,8 @@ Tisūlaṃ sugataṃ gayha, gacchāmi ambare tadā.
  ‘‘Pabbatagge yathā aggi, puṇṇamāyeva candimā;
 Vanaṃ obhāsate buddho, sālarājāva phullito.
 59.
- ‘‘Vanaggā nikkhamitvāna, buddharaṃsībhidhāvare buddharaṃsī vidhāvare (sī. ka.);
-Naḷaggivaṇṇasaṅkāsā naḷaggiva nasaṅkāsaṃ (sī.), disvā cittaṃ pasādayiṃ.
+ ‘‘Vanaggā nikkhamitvāna, buddharaṃsībhidhāvare ⟪ buddharaṃsī vidhāvare (sī. ka.) ⟫;
+Naḷaggivaṇṇasaṅkāsā ⟪ naḷaggiva nasaṅkāsaṃ (sī.) ⟫, disvā cittaṃ pasādayiṃ.
 60.
  ‘‘Vicinaṃ addasaṃ pupphaṃ, kaṇikāraṃ devagandhikaṃ;
 Tīṇi pupphāni ādāya, buddhaseṭṭhamapūjayiṃ.
@@ -195,11 +195,11 @@ Uddhaṃ vaṇṭā adhopattā, chāyaṃ kubbanti satthuno.
  ‘‘Tena kammena sukatena, cetanāpaṇidhīhi ca;
 Jahitvā mānusaṃ dehaṃ tāvatiṃsamagacchahaṃ.
 63.
- ‘‘Tattha me sukataṃ byamhaṃ, kaṇikārīti kaṇikāroti (sī.) ñāyati;
+ ‘‘Tattha me sukataṃ byamhaṃ, kaṇikārīti ⟪ kaṇikāroti (sī.) ⟫ ñāyati;
 Saṭṭhiyojanamubbedhaṃ, tiṃsayojanavitthataṃ.
 64.
  ‘‘Sahassakaṇḍaṃ  satabheṇḍu, dhajālu haritāmayaṃ;
-Satasahassaniyyūhā satasahassāni byūhāni (sī.), byamhe pātubhaviṃsu pāturahaṃsu (sī.), pāturahiṃsu (ka.) me.
+Satasahassaniyyūhā ⟪ satasahassāni byūhāni (sī.) ⟫, byamhe pātubhaviṃsu ⟪ pāturahaṃsu (sī.), pāturahiṃsu (ka.) ⟫ me.
 65.
  ‘‘Soṇṇamayā maṇimayā, lohitaṅkamayāpi ca;
 Phalikāpi ca pallaṅkā, yenicchakā yadicchakā.
@@ -208,7 +208,7 @@ Phalikāpi ca pallaṅkā, yenicchakā yadicchakā.
 Uddhalomiñca ekantaṃ, bimbohanasamāyutaṃ.
 67.
  ‘‘Bhavanā nikkhamitvāna, caranto devacārikaṃ;
-Yathā icchāmi yathā gacchāmi (sī.) gamanaṃ, devasaṅghapurakkhato.
+Yathā icchāmi ⟪ yathā gacchāmi (sī.) ⟫ gamanaṃ, devasaṅghapurakkhato.
 68.
  ‘‘Pupphassa heṭṭhā tiṭṭhāmi, uparicchadanaṃ mama;
 Samantā yojanasataṃ, kaṇikārehi chāditaṃ.
@@ -232,7 +232,7 @@ Bhoge me ūnatā natthi, buddhapūjāyidaṃ phalaṃ.
  ‘‘Duve bhave saṃsarāmi, devatte atha mānuse;
 Aññaṃ gatiṃ na jānāmi, buddhapūjāyidaṃ phalaṃ.
 75.
- ‘‘Duve kule pajāyāmi yattha pacchā pajāyāmi (sī.), khattiye cāpi brāhmaṇe;
+ ‘‘Duve kule pajāyāmi ⟪ yattha pacchā pajāyāmi (sī.) ⟫, khattiye cāpi brāhmaṇe;
 Nīce kule na jāyāmi, buddhapūjāyidaṃ phalaṃ.
 76.
  ‘‘Hatthiyānaṃ assayānaṃ, sivikaṃ sandamānikaṃ;
@@ -251,7 +251,7 @@ Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.
 Labhāmi sabbamevetaṃ, buddhapūjāyidaṃ phalaṃ.
 81.
  ‘‘Sabbattha pūjito homi, yaso accuggato mama;
-Mahāpakkho mahesakkho (ka.) sadā homi, abhejjapariso sadā;
+Mahāpakkho ⟪ mahesakkho (ka.) ⟫ sadā homi, abhejjapariso sadā;
 Ñātīnaṃ uttamo homi, buddhapūjāyidaṃ phalaṃ.
 82.
  ‘‘Sītaṃ  uṇhaṃ na jānāmi, pariḷāho na vijjati;
@@ -314,7 +314,7 @@ Rattambaradharo buddho, gacchate anilañjase.
 Uddhaṃ nijjhāyamānohaṃ, addasaṃ lokanāyakaṃ.
 101.
  ‘‘Tattheva ṭhitako santo, āyāciṃ lokanāyakaṃ;
-Madhuṃ bhisehi sahitaṃ, khīraṃ sappiṃ muḷālikaṃ madhuṃ bhisehi pacati, khīrasappi mulālibhi (ka.) bhisadāyakattherāpadānepi.
+Madhuṃ bhisehi sahitaṃ, khīraṃ sappiṃ muḷālikaṃ ⟪ madhuṃ bhisehi pacati, khīrasappi mulālibhi (ka.) bhisadāyakattherāpadānepi ⟫.
 102.
  ‘‘Paṭiggaṇhātu me buddho, anukampāya cakkhumā;
 Tato kāruṇiko satthā, orohitvā mahāyaso.
@@ -390,7 +390,7 @@ Sadevamanussā sabbe, buddhathūpaṃ akaṃsu te.
  ‘‘Paṭhamā kañcanamayā, dutiyā ca maṇimayā;
 Tatiyā rūpiyamayā, catutthī phalikāmayā.
 126.
- ‘‘Tattha pañcamikā ceva tattha pañcamikā ceti (sī.), lohitaṅkamayā ahu;
+ ‘‘Tattha pañcamikā ceva ⟪ tattha pañcamikā ceti (sī.) ⟫, lohitaṅkamayā ahu;
 Chaṭṭhā masāragallassa, sabbaṃ ratanamayūpari.
 127.
  ‘‘Jaṅghā maṇimayā āsi, vedikā ratanāmayā;
@@ -414,7 +414,7 @@ Mayampi thūpaṃ kassāma, lokanāthassa tādino’.
  ‘‘Indanīlaṃ  mahānīlaṃ, atho jotirasaṃ maṇiṃ;
 Ekato sannipātetvā, buddhathūpaṃ achādayuṃ.
 134.
- ‘‘Sabbaṃ maṇimayaṃ āsi, yāvatā tāvatā (ka.) buddhacetiyaṃ;
+ ‘‘Sabbaṃ maṇimayaṃ āsi, yāvatā ⟪ tāvatā (ka.) ⟫ buddhacetiyaṃ;
 Tiyojanasamubbedhaṃ, ālokakaraṇaṃ tadā.
 135.
  ‘‘Garuḷā ca samāgantvā, ekato mantayuṃ tadā;
@@ -454,7 +454,7 @@ Phalikā chādayissāma, āyataṃ buddhacetiyaṃ’.
 Chayojanikamubbedho, thūpo obhāsate tadā.
 147.
  ‘‘Gandhabbā ca samāgantvā, ekato mantayuṃ tadā;
-‘Manujā devatā nāgā, kumbhaṇḍā garuḷā tathā kumbhaṇḍā ca yakkhā tathā (sī.).
+‘Manujā devatā nāgā, kumbhaṇḍā garuḷā tathā ⟪ kumbhaṇḍā ca yakkhā tathā (sī.) ⟫.
 148.
  ‘‘‘Sabbe akaṃsu buddhathūpaṃ, mayamettha akārakā;
 Mayampi thūpaṃ kassāma, lokanāthassa tādino’.
@@ -510,7 +510,7 @@ Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.
  ‘‘‘Chaḷasītisahassāni , nāriyo samalaṅkatā;
 Vicittavatthābharaṇā, āmukkamaṇikuṇḍalā.
 166.
- ‘‘‘Āḷārapamhā hasulā, susaññā sutthanā (sī.) apa. thera 2.48.19 maṇipūjakattherāpadānepi tanumajjhimā;
+ ‘‘‘Āḷārapamhā hasulā, susaññā ⟪ sutthanā (sī.) apa. thera 2.48.19 maṇipūjakattherāpadānepi ⟫ tanumajjhimā;
 Parivāressanti taṃ niccaṃ, dhajadānassidaṃ phalaṃ.
 167.
  ‘‘‘Tiṃsakappasahassāni, devaloke ramissasi;
@@ -532,7 +532,7 @@ Gotamassa bhagavato, sāsane pabbajissasi.
 Upavānoti nāmena, hessasi satthu sāvako’.
 173.
  ‘‘Satasahasse kataṃ kammaṃ, phalaṃ dassesi me idha;
-Sumutto saravegova, kilese jhāpayiṃ kilesā jhāpitā (sī.) mama.
+Sumutto saravegova, kilese jhāpayiṃ ⟪ kilesā jhāpitā (sī.) ⟫ mama.
 174.
  ‘‘Cakkavattissa santassa, cātuddīpissarassa me;
 Tīṇi yojanāni sāmantā, ussīyanti dhajā sadā.
@@ -553,11 +553,11 @@ Upavānattherassāpadānaṃ dasamaṃ.
  ‘‘Padumuttarassa  bhagavato, lokajeṭṭhassa tādino;
 Varanāgo mayā dinno, īsādanto urūḷhavā.
 180.
- ‘‘Setacchattopasobhito, sakappano sīdabbano (sī.) sahatthipo;
+ ‘‘Setacchattopasobhito, sakappano ⟪ sīdabbano (sī.) ⟫ sahatthipo;
 Agghāpetvāna taṃ sabbaṃ, saṅghārāmaṃ akārayiṃ.
 181.
  ‘‘Catupaññāsasahassāni, pāsāde kārayiṃ ahaṃ;
-Mahoghadānaṃ mahagghañca (sī.), mayā bhattaṃ (ka.) apa. thera 1.2.99 karitvāna, niyyādesiṃ mahesino.
+Mahoghadānaṃ ⟪ mahagghañca (sī.), mayā bhattaṃ (ka.) apa. thera 1.2.99 ⟫ karitvāna, niyyādesiṃ mahesino.
 182.
  ‘‘Anumodi  mahāvīro, sayambhū aggapuggalo;
 Sabbe jane hāsayanto, desesi amataṃ padaṃ.

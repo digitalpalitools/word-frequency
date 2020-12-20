@@ -3,7 +3,7 @@ Khuddakanikāye
 Theragāthāpāḷi
 Nidānagāthā
 Sīhānaṃva  nadantānaṃ, dāṭhīnaṃ girigabbhare;
-Suṇātha bhāvitattānaṃ, gāthā atthūpanāyikā attūpanāyikā (sī. ka.).
+Suṇātha bhāvitattānaṃ, gāthā atthūpanāyikā ⟪ attūpanāyikā (sī. ka.) ⟫.
 Yathānāmā yathāgottā, yathādhammavihārino;
 Yathādhimuttā sappaññā, vihariṃsu atanditā.
 Tattha tattha vipassitvā, phusitvā accutaṃ padaṃ;
@@ -14,12 +14,12 @@ Katantaṃ paccavekkhantā, imamatthamabhāsisuṃ.
 1.
  ‘‘Channā  me kuṭikā sukhā nivātā, vassa deva yathāsukhaṃ;
 Cittaṃ me susamāhitaṃ vimuttaṃ, ātāpī viharāmi vassa devā’’ti.
-Itthaṃ sudaṃ itthaṃ sumaṃ (ka. aṭṭha.) āyasmā subhūtitthero gāthaṃ abhāsitthāti.
+Itthaṃ sudaṃ ⟪ itthaṃ sumaṃ (ka. aṭṭha.) ⟫ āyasmā subhūtitthero gāthaṃ abhāsitthāti.
 2. Mahākoṭṭhikattheragāthā
 2.
  ‘‘Upasanto  uparato, mantabhāṇī anuddhato;
 Dhunāti pāpake dhamme, dumapattaṃva māluto’’ti.
-Itthaṃ sudaṃ āyasmā mahākoṭṭhiko mahākoṭṭhito (sī. syā.) thero gāthaṃ abhāsitthāti.
+Itthaṃ sudaṃ āyasmā mahākoṭṭhiko ⟪ mahākoṭṭhito (sī. syā.) ⟫ thero gāthaṃ abhāsitthāti.
 3. Kaṅkhārevatattheragāthā
 3.
  ‘‘Paññaṃ  imaṃ passa tathāgatānaṃ, aggi yathā pajjalito nisīthe;
@@ -30,7 +30,7 @@ Itthaṃ sudaṃ āyasmā kaṅkhārevato thero gāthaṃ abhāsitthāti.
  ‘‘Sambhireva samāsetha, paṇḍitehatthadassibhi;
 Atthaṃ mahantaṃ gambhīraṃ, duddasaṃ nipuṇaṃ aṇuṃ;
 Dhīrā samadhigacchanti, appamattā vicakkhaṇā’’ti.
-Itthaṃ sudaṃ āyasmā puṇṇo mantāṇiputto mantāniputto (syā. ka.) thero gāthaṃ abhāsitthāti.
+Itthaṃ sudaṃ āyasmā puṇṇo mantāṇiputto ⟪ mantāniputto (syā. ka.) ⟫ thero gāthaṃ abhāsitthāti.
 5. Dabbattheragāthā
 5.
  ‘‘Yo  duddamiyo damena danto, dabbo santusito vitiṇṇakaṅkho;
@@ -53,9 +53,9 @@ Vijitāvī apetalomahaṃso, vīro so parinibbuto ṭhitatto’’ti.
 Itthaṃ sudaṃ āyasmā vīro thero gāthaṃ abhāsitthāti.
 9. Pilindavacchattheragāthā
 9.
- ‘‘Svāgataṃ na durāgataṃ nāpagataṃ (sī. syā.), nayidaṃ dumantitaṃ mama;
+ ‘‘Svāgataṃ na durāgataṃ ⟪ nāpagataṃ (sī. syā.) ⟫, nayidaṃ dumantitaṃ mama;
 Saṃvibhattesu dhammesu, yaṃ seṭṭhaṃ tadupāgami’’nti.
-Itthaṃ sudaṃ āyasmā pilindavaccho pilindivaccho (sī.) thero gāthaṃ abhāsitthāti.
+Itthaṃ sudaṃ āyasmā pilindavaccho ⟪ pilindivaccho (sī.) ⟫ thero gāthaṃ abhāsitthāti.
 10. Puṇṇamāsattheragāthā
 10.
  ‘‘Vihari  apekkhaṃ idha vā huraṃ vā, yo vedagū samito yatatto;
@@ -71,12 +71,12 @@ Vīro pilindavaccho ca, puṇṇamāso tamonudoti.
 11.
  ‘‘Pāmojjabahulo bhikkhu, dhamme buddhappavedite;
 Adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukha’’nti.
-… Cūḷavaccho cūlagavaccho (sī.) thero….
+… Cūḷavaccho ⟪ cūlagavaccho (sī.) ⟫ thero….
 2. Mahāvacchattheragāthā
 12.
  ‘‘Paññābalī sīlavatūpapanno, samāhito jhānarato satīmā;
 Yadatthiyaṃ bhojanaṃ bhuñjamāno, kaṅkhetha kālaṃ idha vītarāgo’’ti.
-… Mahāvaccho mahāgavaccho (sī.) thero….
+… Mahāvaccho ⟪ mahāgavaccho (sī.) ⟫ thero….
 3. Vanavacchattheragāthā
 13.
  ‘‘Nīlabbhavaṇṇā  rucirā, sītavārī sucindharā;
@@ -107,18 +107,18 @@ Mahāvarāhova nivāpapuṭṭho, punappunaṃ gabbhamupeti mando’’ti.
 8. Siṅgālapituttheragāthā
 18.
  ‘‘Ahu  buddhassa dāyādo, bhikkhu bhesakaḷāvane;
-Kevalaṃ aṭṭhisaññāya, apharī pathaviṃ paṭhaviṃ (sī. syā.) imaṃ;
-Maññehaṃ kāmarāgaṃ so, khippameva pahissatī’’ti pahīyabhi (sabbattha pāḷiyaṃ).
-… Siṅgālapitā sīgālapitā (sī.) thero….
+Kevalaṃ aṭṭhisaññāya, apharī pathaviṃ ⟪ paṭhaviṃ (sī. syā.) ⟫ imaṃ;
+Maññehaṃ kāmarāgaṃ so, khippameva pahissatī’’ti ⟪ pahīyabhi (sabbattha pāḷiyaṃ) ⟫.
+… Siṅgālapitā ⟪ sīgālapitā (sī.) ⟫ thero….
 9. Kulattheragāthā
 19.
-dha. pa. 80, 145 dhammapadepi ‘‘Udakaṃ  hi nayanti nettikā, usukārā namayanti damayanti (ka.) tejanaṃ;
+⟪ dha. pa. 80, 145 dhammapadepi ⟫ ‘‘Udakaṃ  hi nayanti nettikā, usukārā namayanti ⟪ damayanti (ka.) ⟫ tejanaṃ;
 Dāruṃ  namayanti tacchakā, attānaṃ damayanti subbatā’’ti.
-… Kulo kuṇḍalo (sī.), kuḷo (syā. ka.) thero….
+… Kulo ⟪ kuṇḍalo (sī.), kuḷo (syā. ka.) ⟫ thero….
 10. Ajitattheragāthā
 20.
  ‘‘Maraṇe me bhayaṃ natthi, nikanti natthi jīvite;
-Sandehaṃ nikkhipissāmi, sampajāno paṭissato’’ti patissatoti (sī. syā.);;
+Sandehaṃ nikkhipissāmi, sampajāno paṭissato’’ti ⟪ patissatoti (sī. syā.) ⟫;;
 … Ajito thero ….
 Vaggo dutiyo niṭṭhito.
 Tassuddānaṃ –
@@ -133,8 +133,8 @@ Yattha bhayaṃ nāvatiṭṭhati, tena maggena vajanti bhikkhavo’’ti.
 … Nigrodho thero….
 2. Cittakattheragāthā
 22.
- ‘‘Nīlā  sugīvā sikhino, morā kārambhiyaṃ kāraṃviyaṃ (sī.), kāraviyaṃ (syā.) abhinadanti;
-Te sītavātakīḷitā sītavātakadditakalitā (sī.), sītavātakalitā (syā.), suttaṃ jhāyaṃ jhānaṃ (syā.), jhāyiṃ (?) nibodhentī’’ti.
+ ‘‘Nīlā  sugīvā sikhino, morā kārambhiyaṃ ⟪ kāraṃviyaṃ (sī.), kāraviyaṃ (syā.) ⟫ abhinadanti;
+Te sītavātakīḷitā ⟪ sītavātakadditakalitā (sī.), sītavātakalitā (syā.) ⟫, suttaṃ jhāyaṃ ⟪ jhānaṃ (syā.), jhāyiṃ (?) ⟫ nibodhentī’’ti.
 … Cittako thero….
 3. Gosālattheragāthā
 23.
@@ -165,7 +165,7 @@ Urasā panudissāmi, vivekamanubrūhaya’’nti.
 8. Jambugāmikaputtattheragāthā
 28.
  ‘‘Kacci  no vatthapasuto, kacci no bhūsanārato;
-Kacci sīlamayaṃ gandhaṃ, kiṃ tvaṃ vāyasi kacci sīlamayaṃ gandhaṃ, tvaṃ vāsi (syā.) netarā pajā’’ti.
+Kacci sīlamayaṃ gandhaṃ, kiṃ tvaṃ vāyasi ⟪ kacci sīlamayaṃ gandhaṃ, tvaṃ vāsi (syā.) ⟫ netarā pajā’’ti.
 … Jambugāmikaputto thero….
 9. Hāritattheragāthā
 29.
@@ -191,7 +191,7 @@ Nāgo saṃgāmasīseva, sato tatrādhivāsaye’’ti.
 2. Suppiyattheragāthā
 32.
  ‘‘Ajaraṃ  jīramānena, tappamānena nibbutiṃ;
-Nimiyaṃ nimmissaṃ (sī.), nirāmisaṃ (syā.), nimineyyaṃ (?) paramaṃ santiṃ, yogakkhemaṃ anuttara’’nti.
+Nimiyaṃ ⟪ nimmissaṃ (sī.), nirāmisaṃ (syā.), nimineyyaṃ (?) ⟫ paramaṃ santiṃ, yogakkhemaṃ anuttara’’nti.
 … Suppiyo thero….
 3. Sopākattheragāthā
 33.
@@ -201,8 +201,8 @@ Evaṃ sabbesu pāṇesu, sabbattha kusalo siyā’’ti.
 4. Posiyattheragāthā
 34.
  ‘‘Anāsannavarā etā, niccameva vijānatā;
-Gāmā araññamāgamma, tato gehaṃ upāvisi upāvisiṃ (sī.);
-Tato uṭṭhāya pakkāmi, anāmantetvā anāmantiya (sī.) posiyo’’ti.
+Gāmā araññamāgamma, tato gehaṃ upāvisi ⟪ upāvisiṃ (sī.) ⟫;
+Tato uṭṭhāya pakkāmi, anāmantetvā ⟪ anāmantiya (sī.) ⟫ posiyo’’ti.
 … Posiyo thero….
 5. Sāmaññakānittheragāthā
 35.
@@ -227,7 +227,7 @@ Taṃ sabbasaṅgātigataṃ mahāmuniṃ, devā namassanti bhavassa pāragu’�
 … Gavampatitthero….
 9. Tissattheragāthā
 39.
-saṃ. ni. 1.21, 97‘‘Sattiyā viya omaṭṭho, ḍayhamānova ḍayhamāneva (sabbattha) matthake;
+⟪ saṃ. ni. 1.21, 97 ⟫‘‘Sattiyā viya omaṭṭho, ḍayhamānova ⟪ ḍayhamāneva (sabbattha) ⟫ matthake;
 Kāmarāgappahānāya, sato bhikkhu paribbaje’’ti.
 … Tisso thero….
 10. Vaḍḍhamānattheragāthā
@@ -248,7 +248,7 @@ Nagavivaragato ca jhāyati, putto appaṭimassa tādino’’ti.
 … Sirivaḍḍho thero….
 2. Khadiravaniyattheragāthā
 42.
- ‘‘Cāle  upacāle sīsūpacāle ( ) (cālā upacālā, sīsūpacālā) (ka.) patissatā paṭissatikā (syā. ka.) nu kho viharatha;
+ ‘‘Cāle  upacāle sīsūpacāle ( ) ⟪ (cālā upacālā, sīsūpacālā) (ka.) ⟫ patissatā ⟪ paṭissatikā (syā. ka.) ⟫ nu kho viharatha;
 Āgato vo vālaṃ viya vedhī’’ti.
 … Khadiravaniyo thero….
 3. Sumaṅgalattheragāthā
@@ -260,7 +260,7 @@ Jhāya sumaṅgala jhāya sumaṅgala, appamatto vihara sumaṅgalā’’ti.
 … Sumaṅgalo thero….
 4. Sānuttheragāthā
 44.
-saṃ. ni. 1.239 ‘‘Mataṃ vā amma rodanti, yo vā jīvaṃ na dissati;
+⟪ saṃ. ni. 1.239 ⟫ ‘‘Mataṃ vā amma rodanti, yo vā jīvaṃ na dissati;
 Jīvantaṃ maṃ amma passantī, kasmā maṃ amma rodasī’’ti.
 … Sānutthero….
 5. Ramaṇīyavihārittheragāthā
@@ -272,7 +272,7 @@ Evaṃ  dassanasampannaṃ, sammāsambuddhasāvaka’’nti.
 46.
  ‘‘Saddhāyāhaṃ pabbajito, agārasmānagāriyaṃ;
 Sati paññā ca me vuḍḍhā, cittañca susamāhitaṃ;
-Kāmaṃ karassu rūpāni, neva maṃ byādhayissasī’’ti bādhayissasīti (sī.), byāthayissasīti (?).
+Kāmaṃ karassu rūpāni, neva maṃ byādhayissasī’’ti ⟪ bādhayissasīti (sī.), byāthayissasīti (?) ⟫.
 … Samiddhitthero….
 7. Ujjayattheragāthā
 47.
@@ -286,7 +286,7 @@ Nābhijānāmi saṅkappaṃ, anariyaṃ dosasaṃhita’’nti.
 … Sañjayo thero….
 9. Rāmaṇeyyakattheragāthā
 49.
- ‘‘Cihacihābhinadite vihavihābhinadite (sī. syā.), sippikābhirutehi ca;
+ ‘‘Cihacihābhinadite ⟪ vihavihābhinadite (sī. syā.) ⟫, sippikābhirutehi ca;
 Na me taṃ phandati cittaṃ, ekattanirataṃ hi me’’ti.
 … Rāmaṇeyyako thero….
 10. Vimalattheragāthā
@@ -343,7 +343,7 @@ Na me attho kumārīhi, yesaṃ attho tahiṃ gacchatha nāriyo’’ti.
 9. Kosalavihārittheragāthā
 59.
  ‘‘Saddhāyāhaṃ  pabbajito, araññe me kuṭikā katā;
-Appamatto ca ātāpī, sampajāno patissato’’ti paṭissatoti (ka.).
+Appamatto ca ātāpī, sampajāno patissato’’ti ⟪ paṭissatoti (ka.) ⟫.
 … Kosalavihāritthero….
 10. Sīvalittheragāthā
 60.
@@ -394,13 +394,13 @@ Vikkhīṇo jātisaṃsāro, natthi dāni punabbhavo’’ti.
 … Ekadhammasavanīyo thero….
 8. Ekudāniyattheragāthā
 68.
-udā. 37; pāci. 153 ‘‘Adhicetaso appamajjato, munino monapathesu sikkhato;
+⟪ udā. 37; pāci. 153 ⟫ ‘‘Adhicetaso appamajjato, munino monapathesu sikkhato;
 Sokā na bhavanti tādino, upasantassa sadā satīmato’’ti.
 … Ekudāniyo thero….
 9. Channattheragāthā
 69.
  ‘‘Sutvāna  dhammaṃ mahato mahārasaṃ, sabbaññutaññāṇavarena desitaṃ;
-Maggaṃ papajjiṃ papajjaṃ (ka.) amatassa pattiyā, so yogakkhemassa pathassa kovido’’ti.
+Maggaṃ papajjiṃ ⟪ papajjaṃ (ka.) ⟫ amatassa pattiyā, so yogakkhemassa pathassa kovido’’ti.
 … Channo thero….
 10. Puṇṇattheragāthā
 70.
@@ -416,7 +416,7 @@ Ekudāniyachannā ca, puṇṇatthero mahabbaloti.
 1. Vacchapālattheragāthā
 71.
  ‘‘Susukhumanipuṇatthadassinā, matikusalena nivātavuttinā;
-Saṃsevitavuddhasīlinā saṃsevitabuddhasīlinā (ka.), nibbānaṃ na hi tena dullabha’’nti.
+Saṃsevitavuddhasīlinā ⟪ saṃsevitabuddhasīlinā (ka.) ⟫, nibbānaṃ na hi tena dullabha’’nti.
 … Vacchapālo thero….
 2. Ātumattheragāthā
 72.
@@ -430,7 +430,7 @@ Tato ahaṃ nikkhamitūna pabbajiṃ, pahāya kāmāni manoramānī’’ti.
 … Māṇavo thero….
 4. Suyāmanattheragāthā
 74.
- ‘‘Kāmacchando ca byāpādo, thinamiddhañca thīnamiddhañca (sī. syā.) bhikkhuno;
+ ‘‘Kāmacchando ca byāpādo, thinamiddhañca ⟪ thīnamiddhañca (sī. syā.) ⟫ bhikkhuno;
 Uddhaccaṃ vicikicchā ca, sabbasova na vijjatī’’ti.
 … Suyāmano thero….
 5. Susāradattheragāthā
@@ -545,16 +545,16 @@ Yo kāme na kāmayati, dukkhaṃ so na kāmayati erakā’’ti.
 4. Mettajittheragāthā
 94.
  ‘‘Namo hi tassa bhagavato, sakyaputtassa sirīmato;
-Tenāyaṃ aggappattena, aggadhammo aggo dhammo (sī.) sudesito’’ti.
+Tenāyaṃ aggappattena, aggadhammo ⟪ aggo dhammo (sī.) ⟫ sudesito’’ti.
 … Mettaji thero….
 5. Cakkhupālattheragāthā
 95.
- ‘‘Andhohaṃ hatanettosmi, kantāraddhānapakkhando pakkhanno (sī.), pakkanto (syā. sī. aṭṭha.);
+ ‘‘Andhohaṃ hatanettosmi, kantāraddhānapakkhando ⟪ pakkhanno (sī.), pakkanto (syā. sī. aṭṭha.) ⟫;
 Sayamānopi gacchissaṃ, na sahāyena pāpenā’’ti.
 … Cakkhupālo thero….
 6. Khaṇḍasumanattheragāthā
 96.
- ‘‘Ekapupphaṃ  cajitvāna, asīti asītiṃ (sī.) vassakoṭiyo;
+ ‘‘Ekapupphaṃ  cajitvāna, asīti ⟪ asītiṃ (sī.) ⟫ vassakoṭiyo;
 Saggesu paricāretvā, sesakenamhi nibbuto’’ti.
 … Khaṇḍasumano thero….
 7. Tissattheragāthā
@@ -566,7 +566,7 @@ Aggahiṃ mattikāpattaṃ, idaṃ dutiyābhisecana’’nti.
 98.
  ‘‘Rūpaṃ  disvā sati muṭṭhā, piyaṃ nimittaṃ manasikaroto;
 Sārattacitto vedeti, tañca ajjhosa tiṭṭhati;
-Tassa vaḍḍhanti āsavā, bhavamūlopagāmino’’ti bhavamūlā bhavagāminoti (sī. ka.).
+Tassa vaḍḍhanti āsavā, bhavamūlopagāmino’’ti ⟪ bhavamūlā bhavagāminoti (sī. ka.) ⟫.
 … Abhayo thero….
 9. Uttiyattheragāthā
 99.
@@ -598,8 +598,8 @@ Lābhālābhena mathitā, samādhiṃ nādhigacchantī’’ti.
 3. Bandhurattheragāthā
 103.
  ‘‘Nāhaṃ etena atthiko, sukhito dhammarasena tappito;
-Pitvā pītvāna (sī. syā.) rasaggamuttamaṃ, na ca kāhāmi visena santhava’’nti.
-… Bandhuro bandhano (ka.) thero….
+Pitvā ⟪ pītvāna (sī. syā.) ⟫ rasaggamuttamaṃ, na ca kāhāmi visena santhava’’nti.
+… Bandhuro ⟪ bandhano (ka.) ⟫ thero….
 4. Khitakattheragāthā
 104.
  ‘‘Lahuko vata me kāyo, phuṭṭho ca pītisukhena vipulena;
@@ -658,19 +658,19 @@ Ambusevālasañchannā, te selā ramayanti ma’’nti.
 … Vanavaccho thero….
 4. Adhimuttattheragāthā
 114.
- ‘‘Kāyaduṭṭhullagaruno, hiyyamānamhi hīyamānamhi (sī.) jīvite;
+ ‘‘Kāyaduṭṭhullagaruno, hiyyamānamhi ⟪ hīyamānamhi (sī.) ⟫ jīvite;
 Sarīrasukhagiddhassa, kuto samaṇasādhutā’’ti.
 … Adhimutto thero….
 5. Mahānāmattheragāthā
 115.
- ‘‘Esāvahiyyase pabbatena, bahukuṭajasallakikena sallakitena (sī.), sallarikena (syā.);
+ ‘‘Esāvahiyyase pabbatena, bahukuṭajasallakikena ⟪ sallakitena (sī.), sallarikena (syā.) ⟫;
 Nesādakena  girinā, yasassinā paricchadenā’’ti.
 … Mahānāmo thero….
 6. Pārāpariyattheragāthā
 116.
  ‘‘Chaphassāyatane  hitvā, guttadvāro susaṃvuto;
 Aghamūlaṃ vamitvāna, patto me āsavakkhayo’’ti.
-… Pārāpariyo pārāsariyo (sī.), pāraṃpariyo (ka.) thero ….
+… Pārāpariyo ⟪ pārāsariyo (sī.), pāraṃpariyo (ka.) ⟫ thero ….
 7. Yasattheragāthā
 117.
  ‘‘Suvilitto suvasano,sabbābharaṇabhūsito;
@@ -680,7 +680,7 @@ Tisso vijjā ajjhagamiṃ, kataṃ buddhassa sāsana’’nti.
 118.
  ‘‘Abhisattova nipatati, vayo rūpaṃ aññamiva tatheva santaṃ;
 Tasseva sato avippavasato, aññasseva sarāmi attāna’’nti.
-… Kimilo kimbilo (sī. syā.) thero….
+… Kimilo ⟪ kimbilo (sī. syā.) ⟫ thero….
 9. Vajjiputtattheragāthā
 119.
  ‘‘Rukkhamūlagahanaṃ pasakkiya, nibbānaṃ hadayasmiṃ opiya;

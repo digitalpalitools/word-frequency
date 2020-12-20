@@ -1,13 +1,13 @@
 ﻿4. Saccavibhaṅgo
 1. Suttantabhājanīyaṃ
-189. Cattāri  ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ dukkhasamudayo (syā.) ariyasaccaṃ, dukkhanirodhaṃ dukkhanirodho (syā.) ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ.
+189. Cattāri  ariyasaccāni – dukkhaṃ ariyasaccaṃ, dukkhasamudayaṃ ⟪ dukkhasamudayo (syā.) ⟫ ariyasaccaṃ, dukkhanirodhaṃ ⟪ dukkhanirodho (syā.) ⟫ ariyasaccaṃ, dukkhanirodhagāminī paṭipadā ariyasaccaṃ.
 1. Dukkhasaccaṃ
 190. Tattha katamaṃ dukkhaṃ ariyasaccaṃ? Jātipi dukkhā, jarāpi dukkhā, maraṇampi dukkhaṃ, sokaparidevadukkhadomanassupāyāsāpi dukkhā, appiyehi  sampayogo dukkho, piyehi vippayogo dukkho, yaṃ picchaṃ na labhati tampi dukkhaṃ, saṃkhittena pañcupādānakkhandhā dukkhā.
 191. Tattha katamā jāti? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jāti sañjāti okkanti abhinibbatti khandhānaṃ pātubhāvo āyatanānaṃ paṭilābho – ayaṃ vuccati ‘‘jāti’’.
 192. Tattha katamā jarā? Yā tesaṃ tesaṃ sattānaṃ tamhi tamhi sattanikāye jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – ayaṃ vuccati ‘‘jarā’’.
 193. Tattha katamaṃ maraṇaṃ? Yā tesaṃ tesaṃ sattānaṃ tamhā tamhā sattanikāyā cuti cavanatā  bhedo antaradhānaṃ maccu maraṇaṃ kālakiriyā khandhānaṃ bhedo kaḷevarassa nikkhepo jīvitindriyassupacchedo – idaṃ vuccati ‘‘maraṇaṃ’’.
 194. Tattha katamo soko? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa  diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa soko socanā socitattaṃ antosoko antoparisoko cetaso parijjhāyanā domanassaṃ sokasallaṃ – ayaṃ vuccati ‘‘soko’’.
-195. Tattha  katamo paridevo? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā  phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṃ paridevitattaṃ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṃ lālapo lālapanā lālapitattaṃ (syā.) – ayaṃ vuccati ‘‘paridevo’’.
+195. Tattha  katamo paridevo? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā  phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa ādevo paridevo ādevanā paridevanā ādevitattaṃ paridevitattaṃ vācā palāpo vippalāpo lālappo lālappanā lālappitattaṃ ⟪ lālapo lālapanā lālapitattaṃ (syā.) ⟫ – ayaṃ vuccati ‘‘paridevo’’.
 196. Tattha katamaṃ dukkhaṃ? Yaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ vuccati ‘‘dukkhaṃ’’.
 197. Tattha katamaṃ domanassaṃ? Yaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ vuccati ‘‘domanassaṃ’’.
 198. Tattha katamo upāyāso? Ñātibyasanena vā phuṭṭhassa bhogabyasanena vā phuṭṭhassa rogabyasanena vā phuṭṭhassa sīlabyasanena vā phuṭṭhassa diṭṭhibyasanena vā phuṭṭhassa aññataraññatarena byasanena samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso upāyāso āyāsitattaṃ upāyāsitattaṃ – ayaṃ vuccati ‘‘upāyāso’’.
@@ -18,7 +18,7 @@ Jarādhammānaṃ sattānaṃ…pe… byādhidhammānaṃ sattānaṃ…pe… ma
 202. Tattha katame saṃkhittena pañcupādānakkhandhā dukkhā? Seyyathidaṃ – rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime vuccanti ‘‘saṃkhittena  pañcupādānakkhandhā dukkhā’’.
 Idaṃ vuccati ‘‘dukkhaṃ ariyasaccaṃ’’.
 2. Samudayasaccaṃ
-203. Tattha  katamaṃ dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobhavikā ponobbhavikā (syā. ka.) nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ – kāmataṇhā, bhavataṇhā, vibhavataṇhā.
+203. Tattha  katamaṃ dukkhasamudayaṃ ariyasaccaṃ? Yāyaṃ taṇhā ponobhavikā ⟪ ponobbhavikā (syā. ka.) ⟫ nandirāgasahagatā tatratatrābhinandinī, seyyathidaṃ – kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 Sā kho panesā taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? Yaṃ loke piyarūpaṃ sātarūpaṃ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 Kiñca loke piyarūpaṃ sātarūpaṃ? Cakkhuṃ loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṃ loke…pe…  ghānaṃ loke… jivhā loke… kāyo loke… mano loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 Rūpā loke piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Saddā loke…pe… gandhā loke… rasā loke… phoṭṭhabbā loke… dhammā loke  piyarūpaṃ sātarūpaṃ. Etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
@@ -65,10 +65,10 @@ Tattha katamo dukkhanirodho? Taṇhāya pahānaṃ – ayaṃ vuccati ‘‘dukk
 Tattha katamā dukkhanirodhagāminī paṭipadā? Idha bhikkhu yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā, vivicceva kāmehi…pe… paṭhamaṃ  jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye aṭṭhaṅgiko maggo hoti sammādiṭṭhi…pe… sammāsamādhi.
 Tattha katamā sammādiṭṭhi? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammādiṭṭhi’’.
 Tattha katamo sammāsaṅkappo? Yo takko vitakko…pe… sammāsaṅkappo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāsaṅkappo’’.
-Tattha  katamā sammāvācā? Yā catūhi vacīduccaritehi ārati virati paṭivirati veramaṇī veramaṇi (ka.) evamuparipi akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāvācā maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāvācā’’.
+Tattha  katamā sammāvācā? Yā catūhi vacīduccaritehi ārati virati paṭivirati veramaṇī ⟪ veramaṇi (ka.) evamuparipi ⟫ akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāvācā maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāvācā’’.
 Tattha  katamo sammākammanto? Yā tīhi kāyaduccaritehi ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammākammanto  maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammākammanto’’.
 Tattha katamo sammāājīvo? Yā micchā ājīvā ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāājīvo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati  ‘‘sammāājīvo’’.
-Tattha katamo sammāvāyāmo? Yo cetasiko vīriyārambho viriyārambho (sī. syā.) …pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāvāyāmo’’.
+Tattha katamo sammāvāyāmo? Yo cetasiko vīriyārambho ⟪ viriyārambho (sī. syā.) ⟫ …pe… sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāvāyāmo’’.
 Tattha katamā sammāsati? Yā sati anussati…pe… sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāsati’’.
 Tattha katamo sammāsamādhi? Yā cittassa ṭhiti saṇṭhiti…pe… sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati ‘‘sammāsamādhi’’. Ayaṃ vuccati ‘‘dukkhanirodhagāminī paṭipadā’’. Avasesā dhammā dukkhanirodhagāminiyā paṭipadāya sampayuttā.
 207. Tattha katamo dukkhasamudayo? Taṇhā ca avasesā ca kilesā – ayaṃ vuccati ‘‘dukkhasamudayo’’.
