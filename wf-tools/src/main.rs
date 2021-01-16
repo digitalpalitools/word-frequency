@@ -4,13 +4,13 @@ use std::io::{self, BufRead};
 use std::path::Path;
 use std::{env, fs::File};
 
-/*
-- remove non-leaf nodes from UI
-- messagebox in UI
-- deployment changes to webui
-*/
-
+// TODO: remove non-leaf nodes from UI
+// TODO: messagebox in UI
+// TODO: deployment changes to webui
 // TODO: Does not handle duplicate lines in the node list file.
+//
+// TODO: Heading line
+// TODO: Count
 fn main() {
     let args: Vec<String> = env::args().collect();
     if args.len() != 3 {
@@ -70,7 +70,7 @@ fn merge_records_into_hash_map(
 // TODO: How to make file &str instead of String?
 // TODO: How to return HasMap<&str, usize> instead of HasMap<String, usize>?
 // TODO: How do I return Iterator<Item = (String, usize)> instead of creating a vector?
-fn get_records_from_csv_file<'a>(wf_file_path: String) -> Vec<(String, usize)> {
+fn get_records_from_csv_file(wf_file_path: String) -> Vec<(String, usize)> {
     let wf_file = File::open(&wf_file_path);
     if wf_file.is_err() {
         println!(

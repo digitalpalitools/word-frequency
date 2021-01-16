@@ -23,10 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: wf-tools
+        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
+
+      - name: Verify pwd
+        run: echo $PWD
 
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
@@ -46,10 +49,13 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: wf-tools
+        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
+
+      - name: Verify pwd
+        run: echo $PWD
 
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
@@ -69,10 +75,13 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: wf-tools
+        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
+
+      - name: Verify pwd
+        run: echo $PWD
 
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
