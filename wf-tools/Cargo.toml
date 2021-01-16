@@ -1,0 +1,17 @@
+[package]
+name = "wf_tools"
+version = "0.1.0"
+authors = ["Digital Pāli Tools <digitalpalitools@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.1.5"
+colored = "2.0.0"
+
+[dev-dependencies]
+cargo-watch = "7.5.0"
+proptest = "0.10.1"
+test-case = "1.1.0"
+
+[profile.release]
+opt-level = "s" # Optimize for small code size.
