@@ -21,9 +21,6 @@ jobs:
   rust-check:
     name: Rust Check
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
@@ -43,13 +40,11 @@ jobs:
         continue-on-error: false
         with:
           command: check
+          args: --manifest-path ./wf-tools/Cargo.toml
 
   rust-test:
     name: Rust Test Suite
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
@@ -69,13 +64,11 @@ jobs:
         continue-on-error: false
         with:
           command: test
+          args: --manifest-path ./wf-tools/Cargo.toml
 
   rust-lints:
     name: Rust Lints
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./wf-tools
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
@@ -96,14 +89,14 @@ jobs:
         continue-on-error: false
         with:
           command: fmt
-          args: --all -- --check
+          args: --manifest-path ./wf-tools/Cargo.toml --all -- --check
 
       - name: Run cargo clippy
         uses: actions-rs/cargo@v1
         continue-on-error: false
         with:
           command: clippy
-          args: --all-targets --all-features -- -D warnings
+          args: --manifest-path ./wf-tools/Cargo.toml --all-targets --all-features -- -D warnings
 
   finish:
     name: Finish
