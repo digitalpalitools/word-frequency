@@ -1,18 +1,9 @@
-use std::collections::HashMap;
+use std::collections::{HashMap, HashSet};
 use std::io::Write;
 use std::io::{self, BufRead};
 use std::path::Path;
 use std::{env, fs::File};
 
-// TODO: remove non-leaf nodes from UI
-// TODO: messagebox in UI
-// TODO: deployment changes to webui
-// TODO: Does not handle duplicate lines in the node list file.
-//
-// TODO: Heading line
-// TODO: Count
-// TODO: With filtering out: +suttas-khp has different wf than +4_nikayas
-//
 fn main() {
     let args: Vec<String> = env::args().collect();
     if args.len() != 3 {
@@ -34,8 +25,16 @@ fn main() {
         return;
     }
 
-    let lines = res.unwrap();
+    let lines = res
+        .unwrap()
+        .filter_map(get_line)
+        .fold(HashSet::new(), |mut acc, e| {
+            acc.insert(e);
+            acc
+        });
+
     let wf_map = lines
+        .iter()
         .filter_map(move |l| get_wf_path_from_line(wf_base_path, l))
         .map(get_records_from_csv_file)
         .fold(HashMap::new(), merge_records_into_hash_map);
@@ -46,12 +45,22 @@ fn main() {
         return;
     }
 
-    let mut out_file = out_file.unwrap();
+    let out_file = out_file.unwrap();
+    let ret = writeln!(&out_file, "Pāli,Frequency,Length{}", "");
+    if ret.is_err() {
+        println!("Error: Unable to write line {:#?}", ret);
+        return;
+    }
+
     let mut wf_list: Vec<_> = wf_map.iter().collect();
     wf_list.sort_by(|&x, &y| y.1.cmp(x.1));
-    wf_list
-        .iter()
-        .for_each(|(word, freq)| writeln!(out_file, "{},{}", word, freq).unwrap());
+    wf_list.iter().for_each(|(word, freq)| {
+        let length = corelib::string_length(word);
+        let ret = writeln!(&out_file, "{},{},{}", word, freq, length);
+        if ret.is_err() {
+            println!("Error: Unable to write line {:#?}", ret);
+        }
+    });
 }
 
 fn merge_records_into_hash_map(
@@ -114,13 +123,17 @@ fn get_records_from_csv_file(wf_file_path: String) -> Vec<(String, usize)> {
     recs.collect()
 }
 
-fn get_wf_path_from_line(wf_base_path: &str, l: Result<String, io::Error>) -> Option<String> {
+fn get_line(l: Result<String, io::Error>) -> Option<String> {
     if l.is_err() {
         println!("Error: Unable to read line due to error {:#?}", l);
         return None;
     }
 
-    let wf_file = Path::new(wf_base_path).join(format!("{}.wf.csv", l.unwrap()));
+    Some(l.unwrap())
+}
+
+fn get_wf_path_from_line(wf_base_path: &str, l: &String) -> Option<String> {
+    let wf_file = Path::new(wf_base_path).join(format!("{}.wf.csv", l));
     if !wf_file.exists() {
         println!("Error: Path {:#?} does not exist!", wf_file);
         return None;

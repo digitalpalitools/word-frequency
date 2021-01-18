@@ -7,6 +7,7 @@ edition = "2018"
 [dependencies]
 csv = "1.1.5"
 colored = "2.0.0"
+corelib = { git = "https://github.com/digitalpalitools/core-lib" }
 
 [dev-dependencies]
 cargo-watch = "7.5.0"

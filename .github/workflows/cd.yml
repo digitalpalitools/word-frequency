@@ -25,9 +25,6 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v2
 
-      - name: Verify pwd
-        run: echo $PWD
-
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
         with:
@@ -49,9 +46,6 @@ jobs:
       - name: Checkout sources
         uses: actions/checkout@v2
 
-      - name: Verify pwd
-        run: echo $PWD
-
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
         with:
@@ -72,9 +66,6 @@ jobs:
     steps:
       - name: Checkout sources
         uses: actions/checkout@v2
-
-      - name: Verify pwd
-        run: echo $PWD
 
       - name: Install stable toolchain
         uses: actions-rs/toolchain@v1
@@ -112,6 +103,6 @@ jobs:
           HOOK_OS_NAME: ${{ runner.os }}
           WORKFLOW_NAME: ${{ github.workflow }}
         run: |
-          git clone https://github.com/DiscordHooks/github-actions-discord-webhook.git webhook
+          git clone https://github.com/DiscordHooks/github-actions-discord-webhook webhook
           bash webhook/send.sh $JOB_STATUS $WEBHOOK_URL
         shell: bash
