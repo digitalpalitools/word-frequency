@@ -46,7 +46,7 @@ fn main() {
     }
 
     let out_file = out_file.unwrap();
-    let ret = writeln!(&out_file, "Pāli,Frequency,Length{}", "");
+    let ret = writeln!(&out_file, "Pāli,Frequency,Length");
     if ret.is_err() {
         println!("Error: Unable to write line {:#?}", ret);
         return;
