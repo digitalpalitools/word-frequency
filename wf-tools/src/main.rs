@@ -132,7 +132,7 @@ fn get_line(l: Result<String, io::Error>) -> Option<String> {
     Some(l.unwrap())
 }
 
-fn get_wf_path_from_line(wf_base_path: &str, l: &String) -> Option<String> {
+fn get_wf_path_from_line(wf_base_path: &str, l: &str) -> Option<String> {
     let wf_file = Path::new(wf_base_path).join(format!("{}.wf.csv", l));
     if !wf_file.exists() {
         println!("Error: Path {:#?} does not exist!", wf_file);
