@@ -173,11 +173,11 @@ where
     Ok(io::BufReader::new(file).lines())
 }
 
-fn p(str: ColoredString) -> () {
+fn p(str: ColoredString) {
     print!("{}", str)
 }
 
-fn pln(str: ColoredString) -> () {
+fn pln(str: ColoredString) {
     println!("{}", str)
 }
 
