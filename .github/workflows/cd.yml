@@ -60,6 +60,13 @@ jobs:
           command: test
           args: --manifest-path ./wf-tools/Cargo.toml
 
+      - name: Run E2E tests
+        run: |
+          echo "$PWD"
+          cargo run --manifest-path ./wf-tools/Cargo.toml -- ./wf-tools/test/cscd/ ./wf-tools/test/selected-nodes.txt
+          ./wf-tools/test/run-test.ps1
+        shell: pwsh
+
   rust-lints:
     name: Rust Lints
     runs-on: ubuntu-latest
