@@ -1,5 +1,5 @@
-non-existent.xml
-node1.xml
+non-existent.xml,xyx
+node1.xml,some random name
 node2.xml
-node3.xml
+node3.xml,?
 node3.xml

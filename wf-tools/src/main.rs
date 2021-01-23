@@ -32,6 +32,9 @@ fn main() {
     let lines = res
         .unwrap()
         .filter_map(get_line)
+        .filter_map(move |l| get_wf_path_from_line(wf_base_path, &l));
+
+    let lines = lines
         .fold(LinkedHashSet::new(), |mut acc, e| {
             if acc.contains(&e) {
                 pln(format!("Ignoring duplicate file {}", &e).yellow());
@@ -43,8 +46,7 @@ fn main() {
 
     let wf_map = lines
         .iter()
-        .filter_map(move |l| get_wf_path_from_line(wf_base_path, l))
-        .map(get_records_from_csv_file)
+        .map(|x| get_records_from_csv_file(x))
         .fold(HashMap::new(), merge_records_into_hash_map);
     pln(format!("Total records {:#?}", wf_map.len()).green());
 
@@ -87,10 +89,9 @@ fn merge_records_into_hash_map(
     })
 }
 
-// TODO: How to make file &str instead of String?
 // TODO: How to return HasMap<&str, usize> instead of HasMap<String, usize>?
 // TODO: How do I return Iterator<Item = (String, usize)> instead of creating a vector?
-fn get_records_from_csv_file(wf_file_path: String) -> Vec<(String, usize)> {
+fn get_records_from_csv_file(wf_file_path: &str) -> Vec<(String, usize)> {
     p(format!("Processing {:#?}", wf_file_path).green());
 
     let wf_file = File::open(&wf_file_path);
@@ -150,7 +151,13 @@ fn get_line(l: Result<String, io::Error>) -> Option<String> {
 }
 
 fn get_wf_path_from_line(wf_base_path: &str, l: &str) -> Option<String> {
-    let wf_file = Path::new(wf_base_path).join(format!("{}.wf.csv", l));
+    let wf_file = l.split(",").nth(0);
+    if wf_file.is_none() {
+        pln(format!("Ignoring empty line! '{}'", l).yellow());
+        return None;
+    }
+
+    let wf_file = Path::new(wf_base_path).join(format!("{}.wf.csv", wf_file.unwrap()));
     if !wf_file.exists() {
         pln(format!("Ignoring {} as path {:#?} does not exist!", l, wf_file).yellow());
         return None;
