@@ -150,7 +150,7 @@ fn get_line(l: Result<String, io::Error>) -> Option<String> {
 }
 
 fn get_wf_path_from_line(wf_base_path: &str, l: &str) -> Option<String> {
-    let wf_file = l.split(",").nth(0);
+    let wf_file = l.split(',').next();
     if wf_file.is_none() {
         pln(format!("Ignoring empty line! '{}'", l).yellow());
         return None;
