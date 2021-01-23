@@ -34,15 +34,14 @@ fn main() {
         .filter_map(get_line)
         .filter_map(move |l| get_wf_path_from_line(wf_base_path, &l));
 
-    let lines = lines
-        .fold(LinkedHashSet::new(), |mut acc, e| {
-            if acc.contains(&e) {
-                pln(format!("Ignoring duplicate file {}", &e).yellow());
-            }
+    let lines = lines.fold(LinkedHashSet::new(), |mut acc, e| {
+        if acc.contains(&e) {
+            pln(format!("Ignoring duplicate file {}", &e).yellow());
+        }
 
-            acc.insert(e);
-            acc
-        });
+        acc.insert(e);
+        acc
+    });
 
     let wf_map = lines
         .iter()
