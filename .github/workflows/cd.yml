@@ -1,7 +1,9 @@
-name: Continuous Deployment
+name: Continuous Integration
 
 on:
   push:
+    branches: [ master ]
+  pull_request:
     branches: [ master ]
 
 jobs:
@@ -103,7 +105,7 @@ jobs:
     steps:
       - uses: actions/setup-ruby@v1
       - name: Notify DPT on Discord
-        if: always()
+        if: github.event_name != 'pull_request'
         env:
           JOB_STATUS: ${{ job.status }}
           WEBHOOK_URL: ${{ secrets.DISCORD_DPT_WF_WEBHOOK_URL }}

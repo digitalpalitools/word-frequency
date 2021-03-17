@@ -1,8 +1,10 @@
-[![Continuous Deployment](https://github.com/digitalpalitools/wordFreq/workflows/Continuous%20Deployment/badge.svg)](https://github.com/digitalpalitools/wordFreq/actions?query=workflow%3A%22Continuous+Deployment%22)
+[![Continuous Integration](https://github.com/digitalpalitools/pure-machine-readable-corpus/workflows/Continuous%20Integration/badge.svg)](https://github.com/digitalpalitools/pure-machine-readable-corpus/actions?query=workflow%3A%22Continuous+Integration%22) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Tipitaka Word Frequency data
+# Pure Machine Readable Corpus
 
-Inclusion and exclusion data for generating the Pāli word frequency. Also contains the scripts to regenerate them.
+Rule driven generation of pure machine readable corpus from the various tipiṭaka sources (VRI, BJT, TT).
+
+Additionally generate word frequency and related data from the above.
 
 # Instructions
 
