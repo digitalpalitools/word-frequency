@@ -65,7 +65,7 @@ fn main() {
     let mut wf_list: Vec<_> = wf_map.iter().collect();
     wf_list.sort_by(|&x, &y| y.1.cmp(x.1));
     wf_list.iter().for_each(|(word, freq)| {
-        let length = corelib::string_length(word);
+        let length = pls_core::alphabet::string_length(word);
         let ret = writeln!(&out_file, "{},{},{}", word, freq, length);
         if ret.is_err() {
             pln(format!("Error: Unable to write line {:#?}", ret).red());

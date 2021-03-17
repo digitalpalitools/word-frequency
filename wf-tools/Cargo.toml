@@ -5,10 +5,10 @@ authors = ["Digital Pāli Tools <digitalpalitools@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-csv = "1.1.5"
-colored = "2.0.0"
-linked_hash_set = "0.1.4"
-corelib = { git = "https://github.com/digitalpalitools/core-lib" }
+csv = "1.0"
+colored = "2.0"
+linked_hash_set = "0.1"
+pls_core = { git = "https://github.com/digitalpalitools/pali-language-services" }
 
 [dev-dependencies]
 cargo-watch = "7.5.0"

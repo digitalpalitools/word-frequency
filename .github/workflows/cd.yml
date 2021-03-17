@@ -34,12 +34,12 @@ jobs:
           toolchain: stable
           override: true
 
-      - name: Run cargo check
+      - name: Run cargo build
         uses: actions-rs/cargo@v1
         continue-on-error: false
         with:
-          command: check
-          args: --manifest-path ./wf-tools/Cargo.toml
+          command: build
+          args: --manifest-path ./wf-tools/Cargo.toml --release
 
   rust-test:
     name: Rust Test Suite
